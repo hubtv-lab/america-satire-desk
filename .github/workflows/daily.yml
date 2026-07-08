@@ -35,13 +35,15 @@ jobs:
         # 以降のコミットは行われない → 既存の daily.json は壊れない
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          IMAGE_QUALITY: ${{ vars.IMAGE_QUALITY || 'medium' }}
         run: python scripts/generate_daily.py
 
       - name: Commit and push results
         run: |
           git config user.name "satire-desk-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add daily.json daily.js archive
+          git add daily.json daily.js archive images
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
