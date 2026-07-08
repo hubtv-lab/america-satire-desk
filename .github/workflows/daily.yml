@@ -1,0 +1,50 @@
+name: Generate daily satire candidates
+
+on:
+  schedule:
+    # UTC 19:50 = 日本時間 4:50。GitHubのcronは混雑時に15〜60分遅れることが
+    # あるため、朝5時に欲しい場合は少し早めに設定している。
+    - cron: "50 19 * * *"
+  workflow_dispatch: {}   # Actionsタブから手動実行もできる
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-generate
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate daily.json
+        # スクリプトが失敗(exit 1)した場合、このステップで止まり、
+        # 以降のコミットは行われない → 既存の daily.json は壊れない
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/generate_daily.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "satire-desk-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add daily.json daily.js archive
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "daily: $(date -u +%Y-%m-%d) candidates"
+            git push
+          fi
