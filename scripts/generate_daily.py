@@ -53,11 +53,50 @@ IMAGE_MODEL = os.environ.get("IMAGE_MODEL", "gpt-image-1.5")
 IMAGE_QUALITY = os.environ.get("IMAGE_QUALITY", "medium")  # low / medium / high
 IMAGE_SIZE = os.environ.get("IMAGE_SIZE", "1536x1024")     # 横長（カードの形に合う）
 IMAGE_KEEP_DAYS = 60   # これより古い日付の画像フォルダは自動削除（リポジトリ肥大防止）
-IMAGE_STYLE_SUFFIX = (
-    " Editorial cartoon style, cross-hatching ink illustration, muted colors, "
-    "newspaper satire aesthetic. Do not depict any real, identifiable person. "
-    "No watermarks."
+# --- 画風プリセット（毎朝5候補に別々のスタイルを割り当て、日替わりでローテーション） ---
+# ※ 実在アーティスト名はプロンプトに入れない方針（権利・倫理面 + API側で拒否されうるため）。
+#   各作風のエッセンスを言語化した記述を使う。
+# IMAGE_STYLE にプリセット名（例: "retro-pop"）を設定すると、その画風だけで固定できる。
+STYLE_PRESETS = [
+    ("classic-cartoon",
+     "Classic editorial cartoon style: cross-hatching ink illustration, muted colors, "
+     "vintage newspaper satire aesthetic."),
+    ("retro-pop",
+     "Retro pop advertising illustration: clean confident linework, flat vivid colors, "
+     "stylish figures, 1980s Japanese city-pop magazine aesthetic, fashionable and airy."),
+    ("bold-graphic",
+     "Bold contemporary graphic illustration: thick expressive black marker linework, "
+     "playful hand-drawn shapes, high-contrast palette of red, blue, yellow and black, "
+     "energetic mural-like composition."),
+    ("anime-digital",
+     "Polished digital illustration: anime-influenced character design, soft cinematic "
+     "lighting, painterly color gradients, glossy modern finish."),
+    ("editorial-modern",
+     "Modern editorial op-ed illustration: conceptual and minimalist, sophisticated muted "
+     "palette, generous negative space, clever visual metaphor, prestigious newspaper "
+     "opinion-page style."),
+    ("soft-3d",
+     "Soft 3D rendered illustration: rounded stylized characters, gentle studio lighting, "
+     "matte textures, contemporary tech-brand aesthetic."),
+]
+IMAGE_STYLE = os.environ.get("IMAGE_STYLE", "")  # 空=ローテーション / プリセット名=固定
+SAFETY_SUFFIX = (
+    " Do not depict any real, identifiable person. No watermarks. No text captions "
+    "unless the scene requires a small sign or label."
 )
+
+def style_for(candidate_index: int, today: str) -> tuple[str, str]:
+    """候補ごとの画風を返す。日付でローテーションが1つずつずれる。"""
+    if IMAGE_STYLE:
+        for key, desc in STYLE_PRESETS:
+            if key == IMAGE_STYLE:
+                return key, desc
+        print(f"[warn] unknown IMAGE_STYLE '{IMAGE_STYLE}' — falling back to rotation")
+    day_offset = sum(int(x) for x in today.replace("-", ""))  # 日付から決まる安定オフセット
+    key, desc = STYLE_PRESETS[(day_offset + candidate_index) % len(STYLE_PRESETS)]
+    return key, desc
+
+
 
 # ニュースソース（無料RSS）。政治に偏らないよう分野を混ぜている。
 # 追加・削除はこのリストを編集するだけでよい。
@@ -194,7 +233,7 @@ JSONスキーマ:
         {"contradiction": "<別表現>", "absurdity": "<別表現>", "outside": "<別表現>"}
       ],
       "imagePrompts": [
-        "<英語。editorial cartoon風の画像プロンプト>",
+        "<英語。場面描写のみの画像プロンプト。構図・登場要素・皮肉の視覚化に集中し、画風（cartoon等のスタイル語）は書かない>",
         "<別アングル>",
         "<別アングル>"
       ],
@@ -325,14 +364,15 @@ def validate_picks(data: dict, items: list[dict]) -> list[dict]:
 #   - 失敗しても daily.json の生成は止めない（画像なし＝プレースホルダー表示）
 # ----------------------------------------------------------------
 
-def openai_generate_image(prompt: str) -> bytes:
+def openai_generate_image(prompt: str, style_desc: str = "") -> bytes:
     """OpenAIの画像APIで1枚生成し、PNGバイト列を返す。"""
+    full_prompt = prompt + " " + style_desc + SAFETY_SUFFIX
     resp = requests.post(
         "https://api.openai.com/v1/images/generations",
         headers={"Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}"},
         json={
             "model": IMAGE_MODEL,
-            "prompt": prompt + IMAGE_STYLE_SUFFIX,
+            "prompt": full_prompt,
             "size": IMAGE_SIZE,
             "quality": IMAGE_QUALITY,
             "n": 1,
@@ -369,14 +409,16 @@ def generate_images(candidates: list[dict], today: str) -> None:
     ok = 0
     for i, c in enumerate(candidates, start=1):
         prompt = c["imagePrompts"][0]
+        style_key, style_desc = style_for(i - 1, today)
         try:
             print(f"[info] generating image {i}/{len(candidates)} "
-                  f"(model={IMAGE_MODEL}, quality={IMAGE_QUALITY})")
-            raw = openai_generate_image(prompt)
+                  f"(model={IMAGE_MODEL}, quality={IMAGE_QUALITY}, style={style_key})")
+            raw = openai_generate_image(prompt, style_desc)
             data = compress_to_jpeg(raw)
             path = day_dir / f"candidate-{i}{ext}"
             path.write_bytes(data)
             c["image"] = f"images/{today}/candidate-{i}{ext}"  # アプリが読む相対パス
+            c["imageStyle"] = style_key  # 使った画風の記録（アプリ側は無視してOK）
             ok += 1
             print(f"[ok] image {i}: {path.name} ({len(data)//1024} KB)")
         except Exception as e:
