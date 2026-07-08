@@ -75,6 +75,10 @@ def main() -> int:
         print("[error] OPENAI_API_KEY is not set", file=sys.stderr)
         return 1
     OUT_DIR.mkdir(exist_ok=True)
+    # 前回のサンプルを掃除（プリセット名を変えた際に古い画像が残らないように）
+    for old in OUT_DIR.glob("style-*.*"):
+        old.unlink()
+        print(f"[info] removed old sample: {old.name}")
     ext = ".jpg" if HAS_PIL else ".png"
     ok = 0
     for key, desc in STYLE_PRESETS:

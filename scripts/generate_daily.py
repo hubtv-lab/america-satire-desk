@@ -64,10 +64,11 @@ STYLE_PRESETS = [
     ("retro-pop",
      "Retro pop advertising illustration: clean confident linework, flat vivid colors, "
      "stylish figures, 1980s Japanese city-pop magazine aesthetic, fashionable and airy."),
-    ("bold-graphic",
-     "Bold contemporary graphic illustration: thick expressive black marker linework, "
-     "playful hand-drawn shapes, high-contrast palette of red, blue, yellow and black, "
-     "energetic mural-like composition."),
+    ("watercolor-sketch",
+     "Warm mid-century American storytelling illustration in light watercolor and "
+     "pencil sketch: airy transparent washes, soft gentle brush touch, delicate visible "
+     "pencil underdrawing, warm nostalgic palette, tender humane character expressions. "
+     "Light and breathable like a study on paper — never heavy opaque oil paint."),
     ("anime-digital",
      "Polished digital illustration: anime-influenced character design, soft cinematic "
      "lighting, painterly color gradients, glossy modern finish."),
