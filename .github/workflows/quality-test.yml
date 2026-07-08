@@ -1,0 +1,40 @@
+name: Image quality test
+
+on:
+  workflow_dispatch: {}   # 手動実行専用（medium と high を1枚ずつ生成して比較）
+
+permissions:
+  contents: write
+
+jobs:
+  quality-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Generate medium & high samples
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: python scripts/quality_test.py
+
+      - name: Commit and push results
+        run: |
+          git config user.name "satire-desk-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add quality-test
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "quality test: medium vs high samples"
+            git push
+          fi
