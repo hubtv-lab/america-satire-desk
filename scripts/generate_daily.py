@@ -21,6 +21,8 @@ America Satire Desk — daily.json / daily.js 自動生成スクリプト
   SATIRE_MODEL       … 任意。既定は claude-sonnet-4-6
 """
 
+import base64
+import io
 import json
 import os
 import re
@@ -30,11 +32,32 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 import feedparser
+import requests
 from anthropic import Anthropic
+
+try:
+    from PIL import Image as PILImage
+    HAS_PIL = True
+except ImportError:
+    HAS_PIL = False
 
 # ----------------------------------------------------------------
 # 設定（ここを編集すればカスタマイズできる）
 # ----------------------------------------------------------------
+
+# --- 画像生成（OpenAI）の設定 ---
+# OPENAI_API_KEY が未設定なら画像生成は自動スキップされ、
+# アプリはこれまで通りプレースホルダーを表示する（安全なフォールバック）。
+IMAGE_ENABLED = bool(os.environ.get("OPENAI_API_KEY"))
+IMAGE_MODEL = os.environ.get("IMAGE_MODEL", "gpt-image-1.5")
+IMAGE_QUALITY = os.environ.get("IMAGE_QUALITY", "medium")  # low / medium / high
+IMAGE_SIZE = os.environ.get("IMAGE_SIZE", "1536x1024")     # 横長（カードの形に合う）
+IMAGE_KEEP_DAYS = 60   # これより古い日付の画像フォルダは自動削除（リポジトリ肥大防止）
+IMAGE_STYLE_SUFFIX = (
+    " Editorial cartoon style, cross-hatching ink illustration, muted colors, "
+    "newspaper satire aesthetic. Do not depict any real, identifiable person. "
+    "No watermarks."
+)
 
 # ニュースソース（無料RSS）。政治に偏らないよう分野を混ぜている。
 # 追加・削除はこのリストを編集するだけでよい。
@@ -67,6 +90,7 @@ ROOT = Path(__file__).resolve().parent.parent  # リポジトリのルート
 OUT_JSON = ROOT / "daily.json"
 OUT_JS = ROOT / "daily.js"
 ARCHIVE_DIR = ROOT / "archive"
+IMAGES_DIR = ROOT / "images"
 
 # ----------------------------------------------------------------
 # 1. RSS取得
@@ -296,6 +320,85 @@ def validate_picks(data: dict, items: list[dict]) -> list[dict]:
 
 
 # ----------------------------------------------------------------
+# 3.5. 風刺画の実画像生成（OpenAI gpt-image）
+#   - 各候補の imagePrompts[0] から1枚生成し、images/日付/ に保存
+#   - 失敗しても daily.json の生成は止めない（画像なし＝プレースホルダー表示）
+# ----------------------------------------------------------------
+
+def openai_generate_image(prompt: str) -> bytes:
+    """OpenAIの画像APIで1枚生成し、PNGバイト列を返す。"""
+    resp = requests.post(
+        "https://api.openai.com/v1/images/generations",
+        headers={"Authorization": f"Bearer {os.environ['OPENAI_API_KEY']}"},
+        json={
+            "model": IMAGE_MODEL,
+            "prompt": prompt + IMAGE_STYLE_SUFFIX,
+            "size": IMAGE_SIZE,
+            "quality": IMAGE_QUALITY,
+            "n": 1,
+        },
+        timeout=300,
+    )
+    if resp.status_code != 200:
+        raise RuntimeError(f"image API HTTP {resp.status_code}: {resp.text[:200]}")
+    return base64.b64decode(resp.json()["data"][0]["b64_json"])
+
+
+def compress_to_jpeg(png_bytes: bytes, max_width: int = 1280, quality: int = 82) -> bytes:
+    """PNGを縮小JPEGに変換（リポジトリ肥大防止: 1枚 数MB → 100〜300KB程度）。
+    Pillowが無い環境ではPNGのまま返す。"""
+    if not HAS_PIL:
+        return png_bytes
+    img = PILImage.open(io.BytesIO(png_bytes)).convert("RGB")
+    if img.width > max_width:
+        img = img.resize((max_width, int(img.height * max_width / img.width)),
+                         PILImage.LANCZOS)
+    buf = io.BytesIO()
+    img.save(buf, format="JPEG", quality=quality, optimize=True)
+    return buf.getvalue()
+
+
+def generate_images(candidates: list[dict], today: str) -> None:
+    """候補ごとに1枚ずつ画像を生成。個別失敗はスキップ、全体は止めない。"""
+    if not IMAGE_ENABLED:
+        print("[info] OPENAI_API_KEY not set — skipping image generation (placeholders will be used)")
+        return
+    day_dir = IMAGES_DIR / today
+    day_dir.mkdir(parents=True, exist_ok=True)
+    ext = ".jpg" if HAS_PIL else ".png"
+    ok = 0
+    for i, c in enumerate(candidates, start=1):
+        prompt = c["imagePrompts"][0]
+        try:
+            print(f"[info] generating image {i}/{len(candidates)} "
+                  f"(model={IMAGE_MODEL}, quality={IMAGE_QUALITY})")
+            raw = openai_generate_image(prompt)
+            data = compress_to_jpeg(raw)
+            path = day_dir / f"candidate-{i}{ext}"
+            path.write_bytes(data)
+            c["image"] = f"images/{today}/candidate-{i}{ext}"  # アプリが読む相対パス
+            ok += 1
+            print(f"[ok] image {i}: {path.name} ({len(data)//1024} KB)")
+        except Exception as e:
+            print(f"[warn] image {i} failed (placeholder will be shown): {e}", file=sys.stderr)
+    print(f"[info] images generated: {ok}/{len(candidates)}")
+    prune_old_images()
+
+
+def prune_old_images() -> None:
+    """IMAGE_KEEP_DAYS より古い日付フォルダを削除してリポジトリの肥大を防ぐ。"""
+    if not IMAGES_DIR.exists():
+        return
+    cutoff = (datetime.now(JST) - timedelta(days=IMAGE_KEEP_DAYS)).strftime("%Y-%m-%d")
+    for d in sorted(IMAGES_DIR.iterdir()):
+        if d.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", d.name) and d.name < cutoff:
+            for f in d.iterdir():
+                f.unlink()
+            d.rmdir()
+            print(f"[info] pruned old images: {d.name}")
+
+
+# ----------------------------------------------------------------
 # 4. 出力（アトミック書き込み）
 # ----------------------------------------------------------------
 
@@ -305,8 +408,7 @@ def atomic_write(path: Path, text: str) -> None:
     tmp.replace(path)
 
 
-def write_outputs(candidates: list[dict]) -> None:
-    today = datetime.now(JST).strftime("%Y-%m-%d")
+def write_outputs(candidates: list[dict], today: str) -> None:
     daily = {
         "version": 1,
         "date": today,
@@ -347,7 +449,14 @@ def main() -> int:
             print(f"[info] calling Claude (attempt {attempt}/{MAX_ATTEMPTS}, model={MODEL})")
             data = call_claude(client, items)
             candidates = validate_picks(data, items)
-            write_outputs(candidates)
+            today = datetime.now(JST).strftime("%Y-%m-%d")
+            # 画像生成は「おまけ」扱い: 全滅しても daily.json は出す
+            try:
+                generate_images(candidates, today)
+            except Exception as e:
+                print(f"[warn] image stage failed entirely (placeholders will be shown): {e}",
+                      file=sys.stderr)
+            write_outputs(candidates, today)
             print("[done] generation succeeded")
             return 0
         except Exception as e:

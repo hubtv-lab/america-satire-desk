@@ -228,6 +228,7 @@
     background:var(--surface-2); box-shadow:var(--shadow-sm);
   }
   .figure-wrap svg{ display:block; width:100%; height:auto; }
+  .figure-wrap img.real-img{ display:block; width:100%; height:auto; }
   .prompt-box{
     border-top:1px dashed var(--line);
     padding:11px 13px;
@@ -826,6 +827,7 @@ function normalizeCandidates(raw){
       captionsJa,
       newsEn: String(c.newsEn || (news.headline ? news.headline + "." : "")),
       ironyEn,
+      image: (typeof c.image === "string" && c.image.trim()) ? c.image.trim() : null,
       imageSeed: Number.isFinite(c.imageSeed) ? c.imageSeed : idx + 1
     };
   });
@@ -896,6 +898,24 @@ function isSavedToday(id){
   return state.archive.some(a => a.candidateId === id && a.savedDate === today);
 }
 
+/* 画像パスの拡張子（.jpg / .png）。不明なら .png */
+function imgExt(path){
+  const m = String(path || "").match(/\.[a-z0-9]+$/i);
+  return m ? m[0].toLowerCase() : ".png";
+}
+
+/* カードの図版: バリエーション0でAI生成画像があれば実画像、
+   なければ（または読み込み失敗時は）SVGプレースホルダー */
+function candidateFigureHtml(c, v){
+  const variant = v.img % c.imagePrompts.length;
+  if (c.image && variant === 0){
+    return `<img class="real-img" src="${esc(c.image)}" alt="satirical illustration"
+      onerror="this.style.display='none'; this.nextElementSibling.style.display='block'">
+      <div class="fig" style="display:none">${placeholderSVG(c.imageSeed, 0, esc(c.id.toUpperCase()))}</div>`;
+  }
+  return `<div class="fig">${placeholderSVG(c.imageSeed, variant, esc(c.id.toUpperCase()))}</div>`;
+}
+
 function renderCards(){
   const wrap = document.getElementById("cards");
   wrap.innerHTML = "";
@@ -929,7 +949,7 @@ function renderCards(){
 
         <div class="slug image"><span class="dot"></span>SATIRICAL IMAGE (placeholder)</div>
         <div class="figure-wrap">
-          <div class="fig">${placeholderSVG(c.imageSeed, v.img, esc(c.id.toUpperCase()))}</div>
+          ${candidateFigureHtml(c, v)}
           <div class="prompt-box"><span class="k">image prompt ›</span> ${esc(c.imagePrompts[v.img % c.imagePrompts.length])}</div>
         </div>
 
@@ -1012,8 +1032,9 @@ function saveCandidate(id){
     ironyEn: c.ironyEn,
     commentary: c.commentary,
     imagePrompt: c.imagePrompts[v.img % c.imagePrompts.length],
-    imageVariant: v.img,
+    imageVariant: v.img % c.imagePrompts.length,
     imageSeed: c.imageSeed,
+    image: c.image || null,
     caption: c.captions[v.cap % c.captions.length],
     captionJa: c.captionsJa[v.cap % c.captionsJa.length],
     altCaption: c.captions[(v.cap+1) % c.captions.length],
@@ -1272,14 +1293,29 @@ function buildZip(files){ // files: [{ name: string, data: Uint8Array }]
   return new Blob(parts, { type: "application/zip" });
 }
 
-async function downloadImagesAsZip(items, zipName){ // items: [{ svg, filename }]
+async function downloadImagesAsZip(items, zipName){ // items: [{ svg, url?, filename }]
   toast("ZIPを作成しています…");
   try {
     const files = [];
     for (const it of items){
-      const blob = await svgStringToPngBlob(it.svg);
+      let blob = null;
+      let name = it.filename;
+      if (it.url){
+        // AI生成の実画像を取得。失敗したらプレースホルダーPNGに切り替え
+        try {
+          const r = await fetch(it.url, { cache: "no-store" });
+          if (!r.ok) throw new Error("HTTP " + r.status);
+          blob = await r.blob();
+        } catch(e){
+          blob = null;
+        }
+      }
+      if (!blob){
+        blob = await svgStringToPngBlob(it.svg);
+        name = name.replace(/\.[a-z0-9]+$/i, ".png");
+      }
       const buf = await blob.arrayBuffer();
-      files.push({ name: it.filename, data: new Uint8Array(buf) });
+      files.push({ name, data: new Uint8Array(buf) });
     }
     const zip = buildZip(files);
     const url = URL.createObjectURL(zip);
@@ -1290,7 +1326,7 @@ async function downloadImagesAsZip(items, zipName){ // items: [{ svg, filename }
     a.click();
     document.body.removeChild(a);
     setTimeout(() => URL.revokeObjectURL(url), 4000);
-    toast(`${zipName}（PNG ${files.length}枚入り）をダウンロードしました`);
+    toast(`${zipName}（${files.length}枚入り）をダウンロードしました`);
   } catch(e){
     toast("ZIPの作成に失敗しました: " + (e && e.message ? e.message : e));
   }
@@ -1299,9 +1335,12 @@ async function downloadImagesAsZip(items, zipName){ // items: [{ svg, filename }
 function downloadAllImages(){
   const items = CANDIDATES.map((c, idx) => {
     const v = state.vary[c.id];
+    const variant = v.img % c.imagePrompts.length;
+    const useReal = !!c.image && variant === 0;
     return {
-      svg: placeholderSVG(c.imageSeed, v.img, c.id.toUpperCase()),
-      filename: `punchline-republic-candidate-${idx + 1}.png`
+      svg: placeholderSVG(c.imageSeed, variant, c.id.toUpperCase()),
+      url: useReal ? c.image : null,
+      filename: `punchline-republic-candidate-${idx + 1}` + (useReal ? imgExt(c.image) : ".png")
     };
   });
   downloadImagesAsZip(items, "punchline-republic-candidates.zip");
@@ -1343,6 +1382,7 @@ function buildArticleText(){
     const caption = c.captions[v.cap % c.captions.length];        // 現在選択中のCaption（英文のみ）
     const prompt  = c.imagePrompts[v.img % c.imagePrompts.length]; // 現在選択中のimage prompt
     const irony   = c.ironyEn[artSeed % c.ironyEn.length];         // 表現バリエーション
+    const fileExt = (!!c.image && (v.img % c.imagePrompts.length) === 0) ? imgExt(c.image) : ".png";
     return `## ${caption}
 
 NEWS / EVENT:
@@ -1354,7 +1394,7 @@ THE IRONY:
 - Outside View: ${irony.outside}
 
 Suggested image:
-Use Candidate ${idx + 1} satirical image. (file: punchline-republic-candidate-${idx + 1}.png)
+Use Candidate ${idx + 1} satirical image. (file: punchline-republic-candidate-${idx + 1}${fileExt})
 Image prompt: ${prompt}`;
   }).join("\n\n---\n\n");
 
@@ -1456,6 +1496,7 @@ function buildWeeklyTopText(picks){
   const blocks = picks.map((a, i) => {
     const { newsEn, irony } = weeklySourceFor(a);
     const strength = PUNCHLINE_STRENGTH_TEMPLATES[(weekSeed + i) % PUNCHLINE_STRENGTH_TEMPLATES.length](a.caption);
+    const fileExt = (!!a.image && (a.imageVariant || 0) === 0) ? imgExt(a.image) : ".png";
     return `## #${i + 1} ${a.caption}
 
 NEWS / EVENT:
@@ -1467,7 +1508,7 @@ WHY IT MADE THE WEEK:
 - Outside View: ${irony.outside}
 
 Suggested image:
-Use archived image for this item. (file: punchline-republic-weekly-top-${i + 1}.png)
+Use archived image for this item. (file: punchline-republic-weekly-top-${i + 1}${fileExt})
 
 Image prompt:
 ${a.imagePrompt}`;
@@ -1517,10 +1558,14 @@ function generateWeeklyTop5(){
 
 function downloadWeeklyTopImages(){
   if (!weeklyTopPicks.length){ toast("先に Weekly Top 5 を生成してください"); return; }
-  const items = weeklyTopPicks.map((a, i) => ({
-    svg: placeholderSVG(a.imageSeed, a.imageVariant, "TOP" + (i + 1)),
-    filename: `punchline-republic-weekly-top-${i + 1}.png`
-  }));
+  const items = weeklyTopPicks.map((a, i) => {
+    const useReal = !!a.image && a.imageVariant === 0;
+    return {
+      svg: placeholderSVG(a.imageSeed, a.imageVariant, "TOP" + (i + 1)),
+      url: useReal ? a.image : null,
+      filename: `punchline-republic-weekly-top-${i + 1}` + (useReal ? imgExt(a.image) : ".png")
+    };
+  });
   downloadImagesAsZip(items, "punchline-republic-weekly-top-images.zip");
 }
 
@@ -1611,17 +1656,21 @@ function drawSlide(ctx, slide, t){
     ctx.fillStyle = "#FFFDF8";
     ctx.font = "bold 46px " + ROUND;
     ctx.fillText("#" + (slide.rank), SLIDE_W/2, 206);
-    // 画像（軽いズームイン）
+    // 画像（軽いズームイン・実画像の縦横比に合わせてカバー表示）
     if (slide.img){
       const zoom = 1 + 0.08 * t;
-      const iw = 620 * zoom, ih = iw * (340/640);
-      ctx.save();
       const rx = 50, ry = 300, rw = 620, rh = 620 * (340/640);
+      const ratio = (slide.img.height && slide.img.width)
+        ? slide.img.height / slide.img.width : (340/640);
+      let iw = rw, ih = rw * ratio;
+      if (ih < rh){ ih = rh; iw = rh / ratio; }
+      iw *= zoom; ih *= zoom;
+      ctx.save();
       ctx.beginPath();
       if (ctx.roundRect) ctx.roundRect(rx, ry, rw, rh, 20);
       else ctx.rect(rx, ry, rw, rh);
       ctx.clip();
-      ctx.drawImage(slide.img, SLIDE_W/2 - iw/2, ry + rh/2 - ih/2, iw, ih);
+      ctx.drawImage(slide.img, rx + rw/2 - iw/2, ry + rh/2 - ih/2, iw, ih);
       ctx.restore();
     }
     // Caption（大きく重ねる）
@@ -1727,6 +1776,23 @@ function copySlideshowNarration(){
   } else fallbackCopy(text, done);
 }
 
+/* スライドショー用の画像読み込み: AI生成の実画像があれば使い、
+   無い/読めない場合はプレースホルダーSVGにフォールバック */
+function loadPickImage(a, i){
+  const fallback = () =>
+    svgToImage(placeholderSVG(a.imageSeed, a.imageVariant || 0, "TOP" + (i + 1)).trim())
+      .catch(() => null);
+  if (a.image && (a.imageVariant || 0) === 0){
+    return new Promise((resolve) => {
+      const img = new Image();
+      img.onload = () => resolve(img);
+      img.onerror = () => fallback().then(resolve);
+      img.src = a.image;
+    });
+  }
+  return fallback();
+}
+
 async function playSlideshow(record){
   if (slideshowBusy){ toast("再生・録画の処理中です。終わるまでお待ちください"); return; }
   const canvas = document.getElementById("slideCanvas");
@@ -1735,12 +1801,9 @@ async function playSlideshow(record){
   const ctx = canvas.getContext("2d");
 
   try {
-    // 画像の事前ラスタライズ
+    // 画像の事前準備（実画像 or プレースホルダー）
     setSlideStatus("画像を準備中…");
-    const imgs = await Promise.all(slideshowPicks.map((a, i) =>
-      svgToImage(placeholderSVG(a.imageSeed, a.imageVariant, "TOP" + (i + 1)).trim())
-        .catch(() => null) // ラスタライズ失敗時は画像なしで続行
-    ));
+    const imgs = await Promise.all(slideshowPicks.map((a, i) => loadPickImage(a, i)));
     const slides = [
       { type:"title", dur:CARD_MS },
       ...slideshowPicks.map((a, i) => ({ type:"item", dur:ITEM_MS, rank:i+1, caption:a.caption, img:imgs[i] })),
