@@ -1,0 +1,1765 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>America Satire Desk — Mock</title>
+<style>
+  /* ============================================================
+     America Satire Desk — soft cream edition (mock v0.2)
+     Single-file / no external requests / offline OK
+     機能は v0.1 と同一。デザインのみ刷新。
+     ============================================================ */
+  :root{
+    /* palette: cream / beige / soft gray / dusty navy / calm orange-red */
+    --bg:        #F6F1E7;   /* warm cream */
+    --surface:   #FFFDF8;   /* card */
+    --surface-2: #F3EDE0;   /* inner panel */
+    --line:      #E7DECC;   /* soft divider */
+    --text:      #453F36;   /* warm charcoal */
+    --muted:     #9C9077;   /* soft khaki gray */
+    --navy:      #5F7291;   /* dusty navy (labels / links) */
+    --amber:     #E2A44E;   /* soft amber (marker) */
+    --coral:     #CD6B57;   /* calm orange-red (stamp / primary) */
+    --green:     #7FA383;   /* sage (saved) */
+    --shadow:    0 6px 20px rgba(122, 100, 62, .10);
+    --shadow-sm: 0 2px 8px  rgba(122, 100, 62, .08);
+    --round: "Hiragino Maru Gothic ProN", "ヒラギノ丸ゴ ProN",
+             ui-rounded, "SF Pro Rounded",
+             "Yu Gothic", "游ゴシック", "Meiryo", sans-serif;
+    --serif: Georgia, "Times New Roman", "Hiragino Mincho ProN", serif;
+    --mono:  "SF Mono", Menlo, Consolas, monospace;
+  }
+  *{ box-sizing:border-box; margin:0; padding:0; }
+  html{ -webkit-text-size-adjust:100%; }
+  body{
+    background:var(--bg);
+    color:var(--text);
+    font-family:var(--round);
+    font-size:15px;
+    line-height:1.75;
+    padding-bottom:96px; /* room for bottom tab bar */
+  }
+  ::selection{ background:var(--amber); color:#fff; }
+
+  /* ---------- masthead ---------- */
+  header.masthead{
+    position:sticky; top:0; z-index:20;
+    background:rgba(246,241,231,.92);
+    backdrop-filter:blur(10px);
+    border-bottom:1px solid var(--line);
+    padding:16px 18px 12px;
+  }
+  .masthead-row{ display:flex; align-items:baseline; justify-content:space-between; gap:8px; }
+  h1.brand{
+    font-family:var(--round);
+    font-size:19px; font-weight:800; letter-spacing:.04em;
+    color:var(--navy);
+  }
+  h1.brand .desk{
+    color:var(--coral);
+    position:relative; padding:0 2px;
+  }
+  h1.brand .desk::after{
+    content:""; position:absolute; left:0; right:0; bottom:2px;
+    height:6px; background:var(--amber); opacity:.35; border-radius:3px;
+    z-index:-1;
+  }
+  .edition{
+    font-family:var(--mono); font-size:10.5px; color:var(--muted);
+    text-align:right; line-height:1.5; letter-spacing:.06em;
+  }
+  .edition b{ color:var(--navy); font-weight:600; }
+
+  /* ---------- bottom tab bar ---------- */
+  nav.tabs{
+    position:fixed; left:0; right:0; bottom:0; z-index:30;
+    display:flex; gap:6px;
+    background:rgba(255,253,248,.95);
+    backdrop-filter:blur(12px);
+    border-top:1px solid var(--line);
+    padding:8px 10px calc(8px + env(safe-area-inset-bottom));
+    box-shadow:0 -4px 16px rgba(122,100,62,.06);
+  }
+  nav.tabs button{
+    flex:1; padding:11px 4px;
+    background:none; border:none; border-radius:14px;
+    color:var(--muted);
+    font-family:var(--round); font-size:12px; font-weight:700; letter-spacing:.05em;
+    cursor:pointer;
+    transition:background .15s ease, color .15s ease;
+  }
+  nav.tabs button .n{
+    display:inline-block; min-width:19px; margin-left:5px;
+    font-family:var(--mono); font-size:10.5px;
+    background:var(--surface-2); border-radius:10px; padding:1px 6px;
+  }
+  nav.tabs button.active{ color:#fff; background:var(--navy); }
+  nav.tabs button.active .n{ background:rgba(255,255,255,.25); color:#fff; }
+
+  main{ max-width:640px; margin:0 auto; padding:20px 16px 32px; }
+  .view{ display:none; }
+  .view.active{ display:block; }
+  .lede{ color:var(--muted); font-size:13px; margin-bottom:18px; }
+
+  /* ---------- candidate card ---------- */
+  article.card{
+    position:relative;
+    background:var(--surface);
+    border:1px solid var(--line);
+    border-radius:22px;
+    box-shadow:var(--shadow);
+    margin-bottom:26px;
+    overflow:hidden;
+  }
+  /* galley spine: candidate number down the left edge */
+  .spine{
+    position:absolute; top:0; bottom:0; left:0; width:40px;
+    border-right:1px dashed var(--line);
+    background:linear-gradient(to bottom, #FBF7EE, #F7F1E4);
+    display:flex; flex-direction:column; align-items:center;
+    padding-top:14px; gap:12px;
+  }
+  .spine .no{
+    width:24px; height:24px; border-radius:50%;
+    display:flex; align-items:center; justify-content:center;
+    background:var(--amber); color:#fff;
+    font-family:var(--round); font-size:13px; font-weight:800;
+    box-shadow:var(--shadow-sm);
+  }
+  .spine .vlabel{
+    writing-mode:vertical-rl;
+    font-family:var(--mono); font-size:8.5px; letter-spacing:.35em;
+    color:var(--muted); text-transform:uppercase; opacity:.8;
+  }
+  .card-body{ padding:18px 16px 18px 54px; }
+
+  /* rubber stamp — softened */
+  .stamp{
+    position:absolute; top:12px; right:12px;
+    transform:rotate(4deg);
+    font-family:var(--mono); font-size:9.5px; letter-spacing:.22em;
+    color:var(--coral); border:1.5px dashed var(--coral);
+    border-radius:999px; padding:3px 11px;
+    background:rgba(205,107,87,.06);
+    pointer-events:none;
+  }
+  .stamp.saved{
+    color:var(--green); border-color:var(--green);
+    background:rgba(127,163,131,.08); transform:rotate(-3deg);
+  }
+
+  /* section slug headers */
+  .slug{
+    display:flex; align-items:center; gap:8px;
+    font-family:var(--round); font-size:11px; font-weight:800;
+    letter-spacing:.16em; color:var(--navy); text-transform:uppercase;
+    margin:20px 0 9px;
+  }
+  .slug::after{ content:""; flex:1; height:1px; background:var(--line); opacity:.7; }
+  .slug .dot{ width:8px; height:8px; border-radius:50%; background:var(--amber); }
+  .slug.commentary .dot{ background:var(--coral); }
+  .slug.image .dot{ background:var(--navy); }
+  .slug.caption .dot{ background:var(--green); }
+  .slug:first-child{ margin-top:2px; }
+
+  /* ---------- NEWS / EVENT pastel panels (per candidate) ---------- */
+  .news-panel{
+    border-radius:16px;
+    border:1px solid transparent;
+    padding:13px 14px 14px;
+    margin:2px 0 6px;
+  }
+  .news-panel .slug{ margin-top:0; }
+  .news-panel .slug::after{ opacity:.45; }
+  .news-panel .summary, .news-panel h2.headline{ color:#443F35; }
+  .news-panel .meta{ color:#8B8271; }
+  /* 1: 薄い黄色 */
+  .news-panel.tone-1{ background:#FBF3D3; border-color:#EFE0A9; }
+  .news-panel.tone-1 .slug .dot{ background:#D9A824; }
+  /* 2: 薄い水色 */
+  .news-panel.tone-2{ background:#E1EFF6; border-color:#C6DEEA; }
+  .news-panel.tone-2 .slug .dot{ background:#5F93B5; }
+  /* 3: 薄いオレンジ */
+  .news-panel.tone-3{ background:#FBE7D5; border-color:#F0D1B3; }
+  .news-panel.tone-3 .slug .dot{ background:#D9863F; }
+  /* 4: 薄い緑 */
+  .news-panel.tone-4{ background:#E3F0DF; border-color:#C9E0C3; }
+  .news-panel.tone-4 .slug .dot{ background:#6FA063; }
+  /* 5: 薄い紫 */
+  .news-panel.tone-5{ background:#EBE5F5; border-color:#D6CCE9; }
+  .news-panel.tone-5 .slug .dot{ background:#8C79B8; }
+
+  h2.headline{
+    font-family:var(--round); font-size:18px; line-height:1.5;
+    font-weight:800; color:#3B3F4E;
+    margin-bottom:9px; padding-right:60px;
+  }
+  .meta{
+    display:flex; flex-wrap:wrap; gap:6px 14px;
+    font-family:var(--mono); font-size:11px; color:var(--muted);
+    margin-bottom:9px;
+  }
+  .meta a{ color:var(--navy); text-decoration:none; word-break:break-all; }
+  .meta a:active{ text-decoration:underline; }
+  .summary{ font-size:14px; }
+
+  ul.points{ list-style:none; }
+  ul.points li{
+    position:relative; padding-left:22px; margin-bottom:13px; font-size:14px;
+  }
+  ul.points li::before{
+    content:"❋"; position:absolute; left:0; top:3px;
+    color:var(--coral); font-size:12px;
+  }
+  /* 小見出し（矛盾 / 滑稽さ / 日本・海外から見ると）: 本文より一回り大きく */
+  ul.points li b{
+    display:block;
+    font-family:var(--round);
+    font-size:15.5px; font-weight:800;
+    color:var(--navy);
+    letter-spacing:.02em;
+    line-height:1.5;
+    margin-bottom:2px;
+  }
+
+  .figure-wrap{
+    border:1px solid var(--line); border-radius:16px; overflow:hidden;
+    background:var(--surface-2); box-shadow:var(--shadow-sm);
+  }
+  .figure-wrap svg{ display:block; width:100%; height:auto; }
+  .prompt-box{
+    border-top:1px dashed var(--line);
+    padding:11px 13px;
+    font-family:var(--mono); font-size:11.5px; line-height:1.7;
+    color:var(--muted); word-break:break-word;
+    background:#FBF7EE;
+  }
+  .prompt-box .k{ color:var(--navy); font-weight:600; }
+
+  .caption-box{
+    background:var(--surface-2);
+    border-left:4px solid var(--amber);
+    border-radius:6px 14px 14px 6px;
+    padding:12px 14px; margin-bottom:9px;
+  }
+  .caption-box.alt{ border-left-color:var(--line); }
+  .caption-box .lbl{
+    font-family:var(--round); font-size:9.5px; font-weight:800;
+    letter-spacing:.18em; color:var(--muted); text-transform:uppercase;
+    display:block; margin-bottom:3px;
+  }
+  .caption-box .txt{ font-family:var(--serif); font-size:14.5px; font-style:italic; color:#4C463C; }
+  .caption-box .txt-ja{
+    font-family:var(--round); font-size:12.5px; font-style:normal;
+    color:#8B8271; line-height:1.7; margin-top:3px;
+  }
+
+  /* ---------- buttons ---------- */
+  .btn-row{ display:flex; flex-wrap:wrap; gap:9px; margin-top:18px; }
+  button.btn{
+    font-family:var(--round); font-size:12.5px; font-weight:700;
+    padding:10px 15px; border-radius:999px; cursor:pointer;
+    border:1px solid var(--line);
+    background:#FBF8F1; color:var(--navy);
+    box-shadow:var(--shadow-sm);
+    transition:transform .08s ease, background .15s ease;
+  }
+  button.btn:active{ transform:scale(.95); background:var(--surface-2); }
+  button.btn.primary{
+    background:var(--coral); border-color:var(--coral); color:#fff;
+    box-shadow:0 4px 14px rgba(205,107,87,.30);
+  }
+  button.btn.saved-state{
+    background:var(--green); border-color:var(--green); color:#fff;
+    box-shadow:0 4px 14px rgba(127,163,131,.30);
+  }
+  button.btn:focus-visible, nav.tabs button:focus-visible{
+    outline:2px solid var(--navy); outline-offset:2px;
+  }
+
+  /* ---------- archive ---------- */
+  .arch-item{
+    background:var(--surface); border:1px solid var(--line);
+    border-radius:18px; box-shadow:var(--shadow-sm);
+    padding:14px 16px; margin-bottom:13px;
+  }
+  .arch-item .h{ font-family:var(--round); font-size:15px; font-weight:800; color:#3B3F4E; margin-bottom:3px; }
+  .arch-item .cap{ font-family:var(--serif); font-size:13px; font-style:italic; color:var(--muted); margin-bottom:8px; }
+  .arch-item .row{ display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+  .arch-item .d{ font-family:var(--mono); font-size:10.5px; color:var(--muted); margin-right:auto; }
+  .arch-item button.mini{
+    font-family:var(--round); font-size:11.5px; font-weight:700;
+    padding:6px 11px; border-radius:999px;
+    background:#FBF8F1; border:1px solid var(--line); color:var(--muted); cursor:pointer;
+  }
+  .arch-item button.mini:active{ background:var(--surface-2); }
+  .empty{
+    border:1.5px dashed var(--line); border-radius:18px;
+    background:rgba(255,253,248,.6);
+    padding:30px 20px; text-align:center; color:var(--muted); font-size:13.5px;
+  }
+
+  /* ---------- weekly compilation output ---------- */
+  .comp-actions{
+    display:flex; flex-direction:column; gap:10px;
+    margin:14px 0 20px;
+  }
+  .comp-actions .btn{ width:100%; padding:14px 15px; font-size:14px; }
+
+  /* ---------- today's article ---------- */
+  .article-actions{
+    display:flex; flex-direction:column; gap:10px;
+    margin:4px 0 22px;
+  }
+  .article-actions .btn{ width:100%; padding:14px 15px; font-size:14px; }
+  section.comp pre.article-pre{
+    font-size:13.5px; line-height:1.85;
+    max-height:70vh; overflow:auto;
+    -webkit-overflow-scrolling:touch;
+  }
+  .article-note{
+    font-size:11.5px; color:var(--muted); margin-top:8px; line-height:1.7;
+  }
+
+  /* ---------- weekly slideshow ---------- */
+  .video-wrap{
+    border:1px solid var(--line); border-radius:16px; overflow:hidden;
+    background:var(--surface-2); box-shadow:var(--shadow-sm);
+    margin-bottom:12px;
+  }
+  .video-wrap canvas{ display:block; width:100%; height:auto; }
+  .video-status{
+    font-family:var(--mono); font-size:11px; color:var(--muted);
+    letter-spacing:.08em; padding:9px 12px;
+    border-top:1px dashed var(--line); background:#FBF7EE;
+  }
+  /* スライドショー用 記事ピッカー */
+  .pick-list{ display:flex; flex-direction:column; gap:8px; margin-bottom:14px; }
+  label.pick-row{
+    display:flex; align-items:flex-start; gap:11px;
+    background:var(--surface-2); border:1px solid var(--line);
+    border-radius:14px; padding:12px 13px; cursor:pointer;
+  }
+  label.pick-row input{
+    width:20px; height:20px; accent-color:var(--coral);
+    margin-top:2px; flex:none;
+  }
+  .pick-body{ min-width:0; }
+  .pick-date{ font-family:var(--mono); font-size:10.5px; color:var(--muted); display:block; margin-bottom:2px; }
+  .pick-cap{ font-size:13.5px; font-weight:700; color:#3B3F4E; line-height:1.55; display:block; }
+  .pick-head{ font-size:11.5px; color:var(--muted); line-height:1.5; display:block; margin-top:1px; }
+  section.comp{
+    background:var(--surface); border:1px solid var(--line);
+    border-radius:22px; box-shadow:var(--shadow);
+    padding:18px 17px; margin-bottom:22px;
+  }
+  section.comp h3{
+    font-family:var(--round); font-size:16.5px; font-weight:800; color:var(--navy);
+    margin-bottom:4px;
+  }
+  section.comp .comp-block{ margin-top:16px; }
+  section.comp .comp-block .slug{ margin:0 0 7px; }
+  section.comp pre{
+    font-family:var(--round); font-size:13.5px; white-space:pre-wrap;
+    background:var(--surface-2); border-radius:14px; padding:13px 14px;
+    line-height:1.8;
+  }
+  section.comp .art-title{
+    font-family:var(--round); font-size:15.5px; font-weight:800; color:#3B3F4E;
+    background:var(--surface-2); border-left:4px solid var(--amber);
+    padding:11px 13px; border-radius:6px 14px 14px 6px;
+  }
+
+  /* ---------- toast ---------- */
+  #toast{
+    position:fixed; left:50%; bottom:92px; transform:translateX(-50%) translateY(20px);
+    background:var(--navy); color:#FFFDF8;
+    font-family:var(--round); font-size:13px; font-weight:700;
+    padding:10px 18px; border-radius:999px;
+    box-shadow:var(--shadow);
+    opacity:0; pointer-events:none;
+    transition:opacity .22s ease, transform .22s ease;
+    z-index:50; max-width:88vw; text-align:center;
+  }
+  #toast.show{ opacity:1; transform:translateX(-50%) translateY(0); }
+
+  @media (prefers-reduced-motion: reduce){
+    *{ transition:none !important; }
+  }
+</style>
+</head>
+<body>
+
+<header class="masthead">
+  <div class="masthead-row">
+    <h1 class="brand">America <span class="desk">Satire</span> Desk</h1>
+    <div class="edition">MORNING EDITION<br><b id="editionDate"></b></div>
+  </div>
+</header>
+
+<main>
+  <!-- ===== TODAY ===== -->
+  <div id="view-today" class="view active">
+    <p class="lede">今朝の候補 5 本（モックデータ）。気に入った候補は保存して Weekly Archive に貯めてください。</p>
+    <div id="cards"></div>
+    <div class="article-actions">
+      <button class="btn primary" id="btnArticle">📝 Generate Today’s Article（5つを記事化）</button>
+      <button class="btn" id="btnDownloadAll">🖼 Download All 5 Images（画像を一括保存）</button>
+    </div>
+    <div id="articleOut"></div>
+  </div>
+
+  <!-- ===== ARCHIVE ===== -->
+  <div id="view-archive" class="view">
+    <p class="lede">保存した候補の一覧です。ここから週末用の記事（Weekly Top 5）や動画素材（Weekly Video Kit）を生成できます。</p>
+    <div class="comp-actions">
+      <button class="btn primary" id="btnWeeklyTop5">🏆 Generate Weekly Top 5 Punchlines</button>
+      <button class="btn" id="btnSlideshow">🎬 Generate Weekly Slideshow Video</button>
+      <button class="btn" id="btnCompile">📼 Weekly Video Kit を生成</button>
+      <button class="btn" id="btnClearArchive">アーカイブを空にする</button>
+    </div>
+    <div id="weeklyTopOut"></div>
+    <div id="slideshowOut"></div>
+    <div id="compOut"></div>
+    <div id="archiveList"></div>
+  </div>
+</main>
+
+<nav class="tabs">
+  <button id="tab-today" class="active" onclick="switchView('today')">TODAY’S DESK</button>
+  <button id="tab-archive" onclick="switchView('archive')">WEEKLY ARCHIVE <span class="n" id="archCount">0</span></button>
+</nav>
+
+<div id="toast" role="status"></div>
+
+<script>
+"use strict";
+/* ================================================================
+   America Satire Desk — mock v0.2 (soft cream edition)
+   - モックデータのみ（外部API・自動投稿は一切なし）
+   - localStorage 保存（使えない環境ではメモリにフォールバック）
+   ================================================================ */
+
+/* ---------- safe storage (localStorage or in-memory fallback) ---------- */
+const storage = (() => {
+  const mem = {};
+  let ok = false;
+  try {
+    const k = "__asd_test__";
+    localStorage.setItem(k, "1");
+    localStorage.removeItem(k);
+    ok = true;
+  } catch (e) { ok = false; }
+  return {
+    persistent: ok,
+    get(key){
+      try { return ok ? localStorage.getItem(key) : (key in mem ? mem[key] : null); }
+      catch(e){ return mem[key] ?? null; }
+    },
+    set(key, val){
+      try { if (ok) localStorage.setItem(key, val); else mem[key] = val; }
+      catch(e){ mem[key] = val; }
+    },
+    remove(key){
+      try { if (ok) localStorage.removeItem(key); else delete mem[key]; }
+      catch(e){ delete mem[key]; }
+    }
+  };
+})();
+
+const STORE_KEY = "asd_archive_v1";
+
+/* ---------- mock candidates (5 per morning) ----------
+   ※ 実在の個人は登場させず、制度・組織・風潮を対象にした架空寄りのモックです。
+   本番ではニュースAPIから factual summary を取得する想定。 */
+const MOCK_CANDIDATES = [
+  {
+    id: "c1",
+    news: {
+      headline: "Congress Passes 3,000-Page Budget Bill Hours After Its Release",
+      source: "Capitol Wire (mock)",
+      date: "2026-07-08",
+      url: "https://example.com/news/budget-bill-3000-pages",
+      summary: "議会が約3,000ページの包括予算法案を、全文公開からわずか数時間で可決。多くの議員が「全文は読んでいない」と認めたが、採決は深夜に行われ賛成多数で成立した。"
+    },
+    commentary: [
+      "<b>矛盾:</b> 「透明性の府」を名乗る議会が、誰も読んでいない法案を「熟議の成果」として可決している。",
+      "<b>滑稽さ:</b> 3,000ページを数時間で読むには1分あたり約10ページ。速読世界大会なら金メダル級の読書力を全議員が持っている計算になる。",
+      "<b>日本・海外から見ると:</b> 「強行採決」を批判してきた米国メディアの語彙が、そのまま自国議会に返ってくるブーメラン構図。どの国の議会も深夜に強いという普遍性も皮肉。"
+    ],
+    imagePrompts: [
+      "Editorial cartoon, cross-hatching style: lawmakers in a relay race passing a giant 3,000-page bill like a baton, none of them looking at it, finish line labeled 'MIDNIGHT VOTE'.",
+      "Vintage newspaper cartoon: a senator asleep on a mountain of paper shaped like the Capitol dome, bookmark on page 2, caption plate reading 'Chapter One'.",
+      "Satirical illustration, muted inks: a speed-reading contest podium where every contestant is a politician holding the same unopened bill, gold medals for all."
+    ],
+    captions: [
+      "Congress finally found a book they all agree on: the one nobody read.",
+      "3,000 pages in 3 hours. And they say American kids have a reading problem.",
+      "It's not that they didn't read the bill. They're saving it for the beach.",
+      "They passed it at midnight. Even the bill didn't want to be seen with them.",
+      "They did check one page — the one with their salaries on it."
+    ],
+    captionsJa: [
+      "議会がついに全会一致で認めた本が誕生。誰も読んでいないやつです。",
+      "3,000ページを3時間で。それでも「読書離れ」は子どもの問題らしい。",
+      "読まなかったわけじゃない。夏のビーチの楽しみに取ってあるだけ。",
+      "可決は深夜0時。法案のほうも、彼らと一緒のところを見られたくなかったようで。",
+      "1ページだけはちゃんと確認しました——自分たちの給料が書いてあるページ。"
+    ],
+    newsEn: "Congress passed a roughly 3,000-page omnibus budget bill just hours after the full text was released. Several lawmakers acknowledged they had not read the complete document. The vote was held late at night, and the bill passed by a comfortable margin.",
+    ironyEn: [
+      {
+        contradiction: "A body that brands itself the home of transparency approved a document nobody in the room had actually read — then called it deliberation.",
+        absurdity: "Reading 3,000 pages in a few hours works out to roughly ten pages a minute. Either Congress is hiding a dynasty of speed-readers, or the pages were decorative.",
+        outside: "From abroad, the vocabulary American media reserves for other countries' rubber-stamp votes suddenly fits the home team. Apparently every legislature on Earth does its best work after midnight."
+      },
+      {
+        contradiction: "The institution that demands full disclosure from everyone else passed its own 3,000 pages on the honor system.",
+        absurdity: "The bill became law faster than it could have been read aloud once. That isn't legislation; that's a magic trick performed with paperwork.",
+        outside: "Viewers overseas recognize the move instantly — the midnight vote is a universal genre. America just performs it with more pages."
+      }
+    ],
+    imageSeed: 1
+  },
+  {
+    id: "c2",
+    news: {
+      headline: "Airline Introduces $25 Fee to Avoid Other Fees",
+      source: "Terminal Times (mock)",
+      date: "2026-07-08",
+      url: "https://example.com/news/airline-fee-to-avoid-fees",
+      summary: "大手航空会社が「手数料回避パッケージ」を発表。月額25ドルを払えば、座席指定料・手荷物料・搭乗順変更料などの各種手数料が免除されるサブスクリプション型サービスとして提供される。"
+    },
+    commentary: [
+      "<b>矛盾:</b> 手数料をなくすサービス自体が手数料。問題の解決策として問題そのものを販売している。",
+      "<b>滑稽さ:</b> 「殴られないためのチケット」を殴っている本人が売っている構図。ビジネスモデルとしては完璧、倫理としては前衛芸術。",
+      "<b>日本・海外から見ると:</b> 運賃に全部込みが基本の国から見ると、米国の空の旅は「基本料金という名の入場券」。自由の国は課金の自由も無限。"
+    ],
+    imagePrompts: [
+      "Editorial cartoon: an airline counter with a tollbooth in front of it, and a second tollbooth labeled 'SKIP TOLLBOOTH — $25' in front of the first one.",
+      "Satirical drawing, ink wash: a passenger paying a vending machine labeled 'FEE INSURANCE' while their suitcase feeds coins into another machine behind them.",
+      "Cross-hatched cartoon: a Russian nesting doll of price tags, each smaller tag reading 'fee to remove this fee', a tiny pilot saluting on top."
+    ],
+    captions: [
+      "This airline invented a fee so good, it protects you from all their other inventions.",
+      "It's not extortion. Extortion doesn't come with a loyalty program.",
+      "Coming soon: a fee to find out what the fees are.",
+      "They finally made flying simple — one payment to make the other payments go away.",
+      "For $25 a month, the airline promises to stop. That's not a service, that's a hostage deal."
+    ],
+    captionsJa: [
+      "この航空会社、画期的な手数料を発明。同社の他の発明品からあなたを守ってくれます。",
+      "恐喝ではありません。恐喝にはマイレージが付きませんから。",
+      "近日登場:手数料の内訳を知るための手数料。",
+      "空の旅がついにシンプルに——支払いを消すための支払い、一本化です。",
+      "月25ドル払えば、やめてくれるそうです。それはサービスじゃなくて人質交渉では。"
+    ],
+    newsEn: "A major U.S. airline announced a 'fee-avoidance package.' For $25 a month, subscribers are exempted from a range of charges, including seat selection, checked baggage, and boarding-order changes. The program is sold as a recurring subscription.",
+    ironyEn: [
+      {
+        contradiction: "The product being sold is relief from the seller. The airline identified its own fees as the problem and priced the solution accordingly.",
+        absurdity: "It is a business model with the logic of a tollbooth built in front of another tollbooth — plus a third booth selling the express lane.",
+        outside: "In countries where the ticket price is simply the price, this looks less like aviation and more like performance art about capitalism."
+      },
+      {
+        contradiction: "A company charging you to stop charging you has achieved something rare in commerce: a perfectly circular revenue stream.",
+        absurdity: "The subscription protects you from fees the same company invents. The only thing missing is a fee for canceling the protection.",
+        outside: "Travelers from all-inclusive-fare countries read the fine print like anthropologists documenting a newly discovered ritual."
+      }
+    ],
+    imageSeed: 2
+  },
+  {
+    id: "c3",
+    news: {
+      headline: "Tech Firm Lays Off Wellness Team, Cites Employee Burnout Costs",
+      source: "Valley Ledger (mock)",
+      date: "2026-07-08",
+      url: "https://example.com/news/wellness-team-layoff",
+      summary: "大手テック企業が社内ウェルネス（健康支援）チームを解散。理由として「従業員の燃え尽き症候群関連コストの削減」を挙げ、瞑想アプリの法人契約で代替すると発表した。"
+    },
+    commentary: [
+      "<b>矛盾:</b> 燃え尽き対策のコストを削るために、燃え尽き対策の担当者を燃え尽きさせて解雇している。",
+      "<b>滑稽さ:</b> 消火器が高いので消防士をクビにし、代わりに「火事を想像しないアプリ」を配る発想。",
+      "<b>日本・海外から見ると:</b> 「ウェルネス文化の本場」を自認するシリコンバレーが、福利厚生すらKPIで刈り取る様子は、過労文化を輸出してきた側の日本から見ても新鮮な倒錯。"
+    ],
+    imagePrompts: [
+      "Editorial cartoon: an office fire, and a manager handing employees a phone showing a meditation app that says 'BREATHE' while carrying the fire extinguisher to a dumpster labeled 'COST SAVINGS'.",
+      "Ink-style satire: a yoga instructor being escorted out of a glass office by security robots, whiteboard behind reads 'WELLNESS ROI: NEGATIVE'.",
+      "Cross-hatching cartoon: a giant hamster wheel labeled 'PRODUCTIVITY' with a tiny sticker on it reading 'now with mindfulness'."
+    ],
+    captions: [
+      "They cut the wellness team to reduce burnout. The math checks out — soon there's nobody left to burn.",
+      "The meditation app says 'you are enough.' HR says 'you are redundant.'",
+      "Nothing says 'we care' like firing the people whose job was caring.",
+      "Corporate mindfulness, step one: be present. Step two: not at your desk on Monday.",
+      "They replaced the wellness team with an app. Its first notification was a job listing."
+    ],
+    captionsJa: [
+      "燃え尽き対策としてウェルネスチームを削減。計算は合ってます——燃える人がいなくなるので。",
+      "瞑想アプリは言う、「あなたはそのままで十分」。人事は言う、「あなたは余剰です」。",
+      "「社員を大切に」の何よりの証明として、大切にする係をクビにしました。",
+      "企業マインドフルネス、第一歩:「今ここ」に集中する。第二歩:月曜からは「ここ」に来ない。",
+      "ウェルネスチームの後任はアプリです。最初の通知は、求人情報でした。"
+    ],
+    newsEn: "A large technology company dissolved its internal employee wellness team, citing the cost of burnout-related programs. The company said the team's functions would be replaced by an enterprise subscription to a meditation app.",
+    ironyEn: [
+      {
+        contradiction: "The plan reduces the cost of burnout by removing the people whose job was preventing it — roughly the logic of blaming the smoke detector for the fire.",
+        absurdity: "The replacement is an app that tells workers to breathe. The people who used to say that in person were, presumably, breathing too expensively.",
+        outside: "Silicon Valley exported wellness culture to the world and is now demonstrating that even care must clear a quarterly ROI bar. From Japan — a country that knows overwork — this reads as a familiar story with better branding."
+      },
+      {
+        contradiction: "A company worried about burnout costs eliminated the burnout team, which is certainly one way to make the line item disappear.",
+        absurdity: "It is the corporate equivalent of firing the fire brigade to save on hoses, then issuing everyone a photograph of water.",
+        outside: "Countries that spent years being lectured by American firms about work-life balance are taking notes — mostly in disbelief."
+      }
+    ],
+    imageSeed: 3
+  },
+  {
+    id: "c4",
+    news: {
+      headline: "State Debates Banning Phones in Schools, Livestreams Hearing on Six Platforms",
+      source: "Statehouse Signal (mock)",
+      date: "2026-07-08",
+      url: "https://example.com/news/phone-ban-livestream",
+      summary: "ある州議会が「学校でのスマートフォン全面禁止」法案を審議。皮肉にも公聴会は6つのSNSプラットフォームで同時ライブ配信され、議員たちは審議中にその配信への反応をスマホで確認していたと報じられた。"
+    },
+    commentary: [
+      "<b>矛盾:</b> 子どものスマホ依存を叱る大人たちが、その審議中に自分のスマホでバズを確認している。",
+      "<b>滑稽さ:</b> 「スマホは集中力を奪う」という主張を、スマホを見ながら読み上げる二重構造。プレゼン資料が主張の反証になっている。",
+      "<b>日本・海外から見ると:</b> 世界共通の「大人は例外」ルール。日本の『ながらスマホ禁止』ポスターを歩きスマホで貼る風景と完全に同じ味がする。"
+    ],
+    imagePrompts: [
+      "Editorial cartoon: lawmakers at a hearing about banning phones, every single one looking down at a glowing phone under the desk, a student in the gallery taking notes on paper.",
+      "Satirical ink drawing: a giant podium sign reading 'PHONES ARE THE PROBLEM' being photographed by twelve officials for their social media.",
+      "Cross-hatched cartoon: a 'DO AS I SAY' trophy shaped like a smartphone, awarded on a livestreamed stage."
+    ],
+    captions: [
+      "Lawmakers banned phones in schools — live, on six apps, while checking their mentions.",
+      "Kids can't have phones. Someone has to like the lawmakers' posts about it.",
+      "Great news for kids' attention spans: the bill trended for almost nine seconds.",
+      "'Phones ruin focus,' he said, glancing down. Twice. Mid-sentence.",
+      "They'll ban phones in schools right after this one last scroll."
+    ],
+    captionsJa: [
+      "議員たちが学校のスマホ禁止を可決——6つのアプリで生配信、リプ欄を確認しながら。",
+      "子どもはスマホ禁止です。誰かが議員の投稿に「いいね」を押さなきゃいけないので。",
+      "子どもの集中力に朗報:この法案、約9秒間トレンド入りしました。",
+      "「スマホは集中力を奪う」と彼は語った。手元を見ながら。一文の間に、二回。",
+      "学校のスマホ禁止、やりますよ——この最後のひとスクロールが終わったら、すぐに。"
+    ],
+    newsEn: "A state legislature debated a bill that would ban smartphones entirely in public schools. The hearing was livestreamed simultaneously on six social media platforms. Reporters noted that several lawmakers checked reactions to the stream on their own phones during the session.",
+    ironyEn: [
+      {
+        contradiction: "The adults voting to protect children from screens monitored their own screens throughout the vote — in real time, on six platforms.",
+        absurdity: "A hearing about attention spans ended up competing for attention in the very feeds it condemned. It won, for about nine seconds.",
+        outside: "The 'rules are for the young' clause appears to be universal. Every country has adults photographing a sign that says put the phone down."
+      },
+      {
+        contradiction: "The message was 'phones destroy focus.' The medium was a livestream the messengers kept refreshing mid-argument.",
+        absurdity: "The bill's strongest supporting evidence was the room itself: a dozen officials, one topic, and zero unbroken sentences.",
+        outside: "Overseas viewers recognize the scene instantly — the anti-distraction press conference, delivered to twelve distracted cameras."
+      }
+    ],
+    imageSeed: 4
+  },
+  {
+    id: "c5",
+    news: {
+      headline: "City Unveils $2M 'Walkability Plan' — Ribbon Cutting Held in Parking Lot",
+      source: "Metro Dispatch (mock)",
+      date: "2026-07-08",
+      url: "https://example.com/news/walkability-parking-lot",
+      summary: "米中西部のある都市が総額200万ドルの「歩きやすい街づくり計画」を発表。記念式典は市庁舎前ではなく、来賓の利便性を考慮して大型駐車場で開催され、出席者のほぼ全員が車で来場した。"
+    },
+    commentary: [
+      "<b>矛盾:</b> 歩ける街を祝う式典に、誰も歩いて来ていない。会場選定の時点で計画の敗北が完成している。",
+      "<b>滑稽さ:</b> 「車社会からの脱却」を宣言するマイクの電源が、アイドリング中のSUVから取られているような光景。",
+      "<b>日本・海外から見ると:</b> 駅から徒歩3分が当たり前の国から見ると、「歩く」がイベント化されるアメリカの車社会ぶりはほぼSF。歩行がニュースになる国。"
+    ],
+    imagePrompts: [
+      "Editorial cartoon: a ribbon-cutting ceremony for 'WALKABILITY PLAN' in the middle of an endless parking lot, a single pair of shoes on a pedestal like a museum piece.",
+      "Ink satire: a giant foot statue being delivered to a ceremony by three trucks, banner reads 'THE FUTURE IS WALKING'.",
+      "Cross-hatched cartoon: a crosswalk painted in a parking lot leading from one SUV to another, officials applauding."
+    ],
+    captions: [
+      "This city loves walking so much, everyone drove out to celebrate it.",
+      "A $2 million plan to walk more — and the nearest sidewalk is a 20-minute drive.",
+      "Attendance: 200 cars, 0 pedestrians. Technically everyone walked. From the parking lot.",
+      "The ribbon was cut. The engines were left running.",
+      "In America, walking is the future. The present is still circling for a parking spot."
+    ],
+    captionsJa: [
+      "この街は歩くことが大好き。だからお祝いには、全員が車で駆けつけました。",
+      "200万ドルの「もっと歩こう」計画——最寄りの歩道までは、車で20分。",
+      "来場者:車200台、歩行者0人。まあ厳密には全員歩きました。駐車場からは。",
+      "テープはカットされた。エンジンは、かけっぱなしのまま。",
+      "アメリカでは、歩くのは未来の話。現在はまだ、駐車スペースを探して旋回中。"
+    ],
+    newsEn: "A Midwestern city unveiled a $2 million 'walkability plan.' The ribbon-cutting ceremony was held in a large parking lot rather than at city hall, a location chosen for the convenience of attending officials. Nearly all attendees arrived by car.",
+    ironyEn: [
+      {
+        contradiction: "A celebration of walking that nobody walked to is not a launch event; it is a controlled demonstration of the problem.",
+        absurdity: "The venue defeated the plan before the ribbon was cut. The scissors may have been the only thing on site that traveled by hand.",
+        outside: "In countries where the train station is a three-minute stroll, the idea that walking requires a $2 million plan and a press conference reads like science fiction."
+      },
+      {
+        contradiction: "The city endorsed a car-free future from the middle of its largest monument to cars.",
+        absurdity: "Two million dollars to promote walking, and the first step of the plan was finding parking.",
+        outside: "Foreign readers keep checking whether this is a headline or the premise of a sketch. It is, technically, both."
+      }
+    ],
+    imageSeed: 5
+  }
+];
+
+/* ---------- placeholder satirical image (inline SVG, no network) ----------
+   ライトテーマに合わせて、クリーム背景 × くすみカラーのパレットに変更 */
+const SVG_PALETTES = [
+  { sky:"#F1E8D6", ink:"#5F7291", acc:"#E2A44E", pop:"#CD6B57", band:"#5F7291" },
+  { sky:"#EFE9DE", ink:"#7A6A8F", acc:"#CD6B57", pop:"#E2A44E", band:"#7A6A8F" },
+  { sky:"#EAEDE4", ink:"#6B8577", acc:"#E2A44E", pop:"#CD6B57", band:"#6B8577" }
+];
+function placeholderSVG(seed, variant, label){
+  const p = SVG_PALETTES[(seed + variant) % SVG_PALETTES.length];
+  const tilt = ((seed * 7 + variant * 13) % 9) - 4;
+  const sun = 60 + ((seed * 31 + variant * 17) % 200);
+  return `
+  <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="satirical placeholder image">
+    <rect width="640" height="340" fill="${p.sky}"/>
+    <circle cx="${sun}" cy="66" r="30" fill="${p.acc}" opacity=".85"/>
+    <g opacity=".10" stroke="${p.ink}" stroke-width="1">
+      ${Array.from({length:12},(_,i)=>`<line x1="0" y1="${i*30}" x2="640" y2="${i*30+14}"/>`).join("")}
+    </g>
+    <!-- capitol-ish silhouette -->
+    <g fill="${p.ink}" opacity=".9">
+      <rect x="210" y="200" width="220" height="90" rx="4"/>
+      <rect x="180" y="230" width="30" height="60" rx="4"/>
+      <rect x="430" y="230" width="30" height="60" rx="4"/>
+      <path d="M320 118 L392 200 L248 200 Z"/>
+      <circle cx="320" cy="112" r="26"/>
+      <rect x="316" y="70" width="8" height="24" rx="3"/>
+    </g>
+    <g fill="${p.sky}">
+      ${Array.from({length:6},(_,i)=>`<rect x="${226+i*34}" y="216" width="14" height="60" rx="4"/>`).join("")}
+    </g>
+    <!-- speech bubble -->
+    <g transform="rotate(${tilt} 500 90)">
+      <rect x="420" y="52" width="170" height="66" rx="18" fill="${p.pop}"/>
+      <path d="M470 116 L460 140 L494 116 Z" fill="${p.pop}"/>
+      <text x="505" y="82" text-anchor="middle" font-family="Georgia, serif" font-size="21" font-style="italic" fill="#FFFDF8">“Trust us.”</text>
+      <text x="505" y="104" text-anchor="middle" font-family="monospace" font-size="10" letter-spacing="2" fill="#FFFDF8">— MANAGEMENT</text>
+    </g>
+    <rect x="14" y="292" width="612" height="34" rx="12" fill="${p.band}" opacity=".92"/>
+    <text x="320" y="314" text-anchor="middle" font-family="monospace" font-size="12" letter-spacing="3" fill="#FFFDF8">SATIRICAL IMAGE PLACEHOLDER — VARIANT ${variant+1} · ${label}</text>
+  </svg>`;
+}
+
+/* ---------- app state ---------- */
+const state = {
+  // per-candidate rotating indices for regenerate buttons
+  vary: {},          // id -> { img: 0, cap: 0 }
+  archive: []        // saved items
+};
+MOCK_CANDIDATES.forEach(c => state.vary[c.id] = { img: 0, cap: 0 });
+
+function loadArchive(){
+  try {
+    const raw = storage.get(STORE_KEY);
+    state.archive = raw ? JSON.parse(raw) : [];
+    if (!Array.isArray(state.archive)) state.archive = [];
+  } catch(e){ state.archive = []; }
+}
+function saveArchive(){
+  storage.set(STORE_KEY, JSON.stringify(state.archive));
+}
+
+/* ---------- toast ---------- */
+let toastTimer = null;
+function toast(msg){
+  const t = document.getElementById("toast");
+  t.textContent = msg;
+  t.classList.add("show");
+  clearTimeout(toastTimer);
+  toastTimer = setTimeout(()=>t.classList.remove("show"), 1800);
+}
+
+/* ---------- view switching ---------- */
+function switchView(name){
+  document.getElementById("view-today").classList.toggle("active", name==="today");
+  document.getElementById("view-archive").classList.toggle("active", name==="archive");
+  document.getElementById("tab-today").classList.toggle("active", name==="today");
+  document.getElementById("tab-archive").classList.toggle("active", name==="archive");
+  window.scrollTo({ top:0 });
+}
+
+/* ---------- render: today's cards ---------- */
+function esc(s){ return String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c])); }
+
+function isSavedToday(id){
+  const today = new Date().toISOString().slice(0,10);
+  return state.archive.some(a => a.candidateId === id && a.savedDate === today);
+}
+
+function renderCards(){
+  const wrap = document.getElementById("cards");
+  wrap.innerHTML = "";
+  MOCK_CANDIDATES.forEach((c, idx) => {
+    const v = state.vary[c.id];
+    const saved = isSavedToday(c.id);
+    const el = document.createElement("article");
+    el.className = "card";
+    el.id = "card-" + c.id;
+    el.innerHTML = `
+      <div class="spine">
+        <div class="no">${idx+1}</div>
+        <div class="vlabel">CANDIDATE</div>
+      </div>
+      <div class="stamp ${saved ? "saved" : ""}">${saved ? "ARCHIVED" : "SATIRE"}</div>
+      <div class="card-body">
+
+        <div class="news-panel tone-${(idx % 5) + 1}">
+          <div class="slug"><span class="dot"></span>NEWS / EVENT</div>
+          <h2 class="headline">${esc(c.news.headline)}</h2>
+          <div class="meta">
+            <span>📰 ${esc(c.news.source)}</span>
+            <span>🗓 ${esc(c.news.date)}</span>
+            <a href="${esc(c.news.url)}" target="_blank" rel="noopener">${esc(c.news.url)}</a>
+          </div>
+          <p class="summary">${esc(c.news.summary)}</p>
+        </div>
+
+        <div class="slug commentary"><span class="dot"></span>COMMENTARY / WHY IT’S SATIRICAL</div>
+        <ul class="points">${c.commentary.map(p=>`<li>${p}</li>`).join("")}</ul>
+
+        <div class="slug image"><span class="dot"></span>SATIRICAL IMAGE (placeholder)</div>
+        <div class="figure-wrap">
+          <div class="fig">${placeholderSVG(c.imageSeed, v.img, esc(c.id.toUpperCase()))}</div>
+          <div class="prompt-box"><span class="k">image prompt ›</span> ${esc(c.imagePrompts[v.img % c.imagePrompts.length])}</div>
+        </div>
+
+        <div class="slug caption"><span class="dot"></span>CAPTION (Substack Notes)</div>
+        <div class="caption-box">
+          <span class="lbl">Caption</span>
+          <div class="txt cap-main">${esc(c.captions[v.cap % c.captions.length])}</div>
+          <div class="txt-ja">（${esc(c.captionsJa[v.cap % c.captionsJa.length])}）</div>
+        </div>
+        <div class="caption-box alt">
+          <span class="lbl">Alternate caption</span>
+          <div class="txt">${esc(c.captions[(v.cap+1) % c.captions.length])}</div>
+          <div class="txt-ja">（${esc(c.captionsJa[(v.cap+1) % c.captionsJa.length])}）</div>
+        </div>
+
+        <div class="btn-row">
+          <button class="btn" onclick="regen('${c.id}','img')">🎨 Regenerate image</button>
+          <button class="btn" onclick="regen('${c.id}','cap')">✏️ Regenerate caption</button>
+          <button class="btn" onclick="regen('${c.id}','both')">🔁 Regenerate both</button>
+          <button class="btn" onclick="copyCaption('${c.id}')">📋 Copy caption</button>
+          <button class="btn primary ${saved ? "saved-state" : ""}" onclick="saveCandidate('${c.id}')">
+            ${saved ? "✓ Saved" : "💾 Save this candidate"}
+          </button>
+        </div>
+      </div>`;
+    wrap.appendChild(el);
+  });
+}
+
+/* ---------- actions ---------- */
+function regen(id, what){
+  const c = MOCK_CANDIDATES.find(x=>x.id===id);
+  const v = state.vary[id];
+  if (what === "img" || what === "both") v.img = (v.img + 1) % c.imagePrompts.length;
+  if (what === "cap" || what === "both") v.cap = (v.cap + 1) % c.captions.length;
+  const y = window.scrollY;
+  renderCards();
+  window.scrollTo({ top:y });
+  toast(what === "both" ? "画像とキャプションを再生成しました（モック）"
+      : what === "img" ? "画像を再生成しました（モック）"
+      : "キャプションを再生成しました（モック）");
+}
+
+function copyCaption(id){
+  const c = MOCK_CANDIDATES.find(x=>x.id===id);
+  const v = state.vary[id];
+  const text = c.captions[v.cap % c.captions.length];
+  const done = () => toast("キャプションをコピーしました");
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
+  } else {
+    fallbackCopy(text, done);
+  }
+}
+function fallbackCopy(text, done){
+  const ta = document.createElement("textarea");
+  ta.value = text;
+  ta.style.position = "fixed"; ta.style.opacity = "0";
+  document.body.appendChild(ta);
+  ta.select();
+  try { document.execCommand("copy"); done(); }
+  catch(e){ toast("コピーできませんでした。手動で選択してください"); }
+  document.body.removeChild(ta);
+}
+
+function saveCandidate(id){
+  if (isSavedToday(id)){ toast("この候補は今日すでに保存済みです"); return; }
+  const c = MOCK_CANDIDATES.find(x=>x.id===id);
+  const v = state.vary[id];
+  state.archive.unshift({
+    key: id + "_" + Date.now(),
+    candidateId: id,
+    savedDate: new Date().toISOString().slice(0,10),
+    headline: c.news.headline,
+    source: c.news.source,
+    newsDate: c.news.date,
+    url: c.news.url,
+    summary: c.news.summary,
+    newsEn: c.newsEn,
+    ironyEn: c.ironyEn,
+    commentary: c.commentary,
+    imagePrompt: c.imagePrompts[v.img % c.imagePrompts.length],
+    imageVariant: v.img,
+    imageSeed: c.imageSeed,
+    caption: c.captions[v.cap % c.captions.length],
+    captionJa: c.captionsJa[v.cap % c.captionsJa.length],
+    altCaption: c.captions[(v.cap+1) % c.captions.length],
+    altCaptionJa: c.captionsJa[(v.cap+1) % c.captionsJa.length]
+  });
+  saveArchive();
+  renderAll();
+  toast("Weekly Archive に保存しました");
+}
+
+function removeFromArchive(key){
+  state.archive = state.archive.filter(a => a.key !== key);
+  saveArchive();
+  renderAll();
+  toast("アーカイブから削除しました");
+}
+
+function clearArchive(){
+  if (!state.archive.length){ toast("アーカイブは空です"); return; }
+  if (!confirm("Weekly Archive をすべて削除します。よろしいですか？")) return;
+  state.archive = [];
+  saveArchive();
+  document.getElementById("compOut").innerHTML = "";
+  document.getElementById("weeklyTopOut").innerHTML = "";
+  document.getElementById("slideshowOut").innerHTML = "";
+  weeklyTopPicks = [];
+  slideshowPicks = [];
+  renderAll();
+  toast("アーカイブを空にしました");
+}
+
+/* ---------- render: archive ---------- */
+function renderArchive(){
+  const list = document.getElementById("archiveList");
+  document.getElementById("archCount").textContent = state.archive.length;
+  if (!state.archive.length){
+    list.innerHTML = `<div class="empty">まだ保存された候補がありません。<br>TODAY’S DESK から「💾 Save this candidate」で追加できます。</div>`;
+    return;
+  }
+  list.innerHTML = state.archive.map(a => `
+    <div class="arch-item">
+      <div class="h">${esc(a.headline)}</div>
+      <div class="cap">“${esc(a.caption)}”</div>
+      <div class="row">
+        <span class="d">saved ${esc(a.savedDate)} · ${esc(a.source)}</span>
+        <button class="mini" onclick="copyText('${esc(a.key)}')">📋 caption</button>
+        <button class="mini" onclick="removeFromArchive('${esc(a.key)}')">🗑 削除</button>
+      </div>
+    </div>`).join("");
+}
+function copyText(key){
+  const a = state.archive.find(x=>x.key===key);
+  if (!a) return;
+  const done = () => toast("キャプションをコピーしました");
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(a.caption).then(done).catch(()=>fallbackCopy(a.caption, done));
+  } else fallbackCopy(a.caption, done);
+}
+
+/* ---------- weekly compilation (mock generator) ---------- */
+function weekLabel(){
+  const now = new Date();
+  const end = now.toISOString().slice(0,10);
+  const startD = new Date(now); startD.setDate(now.getDate()-6);
+  const start = startD.toISOString().slice(0,10);
+  return `${start} 〜 ${end}`;
+}
+
+/* ---------- Weekly Video Kit の文言・テンプレ設定 ----------
+   ※ この部分は今後仕様変更の可能性が高いため、文言と出力形式を
+     ここに集約。ラベルやテンプレ関数を差し替えるだけで変更できる。 */
+const VIDEO_KIT_TEXTS = {
+  sectionTitle: "Weekly Video Kit",
+  videoPrompt: {
+    label: "Runway / Video AI Prompt（動画生成AI用プロンプト）",
+    copyLabel: "📋 Copy Video AI Prompt"
+  },
+  narration: { label: "ナレーション原稿", copyLabel: "📋 Copy Narration" },
+  titles:    { label: "記事タイトル案（3案）" },
+  intro:     { label: "記事 導入文", copyLabel: "📋 導入文をコピー" }
+};
+
+/* 動画生成AIに入力するためのプロンプト素材（完成動画ではない）。
+   出力形式を変えたいときはこの関数だけ差し替えればよい。 */
+function buildVideoAiPromptText(picks, total){
+  return `※ これは完成動画ではなく、動画生成AI（Runway 等）に入力するためのプロンプト・素材です。
+
+■ Overall prompt:
+Create a vertical (9:16) short video, 60–90 seconds, in the style of a witty editorial-cartoon news digest. Warm cream background, soft rounded typography, gentle slow zoom on each illustration, soft crossfades between scenes. Tone: smart and ironic, never mean.
+
+■ Scene prompts:
+  Scene 0 (title card): Text "This Week in American Satire" — ${weekLabel()}
+${picks.map((a,i)=>`  Scene ${i+1}: ${a.imagePrompt}
+    On-screen caption: "${a.caption}"`).join("\n")}
+  Final scene (end card): Logo + text "Full stories on Substack"
+
+■ On-screen text notes: 各シーンに source / date を小さく表示（事実性の担保）
+■ 音楽・音声: このプロンプトには含めない（BGM・ナレーション音声は外部ツール側で追加する想定）
+■ 素材数: ${total}本のアーカイブから${picks.length}本を使用`;
+}
+
+/* ナレーション原稿（Weekly Video Kit とスライドショーの Copy Narration で共用） */
+function buildNarrationText(picks, total){
+  const n = total ?? picks.length;
+  return `（オープニング）
+今週もアメリカは平常運転でした。「This Week in American Satire」、${n}本のニュースから選んだハイライトをお届けします。
+
+${picks.map((a,i)=>`（シーン${i+1}）
+${a.headline.replace(/\.$/,"")} — ${a.summary ? a.summary.slice(0,60) : a.headline}…
+一言でいえば: 「${a.caption}」`).join("\n\n")}
+
+（クロージング）
+笑えるうちは、まだ考える余地があるということ。詳しい背景と各ニュースの出典は、Substackの記事でどうぞ。それでは、また来週。`;
+}
+
+function buildCompilation(){
+  const items = state.archive;
+  if (!items.length){
+    toast("保存された候補がありません。先に候補を保存してください");
+    return;
+  }
+  const n = items.length;
+  const picks = items.slice(0, 7); // 最大7本を週次素材に
+
+  /* 動画生成AI用プロンプト（テンプレは buildVideoAiPromptText に集約） */
+  const videoAiPrompt = buildVideoAiPromptText(picks, n);
+
+  /* ナレーション */
+  const narration = buildNarrationText(picks, n);
+
+  /* 記事タイトル案 */
+  const titleCandidates = [
+    `This Week in American Satire: ${picks[0] ? picks[0].headline.split(" ").slice(0,5).join(" ") : "Business as Usual"} & More`,
+    `今週のアメリカ皮肉ダイジェスト（${weekLabel()}）— ${n}本のニュースが語る「自由の国」の現在地`,
+    `Laugh Now, Think Later: ${n} American Headlines That Wrote Their Own Punchlines`
+  ];
+
+  /* 記事導入文 */
+  const intro =
+`今週もアメリカからは、脚本家が書いたら「やりすぎ」と却下されそうなニュースが届きました。${picks[0] ? "たとえば「" + picks[0].headline + "」。" : ""}本記事では、今週保存した${n}本の候補から選んだニュースを、①何が起きたか（事実）、②なぜ皮肉なのか（構図）、③外から見るとどう映るか（視点）の3段で読み解きます。笑いは批評の入り口です。まずは事実から、どうぞ。`;
+
+  document.getElementById("compOut").innerHTML = `
+    <section class="comp">
+      <h3>📼 ${esc(VIDEO_KIT_TEXTS.sectionTitle)} <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">${esc(weekLabel())} · ${n} items</span></h3>
+
+      <div class="comp-block">
+        <div class="slug image"><span class="dot"></span>${esc(VIDEO_KIT_TEXTS.videoPrompt.label)}</div>
+        <pre id="cpVideo">${esc(videoAiPrompt)}</pre>
+        <div class="btn-row"><button class="btn" onclick="copyComp('cpVideo')">${esc(VIDEO_KIT_TEXTS.videoPrompt.copyLabel)}</button></div>
+      </div>
+
+      <div class="comp-block">
+        <div class="slug commentary"><span class="dot"></span>${esc(VIDEO_KIT_TEXTS.narration.label)}</div>
+        <pre id="cpNarr">${esc(narration)}</pre>
+        <div class="btn-row"><button class="btn" onclick="copyComp('cpNarr')">${esc(VIDEO_KIT_TEXTS.narration.copyLabel)}</button></div>
+      </div>
+
+      <div class="comp-block">
+        <div class="slug"><span class="dot"></span>${esc(VIDEO_KIT_TEXTS.titles.label)}</div>
+        ${titleCandidates.map(t=>`<div class="art-title" style="margin-bottom:8px">${esc(t)}</div>`).join("")}
+      </div>
+
+      <div class="comp-block">
+        <div class="slug caption"><span class="dot"></span>${esc(VIDEO_KIT_TEXTS.intro.label)}</div>
+        <pre id="cpIntro">${esc(intro)}</pre>
+        <div class="btn-row"><button class="btn" onclick="copyComp('cpIntro')">${esc(VIDEO_KIT_TEXTS.intro.copyLabel)}</button></div>
+      </div>
+    </section>`;
+  toast("Weekly Video Kit を生成しました（モック）");
+  window.scrollTo({ top:0 });
+}
+function copyComp(id){
+  const el = document.getElementById(id);
+  if (!el) return;
+  const done = () => toast("コピーしました");
+  const text = el.textContent;
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
+  } else fallbackCopy(text, done);
+}
+
+/* ---------- image downloads (SVG → PNG → ZIP) ----------
+   外部ライブラリなし。SVGをCanvas経由でPNG化し、無圧縮(store方式)の
+   最小ZIPをJSで自作して1ファイルにまとめてダウンロードする。
+   （連続個別DLはChrome等でブロックされるためZIP一括に変更） */
+async function svgStringToPngBlob(svgStr, scale = 2){
+  const img = await svgToImage(svgStr.trim());
+  const canvas = document.createElement("canvas");
+  canvas.width = 640 * scale;
+  canvas.height = 340 * scale;
+  const ctx = canvas.getContext("2d");
+  ctx.drawImage(img, 0, 0, canvas.width, canvas.height);
+  return new Promise((resolve, reject) =>
+    canvas.toBlob(b => b ? resolve(b) : reject(new Error("PNG encode failed")), "image/png"));
+}
+
+/* --- minimal ZIP writer (method 0 = stored / no compression) --- */
+const CRC_TABLE = (() => {
+  const t = new Uint32Array(256);
+  for (let n = 0; n < 256; n++){
+    let c = n;
+    for (let k = 0; k < 8; k++) c = (c & 1) ? (0xEDB88320 ^ (c >>> 1)) : (c >>> 1);
+    t[n] = c >>> 0;
+  }
+  return t;
+})();
+function crc32(bytes){
+  let c = 0xFFFFFFFF;
+  for (let i = 0; i < bytes.length; i++) c = CRC_TABLE[(c ^ bytes[i]) & 0xFF] ^ (c >>> 8);
+  return (c ^ 0xFFFFFFFF) >>> 0;
+}
+function buildZip(files){ // files: [{ name: string, data: Uint8Array }]
+  const enc = new TextEncoder();
+  const u16 = v => new Uint8Array([v & 255, (v >>> 8) & 255]);
+  const u32 = v => new Uint8Array([v & 255, (v >>> 8) & 255, (v >>> 16) & 255, (v >>> 24) & 255]);
+  const now = new Date();
+  const dosTime = ((now.getHours() << 11) | (now.getMinutes() << 5) | (now.getSeconds() >> 1)) & 0xFFFF;
+  const dosDate = (((now.getFullYear() - 1980) << 9) | ((now.getMonth() + 1) << 5) | now.getDate()) & 0xFFFF;
+
+  const parts = [];      // 出力バイト列
+  const central = [];    // セントラルディレクトリ
+  let offset = 0;
+  const push = (arr) => { for (const p of arr){ parts.push(p); offset += p.length; } };
+
+  for (const f of files){
+    const name = enc.encode(f.name);
+    const crc = crc32(f.data);
+    const localOffset = offset;
+    push([
+      u32(0x04034b50), u16(20), u16(0), u16(0),          // local header / version / flags / method=store
+      u16(dosTime), u16(dosDate),
+      u32(crc), u32(f.data.length), u32(f.data.length),  // crc / compressed / uncompressed
+      u16(name.length), u16(0),                           // name len / extra len
+      name, f.data
+    ]);
+    central.push({ name, crc, size: f.data.length, localOffset });
+  }
+
+  const cdStart = offset;
+  for (const c of central){
+    push([
+      u32(0x02014b50), u16(20), u16(20), u16(0), u16(0),
+      u16(dosTime), u16(dosDate),
+      u32(c.crc), u32(c.size), u32(c.size),
+      u16(c.name.length), u16(0), u16(0), u16(0), u16(0),
+      u32(0), u32(c.localOffset),
+      c.name
+    ]);
+  }
+  const cdSize = offset - cdStart;
+  push([
+    u32(0x06054b50), u16(0), u16(0),
+    u16(central.length), u16(central.length),
+    u32(cdSize), u32(cdStart), u16(0)
+  ]);
+  return new Blob(parts, { type: "application/zip" });
+}
+
+async function downloadImagesAsZip(items, zipName){ // items: [{ svg, filename }]
+  toast("ZIPを作成しています…");
+  try {
+    const files = [];
+    for (const it of items){
+      const blob = await svgStringToPngBlob(it.svg);
+      const buf = await blob.arrayBuffer();
+      files.push({ name: it.filename, data: new Uint8Array(buf) });
+    }
+    const zip = buildZip(files);
+    const url = URL.createObjectURL(zip);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = zipName;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    setTimeout(() => URL.revokeObjectURL(url), 4000);
+    toast(`${zipName}（PNG ${files.length}枚入り）をダウンロードしました`);
+  } catch(e){
+    toast("ZIPの作成に失敗しました: " + (e && e.message ? e.message : e));
+  }
+}
+
+function downloadAllImages(){
+  const items = MOCK_CANDIDATES.map((c, idx) => {
+    const v = state.vary[c.id];
+    return {
+      svg: placeholderSVG(c.imageSeed, v.img, c.id.toUpperCase()),
+      filename: `punchline-republic-candidate-${idx + 1}.png`
+    };
+  });
+  downloadImagesAsZip(items, "punchline-republic-candidates.zip");
+}
+
+/* ---------- today's article (mock generator) ----------
+   固定タイトル + 日替わり副題 + イントロ + 5候補ブロック + クロージング。
+   Regenerate Article で副題 / イントロ / THE IRONY の表現 / クロージングが
+   切り替わる。NEWS / EVENT の事実説明（newsEn）は常に固定。 */
+const ARTICLE_SUBTITLES = [
+  "Five headlines from a country increasingly committed to the bit.",
+  "Today, America outsourced common sense to a committee.",
+  "A morning briefing from the place where policy keeps writing its own punchlines.",
+  "Five stories a satire writer would reject for being too on the nose.",
+  "In today's episode, the system explains itself better than any joke could.",
+  "America woke up, looked in the mirror, and doubled down."
+];
+const ARTICLE_INTROS = [
+  "Every morning, American news performs a small miracle: it arrives pre-satirized. The five stories below required no exaggeration — the institutions involved did the comedy writing themselves. We just added the labels. Facts first, irony second, as always.",
+  "Some countries make satire. America generates it as a byproduct, like heat from an engine. Here are today's five exhibits, each presented twice: once as it happened, and once as it lands. The gap between the two is the whole story.",
+  "You could invent stories like these, but why bother? Today's five headlines were produced by committees, press offices, and ribbon-cutting ceremonies that never once suspected they were doing comedy. The facts are laid out below, clearly separated from our commentary — the punchlines, as usual, came pre-installed."
+];
+const ARTICLE_CLOSINGS = [
+  "That's today's five. The republic will generate more overnight — it always does. See you tomorrow at the punchline.",
+  "None of this needed a writers' room, which is either efficient or alarming. Sleep on it. Tomorrow's edition is already being drafted, in official buildings, by people who mean every word.",
+  "We don't write the jokes; we just file them. Same desk, same time tomorrow — the material never calls in sick."
+];
+
+let artSeed = Math.floor(Math.random() * ARTICLE_SUBTITLES.length);
+let articleGenerated = false;
+
+function buildArticleText(){
+  const subtitle = ARTICLE_SUBTITLES[artSeed % ARTICLE_SUBTITLES.length];
+  const intro    = ARTICLE_INTROS[artSeed % ARTICLE_INTROS.length];
+  const closing  = ARTICLE_CLOSINGS[artSeed % ARTICLE_CLOSINGS.length];
+
+  const blocks = MOCK_CANDIDATES.map((c, idx) => {
+    const v = state.vary[c.id];
+    const caption = c.captions[v.cap % c.captions.length];        // 現在選択中のCaption（英文のみ）
+    const prompt  = c.imagePrompts[v.img % c.imagePrompts.length]; // 現在選択中のimage prompt
+    const irony   = c.ironyEn[artSeed % c.ironyEn.length];         // 表現バリエーション
+    return `## ${caption}
+
+NEWS / EVENT:
+${c.newsEn}
+
+THE IRONY:
+- Contradiction: ${irony.contradiction}
+- Absurdity: ${irony.absurdity}
+- Outside View: ${irony.outside}
+
+Suggested image:
+Use Candidate ${idx + 1} satirical image. (file: punchline-republic-candidate-${idx + 1}.png)
+Image prompt: ${prompt}`;
+  }).join("\n\n---\n\n");
+
+  return `# The Punchline Republic
+
+## ${subtitle}
+
+${intro}
+
+---
+
+${blocks}
+
+---
+
+${closing}`;
+}
+
+function renderArticle(){
+  const text = buildArticleText();
+  document.getElementById("articleOut").innerHTML = `
+    <section class="comp">
+      <h3>📝 Today’s Article <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">Substack draft · Markdown</span></h3>
+      <pre class="article-pre" id="articleText">${esc(text)}</pre>
+      <div class="btn-row">
+        <button class="btn primary" onclick="copyComp('articleText')">📋 Copy Full Article</button>
+        <button class="btn" onclick="downloadAllImages()">🖼 Download All 5 Images</button>
+        <button class="btn" onclick="regenArticle()">🔁 Regenerate Article</button>
+      </div>
+      <p class="article-note">※ NEWS / EVENT の事実パートは固定です。Regenerate Article では副題・イントロ・THE IRONY の表現・クロージングが切り替わります。各カードで Caption や画像を変更してから生成すると、見出しと Image prompt にも反映されます。<br>作業の流れ: ① Copy Full Article → ② Download All 5 Images → ③ Substackに本文を貼る → ④ 5枚の画像を手動アップロード。</p>
+    </section>`;
+}
+
+function generateArticle(){
+  articleGenerated = true;
+  renderArticle();
+  toast("今日の記事を生成しました（モック）");
+  document.getElementById("articleOut").scrollIntoView({ behavior:"smooth", block:"start" });
+}
+
+function regenArticle(){
+  artSeed++;
+  renderArticle();
+  toast("記事を再生成しました（副題・イントロ・IRONY・結びを変更）");
+}
+
+/* ---------- weekly top 5 punchlines (mock generator) ----------
+   Weekly Archive の保存候補から新しい順に最大5本を選んで週末記事化。
+   ※ 将来は punchline strength / symbolic absurdity / outside view /
+     visual clarity のスコアで選定する想定。現段階は保存の新しい順。
+   事実（NEWS / EVENT）と風刺分析（WHY IT MADE THE WEEK）は混ぜない。 */
+const WEEKLY_SUBTITLES = [
+  "Seven days, five punchlines, zero writers required.",
+  "The week in review, as told by a country that keeps reviewing itself.",
+  "This week, the system was its own best material.",
+  "Five moments when American institutions finished their own jokes.",
+  "A weekly audit of the gap between the mission statement and the parking lot."
+];
+const WEEKLY_INTROS = [
+  "Every week, we file five stories where American institutions delivered the setup, the misdirection, and the punchline entirely on their own. Below are this week's strongest — each presented as fact first, satire second. The order is ours; the comedy was theirs.",
+  "It was another productive week for the republic's unofficial writers' room: committees, press offices, and ceremony planners. Here are the five entries that best captured the week's spirit — the facts laid out plainly, followed by exactly why they made the cut.",
+  "Some weeks the news needs a satirist. This week, as usual, it only needed a stenographer. These are the five stories we couldn't stop thinking about — reported straight, then examined for the contradiction at the center of each."
+];
+const WEEKLY_CLOSINGS = [
+  "That's the week. Five punchlines filed, none of them invented. The republic rests on weekends — allegedly. See you Monday morning at the desk.",
+  "Another week archived, another reminder that the strongest satire in America is minutes from an official meeting. Enjoy the weekend; the material certainly won't.",
+  "We close the ledger here. Five entries, all real, all self-written. Next week's edition is already in committee."
+];
+/* Punchline Strength は Caption 自体への短評（テンプレート巡回） */
+const PUNCHLINE_STRENGTH_TEMPLATES = [
+  (cap) => `One line, no context needed — "${cap}" does the work of a full op-ed.`,
+  (cap) => `It survives being read aloud with a straight face, which is the real test: "${cap}".`,
+  (cap) => `The misdirection lands in under twenty words. "${cap}" opens as a report and closes as a verdict.`
+];
+
+let weekSeed = Math.floor(Math.random() * WEEKLY_SUBTITLES.length);
+let weeklyTopPicks = [];   // 直近に生成したTop 5（ダウンロード/プロンプトコピー用）
+
+/* 保存データに英文素材が無い場合は元候補から補完、最終フォールバックは汎用文 */
+function weeklySourceFor(a){
+  const src = MOCK_CANDIDATES.find(x => x.id === a.candidateId);
+  const newsEn = a.newsEn || (src && src.newsEn) ||
+    `${a.headline}. (Reported by ${a.source}, ${a.newsDate}.)`;
+  const ironySet = a.ironyEn || (src && src.ironyEn) || null;
+  const irony = ironySet
+    ? ironySet[weekSeed % ironySet.length]
+    : {
+        absurdity: "The event functions as its own parody; no exaggeration was required to make the point.",
+        outside: "Viewed from outside the U.S., the story reads like a sketch premise that happens to be documented."
+      };
+  return { newsEn, irony };
+}
+
+function buildWeeklyTopText(picks){
+  const subtitle = WEEKLY_SUBTITLES[weekSeed % WEEKLY_SUBTITLES.length];
+  const intro    = WEEKLY_INTROS[weekSeed % WEEKLY_INTROS.length];
+  const closing  = WEEKLY_CLOSINGS[weekSeed % WEEKLY_CLOSINGS.length];
+
+  const blocks = picks.map((a, i) => {
+    const { newsEn, irony } = weeklySourceFor(a);
+    const strength = PUNCHLINE_STRENGTH_TEMPLATES[(weekSeed + i) % PUNCHLINE_STRENGTH_TEMPLATES.length](a.caption);
+    return `## #${i + 1} ${a.caption}
+
+NEWS / EVENT:
+${newsEn}
+
+WHY IT MADE THE WEEK:
+- Punchline Strength: ${strength}
+- Symbolic Absurdity: ${irony.absurdity}
+- Outside View: ${irony.outside}
+
+Suggested image:
+Use archived image for this item. (file: punchline-republic-weekly-top-${i + 1}.png)
+
+Image prompt:
+${a.imagePrompt}`;
+  }).join("\n\n---\n\n");
+
+  return `# The Punchline Republic: Weekly Top 5
+
+## ${subtitle}
+
+Intro:
+${intro}
+
+---
+
+${blocks}
+
+---
+
+${closing}`;
+}
+
+function generateWeeklyTop5(){
+  if (!state.archive.length){
+    document.getElementById("weeklyTopOut").innerHTML =
+      `<div class="empty" style="margin-bottom:20px">保存された候補がありません。<br>TODAY’S DESK から「💾 Save this candidate」で保存すると、ここから週末記事を生成できます。</div>`;
+    toast("保存された候補がありません");
+    return;
+  }
+  weekSeed++;
+  weeklyTopPicks = state.archive.slice(0, 5); // 新しい順の上位5本（5本未満ならある分だけ）
+  const n = weeklyTopPicks.length;
+  const text = buildWeeklyTopText(weeklyTopPicks);
+  document.getElementById("weeklyTopOut").innerHTML = `
+    <section class="comp">
+      <h3>🏆 Weekly Top 5 Punchlines <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">${esc(weekLabel())} · ${n} item${n>1?"s":""}</span></h3>
+      <pre class="article-pre" id="weeklyTopText">${esc(text)}</pre>
+      <div class="btn-row">
+        <button class="btn primary" onclick="copyComp('weeklyTopText')">📋 Copy Weekly Top 5 Article</button>
+        <button class="btn" onclick="downloadWeeklyTopImages()">🖼 Download Top 5 Images</button>
+        <button class="btn" onclick="copyWeeklyTopPrompts()">🎨 Copy Top 5 Image Prompts</button>
+      </div>
+      <p class="article-note">※ 現段階では保存の新しい順で最大5本を選んでいます（将来はパンチライン強度などのスコア選定を想定）。もう一度 Generate を押すと副題・イントロ・分析の表現・結びが切り替わります。画像は保存時点のバリエーションでダウンロードされます。</p>
+    </section>`;
+  toast(n < 5 ? `保存数が${n}本のため、${n}本で生成しました` : "Weekly Top 5 を生成しました（モック）");
+  document.getElementById("weeklyTopOut").scrollIntoView({ behavior:"smooth", block:"start" });
+}
+
+function downloadWeeklyTopImages(){
+  if (!weeklyTopPicks.length){ toast("先に Weekly Top 5 を生成してください"); return; }
+  const items = weeklyTopPicks.map((a, i) => ({
+    svg: placeholderSVG(a.imageSeed, a.imageVariant, "TOP" + (i + 1)),
+    filename: `punchline-republic-weekly-top-${i + 1}.png`
+  }));
+  downloadImagesAsZip(items, "punchline-republic-weekly-top-images.zip");
+}
+
+function copyWeeklyTopPrompts(){
+  if (!weeklyTopPicks.length){ toast("先に Weekly Top 5 を生成してください"); return; }
+  const text = weeklyTopPicks.map((a, i) =>
+`#${i + 1} "${a.caption}"
+Image prompt: ${a.imagePrompt}`).join("\n\n");
+  const done = () => toast("Top 5 の image prompt をコピーしました");
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
+  } else fallbackCopy(text, done);
+}
+
+/* ---------- weekly slideshow video (canvas + MediaRecorder) ----------
+   外部ライブラリなし・外部通信ゼロ。
+   タイトルカード(3秒) → 各候補6秒（画像ズーム + Caption 大表示 + フェード）
+   → エンドカード(3秒)。WebM書き出しは MediaRecorder 対応ブラウザのみ。 */
+const SLIDE_W = 720, SLIDE_H = 1280;   // 縦型ショート動画 (9:16)
+const ITEM_MS = 6000, CARD_MS = 3000;
+let slideshowBusy = false;
+let slideshowPicks = [];
+
+function getSlideshowPicks(){
+  // Weekly Top 5 を生成済みならその5本、なければArchiveの新しい順5本
+  if (weeklyTopPicks.length) return weeklyTopPicks.slice(0, 5);
+  return state.archive.slice(0, 5);
+}
+
+function svgToImage(svgStr){
+  return new Promise((resolve, reject) => {
+    // canvasへの描画にはintrinsic sizeが必要なので width/height を付与
+    const sized = svgStr.replace("<svg ", '<svg width="640" height="340" ');
+    const img = new Image();
+    img.onload = () => resolve(img);
+    img.onerror = () => reject(new Error("svg rasterize failed"));
+    img.src = "data:image/svg+xml;charset=utf-8," + encodeURIComponent(sized);
+  });
+}
+
+function wrapCanvasText(ctx, text, maxWidth){
+  const words = text.split(" ");
+  const lines = [];
+  let line = "";
+  for (const w of words){
+    const test = line ? line + " " + w : w;
+    if (ctx.measureText(test).width > maxWidth && line){
+      lines.push(line); line = w;
+    } else line = test;
+  }
+  if (line) lines.push(line);
+  return lines;
+}
+
+/* 各スライドの描画。t は 0→1 の進行度 */
+function drawSlide(ctx, slide, t){
+  const fade = Math.max(0, Math.min(1, t * 8, (1 - t) * 8)); // フェードイン/アウト
+  ctx.clearRect(0, 0, SLIDE_W, SLIDE_H);
+  ctx.fillStyle = "#F6F1E7";
+  ctx.fillRect(0, 0, SLIDE_W, SLIDE_H);
+  ctx.save();
+  ctx.globalAlpha = fade;
+  ctx.textAlign = "center";
+
+  const ROUND = '"Hiragino Maru Gothic ProN", "Yu Gothic", sans-serif';
+
+  if (slide.type === "title"){
+    ctx.fillStyle = "#E2A44E";
+    ctx.font = "bold 26px " + ROUND;
+    ctx.fillText("W E E K L Y   E D I T I O N", SLIDE_W/2, 480);
+    ctx.fillStyle = "#5F7291";
+    ctx.font = "bold 56px " + ROUND;
+    ctx.fillText("The Punchline", SLIDE_W/2, 580);
+    ctx.fillText("Republic:", SLIDE_W/2, 650);
+    ctx.fillStyle = "#CD6B57";
+    ctx.font = "bold 72px " + ROUND;
+    ctx.fillText("Weekly Top 5", SLIDE_W/2, 760);
+    ctx.fillStyle = "#9C9077";
+    ctx.font = "22px Menlo, monospace";
+    ctx.fillText(weekLabel(), SLIDE_W/2, 830);
+  }
+  else if (slide.type === "item"){
+    // 順位バッジ
+    ctx.fillStyle = "#E2A44E";
+    ctx.beginPath();
+    ctx.arc(SLIDE_W/2, 190, 52, 0, Math.PI * 2);
+    ctx.fill();
+    ctx.fillStyle = "#FFFDF8";
+    ctx.font = "bold 46px " + ROUND;
+    ctx.fillText("#" + (slide.rank), SLIDE_W/2, 206);
+    // 画像（軽いズームイン）
+    if (slide.img){
+      const zoom = 1 + 0.08 * t;
+      const iw = 620 * zoom, ih = iw * (340/640);
+      ctx.save();
+      const rx = 50, ry = 300, rw = 620, rh = 620 * (340/640);
+      ctx.beginPath();
+      if (ctx.roundRect) ctx.roundRect(rx, ry, rw, rh, 20);
+      else ctx.rect(rx, ry, rw, rh);
+      ctx.clip();
+      ctx.drawImage(slide.img, SLIDE_W/2 - iw/2, ry + rh/2 - ih/2, iw, ih);
+      ctx.restore();
+    }
+    // Caption（大きく重ねる）
+    ctx.fillStyle = "#3B3F4E";
+    ctx.font = "bold 40px " + ROUND;
+    const lines = wrapCanvasText(ctx, slide.caption, 600);
+    const startY = 760;
+    lines.slice(0, 6).forEach((ln, i) => ctx.fillText(ln, SLIDE_W/2, startY + i * 56));
+    ctx.fillStyle = "#9C9077";
+    ctx.font = "20px Menlo, monospace";
+    ctx.fillText("— The Punchline Republic", SLIDE_W/2, startY + Math.min(lines.length, 6) * 56 + 50);
+  }
+  else if (slide.type === "end"){
+    ctx.fillStyle = "#5F7291";
+    ctx.font = "bold 52px " + ROUND;
+    ctx.fillText("Read the full piece", SLIDE_W/2, 590);
+    ctx.fillText("on Substack", SLIDE_W/2, 660);
+    ctx.fillStyle = "#CD6B57";
+    ctx.font = "bold 30px " + ROUND;
+    ctx.fillText("The Punchline Republic", SLIDE_W/2, 760);
+  }
+  ctx.restore();
+}
+
+function setSlideStatus(msg){
+  const el = document.getElementById("slideStatus");
+  if (el) el.textContent = msg;
+}
+
+function generateSlideshow(){
+  if (!state.archive.length){
+    document.getElementById("slideshowOut").innerHTML =
+      `<div class="empty" style="margin-bottom:20px">保存された候補がありません。<br>TODAY’S DESK から「💾 Save this candidate」で保存すると、スライドショー動画を作れます。</div>`;
+    toast("保存された候補がありません");
+    return;
+  }
+  // 記事ピッカー: 日付 + Caption（+ 元見出し）から動画化する記事を選ぶ
+  const rows = state.archive.map(a => `
+    <label class="pick-row">
+      <input type="checkbox" class="slide-pick" value="${esc(a.key)}">
+      <span class="pick-body">
+        <span class="pick-date">saved ${esc(a.savedDate)}</span>
+        <span class="pick-cap">${esc(a.caption)}</span>
+        <span class="pick-head">${esc(a.headline)}</span>
+      </span>
+    </label>`).join("");
+  document.getElementById("slideshowOut").innerHTML = `
+    <section class="comp">
+      <h3>🎬 Weekly Slideshow Video <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">記事を選択</span></h3>
+      <p class="article-note" style="margin:4px 0 12px">動画化したい記事にチェックを入れてください（複数選択可）。<b>何も選ばずに生成した場合</b>は、Weekly Top 5 生成済みならその5本、未生成なら新しい順5本を自動で使います。1本あたり約6秒です。</p>
+      <div class="pick-list">${rows}</div>
+      <div class="btn-row">
+        <button class="btn primary" onclick="startSlideshowFromPicker()">🎬 選択した記事で動画を生成</button>
+      </div>
+    </section>`;
+  document.getElementById("slideshowOut").scrollIntoView({ behavior:"smooth", block:"start" });
+}
+
+function startSlideshowFromPicker(){
+  const checked = Array.from(document.querySelectorAll(".slide-pick:checked")).map(el => el.value);
+  let picks, source;
+  if (checked.length){
+    picks = state.archive.filter(a => checked.includes(a.key));
+    source = `手動選択 ${picks.length}本`;
+  } else {
+    picks = getSlideshowPicks();
+    source = weeklyTopPicks.length ? "Weekly Top 5 の選定" : "Archiveの新しい順";
+  }
+  if (!picks.length){ toast("保存された候補がありません"); return; }
+  startSlideshow(picks, source);
+}
+
+function startSlideshow(picks, source){
+  slideshowPicks = picks;
+  const n = picks.length;
+  const totalSec = Math.round((CARD_MS * 2 + ITEM_MS * n) / 1000);
+  document.getElementById("slideshowOut").innerHTML = `
+    <section class="comp">
+      <h3>🎬 Weekly Slideshow Video <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">${n} slides · 約${totalSec}秒 · ${esc(source)}</span></h3>
+      <div class="video-wrap">
+        <canvas id="slideCanvas" width="${SLIDE_W}" height="${SLIDE_H}"></canvas>
+        <div class="video-status" id="slideStatus">準備完了 — Play Preview で再生できます</div>
+      </div>
+      <div class="btn-row">
+        <button class="btn" onclick="playSlideshow(false)">▶ Play Preview</button>
+        <button class="btn primary" onclick="playSlideshow(true)">⬇ Download Slideshow Video</button>
+        <button class="btn" onclick="copySlideshowNarration()">📋 Copy Narration</button>
+        <button class="btn" onclick="generateSlideshow()">↩ 記事を選び直す</button>
+      </div>
+      <p class="article-note" id="exportNotice"></p>
+      <p class="article-note">※ 動画書き出しは、ブラウザが対応していればMP4、非対応の場合はWebMに自動フォールバックします（実際の形式はステータス行に表示）。BGM・音声は外部ツール（Premiere / CapCut 等）で追加する想定です。タイトル3秒 + 各スライド6秒 + エンドカード3秒。</p>
+    </section>`;
+  toast(`スライドショーを準備しました（${n}本 / 約${totalSec}秒）`);
+  playSlideshow(false); // すぐにプレビュー再生
+}
+
+function copySlideshowNarration(){
+  if (!slideshowPicks.length){ toast("先にスライドショーを生成してください"); return; }
+  const text = buildNarrationText(slideshowPicks);
+  const done = () => toast("ナレーション原稿をコピーしました");
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
+  } else fallbackCopy(text, done);
+}
+
+async function playSlideshow(record){
+  if (slideshowBusy){ toast("再生・録画の処理中です。終わるまでお待ちください"); return; }
+  const canvas = document.getElementById("slideCanvas");
+  if (!canvas || !slideshowPicks.length){ toast("先にスライドショーを生成してください"); return; }
+  slideshowBusy = true;
+  const ctx = canvas.getContext("2d");
+
+  try {
+    // 画像の事前ラスタライズ
+    setSlideStatus("画像を準備中…");
+    const imgs = await Promise.all(slideshowPicks.map((a, i) =>
+      svgToImage(placeholderSVG(a.imageSeed, a.imageVariant, "TOP" + (i + 1)).trim())
+        .catch(() => null) // ラスタライズ失敗時は画像なしで続行
+    ));
+    const slides = [
+      { type:"title", dur:CARD_MS },
+      ...slideshowPicks.map((a, i) => ({ type:"item", dur:ITEM_MS, rank:i+1, caption:a.caption, img:imgs[i] })),
+      { type:"end", dur:CARD_MS }
+    ];
+    const totalMs = slides.reduce((s, x) => s + x.dur, 0);
+
+    // 録画セットアップ: MP4優先、非対応ならWebMに自動フォールバック
+    const EXPORT_MIME_CANDIDATES = [
+      'video/mp4; codecs="avc1.42E01E, mp4a.40.2"',
+      'video/mp4',
+      'video/webm; codecs=vp9',
+      'video/webm; codecs=vp8',
+      'video/webm'
+    ];
+    let recorder = null;
+    let exportIsMp4 = false;
+    const chunks = [];
+    const noticeEl = document.getElementById("exportNotice");
+    if (noticeEl) noticeEl.innerHTML = "";
+    if (record){
+      if (!canvas.captureStream || typeof MediaRecorder === "undefined"){
+        toast("このブラウザは動画書き出し非対応のため、プレビューのみ再生します");
+        record = false;
+      } else {
+        const mime = EXPORT_MIME_CANDIDATES.find(t =>
+          MediaRecorder.isTypeSupported && MediaRecorder.isTypeSupported(t)) || "";
+        exportIsMp4 = mime.startsWith("video/mp4");
+        const stream = canvas.captureStream(30);
+        recorder = new MediaRecorder(stream, mime ? { mimeType: mime } : undefined);
+        recorder.ondataavailable = e => { if (e.data && e.data.size) chunks.push(e.data); };
+        recorder.onstop = () => {
+          const container = exportIsMp4 ? "video/mp4" : "video/webm";
+          const ext = exportIsMp4 ? "mp4" : "webm";
+          const blob = new Blob(chunks, { type: container });
+          const url = URL.createObjectURL(blob);
+          const a = document.createElement("a");
+          a.href = url;
+          a.download = "punchline-republic-weekly-slideshow." + ext;
+          document.body.appendChild(a);
+          a.click();
+          document.body.removeChild(a);
+          setTimeout(() => URL.revokeObjectURL(url), 4000);
+          toast(`スライドショー動画（${ext.toUpperCase()}）をダウンロードしました`);
+        };
+        recorder.start(250);
+        if (!exportIsMp4 && noticeEl){
+          noticeEl.innerHTML =
+            "⚠ Your browser does not support MP4 recording directly. The video will be exported as WebM. For wider compatibility, convert it to MP4 using Premiere Pro, CapCut, HandBrake, or another video tool.<br>" +
+            "⚠ このブラウザではMP4の直接書き出しに対応していないため、WebM形式で保存します。Premiere Pro、CapCut、HandBrakeなどでMP4に変換してください。";
+        }
+      }
+    }
+    const fmtLabel = record ? (exportIsMp4 ? " · Export format: MP4" : " · Export format: WebM fallback") : "";
+
+    // 再生ループ
+    await new Promise(resolve => {
+      const t0 = performance.now();
+      function frame(now){
+        const elapsed = now - t0;
+        if (elapsed >= totalMs){
+          drawSlide(ctx, slides[slides.length - 1], 0.99);
+          resolve();
+          return;
+        }
+        let acc = 0;
+        for (const s of slides){
+          if (elapsed < acc + s.dur){
+            drawSlide(ctx, s, (elapsed - acc) / s.dur);
+            break;
+          }
+          acc += s.dur;
+        }
+        setSlideStatus((record ? "🔴 録画中 " : "▶ 再生中 ") +
+          Math.floor(elapsed/1000) + "s / " + Math.floor(totalMs/1000) + "s" + fmtLabel);
+        requestAnimationFrame(frame);
+      }
+      requestAnimationFrame(frame);
+    });
+
+    if (recorder && recorder.state !== "inactive") recorder.stop();
+    setSlideStatus(record
+      ? "書き出し完了" + fmtLabel
+      : "再生終了 — もう一度再生 / ダウンロードできます");
+  } catch (e){
+    setSlideStatus("エラーが発生しました: " + (e && e.message ? e.message : e));
+    toast("スライドショーの処理中にエラーが発生しました");
+  } finally {
+    slideshowBusy = false;
+  }
+}
+
+/* ---------- init ---------- */
+function renderAll(){
+  renderCards();
+  renderArchive();
+}
+document.getElementById("btnCompile").addEventListener("click", buildCompilation);
+document.getElementById("btnWeeklyTop5").addEventListener("click", generateWeeklyTop5);
+document.getElementById("btnSlideshow").addEventListener("click", generateSlideshow);
+document.getElementById("btnClearArchive").addEventListener("click", clearArchive);
+document.getElementById("btnArticle").addEventListener("click", generateArticle);
+document.getElementById("btnDownloadAll").addEventListener("click", downloadAllImages);
+document.getElementById("editionDate").textContent =
+  new Date().toLocaleDateString("ja-JP", { year:"numeric", month:"long", day:"numeric", weekday:"short" });
+
+loadArchive();
+renderAll();
+if (!storage.persistent){
+  toast("この環境では localStorage が使えないため、保存はページを閉じるまで有効です");
+}
+</script>
+</body>
+</html>
