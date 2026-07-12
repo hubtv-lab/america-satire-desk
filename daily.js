@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-12",
-  "generatedAt": "2026-07-11T22:36:14+00:00",
+  "date": "2026-07-13",
+  "generatedAt": "2026-07-12T22:36:31+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "DOJ Subpoenas NYT Reporters Who Covered Security Concerns About Qatar-Gifted Plane",
-        "source": "NPR News",
-        "date": "2026-07-12",
-        "url": "https://www.npr.org/2026/07/11/g-s1-133160/justice-department-subpoenas-new-york-times-reporters-over-air-force-one-reporting",
-        "summary": "司法省がニューヨーク・タイムズ記者数名に対し、カタールからトランプ大統領に贈られた新エアフォースワンの安全保障上の懸念を報じた記事をめぐり、大陪審への証言を求める召喚状を発行した。"
+        "headline": "Musk and Altman Trade Insults on X — The Platform Musk Owns",
+        "source": "CNBC Top News",
+        "date": "2026-07-13",
+        "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
+        "summary": "エロン・マスクとサム・アルトマンが、マスク所有のSNSプラットフォーム「X」上でOpenAI訴訟をめぐり公開口論を繰り広げた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 外国政府から贈られた飛行機の安全保障上の問題を報じた記者が捜査対象となり、飛行機そのものの安全性への懸念はかすんでしまう構図。",
-        "<b>滑稽さ:</b> 「メッセンジャーを撃つ」という慣用句が、まさかエアフォースワンを舞台にして文字通り実行されようとしている。",
-        "<b>日本・海外から見ると:</b> 報道の自由ランキングが毎年話題になる中、「安全保障の問題を報じたら召喚状」という展開は、民主主義の教科書の皮肉なワンページとして記録されそうだ。"
+        "<b>矛盾:</b> マスクが「表現の自由の広場」として買収したプラットフォームが、競合他社との個人的な口喧嘩の主戦場になっている。",
+        "<b>滑稽さ:</b> 「AIの未来」を争う二人の億万長者が、その未来の技術を使わず、ツイート（投稿）で罵り合っている。",
+        "<b>日本・海外から見ると:</b> 世界最先端のAI企業を率いる人物たちが、SNSで中学生のような言い争いをしている姿は、シリコンバレーの「成熟度」を如実に示している。"
       ],
       "imagePrompts": [
-        "A gleaming jumbo jet with a gift bow on top sits on a runway. In the foreground, a reporter in a trench coat is handed a thick legal envelope by a suit-wearing figure, while the jet's cockpit window glows ominously.",
-        "A courtroom scene where the defendant's chair is occupied by a stack of newspapers, and the prosecution table is piled with luxury airline brochures.",
-        "A massive aircraft hangar with a 'NOTHING TO SEE HERE' banner draped over it, while a line of journalists in handcuffs files past a velvet rope."
+        "Two men in expensive suits sitting in adjacent high-tech boxing rings, both furiously typing on smartphones instead of fighting, giant neon sign reading 'X' overhead, crowd of investors watching with popcorn",
+        "A gleaming futuristic boardroom labeled 'The Future of AI' where two CEOs are pointing at each other across a table while a robot referee looks confused",
+        "A town square with a large sign reading 'Free Speech Plaza' — owned by one of the arguers — where two suited figures shout through megaphones at each other while everyone else scrolls their phones"
       ],
       "captions": [
-        "The government has confirmed the Air Force One gift is totally secure — and anyone who says otherwise will be hearing from a grand jury.",
-        "Good news: the plane passed inspection. Bad news: so did the subpoenas.",
-        "In America, the real security threat isn't the foreign-gifted aircraft — it's the paragraph that described it.",
-        "They say sunlight is the best disinfectant. Apparently the cure is a federal summons.",
-        "When asked about press freedom, the administration said it was fully committed — to finding out who practiced it."
+        "Elon Musk invented a free-speech platform so that, one day, someone could use it to publicly call him obsessed — and he'd have to let them.",
+        "Nothing says 'I'm winning the AI race' like logging onto your ex-rival's social network to tell him he's thinking about you too much.",
+        "Sam Altman responded to Apple's OpenAI lawsuit the old-fashioned way: by making it about Elon on Elon's website.",
+        "The future of humanity is being decided by two men who cannot stop @-mentioning each other.",
+        "Historians will note that the AI revolution began with a series of very normal, very mature posts."
       ],
       "captionsJa": [
-        "政府はエアフォースワンの安全性を完全に確認済みだと発表した。それを口にした人間には大陪審から連絡がいく。",
-        "朗報：飛行機は検査を通過した。悲報：召喚状も通過した。",
-        "アメリカでは、外国から贈られた飛行機そのものより、それを描写した段落の方が安全保障上の脅威とみなされる。",
-        "「陽の光こそ最良の消毒剤」と言うが、その処方箋が連邦召喚状になるとは思わなかった。",
-        "報道の自由についての見解を問われた政府は、「それを誰が行使したか突き止めることに全力を尽くしている」と答えた。"
+        "エロン・マスクは「言論の自由」のためにSNSを買収した。その結果、ライバルに「あなたは私に執着しすぎ」と公開で言われても、黙って受け入れるしかなくなった。",
+        "「AIレースで勝っている」ことを示す最善の方法：元ライバルのSNSにログインして「私のこと考えすぎ」と叫ぶ。",
+        "サム・アルトマンはAppleのOpenAI訴訟に対し、昔ながらの方法で応じた。エロンのサイトでエロンの話にしたのだ。",
+        "人類の未来は、互いに@メンションをやめられない二人の男に委ねられている。",
+        "歴史家たちはこう記録するだろう――「AI革命は、非常に普通で、非常に成熟した一連の投稿から始まった」と。"
       ],
-      "newsEn": "The Justice Department issued subpoenas to several New York Times journalists, sending federal agents to their homes to compel grand jury testimony. The subpoenas relate to the Times' reporting on alleged security concerns surrounding the Qatari-gifted aircraft that will serve as the new Air Force One. The Times confirmed the subpoenas, which mark a significant escalation in the administration's pressure on the press.",
+      "newsEn": "Elon Musk and Sam Altman engaged in a public dispute on X after Apple filed a lawsuit against OpenAI. Altman claimed Musk was fixated on him due to a recent OpenAI model release. The exchange unfolded on the very platform Musk purchased and rebranded as a supposed free-speech town square.",
       "ironyEn": [
         {
-          "contradiction": "The government is investigating reporters for revealing security concerns about a foreign-gifted plane, while the plane's security concerns themselves remain unaddressed in public.",
-          "absurdity": "Apparently the most dangerous thing about a potentially compromised aircraft is the newspaper article that mentioned it.",
-          "outside": "In a country that ranks itself as a beacon of press freedom, federal agents showing up at journalists' doorsteps over a security story lands like a plot twist in a cautionary tale."
+          "contradiction": "Elon Musk bought X to protect free speech — and is now using it primarily to conduct feuds with rivals.",
+          "absurdity": "The two men shaping the future of artificial intelligence are communicating via a medium that peaked in 2012.",
+          "outside": "From abroad, watching the world's most powerful tech CEOs bicker in public like teenagers offers a reassuring sense that America's elite is, in fact, deeply normal."
         },
         {
-          "contradiction": "The administration accepted a luxury jet from a foreign state, then moved to silence reporters who questioned whether that was entirely wise.",
-          "absurdity": "The grand jury wants to know who told the public about the security gap — not how the security gap got there in the first place.",
-          "outside": "Foreign observers watching the saga note that the Qatar-gifted plane has now generated more legal paperwork than diplomatic scrutiny."
+          "contradiction": "A platform sold as a neutral public square keeps serving as a premium billboard for its owner's personal grievances.",
+          "absurdity": "Sam Altman diagnosed Musk's psychology in two sentences on Musk's own app — and Musk could do nothing but reply.",
+          "outside": "International observers wondering who controls the AI race might be alarmed to learn the answer is: whoever posts last."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-12/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-07-13/candidate-1.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Whistleblowers Say Kennedy Center Renovations Were Rushed for FIFA Peace Prize Ceremony",
-        "source": "The Guardian US",
-        "date": "2026-07-12",
-        "url": "https://www.theguardian.com/us-news/2026/jul/11/trump-kennedy-center-renovations-whistleblowers",
-        "summary": "内部告発者によると、ケネディ・センターの改修工事がFIFAの授賞式に間に合わせるために拙速に進められ、随意契約や不備のある工事が相次いでいたという。民主党上院議員がこの問題を書面で指摘した。"
+        "headline": "'Funflation' Is Here: Staying Home Now Costs Almost as Much as Going Out",
+        "source": "CNBC Top News",
+        "date": "2026-07-13",
+        "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
+        "summary": "ストリーミングやビデオゲームなど「おうち娯楽」の料金値上げが相次ぎ、節約のつもりの巣ごもりがもはや安上がりでなくなっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 芸術・文化の殿堂として知られるケネディ・センターが、サッカー団体の授賞式のために突貫工事される——建前上の「文化の守護」と実態の「イベント準備」のギャップが際立つ。",
-        "<b>滑稽さ:</b> 「反射池」が二度目の施工失敗というのは、比喩として出来過ぎている。何も反射できていない。",
-        "<b>日本・海外から見ると:</b> 国の文化的象徴が随意契約とスポーツ団体の都合で改修される様子は、「文化より興行」という優先順位をそのまま建物に刻んだように見える。"
+        "<b>矛盾:</b> コロナ禍で「外食より節約できる」として普及したサブスクサービスが、今や値上げの常習犯となり、節約の砦が崩壊しつつある。",
+        "<b>滑稽さ:</b> 「家にいれば安く済む」という最後の逃げ場まで塞がれ、アメリカ人は高い金を払って自分の家に閉じこもるハメになっている。",
+        "<b>日本・海外から見ると:</b> 日本でもサブスク疲れは話題だが、アメリカの場合は「節約の選択肢」が次々と値上がりしていく構造が、消費者の逃げ場を完全になくしている点が際立つ。"
       ],
       "imagePrompts": [
-        "A grand neoclassical concert hall facade covered in construction scaffolding, with a giant FIFA trophy being craned into position above the entrance while workers in hard hats scramble below.",
-        "A reflecting pool in front of a government building showing a distorted, cracked reflection of a soccer ball instead of the building itself, with caution tape around the edges.",
-        "An elegant gala dinner inside a half-finished concert hall, chandeliers hanging next to exposed drywall, tuxedoed guests carefully stepping around wet cement."
+        "A person sitting alone on a couch surrounded by streaming device remotes, each labeled with a price tag going up like a stock chart, living room dimly lit by multiple screen glows, piggy bank visibly cracked on the coffee table",
+        "A family huddled inside their house looking out the window at a 'GOING OUT' sign showing a cheaper price than the wall of subscription bills pinned inside their front door",
+        "A cozy living room turned into a cashier checkout lane, with a person swiping a credit card just to press play on a remote control"
       ],
       "captions": [
-        "In a win for efficiency, the Kennedy Center skipped competitive bidding and went straight to the part where it looks bad.",
-        "The reflecting pool has now failed twice — officials say it accurately reflects the project management.",
-        "Nothing honors the legacy of American arts like a no-bid contract and a soccer trophy.",
-        "The renovations were rushed to be ready for the ceremony — the ceremony honoring an organization known for its spotless record on transparency.",
-        "When asked if the reflecting pool would ever work, a spokesperson said they were 'monitoring the situation,' which is also what the pool is not doing."
+        "Great news: you can still save money by staying home — you'll just need a second job to afford the streaming services.",
+        "The American dream used to be owning a home. Now it's affording to use the entertainment in the home you already own.",
+        "Funflation: when the economy follows you to your couch and asks for your credit card.",
+        "Researchers confirm that doing nothing has officially become a luxury experience.",
+        "At current rates, economists project that by 2028, going outside will be the budget option."
       ],
       "captionsJa": [
-        "効率化の勝利として、ケネディ・センターは競争入札を飛ばして、いきなり「見栄えが悪い」フェーズに直行した。",
-        "反射池は二度目の失敗。関係者は「プロジェクト管理を正確に反映している」と語った。",
-        "随意契約とサッカーのトロフィーほど、アメリカ芸術の遺産を称えるものはない。",
-        "改修は授賞式に間に合わせるために急がれた——透明性の高さで知られるあの組織の授賞式に。",
-        "反射池がいつか機能するかを問われた広報担当者は「状況を注視している」と答えた。それがまさに、池がやっていないことだ。"
+        "朗報：家にいれば今でも節約できる。ただし、ストリーミング代を払うために副業が必要になる。",
+        "かつてのアメリカンドリームは「家を持つこと」だった。今は「すでに持っている家の中で娯楽を楽しめること」になった。",
+        "ファンフレーション：経済があなたのソファまで追いかけてきて、クレジットカードを要求する現象。",
+        "研究者たちが確認した：「何もしないこと」は公式に高級体験となった。",
+        "現在の値上がりペースが続けば、2028年までに「外出」が最も安い娯楽の選択肢になると経済学者が予測している。"
       ],
-      "newsEn": "Senator Sheldon Whitehouse sent a letter to the Kennedy Center for the Performing Arts detailing allegations from whistleblowers that renovations were rushed and federal contracting rules were bypassed to prepare for a FIFA-related ceremony. The letter describes no-bid contracts and a second botched reflecting pool redevelopment. The allegations add to growing scrutiny over the administration's management of the storied cultural institution.",
+      "newsEn": "A trend dubbed 'funflation' is squeezing Americans who turned to at-home entertainment to cut costs. Streaming services and video game prices have risen sharply following a wave of price hikes, eroding the savings gap between staying in and going out. What was once seen as the budget-friendly alternative to expensive outings is now pinching household budgets in its own right.",
       "ironyEn": [
         {
-          "contradiction": "The Kennedy Center — named for a president and dedicated to the arts — was apparently renovated less for culture and more for a soccer organization's awards dinner.",
-          "absurdity": "The reflecting pool was botched not once but twice, which raises the philosophical question of what exactly it is reflecting.",
-          "outside": "Observers abroad are used to governments bending rules for big sports events, but doing it to a national arts monument adds a uniquely American layer of showmanship."
+          "contradiction": "Staying home was the affordable rebellion against inflation — until the entertainment industry noticed and repriced accordingly.",
+          "absurdity": "Americans are now paying premium prices to sit on their own couch, in their own house, eating their own snacks — and somehow still feeling ripped off.",
+          "outside": "From the outside, it looks like the U.S. economy has achieved something remarkable: making doing nothing expensive."
         },
         {
-          "contradiction": "No-bid contracts at a federally funded arts institution suggest the usual rules apply to everyone except whoever is in charge of the party planning.",
-          "absurdity": "A venue celebrated for world-class performances apparently couldn't perform a functional reflecting pool on the second attempt.",
-          "outside": "From the outside, the Kennedy Center saga reads like a renovation show where the deadline is a FIFA banquet and the budget is taxpayer money — entertainment, just not the intended kind."
+          "contradiction": "The 'budget option' has become a subscription trap that grows more expensive every quarter.",
+          "absurdity": "The logical endpoint of funflation is that going out for dinner will eventually become the cheaper, more relaxing option.",
+          "outside": "International observers find it impressive that America has managed to monetize the act of not leaving your home."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-12/candidate-2.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-13/candidate-2.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "White House Taps UFO Enthusiast Astrophysicist to Lead New UAP Advisory Council",
-        "source": "The Verge",
-        "date": "2026-07-11",
-        "url": "https://www.theverge.com/science/964478/white-house-avi-loeb-aliens-ufo-uap-council",
-        "summary": "ホワイトハウスが新設した「UAP科学諮問評議会」の長に、UFO・UAP研究で知られるハーバード大学天文物理学者エイブ・ローブを任命した。同評議会はペンタゴン、DNI、FBIも関与する政府横断的な組織。"
+        "headline": "Keystone Pipeline Operator to Pay $26.9 Million for 2022 Oil Spill — After Years of Fighting Regulations",
+        "source": "CBS News US",
+        "date": "2026-07-13",
+        "url": "https://www.cbsnews.com/news/keystone-pipeline-operator-agrees-pay-26-million-2022-oil-spill/",
+        "summary": "2022年のカンザス州原油流出事故をめぐり、キーストーンパイプラインの運営会社が米政府に2690万ドルを支払う和解案に合意した。"
       },
       "commentary": [
-        "<b>矛盾:</b> UFO問題に「科学的厳密さ」を持ち込むための機関のトップに、その分野で最も「宇宙人かも」と繰り返してきた研究者が就く——番人を番人に指名した構図。",
-        "<b>滑稽さ:</b> ホワイトハウス、ペンタゴン、FBI、DNIという「地球上で最も秘密を抱えた機関」が合同で「透明性ある科学的調査」を設置するという発想自体がすでにUFO級の謎だ。",
-        "<b>日本・海外から見ると:</b> 日本でもUFO開示への関心は高まっているが、「宇宙人説の主唱者を政府の公式科学顧問にする」という決断は、アメリカならではのスケール感がある。"
+        "<b>矛盾:</b> 環境規制を「ビジネスの障害」として長年ロビー活動で戦ってきたパイプライン業界が、その規制があれば防げたかもしれない事故の後始末に数千万ドルを支払う羽目になった。",
+        "<b>滑稽さ:</b> 「規制は不要だ」と主張してきた企業が、規制違反による罰金の支払いで政府と和解するという、教科書に載せたいほど完璧な皮肉。",
+        "<b>日本・海外から見ると:</b> 日本では企業の環境責任は法的に厳しく問われるが、アメリカでは数年間の交渉の末にようやく「2690万ドルで手打ち」という構図が、環境法執行の速度を物語っている。"
       ],
       "imagePrompts": [
-        "A formal government conference table with name placards reading 'Pentagon,' 'FBI,' 'White House,' and at the head of the table a single chair with a small glowing UFO model as a centerpiece, an astrophysicist in a suit standing behind it.",
-        "A scientist at a podium in front of a giant seal reading 'UAP Science Advisory Council,' pointing at a blurry photograph on a screen while suited officials behind him exchange uneasy glances.",
-        "A Harvard university office with diplomas on the wall, a model of a spacecraft on the desk, and a freshly framed government appointment certificate hanging next to an alien movie poster."
+        "A large pipeline stretching across a flat Kansas landscape with a small 'OOPS' flag planted at the spill site, a businessman in a hard hat handing an oversized novelty check to a government official while both stand ankle-deep in a dark liquid",
+        "A courtroom where a pipeline company executive slides a check across a table labeled '$26.9M' to a judge, while a map of Kansas with an oil stain sits as the only exhibit",
+        "A timeline wall showing a small oil spill in 2022 growing into a large puddle by 2026, with a tiny check at the end labeled 'problem solved'"
       ],
       "captions": [
-        "The government needed a neutral scientific voice on UFOs, so they picked the guy who has been saying 'it might be aliens' since before it was officially cool.",
-        "In a surprise twist, the man tasked with asking 'is it aliens?' now has a government badge that lets him ask louder.",
-        "The FBI spent decades investigating UFO believers. Now it funds one.",
-        "Avi Loeb's appointment proves that in Washington, being right too early is just being early — and eventually they'll give you a title.",
-        "When asked for comment, the Pentagon said it had no confirmation of extraterrestrial involvement in the appointment process — yet."
+        "The Keystone Pipeline has agreed to pay $26.9 million for the spill — which works out to roughly 'sorry about Kansas' per gallon.",
+        "After years of arguing that environmental regulations were unnecessary, the company has generously agreed to prove why they were necessary.",
+        "Justice, in pipeline terms, moves at approximately the same speed as oil through a cracked pipe.",
+        "The good news: the U.S. government will receive $26.9 million. The better news: Kansas will receive an apology.",
+        "In a twist no one saw coming, the pipeline that fought regulations for a decade has settled with the regulator it was fighting."
       ],
       "captionsJa": [
-        "政府はUFO問題に中立な科学の声が必要だと判断し、それが「公式にクールになる前から宇宙人かもと言い続けてきた人物」に白羽の矢が立った。",
-        "「これは宇宙人では？」と問う役目を担う男に、今度は政府のバッジが付いて声が大きくなった。",
-        "FBIはかつて数十年にわたりUFO信者を捜査した。今は一人に予算をつけている。",
-        "ローブ氏の任命は、ワシントンでは「早すぎた正解」がいつか肩書になることを証明した。",
-        "ペンタゴンは任命プロセスへの宇宙人の関与について「現時点では確認できない」と述べた。"
+        "キーストーンパイプラインは流出事故に対し2690万ドルを支払うことに合意した。換算すると「カンザスへの謝罪料」は1ガロンあたり数セントほどになる。",
+        "「環境規制は不要だ」と長年主張してきた企業が、それを証明するために規制違反の罰金を気前よく払うことに合意した。",
+        "正義は、パイプラインの観点からすると、ひびの入ったパイプを流れる原油とほぼ同じ速度で動く。",
+        "朗報：米政府は2690万ドルを受け取る。さらなる朗報：カンザスはお詫びの言葉を受け取る。",
+        "誰も予想しなかった展開：10年間戦ってきた規制当局と、ついに和解した。"
       ],
-      "newsEn": "Harvard astrophysicist Avi Loeb has been selected to head the UAP Science Advisory Council, a new body established by the White House, the Pentagon, the Office of the Director of National Intelligence, and the FBI. The council will provide scientific reports and advice to the UAP Governing Board. Loeb has been a prominent and sometimes controversial public advocate for taking extraterrestrial hypotheses seriously.",
+      "newsEn": "The operator of the Keystone Pipeline system has agreed to pay $26.9 million to settle claims with the U.S. government over a 2022 oil spill in Kansas. The proposed settlement covers environmental damages stemming from the incident. The Keystone Pipeline has been the subject of prolonged political and regulatory battles over its environmental impact for more than a decade.",
       "ironyEn": [
         {
-          "contradiction": "The government created a council for sober scientific analysis of UAPs, then appointed the scientist best known for enthusiastically speculating about alien origins.",
-          "absurdity": "The FBI and the Pentagon joining hands to establish a transparency-focused science board is itself the kind of story that sounds like it came from a UAP briefing.",
-          "outside": "Most countries debate whether to take UFO reports seriously at all; the U.S. has moved straight to giving the most vocal alien theorist an official government title."
+          "contradiction": "The Keystone Pipeline spent years fighting environmental oversight — and is now paying the government $26.9 million as a direct result of the environmental incident that oversight was meant to prevent.",
+          "absurdity": "After a decade of debate about whether the pipeline was safe, the pipeline answered the question itself.",
+          "outside": "Foreign observers note that the settlement amount — after years of spill cleanup — suggests that in America, the price of polluting a state is roughly the cost of a mid-sized office building."
         },
         {
-          "contradiction": "A body designed to bring rigorous skepticism to UAP claims is chaired by someone whose public profile was built on arguing the opposite of skepticism.",
-          "absurdity": "If Avi Loeb finds evidence of aliens, he will report it to the FBI — an agency that, until recently, investigated people who believed in aliens.",
-          "outside": "International scientists watching this appointment note that it is either a visionary move or the most elaborate trolling of the peer-review process ever attempted."
+          "contradiction": "Regulatory red tape was the enemy — right up until the moment a check needed to be written to the regulator.",
+          "absurdity": "The pipeline that was going to make America energy-independent has now made Kansas slightly less independent of oil.",
+          "outside": "From abroad, the timeline of 'spill in 2022, settle in 2026' raises the question of what exactly was happening with the cleanup in the intervening four years."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-12/candidate-3.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-13/candidate-3.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Progressive Candidates Bet Voters Have Forgotten Their Old 'Defund the Police' Posts",
+        "headline": "Texas Hispanic Voters Swung to Trump — Now a Poll Shows They're Furious About Deportations",
         "source": "Politico",
-        "date": "2026-07-12",
-        "url": "https://www.politico.com/news/2026/07/11/progressives-democrats-social-media-posts-00993111",
-        "summary": "左派の候補者たちは、過去のSNS投稿（警察予算削減支持など）よりも経済的ポピュリズムの訴えが有権者に響くと踏んで選挙戦に臨んでいるが、共和党側はその投稿を材料にして準備を進めている。"
+        "date": "2026-07-13",
+        "url": "https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955",
+        "summary": "テキサス州のヒスパニック系有権者はトランプ前回選挙で大きく支持を伸ばしたが、新たな世論調査では同コミュニティのビジネスオーナーの間で大規模強制送還への強い怒りが示されている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「過去の投稿は時代遅れ」と主張する候補者たちが、その投稿をすでに保存・整理済みの対立陣営の前に立つ——デジタルの永続性という現実が、政治的「リセット」の幻想を砕く。",
-        "<b>滑稽さ:</b> SNSが「自分を売り込む道具」として政治家に使われ始めた結果、「自分を埋める墓穴」としても機能するようになったというインターネット時代の完全な自業自得。",
-        "<b>日本・海外から見ると:</b> 日本でも政治家の過去発言掘り起こしは選挙の定番だが、「本人が忘れたと信じているSNS投稿」を戦略の前提に据える楽観主義は、独特のアメリカ的スケール感がある。"
+        "<b>矛盾:</b> トランプへの支持票を投じたテキサスのヒスパニック系コミュニティが、今まさにその政策の最前線に立たされ、怒りを表明するという皮肉な構図が生まれている。",
+        "<b>滑稽さ:</b> 「移民政策に厳しくしても票は取れる」という戦略的賭けが、当の移民系コミュニティからの反発で早くも揺らぎはじめた。",
+        "<b>日本・海外から見ると:</b> 日本を含む海外から見ると、自分たちに向けられた政策を支持した有権者グループが同じ政策に怒る、という展開は、アメリカの選挙政治の複雑さを象徴している。"
       ],
       "imagePrompts": [
-        "A politician at a podium giving a speech about kitchen-table economics, while directly behind them a giant digital billboard displays a parade of their old social media posts, each with a timestamp.",
-        "A candidate confidently erasing writing from a whiteboard labeled 'Old Posts,' while a figure in the audience photographs the whiteboard with a long-lens camera.",
-        "A political campaign office with a 'NEW MESSAGE: ECONOMY' banner hung over a wall plastered with printed screenshots of old tweets, the edges of the screenshots visible beneath the banner."
+        "A Texas barbecue restaurant owner standing in front of his business holding a 'OPEN' sign, while in the background a large billboard reads 'You Asked For It' with an arrow pointing toward him, dust blowing across a wide Texas plain",
+        "A polling station in Texas decorated with 'We Did It!' banners, now surrounded by voters holding protest signs reading 'Not Like This'",
+        "A split scoreboard showing '2024 Election Results' on one side and '2026 Poll Results' on the other, a confused-looking elephant mascot standing between them scratching its head"
       ],
       "captions": [
-        "The candidates' new strategy: economic populism, fresh vibes, and a firm belief that the internet deletes things.",
-        "Step one: post everything. Step two: run for office. Step three: assume step one never happened.",
-        "Republicans say they're 'salivating.' The candidates say they're 'pivoting.' The search bar says nothing — it just shows results.",
-        "Nothing signals a bold new political vision like hoping nobody has a screenshot.",
-        "In the digital age, the past is always present — unless you're running a campaign, in which case it's apparently negotiable."
+        "Texas Hispanic business owners who supported Trump's tough immigration stance have now taken a tough stance on Trump's immigration policy — turns out these are different things.",
+        "A new poll confirms that voters can simultaneously be a voting bloc and the subject of the policy that voting bloc enabled. Democracy is rich.",
+        "Political scientists call this a 'coalition.' The coalition calls it something unprintable.",
+        "In a surprise to everyone except historians, a group targeted by a policy expressed disapproval of that policy shortly after helping implement it.",
+        "The realignment held for about two years — roughly the time it takes for a policy to reach your neighborhood."
       ],
       "captionsJa": [
-        "候補者たちの新戦略：経済ポピュリズム、フレッシュなイメージ、そしてインターネットが物を消すという固い信念。",
-        "ステップ1：全部投稿する。ステップ2：選挙に出る。ステップ3：ステップ1が存在しなかったと仮定する。",
-        "共和党は「よだれが出る」と言い、候補者は「転換する」と言い、検索バーは何も言わずに結果を表示する。",
-        "大胆な新しい政治ビジョンを示すのに、「スクショが誰にもないといいな」ほど頼りになるものはない。",
-        "デジタル時代において過去は常に現在だ——ただし選挙運動中は、どうやら交渉の余地があるらしい。"
+        "移民への厳しい姿勢を支持したテキサスのヒスパニック系経営者たちが、今度はその移民政策に対して厳しい姿勢を示している。この二つは、どうやら別物らしい。",
+        "新たな世論調査が確認した：有権者は「ある政策を生み出した支持者」と「その政策の対象者」を同時に務められる。民主主義とは奥深い。",
+        "政治学者はこれを「連合」と呼ぶ。当の連合は、活字にできない言葉で呼んでいる。",
+        "歴史家以外には驚きをもって受け止められたニュース：ある政策の対象グループが、その政策の実現を手伝った直後に不満を示した。",
+        "今回の政治的再編は約2年間持続した。政策が自分の街にたどり着くのに要する時間と、ほぼ一致している。"
       ],
-      "newsEn": "Far-left political candidates are reportedly betting that voters will prioritize economic populist messages over old social media posts calling to defund the police and other controversial positions. The candidates appear to be counting on a shift in the political atmosphere to make past statements less damaging. Republicans, meanwhile, are described as preparing to use those archived posts as campaign ammunition.",
+      "newsEn": "A new poll of Hispanic business owners in Texas shows strong opposition to the Trump administration's deportation policies, with Democratic candidate James Talarico performing strongly among respondents. The survey highlights a potential shift in sentiment among a demographic that had moved notably toward Trump in recent elections. Texas Hispanic voters were widely credited as a key factor in Trump's improved margins in the state.",
       "ironyEn": [
         {
-          "contradiction": "Candidates who built their brands on social media are now hoping that social media's permanent memory will simply choose not to remember them.",
-          "absurdity": "The entire strategy rests on voters being less online than the opponents who are very much online, cataloguing every post.",
-          "outside": "In an era when a decade-old tweet ends careers overnight, running on the premise that yours won't is either brave or a masterclass in wishful thinking."
+          "contradiction": "Texas Hispanic voters helped deliver Trump a stronger margin — and are now among the primary targets of the policy agenda they helped elect.",
+          "absurdity": "The political realignment that Republicans celebrated as a coalition breakthrough appears to be experiencing some buyer's remorse.",
+          "outside": "From the outside, the sequence — vote for the candidate, get targeted by the candidate's signature policy — reads like a very American civics lesson."
         },
         {
-          "contradiction": "Progressive candidates want to move the conversation to economic populism while Republicans want to move it exactly zero inches from the old posts.",
-          "absurdity": "The candidates are essentially asking the internet to have a short memory — the one thing the internet has never had.",
-          "outside": "Observers elsewhere find it remarkable that a candidate's campaign strategy can hinge on whether voters are better at forgetting than search engines are at finding."
+          "contradiction": "A demographic group that swung toward Trump to signal economic frustration is now expressing frustration at the economic consequences of Trump's immigration enforcement.",
+          "absurdity": "Pollsters discovered that 'furious at deportations' and 'voted for the deportation candidate' can, in fact, describe the same voter.",
+          "outside": "International observers accustomed to more stable political alignments find the American voter's relationship with consequences both baffling and entirely relatable."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-12/candidate-4.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-13/candidate-4.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Miami Gardens Built the Stadium. Miami Built the Brand.",
-        "source": "Politico",
-        "date": "2026-07-12",
-        "url": "https://www.politico.com/live-updates/2026/07/11/world-cup-2026/the-city-fifa-erased-miami-gardens-stadium-00993897",
-        "summary": "FIFAワールドカップ2026の開催地として、スタジアムが実際に建つマイアミ・ガーデンズ市は施設を提供しながらも、国際的なブランドイメージは隣接するマイアミ市に持っていかれている構図が指摘されている。"
+        "headline": "Trump's Washington Makeover Is Generating More Lawsuits Than Monuments",
+        "source": "CBS News US",
+        "date": "2026-07-13",
+        "url": "https://www.cbsnews.com/news/trumps-monumental-reimagining-of-washington-d-c/",
+        "summary": "トランプ政権によるワシントンD.C.の大規模な改修・建設・解体計画が、批判者からの訴訟の嵐を引き起こしている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「ホスト都市」を名乗れるのは施設を持つ側のはずが、栄光だけが別の都市に流れていく——スポーツイベントの経済効果配分という古典的な不均衡が、都市間でくっきり可視化されている。",
-        "<b>滑稽さ:</b> ワールドカップで「開催都市」として世界に紹介される「マイアミ」は、実際にはスタジアムがない街だ。地図より広報の方が強い。",
-        "<b>日本・海外から見ると:</b> 大規模スポーツイベントで「名前だけ貸す都市」と「実際に作る都市」が乖離する現象は世界各地で起きているが、その乖離が隣接する二都市の人種・経済的格差とも重なる点は見逃せない。"
+        "<b>矛盾:</b> アメリカの民主主義と歴史の象徴であるはずのワシントンD.C.を「作り直す」計画が、その民主主義の柱である司法制度による訴訟の山を生み出している。",
+        "<b>滑稽さ:</b> 首都を「もっと偉大に」するための工事が、法廷での戦いという形で首都をより混乱させている。",
+        "<b>日本・海外から見ると:</b> 日本では国家的建造物の大規模改修は慎重な合意形成の末に進むが、アメリカでは大統領が首都の景観を訴訟リスクごと「ディール」で進めようとする構図が際立つ。"
       ],
       "imagePrompts": [
-        "An aerial view of a massive stadium surrounded by a modest urban neighborhood, with a glittering skyline visible in the far distance, connected only by a long highway, with a large 'MIAMI' banner flying over the distant skyline.",
-        "Two city limit signs side by side on a highway: one reading 'Miami Gardens — We Built It' next to a gleaming stadium, and one reading 'Miami — We Branded It' next to a luxury hotel and nightclub.",
-        "A construction worker in a hard hat standing in front of a completed stadium, looking at a magazine cover that shows a different city's skyline labeled 'World Cup Host City.'"
+        "A construction site in Washington D.C. where every piece of heavy machinery has a lawsuit document taped to it, the Capitol dome visible in the background, a hard-hatted foreman reading a stack of injunctions instead of blueprints",
+        "A grand architectural blueprint of a reimagined Washington D.C. monument, covered entirely in yellow sticky notes reading 'LAWSUIT', 'INJUNCTION', and 'SEE YOU IN COURT'",
+        "A split image: left side shows gleaming architectural renderings of new D.C. monuments; right side shows an equally tall stack of legal briefs labeled 'Opposition Filed'"
       ],
       "captions": [
-        "Miami Gardens: built the stadium, laid the turf, and then watched 'Miami' get all the headlines. Classic.",
-        "In the World Cup of credit-taking, Miami is undefeated.",
-        "The official host city is Miami. The actual host city would like a word.",
-        "They say in real estate it's location, location, location. In branding, it's apparently whatever sounds better on a T-shirt.",
-        "Miami Gardens did the hosting. Miami did the hashtagging. History will remember the hashtag."
+        "Trump's plan to remake Washington is moving at the speed of American justice — which is to say, it's mostly stuck in court.",
+        "The president has successfully transformed Washington D.C. into the country's most architecturally ambitious legal dispute.",
+        "Critics worried about what the new Washington would look like. At this rate, they'll find out sometime after the next administration.",
+        "Washington D.C.: where every new monument comes standard with a complimentary injunction.",
+        "The good news is that all the litigation is keeping D.C.'s lawyers fully employed — which is, technically, an infrastructure achievement."
       ],
       "captionsJa": [
-        "マイアミ・ガーデンズはスタジアムを建て、芝を敷き、そして「マイアミ」が全見出しをさらっていくのを見届けた。お約束の展開。",
-        "功績横取りのワールドカップでは、マイアミは無敗だ。",
-        "公式の開催都市はマイアミ。実際の開催都市は一言申し上げたいことがある。",
-        "不動産は「立地・立地・立地」と言う。ブランディングは「Tシャツに映える方で」らしい。",
-        "マイアミ・ガーデンズが「ホスト」をし、マイアミが「ハッシュタグ」をした。歴史はハッシュタグを覚えている。"
+        "トランプ氏のワシントン改造計画は、アメリカの司法と同じ速度で進んでいる。つまり、ほぼ裁判所で止まっている。",
+        "大統領はワシントンD.C.を、国内で最も建築的野心に満ちた法廷闘争の場へと見事に変貌させた。",
+        "批評家たちは新しいワシントンがどんな姿になるか心配していた。このペースだと、次の政権発足後にようやく分かるだろう。",
+        "ワシントンD.C.：新しいモニュメントには、もれなく差し止め命令が付いてくる。",
+        "朗報：この大量訴訟のおかげでD.C.の弁護士は完全雇用状態だ。これは技術的には、インフラ整備の成果と言える。"
       ],
-      "newsEn": "Miami Gardens, the city that actually hosts the World Cup stadium, is doing the physical work of hosting the tournament while the global spotlight and brand recognition falls on Miami, the neighboring and more famous city. The dynamic highlights a recurring tension between the cities, with Miami Gardens — a majority-Black city — providing the infrastructure while Miami reaps the reputational benefits.",
+      "newsEn": "President Trump's sweeping efforts to demolish, construct, and renovate landmarks in Washington, D.C. have sparked a firestorm of legal challenges. Critics have filed multiple lawsuits seeking to block his plans to remake the nation's capital. The projects range from renovation of existing monuments to construction of new structures, all contested on legal and historical preservation grounds.",
       "ironyEn": [
         {
-          "contradiction": "The city that built and maintains the stadium is not the city that gets to say it hosted the World Cup.",
-          "absurdity": "In one of the world's most-watched tournaments, the host city's name on the official branding belongs to a city that will watch most of the matches from across the county line.",
-          "outside": "International visitors flying into 'World Cup Miami' may be surprised to discover that the stadium is technically in a different city — one that did all the building and gets considerably less of the glory."
+          "contradiction": "The plan to monumentalize the president's legacy is producing more court filings than concrete foundations.",
+          "absurdity": "Washington D.C. — already home to the Supreme Court, federal courts, and every major legal institution — is now also the most litigated construction site in America.",
+          "outside": "From abroad, remodeling the symbolic heart of democracy while simultaneously fighting democracy's legal institutions in court is a tension that does not go unnoticed."
         },
         {
-          "contradiction": "Miami Gardens is a majority-Black city providing the labor and infrastructure for an event whose prestige and economic narrative are captured by its wealthier, whiter neighbor.",
-          "absurdity": "The stadium exists in Miami Gardens, the fans will party in Miami, the profits will flow through Miami, and the Wikipedia article will say 'Miami.'",
-          "outside": "Urban planners elsewhere have a term for this arrangement; it is usually not a compliment."
+          "contradiction": "Efforts to physically reimagine the capital keep generating paperwork in the very buildings those efforts are meant to overshadow.",
+          "absurdity": "The fastest-growing monument in Washington right now is the stack of injunctions filed against the other monuments.",
+          "outside": "International visitors planning a trip to see the new Washington D.C. are advised to check court dockets before purchasing tickets."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-12/candidate-5.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-07-13/candidate-5.jpg",
+      "imageStyle": "retro-pop"
     }
   ]
 };
