@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-13",
-  "generatedAt": "2026-07-12T22:36:31+00:00",
+  "date": "2026-07-14",
+  "generatedAt": "2026-07-13T22:45:11+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Musk and Altman Trade Insults on X — The Platform Musk Owns",
+        "headline": "Chipotle Opens First Location in Mexico — Bringing 'Mexican Food' Back to Mexico",
         "source": "CNBC Top News",
-        "date": "2026-07-13",
-        "url": "https://www.cnbc.com/2026/07/12/elon-musk-and-sam-altman-spar-.html",
-        "summary": "エロン・マスクとサム・アルトマンが、マスク所有のSNSプラットフォーム「X」上でOpenAI訴訟をめぐり公開口論を繰り広げた。"
+        "date": "2026-07-14",
+        "url": "https://www.cnbc.com/2026/07/13/chipotle-opening-first-restaurant-in-mexico.html",
+        "summary": "アメリカのファストカジュアルチェーン「チポトレ」が、メキシコのモンテレイ近郊に初の店舗をオープンすると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> マスクが「表現の自由の広場」として買収したプラットフォームが、競合他社との個人的な口喧嘩の主戦場になっている。",
-        "<b>滑稽さ:</b> 「AIの未来」を争う二人の億万長者が、その未来の技術を使わず、ツイート（投稿）で罵り合っている。",
-        "<b>日本・海外から見ると:</b> 世界最先端のAI企業を率いる人物たちが、SNSで中学生のような言い争いをしている姿は、シリコンバレーの「成熟度」を如実に示している。"
+        "<b>矛盾:</b> 「メキシコ料理」を売りにして33年間アメリカで成長してきたチェーンが、いまさら本家メキシコに「逆輸出」するという構図が根本的に倒錯している。",
+        "<b>滑稽さ:</b> モンテレイの人々は、自分たちの文化をアメリカ経由でラミネート加工された状態で受け取ることになる。ブリトーボウルの値段がタコス屋台の何倍になるかが注目点だ。",
+        "<b>日本・海外から見ると:</b> 日本で言えば「吉野家がアメリカ発の牛丼チェーンとして日本に上陸」するようなもので、文化の輸出入が一周して帰ってきた典型例に映る。"
       ],
       "imagePrompts": [
-        "Two men in expensive suits sitting in adjacent high-tech boxing rings, both furiously typing on smartphones instead of fighting, giant neon sign reading 'X' overhead, crowd of investors watching with popcorn",
-        "A gleaming futuristic boardroom labeled 'The Future of AI' where two CEOs are pointing at each other across a table while a robot referee looks confused",
-        "A town square with a large sign reading 'Free Speech Plaza' — owned by one of the arguers — where two suited figures shout through megaphones at each other while everyone else scrolls their phones"
+        "A Chipotle restaurant storefront with a large sombrero logo planted in front of it, located on a street lined with traditional Mexican taco stands and street food vendors who are staring at it with arms crossed",
+        "A burrito bowl being ceremonially presented on a silver platter to a group of Mexican grandmothers, who are holding their own homemade dishes and wearing expressions of polite bewilderment",
+        "A giant delivery truck labeled 'AUTHENTIC MEXICAN FOOD — MADE IN DENVER' backing up to the US-Mexico border while a taco cart vendor watches from the other side"
       ],
       "captions": [
-        "Elon Musk invented a free-speech platform so that, one day, someone could use it to publicly call him obsessed — and he'd have to let them.",
-        "Nothing says 'I'm winning the AI race' like logging onto your ex-rival's social network to tell him he's thinking about you too much.",
-        "Sam Altman responded to Apple's OpenAI lawsuit the old-fashioned way: by making it about Elon on Elon's website.",
-        "The future of humanity is being decided by two men who cannot stop @-mentioning each other.",
-        "Historians will note that the AI revolution began with a series of very normal, very mature posts."
+        "Chipotle is finally opening in Mexico, completing the cultural circle of life — first they took the cuisine, then they trademarked it, and now they're bringing it home at $14 a bowl.",
+        "Great news for Mexicans who have always wanted to experience Mexican food, but with a loyalty app.",
+        "Chipotle's first Mexico location will be in Monterrey — chosen specifically because it's the city least likely to tell them what a real burrito tastes like.",
+        "The chain confirmed all menu items will remain unchanged, which in Mexico is either very brave or a cry for help.",
+        "In a historic reversal, Mexico will now get to experience the watered-down version of itself. Experts call it 'the circle of guac.'"
       ],
       "captionsJa": [
-        "エロン・マスクは「言論の自由」のためにSNSを買収した。その結果、ライバルに「あなたは私に執着しすぎ」と公開で言われても、黙って受け入れるしかなくなった。",
-        "「AIレースで勝っている」ことを示す最善の方法：元ライバルのSNSにログインして「私のこと考えすぎ」と叫ぶ。",
-        "サム・アルトマンはAppleのOpenAI訴訟に対し、昔ながらの方法で応じた。エロンのサイトでエロンの話にしたのだ。",
-        "人類の未来は、互いに@メンションをやめられない二人の男に委ねられている。",
-        "歴史家たちはこう記録するだろう――「AI革命は、非常に普通で、非常に成熟した一連の投稿から始まった」と。"
+        "チポトレがついにメキシコに出店——料理を借用し、商標登録し、1杯2000円で里帰りさせるという文化の輪廻が完成した。",
+        "ずっとメキシコ料理を食べたかったメキシコ人に朗報。ただしポイントカード付きで。",
+        "メキシコ1号店の場所はモンテレイ。「本物のブリトーとは何か」を指摘される可能性が最も低い都市として選ばれたと思われる。",
+        "メニューは全米と変わらないとのこと——メキシコでそれをやるのは、相当な度胸か、助けを求めるサインかのどちらかだ。",
+        "歴史的な逆輸出により、メキシコはついに希釈された自分自身を体験できる。専門家はこれを『ワカモレの輪』と呼んでいる。"
       ],
-      "newsEn": "Elon Musk and Sam Altman engaged in a public dispute on X after Apple filed a lawsuit against OpenAI. Altman claimed Musk was fixated on him due to a recent OpenAI model release. The exchange unfolded on the very platform Musk purchased and rebranded as a supposed free-speech town square.",
+      "newsEn": "Chipotle Mexican Grill announced Monday that it will open its first restaurant in Mexico, located in the Monterrey area. The fast-casual chain, which built its brand identity around Mexican-inspired cuisine, has operated exclusively outside Mexico since its founding in 1993. The move marks a significant international expansion milestone for the company.",
       "ironyEn": [
         {
-          "contradiction": "Elon Musk bought X to protect free speech — and is now using it primarily to conduct feuds with rivals.",
-          "absurdity": "The two men shaping the future of artificial intelligence are communicating via a medium that peaked in 2012.",
-          "outside": "From abroad, watching the world's most powerful tech CEOs bicker in public like teenagers offers a reassuring sense that America's elite is, in fact, deeply normal."
+          "contradiction": "A chain that spent three decades teaching Americans what 'Mexican food' is has finally received permission — from itself — to open in Mexico.",
+          "absurdity": "Monterrey residents can now experience the authentic taste of a Newport Beach, California boardroom's interpretation of their own culinary heritage.",
+          "outside": "From abroad, it looks like a cover band finally booking a show in the hometown of the band they've been covering."
         },
         {
-          "contradiction": "A platform sold as a neutral public square keeps serving as a premium billboard for its owner's personal grievances.",
-          "absurdity": "Sam Altman diagnosed Musk's psychology in two sentences on Musk's own app — and Musk could do nothing but reply.",
-          "outside": "International observers wondering who controls the AI race might be alarmed to learn the answer is: whoever posts last."
+          "contradiction": "Chipotle's entire brand identity is built on Mexican culture, yet Mexico is only now making the guest list.",
+          "absurdity": "Somewhere in Monterrey, a grandmother who has made fresh tortillas every morning for fifty years will now have the option to pay premium for a flour tortilla wrapped by a algorithm-optimized assembly line.",
+          "outside": "The rest of the world watches America export 'Mexican food' back to Mexico and wonders who exactly asked for this."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-13/candidate-1.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-14/candidate-1.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "'Funflation' Is Here: Staying Home Now Costs Almost as Much as Going Out",
+        "headline": "Judge Says Trump Sued the IRS for 'Improper Purpose,' Refers His Lawyer to the Bar",
         "source": "CNBC Top News",
-        "date": "2026-07-13",
-        "url": "https://www.cnbc.com/2026/07/11/funflation-streaming-video-games-xbox-apple-disney-netflix.html",
-        "summary": "ストリーミングやビデオゲームなど「おうち娯楽」の料金値上げが相次ぎ、節約のつもりの巣ごもりがもはや安上がりでなくなっている。"
+        "date": "2026-07-14",
+        "url": "https://www.cnbc.com/2026/07/13/trump-irs-doj-lawsuit-blanche.html",
+        "summary": "連邦判事が、トランプ前大統領によるIRS（国税庁）への訴訟は「不適切な目的」で提起されたと判断し、担当弁護士を弁護士会に照会した。"
       },
       "commentary": [
-        "<b>矛盾:</b> コロナ禍で「外食より節約できる」として普及したサブスクサービスが、今や値上げの常習犯となり、節約の砦が崩壊しつつある。",
-        "<b>滑稽さ:</b> 「家にいれば安く済む」という最後の逃げ場まで塞がれ、アメリカ人は高い金を払って自分の家に閉じこもるハメになっている。",
-        "<b>日本・海外から見ると:</b> 日本でもサブスク疲れは話題だが、アメリカの場合は「節約の選択肢」が次々と値上がりしていく構造が、消費者の逃げ場を完全になくしている点が際立つ。"
+        "<b>矛盾:</b> 「法の武器化（lawfare）」と戦うための訴訟が、裁判所から「不適切な目的の訴訟」と認定されるという、まさにlawfareの定義を自ら体現する結果になった。",
+        "<b>滑稽さ:</b> その訴訟の和解金として設立が合意された「lаwfareファンド」（18億ドル）は、後に廃止された——つまり、不適切な訴訟がlawfareを取り締まる基金を生み、その基金も消えた、という三段落ちだ。",
+        "<b>日本・海外から見ると:</b> 「訴訟を乱用する側」が「訴訟の乱用を訴える」という構図は、日本語で言えば「泥棒が泥棒を訴える」に近く、法システムへの信頼を笑いながら揺さぶる事例に見える。"
       ],
       "imagePrompts": [
-        "A person sitting alone on a couch surrounded by streaming device remotes, each labeled with a price tag going up like a stock chart, living room dimly lit by multiple screen glows, piggy bank visibly cracked on the coffee table",
-        "A family huddled inside their house looking out the window at a 'GOING OUT' sign showing a cheaper price than the wall of subscription bills pinned inside their front door",
-        "A cozy living room turned into a cashier checkout lane, with a person swiping a credit card just to press play on a remote control"
+        "A courtroom where a large boomerang labeled 'LAWFARE' is in mid-flight, having been thrown by a figure at the plaintiff's table and now curving directly back toward the same table, as the judge watches calmly over her glasses",
+        "A giant piggy bank labeled '$1.8 BILLION ANTI-LAWFARE FUND' dissolving into thin air while a janitor with a broom labeled 'DOJ' shrugs at the empty space where it stood",
+        "An attorney standing in front of a judge's bench receiving a certified letter addressed 'To: The Bar Association' while holding a briefcase with the word 'IMPROPER' stamped across it in red"
       ],
       "captions": [
-        "Great news: you can still save money by staying home — you'll just need a second job to afford the streaming services.",
-        "The American dream used to be owning a home. Now it's affording to use the entertainment in the home you already own.",
-        "Funflation: when the economy follows you to your couch and asks for your credit card.",
-        "Researchers confirm that doing nothing has officially become a luxury experience.",
-        "At current rates, economists project that by 2028, going outside will be the budget option."
+        "A judge ruled Trump's lawsuit against the IRS was filed for 'improper purposes' — which, in fairness, is a step up from the usual 'no purpose at all.'",
+        "The lawsuit to stop the weaponization of law was itself weaponized. The lawyers call this a paradox. The judge called it a bar referral.",
+        "The $1.8 billion anti-lawfare fund created by the lawsuit has since been scrapped, proving once again that the best way to fight government waste is to create more of it first.",
+        "Trump sued the IRS. The judge said it was improper. The lawyer got reported to the bar. The $1.8 billion fund disappeared. Nobody got audited. Truly, justice moves in mysterious ways.",
+        "In a twist, the courtroom confirmed that the most expensive way to complain about government overreach is to overreach in a government courtroom."
       ],
       "captionsJa": [
-        "朗報：家にいれば今でも節約できる。ただし、ストリーミング代を払うために副業が必要になる。",
-        "かつてのアメリカンドリームは「家を持つこと」だった。今は「すでに持っている家の中で娯楽を楽しめること」になった。",
-        "ファンフレーション：経済があなたのソファまで追いかけてきて、クレジットカードを要求する現象。",
-        "研究者たちが確認した：「何もしないこと」は公式に高級体験となった。",
-        "現在の値上がりペースが続けば、2028年までに「外出」が最も安い娯楽の選択肢になると経済学者が予測している。"
+        "判事はトランプのIRS訴訟を「不適切な目的」と認定した——公平に言えば、「目的がまったくない」よりは一段階マシではある。",
+        "「法の武器化」を止めるための訴訟が、自ら武器化された。弁護士はこれをパラドックスと呼ぶ。判事は弁護士会照会と呼んだ。",
+        "訴訟の和解で生まれた18億ドルの「反lawfareファンド」はその後廃止された——政府の無駄遣いと戦う最良の方法が、まず無駄遣いを作ることだと改めて証明された。",
+        "トランプがIRSを訴え、判事が不適切と言い、弁護士が弁護士会に照会され、18億ドルが消えた。誰も税務調査を受けていない。正義とは実に神秘的な動き方をする。",
+        "皮肉な展開として、政府の越権行為への抗議として最もコストがかかる方法は、政府の法廷で越権することだと確認された。"
       ],
-      "newsEn": "A trend dubbed 'funflation' is squeezing Americans who turned to at-home entertainment to cut costs. Streaming services and video game prices have risen sharply following a wave of price hikes, eroding the savings gap between staying in and going out. What was once seen as the budget-friendly alternative to expensive outings is now pinching household budgets in its own right.",
+      "newsEn": "U.S. District Judge Kathleen Williams ruled that former President Trump's lawsuit against the IRS was filed for an 'improper purpose,' and referred his attorney to the state bar for potential disciplinary review. The lawsuit had previously been settled by the Justice Department with an agreement to create a $1.8 billion 'lawfare' fund, which was subsequently scrapped. The ruling represents a significant judicial rebuke of the legal strategy employed in the case.",
       "ironyEn": [
         {
-          "contradiction": "Staying home was the affordable rebellion against inflation — until the entertainment industry noticed and repriced accordingly.",
-          "absurdity": "Americans are now paying premium prices to sit on their own couch, in their own house, eating their own snacks — and somehow still feeling ripped off.",
-          "outside": "From the outside, it looks like the U.S. economy has achieved something remarkable: making doing nothing expensive."
+          "contradiction": "A lawsuit explicitly framed as fighting the weaponization of the legal system was itself ruled to have been filed as a weapon — for an 'improper purpose.'",
+          "absurdity": "The settlement produced a $1.8 billion 'anti-lawfare' fund, which was then scrapped, meaning the improper lawsuit briefly created a fund to fight improper lawsuits before everyone agreed to pretend none of it happened.",
+          "outside": "From outside the US, it reads like a folk tale: a man sues the tax collector for being too aggressive, the judge calls the suit aggressive, and the $1.8 billion remedy vanishes like smoke."
         },
         {
-          "contradiction": "The 'budget option' has become a subscription trap that grows more expensive every quarter.",
-          "absurdity": "The logical endpoint of funflation is that going out for dinner will eventually become the cheaper, more relaxing option.",
-          "outside": "International observers find it impressive that America has managed to monetize the act of not leaving your home."
+          "contradiction": "The administration that coined 'lawfare' as a pejorative just got the dictionary definition applied to its own legal filing.",
+          "absurdity": "The lawyer involved now faces a bar referral, completing the rare achievement of losing a case, losing the fund, and losing the lawyer — all in one ruling.",
+          "outside": "Internationally, this is the legal equivalent of a fire department being cited for arson."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-13/candidate-2.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-14/candidate-2.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Keystone Pipeline Operator to Pay $26.9 Million for 2022 Oil Spill — After Years of Fighting Regulations",
-        "source": "CBS News US",
-        "date": "2026-07-13",
-        "url": "https://www.cbsnews.com/news/keystone-pipeline-operator-agrees-pay-26-million-2022-oil-spill/",
-        "summary": "2022年のカンザス州原油流出事故をめぐり、キーストーンパイプラインの運営会社が米政府に2690万ドルを支払う和解案に合意した。"
+        "headline": "Microsoft Tests Windows Search Without Ads — A Feature Users Wanted Since Windows Search Had Ads",
+        "source": "The Verge",
+        "date": "2026-07-14",
+        "url": "https://www.theverge.com/tech/965090/microsoft-windows-11-search-menu-ads",
+        "summary": "マイクロソフトがWindows 11の検索メニューから広告や不要なコンテンツを取り除いたクリーン版をテスト中であることが判明した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 環境規制を「ビジネスの障害」として長年ロビー活動で戦ってきたパイプライン業界が、その規制があれば防げたかもしれない事故の後始末に数千万ドルを支払う羽目になった。",
-        "<b>滑稽さ:</b> 「規制は不要だ」と主張してきた企業が、規制違反による罰金の支払いで政府と和解するという、教科書に載せたいほど完璧な皮肉。",
-        "<b>日本・海外から見ると:</b> 日本では企業の環境責任は法的に厳しく問われるが、アメリカでは数年間の交渉の末にようやく「2690万ドルで手打ち」という構図が、環境法執行の速度を物語っている。"
+        "<b>矛盾:</b> 「信頼を取り戻す」ために広告なし検索をテストしているということは、信頼を失った理由が自分たちで広告を入れたからだと自認しているわけで、問題の原因と解決策が同じ会社の中にある。",
+        "<b>滑稽さ:</b> ユーザーが「ただファイルを探したいだけ」と何年も言い続けた結果、マイクロソフトは「ファイルを探せる検索」を『実験的機能』として発表した。",
+        "<b>日本・海外から見ると:</b> エレベーターの「閉」ボタンを30年間機能させなかったのちに「実は閉まるボタン、テスト中です」と発表するようなもので、ユーザーの忍耐力を試し続けるIT大企業の伝統芸に見える。"
       ],
       "imagePrompts": [
-        "A large pipeline stretching across a flat Kansas landscape with a small 'OOPS' flag planted at the spill site, a businessman in a hard hat handing an oversized novelty check to a government official while both stand ankle-deep in a dark liquid",
-        "A courtroom where a pipeline company executive slides a check across a table labeled '$26.9M' to a judge, while a map of Kansas with an oil stain sits as the only exhibit",
-        "A timeline wall showing a small oil spill in 2022 growing into a large puddle by 2026, with a tiny check at the end labeled 'problem solved'"
+        "A Windows search bar completely covered in colorful advertisements and sponsored content tiles, with a tiny magnifying glass icon buried in the corner, while a user holds a paper labeled 'MY FILE' and looks lost",
+        "A laboratory setting where scientists in white coats are gathered around a monitor showing a plain, empty search bar with no ads, taking notes with excited expressions as if witnessing a breakthrough",
+        "A before-and-after display: on the left, a cluttered Windows search menu stuffed with ads, news tiles, and recommended apps; on the right, an empty white box with a cursor blinking — labeled 'EXPERIMENTAL'"
       ],
       "captions": [
-        "The Keystone Pipeline has agreed to pay $26.9 million for the spill — which works out to roughly 'sorry about Kansas' per gallon.",
-        "After years of arguing that environmental regulations were unnecessary, the company has generously agreed to prove why they were necessary.",
-        "Justice, in pipeline terms, moves at approximately the same speed as oil through a cracked pipe.",
-        "The good news: the U.S. government will receive $26.9 million. The better news: Kansas will receive an apology.",
-        "In a twist no one saw coming, the pipeline that fought regulations for a decade has settled with the regulator it was fighting."
+        "Microsoft is testing a search bar that just… searches. It's in the experimental phase, which means the control group is still getting served ads for mattresses when they type 'calculator.'",
+        "After years of research, Microsoft has discovered that people who open a search bar want to search for something. Publication pending.",
+        "The decluttered Windows Search is only available to Insiders in the Experimental channel — because 'search that works' is still too radical for general release.",
+        "Microsoft says the new search is designed to 'regain trust.' Step one: stop putting ads in the search bar. Step two: announce that you stopped as if it were an innovation.",
+        "Good news: Windows Search will no longer show you ads. Bad news: this is being reported as news."
       ],
       "captionsJa": [
-        "キーストーンパイプラインは流出事故に対し2690万ドルを支払うことに合意した。換算すると「カンザスへの謝罪料」は1ガロンあたり数セントほどになる。",
-        "「環境規制は不要だ」と長年主張してきた企業が、それを証明するために規制違反の罰金を気前よく払うことに合意した。",
-        "正義は、パイプラインの観点からすると、ひびの入ったパイプを流れる原油とほぼ同じ速度で動く。",
-        "朗報：米政府は2690万ドルを受け取る。さらなる朗報：カンザスはお詫びの言葉を受け取る。",
-        "誰も予想しなかった展開：10年間戦ってきた規制当局と、ついに和解した。"
+        "マイクロソフトが「検索するだけ」の検索バーをテスト中。これは実験段階にある——つまり通常版では今もなお「計算機」と打つとマットレスの広告が出る。",
+        "数年間の研究の末、マイクロソフトは「検索バーを開く人は何かを検索したい」という事実を発見した。論文は準備中とのこと。",
+        "広告なし検索は「実験的チャンネル」のInsiderだけが使える——「機能する検索」はまだ一般公開するには過激すぎるらしい。",
+        "マイクロソフトいわく、新機能は「信頼を取り戻す」ためのもの。手順①：検索バーに広告を入れるのをやめる。手順②：それをイノベーションとして発表する。",
+        "朗報：Windowsの検索に広告が出なくなる。悪報：これがニュースとして報道されている。"
       ],
-      "newsEn": "The operator of the Keystone Pipeline system has agreed to pay $26.9 million to settle claims with the U.S. government over a 2022 oil spill in Kansas. The proposed settlement covers environmental damages stemming from the incident. The Keystone Pipeline has been the subject of prolonged political and regulatory battles over its environmental impact for more than a decade.",
+      "newsEn": "Microsoft announced it is rolling out a decluttered version of the Windows 11 search menu to Windows Insiders in the Experimental channel, removing recommended content and advertisements. The company stated the goal is to 'regain trust' with users. The ad-free search experience is currently in testing and has not been released to the general public.",
       "ironyEn": [
         {
-          "contradiction": "The Keystone Pipeline spent years fighting environmental oversight — and is now paying the government $26.9 million as a direct result of the environmental incident that oversight was meant to prevent.",
-          "absurdity": "After a decade of debate about whether the pipeline was safe, the pipeline answered the question itself.",
-          "outside": "Foreign observers note that the settlement amount — after years of spill cleanup — suggests that in America, the price of polluting a state is roughly the cost of a mid-sized office building."
+          "contradiction": "Microsoft is testing a version of Windows Search that simply works as a search tool — the implicit admission being that the current version does not.",
+          "absurdity": "The feature is called 'Experimental,' which is tech-company speak for 'we know you've wanted this for years, but we're not ready to commit.'",
+          "outside": "From outside the US, this reads as a trillion-dollar company A/B testing whether its own product should do the thing printed on the label."
         },
         {
-          "contradiction": "Regulatory red tape was the enemy — right up until the moment a check needed to be written to the regulator.",
-          "absurdity": "The pipeline that was going to make America energy-independent has now made Kansas slightly less independent of oil.",
-          "outside": "From abroad, the timeline of 'spill in 2022, settle in 2026' raises the question of what exactly was happening with the cleanup in the intervening four years."
+          "contradiction": "Microsoft says the goal is to 'regain trust' — which requires first acknowledging they lost it by turning a search box into an ad delivery system.",
+          "absurdity": "The ad-free search is only available in the 'Experimental channel,' meaning the non-experimental default is: ads in your search bar.",
+          "outside": "Globally, the story translates as: Windows users have been politely asking for a search bar that searches things, and Microsoft has decided to look into it."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-13/candidate-3.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-14/candidate-3.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Texas Hispanic Voters Swung to Trump — Now a Poll Shows They're Furious About Deportations",
-        "source": "Politico",
-        "date": "2026-07-13",
-        "url": "https://www.politico.com/news/2026/07/12/trumps-deportation-drive-tests-gop-gains-in-texas-00993955",
-        "summary": "テキサス州のヒスパニック系有権者はトランプ前回選挙で大きく支持を伸ばしたが、新たな世論調査では同コミュニティのビジネスオーナーの間で大規模強制送還への強い怒りが示されている。"
+        "headline": "California Creates $3,500 EV Rebate to Replace the Federal One That Just Got Killed",
+        "source": "Ars Technica",
+        "date": "2026-07-14",
+        "url": "https://arstechnica.com/cars/2026/07/first-time-ev-buyers-in-california-can-now-claim-a-new-rebate/",
+        "summary": "カリフォルニア州が新車EVに最大3,500ドル、中古EVに1,750ドルのリベートを創設すると発表した。連邦政府のEV税控除が廃止された後の州独自の措置。"
       },
       "commentary": [
-        "<b>矛盾:</b> トランプへの支持票を投じたテキサスのヒスパニック系コミュニティが、今まさにその政策の最前線に立たされ、怒りを表明するという皮肉な構図が生まれている。",
-        "<b>滑稽さ:</b> 「移民政策に厳しくしても票は取れる」という戦略的賭けが、当の移民系コミュニティからの反発で早くも揺らぎはじめた。",
-        "<b>日本・海外から見ると:</b> 日本を含む海外から見ると、自分たちに向けられた政策を支持した有権者グループが同じ政策に怒る、という展開は、アメリカの選挙政治の複雑さを象徴している。"
+        "<b>矛盾:</b> 連邦政府がEV普及を後退させるポリシーを打ち出すと、カリフォルニア州が州費でその穴を埋める——これを繰り返すことで、連邦・州間の政策戦争のコストを最終的に負担するのは納税者だという構図が固定化されている。",
+        "<b>滑稽さ:</b> 連邦補助の7,500ドルが消え、州が3,500ドルで穴埋めを試みている——EV購入者の手取りは半減以下だが、発表の熱量は2倍になっている。",
+        "<b>日本・海外から見ると:</b> 欧州や日本では国が一体となって進める政策を、アメリカでは連邦と州が正反対の方向を向きながらそれぞれ予算を使う——これを「連邦制の活力」と呼ぶか「壮大な無駄」と呼ぶかで国際評価が割れる。"
       ],
       "imagePrompts": [
-        "A Texas barbecue restaurant owner standing in front of his business holding a 'OPEN' sign, while in the background a large billboard reads 'You Asked For It' with an arrow pointing toward him, dust blowing across a wide Texas plain",
-        "A polling station in Texas decorated with 'We Did It!' banners, now surrounded by voters holding protest signs reading 'Not Like This'",
-        "A split scoreboard showing '2024 Election Results' on one side and '2026 Poll Results' on the other, a confused-looking elephant mascot standing between them scratching its head"
+        "A giant $7,500 federal EV rebate sign being carried away by workers in suits labeled 'FEDERAL,' while California workers immediately begin installing a smaller $3,500 sign in the same spot, with both crews ignoring each other",
+        "A California DMV office with a long line of Tesla owners waiting to collect a rebate check, while a sign on the wall reads 'THIS REBATE REPLACES THE FEDERAL REBATE THAT WAS REPLACED BY NOTHING'",
+        "A car dealership lot where an EV sits under a banner reading '$3,500 STATE REBATE,' next to a faded, torn banner reading '$7,500 FEDERAL REBATE,' while a confused buyer stares at a calculator"
       ],
       "captions": [
-        "Texas Hispanic business owners who supported Trump's tough immigration stance have now taken a tough stance on Trump's immigration policy — turns out these are different things.",
-        "A new poll confirms that voters can simultaneously be a voting bloc and the subject of the policy that voting bloc enabled. Democracy is rich.",
-        "Political scientists call this a 'coalition.' The coalition calls it something unprintable.",
-        "In a surprise to everyone except historians, a group targeted by a policy expressed disapproval of that policy shortly after helping implement it.",
-        "The realignment held for about two years — roughly the time it takes for a policy to reach your neighborhood."
+        "California has created a $3,500 EV rebate to replace the $7,500 federal one — progress, defined as doing the same thing for 53 cents on the dollar.",
+        "The state rebate comes with a vehicle price cap, which in California means it applies to EVs that technically exist but are rarely spotted in the wild.",
+        "Washington killed the federal EV credit to save money. California created a state EV credit to replace it. Net result: same money spent, fewer people got it, everyone held a press conference.",
+        "California's new EV rebate is $3,500. The federal credit it's replacing was $7,500. The difference — $4,000 — is what economists call 'the cost of political disagreement,' and what drivers call 'a problem.'",
+        "Good news: California will give you $3,500 to buy an EV. Fine print: the car must be affordable. Further fine print: this is California."
       ],
       "captionsJa": [
-        "移民への厳しい姿勢を支持したテキサスのヒスパニック系経営者たちが、今度はその移民政策に対して厳しい姿勢を示している。この二つは、どうやら別物らしい。",
-        "新たな世論調査が確認した：有権者は「ある政策を生み出した支持者」と「その政策の対象者」を同時に務められる。民主主義とは奥深い。",
-        "政治学者はこれを「連合」と呼ぶ。当の連合は、活字にできない言葉で呼んでいる。",
-        "歴史家以外には驚きをもって受け止められたニュース：ある政策の対象グループが、その政策の実現を手伝った直後に不満を示した。",
-        "今回の政治的再編は約2年間持続した。政策が自分の街にたどり着くのに要する時間と、ほぼ一致している。"
+        "カリフォルニアが7,500ドルの連邦EV補助の代わりに3,500ドルの州補助を創設した——同じことを53セントのコストパフォーマンスで行う「進歩」の定義がここに。",
+        "州補助には車両価格の上限があるが、カリフォルニアでは「手頃なEV」は理論上は存在するが実際にはほとんど目撃されていない。",
+        "連邦政府は節約のためにEV補助を廃止した。カリフォルニアは代替補助を作った。結果：同じ額が使われ、もらえる人は減り、全員が記者会見を開いた。",
+        "新しい州補助は3,500ドル。廃止された連邦補助は7,500ドル。差額の4,000ドルを経済学者は「政治的対立のコスト」と呼び、ドライバーは「困った」と呼ぶ。",
+        "朗報：カリフォルニアがEV購入に3,500ドルくれる。細字：車は手頃な価格であること。さらに細字：ここはカリフォルニアです。"
       ],
-      "newsEn": "A new poll of Hispanic business owners in Texas shows strong opposition to the Trump administration's deportation policies, with Democratic candidate James Talarico performing strongly among respondents. The survey highlights a potential shift in sentiment among a demographic that had moved notably toward Trump in recent elections. Texas Hispanic voters were widely credited as a key factor in Trump's improved margins in the state.",
+      "newsEn": "California announced a new state-funded rebate program offering $3,500 for new electric vehicle purchases and $1,750 for used EVs, with a price cap on eligible vehicles. The program is widely seen as a direct response to the federal government's elimination of the $7,500 federal EV tax credit. Both rebates come with income and vehicle price restrictions.",
       "ironyEn": [
         {
-          "contradiction": "Texas Hispanic voters helped deliver Trump a stronger margin — and are now among the primary targets of the policy agenda they helped elect.",
-          "absurdity": "The political realignment that Republicans celebrated as a coalition breakthrough appears to be experiencing some buyer's remorse.",
-          "outside": "From the outside, the sequence — vote for the candidate, get targeted by the candidate's signature policy — reads like a very American civics lesson."
+          "contradiction": "California is spending state funds to rebuild an incentive that the federal government just demolished — two governments, one country, opposite climate policies, shared taxpayer wallets.",
+          "absurdity": "The new rebate is $3,500, replacing a $7,500 federal credit. Buyers are being asked to celebrate receiving less than half of what they had before, delivered with twice the press releases.",
+          "outside": "In countries with unified energy policy, this looks less like a rebate program and more like an expensive argument between two floors of the same building."
         },
         {
-          "contradiction": "A demographic group that swung toward Trump to signal economic frustration is now expressing frustration at the economic consequences of Trump's immigration enforcement.",
-          "absurdity": "Pollsters discovered that 'furious at deportations' and 'voted for the deportation candidate' can, in fact, describe the same voter.",
-          "outside": "International observers accustomed to more stable political alignments find the American voter's relationship with consequences both baffling and entirely relatable."
+          "contradiction": "The federal government removed the EV credit partly to cut spending; California now spends state money to undo that cut, achieving a net result of: the same amount of spending, more bureaucracy, and smaller checks.",
+          "absurdity": "There is a price cap on eligible vehicles, which means the rebate is designed for affordable EVs — a category that, in California, has the same population as affordable housing.",
+          "outside": "To international observers accustomed to national energy transitions, watching the US manage EV incentives at the state level is like watching a relay race where each runner is running in a different direction."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-13/candidate-4.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-07-14/candidate-4.jpg",
+      "imageStyle": "retro-pop"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Trump's Washington Makeover Is Generating More Lawsuits Than Monuments",
-        "source": "CBS News US",
-        "date": "2026-07-13",
-        "url": "https://www.cbsnews.com/news/trumps-monumental-reimagining-of-washington-d-c/",
-        "summary": "トランプ政権によるワシントンD.C.の大規模な改修・建設・解体計画が、批判者からの訴訟の嵐を引き起こしている。"
+        "headline": "Parasite Outbreak Sickens 2,800+ Americans — One Year After Trump Cut Funding for Outbreak Response",
+        "source": "The Guardian US",
+        "date": "2026-07-14",
+        "url": "https://www.theguardian.com/us-news/2026/jul/13/cyclospora-outbreak-parasite-explosive-diarrhea",
+        "summary": "アメリカで寄生虫感染症「サイクロスポラ症」の感染者が2,800人以上に達するアウトブレイクが発生している。昨年、トランプ政権が州・地方の保健部門への資金を削減したのと同時期に当たる。"
       },
       "commentary": [
-        "<b>矛盾:</b> アメリカの民主主義と歴史の象徴であるはずのワシントンD.C.を「作り直す」計画が、その民主主義の柱である司法制度による訴訟の山を生み出している。",
-        "<b>滑稽さ:</b> 首都を「もっと偉大に」するための工事が、法廷での戦いという形で首都をより混乱させている。",
-        "<b>日本・海外から見ると:</b> 日本では国家的建造物の大規模改修は慎重な合意形成の末に進むが、アメリカでは大統領が首都の景観を訴訟リスクごと「ディール」で進めようとする構図が際立つ。"
+        "<b>矛盾:</b> 感染症サーベイランスの予算を削減したちょうど一年後に、その削減された機能が最も必要とされるアウトブレイクが起きるというタイミングの皮肉は、因果関係の教科書に載りそうな事例だ。",
+        "<b>滑稽さ:</b> 「政府の無駄を省く」という名目で保健部門の予算を削ったが、アウトブレイク対応にかかるコストは予防のための予算を大幅に上回る傾向がある——節約した1ドルが後に10ドルの請求書になる構造。",
+        "<b>日本・海外から見ると:</b> 公衆衛生インフラへの投資削減が感染症対応能力を直接弱体化させることは国際的な常識であり、アメリカがその教訓をコスト削減の名の下に繰り返す様子は、海外の公衆衛生専門家には既視感のある光景に映る。"
       ],
       "imagePrompts": [
-        "A construction site in Washington D.C. where every piece of heavy machinery has a lawsuit document taped to it, the Capitol dome visible in the background, a hard-hatted foreman reading a stack of injunctions instead of blueprints",
-        "A grand architectural blueprint of a reimagined Washington D.C. monument, covered entirely in yellow sticky notes reading 'LAWSUIT', 'INJUNCTION', and 'SEE YOU IN COURT'",
-        "A split image: left side shows gleaming architectural renderings of new D.C. monuments; right side shows an equally tall stack of legal briefs labeled 'Opposition Filed'"
+        "A public health department office with half the desks empty, chairs overturned, and a single overworked official staring at a map of the US covered in red outbreak markers, while a framed certificate reading 'BUDGET CUT ACHIEVEMENT AWARD' hangs on the wall behind them",
+        "A produce section in a grocery store with a sign reading 'FRESH VEGETABLES' while a tiny parasite icon with a smiley face hovers above the display, and a nearby information kiosk labeled 'LOCAL HEALTH DEPT HOTLINE' has an 'OUT OF SERVICE' sign on it",
+        "A timeline graphic on a wall: left side shows scissors cutting a dollar sign labeled 'PUBLIC HEALTH FUNDING,' right side shows a large wave labeled '2,800 CASES' with an arrow connecting the two events marked 'ONE YEAR LATER'"
       ],
       "captions": [
-        "Trump's plan to remake Washington is moving at the speed of American justice — which is to say, it's mostly stuck in court.",
-        "The president has successfully transformed Washington D.C. into the country's most architecturally ambitious legal dispute.",
-        "Critics worried about what the new Washington would look like. At this rate, they'll find out sometime after the next administration.",
-        "Washington D.C.: where every new monument comes standard with a complimentary injunction.",
-        "The good news is that all the litigation is keeping D.C.'s lawyers fully employed — which is, technically, an infrastructure achievement."
+        "A parasitic outbreak causing weeks of uncontrollable diarrhea is spreading across the US. Health officials say it's very serious. Budget officials said health officials weren't that important last year.",
+        "Over 2,800 Americans have been infected by a parasite that causes explosive diarrhea — which, considering the state of public health funding, is arguably the least surprising outbreak of 2026.",
+        "The good news: cyclospora is not transmitted person-to-person. The bad news: detecting and containing it requires local health departments, which were defunded roughly twelve months ago. Timing!",
+        "Officials are urging the public to wash produce carefully. The local health departments that would normally be issuing that guidance more loudly are currently operating with reduced staff. Please wash your produce carefully.",
+        "When asked about the outbreak, a spokesman for the administration confirmed that cutting public health funding had nothing to do with the public health situation, which is both the official position and a sentence that explains everything."
       ],
       "captionsJa": [
-        "トランプ氏のワシントン改造計画は、アメリカの司法と同じ速度で進んでいる。つまり、ほぼ裁判所で止まっている。",
-        "大統領はワシントンD.C.を、国内で最も建築的野心に満ちた法廷闘争の場へと見事に変貌させた。",
-        "批評家たちは新しいワシントンがどんな姿になるか心配していた。このペースだと、次の政権発足後にようやく分かるだろう。",
-        "ワシントンD.C.：新しいモニュメントには、もれなく差し止め命令が付いてくる。",
-        "朗報：この大量訴訟のおかげでD.C.の弁護士は完全雇用状態だ。これは技術的には、インフラ整備の成果と言える。"
+        "何週間も続く下痢を引き起こす寄生虫が全米で広がっている。保健当局は「非常に深刻」と述べた。予算当局は昨年、保健当局はそれほど重要ではないと述べた。",
+        "2,800人超が爆発的な下痢を引き起こす寄生虫に感染している——公衆衛生の予算削減を考えると、2026年で最も驚きの少ないアウトブレイクとも言える。",
+        "朗報：サイクロスポラは人から人へはうつらない。悪報：検知・封じ込めには地方保健部門が必要で、その部門はちょうど12ヶ月前に予算削減された。なんというタイミング！",
+        "当局は野菜をよく洗うよう呼びかけている。本来その呼びかけをより強く行うはずだった地方保健部門は、現在スタッフを削減して運営中だ。どうか野菜をよく洗ってほしい。",
+        "アウトブレイクについて尋ねると、政府報道官は「公衆衛生予算の削減と今回の公衆衛生上の事態は無関係」と確認した——これは公式見解であると同時に、すべてを説明する一文でもある。"
       ],
-      "newsEn": "President Trump's sweeping efforts to demolish, construct, and renovate landmarks in Washington, D.C. have sparked a firestorm of legal challenges. Critics have filed multiple lawsuits seeking to block his plans to remake the nation's capital. The projects range from renovation of existing monuments to construction of new structures, all contested on legal and historical preservation grounds.",
+      "newsEn": "Health officials in Michigan and Ohio are reporting a surge in cyclosporiasis, a parasitic infection that can cause weeks of severe and watery diarrhea, with more than 2,800 cases recorded across the US. The outbreak is occurring approximately one year after the Trump administration cut funding for state and local health departments responsible for disease surveillance and outbreak response. Cyclosporiasis is spread through contaminated food and water and is not transmitted person-to-person.",
       "ironyEn": [
         {
-          "contradiction": "The plan to monumentalize the president's legacy is producing more court filings than concrete foundations.",
-          "absurdity": "Washington D.C. — already home to the Supreme Court, federal courts, and every major legal institution — is now also the most litigated construction site in America.",
-          "outside": "From abroad, remodeling the symbolic heart of democracy while simultaneously fighting democracy's legal institutions in court is a tension that does not go unnoticed."
+          "contradiction": "Funding for the public health departments responsible for tracking and containing outbreaks was cut last year; an outbreak then arrived and required tracking and containing.",
+          "absurdity": "The parasite in question causes weeks of uncontrolled watery diarrhea — a condition that, medically speaking, cannot be ignored and, politically speaking, is very difficult to spin.",
+          "outside": "International public health officials watching this unfold might note that cutting disease surveillance is a reliable method of ensuring that disease goes unsurveilled."
         },
         {
-          "contradiction": "Efforts to physically reimagine the capital keep generating paperwork in the very buildings those efforts are meant to overshadow.",
-          "absurdity": "The fastest-growing monument in Washington right now is the stack of injunctions filed against the other monuments.",
-          "outside": "International visitors planning a trip to see the new Washington D.C. are advised to check court dockets before purchasing tickets."
+          "contradiction": "The administration that cut health department funding is now watching over 2,800 confirmed infections from a preventable and trackable parasitic outbreak.",
+          "absurdity": "Cyclospora outbreaks are typically traced to contaminated produce — the kind of food safety monitoring that also depends on the local health infrastructure that just had its budget reduced.",
+          "outside": "From abroad, the sequence looks straightforward: reduce the immune system, get sick, express surprise at being sick."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-13/candidate-5.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-07-14/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch"
     }
   ]
 };
