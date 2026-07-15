@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-15",
-  "generatedAt": "2026-07-14T23:17:10+00:00",
+  "date": "2026-07-16",
+  "generatedAt": "2026-07-15T23:19:50+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Microsoft's 'Secure' Boot Has Been Quietly Broken for a Decade",
-        "source": "Ars Technica",
-        "date": "2026-07-15",
-        "url": "https://arstechnica.com/security/2026/07/microsoft-secure-boot-has-been-broken-for-most-of-its-existence/",
-        "summary": "マイクロソフトが提供する「セキュアブート」機能に10年以上にわたる脆弱性が存在し、失効処理がされていない古い「シム」ファイルを通じて簡単にバイパスできる状態だったことが判明した。"
+        "headline": "Pentagon Wants Power to Hide Unclassified Secrets — Yes, You Read That Right",
+        "source": "CBS News US",
+        "date": "2026-07-16",
+        "url": "https://www.cbsnews.com/news/pentagon-secrecy-power-unclassified-records-foia/",
+        "summary": "国防総省は、「機密指定されていない管理情報（CUI）」を情報公開法（FOIA）の対象外にできる新たな権限を議会に求める立法提案を行った。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「セキュア（安全）ブート」と名付けられた機能が、10年間にわたって安全でなかったという根本的な矛盾がある。",
-        "<b>滑稽さ:</b> 失効させるのを「忘れた」ファイルが原因という間抜けさが、世界中の企業・政府機関が使うOSの話だというのが笑えない笑いを生む。",
-        "<b>日本・海外から見ると:</b> 「誰も気づかなかった」という点が最大の問題で、積極的な隠蔽ではなく純粋な管理ミスであるところが、巨大テック企業のセキュリティ体制への信頼を揺るがす。"
+        "<b>矛盾:</b> 「機密ではない」と認めながら「公開しない」という論理は、情報公開制度の根拠そのものを崩す自己矛盾だ。",
+        "<b>滑稽さ:</b> 「非機密だが秘密」という新カテゴリーを作ることで、透明性を担保する制度が透明性を阻む道具になる。",
+        "<b>日本・海外から見ると:</b> 「情報公開法」という看板を掲げたまま、その中身を空洞化しようとする姿は、制度への信頼よりも制度の形式を優先する官僚文化の極致に映る。"
       ],
       "imagePrompts": [
-        "A large, imposing bank vault door labeled 'SECURE BOOT' with a bold official seal, but a tiny crumbling side window wide open, cobwebs covering it, a calendar on the wall showing years from 2015 to 2025 with no entries",
-        "A night security guard asleep at a desk under a sign reading 'MAXIMUM SECURITY', surrounded by filing cabinets with one drawer labeled 'EXPIRED KEYS — DO NOT USE' left wide open and glowing",
-        "A massive certified padlock covered in official compliance stickers being proudly displayed, while behind it the door it supposedly secures has a decade-old note taped to it reading 'this side was never locked — oops'"
+        "A large government filing cabinet labeled 'UNCLASSIFIED' with a giant padlock on every drawer, a bureaucrat standing next to it holding a key and shrugging",
+        "A soldier handing a civilian a document with every word blacked out except the title, which reads 'NOT CLASSIFIED — ENJOY'",
+        "A courtroom scene where a lawyer holds up a file folder with a label reading 'UNCLASSIFIED SECRET' while a judge peers over reading glasses in confusion"
       ],
       "captions": [
-        "Microsoft's Secure Boot kept your computer safe from hackers for ten years — and from the truth about Secure Boot for just as long.",
-        "The good news: no sophisticated nation-state hacker exploited this. The bad news: they probably didn't need to.",
-        "In tech, 'set it and forget it' is a cooking method, not a security policy — though apparently no one told Microsoft.",
-        "Somewhere there's a PowerPoint presentation titled 'Why Secure Boot Makes Us an Industry Leader' that aged very poorly.",
-        "Ten years, zero revocations, and a feature name that was technically more aspirational than accurate."
+        "The Pentagon has a new category of information: not secret enough to classify, but way too interesting for you to read.",
+        "Finally, the government has solved the paradox of transparency — by making it optional.",
+        "Controlled Unclassified Information: for when 'classified' sounds too dramatic, but 'public record' sounds too democratic.",
+        "They spent fifty years building the Freedom of Information Act. It took one legislative proposal to build a door in the floor.",
+        "The good news: the Pentagon confirmed the documents exist. The bad news: that's all you're getting."
       ],
       "captionsJa": [
-        "マイクロソフトの「セキュアブート」は10年間ハッカーからあなたのPCを守ってきた――そして「セキュアブートの真実」からも同じくらい守ってきた。",
-        "朗報：高度な国家系ハッカーはこの脆弱性を悪用しなかったようだ。悲報：おそらくその必要がなかった。",
-        "テックの世界で「設定したら放置」は料理の話であって、セキュリティポリシーではない――誰かがマイクロソフトにそれを教えるべきだった。",
-        "どこかに「なぜセキュアブートが業界をリードするか」というPowerPointがあるはずで、それは今や非常に居心地が悪い一枚になっているだろう。",
-        "10年間、失効ゼロ、そして機能名は実態よりも「理想」を表していたというだけの話だった。"
+        "国防総省が新カテゴリーを発明した。「機密にするほどでもないが、あなたが読むには面白すぎる情報」だ。",
+        "ついに政府は透明性のジレンマを解決した——透明性をオプション扱いにすることで。",
+        "「管理された非機密情報」：「機密」では大げさすぎるが、「公開記録」では民主主義的すぎる場合のための分類。",
+        "50年かけて情報公開法を築いた。それを骨抜きにする穴を掘るのに必要だったのは、立法提案一本だった。",
+        "朗報：国防総省はその文書が存在することを認めた。悲報：あなたに教えてくれるのはそこまでだ。"
       ],
-      "newsEn": "Security researchers discovered that Microsoft's Secure Boot, a feature designed to protect PCs from malicious software at startup, has been bypassable for over a decade. Old cryptographic 'shims' that Microsoft failed to revoke remained active, allowing attackers to circumvent the protection entirely. The flaw went undetected—or at least unreported—for roughly ten years.",
+      "newsEn": "The Department of Defense has submitted a legislative proposal asking Congress to grant the defense secretary authority to withhold 'controlled unclassified information' from Freedom of Information Act requests. The move would potentially shield a broad category of defense records that are not formally classified. Critics warn it could significantly curtail public oversight of the military.",
       "ironyEn": [
         {
-          "contradiction": "A security feature literally named 'Secure Boot' spent a decade being anything but secure, thanks to files Microsoft simply forgot to revoke.",
-          "absurdity": "The vulnerability wasn't the result of a sophisticated attack — it was bureaucratic negligence dressed up as enterprise-grade protection.",
-          "outside": "From the outside, it looks like Microsoft sold the world a lock, then left the spare keys in the door for ten years and hoped no one would notice."
+          "contradiction": "The Pentagon wants the legal right to keep secrets that are officially not secret — a distinction that may matter more to lawyers than to the public.",
+          "absurdity": "They've essentially invented a new classification called 'unclassified but still none of your business,' which is either genius or a typo.",
+          "outside": "From abroad, it looks like the world's most powerful military has decided that transparency is a national security threat."
         },
         {
-          "contradiction": "The system meant to boot your computer safely was itself never properly booted out of a dangerous state.",
-          "absurdity": "Somewhere, a compliance officer approved 'Secure Boot' audits every year while the bypass was sitting there in plain sight.",
-          "outside": "For governments and corporations that mandated Secure Boot as a security standard, the revelation is the IT equivalent of discovering your bank vault had an open window since 2015."
+          "contradiction": "The Freedom of Information Act was designed so citizens could see what the government is doing. This proposal is designed so citizens cannot — without technically repealing the law.",
+          "absurdity": "Future FOIA requests may simply receive a document stamped 'Controlled Unclassified: Trust Us,' which is technically a response.",
+          "outside": "Democracies around the world spend decades building FOIA frameworks; the Pentagon just proposed a legislative trapdoor to skip the whole thing."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-15/candidate-1.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-16/candidate-1.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "New York Hits Pause on Data Centers — the Very Things Powering Its Digital Economy",
+        "headline": "Pentagon Orders Testosterone Screenings for Soldiers Over 30, Because Apparently That's a Defense Priority Now",
         "source": "CBS News US",
-        "date": "2026-07-15",
-        "url": "https://www.cbsnews.com/news/new-york-data-center-moratorium-kathy-hochul/",
-        "summary": "ニューヨーク州のホークル知事は、環境・住民保護のための基準策定を目的として、新規データセンターの建設を最大1年間停止する全米初の州全域モラトリアムを発動した。"
+        "date": "2026-07-16",
+        "url": "https://www.cbsnews.com/news/hegseth-testosterone-deficiency-screening-service-members/",
+        "summary": "国防長官ピート・ヘグセスは、30歳以上の軍人全員にテストステロン欠乏症の検査を義務付け、必要な場合はホルモン補充療法を受けられるとする新方針を発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> AIブームで世界中がデータセンターを猛烈に建設しようとしている最中、最も「デジタル経済の中心」を自任するニューヨーク州が真逆の方向に踏み出した構図が際立つ。",
-        "<b>滑稽さ:</b> クラウド、AI、ストリーミング、SNSを日常的に大量消費する州が、それを支えるインフラに「ちょっと待った」をかけるという自己矛盾がある。",
-        "<b>日本・海外から見ると:</b> 環境規制と経済成長の板挟みという課題は日本も抱えており、「全米初」の決断が規制モデルとして注目される一方、投資家やテック企業には明確な警戒シグナルとなっている。"
+        "<b>矛盾:</b> トランスジェンダー軍人の医療的処置を「軍の即応性を損なう」として禁じた同じ国防総省が、今度は全兵士にホルモン補充療法を推奨するという構図は鏡のように皮肉だ。",
+        "<b>滑稽さ:</b> 「軍の強さ」を訴える政権が、その強さの単位をホルモン値で測り始めた。",
+        "<b>日本・海外から見ると:</b> 世界最大の軍事予算を持つ国が、兵士の戦闘力の鍵として血液検査の数値を挙げているのは、外から見ると奇妙なシリアスさがある。"
       ],
       "imagePrompts": [
-        "A massive construction site for a data center in an urban New York setting, completely frozen mid-build with cranes stopped in place, a giant 'PAUSE' button planted in the concrete like a monument, city skyline glowing with screens in the background",
-        "A New York governor at a podium signing a moratorium order, while behind her a wall of servers labeled 'AI', 'STREAMING', 'CLOUD' hums loudly and glows red with heat",
-        "A split scene: on the left, millions of New Yorkers scrolling phones, streaming video, and trading stocks; on the right, a construction crew receiving a stop sign from a state official in front of a half-built data center"
+        "A military recruitment poster styled like a classic 'Uncle Sam Wants You' design, but Uncle Sam is pointing at a blood test vial instead of the viewer",
+        "A soldier at a medical check-in desk, filling out a form with checkboxes labeled 'Physical Fitness,' 'Marksmanship,' and 'Testosterone Levels,' with only the last box circled by an official in uniform",
+        "A Pentagon briefing room where a general presents a PowerPoint slide titled 'MILITARY READINESS 2026' featuring a large graph of hormone levels, while officers in the audience exchange puzzled glances"
       ],
       "captions": [
-        "New York paused all new data centers — a decision that was, ironically, processed and announced by a data center.",
-        "The state that never sleeps has decided the machines that make that possible should take a nap.",
-        "Hochul's moratorium protects New Yorkers from data center noise — so they can go back to streaming in peace.",
-        "First-in-the-nation policy: we're not sure where to put the internet, so we're putting it on hold.",
-        "New York told Big Tech to wait — and Big Tech replied instantly, from seventeen different servers."
+        "The Pentagon has a new enemy: low T. The mission: mandatory blood draws for every soldier who's old enough to rent a car.",
+        "The military banned hormone therapy for transgender troops to protect readiness, then mandated hormone therapy screening for all troops to protect readiness. Consistency is a powerful thing.",
+        "Turning 30 in the Army used to mean you were experienced. Now it means you're getting a referral to endocrinology.",
+        "In the war on weakness, the first battlefield is apparently your endocrine system.",
+        "Good news for 31-year-old soldiers: you finally have a performance review metric that has nothing to do with your actual performance."
       ],
       "captionsJa": [
-        "ニューヨーク州はデータセンターを全面停止した――その決定はデータセンターを通じて処理・発表された、というのが皮肉だ。",
-        "眠らない街が、その眠らなさを支える機械には「少し休んで」と言い始めた。",
-        "ホークル知事のモラトリアムはニューヨーカーをデータセンターの騒音から守る――そうすれば皆、静かに動画を見続けられる。",
-        "全米初の政策：インターネットをどこに置くべきか分からないので、とりあえず保留にしてみた。",
-        "ニューヨーク州がビッグテックに「少し待て」と言ったら、ビッグテックは17台のサーバーから即座に返信してきた。"
+        "国防総省に新たな敵が現れた：低テストステロン。作戦内容：レンタカーを借りられる年齢の兵士全員への強制採血だ。",
+        "トランスジェンダー兵士のホルモン療法は「即応性を損なう」として禁止し、全兵士のホルモン補充スクリーニングは「即応性のため」として義務化した。一貫性とは力強いものだ。",
+        "軍で30歳になるとはかつて、ベテランを意味した。今では内分泌科への紹介状を意味する。",
+        "弱さとの戦争において、最初の戦場はどうやらあなたの内分泌系らしい。",
+        "朗報：31歳の兵士の皆さん、ついに実際の仕事ぶりとまったく無関係な人事評価指標が手に入りましたよ。"
       ],
-      "newsEn": "New York Governor Kathy Hochul signed an executive order imposing a statewide moratorium on the construction of new large data centers, pausing all new builds for up to one year. The pause is intended to give state officials time to develop regulations protecting residents from noise, heat, and energy consumption. New York is the first state in the nation to implement such a statewide halt.",
+      "newsEn": "Defense Secretary Pete Hegseth announced that the Department of Defense will require mandatory testosterone deficiency screening for all service members over the age of 30. Those found deficient will have the option to elect testosterone replacement therapy. The policy is framed as an effort to ensure troops maintain the 'right testosterone levels' for readiness.",
       "ironyEn": [
         {
-          "contradiction": "The state that hosts Wall Street's algorithmic trading and streams more Netflix than almost anywhere else just told the internet to slow its roll.",
-          "absurdity": "New York paused data center construction to study the environmental impact — presumably using data centers to run the simulations.",
-          "outside": "To foreign tech investors, 'America's digital capital hits pause on digital infrastructure' reads like a coffee shop posting a sign that says 'we need a moment to think about coffee.'"
+          "contradiction": "The same Pentagon that banned gender-affirming hormone therapy for transgender troops is now mandating hormone therapy screening for everyone else — apparently it's about which hormones, not whether hormones.",
+          "absurdity": "The U.S. military's new readiness metric is a blood test. Somewhere, a drill sergeant is updating the obstacle course to include a phlebotomy station.",
+          "outside": "Countries that measure military readiness by training, equipment, and logistics are watching America add 'hormone levels' to the checklist with great anthropological curiosity."
         },
         {
-          "contradiction": "Hochul's order protects residents from the noise and heat of data centers — which those same residents are generating demand for every time they open TikTok.",
-          "absurdity": "The first statewide data center moratorium in U.S. history was, almost certainly, announced via a press release sent over servers located in a data center.",
-          "outside": "For countries racing to attract AI infrastructure investment, New York's move is either visionary environmental leadership or the most expensive 'we'll get back to you' in tech history."
+          "contradiction": "Hormone replacement was framed as disqualifying for some service members and essential for others — the determining factor appears to be which hormone is being replaced.",
+          "absurdity": "Turning 30 in the U.S. military now comes with a birthday card and a referral to endocrinology.",
+          "outside": "NATO allies spend their defense budgets on missiles and logistics. The Pentagon is spending political capital on testosterone panels. Different priorities."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-15/candidate-2.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-07-16/candidate-2.jpg",
+      "imageStyle": "retro-pop"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Meta Employees Sue, Claiming AI Conducted Their Layoffs — and Discriminated While Doing It",
-        "source": "CNBC Top News",
-        "date": "2026-07-15",
-        "url": "https://www.cnbc.com/2026/07/14/meta-lawsuit-layoffs-ai.html",
-        "summary": "メタの現・元従業員が、同社がAIを使って実施したレイオフ（人員削減）において、障害を持つ従業員や特定のグループへの差別が生じたとして訴訟を起こした。"
+        "headline": "FCC Chair Plans to Let Broadcast Giants Own Even More of the Airwaves — Announces It in Breitbart Op-Ed",
+        "source": "The Verge",
+        "date": "2026-07-16",
+        "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
+        "summary": "FCC委員長ブレンダン・カーは、米国の全テレビ世帯の39％超を単一企業が支配することを禁じてきた放送局の全国所有上限規制を廃止する投票を8月6日に行うと発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> AI開発の最前線に立つ企業が、AI倫理・公平性の欠如を理由に従業員から訴えられるという、業界の「看板」と内実のギャップが鮮明だ。",
-        "<b>滑稽さ:</b> 「人間の偏見をなくすためのAI」を活用した採用・評価システムが、差別訴訟の被告になるという本末転倒の構図が際立つ。",
-        "<b>日本・海外から見ると:</b> AI人事決定の法的責任はどこにあるのかという問いは、日本を含む多くの国でまだ答えが出ておらず、この訴訟が国際的な先例となる可能性がある。"
+        "<b>矛盾:</b> 放送の多様性と地域性を守るために設けられた規制を、メディアの独占を進める方向で撤廃しようとしているのは、制度の趣旨と真逆の運用だ。",
+        "<b>滑稽さ:</b> 「メディアの集中を防ぐ規制の廃止」というニュースを、特定のイデオロギー色を持つメディアのオウンドメディアで発表するのは、主張と行動が一致した稀なケースとも言える。",
+        "<b>日本・海外から見ると:</b> 「表現の自由の国」が、情報源をより少数の企業に集約する規制緩和を推し進めている構図は、外から見ると逆説的に映る。"
       ],
       "imagePrompts": [
-        "A large robotic arm holding a stack of pink termination slips stamped 'OPTIMIZED BY AI', distributing them to a line of diverse office workers, while a banner in the background reads 'INNOVATION FOR ALL'",
-        "A courtroom scene where the defendant's chair contains a glowing laptop running an AI interface, with a lawyer standing beside it presenting the case, and confused jurors staring at the screen",
-        "A flowchart on a whiteboard labeled 'UNBIASED AI LAYOFF PROCESS' with arrows leading through boxes like 'PERFORMANCE METRIC', 'OPTIMIZATION', and 'PROTECTED CLASS?' with a question mark, ending in 'LAWSUIT'"
+        "A single giant television tower casting a shadow over an entire map of the United States, with dozens of smaller local broadcast towers tipping over in the shadow",
+        "An FCC hearing room where a commissioner holds up a remote control pointed at hundreds of small TV screens on the wall, all showing the same channel simultaneously",
+        "A newspaper front page with the headline 'MEDIA DIVERSITY REGULATION TO BE REMOVED' being printed by a massive printing press owned by a conglomerate whose logo covers the entire press"
       ],
       "captions": [
-        "Meta used AI to fire people without bias — and is now being sued for bias, which is the most human outcome imaginable.",
-        "The algorithm said it wasn't personal. The plaintiffs say it absolutely was.",
-        "Silicon Valley told us AI would remove human error from hiring. Turns out it also removed human accountability.",
-        "When the robot does the firing, everyone assumes it's fair — right up until the moment it lands in federal court.",
-        "Meta automated the layoffs to avoid uncomfortable conversations. Congratulations: you've now got a lawsuit instead."
+        "The FCC is voting to let one company reach 40 percent of American households — the announcement was made in an op-ed for one of those companies' media properties. Synergy!",
+        "Nothing says 'protecting the free press' like making sure fewer people own it.",
+        "The FCC's plan to deregulate media concentration was announced in a concentrated media outlet. They really do commit to the bit.",
+        "Good news: you'll still have hundreds of channels to watch. Bad news: they may all be owned by the same person who announced this plan.",
+        "Local news, diverse voices, community coverage — the FCC would like you to know those are all still technically possible, just increasingly unlikely."
       ],
       "captionsJa": [
-        "メタはAIを使って「偏見なしに」解雇を実施した――そして差別で訴えられた。これほど人間らしい結末もない。",
-        "アルゴリズムは「個人的な話ではない」と言った。原告は「完全に個人的な話だ」と言っている。",
-        "シリコンバレーはAIが採用の人的ミスをなくすと教えてくれた。どうやら人的責任も一緒になくしてしまったらしい。",
-        "ロボットが解雇すれば公平なはずだった――連邦裁判所に持ち込まれるその瞬間までは。",
-        "メタは気まずい会話を避けるために解雇を自動化した。おめでとう、代わりに訴訟を手に入れた。"
+        "FCCは一社が全米の40%の家庭にリーチできるよう投票しようとしている——その発表は、その恩恵を受ける側のメディアへの寄稿で行われた。シナジーとはこういうことだ！",
+        "「自由な報道を守る」ための一歩として、その報道を所有する人間をより少なくするというアイデアほど素晴らしいものはない。",
+        "メディア集中の規制緩和ニュースは、集中したメディアで発表された。コンセプトへの忠実さは本物だ。",
+        "朗報：あなたにはこれからも何百ものチャンネルがある。悲報：そのすべてをこの計画を発表した同一人物が所有しているかもしれない。",
+        "地域ニュース、多様な声、コミュニティ報道——FCCはそれらが技術的にはまだ可能だと、皆さんにお伝えしたい。ただ、可能性はどんどん低くなっていく。"
       ],
-      "newsEn": "Current and former Meta employees have filed a lawsuit alleging the company used artificial intelligence to conduct layoffs in a manner that discriminated against workers with disabilities and other protected groups. The plaintiffs claim the AI-driven process systematically disadvantaged certain employees based on characteristics that should be legally protected. The case highlights growing legal and ethical questions about automated decision-making in employment.",
+      "newsEn": "FCC Chair Brendan Carr announced an August 6th vote to eliminate the national broadcast ownership cap, which currently prevents a single company from owning stations reaching more than 39 percent of U.S. TV households. Carr published the announcement in an op-ed on Breitbart. The rule change would allow major broadcast companies to dramatically consolidate their reach across the country.",
       "ironyEn": [
         {
-          "contradiction": "A company that has spent years promoting AI as a tool for fairness and efficiency now faces a lawsuit claiming its AI-run layoffs were neither fair nor efficient for the people it fired.",
-          "absurdity": "The algorithm didn't have a bad day, hold a grudge, or play favorites — it just optimized, and somehow still ended up in court for discrimination.",
-          "outside": "From the outside, it appears Meta automated the most human part of running a company — cutting people — and is now being asked to answer for it in the most human institution available: a courtroom."
+          "contradiction": "The FCC, whose mandate includes ensuring diverse and local media, is voting to let one company beam into the living rooms of more than a third of the country — in the name of deregulation.",
+          "absurdity": "The announcement that fewer companies will control your news was published in one specific company's media outlet, which is either irony or a preview.",
+          "outside": "Countries that worry about media monopolies regulating public discourse are watching the U.S. voluntarily dismantle the guardrails with a procedural vote."
         },
         {
-          "contradiction": "Meta built tools to detect and reduce bias in content moderation; its own HR process is now alleged to have done the opposite.",
-          "absurdity": "Employees are essentially suing a machine — which raises the philosophical question of whether the machine can be deposed.",
-          "outside": "For labor advocates globally, this case is a landmark: the first time 'the algorithm decided' may not be a satisfying legal defense."
+          "contradiction": "The ownership cap existed precisely to prevent any single broadcaster from dominating national narratives. Removing it is the regulatory equivalent of putting a fox in charge of the henhouse expansion project.",
+          "absurdity": "An FCC chair announced a plan to concentrate media power more narrowly in an op-ed for a media outlet that stands to benefit from concentrated media power. The disclosure statement writes itself.",
+          "outside": "The European Union spent years tightening media concentration rules. The FCC is holding an August vote to go the other direction, announced on a Wednesday, in an op-ed."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-15/candidate-3.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-07-16/candidate-3.jpg",
+      "imageStyle": "watercolor-sketch"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Congress Votes to Make Daylight Saving Time Permanent — Again",
-        "source": "The Guardian US",
-        "date": "2026-07-15",
-        "url": "https://www.theguardian.com/us-news/2026/jul/14/house-committee-advances-daylight-saving-time-bill",
-        "summary": "米下院は、年2回の時計の切り替えを廃止しサマータイムを永続化する法案を圧倒的多数で可決した。超党派の支持を受けているが、上院での動向が引き続き焦点となる。"
+        "headline": "Judge Asks the Quiet Part Loud: If the Travel Ban Was So Urgent, Why Did the Soccer Players Get In?",
+        "source": "Politico",
+        "date": "2026-07-16",
+        "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/judge-challenge-trump-immigration-exception-world-cup-visas-00999789",
+        "summary": "トランプ政権の入国禁止令に対する法的審理で、担当判事が「もし特定国からの入国禁止が本当に必要なら、なぜワールドカップのサッカー選手は入国を許可されたのか」と問いただした。"
       },
       "commentary": [
-        "<b>矛盾:</b> アメリカ議会はこの問題で何年も超党派の合意を得ながら毎回上院で止まっており、「最も簡単に合意できる政策」が最も実現しない政策になっている。",
-        "<b>滑稽さ:</b> 医療・気候・移民など難題が山積する中、議会が最もスムーズに合意できた案件が「時計をいじるのをやめよう」という話だというのが現代政治の縮図だ。",
-        "<b>日本・海外から見ると:</b> サマータイムを採用していない日本からは、「時計を変えるかどうか」で超党派が団結する姿が新鮮に映る一方、それが唯一の合意事項だという事実に複雑な気持ちになる。"
+        "<b>矛盾:</b> 「国家安全保障上の緊急性」を理由にした入国禁止令に、スポーツイベントという例外を設けた瞬間、その「緊急性」の根拠が揺らぐ。",
+        "<b>滑稽さ:</b> 入国禁止対象国から来た人物が、禁止を課した国のスタジアムでプレーしている光景は、政策の一貫性よりもチケット収入が優先されたことを雄弁に語る。",
+        "<b>日本・海外から見ると:</b> 「どの国の人が危険か」を決める基準が、ワールドカップの組み合わせ表によって変動するというのは、外から見るとなかなかシュールな法治国家の姿だ。"
       ],
       "imagePrompts": [
-        "A grand congressional chamber with both sides of the aisle standing and cheering, confetti falling, all eyes on an enormous clock at the front of the room with a red 'X' through its hands, while outside the window the country visibly remains gridlocked",
-        "A long hallway of doors labeled with major U.S. policy issues — healthcare, climate, infrastructure — all locked and chained, with one door at the end labeled 'CLOCKS' swinging wide open with a banner reading 'BIPARTISAN WIN'",
-        "A massive grandfather clock in the center of the Capitol rotunda being ceremonially stopped by senators from both parties shaking hands, while staffers in the background hold untouched binders labeled 'EVERYTHING ELSE'"
+        "A federal courthouse entrance with a 'NO ENTRY' sign on the door, but a gap in the barrier shaped exactly like a soccer ball with a red carpet leading through it",
+        "A judge at a bench holding up a soccer jersey in one hand and a stack of visa denial notices in the other, peering over reading glasses with one eyebrow raised",
+        "A border checkpoint where uniformed officials wave through a line of soccer players in full kit while a separate line of ordinary travelers faces a giant locked gate"
       ],
       "captions": [
-        "Congress found bipartisan common ground — it just happened to be about what time it is, rather than anything that time is running out on.",
-        "After years of trying, lawmakers finally agreed to stop changing the clocks. The clocks remain unchanged on every other matter.",
-        "The United States will now permanently spring forward — except in the Senate, where this bill goes to die, right on schedule.",
-        "In a historic display of unity, Democrats and Republicans agreed: this one hour has gone on long enough.",
-        "America spent years debating daylight saving time, and the compromise is: we keep the inconvenient time forever, together."
+        "The travel ban was an absolute national security necessity — unless you were good enough at soccer, in which case, welcome to New Jersey.",
+        "A federal judge asked why banned countries' athletes got visas to play in the World Cup. The government's answer is pending, probably until after the final.",
+        "Turns out 'categorical ban' has an asterisk. It's in very small print, right next to 'FIFA-sanctioned events excepted.'",
+        "The most effective immigration reform in recent memory: getting really good at soccer.",
+        "Security threat or not, apparently nobody wanted to explain to Infantino why Argentina had to forfeit."
       ],
       "captionsJa": [
-        "議会は超党派の共通点を見つけた――それが「今何時か」という話だったのは、より重大な問題が時間切れになりつつある中での出来事だ。",
-        "何年もの議論の末、議員たちはようやく時計を変えるのをやめることで合意した。それ以外のことは何も変わっていない。",
-        "アメリカはこれで永遠に「サマータイム」へと進む――上院でこの法案が予定通り葬られるまでは。",
-        "歴史的な団結の瞬間、民主・共和両党が同意したのは「この1時間はもう十分だ」ということだった。",
-        "アメリカは何年もサマータイムを議論し続け、その妥協案は「不便な時刻を永遠に一緒に守ろう」というものになった。"
+        "入国禁止は絶対的な国家安全保障上の必要措置だった——ただし、サッカーが上手ければ話は別で、ニュージャージーへようこそ。",
+        "連邦判事は「なぜ禁止対象国の選手がワールドカップのビザを得られたのか」と質問した。政府の回答は保留中——おそらく決勝戦が終わるまで。",
+        "「絶対的な禁止」にはアスタリスクがついていたことが判明した。FIFA公認イベント除外規定という注釈が、かなり小さな文字で書かれていた。",
+        "最近の移民政策で最も効果的な解決策：サッカーが本当に上手くなること。",
+        "安全保障上の脅威かどうかにかかわらず、インファンティーノ会長にアルゼンチンが棄権になった理由を説明したい人は誰もいなかったようだ。"
       ],
-      "newsEn": "The U.S. House of Representatives passed a bill with overwhelming bipartisan support to make daylight saving time permanent, ending the twice-yearly practice of adjusting clocks. The legislation also includes an opt-out provision for states that act before the federal law takes effect. President Trump has expressed support for the measure, as have several Democratic co-sponsors.",
+      "newsEn": "A federal judge overseeing a legal challenge to the Trump administration's immigration ban raised pointed questions about the policy's consistency, noting that exceptions were carved out to allow World Cup participants from the banned countries to enter the United States. The Obama-appointed judge asked in court: 'If the categorical ban on those countries was needed, why did we let the soccer players in?' The exchange highlighted potential contradictions in how the administration has applied its own restrictions.",
       "ironyEn": [
         {
-          "contradiction": "Congress managed bipartisan unity on the clock bill while remaining deeply divided on nearly every other issue affecting Americans' daily lives.",
-          "absurdity": "The House has now passed some version of this legislation multiple times — each time celebrated as a breakthrough, each time quietly expiring in the Senate.",
-          "outside": "From abroad, the spectacle of a superpower requiring a special act of Congress to stop changing its clocks is either charming or deeply concerning, depending on what else you've read about U.S. governance this week."
+          "contradiction": "The administration argued that banning entry from certain countries was an urgent national security necessity — then issued exemptions for athletes from those same countries so they could play soccer at MetLife Stadium.",
+          "absurdity": "Apparently the security threat posed by a country's citizens can be waived for ninety minutes plus stoppage time.",
+          "outside": "From outside the U.S., it appears that the nation's immigration policy has a sports carve-out clause, which is a novel contribution to international law."
         },
         {
-          "contradiction": "In a year of political gridlock, the one thing Democrats and Republicans agreed on was what time it should be.",
-          "absurdity": "The bill lets states opt out — meaning after all this effort, some Americans will still be changing their clocks, just for different reasons than before.",
-          "outside": "For the rest of the world, which largely settled this debate decades ago, the U.S. treating permanent daylight saving as a legislative achievement is like celebrating the invention of the wheel in 2026."
+          "contradiction": "A policy framed as non-negotiable for safety reasons turned out to be quite negotiable once FIFA's scheduling was involved.",
+          "absurdity": "The judge essentially asked the government to explain why a World Cup visa is safer than a regular visa, and the courtroom got very quiet.",
+          "outside": "Other nations watch the United States suspend its own emergency travel bans for a soccer tournament and wonder what the definition of 'emergency' actually means in American legal contexts."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-15/candidate-4.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-07-16/candidate-4.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Trump Admin Places Americans in Congo on 'Do-Not-Board' List, Requiring 21-Day Detour to Come Home",
+        "headline": "Convenience Store Chain Dumps VMware Across 838 Stores, Cites Broadcom 'Uncertainty' — A Hot Dog Has More Stability",
         "source": "Ars Technica",
-        "date": "2026-07-15",
-        "url": "https://arstechnica.com/health/2026/07/americans-in-congo-barred-from-returning-home-amid-ebola-outbreak/",
-        "summary": "トランプ政権は、コンゴ民主共和国にいるアメリカ市民を「搭乗禁止リスト」に載せ、帰国前に第三国で21日間滞在することを義務付けた。"
+        "date": "2026-07-16",
+        "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
+        "summary": "コンビニチェーン大手のシーツは、ブロードコムによるVMware買収後の価格・ライセンス方針の不透明さを理由に、838店舗のシステムをVMwareから代替製品に移行させた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 自国民を「搭乗禁止リスト」に載せて帰国を阻むというのは、「アメリカ人を守る」という政府の基本的使命と真逆の措置だ。",
-        "<b>滑稽さ:</b> パスポートを持つアメリカ市民が、アメリカに帰るために第三国で3週間足止めされるという状況は、通常「権威主義国家」の行動として描写されるものだ。",
-        "<b>日本・海外から見ると:</b> 外国人の入国を制限するのではなく、自国民の帰国を制限するという異例の措置は、国際的な人権基準や領事保護の観点から強い関心を集めている。"
+        "<b>矛盾:</b> 企業買収の目的は通常「シナジー創出」と「顧客基盤の維持」だが、ブロードコムはVMware買収後に大口顧客を大量に失いつつある——コンビニ838店舗が離脱するほどに。",
+        "<b>滑稽さ:</b> 「24時間いつでも安定的に営業する」を売りにするコンビニが、ITインフラの不安定さに耐えかねてシステムを刷新するというのは、ブランドのアイデンティティとの皮肉な対比だ。",
+        "<b>日本・海外から見ると:</b> 数兆円規模の企業買収の結果として、ホットドッグとスラーピーを売る店が全店舗のサーバー環境を入れ替えるという連鎖は、テック業界のM&Aがいかに現場に波及するかを示す好例だ。"
       ],
       "imagePrompts": [
-        "An American citizen at an airport check-in desk holding a U.S. passport, being turned away by an official stamping 'DO NOT BOARD' on a form, with a sign behind the desk reading 'WELCOME HOME — IN 21 DAYS'",
-        "A world map showing a dotted travel route from Congo that deliberately zigzags through a third country labeled 'MANDATORY DETOUR (21 DAYS)' before finally reaching the United States, with a small American flag at the destination",
-        "A traveler sitting on luggage in a generic third-country transit lounge, surrounded by days crossed off on a wall calendar, holding a U.S. passport and staring at a door labeled 'HOME' locked with a government seal"
+        "An 838-store map of the United States with every location marked by a tiny VMware logo being replaced by a different logo, while a convenience store clerk watches from behind a hot dog counter",
+        "A corporate boardroom with a slide reading 'SYNERGIES: $61 BILLION ACQUISITION' and a sticky note added in red reading '838 stores just left,' surrounded by executives in suits staring at laptops",
+        "A convenience store shelf stocked with rows of server virtualization software boxes, with a 'CLEARANCE — VENDOR UNCERTAINTY' sale tag on the VMware section"
       ],
       "captions": [
-        "The U.S. government, famous for telling other countries to treat their citizens better, has placed its own citizens on a do-not-board list. Progress.",
-        "Your American passport gets you into 186 countries — and apparently, back into America, eventually, after three weeks in a country of someone else's choosing.",
-        "The land of the free now has a mandatory waiting room. It's in a third country. You can leave when we say so.",
-        "Fly free, Americans. Just not from Congo. And not for 21 days. And not without a layover in a country TBD.",
-        "In a stirring display of America First policy, the administration moved Americans in Congo to the back of the line — specifically, America's own line."
+        "Broadcom spent $61 billion buying VMware to own the enterprise market. Sheetz spent less to leave it. Unclear who got the better deal.",
+        "When the company that sells 69-cent hot dogs says your pricing model 'creates too much uncertainty,' it might be time to revisit the pricing model.",
+        "838 convenience stores have now collectively told one of the world's largest chip companies: 'we'll figure it out ourselves.' The hot dog roller remains operational.",
+        "Broadcom's post-acquisition strategy: raise prices, simplify licensing, and watch convenience stores become enterprise infrastructure case studies.",
+        "In the battle between a $61 billion tech giant and a mid-Atlantic convenience chain, the tiebreaker was apparently predictability."
       ],
       "captionsJa": [
-        "他国に自国民を大切にするよう説いてきたアメリカ政府が、自国民を「搭乗禁止リスト」に載せた。これを進歩と呼ぶべきか。",
-        "アメリカのパスポートは186カ国に入国できる――そしてアメリカ本国へも、誰かが選んだ第三国で3週間過ごせば、いずれは帰れる。",
-        "自由の国に、今や「強制待機室」ができた。場所は第三国で、いつ出られるかは政府次第だ。",
-        "自由に飛べ、アメリカ人よ。ただしコンゴからは飛べない。そして21日は待て。そして経由地は追ってお知らせする。",
-        "「アメリカ・ファースト」政策の感動的な発露として、政権はコンゴにいるアメリカ人を行列の後ろに並ばせた――アメリカ自身の行列に。"
+        "ブロードコムは610億ドルかけてVMwareを買収し、エンタープライズ市場を支配しようとした。シーツはより安い費用でそこから去った。どちらが得をしたかは不明だ。",
+        "69セントのホットドッグを売る会社があなたの価格モデルは「不確実性が大きすぎる」と言い始めたなら、そろそろ価格モデルを見直す時期かもしれない。",
+        "838のコンビニが世界最大級のチップメーカーに向かって「自分たちでなんとかする」と告げた。ホットドッグローラーは今日も稼働中だ。",
+        "ブロードコムの買収後戦略：価格を上げ、ライセンスを整理し、コンビニがエンタープライズITのケーススタディになるのを眺める。",
+        "610億ドルのテック巨人と中堅コンビニチェーンの戦いを決したのは、結局「予測可能性」だったようだ。"
       ],
-      "newsEn": "The Trump administration has placed American citizens currently in the Democratic Republic of Congo on a federal 'do-not-board' list, preventing them from flying directly back to the United States. Citizens are instead required to travel to a third country and remain there for 21 days before being permitted to return home. The policy adds a mandatory multi-week detour to the process of an American citizen returning to their own country.",
+      "newsEn": "Convenience store chain Sheetz has migrated all 838 of its locations away from VMware virtualization software, citing the 'too much uncertainty' created by Broadcom's acquisition of VMware. The company switched to StorMagic as its replacement. The move is part of a broader wave of enterprise customers reconsidering VMware contracts following Broadcom's aggressive post-acquisition licensing changes.",
       "ironyEn": [
         {
-          "contradiction": "The administration that has made border control and protecting Americans its central message is now preventing Americans from crossing their own border to come home.",
-          "absurdity": "A U.S. passport, widely considered one of the world's most powerful travel documents, now comes with a 21-day waiting period — if you were in the wrong country.",
-          "outside": "International observers typically see 'do-not-board' lists applied to foreign nationals. Seeing one applied to a country's own citizens is a category of travel restriction that raises immediate questions under international law."
+          "contradiction": "Broadcom spent billions acquiring VMware to lock in enterprise customers. Those customers are now spending their own money to leave, which is a business outcome Broadcom's investors may have glossed over.",
+          "absurdity": "A chain famous for hot dogs and Slurpees has now contributed more concretely to Broadcom's PR problem than most tech analysts have.",
+          "outside": "From outside Silicon Valley, it appears that the main product of a $61 billion acquisition was 838 convenience stores switching to a competitor."
         },
         {
-          "contradiction": "Citizens fleeing hardship in Congo must now navigate a third-country detour imposed by their own government — the same government elected to represent their interests abroad.",
-          "absurdity": "The 21-day rule means an American can reach the moon faster, in concept, than they can reach Kansas City from Kinshasa under this policy.",
-          "outside": "For U.S. allies watching from Europe or Asia, the spectacle of American citizens being told to wait in a third country before going home challenges the foundational narrative that American passports represent unconditional belonging."
+          "contradiction": "Broadcom's pricing strategy was designed to extract maximum value from a captive enterprise customer base. The customers responded by becoming less captive.",
+          "absurdity": "The phrase 'too much uncertainty' is doing a lot of heavy lifting here — it's the kind of language a gas station uses to explain why they switched their hot dog roller brand.",
+          "outside": "Tech M&A analysts modeled the Broadcom-VMware deal as a masterclass in enterprise capture. Sheetz, with 838 stores and a commitment to affordable roller grills, just filed a rebuttal."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-15/candidate-5.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-16/candidate-5.jpg",
+      "imageStyle": "editorial-modern"
     }
   ]
 };
