@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-16",
-  "generatedAt": "2026-07-15T23:19:50+00:00",
+  "date": "2026-07-17",
+  "generatedAt": "2026-07-16T23:16:42+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Pentagon Wants Power to Hide Unclassified Secrets — Yes, You Read That Right",
-        "source": "CBS News US",
-        "date": "2026-07-16",
-        "url": "https://www.cbsnews.com/news/pentagon-secrecy-power-unclassified-records-foia/",
-        "summary": "国防総省は、「機密指定されていない管理情報（CUI）」を情報公開法（FOIA）の対象外にできる新たな権限を議会に求める立法提案を行った。"
+        "headline": "White House Teleprompter Operator Placed on Leave After Betting $100K on What Trump Would Say",
+        "source": "The Guardian US",
+        "date": "2026-07-17",
+        "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-teleprompter-operator-kalshi-bets",
+        "summary": "トランプ大統領の専属テレプロンプター操作担当者が、大統領演説の内容を事前に把握した上で予測市場サイト「Kalshi」に賭けを行い、10万ドル以上を稼いでいたとして行政休職処分となった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「機密ではない」と認めながら「公開しない」という論理は、情報公開制度の根拠そのものを崩す自己矛盾だ。",
-        "<b>滑稽さ:</b> 「非機密だが秘密」という新カテゴリーを作ることで、透明性を担保する制度が透明性を阻む道具になる。",
-        "<b>日本・海外から見ると:</b> 「情報公開法」という看板を掲げたまま、その中身を空洞化しようとする姿は、制度への信頼よりも制度の形式を優先する官僚文化の極致に映る。"
+        "<b>矛盾:</b> 「選挙の予測市場は不正だ」と主張してきた政権の内部から、インサイダー予測賭博師が登場した。",
+        "<b>滑稽さ:</b> 大統領の言葉を画面に映す担当者が、その言葉を金融商品として最も効率よく活用していたことになる。",
+        "<b>日本・海外から見ると:</b> 予測市場の『内部情報取引』が大統領執務室レベルで発生するとは、ウォール街のインサイダー問題をはるかに超えたコントに見える。"
       ],
       "imagePrompts": [
-        "A large government filing cabinet labeled 'UNCLASSIFIED' with a giant padlock on every drawer, a bureaucrat standing next to it holding a key and shrugging",
-        "A soldier handing a civilian a document with every word blacked out except the title, which reads 'NOT CLASSIFIED — ENJOY'",
-        "A courtroom scene where a lawyer holds up a file folder with a label reading 'UNCLASSIFIED SECRET' while a judge peers over reading glasses in confusion"
+        "A man in a dark suit operating a teleprompter machine in a grand official room, while simultaneously glancing at a smartphone showing a betting app with rising profit numbers, stacks of cash balanced on top of the teleprompter.",
+        "A podium with a large presidential seal, the teleprompter screen visible showing scrolling text, and in the corner a ticker-tape display showing stock-market-style odds updating in real time.",
+        "A government building lobby with a 'Help Wanted: Teleprompter Operator — No Prior Gambling Experience Required' sign posted on a bulletin board, a long line of applicants each holding a smartphone with a betting app open."
       ],
       "captions": [
-        "The Pentagon has a new category of information: not secret enough to classify, but way too interesting for you to read.",
-        "Finally, the government has solved the paradox of transparency — by making it optional.",
-        "Controlled Unclassified Information: for when 'classified' sounds too dramatic, but 'public record' sounds too democratic.",
-        "They spent fifty years building the Freedom of Information Act. It took one legislative proposal to build a door in the floor.",
-        "The good news: the Pentagon confirmed the documents exist. The bad news: that's all you're getting."
+        "They say knowledge is power. Turns out, knowledge is also $100,000—if you know where to scroll.",
+        "The White House finally found someone who listened to every word the President said. Unfortunately, his motivation was purely financial.",
+        "In his defense, he was the only person in Washington who actually read the whole speech before it was delivered.",
+        "Insider trading investigators spent years looking on Wall Street. Nobody checked the guy holding the scroll wheel.",
+        "The President called it 'a disgrace.' The teleprompter operator called it 'reading the room.' Literally."
       ],
       "captionsJa": [
-        "国防総省が新カテゴリーを発明した。「機密にするほどでもないが、あなたが読むには面白すぎる情報」だ。",
-        "ついに政府は透明性のジレンマを解決した——透明性をオプション扱いにすることで。",
-        "「管理された非機密情報」：「機密」では大げさすぎるが、「公開記録」では民主主義的すぎる場合のための分類。",
-        "50年かけて情報公開法を築いた。それを骨抜きにする穴を掘るのに必要だったのは、立法提案一本だった。",
-        "朗報：国防総省はその文書が存在することを認めた。悲報：あなたに教えてくれるのはそこまでだ。"
+        "「知識は力なり」とはよく言ったもの。ただし条件がある——どこをスクロールすればいいか知っていること。",
+        "ホワイトハウスはついに大統領の言葉を一言一句聞く人物を見つけた。残念ながら、その動機は純粋に金銭的なものだった。",
+        "彼の名誉のために言えば、演説が読まれる前に全文を読んでいたワシントン唯一の人間だった。",
+        "インサイダー取引の捜査官は何年もウォール街を調べ続けた。スクロールホイールを握る男を誰もチェックしなかった。",
+        "大統領は「恥だ」と言った。テレプロンプター担当者はそれを「空気を読む力」と呼んだ。文字通りの意味で。"
       ],
-      "newsEn": "The Department of Defense has submitted a legislative proposal asking Congress to grant the defense secretary authority to withhold 'controlled unclassified information' from Freedom of Information Act requests. The move would potentially shield a broad category of defense records that are not formally classified. Critics warn it could significantly curtail public oversight of the military.",
+      "newsEn": "The White House placed President Trump's longtime teleprompter operator on administrative leave after reports emerged that he had placed bets on the prediction platform Kalshi—wagering on the content of Trump's public speeches. Kalshi detected the suspicious trading activity, investigated, and referred the case to federal regulators. The operator reportedly profited over $100,000. Press Secretary Karoline Leavitt described the situation as 'deeply unfortunate and frankly a disgrace.'",
       "ironyEn": [
         {
-          "contradiction": "The Pentagon wants the legal right to keep secrets that are officially not secret — a distinction that may matter more to lawyers than to the public.",
-          "absurdity": "They've essentially invented a new classification called 'unclassified but still none of your business,' which is either genius or a typo.",
-          "outside": "From abroad, it looks like the world's most powerful military has decided that transparency is a national security threat."
+          "contradiction": "An administration that has railed against prediction markets manipulating elections apparently had its own staffer running the most informed betting operation in Washington.",
+          "absurdity": "The man whose entire job was to feed the President his words discovered that those words were, in fact, the most reliable financial instrument in America.",
+          "outside": "From abroad, the image of a teleprompter operator as Wall Street's sharpest insider trader suggests the real power in the White House was always the guy in the back controlling the scroll speed."
         },
         {
-          "contradiction": "The Freedom of Information Act was designed so citizens could see what the government is doing. This proposal is designed so citizens cannot — without technically repealing the law.",
-          "absurdity": "Future FOIA requests may simply receive a document stamped 'Controlled Unclassified: Trust Us,' which is technically a response.",
-          "outside": "Democracies around the world spend decades building FOIA frameworks; the Pentagon just proposed a legislative trapdoor to skip the whole thing."
+          "contradiction": "Kalshi—the platform the operator used—exists precisely because markets are supposed to aggregate public information, not private access to the leader of the free world's script.",
+          "absurdity": "He didn't need to hack anything, bribe anyone, or leak documents. He just had to read the screen slightly before everyone else.",
+          "outside": "In a country that prosecutes insider trading with vigor, it took a prediction market's own fraud detection—not any government watchdog—to catch the most literal insider in history."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-16/candidate-1.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-07-17/candidate-1.jpg",
+      "imageStyle": "retro-pop"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Pentagon Orders Testosterone Screenings for Soldiers Over 30, Because Apparently That's a Defense Priority Now",
-        "source": "CBS News US",
-        "date": "2026-07-16",
-        "url": "https://www.cbsnews.com/news/hegseth-testosterone-deficiency-screening-service-members/",
-        "summary": "国防長官ピート・ヘグセスは、30歳以上の軍人全員にテストステロン欠乏症の検査を義務付け、必要な場合はホルモン補充療法を受けられるとする新方針を発表した。"
+        "headline": "Trump to Give Primetime Address on Election Integrity — Years After Spreading Election Doubt",
+        "source": "NPR News",
+        "date": "2026-07-17",
+        "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
+        "summary": "2020年大統領選の不正を根拠なく主張し続けてきたトランプ大統領が、選挙の安全保障をテーマにしたプライムタイムの全国演説を行う予定であることがわかった。"
       },
       "commentary": [
-        "<b>矛盾:</b> トランスジェンダー軍人の医療的処置を「軍の即応性を損なう」として禁じた同じ国防総省が、今度は全兵士にホルモン補充療法を推奨するという構図は鏡のように皮肉だ。",
-        "<b>滑稽さ:</b> 「軍の強さ」を訴える政権が、その強さの単位をホルモン値で測り始めた。",
-        "<b>日本・海外から見ると:</b> 世界最大の軍事予算を持つ国が、兵士の戦闘力の鍵として血液検査の数値を挙げているのは、外から見ると奇妙なシリアスさがある。"
+        "<b>矛盾:</b> 選挙制度への不信を最も広めてきた人物が、選挙の信頼性を守る演説の主役として全国放送に登場する構図になっている。",
+        "<b>滑稽さ:</b> 「選挙は不正だ」と主張し続けた大統領が「選挙を守ろう」と訴える演説をする——これを皮肉と呼ばずして何と呼ぶか。",
+        "<b>日本・海外から見ると:</b> 放火犯が消防署長に就任してスピーチする場面として、海外メディアには映りかねない。"
       ],
       "imagePrompts": [
-        "A military recruitment poster styled like a classic 'Uncle Sam Wants You' design, but Uncle Sam is pointing at a blood test vial instead of the viewer",
-        "A soldier at a medical check-in desk, filling out a form with checkboxes labeled 'Physical Fitness,' 'Marksmanship,' and 'Testosterone Levels,' with only the last box circled by an official in uniform",
-        "A Pentagon briefing room where a general presents a PowerPoint slide titled 'MILITARY READINESS 2026' featuring a large graph of hormone levels, while officers in the audience exchange puzzled glances"
+        "A grand television studio podium draped with an 'ELECTION INTEGRITY' banner, with a giant on-stage scoreboard showing a long list of past election fraud claims crossed out in red, while the speaker at the podium gestures confidently toward the camera.",
+        "A theater marquee outside a large government building reading 'TONIGHT ONLY: Election Security — Starring the Man Who Called It Broken,' with a line of confused audience members holding tickets.",
+        "A podium with two facing mirrors creating an infinite reflection — each reflection shows the same figure alternately holding a 'THE ELECTION WAS STOLEN' sign and an 'I WILL PROTECT YOUR VOTE' sign."
       ],
       "captions": [
-        "The Pentagon has a new enemy: low T. The mission: mandatory blood draws for every soldier who's old enough to rent a car.",
-        "The military banned hormone therapy for transgender troops to protect readiness, then mandated hormone therapy screening for all troops to protect readiness. Consistency is a powerful thing.",
-        "Turning 30 in the Army used to mean you were experienced. Now it means you're getting a referral to endocrinology.",
-        "In the war on weakness, the first battlefield is apparently your endocrine system.",
-        "Good news for 31-year-old soldiers: you finally have a performance review metric that has nothing to do with your actual performance."
+        "Nothing builds credibility for an election security speech like six years of telling everyone the elections aren't secure.",
+        "He's like a man who spends a decade yelling that the bridge is broken, then cuts the ribbon at the bridge's grand reopening.",
+        "The speech was described as being about election integrity. Historians will note that's also what the last several years were about — just from the other direction.",
+        "Sources close to the White House say the speech will be 'forward-looking.' Sources close to reality noted it will air on the same networks that broadcast the previous claims.",
+        "In a surprise twist, the nation's foremost election skeptic has agreed to be the nation's foremost election protector. No word yet on whether he'll believe the results."
       ],
       "captionsJa": [
-        "国防総省に新たな敵が現れた：低テストステロン。作戦内容：レンタカーを借りられる年齢の兵士全員への強制採血だ。",
-        "トランスジェンダー兵士のホルモン療法は「即応性を損なう」として禁止し、全兵士のホルモン補充スクリーニングは「即応性のため」として義務化した。一貫性とは力強いものだ。",
-        "軍で30歳になるとはかつて、ベテランを意味した。今では内分泌科への紹介状を意味する。",
-        "弱さとの戦争において、最初の戦場はどうやらあなたの内分泌系らしい。",
-        "朗報：31歳の兵士の皆さん、ついに実際の仕事ぶりとまったく無関係な人事評価指標が手に入りましたよ。"
+        "選挙の安全保障演説に向けた信頼感の醸成方法として、「6年間、選挙は安全じゃないと言い続ける」は斬新すぎる。",
+        "橋が壊れていると10年間叫び続けた男が、同じ橋の開通式でテープカットをするようなものだ。",
+        "演説のテーマは「選挙の信頼性」。歴史家はここ数年も同じテーマを扱っていたと記録するだろう——ただし、正反対の方向から。",
+        "ホワイトハウス関係者によれば「前向きな内容」になるという。現実に近い関係者によれば、それが放送されるのは前の主張と同じネットワークだという。",
+        "どんでん返し：国内最大の選挙懐疑派が国内最大の選挙守護者に就任。結果を信じるかどうかは未定。"
       ],
-      "newsEn": "Defense Secretary Pete Hegseth announced that the Department of Defense will require mandatory testosterone deficiency screening for all service members over the age of 30. Those found deficient will have the option to elect testosterone replacement therapy. The policy is framed as an effort to ensure troops maintain the 'right testosterone levels' for readiness.",
+      "newsEn": "President Trump is scheduled to deliver a primetime televised address from the White House focused on election integrity and election security. Trump has for years repeatedly claimed, without evidence, that he lost the 2020 election due to widespread fraud. Democratic Senator Jon Ossoff of Georgia predicted the speech would 'reheat debunked conspiracy theories,' calling Trump the 'world's most famous sore loser.' Details about the specific content of the address remained sparse ahead of broadcast.",
       "ironyEn": [
         {
-          "contradiction": "The same Pentagon that banned gender-affirming hormone therapy for transgender troops is now mandating hormone therapy screening for everyone else — apparently it's about which hormones, not whether hormones.",
-          "absurdity": "The U.S. military's new readiness metric is a blood test. Somewhere, a drill sergeant is updating the obstacle course to include a phlebotomy station.",
-          "outside": "Countries that measure military readiness by training, equipment, and logistics are watching America add 'hormone levels' to the checklist with great anthropological curiosity."
+          "contradiction": "The man who spent years telling Americans their elections couldn't be trusted is now the nation's designated spokesman for election trustworthiness.",
+          "absurdity": "Scheduling a primetime address on election integrity is a bold move when your entire political brand was built on claiming elections don't work.",
+          "outside": "Observers abroad might reasonably compare this to a defendant being appointed as jury foreperson in their own ongoing fraud trial."
         },
         {
-          "contradiction": "Hormone replacement was framed as disqualifying for some service members and essential for others — the determining factor appears to be which hormone is being replaced.",
-          "absurdity": "Turning 30 in the U.S. military now comes with a birthday card and a referral to endocrinology.",
-          "outside": "NATO allies spend their defense budgets on missiles and logistics. The Pentagon is spending political capital on testosterone panels. Different priorities."
+          "contradiction": "Election security becomes a national priority the moment the person most associated with undermining election confidence decides to champion it.",
+          "absurdity": "The speech's content was kept so secret that even the press corps couldn't predict it—which, given recent events, may have been a deliberate financial precaution.",
+          "outside": "In most democracies, the phrase 'the president will address election integrity tonight' is reassuring. In this context, it reads more like a plot twist."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-16/candidate-2.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-07-17/candidate-2.jpg",
+      "imageStyle": "watercolor-sketch"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "FCC Chair Plans to Let Broadcast Giants Own Even More of the Airwaves — Announces It in Breitbart Op-Ed",
-        "source": "The Verge",
-        "date": "2026-07-16",
-        "url": "https://www.theverge.com/policy/966283/fcc-broadcast-ownership-cap-brendan-carr",
-        "summary": "FCC委員長ブレンダン・カーは、米国の全テレビ世帯の39％超を単一企業が支配することを禁じてきた放送局の全国所有上限規制を廃止する投票を8月6日に行うと発表した。"
+        "headline": "Trump Officials Host 66-Nation Summit Against Political Violence — Targeting Only the Left",
+        "source": "The Guardian US",
+        "date": "2026-07-17",
+        "url": "https://www.theguardian.com/us-news/2026/jul/16/political-violence-event-trump-marco-rubio",
+        "summary": "マルコ・ルビオ国務長官とスティーブン・ミラー上級顧問が66カ国の代表を集めた「政治的暴力対策」会議を主催したが、批判の対象はすべて左翼勢力のみに絞られた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 放送の多様性と地域性を守るために設けられた規制を、メディアの独占を進める方向で撤廃しようとしているのは、制度の趣旨と真逆の運用だ。",
-        "<b>滑稽さ:</b> 「メディアの集中を防ぐ規制の廃止」というニュースを、特定のイデオロギー色を持つメディアのオウンドメディアで発表するのは、主張と行動が一致した稀なケースとも言える。",
-        "<b>日本・海外から見ると:</b> 「表現の自由の国」が、情報源をより少数の企業に集約する規制緩和を推し進めている構図は、外から見ると逆説的に映る。"
+        "<b>矛盾:</b> 「政治的暴力に反対する」国際会議を開きながら、政治的暴力の対象を一方の政治勢力のみに絞るのは、会議の目的と定義が矛盾している。",
+        "<b>滑稽さ:</b> 66カ国を集めて「暴力は悪い」と言いながら、その「暴力」の定義が開催者の政治的立場によって事前に決まっている国際フォーラムは、サミットというより演説会に近い。",
+        "<b>日本・海外から見ると:</b> 参加した66カ国の代表が、帰国後どう説明するのか気になるところだ。「アメリカに行って、アメリカの政治対立を聞いてきました」では外交成果とは言いにくい。"
       ],
       "imagePrompts": [
-        "A single giant television tower casting a shadow over an entire map of the United States, with dozens of smaller local broadcast towers tipping over in the shadow",
-        "An FCC hearing room where a commissioner holds up a remote control pointed at hundreds of small TV screens on the wall, all showing the same channel simultaneously",
-        "A newspaper front page with the headline 'MEDIA DIVERSITY REGULATION TO BE REMOVED' being printed by a massive printing press owned by a conglomerate whose logo covers the entire press"
+        "A large international conference table with flags of 66 nations arranged around it, all facing a single podium where a speaker points at a giant screen reading 'POLITICAL VIOLENCE: LEFT SIDE ONLY,' while half the table labeled 'RIGHT' sits visibly empty.",
+        "A grand summit hall with a banner reading 'CONFERENCE AGAINST ALL POLITICAL VIOLENCE,' and a long agenda board where every single line item reads 'Left-Wing Threat #1,' 'Left-Wing Threat #2,' continuing down the full length of the board.",
+        "An airport arrivals terminal with diplomats from dozens of countries rolling suitcases, all looking at matching printed itineraries that say 'Day 1: Hear about American domestic politics. Day 2: Fly home.'"
       ],
       "captions": [
-        "The FCC is voting to let one company reach 40 percent of American households — the announcement was made in an op-ed for one of those companies' media properties. Synergy!",
-        "Nothing says 'protecting the free press' like making sure fewer people own it.",
-        "The FCC's plan to deregulate media concentration was announced in a concentrated media outlet. They really do commit to the bit.",
-        "Good news: you'll still have hundreds of channels to watch. Bad news: they may all be owned by the same person who announced this plan.",
-        "Local news, diverse voices, community coverage — the FCC would like you to know those are all still technically possible, just increasingly unlikely."
+        "Sixty-six nations gathered to condemn political violence in all its forms — a process that, it turns out, only has one form.",
+        "It's a bold diplomatic strategy: invite the world to discuss a problem, then spend the whole conference explaining that only your opponents have it.",
+        "The summit concluded with a unanimous statement condemning political violence, which was impressive given that only one side of the aisle was mentioned by name.",
+        "Historians will note this as the first international conference where 'all forms of political violence' was a two-word synonym for 'the left.'",
+        "In fairness, it was a very diverse conference. Representatives came from 66 countries to hear the same speech."
       ],
       "captionsJa": [
-        "FCCは一社が全米の40%の家庭にリーチできるよう投票しようとしている——その発表は、その恩恵を受ける側のメディアへの寄稿で行われた。シナジーとはこういうことだ！",
-        "「自由な報道を守る」ための一歩として、その報道を所有する人間をより少なくするというアイデアほど素晴らしいものはない。",
-        "メディア集中の規制緩和ニュースは、集中したメディアで発表された。コンセプトへの忠実さは本物だ。",
-        "朗報：あなたにはこれからも何百ものチャンネルがある。悲報：そのすべてをこの計画を発表した同一人物が所有しているかもしれない。",
-        "地域ニュース、多様な声、コミュニティ報道——FCCはそれらが技術的にはまだ可能だと、皆さんにお伝えしたい。ただ、可能性はどんどん低くなっていく。"
+        "66カ国が「あらゆる形の政治的暴力」を非難するために集まった——その「あらゆる形」が、実は一種類しかないことが判明した。",
+        "大胆な外交戦略だ：世界を招いて問題を議論し、会議全体を通じて相手陣営だけに問題があると説明する。",
+        "サミットは政治的暴力を全会一致で非難して閉幕した。名指しされたのが一方の政党だけだったことを考えると、なかなかの全会一致だ。",
+        "歴史家はこれを、「あらゆる形の政治的暴力」が「左翼」の同義語として使われた最初の国際会議として記録するだろう。",
+        "公平に言えば、非常に多様な会議だった。66カ国の代表が同じスピーチを聞きに来た。"
       ],
-      "newsEn": "FCC Chair Brendan Carr announced an August 6th vote to eliminate the national broadcast ownership cap, which currently prevents a single company from owning stations reaching more than 39 percent of U.S. TV households. Carr published the announcement in an op-ed on Breitbart. The rule change would allow major broadcast companies to dramatically consolidate their reach across the country.",
+      "newsEn": "Senior Trump administration officials Marco Rubio and Stephen Miller hosted a gathering of representatives from 66 nations ostensibly dedicated to combating political violence. However, all of the attacks and diatribes delivered at the meeting were aimed exclusively at left-wing activism, with no mention of right-wing political violence. The rhetoric was described as notably harsh even by the standards of current political discourse, including labeling certain groups 'enemies of civilization.'",
       "ironyEn": [
         {
-          "contradiction": "The FCC, whose mandate includes ensuring diverse and local media, is voting to let one company beam into the living rooms of more than a third of the country — in the name of deregulation.",
-          "absurdity": "The announcement that fewer companies will control your news was published in one specific company's media outlet, which is either irony or a preview.",
-          "outside": "Countries that worry about media monopolies regulating public discourse are watching the U.S. voluntarily dismantle the guardrails with a procedural vote."
+          "contradiction": "Convening 66 nations to condemn political violence while exclusively directing that condemnation at one half of the domestic political spectrum is a novel interpretation of the word 'international.'",
+          "absurdity": "Calling a meeting of 66 countries to discuss threats to civilization, then spending the session cataloguing the threats of people who disagree with you, is less a summit and more a very well-attended grievance session.",
+          "outside": "Diplomats from 66 countries flew to Washington to participate in a conference on political violence and came home with notes that read, essentially, like opposition research for the Republican Party."
         },
         {
-          "contradiction": "The ownership cap existed precisely to prevent any single broadcaster from dominating national narratives. Removing it is the regulatory equivalent of putting a fox in charge of the henhouse expansion project.",
-          "absurdity": "An FCC chair announced a plan to concentrate media power more narrowly in an op-ed for a media outlet that stands to benefit from concentrated media power. The disclosure statement writes itself.",
-          "outside": "The European Union spent years tightening media concentration rules. The FCC is holding an August vote to go the other direction, announced on a Wednesday, in an op-ed."
+          "contradiction": "The conference's stated mission was preventing political violence in all its forms; its actual content suggests 'all its forms' was a figure of speech.",
+          "absurdity": "Labeling political opponents 'enemies of civilization' at a conference specifically convened to address inflammatory labeling of political opponents is, at minimum, an interesting scheduling choice.",
+          "outside": "Multilateral diplomacy usually involves compromises between different viewpoints. This summit appears to have achieved consensus by only inviting one viewpoint to speak."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-16/candidate-3.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-07-17/candidate-3.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Judge Asks the Quiet Part Loud: If the Travel Ban Was So Urgent, Why Did the Soccer Players Get In?",
-        "source": "Politico",
-        "date": "2026-07-16",
-        "url": "https://www.politico.com/live-updates/2026/07/15/world-cup-2026/judge-challenge-trump-immigration-exception-world-cup-visas-00999789",
-        "summary": "トランプ政権の入国禁止令に対する法的審理で、担当判事が「もし特定国からの入国禁止が本当に必要なら、なぜワールドカップのサッカー選手は入国を許可されたのか」と問いただした。"
+        "headline": "Netflix Stock Falls After Earnings Miss — And Company Announces It Will Share Less Data With Investors",
+        "source": "CNBC Top News",
+        "date": "2026-07-17",
+        "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
+        "summary": "ネットフリックスが市場予測を下回る業績見通しを発表し株価が下落した。同社はさらに、視聴データを公開する「What We Watched」レポートの頻度を削減するとも発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「国家安全保障上の緊急性」を理由にした入国禁止令に、スポーツイベントという例外を設けた瞬間、その「緊急性」の根拠が揺らぐ。",
-        "<b>滑稽さ:</b> 入国禁止対象国から来た人物が、禁止を課した国のスタジアムでプレーしている光景は、政策の一貫性よりもチケット収入が優先されたことを雄弁に語る。",
-        "<b>日本・海外から見ると:</b> 「どの国の人が危険か」を決める基準が、ワールドカップの組み合わせ表によって変動するというのは、外から見るとなかなかシュールな法治国家の姿だ。"
+        "<b>矛盾:</b> 業績が期待を下回って投資家の信頼が揺らいだまさにそのタイミングで、透明性レポートの削減を発表するのは、「信頼してほしいが、確認はさせない」というメッセージに聞こえる。",
+        "<b>滑稽さ:</b> 「何を見ているか」を公開するレポートを、「見られたくない時期」に縮小する——皮肉の自動生成機のような展開だ。",
+        "<b>日本・海外から見ると:</b> 決算発表で数字が悪かった翌日に「今後は数字を少しだけ出します」と言う企業を、投資家は一般に好まない。"
       ],
       "imagePrompts": [
-        "A federal courthouse entrance with a 'NO ENTRY' sign on the door, but a gap in the barrier shaped exactly like a soccer ball with a red carpet leading through it",
-        "A judge at a bench holding up a soccer jersey in one hand and a stack of visa denial notices in the other, peering over reading glasses with one eyebrow raised",
-        "A border checkpoint where uniformed officials wave through a line of soccer players in full kit while a separate line of ordinary travelers faces a giant locked gate"
+        "A large glass office building with 'NETFLIX' on the exterior, where workers inside are installing frosted glass panels over previously clear windows while stock ticker numbers scroll downward on a nearby digital billboard.",
+        "A boardroom presentation with a slide reading 'Q2 EARNINGS UPDATE' showing a downward red arrow, and the next slide reading 'TRANSPARENCY REPORT SCHEDULE: LESS OFTEN,' presented to a room full of investors with increasingly puzzled expressions.",
+        "A streaming interface on a giant screen showing a progress bar labeled 'INVESTOR VISIBILITY' being dragged from 'FULL' toward 'LIMITED' by a hand holding a remote control, while a stock graph in the corner trends downward."
       ],
       "captions": [
-        "The travel ban was an absolute national security necessity — unless you were good enough at soccer, in which case, welcome to New Jersey.",
-        "A federal judge asked why banned countries' athletes got visas to play in the World Cup. The government's answer is pending, probably until after the final.",
-        "Turns out 'categorical ban' has an asterisk. It's in very small print, right next to 'FIFA-sanctioned events excepted.'",
-        "The most effective immigration reform in recent memory: getting really good at soccer.",
-        "Security threat or not, apparently nobody wanted to explain to Infantino why Argentina had to forfeit."
+        "Nothing says 'we're confident in our numbers' like announcing you'll be sharing fewer numbers.",
+        "Netflix's solution to investors not liking what they saw was simple: show them less.",
+        "The company that built an empire knowing exactly what you watch has decided investors don't need to know what anyone watches.",
+        "In a bold earnings call move, Netflix addressed concerns about engagement by reducing engagement with concerns about engagement.",
+        "The 'What We Watched' reports will now be released less frequently — which, given this quarter, may be the most-anticipated content Netflix has ever produced."
       ],
       "captionsJa": [
-        "入国禁止は絶対的な国家安全保障上の必要措置だった——ただし、サッカーが上手ければ話は別で、ニュージャージーへようこそ。",
-        "連邦判事は「なぜ禁止対象国の選手がワールドカップのビザを得られたのか」と質問した。政府の回答は保留中——おそらく決勝戦が終わるまで。",
-        "「絶対的な禁止」にはアスタリスクがついていたことが判明した。FIFA公認イベント除外規定という注釈が、かなり小さな文字で書かれていた。",
-        "最近の移民政策で最も効果的な解決策：サッカーが本当に上手くなること。",
-        "安全保障上の脅威かどうかにかかわらず、インファンティーノ会長にアルゼンチンが棄権になった理由を説明したい人は誰もいなかったようだ。"
+        "「数字への自信があります」を伝える最良の方法：公開する数字を減らすと発表すること。",
+        "ネットフリックスの解決策はシンプルだった——投資家が見たものを気に入らなければ、見せるものを減らせばいい。",
+        "「あなたが何を観るか」を正確に把握してビジネスを築いた企業が、「誰が何を観るか」は投資家に知らせなくていいと判断した。",
+        "今四半期の決算発表で、ネットフリックスは視聴エンゲージメントへの懸念に対し、懸念へのエンゲージメントを減らすことで対応した。",
+        "「What We Watched」レポートは今後、より少ない頻度での公開となる。今四半期を考えれば、ネットフリックス史上最も待望されるコンテンツになるかもしれない。"
       ],
-      "newsEn": "A federal judge overseeing a legal challenge to the Trump administration's immigration ban raised pointed questions about the policy's consistency, noting that exceptions were carved out to allow World Cup participants from the banned countries to enter the United States. The Obama-appointed judge asked in court: 'If the categorical ban on those countries was needed, why did we let the soccer players in?' The exchange highlighted potential contradictions in how the administration has applied its own restrictions.",
+      "newsEn": "Netflix shares fell after the company's earnings forecast disappointed Wall Street expectations. Alongside the underwhelming financial outlook, Netflix announced it would reduce the frequency of its 'What We Watched' reports—transparency disclosures that have provided investors, researchers, and journalists with visibility into what content audiences are actually watching. The company said it would cut back on these engagement updates going forward.",
       "ironyEn": [
         {
-          "contradiction": "The administration argued that banning entry from certain countries was an urgent national security necessity — then issued exemptions for athletes from those same countries so they could play soccer at MetLife Stadium.",
-          "absurdity": "Apparently the security threat posed by a country's citizens can be waived for ninety minutes plus stoppage time.",
-          "outside": "From outside the U.S., it appears that the nation's immigration policy has a sports carve-out clause, which is a novel contribution to international law."
+          "contradiction": "Netflix chose the exact quarter its earnings disappointed investors to announce it would be providing investors with less information going forward.",
+          "absurdity": "A company whose entire product is about what people watch has decided the best response to a rough quarter is to watch less closely what gets watched.",
+          "outside": "From an investor relations standpoint, 'trust us, but we'll be telling you less' is a remarkable pivot, particularly when delivered alongside a disappointing forecast."
         },
         {
-          "contradiction": "A policy framed as non-negotiable for safety reasons turned out to be quite negotiable once FIFA's scheduling was involved.",
-          "absurdity": "The judge essentially asked the government to explain why a World Cup visa is safer than a regular visa, and the courtroom got very quiet.",
-          "outside": "Other nations watch the United States suspend its own emergency travel bans for a soccer tournament and wonder what the definition of 'emergency' actually means in American legal contexts."
+          "contradiction": "The 'What We Watched' reports were one of the few windows into Netflix's notoriously opaque viewership metrics; the timing of their reduction suggests the window was getting too clear.",
+          "absurdity": "Netflix built a $300 billion empire on the algorithm's ability to know exactly what you want to watch. It now prefers not to share that knowledge with the people who own its stock.",
+          "outside": "In most industries, less transparency after a bad quarter is called a red flag. In streaming, it's apparently called a 'strategic update to engagement reporting cadence.'"
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-16/candidate-4.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-17/candidate-4.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Convenience Store Chain Dumps VMware Across 838 Stores, Cites Broadcom 'Uncertainty' — A Hot Dog Has More Stability",
+        "headline": "Workers Strike at Hyundai Factory Over Fear of Robot Replacements — At a Factory That Makes Robots",
         "source": "Ars Technica",
-        "date": "2026-07-16",
-        "url": "https://arstechnica.com/information-technology/2026/07/sheetz-moves-838-stores-off-vmware-broadcom-created-too-much-uncertainty/",
-        "summary": "コンビニチェーン大手のシーツは、ブロードコムによるVMware買収後の価格・ライセンス方針の不透明さを理由に、838店舗のシステムをVMwareから代替製品に移行させた。"
+        "date": "2026-07-17",
+        "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
+        "summary": "現代自動車の工場でヒューマノイドロボット「アトラス」の導入計画に反発した労働者がストライキを起こした。同社は2028年からアメリカの工場に2万5000体のロボットを配備する計画を持つ。"
       },
       "commentary": [
-        "<b>矛盾:</b> 企業買収の目的は通常「シナジー創出」と「顧客基盤の維持」だが、ブロードコムはVMware買収後に大口顧客を大量に失いつつある——コンビニ838店舗が離脱するほどに。",
-        "<b>滑稽さ:</b> 「24時間いつでも安定的に営業する」を売りにするコンビニが、ITインフラの不安定さに耐えかねてシステムを刷新するというのは、ブランドのアイデンティティとの皮肉な対比だ。",
-        "<b>日本・海外から見ると:</b> 数兆円規模の企業買収の結果として、ホットドッグとスラーピーを売る店が全店舗のサーバー環境を入れ替えるという連鎖は、テック業界のM&Aがいかに現場に波及するかを示す好例だ。"
+        "<b>矛盾:</b> ロボットを作っている会社で働く人間が、同じロボットに仕事を奪われることを恐れてストを起こすという、自動化時代の教科書的な矛盾が現実になった。",
+        "<b>滑稽さ:</b> ストライキ参加者が守りたい「自分たちの仕事」の一部は、将来自分たちの仕事を奪うロボットを組み立てることかもしれない。",
+        "<b>日本・海外から見ると:</b> 日本の製造業でも自動化は長年の課題だが、「ロボットを作る工場でロボットへの抗議スト」という構図は、産業革命から続く労働と技術の矛盾をSF的に更新したものとして映る。"
       ],
       "imagePrompts": [
-        "An 838-store map of the United States with every location marked by a tiny VMware logo being replaced by a different logo, while a convenience store clerk watches from behind a hot dog counter",
-        "A corporate boardroom with a slide reading 'SYNERGIES: $61 BILLION ACQUISITION' and a sticky note added in red reading '838 stores just left,' surrounded by executives in suits staring at laptops",
-        "A convenience store shelf stocked with rows of server virtualization software boxes, with a 'CLEARANCE — VENDOR UNCERTAINTY' sale tag on the VMware section"
+        "A factory floor picket line where human workers in hard hats carry protest signs reading 'HUMANS WORK HERE,' while in the background through large windows, rows of humanoid robots stand motionless on an assembly line.",
+        "A worker on a factory floor carefully bolting together the arm of a humanoid robot, while the worker's own hardhat has a small sticky note that reads 'Please don't take my job,' visible to the viewer but not to any supervisor.",
+        "A factory gate with a large 'ATLAS ROBOT DEPLOYMENT: 2028' countdown sign above the entrance, and a union bulletin board below it covered in strike announcements and shift schedule changes, the two signs in direct visual dialogue."
       ],
       "captions": [
-        "Broadcom spent $61 billion buying VMware to own the enterprise market. Sheetz spent less to leave it. Unclear who got the better deal.",
-        "When the company that sells 69-cent hot dogs says your pricing model 'creates too much uncertainty,' it might be time to revisit the pricing model.",
-        "838 convenience stores have now collectively told one of the world's largest chip companies: 'we'll figure it out ourselves.' The hot dog roller remains operational.",
-        "Broadcom's post-acquisition strategy: raise prices, simplify licensing, and watch convenience stores become enterprise infrastructure case studies.",
-        "In the battle between a $61 billion tech giant and a mid-Atlantic convenience chain, the tiebreaker was apparently predictability."
+        "In a twist nobody saw coming except everyone, the people who build the robots are upset that the robots are coming for their jobs.",
+        "The strike is a fascinating philosophical protest: 'We object to being replaced by the product we make.' Descartes could not have written it better.",
+        "Hyundai wants 25,000 Atlas robots on the factory floor by 2028. The current workers have until then to finish assembling them.",
+        "Labor historians will note this as the first strike where the scab labor was partially constructed by the strikers themselves.",
+        "The workers are demanding job security. The robots, when asked for comment, stood perfectly still and said nothing — which, their lawyers noted, is not an admission."
       ],
       "captionsJa": [
-        "ブロードコムは610億ドルかけてVMwareを買収し、エンタープライズ市場を支配しようとした。シーツはより安い費用でそこから去った。どちらが得をしたかは不明だ。",
-        "69セントのホットドッグを売る会社があなたの価格モデルは「不確実性が大きすぎる」と言い始めたなら、そろそろ価格モデルを見直す時期かもしれない。",
-        "838のコンビニが世界最大級のチップメーカーに向かって「自分たちでなんとかする」と告げた。ホットドッグローラーは今日も稼働中だ。",
-        "ブロードコムの買収後戦略：価格を上げ、ライセンスを整理し、コンビニがエンタープライズITのケーススタディになるのを眺める。",
-        "610億ドルのテック巨人と中堅コンビニチェーンの戦いを決したのは、結局「予測可能性」だったようだ。"
+        "誰もが予想していたのに誰も予想しなかった展開：ロボットを作る人たちが、ロボットに仕事を奪われることに怒っている。",
+        "このストライキは深い哲学的抗議だ。「自分たちが作る製品に代替されることに反対する」——デカルトも思いつかなかった。",
+        "現代自動車は2028年までに2万5000体のアトラスロボットを配備したい。現在の労働者にはその完成まで手伝う時間がある。",
+        "労働史家はこれを、ストライキ破りの労働力の一部をストライキ参加者自身が組み立てた最初のストとして記録するだろう。",
+        "労働者は雇用保障を要求した。コメントを求められたロボットたちは完全に静止したまま何も言わなかった——弁護士によれば、それは自白ではないとのことだ。"
       ],
-      "newsEn": "Convenience store chain Sheetz has migrated all 838 of its locations away from VMware virtualization software, citing the 'too much uncertainty' created by Broadcom's acquisition of VMware. The company switched to StorMagic as its replacement. The move is part of a broader wave of enterprise customers reconsidering VMware contracts following Broadcom's aggressive post-acquisition licensing changes.",
+      "newsEn": "Workers at a Hyundai auto manufacturing facility went on strike, motivated in part by fears over the company's plans to deploy humanoid robots on factory floors. Hyundai plans to deploy 25,000 Atlas robots starting with U.S. factories beginning in 2028. The strike highlights growing labor anxieties over automation displacing human workers in manufacturing—at a company that is simultaneously one of the world's leading producers of humanoid robotics technology.",
       "ironyEn": [
         {
-          "contradiction": "Broadcom spent billions acquiring VMware to lock in enterprise customers. Those customers are now spending their own money to leave, which is a business outcome Broadcom's investors may have glossed over.",
-          "absurdity": "A chain famous for hot dogs and Slurpees has now contributed more concretely to Broadcom's PR problem than most tech analysts have.",
-          "outside": "From outside Silicon Valley, it appears that the main product of a $61 billion acquisition was 838 convenience stores switching to a competitor."
+          "contradiction": "Workers at a company that manufactures humanoid robots are striking because they fear humanoid robots will take their jobs — a sentence that contains its own punchline.",
+          "absurdity": "Some of the workers participating in the strike may have spent their previous shifts assembling the very robots they are now marching against.",
+          "outside": "From a historical perspective, the Luddites smashed machines from the outside. Hyundai's workers are in the unprecedented position of being inside the machine — literally."
         },
         {
-          "contradiction": "Broadcom's pricing strategy was designed to extract maximum value from a captive enterprise customer base. The customers responded by becoming less captive.",
-          "absurdity": "The phrase 'too much uncertainty' is doing a lot of heavy lifting here — it's the kind of language a gas station uses to explain why they switched their hot dog roller brand.",
-          "outside": "Tech M&A analysts modeled the Broadcom-VMware deal as a masterclass in enterprise capture. Sheetz, with 838 stores and a commitment to affordable roller grills, just filed a rebuttal."
+          "contradiction": "Hyundai's pitch to investors is that its robots will increase productivity; its workers' pitch is that increased productivity at their expense is worth striking over. Both are correct.",
+          "absurdity": "The Atlas robot was named after the Titan who holds up the world. The workers holding up the factory floor are now asking whether the Titan plans to replace them.",
+          "outside": "In 2028, when 25,000 Atlas robots begin their shifts at U.S. Hyundai plants, the workers who built them will have had four years to consider the philosophical implications."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-16/candidate-5.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-17/candidate-5.jpg",
+      "imageStyle": "soft-3d"
     }
   ]
 };
