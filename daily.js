@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-17",
-  "generatedAt": "2026-07-16T23:16:42+00:00",
+  "date": "2026-07-18",
+  "generatedAt": "2026-07-17T22:37:39+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "White House Teleprompter Operator Placed on Leave After Betting $100K on What Trump Would Say",
-        "source": "The Guardian US",
-        "date": "2026-07-17",
-        "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-teleprompter-operator-kalshi-bets",
-        "summary": "トランプ大統領の専属テレプロンプター操作担当者が、大統領演説の内容を事前に把握した上で予測市場サイト「Kalshi」に賭けを行い、10万ドル以上を稼いでいたとして行政休職処分となった。"
+        "headline": "Trump Calls Voter Data Leak 'Historic Catastrophe' — It's Available at Your Local Clerk's Office",
+        "source": "CBS News US",
+        "date": "2026-07-18",
+        "url": "https://www.cbsnews.com/news/trump-china-u-s-voter-registration-files-state-by-state/",
+        "summary": "トランプ大統領が中国による有権者データ取得を「史上最大の選挙データ流出」と呼んだが、そのデータは20州で誰でも公開請求で入手できる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「選挙の予測市場は不正だ」と主張してきた政権の内部から、インサイダー予測賭博師が登場した。",
-        "<b>滑稽さ:</b> 大統領の言葉を画面に映す担当者が、その言葉を金融商品として最も効率よく活用していたことになる。",
-        "<b>日本・海外から見ると:</b> 予測市場の『内部情報取引』が大統領執務室レベルで発生するとは、ウォール街のインサイダー問題をはるかに超えたコントに見える。"
+        "<b>矛盾:</b> 「史上最大の流出」と断言したデータは、アメリカ市民なら誰でも普通に請求して入手できる公開情報だった。",
+        "<b>滑稽さ:</b> 国家安全保障上の重大危機として演出されたものが、図書館のカードさえあれば手に入るようなデータだったという落差は圧巻だ。",
+        "<b>日本・海外から見ると:</b> 「秘密の流出」が実は公開情報というのは、アメリカの選挙制度の透明性の高さなのか、危機演出の杜撰さなのか、両方なのか判断に迷う。"
       ],
       "imagePrompts": [
-        "A man in a dark suit operating a teleprompter machine in a grand official room, while simultaneously glancing at a smartphone showing a betting app with rising profit numbers, stacks of cash balanced on top of the teleprompter.",
-        "A podium with a large presidential seal, the teleprompter screen visible showing scrolling text, and in the corner a ticker-tape display showing stock-market-style odds updating in real time.",
-        "A government building lobby with a 'Help Wanted: Teleprompter Operator — No Prior Gambling Experience Required' sign posted on a bulletin board, a long line of applicants each holding a smartphone with a betting app open."
+        "A dramatic presidential podium bathed in red-white-and-blue spotlights, behind it a giant banner reading 'HISTORIC DATA BREACH'; in the foreground, a bored government clerk hands a manila folder labeled 'Voter Records — $5.00' to a long line of ordinary citizens, tourists, and a person in a panda costume.",
+        "A stern-faced official pointing at a map of China on one side; on the other side, an identical map of the United States with a sign saying 'Public Records Request — Same Data, Free!' and a short queue of smiling applicants.",
+        "A spy in a trench coat and dark glasses receives a USB drive in a shadowy alley; a speech bubble from a nearby street vendor reads 'You could've just gone to the county clerk's website, pal.'"
       ],
       "captions": [
-        "They say knowledge is power. Turns out, knowledge is also $100,000—if you know where to scroll.",
-        "The White House finally found someone who listened to every word the President said. Unfortunately, his motivation was purely financial.",
-        "In his defense, he was the only person in Washington who actually read the whole speech before it was delivered.",
-        "Insider trading investigators spent years looking on Wall Street. Nobody checked the guy holding the scroll wheel.",
-        "The President called it 'a disgrace.' The teleprompter operator called it 'reading the room.' Literally."
+        "The president called it the largest data breach in history. The county clerk called it Tuesday.",
+        "China allegedly stole voter rolls from 20 states — the same voter rolls you can order online with a credit card and a business day to spare.",
+        "Breaking: foreign adversary obtains information that your local pizza chain has had since 2018.",
+        "The government is shocked — shocked! — that someone got hold of the public records they've been publicly publishing.",
+        "In fairness, calling a FOIA request 'Chinese espionage' does make it sound more exciting."
       ],
       "captionsJa": [
-        "「知識は力なり」とはよく言ったもの。ただし条件がある——どこをスクロールすればいいか知っていること。",
-        "ホワイトハウスはついに大統領の言葉を一言一句聞く人物を見つけた。残念ながら、その動機は純粋に金銭的なものだった。",
-        "彼の名誉のために言えば、演説が読まれる前に全文を読んでいたワシントン唯一の人間だった。",
-        "インサイダー取引の捜査官は何年もウォール街を調べ続けた。スクロールホイールを握る男を誰もチェックしなかった。",
-        "大統領は「恥だ」と言った。テレプロンプター担当者はそれを「空気を読む力」と呼んだ。文字通りの意味で。"
+        "大統領は「史上最大の情報流出」と呼んだ。郡書記官はそれを「火曜日の業務」と呼んでいた。",
+        "中国が20州の有権者名簿を「盗んだ」とされているが、その名簿はクレジットカードと1営業日あれば誰でもオンラインで注文できる。",
+        "速報：外国の敵対勢力が、地元のピザチェーンが2018年から持っているデータを入手。",
+        "政府は驚愕している——公開しているはずの公開情報が、誰かの手に渡ったことに。",
+        "公開情報請求を「中国のスパイ活動」と呼ぶと確かに聞こえがいい。それは認める。"
       ],
-      "newsEn": "The White House placed President Trump's longtime teleprompter operator on administrative leave after reports emerged that he had placed bets on the prediction platform Kalshi—wagering on the content of Trump's public speeches. Kalshi detected the suspicious trading activity, investigated, and referred the case to federal regulators. The operator reportedly profited over $100,000. Press Secretary Karoline Leavitt described the situation as 'deeply unfortunate and frankly a disgrace.'",
+      "newsEn": "President Trump declared China's acquisition of voter information 'the largest compromise of election data in history' during a primetime address. However, in 20 U.S. states, this voter data is publicly available to anyone who files a simple records request. Election experts noted that much of the information is routinely shared with political campaigns, researchers, and private companies.",
       "ironyEn": [
         {
-          "contradiction": "An administration that has railed against prediction markets manipulating elections apparently had its own staffer running the most informed betting operation in Washington.",
-          "absurdity": "The man whose entire job was to feed the President his words discovered that those words were, in fact, the most reliable financial instrument in America.",
-          "outside": "From abroad, the image of a teleprompter operator as Wall Street's sharpest insider trader suggests the real power in the White House was always the guy in the back controlling the scroll speed."
+          "contradiction": "The president branded publicly available government records a historic national security breach.",
+          "absurdity": "In 20 states, you can obtain this 'catastrophically leaked' data by mailing a polite letter to your county clerk.",
+          "outside": "From abroad, it's hard to tell if America is terrifyingly transparent about voter data or terrifyingly theatrical about everything else."
         },
         {
-          "contradiction": "Kalshi—the platform the operator used—exists precisely because markets are supposed to aggregate public information, not private access to the leader of the free world's script.",
-          "absurdity": "He didn't need to hack anything, bribe anyone, or leak documents. He just had to read the screen slightly before everyone else.",
-          "outside": "In a country that prosecutes insider trading with vigor, it took a prediction market's own fraud detection—not any government watchdog—to catch the most literal insider in history."
+          "contradiction": "A primetime emergency address was devoted to information that political campaigns, researchers, and telemarketers have been legally purchasing for decades.",
+          "absurdity": "China's alleged masterstroke of espionage turns out to be something your local PTA could have pulled off with a stamp and an envelope.",
+          "outside": "Other nations spend millions protecting voter data; the U.S. apparently sells it with a smile and calls it democracy."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-17/candidate-1.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-07-18/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Trump to Give Primetime Address on Election Integrity — Years After Spreading Election Doubt",
+        "headline": "Trump's Face on the Nation's 250th Birthday Coin — Experts Say That's Both Unprecedented and Illegal",
         "source": "NPR News",
-        "date": "2026-07-17",
-        "url": "https://www.npr.org/2026/07/16/nx-s1-5896448/trump-election-address",
-        "summary": "2020年大統領選の不正を根拠なく主張し続けてきたトランプ大統領が、選挙の安全保障をテーマにしたプライムタイムの全国演説を行う予定であることがわかった。"
+        "date": "2026-07-18",
+        "url": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
+        "summary": "アメリカ建国250周年を記念する新しい1ドルコインにトランプ大統領の顔が刻まれることになったが、専門家はこれが法律違反にあたると指摘している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 選挙制度への不信を最も広めてきた人物が、選挙の信頼性を守る演説の主役として全国放送に登場する構図になっている。",
-        "<b>滑稽さ:</b> 「選挙は不正だ」と主張し続けた大統領が「選挙を守ろう」と訴える演説をする——これを皮肉と呼ばずして何と呼ぶか。",
-        "<b>日本・海外から見ると:</b> 放火犯が消防署長に就任してスピーチする場面として、海外メディアには映りかねない。"
+        "<b>矛盾:</b> 建国の理念として「君主制からの独立」を祝う記念コインに、現職大統領の顔を刻むという、独立宣言の精神を真正面から踏み越える行為。",
+        "<b>滑稽さ:</b> 250年間守られてきた「存命人物は硬貨に載せない」というルールを、建国250周年のコインで破るタイミングの見事さ。",
+        "<b>日本・海外から見ると:</b> 「民主主義の手本」を自任する国の記念硬貨が、専門家から「法律違反」と言われる状況は、教科書の外からだと非常に興味深い構図だ。"
       ],
       "imagePrompts": [
-        "A grand television studio podium draped with an 'ELECTION INTEGRITY' banner, with a giant on-stage scoreboard showing a long list of past election fraud claims crossed out in red, while the speaker at the podium gestures confidently toward the camera.",
-        "A theater marquee outside a large government building reading 'TONIGHT ONLY: Election Security — Starring the Man Who Called It Broken,' with a line of confused audience members holding tickets.",
-        "A podium with two facing mirrors creating an infinite reflection — each reflection shows the same figure alternately holding a 'THE ELECTION WAS STOLEN' sign and an 'I WILL PROTECT YOUR VOTE' sign."
+        "A gleaming commemorative coin with a presidential profile on it, surrounded by tiny engravings of the Declaration of Independence, the Constitution, and a small footnote that reads 'technically illegal'; a historian with reading glasses stares at it through a magnifying glass, mouth agape.",
+        "A grand mint facility with workers proudly stamping coins; above the press hangs a framed portrait of the president and a smaller framed printout of the federal statute prohibiting exactly this; a supervisor cheerfully ignores the latter.",
+        "A street vendor's table displaying commemorative coins next to novelty mugs, bobbleheads, and a sign reading 'America 250 — Democracy, Baby!'; a constitutional lawyer in the background holds his head in his hands."
       ],
       "captions": [
-        "Nothing builds credibility for an election security speech like six years of telling everyone the elections aren't secure.",
-        "He's like a man who spends a decade yelling that the bridge is broken, then cuts the ribbon at the bridge's grand reopening.",
-        "The speech was described as being about election integrity. Historians will note that's also what the last several years were about — just from the other direction.",
-        "Sources close to the White House say the speech will be 'forward-looking.' Sources close to reality noted it will air on the same networks that broadcast the previous claims.",
-        "In a surprise twist, the nation's foremost election skeptic has agreed to be the nation's foremost election protector. No word yet on whether he'll believe the results."
+        "Nothing says '250 years of escaping monarchy' like putting the king's face on the coins.",
+        "America spent two and a half centuries avoiding this exact thing, and then did it to celebrate avoiding this exact thing.",
+        "Legal experts call it unprecedented. The mint calls it a limited edition.",
+        "The good news: you can use it at a vending machine. The bad news: so can everyone who read the federal statute.",
+        "In 1776, they threw British coins into the harbor. In 2026, they're making American ones that look remarkably similar."
       ],
       "captionsJa": [
-        "選挙の安全保障演説に向けた信頼感の醸成方法として、「6年間、選挙は安全じゃないと言い続ける」は斬新すぎる。",
-        "橋が壊れていると10年間叫び続けた男が、同じ橋の開通式でテープカットをするようなものだ。",
-        "演説のテーマは「選挙の信頼性」。歴史家はここ数年も同じテーマを扱っていたと記録するだろう——ただし、正反対の方向から。",
-        "ホワイトハウス関係者によれば「前向きな内容」になるという。現実に近い関係者によれば、それが放送されるのは前の主張と同じネットワークだという。",
-        "どんでん返し：国内最大の選挙懐疑派が国内最大の選挙守護者に就任。結果を信じるかどうかは未定。"
+        "「君主制からの脱却250周年」を祝うのに、王様の顔をコインに刻む以上の方法はなかったようだ。",
+        "アメリカは250年かけてこれを避け続け、それを祝うコインで初めてやらかした。",
+        "専門家は「前例がない」と言い、造幣局は「限定版」と言う。",
+        "良いニュース：自販機で使える。悪いニュース：連邦法を読んだ全員も使える。",
+        "1776年にはイギリスのコインを港に投げ捨てた。2026年には、よく似たアメリカのコインを製造している。"
       ],
-      "newsEn": "President Trump is scheduled to deliver a primetime televised address from the White House focused on election integrity and election security. Trump has for years repeatedly claimed, without evidence, that he lost the 2020 election due to widespread fraud. Democratic Senator Jon Ossoff of Georgia predicted the speech would 'reheat debunked conspiracy theories,' calling Trump the 'world's most famous sore loser.' Details about the specific content of the address remained sparse ahead of broadcast.",
+      "newsEn": "A new commemorative coin marking America's 250th anniversary will feature the face of President Trump, breaking with the longstanding tradition of depicting deceased historical figures on U.S. currency. Legal experts say the design likely violates federal law, which prohibits placing a living person's portrait on U.S. coins and currency. The coin is one of several instances this year where Trump's likeness has appeared in official or semi-official contexts.",
       "ironyEn": [
         {
-          "contradiction": "The man who spent years telling Americans their elections couldn't be trusted is now the nation's designated spokesman for election trustworthiness.",
-          "absurdity": "Scheduling a primetime address on election integrity is a bold move when your entire political brand was built on claiming elections don't work.",
-          "outside": "Observers abroad might reasonably compare this to a defendant being appointed as jury foreperson in their own ongoing fraud trial."
+          "contradiction": "A coin celebrating 250 years of republican democracy, founded specifically to escape monarchy, will bear the face of the living head of state.",
+          "absurdity": "The U.S. waited two and a half centuries to put a living president on a coin, then did it to celebrate the anniversary of not doing that kind of thing.",
+          "outside": "Countries with actual monarchies at least wait for their kings to die before putting them on currency."
         },
         {
-          "contradiction": "Election security becomes a national priority the moment the person most associated with undermining election confidence decides to champion it.",
-          "absurdity": "The speech's content was kept so secret that even the press corps couldn't predict it—which, given recent events, may have been a deliberate financial precaution.",
-          "outside": "In most democracies, the phrase 'the president will address election integrity tonight' is reassuring. In this context, it reads more like a plot twist."
+          "contradiction": "Federal law explicitly bans living persons from appearing on U.S. currency — a rule that apparently applies to everyone except the person with the power to enforce federal law.",
+          "absurdity": "The 250th birthday party for American democracy comes with a party favor that legal scholars describe as 'a souvenir of lawlessness.'",
+          "outside": "From abroad, the coin looks less like a celebration of American independence and more like a collector's item for a very specific kind of history."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-17/candidate-2.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-07-18/candidate-2.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Trump Officials Host 66-Nation Summit Against Political Violence — Targeting Only the Left",
-        "source": "The Guardian US",
-        "date": "2026-07-17",
-        "url": "https://www.theguardian.com/us-news/2026/jul/16/political-violence-event-trump-marco-rubio",
-        "summary": "マルコ・ルビオ国務長官とスティーブン・ミラー上級顧問が66カ国の代表を集めた「政治的暴力対策」会議を主催したが、批判の対象はすべて左翼勢力のみに絞られた。"
+        "headline": "FAA Lets Boeing Self-Certify Its Own Airworthiness Again — What Could Go Wrong?",
+        "source": "CNBC Top News",
+        "date": "2026-07-18",
+        "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+        "summary": "米連邦航空局（FAA）が、ボーイングに対して737 Maxおよび787の耐空証明書への自己署名権限を再び認めた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「政治的暴力に反対する」国際会議を開きながら、政治的暴力の対象を一方の政治勢力のみに絞るのは、会議の目的と定義が矛盾している。",
-        "<b>滑稽さ:</b> 66カ国を集めて「暴力は悪い」と言いながら、その「暴力」の定義が開催者の政治的立場によって事前に決まっている国際フォーラムは、サミットというより演説会に近い。",
-        "<b>日本・海外から見ると:</b> 参加した66カ国の代表が、帰国後どう説明するのか気になるところだ。「アメリカに行って、アメリカの政治対立を聞いてきました」では外交成果とは言いにくい。"
+        "<b>矛盾:</b> 自社製品の安全証明書を自分で署名できる権限を剥奪された経緯があるにもかかわらず、その権限が再び付与されるという構造——これは「信頼の回復」なのか「監視の放棄」なのか。",
+        "<b>滑稽さ:</b> 「試験官が答案を自分で採点していい」という制度を一度廃止した理由を思い出すのに、そう時間はかからないはずだ。",
+        "<b>日本・海外から見ると:</b> 航空安全の「第三者監査」を当然と考える国々からすれば、製造者自身による耐空証明という仕組みはそもそも二度見する内容だ。"
       ],
       "imagePrompts": [
-        "A large international conference table with flags of 66 nations arranged around it, all facing a single podium where a speaker points at a giant screen reading 'POLITICAL VIOLENCE: LEFT SIDE ONLY,' while half the table labeled 'RIGHT' sits visibly empty.",
-        "A grand summit hall with a banner reading 'CONFERENCE AGAINST ALL POLITICAL VIOLENCE,' and a long agenda board where every single line item reads 'Left-Wing Threat #1,' 'Left-Wing Threat #2,' continuing down the full length of the board.",
-        "An airport arrivals terminal with diplomats from dozens of countries rolling suitcases, all looking at matching printed itineraries that say 'Day 1: Hear about American domestic politics. Day 2: Fly home.'"
+        "A Boeing factory floor with a worker in a hard hat cheerfully stamping a large green 'APPROVED' seal on the side of a 737 Max fuselage; a tiny FAA inspector waves goodbye from the parking lot.",
+        "A school classroom where a student sits alone at a desk, grading their own exam paper and writing 'A+' in red pen; on the chalkboard it reads 'FAA Approved Methodology 2026.'",
+        "A quality control office with a single mirror on the wall labeled 'Third-Party Inspector'; a Boeing executive in a suit studies his own reflection and gives a thumbs-up."
       ],
       "captions": [
-        "Sixty-six nations gathered to condemn political violence in all its forms — a process that, it turns out, only has one form.",
-        "It's a bold diplomatic strategy: invite the world to discuss a problem, then spend the whole conference explaining that only your opponents have it.",
-        "The summit concluded with a unanimous statement condemning political violence, which was impressive given that only one side of the aisle was mentioned by name.",
-        "Historians will note this as the first international conference where 'all forms of political violence' was a two-word synonym for 'the left.'",
-        "In fairness, it was a very diverse conference. Representatives came from 66 countries to hear the same speech."
+        "The FAA has determined the best person to check Boeing's work is Boeing.",
+        "After years of safety concerns, regulators concluded the solution was fewer regulators.",
+        "Boeing can now sign its own airworthiness certificates — which is great, because their handwriting has really improved.",
+        "It's called a 'vote of confidence.' The planes call it Tuesday.",
+        "The honor system is back — this time, with more horsepower and a window seat."
       ],
       "captionsJa": [
-        "66カ国が「あらゆる形の政治的暴力」を非難するために集まった——その「あらゆる形」が、実は一種類しかないことが判明した。",
-        "大胆な外交戦略だ：世界を招いて問題を議論し、会議全体を通じて相手陣営だけに問題があると説明する。",
-        "サミットは政治的暴力を全会一致で非難して閉幕した。名指しされたのが一方の政党だけだったことを考えると、なかなかの全会一致だ。",
-        "歴史家はこれを、「あらゆる形の政治的暴力」が「左翼」の同義語として使われた最初の国際会議として記録するだろう。",
-        "公平に言えば、非常に多様な会議だった。66カ国の代表が同じスピーチを聞きに来た。"
+        "FAAはボーイングの仕事をチェックするのに最適な存在はボーイングだと結論づけた。",
+        "数年にわたる安全問題の末、規制当局が出した答えは「規制を減らす」だった。",
+        "ボーイングは自社の耐空証明書に自分でサインできるようになった。字が上手くなったから大丈夫らしい。",
+        "それは「信頼の表明」と呼ばれている。飛行機はそれを「火曜日」と呼んでいる。",
+        "名誉制度が帰ってきた——今度は高度3万フィートで。"
       ],
-      "newsEn": "Senior Trump administration officials Marco Rubio and Stephen Miller hosted a gathering of representatives from 66 nations ostensibly dedicated to combating political violence. However, all of the attacks and diatribes delivered at the meeting were aimed exclusively at left-wing activism, with no mention of right-wing political violence. The rhetoric was described as notably harsh even by the standards of current political discourse, including labeling certain groups 'enemies of civilization.'",
+      "newsEn": "The FAA has restored Boeing's authority to sign off on its own airworthiness certificates for the 737 Max and 787 Dreamliner. The agency described the move as a vote of confidence in the manufacturer. Boeing had previously lost significant oversight privileges following a series of safety scandals, including door plug failures and manufacturing quality concerns that led to intense regulatory scrutiny.",
       "ironyEn": [
         {
-          "contradiction": "Convening 66 nations to condemn political violence while exclusively directing that condemnation at one half of the domestic political spectrum is a novel interpretation of the word 'international.'",
-          "absurdity": "Calling a meeting of 66 countries to discuss threats to civilization, then spending the session cataloguing the threats of people who disagree with you, is less a summit and more a very well-attended grievance session.",
-          "outside": "Diplomats from 66 countries flew to Washington to participate in a conference on political violence and came home with notes that read, essentially, like opposition research for the Republican Party."
+          "contradiction": "The FAA stripped Boeing of self-certification privileges after safety failures, then restored them as a 'vote of confidence' before those underlying issues were fully resolved in the public's mind.",
+          "absurdity": "Regulators concluded the best way to ensure Boeing builds safe planes is to let Boeing confirm that Boeing builds safe planes.",
+          "outside": "Aviation authorities in other countries require independent certification; the U.S. is celebrating a return to the honor system."
         },
         {
-          "contradiction": "The conference's stated mission was preventing political violence in all its forms; its actual content suggests 'all its forms' was a figure of speech.",
-          "absurdity": "Labeling political opponents 'enemies of civilization' at a conference specifically convened to address inflammatory labeling of political opponents is, at minimum, an interesting scheduling choice.",
-          "outside": "Multilateral diplomacy usually involves compromises between different viewpoints. This summit appears to have achieved consensus by only inviting one viewpoint to speak."
+          "contradiction": "The agency created to protect the flying public from manufacturer error is now formally trusting the manufacturer to catch its own errors.",
+          "absurdity": "It's the regulatory equivalent of letting a student grade their own exam — after the last time they did that, the ceiling fell off the test.",
+          "outside": "Passengers boarding a 737 Max may find it reassuring to know the plane has been certified airworthy — by the people who built it."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-17/candidate-3.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-18/candidate-3.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Netflix Stock Falls After Earnings Miss — And Company Announces It Will Share Less Data With Investors",
+        "headline": "Netflix Disappoints Wall Street, Quietly Decides to Share Less About What You're Watching",
         "source": "CNBC Top News",
-        "date": "2026-07-17",
+        "date": "2026-07-18",
         "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-        "summary": "ネットフリックスが市場予測を下回る業績見通しを発表し株価が下落した。同社はさらに、視聴データを公開する「What We Watched」レポートの頻度を削減するとも発表した。"
+        "summary": "ネットフリックスが収益見通しで市場の期待を下回り、株価が下落。同社はあわせて視聴データを公開する「What We Watched」レポートの頻度を削減すると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 業績が期待を下回って投資家の信頼が揺らいだまさにそのタイミングで、透明性レポートの削減を発表するのは、「信頼してほしいが、確認はさせない」というメッセージに聞こえる。",
-        "<b>滑稽さ:</b> 「何を見ているか」を公開するレポートを、「見られたくない時期」に縮小する——皮肉の自動生成機のような展開だ。",
-        "<b>日本・海外から見ると:</b> 決算発表で数字が悪かった翌日に「今後は数字を少しだけ出します」と言う企業を、投資家は一般に好まない。"
+        "<b>矛盾:</b> 業績が期待を下回った翌日に「視聴状況の透明性を下げる」と発表するタイミングは、偶然と呼ぶには出来すぎている。",
+        "<b>滑稽さ:</b> 「視聴データを公開する」という業界に対する透明性のジェスチャーを、視聴者に見せたくないデータが出た瞬間に縮小するという構造の完成度。",
+        "<b>日本・海外から見ると:</b> 「どれだけ見られているか分からないまま莫大な製作費をかける」という旧来の放送局モデルに、ネットフリックスが静かに回帰しているように見える。"
       ],
       "imagePrompts": [
-        "A large glass office building with 'NETFLIX' on the exterior, where workers inside are installing frosted glass panels over previously clear windows while stock ticker numbers scroll downward on a nearby digital billboard.",
-        "A boardroom presentation with a slide reading 'Q2 EARNINGS UPDATE' showing a downward red arrow, and the next slide reading 'TRANSPARENCY REPORT SCHEDULE: LESS OFTEN,' presented to a room full of investors with increasingly puzzled expressions.",
-        "A streaming interface on a giant screen showing a progress bar labeled 'INVESTOR VISIBILITY' being dragged from 'FULL' toward 'LIMITED' by a hand holding a remote control, while a stock graph in the corner trends downward."
+        "A boardroom with executives presenting a graph that shows a sharp downward line labeled 'Earnings'; beside it, a curtain is being drawn over a second graph labeled 'What People Are Actually Watching'; a spokesperson smiles reassuringly at the audience.",
+        "A streaming platform's glowing interface with a giant red 'N' logo; instead of a viewing history section, there is a blank page with the message 'Trust Us — People Are Watching'; a confused subscriber squints at the screen.",
+        "A magician on a stage pulling a cloth over a large chart labeled 'Engagement Data'; the audience of investors leans forward; the magician's assistant holds a sign reading 'Fewer Updates Coming Soon.'"
       ],
       "captions": [
-        "Nothing says 'we're confident in our numbers' like announcing you'll be sharing fewer numbers.",
-        "Netflix's solution to investors not liking what they saw was simple: show them less.",
-        "The company that built an empire knowing exactly what you watch has decided investors don't need to know what anyone watches.",
-        "In a bold earnings call move, Netflix addressed concerns about engagement by reducing engagement with concerns about engagement.",
-        "The 'What We Watched' reports will now be released less frequently — which, given this quarter, may be the most-anticipated content Netflix has ever produced."
+        "Netflix had a disappointing quarter and, coincidentally, decided this was a great time to share less about its quarters.",
+        "The company that disrupted TV by publishing viewership data is now disrupting itself by un-publishing viewership data.",
+        "Netflix: 'We value transparency.' Also Netflix: 'Here's a little less of it.'",
+        "Wall Street wanted more engagement data. Netflix responded by engaging less with that request.",
+        "Remember when Netflix mocked old TV networks for hiding their ratings? Good times."
       ],
       "captionsJa": [
-        "「数字への自信があります」を伝える最良の方法：公開する数字を減らすと発表すること。",
-        "ネットフリックスの解決策はシンプルだった——投資家が見たものを気に入らなければ、見せるものを減らせばいい。",
-        "「あなたが何を観るか」を正確に把握してビジネスを築いた企業が、「誰が何を観るか」は投資家に知らせなくていいと判断した。",
-        "今四半期の決算発表で、ネットフリックスは視聴エンゲージメントへの懸念に対し、懸念へのエンゲージメントを減らすことで対応した。",
-        "「What We Watched」レポートは今後、より少ない頻度での公開となる。今四半期を考えれば、ネットフリックス史上最も待望されるコンテンツになるかもしれない。"
+        "ネットフリックスは期待外れの四半期決算を発表し、奇しくも同じタイミングで四半期の詳細を共有しないことにした。",
+        "視聴データを公開して業界を変えた会社が、視聴データの非公開化で自分を変えようとしている。",
+        "ネットフリックス：「透明性を大切にしています。」同社：「ではその透明性を少し減らしましょう。」",
+        "市場はもっと多くのデータを求めた。ネットフリックスはそのリクエストへの関与を縮小することで応えた。",
+        "かつてネットフリックスは視聴率を隠す旧来のテレビ局を笑っていた。懐かしい話だ。"
       ],
-      "newsEn": "Netflix shares fell after the company's earnings forecast disappointed Wall Street expectations. Alongside the underwhelming financial outlook, Netflix announced it would reduce the frequency of its 'What We Watched' reports—transparency disclosures that have provided investors, researchers, and journalists with visibility into what content audiences are actually watching. The company said it would cut back on these engagement updates going forward.",
+      "newsEn": "Netflix shares fell after the company issued an earnings forecast that disappointed Wall Street analysts. Alongside the financial results, Netflix announced it would reduce the frequency of its 'What We Watched' reports, which provide detailed data on viewer engagement across its platform. The reports had been seen as a rare window into the otherwise opaque streaming giant's actual viewership numbers.",
       "ironyEn": [
         {
-          "contradiction": "Netflix chose the exact quarter its earnings disappointed investors to announce it would be providing investors with less information going forward.",
-          "absurdity": "A company whose entire product is about what people watch has decided the best response to a rough quarter is to watch less closely what gets watched.",
-          "outside": "From an investor relations standpoint, 'trust us, but we'll be telling you less' is a remarkable pivot, particularly when delivered alongside a disappointing forecast."
+          "contradiction": "Netflix introduced its 'What We Watched' reports to prove it was more transparent than traditional TV networks — and now reduces that transparency the same quarter its numbers disappoint.",
+          "absurdity": "The streaming company that built its brand on data and algorithms has decided the best data strategy is sharing less data.",
+          "outside": "From the outside, 'we're cutting back on viewership reports' after a weak earnings call reads like a restaurant removing the calorie counts from its menu after a health inspection."
         },
         {
-          "contradiction": "The 'What We Watched' reports were one of the few windows into Netflix's notoriously opaque viewership metrics; the timing of their reduction suggests the window was getting too clear.",
-          "absurdity": "Netflix built a $300 billion empire on the algorithm's ability to know exactly what you want to watch. It now prefers not to share that knowledge with the people who own its stock.",
-          "outside": "In most industries, less transparency after a bad quarter is called a red flag. In streaming, it's apparently called a 'strategic update to engagement reporting cadence.'"
+          "contradiction": "Shareholders were told to trust Netflix's engagement figures right as the company announced it would be providing fewer engagement figures.",
+          "absurdity": "Netflix spent years mocking linear TV for hiding ratings, then quietly picked up the same shovel.",
+          "outside": "In an industry obsessed with metrics, the new power move is apparently making the metrics disappear."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-17/candidate-4.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-18/candidate-4.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Workers Strike at Hyundai Factory Over Fear of Robot Replacements — At a Factory That Makes Robots",
-        "source": "Ars Technica",
-        "date": "2026-07-17",
-        "url": "https://arstechnica.com/ai/2026/07/fear-of-humanoid-robots-spurs-human-workers-to-strike-at-hyundai-auto-factory/",
-        "summary": "現代自動車の工場でヒューマノイドロボット「アトラス」の導入計画に反発した労働者がストライキを起こした。同社は2028年からアメリカの工場に2万5000体のロボットを配備する計画を持つ。"
+        "headline": "Canadian Wildfire Smoke Chokes U.S. Cities — Trump Proposes Adding It to the Tariff Bill",
+        "source": "CNBC Top News",
+        "date": "2026-07-18",
+        "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
+        "summary": "カナダの山火事による煙がアメリカ中西部から東海岸を覆う中、トランプ大統領はカナダに対して大気汚染コストを関税に上乗せすると発言した。"
       },
       "commentary": [
-        "<b>矛盾:</b> ロボットを作っている会社で働く人間が、同じロボットに仕事を奪われることを恐れてストを起こすという、自動化時代の教科書的な矛盾が現実になった。",
-        "<b>滑稽さ:</b> ストライキ参加者が守りたい「自分たちの仕事」の一部は、将来自分たちの仕事を奪うロボットを組み立てることかもしれない。",
-        "<b>日本・海外から見ると:</b> 日本の製造業でも自動化は長年の課題だが、「ロボットを作る工場でロボットへの抗議スト」という構図は、産業革命から続く労働と技術の矛盾をSF的に更新したものとして映る。"
+        "<b>矛盾:</b> 気候変動による山火事の深刻化という文脈を完全に無視し、自然現象を貿易問題として関税で「解決」しようとする発想。",
+        "<b>滑稽さ:</b> 風に乗ってくる煙に関税をかけるというアイデアは、天気に罰金を科すのと大差ない。煙は国境で止まってくれない。",
+        "<b>日本・海外から見ると:</b> 国際社会が「気候変動への共同対応」を議論している中で、アメリカが「隣国の山火事煙に関税」という解決策を提示する光景は、かなりユニークな外交スタンスだ。"
       ],
       "imagePrompts": [
-        "A factory floor picket line where human workers in hard hats carry protest signs reading 'HUMANS WORK HERE,' while in the background through large windows, rows of humanoid robots stand motionless on an assembly line.",
-        "A worker on a factory floor carefully bolting together the arm of a humanoid robot, while the worker's own hardhat has a small sticky note that reads 'Please don't take my job,' visible to the viewer but not to any supervisor.",
-        "A factory gate with a large 'ATLAS ROBOT DEPLOYMENT: 2028' countdown sign above the entrance, and a union bulletin board below it covered in strike announcements and shift schedule changes, the two signs in direct visual dialogue."
+        "A dense orange haze blankets a recognizable American city skyline; in the foreground, a customs official in a uniform holds up a stop sign toward a cloud of smoke drifting across an invisible border; the smoke ignores him.",
+        "A press conference podium against a backdrop of smoky brown skies; a stern official points at a map with a red arrow showing smoke moving from Canada to the U.S., next to a column labeled 'New Tariff: $0.03/cubic meter of particulate matter.'",
+        "A World Cup stadium in New Jersey wrapped in orange smog; a referee on the field squints upward; a scoreboard reads 'USA vs. Smoke — Halftime'; a trade negotiator in a suit sits in the stands reviewing a tariff schedule."
       ],
       "captions": [
-        "In a twist nobody saw coming except everyone, the people who build the robots are upset that the robots are coming for their jobs.",
-        "The strike is a fascinating philosophical protest: 'We object to being replaced by the product we make.' Descartes could not have written it better.",
-        "Hyundai wants 25,000 Atlas robots on the factory floor by 2028. The current workers have until then to finish assembling them.",
-        "Labor historians will note this as the first strike where the scab labor was partially constructed by the strikers themselves.",
-        "The workers are demanding job security. The robots, when asked for comment, stood perfectly still and said nothing — which, their lawyers noted, is not an admission."
+        "The administration has solved the wildfire crisis with a bold new tool: charging Canada for the smoke it didn't send on purpose.",
+        "Good news: America now has a tariff on Canadian air. Bad news: the air hasn't read the executive order.",
+        "The smoke crossed the border without documentation. Expect consequences.",
+        "Climate scientists recommended emissions reductions. The White House recommended a surcharge.",
+        "To be fair, 'tariff the weather' is a more original policy than anything the last ten climate summits produced."
       ],
       "captionsJa": [
-        "誰もが予想していたのに誰も予想しなかった展開：ロボットを作る人たちが、ロボットに仕事を奪われることに怒っている。",
-        "このストライキは深い哲学的抗議だ。「自分たちが作る製品に代替されることに反対する」——デカルトも思いつかなかった。",
-        "現代自動車は2028年までに2万5000体のアトラスロボットを配備したい。現在の労働者にはその完成まで手伝う時間がある。",
-        "労働史家はこれを、ストライキ破りの労働力の一部をストライキ参加者自身が組み立てた最初のストとして記録するだろう。",
-        "労働者は雇用保障を要求した。コメントを求められたロボットたちは完全に静止したまま何も言わなかった——弁護士によれば、それは自白ではないとのことだ。"
+        "政権は山火事問題を解決した——意図せず煙を送ってきたカナダに請求書を送ることで。",
+        "良いニュース：アメリカにカナダの空気への関税ができた。悪いニュース：空気は大統領令を読んでいない。",
+        "その煙は書類なしで国境を越えた。相応の結果を覚悟してほしい。",
+        "気候科学者は排出削減を勧告した。ホワイトハウスは追加料金を勧告した。",
+        "「天気に関税をかける」は、過去10回の気候サミットが生み出したどの政策よりも独創的ではある。"
       ],
-      "newsEn": "Workers at a Hyundai auto manufacturing facility went on strike, motivated in part by fears over the company's plans to deploy humanoid robots on factory floors. Hyundai plans to deploy 25,000 Atlas robots starting with U.S. factories beginning in 2028. The strike highlights growing labor anxieties over automation displacing human workers in manufacturing—at a company that is simultaneously one of the world's leading producers of humanoid robotics technology.",
+      "newsEn": "Smoke from active wildfires in Canada has spread across large portions of the United States, creating unhealthy air quality conditions in the Midwest and along the East Coast. President Trump criticized Canada over the smoke and stated the U.S. would add pollution costs to existing tariffs on Canadian goods. The smoke is also threatening air quality conditions at the upcoming World Cup final venue in New Jersey.",
       "ironyEn": [
         {
-          "contradiction": "Workers at a company that manufactures humanoid robots are striking because they fear humanoid robots will take their jobs — a sentence that contains its own punchline.",
-          "absurdity": "Some of the workers participating in the strike may have spent their previous shifts assembling the very robots they are now marching against.",
-          "outside": "From a historical perspective, the Luddites smashed machines from the outside. Hyundai's workers are in the unprecedented position of being inside the machine — literally."
+          "contradiction": "Wildfires intensified by climate change are causing a cross-border air quality crisis, and the policy response announced was not environmental cooperation but additional tariffs.",
+          "absurdity": "The administration has found a way to tariff weather — specifically, Canadian weather that has the audacity to drift south.",
+          "outside": "While the rest of the world debates emissions targets, the U.S. is pioneering a bold new approach: billing its northern neighbor for the wind."
         },
         {
-          "contradiction": "Hyundai's pitch to investors is that its robots will increase productivity; its workers' pitch is that increased productivity at their expense is worth striking over. Both are correct.",
-          "absurdity": "The Atlas robot was named after the Titan who holds up the world. The workers holding up the factory floor are now asking whether the Titan plans to replace them.",
-          "outside": "In 2028, when 25,000 Atlas robots begin their shifts at U.S. Hyundai plants, the workers who built them will have had four years to consider the philosophical implications."
+          "contradiction": "A natural disaster affecting over 100 million Americans is being framed primarily as a trade dispute with Canada.",
+          "absurdity": "If the smoke refuses to pay the tariff, the administration has not yet clarified what the escalation strategy looks like.",
+          "outside": "Foreign diplomats following the story were reportedly unsure whether to file it under 'trade policy' or 'meteorology.'"
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-17/candidate-5.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-18/candidate-5.jpg",
+      "imageStyle": "classic-cartoon"
     }
   ]
 };
