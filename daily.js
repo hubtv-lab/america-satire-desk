@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-18",
-  "generatedAt": "2026-07-17T22:37:39+00:00",
+  "date": "2026-07-19",
+  "generatedAt": "2026-07-18T22:37:56+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Trump Calls Voter Data Leak 'Historic Catastrophe' — It's Available at Your Local Clerk's Office",
-        "source": "CBS News US",
-        "date": "2026-07-18",
-        "url": "https://www.cbsnews.com/news/trump-china-u-s-voter-registration-files-state-by-state/",
-        "summary": "トランプ大統領が中国による有権者データ取得を「史上最大の選挙データ流出」と呼んだが、そのデータは20州で誰でも公開請求で入手できる。"
+        "headline": "Dave Eggers Told OpenAI Staff ChatGPT Is 'Silencing a Generation' — Inside Their Office",
+        "source": "The Verge",
+        "date": "2026-07-19",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+        "summary": "作家のデイブ・エガーズが、OpenAIのサム・アルトマンに招かれて社内スタッフ約200人に講演し、ChatGPTが「一世代全体を沈黙させている」と訴えた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「史上最大の流出」と断言したデータは、アメリカ市民なら誰でも普通に請求して入手できる公開情報だった。",
-        "<b>滑稽さ:</b> 国家安全保障上の重大危機として演出されたものが、図書館のカードさえあれば手に入るようなデータだったという落差は圧巻だ。",
-        "<b>日本・海外から見ると:</b> 「秘密の流出」が実は公開情報というのは、アメリカの選挙制度の透明性の高さなのか、危機演出の杜撰さなのか、両方なのか判断に迷う。"
+        "<b>矛盾:</b> AI文章生成で作家の仕事を奪っていると批判される企業が、その批判を最も鋭く述べられる人物をわざわざ社内に招いて講演させた。",
+        "<b>滑稽さ:</b> ChatGPTに文章を書かせている会社のスタッフが、「ChatGPTが書くことを殺している」という話を人間の作家から生で聞くという構図は、禁酒法の酒造会社で節酒の講演を聞くようなものだ。",
+        "<b>日本・海外から見ると:</b> シリコンバレーの「多様な声を聞く文化」の演出として消費されたのか、それとも本気で社内議論を促したのか——外からはほとんど区別がつかない。"
       ],
       "imagePrompts": [
-        "A dramatic presidential podium bathed in red-white-and-blue spotlights, behind it a giant banner reading 'HISTORIC DATA BREACH'; in the foreground, a bored government clerk hands a manila folder labeled 'Voter Records — $5.00' to a long line of ordinary citizens, tourists, and a person in a panda costume.",
-        "A stern-faced official pointing at a map of China on one side; on the other side, an identical map of the United States with a sign saying 'Public Records Request — Same Data, Free!' and a short queue of smiling applicants.",
-        "A spy in a trench coat and dark glasses receives a USB drive in a shadowy alley; a speech bubble from a nearby street vendor reads 'You could've just gone to the county clerk's website, pal.'"
+        "A lone novelist standing at a podium in a sleek tech-company auditorium, rows of engineers staring at laptops while he speaks passionately; giant screens behind him display a blinking AI chat interface",
+        "A 'suggestion box' mounted on a futuristic server rack in an AI lab, with a handwritten note reading 'maybe stop?' being fed into a paper shredder beside it",
+        "A stage where a human author hands a microphone back to a giant glowing robot after delivering a speech; the robot holds a freshly generated manuscript labeled 'Summary of Your Talk'"
       ],
       "captions": [
-        "The president called it the largest data breach in history. The county clerk called it Tuesday.",
-        "China allegedly stole voter rolls from 20 states — the same voter rolls you can order online with a credit card and a business day to spare.",
-        "Breaking: foreign adversary obtains information that your local pizza chain has had since 2018.",
-        "The government is shocked — shocked! — that someone got hold of the public records they've been publicly publishing.",
-        "In fairness, calling a FOIA request 'Chinese espionage' does make it sound more exciting."
+        "OpenAI invited a novelist to explain that AI is killing writing. He did. They updated the model the following Tuesday.",
+        "Nothing says 'we take your concerns seriously' like booking the critic, giving him forty minutes, and then releasing GPT-6.",
+        "Sam Altman's boldest move yet: paying a human to write a speech about how AI shouldn't write speeches — and having AI staff listen to it.",
+        "Two hundred engineers heard that ChatGPT silences a generation. At least three of them asked ChatGPT what to think about that.",
+        "The talk was titled 'Silencing a Generation.' The meeting room was booked through an AI scheduling assistant."
       ],
       "captionsJa": [
-        "大統領は「史上最大の情報流出」と呼んだ。郡書記官はそれを「火曜日の業務」と呼んでいた。",
-        "中国が20州の有権者名簿を「盗んだ」とされているが、その名簿はクレジットカードと1営業日あれば誰でもオンラインで注文できる。",
-        "速報：外国の敵対勢力が、地元のピザチェーンが2018年から持っているデータを入手。",
-        "政府は驚愕している——公開しているはずの公開情報が、誰かの手に渡ったことに。",
-        "公開情報請求を「中国のスパイ活動」と呼ぶと確かに聞こえがいい。それは認める。"
+        "OpenAIはある小説家を招き、AIが文章を殺していると説明させた。彼は説明した。翌々火曜日、モデルはアップデートされた。",
+        "「懸念を真剣に受け止めます」と言う最上の方法——批判者に40分与え、その翌月にGPT-6をリリースすること。",
+        "サム・アルトマン最大の奇手: AIが文章を書くべきではないというスピーチを人間に書かせ、AIのスタッフに聞かせる。",
+        "200人のエンジニアが「ChatGPTは一世代を沈黙させている」と聞いた。そのうち少なくとも3人はその感想をChatGPTに聞いた。",
+        "講演タイトルは『一世代の沈黙』。会議室の予約はAIスケジューリングアシスタントが行った。"
       ],
-      "newsEn": "President Trump declared China's acquisition of voter information 'the largest compromise of election data in history' during a primetime address. However, in 20 U.S. states, this voter data is publicly available to anyone who files a simple records request. Election experts noted that much of the information is routinely shared with political campaigns, researchers, and private companies.",
+      "newsEn": "Author Dave Eggers, founder of McSweeney's and multiple writing nonprofits, was invited by OpenAI CEO Sam Altman to speak to approximately 200 company staffers last year. In his talk, Eggers argued that ChatGPT was 'silencing an entire generation' of writers. The invitation came from Altman himself, making the venue — the very company building the technology Eggers criticized — particularly notable.",
       "ironyEn": [
         {
-          "contradiction": "The president branded publicly available government records a historic national security breach.",
-          "absurdity": "In 20 states, you can obtain this 'catastrophically leaked' data by mailing a polite letter to your county clerk.",
-          "outside": "From abroad, it's hard to tell if America is terrifyingly transparent about voter data or terrifyingly theatrical about everything else."
+          "contradiction": "A company whose core product replaces human writing invited one of America's most passionate advocates for human writing to speak — inside their own headquarters.",
+          "absurdity": "Two hundred people whose job is to make AI write better sat politely while a novelist explained that AI writing is destroying literature. Presumably someone took notes — or had ChatGPT summarize the talk.",
+          "outside": "From the outside, it looks like the perfect corporate inoculation: invite the critic in, nod solemnly, then ship the next model update on Monday."
         },
         {
-          "contradiction": "A primetime emergency address was devoted to information that political campaigns, researchers, and telemarketers have been legally purchasing for decades.",
-          "absurdity": "China's alleged masterstroke of espionage turns out to be something your local PTA could have pulled off with a stamp and an envelope.",
-          "outside": "Other nations spend millions protecting voter data; the U.S. apparently sells it with a smile and calls it democracy."
+          "contradiction": "Sam Altman personally extended the invitation, suggesting either genuine soul-searching or the world's most elaborate PR move — possibly both.",
+          "absurdity": "Eggers has spent decades building institutions to nurture writers; OpenAI has spent years building a product some say makes those institutions obsolete. The meeting of the two inside OpenAI's offices is the plot of a satire novel no AI could have invented.",
+          "outside": "For observers abroad, this is quintessentially American: the disruptor hires the disrupted as a motivational speaker, then files the feedback under 'considered.'"
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-18/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-07-19/candidate-1.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Trump's Face on the Nation's 250th Birthday Coin — Experts Say That's Both Unprecedented and Illegal",
-        "source": "NPR News",
-        "date": "2026-07-18",
-        "url": "https://www.npr.org/2026/07/17/nx-s1-5897380/trump-coin-face-laws-treasury-250",
-        "summary": "アメリカ建国250周年を記念する新しい1ドルコインにトランプ大統領の顔が刻まれることになったが、専門家はこれが法律違反にあたると指摘している。"
+        "headline": "Pentagon Orders Annual Testosterone Screening for Soldiers 30 and Over — Doctors Question the Science",
+        "source": "The Guardian US",
+        "date": "2026-07-19",
+        "url": "https://www.theguardian.com/us-news/2026/jul/18/us-military-testosterone-screening-doctors",
+        "summary": "ピート・ヘグセス国防長官が30歳以上の現役・予備役兵士に対するテストステロン不足の年次検査を命令したが、医療専門家たちはその科学的根拠に疑問を呈している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 建国の理念として「君主制からの独立」を祝う記念コインに、現職大統領の顔を刻むという、独立宣言の精神を真正面から踏み越える行為。",
-        "<b>滑稽さ:</b> 250年間守られてきた「存命人物は硬貨に載せない」というルールを、建国250周年のコインで破るタイミングの見事さ。",
-        "<b>日本・海外から見ると:</b> 「民主主義の手本」を自任する国の記念硬貨が、専門家から「法律違反」と言われる状況は、教科書の外からだと非常に興味深い構図だ。"
+        "<b>矛盾:</b> 軍の「戦闘準備態勢」を高めるための施策として、医学的コンセンサスに基づかないホルモン検査が義務化された——科学より象徴が先行している。",
+        "<b>滑稽さ:</b> 敵の砲弾ではなくテストステロン値に怯えるペンタゴンというのは、筋肉の映画ポスターから政策を立案しているようにしか見えない。",
+        "<b>日本・海外から見ると:</b> 「強い軍隊」を掲げる政権が、医師たちが首をかしげる健康政策で兵士を管理する——建前と実態のギャップが、アメリカの軍事文化の独特さとして映る。"
       ],
       "imagePrompts": [
-        "A gleaming commemorative coin with a presidential profile on it, surrounded by tiny engravings of the Declaration of Independence, the Constitution, and a small footnote that reads 'technically illegal'; a historian with reading glasses stares at it through a magnifying glass, mouth agape.",
-        "A grand mint facility with workers proudly stamping coins; above the press hangs a framed portrait of the president and a smaller framed printout of the federal statute prohibiting exactly this; a supervisor cheerfully ignores the latter.",
-        "A street vendor's table displaying commemorative coins next to novelty mugs, bobbleheads, and a sign reading 'America 250 — Democracy, Baby!'; a constitutional lawyer in the background holds his head in his hands."
+        "A military medical examination room where uniformed soldiers stand in a long line holding paperwork; a large banner on the wall reads 'READINESS SCREENING' above a blood-draw station staffed by a nurse in fatigues",
+        "A Pentagon briefing room with a slide projected on screen showing a bar graph labeled 'Testosterone Levels by Battalion' while generals in full dress uniform take notes with serious expressions",
+        "A military obstacle course where soldiers run and climb; at the finish line, instead of a finish tape, a phlebotomist in camouflage stands ready with a syringe and clipboard"
       ],
       "captions": [
-        "Nothing says '250 years of escaping monarchy' like putting the king's face on the coins.",
-        "America spent two and a half centuries avoiding this exact thing, and then did it to celebrate avoiding this exact thing.",
-        "Legal experts call it unprecedented. The mint calls it a limited edition.",
-        "The good news: you can use it at a vending machine. The bad news: so can everyone who read the federal statute.",
-        "In 1776, they threw British coins into the harbor. In 2026, they're making American ones that look remarkably similar."
+        "The Pentagon has identified America's greatest military threat: the testosterone levels of men who can already bench-press a Humvee.",
+        "Age 29: Storm the beaches. Age 30: Please report to the hormone lab before deployment.",
+        "Military readiness, redefined: it's not about your aim, your tactics, or your training — it's about a number your gym could have checked for $30.",
+        "Doctors say there's no evidence this screening helps healthy soldiers. The Pentagon says there's no evidence like mandatory annual Pentagon evidence.",
+        "The good news: if your T-levels are fine, you're cleared for combat. The bad news: the policy was written by someone who watches a lot of supplement ads."
       ],
       "captionsJa": [
-        "「君主制からの脱却250周年」を祝うのに、王様の顔をコインに刻む以上の方法はなかったようだ。",
-        "アメリカは250年かけてこれを避け続け、それを祝うコインで初めてやらかした。",
-        "専門家は「前例がない」と言い、造幣局は「限定版」と言う。",
-        "良いニュース：自販機で使える。悪いニュース：連邦法を読んだ全員も使える。",
-        "1776年にはイギリスのコインを港に投げ捨てた。2026年には、よく似たアメリカのコインを製造している。"
+        "ペンタゴンがついにアメリカ最大の安全保障上の脅威を特定した——ハンビーをベンチプレスできる男性のテストステロン値だ。",
+        "29歳: 海岸に突撃せよ。30歳: 展開前にホルモン検査室へ報告すること。",
+        "軍の即応態勢、新定義: 狙いでも戦術でも訓練でもなく、ジムで30ドルで調べられる数値である。",
+        "医師たちは「健康な兵士にこの検査は意味がない」と言う。ペンタゴンは「義務化ほど強力な証拠はない」と言う。",
+        "朗報: テストステロン値が正常なら戦闘許可。悲報: この政策はサプリメント広告を見すぎた誰かが書いた。"
       ],
-      "newsEn": "A new commemorative coin marking America's 250th anniversary will feature the face of President Trump, breaking with the longstanding tradition of depicting deceased historical figures on U.S. currency. Legal experts say the design likely violates federal law, which prohibits placing a living person's portrait on U.S. coins and currency. The coin is one of several instances this year where Trump's likeness has appeared in official or semi-official contexts.",
+      "newsEn": "Defense Secretary Pete Hegseth ordered mandatory annual testosterone-deficiency screening for active-duty and reserve service members aged 30 and older, framing it as a measure to improve military readiness. Doctors and medical experts have publicly questioned the evidence base for applying such screening broadly to a healthy military population. The announcement adds to a series of Pentagon directives tied to themes of masculinity and physical performance under the current administration.",
       "ironyEn": [
         {
-          "contradiction": "A coin celebrating 250 years of republican democracy, founded specifically to escape monarchy, will bear the face of the living head of state.",
-          "absurdity": "The U.S. waited two and a half centuries to put a living president on a coin, then did it to celebrate the anniversary of not doing that kind of thing.",
-          "outside": "Countries with actual monarchies at least wait for their kings to die before putting them on currency."
+          "contradiction": "The Pentagon, an institution built on evidence-based combat readiness, is now mandating a medical screening that the medical community says lacks an evidence base.",
+          "absurdity": "Soldiers who can carry 80-pound packs through a mountain pass are apparently the target demographic for a health initiative more commonly associated with late-night infomercials.",
+          "outside": "From abroad, the world's largest military appears to have concluded that its primary strategic vulnerability is the hormone levels of its thirty-year-olds."
         },
         {
-          "contradiction": "Federal law explicitly bans living persons from appearing on U.S. currency — a rule that apparently applies to everyone except the person with the power to enforce federal law.",
-          "absurdity": "The 250th birthday party for American democracy comes with a party favor that legal scholars describe as 'a souvenir of lawlessness.'",
-          "outside": "From abroad, the coin looks less like a celebration of American independence and more like a collector's item for a very specific kind of history."
+          "contradiction": "A policy framed as maximizing warrior effectiveness was designed without the input of the medical experts who study exactly that — effectiveness of such screening.",
+          "absurdity": "The screening kicks in at age 30 — meaning a soldier can storm a beachhead at 29 without incident, but at 30 must first confirm his testosterone is up to Department of Defense standards.",
+          "outside": "Militaries around the world benchmark readiness through fitness scores and mission performance; the U.S. is now also benchmarking it through a blood panel your gym-bro cousin has been recommending for years."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-18/candidate-2.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-19/candidate-2.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "FAA Lets Boeing Self-Certify Its Own Airworthiness Again — What Could Go Wrong?",
-        "source": "CNBC Top News",
-        "date": "2026-07-18",
-        "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-        "summary": "米連邦航空局（FAA）が、ボーイングに対して737 Maxおよび787の耐空証明書への自己署名権限を再び認めた。"
+        "headline": "Mets Deny Using AI to Call Pitches After Their Own Pitcher Alleged Otherwise",
+        "source": "The Guardian US",
+        "date": "2026-07-19",
+        "url": "https://www.theguardian.com/sport/2026/jul/18/mets-andy-green-ai-strategy-mlb-compliance-ottavino-report",
+        "summary": "ニューヨーク・メッツの投手アダム・オタビーノがチームによるAI利用を告発したが、代理監督のアンディ・グリーンはMLBのガイドラインを完全に遵守していると否定した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 自社製品の安全証明書を自分で署名できる権限を剥奪された経緯があるにもかかわらず、その権限が再び付与されるという構造——これは「信頼の回復」なのか「監視の放棄」なのか。",
-        "<b>滑稽さ:</b> 「試験官が答案を自分で採点していい」という制度を一度廃止した理由を思い出すのに、そう時間はかからないはずだ。",
-        "<b>日本・海外から見ると:</b> 航空安全の「第三者監査」を当然と考える国々からすれば、製造者自身による耐空証明という仕組みはそもそも二度見する内容だ。"
+        "<b>矛盾:</b> チームのAI活用を告発したのが外部の批評家ではなく、チームの現役投手自身だという構図——内部告発が最も信頼できる情報源になってしまっている。",
+        "<b>滑稽さ:</b> 「AIに球種を決められた」と感じた投手が公に不満を言う一方で、経営側は「ルールは守っています」と言う——どちらの言い分も否定しきれない曖昧さが、AI導入の「見えない制御」をそのまま体現している。",
+        "<b>日本・海外から見ると:</b> 日本のプロ野球でも配球へのデータ活用は進んでいるが、「AIが球種を決める」ことへの選手の反発は、スポーツにおける人間の主体性の問いとして普遍的に響く。"
       ],
       "imagePrompts": [
-        "A Boeing factory floor with a worker in a hard hat cheerfully stamping a large green 'APPROVED' seal on the side of a 737 Max fuselage; a tiny FAA inspector waves goodbye from the parking lot.",
-        "A school classroom where a student sits alone at a desk, grading their own exam paper and writing 'A+' in red pen; on the chalkboard it reads 'FAA Approved Methodology 2026.'",
-        "A quality control office with a single mirror on the wall labeled 'Third-Party Inspector'; a Boeing executive in a suit studies his own reflection and gives a thumbs-up."
+        "A baseball pitcher on the mound staring back at the dugout with a puzzled expression; in the dugout, a coach holds an iPad displaying a glowing AI chat interface suggesting 'Throw curveball'",
+        "A courtroom-style scene set in a baseball dugout: a pitcher at a witness stand, a manager in a suit at a defense table, and a tablet computer serving as the defendant — wrapped in caution tape",
+        "A close-up of a baseball catcher's hand giving signs to the pitcher, but one of the signals is a tiny glowing smartphone screen showing a pitch recommendation app"
       ],
       "captions": [
-        "The FAA has determined the best person to check Boeing's work is Boeing.",
-        "After years of safety concerns, regulators concluded the solution was fewer regulators.",
-        "Boeing can now sign its own airworthiness certificates — which is great, because their handwriting has really improved.",
-        "It's called a 'vote of confidence.' The planes call it Tuesday.",
-        "The honor system is back — this time, with more horsepower and a window seat."
+        "The Mets say they're fully compliant with MLB's AI rules. Their pitcher says the AI was calling his pitches. Both things were said with a straight face.",
+        "In baseball, the manager used to tap his nose to call a play. Now, apparently, he taps an app — though officially he doesn't.",
+        "MLB restricted AI in dugouts because teams were using AI in dugouts. Teams have now confirmed they are compliant with restrictions on the thing they were doing.",
+        "The pitcher felt like a robot. Management said everything was human. The iPad declined to comment.",
+        "For 150 years, baseball romanticized the art of pitch selection. Turns out the art was a dropdown menu."
       ],
       "captionsJa": [
-        "FAAはボーイングの仕事をチェックするのに最適な存在はボーイングだと結論づけた。",
-        "数年にわたる安全問題の末、規制当局が出した答えは「規制を減らす」だった。",
-        "ボーイングは自社の耐空証明書に自分でサインできるようになった。字が上手くなったから大丈夫らしい。",
-        "それは「信頼の表明」と呼ばれている。飛行機はそれを「火曜日」と呼んでいる。",
-        "名誉制度が帰ってきた——今度は高度3万フィートで。"
+        "メッツはMLBのAIルールを完全に遵守していると言う。チームの投手はAIが球種を決めていたと言う。どちらも真顔で言った。",
+        "かつて監督は鼻を触って指示を出していた。今は（公式には）アプリをタップするらしい——もちろん、公式にはそうではないが。",
+        "MLBがAIを制限したのはチームがAIを使っていたからだ。チームは今、使っていたものの制限を遵守していると確認した。",
+        "投手は自分がロボットのように感じた。経営陣はすべて人間の判断だと言った。iPadはコメントを拒否した。",
+        "150年間、野球は配球の芸術を称えてきた。どうやらその芸術はドロップダウンメニューだったらしい。"
       ],
-      "newsEn": "The FAA has restored Boeing's authority to sign off on its own airworthiness certificates for the 737 Max and 787 Dreamliner. The agency described the move as a vote of confidence in the manufacturer. Boeing had previously lost significant oversight privileges following a series of safety scandals, including door plug failures and manufacturing quality concerns that led to intense regulatory scrutiny.",
+      "newsEn": "New York Mets relief pitcher Adam Ottavino alleged that the organization used artificial intelligence to inform in-game pitching decisions, a practice that would raise questions under recently tightened MLB rules restricting dugout iPad use. Mets interim manager Andy Green responded by stating the club is fully compliant with all MLB AI guidelines. Major League Baseball recently moved to restrict how iPads and AI tools can be used in dugouts during games.",
       "ironyEn": [
         {
-          "contradiction": "The FAA stripped Boeing of self-certification privileges after safety failures, then restored them as a 'vote of confidence' before those underlying issues were fully resolved in the public's mind.",
-          "absurdity": "Regulators concluded the best way to ensure Boeing builds safe planes is to let Boeing confirm that Boeing builds safe planes.",
-          "outside": "Aviation authorities in other countries require independent certification; the U.S. is celebrating a return to the honor system."
+          "contradiction": "A team accused of using AI to make pitching decisions responded by saying they follow all the rules about using AI to make pitching decisions — which is not quite the same as saying they don't use AI to make pitching decisions.",
+          "absurdity": "The pitcher who threw the pitches is claiming AI picked them. The manager who watched the pitches says everything is compliant. Somewhere between the mound and the dugout, accountability evaporated.",
+          "outside": "In a sport that spent a century romanticizing the catcher-pitcher telepathy, the new drama is whether a tablet in the dugout is the one calling for the curveball."
         },
         {
-          "contradiction": "The agency created to protect the flying public from manufacturer error is now formally trusting the manufacturer to catch its own errors.",
-          "absurdity": "It's the regulatory equivalent of letting a student grade their own exam — after the last time they did that, the ceiling fell off the test.",
-          "outside": "Passengers boarding a 737 Max may find it reassuring to know the plane has been certified airworthy — by the people who built it."
+          "contradiction": "MLB recently restricted AI use in dugouts — implying it had become common enough to need restricting — and teams are now being accused of still doing it, while officially denying it.",
+          "absurdity": "The most technologically surveilled sport in the world, with cameras tracking every pitch to a fraction of an inch, apparently can't confirm whether a team is letting an algorithm choose which fraction of an inch to aim for.",
+          "outside": "From abroad, American sports' obsession with analytics has now reached a point where the athletes themselves aren't sure if they're making the decisions — which raises the question of what, exactly, fans are paying to watch."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-18/candidate-3.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-19/candidate-3.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Netflix Disappoints Wall Street, Quietly Decides to Share Less About What You're Watching",
+        "headline": "'WarshGPT': Wall Street Turns to AI to Decode a Fed That Has Gone Silent",
         "source": "CNBC Top News",
-        "date": "2026-07-18",
-        "url": "https://www.cnbc.com/2026/07/16/netflix-nflx-earnings-q2-2026.html",
-        "summary": "ネットフリックスが収益見通しで市場の期待を下回り、株価が下落。同社はあわせて視聴データを公開する「What We Watched」レポートの頻度を削減すると発表した。"
+        "date": "2026-07-19",
+        "url": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+        "summary": "米連邦準備制度理事会が公式コメントを大幅に絞り込む新たなコミュニケーション方針に移行する中、ウォール街の投資会社はFEDの「沈黙」を解読するためにAIを活用し始めている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 業績が期待を下回った翌日に「視聴状況の透明性を下げる」と発表するタイミングは、偶然と呼ぶには出来すぎている。",
-        "<b>滑稽さ:</b> 「視聴データを公開する」という業界に対する透明性のジェスチャーを、視聴者に見せたくないデータが出た瞬間に縮小するという構造の完成度。",
-        "<b>日本・海外から見ると:</b> 「どれだけ見られているか分からないまま莫大な製作費をかける」という旧来の放送局モデルに、ネットフリックスが静かに回帰しているように見える。"
+        "<b>矛盾:</b> 中央銀行が「言いすぎ」をやめてシンプルにしようとしたら、市場はその「言わなかったこと」を解読するためにAIを雇い始めた——沈黙は新たな情報過剰を生んだ。",
+        "<b>滑稽さ:</b> かつてFED議長の一言で市場が動いていた時代から、今度はFEDが何も言わないことで市場が動く時代へ——そしてその「何もない」を分析するAIにウォール街がお金を払っている。",
+        "<b>日本・海外から見ると:</b> 日本銀行のコミュニケーションも「読み解き産業」を育ててきたが、AIがその解読者になるという展開は、金融政策そのものがブラックボックス化する兆候に見える。"
       ],
       "imagePrompts": [
-        "A boardroom with executives presenting a graph that shows a sharp downward line labeled 'Earnings'; beside it, a curtain is being drawn over a second graph labeled 'What People Are Actually Watching'; a spokesperson smiles reassuringly at the audience.",
-        "A streaming platform's glowing interface with a giant red 'N' logo; instead of a viewing history section, there is a blank page with the message 'Trust Us — People Are Watching'; a confused subscriber squints at the screen.",
-        "A magician on a stage pulling a cloth over a large chart labeled 'Engagement Data'; the audience of investors leans forward; the magician's assistant holds a sign reading 'Fewer Updates Coming Soon.'"
+        "A vast trading floor where every screen displays an AI chat interface labeled 'WarshGPT'; traders lean toward their monitors while a giant projected image of an empty podium glows at the front of the room",
+        "A mime in a suit standing at the Federal Reserve podium; in the audience, analysts hold up tablets running sentiment-analysis software, furiously typing notes about the silence",
+        "A 'decoder ring' the size of a conference table surrounded by bankers in suits; in the center, a single printed word 'NO COMMENT' from the Federal Reserve is being analyzed under a magnifying glass"
       ],
       "captions": [
-        "Netflix had a disappointing quarter and, coincidentally, decided this was a great time to share less about its quarters.",
-        "The company that disrupted TV by publishing viewership data is now disrupting itself by un-publishing viewership data.",
-        "Netflix: 'We value transparency.' Also Netflix: 'Here's a little less of it.'",
-        "Wall Street wanted more engagement data. Netflix responded by engaging less with that request.",
-        "Remember when Netflix mocked old TV networks for hiding their ratings? Good times."
+        "The Fed stopped talking so much. Wall Street responded by hiring AI to talk about the Fed not talking. Communication efficiency: achieved.",
+        "'WarshGPT' — because when your central bank goes quiet, you don't accept the silence, you monetize it.",
+        "The Fed wanted to say less and let markets focus on the data. Markets focused on the data of the Fed saying less.",
+        "Transparency reform, 2026 edition: the Fed speaks less, so the AI industry speaks more, and somehow everyone is still confused.",
+        "Wall Street has always needed someone to tell them what the Fed meant. Now that someone is a language model analyzing what the Fed didn't say."
       ],
       "captionsJa": [
-        "ネットフリックスは期待外れの四半期決算を発表し、奇しくも同じタイミングで四半期の詳細を共有しないことにした。",
-        "視聴データを公開して業界を変えた会社が、視聴データの非公開化で自分を変えようとしている。",
-        "ネットフリックス：「透明性を大切にしています。」同社：「ではその透明性を少し減らしましょう。」",
-        "市場はもっと多くのデータを求めた。ネットフリックスはそのリクエストへの関与を縮小することで応えた。",
-        "かつてネットフリックスは視聴率を隠す旧来のテレビ局を笑っていた。懐かしい話だ。"
+        "FEDが喋るのをやめた。ウォール街はFEDが喋らないことについて喋るAIを雇った。コミュニケーション効率: 向上。",
+        "「WarshGPT」——中央銀行が沈黙したとき、あなたはその沈黙を受け入れない。収益化する。",
+        "FEDはデータに注目させるために発言を減らした。市場はFEDの発言が減ったというデータに注目した。",
+        "透明性改革2026年版: FEDがあまり言わなくなり、AI産業がより多く言うようになり、それでも全員が混乱している。",
+        "ウォール街は常にFEDの言葉を解説する誰かを必要としてきた。今その誰かは、FEDが言わなかったことを分析する言語モデルだ。"
       ],
-      "newsEn": "Netflix shares fell after the company issued an earnings forecast that disappointed Wall Street analysts. Alongside the financial results, Netflix announced it would reduce the frequency of its 'What We Watched' reports, which provide detailed data on viewer engagement across its platform. The reports had been seen as a rare window into the otherwise opaque streaming giant's actual viewership numbers.",
+      "newsEn": "Investment firms on Wall Street are preparing for a new era of Federal Reserve communication in which the central bank reduces its volume of public commentary. In response, some firms are deploying AI tools to analyze the limited signals the Fed does emit, with the approach being nicknamed 'WarshGPT' in some circles. The shift follows changes in Fed leadership and a broader pullback from the frequent public guidance that markets had grown accustomed to.",
       "ironyEn": [
         {
-          "contradiction": "Netflix introduced its 'What We Watched' reports to prove it was more transparent than traditional TV networks — and now reduces that transparency the same quarter its numbers disappoint.",
-          "absurdity": "The streaming company that built its brand on data and algorithms has decided the best data strategy is sharing less data.",
-          "outside": "From the outside, 'we're cutting back on viewership reports' after a weak earnings call reads like a restaurant removing the calorie counts from its menu after a health inspection."
+          "contradiction": "The Fed decided to speak less so that markets could focus on fundamentals rather than parsing every word — so markets immediately hired AI to parse every remaining word with even greater intensity.",
+          "absurdity": "The nickname 'WarshGPT' suggests that Wall Street has effectively replaced one oracle with another: a human central banker who talked too much has been swapped for a chatbot analyzing a central banker who now says almost nothing.",
+          "outside": "Central banks worldwide have wrestled with the problem of saying too much and moving markets accidentally. The U.S. solution appears to be: say less, watch AI fill the silence with more."
         },
         {
-          "contradiction": "Shareholders were told to trust Netflix's engagement figures right as the company announced it would be providing fewer engagement figures.",
-          "absurdity": "Netflix spent years mocking linear TV for hiding ratings, then quietly picked up the same shovel.",
-          "outside": "In an industry obsessed with metrics, the new power move is apparently making the metrics disappear."
+          "contradiction": "Fed transparency reforms were meant to make monetary policy more predictable and less dependent on insider interpretation — the AI arms race they've triggered achieves roughly the opposite.",
+          "absurdity": "The firms best positioned to decode Fed silence are the ones that can afford the best AI — meaning 'less Fed communication' has accidentally become a competitive advantage for the largest players on Wall Street.",
+          "outside": "From outside the U.S., it looks like the world's most important central bank is now effectively communicating through a game of AI-mediated charades — and the global economy moves on the result."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-18/candidate-4.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-19/candidate-4.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Canadian Wildfire Smoke Chokes U.S. Cities — Trump Proposes Adding It to the Tariff Bill",
-        "source": "CNBC Top News",
+        "headline": "School Where Paris Hilton Says She Was Abused Has Its License Revoked — Another Campus, That Is",
+        "source": "CBS News US",
         "date": "2026-07-18",
-        "url": "https://www.cnbc.com/2026/07/17/trump-canada-wildfire-tariffs.html",
-        "summary": "カナダの山火事による煙がアメリカ中西部から東海岸を覆う中、トランプ大統領はカナダに対して大気汚染コストを関税に上乗せすると発言した。"
+        "url": "https://www.cbsnews.com/news/license-utah-boarding-school-revoked-paris-hilton-abuse-provo-canyon/",
+        "summary": "パリス・ヒルトンが虐待を受けたと主張しているプロボ・キャニオン・スクールの別キャンパスのライセンスが取り消された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 気候変動による山火事の深刻化という文脈を完全に無視し、自然現象を貿易問題として関税で「解決」しようとする発想。",
-        "<b>滑稽さ:</b> 風に乗ってくる煙に関税をかけるというアイデアは、天気に罰金を科すのと大差ない。煙は国境で止まってくれない。",
-        "<b>日本・海外から見ると:</b> 国際社会が「気候変動への共同対応」を議論している中で、アメリカが「隣国の山火事煙に関税」という解決策を提示する光景は、かなりユニークな外交スタンスだ。"
+        "<b>矛盾:</b> 当事者が何年もかけて訴え続け、ようやく行政が動いたが、閉鎖されたのは問題が指摘された施設の「別キャンパス」——制度が批判の的を微妙にずらして対応する典型例だ。",
+        "<b>滑稽さ:</b> 有名人が長年声を上げて「トラブルティーン産業」の問題を告発した結果、当局の答えが「別の建物のライセンス取り消し」というのは、巨大な批判に対する驚くほど小さな一手だ。",
+        "<b>日本・海外から見ると:</b> アメリカの「矯正施設」問題は長年指摘されてきたが、有名人の告発なしには動かなかった行政と、それでも「別キャンパス」対応で留まる限界が、制度改革の難しさを示している。"
       ],
       "imagePrompts": [
-        "A dense orange haze blankets a recognizable American city skyline; in the foreground, a customs official in a uniform holds up a stop sign toward a cloud of smoke drifting across an invisible border; the smoke ignores him.",
-        "A press conference podium against a backdrop of smoky brown skies; a stern official points at a map with a red arrow showing smoke moving from Canada to the U.S., next to a column labeled 'New Tariff: $0.03/cubic meter of particulate matter.'",
-        "A World Cup stadium in New Jersey wrapped in orange smog; a referee on the field squints upward; a scoreboard reads 'USA vs. Smoke — Halftime'; a trade negotiator in a suit sits in the stands reviewing a tariff schedule."
+        "A school building with a 'LICENSE REVOKED' notice taped to the front door; directly next door, an identical building with a slightly different sign above the entrance stands untouched, business as usual",
+        "A large filing cabinet labeled 'ABUSE COMPLAINTS — DECADES OF' with a single folder being pulled out and stamped 'ADDRESSED' while the rest of the drawer remains overflowing",
+        "A red ribbon-cutting ceremony in front of a closed building while an identical facility visible in the background continues operating with students filing in through its doors"
       ],
       "captions": [
-        "The administration has solved the wildfire crisis with a bold new tool: charging Canada for the smoke it didn't send on purpose.",
-        "Good news: America now has a tariff on Canadian air. Bad news: the air hasn't read the executive order.",
-        "The smoke crossed the border without documentation. Expect consequences.",
-        "Climate scientists recommended emissions reductions. The White House recommended a surcharge.",
-        "To be fair, 'tariff the weather' is a more original policy than anything the last ten climate summits produced."
+        "After years of activism, the school Paris Hilton says abused her had a different campus's license revoked. Justice: technically served.",
+        "The troubled-teen industry has a new PR strategy: when one building gets shut down, point to the other building.",
+        "It took a documentary, congressional testimony, and a decade of celebrity advocacy to license-revoke an affiliated campus. The original location remains interested in your enrollment.",
+        "Utah authorities took decisive action against the institution by targeting a related property — a move described by regulators as 'progress' and by survivors as 'a start, we guess.'",
+        "The good news: the license was revoked. The fine print: it was the other one."
       ],
       "captionsJa": [
-        "政権は山火事問題を解決した——意図せず煙を送ってきたカナダに請求書を送ることで。",
-        "良いニュース：アメリカにカナダの空気への関税ができた。悪いニュース：空気は大統領令を読んでいない。",
-        "その煙は書類なしで国境を越えた。相応の結果を覚悟してほしい。",
-        "気候科学者は排出削減を勧告した。ホワイトハウスは追加料金を勧告した。",
-        "「天気に関税をかける」は、過去10回の気候サミットが生み出したどの政策よりも独創的ではある。"
+        "数年間の活動の末、パリス・ヒルトンが虐待を訴えた学校の「別キャンパス」のライセンスが取り消された。正義: 技術的には実現。",
+        "「トラブルティーン産業」の新PR戦略: 一棟が閉鎖されたら、もう一棟を指させばいい。",
+        "ドキュメンタリーと議会証言と10年間の有名人の告発を経て、関連キャンパスのライセンスが取り消された。元の施設は引き続き入学者を募集中だ。",
+        "ユタ州当局は関連施設のライセンスを取り消すという断固たる措置を取った。当局は「進歩」と呼び、被害者たちは「まあ、一歩前進かな」と呼んだ。",
+        "朗報: ライセンスが取り消された。細かい字: それは別の方だ。"
       ],
-      "newsEn": "Smoke from active wildfires in Canada has spread across large portions of the United States, creating unhealthy air quality conditions in the Midwest and along the East Coast. President Trump criticized Canada over the smoke and stated the U.S. would add pollution costs to existing tariffs on Canadian goods. The smoke is also threatening air quality conditions at the upcoming World Cup final venue in New Jersey.",
+      "newsEn": "Utah authorities revoked the license of a campus affiliated with Provo Canyon School, the now-notorious troubled-teen facility where celebrity and activist Paris Hilton has publicly alleged she was abused as a teenager. The revocation applies to another campus of the institution, not the original location. Hilton has spent years advocating for the closure of such facilities and for legislative reform of the troubled-teen industry.",
       "ironyEn": [
         {
-          "contradiction": "Wildfires intensified by climate change are causing a cross-border air quality crisis, and the policy response announced was not environmental cooperation but additional tariffs.",
-          "absurdity": "The administration has found a way to tariff weather — specifically, Canadian weather that has the audacity to drift south.",
-          "outside": "While the rest of the world debates emissions targets, the U.S. is pioneering a bold new approach: billing its northern neighbor for the wind."
+          "contradiction": "Paris Hilton spent years campaigning for the closure of the institution where she says she was abused. Authorities responded by closing a different building of the same institution — a distinction the institution itself is presumably very relieved about.",
+          "absurdity": "It took a global celebrity, years of activism, congressional testimony, and a documentary for regulators to revoke the license of a related campus — progress measured in square footage.",
+          "outside": "From the outside, the message appears to be: if you were abused at a school, years of high-profile advocacy may eventually result in a licensing action at a nearby property."
         },
         {
-          "contradiction": "A natural disaster affecting over 100 million Americans is being framed primarily as a trade dispute with Canada.",
-          "absurdity": "If the smoke refuses to pay the tariff, the administration has not yet clarified what the escalation strategy looks like.",
-          "outside": "Foreign diplomats following the story were reportedly unsure whether to file it under 'trade policy' or 'meteorology.'"
+          "contradiction": "The 'troubled-teen industry' has long marketed itself as a place that fixes problems. The license revocation suggests the problem — at least on this campus — was the place itself.",
+          "absurdity": "The school survived decades of abuse allegations more or less intact; what finally triggered a regulatory response was apparently enough critical mass of everything Hilton had been saying all along, applied to an adjacent address.",
+          "outside": "In a country that prides itself on child protection, the regulatory apparatus for facilities that house vulnerable minors apparently required celebrity intervention to locate a problem that the minors had been reporting for decades."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-18/candidate-5.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-07-19/candidate-5.jpg",
+      "imageStyle": "retro-pop"
     }
   ]
 };
