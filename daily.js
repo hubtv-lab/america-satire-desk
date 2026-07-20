@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-20",
-  "generatedAt": "2026-07-19T22:40:41+00:00",
+  "date": "2026-07-21",
+  "generatedAt": "2026-07-20T23:38:04+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "FBI Will No Longer Investigate ICE Confrontations — But Officials Insist Nothing Has Changed",
+        "headline": "Head of U.S. AI Safety Agency Quits After Just 3 Months — Who's Watching the Machines Now?",
         "source": "CNBC Top News",
-        "date": "2026-07-20",
-        "url": "https://www.cnbc.com/2026/07/19/ice-assault-claims-fbi.html",
-        "summary": "FBIがICEとの衝突事案の捜査を打ち切ると報じられたが、司法省・国土安全保障省はともに監視体制に変更はないと否定している。"
+        "date": "2026-07-21",
+        "url": "https://www.cnbc.com/2026/07/20/trumps-head-of-ai-safety-agency-caisi-resigns-after-months-on-job.html",
+        "summary": "トランプ政権が設置したAI安全機関（CAISI）のトップが就任わずか3か月で辞職し、国立標準技術研究所（NIST）長官が暫定代理を務めることになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「変更はない」と言いながら、報道によれば捜査の担当機関そのものが変わっている——「何も変わっていない」という説明自体が変わった事実を覆い隠している。",
-        "<b>滑稽さ:</b> 監視機関が監視をやめても「監視体制は維持されている」と主張できるなら、透明性という概念はもはや飾り言葉に過ぎない。",
-        "<b>日本・海外から見ると:</b> 執行機関を調査する機関が撤退しても公式には「変更なし」とされる構図は、チェック・アンド・バランスの概念を教科書で習った外国人には相当不思議に映るだろう。"
+        "<b>矛盾:</b> 「AIの安全を守る」ために設けた機関のトップが、AIが社会に本格普及し始めるこのタイミングで3か月で離脱するのは、「火事になったら消防署を閉める」に等しい。",
+        "<b>滑稽さ:</b> 後任の「暫定代理」はNIST長官の兼任。AIの安全を監督する専任リーダーを置けない安全機関という、語義矛盾が現実になった。",
+        "<b>日本・海外から見ると:</b> 日本でもEUでもAI規制の人材確保が急務とされているなか、世界最大のAI大国が安全機関のトップを使い捨てにする姿は、制度の骨格が未完成であることを世界に示している。"
       ],
       "imagePrompts": [
-        "A large guard dog labeled 'FBI' sitting in a corner facing the wall, wearing noise-canceling headphones, while a chaotic scene unfolds behind it; a sign on the wall reads 'Oversight Fully Operational'",
-        "A government press conference podium with two officials standing behind microphones, both giving a thumbs-up; behind them a whiteboard shows 'Accountability Chart' with all boxes checked except one labeled 'FBI' which is crossed out with a smiley face drawn over it",
-        "A referee on a soccer field walking off the pitch, waving goodbye; players look confused; a scoreboard reads 'Game Still Being Officiated'"
+        "A large government office building with a neon sign reading 'AI SAFETY AGENCY' and a revolving door at the entrance spinning rapidly, a single cardboard box with desk items sitting on the sidewalk outside",
+        "An empty high-backed executive chair behind a nameplate that reads 'AI Safety Director — TBD', with a small robot sitting in the chair holding a gavel and looking confused",
+        "A lifeguard tower on a beach labeled 'AI SAFETY OVERSIGHT' with a 'CLOSED — BACK IN 3 MONTHS' sign hanging on it, while enormous robotic waves crash toward the shore in the background"
       ],
       "captions": [
-        "Great news: the FBI will no longer investigate ICE confrontations. And nothing says 'nothing has changed' quite like removing the people who noticed things were changing.",
-        "Both agencies confirmed oversight remains fully intact. They just can't tell you who's doing it, or whether they're doing it, or what 'it' means now.",
-        "Think of it less as 'ending accountability' and more as 'streamlining the number of agencies that have to feel awkward about findings.'",
-        "The Department of Justice and DHS both denied any change in oversight — a denial so coordinated it almost looked like someone was overseeing it.",
-        "In Washington, 'no change' is bureaucratic for 'the change already happened, we just haven't updated the brochure.'"
+        "Great news: the person in charge of making sure AI doesn't go rogue lasted longer than a free trial subscription.",
+        "The AI Safety Director resigned after three months. To be fair, the AI he was supposed to supervise has already moved on and filed its own quarterly earnings report.",
+        "America's top AI watchdog stepped down — but don't worry, someone will 'act' in the role. Much like Congress acts on things.",
+        "He left before the job description was even finished being generated. By ChatGPT.",
+        "The head of AI Safety is out. The machines are watching. And frankly, they seem more committed to the role."
       ],
       "captionsJa": [
-        "朗報：FBIはICE絡みの衝突を捜査しなくなった。「何も変わっていない」と言い切れるのは、変化に気づいていた人を外した後だからこそ、である。",
-        "両省は監視体制は完全に維持されていると確認した。誰がやっているのか、本当にやっているのか、そもそも「それ」が何を意味するのかは教えてもらえないが。",
-        "「説明責任の終了」ではなく、「調査結果を気まずく思わなければならない省庁の数の最適化」とお考えください。",
-        "司法省と国土安全保障省が揃って「変更なし」と否定——その否定の息がこれほどぴったり合っていると、何者かが監督しているとしか思えない。",
-        "ワシントンで「変更なし」といえば官僚語で「すでに変わった、パンフレットを刷り直していないだけ」という意味である。"
+        "朗報：AIが暴走しないよう監視する責任者は、無料トライアル期間より長く持ちこたえた。",
+        "AIの安全局長が3か月で辞職。もっとも、監視対象のAIはすでに先を見越して四半期報告書を提出済みだ。",
+        "アメリカ最高のAI監視役が退任。でも安心して、「暫定」の人が「それらしく」やってくれる。議会が物事に「取り組む」のと同じ意味で。",
+        "AIによって職務内容の文書が生成し終わる前に、本人が去っていった。",
+        "AI安全局長が去った。機械たちは見ている。そして正直なところ、彼らのほうがよほどその仕事に熱心そうだ。"
       ],
-      "newsEn": "The FBI will no longer investigate confrontations involving ICE agents, according to a New York Times report. Both the Department of Justice and the Department of Homeland Security denied that any change in oversight had taken place. The development comes amid heightened scrutiny of federal immigration enforcement operations across the country.",
+      "newsEn": "The director of the Center for AI Safety and Innovation (CAISI), the Trump administration's designated AI safety agency, has resigned after only three months on the job. Arvind Raman, director of the National Institute of Standards and Technology (NIST), will serve as acting director. The departure raises questions about the administration's commitment to overseeing the rapidly expanding AI sector.",
       "ironyEn": [
         {
-          "contradiction": "Officials said no oversight change occurred — which is technically true, if you define 'oversight' as 'the part we kept.'",
-          "absurdity": "The agency tasked with investigating the investigators quietly stopped investigating, and the official response was essentially 'nothing to see here — also, don't look.'",
-          "outside": "In most democracies, when the watchdog stops watching, that is considered news. In Washington, it's a press release saying everything is fine."
+          "contradiction": "The agency created specifically to keep AI safe couldn't keep its own director for a full quarter.",
+          "absurdity": "The acting replacement is already a full-time agency head elsewhere — America's AI safety net is now a side hustle.",
+          "outside": "While the EU and Japan scramble to staff up AI oversight bodies, the U.S. model appears to be: build the agency, hire a director, repeat."
         },
         {
-          "contradiction": "Two federal departments denied any shift in accountability, which would be more reassuring if the shift hadn't already been reported by a major newspaper.",
-          "absurdity": "Oversight without oversight is a bit like a lifeguard who stops watching the pool but assures everyone the pool is still being watched.",
-          "outside": "For observers abroad who learned about checks and balances from American civics exports, watching those checks quietly removed while officials insist the balance is unchanged is a special kind of educational experience."
+          "contradiction": "An AI Safety agency that cycles through leadership faster than a Silicon Valley startup has a certain poetic instability.",
+          "absurdity": "Assigning a 'temporary' watchdog for a permanent technological revolution is like installing a pop-up lifeguard station at the deep end.",
+          "outside": "Foreign regulators watching U.S. AI governance may be forgiven for wondering whether 'safety' was the word that needed more oversight."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-20/candidate-1.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-07-21/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Trump Administration Dusts Off 30-Year-Old Secret Court That Has Never Been Used",
+        "headline": "United Airlines Employee Threatens to Call ICE on Customer Complaining About Wait Times",
         "source": "The Guardian US",
-        "date": "2026-07-20",
-        "url": "https://www.theguardian.com/us-news/2026/jul/19/trump-doj-alien-terrorist-removal-court-deportation",
-        "summary": "トランプ政権は、1990年代に設立されながら一度も使われたことがなかった秘密の「外国人テロリスト退去裁判所」に初めて申請を行った。"
+        "date": "2026-07-21",
+        "url": "https://www.theguardian.com/us-news/2026/jul/20/united-airlines-san-francisco-airport-ice-threat",
+        "summary": "サンフランシスコ空港のユナイテッド航空スタッフが、待ち時間に不満を述べたメキシコ系アメリカ人の乗客に対し「市民らしく振る舞わないなら移民局（ICE）を呼ぶ」と脅した動画がSNSで拡散し、同社が調査を表明した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 30年間「いざというとき用」として存在し続けた秘密裁判所が、設立以来ずっと出番を待ち続けてようやく使われた——存在を知っていた人がどれだけいたかも定かではない。",
-        "<b>滑稽さ:</b> 政府が「緊急用」として作った制度を30年間温存し、最初の事例がニュースになること自体、その「緊急性」がいかに相対的かを物語っている。",
-        "<b>日本・海外から見ると:</b> 存在すら広く知られていなかった秘密裁判所が突然起動する光景は、法の支配の透明性という観点から、海外の法律家や人権団体にとって相当な懸念材料となりうる。"
+        "<b>矛盾:</b> 「おもてなし産業」であるはずの航空会社で、苦情を言う乗客への対応手段が「移民局への通報」になるのは、カスタマーサービスの概念を根底から覆している。",
+        "<b>滑稽さ:</b> 航空会社の遅延に文句を言う権利は「市民らしさ」で測定されるらしい。ならばアメリカで最も市民的に振る舞っていない存在は、慢性的に遅延する航空会社そのものかもしれない。",
+        "<b>日本・海外から見ると:</b> 日本では接客業のクレーム対応は「謝罪の技術」として訓練されるが、アメリカではICEがクレーム処理ツールになり得るという現実は、外国人旅行者にとってリアルな安全上の懸念となる。"
       ],
       "imagePrompts": [
-        "A dusty, cobweb-covered door in a government hallway labeled 'Alien Terrorist Removal Court — Est. 1996'; a hand in a suit sleeve dusts off the sign with a feather duster while a line of paperwork waits on a trolley",
-        "An old judge's bench covered in a white sheet like unused furniture; someone dramatically pulls the sheet off to reveal a gavel; a single manila folder sits on the bench labeled 'Case No. 1'",
-        "A government storage room filled with forgotten office equipment from the 1990s — fax machines, beepers, CRT monitors — and in the corner, a door labeled 'Secret Court' with a padlock covered in rust, now with a fresh new key in it"
+        "An airline service counter with a large sign reading 'CUSTOMER SERVICE' and a uniformed employee holding a phone labeled 'ICE HOTLINE' toward a bewildered passenger holding a boarding pass, a long delay board visible in the background showing every flight marked 'DELAYED'",
+        "A customer complaints box at an airline gate with a label reading 'DROP COMPLAINTS HERE' on one slot and 'WILL BE FORWARDED TO ICE' printed in small text below it",
+        "An airport departure board with columns for 'FLIGHT', 'STATUS', and a new column added: 'CITIZENSHIP VERIFIED?', all rows marked 'PENDING'"
       ],
       "captions": [
-        "The Trump administration activated a secret court that has existed since 1996. In fairness, they probably needed time to find where they put the keys.",
-        "After surviving 9/11, two wars, and three decades of terrorism without being used once, the Alien Terrorist Removal Court finally got its first customer. Must have been quite the orientation.",
-        "The court had technically been available since the Clinton administration — it just had a 30-year 'by appointment only' policy, and nobody ever called.",
-        "Creating a secret court and waiting 30 years to use it is either incredible judicial restraint or a really good argument that it wasn't necessary in the first place.",
-        "The Justice Department filed the first-ever petition to a dormant secret tribunal. Somewhere in a law school, a professor who spent 30 years saying 'this court will never be used' is updating their syllabus."
+        "United Airlines has a new frequent flyer program: complain once, and you fly — to a detention center.",
+        "The employee told the customer he didn't 'act like a citizen.' Bold strategy from a company whose flights don't act like they're on schedule.",
+        "United is 'looking into' the incident, which is airline speak for 'we've moved you to a middle seat and called it resolved.'",
+        "ICE: for when your gate agent runs out of vouchers.",
+        "New United policy: if you miss your connection, we miss your nationality. Terms and conditions apply."
       ],
       "captionsJa": [
-        "トランプ政権が1996年から存在する秘密裁判所を起動した。鍵をどこに仕舞ったか思い出すのに30年かかったのだろう。",
-        "9.11、二度の戦争、数十年のテロを経て一度も使われなかった退去裁判所が、ついに最初の案件を迎えた。オリエンテーションはさぞかし充実していることだろう。",
-        "この裁判所はクリントン政権時代から存在していた。ただし「完全予約制」で、30年間誰も電話しなかっただけである。",
-        "秘密裁判所を作って30年間使わないのは、驚異的な司法的自制心か、あるいは最初から必要なかったという強力な証拠か、そのどちらかだ。",
-        "司法省が眠れる秘密法廷に初の申請を行った。どこかの法学部で「この裁判所は絶対使われない」と30年間教え続けた教授が、今シラバスを書き直している。"
+        "ユナイテッド航空の新マイレージ制度：1回クレームを言えば、別の施設への「搭乗」が保証される。",
+        "「市民らしく振る舞え」と言った従業員。自社のフライトがダイヤ通りに「振る舞っている」かどうか、まず確認してほしい。",
+        "ユナイテッド航空は「調査する」と表明。航空業界の言葉で訳すと「あなたを窓なし中央席に移動させ、解決済みと記録する」という意味だ。",
+        "ICE：ゲートエージェントのバウチャーが尽きたときの最終手段として。",
+        "新方針：乗り継ぎを逃したお客様の国籍も、弊社が逃します。詳細は利用規約をご確認ください。"
       ],
-      "newsEn": "The Trump administration filed the first-ever petition to the Alien Terrorist Removal Court, a secretive tribunal established in the 1990s that had remained dormant for three decades. The Justice Department's filing seeks the removal of an individual deemed an 'alien terrorist.' The court was created as part of anti-terrorism legislation but had never been activated until now.",
+      "newsEn": "A United Airlines employee at San Francisco International Airport was caught on video telling a Mexican American customer 'you don't act like a citizen' and threatening to call Immigration and Customs Enforcement (ICE) during a dispute over a wait time. The video went viral and United Airlines said it would 'look into' the incident. The episode has sparked widespread criticism about the use of immigration enforcement as a customer service tool.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. government spent 30 years insisting it needed a secret court for emergencies, then filed its first case once the emergencies were apparently over.",
-          "absurdity": "Nothing says 'urgent national security measure' like waiting three decades to try it out for the first time.",
-          "outside": "Foreign legal observers might find it curious that America's commitment to due process includes a backup court so secret that even its own government forgot to use it."
+          "contradiction": "A customer service representative resolved a complaint about waiting by threatening to make the customer wait — indefinitely, in ICE custody.",
+          "absurdity": "United Airlines, whose planes are routinely late, is apparently prepared to question whether your citizenship is punctual enough.",
+          "outside": "International travelers booking U.S. flights may now need to weigh not just baggage fees, but the legal risk of complaining about them."
         },
         {
-          "contradiction": "A court created specifically to remove 'alien terrorists' sat completely idle through September 11, two wars, and multiple terror attacks — and finally got its first case in 2026.",
-          "absurdity": "The Alien Terrorist Removal Court is essentially the government's version of emergency chocolate you hide in a drawer and forget about for 30 years.",
-          "outside": "Civil liberties organizations worldwide are probably less concerned about the 30-year wait and more concerned about what a court that has never established precedent is about to establish as precedent."
+          "contradiction": "The airline industry's motto is 'the customer is always right' — unless the customer has the wrong accent, apparently.",
+          "absurdity": "The employee's solution to a service failure was to escalate to a federal law enforcement agency. United's new slogan: 'Fly the Friendly Skies, Quietly.'",
+          "outside": "In countries with strong consumer protection laws, an airline threatening a customer with authorities over a complaint would end the career. In the U.S., it became a viral debate about immigration policy."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-20/candidate-2.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-07-21/candidate-2.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "ICE to Require Body Cameras for Vehicle Stops — After Two Fatal Shootings in Six Days",
-        "source": "The Guardian US",
-        "date": "2026-07-20",
-        "url": "https://www.theguardian.com/us-news/2026/jul/19/ice-record-vehicle-stops-body-camera-mandate-homan",
-        "summary": "「国境の皇帝」トム・ホーマンは、ICE職員が車両停止時にボディカメラを使用することを義務付けると述べた。これは6日間で2人が死亡した致死的射撃事案への批判が高まる中での発言だ。"
+        "headline": "Sony Sues AI Music Generator Udio Over 30,000 Songs — From Elvis to Beyoncé",
+        "source": "The Verge",
+        "date": "2026-07-21",
+        "url": "https://www.theverge.com/tech/968375/sony-udio-lawsuit-songs-ai-copyright",
+        "summary": "ソニーミュージックが、AIによる楽曲生成サービス「Udio」を相手取り、エルヴィス・プレスリーからビヨンセまで3万曲以上の著作権侵害を訴える訴訟をニューヨーク連邦裁判所に起こした。"
       },
       "commentary": [
-        "<b>矛盾:</b> 説明責任のためのツールとして「ボディカメラは正しい方向」と認めながら、同じタイミングでFBIはICE絡みの事案の捜査をやめたと報じられている——映像は残るが、それを調べる機関がいなくなる、という構図。",
-        "<b>滑稽さ:</b> 「カメラをつけます」と「調査はしません」が同じ週に並ぶと、透明性の定義が根本から問い直される。",
-        "<b>日本・海外から見ると:</b> 日本の警察でもボディカメラの普及は議論が続いているが、「撮影はするが誰も捜査しない」という仕組みは、抑止力としての効果に疑問符をつけざるを得ない。"
+        "<b>矛盾:</b> 音楽産業は長年「サンプリング」を著作権侵害として訴えてきたが、今度はAIが数秒でその産業の全カタログを「消化」してしまう時代になり、法廷で3万曲分の請求書を突きつけている。",
+        "<b>滑稽さ:</b> 「ハウンド・ドッグ」で世界を席巻したエルヴィスから、現代のビヨンセまで、あらゆる時代の音楽を学習対象にしたAIは、ある意味でソニーの究極の「リスナー」だった。",
+        "<b>日本・海外から見ると:</b> 日本ではAIと著作権の線引きがまだ議論中だが、アメリカでは3万曲規模の訴訟が「初案件」ではない点に、法整備の追いつかなさが透けて見える。"
       ],
       "imagePrompts": [
-        "An ICE officer in uniform with a shiny new body camera strapped to their chest, standing in front of a wall of television screens all showing live camera feeds; every screen displays a 'NO SIGNAL' message except one showing static",
-        "A large glass display case labeled 'Accountability' containing a single body camera on a velvet cushion; the display case has a padlock on it and a sign reading 'For Display Purposes Only'",
-        "A film director's clapperboard snapping shut in front of a government building; behind it, a row of filing cabinets labeled 'Footage — Unreviewed' stretching to the horizon"
+        "A courtroom where the defendant's chair is occupied by a glowing server rack with headphones, stacks of sheet music labeled with famous song titles piled floor to ceiling around it, a bewildered judge surveying the scene",
+        "A massive filing cabinet overflowing with 30,000 individual vinyl records, each labeled with a famous song title, being wheeled into a courthouse by lawyers in suits",
+        "An AI music studio interface on a computer screen surrounded by cease-and-desist letters raining down from above, with album covers from different decades plastered on the walls"
       ],
       "captions": [
-        "Good news: ICE will now film vehicle stops with body cameras. Bad news: the agency that used to investigate what happened during those stops has reportedly moved on to other priorities.",
-        "The border czar announced body cameras are 'the way to go' — six days and two fatal shootings into discovering this was an option.",
-        "In Washington, transparency means the cameras are rolling. What happens to the footage is a separate department's problem.",
-        "Body cameras for ICE: because nothing restores public trust like documenting things no one is required to look at.",
-        "The administration's new accountability framework: more cameras, fewer investigators. It's less oversight, but considerably more cinematic."
+        "Sony sued an AI for listening to 30,000 songs without permission. In related news, every teenager with Spotify in 2004 has requested a retroactive pardon.",
+        "Udio allegedly learned from Elvis, Beyoncé, and Harry Styles. At those prices, that's a more expensive music education than Berklee.",
+        "Sony's lawyers showed up with 30,000 exhibits. The court reporter has requested a sabbatical.",
+        "The AI trained on the entire Sony catalog and still couldn't write a hit. Sony is furious for two reasons.",
+        "They say imitation is the sincerest form of flattery. Sony's lawyers say it's the sincerest form of $150,000 per infringement."
       ],
       "captionsJa": [
-        "朗報：ICEが車両停止時にボディカメラで記録するようになった。悪報：その映像を調べていた機関は、報道によれば別の優先事項に移行した。",
-        "「国境の皇帝」がボディカメラを「正しい方向」と発表した——6日間で2件の死亡射撃事案が起きてから、この選択肢があると気づいた瞬間に。",
-        "ワシントンにおける透明性とは「カメラが回っている」ことを意味する。その映像がどうなるかは別の省の問題だ。",
-        "ICEのボディカメラ導入：誰も見る義務のないものを記録することほど、国民の信頼を回復するものはない。",
-        "政権の新たな説明責任の枠組み：カメラは増やす、捜査官は減らす。監視としては物足りないが、映像作品としてはなかなかのクオリティだ。"
+        "ソニーが3万曲を無断で聴いたとしてAIを訴えた。関係のない話だが、2004年にSpotifyを使っていた全ての10代は恩赦を申請しているらしい。",
+        "Udioはエルヴィス、ビヨンセ、ハリー・スタイルズから学んだとされる。その授業料に換算すると、バークリー音楽大学より高額になる。",
+        "ソニーの弁護士が3万点の証拠を持参した。裁判所の速記者はサバティカル休暇を申請した。",
+        "そのAIはソニーの全カタログで学習して、それでもヒット曲が書けなかった。ソニーが怒っている理由は2つある。",
+        "「模倣は最大の賛辞」という。ソニーの弁護士によれば、それは「1侵害あたり15万ドルの賛辞」でもある。"
       ],
-      "newsEn": "Trump administration 'border czar' Tom Homan announced that ICE officers will be required to use body cameras during vehicle stops. The announcement follows two fatal shootings by federal immigration officers within a six-day period in Texas and Maine. Homan stated, 'I think body cameras are the way to go,' marking a shift in the administration's approach to accountability for ICE operations.",
+      "newsEn": "Sony Music Entertainment filed a lawsuit in a New York court against AI music generator Udio, alleging that the platform infringed the copyright of more than 30,000 songs in its catalog. The allegedly infringed works range from Elvis Presley's 'Hound Dog' to Beyoncé's 'Say My Name' and Harry Styles' 'As It Was.' This is Sony's latest legal action against an AI music generation company.",
       "ironyEn": [
         {
-          "contradiction": "The administration announced body cameras for ICE officers the same week it was reported that the FBI would stop investigating ICE confrontations — so the footage will exist, it just won't be reviewed by anyone with subpoena power.",
-          "absurdity": "A body camera with no investigative body to review it is essentially a very expensive diary.",
-          "outside": "Countries debating police transparency would note that the American innovation here is to film everything and investigate nothing — a novel approach to accountability theater."
+          "contradiction": "Sony built its empire on distributing music to as many ears as possible — and is now suing the most attentive listener it has ever produced.",
+          "absurdity": "Udio allegedly trained on 30,000 songs, which means it studied the Sony catalog more thoroughly than any Sony executive ever has.",
+          "outside": "In a country still debating AI copyright law, the most efficient legal clarity is coming from the invoice: 30,000 tracks, one lawsuit."
         },
         {
-          "contradiction": "It took two fatal shootings in six days for the administration to endorse body cameras — a technology that has been recommended by oversight experts for years.",
-          "absurdity": "The border czar said 'I think body cameras are the way to go' with the confidence of someone who had just heard about body cameras for the first time.",
-          "outside": "Law enforcement agencies worldwide have been debating body cameras for over a decade. The U.S. federal immigration enforcement system apparently needed a more persuasive argument."
+          "contradiction": "The music industry spent decades suing teenagers for downloading songs. Now it's suing an algorithm for learning them — same principle, exponentially bigger playlist.",
+          "absurdity": "Elvis Presley 'said' you ain't nothin' but a hound dog. Sony is now saying the same thing to an AI — with 29,999 more exhibits attached.",
+          "outside": "Japanese and European AI developers watching U.S. copyright litigation must be calculating: at 30,000 songs per lawsuit, how many lawsuits would cover their own training data?"
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-20/candidate-3.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-21/candidate-3.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Andrew and Tristan Tate Arrested by Federal Authorities in Miami",
-        "source": "CBS News US",
-        "date": "2026-07-20",
-        "url": "https://www.cbsnews.com/news/social-media-influencers-andrew-and-tristan-tate-arrested-in-miami-uk-charges/",
-        "summary": "インフルエンサーのアンドリュー・テイトとトリスタン・テイト兄弟が、米連邦当局によりマイアミで逮捕された。"
+        "headline": "Judge Halts Paramount–Warner Bros. $111 Billion Merger, Citing Antitrust Concerns",
+        "source": "Ars Technica",
+        "date": "2026-07-21",
+        "url": "https://arstechnica.com/tech-policy/2026/07/judge-halts-paramounts-111b-purchase-of-warner-bros-in-win-for-us-states/",
+        "summary": "連邦裁判所の判事が、パラマウントとワーナー・ブラザースによる総額1110億ドルの合併を一時差し止め、独占禁止法に違反する可能性が高いとする判断を示した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「システムに支配されるな」「国家権力に屈するな」というメッセージで数百万人のフォロワーを集めた人物が、連邦当局に逮捕されるという展開は、彼らのブランドの根幹を直撃する皮肉だ。",
-        "<b>滑稽さ:</b> 「マトリックスから抜け出せ」と説き続けた男が、実際の法執行機関に捕まった。マトリックスの方が一枚上手だったようだ。",
-        "<b>日本・海外から見ると:</b> 反体制・反エスタブリッシュメントを売りにしたインフルエンサーが国家に逮捕される構図は、「権威への反抗」が商品になる時代のリスクを象徴している。"
+        "<b>矛盾:</b> 合併の目的はNetflixやディズニーといったストリーミング大手に対抗するためだったが、「競争を守るための」独占禁止法が、競争に負けそうな企業の合併を止めるという逆説が生じている。",
+        "<b>滑稽さ:</b> ハリウッドの二大スタジオが1110億ドルをかけて「一つになろう」とした瞬間、裁判所に「別れなさい」と言われた。脚本家なら思いつかないような結末だ。",
+        "<b>日本・海外から見ると:</b> 日本では放送・映画産業の再編が静かに進むなか、アメリカでは1110億ドル規模の取引を裁判所が一枚の差し止め命令で止める。法の力のスケール感が別次元だ。"
       ],
       "imagePrompts": [
-        "Two men in expensive suits being escorted by federal agents in front of a backdrop of neon Miami nightlife; one of the men is mid-sentence as if still giving a motivational speech",
-        "A large red pill — the symbolic 'red pill' associated with online anti-establishment culture — sitting on a table next to a pair of handcuffs, with a Miami beach scene visible through a window behind it",
-        "A social media phone screen showing a paused motivational video mid-sentence reading '...and that is why NO system can ever...' with a 'LIVE: Breaking News' banner appearing over it"
+        "Two massive studio gates labeled 'PARAMOUNT' and 'WARNER BROS.' being physically pushed together by business-suited figures, while a judge's giant gavel crashes down between them from above, holding them apart",
+        "A boardroom table with a $111 billion check sitting in the center, a 'RESTRAINING ORDER' stamp pressed diagonally across it in red ink, executives on both sides staring at it in silence",
+        "A Hollywood-style movie marquee reading 'THE MERGER — COMING SOON' with a 'TEMPORARILY CLOSED BY COURT ORDER' banner draped across it"
       ],
       "captions": [
-        "Andrew Tate, who built an empire teaching men how to be uncatchable, was caught. The Matrix, it seems, has federal jurisdiction.",
-        "The brothers have long warned that powerful systems target men like them. Miami's federal authorities were apparently taking notes.",
-        "For a man whose brand is 'escape the establishment,' getting arrested by federal agents in a luxury city is either irony or very advanced performance art.",
-        "Tate spent years explaining that the system cannot touch him. Saturday was a productive day for the system.",
-        "Andrew Tate's 'How to Be Unfazed by Authority' course may be due for a content update."
+        "Paramount and Warner Bros. tried to become one mega-studio. A federal judge wrote a better ending.",
+        "The $111 billion deal to fight Netflix has been paused. Netflix is currently streaming a documentary about failed mergers.",
+        "Two studios that invented the dramatic plot twist just experienced one. The director's cut will be filed in federal court.",
+        "The judge said the merger would 'likely violate antitrust laws.' The studios said that's not how this story was supposed to go. The judge said he knows.",
+        "Hollywood's biggest blockbuster of the year wasn't on any screen — it was a restraining order."
       ],
       "captionsJa": [
-        "「誰にも捕まらない」男の育て方を教えていたアンドリュー・テイトが捕まった。マトリックスには連邦管轄権があるようだ。",
-        "兄弟は長年「強大なシステムは自分たちのような男を標的にする」と警告してきた。マイアミの連邦当局はしっかりメモを取っていたらしい。",
-        "「エスタブリッシュメントから逃げろ」がブランドの男が、高級都市で連邦捜査官に逮捕される——これは皮肉か、それとも超高度なパフォーマンスアートか。",
-        "テイトは何年もかけて「システムは自分に手が届かない」と説明してきた。土曜日はシステムにとって生産的な一日だった。",
-        "アンドリュー・テイトの「権威に動じない方法」講座はそろそろコンテンツの更新が必要かもしれない。"
+        "パラマウントとワーナーは一つの超大型スタジオになろうとした。連邦判事がより良いエンディングを書いた。",
+        "Netflixに対抗するための1110億ドルの取引が停止された。Netflixは現在、「失敗した企業合併」のドキュメンタリーを配信中だ。",
+        "どんでん返しを発明した二つのスタジオが、どんでん返しを食らった。ディレクターズカット版は連邦裁判所に提出される。",
+        "判事は「独禁法に違反する可能性が高い」と述べた。スタジオ側は「この脚本はそういう展開ではなかった」と言った。判事は「知っている」と答えた。",
+        "今年ハリウッド最大の大作は、どのスクリーンにも映らなかった。それは一枚の差し止め命令だった。"
       ],
-      "newsEn": "Social media influencers Andrew and Tristan Tate were arrested by federal authorities in Miami on Saturday. The brothers, who have built massive online followings promoting an aggressively anti-establishment brand, were taken into custody by U.S. federal agents. No additional details on the specific charges were immediately reported.",
+      "newsEn": "A federal judge issued a restraining order blocking the proposed $111 billion merger between Paramount and Warner Bros., ruling that the deal is 'likely to violate antitrust laws.' The ruling was considered a victory for U.S. states that had challenged the merger. The case adds to a growing list of major media consolidation attempts facing regulatory pushback.",
       "ironyEn": [
         {
-          "contradiction": "Andrew Tate built a global brand on the idea that 'the Matrix' — his term for establishment power — is out to get you. Federal agents in Miami apparently confirmed his thesis, though perhaps not in the way he intended.",
-          "absurdity": "A man who sold courses on escaping the system got arrested by the system in one of America's most glamorous cities, which feels like the universe writing its own punchline.",
-          "outside": "For the millions of young men who paid to learn Tate's philosophy of untouchable self-reliance, Saturday's news from Miami may require some curriculum revision."
+          "contradiction": "Two studios that built empires on dramatic plot twists got hit with the biggest plot twist of their merger: a judge said no.",
+          "absurdity": "Paramount and Warner Bros. spent months and billions planning a deal to survive streaming — and may now spend more on legal fees than either studio earned last quarter.",
+          "outside": "Foreign media companies consolidating quietly at home are watching the U.S. legal system perform a $111 billion dramatic pause."
         },
         {
-          "contradiction": "The Tates have spent years arguing that powerful institutions target men who tell the truth. Federal authorities in Miami did not appear to be following the argument.",
-          "absurdity": "Being arrested while promoting a lifestyle brand built on never being arrested is a remarkably coherent form of brand destruction.",
-          "outside": "International fans who followed the Tates for lessons on how to be unfazed by authority are now watching authority do exactly what Tate said it would do — though Tate perhaps hoped that part would stay theoretical."
+          "contradiction": "The studios argued they needed to merge to compete. The court argued that competing requires them not to merge. Both sides made excellent points about a $111 billion problem.",
+          "absurdity": "Two companies that make their living writing cliffhangers are now living in one — and nobody knows how the next episode resolves.",
+          "outside": "In the streaming wars, the real plot twist is that the U.S. government still has the remote control."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-20/candidate-4.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-21/candidate-4.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Trump Official Admits Iran War Mission Has 'Pivoted' to Ensuring Oil Flow",
-        "source": "The Guardian US",
-        "date": "2026-07-20",
-        "url": "https://www.theguardian.com/us-news/2026/jul/19/trump-official-iran-war-oil-flow-strait-hormuz",
-        "summary": "トランプ政権高官が、イラン戦争の目的が「石油の流れを確保すること」へと転換したと認め、長期化する軍事行動への批判が高まっている。"
+        "headline": "SpaceX Is Being Fast-Tracked Into Your Index Fund — Whether You Like It or Not",
+        "source": "The Verge",
+        "date": "2026-07-21",
+        "url": "https://www.theverge.com/business/968257/spacex-in-your-index-fund-explained",
+        "summary": "非上場企業であるSpaceXがナスダック100への組み入れを急ピッチで進めており、「安全な市場全体への投資」とされるインデックスファンドに、実質的にリスクの高いプライベート企業が紛れ込む事態が生じつつある。"
       },
       "commentary": [
-        "<b>矛盾:</b> 当初の戦争目的から「石油の安定供給」へと目標が移行したことを高官自ら認めた——理想と実利の乖離を政府が公式に説明する珍しい瞬間だ。",
-        "<b>滑稽さ:</b> エネルギー長官が戦争の長期化を弁明する記者会見は、エネルギー政策の会見なのか安全保障政策の会見なのか、もはや境界線が消えている。",
-        "<b>日本・海外から見ると:</b> 資源確保を戦争目的として公言することの政治的コストは国際的に高い。日本は石油の中東依存度が高く、この「枠組みの転換」がもたらす地域安定への影響は他人事ではない。"
+        "<b>矛盾:</b> インデックスファンドの売り文句は「個別株のリスクを避け、市場全体に分散投資できる安全性」だが、非上場で財務情報が非公開のSpaceXが組み込まれると、「知らぬ間にイーロン・マスクの宇宙事業に賭けていた」という状況が生まれる。",
+        "<b>滑稽さ:</b> 「あなたの老後資金は市場全体に分散されています」という説明の次の行に、こっそり「※ただし火星行きロケット会社を含む」が追加される時代になった。",
+        "<b>日本・海外から見ると:</b> 日本の個人投資家にも米国インデックスファンドは人気だが、組み入れ銘柄の透明性が揺らぐなら、「インデックスは安全」という前提そのものが問い直される。"
       ],
       "imagePrompts": [
-        "A whiteboard in a government briefing room with 'MISSION OBJECTIVES' written at the top; the first several bullet points are crossed out, and the final surviving bullet point reads 'Keep oil flowing'; a cabinet official points to it with a laser pointer while smiling",
-        "A gas pump nozzle shaped like a military aircraft, fueling a large barrel labeled 'Strategic Interests'; in the background, a long line of civilian cars waits at a gas station",
-        "A diplomat at a podium surrounded by flags; on the podium is a large oil barrel instead of a lectern; the diplomat appears to be mid-speech, gesturing enthusiastically"
+        "A mild-mannered investor in a cardigan sitting at a kitchen table with a coffee mug labeled 'SAFE RETIREMENT FUND', looking at a pie chart on a laptop where one slice is labeled 'ROCKET TO MARS' in flashing neon",
+        "An index fund brochure cover reading 'BORING, RELIABLE, DIVERSIFIED' with a SpaceX rocket bursting through the center of it, papers and bar charts flying in all directions",
+        "A supermarket shelf of products labeled 'INDEX FUND — NO SURPRISES', with one can in the middle slightly glowing and vibrating, the label reading 'NOW WITH PRIVATE SPACE COMPANY INSIDE'"
       ],
       "captions": [
-        "The Trump administration confirmed the Iran war mission has 'pivoted' to ensuring oil flow. It's nice when foreign policy and the gas station receipt finally line up.",
-        "Months of promised ceasefires later, the Energy Secretary stepped up to explain the war. Not the Defense Secretary. The Energy Secretary. Draw your own conclusions.",
-        "The mission evolved from 'countering a threat' to 'keeping oil moving' — which is either strategic flexibility or a very expensive pipeline protection plan.",
-        "A war of choice, said the Democrats. A pivot toward energy security, said the administration. Both descriptions have the word 'oil' hiding somewhere inside them.",
-        "When your energy secretary becomes the spokesperson for your military conflict, the press conference is sending a message the press release wasn't quite ready to send."
+        "Good news: your index fund is now diversified across the entire market and one man's plan to leave it.",
+        "You chose index funds specifically to avoid picking risky stocks. The index fund has picked one for you. You're welcome.",
+        "SpaceX in your retirement account: because why settle for 'market risk' when you can have 'rocket risk'?",
+        "Passive investing used to mean you didn't have to think about your money. Now it means you don't have to think about your money going to space.",
+        "The Nasdaq-100 will now include a company with no public filings. The disclosure is: there is no disclosure."
       ],
       "captionsJa": [
-        "トランプ政権がイラン戦争の目的は「石油の流れを確保すること」へと転換したと認めた。外交政策とガソリンのレシートがついに一致した。",
-        "何カ月も停戦を約束した末、記者会見に現れたのは国防長官ではなくエネルギー長官だった。結論は各自でどうぞ。",
-        "「脅威への対応」から「石油の安定供給」へのミッション転換——戦略的柔軟性と呼ぶか、非常に高価なパイプライン警備計画と呼ぶかは好み次第だ。",
-        "「選択による戦争」と野党は言い、「エネルギー安全保障への転換」と政権は言う。どちらの説明にも「石油」がこっそり潜んでいる。",
-        "軍事紛争のスポークスマンがエネルギー長官になると、記者会見はプレスリリースがまだ送れていないメッセージを発信している。"
+        "朗報：あなたのインデックスファンドは、市場全体と、ある一人の男が市場から脱出する計画に分散投資されました。",
+        "あなたがインデックスファンドを選んだのは、まさにリスクの高い個別株を避けるためだった。インデックスファンドがあなたの代わりに一つ選んでくれた。どういたしまして。",
+        "SpaceXが老後資金に：「市場リスク」では物足りなかったあなたに「ロケットリスク」をどうぞ。",
+        "パッシブ投資とは「お金のことを考えなくていい」ことだった。今は「お金が宇宙に行っていることを考えなくていい」という意味になった。",
+        "ナスダック100が財務情報非公開の企業を組み入れる。開示事項は：開示事項はない。"
       ],
-      "newsEn": "A Trump administration official acknowledged on Sunday that the U.S. mission in the Iran war has pivoted toward ensuring the flow of oil, as criticism mounts over the conflict's length. The Energy Secretary faced questions after months of promised diplomatic breakthroughs and short-lived ceasefires failed to materialize into an end to hostilities. A Democratic lawmaker called the conflict a 'war of choice.'",
+      "newsEn": "SpaceX, which remains a private company, is being fast-tracked into the Nasdaq-100 index, meaning it would automatically be included in the index funds that millions of everyday investors use as a supposedly safe, diversified investment. Critics point out that adding a large, privately valued, and highly speculative company to a public index undermines the transparency and risk assumptions that index fund investors typically rely on.",
       "ironyEn": [
         {
-          "contradiction": "The administration spent months framing the Iran conflict in terms of security and diplomacy, and then the Energy Secretary showed up to explain that actually, it's largely about keeping oil moving.",
-          "absurdity": "Having your energy secretary — not your defense secretary — be the one to explain why the war is still going is either a candid admission or a very unusual cabinet meeting outcome.",
-          "outside": "For countries that have long suspected resource access drives U.S. military decisions in the Middle East, having a senior official confirm the oil rationale is less a revelation and more a receipt."
+          "contradiction": "Index funds were designed to let ordinary investors avoid risky bets on individual companies — and are now being used to place one on a private rocket company with no public financials.",
+          "absurdity": "Your retirement savings can now, without your consent, be partially funding the infrastructure for a colony on Mars.",
+          "outside": "Japanese and European retail investors who bought U.S. index funds for stability may want to check whether their portfolio now includes a launch vehicle."
         },
         {
-          "contradiction": "A conflict described as essential to countering a terrorist state is now being explained by the cabinet official responsible for energy markets — which tells you something about the actual center of gravity.",
-          "absurdity": "Promising diplomatic breakthroughs for months and then pivoting to 'actually we're here for the oil flow' is the geopolitical equivalent of showing up to a job interview and admitting you're mostly interested in the parking.",
-          "outside": "Japan, which imports a significant share of its oil from the Middle East, may be watching this pivot with more than casual interest — and considerably less comfort than the Energy Secretary seemed to project."
+          "contradiction": "The whole point of an index fund is that you don't have to pick stocks — but someone is still picking SpaceX for you.",
+          "absurdity": "The safest investment vehicle in personal finance has been docked with the riskiest vehicle in aerospace. The combined entity is hurtling into the unknown.",
+          "outside": "When 'passive investing' starts including active bets on private space ventures, the word 'passive' is doing a lot of heavy lifting."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-20/candidate-5.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-21/candidate-5.jpg",
+      "imageStyle": "classic-cartoon"
     }
   ]
 };
