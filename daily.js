@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-27",
-  "generatedAt": "2026-07-26T23:18:46+00:00",
+  "date": "2026-07-28",
+  "generatedAt": "2026-07-27T23:45:13+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Taylor Farms Allegedly Asked the White House to Delay a Cyclospora Recall — Former FDA Chief Says That's 'Not Standard'",
-        "source": "The Guardian US",
-        "date": "2026-07-27",
-        "url": "https://www.theguardian.com/us-news/2026/jul/26/taylor-farms-white-house-cyclospora-recall",
-        "summary": "食品大手テイラー・ファームズがサイクロスポラ汚染のリコール発表を遅らせるようホワイトハウスに働きかけたと報じられ、元FDA長官が「通常の手続きではない」と批判した。"
+        "headline": "Trump Admin Exempts SpaceX's Starlink from Ban on Foreign-Made Routers — Despite Starlink Making Routers Abroad",
+        "source": "Ars Technica",
+        "date": "2026-07-28",
+        "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
+        "summary": "トランプ政権が外国製ルーター禁止令からSpaceXのStarlinkを適用除外にした。ただしStarlinkはベトナムでもルーターを製造している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 消費者を守るはずのリコール制度が、企業の電話一本でホワイトハウス経由に「遅延申請」できる構図になっている。",
-        "<b>滑稽さ:</b> 1万1千人以上が病気になってからやっと「それは普通じゃない」と言われる——普通の基準がすでに相当低い。",
-        "<b>日本・海外から見ると:</b> 食の安全が規制当局ではなく政治的な「コネ」で管理される国として映り、農産物の輸出信頼にも影響しかねない。"
+        "<b>矛盾:</b> 「外国製ルーター禁止」の規制からベトナム製ルーターを作る企業を免除するのは、禁止令そのものを免除するに等しい。",
+        "<b>滑稽さ:</b> 「アメリカ第一」の旗を掲げながら、旗を作った工場がどこにあるかは聞かないでくれ、というスタンス。",
+        "<b>日本・海外から見ると:</b> 同盟国の企業が同じことをすれば「不公正貿易」と呼ばれる行為が、特定企業には「適用除外」で片付く様子は、ルールの射程が人脈次第であることを如実に示している。"
       ],
       "imagePrompts": [
-        "A gleaming corporate produce truck labeled 'Taylor Farms' pulling up to the White House gate, the driver handing a envelope to a guard while a giant clock behind them is visibly being turned backward by hand",
-        "A massive pile of leafy greens overflowing a government inbox labeled 'Recall Announcements — Pending Approval,' with a long telephone cord stretching from the pile into an ornate Oval Office door",
-        "A scientist in a lab coat holding a red 'RECALL' stamp, frozen mid-stamp, staring at a ringing phone labeled 'D.C. Line' while a calendar on the wall shows days crossing off one by one"
+        "A factory building split down the middle: the left half is labeled 'Texas' with a small American flag, the right half is labeled 'Vietnam' with a large shipping conveyor belt and stacked router boxes. A velvet rope blocks the left entrance with a sign reading 'EXEMPT,' while the right side runs at full capacity.",
+        "A customs officer at an airport conveyor belt waving through a box labeled 'Starlink Router — Vietnam' while stamping it with a giant green 'APPROVED — American Enough' stamp.",
+        "A large rulebook open to a page titled 'Foreign Router Ban,' with a single sticky note covering most of the text reading 'except this one guy,' beneath which tiny footnotes trail off the page."
       ],
       "captions": [
-        "The company didn't deny the outbreak — they just wanted to announce it after everyone had already finished their salads.",
-        "Nothing says 'food safety first' like calling the White House before calling the FDA.",
-        "Eleven thousand sick Americans, and the first call made was apparently to discuss the press release timing. Farm-to-table has never been so political.",
-        "The former FDA chief said the approach was 'not standard.' In Washington, that's the medical term for 'what on earth is happening.'",
-        "In America, you get your lettuce recalled the same way you get a zoning variance — it's all about who you know."
+        "The administration banned foreign-made routers — and then gave an exemption to the company that makes routers in Vietnam. To be fair, they also make them in Texas. The Texas ones are for the press release.",
+        "SpaceX got a waiver from the foreign router ban despite manufacturing routers abroad. Officials say this is consistent with their policy. Their policy, it turns out, is 'it depends.'",
+        "Nothing says 'America First' like a Vietnam-made router with a Texas ZIP code on the invoice.",
+        "Starlink's Texas factory: officially the most important factory in America that no one can find the output of.",
+        "The FCC ban on foreign routers is still very much in effect — for companies that didn't think to ask nicely."
       ],
       "captionsJa": [
-        "企業側はアウトブレイクを否定しなかった——ただ、みんながサラダを食べ終わったあとに発表したかっただけだ。",
-        "「食の安全最優先」の証拠として、FDAより先にホワイトハウスに電話するという選択肢があるとは知らなかった。",
-        "1万1千人が病気になり、最初にかかってきた電話はプレスリリースのタイミング調整のためだったらしい。「農場から食卓へ」がこんなに政治的になるとは。",
-        "元FDA長官は「通常の手続きではない」と述べた。ワシントンでこれは、「いったい何が起きているんだ」の医学的表現である。",
-        "アメリカでは、レタスのリコールも建築許可も同じように取得できる——要はコネの問題だ。"
+        "政権は外国製ルーターを禁止し、そしてベトナムでルーターを作っている企業を適用除外にした。テキサスにも工場はある。そちらはプレスリリース用だ。",
+        "SpaceXは海外でルーターを製造しているにもかかわらず、外国製ルーター禁止令の適用除外を獲得した。当局はこれが方針と一致していると言う。その方針とは、「場合による」というものだ。",
+        "「アメリカ第一」を声高に叫びながら、ルーターはベトナム製、請求書にはテキサスの郵便番号。",
+        "SpaceXのテキサス工場：誰も出荷実績を確認できない、アメリカで最も重要な工場。",
+        "外国製ルーター禁止令は今も有効だ。ただし、お伺いを立てることを思いつかなかった企業に限り。"
       ],
-      "newsEn": "Reports surfaced that produce company Taylor Farms contacted the White House seeking to delay the announcement of a cyclospora-related food recall. Former FDA Commissioner Dr. Scott Gottlieb stated on Sunday that such contact is 'not standard operating procedure.' The cyclospora outbreak has sickened more than 11,000 people across 41 states since May, following significant staff cuts at the FDA and CDC.",
+      "newsEn": "The Trump administration granted SpaceX's Starlink an exemption from the FCC's ban on foreign-manufactured routers. While Starlink operates a factory in Texas, it also produces routers in Vietnam. The exemption raises questions about the consistency of the administration's 'buy American' technology policy.",
       "ironyEn": [
         {
-          "contradiction": "A recall system designed to protect public health was reportedly put on hold after a phone call to the political branch of government — the very branch with no food-safety mandate.",
-          "absurdity": "Over 11,000 Americans fell ill before anyone said out loud, 'Hey, asking the White House to delay a recall is not normal.' The bar for 'normal' seems to have been quietly lowered.",
-          "outside": "From abroad, it looks like American food safety is now managed less by scientists and more by whoever has the right phone number in Washington."
+          "contradiction": "The administration banned foreign-made routers, then exempted the one company that makes routers in Vietnam — because it also has a factory in Texas.",
+          "absurdity": "Apparently 'Made in America' is less a standard and more a vibe, as long as the CEO's name rhymes with 'Felon Musk.'",
+          "outside": "Other tech firms watching from abroad are presumably taking notes: the fastest path to a U.S. regulatory exemption is apparently a rocket launch pad and the right phone number."
         },
         {
-          "contradiction": "The same administration that cut FDA and CDC staff to save money may have also slowed the very recall process those agencies exist to trigger.",
-          "absurdity": "A company selling salad greens apparently needed executive-branch intervention — suggesting that 'farm to table' now includes a layover at 1600 Pennsylvania Avenue.",
-          "outside": "Foreign importers watching this saga may start wondering whether U.S. food safety labels come with an asterisk: 'subject to lobbying delays.'"
+          "contradiction": "A ban designed to protect American supply chains carved out an exception for a company that relies on the very foreign supply chains the ban targets.",
+          "absurdity": "The Texas factory is doing heroic work — mostly as a photo backdrop for press releases while the Vietnam plant ships the actual hardware.",
+          "outside": "From a trade-law perspective, this is less 'America First' and more 'This Specific American First.'"
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-27/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-07-28/candidate-1.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "U.S. Government Prosecutes American Citizen for Using a Password That Wiped His Own Phone at the Border",
-        "source": "The Verge",
-        "date": "2026-07-27",
-        "url": "https://www.theverge.com/policy/971097/us-charging-american-citizen-wiping-phone-duress-password",
-        "summary": "米国市民のサム・タニックが、国境での携帯電話押収時に「緊急消去パスワード」を入力したとして連邦政府に起訴された。"
+        "headline": "Taylor Farms CEO Pressed on Whether White House Access Shaped Federal Response to Cyclospora Outbreak",
+        "source": "CBS News US",
+        "date": "2026-07-28",
+        "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak-white-house-investigation/",
+        "summary": "食品会社テイラー・ファームズのCEOが、サイクロスポーラ集団感染への連邦政府の対応にホワイトハウスとの人脈を利用したのかどうか、議会で追及されている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 自分のデバイスのデータを自分で消すという行為が、連邦犯罪として起訴される国でプライバシー権を主張することの矛盾。",
-        "<b>滑稽さ:</b> 「緊急パスワードを使った」という行為自体が証拠として機能する——つまり、自衛しようとしたことそのものが罪状になる。",
-        "<b>日本・海外から見ると:</b> 「民主主義の手本」を自任する国で、自分のスマホを守ろうとした市民が起訴される光景は、海外から見ると皮肉以外の何物でもない。"
+        "<b>矛盾:</b> 食の安全を監視すべき政府機関が、その監視対象企業の「ホワイトハウスとのパイプ」によって動きを調整していた可能性があるという、監視の構造そのものが逆転した疑惑。",
+        "<b>滑稽さ:</b> 「誰があなたのレタスを安全に保つのか」という問いの答えが「CEOの電話帳に載っている連絡先次第」だとすれば、食品安全基準はレシピというよりネットワーキングの話だ。",
+        "<b>日本・海外から見ると:</b> 食品安全行政が政治的人脈から独立しているかどうかを議会が問わなければならない時点で、規制機関の独立性への信頼がどこまで機能しているかが問われている。"
       ],
       "imagePrompts": [
-        "An airport security checkpoint where a federal agent reaches across a conveyor belt toward a smartphone, while the screen visibly reads 'Data Erased' with a small checkmark, and a large scales-of-justice symbol hangs crookedly in the background",
-        "A citizen in handcuffs standing before a judge, holding up a completely blank, factory-reset smartphone as 'Exhibit A,' with the courtroom gallery full of people staring at their own phones nervously",
-        "A smartphone with a tiny padlock icon on its screen sitting inside a defendant's box in a courtroom, flanked by two serious-looking attorneys, while a banner above reads 'United States v. A Password'"
+        "A large produce company boardroom with a CEO on a phone labeled 'White House Hotline,' while in the background a government inspector stands at a salad bar with a clipboard, politely looking away at the ceiling.",
+        "A food safety rating placard on a restaurant wall, but instead of a hygiene score, it reads: 'Grade: A — Political Access Score.' A smaller placard below reads: 'Cyclospora: Under Review.'",
+        "A congressional hearing room where a CEO sits at a witness table surrounded by towers of bagged salad. A lawmaker leans into a microphone pointing at a phone on the table labeled 'Direct Line — Executive Branch.'"
       ],
       "captions": [
-        "In America, you have the right to remain silent — but apparently not the right to remain encrypted.",
-        "The phone wiped itself clean. The government called that obstruction. The phone could not be reached for comment.",
-        "He used a security feature. The feature worked perfectly. That's the crime.",
-        "The charges could be summarized as: 'You had a good password, and we're furious about it.'",
-        "First they came for your carry-on liquids, then your shoes, and now, apparently, your factory reset option."
+        "A food company CEO is being asked whether White House connections shaped the federal response to their outbreak. The good news: the lettuce was organic. The phone calls, less so.",
+        "Investigators want to know if Taylor Farms used political ties to manage the cyclospora response. In fairness, it's a creative use of a Rolodex — though not the one food safety manuals had in mind.",
+        "The federal food safety system exists to be independent of the companies it regulates. Congress is now asking whether that held up. Spoiler: Congress is asking.",
+        "Nothing adds flavor to a foodborne illness investigation like a congressional subpoena and the phrase 'White House ties.'",
+        "The cyclospora parasite had no lobbyists. Taylor Farms, apparently, did not have the same limitation."
       ],
       "captionsJa": [
-        "アメリカでは黙秘権はある——でも、どうやら暗号化する権利はないらしい。",
-        "スマホが自分を消去した。政府はそれを「証拠隠滅」と呼んだ。スマホはコメントできる状態にない。",
-        "彼はセキュリティ機能を使った。それは完璧に機能した。それが罪だ。",
-        "起訴内容を要約すると、「あなたのパスワードが強すぎて、私たちは怒っています」ということだ。",
-        "最初は液体物が没収され、次に靴が脱がされ、今度はどうやら初期化オプションが標的になった。"
+        "食品会社のCEOが、ホワイトハウスとのコネが集団感染への連邦対応に影響したかどうかを問われている。いい話がある。レタスはオーガニックだった。電話は、そうでもなかった。",
+        "テイラー・ファームズがサイクロスポーラ対応に政治的人脈を使ったか調査中だ。手帳の使い方としては独創的だが、食品安全マニュアルが想定していた用途ではない。",
+        "連邦食品安全制度は監督対象企業から独立して機能するはずだ。それが保たれていたか、議会が今まさに聞いている。ネタバレ：議会が聞いている。",
+        "食中毒調査に「ホワイトハウスとのパイプ」という言葉が加わると、途端にスパイスが効きすぎる。",
+        "サイクロスポーラ寄生虫にはロビイストがいなかった。テイラー・ファームズには、どうやらそういう制約がなかったようだ。"
       ],
-      "newsEn": "The U.S. government is prosecuting American citizen Sam Tunick for allegedly entering a 'duress password' that wiped his phone when federal agents attempted to seize it at Atlanta's Hartsfield-Jackson airport on January 24th, 2025. Agents detained Tunick and questioned him about his political activities. The case raises significant questions about Fourth Amendment rights, border search authority, and whether protecting one's own data constitutes a federal offense.",
+      "newsEn": "Representative Robert Garcia is pressing Taylor Farms CEO for information about whether the company used its connections to the White House to influence the federal government's response to a cyclospora foodborne illness outbreak. The outbreak has triggered widespread concern about food safety oversight. Taylor Farms has not publicly confirmed any such communications.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. government, which sells encryption and cybersecurity tools to the world, is now prosecuting a citizen for successfully using data security on his own device.",
-          "absurdity": "The crime, apparently, is that the password worked. Had it failed, there would be no case — making competent self-protection the actual offense.",
-          "outside": "Countries that receive U.S. democracy-promotion lectures may be interested to learn that American citizens can be federally charged for having a strong phone password."
+          "contradiction": "A company that sells food meant to keep Americans healthy is accused of using political connections to manage the government's response to a health crisis caused by its food.",
+          "absurdity": "The cyclospora parasite, at least, operated without a White House contact list — which, in this story, gives it a certain integrity.",
+          "outside": "Food safety regulators in other countries are presumably baffled by a system where the regulated party may have had a say in designing its own regulatory response."
         },
         {
-          "contradiction": "Border agents reportedly questioned Tunick about his political activities before seizing the phone — yet the charge is about the phone, not the politics.",
-          "absurdity": "A man used a feature apparently designed to protect his data, and the government's response was to make that protection itself the crime. It's the legal equivalent of prosecuting someone for closing their blinds.",
-          "outside": "Tech companies spend billions marketing 'privacy by design' to global consumers; the U.S. government is now prosecuting a citizen for taking that marketing at face value."
+          "contradiction": "Federal food safety oversight exists precisely to operate independently of the companies it oversees — which is why Congress had to ask a CEO if that happened.",
+          "absurdity": "Somewhere in a produce aisle, a bag of salad mix is sitting under a 'No Added Preservatives' label, next to an unwritten label reading 'May Contain Lobbying.'",
+          "outside": "The phrase 'White House ties' and 'foodborne illness outbreak' appearing in the same sentence is a combination that no food safety manual anticipated — but perhaps should have."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-27/candidate-2.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-28/candidate-2.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Katy Perry Condemns White House for Using 'Firework' Over Footage of Missile Strike on Iranian Ship",
-        "source": "The Guardian US",
-        "date": "2026-07-27",
-        "url": "https://www.theguardian.com/us-news/2026/jul/26/katy-perry-firework-song-iran-war-video",
-        "summary": "トランプ政権がイランへの軍事攻撃映像にケイティ・ペリーの「Firework」を使ったTikTok動画を投稿し、ペリーが許可なく使用されたとして強く非難した。"
+        "headline": "40% of Americans Avoiding Produce Amid Cyclospora Outbreak — as RFK Jr. Administration Faces Food Safety Criticism",
+        "source": "Ars Technica",
+        "date": "2026-07-28",
+        "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
+        "summary": "サイクロスポーラ集団感染を受け、アメリカ人の約40%が野菜・果物を避けているとの調査結果が出た。食の安全より栄養を重視してきたRFKジュニア政権の姿勢に批判が集まっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「あなたは花火のように輝ける」という自己肯定ポップソングが、実際の軍事攻撃のBGMに転用されるという、歌詞と映像のギャップが最大の風刺になっている。",
-        "<b>滑稽さ:</b> 著作権を厳格に守らせる立場の連邦政府が、著作権者の許可なくコンテンツを使うという、法の番人によるルール無視。",
-        "<b>日本・海外から見ると:</b> アメリカの「戦争広報」がTikTokとポップソングで構成されているという事実そのものが、グローバルメディア戦略の新局面を象徴している。"
+        "<b>矛盾:</b> 「アメリカ人にもっと野菜を食べさせる」を掲げた政権のもとで、4割のアメリカ人が野菜を食べることを恐れているという、政策目標と現実の完全な逆転。",
+        "<b>滑稽さ:</b> 「食の改革」を叫んだ長官が実現したのは、農産物コーナーを素通りするアメリカ人の大群という皮肉な光景だ。",
+        "<b>日本・海外から見ると:</b> 食品安全規制の執行より栄養メッセージを優先した結果、国民が「野菜を食べるな」という行動を取っているという構図は、公衆衛生行政の優先順位の問い直しを迫っている。"
       ],
       "imagePrompts": [
-        "A formal government podium with the presidential seal, behind which a giant TikTok interface is displayed showing a missile strike video with musical note icons floating around it and a 'Now Playing: Firework' bar at the bottom",
-        "A pop star's silhouette standing in front of a television screen showing an official government social media post, arms crossed, while colorful firework graphics clash awkwardly with military imagery on the screen",
-        "A White House intern sitting at a laptop surrounded by a chaotic pile of vinyl records and CD cases labeled with pop hits, a finger hovering over the 'upload' button while a legal document labeled 'Copyright License' sits unopened beside the keyboard"
+        "A grocery store produce section completely empty of shoppers, with a large banner overhead reading 'EAT MORE VEGETABLES' in bold government-style lettering. A lone shopping cart sits abandoned in the aisle next to a wilting lettuce display.",
+        "A government health official at a podium surrounded by colorful vegetable posters, while behind them a news ticker reads: '40% of Americans now avoiding fruits and vegetables.' The official is mid-sentence, holding up a head of romaine.",
+        "A split image: on the left, a vibrant campaign poster showing a family joyfully eating salad with the slogan 'Make America Healthy Again'; on the right, the same family standing at the produce aisle with arms crossed and suspicious expressions, backing slowly away from the lettuce."
       ],
       "captions": [
-        "The White House wanted to show the world America's firepower. Katy Perry wanted to show the world it had nothing to do with her.",
-        "Nothing conveys military gravitas quite like an unauthorized TikTok set to a 2010 pop anthem about self-esteem.",
-        "'Baby, you're a firework' — the lyric hits different when there's an actual fireball in the video.",
-        "The government enforces copyright law for everyone except, apparently, the government.",
-        "In a historic first, the Department of Defense may owe royalties to the same artist it accidentally made into a protest icon."
+        "The administration that promised to make America healthy has achieved a 40 percent reduction in vegetable consumption. Technically, that's a very successful behavioral change campaign — just not the direction anyone specified.",
+        "RFK Jr. spent years warning about what's in our food. Turns out the biggest threat to America's vegetable intake was a food safety enforcement gap on his own watch.",
+        "Nothing inspires Americans to eat more fruits and vegetables like a nationwide outbreak that makes 40 percent of them stop eating fruits and vegetables.",
+        "The 'Make America Healthy Again' produce aisle: now available in ghost town.",
+        "Critics say the administration neglected food safety in favor of nutrition messaging. In fairness, you can't eat the messaging — which, right now, is the safer option."
       ],
       "captionsJa": [
-        "ホワイトハウスは世界にアメリカの軍事力を見せたかった。ケイティ・ペリーは、それが自分とは無関係だと世界に伝えたかった。",
-        "自己肯定をテーマにした2010年のポップアンセムを無断使用したTikTokほど、軍の威信を高めるものはない。",
-        "「あなたは花火みたい」という歌詞は、映像に本物の爆発があると、だいぶ違う意味に聞こえる。",
-        "政府はすべての人に著作権法を執行する——どうやら政府自身を除いて。",
-        "歴史的な初の事態として、国防総省は、自ら図らずも抗議アイコンにした同じアーティストに著作権料を支払う義務があるかもしれない。"
+        "「アメリカを健康にする」と約束した政権が、野菜消費量を40%削減することに成功した。テクニカルには、非常に効果的な行動変容キャンペーンだ。ただし方向が真逆だった。",
+        "RFKジュニアは長年、食品に何が含まれているかを警告してきた。野菜消費への最大の脅威が、自分の任期中の食品安全執行の空白だったとは。",
+        "果物と野菜をもっと食べてほしいと思うなら、全国的な集団感染で4割の国民が食べるのをやめる状況を作るのが一番の近道らしい。",
+        "「アメリカを再び健康に」の農産物コーナー：現在、ゴーストタウン仕様でお届け中。",
+        "政権は食品安全の執行より栄養メッセージを優先したと批判されている。公平に言えば、メッセージは食べられない。今のところ、それが一番安全な選択肢だ。"
       ],
-      "newsEn": "The Trump White House posted a TikTok video set to Katy Perry's hit song 'Firework,' overlaid on footage of U.S. military missile strikes on Iranian naval vessels. Perry publicly condemned the use of her music, stating she never approved it and was 'deeply appalled.' The incident highlights ongoing tensions over the unauthorized use of copyrighted music by political campaigns and government accounts.",
+      "newsEn": "A widespread cyclospora outbreak has led approximately 40 percent of Americans to avoid fruits and vegetables, according to new data. Critics say the Kennedy-led health administration has prioritized nutritional policy messaging over food safety enforcement infrastructure. Food safety advocates argue the outbreak reflects regulatory gaps that went unaddressed.",
       "ironyEn": [
         {
-          "contradiction": "The federal government, which enforces copyright law domestically, apparently skipped the licensing step when using a pop star's song to celebrate military strikes.",
-          "absurdity": "'Firework' is a song about personal empowerment and inner beauty — chosen to soundtrack footage of a ship being destroyed. Someone in the White House social media team may have stopped at the word 'firework.'",
-          "outside": "International audiences watching U.S. military communications now get to experience them as a TikTok remix, complete with unauthorized pop music — a genuinely new genre of geopolitical content."
+          "contradiction": "An administration that built its brand on making Americans eat healthier has presided over an outbreak that made 40 percent of the country afraid to eat vegetables.",
+          "absurdity": "The 'Make America Healthy Again' movement has achieved a historic milestone: a produce aisle that Americans now approach with the caution normally reserved for a gas station sushi counter.",
+          "outside": "Public health officials in other countries advocating for more vegetable consumption are watching the U.S. closely — mostly to see how not to do it."
         },
         {
-          "contradiction": "An administration that has been aggressive about protecting American intellectual property chose not to license intellectual property for its own content.",
-          "absurdity": "The song contains the lyric 'let your colors burst' — which, in the context of a missile hitting a naval ship, achieves a level of unintentional dark irony that no satirist could improve upon.",
-          "outside": "Foreign ministries tracking U.S. military communications now apparently need a Spotify account to stay fully briefed."
+          "contradiction": "Nutritional advocacy and food safety enforcement are both parts of public health — but treating them as separate priorities means you can successfully promote spinach while failing to make spinach safe.",
+          "absurdity": "The cyclospora outbreak is, in a grim way, the most effective anti-vegetable campaign in American history — and it wasn't even planned.",
+          "outside": "Grocery store produce sections across America have inadvertently become a real-time measurement of the gap between health policy messaging and health policy infrastructure."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-27/candidate-3.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-28/candidate-3.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "New Jersey Becomes First State to Ban 'Surveillance Pricing' — Where Stores Charge You More Based on Your Personal Data",
-        "source": "The Guardian US",
-        "date": "2026-07-27",
-        "url": "https://www.theguardian.com/us-news/2026/jul/26/new-jersey-surveillance-pricing-ban",
-        "summary": "ニュージャージー州が個人データを使って同一商品に異なる価格を設定する「サーベイランス・プライシング」を禁止する法律に署名し、全米初の州となった。"
+        "headline": "A Single Missing Underscore in a Database Sent an Innocent Man to Prison for 18 Months",
+        "source": "Ars Technica",
+        "date": "2026-07-28",
+        "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
+        "summary": "データベースの変数名からアンダースコアが一文字抜けていたことが原因で、無実の男性が18ヶ月間服役していたことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「パーソナライズされた体験」として売られてきたデータ収集が、実は「あなたからより多く取る」ための値付けツールだったという、テック業界の建前と実態の乖離。",
-        "<b>滑稽さ:</b> 消費者が「便利なアプリ」に喜んで個人情報を渡し続けた結果、同じ商品をより高値で買わされていた——データで「最適化」されたのは企業の利益だった。",
-        "<b>日本・海外から見ると:</b> 日本でも類似のダイナミックプライシングが広がる中、法規制で先手を打つ動きとして注目される一方、他の49州では今もこの慣行が合法であるという点が際立つ。"
+        "<b>矛盾:</b> 司法制度は「合理的な疑いを超えた証明」を原則とするが、実際には一文字の打ち間違いが18ヶ月分の有罪を「証明」してしまった。",
+        "<b>滑稽さ:</b> 人類はAIに数十億ドルを投じて司法の効率化を夢見ているが、現在の司法システムはアンダースコア一文字に負けた。",
+        "<b>日本・海外から見ると:</b> 行政や司法の自動化が進む各国にとって、これは対岸の火事ではない。コードのバグが人生のバグになる時代の、検証体制の欠如を問う事例だ。"
       ],
       "imagePrompts": [
-        "Two shoppers standing side by side at a grocery checkout, holding identical items, as the price display screen shows two dramatically different numbers above each of them, while a security camera with dollar signs for lenses watches from above",
-        "A smartphone screen showing a product listing where the price visibly changes and rises as icons representing 'location data,' 'browsing history,' and 'income estimate' light up one by one around the item",
-        "A store shelf with a single product and multiple price tags attached, each labeled with a different data point — 'iPhone user,' 'lives in wealthy zip code,' 'searched for this item twice' — while a shopper looks on in confusion"
+        "A courtroom where a judge is pronouncing a verdict, with a giant glowing underscore character '_' floating in the air above the defendant's head like a halo — or a noose. The jury watches solemnly. A programmer in the gallery buries their face in their hands.",
+        "A prison cell door with the door number being two nearly-identical strings of text, differing only by one underscore character, circled in red. A man sits inside looking at the circled difference on a piece of paper.",
+        "A database screen visible on a monitor in a government office. Two rows of records are highlighted — one with an underscore, one without. An arrow points between them labeled '18 months.' The rest of the office is empty and fluorescent-lit."
       ],
       "captions": [
-        "Good news: New Jersey banned the store from charging you more because the algorithm knows you're desperate. Bad news: you're probably in one of the other 49 states.",
-        "They called it personalization. You called it shopping. The receipt called it something else entirely.",
-        "The algorithm knew your location, your income bracket, and your browsing history. It used all of that information to decide you could afford to pay more. How thoughtful.",
-        "New Jersey just outlawed charging people different prices for the same product based on their data. Thirty-one other states are still calling that 'innovation.'",
-        "Congratulations — your loyalty to the app has been rewarded with a loyalty surcharge."
+        "A missing underscore sent an innocent man to prison for 18 months. On the bright side, it was the most consequential piece of punctuation since the Oxford comma debate — and significantly less funny.",
+        "The man was innocent. The database was not. The underscore was simply absent, which, in the criminal justice system, turned out to be a life sentence for someone else's typo.",
+        "Courts require proof beyond a reasonable doubt. It turns out 'reasonable doubt' and 'the wrong variable name' look surprisingly similar in a government database.",
+        "Somewhere a developer fixed the bug in about 30 seconds. The patch for the 18 months, however, is still pending.",
+        "The justice system: where 'beyond a reasonable doubt' and 'did you check for typos' are apparently two different questions."
       ],
       "captionsJa": [
-        "朗報：ニュージャージー州は、「あなたが切羽詰まっている」とアルゴリズムが判断したからといって高値をつけることを禁止した。悲報：あなたはおそらく残りの49州にいる。",
-        "企業はそれを「パーソナライズ」と呼んだ。あなたは「ショッピング」と呼んだ。レシートはまったく別の何かを示していた。",
-        "アルゴリズムはあなたの位置情報、収入層、閲覧履歴を知っていた。そしてそのすべてを使って「もっと払えるはず」と判断した。なんと親切な。",
-        "ニュージャージー州は、データに基づいて同じ商品に異なる値段をつけることを違法にした。他の31州はまだそれを「イノベーション」と呼んでいる。",
-        "おめでとう——アプリへの忠誠心は、忠誠心割増料金という形で報われた。"
+        "アンダースコアが一文字欠けていたために、無実の男性が18ヶ月服役した。明るい話もある。これはオックスフォードカンマ論争以来最も影響力のある句読点問題だ。ただし、はるかに笑えない。",
+        "男性は無実だった。データベースはそうではなかった。アンダースコアはただ存在しなかっただけで、それが刑事司法の世界では他人の誤字に対する実刑判決になった。",
+        "裁判所は「合理的な疑いを超えた証明」を要求する。どうやら「合理的な疑い」と「変数名の間違い」は、政府のデータベースでは区別がつきにくいらしい。",
+        "どこかのエンジニアが30秒でそのバグを修正した。18ヶ月分のパッチはまだリリース待ちだ。",
+        "司法制度：「合理的な疑いを超えた証明」と「タイプミスを確認したか」が、どうやら別の問いらしいシステム。"
       ],
-      "newsEn": "New Jersey Governor Mikie Sherrill signed legislation prohibiting retailers from using consumers' personal information to charge different prices for identical products, making the state the first in the nation to enact such a ban. The practice, known as surveillance pricing or dynamic personal pricing, involves companies analyzing data such as browsing history, location, and device type to set individualized prices. The law aims to protect shoppers from what critics describe as algorithmically personalized price gouging.",
+      "newsEn": "A coding error — specifically a missing underscore character in a database — led to an innocent man being wrongfully imprisoned for 18 months. The error caused records to be mismatched, implicating the wrong individual. The case illustrates how automated systems with unchecked errors can have severe real-world consequences for individuals.",
       "ironyEn": [
         {
-          "contradiction": "Companies collected personal data under the banner of improving user experience — it turns out part of that experience was being charged more than the person next to you for the same item.",
-          "absurdity": "Consumers voluntarily shared their location, browsing history, and device preferences, and in return received a personalized price — personalized to extract the maximum amount from them specifically.",
-          "outside": "The rest of the world already suspicious of U.S. big tech's data practices can now add 'the algorithm decided you could afford more for the same lettuce' to the list of grievances."
+          "contradiction": "A justice system designed to require proof beyond a reasonable doubt incarcerated an innocent man for 18 months because a database couldn't distinguish between two similar-looking variable names.",
+          "absurdity": "Somewhere, a software developer is reading this story and experiencing the specific horror of realizing their typo has a unit of measurement: 18 months.",
+          "outside": "Countries investing in automated justice systems might want to note that the United States just discovered the criminal-sentencing equivalent of a spelling mistake — and it cost a man a year and a half."
         },
         {
-          "contradiction": "New Jersey is now the nation's consumer protection leader on this issue — meaning in the other 49 states, the practice remains entirely legal and ongoing.",
-          "absurdity": "The law bans charging people differently for identical products based on personal data. This means the innovation being outlawed is essentially a computerized version of a shopkeeper charging more to well-dressed customers — now at algorithmic scale.",
-          "outside": "European regulators have been wrestling with algorithmic pricing for years; it took an American state naming it 'surveillance' to make it sound sufficiently alarming to legislate."
+          "contradiction": "The legal system places enormous weight on the precision of evidence, yet an underscore — a single keyboard character — was precise enough to destroy 18 months of someone's life.",
+          "absurdity": "In coding, an underscore is used to connect things that belong together. In this case, it separated an innocent man from his freedom.",
+          "outside": "Tech evangelists promising that automation will make government more accurate and fair should perhaps explain this case first — ideally before the next deployment."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-27/candidate-4.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-28/candidate-4.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Federal Appeals Court Upholds Block on Trump's Mail-In Voting Order",
-        "source": "CBS News US",
-        "date": "2026-07-27",
-        "url": "https://www.cbsnews.com/news/appeals-court-upholds-ruling-blocking-trump-order-federal-voter-list/",
-        "summary": "連邦控訴裁判所が、トランプ大統領の連邦選挙人名簿作成と郵便投票の制限を図る大統領令を差し止めた下級審判決を支持した。"
+        "headline": "X Money Launches in the US: Elon Musk's 'Everything App' Dream Now Includes a Metal Card Engraved With Your Username",
+        "source": "The Verge",
+        "date": "2026-07-28",
+        "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
+        "summary": "イーロン・マスクがXを「なんでもできるアプリ」にする計画の一環として、デジタルウォレットと送金機能を備えたX Moneyが米国でサービスを開始した。ユーザー名入りのメタル製Visaカードも提供される。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「選挙の完全性を守る」という名目で出された大統領令が、選挙を監督する独立した司法によって繰り返しブロックされるという、制度が制度を守る構図。",
-        "<b>滑稽さ:</b> 郵便投票の制限令が、また郵便のように――何度も差し戻されて戻ってくる。",
-        "<b>日本・海外から見ると:</b> 「民主主義の輸出国」アメリカで、誰が投票できるかをめぐる法廷闘争が繰り返されている光景は、選挙制度の安定性という観点から国際社会に複雑な印象を与える。"
+        "<b>矛盾:</b> ユーザー数が減少し広告収入が落ち込んだSNSプラットフォームが、次のステップとして人々の金融資産の管理を担おうとしている。信頼の土台が揺らいでいる場所に、銀行機能を建てようとする構図だ。",
+        "<b>滑稽さ:</b> 「@あなたのユーザー名」が刻印されたメタルカードは、オンライン上の本名に準じる存在感で現実世界の財布に入ることになる。かつて匿名で怒鳴り合っていたアカウント名が、今やコーヒーの支払いに使われる。",
+        "<b>日本・海外から見ると:</b> WeChat Payのような「SNS×決済」の統合は中国ではすでに当たり前だが、プラットフォームへの信頼が前提条件だ。Xがその信頼を獲得できるかどうかが、このモデルが米国で機能するかの分岐点になる。"
       ],
       "imagePrompts": [
-        "A large executive order document labeled 'Mail-In Voting Restrictions' being bounced back across a courtroom by a judge wielding a giant rubber stamp reading 'BLOCKED,' with an appeals court building visible through the window behind them",
-        "A towering stack of court ruling papers labeled 'Upheld,' 'Blocked,' 'Appealed,' and 'Upheld Again,' balanced precariously on a desk beside a lone mail-in ballot envelope sitting quietly untouched",
-        "A postal worker delivering an envelope labeled 'Court Ruling: Blocked' to the White House door, while a second postal worker behind them carries another envelope labeled 'Appeal,' and a third is already visible approaching down the driveway"
+        "A sleek metal credit card displayed on a velvet surface, engraved with the text '@ANGRY_USER_2019' as the cardholder name. In the background, a blurred image of a chaotic social media feed fills the screen.",
+        "A person at a coffee shop register holding up a metal card engraved with their Twitter-style username to pay. The barista squints at it. Behind the customer, a notification on their phone reads: 'Your X Money transaction is pending — your account has been temporarily limited for a Terms of Service review.'",
+        "A large banner reading 'X: The Everything App' hanging in a minimalist product launch space. On stage, a single pedestal holds the metal Visa card under a spotlight. The audience seats are half empty."
       ],
       "captions": [
-        "The order tried to restrict how Americans vote. The courts restricted the order. Democracy, technically, is working as intended.",
-        "The administration wanted to limit mail-in ballots. The courts have been mailing back their objections ever since.",
-        "It's now been blocked at multiple levels of the federal judiciary — at some point, the appeals process itself becomes a form of voter suppression, just of lawyers' weekends.",
-        "A federal voter roll was proposed to ensure election integrity. The courts found it did not pass their own integrity check.",
-        "The executive order and the court system have been in a committed relationship for months. It is not going well for the executive order."
+        "X Money launched today, offering users a metal card engraved with their username. Finally, your most regrettable online persona can now decline at the register.",
+        "Elon Musk wants X to be the everything app — messaging, news, payments, and a metal card that tells your barista exactly who you are online. The barista is not prepared.",
+        "The platform that brought you viral misinformation and advertiser boycotts is now ready to hold your direct deposit. What could go wrong — and can you pay in installments?",
+        "X Money: because nothing says 'I trust this platform with my finances' like a company that changed its privacy policy four times last year.",
+        "The WeChat model works because users trust the platform. X Money is testing a slightly different hypothesis: what if they don't, but the card is really shiny?"
       ],
       "captionsJa": [
-        "大統領令は国民の投票方法を制限しようとした。裁判所は大統領令を制限した。民主主義は、技術的には機能している。",
-        "政権は郵便投票を制限したかった。裁判所はそれ以来、異議申し立てを郵便で送り返し続けている。",
-        "連邦司法の複数の審級でブロックされた今、控訴プロセス自体がある種の抑圧になりつつある——ただし抑圧されているのは弁護士たちの週末だが。",
-        "選挙の完全性を確保するために連邦選挙人名簿が提案された。裁判所は、それ自体が完全性のチェックを通過しないと判断した。",
-        "大統領令と司法制度は数ヶ月間、真剣な関係を続けてきた。大統領令にとっては、うまくいっていない。"
+        "本日X Moneyがローンチし、ユーザー名入りメタルカードが登場した。ついに、あなたの最も後悔しているオンラインの人格が、レジで決済を拒否できるようになった。",
+        "マスク氏はXをなんでもできるアプリにしたい。メッセージ、ニュース、決済、そしてバリスタにあなたのオンライン素性を教えるメタルカード。バリスタは心の準備ができていない。",
+        "フェイク情報と広告主ボイコットを届けてきたプラットフォームが、今度はあなたの給与振込口座を預かる準備ができた。何が起きるか、分割払いで確認できますか？",
+        "X Money：昨年だけプライバシーポリシーを4回変えたサービスに財産を預けるという究極の信頼表明。",
+        "WeChatモデルが機能するのはユーザーがプラットフォームを信頼しているからだ。X Moneyは少し別の仮説を検証している：信頼がなくても、カードが十分キラキラしていれば大丈夫ではないか。"
       ],
-      "newsEn": "A federal appeals court has upheld a lower court ruling blocking President Trump's executive order that sought to create a federal voter roll and restrict who can receive a mail-in ballot. The order had faced immediate legal challenges from voting rights advocates and multiple states. The ruling represents one of several court decisions limiting executive action on federal election administration.",
+      "newsEn": "X Money, Elon Musk's payments platform built into the social media platform X, launched in the United States today. The service offers a digital wallet, peer-to-peer payments similar to Venmo, and a metal Visa card that users can have engraved with their X username. The launch represents a significant step in Musk's ambition to transform X into an 'everything app' modeled partly on WeChat.",
       "ironyEn": [
         {
-          "contradiction": "An executive order framed as protecting election integrity has now been blocked by multiple independent courts — the very institutions that election integrity is supposed to serve.",
-          "absurdity": "The order attempted to restrict mail-in voting, and has itself been returned by the courts, repeatedly, through the mail — so to speak.",
-          "outside": "Nations that receive U.S. electoral assistance abroad can observe at home an ongoing legal argument about whether the sitting president can decide who gets a ballot."
+          "contradiction": "A platform that has seen declining user trust and advertiser departures is now asking those same users to trust it with their money.",
+          "absurdity": "The metal card engraved with your X username is the physical manifestation of a post history — which, depending on your timeline, is either a flex or a liability.",
+          "outside": "WeChat Pay works in China partly because WeChat is where hundreds of millions of people live their digital lives. X Money is betting the same logic applies to a platform where people go to argue about WeChat Pay."
         },
         {
-          "contradiction": "The administration sought to create a centralized federal voter list — a tool that, in other political contexts, the same party has historically described as government overreach.",
-          "absurdity": "Courts keep blocking the order, the administration keeps appealing, and American voters keep watching their right to cast a ballot become the subject of a multi-year litigation tournament.",
-          "outside": "International election monitors, often invited by the U.S. to observe foreign elections, might find the domestic situation sufficiently complex to warrant a return visit."
+          "contradiction": "Musk has repeatedly positioned X as a free speech platform resistant to corporate influence — and is now launching a financial product that gives X direct access to users' transaction data.",
+          "absurdity": "You can now pay for dinner with a card that has your Twitter handle on it, which is either the future of payments or the most expensive online identity crisis in history.",
+          "outside": "Financial regulators in Europe are probably circling this launch with a red pen already, given that combining social media data with payment infrastructure raises questions that took WeChat years to navigate."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-27/candidate-5.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-07-28/candidate-5.jpg",
+      "imageStyle": "retro-pop"
     }
   ]
 };
