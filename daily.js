@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-28",
-  "generatedAt": "2026-07-27T23:45:13+00:00",
+  "date": "2026-07-29",
+  "generatedAt": "2026-07-28T23:35:14+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Trump Admin Exempts SpaceX's Starlink from Ban on Foreign-Made Routers — Despite Starlink Making Routers Abroad",
-        "source": "Ars Technica",
-        "date": "2026-07-28",
-        "url": "https://arstechnica.com/tech-policy/2026/07/starlink-gets-exemption-from-fcc-ban-on-routers-made-outside-the-us/",
-        "summary": "トランプ政権が外国製ルーター禁止令からSpaceXのStarlinkを適用除外にした。ただしStarlinkはベトナムでもルーターを製造している。"
+        "headline": "eBay Settles for $56 Million After Executives Mailed Bloody Pig Mask to Journalists Who Covered eBay",
+        "source": "The Verge",
+        "date": "2026-07-29",
+        "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
+        "summary": "eBayと元幹部3人が、2019年に同社を批判的に報道していたマサチューセッツ州のカップルを標的にしたサイバーストーキング・嫌がらせキャンペーンをめぐり、5,570万ドルの和解に合意した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「外国製ルーター禁止」の規制からベトナム製ルーターを作る企業を免除するのは、禁止令そのものを免除するに等しい。",
-        "<b>滑稽さ:</b> 「アメリカ第一」の旗を掲げながら、旗を作った工場がどこにあるかは聞かないでくれ、というスタンス。",
-        "<b>日本・海外から見ると:</b> 同盟国の企業が同じことをすれば「不公正貿易」と呼ばれる行為が、特定企業には「適用除外」で片付く様子は、ルールの射程が人脈次第であることを如実に示している。"
+        "<b>矛盾:</b> 「安全・信頼」を売り物にするECプラットフォームの「セキュリティ部門」が、批判的な記事を書いた夫婦に豚の頭部マスクを送りつけるという、史上最も非合理的なPR対応を実行した。",
+        "<b>滑稽さ:</b> 数十億ドル規模の企業が、ニュースレター1本に対してここまで過剰反応した結果、そのニュースレターより遥かに大きなスキャンダルを自ら量産し続けた。",
+        "<b>日本・海外から見ると:</b> 「悪い口コミへの対処法」として、eBayは世界のビジネス教科書に「やってはいけない例」の章を1章まるごと提供した形だ。"
       ],
       "imagePrompts": [
-        "A factory building split down the middle: the left half is labeled 'Texas' with a small American flag, the right half is labeled 'Vietnam' with a large shipping conveyor belt and stacked router boxes. A velvet rope blocks the left entrance with a sign reading 'EXEMPT,' while the right side runs at full capacity.",
-        "A customs officer at an airport conveyor belt waving through a box labeled 'Starlink Router — Vietnam' while stamping it with a giant green 'APPROVED — American Enough' stamp.",
-        "A large rulebook open to a page titled 'Foreign Router Ban,' with a single sticky note covering most of the text reading 'except this one guy,' beneath which tiny footnotes trail off the page."
+        "A gleaming corporate headquarters with the word 'TRUST' carved in marble above the entrance; a delivery truck out front unloading boxes labeled 'bloody pig mask,' 'live spiders,' and 'threatening letters,' with a uniformed employee cheerfully checking items off a clipboard",
+        "A boardroom with suited executives gathered around a whiteboard reading 'Q3 PR STRATEGY'; someone has written 'Step 1: Send pig mask' with a checkmark next to it, while a graph labeled 'Reputation' plummets off the bottom of the chart",
+        "A giant $56,000,000 check made out to 'That Newsletter We Really Did Not Like,' signed by a cartoon pig in a business suit, displayed in a gilded frame on a wall of a corner office"
       ],
       "captions": [
-        "The administration banned foreign-made routers — and then gave an exemption to the company that makes routers in Vietnam. To be fair, they also make them in Texas. The Texas ones are for the press release.",
-        "SpaceX got a waiver from the foreign router ban despite manufacturing routers abroad. Officials say this is consistent with their policy. Their policy, it turns out, is 'it depends.'",
-        "Nothing says 'America First' like a Vietnam-made router with a Texas ZIP code on the invoice.",
-        "Starlink's Texas factory: officially the most important factory in America that no one can find the output of.",
-        "The FCC ban on foreign routers is still very much in effect — for companies that didn't think to ask nicely."
+        "eBay has agreed to pay $56 million to settle a harassment lawsuit—which, coincidentally, is also the going rate for a bloody pig mask once you factor in the legal fees.",
+        "In eBay's defense, the pig mask did have free two-day shipping.",
+        "The company's former security chief apparently misread 'reputation management' as 'reputation management by terrorizing journalists'—an easy mistake, according to no one.",
+        "eBay settled for $56 million, proving once again that it's cheaper to just let the bad review stand.",
+        "The real twist? The journalists' newsletter probably had fewer than a thousand subscribers before eBay turned it into the most-discussed publication in federal court history."
       ],
       "captionsJa": [
-        "政権は外国製ルーターを禁止し、そしてベトナムでルーターを作っている企業を適用除外にした。テキサスにも工場はある。そちらはプレスリリース用だ。",
-        "SpaceXは海外でルーターを製造しているにもかかわらず、外国製ルーター禁止令の適用除外を獲得した。当局はこれが方針と一致していると言う。その方針とは、「場合による」というものだ。",
-        "「アメリカ第一」を声高に叫びながら、ルーターはベトナム製、請求書にはテキサスの郵便番号。",
-        "SpaceXのテキサス工場：誰も出荷実績を確認できない、アメリカで最も重要な工場。",
-        "外国製ルーター禁止令は今も有効だ。ただし、お伺いを立てることを思いつかなかった企業に限り。"
+        "eBayは5,600万ドルの和解に合意した。ちなみにこの金額は、弁護士費用を含めた豚マスクの実質的な小売価格でもある。",
+        "eBayの弁護を一つするとすれば、その豚マスクは2日間の無料配送付きだったということだ。",
+        "同社の元セキュリティ責任者は「評判管理」を「ジャーナリストを恐怖に陥れることによる評判管理」と読み違えたらしい。誰に聞いても簡単な間違いではないが。",
+        "eBayは5,600万ドルで和解した。やはり、悪いレビューはそのまま放置しておくほうが安上がりだったようだ。",
+        "最大の皮肉は、あのニュースレターの購読者がeBayの暴挙以前は数百人程度だったという事実だ。連邦裁判所が最も注目した出版物にしてしまったのはeBay自身である。"
       ],
-      "newsEn": "The Trump administration granted SpaceX's Starlink an exemption from the FCC's ban on foreign-manufactured routers. While Starlink operates a factory in Texas, it also produces routers in Vietnam. The exemption raises questions about the consistency of the administration's 'buy American' technology policy.",
+      "newsEn": "eBay and three former executives have agreed to pay $55.7 million to settle a civil lawsuit brought by a Massachusetts couple who were targeted in a harassment campaign in 2019. The campaign, orchestrated by eBay's former security and communications leadership, included sending macabre items such as a bloody pig mask to the victims' home. The couple had run a newsletter that published critical coverage of eBay.",
       "ironyEn": [
         {
-          "contradiction": "The administration banned foreign-made routers, then exempted the one company that makes routers in Vietnam — because it also has a factory in Texas.",
-          "absurdity": "Apparently 'Made in America' is less a standard and more a vibe, as long as the CEO's name rhymes with 'Felon Musk.'",
-          "outside": "Other tech firms watching from abroad are presumably taking notes: the fastest path to a U.S. regulatory exemption is apparently a rocket launch pad and the right phone number."
+          "contradiction": "A company whose entire business model depends on trust between strangers decided the best way to handle a critical newsletter was to send strangers a bloody pig mask.",
+          "absurdity": "The harassment campaign generated far more damaging press coverage than the original newsletter ever could have—which makes the $56 million settlement the most expensive subscription cancellation in history.",
+          "outside": "From the outside, it looks like eBay's 'Trust & Safety' team had a very creative definition of which side of that equation they were on."
         },
         {
-          "contradiction": "A ban designed to protect American supply chains carved out an exception for a company that relies on the very foreign supply chains the ban targets.",
-          "absurdity": "The Texas factory is doing heroic work — mostly as a photo backdrop for press releases while the Vietnam plant ships the actual hardware.",
-          "outside": "From a trade-law perspective, this is less 'America First' and more 'This Specific American First.'"
+          "contradiction": "eBay's former executives used the company's security apparatus—designed to protect users—to terrorize the very journalists reporting on user safety issues.",
+          "absurdity": "A billion-dollar corporation apparently concluded that the correct response to a two-person newsletter was to deploy a covert ops team, and somehow this seemed proportionate in at least three executives' minds.",
+          "outside": "Internationally, this case has become a masterclass in how not to do crisis communications—or, really, how not to do anything at all."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-28/candidate-1.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-07-29/candidate-1.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Taylor Farms CEO Pressed on Whether White House Access Shaped Federal Response to Cyclospora Outbreak",
-        "source": "CBS News US",
-        "date": "2026-07-28",
-        "url": "https://www.cbsnews.com/news/taylor-farms-cyclospora-outbreak-white-house-investigation/",
-        "summary": "食品会社テイラー・ファームズのCEOが、サイクロスポーラ集団感染への連邦政府の対応にホワイトハウスとの人脈を利用したのかどうか、議会で追及されている。"
+        "headline": "Trump Administration Plans to Cut $3.6 Billion Drug Subsidy for Seniors",
+        "source": "The Guardian US",
+        "date": "2026-07-29",
+        "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
+        "summary": "トランプ政権が、高齢者の処方薬プランのコストを抑えるメディケアの36億ドル補助金を廃止する計画を立てていると、ウォール・ストリート・ジャーナルが報じた。これにより来年度の高齢者の薬代負担が増える見込み。"
       },
       "commentary": [
-        "<b>矛盾:</b> 食の安全を監視すべき政府機関が、その監視対象企業の「ホワイトハウスとのパイプ」によって動きを調整していた可能性があるという、監視の構造そのものが逆転した疑惑。",
-        "<b>滑稽さ:</b> 「誰があなたのレタスを安全に保つのか」という問いの答えが「CEOの電話帳に載っている連絡先次第」だとすれば、食品安全基準はレシピというよりネットワーキングの話だ。",
-        "<b>日本・海外から見ると:</b> 食品安全行政が政治的人脈から独立しているかどうかを議会が問わなければならない時点で、規制機関の独立性への信頼がどこまで機能しているかが問われている。"
+        "<b>矛盾:</b> 「薬価を下げる」と繰り返し公約してきた政権が、薬代を実質的に上げる補助金カットを計画しているという、見事なまでの約束との逆行だ。",
+        "<b>滑稽さ:</b> 補助金を受けていた当の高齢者たちは、「政府の無駄遣いをなくす」という公約を支持して投票した可能性が高く、その「無駄」が自分の薬代だったと気づくのはこれからだ。",
+        "<b>日本・海外から見ると:</b> 国民皆保険が当たり前の国々から見れば、「薬代が下がるはず」という約束が「補助金カット」という形で実現しようとしている光景は、米国式医療制度の迷宮をよく表している。"
       ],
       "imagePrompts": [
-        "A large produce company boardroom with a CEO on a phone labeled 'White House Hotline,' while in the background a government inspector stands at a salad bar with a clipboard, politely looking away at the ceiling.",
-        "A food safety rating placard on a restaurant wall, but instead of a hygiene score, it reads: 'Grade: A — Political Access Score.' A smaller placard below reads: 'Cyclospora: Under Review.'",
-        "A congressional hearing room where a CEO sits at a witness table surrounded by towers of bagged salad. A lawmaker leans into a microphone pointing at a phone on the table labeled 'Direct Line — Executive Branch.'"
+        "An elderly person at a pharmacy counter staring at a price tag that reads '$3.6 BILLION LESS SUPPORT' while a suited figure in the background holds giant scissors labeled 'FISCAL RESPONSIBILITY' over a lifeline rope connecting the senior to a pill bottle",
+        "A campaign billboard reading 'WE WILL LOWER YOUR DRUG COSTS' with a smaller fine-print sign below it reading 'by removing the thing that was lowering your drug costs'; a confused senior stands in front of it squinting",
+        "A government budget spreadsheet with a line item 'Senior Drug Subsidy: $3.6B' being crossed out with a red marker, while a banner in the background reads 'MISSION ACCOMPLISHED: LOWER DRUG PRICES'"
       ],
       "captions": [
-        "A food company CEO is being asked whether White House connections shaped the federal response to their outbreak. The good news: the lettuce was organic. The phone calls, less so.",
-        "Investigators want to know if Taylor Farms used political ties to manage the cyclospora response. In fairness, it's a creative use of a Rolodex — though not the one food safety manuals had in mind.",
-        "The federal food safety system exists to be independent of the companies it regulates. Congress is now asking whether that held up. Spoiler: Congress is asking.",
-        "Nothing adds flavor to a foodborne illness investigation like a congressional subpoena and the phrase 'White House ties.'",
-        "The cyclospora parasite had no lobbyists. Taylor Farms, apparently, did not have the same limitation."
+        "Great news for seniors: the administration has found a bold new way to lower your drug costs—by raising them.",
+        "Cutting the subsidy that kept drugs affordable is, technically, a form of drug price reform. Nobody said which direction.",
+        "The plan is to eliminate $3.6 billion in senior drug assistance, which experts say will save seniors money in the same way that removing a life jacket saves weight.",
+        "In Washington, 'making prescription drugs more affordable' and 'cutting the thing that made them affordable' are apparently the same sentence depending on which page of the bill you're reading.",
+        "Seniors can take comfort knowing that while their drug costs may rise, the savings will go toward—checks notes—a very important line somewhere else in the budget."
       ],
       "captionsJa": [
-        "食品会社のCEOが、ホワイトハウスとのコネが集団感染への連邦対応に影響したかどうかを問われている。いい話がある。レタスはオーガニックだった。電話は、そうでもなかった。",
-        "テイラー・ファームズがサイクロスポーラ対応に政治的人脈を使ったか調査中だ。手帳の使い方としては独創的だが、食品安全マニュアルが想定していた用途ではない。",
-        "連邦食品安全制度は監督対象企業から独立して機能するはずだ。それが保たれていたか、議会が今まさに聞いている。ネタバレ：議会が聞いている。",
-        "食中毒調査に「ホワイトハウスとのパイプ」という言葉が加わると、途端にスパイスが効きすぎる。",
-        "サイクロスポーラ寄生虫にはロビイストがいなかった。テイラー・ファームズには、どうやらそういう制約がなかったようだ。"
+        "朗報です、高齢者の皆さん。政権はあなたの薬代を下げる画期的な方法を見つけました——上げることによって。",
+        "補助金カットは確かに「薬の価格改革」の一形態だ。どちらの方向かは誰も言わなかっただけで。",
+        "36億ドルの高齢者向け薬代補助を廃止すれば節約になる、と専門家は言う——救命胴衣を外せば体重が軽くなる、というのと同じ意味で。",
+        "ワシントンでは「処方薬をより手頃にする」と「それを手頃にしていたものを廃止する」は、法案の読むページによって同じ文章になるらしい。",
+        "薬代は上がるかもしれないが、その分の節約はどこか別の重要な予算項目に充てられるはずだ——どこかは確認中とのこと。"
       ],
-      "newsEn": "Representative Robert Garcia is pressing Taylor Farms CEO for information about whether the company used its connections to the White House to influence the federal government's response to a cyclospora foodborne illness outbreak. The outbreak has triggered widespread concern about food safety oversight. Taylor Farms has not publicly confirmed any such communications.",
+      "newsEn": "The Trump administration is reportedly planning to eliminate a $3.6 billion Medicare subsidy that has helped keep prescription drug plan costs lower for senior citizens. According to the Wall Street Journal, the change would make drug coverage more expensive for seniors starting next year. The subsidy has served as a buffer against rising drug costs under Medicare Part D.",
       "ironyEn": [
         {
-          "contradiction": "A company that sells food meant to keep Americans healthy is accused of using political connections to manage the government's response to a health crisis caused by its food.",
-          "absurdity": "The cyclospora parasite, at least, operated without a White House contact list — which, in this story, gives it a certain integrity.",
-          "outside": "Food safety regulators in other countries are presumably baffled by a system where the regulated party may have had a say in designing its own regulatory response."
+          "contradiction": "An administration that campaigned loudly on lowering drug prices for seniors is reportedly planning to eliminate the subsidy that has been quietly doing exactly that.",
+          "absurdity": "The $3.6 billion being cut is, in Medicare terms, the bureaucratic equivalent of a coupon—and apparently even that was too much government involvement in making drugs affordable.",
+          "outside": "In countries with universal healthcare, watching the U.S. debate whether to cut a subsidy that makes drugs slightly less unaffordable looks less like policy and more like performance art."
         },
         {
-          "contradiction": "Federal food safety oversight exists precisely to operate independently of the companies it oversees — which is why Congress had to ask a CEO if that happened.",
-          "absurdity": "Somewhere in a produce aisle, a bag of salad mix is sitting under a 'No Added Preservatives' label, next to an unwritten label reading 'May Contain Lobbying.'",
-          "outside": "The phrase 'White House ties' and 'foodborne illness outbreak' appearing in the same sentence is a combination that no food safety manual anticipated — but perhaps should have."
+          "contradiction": "The phrase 'we're cutting government spending to help Americans' has never sounded more like a riddle where the answer is 'your pill costs more now.'",
+          "absurdity": "Seniors who voted to drain the swamp may soon discover that their Part D premiums were swimming in it.",
+          "outside": "Foreign observers have long noted that American healthcare is unique; this development confirms it is unique in ways that continue to surprise even longtime observers."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-28/candidate-2.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-29/candidate-2.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "40% of Americans Avoiding Produce Amid Cyclospora Outbreak — as RFK Jr. Administration Faces Food Safety Criticism",
+        "headline": "College Lab Class Ends with 32 Students on Antibiotics After They All Accidentally Identified a Deadly Pathogen",
         "source": "Ars Technica",
-        "date": "2026-07-28",
-        "url": "https://arstechnica.com/health/2026/07/epic-diarrhea-outbreak-has-40-of-americans-avoiding-fruits-and-veggies/",
-        "summary": "サイクロスポーラ集団感染を受け、アメリカ人の約40%が野菜・果物を避けているとの調査結果が出た。食の安全より栄養を重視してきたRFKジュニア政権の姿勢に批判が集まっている。"
+        "date": "2026-07-29",
+        "url": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
+        "summary": "大学の実習授業で、学生たちが無害な細菌を同定するはずが、全員が致死性の病原体を誤って同定・培養してしまい、32人全員が抗生物質の投与を受ける事態になった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「アメリカ人にもっと野菜を食べさせる」を掲げた政権のもとで、4割のアメリカ人が野菜を食べることを恐れているという、政策目標と現実の完全な逆転。",
-        "<b>滑稽さ:</b> 「食の改革」を叫んだ長官が実現したのは、農産物コーナーを素通りするアメリカ人の大群という皮肉な光景だ。",
-        "<b>日本・海外から見ると:</b> 食品安全規制の執行より栄養メッセージを優先した結果、国民が「野菜を食べるな」という行動を取っているという構図は、公衆衛生行政の優先順位の問い直しを迫っている。"
+        "<b>矛盾:</b> 「安全な細菌を使った実習」という授業設計そのものが、全員が致死性病原体にさらされるという結果で採点されてしまった。この実習、教育目標は達成したのかもしれない——ただし誰も想定していない形で。",
+        "<b>滑稽さ:</b> 32人全員が同じ間違いをしたという事実は、個人のミスではなく「実習システム全体の優秀な成績」であることを示しており、皮肉にも集団学習の成果と言える。",
+        "<b>日本・海外から見ると:</b> 「全員参加型アクティブラーニング」の究極形として、クラス全員が同じ体験（抗生物質服用）を共有するという点では、これ以上の一体感はなかっただろう。"
       ],
       "imagePrompts": [
-        "A grocery store produce section completely empty of shoppers, with a large banner overhead reading 'EAT MORE VEGETABLES' in bold government-style lettering. A lone shopping cart sits abandoned in the aisle next to a wilting lettuce display.",
-        "A government health official at a podium surrounded by colorful vegetable posters, while behind them a news ticker reads: '40% of Americans now avoiding fruits and vegetables.' The official is mid-sentence, holding up a head of romaine.",
-        "A split image: on the left, a vibrant campaign poster showing a family joyfully eating salad with the slogan 'Make America Healthy Again'; on the right, the same family standing at the produce aisle with arms crossed and suspicious expressions, backing slowly away from the lettuce."
+        "A college laboratory classroom where 32 students sit at identical lab benches, each holding up a test tube with a glowing dangerous substance, all with matching looks of confident satisfaction; a grading rubric on the whiteboard reads 'Identify the SAFE germ — 100pts' with a large red X next to every student's name and the word 'ANTIBIOTICS' stamped in red",
+        "A professor standing at the front of a lab, holding a sign reading 'EXPECTED: harmless bacteria' on one side and 'ACTUAL: deadly pathogen' on the other, as 32 students in the background line up at a pharmacy counter",
+        "A course syllabus pinned to a bulletin board with the final exam listed as 'Germ Identification Quiz (worth 100% of grade, and also your health)'; a sticky note attached reads 'Bring pencil and prescription'"
       ],
       "captions": [
-        "The administration that promised to make America healthy has achieved a 40 percent reduction in vegetable consumption. Technically, that's a very successful behavioral change campaign — just not the direction anyone specified.",
-        "RFK Jr. spent years warning about what's in our food. Turns out the biggest threat to America's vegetable intake was a food safety enforcement gap on his own watch.",
-        "Nothing inspires Americans to eat more fruits and vegetables like a nationwide outbreak that makes 40 percent of them stop eating fruits and vegetables.",
-        "The 'Make America Healthy Again' produce aisle: now available in ghost town.",
-        "Critics say the administration neglected food safety in favor of nutrition messaging. In fairness, you can't eat the messaging — which, right now, is the safer option."
+        "Thirty-two students all got the same wrong answer, which is either a grading catastrophe or the most successful peer collaboration exercise in academic history.",
+        "The good news: every student completed the assignment. The bad news: the assignment completed them right back.",
+        "In the end, the class did learn to identify a deadly pathogen—just not the way the curriculum intended, and not before handling it extensively.",
+        "The professor reportedly gave everyone full credit for the lab report, which at this point seems like the least the institution could do.",
+        "The real lesson here is that 'working in groups' has consequences that no liability waiver fully anticipated."
       ],
       "captionsJa": [
-        "「アメリカを健康にする」と約束した政権が、野菜消費量を40%削減することに成功した。テクニカルには、非常に効果的な行動変容キャンペーンだ。ただし方向が真逆だった。",
-        "RFKジュニアは長年、食品に何が含まれているかを警告してきた。野菜消費への最大の脅威が、自分の任期中の食品安全執行の空白だったとは。",
-        "果物と野菜をもっと食べてほしいと思うなら、全国的な集団感染で4割の国民が食べるのをやめる状況を作るのが一番の近道らしい。",
-        "「アメリカを再び健康に」の農産物コーナー：現在、ゴーストタウン仕様でお届け中。",
-        "政権は食品安全の執行より栄養メッセージを優先したと批判されている。公平に言えば、メッセージは食べられない。今のところ、それが一番安全な選択肢だ。"
+        "32人全員が同じ間違いをした。これはグレーディングの惨事か、史上最も成功した協調学習の成果か。",
+        "よいニュース：全員が課題を完了した。悪いニュース：課題も全員を完了させた。",
+        "結局、クラス全員が致死性病原体の同定方法を学んだ——ただしカリキュラムが意図した順序とは逆方向で、かつ散々触れた後だったが。",
+        "教授は全員のレポートに満点を与えたと伝えられている。この状況では、それが大学にできる最低限のことだったかもしれない。",
+        "今回の真の教訓：「グループワーク」には、いかなる免責事項も想定していなかった結果が伴うことがある。"
       ],
-      "newsEn": "A widespread cyclospora outbreak has led approximately 40 percent of Americans to avoid fruits and vegetables, according to new data. Critics say the Kennedy-led health administration has prioritized nutritional policy messaging over food safety enforcement infrastructure. Food safety advocates argue the outbreak reflects regulatory gaps that went unaddressed.",
+      "newsEn": "A college laboratory course ended with all 32 students prescribed antibiotics after they were exposed to a dangerous pathogen during what was supposed to be a routine identification exercise. Students were assigned to identify a mild, harmless germ, but the class instead ended with every participant identifying—and apparently handling—a deadly bacterium. The incident raises questions about laboratory safety protocols at the institution.",
       "ironyEn": [
         {
-          "contradiction": "An administration that built its brand on making Americans eat healthier has presided over an outbreak that made 40 percent of the country afraid to eat vegetables.",
-          "absurdity": "The 'Make America Healthy Again' movement has achieved a historic milestone: a produce aisle that Americans now approach with the caution normally reserved for a gas station sushi counter.",
-          "outside": "Public health officials in other countries advocating for more vegetable consumption are watching the U.S. closely — mostly to see how not to do it."
+          "contradiction": "The entire point of the lab was to teach students to correctly identify a safe organism; instead, it succeeded in teaching all 32 of them to incorrectly identify a dangerous one—with a perfect class-wide consensus.",
+          "absurdity": "In most courses, getting every single student to arrive at the same answer is considered a teaching triumph. In this case, it was a public health incident.",
+          "outside": "International students applying to American universities may want to ask their prospective programs one additional question: 'How often does the lab homework require antibiotics?'"
         },
         {
-          "contradiction": "Nutritional advocacy and food safety enforcement are both parts of public health — but treating them as separate priorities means you can successfully promote spinach while failing to make spinach safe.",
-          "absurdity": "The cyclospora outbreak is, in a grim way, the most effective anti-vegetable campaign in American history — and it wasn't even planned.",
-          "outside": "Grocery store produce sections across America have inadvertently become a real-time measurement of the gap between health policy messaging and health policy infrastructure."
+          "contradiction": "The lab was designed around a harmless germ; the only thing harmless about the final outcome was the passing grade presumably still owed to everyone who completed the assignment.",
+          "absurdity": "A class of 32 students managed 100% participation, 100% completion, and 100% antibiotic prescriptions—a trifecta no syllabus had anticipated.",
+          "outside": "Educators abroad have long debated the value of hands-on learning; this experiment has contributed significant new data to that conversation."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-28/candidate-3.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-29/candidate-3.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "A Single Missing Underscore in a Database Sent an Innocent Man to Prison for 18 Months",
-        "source": "Ars Technica",
-        "date": "2026-07-28",
-        "url": "https://arstechnica.com/tech-policy/2026/07/police-missed-one-underscore-and-sent-the-wrong-man-to-prison/",
-        "summary": "データベースの変数名からアンダースコアが一文字抜けていたことが原因で、無実の男性が18ヶ月間服役していたことが明らかになった。"
+        "headline": "FAA to Waive Environmental Rules for SpaceX and Blue Origin to Speed Up Launch Approvals",
+        "source": "CNBC Top News",
+        "date": "2026-07-29",
+        "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
+        "summary": "米連邦航空局（FAA）が、SpaceXやブルーオリジンなどの宇宙企業に対する打ち上げ承認を迅速化するため、環境審査規則の免除を検討していると報じられた。交通長官は「政府の規制という赤テープを取り除く」と述べた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 司法制度は「合理的な疑いを超えた証明」を原則とするが、実際には一文字の打ち間違いが18ヶ月分の有罪を「証明」してしまった。",
-        "<b>滑稽さ:</b> 人類はAIに数十億ドルを投じて司法の効率化を夢見ているが、現在の司法システムはアンダースコア一文字に負けた。",
-        "<b>日本・海外から見ると:</b> 行政や司法の自動化が進む各国にとって、これは対岸の火事ではない。コードのバグが人生のバグになる時代の、検証体制の欠如を問う事例だ。"
+        "<b>矛盾:</b> 「アメリカを再び偉大に」するために宇宙レースに勝とうとする計画が、まず地球の環境審査を省略することから始まっている点に、ある種の壮大な優先順位が見える。",
+        "<b>滑稽さ:</b> 宇宙に到達するための規制緩和が、その宇宙から眺める地球の環境を犠牲にするかもしれないという、スケールだけは宇宙級の皮肉だ。",
+        "<b>日本・海外から見ると:</b> 「宇宙開発のために地上の環境規制を免除する」という論理は、「山頂を征服するために登山道を壊す」に似た構造を持っており、国際的な環境交渉の場で米国の立場をやや複雑にするかもしれない。"
       ],
       "imagePrompts": [
-        "A courtroom where a judge is pronouncing a verdict, with a giant glowing underscore character '_' floating in the air above the defendant's head like a halo — or a noose. The jury watches solemnly. A programmer in the gallery buries their face in their hands.",
-        "A prison cell door with the door number being two nearly-identical strings of text, differing only by one underscore character, circled in red. A man sits inside looking at the circled difference on a piece of paper.",
-        "A database screen visible on a monitor in a government office. Two rows of records are highlighted — one with an underscore, one without. An arrow points between them labeled '18 months.' The rest of the office is empty and fluorescent-lit."
+        "A rocket launching from a wetland habitat, with birds and wildlife scattering; in the foreground, a government official in a suit cheerfully uses giant scissors to cut through a banner reading 'ENVIRONMENTAL REVIEW' while holding a trophy labeled 'SPACE RACE WINNER'",
+        "A split image: on the left, a lush green landscape with an 'ENVIRONMENTAL PROTECTION' sign; on the right, the same landscape with a rocket launchpad and a 'STREAMLINED APPROVAL: 24 HRS' sign, while a businessman in a spacesuit counts money in the background",
+        "An FAA rubber stamp descending toward a launch permit application; the stamp reads 'APPROVED (ENV. REVIEW: N/A)'; in the background, a scoreboard reads 'SPACE RACE: USA 1, EARTH 0'"
       ],
       "captions": [
-        "A missing underscore sent an innocent man to prison for 18 months. On the bright side, it was the most consequential piece of punctuation since the Oxford comma debate — and significantly less funny.",
-        "The man was innocent. The database was not. The underscore was simply absent, which, in the criminal justice system, turned out to be a life sentence for someone else's typo.",
-        "Courts require proof beyond a reasonable doubt. It turns out 'reasonable doubt' and 'the wrong variable name' look surprisingly similar in a government database.",
-        "Somewhere a developer fixed the bug in about 30 seconds. The patch for the 18 months, however, is still pending.",
-        "The justice system: where 'beyond a reasonable doubt' and 'did you check for typos' are apparently two different questions."
+        "Great news for the space race: we've decided the environment was just bureaucratic red tape slowing down the billionaires.",
+        "The FAA will now fast-track rocket launches by skipping environmental review, proving that the fastest route to space is through the ecosystem.",
+        "In a stunning twist, 'getting government out of the way' turns out to mean getting it out of the way of rockets, not out of the way of the habitats rockets launch over.",
+        "SpaceX and Blue Origin will benefit most from the waivers, which is heartening news for two companies that were really struggling to make ends meet.",
+        "America is going to win the space race—or at the very least, win the race to see what's left down here once we stop checking."
       ],
       "captionsJa": [
-        "アンダースコアが一文字欠けていたために、無実の男性が18ヶ月服役した。明るい話もある。これはオックスフォードカンマ論争以来最も影響力のある句読点問題だ。ただし、はるかに笑えない。",
-        "男性は無実だった。データベースはそうではなかった。アンダースコアはただ存在しなかっただけで、それが刑事司法の世界では他人の誤字に対する実刑判決になった。",
-        "裁判所は「合理的な疑いを超えた証明」を要求する。どうやら「合理的な疑い」と「変数名の間違い」は、政府のデータベースでは区別がつきにくいらしい。",
-        "どこかのエンジニアが30秒でそのバグを修正した。18ヶ月分のパッチはまだリリース待ちだ。",
-        "司法制度：「合理的な疑いを超えた証明」と「タイプミスを確認したか」が、どうやら別の問いらしいシステム。"
+        "宇宙レースに向けた朗報：環境規制は億万長者の足を引っ張る官僚的な赤いテープだったと判明した。",
+        "FAAはこれからロケット打ち上げを迅速承認する。環境審査を省略することで。地球への最速ルートは生態系を通過するらしい。",
+        "「政府を邪魔者にしない」とは、ロケットの邪魔をしない、という意味だったと判明。ロケットが飛び越える生態系の邪魔をしない、ではなく。",
+        "SpaceXとブルーオリジンが最も恩恵を受けるという。経営が苦しかった両社にとってはまさに朗報だ。",
+        "アメリカは宇宙レースに勝つだろう——あるいは少なくとも、確認をやめた後に地上に何が残るかを最初に発見する競争には勝てそうだ。"
       ],
-      "newsEn": "A coding error — specifically a missing underscore character in a database — led to an innocent man being wrongfully imprisoned for 18 months. The error caused records to be mismatched, implicating the wrong individual. The case illustrates how automated systems with unchecked errors can have severe real-world consequences for individuals.",
+      "newsEn": "The Federal Aviation Administration is moving to waive environmental review requirements for rocket launch approvals, a change that would primarily benefit major commercial space companies including SpaceX and Blue Origin. Transportation Secretary Sean Duffy framed the move as cutting government red tape to help the U.S. win a new space race. The environmental rules being waived were originally designed to assess the ecological impact of repeated rocket launches on surrounding habitats.",
       "ironyEn": [
         {
-          "contradiction": "A justice system designed to require proof beyond a reasonable doubt incarcerated an innocent man for 18 months because a database couldn't distinguish between two similar-looking variable names.",
-          "absurdity": "Somewhere, a software developer is reading this story and experiencing the specific horror of realizing their typo has a unit of measurement: 18 months.",
-          "outside": "Countries investing in automated justice systems might want to note that the United States just discovered the criminal-sentencing equivalent of a spelling mistake — and it cost a man a year and a half."
+          "contradiction": "The plan to help America conquer space begins with waiving the rules designed to protect the planet those rockets are launching from.",
+          "absurdity": "SpaceX and Blue Origin—two of the most well-funded private companies on Earth—are being described as victims of government red tape, which is a remarkable framing for firms whose founders are worth hundreds of billions of dollars.",
+          "outside": "International partners in climate agreements may find it notable that the U.S. is streamlining environmental exemptions for rockets while simultaneously urging other nations to meet their environmental commitments."
         },
         {
-          "contradiction": "The legal system places enormous weight on the precision of evidence, yet an underscore — a single keyboard character — was precise enough to destroy 18 months of someone's life.",
-          "absurdity": "In coding, an underscore is used to connect things that belong together. In this case, it separated an innocent man from his freedom.",
-          "outside": "Tech evangelists promising that automation will make government more accurate and fair should perhaps explain this case first — ideally before the next deployment."
+          "contradiction": "Cutting environmental review to win the space race is a bit like skipping the pre-flight safety check to save time at the airport.",
+          "absurdity": "The argument is essentially that protecting Earth's environment is red tape standing in the way of leaving Earth—which is, philosophically speaking, a choice.",
+          "outside": "From abroad, the optics of handing environmental waivers to billionaire-owned rocket companies as an act of national patriotism is a sentence that requires some unpacking."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-28/candidate-4.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-07-29/candidate-4.jpg",
+      "imageStyle": "retro-pop"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "X Money Launches in the US: Elon Musk's 'Everything App' Dream Now Includes a Metal Card Engraved With Your Username",
+        "headline": "Wikipedia's Own Staff Unionizes — Management Declines to Recognize It",
         "source": "The Verge",
-        "date": "2026-07-28",
-        "url": "https://www.theverge.com/tech/971649/x-money-launch-elon-musk",
-        "summary": "イーロン・マスクがXを「なんでもできるアプリ」にする計画の一環として、デジタルウォレットと送金機能を備えたX Moneyが米国でサービスを開始した。ユーザー名入りのメタル製Visaカードも提供される。"
+        "date": "2026-07-29",
+        "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
+        "summary": "Wikipedia（ウィキメディア財団）の米国従業員が労働組合結成の動きに参加したが、「知識の民主化」を掲げる非営利団体の経営陣は自発的な組合承認を拒否した。"
       },
       "commentary": [
-        "<b>矛盾:</b> ユーザー数が減少し広告収入が落ち込んだSNSプラットフォームが、次のステップとして人々の金融資産の管理を担おうとしている。信頼の土台が揺らいでいる場所に、銀行機能を建てようとする構図だ。",
-        "<b>滑稽さ:</b> 「@あなたのユーザー名」が刻印されたメタルカードは、オンライン上の本名に準じる存在感で現実世界の財布に入ることになる。かつて匿名で怒鳴り合っていたアカウント名が、今やコーヒーの支払いに使われる。",
-        "<b>日本・海外から見ると:</b> WeChat Payのような「SNS×決済」の統合は中国ではすでに当たり前だが、プラットフォームへの信頼が前提条件だ。Xがその信頼を獲得できるかどうかが、このモデルが米国で機能するかの分岐点になる。"
+        "<b>矛盾:</b> 「誰もが自由に知識にアクセスできる世界」を理念に掲げ、毎年「あなたの寄付で運営されています」と訴えるWikipediaが、自社の労働者が集団交渉の権利を行使しようとした途端に管理側として対応するという構図だ。",
+        "<b>滑稽さ:</b> 世界最大の無料百科事典を運営する組織が、自社の「労働組合の歴史」ページに記載されているような出来事の当事者になっている。",
+        "<b>日本・海外から見ると:</b> 世界中の読者が「労働権」「団体交渉」「非営利組織のガバナンス」などの項目をWikipediaで調べている裏で、その記事を書いた人たちが同じ権利を求めて戦っているという、壮大なメタ構造だ。"
       ],
       "imagePrompts": [
-        "A sleek metal credit card displayed on a velvet surface, engraved with the text '@ANGRY_USER_2019' as the cardholder name. In the background, a blurred image of a chaotic social media feed fills the screen.",
-        "A person at a coffee shop register holding up a metal card engraved with their Twitter-style username to pay. The barista squints at it. Behind the customer, a notification on their phone reads: 'Your X Money transaction is pending — your account has been temporarily limited for a Terms of Service review.'",
-        "A large banner reading 'X: The Everything App' hanging in a minimalist product launch space. On stage, a single pedestal holds the metal Visa card under a spotlight. The audience seats are half empty."
+        "A Wikipedia donation banner stretched across a screen reading 'Wikipedia is run by people like you — please donate'; directly below it, a second banner appears reading 'Those people would like to form a union — management is reviewing the request'; a small spinning hourglass icon sits at the bottom",
+        "A Wikimedia Foundation conference room where suited managers sit across from employees holding union cards; on a laptop screen between them, a Wikipedia article titled 'Collective Bargaining' is open, with a highlighted passage reading 'the process by which workers negotiate...'",
+        "A giant Wikipedia globe logo, with the puzzle pieces showing words like 'FREE KNOWLEDGE,' 'OPEN ACCESS,' and 'FOR EVERYONE'; one puzzle piece in the lower corner reads 'EXCEPT APPARENTLY THIS' and is slightly askew"
       ],
       "captions": [
-        "X Money launched today, offering users a metal card engraved with their username. Finally, your most regrettable online persona can now decline at the register.",
-        "Elon Musk wants X to be the everything app — messaging, news, payments, and a metal card that tells your barista exactly who you are online. The barista is not prepared.",
-        "The platform that brought you viral misinformation and advertiser boycotts is now ready to hold your direct deposit. What could go wrong — and can you pay in installments?",
-        "X Money: because nothing says 'I trust this platform with my finances' like a company that changed its privacy policy four times last year.",
-        "The WeChat model works because users trust the platform. X Money is testing a slightly different hypothesis: what if they don't, but the card is really shiny?"
+        "Wikipedia: the encyclopedia that explains every labor movement in history, now adding a chapter from personal experience.",
+        "The Wikimedia Foundation declined to voluntarily recognize the union, which is a bold choice for a nonprofit whose homepage literally says 'imagine a world where every human being can freely share in the sum of all knowledge.'",
+        "Employees of the world's largest free encyclopedia are unionizing, which means somewhere a Wikipedia article on 'irony' just updated itself.",
+        "Management said they are committed to their employees and their mission, which—much like many Wikipedia citations—will need to be verified by an independent source.",
+        "The good news: if workers need information about their legal rights during a union drive, the answer is literally one tab away."
       ],
       "captionsJa": [
-        "本日X Moneyがローンチし、ユーザー名入りメタルカードが登場した。ついに、あなたの最も後悔しているオンラインの人格が、レジで決済を拒否できるようになった。",
-        "マスク氏はXをなんでもできるアプリにしたい。メッセージ、ニュース、決済、そしてバリスタにあなたのオンライン素性を教えるメタルカード。バリスタは心の準備ができていない。",
-        "フェイク情報と広告主ボイコットを届けてきたプラットフォームが、今度はあなたの給与振込口座を預かる準備ができた。何が起きるか、分割払いで確認できますか？",
-        "X Money：昨年だけプライバシーポリシーを4回変えたサービスに財産を預けるという究極の信頼表明。",
-        "WeChatモデルが機能するのはユーザーがプラットフォームを信頼しているからだ。X Moneyは少し別の仮説を検証している：信頼がなくても、カードが十分キラキラしていれば大丈夫ではないか。"
+        "Wikipedia：歴史上あらゆる労働運動を解説してきた百科事典が、今度は自ら一章を追加することになった。",
+        "ウィキメディア財団は自発的な組合承認を拒否した。トップページに「すべての人間が知識を自由に共有できる世界を想像してください」と書いてある非営利団体としては、なかなか大胆な判断だ。",
+        "世界最大の無料百科事典の従業員が組合を結成しようとしている。どこかで「皮肉」の項目が自動更新されたはずだ。",
+        "経営陣は従業員とミッションへのコミットメントを表明した——多くのWikipedia出典と同様、独立した情報源による検証が必要だが。",
+        "よい知らせが一つある：組合活動中の法的権利について調べたければ、答えは文字通り1タブ先にある。"
       ],
-      "newsEn": "X Money, Elon Musk's payments platform built into the social media platform X, launched in the United States today. The service offers a digital wallet, peer-to-peer payments similar to Venmo, and a metal Visa card that users can have engraved with their X username. The launch represents a significant step in Musk's ambition to transform X into an 'everything app' modeled partly on WeChat.",
+      "newsEn": "US-based employees at the Wikimedia Foundation, the nonprofit organization that operates Wikipedia, have joined an ongoing union drive. Management at the foundation declined to voluntarily recognize the union. The move follows a similar effort by UK-based Wikimedia staff in June, who were the first to announce intentions to unionize. The Wikimedia Foundation runs one of the world's most visited websites and is funded primarily through public donations.",
       "ironyEn": [
         {
-          "contradiction": "A platform that has seen declining user trust and advertiser departures is now asking those same users to trust it with their money.",
-          "absurdity": "The metal card engraved with your X username is the physical manifestation of a post history — which, depending on your timeline, is either a flex or a liability.",
-          "outside": "WeChat Pay works in China partly because WeChat is where hundreds of millions of people live their digital lives. X Money is betting the same logic applies to a platform where people go to argue about WeChat Pay."
+          "contradiction": "The organization dedicated to making all human knowledge freely accessible to everyone apparently draws the line at making collective bargaining freely accessible to its own employees.",
+          "absurdity": "Wikipedia has detailed, well-cited articles on labor rights, union organizing, and the history of worker advocacy—all written, in part, by employees who are now trying to exercise those exact rights.",
+          "outside": "Every year, Wikipedia asks readers around the world to donate so the free encyclopedia can keep running. It turns out 'free' has some fine print, particularly in the HR department."
         },
         {
-          "contradiction": "Musk has repeatedly positioned X as a free speech platform resistant to corporate influence — and is now launching a financial product that gives X direct access to users' transaction data.",
-          "absurdity": "You can now pay for dinner with a card that has your Twitter handle on it, which is either the future of payments or the most expensive online identity crisis in history.",
-          "outside": "Financial regulators in Europe are probably circling this launch with a red pen already, given that combining social media data with payment infrastructure raises questions that took WeChat years to navigate."
+          "contradiction": "A nonprofit that relies on a 'we're all in this together' donation model has responded to its workers' 'we're all in this together' union drive by declining to recognize it.",
+          "absurdity": "Somewhere on Wikipedia's servers, there is an article on 'union busting' that just got a lot more relevant to the people who maintain those servers.",
+          "outside": "For an organization whose entire brand is democratizing information, choosing not to voluntarily recognize a union is an interesting editorial decision."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-28/candidate-5.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-07-29/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch"
     }
   ]
 };
