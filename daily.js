@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-07-29",
-  "generatedAt": "2026-07-28T23:35:14+00:00",
+  "date": "2026-07-30",
+  "generatedAt": "2026-07-29T23:38:52+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "eBay Settles for $56 Million After Executives Mailed Bloody Pig Mask to Journalists Who Covered eBay",
-        "source": "The Verge",
-        "date": "2026-07-29",
-        "url": "https://www.theverge.com/tech/972209/ebay-cyberstalking-harassment-settlement",
-        "summary": "eBayと元幹部3人が、2019年に同社を批判的に報道していたマサチューセッツ州のカップルを標的にしたサイバーストーキング・嫌がらせキャンペーンをめぐり、5,570万ドルの和解に合意した。"
+        "headline": "FTC Sues Hims & Hers for Sharing Your Most Private Health Data With Meta and Snap",
+        "source": "CBS News US",
+        "date": "2026-07-30",
+        "url": "https://www.cbsnews.com/news/ftc-sues-hims-hers-health-data-privacy/",
+        "summary": "FTCは、テレヘルスプラットフォームのHims & Hersがユーザーの機密性の高い健康情報をMetaやSnapと共有し、さらに消費者をサブスクリプションに縛り付けていたとして提訴した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「安全・信頼」を売り物にするECプラットフォームの「セキュリティ部門」が、批判的な記事を書いた夫婦に豚の頭部マスクを送りつけるという、史上最も非合理的なPR対応を実行した。",
-        "<b>滑稽さ:</b> 数十億ドル規模の企業が、ニュースレター1本に対してここまで過剰反応した結果、そのニュースレターより遥かに大きなスキャンダルを自ら量産し続けた。",
-        "<b>日本・海外から見ると:</b> 「悪い口コミへの対処法」として、eBayは世界のビジネス教科書に「やってはいけない例」の章を1章まるごと提供した形だ。"
+        "<b>矛盾:</b> 「あなたの健康を守る」と謳うテレヘルス企業が、その健康データをMeta（広告帝国）に渡していたという、信頼ビジネスモデルの根本的な自己矛盾。",
+        "<b>滑稽さ:</b> 勃起不全や薄毛治療の相談内容が、気づけばInstagramの「関連する広告」に変わっていたとしたら——ユーザーは何を「共有」したかったのか。",
+        "<b>日本・海外から見ると:</b> 米国では医師に行くより手軽なテレヘルスが普及しているが、「利便性」の裏でデータが広告企業に流れる構図は、デジタルヘルスケアへの信頼を世界規模で揺るがすモデルケースになりかねない。"
       ],
       "imagePrompts": [
-        "A gleaming corporate headquarters with the word 'TRUST' carved in marble above the entrance; a delivery truck out front unloading boxes labeled 'bloody pig mask,' 'live spiders,' and 'threatening letters,' with a uniformed employee cheerfully checking items off a clipboard",
-        "A boardroom with suited executives gathered around a whiteboard reading 'Q3 PR STRATEGY'; someone has written 'Step 1: Send pig mask' with a checkmark next to it, while a graph labeled 'Reputation' plummets off the bottom of the chart",
-        "A giant $56,000,000 check made out to 'That Newsletter We Really Did Not Like,' signed by a cartoon pig in a business suit, displayed in a gilded frame on a wall of a corner office"
+        "A patient in a doctor's consultation room, but the walls are made of transparent glass with Meta and Snap logos visible outside, faceless figures in suits pressing their faces against the glass and taking notes",
+        "A large locked medicine cabinet labeled 'YOUR HEALTH DATA — PRIVATE' with tiny doors on the back swinging open into a gleaming office filled with targeted ad dashboards",
+        "A telehealth app icon shaped like a locked vault, but the combination dial is set to the Meta logo, with dollar signs leaking out from the seams"
       ],
       "captions": [
-        "eBay has agreed to pay $56 million to settle a harassment lawsuit—which, coincidentally, is also the going rate for a bloody pig mask once you factor in the legal fees.",
-        "In eBay's defense, the pig mask did have free two-day shipping.",
-        "The company's former security chief apparently misread 'reputation management' as 'reputation management by terrorizing journalists'—an easy mistake, according to no one.",
-        "eBay settled for $56 million, proving once again that it's cheaper to just let the bad review stand.",
-        "The real twist? The journalists' newsletter probably had fewer than a thousand subscribers before eBay turned it into the most-discussed publication in federal court history."
+        "They promised discretion — turns out 'discreet' just meant Meta didn't post it on your timeline. Publicly.",
+        "Your doctor won't judge you. Your data broker definitely will — but only to serve you ads for the exact condition you were embarrassed about.",
+        "The good news: your hair loss treatment is working. The bad news: Snapchat knows before your barber does.",
+        "Hims & Hers: because sometimes you need a safe space to share your most personal health struggles — with two of the largest surveillance corporations on Earth.",
+        "First they said 'we see you.' Then, apparently, they cc'd everyone."
       ],
       "captionsJa": [
-        "eBayは5,600万ドルの和解に合意した。ちなみにこの金額は、弁護士費用を含めた豚マスクの実質的な小売価格でもある。",
-        "eBayの弁護を一つするとすれば、その豚マスクは2日間の無料配送付きだったということだ。",
-        "同社の元セキュリティ責任者は「評判管理」を「ジャーナリストを恐怖に陥れることによる評判管理」と読み違えたらしい。誰に聞いても簡単な間違いではないが。",
-        "eBayは5,600万ドルで和解した。やはり、悪いレビューはそのまま放置しておくほうが安上がりだったようだ。",
-        "最大の皮肉は、あのニュースレターの購読者がeBayの暴挙以前は数百人程度だったという事実だ。連邦裁判所が最も注目した出版物にしてしまったのはeBay自身である。"
+        "「プライバシーは守ります」——ただしMetaのタイムラインに載せないという意味で。今のところは。",
+        "お医者さんは責めません。データブローカーも責めません——ただ、あなたの悩みにぴったりの広告を出してくるだけです。",
+        "いい知らせ：育毛治療の効果が出ています。悪い知らせ：Snapchatの方が美容師より先に知っていました。",
+        "Hims & Hers：デリケートな健康の悩みを、地球上最大級の監視企業2社と安心してシェアできる場所。",
+        "「あなたのことが見えています」と言っていた。どうやら、全員にCCで送っていたようだ。"
       ],
-      "newsEn": "eBay and three former executives have agreed to pay $55.7 million to settle a civil lawsuit brought by a Massachusetts couple who were targeted in a harassment campaign in 2019. The campaign, orchestrated by eBay's former security and communications leadership, included sending macabre items such as a bloody pig mask to the victims' home. The couple had run a newsletter that published critical coverage of eBay.",
+      "newsEn": "The Federal Trade Commission filed a lawsuit against telehealth platform Hims & Hers, alleging the company shared users' most sensitive health information with Meta and Snap. Regulators also claim the platform locked consumers into subscriptions without clear cancellation options. Hims & Hers stock fell roughly 10 percent following the announcement.",
       "ironyEn": [
         {
-          "contradiction": "A company whose entire business model depends on trust between strangers decided the best way to handle a critical newsletter was to send strangers a bloody pig mask.",
-          "absurdity": "The harassment campaign generated far more damaging press coverage than the original newsletter ever could have—which makes the $56 million settlement the most expensive subscription cancellation in history.",
-          "outside": "From the outside, it looks like eBay's 'Trust & Safety' team had a very creative definition of which side of that equation they were on."
+          "contradiction": "A company built on the promise of discreet, stigma-free healthcare was allegedly in the business of broadcasting your most private symptoms to the world's biggest ad platforms.",
+          "absurdity": "Somewhere between your hair loss consultation and Snapchat's algorithm, your dignity was apparently up for monetization.",
+          "outside": "From the outside, American telehealth looked like the future of medicine — turns out it may have also been the future of targeted advertising."
         },
         {
-          "contradiction": "eBay's former executives used the company's security apparatus—designed to protect users—to terrorize the very journalists reporting on user safety issues.",
-          "absurdity": "A billion-dollar corporation apparently concluded that the correct response to a two-person newsletter was to deploy a covert ops team, and somehow this seemed proportionate in at least three executives' minds.",
-          "outside": "Internationally, this case has become a masterclass in how not to do crisis communications—or, really, how not to do anything at all."
+          "contradiction": "Hims & Hers markets itself as a judgment-free zone for sensitive health issues, yet regulators say it judged your data worth sharing with Meta and Snap.",
+          "absurdity": "Patients trusted an app with conditions they wouldn't mention to their own family — and the app apparently mentioned it to Mark Zuckerberg.",
+          "outside": "In countries where patient privacy is treated as a legal right rather than a checkbox, this case reads less like a scandal and more like a foregone conclusion."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-07-29/candidate-1.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-07-30/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Trump Administration Plans to Cut $3.6 Billion Drug Subsidy for Seniors",
-        "source": "The Guardian US",
-        "date": "2026-07-29",
-        "url": "https://www.theguardian.com/us-news/live/2026/jul/28/lindsey-graham-funeral-donald-trump-benjamin-netanyahu-volodymyr-zelenskyy-iran-israel-hormuz-ukraine-russia-latest-news-updates",
-        "summary": "トランプ政権が、高齢者の処方薬プランのコストを抑えるメディケアの36億ドル補助金を廃止する計画を立てていると、ウォール・ストリート・ジャーナルが報じた。これにより来年度の高齢者の薬代負担が増える見込み。"
+        "headline": "AI Workers Ask Their Own Industry to Slow Down — Their Bosses Say They Agree",
+        "source": "CBS News US",
+        "date": "2026-07-30",
+        "url": "https://www.cbsnews.com/news/slow-down-ai-development-sam-altman/",
+        "summary": "OpenAIなど主要AI企業の従業員たちがAI開発のペースを落とすよう求めており、CEOのサム・アルトマンを含む経営幹部もその主張に「同意する」と表明している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「薬価を下げる」と繰り返し公約してきた政権が、薬代を実質的に上げる補助金カットを計画しているという、見事なまでの約束との逆行だ。",
-        "<b>滑稽さ:</b> 補助金を受けていた当の高齢者たちは、「政府の無駄遣いをなくす」という公約を支持して投票した可能性が高く、その「無駄」が自分の薬代だったと気づくのはこれからだ。",
-        "<b>日本・海外から見ると:</b> 国民皆保険が当たり前の国々から見れば、「薬代が下がるはず」という約束が「補助金カット」という形で実現しようとしている光景は、米国式医療制度の迷宮をよく表している。"
+        "<b>矛盾:</b> 「AIを減速すべきだ」と言う企業のCEOが、同じ週に「売上が過去最高を記録した」と社員に報告する——アクセルを踏みながらブレーキを語る構図。",
+        "<b>滑稽さ:</b> 自社の製品が「危険かもしれない」と最も声高に言っているのが、その製品を最も熱心に販売している人たちというのは、タバコ会社が「禁煙を推奨します」と言うのに似ている。",
+        "<b>日本・海外から見ると:</b> 規制当局でも政府でもなく、競合他社でもなく、「減速してください」という声が業界内部から出てくること自体、外から見ると異様な緊張感として映る。"
       ],
       "imagePrompts": [
-        "An elderly person at a pharmacy counter staring at a price tag that reads '$3.6 BILLION LESS SUPPORT' while a suited figure in the background holds giant scissors labeled 'FISCAL RESPONSIBILITY' over a lifeline rope connecting the senior to a pill bottle",
-        "A campaign billboard reading 'WE WILL LOWER YOUR DRUG COSTS' with a smaller fine-print sign below it reading 'by removing the thing that was lowering your drug costs'; a confused senior stands in front of it squinting",
-        "A government budget spreadsheet with a line item 'Senior Drug Subsidy: $3.6B' being crossed out with a red marker, while a banner in the background reads 'MISSION ACCOMPLISHED: LOWER DRUG PRICES'"
+        "A sleek race car with 'AI DEVELOPMENT' on the side, driver's hand on the accelerator pedal, while the driver holds up a protest sign reading 'SLOW DOWN' out the window",
+        "A corporate town hall meeting where an executive at a podium gestures to a chart showing a rocket-shaped revenue curve, while a banner above the stage reads 'WE SUPPORT CAUTION'",
+        "A tech campus break room where employees wearing safety-orange vests hold 'PAUSE AI' signs, while a massive digital ticker on the wall behind them counts upward in real-time revenue"
       ],
       "captions": [
-        "Great news for seniors: the administration has found a bold new way to lower your drug costs—by raising them.",
-        "Cutting the subsidy that kept drugs affordable is, technically, a form of drug price reform. Nobody said which direction.",
-        "The plan is to eliminate $3.6 billion in senior drug assistance, which experts say will save seniors money in the same way that removing a life jacket saves weight.",
-        "In Washington, 'making prescription drugs more affordable' and 'cutting the thing that made them affordable' are apparently the same sentence depending on which page of the bill you're reading.",
-        "Seniors can take comfort knowing that while their drug costs may rise, the savings will go toward—checks notes—a very important line somewhere else in the budget."
+        "The AI industry announced it wants to slow down — right after announcing it just had its best month ever. Just a coincidence, I'm sure.",
+        "Supporting a slowdown while breaking revenue records is the corporate equivalent of ordering a diet soda with your double cheeseburger.",
+        "When the people building the thing say the thing might be dangerous, that's called a warning. When they also sell the thing anyway, that's called a Tuesday.",
+        "Sam Altman supports pacing AI development — the way a marathon runner supports taking breaks, ideally after crossing the finish line first.",
+        "Nothing says 'we take safety seriously' like a CFO announcing record revenue in the same breath as the safety team holds a rally."
       ],
       "captionsJa": [
-        "朗報です、高齢者の皆さん。政権はあなたの薬代を下げる画期的な方法を見つけました——上げることによって。",
-        "補助金カットは確かに「薬の価格改革」の一形態だ。どちらの方向かは誰も言わなかっただけで。",
-        "36億ドルの高齢者向け薬代補助を廃止すれば節約になる、と専門家は言う——救命胴衣を外せば体重が軽くなる、というのと同じ意味で。",
-        "ワシントンでは「処方薬をより手頃にする」と「それを手頃にしていたものを廃止する」は、法案の読むページによって同じ文章になるらしい。",
-        "薬代は上がるかもしれないが、その分の節約はどこか別の重要な予算項目に充てられるはずだ——どこかは確認中とのこと。"
+        "AI業界が「減速を支持する」と発表した——過去最高売上を記録した直後に。まったくの偶然でしょう。",
+        "記録的な売上を出しながら減速を訴えるのは、ダブルチーズバーガーを頼みながらダイエットコーラにするようなものだ。",
+        "自分たちが作ったものが危険かもしれないと言う人たちのことを「警鐘を鳴らす人」と呼ぶ。それでも売り続けるとき、それを「火曜日」と呼ぶ。",
+        "サム・アルトマンはAI開発のペースを落とすことを支持している——マラソン選手が、ゴールラインを一番で切った後に「休憩は大切」と語るように。",
+        "「安全を真剣に考えています」の証明として、CFOが過去最高売上を報告すると同時に安全チームが集会を開くという完璧な構図。"
       ],
-      "newsEn": "The Trump administration is reportedly planning to eliminate a $3.6 billion Medicare subsidy that has helped keep prescription drug plan costs lower for senior citizens. According to the Wall Street Journal, the change would make drug coverage more expensive for seniors starting next year. The subsidy has served as a buffer against rising drug costs under Medicare Part D.",
+      "newsEn": "Workers at several leading artificial intelligence companies have publicly called for a slowdown in the rapid development of AI capabilities, citing safety and societal concerns. OpenAI CEO Sam Altman and other industry executives have stated they support the idea of pacing AI advancement. The calls come as companies simultaneously race to release more powerful models and capture market share.",
       "ironyEn": [
         {
-          "contradiction": "An administration that campaigned loudly on lowering drug prices for seniors is reportedly planning to eliminate the subsidy that has been quietly doing exactly that.",
-          "absurdity": "The $3.6 billion being cut is, in Medicare terms, the bureaucratic equivalent of a coupon—and apparently even that was too much government involvement in making drugs affordable.",
-          "outside": "In countries with universal healthcare, watching the U.S. debate whether to cut a subsidy that makes drugs slightly less unaffordable looks less like policy and more like performance art."
+          "contradiction": "The people building the most powerful AI systems in history are asking for a slowdown — and their CEOs are publicly agreeing, while the quarterly revenue charts point straight up.",
+          "absurdity": "It's a bit like a Formula 1 team issuing a press release calling for lower speed limits, right before qualifying.",
+          "outside": "From abroad, watching the AI industry call for its own restraint looks less like self-regulation and more like a very sophisticated marketing move."
         },
         {
-          "contradiction": "The phrase 'we're cutting government spending to help Americans' has never sounded more like a riddle where the answer is 'your pill costs more now.'",
-          "absurdity": "Seniors who voted to drain the swamp may soon discover that their Part D premiums were swimming in it.",
-          "outside": "Foreign observers have long noted that American healthcare is unique; this development confirms it is unique in ways that continue to surprise even longtime observers."
+          "contradiction": "Sam Altman says he supports pacing AI development — the same week his CFO announced revenue in July alone outpaced all of Q2.",
+          "absurdity": "Nothing says 'we're being careful' quite like breaking your own sales record while endorsing a slowdown.",
+          "outside": "In most industries, workers demanding a slowdown would be called a labor dispute. In AI, it gets called a safety initiative."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-07-29/candidate-2.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-07-30/candidate-2.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "College Lab Class Ends with 32 Students on Antibiotics After They All Accidentally Identified a Deadly Pathogen",
-        "source": "Ars Technica",
-        "date": "2026-07-29",
-        "url": "https://arstechnica.com/health/2026/07/college-lab-class-ends-with-32-people-on-antibiotics-for-deadly-germ-exposure/",
-        "summary": "大学の実習授業で、学生たちが無害な細菌を同定するはずが、全員が致死性の病原体を誤って同定・培養してしまい、32人全員が抗生物質の投与を受ける事態になった。"
+        "headline": "Trump Announces $22 Billion Plan to Rebuild Dulles Airport — After Personally Weighing In on the Arch Design",
+        "source": "The Guardian US",
+        "date": "2026-07-30",
+        "url": "https://www.theguardian.com/us-news/2026/jul/29/trump-dulles-airport-22-billion-dollar-plan",
+        "summary": "トランプ大統領は、ワシントン郊外のダレス国際空港を220億ドルかけて全面改築する計画を発表した。大統領は建築デザインにも個人的に関与したと報じられている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「安全な細菌を使った実習」という授業設計そのものが、全員が致死性病原体にさらされるという結果で採点されてしまった。この実習、教育目標は達成したのかもしれない——ただし誰も想定していない形で。",
-        "<b>滑稽さ:</b> 32人全員が同じ間違いをしたという事実は、個人のミスではなく「実習システム全体の優秀な成績」であることを示しており、皮肉にも集団学習の成果と言える。",
-        "<b>日本・海外から見ると:</b> 「全員参加型アクティブラーニング」の究極形として、クラス全員が同じ体験（抗生物質服用）を共有するという点では、これ以上の一体感はなかっただろう。"
+        "<b>矛盾:</b> 「小さな政府」と「規制撤廃」を掲げる政権が、連邦予算220億ドルを使って空港のアーチデザインを大統領自ら指揮するというのは、思想と実践の間の大きな空港ほどの距離がある。",
+        "<b>滑稽さ:</b> 世界最大の民主主義国家の行政府のトップが、ゲートの配置やアーチの曲線について「個人的に意見を述べた」という事実は、ホワイトハウスが建築事務所を兼業し始めたようにも見える。",
+        "<b>日本・海外から見ると:</b> 羽田や成田の再開発が国土交通省の審議会を何年もかけて進むのを知っている目には、大統領一人の審美眼で空港デザインが決まるアメリカの意思決定の速さ（と乱暴さ）は別世界に映る。"
       ],
       "imagePrompts": [
-        "A college laboratory classroom where 32 students sit at identical lab benches, each holding up a test tube with a glowing dangerous substance, all with matching looks of confident satisfaction; a grading rubric on the whiteboard reads 'Identify the SAFE germ — 100pts' with a large red X next to every student's name and the word 'ANTIBIOTICS' stamped in red",
-        "A professor standing at the front of a lab, holding a sign reading 'EXPECTED: harmless bacteria' on one side and 'ACTUAL: deadly pathogen' on the other, as 32 students in the background line up at a pharmacy counter",
-        "A course syllabus pinned to a bulletin board with the final exam listed as 'Germ Identification Quiz (worth 100% of grade, and also your health)'; a sticky note attached reads 'Bring pencil and prescription'"
+        "A president standing at an architect's drafting table in an ornate office, holding a red marker and drawing a large arch over a blueprint of an airport while suited officials look on with nervous expressions",
+        "A massive airport terminal under construction with a golden arch prominently featured, surrounded by cranes and construction workers, while a giant framed portrait of the president hangs at the entrance",
+        "An aerial view of an airport shaped like a presidential signature, with runways curving into loops and the terminal forming large initials, surrounded by dollar-sign-shaped landscaping"
       ],
       "captions": [
-        "Thirty-two students all got the same wrong answer, which is either a grading catastrophe or the most successful peer collaboration exercise in academic history.",
-        "The good news: every student completed the assignment. The bad news: the assignment completed them right back.",
-        "In the end, the class did learn to identify a deadly pathogen—just not the way the curriculum intended, and not before handling it extensively.",
-        "The professor reportedly gave everyone full credit for the lab report, which at this point seems like the least the institution could do.",
-        "The real lesson here is that 'working in groups' has consequences that no liability waiver fully anticipated."
+        "The president called Dulles 'an impossible airport.' Apparently the solution is a $22 billion airport designed, in part, by the president.",
+        "When you're tired of firing people on TV, you pivot to interior design. At a scale of twenty-two billion dollars.",
+        "Most architects spend years studying proportions, materials, and structural integrity. This arch had a faster approval process.",
+        "Nothing says 'infrastructure investment' like a head of state personally approving the curvature of an arch. This is fine.",
+        "The White House has officially entered the architecture business. Previous clients: the Oval Office, Mar-a-Lago, and now, whatever Dulles becomes."
       ],
       "captionsJa": [
-        "32人全員が同じ間違いをした。これはグレーディングの惨事か、史上最も成功した協調学習の成果か。",
-        "よいニュース：全員が課題を完了した。悪いニュース：課題も全員を完了させた。",
-        "結局、クラス全員が致死性病原体の同定方法を学んだ——ただしカリキュラムが意図した順序とは逆方向で、かつ散々触れた後だったが。",
-        "教授は全員のレポートに満点を与えたと伝えられている。この状況では、それが大学にできる最低限のことだったかもしれない。",
-        "今回の真の教訓：「グループワーク」には、いかなる免責事項も想定していなかった結果が伴うことがある。"
+        "大統領は「ダレスは不可能な空港だ」と言った。解決策は、大統領が設計に関与した220億ドルの空港らしい。",
+        "テレビで人を解雇することに飽きたら、次はインテリアデザインへ。予算は220億ドル。",
+        "建築家は数年かけて比率・素材・構造を学ぶ。このアーチの承認プロセスはもっと早かった。",
+        "国家元首が自らアーチの曲線を承認する——これが「インフラ投資」というものらしい。まあ、いいでしょう。",
+        "ホワイトハウスが正式に建築業に参入した。これまでの実績：大統領執務室、マー・ア・ラゴ、そしてダレスの「何か」。"
       ],
-      "newsEn": "A college laboratory course ended with all 32 students prescribed antibiotics after they were exposed to a dangerous pathogen during what was supposed to be a routine identification exercise. Students were assigned to identify a mild, harmless germ, but the class instead ended with every participant identifying—and apparently handling—a deadly bacterium. The incident raises questions about laboratory safety protocols at the institution.",
+      "newsEn": "President Donald Trump unveiled a $22 billion plan to overhaul Washington Dulles International Airport, calling it a transformation from 'an impossible airport' to one of the world's best. The announcement is part of a broader pattern of Trump directing infrastructure changes in Washington. Reports indicate Trump personally weighed in on the design of the airport, including elements such as an arch.",
       "ironyEn": [
         {
-          "contradiction": "The entire point of the lab was to teach students to correctly identify a safe organism; instead, it succeeded in teaching all 32 of them to incorrectly identify a dangerous one—with a perfect class-wide consensus.",
-          "absurdity": "In most courses, getting every single student to arrive at the same answer is considered a teaching triumph. In this case, it was a public health incident.",
-          "outside": "International students applying to American universities may want to ask their prospective programs one additional question: 'How often does the lab homework require antibiotics?'"
+          "contradiction": "The administration that campaigns on getting government out of the way personally directed the architectural design of a $22 billion government-funded airport.",
+          "absurdity": "Somewhere in a federal architecture office, a career bureaucrat is realizing their decades of expertise were superseded by one man's opinion about an arch.",
+          "outside": "In most countries, airport redesigns go through years of committee reviews. In this case, the aesthetic direction reportedly came from the Oval Office."
         },
         {
-          "contradiction": "The lab was designed around a harmless germ; the only thing harmless about the final outcome was the passing grade presumably still owed to everyone who completed the assignment.",
-          "absurdity": "A class of 32 students managed 100% participation, 100% completion, and 100% antibiotic prescriptions—a trifecta no syllabus had anticipated.",
-          "outside": "Educators abroad have long debated the value of hands-on learning; this experiment has contributed significant new data to that conversation."
+          "contradiction": "Dulles was described as 'an impossible airport' — apparently the solution to an impossible airport is a $22 billion project overseen by a president who has filed for bankruptcy multiple times.",
+          "absurdity": "When the most powerful office in the world moonlights as a design consultancy, at least the renderings should be spectacular.",
+          "outside": "Foreign infrastructure planners accustomed to bidding processes and independent oversight may find the phrase 'the president personally weighed in on the arch' to be either inspiring or deeply alarming."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-07-29/candidate-3.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-07-30/candidate-3.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "FAA to Waive Environmental Rules for SpaceX and Blue Origin to Speed Up Launch Approvals",
-        "source": "CNBC Top News",
-        "date": "2026-07-29",
-        "url": "https://www.cnbc.com/2026/07/28/space-launches-faa-environmental-spacex-blue-origin-sean-duffy.html",
-        "summary": "米連邦航空局（FAA）が、SpaceXやブルーオリジンなどの宇宙企業に対する打ち上げ承認を迅速化するため、環境審査規則の免除を検討していると報じられた。交通長官は「政府の規制という赤テープを取り除く」と述べた。"
+        "headline": "Musk Declared 'War' on Ad Boycotters and Sought Jail Time — Case Ends With a Handshake",
+        "source": "Ars Technica",
+        "date": "2026-07-30",
+        "url": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+        "summary": "イーロン・マスクがX（旧Twitter）の広告ボイコットに対して「戦争」を宣言し、広告主の幹部に投獄を求めていた訴訟が、双方の関係「リセット」合意という形で静かに幕を閉じた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「アメリカを再び偉大に」するために宇宙レースに勝とうとする計画が、まず地球の環境審査を省略することから始まっている点に、ある種の壮大な優先順位が見える。",
-        "<b>滑稽さ:</b> 宇宙に到達するための規制緩和が、その宇宙から眺める地球の環境を犠牲にするかもしれないという、スケールだけは宇宙級の皮肉だ。",
-        "<b>日本・海外から見ると:</b> 「宇宙開発のために地上の環境規制を免除する」という論理は、「山頂を征服するために登山道を壊す」に似た構造を持っており、国際的な環境交渉の場で米国の立場をやや複雑にするかもしれない。"
+        "<b>矛盾:</b> 「戦争」と宣言し、広告主の幹部に「投獄を」と求めた法廷闘争が、最終的に「仲直りしましょう」という握手で終わるのは、大砲を持ち出して白旗を振るのに近い。",
+        "<b>滑稽さ:</b> プラットフォームが広告主に依存し、広告主がプラットフォームに依存するという相互依存の構造を、どちらも「戦争」で破壊できなかった——最終的に最も力を持っていたのは「お互い離れられない」という事実だった。",
+        "<b>日本・海外から見ると:</b> 「原則」として始まった闘争が「ビジネス上の都合」で終わるのは普遍的な現象だが、ここまで大声で宣戦布告しておいて静かに和解するのは、世界規模で見ても珍しいスケールの自己矛盾だ。"
       ],
       "imagePrompts": [
-        "A rocket launching from a wetland habitat, with birds and wildlife scattering; in the foreground, a government official in a suit cheerfully uses giant scissors to cut through a banner reading 'ENVIRONMENTAL REVIEW' while holding a trophy labeled 'SPACE RACE WINNER'",
-        "A split image: on the left, a lush green landscape with an 'ENVIRONMENTAL PROTECTION' sign; on the right, the same landscape with a rocket launchpad and a 'STREAMLINED APPROVAL: 24 HRS' sign, while a businessman in a spacesuit counts money in the background",
-        "An FAA rubber stamp descending toward a launch permit application; the stamp reads 'APPROVED (ENV. REVIEW: N/A)'; in the background, a scoreboard reads 'SPACE RACE: USA 1, EARTH 0'"
+        "Two corporate boardrooms facing each other across a dramatic battlefield, with one side holding a giant 'WAR' banner, the other holding ad campaign posters, and in the middle a tiny table with two figures shaking hands over a document labeled 'RESET'",
+        "A medieval knight in full armor charging on horseback toward a group of men in business suits, but pulling the reins at the last moment to shake one of their hands while the charging banner reads 'RESET RELATIONSHIP'",
+        "A courtroom scene where an imposing legal team gestures toward an 'ARREST THEM' sign, while the opposing table holds ad rate cards, and the judge holds up a gavel next to a whiteboard that just says 'NEVERMIND'"
       ],
       "captions": [
-        "Great news for the space race: we've decided the environment was just bureaucratic red tape slowing down the billionaires.",
-        "The FAA will now fast-track rocket launches by skipping environmental review, proving that the fastest route to space is through the ecosystem.",
-        "In a stunning twist, 'getting government out of the way' turns out to mean getting it out of the way of rockets, not out of the way of the habitats rockets launch over.",
-        "SpaceX and Blue Origin will benefit most from the waivers, which is heartening news for two companies that were really struggling to make ends meet.",
-        "America is going to win the space race—or at the very least, win the race to see what's left down here once we stop checking."
+        "He declared war, sought jail time, and delivered a strongly worded press release. The advertisers agreed to come back. War is hell.",
+        "In the end, the most powerful weapon against an ad boycott turned out to be: needing the ad revenue.",
+        "When the dust settled on the great advertiser war, both sides agreed to a 'reset' — which is tech for 'we were never fighting, please buy ads again.'",
+        "You can declare war on your customers. You can threaten them with prison. But at some point, the quarterly earnings call is going to require a reconciliation.",
+        "Musk sought jail time for ad boycotters. They settled. Somewhere, a very expensive legal team is billing for what amounts to a strongly worded RSVP."
       ],
       "captionsJa": [
-        "宇宙レースに向けた朗報：環境規制は億万長者の足を引っ張る官僚的な赤いテープだったと判明した。",
-        "FAAはこれからロケット打ち上げを迅速承認する。環境審査を省略することで。地球への最速ルートは生態系を通過するらしい。",
-        "「政府を邪魔者にしない」とは、ロケットの邪魔をしない、という意味だったと判明。ロケットが飛び越える生態系の邪魔をしない、ではなく。",
-        "SpaceXとブルーオリジンが最も恩恵を受けるという。経営が苦しかった両社にとってはまさに朗報だ。",
-        "アメリカは宇宙レースに勝つだろう——あるいは少なくとも、確認をやめた後に地上に何が残るかを最初に発見する競争には勝てそうだ。"
+        "「戦争だ」と宣言し、投獄を求め、強烈な声明を出した。広告主たちは戻ってきた。戦争とは地獄だ。",
+        "結局、広告ボイコットへの最強の武器は「広告収入が必要だった」という事実だった。",
+        "広告大戦争の砂塵が晴れると、両陣営は「リセット」に合意した——テック語で「戦ってなかったことにして、また広告を買ってください」の意。",
+        "顧客に宣戦布告してもいい。投獄を脅してもいい。でも、いつかは四半期決算が「和解」を要求してくる。",
+        "マスク氏は広告ボイコット勢への禁固刑を求めた。和解した。どこかで非常に高額な法律チームが、高級な「お断りカード」相当の費用を請求している。"
       ],
-      "newsEn": "The Federal Aviation Administration is moving to waive environmental review requirements for rocket launch approvals, a change that would primarily benefit major commercial space companies including SpaceX and Blue Origin. Transportation Secretary Sean Duffy framed the move as cutting government red tape to help the U.S. win a new space race. The environmental rules being waived were originally designed to assess the ecological impact of repeated rocket launches on surrounding habitats.",
+      "newsEn": "Elon Musk had publicly declared 'war' against advertisers who boycotted X, formerly Twitter, and his legal team sought jail time for executives involved in the coordinated ad pullout. The lawsuit, which generated significant media attention and fierce rhetoric, concluded with advertisers agreeing to a 'reset' of the relationship with X. No jail sentences were imposed.",
       "ironyEn": [
         {
-          "contradiction": "The plan to help America conquer space begins with waiving the rules designed to protect the planet those rockets are launching from.",
-          "absurdity": "SpaceX and Blue Origin—two of the most well-funded private companies on Earth—are being described as victims of government red tape, which is a remarkable framing for firms whose founders are worth hundreds of billions of dollars.",
-          "outside": "International partners in climate agreements may find it notable that the U.S. is streamlining environmental exemptions for rockets while simultaneously urging other nations to meet their environmental commitments."
+          "contradiction": "Musk went to war over advertiser boycotts with the stated goal of punishing executives with jail time — and ended up agreeing to 'reset' the relationship, which is corporate for 'please come back.'",
+          "absurdity": "The most aggressive antitrust-adjacent legal offensive in recent social media history concluded with what amounts to a LinkedIn connection request.",
+          "outside": "From the outside, this looks less like a war and more like a very expensive, very public way of admitting you still need the advertising revenue."
         },
         {
-          "contradiction": "Cutting environmental review to win the space race is a bit like skipping the pre-flight safety check to save time at the airport.",
-          "absurdity": "The argument is essentially that protecting Earth's environment is red tape standing in the way of leaving Earth—which is, philosophically speaking, a choice.",
-          "outside": "From abroad, the optics of handing environmental waivers to billionaire-owned rocket companies as an act of national patriotism is a sentence that requires some unpacking."
+          "contradiction": "A platform that bills itself as a free speech absolutist went to court seeking to imprison people for the free economic choice of not buying ads.",
+          "absurdity": "The war ended not with a treaty, but with a 'reset' — which, in tech-industry language, usually means turning it off and on again and hoping nobody remembers.",
+          "outside": "Advertisers who were threatened with jail time for pulling their ads have now agreed to come back. In any other industry, this negotiating tactic would have a different name."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-07-29/candidate-4.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-07-30/candidate-4.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Wikipedia's Own Staff Unionizes — Management Declines to Recognize It",
-        "source": "The Verge",
-        "date": "2026-07-29",
-        "url": "https://www.theverge.com/news/972182/wikipedia-wikimedia-foundation-union-editor-strike",
-        "summary": "Wikipedia（ウィキメディア財団）の米国従業員が労働組合結成の動きに参加したが、「知識の民主化」を掲げる非営利団体の経営陣は自発的な組合承認を拒否した。"
+        "headline": "U.S. Bans Foreign-Made Robots to Boost American Robotics — Experts Say It May Do the Opposite",
+        "source": "Ars Technica",
+        "date": "2026-07-30",
+        "url": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+        "summary": "米政府が外国製ロボットを禁止する方針を打ち出したが、専門家はこの措置がアメリカのロボット産業を助けるどころか、むしろ妨げる可能性があると指摘している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「誰もが自由に知識にアクセスできる世界」を理念に掲げ、毎年「あなたの寄付で運営されています」と訴えるWikipediaが、自社の労働者が集団交渉の権利を行使しようとした途端に管理側として対応するという構図だ。",
-        "<b>滑稽さ:</b> 世界最大の無料百科事典を運営する組織が、自社の「労働組合の歴史」ページに記載されているような出来事の当事者になっている。",
-        "<b>日本・海外から見ると:</b> 世界中の読者が「労働権」「団体交渉」「非営利組織のガバナンス」などの項目をWikipediaで調べている裏で、その記事を書いた人たちが同じ権利を求めて戦っているという、壮大なメタ構造だ。"
+        "<b>矛盾:</b> 「国内ロボット産業を守る」ための輸入禁止が、その産業が現状最も依存している外国製部品やサプライチェーンを断ち切ることで、保護しようとした産業そのものを傷つける可能性がある。",
+        "<b>滑稽さ:</b> アメリカ製ロボットを増やすための最善策として「競合するロボットを追い出す」を選んだのは、水泳選手を強くするためにプールを閉鎖するようなアプローチだ。",
+        "<b>日本・海外から見ると:</b> 世界有数のロボット製造国である日本や韓国、ドイツの企業にとっては市場への打撃だが、皮肉なのはアメリカ国内の製造業がその「外国製ロボット」に生産を依存していた点だ。"
       ],
       "imagePrompts": [
-        "A Wikipedia donation banner stretched across a screen reading 'Wikipedia is run by people like you — please donate'; directly below it, a second banner appears reading 'Those people would like to form a union — management is reviewing the request'; a small spinning hourglass icon sits at the bottom",
-        "A Wikimedia Foundation conference room where suited managers sit across from employees holding union cards; on a laptop screen between them, a Wikipedia article titled 'Collective Bargaining' is open, with a highlighted passage reading 'the process by which workers negotiate...'",
-        "A giant Wikipedia globe logo, with the puzzle pieces showing words like 'FREE KNOWLEDGE,' 'OPEN ACCESS,' and 'FOR EVERYONE'; one puzzle piece in the lower corner reads 'EXCEPT APPARENTLY THIS' and is slightly askew"
+        "A factory floor where American workers look optimistically at an empty assembly line, while just outside the factory window a fleet of foreign-made robots sits padlocked behind a 'BANNED' sign and the domestic production line has a single, unfinished robot arm",
+        "A border checkpoint where customs officers stop a shipment of advanced robots with 'FOREIGN' labels, while behind the officers a domestic factory displays a hand-painted sign reading 'ROBOTS COMING SOON (WE THINK)'",
+        "A chess board where one player removes all the opponent's pieces from the board in triumph, only to look down and realize their own pieces are also missing, as a label on the board reads 'AMERICAN ROBOTICS INDUSTRY'"
       ],
       "captions": [
-        "Wikipedia: the encyclopedia that explains every labor movement in history, now adding a chapter from personal experience.",
-        "The Wikimedia Foundation declined to voluntarily recognize the union, which is a bold choice for a nonprofit whose homepage literally says 'imagine a world where every human being can freely share in the sum of all knowledge.'",
-        "Employees of the world's largest free encyclopedia are unionizing, which means somewhere a Wikipedia article on 'irony' just updated itself.",
-        "Management said they are committed to their employees and their mission, which—much like many Wikipedia citations—will need to be verified by an independent source.",
-        "The good news: if workers need information about their legal rights during a union drive, the answer is literally one tab away."
+        "The U.S. banned foreign robots to build more American robots. The American robot industry said: 'We were using those foreign robots to build the American robots.'",
+        "Step one: ban the competition. Step two: somehow have a world-class domestic robotics industry. Step three is currently being workshopped.",
+        "Nothing jump-starts a manufacturing sector quite like removing the tools that manufacturing sector depends on. Bold strategy.",
+        "The policy to protect American robotics from foreign robots is projected to disrupt American robotics. The robots were not available for comment.",
+        "Banning foreign robots to boost domestic robots is the industrial policy equivalent of eating the seed corn and calling it a farm subsidy."
       ],
       "captionsJa": [
-        "Wikipedia：歴史上あらゆる労働運動を解説してきた百科事典が、今度は自ら一章を追加することになった。",
-        "ウィキメディア財団は自発的な組合承認を拒否した。トップページに「すべての人間が知識を自由に共有できる世界を想像してください」と書いてある非営利団体としては、なかなか大胆な判断だ。",
-        "世界最大の無料百科事典の従業員が組合を結成しようとしている。どこかで「皮肉」の項目が自動更新されたはずだ。",
-        "経営陣は従業員とミッションへのコミットメントを表明した——多くのWikipedia出典と同様、独立した情報源による検証が必要だが。",
-        "よい知らせが一つある：組合活動中の法的権利について調べたければ、答えは文字通り1タブ先にある。"
+        "米国はアメリカ製ロボットを増やすために外国製ロボットを禁止した。アメリカのロボット産業は言った：「その外国製ロボットを使ってアメリカ製ロボットを作っていたんですが」",
+        "ステップ1：競合を排除する。ステップ2：なんとか世界水準の国内ロボット産業を作る。ステップ3は現在検討中。",
+        "製造業が依存しているツールを取り上げることで製造業を活性化する——大胆な戦略だ。",
+        "アメリカのロボット産業を外国製ロボットから守る政策が、アメリカのロボット産業を混乱させると予測されている。当のロボットにはコメントを求めることができなかった。",
+        "国内ロボット産業を育てるために外国製ロボットを禁止するのは、種もみを食べて「農業補助金だ」と言うようなものだ。"
       ],
-      "newsEn": "US-based employees at the Wikimedia Foundation, the nonprofit organization that operates Wikipedia, have joined an ongoing union drive. Management at the foundation declined to voluntarily recognize the union. The move follows a similar effort by UK-based Wikimedia staff in June, who were the first to announce intentions to unionize. The Wikimedia Foundation runs one of the world's most visited websites and is funded primarily through public donations.",
+      "newsEn": "The U.S. government has moved to ban foreign-manufactured robots, framing the policy as a boost to domestic robotics development. However, analysts and industry experts warn the ban may actually hinder the American robotics sector rather than help it. The policy is part of a broader effort to reduce reliance on foreign-made technology in critical industries.",
       "ironyEn": [
         {
-          "contradiction": "The organization dedicated to making all human knowledge freely accessible to everyone apparently draws the line at making collective bargaining freely accessible to its own employees.",
-          "absurdity": "Wikipedia has detailed, well-cited articles on labor rights, union organizing, and the history of worker advocacy—all written, in part, by employees who are now trying to exercise those exact rights.",
-          "outside": "Every year, Wikipedia asks readers around the world to donate so the free encyclopedia can keep running. It turns out 'free' has some fine print, particularly in the HR department."
+          "contradiction": "A policy designed to strengthen American robotics may weaken it — because the U.S. robotics industry currently depends on foreign components and supply chains that the ban would disrupt.",
+          "absurdity": "Banning the competition to grow your own industry is the geopolitical equivalent of getting better at tennis by banning everyone else from the court.",
+          "outside": "For Japan, Germany, and South Korea — countries where robotics is a core export industry — the ban is an inconvenience. For U.S. manufacturers who rely on those robots to stay competitive, it may be a self-inflicted wound."
         },
         {
-          "contradiction": "A nonprofit that relies on a 'we're all in this together' donation model has responded to its workers' 'we're all in this together' union drive by declining to recognize it.",
-          "absurdity": "Somewhere on Wikipedia's servers, there is an article on 'union busting' that just got a lot more relevant to the people who maintain those servers.",
-          "outside": "For an organization whose entire brand is democratizing information, choosing not to voluntarily recognize a union is an interesting editorial decision."
+          "contradiction": "The government wants more American-made robots — in factories that currently run on foreign-made robots, using foreign components, assembled by foreign supply chains.",
+          "absurdity": "The fastest way to build a domestic robotics industry, apparently, is to make it impossible to use robots in the meantime.",
+          "outside": "Nations that spent decades building integrated global robotics supply chains are watching the U.S. try to rebuild those chains domestically, from scratch, under a deadline."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-07-29/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-07-30/candidate-5.jpg",
+      "imageStyle": "classic-cartoon"
     }
   ]
 };
