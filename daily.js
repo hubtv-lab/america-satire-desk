@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-02",
-  "generatedAt": "2026-08-01T22:51:10+00:00",
+  "date": "2026-08-03",
+  "generatedAt": "2026-08-02T22:45:49+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "DOJ Drops Charges Against Olympian Who 'Vandalized' Reflecting Pool Trump Touted as Masterpiece",
-        "source": "CBS News US",
-        "date": "2026-08-02",
-        "url": "https://www.cbsnews.com/news/doj-dismiss-david-hearn-reflecting-pool-vandalism-charges/",
-        "summary": "司法省は、リンカーン・メモリアルの反射池を破損したとして訴追されていた米国オリンピック選手デイビッド・ハーンへの起訴を取り下げた。検察は損傷の原因を「ずさんな設置工事」と結論付けた。"
+        "headline": "RFK Jr. Now Urges Measles Vaccines — After Years of Urging People Not To",
+        "source": "The Guardian US",
+        "date": "2026-08-03",
+        "url": "https://www.theguardian.com/us-news/2026/aug/02/rfk-jr-measles-vaccination",
+        "summary": "長年にわたりワクチンへの懐疑論を広めてきたRFKジュニア保健長官が、麻疹の感染急増を受けて国民に接種を呼びかけた。"
       },
       "commentary": [
-        "<b>矛盾:</b> トランプ大統領が「アメリカの偉大さ」の象徴として大々的に宣伝した改修工事が、その工事自体の欠陥によって損傷していたという構図。",
-        "<b>滑稽さ:</b> オリンピック選手がカヌーで滑っただけで「破壊者」として起訴されたが、本当の破壊者は工事業者だったというオチ。",
-        "<b>日本・海外から見ると:</b> 250周年記念の目玉整備が欠陥工事だったというニュースは、「アメリカ・ファースト」な国家プロジェクトの品質管理への皮肉として世界に映る。"
+        "<b>矛盾:</b> ワクチン不信論を何年もかけて広め、その結果として麻疹が再流行した可能性がある人物が、今度は「打ってください」と国民に頼んでいる。",
+        "<b>滑稽さ:</b> 消防署長が「焚き火は危険です」と記者会見するのと同じ構図だが、その人が何年も「焚き火は無害」と言い続けていた場合の話だ。",
+        "<b>日本・海外から見ると:</b> 公衆衛生のトップが自分の過去の発言と真逆の推奨を出す国として、国際的な信頼性の問題として映る。"
       ],
       "imagePrompts": [
-        "A bewildered man in a kayak helmet sitting in a courtroom dock, while behind him through a window the Reflecting Pool visibly crumbles on its own, construction cones and hard hats scattered around it",
-        "A grand ribbon-cutting ceremony at a newly renovated reflecting pool, with officials in suits smiling for cameras as cracks spider across the pool floor beneath their feet",
-        "A 'WANTED' poster pinned to a bulletin board featuring a stick figure in a canoe, next to a much larger 'CLEARED' stamp, while a shadowy figure in a hard hat sneaks out the back door"
+        "A government official standing at a podium covered in old 'VACCINES ARE DANGEROUS' protest signs he is trying to hide behind a fresh banner reading 'GET VACCINATED,' measles spots visible on the audience members in the background",
+        "A fire marshal in full uniform handing out matches with one hand and fire extinguishers with the other, a smoldering building visible behind him",
+        "A surgeon general's office bulletin board covered in years of anti-vaccine newspaper clippings, with a single new sticky note slapped on top reading 'actually, please vaccinate your kids'"
       ],
       "captions": [
-        "The good news: the Olympic athlete is innocent. The bad news: apparently the pool was guilty of self-destruction the whole time.",
-        "They charged a man with vandalism for paddling through a pool — turns out the pool was its own worst enemy. Which, honestly, feels very on-brand for a 250th-birthday renovation.",
-        "Justice has been served: the pool is broken, the contractor is uncited, and the Olympian is free. The American legal system is working exactly as intended.",
-        "In a twist no one saw coming, the 'botched installation' defense worked — mostly because it was, in fact, botched. A rare case of the facts cooperating.",
-        "Officials confirmed the damage was caused by 'flawed installation and not vandalism.' The contractor could not be reached for comment, possibly because they were already on the next job."
+        "RFK Jr. announced America should vaccinate against measles. Great news — now if only we could find someone in a position of authority who could have said that, say, five years ago.",
+        "The Health Secretary urged parents to get their kids vaccinated. He didn't specify whether that advice supersedes his podcast from 2019, his book from 2021, or just his schedule for this week.",
+        "In a bold new initiative, the nation's top health official is fighting the public health crisis he helped create. Washington calls this 'leadership.' Epidemiologists call it 'irony.'",
+        "Kennedy says measles vaccinations are important. Scientists agree — and have been saying so since 1963, which is also the last time measles was this much of a problem.",
+        "Asked about the reversal, a spokesperson said the Secretary has 'always supported healthy children.' The Secretary's previous tweets were not available for comment, as they had been deleted."
       ],
       "captionsJa": [
-        "朗報：オリンピック選手は無実。悲報：反射池はどうやら最初から自滅する運命だったらしい。",
-        "カヌーで滑っただけで逮捕された男性。犯人は池そのものだったというオチ。建国250周年記念工事としては、なかなかの仕上がりだ。",
-        "裁かれたのは誰でもない。池は壊れ、業者はお咎めなし、選手は釈放。アメリカの司法システムは完璧に機能している。",
-        "「ずさんな設置工事」という弁護が通ったのは、実際にずさんだったからだ。事実が味方した、珍しいケースである。",
-        "当局は「損傷は欠陥工事によるもので、破壊行為ではない」と認定。工事業者はコメントを求めても応答なし――おそらく次の現場に向かっているのだろう。"
+        "RFKジュニアが麻疹ワクチン接種を呼びかけた。朗報だ。もし5年前にそう言える立場の人が誰かいれば、もっとよかったのだが。",
+        "保健長官は親御さんに子どもを接種させるよう促した。2019年のポッドキャスト、2021年の著書、今週のスケジュール、どれが優先されるかは明言しなかった。",
+        "長官は自らが作り出した公衆衛生危機と戦う大胆な新方針を打ち出した。ワシントンはこれを「リーダーシップ」と呼ぶ。疫学者は「皮肉」と呼ぶ。",
+        "ケネディ氏は麻疹ワクチンが重要だと述べた。科学者も同意見だ。1963年から。麻疹がこれほど問題になっていた最後の時期と同じ年に。",
+        "広報担当者は「長官は常に子どもたちの健康を支持してきた」と述べた。長官の過去のツイートはすでに削除されており、コメントを求めることができなかった。"
       ],
-      "newsEn": "The Department of Justice moved to dismiss vandalism charges against U.S. Olympic canoeist David Hearn, who had been accused of ripping the bottom of the Lincoln Memorial Reflecting Pool. Federal prosecutors concluded the damage was caused by botched installation, not vandalism. The renovation was part of a broader D.C. infrastructure upgrade ordered by President Trump ahead of America's 250th anniversary celebrations.",
+      "newsEn": "U.S. Health Secretary Robert F. Kennedy Jr., a longtime skeptic of vaccines who spent years amplifying misinformation about the MMR vaccine, publicly urged American parents on Sunday to vaccinate their children against measles. The announcement came amid a significant surge in measles infections across the country. Kennedy's reversal marks a striking shift from his decades-long public stance against vaccine mandates and his promotion of vaccine safety doubts.",
       "ironyEn": [
         {
-          "contradiction": "A renovation commissioned to showcase American greatness turned out to be the very thing that destroyed what it was meant to celebrate.",
-          "absurdity": "An Olympic athlete was charged with vandalism for paddling through a pool — which turned out to be a crime scene only in the sense that the contractor did it first.",
-          "outside": "From abroad, America's grand 250th-anniversary facelift is looking less like a birthday present and more like a liability waiver."
+          "contradiction": "The nation's top health official is now championing the very vaccine he spent years casting doubt on — making him perhaps the most expensive pro-vaccine convert in U.S. history.",
+          "absurdity": "It turns out the best way to get RFK Jr. to endorse vaccines is to wait for the disease to come roaring back.",
+          "outside": "From abroad, watching a country's public health chief reverse course only after an outbreak materializes looks less like leadership and more like a fire marshal endorsing smoke detectors after the building burns down."
         },
         {
-          "contradiction": "The government built a case against a canoeist while the actual culprit — the construction crew — quietly packed up and went home.",
-          "absurdity": "The pool was so badly installed that merely existing near it was apparently enough to be indicted.",
-          "outside": "International observers note that in most countries, prosecutors usually wait to find out who broke the thing before charging someone for breaking it."
+          "contradiction": "Kennedy's message is essentially: 'Trust the science' — from the same podium where he spent years arguing not to trust the science.",
+          "absurdity": "In a remarkable plot twist, the man whose rhetoric contributed to vaccine hesitancy is now the one tasked with reversing it.",
+          "outside": "International health observers may be forgiven for wondering whether U.S. public health policy is now set on a delay timer calibrated to outbreak severity."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-02/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-08-03/candidate-1.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Trump Media Launches Paid Service Selling Faster Access to the President's Own Tweets",
-        "source": "CNBC Top News",
-        "date": "2026-08-01",
-        "url": "https://www.cnbc.com/2026/08/01/trump-medias-new-data-service-gives-faster-access-to-trumps-posts.html",
-        "summary": "トランプ・メディア・アンド・テクノロジー・グループは8月1日、トランプ大統領のTruth Socialへの投稿に優先的かつ早期にアクセスできる有料データサービスを開始した。"
+        "headline": "Capital One Says It Closed Trump Org Accounts Over Money-Laundering Concerns, Not Jan. 6",
+        "source": "NPR News",
+        "date": "2026-08-03",
+        "url": "https://www.npr.org/2026/08/02/g-s1-136834/capital-one-trump-bank-anti-money-laundering",
+        "summary": "キャピタル・ワンは、2021年にトランプ関連企業の口座数百件を閉鎖したのは1月6日事件への対応ではなく、数ヶ月に及ぶ内部のマネーロンダリング審査が理由だと裁判所で主張している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「国民のための大統領」が発信する公的声明に、企業が金を払って他より早く届くという仕組みが成立している。",
-        "<b>滑稽さ:</b> 大統領のSNS投稿という本来誰でも無料で見られるはずのものを、株式市場の高頻度取引データのように売るサービスが誕生した。",
-        "<b>日本・海外から見ると:</b> 首相の発言に「早期アクセス料」が設定される社会は、情報格差の商業化という点で民主主義の建前を正直に価格表示したものとも映る。"
+        "<b>矛盾:</b> 「政治的報復ではなくコンプライアンス審査の結果だ」という銀行の主張は、どちらの方向に転んでも風刺になる——本当にマネロン審査なら別の問題が浮かぶし、政治的理由なら銀行が隠している構図になる。",
+        "<b>滑稽さ:</b> 数百件の口座を持つ企業が、銀行の標準的なコンプライアンス審査で引っかかったと主張されている——「普通の審査で普通に落ちた」という説明がなぜか訴訟になっている。",
+        "<b>日本・海外から見ると:</b> 元大統領の関連企業が銀行のマネロン審査で口座を閉鎖され、それを法廷で争っている状況は、アメリカの政治と金融の境界の曖昧さを象徴するニュースとして映る。"
       ],
       "imagePrompts": [
-        "A velvet rope in front of a large glowing smartphone screen displaying a presidential post, with suited figures holding briefcases at the front of the line and ordinary citizens peering from behind a barrier",
-        "A stock trading floor with traders frantically watching a ticker that displays presidential social media posts instead of stock prices, a spinning 'PREMIUM ACCESS' logo overhead",
-        "A podium labeled 'Official Presidential Statement' with a coin slot installed on the front, a line of people in business suits inserting gold coins to hear the speech"
+        "A bank teller behind a glass window sliding a 'ACCOUNT CLOSED' notice across the counter to a figure in a business suit, with two large signs visible on the wall: one reading 'COMPLIANCE REVIEW' and the other 'JANUARY 6TH,' with the teller pointing only at the first sign",
+        "A massive stack of bank account folders labeled 'UNDER REVIEW' with a compliance officer holding a rubber stamp, surrounded by lawyers arguing in front of a judge",
+        "A courtroom scene where a bank representative and a business lawyer are both pointing at completely different calendars — one showing January 2021 and the other showing a months-long audit timeline"
       ],
       "captions": [
-        "Breaking news: the President's thoughts are now available in economy and first class. Upgrades recommended before the next tariff announcement.",
-        "In the old days, a town crier shouted the news for free. We've come a long way — now it's $100,000 a month, and the crier is a Truth Social algorithm.",
-        "Democracy dies in darkness, they say. Turns out it also has a paywall.",
-        "For just $100,000 a month, you can find out what the President is thinking before your competitors do. For the rest of us, there's always the news — arriving fashionably late.",
-        "The government transparency advocates who fought for the Freedom of Information Act did not anticipate that the information would eventually be offered in a premium tier."
+        "Capital One says it closed the accounts due to money-laundering concerns, not January 6th. Reassuring — the bank wants you to know its decisions are based strictly on financial red flags, not the news cycle.",
+        "The bank insists the closures followed a routine compliance review. Nothing says 'routine' like months of internal investigation and a federal lawsuit.",
+        "Capital One's legal position: 'We didn't close your accounts because of the riot — we closed them because of the audit.' The court will now decide which explanation is more embarrassing.",
+        "Hundreds of accounts flagged in a money-laundering review. The organization says it's political. The bank says it's procedural. The popcorn industry says it's profitable.",
+        "In America, you can sue your bank for closing your accounts. In most countries, if a bank closes your accounts after a money-laundering review, the conversation ends differently."
       ],
       "captionsJa": [
-        "速報：大統領の考えはエコノミークラスとファーストクラスで選べます。次の関税発表の前にアップグレードをお勧めします。",
-        "昔は町の布告係が無料でニュースを伝えた。今は月10万ドル、配信はTruth Socialのアルゴリズムが担う。いい時代になった。",
-        "「民主主義は闇の中で死ぬ」と言われる。どうやらペイウォールの中でも死ぬらしい。",
-        "月10万ドルで、ライバルより先に大統領の考えが分かる。払えない人には、少し遅れて届くニュースがある。それが「報道の自由」だ。",
-        "情報公開法のために闘ってきた透明性の活動家たちは、情報がいつかプレミアムプランで売られる日を想定していなかった。"
+        "キャピタル・ワンは口座閉鎖の理由は1月6日ではなくマネロン審査だと述べた。安心してほしい——この銀行の判断はニュースサイクルではなく財務上の懸念に基づいているそうだ。",
+        "銀行は「通常のコンプライアンス審査の結果」と主張する。数ヶ月に及ぶ内部調査と連邦訴訟が「通常」であるなら、そうなのだろう。",
+        "キャピタル・ワンの法的主張：「暴動のせいで閉鎖したのではなく、審査のせいだ。」裁判所はどちらの説明がより恥ずかしいかを判断することになる。",
+        "数百件の口座がマネロン審査で引っかかった。企業側は「政治的理由だ」と言い、銀行側は「手続き上の問題だ」と言う。ポップコーン業界は儲かっている。",
+        "アメリカでは、銀行に口座を閉鎖されたら訴えることができる。ほとんどの国では、マネロン審査の後に口座が閉鎖されたら、会話の方向性はだいぶ違う。"
       ],
-      "newsEn": "Trump Media and Technology Group launched a paid data service on August 1st, offering clients faster access to top Truth Social posts from President Donald Trump. The service sells what is essentially a speed advantage in receiving the president's public statements. The launch follows reports that early access tiers could cost up to $100,000 per month.",
+      "newsEn": "Capital One is asking a federal judge to permanently dismiss a lawsuit filed by Trump-affiliated businesses, which alleged the bank closed their accounts in retaliation for the January 6th Capitol riot. The bank argues that a months-long internal compliance review — not political motivations — explains why hundreds of accounts were shut down in 2021. Capital One maintains the closures were the result of standard anti-money-laundering procedures applied through its regular compliance process.",
       "ironyEn": [
         {
-          "contradiction": "A president elected to speak for all Americans is now technically speaking to paying customers first.",
-          "absurdity": "The free press spent decades demanding government transparency — and now they can have it, for $100,000 a month.",
-          "outside": "From abroad, the U.S. has essentially invented a stock ticker for democracy: the faster you pay, the faster you know what the government is thinking."
+          "contradiction": "Capital One insists the account closures had nothing to do with January 6th — which is either reassuring, or raises an entirely different set of questions about why hundreds of accounts triggered a months-long money-laundering review.",
+          "absurdity": "The bank's defense is essentially: 'We didn't close the accounts because of the insurrection — we closed them because of compliance.' Somehow this is meant to make everyone feel better.",
+          "outside": "Foreign observers watching a former U.S. president's business empire fight a bank in court over account closures tied to an anti-money-laundering review may be updating their mental models of American exceptionalism."
         },
         {
-          "contradiction": "Public statements made from the highest office in the land have been quietly converted into a premium subscription product.",
-          "absurdity": "If you can't afford the fast lane, you can still read the president's posts — you'll just find out about the tariffs slightly after the hedge funds do.",
-          "outside": "Other governments release official statements for free; the U.S. has found a way to monetize the gap between 'posted' and 'seen.'"
+          "contradiction": "If the bank is telling the truth, the story is about a compliance failure. If the plaintiffs are telling the truth, the story is about political retaliation. Either way, somebody has explaining to do.",
+          "absurdity": "Only in America can a dispute over whether your bank accounts were closed for political reasons or financial crime reasons be framed as a civil liberties issue.",
+          "outside": "Most countries have routine bank compliance reviews. Few have them become federal lawsuits involving a former head of state."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-02/candidate-2.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-08-03/candidate-2.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Trump Blames Tim Walz for Iran-Linked Water System Cyberattacks on Minnesota",
+        "headline": "Fender's CEO Says Your Bandmates Are Basically Just Analog AI",
         "source": "The Verge",
-        "date": "2026-08-02",
-        "url": "https://www.theverge.com/policy/974197/trump-tim-walz-minnesota-water-hacks-iran",
-        "summary": "FBI・EPA・サイバーセキュリティ当局がイランの関与を示唆するなか、トランプ大統領はミネソタ州の水道システムへのサイバー攻撃について前副大統領候補のティム・ウォルズを名指しで批判した。"
+        "date": "2026-08-03",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+        "summary": "フェンダーのCEOがテレキャスター75周年記念インタビューでAIと音楽について語り、バンドメンバーを「アナログAI」と表現した発言が拡散し批判を浴びている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 連邦捜査機関がイランの関与を示唆している最中に、大統領が現在は何の連邦ポストも持たない州の元知事を責任者として名指しするという構図。",
-        "<b>滑稽さ:</b> サイバー攻撃の犯人として「イランの工作員」と「落選した副大統領候補」が同時に疑われる国は、世界広しといえどもアメリカだけだ。",
-        "<b>日本・海外から見ると:</b> 国家インフラへの外国からの攻撃を党派的なスコア精算に利用するという光景は、サイバーセキュリティを安全保障ではなく選挙戦として扱っていると映る。"
+        "<b>矛盾:</b> 「ギタリストの魂」を体現するブランドとして75年間マーケティングしてきた会社のトップが、人間の音楽仲間を「アナログAI」と呼ぶのは、自社の全広告を自分で否定するようなものだ。",
+        "<b>滑稽さ:</b> 75周年の祝賀インタビューで、ギターの象徴的ブランドのCEOが最も盛り上がる話題がAIだったという時点で、何かが根本的にずれている。",
+        "<b>日本・海外から見ると:</b> 「人間らしさ」「表現の自由」を売り物にしてきた楽器ブランドが、ミュージシャンを機械の比喩で語る——ブランドと価値観のギャップが鮮明に見える。"
       ],
       "imagePrompts": [
-        "A large government control room with screens showing cyberattack warnings and a map of seven glowing red states, while a figure at the front podium points to a dartboard with a political headshot on it instead of the threat map",
-        "A broken water pipe spraying water in a public square, with official investigators in FBI jackets examining a laptop, while a separate figure in the background holds up a campaign poster as evidence",
-        "A courtroom-style setting where a waterworks control panel sits in the defendant's chair, flanked by two name placards reading 'IRAN' and 'TIM WALZ,' with judges looking equally confused"
+        "A guitar store showroom with vintage Fender guitars on the wall, but the other musicians in a band rehearsal are depicted as old-fashioned analog computers with reel-to-reel tape and blinking lights instead of faces",
+        "A CEO at a podium in front of a giant '75 YEARS OF HUMAN EXPRESSION' banner, gesturing enthusiastically toward a diagram showing 'BANDMATE = ANALOG AI' with arrows and flowcharts",
+        "A classic rock band on stage where each member has a nameplate: 'Rhythm Guitar: Analog AI Unit 1,' 'Bass: Analog AI Unit 2,' 'Drums: Analog AI Unit 3,' while the lone human guitarist stares in confusion"
       ],
       "captions": [
-        "Iran allegedly hacked the water supply across seven states. In a related story, Tim Walz has been asked to explain himself.",
-        "The FBI suspects Iran. The EPA suspects Iran. The President suspects the guy who lost the election. Democracy is a rich tapestry.",
-        "Cybersecurity experts say the attacks bear all the hallmarks of a state-sponsored Iranian operation. The White House says it bears all the hallmarks of Tim Walz.",
-        "In most countries, a foreign cyberattack on the water supply triggers a diplomatic response. In America, it triggers a tweet about the last election.",
-        "The good news: the water is probably safe now. The bad news: Tim Walz is apparently responsible for Iranian foreign policy."
+        "The Fender CEO says your bandmates are just analog AI. On the bright side, this means you can fire your drummer and call it a software downgrade.",
+        "Fender has spent 75 years selling the dream of human connection through music. Their CEO has spent one interview explaining that humans are just AI with slower processing speeds.",
+        "According to the CEO of the world's most famous guitar company, a band is just a distributed computing system running on carbon. Rock and roll, baby.",
+        "Fender's anniversary message: 'We love musicians.' Fender's CEO's message: 'Musicians are basically analog robots.' Marketing is now looking for a new CEO.",
+        "If your bandmates are analog AI, then your guitar solo is just a human-generated audio output. Fender's marketing team would like to speak with the CEO immediately."
       ],
       "captionsJa": [
-        "イランが7州の水道をハッキングした疑い。関連ニュース：ティム・ウォルズが釈明を求められている。",
-        "FBIはイランを疑い、EPAもイランを疑う。大統領は選挙で負けた人物を疑う。民主主義とは奥深いものだ。",
-        "サイバーセキュリティの専門家は「国家主導のイランによる攻撃の特徴がある」と言う。ホワイトハウスは「ティム・ウォルズの特徴がある」と言う。",
-        "多くの国では、外国による水道へのサイバー攻撃は外交的対応を引き起こす。アメリカでは、前回の選挙についてのツイートを引き起こす。",
-        "朗報：水はたぶん安全。悲報：ティム・ウォルズはどうやらイランの外交政策にも責任があるらしい。"
+        "フェンダーのCEOによると、バンドメンバーはアナログAIらしい。朗報：これでドラマーをクビにしても「ソフトウェアのダウングレード」と呼べる。",
+        "フェンダーは75年間、音楽を通じた人間のつながりを売ってきた。そのCEOは1回のインタビューで「人間はただ処理速度の遅いAIだ」と説明してしまった。",
+        "世界最有名ギターブランドのCEOによれば、バンドとはカーボンで動く分散コンピューティングシステムだそうだ。ロックンロールだね。",
+        "フェンダーのマーケティングメッセージ：「ミュージシャンが大好き。」CEOのメッセージ：「ミュージシャンはアナログロボットみたいなもの。」マーケティング部門は現在CEOを探している。",
+        "バンドメンバーがアナログAIなら、ギターソロは人間が生成したオーディオ出力だ。フェンダーのマーケティングチームは今すぐCEOと話し合いたいらしい。"
       ],
-      "newsEn": "Malicious cyber activity disrupted water system technology in at least seven U.S. states, with Minnesota among the hardest hit. The FBI, the EPA, and the Cybersecurity and Infrastructure Security Agency stopped short of officially attributing the attacks but indicated Iran is the likely culprit. President Trump nonetheless used the incident to publicly blame former Minnesota Governor Tim Walz, who currently holds no federal office.",
+      "newsEn": "Fender CEO Edward 'Bud' Cole gave an interview in May celebrating the 75th anniversary of the Telecaster guitar, during which he made comments comparing bandmates to 'analog AI.' The remarks initially went unnoticed but have since spread widely online, adding to a wave of bad PR for the company. The controversy has amplified existing criticism of Fender's approach to artificial intelligence and its relationship with the musician community the brand has long claimed to serve.",
       "ironyEn": [
         {
-          "contradiction": "Federal agencies pointed toward a foreign government as the attacker; the President pointed toward a man who lost an election seven months ago.",
-          "absurdity": "Tim Walz somehow became a cybersecurity threat from the private sector, which is either a terrifying new development or a complete misreading of the situation.",
-          "outside": "Other nations tend to retaliate against the country that hacked their water supply. The U.S. opted to retaliate against a former vice-presidential candidate."
+          "contradiction": "Fender has spent 75 years selling the idea that a guitar is the purest expression of human creativity — and its CEO just described your drummer as 'analog AI.'",
+          "absurdity": "Nothing says 'we love musicians' like comparing the irreplaceable human bonds of a band to a slower version of the technology currently being used to replace musicians.",
+          "outside": "A guitar brand founded on the romance of rock 'n' roll describing bandmates as analog AI is the corporate equivalent of a love poet filing for a trademark on 'affection.'"
         },
         {
-          "contradiction": "The same administration that vowed to protect critical infrastructure responded to a critical infrastructure attack by opening Twitter.",
-          "absurdity": "Iran allegedly disrupted water systems across seven states — and the political casualty was Tim Walz's reputation.",
-          "outside": "International cybersecurity analysts are updating their threat models to include 'losing a U.S. election' as a potential attack vector."
+          "contradiction": "The CEO chose the 75th anniversary of the Telecaster — an instrument that helped define human musical expression — to explain that human musical collaborators are basically just pre-digital algorithms.",
+          "absurdity": "If your bandmates are analog AI, then Fender guitars are analog music-generation hardware, and the CEO's interview is analog content marketing. At least it's consistent.",
+          "outside": "From outside the U.S., watching a storied American instrument brand fumble its anniversary PR by accidentally dehumanizing its entire customer base is a masterclass in what not to say."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-02/candidate-3.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-08-03/candidate-3.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "California Raises Minimum Wage to Highest in U.S. While Governor Taunts Trump",
-        "source": "The Guardian US",
+        "headline": "Communities Across America Are Fighting Back Against AI Data Centers in Their Backyards",
+        "source": "CBS News US",
         "date": "2026-08-02",
-        "url": "https://www.theguardian.com/us-news/2026/aug/01/california-minimum-wage-increase",
-        "summary": "カリフォルニア州のギャビン・ニューサム知事は、来年1月から州の最低賃金を全米最高水準の時給17.40ドルに引き上げると発表し、同時にトランプ大統領を挑発する発言を行った。"
+        "url": "https://www.cbsnews.com/video/resistance-grows-nationwide-against-ai-data-center-boom/",
+        "summary": "AIデータセンターの急増に対し、環境負荷や電力・水資源への影響を懸念する全米各地のコミュニティが反対運動を展開している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 全米最高の最低賃金という「労働者のための政策」が、同時に大統領への政治的当てつけとして発表されるという、政策と挑発が一体化した構図。",
-        "<b>滑稽さ:</b> 州知事が賃金改善の記者会見をマウント合戦の舞台にする。カリフォルニアの労働者は、自分たちの時給が「知事のケンカの道具」として使われていることに気付いているだろうか。",
-        "<b>日本・海外から見ると:</b> 連邦政府と州政府が政策を巡って公開で口撃し合う光景は、アメリカの連邦制を「制度」ではなく「ライバル関係」として世界に見せる。"
+        "<b>矛盾:</b> シリコンバレーが「AIが世界を救う」と宣伝する一方で、その計算基盤を支えるデータセンターは地方の電力網・水源・住民生活に負荷をかけ、受け入れを拒否されている。",
+        "<b>滑稽さ:</b> 「未来のインフラ」が、地元の人々から「ゴミ処分場と同じ扱い」で反対されているのは、テック業界の自己イメージと現実の落差を示している。",
+        "<b>日本・海外から見ると:</b> AIの恩恵を享受するのは都市部の大企業とユーザーで、その環境・エネルギーコストを地方の住民が負担する構図は、日本の原発立地問題に似た「便益と負担の分離」として映る。"
       ],
       "imagePrompts": [
-        "A podium at an official press conference covered in labor union banners and American flags, with a large '$17.40' display, while the governor at the mic is visibly winking at a large portrait of a rival politician on the wall",
-        "A California minimum wage worker in a fast-food uniform holding a paycheck labeled '$17.40/hr' while a thought bubble shows a San Francisco rent listing with a much larger number",
-        "Two boxing ring corners, one labeled 'FEDERAL POLICY' and one 'CALIFORNIA,' with a referee holding a minimum wage sign as the round card between the fighters"
+        "A massive gleaming data center building surrounded by 'NO TRESPASSING' signs and local residents holding protest signs, while the data center's sign reads 'POWERING THE FUTURE,' with a drained river visible in the background",
+        "A town meeting where residents face a projection screen showing the words 'AI WILL SAVE THE WORLD,' while looking out the window at power lines drooping under heavy load and a 'WATER SHORTAGE' warning sign",
+        "A side-by-side image: on the left, a Silicon Valley office with people cheerfully using AI tools; on the right, a small-town power grid struggling under load with residents examining their electricity bills"
       ],
       "captions": [
-        "California raised the minimum wage to $17.40 an hour, which is either a bold labor victory or the opening move in a longer argument — possibly both.",
-        "The governor announced the highest minimum wage in U.S. history, and in the same breath challenged the President to a fight. Policy and pettiness, beautifully braided.",
-        "At $17.40 an hour, California workers can now afford to be priced out of California housing slightly more slowly than before.",
-        "Gavin Newsom taunted Trump while announcing a wage increase — proving once again that in American politics, no good deed goes un-gloated.",
-        "The minimum wage is going up. The cost of rent is also going up. The political theater budget, apparently, has no ceiling at all."
+        "Over 4,000 AI data centers are now operating in the U.S. The communities hosting them would like a word — preferably with the people who benefit from them, who are located elsewhere.",
+        "Tech companies say AI will transform the world. Local zoning boards say AI will transform their aquifer first, and they'd like to discuss that.",
+        "The AI revolution is powered by electricity and water. Communities providing the electricity and water are revolutionizing their approach to zoning approval.",
+        "Silicon Valley: 'AI is the future.' Rural America: 'Great. The future has been using our power grid for six months and our water table is dropping.' Silicon Valley: 'That's an infrastructure problem.'",
+        "Residents fighting data centers in their backyards are being called anti-progress. They prefer 'pro-having-water.'"
       ],
       "captionsJa": [
-        "カリフォルニア州が時給17.40ドルに引き上げた。これは大胆な労働政策の勝利か、単なる喧嘩の口実か――あるいは両方か。",
-        "知事は全米最高の最低賃金を発表し、同じ口で大統領に喧嘩を売った。政策と嫌みが見事に融合した歴史的な会見だった。",
-        "時給17.40ドルになれば、カリフォルニアの労働者は以前よりほんの少しゆっくりと、カリフォルニアの家賃に追い出されるようになる。",
-        "ニューサム知事は賃上げを発表しながらトランプを挑発した。アメリカ政治において、善行はマウントを踏まずには終わらない。",
-        "最低賃金は上がる。家賃も上がる。政治ショーの予算には、どうやら上限がないようだ。"
+        "全米に4000以上のAIデータセンターが稼働中。そのホスト役となっているコミュニティは、恩恵を受けている人々——つまり別の場所にいる人々——と話し合いたいと思っている。",
+        "テック企業はAIが世界を変えると言う。地元の都市計画審議会は「まず帯水層を変えようとしているが、それについて話し合いたい」と言っている。",
+        "AI革命は電力と水で動いている。その電力と水を提供しているコミュニティは、ゾーニング承認への取り組みを革命的に変えつつある。",
+        "シリコンバレー：「AIは未来だ。」地方：「そうですか。その未来は6ヶ月間うちの電力網を使って、地下水位が下がっています。」シリコンバレー：「それはインフラの問題ですね。」",
+        "データセンター建設に反対する住民は「時代遅れ」と呼ばれている。彼らは自分たちを「水を持ち続けたい側」と呼んでいる。"
       ],
-      "newsEn": "California Governor Gavin Newsom announced that the state's minimum wage will rise to $17.40 per hour starting January 1st, which would make it the highest minimum wage floor of any U.S. state. The announcement was accompanied by remarks from Newsom that openly taunted President Trump. The move continues California's pattern of positioning itself as a policy counterweight to federal direction.",
+      "newsEn": "Tech companies are building massive numbers of AI data centers to fuel their artificial intelligence initiatives, with more than 4,000 now in operation across the United States. However, communities in several states are pushing back against plans to site these facilities locally, citing concerns about environmental impact, energy consumption, water usage, and financial costs to local infrastructure. Residents and local governments are increasingly challenging zoning approvals and demanding greater scrutiny of the deals being made to attract data center investment.",
       "ironyEn": [
         {
-          "contradiction": "A policy designed to help low-wage workers was announced primarily as an act of political provocation — raising the question of who the raise is really for.",
-          "absurdity": "The governor held what was technically a labor policy press conference but functionally a trash-talk segment.",
-          "outside": "In most democracies, raising the minimum wage is a dry fiscal announcement. In the U.S., it comes with a hype video and a callout post."
+          "contradiction": "Tech companies promise that AI will solve humanity's greatest challenges — but first, your town needs to sacrifice its water supply and power grid to train the models.",
+          "absurdity": "America now has more than 4,000 AI data centers, and the communities hosting them are starting to ask the same question as the rest of the country: 'Wait, what exactly do we get out of this?'",
+          "outside": "From abroad, the spectacle of a country that exports AI optimism while its rural communities fight to keep data centers out looks like the digital equivalent of an oil boom town — somebody gets rich, and somebody gets the pipeline."
         },
         {
-          "contradiction": "California is simultaneously America's most expensive state to live in and now its highest minimum-wage state — a gap the $17.40 does not quite close.",
-          "absurdity": "Workers earning the new minimum wage in San Francisco will now make enough to afford approximately one-third of a studio apartment, up from one-quarter.",
-          "outside": "Foreign observers admire the gesture while quietly noting that $17.40 an hour in Los Angeles is roughly what a parking meter charges per fifteen minutes."
+          "contradiction": "The infrastructure powering the AI revolution is being rejected by the communities asked to host it — which suggests the revolution may need a better PR department than an engineering department.",
+          "absurdity": "AI is supposed to be the solution to all problems. It currently requires so much electricity and water that it is becoming the problem in towns that never asked for the solution.",
+          "outside": "The pattern is familiar internationally: the benefits of a technology flow to consumers in wealthy cities, while the environmental costs land on whichever community was offered a tax break large enough to say yes."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-02/candidate-4.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-08-03/candidate-4.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "A Billboard Hot 100 Hit Is Under Scrutiny for Possibly Being AI-Generated Slop",
-        "source": "The Verge",
+        "headline": "Job Seekers Are Dropping Out of the Workforce Because the Job Market Wore Them Down",
+        "source": "CNBC Top News",
         "date": "2026-08-02",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
-        "summary": "ラッパーのフェニックス・フレクシンのソロ曲「Rubberz」がビルボードHot 100の58位にランクインしたが、楽曲がAIによって生成されたものではないかという疑惑が浮上し、音楽業界に議論を呼んでいる。"
+        "url": "https://www.cnbc.com/2026/08/02/why-people-are-dropping-out-of-the-workforce-and-not-looking-for-new-jobs-the-market-wore-me-down.html",
+        "summary": "長期にわたる就職活動での挫折が原因で、求職活動を諦め労働市場から離脱するアメリカ人が増えており、労働参加率の低下につながっている可能性がある。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「本物のアーティスト性」を競うはずのヒットチャートに、AI生成の疑いがある楽曲がランクインしている可能性。チャートは「人気の証明」から「疑惑の温床」になりつつある。",
-        "<b>滑稽さ:</b> 数百万回再生されてチャートインするまで、誰も「本当に人間が作ったか」を確認しなかったという音楽業界の審査体制の現状。",
-        "<b>日本・海外から見ると:</b> AIが作ったかもしれない曲がトップ100に入るアメリカの音楽市場は、日本のバーチャルアイドル文化とは違う意味で「作者の不在」を体現している。"
+        "<b>矛盾:</b> 「労働者が足りない」と企業が嘆く一方で、実際に仕事を求めた人々がシステムに疲弊して市場を去っている——需要と供給が存在するのにマッチングが機能していない。",
+        "<b>滑稽さ:</b> AIが採用プロセスを「効率化」した結果、人間の求職者がAIのふるいにかけられ続けて脱落し、最終的にはAIと話すだけになったという構図が成立しつつある。",
+        "<b>日本・海外から見ると:</b> 「働きたい人が仕事を見つけられずに市場を去る」という現象は、日本の就職氷河期世代の問題と重なり、社会的損失として深刻に映る。"
       ],
       "imagePrompts": [
-        "A large glowing Billboard Hot 100 chart on a Times Square screen, with one entry highlighted and a magnifying glass revealing a tiny robot emoji next to the artist name",
-        "A recording studio where a microphone stands alone in a spotlight, the engineer's booth empty except for a laptop running an AI interface, a gold record hanging on the wall above it",
-        "A panel of music industry judges in suits holding scorecards at a talent show, all staring at an empty stage where a speaker plays music by itself, looking uncertain how to score it"
+        "A long winding maze made of job application forms and automated rejection emails, with a lone job seeker in business clothes sitting down exhausted at the center, surrounded by walls labeled 'AI SCREENING,' 'NO RESPONSE,' and 'POSITION FILLED'",
+        "A job fair where every booth is staffed by a robot holding a clipboard labeled 'APPLICANT TRACKING SYSTEM,' while human candidates in business attire quietly turn around and walk toward the exit",
+        "A labor force participation chart printed as a poster, with a job seeker asleep on a park bench underneath it, briefcase at their side, pigeons perched on the briefcase"
       ],
       "captions": [
-        "A song allegedly made by AI reached the Billboard Hot 100. On the bright side, it didn't need a tour bus, a manager, or a rider demanding green M&Ms.",
-        "The music industry's top question used to be 'will it chart?' It's now 'did a human make it?' Progress, of a kind.",
-        "Millions of people streamed it. Millions of people argued about it. The one entity that definitely benefited was the algorithm — as usual.",
-        "If the song is AI-generated, it means a large language model cracked the Billboard Hot 100 before most human artists do. We should probably be embarrassed about that.",
-        "The track climbed to number 58 on the Hot 100 before anyone asked who wrote it. In fairness, we don't usually ask that question until the lawsuit."
+        "Americans are dropping out of the workforce because the job market wore them down. In a related story, the job market has announced record efficiency in applicant processing.",
+        "Companies can't find workers. Workers can't find companies that will respond to their applications. The automated rejection email system, however, has never been more productive.",
+        "The U.S. labor market is so optimized for employers that job seekers have decided opting out is less painful than opting in. Economists call this 'labor force exit.' Candidates call it 'self-defense.'",
+        "Job applicants are giving up after months of ghosting, automated rejections, and algorithmic screening. To be fair, the algorithm is also rejecting the job applicants' follow-up emails. Very consistent.",
+        "The decline in labor force participation has many causes. One of them is that the hiring process has become so demoralizing that people are choosing unemployment over the experience of applying for employment."
       ],
       "captionsJa": [
-        "AI製とも言われる楽曲がビルボードHot 100にランクイン。メリットは一つ：ツアーバスも、マネージャーも、「M&Mは緑だけ除いて」という要求もいらない。",
-        "音楽業界の最重要質問は「ヒットするか？」だった。今は「人間が作ったか？」になった。ある意味、進歩だ。",
-        "何百万人もがストリーミングし、何百万人もが議論した。確実に得をしたのはアルゴリズム。いつも通りだ。",
-        "AIがHot 100に入ったとすれば、大言語モデルはほとんどの人間アーティストより先にチャートを攻略したことになる。そろそろ恥ずかしくなってきた。",
-        "誰が書いたか誰も聞かないままHot 100の58位に達した。公平に言えば、そういう質問をするのはたいてい訴訟になってからだ。"
+        "アメリカ人が就職活動に疲れて労働市場から離脱している。関連ニュース：採用管理システムは過去最高の処理効率を達成したと発表した。",
+        "企業は「働き手が見つからない」と言う。働き手は「応募しても返事が来ない」と言う。自動不採用メールシステムだけが、かつてなく生産的に動いている。",
+        "米国の労働市場は雇用側に最適化された結果、求職者は「参加するより離脱する方がマシ」と判断し始めた。経済学者はこれを「労働参加率の低下」と呼ぶ。求職者は「自衛」と呼ぶ。",
+        "求職者が数ヶ月のガン無視・自動不採用・アルゴリズムによるふるい落としの末に諦めている。公平に言えば、アルゴリズムはフォローアップメールも確実に不採用にしている。一貫性は高い。",
+        "労働参加率低下には様々な原因がある。そのひとつは、採用プロセスが「就職活動」より「就職活動するという経験」の方が辛いと感じさせるレベルに達したことだ。"
       ],
-      "newsEn": "Fenix Flexin, best known as a member of Los Angeles rap duo Shoreline Mafia, has found solo success with the track 'Rubberz,' which climbed to number 58 on the Billboard Hot 100. Almost immediately after its release, questions arose about whether the song was AI-generated, with many listeners and commentators pointing to sonic and stylistic anomalies. The controversy has sparked broader debate about AI's role in mainstream music.",
+      "newsEn": "A growing number of Americans are dropping out of the labor force entirely and no longer looking for new jobs, with many citing exhaustion from prolonged and fruitless job searches. The trend may be contributing to recent declines in the U.S. labor force participation rate. Candidates describe a market characterized by automated screening, ghosting by employers, repeated rejections, and a sense that the system is not designed to connect people with work but to filter them out.",
       "ironyEn": [
         {
-          "contradiction": "The music industry spent decades insisting that authenticity was its core value — and now its charts may be partially curated by a language model.",
-          "absurdity": "A song potentially made by AI reached the Billboard Hot 100 before anyone thought to ask whether a human made it.",
-          "outside": "Japan has spent years openly celebrating virtual artists; America accidentally invented one and put it on the charts before noticing."
+          "contradiction": "Companies say they can't find enough workers. Workers say they can't find companies willing to hire them. Somewhere between those two statements is an automated screening system taking credit for the gap.",
+          "absurdity": "The job market has become so efficient at rejecting people that candidates are now self-rejecting before anyone has to bother — a productivity win, if you squint.",
+          "outside": "From abroad, a country that prides itself on the work ethic of its people now has those same people giving up on working not because there are no jobs, but because applying for them has become its own full-time job with no pay."
         },
         {
-          "contradiction": "Streaming platforms that pay human artists fractions of a cent per play may now be sending those fractions to a GPU.",
-          "absurdity": "The debate over whether the song is 'real' music has generated far more engagement than the song itself, which is either a profound statement or just the internet.",
-          "outside": "In an era when critics ask 'is this art?' about everything, the music industry is now also asking 'is this a person?' which feels like meaningful progress, in some direction."
+          "contradiction": "The labor force participation rate is falling, and one reason is that the labor market has optimized so thoroughly for the employer's convenience that job seekers have concluded the process isn't worth the cost.",
+          "absurdity": "American employers invested heavily in AI-powered hiring tools to find the best candidates faster. The candidates found that the tools were very fast at finding reasons not to hire them.",
+          "outside": "Internationally, 'discouraged workers' is a known economic category. The American innovation is apparently making the discouragement efficient enough to happen before the first human even reviews a résumé."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-02/candidate-5.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-08-03/candidate-5.jpg",
+      "imageStyle": "retro-pop"
     }
   ]
 };
