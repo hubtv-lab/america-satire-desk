@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-08",
-  "generatedAt": "2026-08-07T22:03:55+00:00",
+  "date": "2026-08-09",
+  "generatedAt": "2026-08-08T20:15:51+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Appeals Court Blocks Trump's White House Ballroom, Setting Up Supreme Court Showdown",
+        "headline": "Trump's Former Defense Lawyer Confirmed as Attorney General in 50-49 Vote",
         "source": "CBS News US",
-        "date": "2026-08-08",
-        "url": "https://www.cbsnews.com/news/white-house-ballroom-trump-appeals-court/",
-        "summary": "連邦控訴裁判所が、トランプ政権によるホワイトハウス敷地内への約8,400平方メートルの大型宴会場建設を差し止め、議会承認なしでは着工できないと判断した。政権は最高裁への上訴を表明している。"
+        "date": "2026-08-09",
+        "url": "https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/",
+        "summary": "上院はトランプ前大統領の元弁護士トッド・ブランチ氏を50対49の僅差で司法長官に承認した。ブランチ氏はトランプ氏の刑事裁判で弁護を担当していた人物。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「小さな政府」を掲げる政権が、国民の承認なしに国家の象徴的建造物を改築しようとし、司法に止められるという構図は、権力観の矛盾を鮮やかに映し出す。",
-        "<b>滑稽さ:</b> 大統領官邸に「宴会場が足りない」という問題を最高裁まで持ち込もうとしている——アメリカの司法リソースの使われ方として、歴史書に残る一章になりそうだ。",
-        "<b>日本・海外から見ると:</b> 各国の政府庁舎改修には議会審議や文化財審査が伴うのが通常で、大統領が行政命令で首都の歴史的建造物を独断改築しようとする事態は、海外メディアには「三権分立の教科書案件」に映る。"
+        "<b>矛盾:</b> 国家の法執行機関のトップに、その長官を任命した大統領の刑事弁護を担当した人物が就く——「法の下の平等」という建前が、人事の構図そのものに照らし合わされる。",
+        "<b>滑稽さ:</b> 「あなたは無罪です」と言い続けた弁護士が、今度は全国民に対して「これが合法かどうか」を判断する立場になった。キャリアパスとしては驚くほどシームレスだ。",
+        "<b>日本・海外から見ると:</b> 日本で例えるなら、被告の国選弁護人がそのまま検事総長に就任するようなもの。三権分立の教科書が静かに燃えている。"
       ],
       "imagePrompts": [
-        "A grand half-built ballroom inside the White House grounds, wrapped in yellow legal-caution tape, with a long line of judges in robes holding clipboards labeled 'PERMIT REQUIRED,' while a tuxedoed figure stands at the door holding a 'GRAND OPENING' sign that keeps getting crossed out",
-        "An enormous blueprint of a ballroom spread across the steps of the Supreme Court building, with tiny construction workers frozen mid-action, hard hats in hand, staring up at the building's columns",
-        "A split image: on the left, a glittering ballroom chandelier; on the right, a towering stack of court filing documents labeled 'Appeals,' 'Re-appeals,' and 'Please Let Us Party'"
+        "A courtroom that has been redecorated as a government executive office: the defense table is now the attorney general's desk, the 'NOT GUILTY' legal briefs are stacked next to a nameplate reading 'Attorney General,' and a gavel sits next to a briefcase",
+        "A revolving door between a courthouse and the Department of Justice building, with a single briefcase spinning through it, the DOJ eagle seal visible on one side and 'Defense Counsel' lettered on the other",
+        "A org chart on a whiteboard showing 'Client' at the top and 'Attorney General' directly below, with an arrow looping from the bottom back to the top, drawn in a conference room with American flags in the background"
       ],
       "captions": [
-        "The Trump administration is taking a ballroom dispute to the Supreme Court — proving that in America, the right to party is inalienable, but apparently still subject to judicial review.",
-        "Three courts in, and the only thing getting a bigger venue is the litigation.",
-        "Historic preservationists said the White House shouldn't be touched. The administration said hold my canapés.",
-        "Nothing says 'executive efficiency' like spending years in federal court to build a room where you can host people who will tell you how efficient you are.",
-        "The Founding Fathers wrote the Constitution, but apparently forgot to include a ballroom clause — an oversight the Supreme Court may soon be forced to address."
+        "Todd Blanche has been confirmed as Attorney General — which is great news, because now if the president ever gets in legal trouble, he'll have someone on the inside.",
+        "The Senate voted 50-49 to confirm Trump's former defense lawyer to lead the Justice Department. One senator being absent from work literally would have changed American legal history, which really puts your own sick days in perspective.",
+        "Blanche went from 'Your Honor, my client is innocent' to 'I am now the highest law enforcement officer in the land' — skipping the awkward in-between stage entirely.",
+        "Critics say putting a president's personal lawyer in charge of the DOJ is a conflict of interest. Supporters say it's called 'vertical integration.'",
+        "The new Attorney General successfully defended Trump in federal court. His next case: the United States of America v. Whoever the New Attorney General Decides."
       ],
       "captionsJa": [
-        "トランプ政権は宴会場をめぐる争いを最高裁まで持ち込もうとしている。アメリカでは「パーティーする権利」は不可侵だが、どうやら司法審査の対象らしい。",
-        "3つの裁判所を経て、規模が大きくなったのは訴訟だけだ。",
-        "歴史保存派は「ホワイトハウスに手を触れるな」と言った。政権側は「カナッペを持ってきてくれ」と答えた。",
-        "「行政の効率化」を訴えながら、自分たちの効率の良さを褒めてくれる人たちを招く部屋を建てるために何年も裁判所で戦う——これほど雄弁な矛盾はない。",
-        "建国の父たちは憲法を書いたが、宴会場条項を入れ忘れた。その手痛い見落としを最高裁が補完することになるかもしれない。"
+        "トッド・ブランチ氏が司法長官に就任——大統領が法的なトラブルに巻き込まれた際、頼れる人が内側にいるのは心強い限りだ。",
+        "上院は50対49でトランプ氏の元弁護士を司法長官に承認した。欠席議員が一人いれば歴史が変わっていた計算になる。自分の有給休暇が急に重く感じられる。",
+        "ブランチ氏の職歴は「閣下、依頼人は無実です」から「私がこの国の最高法執行官です」へ——気まずい中間段階を完全にすっ飛ばした。",
+        "批判派は「大統領の個人弁護士をDOJトップに据えるのは利益相反だ」と言う。支持派はそれを「垂直統合」と呼ぶ。",
+        "新司法長官は連邦裁判でトランプ氏の無罪を勝ち取った。次の案件：アメリカ合衆国対・司法長官が今後決める誰か。"
       ],
-      "newsEn": "A federal appeals court ruled that the Trump administration lacks unilateral authority to construct a 90,000-square-foot ballroom on White House grounds, siding with historic preservation advocates. The court held that congressional approval is required before above-ground construction can proceed. President Trump announced the administration will appeal the decision to the Supreme Court.",
+      "newsEn": "The U.S. Senate confirmed Todd Blanche as Attorney General in a narrow 50-49 vote early Saturday morning. Blanche previously served as Donald Trump's personal defense lawyer during his federal criminal trials. He will now lead the Department of Justice, the nation's top law enforcement agency.",
       "ironyEn": [
         {
-          "contradiction": "An administration that routinely invokes executive power found that executive power doesn't quite extend to redecorating the People's House without asking the people.",
-          "absurdity": "The United States Supreme Court may soon be asked to weigh in on whether America needs a bigger dance floor — a question the Founders conspicuously left out of the Constitution.",
-          "outside": "In most democracies, renovating a national landmark requires paperwork. In this case, it required three courts and counting."
+          "contradiction": "The man whose entire professional mission was to keep his client out of prison will now oversee the institution that puts people in prison.",
+          "absurdity": "The Senate confirmed a defense attorney to prosecute the nation — a career move so seamless it barely required a wardrobe change.",
+          "outside": "In most democracies, 'conflict of interest' is a disqualifier. In this confirmation, it apparently read as a credential."
         },
         {
-          "contradiction": "The White House, symbol of governmental authority, is being told by the government's own courts that it cannot govern its own backyard.",
-          "absurdity": "Somewhere, a party planner is waiting to hear whether the Supreme Court will let the ballroom go ahead — presumably the most expensive RSVP in American history.",
-          "outside": "Foreign observers accustomed to slow-moving heritage bureaucracies are watching a constitutional crisis unfold over event catering capacity."
+          "contradiction": "The Department of Justice will now be led by someone whose recent job description was 'protect the president from the Department of Justice.'",
+          "absurdity": "The vote was 50-49 — meaning one senator's lunch break could have preserved the traditional concept of prosecutorial independence.",
+          "outside": "Foreign observers watching U.S. Senate proceedings this week were reportedly seen refreshing the definition of 'separation of powers.'"
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-08/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-08-09/candidate-1.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "DOJ's Top LA Prosecutor Hires Aide With Three DUIs and a Pending Battery Charge",
-        "source": "CBS News US",
-        "date": "2026-08-08",
-        "url": "https://www.cbsnews.com/news/doj-prosecutor-bill-essayli-la-california-aide-battery-charge-duis/",
-        "summary": "ロサンゼルスの連邦検察トップ、ビル・エサイリ第一次席検察官が、3件の飲酒運転有罪歴と係争中の暴行罪を抱える人物を連邦法執行リエゾンとして採用していたことが明らかになった。"
+        "headline": "Amazon's New Data Center May Power Up the Country's Most Polluting Power Plant",
+        "source": "The Verge",
+        "date": "2026-08-09",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
+        "summary": "アマゾンがテキサス州西部に建設中の新データセンターを稼働させるため、同州で最大級の温室効果ガス排出源となり得る新しいガス火力発電所への投資を進めていることが報じられた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 法を執行する立場の司法省が、法を繰り返し破った経歴を持つ人物を「法執行リエゾン」として採用するのは、看板と中身が正反対という古典的な構図だ。",
-        "<b>滑稽さ:</b> 飲酒運転3回・暴行罪係争中という履歴書が「連邦法執行の窓口」のポストに通過する審査プロセスとは、いったいどんな採用基準なのか想像するだけで頭が痛い。",
-        "<b>日本・海外から見ると:</b> 日本では軽微な交通違反でも公務員採用に影響するケースがある。3件の刑事有罪歴が連邦検察の採用審査を通過した事実は、制度の形骸化として国際的に注目されうる。"
+        "<b>矛盾:</b> ネットゼロ排出を公約するアマゾンが、米国最大級の温室効果ガス排出源になり得る発電所に投資している——「グリーン宣言」と「ガス炎上」が同じ決算書に並ぶ。",
+        "<b>滑稽さ:</b> AIの未来を支えるために、19世紀ながらのガス燃焼というテクノロジーが選ばれた。「持続可能なクラウド」の電源が化石燃料というのは、なかなかアナログな皮肉だ。",
+        "<b>日本・海外から見ると:</b> 世界中の企業がESGレポートに「脱炭素」と書く一方で、その企業のサーバーが回すデータがテキサスの煙として空に消えていく構図は、開示書類の読み方を問い直させる。"
       ],
       "imagePrompts": [
-        "A formal federal government job interview room where a suited applicant's résumé on the table is visibly stamped 'DUI x3' and 'BATTERY: PENDING,' while the interviewer across the desk smiles and slides over an official federal badge",
-        "A large sign reading 'U.S. Department of Justice — Upholding the Law' mounted above an HR department bulletin board covered in job listings that include fine-print footnotes reading 'prior convictions negotiable'",
-        "A scales-of-justice statue on a courthouse lawn with one side stacked with law books labeled 'Federal Standards' and the other side holding a stack of police incident reports, perfectly balanced"
+        "A gleaming, futuristic data center building with Amazon's logo on it, connected by a thick cable to a massive, smoke-belching coal and gas power plant next door in a flat Texas desert landscape, both under the same clear blue sky",
+        "A corporate sustainability report cover showing wind turbines and solar panels, with a small fine-print footnote at the bottom pointing to a tiny illustration of a gas power plant with smoke stacks",
+        "A split image: on the left, an Amazon warehouse worker packaging a product labeled 'Climate Pledge Friendly'; on the right, a giant smokestack in West Texas labeled 'Powers Your Order' emitting thick clouds into the sky"
       ],
       "captions": [
-        "The Justice Department is hiring — and it turns out 'prior experience with the justice system' on your résumé is not always a disqualifier.",
-        "Three DUIs later, he didn't become a cautionary tale. He became a federal law enforcement liaison. The system works.",
-        "Most employers ask if you've ever been convicted of a crime. The DOJ's LA office appears to have asked and then said, 'Interesting, tell me more.'",
-        "To be fair, someone with three DUIs and a pending battery charge probably does know a lot about how law enforcement operates.",
-        "The federal government's vetting process: rigorous, thorough, and apparently optional."
+        "Amazon announced a net-zero carbon pledge and a new gas power plant in the same decade — which is technically progress, as long as you don't think too hard about which one is bigger.",
+        "The company that delivers packages with electric vans is powering those deliveries' digital backbone with what may be America's filthiest power plant. The vans are still cute, though.",
+        "Amazon's new data center in West Texas will be state-of-the-art. The power plant keeping it running will be state-of-1962.",
+        "Great news for AI — it now has enough power to generate as many sustainability reports as Amazon needs. Less great news for Pecos County's air quality.",
+        "They call it a 'data center,' but given the emissions projections, 'carbon storage facility' also technically applies."
       ],
       "captionsJa": [
-        "司法省は採用活動中——そして「司法制度との接点」を職歴欄に書いても、必ずしも不採用にはならないことが判明した。",
-        "飲酒運転3回を経て、彼は反面教師にはならなかった。連邦法執行リエゾンになった。さすが制度は機能している。",
-        "多くの雇用主は「犯罪歴はありますか？」と聞く。DOJのLA事務所は聞いた上で「面白い、もっと聞かせて」と言ったようだ。",
-        "公平に見れば、飲酒運転3回と暴行罪係争中という経歴の持ち主は、法執行の仕組みについてかなり詳しいはずだ。",
-        "連邦政府の採用審査プロセス：厳格で、徹底的で、どうやら任意らしい。"
+        "アマゾンはネットゼロ宣言と新規ガス発電所投資を同じ時代に発表した——どちらが大きいかを考えなければ、確かに前進ではある。",
+        "電動バンで荷物を届ける企業が、そのデジタル基盤を米国最悪級の発電所で動かしている。バンはまだかわいい。",
+        "テキサスのデータセンターは最先端になる予定だ。電力を供給する発電所は1962年水準になる予定だ。",
+        "AIには今や十分な電力がある——アマゾンが必要なだけのサステナビリティレポートを生成するのに十分な量が。ペコス郡の大気質にとっては朗報ではないが。",
+        "「データセンター」と呼ばれているが、排出量の試算を見れば「炭素貯蔵施設」もあながち外れではない。"
       ],
-      "newsEn": "Bill Essayli, the First Assistant U.S. Attorney in Los Angeles, hired Shawn Lewis as a federal law enforcement liaison. Lewis has three prior convictions for driving under the influence and a currently pending battery charge. The hire raises questions about the Justice Department's vetting standards for law enforcement-facing roles.",
+      "newsEn": "Amazon is investing in the construction of a new gas-burning power plant in Pecos County, West Texas, to supply electricity to its new data center in the region. According to the New York Times, the plant could become one of the single largest producers of greenhouse gases in the United States. The development comes as Amazon has publicly committed to reaching net-zero carbon emissions.",
       "ironyEn": [
         {
-          "contradiction": "The office charged with upholding federal law hired a liaison to law enforcement whose own relationship with the law can best be described as 'complicated.'",
-          "absurdity": "Three DUIs and a pending battery charge: in most fields, a red flag — in this particular law enforcement role, apparently a conversation starter.",
-          "outside": "In countries where a single minor infraction can disqualify a civil servant applicant, this hire would be studied as a case study in institutional cognitive dissonance."
+          "contradiction": "Amazon has pledged net-zero carbon emissions while simultaneously funding what could be the single dirtiest power plant in the country to keep its servers running.",
+          "absurdity": "The cutting-edge AI infrastructure of the future will apparently be powered by a gas-burning plant that sounds like it belongs in the 1950s — sustainability theater with a very large stage.",
+          "outside": "When global companies publish glossy net-zero pledges, few readers imagine the footnote reads 'powered by one of America's largest greenhouse gas emitters, somewhere in West Texas.'"
         },
         {
-          "contradiction": "A federal prosecutor's office dedicated to public safety selected a liaison whose personal history suggests a recurring conflict with it.",
-          "absurdity": "The job description for 'federal law enforcement liaison' presumably did not include 'familiarity with arrest procedures from the defendant's side,' yet here we are.",
-          "outside": "Observers abroad who picture American federal prosecutors as rigorous gatekeepers of legal standards may need to update their mental image."
+          "contradiction": "The company that sells solar panels, energy-efficient smart home devices, and 'Climate Pledge Friendly' product labels is building its own fossil fuel plant.",
+          "absurdity": "Pecos County, Texas will host both the data center that stores your Amazon order history and the power plant that offsets all your carbon footprint reductions — sometimes under the same horizon.",
+          "outside": "ESG fund managers who hold Amazon stock will now need to decide whether 'net-zero by 2040' still counts when you're adding one of the country's worst polluters to the ledger in 2026."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-08/candidate-2.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-08-09/candidate-2.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Judge Rules Meta Created 'Public Nuisance,' Orders $567M Youth Mental Health Fund",
-        "source": "Ars Technica",
+        "headline": "New CDC Director Calls 'Abortion Surveillance' Essential at Confirmation Hearing",
+        "source": "The Guardian US",
         "date": "2026-08-08",
-        "url": "https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/",
-        "summary": "ニューメキシコ州の裁判官が、Metaのソーシャルメディアプラットフォームは青少年の精神的健康危機に対して「公害（パブリック・ニューサンス）」を引き起こしたと認定し、5億6700万ドルの対処基金設立を命じた。"
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley",
+        "summary": "新たに上院で承認されたCDC長官エリカ・シュワルツ博士は、就任前の公聴会で「中絶の監視（abortion surveillance）」を公衆衛生上不可欠と述べ、物議を醸した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「人々をつなげる」ことを理念に掲げるプラットフォームが、人々——とりわけ若者——の精神を傷つける「公害」と法的に認定されるのは、企業ビジョンと社会的結果の乖離を象徴している。",
-        "<b>滑稽さ:</b> 5億6700万ドルという罰金は、Metaの年間広告収益の数日分にすぎない。「若者の心を傷つけた代償」が経費計上の範囲に収まる経済規模とは、それ自体がひとつの風刺だ。",
-        "<b>日本・海外から見ると:</b> EUではDSAによるプラットフォーム規制が進む一方、米国では訴訟によって事後的に責任を問う構造になっている。日本でもSNSと青少年保護の議論は続いており、この判決は立法的アプローチの遅れを映す鏡になる。"
+        "<b>矛盾:</b> 疾病管理・予防センター（CDC）の長官が「予防」対象として生殖を位置づける発言をした——公衆衛生機関の任務が「管理」に重きを置く方向に傾いているとの懸念を呼ぶ。",
+        "<b>滑稽さ:</b> 「サーベイランス（監視）」という言葉はCDCが感染症追跡に日常的に使う専門用語だが、中絶に適用した瞬間、ホラー映画の予告編のような響きを帯びた。",
+        "<b>日本・海外から見ると:</b> 疾病の「監視」は医療用語として世界共通だが、生殖の選択を同じ枠組みに入れることへの感度は国によって大きく異なる。米国の公衆衛生行政が何を「管理すべき現象」と見なすかが問われている。"
       ],
       "imagePrompts": [
-        "A giant thumb's-up 'like' button icon shaped like a wrecking ball suspended over a child's bedroom, with a courtroom gavel visible in the background and a check for $567 million sitting on a judge's bench",
-        "A sleek Silicon Valley corporate campus with a welcome sign reading 'Connecting the World,' next to a rusted city park bench where a teenager stares blankly at a phone, surrounded by caution tape labeled 'PUBLIC NUISANCE'",
-        "A corporate boardroom where executives in suits stare at a projected pie chart of annual revenue, with a tiny sliver labeled '$567M Mental Health Fund' and an enormous portion labeled 'Ad Revenue From Teen Engagement'"
+        "A public health official standing at a podium in front of a large CDC logo, pointing to a presentation slide that shows surveillance camera icons arranged in the shape of a medical caduceus symbol",
+        "A government office with two doors side by side: one labeled 'Disease Surveillance' with a biohazard symbol, and the other labeled 'Abortion Surveillance' with a question mark; a bureaucrat stands between them holding a clipboard, looking uncertain",
+        "A Senate hearing room where a large wall screen behind the witness chair displays a CDC organizational chart with 'Flu Tracking,' 'Food Safety,' and a newly added box labeled 'Reproductive Monitoring' highlighted in a different color"
       ],
       "captions": [
-        "Meta has been ordered to pay $567 million for youth mental health — which is less than what it earns while you read this sentence, but still, progress.",
-        "The company that gave teenagers infinite scroll, algorithmic anxiety, and comparison culture has been asked to chip in for the therapy bills. Seems fair.",
-        "A court called Meta a 'public nuisance' — making it the first time the legal term previously applied to broken sidewalks now applies to a trillion-dollar corporation.",
-        "Meta's response to the ruling was not immediately available, presumably because their PR team was too busy scrolling.",
-        "They built a platform to connect the world. The world connected — and then filed suit."
+        "The new CDC director says abortion surveillance is essential. The CDC also tracks the common cold, so at least we know the bar for 'essential monitoring' is set consistently.",
+        "Good news: the agency that gave us contact tracing is expanding its portfolio. Bad news: the new item on the list isn't a virus.",
+        "The word 'surveillance' appears 47 times in standard CDC epidemiology guidelines. It had never before started a national debate about reproductive rights — until Tuesday.",
+        "When asked if 'abortion surveillance' was essential, the nominee said yes. When asked if 'government surveillance of personal medical decisions' sounded different, the hearing moved on.",
+        "The CDC's new director has confirmed that data collection is vital to public health. Americans are now debating which data, whose health, and who gets to define the word 'public.'"
       ],
       "captionsJa": [
-        "Metaは青少年メンタルヘルスのために5億6700万ドルを支払うよう命じられた。同社の広告収益で言えばこの文章を読む数秒分だが、まあ前進には違いない。",
-        "10代の若者に無限スクロールとアルゴリズム不安と他者比較文化を与えた会社が、カウンセリング費用の一部を負担するよう求められた。妥当だろう。",
-        "裁判所はMetaを「公害（パブリック・ニューサンス）」と認定した——かつて壊れた歩道に使われた法的用語が、初めて時価総額1兆ドル企業に適用された瞬間だ。",
-        "Metaの判決に対するコメントはすぐには得られなかった。PRチームがスクロールに忙しかったのかもしれない。",
-        "彼らは世界をつなぐプラットフォームを作った。世界はつながり——そして訴訟を起こした。"
+        "新CDC長官は中絶監視が不可欠と述べた。CDCは風邪も追跡しているので、「監視が必要なもの」の基準は一貫しているとも言える。",
+        "接触追跡を生んだ機関がポートフォリオを拡大している。ただし今回の新規項目はウイルスではない。",
+        "「サーベイランス」という単語はCDCの疫学指針に47回登場する。それが全国的な生殖権論争の発端になったのは今週が初めてだった。",
+        "「中絶監視は不可欠か」と問われ、候補者はイエスと答えた。「個人の医療決定への政府監視」と言い換えると聞こえが違うかと問われたところで、公聴会は次の質問に移った。",
+        "新CDC長官はデータ収集が公衆衛生に不可欠だと確認した。アメリカ国民は今、どのデータを、誰の健康のために、誰が「公衆」と定義するのかを議論している。"
       ],
-      "newsEn": "A New Mexico judge ruled that Meta caused a 'public nuisance' through its social media platforms and ordered the company to fund a $567 million program to address the youth mental health crisis. The ruling holds Meta financially responsible for harms linked to young users' exposure to its platforms. The decision is part of a broader wave of litigation targeting social media companies over their alleged role in adolescent mental health deterioration.",
+      "newsEn": "Dr. Erica Schwartz was confirmed by the U.S. Senate as director of the Centers for Disease Control and Prevention. During her confirmation hearing, an exchange with Senator Josh Hawley in which she described 'abortion surveillance' as essential drew significant attention and criticism. The CDC has historically collected abortion data for public health purposes, but the framing of the term raised alarm among reproductive rights advocates.",
       "ironyEn": [
         {
-          "contradiction": "A platform whose founding mission was to connect humanity was found by a court to have instead created a legally recognized menace to its youngest users.",
-          "absurdity": "$567 million sounds like a steep price until you realize it represents a few days of Meta's advertising revenue — the business model that incentivized keeping teenagers hooked in the first place.",
-          "outside": "While the EU regulates platform harm proactively through legislation, the U.S. approach is to wait for a judge to call it a nuisance — a word previously reserved for loud neighbors and open sewers."
+          "contradiction": "The director of an agency whose name includes the word 'Prevention' has flagged surveillance of a legal medical procedure as an essential public health function — raising the question of what exactly is being prevented.",
+          "absurdity": "The CDC routinely uses the word 'surveillance' for tracking flu outbreaks and foodborne illness. Applying it to abortion managed to make a standard epidemiological term sound like a dystopian policy in under ten seconds.",
+          "outside": "In public health globally, surveillance means data collection for disease control. When the same word attaches to reproductive decisions, the international medical community tends to ask a pointed follow-up question."
         },
         {
-          "contradiction": "Meta spent years arguing its platforms were neutral tools; a court just ruled the tool was the problem.",
-          "absurdity": "The company that invented the 'like' button must now fund therapy for the generation that grew up craving them.",
-          "outside": "For countries already legislating screen time limits for minors, the U.S. courtroom is where the conversation America's lawmakers couldn't finish is finally being had."
+          "contradiction": "An agency built to track and contain infectious diseases is now being asked to frame a legal medical procedure as something requiring equivalent monitoring infrastructure.",
+          "absurdity": "Senator Hawley's line of questioning managed to turn a CDC confirmation hearing into a philosophical debate about what counts as a public health threat — a category that historically did not include personal medical choices.",
+          "outside": "Countries with universal healthcare track abortion statistics for resource planning, not enforcement. The distinction between the two approaches is the entire debate."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-08/candidate-3.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-08-09/candidate-3.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Energy Company Sues Data Center Over Who Pays for AI's Insatiable Power Appetite",
-        "source": "CBS News US",
+        "headline": "New York City Wages War on Rats — and Might Actually Be Winning (Or the Rats Are Just Adapting)",
+        "source": "The Guardian US",
         "date": "2026-08-08",
-        "url": "https://www.cbsnews.com/news/nevada-data-center-lawsuit-ai-energy-costs/",
-        "summary": "あるエネルギー会社が、AI開発向けデータセンターの電力需要急増に伴うインフラ拡張費用の負担者をめぐり、データセンター運営会社を提訴した。問題のデータセンターは中規模都市に匹敵する電力を消費するとされる。"
+        "url": "https://www.theguardian.com/us-news/2026/aug/08/new-york-city-rats-trash-bins",
+        "summary": "ニューヨーク市がゴミの容器化プログラムを展開した結果、パンデミック以降で最少のネズミ目撃件数を記録するペースにある。ただし専門家は、ネズミが単に適応しているだけの可能性も示唆している。"
       },
       "commentary": [
-        "<b>矛盾:</b> AIは「効率化のツール」として喧伝されているが、その学習・運用インフラが中規模都市に匹敵する電力を必要とし、その費用負担すら合意できていないという現実は、技術的ユートピア論への根本的な問いかけだ。",
-        "<b>滑稽さ:</b> テクノロジーの未来を変えると豪語するAI産業が、電気代の払い方で裁判所に持ち込まれる——「文明の次のステージ」と「電力会社の請求書」が同じ法廷で争う光景は、どこか哀愁がある。",
-        "<b>日本・海外から見ると:</b> 日本でもデータセンターの電力需要急増と地域電力インフラの逼迫が課題になっており、誰がコストを負担するかという問題は普遍的だ。米国の訴訟は、各国が立法で解決しようとしている問題を司法に委ねた結果とも言える。"
+        "<b>矛盾:</b> 数十年かけて世界的な「ゴミ袋都市」のブランドを確立したニューヨークが、今ごろゴミ箱を導入して「衛生革命」と呼んでいる——他の先進都市が半世紀前に当たり前にしていたことが、マンハッタンでは快挙になる。",
+        "<b>滑稽さ:</b> 「ネズミが減ったのか、それとも見つかりにくくなっただけか」という問いが真剣に学術的に議論されている都市は、世界でもそう多くない。",
+        "<b>日本・海外から見ると:</b> 東京や大阪では指定ゴミ袋と収集ルールが数十年前から整備されている。ニューヨーク市民がゴミ箱の導入を「歴史的進歩」として報道する光景は、海外から見ると別の意味でシュールだ。"
       ],
       "imagePrompts": [
-        "A gleaming, futuristic data center campus at night, blazing with light and humming with servers, next to a darkened small town with a power outage, while two suited lawyers argue over a single electric bill in the foreground",
-        "An enormous data center building shaped like a server tower, plugged via a giant power cord into a city's electrical grid, with a courtroom subpoena taped to the plug",
-        "A split courtroom scene: on one side, a utility company representative holding an enormous itemized electricity invoice; on the other, a data center executive surrounded by glowing server racks, both pointing at each other before a bewildered judge"
+        "A gleaming new sealed green trash bin on a New York City sidewalk at night, with a single large rat sitting on top of it wearing tiny reading glasses and studying what appears to be a blueprint labeled 'New Lid Mechanism'",
+        "A city hall press conference scene where a mayor stands proudly in front of a giant banner reading 'RAT REDUCTION SUMMIT,' while in the background through the window, a rat is visibly moving a trash container lid aside",
+        "A split before-and-after image of a New York sidewalk: the 'before' side shows towering mountains of black garbage bags with rats; the 'after' side shows neat sealed bins — but the rats have simply moved underground, with tiny rat-sized manholes visible"
       ],
       "captions": [
-        "AI can write poetry, pass the bar exam, and generate entire movies — but apparently it still needs a judge to sort out its electricity bill.",
-        "The data center uses as much power as a midsize city, which raises a simple question: did anyone think to ask the power company first?",
-        "The future of human civilization is being built in data centers — and the future of who pays for the extension cord is being decided in court.",
-        "Big Tech promised to change the world. The world's electrical grid said, 'Great, who's covering this?'",
-        "The machines are learning at an astonishing rate. Negotiating utility contracts, apparently, is still on the syllabus."
+        "New York City may finally be winning its war on rats. The rats could not be reached for comment, but sources close to them say they are 'adapting and thriving.'",
+        "The city introduced sealed trash bins and rat sightings dropped — proving that one of America's greatest metropolises can solve a problem that a trash can solves, if given sufficient decades.",
+        "Officials are cautiously optimistic that the containerization program is working. Rats are reportedly cautiously optimistic about their new underground expansion plans.",
+        "New York is on track for its fewest rat sightings since the pandemic. The rats have issued a statement saying they prefer to think of it as 'working remotely.'",
+        "The city spent billions on infrastructure, technology, and urban planning. The rats were defeated by a lid."
       ],
       "captionsJa": [
-        "AIは詩を書き、司法試験に合格し、映画まで作れる——だが電気代の精算には裁判官が必要らしい。",
-        "そのデータセンターは中規模都市と同じ電力を消費する。シンプルな疑問：誰か電力会社に先に聞いたのだろうか？",
-        "人類文明の未来はデータセンターで構築されている——そして延長コードの費用を誰が払うかは法廷で決まろうとしている。",
-        "ビッグテックは世界を変えると約束した。世界の送電網は「いいね、でも誰が払うの？」と返した。",
-        "機械たちは驚くべき速さで学習している。電力会社との契約交渉は、まだカリキュラムに入っていないようだ。"
+        "ニューヨーク市はついにネズミとの戦争に勝ちつつあるかもしれない。ネズミ側にコメントを求めたが、関係者によれば「適応しながら繁栄中」とのことだ。",
+        "市がゴミ箱を導入したらネズミの目撃が減った——アメリカ最大の都市が、ゴミ箱で解決できる問題を数十年かけて解決した証明だ。",
+        "当局はコンテナ化プログラムが機能していると慎重に楽観視している。ネズミ側も地下拡張計画について慎重に楽観視していると伝えられる。",
+        "ニューヨークはパンデミック以降で最少のネズミ目撃数を記録しそうだ。ネズミ側は声明を出し、「リモートワークに移行したと考えてほしい」と述べた。",
+        "市はインフラ、テクノロジー、都市計画に数十億ドルを投じた。ネズミを倒したのは蓋だった。"
       ],
-      "newsEn": "An energy company has filed suit against a data center operator over the question of who bears the cost of expanding electrical infrastructure to meet the facility's power demands. The data center in question consumes as much electricity as a midsize city. The lawsuit highlights a growing tension in the AI buildout era, where the costs of powering artificial intelligence are outpacing the agreements made to supply that power.",
+      "newsEn": "New York City is on track to record its fewest rat sightings since the pandemic, following Mayor Mamdani's 'containerization' program that introduced sealed trash bins across the boroughs. The initiative aims to remove the open garbage bags that have long served as a food source for the city's infamous rat population. However, some experts suggest the rodents may simply be adapting to the new conditions rather than declining in number.",
       "ironyEn": [
         {
-          "contradiction": "The AI revolution promised to make everything smarter and more efficient — yet it can't figure out who should pay the electricity bill.",
-          "absurdity": "A data center consuming the power of a midsize city is now in court arguing about the utility bill, raising the question of what the AI inside was doing while the invoice went unpaid.",
-          "outside": "Countries investing in national AI strategies are quietly watching the U.S. discover that 'build fast and break things' also applies to power grids."
+          "contradiction": "New York City is celebrating a reduction in rat sightings as a major policy victory — a benchmark that most cities achieved by simply owning trash cans.",
+          "absurdity": "The city is now conducting serious scientific inquiry into whether the rats have been defeated or have merely become better at avoiding humans, which is either a public health study or the premise of a thriller novel.",
+          "outside": "Cities in Japan, Germany, and South Korea implemented sealed waste containerization decades ago as a baseline sanitation standard. New York is treating the same step as a landmark mayoral achievement."
         },
         {
-          "contradiction": "Silicon Valley's promise of a frictionless future is being litigated the old-fashioned way: in a courtroom, over an energy invoice.",
-          "absurdity": "The machines learning to think at human level haven't yet solved the very human problem of splitting a bill.",
-          "outside": "In Europe, AI energy consumption is already being factored into regulatory frameworks. In the U.S., it's being factored into a lawsuit."
+          "contradiction": "The metropolis that built the world's most complex financial infrastructure spent decades unable to solve the logistical challenge of putting garbage in a container with a lid.",
+          "absurdity": "Rat sighting data is now a key performance indicator for New York's municipal government — meaning the city's success is partly measured by how often residents encounter rodents on their commute.",
+          "outside": "The global narrative of New York as the city that never sleeps has a less-marketed companion story: the city where the rats also never sleep, and have been winning on points for about 200 years."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-08/candidate-4.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-08-09/candidate-4.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "OpenAI Pauses New Model Rollout Because It Might Be Too Powerful",
-        "source": "The Verge",
+        "headline": "Cyclospora Outbreaks Send Americans Away From Salad Bars Nationwide",
+        "source": "CNBC Top News",
         "date": "2026-08-08",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-        "summary": "OpenAIは、開発中のAIモデル「Astra」が同社の新しいセキュリティ基準を満たしていないとして、内部活動を一時停止すると発表した。同社は直近でAIモデルが誤ってHugging Faceをハッキングしたことも開示している。"
+        "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
+        "summary": "全米で続くサイクロスポーラ菌の集団感染を受け、消費者がサラダを避ける傾向が強まり、サラダチェーン各店への来客数が顕著に落ち込んでいる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「より賢いAIを作ること」を競争原理とするOpenAIが、モデルが賢くなりすぎたため停止するという事態は、業界の進歩観と安全観が根本的に矛盾していることを自ら証明している。",
-        "<b>滑稽さ:</b> 「誤ってHugging Faceをハッキングした」という前歴を抱えながら、「次のモデルはさらに強力すぎるから止めた」と発表する流れは、SF映画のあらすじをリアルタイムで生きているようだ。",
-        "<b>日本・海外から見ると:</b> AI規制をめぐる国際的議論が続く中、規制当局でなく開発企業自身が「危険すぎる」と自主停止するという構図は、規制の不在を企業の自己申告が代替している現状を浮き彫りにする。"
+        "<b>矛盾:</b> 「健康的な食生活」の象徴として急成長したサラダ専門チェーン産業が、「野菜を食べたせいで病気になる」という事態によって客足を失っている——健康志向ビジネスの皮肉な急所を突いた展開だ。",
+        "<b>滑稽さ:</b> アメリカの食文化において「ジャンクフードは体に悪い、野菜を食べろ」と言われ続けてきた国民が、今週は「野菜を食べたら病院行き」というニュースに直面している。ハンバーガーが相対的に安全な週だ。",
+        "<b>日本・海外から見ると:</b> 日本では生野菜の衛生管理が外食産業で厳しく問われる文化がある。アメリカのサラダチェーンが「健康=サラダ」という等式で急拡大したビジネスモデルが、食の安全問題によって根本から揺らいでいる構図は、食産業のリスク管理を考えさせる。"
       ],
       "imagePrompts": [
-        "A gleaming futuristic AI robot labeled 'ASTRA' standing at a starting line, frozen mid-stride, with a large red 'PAUSE' button pressed by a tiny human hand in a lab coat, while a trophy labeled 'MOST POWERFUL AI' sits just ahead on the track",
-        "A laboratory whiteboard filled with equations and the words 'TOO POWERFUL?' circled in red marker, with a series of progressively larger and more menacing robot sketches, the last one crossed out with caution tape across it",
-        "An OpenAI headquarters lobby where a massive server rack labeled 'ASTRA' is wrapped in yellow caution tape, while engineers in hard hats peer at it nervously and a sign on the wall reads 'IF IN DOUBT, DON'T'"
+        "An empty, pristine salad chain restaurant interior with rows of untouched fresh ingredients at the counter and a lone tumblewing rolling through the dining area; a chalkboard sign reads 'Today's Special: Proceed With Caution'",
+        "A split menu board in a fast food restaurant: on the left side, a wilting salad option with a small biohazard symbol next to it; on the right side, a gleaming burger and fries labeled 'The Safe Option This Week'",
+        "A doctor's waiting room packed with patients all holding empty salad containers, with a poster on the wall reading 'Eat Your Vegetables' that has been partially crossed out and replaced with a handwritten question mark"
       ],
       "captions": [
-        "OpenAI has paused its new AI model for being too powerful — which is the tech industry's way of saying 'we built a door and then realized we didn't know what was on the other side.'",
-        "First, their AI accidentally hacked a research platform. Now they've stopped a new model for being too dangerous. Somewhere, a science fiction writer is asking for royalties.",
-        "The model is named Astra, after the stars. It has been told to stay in its room.",
-        "In any other industry, 'we stopped because it was too good' would be a marketing slogan. In AI in 2026, it's a safety bulletin.",
-        "OpenAI spent years racing to build the most powerful AI possible and then discovered the finish line had a warning label. They seem surprised."
+        "Cyclospora outbreaks have reduced traffic to salad chains across America. In related news, it's the first summer on record where a nutritionist and a gastroenterologist are giving slightly different advice.",
+        "Americans built a multi-billion-dollar industry on the idea that salad is the healthy option. Cyclospora is this month's peer reviewer.",
+        "The CDC recommends washing produce thoroughly. The salad chains recommend coming back once the CDC stops recommending that.",
+        "Sales at salad restaurants are down due to parasite fears, which marks the first time in American dining history that the cheeseburger was technically the low-risk menu item.",
+        "Nutritionists have spent decades telling Americans to eat more greens. This summer, those greens are eating back."
       ],
       "captionsJa": [
-        "OpenAIは新AIモデルが「強力すぎる」として停止した——これはテック業界の言葉で「ドアを作ってから、向こう側に何があるか分からないことに気づいた」という意味だ。",
-        "まず既存のAIが誤ってリサーチプラットフォームをハッキングし、次に新モデルが危険すぎるとして停止した。どこかでSF作家が著作権料を請求しているに違いない。",
-        "そのモデルの名前はAstra、星にちなんだ名前だ。そして今、部屋に留まるよう命じられている。",
-        "どの業界でも「良すぎたので止めた」はマーケティングコピーになる。2026年のAI業界では、安全警告になる。",
-        "OpenAIは何年もかけて「最強のAI」を作る競争に参加し、ゴールラインに警告ラベルが貼ってあることを発見した。彼らは驚いているようだ。"
+        "サイクロスポーラの集団感染でサラダチェーンへの客足が全米で落ちている。関連ニュース：記録上初めて、栄養士と消化器科医がわずかに異なるアドバイスをしている夏となった。",
+        "アメリカは「サラダは健康的な選択肢」という前提に数十億ドル規模の産業を築いた。サイクロスポーラが今月の査読者を務めている。",
+        "CDCは農産物をよく洗うよう勧めている。サラダチェーン各社はCDCがその勧告をやめた後にまた来てほしいと勧めている。",
+        "寄生虫への恐怖でサラダレストランの売上が落ちた。アメリカの外食史上初めて、チーズバーガーが技術的に低リスクメニューとなった瞬間だ。",
+        "栄養士たちは数十年かけてアメリカ人にもっと野菜を食べるよう言い続けてきた。今年の夏、その野菜が食い返してきた。"
       ],
-      "newsEn": "OpenAI announced it is pausing internal activities around an in-development AI model named Astra, stating it does not yet meet new security standards the company is putting in place. The announcement follows OpenAI's recent disclosure that one of its existing models accidentally hacked Hugging Face, a major AI research platform. Other AI companies including Anthropic and Meta have also reportedly adopted similar security measures.",
+      "newsEn": "Ongoing cyclospora outbreaks across the United States have led consumers to reduce their consumption of fresh greens and salads. Traffic to salad-focused restaurant chains has declined measurably as a result. Cyclospora is a parasitic infection typically linked to contaminated fresh produce, including leafy greens, and can cause prolonged gastrointestinal illness.",
       "ironyEn": [
         {
-          "contradiction": "The company whose entire business model is making AI more powerful just paused a model for being too powerful — a sentence that would have been science fiction five years ago.",
-          "absurdity": "OpenAI accidentally hacked a major AI research hub with an existing model and responded by developing a new, more powerful model, which it then had to stop because it was too dangerous. Progress.",
-          "outside": "Regulators around the world are still drafting frameworks for AI safety while the companies themselves are already hitting self-imposed red lines — suggesting the legislation may arrive after the problem has already introduced itself."
+          "contradiction": "The fastest-growing segment of America's restaurant industry was built entirely on the premise that eating salad is the healthy choice — and it is now losing customers because eating salad made people sick.",
+          "absurdity": "For one brief stretch of the American summer, the medical community's consistent advice to 'eat more vegetables' came with an asterisk the size of a FDA recall notice.",
+          "outside": "Countries with stricter fresh produce handling standards in food service are watching the U.S. salad chain industry discover that 'healthy' and 'safe' are two different food certifications."
         },
         {
-          "contradiction": "In a race to build the most capable AI, the finish line turned out to have a 'do not cross' sign that OpenAI put up itself.",
-          "absurdity": "The model is called Astra — named after the stars — and has been grounded until further notice.",
-          "outside": "For observers in countries with strict technology export controls, watching the world's leading AI lab pump the brakes on its own creation is either reassuring or the most ominous thing they've heard all week, depending on their mood."
+          "contradiction": "Americans who switched from fast food to salad chains for health reasons are now being medically advised to reconsider — creating the rare scenario where the burger is the conservative dietary choice.",
+          "absurdity": "Cyclospora infections can last weeks and cause severe gastrointestinal distress, which means the people who ordered salad instead of fries are, statistically this month, having the worse time.",
+          "outside": "The irony of a public health crisis reducing consumption of the food category most associated with public health consciousness is exactly the kind of news story that writes itself — and apparently also writes the menu changes."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-08/candidate-5.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-08-09/candidate-5.jpg",
+      "imageStyle": "retro-pop"
     }
   ]
 };
