@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-09",
-  "generatedAt": "2026-08-08T20:15:51+00:00",
+  "date": "2026-08-10",
+  "generatedAt": "2026-08-09T20:17:45+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Trump's Former Defense Lawyer Confirmed as Attorney General in 50-49 Vote",
-        "source": "CBS News US",
-        "date": "2026-08-09",
-        "url": "https://www.cbsnews.com/news/todd-blanche-senate-vote-confirm-trump/",
-        "summary": "上院はトランプ前大統領の元弁護士トッド・ブランチ氏を50対49の僅差で司法長官に承認した。ブランチ氏はトランプ氏の刑事裁判で弁護を担当していた人物。"
+        "headline": "Zuckerberg's $300M Superyacht Was Closer — But Let Someone Else Do the Rescuing",
+        "source": "The Verge",
+        "date": "2026-08-10",
+        "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
+        "summary": "アラスカ州ファラガット湾で燃料切れの小型艇が漂流した際、近くにいたザッカーバーグ氏の約360億円の超大型ヨットではなく、小型クルーズ船が救助に向かったことが追跡データで判明した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 国家の法執行機関のトップに、その長官を任命した大統領の刑事弁護を担当した人物が就く——「法の下の平等」という建前が、人事の構図そのものに照らし合わされる。",
-        "<b>滑稽さ:</b> 「あなたは無罪です」と言い続けた弁護士が、今度は全国民に対して「これが合法かどうか」を判断する立場になった。キャリアパスとしては驚くほどシームレスだ。",
-        "<b>日本・海外から見ると:</b> 日本で例えるなら、被告の国選弁護人がそのまま検事総長に就任するようなもの。三権分立の教科書が静かに燃えている。"
+        "<b>矛盾:</b> メタ社は「人々をつなぐ」ことを企業理念に掲げているが、物理的に最も近い距離にいたそのオーナーは、漂流者とつながることを選ばなかった。",
+        "<b>滑稽さ:</b> 世界最大のSNSを持つ男が海の上で「通知をオフ」にしていたかのような構図は、どんなミームよりもシュールだ。",
+        "<b>日本・海外から見ると:</b> 「隣人を助ける」という最も原始的な行動を、最先端テクノロジーで武装した億万長者が見送ったという皮肉は、格差社会への風刺として世界中で共感を呼んでいる。"
       ],
       "imagePrompts": [
-        "A courtroom that has been redecorated as a government executive office: the defense table is now the attorney general's desk, the 'NOT GUILTY' legal briefs are stacked next to a nameplate reading 'Attorney General,' and a gavel sits next to a briefcase",
-        "A revolving door between a courthouse and the Department of Justice building, with a single briefcase spinning through it, the DOJ eagle seal visible on one side and 'Defense Counsel' lettered on the other",
-        "A org chart on a whiteboard showing 'Client' at the top and 'Attorney General' directly below, with an arrow looping from the bottom back to the top, drawn in a conference room with American flags in the background"
+        "A massive, gleaming superyacht anchored in calm Alaskan waters surrounded by stunning scenery, while in the far background a tiny cruise ship is pulling a small wooden skiff to safety; the superyacht's deck is visibly empty",
+        "A side-by-side comparison of a gigantic luxury yacht labeled 'CLOSEST VESSEL' and a small weathered cruise ship labeled 'ACTUAL RESCUER,' both floating on the same grey ocean",
+        "A stranded small boat crew waving flare signals toward a colossal yacht in the distance; the yacht's portholes are lit up with warm party light while the rescue ship approaches from the opposite direction"
       ],
       "captions": [
-        "Todd Blanche has been confirmed as Attorney General — which is great news, because now if the president ever gets in legal trouble, he'll have someone on the inside.",
-        "The Senate voted 50-49 to confirm Trump's former defense lawyer to lead the Justice Department. One senator being absent from work literally would have changed American legal history, which really puts your own sick days in perspective.",
-        "Blanche went from 'Your Honor, my client is innocent' to 'I am now the highest law enforcement officer in the land' — skipping the awkward in-between stage entirely.",
-        "Critics say putting a president's personal lawyer in charge of the DOJ is a conflict of interest. Supporters say it's called 'vertical integration.'",
-        "The new Attorney General successfully defended Trump in federal court. His next case: the United States of America v. Whoever the New Attorney General Decides."
+        "The yacht was close enough to offer help — but apparently being the world's largest social network doesn't include the 'respond' button.",
+        "In Zuckerberg's defense, the rescue request may have been flagged as spam.",
+        "Launchpad: a name that really captures the spirit of watching someone else do the launching.",
+        "The good news is, the stranded crew was eventually rescued. The bad news is, it had nothing to do with the guy who owns the internet.",
+        "Meta's new maritime policy: if you want to be rescued, make sure you're in his friend list first."
       ],
       "captionsJa": [
-        "トッド・ブランチ氏が司法長官に就任——大統領が法的なトラブルに巻き込まれた際、頼れる人が内側にいるのは心強い限りだ。",
-        "上院は50対49でトランプ氏の元弁護士を司法長官に承認した。欠席議員が一人いれば歴史が変わっていた計算になる。自分の有給休暇が急に重く感じられる。",
-        "ブランチ氏の職歴は「閣下、依頼人は無実です」から「私がこの国の最高法執行官です」へ——気まずい中間段階を完全にすっ飛ばした。",
-        "批判派は「大統領の個人弁護士をDOJトップに据えるのは利益相反だ」と言う。支持派はそれを「垂直統合」と呼ぶ。",
-        "新司法長官は連邦裁判でトランプ氏の無罪を勝ち取った。次の案件：アメリカ合衆国対・司法長官が今後決める誰か。"
+        "ヨットは十分近くにいた。でも「世界最大のSNS」には、どうやら「返信」ボタンがなかったらしい。",
+        "ザッカーバーグ氏の弁護をするなら、救助要請がスパム判定された可能性はある。",
+        "「ローンチパッド（発射台）」という船名——誰かほかの人が代わりに発射した皮肉を見事に体現している。",
+        "良いニュース：漂流者たちは無事救助された。悪いニュース：それはインターネットを所有する男とは無関係だった。",
+        "メタの新たな海上ポリシー：救助してほしければ、まず友達申請を承認してもらうこと。"
       ],
-      "newsEn": "The U.S. Senate confirmed Todd Blanche as Attorney General in a narrow 50-49 vote early Saturday morning. Blanche previously served as Donald Trump's personal defense lawyer during his federal criminal trials. He will now lead the Department of Justice, the nation's top law enforcement agency.",
+      "newsEn": "Tracking data reviewed by the Alaska Beacon and Halifax Shipping News showed that Mark Zuckerberg's 387-foot superyacht Launchpad was the closest vessel to a stranded skiff near Farragut Bay, Alaska. The small skiff had run out of fuel and was in need of rescue. Instead, the Alaskan cruise ship Wilderness Legacy responded and rescued the crew. Zuckerberg has faced public questions about why his vessel did not act.",
       "ironyEn": [
         {
-          "contradiction": "The man whose entire professional mission was to keep his client out of prison will now oversee the institution that puts people in prison.",
-          "absurdity": "The Senate confirmed a defense attorney to prosecute the nation — a career move so seamless it barely required a wardrobe change.",
-          "outside": "In most democracies, 'conflict of interest' is a disqualifier. In this confirmation, it apparently read as a credential."
+          "contradiction": "A company whose stated mission is 'connecting people' is owned by a man who, when literally closest to people in distress at sea, apparently stayed connected to his deck chair instead.",
+          "absurdity": "It took a modest cruise ship to do what a 387-foot, $300 million vessel could not — basic human decency, no algorithm required.",
+          "outside": "From abroad, it reads as a perfect parable of Silicon Valley philanthropy: world-changing generosity, as long as it can be announced in a press release and not performed in the rain near Alaska."
         },
         {
-          "contradiction": "The Department of Justice will now be led by someone whose recent job description was 'protect the president from the Department of Justice.'",
-          "absurdity": "The vote was 50-49 — meaning one senator's lunch break could have preserved the traditional concept of prosecutorial independence.",
-          "outside": "Foreign observers watching U.S. Senate proceedings this week were reportedly seen refreshing the definition of 'separation of powers.'"
+          "contradiction": "Launchpad is the name of the yacht — a vessel that, in this instance, launched nothing except uncomfortable headlines.",
+          "absurdity": "The billionaire who once claimed to want to build a 'metaverse' for everyone apparently couldn't find bandwidth for a rescue operation happening in real space, real time, right next door.",
+          "outside": "In Japan, where a sense of communal obligation runs deep, the phrase 'the closest ship did nothing' would require no further commentary — the irony would be understood in silence."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-09/candidate-1.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-08-10/candidate-1.jpg",
+      "imageStyle": "retro-pop"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Amazon's New Data Center May Power Up the Country's Most Polluting Power Plant",
+        "headline": "49ers Coach Says Tesla Autopilot Was Driving When He Crashed — Then Called It His Own Fault",
         "source": "The Verge",
-        "date": "2026-08-09",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977124/amazon-data-center-worst-polluting-power-plant",
-        "summary": "アマゾンがテキサス州西部に建設中の新データセンターを稼働させるため、同州で最大級の温室効果ガス排出源となり得る新しいガス火力発電所への投資を進めていることが報じられた。"
+        "date": "2026-08-10",
+        "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
+        "summary": "NFLサンフランシスコ・49ersのカイル・シャナハン監督は、4週間前のパロアルト近郊での自動車事故について、当時テスラのオートパイロット機能を使用中だったと明かした。事故直後には「自分のせい」と述べていた。"
       },
       "commentary": [
-        "<b>矛盾:</b> ネットゼロ排出を公約するアマゾンが、米国最大級の温室効果ガス排出源になり得る発電所に投資している——「グリーン宣言」と「ガス炎上」が同じ決算書に並ぶ。",
-        "<b>滑稽さ:</b> AIの未来を支えるために、19世紀ながらのガス燃焼というテクノロジーが選ばれた。「持続可能なクラウド」の電源が化石燃料というのは、なかなかアナログな皮肉だ。",
-        "<b>日本・海外から見ると:</b> 世界中の企業がESGレポートに「脱炭素」と書く一方で、その企業のサーバーが回すデータがテキサスの煙として空に消えていく構図は、開示書類の読み方を問い直させる。"
+        "<b>矛盾:</b> 「自分のせい」と謝罪しておきながら、後から「オートパイロットが動いていた」と明かす——責任の所在が人間なのか機械なのか、本人も決めかねているようだ。",
+        "<b>滑稽さ:</b> プロフットボールのヘッドコーチといえば、試合中の全判断を自分でコントロールする職業の象徴。そのコーチが「ハンドルは機械に任せていた」と告白する構図は笑いを禁じ得ない。",
+        "<b>日本・海外から見ると:</b> 自動運転の責任論は世界共通の未解決問題だが、「まず謝罪、後で機械のせい」という順序は、アメリカの訴訟文化と自動運転神話の矛盾を一人の人間が体現している。"
       ],
       "imagePrompts": [
-        "A gleaming, futuristic data center building with Amazon's logo on it, connected by a thick cable to a massive, smoke-belching coal and gas power plant next door in a flat Texas desert landscape, both under the same clear blue sky",
-        "A corporate sustainability report cover showing wind turbines and solar panels, with a small fine-print footnote at the bottom pointing to a tiny illustration of a gas power plant with smoke stacks",
-        "A split image: on the left, an Amazon warehouse worker packaging a product labeled 'Climate Pledge Friendly'; on the right, a giant smokestack in West Texas labeled 'Powers Your Order' emitting thick clouds into the sky"
+        "A football coach in team gear sitting in the passenger-like position of a car with his arms crossed and eyes closed while a glowing robotic steering wheel turns by itself through a busy California street",
+        "A press conference podium where a coach stands before microphones with a thought bubble split in two: one side shows him saying 'It was my fault,' the other side shows a Tesla Autopilot interface with a blinking cursor",
+        "A referee on a football field holding up a penalty flag, standing next to a Tesla sedan, looking confused about whether to throw the flag at the driver or at the dashboard screen"
       ],
       "captions": [
-        "Amazon announced a net-zero carbon pledge and a new gas power plant in the same decade — which is technically progress, as long as you don't think too hard about which one is bigger.",
-        "The company that delivers packages with electric vans is powering those deliveries' digital backbone with what may be America's filthiest power plant. The vans are still cute, though.",
-        "Amazon's new data center in West Texas will be state-of-the-art. The power plant keeping it running will be state-of-1962.",
-        "Great news for AI — it now has enough power to generate as many sustainability reports as Amazon needs. Less great news for Pecos County's air quality.",
-        "They call it a 'data center,' but given the emissions projections, 'carbon storage facility' also technically applies."
+        "He took full responsibility for the crash, which is impressive, considering he wasn't technically driving.",
+        "In his defense, 'it was Autopilot's fault' doesn't play as well in a post-game press conference.",
+        "The good news: the coach's playbook survived. The bad news: Tesla's Autopilot didn't read it.",
+        "Silicon Valley promised us self-driving cars. Nobody mentioned that accountability would remain fully manual.",
+        "First rule of NFL coaching: own your mistakes. Apparently that includes the mistakes made by your car's artificial intelligence."
       ],
       "captionsJa": [
-        "アマゾンはネットゼロ宣言と新規ガス発電所投資を同じ時代に発表した——どちらが大きいかを考えなければ、確かに前進ではある。",
-        "電動バンで荷物を届ける企業が、そのデジタル基盤を米国最悪級の発電所で動かしている。バンはまだかわいい。",
-        "テキサスのデータセンターは最先端になる予定だ。電力を供給する発電所は1962年水準になる予定だ。",
-        "AIには今や十分な電力がある——アマゾンが必要なだけのサステナビリティレポートを生成するのに十分な量が。ペコス郡の大気質にとっては朗報ではないが。",
-        "「データセンター」と呼ばれているが、排出量の試算を見れば「炭素貯蔵施設」もあながち外れではない。"
+        "「自分のせい」と潔く認めた。運転していなかったにもかかわらず。",
+        "「オートパイロットのせいです」は、試合後の記者会見では少し響きが悪い。",
+        "良いニュース：コーチのプレイブックは無事だった。悪いニュース：テスラのオートパイロットはそれを読んでいなかった。",
+        "シリコンバレーは自動運転を約束した。責任だけは手動のままだとは誰も言わなかった。",
+        "NFLコーチの鉄則：ミスは自分で引き受けること。たとえそのミスが車のAIのものであっても。"
       ],
-      "newsEn": "Amazon is investing in the construction of a new gas-burning power plant in Pecos County, West Texas, to supply electricity to its new data center in the region. According to the New York Times, the plant could become one of the single largest producers of greenhouse gases in the United States. The development comes as Amazon has publicly committed to reaching net-zero carbon emissions.",
+      "newsEn": "San Francisco 49ers head coach Kyle Shanahan was involved in a car accident near downtown Palo Alto approximately four weeks ago. At the time of the incident, Shanahan publicly stated the accident was his fault. During a subsequent press conference, however, he revealed that his Tesla's Autopilot feature was engaged when the crash occurred. The disclosure has raised fresh questions about driver responsibility when semi-autonomous vehicle systems are in use.",
       "ironyEn": [
         {
-          "contradiction": "Amazon has pledged net-zero carbon emissions while simultaneously funding what could be the single dirtiest power plant in the country to keep its servers running.",
-          "absurdity": "The cutting-edge AI infrastructure of the future will apparently be powered by a gas-burning plant that sounds like it belongs in the 1950s — sustainability theater with a very large stage.",
-          "outside": "When global companies publish glossy net-zero pledges, few readers imagine the footnote reads 'powered by one of America's largest greenhouse gas emitters, somewhere in West Texas.'"
+          "contradiction": "A head coach — whose entire job description is making real-time decisions under pressure — initially took full blame for an accident that, it turns out, his car was largely handling at the time.",
+          "absurdity": "Tesla's Autopilot is marketed as a driver-assistance tool that keeps humans in control, yet somehow produced a situation where neither the human nor the machine is cleanly at fault — a perfect no-man's land of accountability.",
+          "outside": "In countries still debating whether to allow self-driving cars on public roads, this story arrives as Exhibit A: even the humans who trust the technology aren't entirely sure who's responsible when it goes wrong."
         },
         {
-          "contradiction": "The company that sells solar panels, energy-efficient smart home devices, and 'Climate Pledge Friendly' product labels is building its own fossil fuel plant.",
-          "absurdity": "Pecos County, Texas will host both the data center that stores your Amazon order history and the power plant that offsets all your carbon footprint reductions — sometimes under the same horizon.",
-          "outside": "ESG fund managers who hold Amazon stock will now need to decide whether 'net-zero by 2040' still counts when you're adding one of the country's worst polluters to the ledger in 2026."
+          "contradiction": "He told the press 'it was my fault' — a statement that aged about as well as a first-round draft pick who tears his ACL in training camp.",
+          "absurdity": "The coach draws up plays for a living, but apparently forgot to draw up an exit strategy when Autopilot took the wheel.",
+          "outside": "From a European regulatory standpoint, this is exactly the scenario that has stalled full autonomous vehicle approval for years — the gap between 'driver assistance' and 'the driver wasn't really driving.'"
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-09/candidate-2.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-08-10/candidate-2.jpg",
+      "imageStyle": "watercolor-sketch"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "New CDC Director Calls 'Abortion Surveillance' Essential at Confirmation Hearing",
-        "source": "The Guardian US",
-        "date": "2026-08-08",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/08/cdc-abortion-surveillance-schwartz-hawley",
-        "summary": "新たに上院で承認されたCDC長官エリカ・シュワルツ博士は、就任前の公聴会で「中絶の監視（abortion surveillance）」を公衆衛生上不可欠と述べ、物議を醸した。"
+        "headline": "NIH Director Says 'I Trust the Science' on Vaccines — As Measles Hits 35-Year High",
+        "source": "CBS News US",
+        "date": "2026-08-10",
+        "url": "https://www.cbsnews.com/news/jay-bhattacharya-vaccines-rfk-jr/",
+        "summary": "国立衛生研究所（NIH）のジェイ・バッタチャリャ所長は、子どもへのワクチン接種について「科学を信頼する」と発言した。アメリカでははしかの感染者数が35年ぶりの高水準に達している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 疾病管理・予防センター（CDC）の長官が「予防」対象として生殖を位置づける発言をした——公衆衛生機関の任務が「管理」に重きを置く方向に傾いているとの懸念を呼ぶ。",
-        "<b>滑稽さ:</b> 「サーベイランス（監視）」という言葉はCDCが感染症追跡に日常的に使う専門用語だが、中絶に適用した瞬間、ホラー映画の予告編のような響きを帯びた。",
-        "<b>日本・海外から見ると:</b> 疾病の「監視」は医療用語として世界共通だが、生殖の選択を同じ枠組みに入れることへの感度は国によって大きく異なる。米国の公衆衛生行政が何を「管理すべき現象」と見なすかが問われている。"
+        "<b>矛盾:</b> 「科学を信頼する」という言葉は、かつてワクチン推進派の合言葉だった。それが今、ワクチン懐疑論と結びつけられて語られる人物の口から出ることで、言葉そのものが空洞化している。",
+        "<b>滑稽さ:</b> 35年ぶりのはしか流行というデータが既に答えを出しているなかで、「科学を信頼します」と改めて宣言する必要があるという状況自体が、科学への信頼が崩れていることを示している。",
+        "<b>日本・海外から見ると:</b> 先進国の保健機関トップが「ワクチンの科学を信じる」とわざわざ明言しなければならない状況は、日本を含む多くの国から見て驚きを持って受け止められている。"
       ],
       "imagePrompts": [
-        "A public health official standing at a podium in front of a large CDC logo, pointing to a presentation slide that shows surveillance camera icons arranged in the shape of a medical caduceus symbol",
-        "A government office with two doors side by side: one labeled 'Disease Surveillance' with a biohazard symbol, and the other labeled 'Abortion Surveillance' with a question mark; a bureaucrat stands between them holding a clipboard, looking uncertain",
-        "A Senate hearing room where a large wall screen behind the witness chair displays a CDC organizational chart with 'Flu Tracking,' 'Food Safety,' and a newly added box labeled 'Reproductive Monitoring' highlighted in a different color"
+        "A government official in a suit standing at a podium labeled 'NIH,' holding a vaccine syringe aloft with one hand while a graph behind him shows measles cases spiking dramatically upward",
+        "A 'Trust the Science' bumper sticker peeling off the back of a car, revealing an older identical sticker underneath, parked outside a hospital with a long line of children waiting to be seen",
+        "A large thermometer-style chart showing measles cases at a 35-year high displayed on the wall of a modern government health office, with a framed needlepoint on the adjacent wall reading 'I Trust The Science'"
       ],
       "captions": [
-        "The new CDC director says abortion surveillance is essential. The CDC also tracks the common cold, so at least we know the bar for 'essential monitoring' is set consistently.",
-        "Good news: the agency that gave us contact tracing is expanding its portfolio. Bad news: the new item on the list isn't a virus.",
-        "The word 'surveillance' appears 47 times in standard CDC epidemiology guidelines. It had never before started a national debate about reproductive rights — until Tuesday.",
-        "When asked if 'abortion surveillance' was essential, the nominee said yes. When asked if 'government surveillance of personal medical decisions' sounded different, the hearing moved on.",
-        "The CDC's new director has confirmed that data collection is vital to public health. Americans are now debating which data, whose health, and who gets to define the word 'public.'"
+        "The NIH director wants you to know he trusts the science — a statement that hits different when the science is currently tracking a 35-year measles record.",
+        "Good news: America's top health official believes vaccines work. Bad news: we needed him to say it out loud.",
+        "'I trust the science' — the sentence that used to end debates and now, apparently, starts them.",
+        "Measles cases are at a 35-year high. On the bright side, we now have official confirmation that the NIH director has heard of vaccines.",
+        "In a bold move, the head of the National Institutes of Health announced he supports the findings of the National Institutes of Health."
       ],
       "captionsJa": [
-        "新CDC長官は中絶監視が不可欠と述べた。CDCは風邪も追跡しているので、「監視が必要なもの」の基準は一貫しているとも言える。",
-        "接触追跡を生んだ機関がポートフォリオを拡大している。ただし今回の新規項目はウイルスではない。",
-        "「サーベイランス」という単語はCDCの疫学指針に47回登場する。それが全国的な生殖権論争の発端になったのは今週が初めてだった。",
-        "「中絶監視は不可欠か」と問われ、候補者はイエスと答えた。「個人の医療決定への政府監視」と言い換えると聞こえが違うかと問われたところで、公聴会は次の質問に移った。",
-        "新CDC長官はデータ収集が公衆衛生に不可欠だと確認した。アメリカ国民は今、どのデータを、誰の健康のために、誰が「公衆」と定義するのかを議論している。"
+        "NIH長官が「科学を信頼します」と発言。はしかの感染者数が35年ぶりの記録を更新している最中に。",
+        "良いニュース：アメリカの最高医療責任者はワクチンが効くと信じている。悪いニュース：それをわざわざ声に出す必要があった。",
+        "「科学を信頼する」——かつて議論を終わらせた言葉が、今や議論の始まりになっている。",
+        "はしかが35年ぶりの高水準に。明るい面を挙げるとすれば、NIH長官がワクチンの存在を知っていたことが公式に確認された。",
+        "国立衛生研究所の長が、国立衛生研究所の研究結果を支持すると勇気ある声明を発表した。"
       ],
-      "newsEn": "Dr. Erica Schwartz was confirmed by the U.S. Senate as director of the Centers for Disease Control and Prevention. During her confirmation hearing, an exchange with Senator Josh Hawley in which she described 'abortion surveillance' as essential drew significant attention and criticism. The CDC has historically collected abortion data for public health purposes, but the framing of the term raised alarm among reproductive rights advocates.",
+      "newsEn": "Dr. Jay Bhattacharya, director of the National Institutes of Health, stated that he 'trusts the science' regarding childhood vaccines. His comments came as measles cases in the United States have risen to their highest levels in 35 years. Bhattacharya's appointment was supported by figures in the broader health policy debate who have questioned mainstream vaccine guidance. The juxtaposition of his statement with the measles resurgence has drawn significant public attention.",
       "ironyEn": [
         {
-          "contradiction": "The director of an agency whose name includes the word 'Prevention' has flagged surveillance of a legal medical procedure as an essential public health function — raising the question of what exactly is being prevented.",
-          "absurdity": "The CDC routinely uses the word 'surveillance' for tracking flu outbreaks and foodborne illness. Applying it to abortion managed to make a standard epidemiological term sound like a dystopian policy in under ten seconds.",
-          "outside": "In public health globally, surveillance means data collection for disease control. When the same word attaches to reproductive decisions, the international medical community tends to ask a pointed follow-up question."
+          "contradiction": "'I trust the science' used to be the rallying cry of vaccine advocates — now it's being said defensively by the head of the NIH while measles makes a comeback tour not seen since 1991.",
+          "absurdity": "Announcing that you trust science while presiding over a preventable disease outbreak at a 35-year peak is a bit like a fire chief saying 'I believe in water' while the city burns.",
+          "outside": "In countries where measles was declared eliminated decades ago, the need for the director of America's top health research institute to verbally confirm his belief in vaccines reads less like leadership and more like a very troubling FAQ."
         },
         {
-          "contradiction": "An agency built to track and contain infectious diseases is now being asked to frame a legal medical procedure as something requiring equivalent monitoring infrastructure.",
-          "absurdity": "Senator Hawley's line of questioning managed to turn a CDC confirmation hearing into a philosophical debate about what counts as a public health threat — a category that historically did not include personal medical choices.",
-          "outside": "Countries with universal healthcare track abortion statistics for resource planning, not enforcement. The distinction between the two approaches is the entire debate."
+          "contradiction": "The phrase 'I trust the science' has now completed its full political journey: from progressive bumper sticker to defensive statement from a Trump-era NIH director.",
+          "absurdity": "Measles — a disease with a safe, effective, decades-old vaccine — is at a 35-year high, and the nation's top health official's response is to publicly declare that vaccines are, in fact, real.",
+          "outside": "For global health organizations that have spent years praising US vaccine infrastructure as a model, this moment represents a remarkable reversal that no infographic had prepared them for."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-09/candidate-3.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-08-10/candidate-3.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "New York City Wages War on Rats — and Might Actually Be Winning (Or the Rats Are Just Adapting)",
+        "headline": "Lake Mead Hits Historic Low — The Largest Reservoir in America Is Running on Empty",
         "source": "The Guardian US",
-        "date": "2026-08-08",
-        "url": "https://www.theguardian.com/us-news/2026/aug/08/new-york-city-rats-trash-bins",
-        "summary": "ニューヨーク市がゴミの容器化プログラムを展開した結果、パンデミック以降で最少のネズミ目撃件数を記録するペースにある。ただし専門家は、ネズミが単に適応しているだけの可能性も示唆している。"
+        "date": "2026-08-10",
+        "url": "https://www.theguardian.com/us-news/2026/aug/09/lake-mead-record-low-water-level-colorado-river",
+        "summary": "米国最大の貯水池、レイク・ミードの水位が約90年前の貯水開始以来最低を記録し、西部の水資源危機がさらに深刻化していることが示された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 数十年かけて世界的な「ゴミ袋都市」のブランドを確立したニューヨークが、今ごろゴミ箱を導入して「衛生革命」と呼んでいる——他の先進都市が半世紀前に当たり前にしていたことが、マンハッタンでは快挙になる。",
-        "<b>滑稽さ:</b> 「ネズミが減ったのか、それとも見つかりにくくなっただけか」という問いが真剣に学術的に議論されている都市は、世界でもそう多くない。",
-        "<b>日本・海外から見ると:</b> 東京や大阪では指定ゴミ袋と収集ルールが数十年前から整備されている。ニューヨーク市民がゴミ箱の導入を「歴史的進歩」として報道する光景は、海外から見ると別の意味でシュールだ。"
+        "<b>矛盾:</b> ラスベガスをはじめとする砂漠の都市が人工噴水やプールを誇示し続ける一方で、その水源であるレイク・ミードは90年ぶりの歴史的低水位を記録している。",
+        "<b>滑稽さ:</b> 2022年にも「過去最低」を記録したはずが、わずか4年でその記録が更新された。「前代未聞」が「またいつもの前代未聞」になりつつある。",
+        "<b>日本・海外から見ると:</b> 気候変動対策の国際議論をリードしてきたアメリカ最大の貯水池が90年ぶりの空っぽに近づいているという現実は、政策と実態のギャップを象徴するニュースとして世界に届いている。"
       ],
       "imagePrompts": [
-        "A gleaming new sealed green trash bin on a New York City sidewalk at night, with a single large rat sitting on top of it wearing tiny reading glasses and studying what appears to be a blueprint labeled 'New Lid Mechanism'",
-        "A city hall press conference scene where a mayor stands proudly in front of a giant banner reading 'RAT REDUCTION SUMMIT,' while in the background through the window, a rat is visibly moving a trash container lid aside",
-        "A split before-and-after image of a New York sidewalk: the 'before' side shows towering mountains of black garbage bags with rats; the 'after' side shows neat sealed bins — but the rats have simply moved underground, with tiny rat-sized manholes visible"
+        "An aerial view of a massive reservoir showing a wide, pale 'bathtub ring' of exposed pale rock towering above the remaining dark water, with the Las Vegas skyline with its glowing hotel towers visible in the far distance",
+        "A 'WELCOME TO LAKE MEAD' national park sign standing in cracked, dry earth far from the current water's edge, a boat ramp leading nowhere visible behind it",
+        "A split image: on the left, archival-style image of the full reservoir brimming with blue water; on the right, the same landscape today with a fraction of the water and dramatically exposed canyon walls"
       ],
       "captions": [
-        "New York City may finally be winning its war on rats. The rats could not be reached for comment, but sources close to them say they are 'adapting and thriving.'",
-        "The city introduced sealed trash bins and rat sightings dropped — proving that one of America's greatest metropolises can solve a problem that a trash can solves, if given sufficient decades.",
-        "Officials are cautiously optimistic that the containerization program is working. Rats are reportedly cautiously optimistic about their new underground expansion plans.",
-        "New York is on track for its fewest rat sightings since the pandemic. The rats have issued a statement saying they prefer to think of it as 'working remotely.'",
-        "The city spent billions on infrastructure, technology, and urban planning. The rats were defeated by a lid."
+        "Lake Mead just set a new record low, which is impressive, because it already set a record low in 2022 — meaning the West is speedrunning its own water crisis.",
+        "The good news: Las Vegas's fountain shows are still running. The bad news: we now know exactly where that water is coming from.",
+        "Ninety years ago, engineers filled Lake Mead and called it the future of the American West. The future, it turns out, had a leak.",
+        "Scientists call it an 'historic low.' Las Vegas calls it 'not our problem, have you tried the buffet?'",
+        "The largest reservoir in the United States is nearly empty. On the bright side, there's more exposed rock for future generations to study what went wrong."
       ],
       "captionsJa": [
-        "ニューヨーク市はついにネズミとの戦争に勝ちつつあるかもしれない。ネズミ側にコメントを求めたが、関係者によれば「適応しながら繁栄中」とのことだ。",
-        "市がゴミ箱を導入したらネズミの目撃が減った——アメリカ最大の都市が、ゴミ箱で解決できる問題を数十年かけて解決した証明だ。",
-        "当局はコンテナ化プログラムが機能していると慎重に楽観視している。ネズミ側も地下拡張計画について慎重に楽観視していると伝えられる。",
-        "ニューヨークはパンデミック以降で最少のネズミ目撃数を記録しそうだ。ネズミ側は声明を出し、「リモートワークに移行したと考えてほしい」と述べた。",
-        "市はインフラ、テクノロジー、都市計画に数十億ドルを投じた。ネズミを倒したのは蓋だった。"
+        "レイク・ミードが過去最低水位を更新した。これは凄い——なぜなら2022年にも「過去最低」を記録したばかりだから。西部は自らの水危機をスピードランしている。",
+        "良いニュース：ラスベガスの噴水ショーは今日も続いている。悪いニュース：その水がどこから来ているかが、今や明らかだ。",
+        "90年前、エンジニアたちはレイク・ミードを満水にし、それをアメリカ西部の未来と呼んだ。未来には、どうやら水漏れがあったらしい。",
+        "科学者は「歴史的低水位」と呼ぶ。ラスベガスは「うちの問題じゃないし、ビュッフェはどう？」と呼ぶ。",
+        "米国最大の貯水池がほぼ空になった。明るい面：露出した岩盤が増え、将来の世代が何が間違っていたかを研究する材料が豊富になった。"
       ],
-      "newsEn": "New York City is on track to record its fewest rat sightings since the pandemic, following Mayor Mamdani's 'containerization' program that introduced sealed trash bins across the boroughs. The initiative aims to remove the open garbage bags that have long served as a food source for the city's infamous rat population. However, some experts suggest the rodents may simply be adapting to the new conditions rather than declining in number.",
+      "newsEn": "Lake Mead, the largest reservoir in the United States, has dropped to its lowest water level since it was filled approximately 90 years ago. The reservoir sits along the Arizona-Nevada border and is a critical water source for millions of people across the American Southwest. The record low surpasses the previous mark set in 2022, amid an ongoing and deepening water crisis in the western United States. The Colorado River, which feeds Lake Mead, continues to struggle under sustained demand and drought conditions.",
       "ironyEn": [
         {
-          "contradiction": "New York City is celebrating a reduction in rat sightings as a major policy victory — a benchmark that most cities achieved by simply owning trash cans.",
-          "absurdity": "The city is now conducting serious scientific inquiry into whether the rats have been defeated or have merely become better at avoiding humans, which is either a public health study or the premise of a thriller novel.",
-          "outside": "Cities in Japan, Germany, and South Korea implemented sealed waste containerization decades ago as a baseline sanitation standard. New York is treating the same step as a landmark mayoral achievement."
+          "contradiction": "Lake Mead supplies water to Las Vegas — a city famous for its fountains, artificial lakes, and water feature hotels — and is now at its lowest level in 90 years.",
+          "absurdity": "The previous record low was set in 2022, which means the American West has broken its own 'unprecedented' water crisis record in under four years, suggesting that 'unprecedented' may need a new definition.",
+          "outside": "Nations that have been lectured about sustainable water management by American environmental delegations are watching the continent's largest reservoir drain toward a 90-year low with a complicated mix of concern and recognition."
         },
         {
-          "contradiction": "The metropolis that built the world's most complex financial infrastructure spent decades unable to solve the logistical challenge of putting garbage in a container with a lid.",
-          "absurdity": "Rat sighting data is now a key performance indicator for New York's municipal government — meaning the city's success is partly measured by how often residents encounter rodents on their commute.",
-          "outside": "The global narrative of New York as the city that never sleeps has a less-marketed companion story: the city where the rats also never sleep, and have been winning on points for about 200 years."
+          "contradiction": "The Colorado River Compact, meant to fairly distribute water among seven states, was negotiated in 1922 — a particularly wet year, it turns out — meaning Western water rights have been built on a foundation of optimistic math for a century.",
+          "absurdity": "Las Vegas has invested billions in water recycling and efficiency technology, while simultaneously remaining one of the most water-intensive entertainment destinations on Earth — a paradox the reservoir is now literally measuring.",
+          "outside": "For countries in the Global South already experiencing water scarcity, the spectacle of the wealthiest nation on Earth failing to manage its largest freshwater reserve is less surprising than it is quietly devastating."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-09/candidate-4.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-08-10/candidate-4.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Cyclospora Outbreaks Send Americans Away From Salad Bars Nationwide",
-        "source": "CNBC Top News",
-        "date": "2026-08-08",
-        "url": "https://www.cnbc.com/2026/08/08/cyclospora-salads-lettuce-restaurants.html",
-        "summary": "全米で続くサイクロスポーラ菌の集団感染を受け、消費者がサラダを避ける傾向が強まり、サラダチェーン各店への来客数が顕著に落ち込んでいる。"
+        "headline": "Idaho Puts New Mothers on Child Abuse Registries for Testing Positive for THC",
+        "source": "CBS News US",
+        "date": "2026-08-09",
+        "url": "https://www.cbsnews.com/news/thc-tests-land-new-mothers-onto-child-abuse-registries/",
+        "summary": "アイダホ州では、出産後にTHC（大麻成分）陽性反応が出た新生児の母親が、児童虐待登録簿に登録されるケースが相次いでいる。調査は誰が処罰され、誰がされないかについて厳しい疑問を投げかけている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「健康的な食生活」の象徴として急成長したサラダ専門チェーン産業が、「野菜を食べたせいで病気になる」という事態によって客足を失っている——健康志向ビジネスの皮肉な急所を突いた展開だ。",
-        "<b>滑稽さ:</b> アメリカの食文化において「ジャンクフードは体に悪い、野菜を食べろ」と言われ続けてきた国民が、今週は「野菜を食べたら病院行き」というニュースに直面している。ハンバーガーが相対的に安全な週だ。",
-        "<b>日本・海外から見ると:</b> 日本では生野菜の衛生管理が外食産業で厳しく問われる文化がある。アメリカのサラダチェーンが「健康=サラダ」という等式で急拡大したビジネスモデルが、食の安全問題によって根本から揺らいでいる構図は、食産業のリスク管理を考えさせる。"
+        "<b>矛盾:</b> 「子どもを守る」ための虐待登録制度が、出産したばかりの母親を証拠なき「虐待者」として登録することで、家族を引き裂くリスクを生み出している。",
+        "<b>滑稽さ:</b> THCは消費から数週間後も検出されるため、出産前の過去の行為が、産後の母親の法的立場を決定している——「産む前の自分」が「産んだ後の自分」を裁く制度だ。",
+        "<b>日本・海外から見ると:</b> 大麻合法州と非合法州が混在するアメリカでは、隣の州なら合法な行為が別の州では「虐待の証拠」になる。この地理的なダブルスタンダードは、制度の一貫性への根本的疑問を提起している。"
       ],
       "imagePrompts": [
-        "An empty, pristine salad chain restaurant interior with rows of untouched fresh ingredients at the counter and a lone tumblewing rolling through the dining area; a chalkboard sign reads 'Today's Special: Proceed With Caution'",
-        "A split menu board in a fast food restaurant: on the left side, a wilting salad option with a small biohazard symbol next to it; on the right side, a gleaming burger and fries labeled 'The Safe Option This Week'",
-        "A doctor's waiting room packed with patients all holding empty salad containers, with a poster on the wall reading 'Eat Your Vegetables' that has been partially crossed out and replaced with a handwritten question mark"
+        "A hospital maternity ward room where a new mother holds her newborn while a clipboard labeled 'Child Abuse Registry' sits ominously on the bedside table next to flowers and get-well cards",
+        "A large government filing cabinet labeled 'CHILD ABUSE REGISTRY' with folders marked only with THC test results and no other documentation visible",
+        "A map of the United States where states with legal marijuana are shaded green and states like Idaho are shaded red, with a bold line at the border labeled 'Same action, different legal consequence'"
       ],
       "captions": [
-        "Cyclospora outbreaks have reduced traffic to salad chains across America. In related news, it's the first summer on record where a nutritionist and a gastroenterologist are giving slightly different advice.",
-        "Americans built a multi-billion-dollar industry on the idea that salad is the healthy option. Cyclospora is this month's peer reviewer.",
-        "The CDC recommends washing produce thoroughly. The salad chains recommend coming back once the CDC stops recommending that.",
-        "Sales at salad restaurants are down due to parasite fears, which marks the first time in American dining history that the cheeseburger was technically the low-risk menu item.",
-        "Nutritionists have spent decades telling Americans to eat more greens. This summer, those greens are eating back."
+        "Idaho has found an efficient way to support new mothers: put them on a child abuse registry before they leave the hospital.",
+        "THC stays in your system for weeks, which means Idaho is technically punishing you for something your pre-pregnant self did — retroactive parenting laws are the future.",
+        "The state of Idaho would like to remind you that the best time to investigate a mother for child abuse is immediately after she gives birth, while she's still in the hospital gown.",
+        "In Colorado, the same test result gets you a dispensary loyalty stamp. In Idaho, it gets you a government registry. Geography is doing a lot of work in American drug policy.",
+        "Experts say child abuse registries exist to protect children. Idaho says: great idea, let's start at the delivery room."
       ],
       "captionsJa": [
-        "サイクロスポーラの集団感染でサラダチェーンへの客足が全米で落ちている。関連ニュース：記録上初めて、栄養士と消化器科医がわずかに異なるアドバイスをしている夏となった。",
-        "アメリカは「サラダは健康的な選択肢」という前提に数十億ドル規模の産業を築いた。サイクロスポーラが今月の査読者を務めている。",
-        "CDCは農産物をよく洗うよう勧めている。サラダチェーン各社はCDCがその勧告をやめた後にまた来てほしいと勧めている。",
-        "寄生虫への恐怖でサラダレストランの売上が落ちた。アメリカの外食史上初めて、チーズバーガーが技術的に低リスクメニューとなった瞬間だ。",
-        "栄養士たちは数十年かけてアメリカ人にもっと野菜を食べるよう言い続けてきた。今年の夏、その野菜が食い返してきた。"
+        "アイダホ州は新米ママを支援する効率的な方法を見つけた：退院前に児童虐待登録簿に載せることだ。",
+        "THCは体内に数週間残る。つまりアイダホ州は、妊娠前の自分の行為で産後の自分を罰している——遡及的育児法は未来の法律だ。",
+        "アイダホ州からのお知らせ：母親の虐待調査を始めるベストタイミングは、産院の分娩室を出る前、まだ病院服を着ているうちです。",
+        "コロラド州では同じ検査結果でディスペンサリーのポイントカードがもらえる。アイダホ州では政府の登録簿に載る。アメリカの薬物政策において、地理は非常に重い仕事をしている。",
+        "専門家いわく、児童虐待登録制度は子どもを守るためにある。アイダホ州いわく：いい考えだ、分娩室から始めよう。"
       ],
-      "newsEn": "Ongoing cyclospora outbreaks across the United States have led consumers to reduce their consumption of fresh greens and salads. Traffic to salad-focused restaurant chains has declined measurably as a result. Cyclospora is a parasitic infection typically linked to contaminated fresh produce, including leafy greens, and can cause prolonged gastrointestinal illness.",
+      "newsEn": "An investigation has found that new mothers in Idaho have been placed on child abuse registries after testing positive for THC, the active chemical compound found in marijuana. The registrations occur even when no other evidence of child abuse or neglect is present. The reporting raises significant questions about which mothers face these consequences and whether the policy is applied consistently and equitably across different demographics. THC can remain detectable in the body for weeks after use.",
       "ironyEn": [
         {
-          "contradiction": "The fastest-growing segment of America's restaurant industry was built entirely on the premise that eating salad is the healthy choice — and it is now losing customers because eating salad made people sick.",
-          "absurdity": "For one brief stretch of the American summer, the medical community's consistent advice to 'eat more vegetables' came with an asterisk the size of a FDA recall notice.",
-          "outside": "Countries with stricter fresh produce handling standards in food service are watching the U.S. salad chain industry discover that 'healthy' and 'safe' are two different food certifications."
+          "contradiction": "A registry designed to protect children from abuse is being used to label new mothers as child abusers based on a chemical that can linger in the body for weeks — meaning a mother could be flagged for something she did before she even knew her due date.",
+          "absurdity": "Idaho's system can place a woman on a child abuse registry at the most medically monitored moment of her life — childbirth — on the basis of a test that doesn't measure impairment, timing, or intent, just chemical presence.",
+          "outside": "In states where recreational marijuana is fully legal, the same THC level that gets you a tax receipt gets an Idaho mother a place on a government abuse list — a distinction made entirely by the state line you happened to deliver on."
         },
         {
-          "contradiction": "Americans who switched from fast food to salad chains for health reasons are now being medically advised to reconsider — creating the rare scenario where the burger is the conservative dietary choice.",
-          "absurdity": "Cyclospora infections can last weeks and cause severe gastrointestinal distress, which means the people who ordered salad instead of fries are, statistically this month, having the worse time.",
-          "outside": "The irony of a public health crisis reducing consumption of the food category most associated with public health consciousness is exactly the kind of news story that writes itself — and apparently also writes the menu changes."
+          "contradiction": "Child protective systems are built on the principle of evidence-based intervention — yet a registry entry here requires no evidence of harm, impairment, or neglect, only a positive urine test.",
+          "absurdity": "The investigation raises questions about who gets flagged and who doesn't — a question that, in American healthcare, tends to have a consistent and uncomfortable answer related to race and income.",
+          "outside": "Countries with universal healthcare and standardized maternal screening watch this story and see a system that uses the most vulnerable moment in a woman's life as an enforcement opportunity rather than a support one."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-09/candidate-5.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-08-10/candidate-5.jpg",
+      "imageStyle": "soft-3d"
     }
   ]
 };
