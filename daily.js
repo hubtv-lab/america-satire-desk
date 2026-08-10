@@ -1,258 +1,258 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-10",
-  "generatedAt": "2026-08-09T20:17:45+00:00",
+  "date": "2026-08-11",
+  "generatedAt": "2026-08-10T20:30:05+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Zuckerberg's $300M Superyacht Was Closer — But Let Someone Else Do the Rescuing",
-        "source": "The Verge",
-        "date": "2026-08-10",
-        "url": "https://www.theverge.com/tech/977161/mark-zuckerberg-yacht-wilderness-legacy-stranded-boat",
-        "summary": "アラスカ州ファラガット湾で燃料切れの小型艇が漂流した際、近くにいたザッカーバーグ氏の約360億円の超大型ヨットではなく、小型クルーズ船が救助に向かったことが追跡データで判明した。"
+        "headline": "Trump Signs Order Cutting Childhood Vaccines, Citing Autism Link Science Calls False",
+        "source": "CNBC Top News",
+        "date": "2026-08-11",
+        "url": "https://www.cnbc.com/2026/08/10/trump-vaccine-executive-order-autism.html",
+        "summary": "トランプ大統領が、科学的根拠のない自閉症との関連を主張しつつ、子どもへのワクチン接種を削減する大統領令に署名した。MMRワクチンを3本に分割接種するよう求める内容も含まれる。"
       },
       "commentary": [
-        "<b>矛盾:</b> メタ社は「人々をつなぐ」ことを企業理念に掲げているが、物理的に最も近い距離にいたそのオーナーは、漂流者とつながることを選ばなかった。",
-        "<b>滑稽さ:</b> 世界最大のSNSを持つ男が海の上で「通知をオフ」にしていたかのような構図は、どんなミームよりもシュールだ。",
-        "<b>日本・海外から見ると:</b> 「隣人を助ける」という最も原始的な行動を、最先端テクノロジーで武装した億万長者が見送ったという皮肉は、格差社会への風刺として世界中で共感を呼んでいる。"
+        "<b>矛盾:</b> 科学的コンセンサスを「信じる」と公言してきた政府機関の長が、科学が否定した主張を根拠に医療制度を書き換えるという、制度的自己矛盾が完成している。",
+        "<b>滑稽さ:</b> MMRを3本に分けることで「安全」になるという論理は、ハンバーガーを3回に分けて食べると低カロリーになる理論と構造が同じである。",
+        "<b>日本・海外から見ると:</b> 日本でも反ワクチン論争は根強いが、政府が大統領令でCDCの権限を「上書き」するという発想は、公衆衛生の行政設計として別次元のインパクトを持つ。"
       ],
       "imagePrompts": [
-        "A massive, gleaming superyacht anchored in calm Alaskan waters surrounded by stunning scenery, while in the far background a tiny cruise ship is pulling a small wooden skiff to safety; the superyacht's deck is visibly empty",
-        "A side-by-side comparison of a gigantic luxury yacht labeled 'CLOSEST VESSEL' and a small weathered cruise ship labeled 'ACTUAL RESCUER,' both floating on the same grey ocean",
-        "A stranded small boat crew waving flare signals toward a colossal yacht in the distance; the yacht's portholes are lit up with warm party light while the rescue ship approaches from the opposite direction"
+        "A large official government desk covered in pens and executive-order folders; a wall chart showing the MMR vaccine split into three separate syringes with arrows and bureaucratic labels; framed portraits on the wall replaced by question marks",
+        "A pediatric clinic waiting room with three separate appointment desks labeled 'M,' 'M,' and 'R,' a long line of confused parents holding numbered tickets, a CDC logo partially covered by a 'OVERRIDDEN' rubber stamp",
+        "A scale of justice where one side holds a thick stack of peer-reviewed journals and the other holds a single executive-order document; the document side is tipped down by a giant presidential seal paperweight"
       ],
       "captions": [
-        "The yacht was close enough to offer help — but apparently being the world's largest social network doesn't include the 'respond' button.",
-        "In Zuckerberg's defense, the rescue request may have been flagged as spam.",
-        "Launchpad: a name that really captures the spirit of watching someone else do the launching.",
-        "The good news is, the stranded crew was eventually rescued. The bad news is, it had nothing to do with the guy who owns the internet.",
-        "Meta's new maritime policy: if you want to be rescued, make sure you're in his friend list first."
+        "The CDC has spent fifty years building the childhood vaccine schedule. It took one pen stroke to fix it — and fortunately, no medical expertise was required.",
+        "Breaking the MMR into three shots: bold, innovative, and completely unasked-for by every immunologist on the planet.",
+        "Officials assured reporters the new policy is 'science-based,' then declined to name the science.",
+        "Somewhere, a pediatrician is staring at their appointment calendar and quietly weeping.",
+        "The good news: kids only need three shots now instead of one. The bad news: that's not actually good news."
       ],
       "captionsJa": [
-        "ヨットは十分近くにいた。でも「世界最大のSNS」には、どうやら「返信」ボタンがなかったらしい。",
-        "ザッカーバーグ氏の弁護をするなら、救助要請がスパム判定された可能性はある。",
-        "「ローンチパッド（発射台）」という船名——誰かほかの人が代わりに発射した皮肉を見事に体現している。",
-        "良いニュース：漂流者たちは無事救助された。悪いニュース：それはインターネットを所有する男とは無関係だった。",
-        "メタの新たな海上ポリシー：救助してほしければ、まず友達申請を承認してもらうこと。"
+        "CDCが50年かけて作り上げた子どもの予防接種スケジュールは、ペン一本で「修正」された。医学の専門知識は不要だったもよう。",
+        "MMRを3本に分ける：大胆で革新的、そして地球上のすべての免疫学者が誰も求めていなかった施策。",
+        "当局者は「科学に基づいた政策だ」と説明したが、その科学が何かは教えてもらえなかった。",
+        "どこかで小児科医が予約カレンダーを見つめながら、静かに泣いている。",
+        "朗報：子どもへの注射は1本ではなく3本になった。悲報：それは別に朗報ではない。"
       ],
-      "newsEn": "Tracking data reviewed by the Alaska Beacon and Halifax Shipping News showed that Mark Zuckerberg's 387-foot superyacht Launchpad was the closest vessel to a stranded skiff near Farragut Bay, Alaska. The small skiff had run out of fuel and was in need of rescue. Instead, the Alaskan cruise ship Wilderness Legacy responded and rescued the crew. Zuckerberg has faced public questions about why his vessel did not act.",
+      "newsEn": "President Trump signed an executive order directing changes to the childhood vaccination schedule, including splitting the MMR vaccine into three separate shots. The order also removes recommendations for hepatitis B, COVID-19, and flu vaccines for children. Trump and HHS Secretary RFK Jr. repeatedly invoked a link between vaccines and autism at the signing, despite decades of scientific research finding no such connection.",
       "ironyEn": [
         {
-          "contradiction": "A company whose stated mission is 'connecting people' is owned by a man who, when literally closest to people in distress at sea, apparently stayed connected to his deck chair instead.",
-          "absurdity": "It took a modest cruise ship to do what a 387-foot, $300 million vessel could not — basic human decency, no algorithm required.",
-          "outside": "From abroad, it reads as a perfect parable of Silicon Valley philanthropy: world-changing generosity, as long as it can be announced in a press release and not performed in the rain near Alaska."
+          "contradiction": "The administration that promised to 'follow the science' has now issued an executive order overriding the CDC based on a theory science has repeatedly disproven.",
+          "absurdity": "Splitting one vaccine into three shots to make it 'safer' is roughly the logic of eating a burger in three sittings to cut the calories.",
+          "outside": "From abroad, the spectacle of a president signing an order to override his own country's top public-health agency on pediatric medicine looks less like policy and more like performance art."
         },
         {
-          "contradiction": "Launchpad is the name of the yacht — a vessel that, in this instance, launched nothing except uncomfortable headlines.",
-          "absurdity": "The billionaire who once claimed to want to build a 'metaverse' for everyone apparently couldn't find bandwidth for a rescue operation happening in real space, real time, right next door.",
-          "outside": "In Japan, where a sense of communal obligation runs deep, the phrase 'the closest ship did nothing' would require no further commentary — the irony would be understood in silence."
+          "contradiction": "The CDC exists precisely to set evidence-based vaccine schedules; an executive order telling it to revise that schedule based on debunked claims is the institution being used to undermine itself.",
+          "absurdity": "America spent decades developing a combined MMR shot for convenience and compliance, then decided the fix was to make it three separate appointments.",
+          "outside": "Countries that spent years trying to close vaccination gaps with the U.S. may now find themselves ahead by standing still."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-10/candidate-1.jpg",
-      "imageStyle": "retro-pop"
+      "image": "images/2026-08-11/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "49ers Coach Says Tesla Autopilot Was Driving When He Crashed — Then Called It His Own Fault",
-        "source": "The Verge",
-        "date": "2026-08-10",
-        "url": "https://www.theverge.com/transportation/977155/49ers-coach-tesla-autopilot-crash",
-        "summary": "NFLサンフランシスコ・49ersのカイル・シャナハン監督は、4週間前のパロアルト近郊での自動車事故について、当時テスラのオートパイロット機能を使用中だったと明かした。事故直後には「自分のせい」と述べていた。"
+        "headline": "Trump's Former Personal Defense Lawyer Sworn In as Nation's Top Law Enforcement Officer",
+        "source": "The Guardian US",
+        "date": "2026-08-11",
+        "url": "https://www.theguardian.com/us-news/2026/aug/10/todd-blanche-attorney-general-sworn-in",
+        "summary": "トランプ大統領の元個人弁護士トッド・ブランシュ氏が、上院の僅差の承認を経て司法長官に就任した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「自分のせい」と謝罪しておきながら、後から「オートパイロットが動いていた」と明かす——責任の所在が人間なのか機械なのか、本人も決めかねているようだ。",
-        "<b>滑稽さ:</b> プロフットボールのヘッドコーチといえば、試合中の全判断を自分でコントロールする職業の象徴。そのコーチが「ハンドルは機械に任せていた」と告白する構図は笑いを禁じ得ない。",
-        "<b>日本・海外から見ると:</b> 自動運転の責任論は世界共通の未解決問題だが、「まず謝罪、後で機械のせい」という順序は、アメリカの訴訟文化と自動運転神話の矛盾を一人の人間が体現している。"
+        "<b>矛盾:</b> 司法の独立性を体現するはずの司法長官ポストに、大統領の個人的な刑事弁護を担った人物が就く――「誰が誰を裁くか」という問い自体が制度の冗談になっている。",
+        "<b>滑稽さ:</b> 弁護士と検察官は普通キャリアの対極にいるが、アメリカでは同じ人物がクライアントを守る側から国家の法執行トップに華麗にポジションチェンジできる。",
+        "<b>日本・海外から見ると:</b> 日本では検察官出身者が法務大臣に就くことが多く、「依頼人の弁護士がそのまま検事総長に」という人事は法曹文化として想像しにくい。"
       ],
       "imagePrompts": [
-        "A football coach in team gear sitting in the passenger-like position of a car with his arms crossed and eyes closed while a glowing robotic steering wheel turns by itself through a busy California street",
-        "A press conference podium where a coach stands before microphones with a thought bubble split in two: one side shows him saying 'It was my fault,' the other side shows a Tesla Autopilot interface with a blinking cursor",
-        "A referee on a football field holding up a penalty flag, standing next to a Tesla sedan, looking confused about whether to throw the flag at the driver or at the dashboard screen"
+        "A courtroom-style setting where the defense table and the prosecutor's podium are occupied by the same suited figure holding a briefcase in one hand and a gavel in the other, a giant 'DOJ' seal on the wall behind",
+        "A large revolving door labeled 'Defense Bar' on one side and 'Department of Justice' on the other; a single figure mid-spin carrying files labeled 'CLIENT FILES' that morph into 'FEDERAL CASE FILES'",
+        "The scales of justice on a grand government building's facade, but both pans are held by the same pair of hands; a small Senate chamber visible in the background with a scoreboard reading '51-49'"
       ],
       "captions": [
-        "He took full responsibility for the crash, which is impressive, considering he wasn't technically driving.",
-        "In his defense, 'it was Autopilot's fault' doesn't play as well in a post-game press conference.",
-        "The good news: the coach's playbook survived. The bad news: Tesla's Autopilot didn't read it.",
-        "Silicon Valley promised us self-driving cars. Nobody mentioned that accountability would remain fully manual.",
-        "First rule of NFL coaching: own your mistakes. Apparently that includes the mistakes made by your car's artificial intelligence."
+        "The Department of Justice now has new leadership. Don't worry — he's very familiar with the cases.",
+        "It's a bold management philosophy: hire someone who already knows exactly where all the bodies are buried, professionally speaking.",
+        "The Senate confirmed him narrowly, which is Washington for 'close enough, give him the badge.'",
+        "In his previous role, he argued the government's case was flawed. In his new role, he IS the government's case.",
+        "Legal scholars are calling it unprecedented. The White House is calling it Tuesday."
       ],
       "captionsJa": [
-        "「自分のせい」と潔く認めた。運転していなかったにもかかわらず。",
-        "「オートパイロットのせいです」は、試合後の記者会見では少し響きが悪い。",
-        "良いニュース：コーチのプレイブックは無事だった。悪いニュース：テスラのオートパイロットはそれを読んでいなかった。",
-        "シリコンバレーは自動運転を約束した。責任だけは手動のままだとは誰も言わなかった。",
-        "NFLコーチの鉄則：ミスは自分で引き受けること。たとえそのミスが車のAIのものであっても。"
+        "司法省に新長官が誕生した。ご安心を――彼は案件の内情に非常に詳しい。",
+        "大胆な人材戦略：「すべての事情を知っている人間」をトップに据える。",
+        "上院は僅差で承認した。ワシントン語訳：「まあいいか、バッジを渡せ」。",
+        "前職では「政府の主張には欠陥がある」と論じ、新職では彼自身が政府の主張そのものになった。",
+        "法学者たちは「前例がない」と言っている。ホワイトハウスは「火曜日だ」と言っている。"
       ],
-      "newsEn": "San Francisco 49ers head coach Kyle Shanahan was involved in a car accident near downtown Palo Alto approximately four weeks ago. At the time of the incident, Shanahan publicly stated the accident was his fault. During a subsequent press conference, however, he revealed that his Tesla's Autopilot feature was engaged when the crash occurred. The disclosure has raised fresh questions about driver responsibility when semi-autonomous vehicle systems are in use.",
+      "newsEn": "Todd Blanche, who previously served as Donald Trump's personal criminal defense attorney, was sworn in as U.S. Attorney General after the Senate narrowly confirmed him. Blanche had been serving as acting attorney general while awaiting confirmation. He now formally leads the Department of Justice.",
       "ironyEn": [
         {
-          "contradiction": "A head coach — whose entire job description is making real-time decisions under pressure — initially took full blame for an accident that, it turns out, his car was largely handling at the time.",
-          "absurdity": "Tesla's Autopilot is marketed as a driver-assistance tool that keeps humans in control, yet somehow produced a situation where neither the human nor the machine is cleanly at fault — a perfect no-man's land of accountability.",
-          "outside": "In countries still debating whether to allow self-driving cars on public roads, this story arrives as Exhibit A: even the humans who trust the technology aren't entirely sure who's responsible when it goes wrong."
+          "contradiction": "The Department of Justice, the institution meant to prosecute cases impartially, is now headed by the man who spent years arguing that its most prominent target was innocent.",
+          "absurdity": "In most career paths, switching from 'defense attorney for the defendant' to 'head of all federal prosecution' requires at least a change of business cards.",
+          "outside": "Legal observers in other countries are reportedly checking their own constitutions to see if this would even be allowed — and finding, to their surprise, it wouldn't."
         },
         {
-          "contradiction": "He told the press 'it was my fault' — a statement that aged about as well as a first-round draft pick who tears his ACL in training camp.",
-          "absurdity": "The coach draws up plays for a living, but apparently forgot to draw up an exit strategy when Autopilot took the wheel.",
-          "outside": "From a European regulatory standpoint, this is exactly the scenario that has stalled full autonomous vehicle approval for years — the gap between 'driver assistance' and 'the driver wasn't really driving.'"
+          "contradiction": "Attorney General is the country's chief law enforcement officer; the new one's most recent job was ensuring his client stayed out of the country's law enforcement system.",
+          "absurdity": "The Senate confirmed him narrowly, which in Washington means 'close enough — hand him the keys to the Justice Department.'",
+          "outside": "From the outside, the U.S. justice system has always been theater; the casting choices are just getting more audacious."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-10/candidate-2.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-08-11/candidate-2.jpg",
+      "imageStyle": "anime-digital"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "NIH Director Says 'I Trust the Science' on Vaccines — As Measles Hits 35-Year High",
-        "source": "CBS News US",
-        "date": "2026-08-10",
-        "url": "https://www.cbsnews.com/news/jay-bhattacharya-vaccines-rfk-jr/",
-        "summary": "国立衛生研究所（NIH）のジェイ・バッタチャリャ所長は、子どもへのワクチン接種について「科学を信頼する」と発言した。アメリカでははしかの感染者数が35年ぶりの高水準に達している。"
+        "headline": "YouTube Makes It Harder to Get Paid on YouTube",
+        "source": "The Verge",
+        "date": "2026-08-11",
+        "url": "https://www.theverge.com/streaming/977474/youtube-partner-program-new-requirements",
+        "summary": "YouTubeが2027年2月から収益化の基準を引き上げ、チャンネル登録者1000人に加え視聴時間8000時間または90日間のショート動画2000万回再生が必要になると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「科学を信頼する」という言葉は、かつてワクチン推進派の合言葉だった。それが今、ワクチン懐疑論と結びつけられて語られる人物の口から出ることで、言葉そのものが空洞化している。",
-        "<b>滑稽さ:</b> 35年ぶりのはしか流行というデータが既に答えを出しているなかで、「科学を信頼します」と改めて宣言する必要があるという状況自体が、科学への信頼が崩れていることを示している。",
-        "<b>日本・海外から見ると:</b> 先進国の保健機関トップが「ワクチンの科学を信じる」とわざわざ明言しなければならない状況は、日本を含む多くの国から見て驚きを持って受け止められている。"
+        "<b>矛盾:</b> 「誰でもクリエイターになれる」と謳ってきたプラットフォームが、そのクリエイターへの報酬ハードルをひっそり倍増させる――「民主化」の定義が静かに書き換えられた。",
+        "<b>滑稽さ:</b> YouTubeが「視聴時間を8000時間稼いでください」と言う一方で、その8000時間分の広告収益はすでにYouTubeが受け取り済みである。",
+        "<b>日本・海外から見ると:</b> 日本でも「YouTuber」は一種の職業として定着しているが、入口の基準が上がるほど既存の大手が有利になる構造は、どの国でも同じ「プラットフォーム成熟の法則」に見える。"
       ],
       "imagePrompts": [
-        "A government official in a suit standing at a podium labeled 'NIH,' holding a vaccine syringe aloft with one hand while a graph behind him shows measles cases spiking dramatically upward",
-        "A 'Trust the Science' bumper sticker peeling off the back of a car, revealing an older identical sticker underneath, parked outside a hospital with a long line of children waiting to be seen",
-        "A large thermometer-style chart showing measles cases at a 35-year high displayed on the wall of a modern government health office, with a framed needlepoint on the adjacent wall reading 'I Trust The Science'"
+        "A content creator sitting at a desk surrounded by cameras and ring lights, pointing at a screen showing a YouTube dashboard with a large locked padlock icon over the monetization button and a progress bar at 7,999 hours",
+        "A grand theater marquee reading 'BROADCAST YOURSELF' with fine print below listing requirements in tiny text: '1,000 subscribers, 8,000 watch hours, 20M Shorts views'; a long line of aspiring creators stretching around the block",
+        "A vending machine labeled 'YouTube Revenue' that only accepts coins labeled 'watch hours' and 'subscribers'; a creator feeding coins in endlessly while the machine displays 'ALMOST THERE' on a small screen"
       ],
       "captions": [
-        "The NIH director wants you to know he trusts the science — a statement that hits different when the science is currently tracking a 35-year measles record.",
-        "Good news: America's top health official believes vaccines work. Bad news: we needed him to say it out loud.",
-        "'I trust the science' — the sentence that used to end debates and now, apparently, starts them.",
-        "Measles cases are at a 35-year high. On the bright side, we now have official confirmation that the NIH director has heard of vaccines.",
-        "In a bold move, the head of the National Institutes of Health announced he supports the findings of the National Institutes of Health."
+        "YouTube announced it's raising the bar for getting paid — right after collecting a year's worth of your free content. Timing is everything.",
+        "Good news: 20 million Shorts views and you're in the Partner Program. Bad news: at that point, you don't need YouTube's Partner Program.",
+        "The platform that promised to democratize video has quietly installed a velvet rope. The bouncer's name is 'Algorithm.'",
+        "Eight thousand watch hours to qualify for monetization. Or, as YouTube calls it, 'the audition.'",
+        "'Broadcast yourself,' said YouTube. 'But maybe do it for free for a bit longer,' it added, in 2027."
       ],
       "captionsJa": [
-        "NIH長官が「科学を信頼します」と発言。はしかの感染者数が35年ぶりの記録を更新している最中に。",
-        "良いニュース：アメリカの最高医療責任者はワクチンが効くと信じている。悪いニュース：それをわざわざ声に出す必要があった。",
-        "「科学を信頼する」——かつて議論を終わらせた言葉が、今や議論の始まりになっている。",
-        "はしかが35年ぶりの高水準に。明るい面を挙げるとすれば、NIH長官がワクチンの存在を知っていたことが公式に確認された。",
-        "国立衛生研究所の長が、国立衛生研究所の研究結果を支持すると勇気ある声明を発表した。"
+        "YouTubeは収益化のハードルを引き上げると発表した――1年分のコンテンツをタダで受け取った直後に。タイミングの妙。",
+        "朗報：ショート2000万回再生でパートナープログラムに入れる。悲報：そこまで行けばYouTubeのパートナープログラムは必要ない。",
+        "動画の民主化を謳ったプラットフォームが、こっそりベルベットロープを張った。ドアマンの名前は「アルゴリズム」。",
+        "収益化には視聴時間8000時間が必要。YouTubeの言葉で言うと「オーディション」。",
+        "「自分を発信しよう」とYouTubeは言った。「ただ、もう少し無料でやってね」と2027年に付け加えた。"
       ],
-      "newsEn": "Dr. Jay Bhattacharya, director of the National Institutes of Health, stated that he 'trusts the science' regarding childhood vaccines. His comments came as measles cases in the United States have risen to their highest levels in 35 years. Bhattacharya's appointment was supported by figures in the broader health policy debate who have questioned mainstream vaccine guidance. The juxtaposition of his statement with the measles resurgence has drawn significant public attention.",
+      "newsEn": "Starting February 1st, 2027, YouTube will raise the bar for its Partner Program: creators will need at least 1,000 subscribers and either 8,000 qualified watch hours in the past year or 20 million qualified Shorts views in 90 days. The previous threshold was 500 watch hours for Shorts-focused creators. The change represents a significant increase from current requirements.",
       "ironyEn": [
         {
-          "contradiction": "'I trust the science' used to be the rallying cry of vaccine advocates — now it's being said defensively by the head of the NIH while measles makes a comeback tour not seen since 1991.",
-          "absurdity": "Announcing that you trust science while presiding over a preventable disease outbreak at a 35-year peak is a bit like a fire chief saying 'I believe in water' while the city burns.",
-          "outside": "In countries where measles was declared eliminated decades ago, the need for the director of America's top health research institute to verbally confirm his belief in vaccines reads less like leadership and more like a very troubling FAQ."
+          "contradiction": "YouTube built its brand on 'Broadcast Yourself' — the promise that anyone could be a creator. The fine print now reads: after 8,000 hours of free content for us.",
+          "absurdity": "To earn money on YouTube, you must first spend a year generating ad revenue for YouTube — without earning any.",
+          "outside": "From the outside, it looks like a company charging an admission fee to work at its store, then doubling the fee once the store got popular."
         },
         {
-          "contradiction": "The phrase 'I trust the science' has now completed its full political journey: from progressive bumper sticker to defensive statement from a Trump-era NIH director.",
-          "absurdity": "Measles — a disease with a safe, effective, decades-old vaccine — is at a 35-year high, and the nation's top health official's response is to publicly declare that vaccines are, in fact, real.",
-          "outside": "For global health organizations that have spent years praising US vaccine infrastructure as a model, this moment represents a remarkable reversal that no infographic had prepared them for."
+          "contradiction": "The platform that democratized video publishing is now building a velvet rope around its payment system, right when short-form competition is at its fiercest.",
+          "absurdity": "Twenty million Shorts views in 90 days sounds achievable — until you remember that most creators with 20 million views are already getting paid somewhere else.",
+          "outside": "TikTok and Instagram Reels are watching this announcement and sending thank-you notes."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-10/candidate-3.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-08-11/candidate-3.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Lake Mead Hits Historic Low — The Largest Reservoir in America Is Running on Empty",
-        "source": "The Guardian US",
-        "date": "2026-08-10",
-        "url": "https://www.theguardian.com/us-news/2026/aug/09/lake-mead-record-low-water-level-colorado-river",
-        "summary": "米国最大の貯水池、レイク・ミードの水位が約90年前の貯水開始以来最低を記録し、西部の水資源危機がさらに深刻化していることが示された。"
+        "headline": "Nvidia and Wall Street Team Up to Spend $500 Billion on AI — Using Other People's Money",
+        "source": "CNBC Top News",
+        "date": "2026-08-11",
+        "url": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+        "summary": "Nvidiaが大手資産運用会社と組み、民間資本を活用して5000億ドル規模のAIインフラ投資を推進する枠組みを発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> ラスベガスをはじめとする砂漠の都市が人工噴水やプールを誇示し続ける一方で、その水源であるレイク・ミードは90年ぶりの歴史的低水位を記録している。",
-        "<b>滑稽さ:</b> 2022年にも「過去最低」を記録したはずが、わずか4年でその記録が更新された。「前代未聞」が「またいつもの前代未聞」になりつつある。",
-        "<b>日本・海外から見ると:</b> 気候変動対策の国際議論をリードしてきたアメリカ最大の貯水池が90年ぶりの空っぽに近づいているという現実は、政策と実態のギャップを象徴するニュースとして世界に届いている。"
+        "<b>矛盾:</b> AIが「全人類に恩恵をもたらす」と語られるほど、その基盤整備の資金は公共でなく民間ウォール街に依存する構造になっていく。",
+        "<b>滑稽さ:</b> 5000億ドルのインフラを「民間資本」で賄うとは、未来の電力・水・通信に匹敵するインフラを、株主リターンを求める投資家が設計・所有するということである。",
+        "<b>日本・海外から見ると:</b> 日本では国策半導体プロジェクト（Rapidus等）が税金投入で進む一方、アメリカのAIインフラは事実上ウォール街のファンドが握るという対比が際立つ。"
       ],
       "imagePrompts": [
-        "An aerial view of a massive reservoir showing a wide, pale 'bathtub ring' of exposed pale rock towering above the remaining dark water, with the Las Vegas skyline with its glowing hotel towers visible in the far distance",
-        "A 'WELCOME TO LAKE MEAD' national park sign standing in cracked, dry earth far from the current water's edge, a boat ramp leading nowhere visible behind it",
-        "A split image: on the left, archival-style image of the full reservoir brimming with blue water; on the right, the same landscape today with a fraction of the water and dramatically exposed canyon walls"
+        "A massive data center under construction with a giant 'COMING SOON: AI FOR ALL' banner on the fence; in the foreground, a row of suited Wall Street figures in hard hats holding blueprints and oversized checks",
+        "A scale where one side holds a glowing chip labeled 'AI Future' and the other side holds towering stacks of money bags labeled 'Private Capital'; both sides are perfectly balanced, with a single Nvidia logo at the fulcrum",
+        "A highway stretching to the horizon labeled 'AI Infrastructure' with toll booths every few miles, each staffed by a figure in a suit holding a calculator; a sign reads 'OPEN TO ALL (toll applies)'"
       ],
       "captions": [
-        "Lake Mead just set a new record low, which is impressive, because it already set a record low in 2022 — meaning the West is speedrunning its own water crisis.",
-        "The good news: Las Vegas's fountain shows are still running. The bad news: we now know exactly where that water is coming from.",
-        "Ninety years ago, engineers filled Lake Mead and called it the future of the American West. The future, it turns out, had a leak.",
-        "Scientists call it an 'historic low.' Las Vegas calls it 'not our problem, have you tried the buffet?'",
-        "The largest reservoir in the United States is nearly empty. On the bright side, there's more exposed rock for future generations to study what went wrong."
+        "Nvidia and Wall Street will spend $500 billion to build the AI future — and to their credit, they didn't ask for your input.",
+        "Private capital will finance the infrastructure of artificial intelligence, which is another way of saying the future has a fund manager.",
+        "The AI revolution will be democratized — after the $500 billion entrance fee clears.",
+        "'AI for everyone,' said the press release. 'Owned by someone specific,' said the term sheet.",
+        "Silicon Valley disrupted Wall Street. Wall Street is now the co-founder."
       ],
       "captionsJa": [
-        "レイク・ミードが過去最低水位を更新した。これは凄い——なぜなら2022年にも「過去最低」を記録したばかりだから。西部は自らの水危機をスピードランしている。",
-        "良いニュース：ラスベガスの噴水ショーは今日も続いている。悪いニュース：その水がどこから来ているかが、今や明らかだ。",
-        "90年前、エンジニアたちはレイク・ミードを満水にし、それをアメリカ西部の未来と呼んだ。未来には、どうやら水漏れがあったらしい。",
-        "科学者は「歴史的低水位」と呼ぶ。ラスベガスは「うちの問題じゃないし、ビュッフェはどう？」と呼ぶ。",
-        "米国最大の貯水池がほぼ空になった。明るい面：露出した岩盤が増え、将来の世代が何が間違っていたかを研究する材料が豊富になった。"
+        "Nvidiaとウォール街は5000億ドルをかけてAIの未来を建設する。彼らの名誉のために言えば、あなたの意見は聞いていない。",
+        "民間資本がAIインフラを支える。要するに「未来にはファンドマネージャーがいる」ということだ。",
+        "AI革命はすべての人に開かれている――5000億ドルの入場料が通過してから。",
+        "「AIは全員のもの」とプレスリリースに書いてあった。「所有者は特定の誰か」と契約書に書いてあった。",
+        "シリコンバレーはウォール街を破壊した。ウォール街は今、共同創業者になった。"
       ],
-      "newsEn": "Lake Mead, the largest reservoir in the United States, has dropped to its lowest water level since it was filled approximately 90 years ago. The reservoir sits along the Arizona-Nevada border and is a critical water source for millions of people across the American Southwest. The record low surpasses the previous mark set in 2022, amid an ongoing and deepening water crisis in the western United States. The Colorado River, which feeds Lake Mead, continues to struggle under sustained demand and drought conditions.",
+      "newsEn": "Nvidia has partnered with major Wall Street asset managers to mobilize $500 billion in private capital for AI infrastructure development. The arrangement highlights a growing trend of private finance stepping in to fund the enormous costs of the AI boom. The deal reflects the scale of infrastructure investment required to sustain rapid AI expansion.",
       "ironyEn": [
         {
-          "contradiction": "Lake Mead supplies water to Las Vegas — a city famous for its fountains, artificial lakes, and water feature hotels — and is now at its lowest level in 90 years.",
-          "absurdity": "The previous record low was set in 2022, which means the American West has broken its own 'unprecedented' water crisis record in under four years, suggesting that 'unprecedented' may need a new definition.",
-          "outside": "Nations that have been lectured about sustainable water management by American environmental delegations are watching the continent's largest reservoir drain toward a 90-year low with a complicated mix of concern and recognition."
+          "contradiction": "AI is consistently described as a public good that will benefit all of humanity; the infrastructure powering it will be owned by private asset managers chasing quarterly returns.",
+          "absurdity": "Five hundred billion dollars in 'private capital' is a polite way of saying the future's electrical grid is a hedge fund.",
+          "outside": "Countries building national AI infrastructure through public investment are watching the U.S. model and quietly wondering who exactly owns the American AI future."
         },
         {
-          "contradiction": "The Colorado River Compact, meant to fairly distribute water among seven states, was negotiated in 1922 — a particularly wet year, it turns out — meaning Western water rights have been built on a foundation of optimistic math for a century.",
-          "absurdity": "Las Vegas has invested billions in water recycling and efficiency technology, while simultaneously remaining one of the most water-intensive entertainment destinations on Earth — a paradox the reservoir is now literally measuring.",
-          "outside": "For countries in the Global South already experiencing water scarcity, the spectacle of the wealthiest nation on Earth failing to manage its largest freshwater reserve is less surprising than it is quietly devastating."
+          "contradiction": "The company that makes the chips for AI is now also helping finance the buildings that house the chips — vertically integrating everything except the part where regular people benefit.",
+          "absurdity": "When you need half a trillion dollars just for infrastructure, 'moving fast and breaking things' becomes 'moving fast and billing things.'",
+          "outside": "Silicon Valley once disrupted Wall Street; now they share a PowerPoint deck and a $500 billion line item."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-10/candidate-4.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-08-11/candidate-4.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Idaho Puts New Mothers on Child Abuse Registries for Testing Positive for THC",
-        "source": "CBS News US",
-        "date": "2026-08-09",
-        "url": "https://www.cbsnews.com/news/thc-tests-land-new-mothers-onto-child-abuse-registries/",
-        "summary": "アイダホ州では、出産後にTHC（大麻成分）陽性反応が出た新生児の母親が、児童虐待登録簿に登録されるケースが相次いでいる。調査は誰が処罰され、誰がされないかについて厳しい疑問を投げかけている。"
+        "headline": "U.S. Strategic Petroleum Reserve Hits Lowest Level Since 1983 — Just as Oil Prices Rise",
+        "source": "CNBC Top News",
+        "date": "2026-08-11",
+        "url": "https://www.cnbc.com/2026/08/10/oil-in-strategic-petroleum-reserve-falls-below-300-million-barrels-lowest-since-1983.html",
+        "summary": "米国の戦略石油備蓄量が3億バレルを下回り、1983年以来の最低水準に落ち込んだ。一方で原油価格は上昇基調にある。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「子どもを守る」ための虐待登録制度が、出産したばかりの母親を証拠なき「虐待者」として登録することで、家族を引き裂くリスクを生み出している。",
-        "<b>滑稽さ:</b> THCは消費から数週間後も検出されるため、出産前の過去の行為が、産後の母親の法的立場を決定している——「産む前の自分」が「産んだ後の自分」を裁く制度だ。",
-        "<b>日本・海外から見ると:</b> 大麻合法州と非合法州が混在するアメリカでは、隣の州なら合法な行為が別の州では「虐待の証拠」になる。この地理的なダブルスタンダードは、制度の一貫性への根本的疑問を提起している。"
+        "<b>矛盾:</b> 「緊急時のための備蓄」として設計された戦略石油備蓄が、歴代政権の「物価対策」として繰り返し放出されたことで、本当の緊急事態に備えるものが40年ぶりの低水準になっている。",
+        "<b>滑稽さ:</b> 火事に備えて消火器を備えたが、毎年「消火器が重いから」という理由で少しずつ中身を抜いた結果、消火器の形だけが残っている状態に近い。",
+        "<b>日本・海外から見ると:</b> 日本はIEAの義務的備蓄基準（90日分）を守ることを国策としており、「緊急備蓄を政治的物価対策に使う」という発想は制度設計として相容れない。"
       ],
       "imagePrompts": [
-        "A hospital maternity ward room where a new mother holds her newborn while a clipboard labeled 'Child Abuse Registry' sits ominously on the bedside table next to flowers and get-well cards",
-        "A large government filing cabinet labeled 'CHILD ABUSE REGISTRY' with folders marked only with THC test results and no other documentation visible",
-        "A map of the United States where states with legal marijuana are shaded green and states like Idaho are shaded red, with a bold line at the border labeled 'Same action, different legal consequence'"
+        "A giant underground oil tank with a gauge showing nearly empty; a series of faucets on the side each labeled with a year and the phrase 'just this once'; a small sign at the bottom reads 'FOR EMERGENCIES ONLY'",
+        "A government official standing next to a nearly empty strategic reserve cavern, proudly holding a 'LOWER GAS PRICES' banner; in the background, a gas station sign showing $82 per barrel",
+        "A piggy bank shaped like an oil barrel, cracked and nearly empty, with a line of presidential silhouettes each holding a coin slot key; a label reads 'U.S. Strategic Petroleum Reserve — Since 1975'"
       ],
       "captions": [
-        "Idaho has found an efficient way to support new mothers: put them on a child abuse registry before they leave the hospital.",
-        "THC stays in your system for weeks, which means Idaho is technically punishing you for something your pre-pregnant self did — retroactive parenting laws are the future.",
-        "The state of Idaho would like to remind you that the best time to investigate a mother for child abuse is immediately after she gives birth, while she's still in the hospital gown.",
-        "In Colorado, the same test result gets you a dispensary loyalty stamp. In Idaho, it gets you a government registry. Geography is doing a lot of work in American drug policy.",
-        "Experts say child abuse registries exist to protect children. Idaho says: great idea, let's start at the delivery room."
+        "The Strategic Petroleum Reserve hit a 43-year low. The good news: gas prices were briefly lower in several election years.",
+        "America's emergency oil stockpile is now for 'emergencies' in the same way a gift card with $3 left is for 'emergencies.'",
+        "The reserve was designed to last through a crisis. It turns out the crisis was re-election season.",
+        "Below 300 million barrels for the first time since 1983 — just in time for oil to go back above $82. The timing is, as always, impeccable.",
+        "Experts recommend maintaining strategic reserves for genuine emergencies. Turns out 'midterm elections' qualifies."
       ],
       "captionsJa": [
-        "アイダホ州は新米ママを支援する効率的な方法を見つけた：退院前に児童虐待登録簿に載せることだ。",
-        "THCは体内に数週間残る。つまりアイダホ州は、妊娠前の自分の行為で産後の自分を罰している——遡及的育児法は未来の法律だ。",
-        "アイダホ州からのお知らせ：母親の虐待調査を始めるベストタイミングは、産院の分娩室を出る前、まだ病院服を着ているうちです。",
-        "コロラド州では同じ検査結果でディスペンサリーのポイントカードがもらえる。アイダホ州では政府の登録簿に載る。アメリカの薬物政策において、地理は非常に重い仕事をしている。",
-        "専門家いわく、児童虐待登録制度は子どもを守るためにある。アイダホ州いわく：いい考えだ、分娩室から始めよう。"
+        "戦略石油備蓄が43年ぶりの低水準に。朗報：いくつかの選挙年にガソリン価格が一時的に下がった。",
+        "アメリカの緊急石油備蓄の「緊急」は、残高3ドルのギフトカードの「緊急用」と同じ意味になっている。",
+        "この備蓄は危機を乗り越えるために設計された。危機が「選挙シーズン」だとは設計者も思っていなかっただろう。",
+        "1983年以来初めて3億バレルを割り込んだ――ちょうど原油が82ドルを超えたタイミングで。いつも通り、完璧なタイミングだ。",
+        "専門家は「本物の緊急事態のために備蓄を維持すべき」と言う。「中間選挙」もどうやら該当するようだ。"
       ],
-      "newsEn": "An investigation has found that new mothers in Idaho have been placed on child abuse registries after testing positive for THC, the active chemical compound found in marijuana. The registrations occur even when no other evidence of child abuse or neglect is present. The reporting raises significant questions about which mothers face these consequences and whether the policy is applied consistently and equitably across different demographics. THC can remain detectable in the body for weeks after use.",
+      "newsEn": "The U.S. Strategic Petroleum Reserve has fallen below 300 million barrels, reaching its lowest level since 1983. U.S. presidents have ordered increasingly large releases from the reserve in recent years. Meanwhile, U.S. oil prices have risen back above $82 per barrel amid uncertainty over a potential deal to reopen the Strait of Hormuz.",
       "ironyEn": [
         {
-          "contradiction": "A registry designed to protect children from abuse is being used to label new mothers as child abusers based on a chemical that can linger in the body for weeks — meaning a mother could be flagged for something she did before she even knew her due date.",
-          "absurdity": "Idaho's system can place a woman on a child abuse registry at the most medically monitored moment of her life — childbirth — on the basis of a test that doesn't measure impairment, timing, or intent, just chemical presence.",
-          "outside": "In states where recreational marijuana is fully legal, the same THC level that gets you a tax receipt gets an Idaho mother a place on a government abuse list — a distinction made entirely by the state line you happened to deliver on."
+          "contradiction": "The Strategic Petroleum Reserve was created precisely for supply emergencies; it has been drawn down to a 43-year low largely through politically timed releases aimed at lowering gas prices before elections.",
+          "absurdity": "The emergency cushion is now so thin that the next emergency will need its own emergency.",
+          "outside": "Countries that maintain strict strategic reserve rules as a matter of national security are watching the U.S. treat its oil buffer like a campaign piggy bank."
         },
         {
-          "contradiction": "Child protective systems are built on the principle of evidence-based intervention — yet a registry entry here requires no evidence of harm, impairment, or neglect, only a positive urine test.",
-          "absurdity": "The investigation raises questions about who gets flagged and who doesn't — a question that, in American healthcare, tends to have a consistent and uncomfortable answer related to race and income.",
-          "outside": "Countries with universal healthcare and standardized maternal screening watch this story and see a system that uses the most vulnerable moment in a woman's life as an enforcement opportunity rather than a support one."
+          "contradiction": "Releasing reserves was meant to reduce oil prices; prices are now above $82 and the reserve is at its lowest since 1983 — the policy achieved the drawdown without the lasting discount.",
+          "absurdity": "America's emergency oil reserve is like a savings account you keep raiding for 'just this once' until the balance reads $0 and something actually goes wrong.",
+          "outside": "The IEA recommends 90 days of import cover; the U.S. is now in the position of advising other countries on energy security while running its own reserve into the ground."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-10/candidate-5.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-08-11/candidate-5.jpg",
+      "imageStyle": "classic-cartoon"
     }
   ]
 };
