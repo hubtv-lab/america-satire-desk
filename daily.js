@@ -1,53 +1,53 @@
 window.DAILY_DATA = {
   "version": 1,
   "date": "2026-08-11",
-  "generatedAt": "2026-08-11T13:49:18+00:00",
+  "generatedAt": "2026-08-11T15:03:33+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Amazon Knows You Ordered Something. It Just Won't Say What.",
+        "headline": "Bumble Lets Men Make the First Move — Quietly Retiring the One Thing That Made It Bumble",
         "source": "The Verge",
         "date": "2026-08-11",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-        "summary": "Amazonが注文確認メールから商品名を削除し、「あなたのBeautyアイテムが確定しました！」のようにカテゴリ名のみ表示するようになったと顧客が報告している。"
+        "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+        "summary": "マッチングアプリ「Bumble」が、女性のみがメッセージを先に送れるという創業以来の核心的ルールを廃止し、誰でも最初にメッセージを送れるよう変更すると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 購入履歴・閲覧履歴・位置情報まで記録するAmazonが、注文した商品名だけは「教えられない」という建前を採用している。",
-        "<b>滑稽さ:</b> 「Beautyアイテム」という表記は、プライバシー保護というよりも宝くじの当選通知に近い。自分が何を買ったか思い出せない顧客が続出している。",
-        "<b>日本・海外から見ると:</b> データ収集の透明性を求める声が高まる中、Amazonが選んだ「透明性」の形は、顧客への情報開示を減らす方向だった。"
+        "<b>矛盾:</b> 「女性が先に動ける場所」というブランドの存在意義そのものを廃止しながら、公式発表では「進化」と呼んでいる。",
+        "<b>滑稽さ:</b> 10年以上「それ以外のアプリ」と差別化してきた唯一の機能を捨てた結果、Bumbleは普通のマッチングアプリになった。",
+        "<b>日本・海外から見ると:</b> 日本のマッチングアプリ市場では女性主導モデルは珍しくないが、「ブランド哲学ごと撤回」という判断の大胆さは別の話だ。"
       ],
       "imagePrompts": [
-        "A person holds a smartphone showing an email that reads 'Your Mystery Item is confirmed!' with a gift-wrapped box replacing the product image. The person's expression is confused. A giant Amazon smile logo looms in the background.",
-        "A formal letter on Amazon-branded stationery with almost every word redacted in black ink except 'Your ___ item has shipped.' A magnifying glass hovers over the blacked-out text.",
-        "A customer at a front door receives a delivery box labeled only '?'. Beside them, a filing cabinet labeled 'Everything We Know About You' overflows with detailed folders."
+        "A dating app mascot bee in a business suit erasing a large rulebook page that reads 'Women Message First,' while holding a press release that says 'Evolution.' The bee looks nervous.",
+        "A museum exhibit display case labeled 'Bumble's Founding Principle, 2014–2026' containing a single framed rule card, with a velvet rope around it and a 'RETIRED' placard.",
+        "Two identical-looking phones side by side, one labeled 'Bumble' and one labeled 'Every Other Dating App,' with matching interfaces and a visitor squinting to spot the difference."
       ],
       "captions": [
-        "Amazon has your address, your credit card, your voice recordings, and your browsing history from 2019 — but 'Beauty item' is about as specific as they're going to get.",
-        "Nothing says 'we value your privacy' like hiding the product name from the person who bought it.",
-        "My order confirmation said 'Your Home item is confirmed.' I have a package arriving Thursday. We'll find out together.",
-        "Great news: Amazon is finally protecting your data. Specifically, from you.",
-        "The suspense is free. Prime membership is $14.99 a month."
+        "Bumble removed the rule that made Bumble, Bumble. Bold strategy. Also just… Tinder now.",
+        "They called it a 'global evolution.' The word they were looking for was 'pivot' — or possibly 'oops.'",
+        "Twelve years of 'women go first.' Then Q2 numbers came in.",
+        "You ever rebrand so hard you accidentally delete your brand?",
+        "The one feature on their homepage, their billboards, their entire Wikipedia entry — gone. But hey, the bee logo stays."
       ],
       "captionsJa": [
-        "Amazonはあなたの住所も、クレジットカードも、音声録音も、2019年の閲覧履歴も持っている。でも商品名については「Beautyアイテム」以上のことは教えてくれないらしい。",
-        "「プライバシーを大切にしています」と言いながら、情報を隠す相手が購入者本人というのはなかなかの発明だ。",
-        "注文確認メールには「Homeアイテムが確定しました」と書いてあった。木曜日に荷物が届く。何かは、そのとき一緒に確認しよう。",
-        "朗報：Amazonがついにあなたのデータを守ってくれるようになった。守る相手はあなた以外の全員から、ではなく、あなた自身からだが。",
-        "サスペンスは無料。プライム会員費は月額14.99ドル。"
+        "BumbleをBumbleたらしめていたルールを廃止したBumble。大胆な戦略。あとはもうTinderなんですけど。",
+        "公式声明では「グローバルな進化」と呼んでいる。正しい言葉は「方針転換」、あるいは「しまった」だろう。",
+        "12年間「女性から始める」。そして第2四半期の業績が出た。",
+        "リブランドしすぎてブランドを消した会社、見たことある？",
+        "ホームページにも、看板にも、Wikipediaにも書いてあった唯一の特徴が消えた。まあミツバチのロゴは残るけど。"
       ],
-      "newsEn": "Amazon customers have noticed that order confirmation emails no longer list specific product names. Instead, the emails show only broad item categories, such as 'Your Beauty item is confirmed!' The change affects multiple email types related to orders. Amazon has not publicly explained the reason for the shift.",
+      "newsEn": "Bumble, the dating app founded in 2014 on the premise that women must initiate conversations in heterosexual matches, has announced it is scrapping that rule. The company is calling the change a 'global evolution to its signature conversation experience,' allowing anyone to message first. The feature that defined and differentiated Bumble from competitors for over a decade is now gone.",
       "ironyEn": [
         {
-          "contradiction": "Amazon tracks every click, scroll, and purchase you've ever made — but now it won't tell you what you actually bought in a confirmation email.",
-          "absurdity": "Somewhere, a person is staring at 'Your Beauty item is confirmed!' trying to remember if that's retainer tablets or a beard trimmer.",
-          "outside": "A company that built its empire on knowing customers better than they know themselves has decided the one thing you don't need to know is what you ordered."
+          "contradiction": "Bumble built its entire brand identity on one rule: women go first. Then it deleted the rule and called it an evolution.",
+          "absurdity": "They spent twelve years telling women 'this app is different.' The announcement confirming it's now exactly the same as every other app was framed as empowerment.",
+          "outside": "From the outside, it looks less like a product update and more like a company discovering its own USP was the only thing keeping it relevant."
         },
         {
-          "contradiction": "The world's largest retailer redacted its own receipts — not for your privacy, but apparently for reasons it hasn't bothered to explain.",
-          "absurdity": "Your bank statement will say 'AMAZON.COM $34.99.' Your confirmation email will say 'Your Home item.' Together they form a complete mystery.",
-          "outside": "In an era of data-sharing scandals, Amazon found a novel solution: be less transparent with the one person who actually paid for the information — you."
+          "contradiction": "The 'feminist dating app' just handed men the microphone it had spent a decade keeping out of their hands — and issued a press release about how great that is.",
+          "absurdity": "Somewhere, a Bumble brand deck from 2015 explaining why men can't message first is quietly being shredded.",
+          "outside": "If Burger King announced it was dropping the burger, they'd at least change the name."
         }
       ],
       "imageSeed": 1,
@@ -57,47 +57,47 @@ window.DAILY_DATA = {
     {
       "id": "d2",
       "news": {
-        "headline": "Bumble Lets Men Make the First Move Now — The One Thing Bumble Was For",
+        "headline": "Spotify Will Label AI Artists — But Still Played Them for Months Without Saying a Word",
         "source": "The Verge",
         "date": "2026-08-11",
-        "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
-        "summary": "「女性が先にメッセージを送る」という独自ルールで知られるマッチングアプリBumbleが、そのルールを廃止し、誰でも先にメッセージを送れるようにすると発表した。"
+        "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
+        "summary": "Spotifyは9月中旬から、実在しない人物によるAI生成アーティストのプロフィールに「AI Persona」バッジを表示し、レコメンデーションから除外すると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「女性が先に動ける場所」というブランドの核心を捨てることで、Bumbleは自分たちが差別化要因と主張してきたものを自ら解体した。",
-        "<b>滑稽さ:</b> 「私たちのアプリの本質が進化した」という発表は、「競合他社と同じになった」を12年かけて言い換えたものである。",
-        "<b>日本・海外から見ると:</b> フェミニスト的なブランディングで市場に切り込んだアプリが、最終的にユーザー数の論理に従って「普通のマッチングアプリ」に収束していく構図は、ブランド戦略の教科書的な失敗例になりうる。"
+        "<b>矛盾:</b> AIアーティストの音楽を長期間レコメンドしておきながら、今になって「透明性のため」ラベルを貼ると発表した。",
+        "<b>滑稽さ:</b> 「あなたへのおすすめ」アルゴリズムが推してきたアーティストが人間かどうか、これまでユーザーには確認する手段がなかった。",
+        "<b>日本・海外から見ると:</b> 音楽の「本物性」をめぐる議論が世界中で起きる中、プラットフォームが自ら問題を認識するまでに要した時間の長さが際立つ。"
       ],
       "imagePrompts": [
-        "A bumblebee mascot in a business suit erases a large sign that reads 'Ladies First' from a dating app interface on a giant screen, replacing it with a blank space. Other dating app logos watch from the sidelines.",
-        "A 'Founded on a Principle' plaque on a wall, with the principle text visibly scratched out. A small sticky note below reads 'Global Evolution.' The plaque still has the original Bumble yellow color.",
-        "Two smartphones side by side — one labeled 'Bumble 2014' showing a woman's hand reaching toward a chat bubble, one labeled 'Bumble 2026' showing the same interface but with both hands reaching and a shrug emoji between them."
+        "A Spotify-style artist profile page for a figure made entirely of circuit boards and wires, with a small badge reading 'AI Persona' tucked in the corner, surrounded by millions of streams and glowing five-star reviews.",
+        "A silhouette of a listener wearing headphones facing a stage where a robot band performs, holding a concert ticket that reads 'Discover Weekly Presents.' A tiny badge on the stage curtain reads 'Not Real.'",
+        "A conveyor belt inside a streaming platform server room, with music tracks sliding off it labeled with genre names, and a single rubber stamp at the end reading 'AI Persona' being applied just before the tracks reach listeners' ears."
       ],
       "captions": [
-        "Bumble, the app where women make the first move, has announced that women no longer have to make the first move. The app is doing great.",
-        "They're calling it a 'global evolution.' I'd call it 'we're Tinder now but with more press releases.'",
-        "Twelve years. One rule. One pivot. Three hundred words of corporate language to explain it.",
-        "The feature that made Bumble Bumble is gone. The name 'Bumble' remains. We're all just processing this.",
-        "Somewhere, the Hinge marketing team is opening a bottle of something nice."
+        "Spotify is adding 'AI Persona' labels to fake artists. Starting in September. After the fake artists already have millions of streams.",
+        "Your Discover Weekly recommended someone who doesn't exist. Spotify's response: a badge. Coming soon.",
+        "The nutrition label, but for music — and they're putting it on after you already ate the whole thing.",
+        "At least when a robot writes your sad playlist, it's not judging you for crying.",
+        "They'll remove AI artists from recommendations. The months of recommendations? Those stay in your listening history forever, buddy."
       ],
       "captionsJa": [
-        "「女性が先にメッセージを送る」アプリ・Bumbleが、「女性が先にメッセージを送らなくてよい」と発表した。アプリは絶好調とのこと。",
-        "公式には「グローバルな進化」と呼んでいる。直訳すると「Tinderになりました、ただしプレスリリースは長め」。",
-        "12年間。ルール1つ。方向転換1回。説明に使われた企業語300ワード。",
-        "Bumbleをひとことで言い表していた機能がなくなった。名前はまだBumbleのまま。みんな今それぞれ受け止めている。",
-        "どこかでHingeのマーケティングチームが、何かいいものを開けていると思う。"
+        "SpotifyがAIアーティストに「AI Persona」ラベルを付けると発表。9月から。そのAIアーティストがすでに何百万回も再生された後に。",
+        "あなたの「おすすめ」が存在しない人を推薦していた。Spotifyの対応：バッジを付けます。近日公開。",
+        "食品の栄養成分表示みたいなもの、ただし食べ終わった後に袋に貼るやつ。",
+        "せめてロボットに書かれた失恋プレイリストは、あなたが泣いていても批判してこない。",
+        "AIアーティストはレコメンドから消える。でも過去の再生履歴は永遠に残るよ、友よ。"
       ],
-      "newsEn": "Bumble was founded in 2014 with a defining rule: in heterosexual matches, only women could send the first message. The company announced it is eliminating this feature in a 'global evolution to its signature conversation experience,' allowing anyone to initiate contact. The change positions Bumble closer to competitors like Tinder and Hinge.",
+      "newsEn": "Spotify announced it will begin adding an 'AI Persona' badge to artist profiles that 'do not represent a real person,' starting in mid-September. Music from these AI-generated artists will also be removed from personalized recommendations. The platform had previously allowed AI-generated music to circulate without any labeling, meaning listeners may have been recommended non-human artists without knowing it.",
       "ironyEn": [
         {
-          "contradiction": "Bumble built its entire brand identity on one rule. It just deleted that rule and called it an 'evolution.'",
-          "absurdity": "After 12 years of 'women make the first move,' the company's bold new vision is: anyone can do whatever Tinder already does.",
-          "outside": "A dating app that marketed itself as a feminist alternative has evolved into a regular dating app — which is one way to close the gap with the competition."
+          "contradiction": "Spotify's algorithm confidently recommended AI artists to millions of users for months. The transparency label arrives after the listening already happened.",
+          "absurdity": "Your 'Discover Weekly' playlist may have contained artists who don't exist, chosen by an algorithm, for your human ears, and everyone was fine with that until now.",
+          "outside": "Other industries have labeling requirements before the product ships. Spotify is essentially putting the nutrition facts on the empty bag."
         },
         {
-          "contradiction": "The app that told men to wait has decided, on reflection, that men don't have to wait.",
-          "absurdity": "Bumble's press release called this a 'signature conversation experience.' The signature has been crossed out.",
-          "outside": "From the outside, this looks less like a product update and more like a company quietly admitting the thing that made it different stopped working."
+          "contradiction": "A platform built on the promise of connecting humans to human-made music quietly became a distribution channel for non-humans — then announced a badge as a fix.",
+          "absurdity": "The badge says 'AI Persona.' What it means is 'this artist cannot tour, has no feelings about your DM, and does not care that you cried to their song at 2am.'",
+          "outside": "From a listener's point of view, the question isn't whether the music is good. It's whether 'Discover Weekly' has been a recommendation engine or a casting call for robots."
         }
       ],
       "imageSeed": 2,
@@ -107,47 +107,47 @@ window.DAILY_DATA = {
     {
       "id": "d3",
       "news": {
-        "headline": "HCA Healthcare Made $6.8 Billion in Profit. Its Workers Are Picketing to Pay Rent.",
+        "headline": "HCA Healthcare Made $6.8 Billion in Profit Last Year. Its Workers Are Holding Picket Signs.",
         "source": "The Guardian US",
         "date": "2026-08-11",
         "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
-        "summary": "米最大の営利病院グループHCAヘルスケアが68億ドルの利益を報告する一方、同社の組合員労働者たちは賃上げと人員増を求めて全国各地でピケを張っている。"
+        "summary": "米国最大の営利病院チェーン・HCAヘルスケアが68億ドルの利益を報告した一方、従業員組合は全国でピケを張り、賃上げと人員増を求めている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「利益を最大化しながら患者ケアの質を維持する」という営利病院の命題が、スタッフ不足と低賃金という形で同時に否定されている。",
-        "<b>滑稽さ:</b> 病院の廊下を歩き回るはずの看護師たちが、病院の外でピケを張って歩き回っている。68億ドルの利益があれば解決できる問題のために。",
-        "<b>日本・海外から見ると:</b> 医療を株主利益と結びつけるアメリカ型病院経営モデルの矛盾が、「利益記録更新」と「従業員が家賃を払えない」という2つの見出しで同時に可視化されている。"
+        "<b>矛盾:</b> 「利益68億ドル」と「生活が苦しい」という従業員の声が、同じ組織から同時に発信されている。",
+        "<b>滑稽さ:</b> 営利病院が「医療の提供」を事業目的としながら、その医療を支える従業員が生活費に困窮するという構図は、ビジネスモデルの説明として成立しない。",
+        "<b>日本・海外から見ると:</b> 日本では医療機関の大規模な営利化は制限されているが、米国では「最高益と低賃金の共存」が制度的に可能であることをこのケースは示している。"
       ],
       "imagePrompts": [
-        "Outside a large hospital building with an HCA logo, a group of workers in scrubs hold picket signs. Through the glass lobby windows behind them, a giant digital board displays '$6.8 BILLION PROFIT' in green numbers.",
-        "A scale illustration: on one side, a stack of gold coins labeled '$6.8B'; on the other side, a group of small figures in scrubs holding tiny signs reading 'Fair Pay.' The scale tips heavily toward the gold coins.",
-        "A hospital boardroom with a presentation slide reading 'Record Profits — Another Strong Quarter' while through the window behind the presenter, a line of picketing workers is visible on the street below."
+        "A gleaming glass hospital tower with a large illuminated '$6.8 Billion Profit' banner on the side, while a line of workers in scrubs hold picket signs on the sidewalk below in the rain.",
+        "A corporate earnings chart showing a dramatic upward arrow, displayed on a screen inside a boardroom, while through the window behind it, tiny figures with protest signs are visible on the street.",
+        "A hospital cafeteria tray with a single small meal on it, next to a printed annual report cover reading 'Record Profits.' Both sit on the same lunch table."
       ],
       "captions": [
-        "HCA made $6.8 billion. Their nurses made enough to need a picket sign. Both things happened in the same quarter.",
-        "The workers keeping people alive can't afford to live. The company keeping score just had its best year.",
-        "Six-point-eight billion dollars and the staff is outside. That's not an accident — that's a budget decision.",
-        "America's largest for-profit hospital chain is very profitable and also very understaffed. Turns out those two things are related.",
-        "If you're curious what $6.8 billion in hospital profit looks like from ground level, there are workers outside who can show you."
+        "Six-point-eight billion in profit, and the nurses need a picket sign to ask for a raise. The math works. The optics don't.",
+        "HCA had a 'strong year.' The people who made it a strong year are outside.",
+        "Largest for-profit hospital in America. 'For-profit' is doing a lot of work in that sentence.",
+        "They couldn't find room in $6.8 billion for staffing. Checked the couch cushions, nothing.",
+        "The workers say 'I'm struggling.' The earnings report says '$6.8 billion.' One of these documents is getting framed."
       ],
       "captionsJa": [
-        "HCAは68億ドルを稼いだ。看護師たちはピケを張るだけの理由を稼いだ。同じ四半期の話だ。",
-        "人の命をつないでいる人たちが、自分たちの生活をつなぐために外で歩き回っている。会社は過去最高益を更新した。",
-        "68億ドルあって、スタッフが外にいる。これは偶然じゃなく、予算会議の結果だ。",
-        "米最大の営利病院グループは非常に儲かっていて、かつ深刻な人手不足だ。この2つが無関係ではないと気づき始めている人もいる。",
-        "68億ドルの病院利益が地上からどう見えるか知りたければ、外でピケを張っている人たちに聞いてみるといい。"
+        "利益68億ドルで、看護師たちは賃上げを求めてピケを張っている。計算は合っている。見た目は合っていない。",
+        "HCAは「好調な一年」だった。その好調を作った人たちは外にいる。",
+        "「米国最大の営利病院」。この文章の中で「営利」という言葉がかなりの仕事をしている。",
+        "68億ドルの中に人員強化の予算が見当たらなかった。ソファのクッションの下も探したが何もなかった。",
+        "従業員は「生活が苦しい」と言う。決算報告は「68億ドル」と言う。どちらかが額に入れて飾られることになる。"
       ],
-      "newsEn": "HCA Healthcare, the largest for-profit hospital system in the United States, reported $6.8 billion in profits. At the same time, union workers at HCA facilities are holding picket protests across the country, demanding higher wages and increased staffing levels. Workers say they struggle to make ends meet despite the company's financial performance. HCA has not announced changes to compensation in response to the protests.",
+      "newsEn": "HCA Healthcare, the largest for-profit hospital system in the United States, reported $6.8 billion in profits. At the same time, union workers across the country are staging picket protests, demanding higher wages and improved staffing levels. Employees say they struggle to make ends meet despite working for the country's most profitable hospital operator.",
       "ironyEn": [
         {
-          "contradiction": "HCA Healthcare posted $6.8 billion in profit and its workers are outside the building holding signs because they can't pay their bills.",
-          "absurdity": "The nurses who keep the patients alive are the ones picketing. The $6.8 billion apparently needed to go somewhere else first.",
-          "outside": "Most countries look at for-profit hospital chains as a policy choice. Americans look at them as a natural phenomenon, like weather."
+          "contradiction": "HCA's annual profit is $6.8 billion. Its employees' message to the public is 'I'm struggling.' Both are true at the same time, at the same company.",
+          "absurdity": "The people keeping patients alive are picketing outside the buildings where the profit was counted.",
+          "outside": "In most countries, 'the hospital is doing great' and 'the hospital workers are fine' are assumed to go together. In the U.S. they are apparently two separate metrics."
         },
         {
-          "contradiction": "A company whose product is human health reported record profits while the humans producing that product say they're struggling.",
-          "absurdity": "HCA's investor call presumably did not open with: 'Great quarter, and also our staff can't make rent, but let's table that.'",
-          "outside": "To an outside observer, the idea that a hospital system can be both the most profitable and chronically understaffed seems like a contradiction. Insiders call it a business model."
+          "contradiction": "A for-profit healthcare system maximizing profit is working exactly as designed. That's the part that's hard to make funny.",
+          "absurdity": "Somewhere in an HCA boardroom, $6.8 billion was described as 'a strong year.' On the sidewalk outside, a nurse is holding a sign.",
+          "outside": "Six-point-eight billion dollars is the number. The workers on those picket lines are the footnote."
         }
       ],
       "imageSeed": 3,
@@ -157,47 +157,47 @@ window.DAILY_DATA = {
     {
       "id": "d4",
       "news": {
-        "headline": "Trump Warns FIFA Could Be Less Profitable Without Infantino. FIFA Is Already in Revolt Over Infantino.",
-        "source": "CNBC Top News",
+        "headline": "Amazon Order Confirmation Emails No Longer Tell You What You Actually Ordered",
+        "source": "The Verge",
         "date": "2026-08-11",
-        "url": "https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
-        "summary": "トランプ大統領は、FIFAのジャンニ・インファンティーノ会長が追放された場合、ワールドカップの収益性が失われると警告した。FIFAは現在、インファンティーノの商業主義的な路線をめぐって世界的な反発を受けている。"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+        "summary": "Amazonの注文確認メールが商品名を記載しなくなり、「あなたのBeautyアイテムが確定しました」のようにカテゴリー名しか表示されなくなったと複数のユーザーが報告している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 国際スポーツ団体の内部ガバナンス問題に対し、米大統領が「収益性」を理由に現職トップの続投を支持するという構図は、スポーツの自律性という建前を完全に無視している。",
-        "<b>滑稽さ:</b> FIFAが「商業化しすぎ」として世界から批判されている会長を、「もっと儲かるから続けさせろ」と外から擁護するのは、批判の中心にある問題をそのまま繰り返している。",
-        "<b>日本・海外から見ると:</b> 国際サッカー連盟のトップ人事に米大統領が口出しする光景は、アメリカがワールドカップの開催国であることを差し引いても、スポーツ外交の新しい次元として記録に残りそうだ。"
+        "<b>矛盾:</b> 世界最大の小売プラットフォームが「あなたが何を注文したかを知らせるメール」から「何を注文したか教えないメール」に変えた理由を説明していない。",
+        "<b>滑稽さ:</b> 顧客のデータを精密に収集・活用するAmazonが、注文確認という最も基本的なコミュニケーションを意図的にあいまいにしている。",
+        "<b>日本・海外から見ると:</b> 日本の通販では商品名の明記は当然とされており、カテゴリー名だけの確認メールは不具合と判断されるレベルだ。"
       ],
       "imagePrompts": [
-        "A podium at a press briefing room. Behind it, a figure in a suit points at a FIFA logo on a screen. The screen shows a dollar sign inside a soccer ball. A crowd of small soccer figures outside the screen holds protest banners.",
-        "A soccer ball on a conference table, with a 'FOR SALE' tag attached to it. Around the table sit silhouetted figures in business suits. One figure at the head of the table holds a phone labeled 'White House.'",
-        "A FIFA headquarters building with protest banners outside. On the roof, two silhouetted figures shake hands and give thumbs up, visible only as dark shapes against the sky, while protesters below hold signs reading 'Too Commercial.'"
+        "A smartphone showing an email notification that reads 'Your Item is confirmed!' with every product detail replaced by a gray blurred-out rectangle, while the recipient holds the actual package with a perfectly clear label.",
+        "An Amazon warehouse worker surrounded by thousands of precisely sorted and labeled boxes, handing a customer an email printout that says only 'Your Thing is on the way.'",
+        "A receipt from an Amazon order with all line items replaced by generic category names like 'Household Item,' 'Beauty Item,' and 'Electronic Item,' next to a shopping bag packed with recognizable specific products."
       ],
       "captions": [
-        "The global soccer community wants Infantino out for making it too commercial. Trump's argument for keeping him is that he made it too commercial. We're on the same page, different chapters.",
-        "Trump weighed in on FIFA governance. Just to be clear — FIFA governance. The president had thoughts.",
-        "The complaint about Infantino is that he sold the soul of the sport. The defense of Infantino is that the soul sold really well.",
-        "Nothing says 'this is about sports' like the leader of the host nation calling it a profitability issue.",
-        "At some point someone is going to have to explain to future historians what the American president's position on FIFA was and why."
+        "Amazon knows your purchase history, your voice, and your dog's name. The confirmation email just says 'Your Beauty item is confirmed.' Choosing not to know, apparently.",
+        "Retainer cleaning tablets: classified. By Amazon. As beauty.",
+        "They have your data. They just won't put it in the email.",
+        "If your bank said 'a money thing happened to your account,' you'd be on the phone in thirty seconds.",
+        "Most personalized shopping experience in history. Least informative receipt in history. Both Amazon."
       ],
       "captionsJa": [
-        "世界のサッカー界はインファンティーノが「商業化しすぎ」だとして追い出そうとしている。トランプの擁護論は「商業化したから続けさせろ」。同じ事実を見て、真逆の結論を出している。",
-        "トランプ大統領がFIFAのガバナンスについて見解を示した。FIFAのガバナンスについて。大統領が。",
-        "インファンティーノへの批判は「サッカーの魂を売った」。トランプの擁護は「魂はよく売れた」。",
-        "「これはスポーツの話」と言いながら、開催国のリーダーが収益性の問題として語り始めたら、それはもうスポーツの話ではない。",
-        "いつか未来の歴史家が、なぜアメリカ大統領がFIFAの人事に見解を持っていたのかを説明しなければならない日が来る。"
+        "Amazonはあなたの購入履歴も声も犬の名前も知っている。注文確認メールには「Beautyアイテムが確定しました」とある。意図的に知らないふりをしているようだ。",
+        "リテーナー洗浄錠：機密扱い。Amazonによって。美容品として。",
+        "データはある。ただメールには書かない。",
+        "銀行から「あなたのアカウントでお金に関する何かが起きました」と届いたら、30秒以内に電話するでしょ。",
+        "史上最もパーソナライズされたショッピング体験。史上最も情報量の少ないレシート。両方ともAmazon。"
       ],
-      "newsEn": "President Trump warned that the FIFA World Cup 'will never be as profitable' if FIFA President Gianni Infantino is removed from his position. The warning comes amid a global revolt within soccer against Infantino's commercialization drive. Infantino presided over what was described as the largest and most profitable World Cup on record. Trump's intervention marks an unusual instance of a sitting U.S. president publicly defending the head of an international sports governing body.",
+      "newsEn": "Amazon customers have reported that order confirmation emails have become significantly less informative, no longer listing specific product names. Instead, the emails display only broad item categories — for example, 'Your Beauty item is confirmed!' One customer noted that retainer cleaning tablets were described only as a 'Beauty item.' The change was noticed earlier this summer and has not been officially explained by Amazon.",
       "ironyEn": [
         {
-          "contradiction": "The global soccer community is revolting against Infantino for over-commercializing the sport. Trump's response is to defend Infantino specifically because he commercialized the sport.",
-          "absurdity": "A sitting U.S. president held a press position on the internal leadership of an international soccer federation. We're all just going to move on from that.",
-          "outside": "In most countries, football governance is considered a matter for football. In America, it's apparently a matter for the president — at least when the tournament is on your soil."
+          "contradiction": "Amazon knows exactly what you bought, when, your address, your browsing history, and what you almost bought. The confirmation email says 'Your Beauty item is confirmed.'",
+          "absurdity": "A company that pioneered the personalized shopping experience is now sending confirmation emails that could have been written by someone who wasn't allowed to look at the order.",
+          "outside": "Most retailers get more specific over time. Amazon, sitting on the world's largest shopping dataset, has decided the confirmation email should know less than the customer does."
         },
         {
-          "contradiction": "The charge against Infantino is that he put money above the sport. The defense of Infantino is that he put money above the sport.",
-          "absurdity": "Trump warned that removing Infantino would hurt profitability — which is either a threat, an endorsement, or a hostage negotiation. Possibly all three.",
-          "outside": "Watching a non-soccer country's head of state lobby for the head of the world's soccer body is the kind of thing that would take years to explain to someone who just woke up from a coma."
+          "contradiction": "The email proves your payment went through. It just refuses to say what the payment was for.",
+          "absurdity": "Retainer cleaning tablets classified as a 'Beauty item' is either a filing error or the most generous product description in e-commerce history.",
+          "outside": "If your bank statement said 'financial transaction confirmed' instead of naming the merchant, you'd call it fraud. Amazon calls it an update."
         }
       ],
       "imageSeed": 4,
@@ -207,47 +207,47 @@ window.DAILY_DATA = {
     {
       "id": "d5",
       "news": {
-        "headline": "Trump Signed an Order Splitting the MMR Vaccine. He Said It's Based on What He Feels.",
+        "headline": "Baltimore Officer Allegedly Faked Traffic Stops for Months to Sit in His Car and Do Nothing",
         "source": "The Guardian US",
         "date": "2026-08-11",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts",
-        "summary": "トランプ大統領は麻疹・おたふく・風疹（MMR）ワクチンを3回に分けて接種させる大統領令に署名した。根拠を問われた大統領は「自分がそう感じるから」と述べており、科学的根拠は存在しない。"
+        "url": "https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports",
+        "summary": "ボルティモアの警察官デクワン・ホーチンス（30歳）が、実際には駐車して何もしていないにもかかわらず、交通取り締まり中と虚偽の報告を繰り返していたとして起訴された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 大統領令という国家の最も公式な政策手段が、「科学的根拠」ではなく「大統領の感覚」に基づいて医療制度を変更する、という構図が公式に記録された。",
-        "<b>滑稽さ:</b> FDAの承認プロセス・CDC の推奨・数十年の疫学データより、大統領の直感の方が政策決定に近い場所にあった2026年のアメリカ。",
-        "<b>日本・海外から見ると:</b> 「感情に基づく医療政策」は、科学的根拠を重視する国際的な公衆衛生の枠組みから見れば前代未聞であり、ワクチン接種率の低下というリスクは米国内にとどまらない。"
+        "<b>矛盾:</b> 交通違反の取り締まりという「市民を監視する」職務を、自分の怠惰を隠す道具として使っていたとされる。",
+        "<b>滑稽さ:</b> 「交通取締中」という報告書を偽造し続けるために、おそらく何もしない時間の多くを報告書の作成に費やしていた。",
+        "<b>日本・海外から見ると:</b> 警察の説明責任と透明性が問われる米国で、取り締まりの記録システム自体がサボりの隠れ蓑になっていたという皮肉は、制度設計の問題として興味深い。"
       ],
       "imagePrompts": [
-        "A large official document labeled 'Executive Order: MMR Vaccine' sits on an imposing desk and is being signed by a hand visible only from the wrist down. On the desk beside it, instead of briefing papers, sits a single index card that reads 'Because I feel it.' In the background, a row of faceless silhouettes in lab coats stands with arms at their sides.",
-        "A graph labeled 'Policy Decision Inputs' showing a large pie chart. One massive slice dominates the chart labeled 'Feeling.' Tiny slivers represent 'Clinical Trials,' 'CDC Guidance,' and 'Peer Review.'",
-        "Three syringes in a row on a medical tray, where previously there was one. A clipboard beside them shows the justification field filled in with the word 'Gut.' A wall poster behind the tray reads 'Evidence-Based Medicine.'"
+        "A police car parked on a quiet empty street, the officer's silhouette visible through the window reclining in the seat with a coffee cup, while a stack of completed 'Traffic Stop Report' forms sits neatly on the passenger seat.",
+        "A police officer's desk covered in neatly filed traffic stop report folders, each labeled with times and locations, while through the window behind the desk, the same patrol car sits parked at the same spot in every folder's photo.",
+        "A city dispatch radio broadcasting calls for service, with a speech bubble showing the words 'Busy — traffic stop,' while a split-panel shows a parked patrol car with a thermos and a crossword puzzle on the dashboard."
       ],
       "captions": [
-        "The MMR vaccine schedule was set by decades of clinical research. It was just changed by a feeling. These are both true statements about the same country.",
-        "Asked for the scientific basis, the president said, 'This is based on what I feel.' The FDA was not consulted about his feelings.",
-        "We have an entire federal agency whose job is to evaluate vaccine safety data. Turns out there's a faster process.",
-        "The good news: the president has strong feelings about your children's vaccine schedule. The other news: that's the whole policy.",
-        "Some executive orders cite legal precedent. Some cite economic data. This one cites vibes. First time for everything."
+        "He filed fake traffic stop reports to avoid real calls. So he was doing paperwork — just paperwork for the lying.",
+        "Prosecutors called him lazy. Lazy people don't file months of forged documents. That's dedication to the bit.",
+        "The traffic stop system exists to create accountability. He used it as an alibi. Honestly, not bad.",
+        "Sitting in your parked car and filing paperwork about it: somehow both the crime and the cover-up.",
+        "Every fake report required his full attention. If he'd spent that energy on actual calls — you see where this is going."
       ],
       "captionsJa": [
-        "MMRワクチンのスケジュールは数十年の臨床研究によって設定された。それが「感覚」によって変更された。どちらも同じ国の話だ。",
-        "科学的根拠を問われ、大統領は「自分がそう感じるから」と答えた。FDAは大統領の感覚については相談を受けていない。",
-        "ワクチンの安全性データを評価するための連邦機関が存在している。ただ、もっと速い手続きがあったことが今回判明した。",
-        "朗報：大統領はあなたのお子さんのワクチンスケジュールについて強い感情を持っている。それが政策の全てである、という話もある。",
-        "大統領令には法的根拠を引用するものも、経済データを引用するものもある。今回は雰囲気を引用している。何事にも初めてがある。"
+        "実際の出動を避けるために、偽の取り締まり報告書を書き続けた。つまり仕事はしていた。嘘のための仕事を。",
+        "検察は「怠惰な警官」と呼んだ。怠惰な人間は何カ月も偽造書類を作り続けない。それはもう信念の話だ。",
+        "交通取締システムは説明責任を生むために存在する。彼はそれをアリバイとして使った。ある意味、発想は悪くない。",
+        "駐車した車の中に座って、それについての書類を書く：どういうわけかこれが犯罪であり同時に隠蔽工作でもある。",
+        "偽の報告書には毎回集中力が必要だった。そのエネルギーを実際の出動に使っていたら——まあ、お分かりでしょう。"
       ],
-      "newsEn": "President Trump signed an executive order directing that the measles, mumps, and rubella (MMR) vaccine be administered as three separate shots instead of the current combined dose. When asked about the basis for the change, Trump said in September: 'This is based on what I feel.' There is no scientific evidence linking the MMR vaccine to autism or supporting the separation of the doses. Public health officials have warned the change could reduce vaccination rates.",
+      "newsEn": "Baltimore Police Officer Dequwan Houchins, 30, has been indicted on charges that he repeatedly filed false traffic stop reports to avoid responding to service calls. According to the indictment, Houchins was 'sitting idle in his car' while claiming to be conducting traffic stops. The alleged scheme continued for months before being discovered by city prosecutors.",
       "ironyEn": [
         {
-          "contradiction": "The United States has a Food and Drug Administration, a Centers for Disease Control, and decades of peer-reviewed vaccine research — and the MMR policy just changed because of a feeling.",
-          "absurdity": "The president's exact words were 'This is based on what I feel.' That quote is now technically the scientific basis for a federal health order.",
-          "outside": "Other countries require evidence to change vaccine schedules. The U.S. required a sentence that starts with 'I feel.'"
+          "contradiction": "The traffic stop — the tool police use to monitor citizens — was allegedly used by this officer to hide from the job of monitoring citizens.",
+          "absurdity": "He filed paperwork for traffic stops that didn't happen in order to avoid doing his job, which means he was doing work to avoid work.",
+          "outside": "Most employment fraud involves claiming you did more than you did. This one required active effort: writing fake reports, maintaining a cover story, for months. That's dedication to not working."
         },
         {
-          "contradiction": "An executive order is the most formal instrument of U.S. governance. It is now backed by the least formal epistemology available: a vibe.",
-          "absurdity": "Somewhere in a federal database, there is an executive order whose documented rationale is a feeling. Public health officials have to implement it anyway.",
-          "outside": "The WHO recommends the combined MMR vaccine based on decades of safety data. The U.S. just moved to three separate shots. Asked why, the president said he felt like it."
+          "contradiction": "The system that exists to hold drivers accountable was allegedly used by a cop to make himself unaccountable.",
+          "absurdity": "Prosecutors called him 'a lazy cop.' The record shows he was actually fairly busy — just busy faking things.",
+          "outside": "In any other job, sitting in your car doing nothing and then filing paperwork about it would be called two separate offenses. Here they're the same one."
         }
       ],
       "imageSeed": 5,
@@ -256,87 +256,102 @@ window.DAILY_DATA = {
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「説明しない」「定義を変える」「感覚で決める」——制度と言葉の信頼が、静かに、組織的に、解体されている一日。",
-    "titleEn": "America Is Running on Vibes: A Tuesday Dispatch",
-    "titleJa": "「感じるから」で大統領令が出る国のニュースを、今朝も読んでしまった",
+    "thread": "今日の一本の糸：「中身を消して、名前だけ残す」。Bumbleはアイデンティティを消した。Spotifyはラベルを後から貼った。Amazonは商品名を消した。HCAは利益を残して人を絞った。ボルティモアの警官は実績を偽造して、何もしなかった。",
+    "titleEn": "Everything Got Rebranded. Nothing Got Better.",
+    "subtitleEn": "The week America decided optics were enough.",
+    "titleJa": "Bumbleが「女性優先ルール」を廃止した理由、Amazonが「何を買ったか」を教えなくなった理由——どちらも「進化」だそうです",
     "titleAltJa": [
-      "Amazonは68億ドル企業より正直だった——「あなたのBeautyアイテムが確定しました」",
-      "あなたの国のニュース、今日も理解できませんでした"
+      "68億ドルの利益を出した病院で、看護師がピケを張っている。この矛盾を一言で返す方法",
+      "Spotifyに「存在しない人のアーティスト」を推薦されていたかもしれない話"
     ],
+    "leadJa": "今週のアメリカのニュースを読んでいて、ある言葉が頭から離れなくなりました。「進化」。Bumbleは創業以来の核心ルールを捨てて「進化」と呼んだ。Spotifyは数ヶ月間AIアーティストを黙って流してから「透明性のため」ラベルを貼ると言った。Amazonは商品名を消した確認メールを送ってきた。誰も「失敗した」とは言わない。みんな「進化」している。",
+    "quipEn": "This week in America: four different organizations rebranded a mistake as a feature, and one cop filed paperwork specifically to avoid doing his job. Peak efficiency.",
+    "quipJa": "今週のアメリカ：四つの組織が失敗を「進化」と呼び、一人の警官が仕事をサボるために書類仕事をした。効率化の到達点がここです。",
+    "fortuneEn": "Today's Forecast: This week proved that not labeling things — your AI playlist, your order, your inaction — can work for months before anyone notices. You, however, have been noticed. Your work is real, your name is on it, and that is already more than several major platforms managed this week. Career outlook: quietly solid.",
+    "fortuneJa": "今日の運勢：今週のアメリカは「ラベルを貼らないまま何ヶ月も通用する」ことを証明しました。でもあなたは違う。あなたの仕事には名前がついていて、あなた自身が実在している。それだけで今週の大手プラットフォームより誠実です。仕事運は地味に上向き。自分の名前で動ける人間は、思ったより強い。",
     "monologueEn": {
-      "opener": "I've been reading American news every morning for years now. And I think I've finally found the theme. Not polarization, not dysfunction. The theme is: nobody's explaining anything anymore. They're just doing it. And calling it an evolution.",
+      "opener": "I read five American news stories this morning. Five different topics, five different companies, five different states. And somehow every single one of them was about the same thing: someone removing the part that was supposed to be the point. I don't know what's in the water over there. I drink canned coffee from a vending machine at 7 a.m. and even I could feel it.",
       "beats": [
         {
-          "ref": "d2",
-          "text": "Bumble announced this week that they're removing their famous rule — the one where women have to message first. They've had that rule for twelve years. It was, genuinely, the entire point of Bumble. And now it's gone. They're calling it a 'global evolution to its signature conversation experience.' I read that sentence four times. It means: we're Tinder now. Three hundred words of press release to say we're Tinder now."
+          "ref": "d1",
+          "text": "So. Bumble. If you don't know Bumble, it's a dating app — started in 2014 — where women had to message first in straight matches. That was the whole thing. That was it. Not the logo, not the yellow color. The rule. Women go first. That's why it existed. And this week, they scrapped it. Now anyone can message anyone. They called this a 'global evolution to its signature conversation experience.' I had to read that three times. They evolved away from the signature experience. Which is — I mean — okay. But also: Bumble is now just Tinder with better PR. Twelve years of 'women go first.' Then Q2 numbers came in."
         },
         {
-          "ref": "d1",
-          "text": "Speaking of explaining things — or not. Amazon sent customers a confirmation email this week that said, 'Your Beauty item is confirmed!' Not the product name. The category. Amazon, the company that knows your address, your voice, your browsing history from 2019, your estimated household income — that Amazon looked at your order and said: Beauty item. That's as specific as we're going to get. My package arrives Thursday. We'll find out together."
+          "ref": "d2",
+          "text": "And speaking of things that were quietly happening while someone wasn't paying attention — Spotify. Spotify announced this week that starting in September, they will add an 'AI Persona' badge to artist profiles that 'do not represent a real person.' Great. Responsible. Except — and this is the part where I put my phone down and stared at the ceiling for a moment — they've been recommending these AI artists for months. Without a badge. Without a note. Your Discover Weekly, that playlist you actually trust, has been pushing artists who do not exist and you had no way of knowing. Spotify's response: a badge. Coming soon. It's a nutrition label for something you already ate."
         },
         {
           "ref": "d3",
-          "text": "Okay, different kind of story. HCA Healthcare — largest for-profit hospital system in the US — just reported $6.8 billion in profit. And at the same time, their workers are outside. Picketing. Because they can't make rent. I want to be careful here because this isn't funny, it's just a fact that sits there looking at you. Six-point-eight billion. And the staff is outside. That's not an accident. That's a budget decision."
+          "text": "From invisible artists to very visible numbers. HCA Healthcare — the largest for-profit hospital chain in America — reported $6.8 billion in profits. Six point eight billion. And their workers are outside with picket signs, asking for a raise and enough staff to do the job safely. Both of these things are true at the same time, in the same organization. The company had a 'strong year.' The people who made it a strong year are outside. I'm not an economist. But I can read two sentences and notice when they don't add up."
         },
         {
           "ref": "d4",
-          "text": "And then — look, I did not expect to be talking about FIFA today, but here we are. There is a global revolt inside soccer right now against FIFA president Gianni Infantino, specifically because he's made the sport too commercial. And Trump this week warned that the World Cup will never be as profitable if Infantino goes. So the complaint is: too commercial. The defense is: he's good at commercial. They're not disagreeing about what happened. They just want different outcomes. The president of the United States weighed in on FIFA governance. The president had thoughts."
+          "text": "Okay, so Amazon. Amazon knows everything. Your address, your search history, your purchase patterns — they probably know you better than your friends do. And yet. This summer, people started noticing that Amazon's order confirmation emails no longer say what you ordered. Instead, you get: 'Your Beauty item is confirmed!' One person ordered retainer cleaning tablets. The email said Beauty item. Amazon has not explained why. They have your data. They just won't put it in the email. I genuinely don't know if this is a privacy thing, a glitch, or someone's A/B test that escaped. But I do know that getting an email that says 'your item' without naming the item would, in most places, be considered a bug. Not a feature. Not an evolution."
         },
         {
           "ref": "d5",
-          "text": "And then I got to the last story, and I put my phone down. Trump signed an executive order splitting the MMR vaccine into three separate shots — measles, mumps, rubella, one at a time instead of combined. No scientific evidence supports this change. Public health officials say it could lower vaccination rates. And when someone asked the president what this decision was based on, he said — I'm reading his actual words now — 'This is based on what I feel.' That's it. We have an entire federal agency whose job is to review vaccine safety data. Turns out there's a faster process. It's a feeling. The feeling is now policy."
+          "text": "And finally. My favorite story of the week. A Baltimore police officer — 30 years old, name is Dequwan Houchins — was indicted for allegedly filing fake traffic stop reports for months. Why? To avoid responding to real calls. While he was claiming to be conducting traffic stops, prosecutors say he was sitting in his car. Doing nothing. Now here's the part that got me. He filed fake reports to explain what he was doing with his time. So he was doing paperwork — just paperwork for the lying. The traffic stop documentation system, which exists to create accountability, became his alibi. You think I'm making this up. I am not making this up. Prosecutors called him lazy. I'd say lazy is underselling it. Lazy people don't do extra paperwork."
         }
       ],
-      "closer": "I came back to Tokyo after a work trip last month and I thought: okay, things feel normal here. Then I read the news. I don't know what normal means anymore. I just know it's not that."
+      "closer": "Five stories. One week. Nobody admitted anything. It was a global evolution, a transparency initiative, a strong year, a feature, and a traffic stop. I'm going back to my canned coffee. At least the label still says what's inside."
     },
     "monologueJa": {
-      "opener": "アメリカのニュースを毎朝読んでいて、最近ようやく気づいたことがあります。テーマは分断でも混乱でもない。「誰も説明しなくなった」んです。ただやる。そして「進化」と呼ぶ。今日の5本、全部そうでした。",
+      "opener": "今朝、アメリカのニュースを5本読みました。ジャンルも州もバラバラ。でも全部、同じ話をしていた。「中身を消して、名前だけ残した人たちの話」。これが偶然5本揃うと、もう頭を抱えるというより、少し感心してしまう。",
       "beats": [
         {
-          "ref": "d2",
-          "text": "まずBumbleの話から。アメリカのマッチングアプリで、「異性間では女性が先にメッセージを送る」というルールで12年間やってきたサービスです。そのルールが今週廃止されました。廃止の理由は「シグネチャー・カンバセーション・エクスペリエンスのグローバルな進化」だそうで。4回読みました。要するに、「Tinderと同じになった」ということです。12年。ルール1個。発表文300ワード。"
+          "ref": "d1",
+          "text": "まずBumble。マッチングアプリです。2014年に創業して、「女性だけが最初にメッセージを送れる」というルールで差別化してきた。そのルールが、そのアプリの全部だった。ロゴでも色でもなく、ルールが商品だった。それを今週、廃止しました。誰でも最初に送れるようになる。公式の説明は「グローバルな進化」。いや、進化の方向が内側に向いてる。12年間「女性が先」でやってきて、第2四半期の数字が出てきたら方針転換。結果として今、BumbleはTinderになりました。"
         },
         {
-          "ref": "d1",
-          "text": "説明しないといえば。Amazonが注文確認メールから商品名を消しました。「あなたのBeautyアイテムが確定しました！」という形で、カテゴリ名だけが届く。あのAmazonですよ。住所も、声も、2019年の閲覧履歴も、全部持っているAmazonが、「あなたが今日買ったものは……Beautyアイテムです」と言ってくる。木曜日に荷物が届くそうです。一緒に確認しましょう。"
+          "ref": "d2",
+          "text": "黙って続いていた話、といえば——Spotify。9月中旬から、実在しない人物によるAI生成アーティストに「AI Persona」バッジを表示すると発表しました。透明性の確保、素晴らしい。ただ、これ、何ヶ月も前からAIアーティストの音楽をレコメンドしていたんです。バッジも説明もなく。「あなたへのおすすめ」に入ってきたアーティストが人間なのかどうか、確認する方法がなかった。Spotifyの対応：バッジ。近日公開。食べ終わってから貼る栄養成分表示です。"
         },
         {
           "ref": "d3",
-          "text": "少し話が変わりますが、笑えない話を一個だけ。HCAヘルスケア、アメリカ最大の営利病院グループが、今期68億ドルの利益を出しました。同時に、そこで働く組合員の看護師たちが、今週、病院の外でピケを張っています。家賃が払えないから。68億ドルの利益と、外でピケを張るスタッフ。これは事故ではなく、予算の話です。"
+          "text": "見えないアーティストの話から、非常に見えやすい数字の話へ。HCAヘルスケア、アメリカ最大の営利病院チェーンが、昨年の利益68億ドルを発表しました。68億ドル、です。同じ週に、その病院で働く組合員が全国でピケを張って、賃上げと人員増を求めています。同じ組織から、同時に出てきた話。「強い一年だった」という会社の発表と、「生活が苦しい」という従業員の声が共存している。この二つの文章、並べるだけで説明が要らない。"
         },
         {
           "ref": "d4",
-          "text": "で、今日FIFAの話が来るとは思っていなかったんですが。サッカーのFIFA会長、ジャンニ・インファンティーノという人物が、世界的な反発を受けています。批判の中身は「商業化しすぎ」。それに対してトランプ大統領が今週「彼を追い出したらワールドカップの収益が落ちる」と警告しました。批判側：商業化しすぎ。擁護側：商業化がうまい。何について話しているかは一致しているんです。結論が違うだけで。アメリカの大統領がFIFAのガバナンスについて言及した。大統領、お気持ちがあったようです。"
+          "text": "Amazonの話、聞いてください。Amazonはあなたの住所も、購買履歴も、検索傾向も全部持っている。おそらく友人より詳しい。なのに今年の夏から、注文確認メールに商品名が書かれなくなった。届くメールはこういう感じです：「あなたのBeautyアイテムが確定しました！」。ある人がリテーナークリーニングタブレットを注文したら、「Beautyアイテム」と届いた。Amazonは理由を説明していない。データは持っている。メールには書かない。これが不具合なのか仕様なのか、あるいは「進化」なのか、私にはまだわかりません。"
         },
         {
           "ref": "d5",
-          "text": "最後の記事を読んで、スマホを置きました。トランプ大統領が、MMRワクチン——麻疹・おたふく・風疹の混合ワクチンです——を、今後は3回に分けて接種させる大統領令に署名しました。科学的根拠はありません。専門家はワクチン接種率が下がると警告しています。この変更の根拠を問われた大統領の言葉が、記録として残っています。「これは自分がそう感じるから」。感じる。アメリカにはワクチンの安全性データを評価するための連邦機関があります。ただ、もっと速いプロセスがあったようです。感覚です。感覚が政策になりました。"
+          "text": "で、今週の一番好きなニュース。ボルティモアの警察官、デクワン・ホーチンス（30歳）が起訴されました。何ヶ月もの間、実際には駐車して何もしていないのに「交通取り締まり中」という虚偽の報告書を出し続けたというんです。理由は、本当の通報に応答したくなかったから。いや待って、聞いてください。虚偽の報告書を書くために、彼は書類仕事をしていたんです。サボるための書類。しかも、「交通取り締まり記録」というシステム——本来は警察官に説明責任を持たせるための仕組み——を、自分のアリバイとして使っていた。怠惰、と検察は呼んだ。でもただの怠惰な人は、月単位で偽造書類を作り続けない。それはもう別の何かです。"
         }
       ],
-      "closer": "毎朝読んで、毎朝頭を抱えています。別に日本がましだと言いたいわけじゃない。ただ今日のアメリカは、いつもより一段と、説明がなかった。"
+      "closer": "5本、全部読んで気づいたのは、誰も「間違えた」と言っていないことでした。進化。透明性。強い一年。仕様。交通取り締まり。私はまた缶コーヒーを買いに行きます。少なくとも缶には、中身が書いてある。"
     },
     "notesEn": [
-      "Amazon knows your address, your voice recordings, and your browsing history from 2019. But your order confirmation now just says 'Your Beauty item is confirmed!' They're protecting your privacy from you.",
-      "Bumble, the app where only women could message first, just eliminated that rule. They're calling it a 'global evolution.' I'd call it twelve years and one pivot. The app is doing great.",
-      "HCA Healthcare reported $6.8 billion in profit this quarter. Their workers are outside picketing for wages they can live on. Both things happened at the same company, at the same time.",
-      "Trump warned that removing FIFA's Gianni Infantino would hurt World Cup profits. The reason people want Infantino gone is that he made it too commercial. The president's defense is that commercial is good, actually. The president had thoughts about FIFA.",
-      "Trump signed an order splitting the MMR vaccine into three separate shots. When asked for the scientific basis, he said: 'This is based on what I feel.' The FDA was not consulted about his feelings.",
-      "Today's American news, in order: a company hid your purchase from you, an app erased its own identity, hospital workers can't pay rent while the company had a record year, a president intervened in soccer governance, and a vaccine schedule was rewritten by a feeling. Normal Tuesday.",
-      "The MMR vaccine schedule was set by decades of clinical research. It was changed by an executive order. The executive order was based on a feeling. These are all true statements about the same morning.",
-      "Bumble's whole thing was: women message first. Now anyone can. They've been Tinder for about a week and I'm sure everyone involved is fine."
+      "Bumble scrapped the rule that women must message first — the one feature that made Bumble not-Tinder for twelve years. They're calling it a 'global evolution.' The word they were looking for was 'pivot.' Or possibly 'oops.'",
+      "Spotify announced it will label AI-generated artists starting in September. Great news! Except they've been recommending those artists for months without any label. It's a nutrition label for something you already ate.",
+      "HCA Healthcare posted $6.8 billion in profit last year. Their workers are outside with picket signs asking for a raise. The company called it a strong year. The people who made it a strong year are outside.",
+      "Amazon order confirmation emails no longer tell you what you ordered. You get 'Your Beauty item is confirmed!' instead. They have all your data. They just won't put it in the email. No explanation given.",
+      "A Baltimore officer was indicted for filing fake traffic stop reports for months — to avoid responding to actual calls. He was sitting in his car doing nothing while submitting paperwork saying otherwise. He did extra work specifically so he wouldn't have to do work.",
+      "Five American news stories this week, five different topics. All five were about the same thing: removing the part that was supposed to be the point, and calling it progress.",
+      "I read American news every morning so you don't have to. This week's lesson: if you're going to quietly change everything about yourself, at least call it an evolution. It buys you at least one news cycle.",
+      "The Baltimore cop used the accountability system as an alibi. Spotify used transparency as a delay tactic. Bumble called retreat an evolution. Amazon knows what you bought but won't say. HCA made billions. Everyone's fine. Everything's fine."
     ],
     "xJa": [
-      "Amazonが注文確認メールから商品名を削除。代わりに「あなたのBeautyアイテムが確定しました！」と届く。住所も閲覧履歴も全部知っているAmazonが、あなたが買ったものだけ教えてくれない。木曜に荷物が来るので、一緒に確認しましょう。",
-      "「女性が先にメッセージを送る」というルールで12年やってきたマッチングアプリBumbleが、そのルールを廃止。発表文には「シグネチャー・エクスペリエンスのグローバルな進化」とある。要するにTinderと同じになった、を12年かけて言い換えた。",
-      "米最大の営利病院グループHCAヘルスケア、今期の利益は68億ドル。同じ週、同じ会社の看護師たちが病院の外でピケを張っている。家賃が払えないから。68億ドルと、外のピケ。どちらも同じ会社の話。",
-      "FIFAが「商業化しすぎ」として世界から批判されているインファンティーノ会長について、トランプ大統領が「彼を追い出すとワールドカップが儲からなくなる」と警告。批判側も擁護側も、商業化した事実には同意している。結論が違うだけ。",
-      "トランプ大統領、麻疹・おたふく・風疹の混合ワクチン（MMR）を3回に分けて接種させる大統領令に署名。科学的根拠を問われ「自分がそう感じるから」と回答。感覚が政策になった国の話。",
-      "今日のアメリカのニュース：Amazonが商品名を隠す・Bumbleが自分のルールを廃止・病院が68億ドル稼ぎながら従業員がピケ・大統領がFIFAに口出し・ワクチン政策が感覚で決まる。普通の火曜日。",
-      "「これは自分がそう感じるから」——MMRワクチンを3分割する大統領令の根拠として、大統領が述べた言葉です。アメリカにはワクチン安全性を評価する連邦機関があります。今回は使われませんでした。",
-      "Bumble、12年間守ったルールを廃止。アプリの説明には「進化」とある。競合と同じになることを進化と呼ぶなら、進化とはそういうものかもしれない。"
+      "Bumble（女性だけが最初にメッセージを送れるマッチングアプリ）が、そのルールを廃止。理由：「進化」。12年間それ以外のアプリと差別化してきた唯一の機能が消えて、今のBumbleはただのTinderです。",
+      "Spotifyが9月からAI生成アーティストにラベルを貼ると発表。ただし数ヶ月間、ラベルなしで推薦し続けていた。「あなたへのおすすめ」に存在しない人物が混ざっていたかもしれない。対応：バッジ。近日公開。",
+      "米最大の営利病院チェーン・HCAヘルスケア、昨年の利益が68億ドル。同じ週、その病院の組合員が全国でピケ。「生活が苦しい」。会社は「強い一年だった」と発表。どちらも本当のことを言っている。",
+      "Amazonの注文確認メールが商品名を書かなくなった。届くのは「あなたのBeautyアイテムが確定しました！」のみ。あなたのデータは全部持っている。メールには書かない。理由の説明なし。",
+      "ボルティモアの警察官、何ヶ月も「交通取り締まり中」と虚偽報告して実際は車の中でサボっていたとして起訴。サボるために書類を書いていた。説明責任のためのシステムが、アリバイになった。",
+      "今週のアメリカ5本、全部「中身を消して名前だけ残した」話だった。Bumbleはアイデンティティを消した。Spotifyはラベルを後から貼った。Amazonは商品名を消した。HCAは利益を残して人を絞った。警官は実績を偽造した。",
+      "「進化」という言葉は、説明を省略するのに便利です。今週のアメリカのニュースを読んで学びました。Bumble・Spotify・Amazonが同じ週に「進化」した。",
+      "HCAヘルスケアの利益が68億ドル。従業員がピケ。Bumbleが創業理念を廃止。Spotifyが遅れてラベルを貼る。Amazonが商品名を隠す。警官がサボるために書類を書く。今週のアメリカ、全員が一生懸命、何かを消している。"
     ],
-    "fullEn": "# America Is Running on Vibes: A Tuesday Dispatch\n\nI've been reading American news every morning for years now. And I think I've finally found the theme. Not polarization, not dysfunction. The theme is: nobody's explaining anything anymore. They're just doing it. And calling it an evolution.\n\nBumble announced this week that they're removing their famous rule — the one where women have to message first. They've had that rule for twelve years. It was, genuinely, the entire point of Bumble. And now it's gone. They're calling it a 'global evolution to its signature conversation experience.' I read that sentence four times. It means: we're Tinder now. Three hundred words of press release to say we're Tinder now.\n\nSpeaking of explaining things — or not. Amazon sent customers a confirmation email this week that said, 'Your Beauty item is confirmed!' Not the product name. The category. Amazon, the company that knows your address, your voice, your browsing history from 2019, your estimated household income — that Amazon looked at your order and said: Beauty item. That's as specific as we're going to get. My package arrives Thursday. We'll find out together.\n\nOkay, different kind of story. HCA Healthcare — largest for-profit hospital system in the US — just reported $6.8 billion in profit. And at the same time, their workers are outside. Picketing. Because they can't make rent. I want to be careful here because this isn't funny, it's just a fact that sits there looking at you. Six-point-eight billion. And the staff is outside. That's not an accident. That's a budget decision.\n\nAnd then — look, I did not expect to be talking about FIFA today, but here we are. There is a global revolt inside soccer right now against FIFA president Gianni Infantino, specifically because he's made the sport too commercial. And Trump this week warned that the World Cup will never be as profitable if Infantino goes. So the complaint is: too commercial. The defense is: he's good at commercial. They're not disagreeing about what happened. They just want different outcomes. The president of the United States weighed in on FIFA governance. The president had thoughts.\n\nAnd then I got to the last story, and I put my phone down. Trump signed an executive order splitting the MMR vaccine into three separate shots — measles, mumps, rubella, one at a time instead of combined. No scientific evidence supports this change. Public health officials say it could lower vaccination rates. And when someone asked the president what this decision was based on, he said — I'm reading his actual words now — 'This is based on what I feel.' That's it. We have an entire federal agency whose job is to review vaccine safety data. Turns out there's a faster process. It's a feeling. The feeling is now policy.\n\nI came back to Tokyo after a work trip last month and I thought: okay, things feel normal here. Then I read the news. I don't know what normal means anymore. I just know it's not that.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **Bumble Lets Men Make the First Move Now — The One Thing Bumble Was For** — The Verge ([source](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update))\n2. **Amazon Knows You Ordered Something. It Just Won't Say What.** — The Verge ([source](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data))\n3. **HCA Healthcare Made $6.8 Billion in Profit. Its Workers Are Picketing to Pay Rent.** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest))\n4. **Trump Warns FIFA Could Be Less Profitable Without Infantino. FIFA Is Already in Revolt Over Infantino.** — CNBC Top News ([source](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html))\n5. **Trump Signed an Order Splitting the MMR Vaccine. He Said It's Based on What He Feels.** — The Guardian US ([source](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts))\n",
-    "fullJa": "# 「感じるから」で大統領令が出る国のニュースを、今朝も読んでしまった\n\nアメリカのニュースを毎朝読んでいて、最近ようやく気づいたことがあります。テーマは分断でも混乱でもない。「誰も説明しなくなった」んです。ただやる。そして「進化」と呼ぶ。今日の5本、全部そうでした。\n\nまずBumbleの話から。アメリカのマッチングアプリで、「異性間では女性が先にメッセージを送る」というルールで12年間やってきたサービスです。そのルールが今週廃止されました。廃止の理由は「シグネチャー・カンバセーション・エクスペリエンスのグローバルな進化」だそうで。4回読みました。要するに、「Tinderと同じになった」ということです。12年。ルール1個。発表文300ワード。\n\n説明しないといえば。Amazonが注文確認メールから商品名を消しました。「あなたのBeautyアイテムが確定しました！」という形で、カテゴリ名だけが届く。あのAmazonですよ。住所も、声も、2019年の閲覧履歴も、全部持っているAmazonが、「あなたが今日買ったものは……Beautyアイテムです」と言ってくる。木曜日に荷物が届くそうです。一緒に確認しましょう。\n\n少し話が変わりますが、笑えない話を一個だけ。HCAヘルスケア、アメリカ最大の営利病院グループが、今期68億ドルの利益を出しました。同時に、そこで働く組合員の看護師たちが、今週、病院の外でピケを張っています。家賃が払えないから。68億ドルの利益と、外でピケを張るスタッフ。これは事故ではなく、予算の話です。\n\nで、今日FIFAの話が来るとは思っていなかったんですが。サッカーのFIFA会長、ジャンニ・インファンティーノという人物が、世界的な反発を受けています。批判の中身は「商業化しすぎ」。それに対してトランプ大統領が今週「彼を追い出したらワールドカップの収益が落ちる」と警告しました。批判側：商業化しすぎ。擁護側：商業化がうまい。何について話しているかは一致しているんです。結論が違うだけで。アメリカの大統領がFIFAのガバナンスについて言及した。大統領、お気持ちがあったようです。\n\n最後の記事を読んで、スマホを置きました。トランプ大統領が、MMRワクチン——麻疹・おたふく・風疹の混合ワクチンです——を、今後は3回に分けて接種させる大統領令に署名しました。科学的根拠はありません。専門家はワクチン接種率が下がると警告しています。この変更の根拠を問われた大統領の言葉が、記録として残っています。「これは自分がそう感じるから」。感じる。アメリカにはワクチンの安全性データを評価するための連邦機関があります。ただ、もっと速いプロセスがあったようです。感覚です。感覚が政策になりました。\n\n毎朝読んで、毎朝頭を抱えています。別に日本がましだと言いたいわけじゃない。ただ今日のアメリカは、いつもより一段と、説明がなかった。\n\n---\n\n**今日の5本**（登場順）\n\n1. **Bumble Lets Men Make the First Move Now — The One Thing Bumble Was For**（The Verge） — 「女性が先にメッセージを送る」という独自ルールで知られるマッチングアプリBumbleが、そのルールを廃止し、誰でも先にメッセージを送れるようにすると発表した。 [記事](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update)\n2. **Amazon Knows You Ordered Something. It Just Won't Say What.**（The Verge） — Amazonが注文確認メールから商品名を削除し、「あなたのBeautyアイテムが確定しました！」のようにカテゴリ名のみ表示するようになったと顧客が報告している。 [記事](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)\n3. **HCA Healthcare Made $6.8 Billion in Profit. Its Workers Are Picketing to Pay Rent.**（The Guardian US） — 米最大の営利病院グループHCAヘルスケアが68億ドルの利益を報告する一方、同社の組合員労働者たちは賃上げと人員増を求めて全国各地でピケを張っている。 [記事](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest)\n4. **Trump Warns FIFA Could Be Less Profitable Without Infantino. FIFA Is Already in Revolt Over Infantino.**（CNBC Top News） — トランプ大統領は、FIFAのジャンニ・インファンティーノ会長が追放された場合、ワールドカップの収益性が失われると警告した。FIFAは現在、インファンティーノの商業主義的な路線をめぐって世界的な反発を受けている。 [記事](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html)\n5. **Trump Signed an Order Splitting the MMR Vaccine. He Said It's Based on What He Feels.**（The Guardian US） — トランプ大統領は麻疹・おたふく・風疹（MMR）ワクチンを3回に分けて接種させる大統領令に署名した。根拠を問われた大統領は「自分がそう感じるから」と述べており、科学的根拠は存在しない。 [記事](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts)\n",
-    "reviewNotes": "d1のcaptionsJa[4]「月1500円」は元データに無い数字（原文は$14.99/month）なので削除・修正。d4のimagePrompts[2]はFIFA本部建物＋バルコニーで人物の顔が判別できる構図になりかねないため後ろ姿・シルエットに書き直し。d5のimagePrompts[0]に「scientists in lab coats with puzzled expressions」と顔の表情描写があるため顔なし群衆に修正。それ以外は水準を満たしているため変更なし。"
-  }
+    "fullEn": "# Everything Got Rebranded. Nothing Got Better.\n\nI read five American news stories this morning. Five different topics, five different companies, five different states. And somehow every single one of them was about the same thing: someone removing the part that was supposed to be the point. I don't know what's in the water over there. I drink canned coffee from a vending machine at 7 a.m. and even I could feel it.\n\nSo. Bumble. If you don't know Bumble, it's a dating app — started in 2014 — where women had to message first in straight matches. That was the whole thing. That was it. Not the logo, not the yellow color. The rule. Women go first. That's why it existed. And this week, they scrapped it. Now anyone can message anyone. They called this a 'global evolution to its signature conversation experience.' I had to read that three times. They evolved away from the signature experience. Which is — I mean — okay. But also: Bumble is now just Tinder with better PR. Twelve years of 'women go first.' Then Q2 numbers came in.\n\nAnd speaking of things that were quietly happening while someone wasn't paying attention — Spotify. Spotify announced this week that starting in September, they will add an 'AI Persona' badge to artist profiles that 'do not represent a real person.' Great. Responsible. Except — and this is the part where I put my phone down and stared at the ceiling for a moment — they've been recommending these AI artists for months. Without a badge. Without a note. Your Discover Weekly, that playlist you actually trust, has been pushing artists who do not exist and you had no way of knowing. Spotify's response: a badge. Coming soon. It's a nutrition label for something you already ate.\n\nFrom invisible artists to very visible numbers. HCA Healthcare — the largest for-profit hospital chain in America — reported $6.8 billion in profits. Six point eight billion. And their workers are outside with picket signs, asking for a raise and enough staff to do the job safely. Both of these things are true at the same time, in the same organization. The company had a 'strong year.' The people who made it a strong year are outside. I'm not an economist. But I can read two sentences and notice when they don't add up.\n\nOkay, so Amazon. Amazon knows everything. Your address, your search history, your purchase patterns — they probably know you better than your friends do. And yet. This summer, people started noticing that Amazon's order confirmation emails no longer say what you ordered. Instead, you get: 'Your Beauty item is confirmed!' One person ordered retainer cleaning tablets. The email said Beauty item. Amazon has not explained why. They have your data. They just won't put it in the email. I genuinely don't know if this is a privacy thing, a glitch, or someone's A/B test that escaped. But I do know that getting an email that says 'your item' without naming the item would, in most places, be considered a bug. Not a feature. Not an evolution.\n\nAnd finally. My favorite story of the week. A Baltimore police officer — 30 years old, name is Dequwan Houchins — was indicted for allegedly filing fake traffic stop reports for months. Why? To avoid responding to real calls. While he was claiming to be conducting traffic stops, prosecutors say he was sitting in his car. Doing nothing. Now here's the part that got me. He filed fake reports to explain what he was doing with his time. So he was doing paperwork — just paperwork for the lying. The traffic stop documentation system, which exists to create accountability, became his alibi. You think I'm making this up. I am not making this up. Prosecutors called him lazy. I'd say lazy is underselling it. Lazy people don't do extra paperwork.\n\nFive stories. One week. Nobody admitted anything. It was a global evolution, a transparency initiative, a strong year, a feature, and a traffic stop. I'm going back to my canned coffee. At least the label still says what's inside.\n\n**Today's Forecast** (news-based, scientifically dubious, warmly meant):\n\n> Today's Forecast: This week proved that not labeling things — your AI playlist, your order, your inaction — can work for months before anyone notices. You, however, have been noticed. Your work is real, your name is on it, and that is already more than several major platforms managed this week. Career outlook: quietly solid.\n\n**Steal this line** — for your next meeting:\n\n> This week in America: four different organizations rebranded a mistake as a feature, and one cop filed paperwork specifically to avoid doing his job. Peak efficiency.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **Bumble Lets Men Make the First Move — Quietly Retiring the One Thing That Made It Bumble** — The Verge ([source](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update))\n2. **Spotify Will Label AI Artists — But Still Played Them for Months Without Saying a Word** — The Verge ([source](https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations))\n3. **HCA Healthcare Made $6.8 Billion in Profit Last Year. Its Workers Are Holding Picket Signs.** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest))\n4. **Amazon Order Confirmation Emails No Longer Tell You What You Actually Ordered** — The Verge ([source](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data))\n5. **Baltimore Officer Allegedly Faked Traffic Stops for Months to Sit in His Car and Do Nothing** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports))\n",
+    "fullJa": "# Bumbleが「女性優先ルール」を廃止した理由、Amazonが「何を買ったか」を教えなくなった理由——どちらも「進化」だそうです\n\n今朝、アメリカのニュースを5本読みました。ジャンルも州もバラバラ。でも全部、同じ話をしていた。「中身を消して、名前だけ残した人たちの話」。これが偶然5本揃うと、もう頭を抱えるというより、少し感心してしまう。\n\nまずBumble。マッチングアプリです。2014年に創業して、「女性だけが最初にメッセージを送れる」というルールで差別化してきた。そのルールが、そのアプリの全部だった。ロゴでも色でもなく、ルールが商品だった。それを今週、廃止しました。誰でも最初に送れるようになる。公式の説明は「グローバルな進化」。いや、進化の方向が内側に向いてる。12年間「女性が先」でやってきて、第2四半期の数字が出てきたら方針転換。結果として今、BumbleはTinderになりました。\n\n黙って続いていた話、といえば——Spotify。9月中旬から、実在しない人物によるAI生成アーティストに「AI Persona」バッジを表示すると発表しました。透明性の確保、素晴らしい。ただ、これ、何ヶ月も前からAIアーティストの音楽をレコメンドしていたんです。バッジも説明もなく。「あなたへのおすすめ」に入ってきたアーティストが人間なのかどうか、確認する方法がなかった。Spotifyの対応：バッジ。近日公開。食べ終わってから貼る栄養成分表示です。\n\n見えないアーティストの話から、非常に見えやすい数字の話へ。HCAヘルスケア、アメリカ最大の営利病院チェーンが、昨年の利益68億ドルを発表しました。68億ドル、です。同じ週に、その病院で働く組合員が全国でピケを張って、賃上げと人員増を求めています。同じ組織から、同時に出てきた話。「強い一年だった」という会社の発表と、「生活が苦しい」という従業員の声が共存している。この二つの文章、並べるだけで説明が要らない。\n\nAmazonの話、聞いてください。Amazonはあなたの住所も、購買履歴も、検索傾向も全部持っている。おそらく友人より詳しい。なのに今年の夏から、注文確認メールに商品名が書かれなくなった。届くメールはこういう感じです：「あなたのBeautyアイテムが確定しました！」。ある人がリテーナークリーニングタブレットを注文したら、「Beautyアイテム」と届いた。Amazonは理由を説明していない。データは持っている。メールには書かない。これが不具合なのか仕様なのか、あるいは「進化」なのか、私にはまだわかりません。\n\nで、今週の一番好きなニュース。ボルティモアの警察官、デクワン・ホーチンス（30歳）が起訴されました。何ヶ月もの間、実際には駐車して何もしていないのに「交通取り締まり中」という虚偽の報告書を出し続けたというんです。理由は、本当の通報に応答したくなかったから。いや待って、聞いてください。虚偽の報告書を書くために、彼は書類仕事をしていたんです。サボるための書類。しかも、「交通取り締まり記録」というシステム——本来は警察官に説明責任を持たせるための仕組み——を、自分のアリバイとして使っていた。怠惰、と検察は呼んだ。でもただの怠惰な人は、月単位で偽造書類を作り続けない。それはもう別の何かです。\n\n5本、全部読んで気づいたのは、誰も「間違えた」と言っていないことでした。進化。透明性。強い一年。仕様。交通取り締まり。私はまた缶コーヒーを買いに行きます。少なくとも缶には、中身が書いてある。\n\n**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:\n\n> 今日の運勢：今週のアメリカは「ラベルを貼らないまま何ヶ月も通用する」ことを証明しました。でもあなたは違う。あなたの仕事には名前がついていて、あなた自身が実在している。それだけで今週の大手プラットフォームより誠実です。仕事運は地味に上向き。自分の名前で動ける人間は、思ったより強い。\n\n**今日の使える一言**（明日この話題が出たら、これをどうぞ）:\n\n> 今週のアメリカ：四つの組織が失敗を「進化」と呼び、一人の警官が仕事をサボるために書類仕事をした。効率化の到達点がここです。\n\n---\n\n**今日の5本**（登場順）\n\n1. **Bumble Lets Men Make the First Move — Quietly Retiring the One Thing That Made It Bumble**（The Verge） — マッチングアプリ「Bumble」が、女性のみがメッセージを先に送れるという創業以来の核心的ルールを廃止し、誰でも最初にメッセージを送れるよう変更すると発表した。 [記事](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update)\n2. **Spotify Will Label AI Artists — But Still Played Them for Months Without Saying a Word**（The Verge） — Spotifyは9月中旬から、実在しない人物によるAI生成アーティストのプロフィールに「AI Persona」バッジを表示し、レコメンデーションから除外すると発表した。 [記事](https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations)\n3. **HCA Healthcare Made $6.8 Billion in Profit Last Year. Its Workers Are Holding Picket Signs.**（The Guardian US） — 米国最大の営利病院チェーン・HCAヘルスケアが68億ドルの利益を報告した一方、従業員組合は全国でピケを張り、賃上げと人員増を求めている。 [記事](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest)\n4. **Amazon Order Confirmation Emails No Longer Tell You What You Actually Ordered**（The Verge） — Amazonの注文確認メールが商品名を記載しなくなり、「あなたのBeautyアイテムが確定しました」のようにカテゴリー名しか表示されなくなったと複数のユーザーが報告している。 [記事](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)\n5. **Baltimore Officer Allegedly Faked Traffic Stops for Months to Sit in His Car and Do Nothing**（The Guardian US） — ボルティモアの警察官デクワン・ホーチンス（30歳）が、実際には駐車して何もしていないにもかかわらず、交通取り締まり中と虚偽の報告を繰り返していたとして起訴された。 [記事](https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports)\n",
+    "reviewNotes": "captionsは全体的に水準高め。d5の2本目「Lazy is generous」は説明で止まっているのでオチを付ける。imagePromptsはd2の2本目に「confused human listener」という顔が読める人物が残っているので修正。monologueEnのd3ビートに元データにない「Japan」比較が混入しているため削除。xJa 3本目の「6.8兆円」は元データの「$6.8 billion」を誤変換した事実誤認なので「68億ドル」に修正。"
+  },
+  "carousel": [
+    "images/2026-08-11/carousel/slide-1.jpg",
+    "images/2026-08-11/carousel/slide-2.jpg",
+    "images/2026-08-11/carousel/slide-3.jpg",
+    "images/2026-08-11/carousel/slide-4.jpg",
+    "images/2026-08-11/carousel/slide-5.jpg",
+    "images/2026-08-11/carousel/slide-6.jpg",
+    "images/2026-08-11/carousel/slide-7.jpg"
+  ]
 };
