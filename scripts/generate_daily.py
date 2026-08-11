@@ -418,6 +418,17 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 - notesEn: Substack Notes用の英語投稿。各1〜3文。その投稿だけ読んで意味が分かる自己完結型にする（必要なニュースの前提を投稿内に含める）。ハッシュタグ・絵文字・URLなし。ペルソナの声で。
 - xJa: X（旧Twitter）用の日本語投稿。各135字以内。自己完結型。ハッシュタグ・URLなし。ニュースを知らない日本の読者がそのまま笑える形にする。
 
+【noteタイトル3案（titleJa + titleAltJa）】
+noteでは読まれるかどうかの大半がタイトルで決まる。note公式の有料記事500件分析によれば、読まれるタイトルの共通点は「具体性」「読者にとっての価値の明確さ」「トレンド性」。風刺コラムでは次のように翻訳する:
+- 具体性: 固有名詞・数字をタイトルにそのまま見せ、その違和感で引く（「最近思ったこと」型の曖昧タイトルは禁止）
+- 価値: 読むと何が分かるか・どんな気分になれるかが一目で伝わる
+- トレンド性: その日の話題語（人名・企業名・事件）を自然に入れる
+本命titleJaに加え、titleAltJaに別角度の2案を作り、型を必ず変えること:
+- 1案は「固有名詞・数字の違和感」型（例: 具体的な数字がそのままオチになっている）
+- 1案は「読者への問いかけ・呼びかけ」型
+- 1案は「ぼやき・本音がこぼれた」型
+釣らない。本文が答えられない約束をタイトルでしない。「〜がヤバい」「衝撃の」等の摩耗した釣り語は使わない。
+
 【出力形式（厳守）】
 - 有効なJSONのみを出力する。前置き・後書き・コードフェンスは一切付けない。
 - beats の ref は候補の id（d1〜d5）を使う。
@@ -426,7 +437,8 @@ JSONスキーマ:
 {
   "thread": "<日本語1〜2文。今日の5本を貫く『一本の糸』（人間の編集者向けメモ）>",
   "titleEn": "<英語タイトル。ニュースレターの件名になる。punchyに、60文字以内>",
-  "titleJa": "<日本語タイトル。note記事の見出しになる>",
+  "titleJa": "<日本語タイトル本命案。note記事の見出しになる>",
+  "titleAltJa": ["<日本語タイトル別案（本命と型を変える）>", "<日本語タイトル別案（さらに別の型）>"],
   "monologueEn": {
     "opener": "<英語>",
     "beats": [{"ref": "d1", "text": "<英語>"}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}],
@@ -509,10 +521,18 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
         raise ValueError(f"editorial: xJa needs >=5 usable items within "
                          f"{X_MAX_CHARS} chars (got {len(x_posts)})")
 
+    # タイトル別案は任意項目（無くても失敗にしない）
+    title_alt = data.get("titleAltJa")
+    if not isinstance(title_alt, list):
+        title_alt = []
+    title_alt = [t.strip() for t in title_alt
+                 if isinstance(t, str) and len(t.strip()) >= 5][:3]
+
     return {
         "thread": thread,
         "titleEn": title_en,
         "titleJa": title_ja,
+        "titleAltJa": title_alt,
         "monologueEn": mono_en,
         "monologueJa": mono_ja,
         "notesEn": notes[:NUM_NOTES],
