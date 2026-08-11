@@ -1,53 +1,53 @@
 window.DAILY_DATA = {
   "version": 1,
   "date": "2026-08-11",
-  "generatedAt": "2026-08-11T13:07:07+00:00",
+  "generatedAt": "2026-08-11T13:49:18+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "National Guard Deployed to D.C. One Year Ago — Now It's Staying Until 2029",
-        "source": "NPR News",
+        "headline": "Amazon Knows You Ordered Something. It Just Won't Say What.",
+        "source": "The Verge",
         "date": "2026-08-11",
-        "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
-        "summary": "国家警備隊がワシントンD.C.に展開されてから1年。静かに2029年の就任式まで延長が決まり、費用は数十億ドル規模に上る見込みだ。"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
+        "summary": "Amazonが注文確認メールから商品名を削除し、「あなたのBeautyアイテムが確定しました！」のようにカテゴリ名のみ表示するようになったと顧客が報告している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「民主主義の首都」に武装部隊が恒常駐留し、その期間が次の大統領就任式まで延長されるという構図は、守るべきものと手段が逆転している。",
-        "<b>滑稽さ:</b> 延長は「静かに」行われたという——世界最強の軍事国家の首都に軍隊を増派するニュースを、誰も大きく告知しなかった。",
-        "<b>日本・海外から見ると:</b> 他国の首都で同様の展開があれば「軍政への移行」と報じるであろう事態が、アメリカではニュースの端に収まっている。"
+        "<b>矛盾:</b> 購入履歴・閲覧履歴・位置情報まで記録するAmazonが、注文した商品名だけは「教えられない」という建前を採用している。",
+        "<b>滑稽さ:</b> 「Beautyアイテム」という表記は、プライバシー保護というよりも宝くじの当選通知に近い。自分が何を買ったか思い出せない顧客が続出している。",
+        "<b>日本・海外から見ると:</b> データ収集の透明性を求める声が高まる中、Amazonが選んだ「透明性」の形は、顧客への情報開示を減らす方向だった。"
       ],
       "imagePrompts": [
-        "Armed National Guard soldiers standing at attention in front of the U.S. Capitol building, with a large 'OPEN FOR DEMOCRACY' banner hanging above them, a tourist family posing for a selfie nearby",
-        "A government bureaucrat at a desk quietly sliding a paper labeled 'Deployment Extension — Until 2029' under a very tall stack of other papers, a rubber stamp reading 'NO BIG DEAL' in hand",
-        "A calendar on the wall showing years 2025, 2026, 2027, 2028 all crossed out, with armed soldiers lounging in lawn chairs on the National Mall, reading newspapers, a 'STILL HERE' sign propped against a tank"
+        "A person holds a smartphone showing an email that reads 'Your Mystery Item is confirmed!' with a gift-wrapped box replacing the product image. The person's expression is confused. A giant Amazon smile logo looms in the background.",
+        "A formal letter on Amazon-branded stationery with almost every word redacted in black ink except 'Your ___ item has shipped.' A magnifying glass hovers over the blacked-out text.",
+        "A customer at a front door receives a delivery box labeled only '?'. Beside them, a filing cabinet labeled 'Everything We Know About You' overflows with detailed folders."
       ],
       "captions": [
-        "They deployed the National Guard to D.C. 'temporarily' — and quietly renewed it like a streaming subscription nobody wanted to cancel.",
-        "Billions of dollars to station troops in the capital through 2029. Democracy is safe, folks. Very, very heavily armed, but safe.",
-        "Other countries militarize their capitals and we call it a coup. We do it and it's just... a Tuesday.",
-        "The extension was announced 'quietly.' Right. Nothing says confident democracy like whispering the part about the guns.",
-        "At what point does a 'temporary' military deployment in your own capital just become... the vibe?"
+        "Amazon has your address, your credit card, your voice recordings, and your browsing history from 2019 — but 'Beauty item' is about as specific as they're going to get.",
+        "Nothing says 'we value your privacy' like hiding the product name from the person who bought it.",
+        "My order confirmation said 'Your Home item is confirmed.' I have a package arriving Thursday. We'll find out together.",
+        "Great news: Amazon is finally protecting your data. Specifically, from you.",
+        "The suspense is free. Prime membership is $14.99 a month."
       ],
       "captionsJa": [
-        "国家警備隊を「一時的に」D.C.に展開して、いつの間にか誰も解約しないサブスクみたいに更新されていた。",
-        "民主主義を守るために数十億ドルと武装部隊を投入。安全です、みなさん。ものすごく物々しいですが、安全です。",
-        "他国が首都に軍を置いたらクーデターと呼ぶ。アメリカがやると、ただの火曜日。",
-        "延長は「静かに」発表されたそうで。そうですか、銃の話を小声でするのが民主主義の自信ある姿なんですね。",
-        "自国の首都への「臨時」軍展開が4年目に突入したとき、それはもう臨時じゃなくてインテリアでは？"
+        "Amazonはあなたの住所も、クレジットカードも、音声録音も、2019年の閲覧履歴も持っている。でも商品名については「Beautyアイテム」以上のことは教えてくれないらしい。",
+        "「プライバシーを大切にしています」と言いながら、情報を隠す相手が購入者本人というのはなかなかの発明だ。",
+        "注文確認メールには「Homeアイテムが確定しました」と書いてあった。木曜日に荷物が届く。何かは、そのとき一緒に確認しよう。",
+        "朗報：Amazonがついにあなたのデータを守ってくれるようになった。守る相手はあなた以外の全員から、ではなく、あなた自身からだが。",
+        "サスペンスは無料。プライム会員費は月額14.99ドル。"
       ],
-      "newsEn": "One year ago, the National Guard was deployed to Washington, D.C., marking a significant and ongoing presence of armed troops in the nation's capital. The deployment has since been quietly extended through Inauguration Day 2029. The total cost is expected to reach into the billions of dollars. Critics say the prolonged military presence challenges democratic norms in a civilian-governed city.",
+      "newsEn": "Amazon customers have noticed that order confirmation emails no longer list specific product names. Instead, the emails show only broad item categories, such as 'Your Beauty item is confirmed!' The change affects multiple email types related to orders. Amazon has not publicly explained the reason for the shift.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. regularly critiques other nations for deploying military forces in their capital cities. Washington D.C. is now on year two of doing exactly that.",
-          "absurdity": "The extension was handled 'quietly' — as if parking billions of dollars worth of armed troops outside the Lincoln Memorial is the kind of thing you slip into the budget footnotes.",
-          "outside": "Any foreign government that quietly extended a military deployment in its capital through the next election cycle would get a strongly worded State Department press release."
+          "contradiction": "Amazon tracks every click, scroll, and purchase you've ever made — but now it won't tell you what you actually bought in a confirmation email.",
+          "absurdity": "Somewhere, a person is staring at 'Your Beauty item is confirmed!' trying to remember if that's retainer tablets or a beard trimmer.",
+          "outside": "A company that built its empire on knowing customers better than they know themselves has decided the one thing you don't need to know is what you ordered."
         },
         {
-          "contradiction": "A democracy stationing troops in its own seat of government until the next inauguration raises the question: who exactly are they guarding it from?",
-          "absurdity": "The cost will run into the billions, which means America is paying more to militarize its democracy than most countries spend on their entire defense budget.",
-          "outside": "From abroad, 'the land of the free' now comes with a year-round military installation in the front yard — and apparently nobody wanted to make a big deal about renewing the lease."
+          "contradiction": "The world's largest retailer redacted its own receipts — not for your privacy, but apparently for reasons it hasn't bothered to explain.",
+          "absurdity": "Your bank statement will say 'AMAZON.COM $34.99.' Your confirmation email will say 'Your Home item.' Together they form a complete mystery.",
+          "outside": "In an era of data-sharing scandals, Amazon found a novel solution: be less transparent with the one person who actually paid for the information — you."
         }
       ],
       "imageSeed": 1,
@@ -57,47 +57,47 @@ window.DAILY_DATA = {
     {
       "id": "d2",
       "news": {
-        "headline": "HCA Healthcare Workers Picket for Raises While Company Posts $6.8 Billion in Profit",
-        "source": "The Guardian US",
+        "headline": "Bumble Lets Men Make the First Move Now — The One Thing Bumble Was For",
+        "source": "The Verge",
         "date": "2026-08-11",
-        "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
-        "summary": "米最大の営利病院チェーンHCAヘルスケアが68億ドルの利益を計上する一方、組合員の看護師や職員は賃上げと人員増加を求めて全国でピケを張っている。"
+        "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
+        "summary": "「女性が先にメッセージを送る」という独自ルールで知られるマッチングアプリBumbleが、そのルールを廃止し、誰でも先にメッセージを送れるようにすると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 68億ドルの利益を出した病院チェーンで、患者のケアを担う従業員が生活費に困っているという構図は、「ヘルスケア」という言葉の意味を問い直させる。",
-        "<b>滑稽さ:</b> 「人の命を救う」ビジネスが高収益を上げれば上げるほど、その命を救う人々の待遇が改善されない——アメリカ医療の収益構造を象徴する光景だ。",
-        "<b>日本・海外から見ると:</b> 国民皆保険の国々では、病院の「最高益」と「従業員の生活困窮」が同時に報じられる状況自体が理解しがたいだろう。"
+        "<b>矛盾:</b> 「女性が先に動ける場所」というブランドの核心を捨てることで、Bumbleは自分たちが差別化要因と主張してきたものを自ら解体した。",
+        "<b>滑稽さ:</b> 「私たちのアプリの本質が進化した」という発表は、「競合他社と同じになった」を12年かけて言い換えたものである。",
+        "<b>日本・海外から見ると:</b> フェミニスト的なブランディングで市場に切り込んだアプリが、最終的にユーザー数の論理に従って「普通のマッチングアプリ」に収束していく構図は、ブランド戦略の教科書的な失敗例になりうる。"
       ],
       "imagePrompts": [
-        "Nurses in scrubs holding picket signs outside a gleaming hospital entrance, while a giant banner above the hospital door reads 'RECORD PROFITS — $6.8 BILLION', a limousine pulling up to the executive entrance on the opposite side of the building",
-        "A hospital break room with a small folding table where a nurse eats a sad vending machine sandwich, a framed poster on the wall behind her showing a champagne toast labeled 'Q2 EARNINGS CELEBRATION'",
-        "A graph on a whiteboard showing 'PROFITS' as a skyscraper-tall bar and 'WORKER WAGES' as a nearly flat line barely visible at the bottom, a doctor and nurse staring at it with coffee cups in hand"
+        "A bumblebee mascot in a business suit erases a large sign that reads 'Ladies First' from a dating app interface on a giant screen, replacing it with a blank space. Other dating app logos watch from the sidelines.",
+        "A 'Founded on a Principle' plaque on a wall, with the principle text visibly scratched out. A small sticky note below reads 'Global Evolution.' The plaque still has the original Bumble yellow color.",
+        "Two smartphones side by side — one labeled 'Bumble 2014' showing a woman's hand reaching toward a chat bubble, one labeled 'Bumble 2026' showing the same interface but with both hands reaching and a shrug emoji between them."
       ],
       "captions": [
-        "$6.8 billion in profit and the nurses are outside with signs. The hospital is great at keeping people alive — just not the ones who work there.",
-        "HCA Healthcare: record earnings, staff who can't make rent. Turns out 'healthcare' was always about which half of that word you emphasize.",
-        "They call it a for-profit hospital system. The nurses picketing out front are starting to understand which part of that description applies to them.",
-        "Somewhere there's a CEO presentation slide that has '$6.8B profit' and 'staffing concerns' on the same page and it's labeled 'opportunities for optimization.'",
-        "What's the co-pay for irony? Asking for 10,000 underpaid nurses."
+        "Bumble, the app where women make the first move, has announced that women no longer have to make the first move. The app is doing great.",
+        "They're calling it a 'global evolution.' I'd call it 'we're Tinder now but with more press releases.'",
+        "Twelve years. One rule. One pivot. Three hundred words of corporate language to explain it.",
+        "The feature that made Bumble Bumble is gone. The name 'Bumble' remains. We're all just processing this.",
+        "Somewhere, the Hinge marketing team is opening a bottle of something nice."
       ],
       "captionsJa": [
-        "68億ドルの利益を出して、看護師は外でプラカードを掲げている。病院は人を生かすのが得意——ただし、そこで働く人は除く。",
-        "HCAヘルスケア：記録的な黒字、家賃も払えないスタッフ。「ヘルスケア」のどちらの単語が自分たちに当てはまるか、従業員は気づき始めている。",
-        "「営利病院」というシステムで、ピケを張る看護師たちはついに自分たちへの適用条件を理解した。",
-        "どこかのCEOプレゼンには「68億ドル黒字」と「人員不足の懸念」が同じスライドに並んでいて、「成長機会」というタイトルが付いている。",
-        "皮肉の自己負担額はいくらですか？1万人の低賃金看護師を代表してお聞きします。"
+        "「女性が先にメッセージを送る」アプリ・Bumbleが、「女性が先にメッセージを送らなくてよい」と発表した。アプリは絶好調とのこと。",
+        "公式には「グローバルな進化」と呼んでいる。直訳すると「Tinderになりました、ただしプレスリリースは長め」。",
+        "12年間。ルール1つ。方向転換1回。説明に使われた企業語300ワード。",
+        "Bumbleをひとことで言い表していた機能がなくなった。名前はまだBumbleのまま。みんな今それぞれ受け止めている。",
+        "どこかでHingeのマーケティングチームが、何かいいものを開けていると思う。"
       ],
-      "newsEn": "HCA Healthcare, the largest for-profit hospital system in the United States, reported $6.8 billion in profits while its union workers are staging picket protests across the country. Employees say they are struggling to make ends meet and are pushing for higher pay and increased staffing levels. The company simultaneously posted record earnings while workers describe conditions that make it difficult to cover basic living expenses.",
+      "newsEn": "Bumble was founded in 2014 with a defining rule: in heterosexual matches, only women could send the first message. The company announced it is eliminating this feature in a 'global evolution to its signature conversation experience,' allowing anyone to initiate contact. The change positions Bumble closer to competitors like Tinder and Hinge.",
       "ironyEn": [
         {
-          "contradiction": "A company called HCA Healthcare posted $6.8 billion in profit while the people providing the actual healthcare say they can't pay their bills.",
-          "absurdity": "Picket lines outside hospitals — the workers who stop bleeding are out front holding signs because they can't stop their own bank accounts from doing the same.",
-          "outside": "In countries with public healthcare systems, a hospital chain announcing record profits while nurses strike would be treated as a scandal. Here it's treated as a quarterly earnings report."
+          "contradiction": "Bumble built its entire brand identity on one rule. It just deleted that rule and called it an 'evolution.'",
+          "absurdity": "After 12 years of 'women make the first move,' the company's bold new vision is: anyone can do whatever Tinder already does.",
+          "outside": "A dating app that marketed itself as a feminist alternative has evolved into a regular dating app — which is one way to close the gap with the competition."
         },
         {
-          "contradiction": "The more efficiently HCA extracts money from sick people, the less it apparently needs to pay the staff doing the extracting.",
-          "absurdity": "$6.8 billion profit. Workers struggling to make ends meet. Somewhere in a boardroom, both of those numbers are in the same PowerPoint and nobody blinked.",
-          "outside": "Foreign observers trying to understand American healthcare often ask how a $6.8 billion profit hospital system works. The picket line outside is part of the answer."
+          "contradiction": "The app that told men to wait has decided, on reflection, that men don't have to wait.",
+          "absurdity": "Bumble's press release called this a 'signature conversation experience.' The signature has been crossed out.",
+          "outside": "From the outside, this looks less like a product update and more like a company quietly admitting the thing that made it different stopped working."
         }
       ],
       "imageSeed": 2,
@@ -107,47 +107,47 @@ window.DAILY_DATA = {
     {
       "id": "d3",
       "news": {
-        "headline": "Trump Signs Order to Split MMR Vaccine, Citing 'What I Feel'",
+        "headline": "HCA Healthcare Made $6.8 Billion in Profit. Its Workers Are Picketing to Pay Rent.",
         "source": "The Guardian US",
         "date": "2026-08-11",
-        "url": "https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts",
-        "summary": "トランプ大統領は、科学的根拠なしに「自分の感覚」に基づくとして、麻疹・おたふく・風疹の混合ワクチン（MMR）を3本に分けて接種するよう求める大統領令に署名した。"
+        "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
+        "summary": "米最大の営利病院グループHCAヘルスケアが68億ドルの利益を報告する一方、同社の組合員労働者たちは賃上げと人員増を求めて全国各地でピケを張っている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 世界最大の医薬品産業を抱える国の大統領が、ワクチン政策の根拠として「感覚」を挙げた——科学立国アメリカの自己像との乖離は相当に大きい。",
-        "<b>滑稽さ:</b> 数十年の臨床データを持つワクチンに対し、「なんとなく」という理由で大統領令が出せる制度設計が問われている。",
-        "<b>日本・海外から見ると:</b> ワクチン接種率の低下と麻疹の再流行を経験してきた国々から見れば、感情で公衆衛生政策を変更するという発想自体が驚異だろう。"
+        "<b>矛盾:</b> 「利益を最大化しながら患者ケアの質を維持する」という営利病院の命題が、スタッフ不足と低賃金という形で同時に否定されている。",
+        "<b>滑稽さ:</b> 病院の廊下を歩き回るはずの看護師たちが、病院の外でピケを張って歩き回っている。68億ドルの利益があれば解決できる問題のために。",
+        "<b>日本・海外から見ると:</b> 医療を株主利益と結びつけるアメリカ型病院経営モデルの矛盾が、「利益記録更新」と「従業員が家賃を払えない」という2つの見出しで同時に可視化されている。"
       ],
       "imagePrompts": [
-        "A doctor holding three separate syringes labeled 'M,' 'M,' and 'R' standing next to an official-looking podium, a large framed document behind him titled 'EXECUTIVE ORDER — BASED ON FEELINGS' with a gold seal",
-        "A scientist in a laboratory surrounded by binders labeled 'CLINICAL TRIALS,' 'PEER REVIEW,' and 'DECADES OF DATA,' staring at a single sticky note on the wall that reads 'but what does he FEEL tho'",
-        "A waiting room at a pediatrician's office with a sign on the wall reading 'VACCINES: NOW IN THREE CONVENIENT TRIPS,' a long line of parents with toddlers stretching out the door and around the block"
+        "Outside a large hospital building with an HCA logo, a group of workers in scrubs hold picket signs. Through the glass lobby windows behind them, a giant digital board displays '$6.8 BILLION PROFIT' in green numbers.",
+        "A scale illustration: on one side, a stack of gold coins labeled '$6.8B'; on the other side, a group of small figures in scrubs holding tiny signs reading 'Fair Pay.' The scale tips heavily toward the gold coins.",
+        "A hospital boardroom with a presentation slide reading 'Record Profits — Another Strong Quarter' while through the window behind the presenter, a line of picketing workers is visible on the street below."
       ],
       "captions": [
-        "The president signed an order splitting the MMR vaccine, citing 'what I feel.' The FDA requires clinical trials. Turns out there's a workaround.",
-        "Three shots instead of one — the deregulation president just added two extra doctor's appointments to every child's vaccination schedule. Streamlined.",
-        "No evidence, no studies, just vibes. Somewhere a peer-reviewed journal is having an existential crisis.",
-        "The MMR vaccine has worked for 60 years. 'Yeah, but have you considered my gut?' — official U.S. health policy, 2026.",
-        "We asked the science. Science said keep it one shot. We asked the president's feelings. Feelings said three. Feelings won."
+        "HCA made $6.8 billion. Their nurses made enough to need a picket sign. Both things happened in the same quarter.",
+        "The workers keeping people alive can't afford to live. The company keeping score just had its best year.",
+        "Six-point-eight billion dollars and the staff is outside. That's not an accident — that's a budget decision.",
+        "America's largest for-profit hospital chain is very profitable and also very understaffed. Turns out those two things are related.",
+        "If you're curious what $6.8 billion in hospital profit looks like from ground level, there are workers outside who can show you."
       ],
       "captionsJa": [
-        "大統領はMMRワクチンを分割する大統領令に署名し、根拠として「自分の感覚」を挙げた。FDAは臨床試験を要求する。どうやら抜け道があったらしい。",
-        "1回の接種を3回に分割——規制緩和の大統領が、子どものワクチンスケジュールに予約を2回追加した。効率化。",
-        "エビデンスなし、研究なし、あるのは感覚だけ。どこかで査読雑誌がアイデンティティの危機を迎えている。",
-        "MMRワクチンは60年間機能してきた。「でも俺の直感は？」——これが2026年の米国公衆衛生政策の公式見解です。",
-        "科学に聞いたら「1回でいい」と言った。大統領の感覚に聞いたら「3回」と言った。感覚が勝った。"
+        "HCAは68億ドルを稼いだ。看護師たちはピケを張るだけの理由を稼いだ。同じ四半期の話だ。",
+        "人の命をつないでいる人たちが、自分たちの生活をつなぐために外で歩き回っている。会社は過去最高益を更新した。",
+        "68億ドルあって、スタッフが外にいる。これは偶然じゃなく、予算会議の結果だ。",
+        "米最大の営利病院グループは非常に儲かっていて、かつ深刻な人手不足だ。この2つが無関係ではないと気づき始めている人もいる。",
+        "68億ドルの病院利益が地上からどう見えるか知りたければ、外でピケを張っている人たちに聞いてみるといい。"
       ],
-      "newsEn": "President Trump signed an executive order directing that the MMR vaccine — which protects against measles, mumps, and rubella — be administered as three separate shots rather than one combined dose. When asked about the rationale last September, Trump stated, 'This is based on what I feel.' Medical and public health experts say there is no scientific evidence supporting the change, and warn the order could reduce vaccination rates and increase disease risk.",
+      "newsEn": "HCA Healthcare, the largest for-profit hospital system in the United States, reported $6.8 billion in profits. At the same time, union workers at HCA facilities are holding picket protests across the country, demanding higher wages and increased staffing levels. Workers say they struggle to make ends meet despite the company's financial performance. HCA has not announced changes to compensation in response to the protests.",
       "ironyEn": [
         {
-          "contradiction": "The United States, home to the CDC and the world's largest pharmaceutical industry, just issued a vaccine policy based on the president's feelings.",
-          "absurdity": "The MMR vaccine has decades of safety data. The executive order has one source: vibes.",
-          "outside": "Countries that have spent years trying to rebuild vaccination trust after measles outbreaks are watching the U.S. voluntarily introduce friction into a working system — because it felt right."
+          "contradiction": "HCA Healthcare posted $6.8 billion in profit and its workers are outside the building holding signs because they can't pay their bills.",
+          "absurdity": "The nurses who keep the patients alive are the ones picketing. The $6.8 billion apparently needed to go somewhere else first.",
+          "outside": "Most countries look at for-profit hospital chains as a policy choice. Americans look at them as a natural phenomenon, like weather."
         },
         {
-          "contradiction": "No scientific body supports splitting the MMR shot. The president's supporting citation is 'what I feel,' which is not yet peer-reviewed.",
-          "absurdity": "Three separate appointments instead of one. The anti-bureaucracy administration just tripled the bureaucracy of getting vaccinated.",
-          "outside": "The WHO recommends the combined MMR vaccine. The U.S. president recommends checking his gut. These are now the two competing sources of public health guidance."
+          "contradiction": "A company whose product is human health reported record profits while the humans producing that product say they're struggling.",
+          "absurdity": "HCA's investor call presumably did not open with: 'Great quarter, and also our staff can't make rent, but let's table that.'",
+          "outside": "To an outside observer, the idea that a hospital system can be both the most profitable and chronically understaffed seems like a contradiction. Insiders call it a business model."
         }
       ],
       "imageSeed": 3,
@@ -157,47 +157,47 @@ window.DAILY_DATA = {
     {
       "id": "d4",
       "news": {
-        "headline": "Trump Warns FIFA World Cup Will Suffer If Infantino Is Removed",
+        "headline": "Trump Warns FIFA Could Be Less Profitable Without Infantino. FIFA Is Already in Revolt Over Infantino.",
         "source": "CNBC Top News",
         "date": "2026-08-11",
         "url": "https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
-        "summary": "トランプ大統領は、FIFA会長ジャンニ・インファンティーノへの世界的な批判が高まる中、同会長が追われれば今後のワールドカップは「これほど収益を上げられない」と警告した。"
+        "summary": "トランプ大統領は、FIFAのジャンニ・インファンティーノ会長が追放された場合、ワールドカップの収益性が失われると警告した。FIFAは現在、インファンティーノの商業主義的な路線をめぐって世界的な反発を受けている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 一国の大統領が国際スポーツ組織の内部人事について「収益性」を根拠に口を出すという構図は、スポーツの独立性という建前を正面から崩している。",
-        "<b>滑稽さ:</b> ワールドカップの「純粋なスポーツ精神」を守ることへの言及は一切なく、会長の去就が収益に与える影響だけが論拠となっている。",
-        "<b>日本・海外から見ると:</b> 欧州や南米のサッカーファンにとって、アメリカの大統領がFIFA会長の椅子をビジネス問題として語る光景は、2026年大会そのものへの皮肉な後日談に映るだろう。"
+        "<b>矛盾:</b> 国際スポーツ団体の内部ガバナンス問題に対し、米大統領が「収益性」を理由に現職トップの続投を支持するという構図は、スポーツの自律性という建前を完全に無視している。",
+        "<b>滑稽さ:</b> FIFAが「商業化しすぎ」として世界から批判されている会長を、「もっと儲かるから続けさせろ」と外から擁護するのは、批判の中心にある問題をそのまま繰り返している。",
+        "<b>日本・海外から見ると:</b> 国際サッカー連盟のトップ人事に米大統領が口出しする光景は、アメリカがワールドカップの開催国であることを差し引いても、スポーツ外交の新しい次元として記録に残りそうだ。"
       ],
       "imagePrompts": [
-        "A soccer field where the goal posts have been replaced with giant dollar signs, a suited figure holding a golden World Cup trophy in one hand and a bar chart of revenue in the other, a presidential podium visible in the background",
-        "A boardroom with a banner reading 'FIFA ANNUAL MEETING' where all the chairs around the table are filled with men in suits, but one chair has a small American flag planted in it and a nameplate reading 'NOT A MEMBER BUT HEARD'",
-        "A referee holding up a red card labeled 'OUST INFANTINO,' a large hand in a suit sleeve reaching in from off-frame to intercept the card mid-air, a crowd of soccer fans in the background looking confused"
+        "A podium at a press briefing room. Behind it, a figure in a suit points at a FIFA logo on a screen. The screen shows a dollar sign inside a soccer ball. A crowd of small soccer figures outside the screen holds protest banners.",
+        "A soccer ball on a conference table, with a 'FOR SALE' tag attached to it. Around the table sit silhouetted figures in business suits. One figure at the head of the table holds a phone labeled 'White House.'",
+        "A FIFA headquarters building with protest banners outside. On the roof, two silhouetted figures shake hands and give thumbs up, visible only as dark shapes against the sky, while protesters below hold signs reading 'Too Commercial.'"
       ],
       "captions": [
-        "Trump's case for keeping the FIFA president: he's profitable. The beautiful game has found its most honest press release.",
-        "The U.S. prosecuted FIFA officials for corruption in 2015. In 2026, the U.S. president is vouching for the guy running FIFA. Character development.",
-        "FIFA's independence from national governments is a cornerstone of international soccer. So anyway, here's what the American president thinks you should do with your leadership structure.",
-        "The World Cup ended, the money was counted, and the verdict from Washington was: whoever did that should definitely keep their job.",
-        "Sports and politics should stay separate — but not if it's going to hurt the numbers. That's just business."
+        "The global soccer community wants Infantino out for making it too commercial. Trump's argument for keeping him is that he made it too commercial. We're on the same page, different chapters.",
+        "Trump weighed in on FIFA governance. Just to be clear — FIFA governance. The president had thoughts.",
+        "The complaint about Infantino is that he sold the soul of the sport. The defense of Infantino is that the soul sold really well.",
+        "Nothing says 'this is about sports' like the leader of the host nation calling it a profitability issue.",
+        "At some point someone is going to have to explain to future historians what the American president's position on FIFA was and why."
       ],
       "captionsJa": [
-        "トランプ大統領のFIFA会長擁護の論拠：「収益性が高いから」。「美しきゲーム」は史上最も正直なプレスリリースを手に入れた。",
-        "2015年にアメリカはFIFA幹部を汚職で訴追した。2026年にはアメリカ大統領がFIFA会長の保証人になっている。成長を感じる。",
-        "国際サッカー連盟が各国政府から独立していることは大原則だ。というわけで、アメリカ大統領からFIFAの人事についてひと言。",
-        "ワールドカップが終わり、売上が集計され、ワシントンの結論は「あれをやった人はそのままでいい」だった。",
-        "スポーツと政治は混ぜてはいけない——ただし数字に影響が出る場合を除く。それはビジネスの話だから。"
+        "世界のサッカー界はインファンティーノが「商業化しすぎ」だとして追い出そうとしている。トランプの擁護論は「商業化したから続けさせろ」。同じ事実を見て、真逆の結論を出している。",
+        "トランプ大統領がFIFAのガバナンスについて見解を示した。FIFAのガバナンスについて。大統領が。",
+        "インファンティーノへの批判は「サッカーの魂を売った」。トランプの擁護は「魂はよく売れた」。",
+        "「これはスポーツの話」と言いながら、開催国のリーダーが収益性の問題として語り始めたら、それはもうスポーツの話ではない。",
+        "いつか未来の歴史家が、なぜアメリカ大統領がFIFAの人事に見解を持っていたのかを説明しなければならない日が来る。"
       ],
-      "newsEn": "President Trump issued a warning that the FIFA World Cup 'will never be as profitable' if FIFA President Gianni Infantino is removed from his position. This comes amid a growing global revolt against Infantino's leadership and his aggressive commercialization of the sport. The 2026 World Cup, held in the U.S., Canada, and Mexico, was the largest and most commercially profitable in the tournament's history. Trump's comments were seen as an endorsement of Infantino's business-driven approach to international soccer.",
+      "newsEn": "President Trump warned that the FIFA World Cup 'will never be as profitable' if FIFA President Gianni Infantino is removed from his position. The warning comes amid a global revolt within soccer against Infantino's commercialization drive. Infantino presided over what was described as the largest and most profitable World Cup on record. Trump's intervention marks an unusual instance of a sitting U.S. president publicly defending the head of an international sports governing body.",
       "ironyEn": [
         {
-          "contradiction": "The argument for keeping FIFA's president is not integrity, fairness, or the love of the game — it's that he's really good for the profit margin.",
-          "absurdity": "A sitting U.S. president issued a statement about the internal governance of a Swiss-based international soccer federation, and the argument was basically: he makes us money.",
-          "outside": "Football fans in Brazil and Germany spent decades watching FIFA corruption scandals unfold. Now the U.S. president has weighed in — to defend the revenue model."
+          "contradiction": "The global soccer community is revolting against Infantino for over-commercializing the sport. Trump's response is to defend Infantino specifically because he commercialized the sport.",
+          "absurdity": "A sitting U.S. president held a press position on the internal leadership of an international soccer federation. We're all just going to move on from that.",
+          "outside": "In most countries, football governance is considered a matter for football. In America, it's apparently a matter for the president — at least when the tournament is on your soil."
         },
         {
-          "contradiction": "International soccer's global governing body is supposed to be independent of national governments. The American president would like to register his preference anyway.",
-          "absurdity": "The World Cup just ended. The ink on the receipts is barely dry. And the official U.S. position is: whoever ran that cash register should stay.",
-          "outside": "FIFA has long faced corruption allegations. The U.S. once prosecuted FIFA officials. Now the U.S. president is their character witness — on financial grounds."
+          "contradiction": "The charge against Infantino is that he put money above the sport. The defense of Infantino is that he put money above the sport.",
+          "absurdity": "Trump warned that removing Infantino would hurt profitability — which is either a threat, an endorsement, or a hostage negotiation. Possibly all three.",
+          "outside": "Watching a non-soccer country's head of state lobby for the head of the world's soccer body is the kind of thing that would take years to explain to someone who just woke up from a coma."
         }
       ],
       "imageSeed": 4,
@@ -207,47 +207,47 @@ window.DAILY_DATA = {
     {
       "id": "d5",
       "news": {
-        "headline": "LA Schools Ban Classroom Screens — Teachers Say the Real Lesson Starts Now",
-        "source": "NPR News",
+        "headline": "Trump Signed an Order Splitting the MMR Vaccine. He Said It's Based on What He Feels.",
+        "source": "The Guardian US",
         "date": "2026-08-11",
-        "url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-        "summary": "全米第2位の規模を持つロサンゼルス統一学区が新学期から教室でのスクリーン利用を制限する方針を導入。現場の教師からは実施への不安の声が上がっている。"
+        "url": "https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts",
+        "summary": "トランプ大統領は麻疹・おたふく・風疹（MMR）ワクチンを3回に分けて接種させる大統領令に署名した。根拠を問われた大統領は「自分がそう感じるから」と述べており、科学的根拠は存在しない。"
       },
       "commentary": [
-        "<b>矛盾:</b> コロナ禍でタブレットやデジタルツールへの全面移行を推進したのと同じ公教育の現場が、今度は「スクリーンを減らせ」と指示している——方向転換のスピードが政策の一貫性への不信感を生む。",
-        "<b>滑稽さ:</b> スクリーンなしで教えろと言われた教師の多くは、その指示をメールで受け取った。",
-        "<b>日本・海外から見ると:</b> 「EdTech先進国」として世界に売り込んできたアメリカの教育産業が、自国の公立学校から「やっぱりやめます」と言われている構図は興味深い。"
+        "<b>矛盾:</b> 大統領令という国家の最も公式な政策手段が、「科学的根拠」ではなく「大統領の感覚」に基づいて医療制度を変更する、という構図が公式に記録された。",
+        "<b>滑稽さ:</b> FDAの承認プロセス・CDC の推奨・数十年の疫学データより、大統領の直感の方が政策決定に近い場所にあった2026年のアメリカ。",
+        "<b>日本・海外から見ると:</b> 「感情に基づく医療政策」は、科学的根拠を重視する国際的な公衆衛生の枠組みから見れば前代未聞であり、ワクチン接種率の低下というリスクは米国内にとどまらない。"
       ],
       "imagePrompts": [
-        "A classroom where all the smartboards and tablets are covered with black cloth, a teacher standing at a chalkboard with chalk dust on their hands looking slightly lost, a room full of students all secretly looking at their phones under their desks",
-        "A school supply closet overflowing with laptops, tablets, and projectors with a large padlock on the door and a sign reading 'DO NOT USE — NEW POLICY,' a sticky note underneath saying 'we bought these last year'",
-        "A professional development seminar room with a banner reading 'GOING SCREEN-FREE: A WORKSHOP' where every attendee is taking notes on a laptop and the presenter is using a PowerPoint displayed on a large screen"
+        "A large official document labeled 'Executive Order: MMR Vaccine' sits on an imposing desk and is being signed by a hand visible only from the wrist down. On the desk beside it, instead of briefing papers, sits a single index card that reads 'Because I feel it.' In the background, a row of faceless silhouettes in lab coats stands with arms at their sides.",
+        "A graph labeled 'Policy Decision Inputs' showing a large pie chart. One massive slice dominates the chart labeled 'Feeling.' Tiny slivers represent 'Clinical Trials,' 'CDC Guidance,' and 'Peer Review.'",
+        "Three syringes in a row on a medical tray, where previously there was one. A clipboard beside them shows the justification field filled in with the word 'Gut.' A wall poster behind the tray reads 'Evidence-Based Medicine.'"
       ],
       "captions": [
-        "LA schools are going screen-free. Teachers were informed via email. The irony is doing great, thanks for asking.",
-        "We gave every kid a tablet in 2020. We're taking away the smartboard in 2026. Somewhere there's a lesson plan about this — we just can't display it anymore.",
-        "The second-largest school district in America decided screens are the problem. Every student in that district has a phone. Seems airtight.",
-        "Teachers say cutting screens will be 'a difficult adjustment.' Students say nothing, because they've already found the workaround. It's in their pocket.",
-        "LA unified is going analog — a bold move in the city that gave us Hollywood, Silicon Beach, and the iPhone store on every corner."
+        "The MMR vaccine schedule was set by decades of clinical research. It was just changed by a feeling. These are both true statements about the same country.",
+        "Asked for the scientific basis, the president said, 'This is based on what I feel.' The FDA was not consulted about his feelings.",
+        "We have an entire federal agency whose job is to evaluate vaccine safety data. Turns out there's a faster process.",
+        "The good news: the president has strong feelings about your children's vaccine schedule. The other news: that's the whole policy.",
+        "Some executive orders cite legal precedent. Some cite economic data. This one cites vibes. First time for everything."
       ],
       "captionsJa": [
-        "LAの学校がスクリーン禁止に。教師への通達はメールで届いた。皮肉の方は元気にやっています。",
-        "2020年に全員にタブレットを配って、2026年にスマートボードを撤去する。このことについての授業計画があるはずだが、もう表示できない。",
-        "全米第2位の学区がスクリーンを問題と断定した。その学区の全生徒はスマートフォンを持っている。完璧な論理だ。",
-        "教師は「難しい移行になる」と言う。生徒は何も言わない。すでにポケットの中に解決策があるから。",
-        "LAがアナログ回帰——ハリウッドとシリコンビーチとiPhoneショップが並ぶ街でのなかなか大胆な判断です。"
+        "MMRワクチンのスケジュールは数十年の臨床研究によって設定された。それが「感覚」によって変更された。どちらも同じ国の話だ。",
+        "科学的根拠を問われ、大統領は「自分がそう感じるから」と答えた。FDAは大統領の感覚については相談を受けていない。",
+        "ワクチンの安全性データを評価するための連邦機関が存在している。ただ、もっと速い手続きがあったことが今回判明した。",
+        "朗報：大統領はあなたのお子さんのワクチンスケジュールについて強い感情を持っている。それが政策の全てである、という話もある。",
+        "大統領令には法的根拠を引用するものも、経済データを引用するものもある。今回は雰囲気を引用している。何事にも初めてがある。"
       ],
-      "newsEn": "Los Angeles Unified School District, the second-largest school district in the United States, is beginning the new school year with significant new limits on classroom screen time. The policy affects how teachers use devices and digital tools during lessons. Many teachers say the transition will be a difficult adjustment, as instruction over the past several years has increasingly relied on screens and digital platforms. The district serves hundreds of thousands of students across the Los Angeles area.",
+      "newsEn": "President Trump signed an executive order directing that the measles, mumps, and rubella (MMR) vaccine be administered as three separate shots instead of the current combined dose. When asked about the basis for the change, Trump said in September: 'This is based on what I feel.' There is no scientific evidence linking the MMR vaccine to autism or supporting the separation of the doses. Public health officials have warned the change could reduce vaccination rates.",
       "ironyEn": [
         {
-          "contradiction": "American schools spent the pandemic urgently putting screens in front of every student. The same institutions are now urgently taking them away.",
-          "absurdity": "Teachers were notified of the new no-screen policy — by email. On their computers. Presumably while sitting in front of a screen.",
-          "outside": "The U.S. EdTech industry has spent years selling the world on digital classrooms. The second-largest school district in America just put up a 'closed' sign on the concept."
+          "contradiction": "The United States has a Food and Drug Administration, a Centers for Disease Control, and decades of peer-reviewed vaccine research — and the MMR policy just changed because of a feeling.",
+          "absurdity": "The president's exact words were 'This is based on what I feel.' That quote is now technically the scientific basis for a federal health order.",
+          "outside": "Other countries require evidence to change vaccine schedules. The U.S. required a sentence that starts with 'I feel.'"
         },
         {
-          "contradiction": "The policy asks teachers to stop relying on the tools their training, curriculum, and last three years of professional development told them to use.",
-          "absurdity": "In a city where every teenager has a supercomputer in their pocket, the school district's big innovation for 2026 is: fewer screens. The kids can check TikTok on the bus.",
-          "outside": "Countries still struggling to get enough devices into classrooms are watching LA decide that screens were actually the problem all along."
+          "contradiction": "An executive order is the most formal instrument of U.S. governance. It is now backed by the least formal epistemology available: a vibe.",
+          "absurdity": "Somewhere in a federal database, there is an executive order whose documented rationale is a feeling. Public health officials have to implement it anyway.",
+          "outside": "The WHO recommends the combined MMR vaccine based on decades of safety data. The U.S. just moved to three separate shots. Asked why, the president said he felt like it."
         }
       ],
       "imageSeed": 5,
@@ -256,86 +256,87 @@ window.DAILY_DATA = {
     }
   ],
   "editorial": {
-    "thread": "「民主主義の首都に軍隊」「感覚で決めるワクチン政策」「病院が儲かるほど看護師が貧しくなる」「FIFAを収益で語る大統領」「スクリーンをメールで禁止した学区」——今日のアメリカは、あらゆる方向で手段と目的が入れ替わっている。",
-    "titleEn": "Democracy, Streamlined: Troops, Vibes, and Screen-Free Emails",
-    "titleJa": "感覚でワクチンを分割し、メールでスクリーンを禁じた国",
+    "thread": "今日の5本を貫く糸：「説明しない」「定義を変える」「感覚で決める」——制度と言葉の信頼が、静かに、組織的に、解体されている一日。",
+    "titleEn": "America Is Running on Vibes: A Tuesday Dispatch",
+    "titleJa": "「感じるから」で大統領令が出る国のニュースを、今朝も読んでしまった",
     "titleAltJa": [
-      "国家警備隊の駐留費「数十億ドル」、でも民主主義は安全です",
-      "あなたの国は大丈夫ですか？ 東京からアメリカニュースを読んで考えたこと"
+      "Amazonは68億ドル企業より正直だった——「あなたのBeautyアイテムが確定しました」",
+      "あなたの国のニュース、今日も理解できませんでした"
     ],
     "monologueEn": {
-      "opener": "Every morning I open American news and think: okay, today will make sense. Hasn't happened yet. Today we've got troops stationed in the capital indefinitely, a vaccine policy based on feelings, nurses picketing outside a hospital that made $6.8 billion, a president explaining FIFA to soccer fans, and a school district banning screens — by email. The theme, if there is one, is that somewhere along the way, every institution forgot what it was originally for.",
+      "opener": "I've been reading American news every morning for years now. And I think I've finally found the theme. Not polarization, not dysfunction. The theme is: nobody's explaining anything anymore. They're just doing it. And calling it an evolution.",
       "beats": [
         {
-          "ref": "d5",
-          "text": "Let's start small, relatively. Los Angeles Unified — second-largest school district in the country — is banning classroom screens starting this semester. New rule, new school year, clean break from digital dependence. The teachers found out through their inboxes. I read that twice. The district sent an email to tell everyone to stop using screens. I'm not saying that makes the policy wrong. I'm just saying nobody noticed."
-        },
-        {
-          "ref": "d4",
-          "text": "Speaking of institutions that forgot their original purpose — soccer. The FIFA World Cup in 2026, held in the U.S., Canada, and Mexico, was the most commercially profitable in the tournament's history. Now there's a global revolt against FIFA president Infantino, and Trump issued a warning: remove him and the Cup 'will never be as profitable.' That's the whole argument. No mention of the sport itself. Not one word. The beautiful game, rendered in pure quarterly earnings. Honest, at least."
-        },
-        {
           "ref": "d2",
-          "text": "Okay, so profits divorced from the people doing the actual work — that brings us to HCA Healthcare. Largest for-profit hospital chain in America. They posted $6.8 billion in profit. While their nurses are outside on the picket line saying they can't cover rent. Six point eight billion. The nurses are outside. Both things are true at the same time, and nobody at the top seems to find that awkward. 'Healthcare.' Two words in there. They've chosen one."
-        },
-        {
-          "ref": "d3",
-          "text": "And then. And then. The president signed an executive order splitting the MMR vaccine — measles, mumps, rubella — into three separate shots instead of one. Reporters asked why. His answer, and I am not embellishing: 'This is based on what I feel.' No studies. No trials. Just the feeling. Somewhere a peer-reviewed journal is lying face-down on its desk. The FDA requires clinical evidence. The Oval Office, it turns out, has a different workflow."
+          "text": "Bumble announced this week that they're removing their famous rule — the one where women have to message first. They've had that rule for twelve years. It was, genuinely, the entire point of Bumble. And now it's gone. They're calling it a 'global evolution to its signature conversation experience.' I read that sentence four times. It means: we're Tinder now. Three hundred words of press release to say we're Tinder now."
         },
         {
           "ref": "d1",
-          "text": "But the story I keep coming back to is D.C. One year ago, the National Guard was deployed to Washington. The nation's capital. And this week it came out that the deployment has been quietly extended — through Inauguration Day 2029. Billions of dollars. Nobody made a big announcement. They just... renewed it. Like a subscription. The world's largest democracy has troops stationed in its own capital through the next election cycle, and the news landed somewhere around page four. If another country did this, we'd have a word for it. We'd use that word a lot."
+          "text": "Speaking of explaining things — or not. Amazon sent customers a confirmation email this week that said, 'Your Beauty item is confirmed!' Not the product name. The category. Amazon, the company that knows your address, your voice, your browsing history from 2019, your estimated household income — that Amazon looked at your order and said: Beauty item. That's as specific as we're going to get. My package arrives Thursday. We'll find out together."
+        },
+        {
+          "ref": "d3",
+          "text": "Okay, different kind of story. HCA Healthcare — largest for-profit hospital system in the US — just reported $6.8 billion in profit. And at the same time, their workers are outside. Picketing. Because they can't make rent. I want to be careful here because this isn't funny, it's just a fact that sits there looking at you. Six-point-eight billion. And the staff is outside. That's not an accident. That's a budget decision."
+        },
+        {
+          "ref": "d4",
+          "text": "And then — look, I did not expect to be talking about FIFA today, but here we are. There is a global revolt inside soccer right now against FIFA president Gianni Infantino, specifically because he's made the sport too commercial. And Trump this week warned that the World Cup will never be as profitable if Infantino goes. So the complaint is: too commercial. The defense is: he's good at commercial. They're not disagreeing about what happened. They just want different outcomes. The president of the United States weighed in on FIFA governance. The president had thoughts."
+        },
+        {
+          "ref": "d5",
+          "text": "And then I got to the last story, and I put my phone down. Trump signed an executive order splitting the MMR vaccine into three separate shots — measles, mumps, rubella, one at a time instead of combined. No scientific evidence supports this change. Public health officials say it could lower vaccination rates. And when someone asked the president what this decision was based on, he said — I'm reading his actual words now — 'This is based on what I feel.' That's it. We have an entire federal agency whose job is to review vaccine safety data. Turns out there's a faster process. It's a feeling. The feeling is now policy."
         }
       ],
-      "closer": "I don't have a punchline for that last one. I just keep thinking about how quietly it happened."
+      "closer": "I came back to Tokyo after a work trip last month and I thought: okay, things feel normal here. Then I read the news. I don't know what normal means anymore. I just know it's not that."
     },
     "monologueJa": {
-      "opener": "毎朝アメリカのニュースを開くたびに思うんです。「今日こそ意味がわかる日だ」って。まだそういう日は来ていない。今日は何があったかというと、首都に軍隊が恒常駐留、感覚でワクチン政策を変更、68億ドル稼いだ病院の外で看護師がピケ、FIFAを収益で語る大統領、そしてスクリーン禁止をメールで通知した学区。共通点があるとすれば、どの組織も「自分が何のためにあるか」を忘れた、ということだと思います。",
+      "opener": "アメリカのニュースを毎朝読んでいて、最近ようやく気づいたことがあります。テーマは分断でも混乱でもない。「誰も説明しなくなった」んです。ただやる。そして「進化」と呼ぶ。今日の5本、全部そうでした。",
       "beats": [
         {
-          "ref": "d5",
-          "text": "まず比較的軽いやつから。ロサンゼルス統一学区——全米第2位の規模の公立学区ですが——が今学期から教室でのスクリーン使用を制限します。コロナ禍でタブレット全面導入を推進したのと同じ学区が「やっぱりやめます」と言っている。先生たちへの通知方法は、メールでした。私、二度読みしました。スクリーンをやめろというお達しを、スクリーンで受け取った。政策の内容が正しいかどうかじゃなくて、誰も気づいていないところが好きです。"
-        },
-        {
-          "ref": "d4",
-          "text": "組織が本来の目的を見失うといえば——サッカーの話も聞いてください。2026年のFIFAワールドカップ（アメリカ・カナダ・メキシコ共催）は史上最高の商業収益を記録しました。で、今、世界中でFIFA会長のインファンティーノ氏への批判が高まっている。そこにトランプ大統領が「彼を追い出せば今後のワールドカップはこれほど稼げない」と警告を出した。それだけです。スポーツへの言及、一言もない。美しいゲーム、四半期決算として語られる。まあ、正直ではあります。"
-        },
-        {
           "ref": "d2",
-          "text": "利益が現場の人に届かない話、続きます。HCAヘルスケア——アメリカ最大の営利病院チェーンです——が68億ドルの利益を計上した。同じ時期に、組合員の看護師や職員が病院の外でピケを張って「賃上げしてくれ、家賃が払えない」と訴えている。68億ドル。外でピケ。両方同時に事実。経営側の誰も「これ、ちょっと変じゃないか」と思っていないように見えるのが、いちばんつらい。「ヘルスケア」って言葉、二つの意味があるんですが、どちらの「ケア」かはわかってきましたね。"
-        },
-        {
-          "ref": "d3",
-          "text": "で。これが今日のメインです。トランプ大統領が大統領令に署名しました。麻疹・おたふく風邪・風疹の混合ワクチン（MMR）を1本でなく3本に分けて接種しろ、という内容です。記者に理由を聞かれた大統領の答えが「自分の感覚に基づいている」。科学的根拠なし、臨床データなし、感覚だけ。世界の製薬産業をリードしてきた国で、ワクチン政策が「なんとなく」で変わる。どこかで査読論文がうつ伏せに倒れています。FDAは承認に臨床試験を要求するんですが、大統領令には別のルートがある、ということが今日わかりました。"
+          "text": "まずBumbleの話から。アメリカのマッチングアプリで、「異性間では女性が先にメッセージを送る」というルールで12年間やってきたサービスです。そのルールが今週廃止されました。廃止の理由は「シグネチャー・カンバセーション・エクスペリエンスのグローバルな進化」だそうで。4回読みました。要するに、「Tinderと同じになった」ということです。12年。ルール1個。発表文300ワード。"
         },
         {
           "ref": "d1",
-          "text": "でも、今日ずっと頭に残っているのはこれです。1年前、国家警備隊（連邦政府が動員できる準軍事組織です）がワシントンD.C.に展開されました。民主主義の首都に、武装した兵士が。で、今週、その展開が次の大統領就任式、つまり2029年まで延長されることが「静かに」決まったと報じられた。費用は数十億ドル。大きなアナウンスはなかった。ストリーミングサービスの自動更新みたいに、誰も止めなかった。他の国の首都でこれが起きたら、私たちはその国のことを何と呼ぶかわかっています。その言葉、今日は出てきませんでした。"
+          "text": "説明しないといえば。Amazonが注文確認メールから商品名を消しました。「あなたのBeautyアイテムが確定しました！」という形で、カテゴリ名だけが届く。あのAmazonですよ。住所も、声も、2019年の閲覧履歴も、全部持っているAmazonが、「あなたが今日買ったものは……Beautyアイテムです」と言ってくる。木曜日に荷物が届くそうです。一緒に確認しましょう。"
+        },
+        {
+          "ref": "d3",
+          "text": "少し話が変わりますが、笑えない話を一個だけ。HCAヘルスケア、アメリカ最大の営利病院グループが、今期68億ドルの利益を出しました。同時に、そこで働く組合員の看護師たちが、今週、病院の外でピケを張っています。家賃が払えないから。68億ドルの利益と、外でピケを張るスタッフ。これは事故ではなく、予算の話です。"
+        },
+        {
+          "ref": "d4",
+          "text": "で、今日FIFAの話が来るとは思っていなかったんですが。サッカーのFIFA会長、ジャンニ・インファンティーノという人物が、世界的な反発を受けています。批判の中身は「商業化しすぎ」。それに対してトランプ大統領が今週「彼を追い出したらワールドカップの収益が落ちる」と警告しました。批判側：商業化しすぎ。擁護側：商業化がうまい。何について話しているかは一致しているんです。結論が違うだけで。アメリカの大統領がFIFAのガバナンスについて言及した。大統領、お気持ちがあったようです。"
+        },
+        {
+          "ref": "d5",
+          "text": "最後の記事を読んで、スマホを置きました。トランプ大統領が、MMRワクチン——麻疹・おたふく・風疹の混合ワクチンです——を、今後は3回に分けて接種させる大統領令に署名しました。科学的根拠はありません。専門家はワクチン接種率が下がると警告しています。この変更の根拠を問われた大統領の言葉が、記録として残っています。「これは自分がそう感じるから」。感じる。アメリカにはワクチンの安全性データを評価するための連邦機関があります。ただ、もっと速いプロセスがあったようです。感覚です。感覚が政策になりました。"
         }
       ],
-      "closer": "最後のやつにオチをつける気になれなくて。静かだったことが、ずっと気になっています。"
+      "closer": "毎朝読んで、毎朝頭を抱えています。別に日本がましだと言いたいわけじゃない。ただ今日のアメリカは、いつもより一段と、説明がなかった。"
     },
     "notesEn": [
-      "LA Unified School District sent teachers an email telling them to stop using screens in class. I genuinely respect the commitment to the bit.",
-      "Trump warned that the FIFA World Cup won't be as profitable if the current president is removed. That was his full argument. No mention of the sport. We live here now.",
-      "HCA Healthcare posted $6.8 billion in profit. Its workers are on picket lines saying they can't cover rent. Both things happened this week. Same company.",
-      "Trump signed an order splitting the MMR vaccine into three separate shots. His stated rationale: 'what I feel.' The FDA has a different process. Turns out it's optional.",
-      "The National Guard has been in Washington, D.C. for a year. The deployment was quietly extended through Inauguration Day 2029. Billions of dollars. Page four news. Fine.",
-      "Every story today involves an institution that forgot what it was originally for. Hospitals that don't take care of workers. Schools banning screens by email. Troops in the capital. It's a theme.",
-      "Someone asked the president why he ordered a change to a decades-old vaccine schedule. He said it was based on what he feels. I closed the article. Then I opened it again. Still there.",
-      "The 2026 World Cup was the most profitable in history. The U.S. president is now vouching for the FIFA leadership based on that profitability. The beautiful game has good branding people."
+      "Amazon knows your address, your voice recordings, and your browsing history from 2019. But your order confirmation now just says 'Your Beauty item is confirmed!' They're protecting your privacy from you.",
+      "Bumble, the app where only women could message first, just eliminated that rule. They're calling it a 'global evolution.' I'd call it twelve years and one pivot. The app is doing great.",
+      "HCA Healthcare reported $6.8 billion in profit this quarter. Their workers are outside picketing for wages they can live on. Both things happened at the same company, at the same time.",
+      "Trump warned that removing FIFA's Gianni Infantino would hurt World Cup profits. The reason people want Infantino gone is that he made it too commercial. The president's defense is that commercial is good, actually. The president had thoughts about FIFA.",
+      "Trump signed an order splitting the MMR vaccine into three separate shots. When asked for the scientific basis, he said: 'This is based on what I feel.' The FDA was not consulted about his feelings.",
+      "Today's American news, in order: a company hid your purchase from you, an app erased its own identity, hospital workers can't pay rent while the company had a record year, a president intervened in soccer governance, and a vaccine schedule was rewritten by a feeling. Normal Tuesday.",
+      "The MMR vaccine schedule was set by decades of clinical research. It was changed by an executive order. The executive order was based on a feeling. These are all true statements about the same morning.",
+      "Bumble's whole thing was: women message first. Now anyone can. They've been Tinder for about a week and I'm sure everyone involved is fine."
     ],
     "xJa": [
-      "ロサンゼルスの学区が「教室でスクリーン禁止」を決定。先生への通知手段はメールでした。誰も気づいていないようです。",
-      "トランプ大統領、FIFAの会長人事に警告。「彼を追い出せばW杯は稼げなくなる」。スポーツへの言及は一切なし。正直ではある。",
-      "米最大の営利病院チェーンが今週68億ドルの利益を計上。同じ週に看護師が外でピケを張って「家賃が払えない」と訴えている。どちらも同じ会社の話です。",
-      "トランプ大統領が麻疹などの混合ワクチンを3本に分けるよう命じる大統領令に署名。科学的根拠を問われた答えが「自分の感覚」。FDAには別のルートがあるようです。",
-      "ワシントンD.C.に国家警備隊が展開されて1年。延長が決まり、次の大統領就任式まで駐留が続く。費用は数十億ドル。大きなニュースにはなりませんでした。",
-      "今日のアメリカニュース5本の共通点：どの組織も「自分が何のためにあるか」を忘れているように見える。病院、学区、首都、国際スポーツ。全部。",
-      "「感覚に基づくワクチン政策」という言葉をニュースで読んで、記事を閉じて、もう一度開きました。まだそこに書いてありました。",
-      "W杯史上最高収益を達成したアメリカが、FIFA会長の去就を「収益性」で語り始めました。美しいゲームの広報担当、今日は忙しかったと思います。"
+      "Amazonが注文確認メールから商品名を削除。代わりに「あなたのBeautyアイテムが確定しました！」と届く。住所も閲覧履歴も全部知っているAmazonが、あなたが買ったものだけ教えてくれない。木曜に荷物が来るので、一緒に確認しましょう。",
+      "「女性が先にメッセージを送る」というルールで12年やってきたマッチングアプリBumbleが、そのルールを廃止。発表文には「シグネチャー・エクスペリエンスのグローバルな進化」とある。要するにTinderと同じになった、を12年かけて言い換えた。",
+      "米最大の営利病院グループHCAヘルスケア、今期の利益は68億ドル。同じ週、同じ会社の看護師たちが病院の外でピケを張っている。家賃が払えないから。68億ドルと、外のピケ。どちらも同じ会社の話。",
+      "FIFAが「商業化しすぎ」として世界から批判されているインファンティーノ会長について、トランプ大統領が「彼を追い出すとワールドカップが儲からなくなる」と警告。批判側も擁護側も、商業化した事実には同意している。結論が違うだけ。",
+      "トランプ大統領、麻疹・おたふく・風疹の混合ワクチン（MMR）を3回に分けて接種させる大統領令に署名。科学的根拠を問われ「自分がそう感じるから」と回答。感覚が政策になった国の話。",
+      "今日のアメリカのニュース：Amazonが商品名を隠す・Bumbleが自分のルールを廃止・病院が68億ドル稼ぎながら従業員がピケ・大統領がFIFAに口出し・ワクチン政策が感覚で決まる。普通の火曜日。",
+      "「これは自分がそう感じるから」——MMRワクチンを3分割する大統領令の根拠として、大統領が述べた言葉です。アメリカにはワクチン安全性を評価する連邦機関があります。今回は使われませんでした。",
+      "Bumble、12年間守ったルールを廃止。アプリの説明には「進化」とある。競合と同じになることを進化と呼ぶなら、進化とはそういうものかもしれない。"
     ],
-    "fullEn": "# Democracy, Streamlined: Troops, Vibes, and Screen-Free Emails\n\nEvery morning I open American news and think: okay, today will make sense. Hasn't happened yet. Today we've got troops stationed in the capital indefinitely, a vaccine policy based on feelings, nurses picketing outside a hospital that made $6.8 billion, a president explaining FIFA to soccer fans, and a school district banning screens — by email. The theme, if there is one, is that somewhere along the way, every institution forgot what it was originally for.\n\nLet's start small, relatively. Los Angeles Unified — second-largest school district in the country — is banning classroom screens starting this semester. New rule, new school year, clean break from digital dependence. The teachers found out through their inboxes. I read that twice. The district sent an email to tell everyone to stop using screens. I'm not saying that makes the policy wrong. I'm just saying nobody noticed.\n\nSpeaking of institutions that forgot their original purpose — soccer. The FIFA World Cup in 2026, held in the U.S., Canada, and Mexico, was the most commercially profitable in the tournament's history. Now there's a global revolt against FIFA president Infantino, and Trump issued a warning: remove him and the Cup 'will never be as profitable.' That's the whole argument. No mention of the sport itself. Not one word. The beautiful game, rendered in pure quarterly earnings. Honest, at least.\n\nOkay, so profits divorced from the people doing the actual work — that brings us to HCA Healthcare. Largest for-profit hospital chain in America. They posted $6.8 billion in profit. While their nurses are outside on the picket line saying they can't cover rent. Six point eight billion. The nurses are outside. Both things are true at the same time, and nobody at the top seems to find that awkward. 'Healthcare.' Two words in there. They've chosen one.\n\nAnd then. And then. The president signed an executive order splitting the MMR vaccine — measles, mumps, rubella — into three separate shots instead of one. Reporters asked why. His answer, and I am not embellishing: 'This is based on what I feel.' No studies. No trials. Just the feeling. Somewhere a peer-reviewed journal is lying face-down on its desk. The FDA requires clinical evidence. The Oval Office, it turns out, has a different workflow.\n\nBut the story I keep coming back to is D.C. One year ago, the National Guard was deployed to Washington. The nation's capital. And this week it came out that the deployment has been quietly extended — through Inauguration Day 2029. Billions of dollars. Nobody made a big announcement. They just... renewed it. Like a subscription. The world's largest democracy has troops stationed in its own capital through the next election cycle, and the news landed somewhere around page four. If another country did this, we'd have a word for it. We'd use that word a lot.\n\nI don't have a punchline for that last one. I just keep thinking about how quietly it happened.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **LA Schools Ban Classroom Screens — Teachers Say the Real Lesson Starts Now** — NPR News ([source](https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools))\n2. **Trump Warns FIFA World Cup Will Suffer If Infantino Is Removed** — CNBC Top News ([source](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html))\n3. **HCA Healthcare Workers Picket for Raises While Company Posts $6.8 Billion in Profit** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest))\n4. **Trump Signs Order to Split MMR Vaccine, Citing 'What I Feel'** — The Guardian US ([source](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts))\n5. **National Guard Deployed to D.C. One Year Ago — Now It's Staying Until 2029** — NPR News ([source](https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump))\n",
-    "fullJa": "# 感覚でワクチンを分割し、メールでスクリーンを禁じた国\n\n毎朝アメリカのニュースを開くたびに思うんです。「今日こそ意味がわかる日だ」って。まだそういう日は来ていない。今日は何があったかというと、首都に軍隊が恒常駐留、感覚でワクチン政策を変更、68億ドル稼いだ病院の外で看護師がピケ、FIFAを収益で語る大統領、そしてスクリーン禁止をメールで通知した学区。共通点があるとすれば、どの組織も「自分が何のためにあるか」を忘れた、ということだと思います。\n\nまず比較的軽いやつから。ロサンゼルス統一学区——全米第2位の規模の公立学区ですが——が今学期から教室でのスクリーン使用を制限します。コロナ禍でタブレット全面導入を推進したのと同じ学区が「やっぱりやめます」と言っている。先生たちへの通知方法は、メールでした。私、二度読みしました。スクリーンをやめろというお達しを、スクリーンで受け取った。政策の内容が正しいかどうかじゃなくて、誰も気づいていないところが好きです。\n\n組織が本来の目的を見失うといえば——サッカーの話も聞いてください。2026年のFIFAワールドカップ（アメリカ・カナダ・メキシコ共催）は史上最高の商業収益を記録しました。で、今、世界中でFIFA会長のインファンティーノ氏への批判が高まっている。そこにトランプ大統領が「彼を追い出せば今後のワールドカップはこれほど稼げない」と警告を出した。それだけです。スポーツへの言及、一言もない。美しいゲーム、四半期決算として語られる。まあ、正直ではあります。\n\n利益が現場の人に届かない話、続きます。HCAヘルスケア——アメリカ最大の営利病院チェーンです——が68億ドルの利益を計上した。同じ時期に、組合員の看護師や職員が病院の外でピケを張って「賃上げしてくれ、家賃が払えない」と訴えている。68億ドル。外でピケ。両方同時に事実。経営側の誰も「これ、ちょっと変じゃないか」と思っていないように見えるのが、いちばんつらい。「ヘルスケア」って言葉、二つの意味があるんですが、どちらの「ケア」かはわかってきましたね。\n\nで。これが今日のメインです。トランプ大統領が大統領令に署名しました。麻疹・おたふく風邪・風疹の混合ワクチン（MMR）を1本でなく3本に分けて接種しろ、という内容です。記者に理由を聞かれた大統領の答えが「自分の感覚に基づいている」。科学的根拠なし、臨床データなし、感覚だけ。世界の製薬産業をリードしてきた国で、ワクチン政策が「なんとなく」で変わる。どこかで査読論文がうつ伏せに倒れています。FDAは承認に臨床試験を要求するんですが、大統領令には別のルートがある、ということが今日わかりました。\n\nでも、今日ずっと頭に残っているのはこれです。1年前、国家警備隊（連邦政府が動員できる準軍事組織です）がワシントンD.C.に展開されました。民主主義の首都に、武装した兵士が。で、今週、その展開が次の大統領就任式、つまり2029年まで延長されることが「静かに」決まったと報じられた。費用は数十億ドル。大きなアナウンスはなかった。ストリーミングサービスの自動更新みたいに、誰も止めなかった。他の国の首都でこれが起きたら、私たちはその国のことを何と呼ぶかわかっています。その言葉、今日は出てきませんでした。\n\n最後のやつにオチをつける気になれなくて。静かだったことが、ずっと気になっています。\n\n---\n\n**今日の5本**（登場順）\n\n1. **LA Schools Ban Classroom Screens — Teachers Say the Real Lesson Starts Now**（NPR News） — 全米第2位の規模を持つロサンゼルス統一学区が新学期から教室でのスクリーン利用を制限する方針を導入。現場の教師からは実施への不安の声が上がっている。 [記事](https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools)\n2. **Trump Warns FIFA World Cup Will Suffer If Infantino Is Removed**（CNBC Top News） — トランプ大統領は、FIFA会長ジャンニ・インファンティーノへの世界的な批判が高まる中、同会長が追われれば今後のワールドカップは「これほど収益を上げられない」と警告した。 [記事](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html)\n3. **HCA Healthcare Workers Picket for Raises While Company Posts $6.8 Billion in Profit**（The Guardian US） — 米最大の営利病院チェーンHCAヘルスケアが68億ドルの利益を計上する一方、組合員の看護師や職員は賃上げと人員増加を求めて全国でピケを張っている。 [記事](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest)\n4. **Trump Signs Order to Split MMR Vaccine, Citing 'What I Feel'**（The Guardian US） — トランプ大統領は、科学的根拠なしに「自分の感覚」に基づくとして、麻疹・おたふく・風疹の混合ワクチン（MMR）を3本に分けて接種するよう求める大統領令に署名した。 [記事](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts)\n5. **National Guard Deployed to D.C. One Year Ago — Now It's Staying Until 2029**（NPR News） — 国家警備隊がワシントンD.C.に展開されてから1年。静かに2029年の就任式まで延長が決まり、費用は数十億ドル規模に上る見込みだ。 [記事](https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump)\n"
+    "fullEn": "# America Is Running on Vibes: A Tuesday Dispatch\n\nI've been reading American news every morning for years now. And I think I've finally found the theme. Not polarization, not dysfunction. The theme is: nobody's explaining anything anymore. They're just doing it. And calling it an evolution.\n\nBumble announced this week that they're removing their famous rule — the one where women have to message first. They've had that rule for twelve years. It was, genuinely, the entire point of Bumble. And now it's gone. They're calling it a 'global evolution to its signature conversation experience.' I read that sentence four times. It means: we're Tinder now. Three hundred words of press release to say we're Tinder now.\n\nSpeaking of explaining things — or not. Amazon sent customers a confirmation email this week that said, 'Your Beauty item is confirmed!' Not the product name. The category. Amazon, the company that knows your address, your voice, your browsing history from 2019, your estimated household income — that Amazon looked at your order and said: Beauty item. That's as specific as we're going to get. My package arrives Thursday. We'll find out together.\n\nOkay, different kind of story. HCA Healthcare — largest for-profit hospital system in the US — just reported $6.8 billion in profit. And at the same time, their workers are outside. Picketing. Because they can't make rent. I want to be careful here because this isn't funny, it's just a fact that sits there looking at you. Six-point-eight billion. And the staff is outside. That's not an accident. That's a budget decision.\n\nAnd then — look, I did not expect to be talking about FIFA today, but here we are. There is a global revolt inside soccer right now against FIFA president Gianni Infantino, specifically because he's made the sport too commercial. And Trump this week warned that the World Cup will never be as profitable if Infantino goes. So the complaint is: too commercial. The defense is: he's good at commercial. They're not disagreeing about what happened. They just want different outcomes. The president of the United States weighed in on FIFA governance. The president had thoughts.\n\nAnd then I got to the last story, and I put my phone down. Trump signed an executive order splitting the MMR vaccine into three separate shots — measles, mumps, rubella, one at a time instead of combined. No scientific evidence supports this change. Public health officials say it could lower vaccination rates. And when someone asked the president what this decision was based on, he said — I'm reading his actual words now — 'This is based on what I feel.' That's it. We have an entire federal agency whose job is to review vaccine safety data. Turns out there's a faster process. It's a feeling. The feeling is now policy.\n\nI came back to Tokyo after a work trip last month and I thought: okay, things feel normal here. Then I read the news. I don't know what normal means anymore. I just know it's not that.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **Bumble Lets Men Make the First Move Now — The One Thing Bumble Was For** — The Verge ([source](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update))\n2. **Amazon Knows You Ordered Something. It Just Won't Say What.** — The Verge ([source](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data))\n3. **HCA Healthcare Made $6.8 Billion in Profit. Its Workers Are Picketing to Pay Rent.** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest))\n4. **Trump Warns FIFA Could Be Less Profitable Without Infantino. FIFA Is Already in Revolt Over Infantino.** — CNBC Top News ([source](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html))\n5. **Trump Signed an Order Splitting the MMR Vaccine. He Said It's Based on What He Feels.** — The Guardian US ([source](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts))\n",
+    "fullJa": "# 「感じるから」で大統領令が出る国のニュースを、今朝も読んでしまった\n\nアメリカのニュースを毎朝読んでいて、最近ようやく気づいたことがあります。テーマは分断でも混乱でもない。「誰も説明しなくなった」んです。ただやる。そして「進化」と呼ぶ。今日の5本、全部そうでした。\n\nまずBumbleの話から。アメリカのマッチングアプリで、「異性間では女性が先にメッセージを送る」というルールで12年間やってきたサービスです。そのルールが今週廃止されました。廃止の理由は「シグネチャー・カンバセーション・エクスペリエンスのグローバルな進化」だそうで。4回読みました。要するに、「Tinderと同じになった」ということです。12年。ルール1個。発表文300ワード。\n\n説明しないといえば。Amazonが注文確認メールから商品名を消しました。「あなたのBeautyアイテムが確定しました！」という形で、カテゴリ名だけが届く。あのAmazonですよ。住所も、声も、2019年の閲覧履歴も、全部持っているAmazonが、「あなたが今日買ったものは……Beautyアイテムです」と言ってくる。木曜日に荷物が届くそうです。一緒に確認しましょう。\n\n少し話が変わりますが、笑えない話を一個だけ。HCAヘルスケア、アメリカ最大の営利病院グループが、今期68億ドルの利益を出しました。同時に、そこで働く組合員の看護師たちが、今週、病院の外でピケを張っています。家賃が払えないから。68億ドルの利益と、外でピケを張るスタッフ。これは事故ではなく、予算の話です。\n\nで、今日FIFAの話が来るとは思っていなかったんですが。サッカーのFIFA会長、ジャンニ・インファンティーノという人物が、世界的な反発を受けています。批判の中身は「商業化しすぎ」。それに対してトランプ大統領が今週「彼を追い出したらワールドカップの収益が落ちる」と警告しました。批判側：商業化しすぎ。擁護側：商業化がうまい。何について話しているかは一致しているんです。結論が違うだけで。アメリカの大統領がFIFAのガバナンスについて言及した。大統領、お気持ちがあったようです。\n\n最後の記事を読んで、スマホを置きました。トランプ大統領が、MMRワクチン——麻疹・おたふく・風疹の混合ワクチンです——を、今後は3回に分けて接種させる大統領令に署名しました。科学的根拠はありません。専門家はワクチン接種率が下がると警告しています。この変更の根拠を問われた大統領の言葉が、記録として残っています。「これは自分がそう感じるから」。感じる。アメリカにはワクチンの安全性データを評価するための連邦機関があります。ただ、もっと速いプロセスがあったようです。感覚です。感覚が政策になりました。\n\n毎朝読んで、毎朝頭を抱えています。別に日本がましだと言いたいわけじゃない。ただ今日のアメリカは、いつもより一段と、説明がなかった。\n\n---\n\n**今日の5本**（登場順）\n\n1. **Bumble Lets Men Make the First Move Now — The One Thing Bumble Was For**（The Verge） — 「女性が先にメッセージを送る」という独自ルールで知られるマッチングアプリBumbleが、そのルールを廃止し、誰でも先にメッセージを送れるようにすると発表した。 [記事](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update)\n2. **Amazon Knows You Ordered Something. It Just Won't Say What.**（The Verge） — Amazonが注文確認メールから商品名を削除し、「あなたのBeautyアイテムが確定しました！」のようにカテゴリ名のみ表示するようになったと顧客が報告している。 [記事](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)\n3. **HCA Healthcare Made $6.8 Billion in Profit. Its Workers Are Picketing to Pay Rent.**（The Guardian US） — 米最大の営利病院グループHCAヘルスケアが68億ドルの利益を報告する一方、同社の組合員労働者たちは賃上げと人員増を求めて全国各地でピケを張っている。 [記事](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest)\n4. **Trump Warns FIFA Could Be Less Profitable Without Infantino. FIFA Is Already in Revolt Over Infantino.**（CNBC Top News） — トランプ大統領は、FIFAのジャンニ・インファンティーノ会長が追放された場合、ワールドカップの収益性が失われると警告した。FIFAは現在、インファンティーノの商業主義的な路線をめぐって世界的な反発を受けている。 [記事](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html)\n5. **Trump Signed an Order Splitting the MMR Vaccine. He Said It's Based on What He Feels.**（The Guardian US） — トランプ大統領は麻疹・おたふく・風疹（MMR）ワクチンを3回に分けて接種させる大統領令に署名した。根拠を問われた大統領は「自分がそう感じるから」と述べており、科学的根拠は存在しない。 [記事](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts)\n",
+    "reviewNotes": "d1のcaptionsJa[4]「月1500円」は元データに無い数字（原文は$14.99/month）なので削除・修正。d4のimagePrompts[2]はFIFA本部建物＋バルコニーで人物の顔が判別できる構図になりかねないため後ろ姿・シルエットに書き直し。d5のimagePrompts[0]に「scientists in lab coats with puzzled expressions」と顔の表情描写があるため顔なし群衆に修正。それ以外は水準を満たしているため変更なし。"
   }
 };
