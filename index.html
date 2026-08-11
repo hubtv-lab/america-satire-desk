@@ -798,6 +798,7 @@ function normalizeEditorial(raw){
       titleEn: String(raw.titleEn || ""),
       titleJa: String(raw.titleJa || ""),
       titleAltJa: (Array.isArray(raw.titleAltJa) ? raw.titleAltJa : []).map(String).filter(Boolean),
+      reviewNotes: String(raw.reviewNotes || ""),
       fullEn:  String(raw.fullEn || ""),
       fullJa:  String(raw.fullJa || ""),
       notesEn: (Array.isArray(raw.notesEn) ? raw.notesEn : []).map(String).filter(Boolean),
@@ -986,6 +987,8 @@ function renderEditorial(){
     </div>
 
     ${EDITORIAL.thread ? `<div class="ed-thread"><b>今日の一本の糸:</b> ${esc(EDITORIAL.thread)}</div>` : ""}
+
+    ${EDITORIAL.reviewNotes ? `<div class="ed-thread" style="border-left-color:var(--coral)"><b>編集長メモ（二段階チェック済み）:</b> ${esc(EDITORIAL.reviewNotes)}</div>` : ""}
 
     <div class="ed-card">
       <h3>📮 Substack draft（英語モノローグ）</h3>
