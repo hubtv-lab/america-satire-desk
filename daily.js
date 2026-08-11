@@ -1,53 +1,53 @@
 window.DAILY_DATA = {
   "version": 1,
   "date": "2026-08-11",
-  "generatedAt": "2026-08-11T11:56:19+00:00",
+  "generatedAt": "2026-08-11T13:07:07+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "HCA Healthcare Posts $6.8B Profit While Workers Hold Picket Signs",
-        "source": "The Guardian US",
+        "headline": "National Guard Deployed to D.C. One Year Ago — Now It's Staying Until 2029",
+        "source": "NPR News",
         "date": "2026-08-11",
-        "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
-        "summary": "米最大の営利病院チェーンHCAヘルスケアが68億ドルの利益を報告する一方、組合員労働者は全国でピケを張り、賃上げと人員増を求めている。"
+        "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
+        "summary": "国家警備隊がワシントンD.C.に展開されてから1年。静かに2029年の就任式まで延長が決まり、費用は数十億ドル規模に上る見込みだ。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「医療」という言葉を冠した企業が、患者の傍らで働くスタッフを生活苦に追い込みながら68億ドルを手にしている。",
-        "<b>滑稽さ:</b> 病院の外でピケを張る看護師たちの横を、救急車が通り過ぎていく光景は、組合活動のポスターよりも雄弁だ。",
-        "<b>日本・海外から見ると:</b> 「営利病院」という概念自体が多くの国では珍しく、利益と医療の質を同じ経営会議で議論する文化は、海外からは奇妙に映る。"
+        "<b>矛盾:</b> 「民主主義の首都」に武装部隊が恒常駐留し、その期間が次の大統領就任式まで延長されるという構図は、守るべきものと手段が逆転している。",
+        "<b>滑稽さ:</b> 延長は「静かに」行われたという——世界最強の軍事国家の首都に軍隊を増派するニュースを、誰も大きく告知しなかった。",
+        "<b>日本・海外から見ると:</b> 他国の首都で同様の展開があれば「軍政への移行」と報じるであろう事態が、アメリカではニュースの端に収まっている。"
       ],
       "imagePrompts": [
-        "A massive glittering skyscraper labeled 'HCA' with a giant digital profit ticker reading '$6.8 BILLION' on its facade, while a line of nurses in scrubs hold picket signs on the sidewalk below in the rain",
-        "A hospital boardroom with suited executives toasting champagne, viewed through a window from outside where workers in scrubs stand holding signs reading 'We Can't Afford Our Own ER Bills'",
-        "A vending machine in a hospital break room labeled 'Employee Benefits' that dispenses only empty bags, next to a poster on the wall showing a record profit graph going straight up"
+        "Armed National Guard soldiers standing at attention in front of the U.S. Capitol building, with a large 'OPEN FOR DEMOCRACY' banner hanging above them, a tourist family posing for a selfie nearby",
+        "A government bureaucrat at a desk quietly sliding a paper labeled 'Deployment Extension — Until 2029' under a very tall stack of other papers, a rubber stamp reading 'NO BIG DEAL' in hand",
+        "A calendar on the wall showing years 2025, 2026, 2027, 2028 all crossed out, with armed soldiers lounging in lawn chairs on the National Mall, reading newspapers, a 'STILL HERE' sign propped against a tank"
       ],
       "captions": [
-        "Six-point-eight billion dollars in profit and they still can't staff the night shift. I've seen better math from a hospital billing department — wait, that's how they got to six-point-eight billion.",
-        "The nurses are outside with signs. The executives are inside with bonuses. Somewhere in between, a patient is waiting three hours to see anyone.",
-        "HCA made $6.8 billion last year. Their workers are on a picket line. I'm not saying those two facts are related — actually, yeah, I am.",
-        "You know your hospital is profitable when the staff can't afford to be a patient there.",
-        "America's largest for-profit hospital chain is having a great year. The people keeping patients alive? Not so much. But sure, let's call it a healthcare system."
+        "They deployed the National Guard to D.C. 'temporarily' — and quietly renewed it like a streaming subscription nobody wanted to cancel.",
+        "Billions of dollars to station troops in the capital through 2029. Democracy is safe, folks. Very, very heavily armed, but safe.",
+        "Other countries militarize their capitals and we call it a coup. We do it and it's just... a Tuesday.",
+        "The extension was announced 'quietly.' Right. Nothing says confident democracy like whispering the part about the guns.",
+        "At what point does a 'temporary' military deployment in your own capital just become... the vibe?"
       ],
       "captionsJa": [
-        "68億ドルの利益を出しながら夜勤の人員も確保できない。病院の請求部門にしては計算が甘い——いや、そのおかげで68億稼いだのか。",
-        "看護師たちは外でプラカードを掲げ、幹部は中でボーナスを受け取る。その間に患者が3時間待っている。",
-        "HCAは昨年68億ドルを稼いだ。従業員はピケライン上にいる。この2つが無関係とは言いたいが——いや、関係大ありだ。",
-        "スタッフが自分の病院に患者として行けない値段設定、それが「営利病院」です。",
-        "米最大の営利病院チェーンは絶好調。患者を生かしている人たちは？　そうでもない。でも一応、医療システムと呼ぶことにしている。"
+        "国家警備隊を「一時的に」D.C.に展開して、いつの間にか誰も解約しないサブスクみたいに更新されていた。",
+        "民主主義を守るために数十億ドルと武装部隊を投入。安全です、みなさん。ものすごく物々しいですが、安全です。",
+        "他国が首都に軍を置いたらクーデターと呼ぶ。アメリカがやると、ただの火曜日。",
+        "延長は「静かに」発表されたそうで。そうですか、銃の話を小声でするのが民主主義の自信ある姿なんですね。",
+        "自国の首都への「臨時」軍展開が4年目に突入したとき、それはもう臨時じゃなくてインテリアでは？"
       ],
-      "newsEn": "HCA Healthcare, the largest for-profit hospital system in the United States, reported $6.8 billion in profits. Despite those figures, unionized employees say they struggle to make ends meet and are staging picket protests at facilities across the country. Workers are demanding higher wages and increased staffing levels.",
+      "newsEn": "One year ago, the National Guard was deployed to Washington, D.C., marking a significant and ongoing presence of armed troops in the nation's capital. The deployment has since been quietly extended through Inauguration Day 2029. The total cost is expected to reach into the billions of dollars. Critics say the prolonged military presence challenges democratic norms in a civilian-governed city.",
       "ironyEn": [
         {
-          "contradiction": "A company with 'Healthcare' in its name generated $6.8 billion in profit while the people doing the actual healthcare can't pay their bills.",
-          "absurdity": "Workers are literally picketing outside hospitals — so if a nurse goes into labor on the picket line, she's already in the right place.",
-          "outside": "In countries with public healthcare systems, the phrase 'for-profit hospital' reads less like a business model and more like a punchline."
+          "contradiction": "The U.S. regularly critiques other nations for deploying military forces in their capital cities. Washington D.C. is now on year two of doing exactly that.",
+          "absurdity": "The extension was handled 'quietly' — as if parking billions of dollars worth of armed troops outside the Lincoln Memorial is the kind of thing you slip into the budget footnotes.",
+          "outside": "Any foreign government that quietly extended a military deployment in its capital through the next election cycle would get a strongly worded State Department press release."
         },
         {
-          "contradiction": "HCA's shareholders got $6.8 billion. The people who change the bedpans got a picket sign.",
-          "absurdity": "The hospital system is so profitable it could give every striking worker a raise and still have enough left over to sponsor a NASCAR team — but here we are.",
-          "outside": "Overseas observers trying to understand American healthcare keep hitting the same wall: the incentive is to bill more, not heal faster."
+          "contradiction": "A democracy stationing troops in its own seat of government until the next inauguration raises the question: who exactly are they guarding it from?",
+          "absurdity": "The cost will run into the billions, which means America is paying more to militarize its democracy than most countries spend on their entire defense budget.",
+          "outside": "From abroad, 'the land of the free' now comes with a year-round military installation in the front yard — and apparently nobody wanted to make a big deal about renewing the lease."
         }
       ],
       "imageSeed": 1,
@@ -57,47 +57,47 @@ window.DAILY_DATA = {
     {
       "id": "d2",
       "news": {
-        "headline": "D.C.'s Armed Troops Quietly Extended — Until 2029 Inauguration Day",
-        "source": "NPR News",
+        "headline": "HCA Healthcare Workers Picket for Raises While Company Posts $6.8 Billion in Profit",
+        "source": "The Guardian US",
         "date": "2026-08-11",
-        "url": "https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump",
-        "summary": "ワシントンDCへの州兵展開から1年が経過し、費用は数十億ドルに上ると見込まれる中、次の大統領就任式にあたる2029年まで静かに延長されていることが明らかになった。"
+        "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
+        "summary": "米最大の営利病院チェーンHCAヘルスケアが68億ドルの利益を計上する一方、組合員の看護師や職員は賃上げと人員増加を求めて全国でピケを張っている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 民主主義の首都を守るための軍事展開が、次の民主的な政権交代の日まで延長されるという、時限設定の妙。",
-        "<b>滑稽さ:</b> 観光客が記念写真を撮る背景に武装兵士が映り込むのが「日常」になったDCは、首都というよりテーマパークの警備風景に近い。",
-        "<b>日本・海外から見ると:</b> 民主主義国家の首都に常設に近い形で軍隊が駐留する光景は、海外では非常事態の象徴と見なされるが、DCでは「静かに」延長された。"
+        "<b>矛盾:</b> 68億ドルの利益を出した病院チェーンで、患者のケアを担う従業員が生活費に困っているという構図は、「ヘルスケア」という言葉の意味を問い直させる。",
+        "<b>滑稽さ:</b> 「人の命を救う」ビジネスが高収益を上げれば上げるほど、その命を救う人々の待遇が改善されない——アメリカ医療の収益構造を象徴する光景だ。",
+        "<b>日本・海外から見ると:</b> 国民皆保険の国々では、病院の「最高益」と「従業員の生活困窮」が同時に報じられる状況自体が理解しがたいだろう。"
       ],
       "imagePrompts": [
-        "A Washington D.C. street scene where tourists take selfies in front of the Capitol while armed National Guard soldiers stand casually in the background as if they are street furniture, pigeons perched on their helmets",
-        "A government calendar on a wall with every month crossed out from 2025 through 2029, with a sticky note reading 'troops still here — will update' next to a photo of smiling soldiers eating at a local diner",
-        "A real estate listing board in front of a D.C. apartment building advertising 'Military Neighbors — Built-In Security!' with soldiers visible through the window playing cards in the lobby"
+        "Nurses in scrubs holding picket signs outside a gleaming hospital entrance, while a giant banner above the hospital door reads 'RECORD PROFITS — $6.8 BILLION', a limousine pulling up to the executive entrance on the opposite side of the building",
+        "A hospital break room with a small folding table where a nurse eats a sad vending machine sandwich, a framed poster on the wall behind her showing a champagne toast labeled 'Q2 EARNINGS CELEBRATION'",
+        "A graph on a whiteboard showing 'PROFITS' as a skyscraper-tall bar and 'WORKER WAGES' as a nearly flat line barely visible at the bottom, a doctor and nurse staring at it with coffee cups in hand"
       ],
       "captions": [
-        "The troops have been in D.C. for a year and the extension runs to 2029 — so they'll be there for the next inauguration whether or not anyone invites them.",
-        "Thousands of armed soldiers are now so normal in D.C. that local baristas know their orders. That's not security. That's a roommate situation.",
-        "'Quietly extended.' They spent billions of dollars and didn't mention it loudly. Somewhere a Pentagon PR person deserves a raise — oh wait, the nurses are on strike.",
-        "One year in, the National Guard is part of D.C. life. Two years in, they'll be in the neighborhood Facebook group complaining about parking.",
-        "Most cities add a bike lane or a coffee shop. D.C. added a permanent military presence and called it a Tuesday."
+        "$6.8 billion in profit and the nurses are outside with signs. The hospital is great at keeping people alive — just not the ones who work there.",
+        "HCA Healthcare: record earnings, staff who can't make rent. Turns out 'healthcare' was always about which half of that word you emphasize.",
+        "They call it a for-profit hospital system. The nurses picketing out front are starting to understand which part of that description applies to them.",
+        "Somewhere there's a CEO presentation slide that has '$6.8B profit' and 'staffing concerns' on the same page and it's labeled 'opportunities for optimization.'",
+        "What's the co-pay for irony? Asking for 10,000 underpaid nurses."
       ],
       "captionsJa": [
-        "州兵は1年DCにいて、2029年まで延長された。次の就任式まで居続けるわけだ——招待されたかどうかに関係なく。",
-        "武装した兵士数千人がDCの日常になりすぎて、地元のバリスタが注文を覚えた。これはもはや警備ではなく、同居人だ。",
-        "「静かに延長」。数十億ドルを使って、あまり大声で言わなかった。どこかのPR担当者は昇給に値する——あ、看護師はストライキ中だったか。",
-        "1年目、州兵はDCの日常になった。2年目には、近所のFacebookグループで駐車場の文句を言い始めるだろう。",
-        "ほとんどの都市は自転車レーンかカフェを増やす。DCは常設に近い軍の駐留を追加して、それを火曜日と呼んだ。"
+        "68億ドルの利益を出して、看護師は外でプラカードを掲げている。病院は人を生かすのが得意——ただし、そこで働く人は除く。",
+        "HCAヘルスケア：記録的な黒字、家賃も払えないスタッフ。「ヘルスケア」のどちらの単語が自分たちに当てはまるか、従業員は気づき始めている。",
+        "「営利病院」というシステムで、ピケを張る看護師たちはついに自分たちへの適用条件を理解した。",
+        "どこかのCEOプレゼンには「68億ドル黒字」と「人員不足の懸念」が同じスライドに並んでいて、「成長機会」というタイトルが付いている。",
+        "皮肉の自己負担額はいくらですか？1万人の低賃金看護師を代表してお聞きします。"
       ],
-      "newsEn": "One year ago, National Guard troops were deployed to Washington, D.C. The deployment has since been quietly extended through Inauguration Day of 2029. The total cost is expected to run into the billions of dollars. Thousands of armed troops have become a routine part of daily life in the nation's capital.",
+      "newsEn": "HCA Healthcare, the largest for-profit hospital system in the United States, reported $6.8 billion in profits while its union workers are staging picket protests across the country. Employees say they are struggling to make ends meet and are pushing for higher pay and increased staffing levels. The company simultaneously posted record earnings while workers describe conditions that make it difficult to cover basic living expenses.",
       "ironyEn": [
         {
-          "contradiction": "Troops deployed to protect democracy are now staying until the next time democracy hands power to someone else.",
-          "absurdity": "D.C. tourists now have to explain to their kids why the Lincoln Memorial has a military checkpoint. 'It's just normal, honey.'",
-          "outside": "Most democracies reserve the word 'deployment' for somewhere abroad. America's capital now uses it for itself, quietly, in a footnote."
+          "contradiction": "A company called HCA Healthcare posted $6.8 billion in profit while the people providing the actual healthcare say they can't pay their bills.",
+          "absurdity": "Picket lines outside hospitals — the workers who stop bleeding are out front holding signs because they can't stop their own bank accounts from doing the same.",
+          "outside": "In countries with public healthcare systems, a hospital chain announcing record profits while nurses strike would be treated as a scandal. Here it's treated as a quarterly earnings report."
         },
         {
-          "contradiction": "The extension was done quietly — which is a remarkable adjective to attach to billons of dollars and thousands of armed soldiers.",
-          "absurdity": "At this point the troops have been there long enough to have a favorite coffee shop, a gym routine, and strong opinions about D.C. brunch spots.",
-          "outside": "Foreign diplomats visiting the capital of the free world now walk past armed patrols to get to their meetings about the importance of open societies."
+          "contradiction": "The more efficiently HCA extracts money from sick people, the less it apparently needs to pay the staff doing the extracting.",
+          "absurdity": "$6.8 billion profit. Workers struggling to make ends meet. Somewhere in a boardroom, both of those numbers are in the same PowerPoint and nobody blinked.",
+          "outside": "Foreign observers trying to understand American healthcare often ask how a $6.8 billion profit hospital system works. The picket line outside is part of the answer."
         }
       ],
       "imageSeed": 2,
@@ -107,47 +107,47 @@ window.DAILY_DATA = {
     {
       "id": "d3",
       "news": {
-        "headline": "Trump Signs Order to Split MMR Vaccine — Based on 'What I Feel'",
+        "headline": "Trump Signs Order to Split MMR Vaccine, Citing 'What I Feel'",
         "source": "The Guardian US",
         "date": "2026-08-11",
         "url": "https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts",
-        "summary": "トランプ大統領は、科学的根拠がないにもかかわらず「自分がそう感じるから」という理由で、MMRワクチンを3回に分けて接種するよう求める大統領令に署名した。"
+        "summary": "トランプ大統領は、科学的根拠なしに「自分の感覚」に基づくとして、麻疹・おたふく・風疹の混合ワクチン（MMR）を3本に分けて接種するよう求める大統領令に署名した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「感情に基づく」と大統領自身が認めた医療政策が、専門家の科学的コンセンサスを上書きする形で大統領令として署名された。",
-        "<b>滑稽さ:</b> 医師が「エビデンスに基づく医療」を実践する一方で、大統領が「フィーリングに基づく医療」を法令化するという構図は、医学教育の教科書の反面教師ページに載せられそうだ。",
-        "<b>日本・海外から見ると:</b> 麻疹の再流行を懸念する国々にとって、世界最大の経済大国のワクチン政策が「感じ」で決まるというニュースは、笑えない皮肉として響く。"
+        "<b>矛盾:</b> 世界最大の医薬品産業を抱える国の大統領が、ワクチン政策の根拠として「感覚」を挙げた——科学立国アメリカの自己像との乖離は相当に大きい。",
+        "<b>滑稽さ:</b> 数十年の臨床データを持つワクチンに対し、「なんとなく」という理由で大統領令が出せる制度設計が問われている。",
+        "<b>日本・海外から見ると:</b> ワクチン接種率の低下と麻疹の再流行を経験してきた国々から見れば、感情で公衆衛生政策を変更するという発想自体が驚異だろう。"
       ],
       "imagePrompts": [
-        "A presidential desk with a stethoscope draped over a large executive order document, signed with a flourish, while medical textbooks labeled 'Clinical Evidence' are stacked in a recycling bin nearby",
-        "A doctor's office chart on the wall showing the normal MMR vaccine schedule crossed out and replaced with a hand-drawn doodle labeled 'vibes-based schedule,' with a sticky note reading 'per executive order'",
-        "Three separate syringes labeled 'M,' 'M,' and 'R' lined up on a tray, each with a tiny presidential seal sticker on it, while a single combined syringe sits unused in the corner with a 'CANCELLED' stamp on it"
+        "A doctor holding three separate syringes labeled 'M,' 'M,' and 'R' standing next to an official-looking podium, a large framed document behind him titled 'EXECUTIVE ORDER — BASED ON FEELINGS' with a gold seal",
+        "A scientist in a laboratory surrounded by binders labeled 'CLINICAL TRIALS,' 'PEER REVIEW,' and 'DECADES OF DATA,' staring at a single sticky note on the wall that reads 'but what does he FEEL tho'",
+        "A waiting room at a pediatrician's office with a sign on the wall reading 'VACCINES: NOW IN THREE CONVENIENT TRIPS,' a long line of parents with toddlers stretching out the door and around the block"
       ],
       "captions": [
-        "He signed a vaccine order 'based on what I feel.' I feel like that should require a second opinion. Maybe a third. One for each shot.",
-        "No evidence MMR causes autism. No evidence splitting it helps. One executive order. Feelings: 1, peer-reviewed research: 0.",
-        "Kids are getting three shots instead of one because the president had a feeling. My dentist also had a feeling once — but he still took the X-ray.",
-        "The FDA needs years of data. The Oval Office apparently just needs a Tuesday afternoon and a gut check.",
-        "Somewhere a medical researcher spent a decade proving the MMR vaccine is safe. Somewhere else, a pen signed an order that disagreed. The pen won."
+        "The president signed an order splitting the MMR vaccine, citing 'what I feel.' The FDA requires clinical trials. Turns out there's a workaround.",
+        "Three shots instead of one — the deregulation president just added two extra doctor's appointments to every child's vaccination schedule. Streamlined.",
+        "No evidence, no studies, just vibes. Somewhere a peer-reviewed journal is having an existential crisis.",
+        "The MMR vaccine has worked for 60 years. 'Yeah, but have you considered my gut?' — official U.S. health policy, 2026.",
+        "We asked the science. Science said keep it one shot. We asked the president's feelings. Feelings said three. Feelings won."
       ],
       "captionsJa": [
-        "「自分がそう感じるから」という理由でワクチン政策に署名した。私も再考を求める気持ちがある——3回分の気持ちくらい。",
-        "MMRがASDを引き起こす根拠なし。分割接種の利点の根拠なし。大統領令は1本。感情：1、査読済み研究：0。",
-        "大統領の「感覚」で子供は3回注射を打つことになった。私のかかりつけ医も感覚を持っているが、それでもレントゲンを撮る。",
-        "FDAはデータに何年も費やす。大統領官邸が必要なのは、火曜の午後と直感だけらしい。",
-        "どこかで研究者がMMRワクチンの安全性を10年かけて証明した。別の場所でペンが1本、それに反論した。ペンが勝った。"
+        "大統領はMMRワクチンを分割する大統領令に署名し、根拠として「自分の感覚」を挙げた。FDAは臨床試験を要求する。どうやら抜け道があったらしい。",
+        "1回の接種を3回に分割——規制緩和の大統領が、子どものワクチンスケジュールに予約を2回追加した。効率化。",
+        "エビデンスなし、研究なし、あるのは感覚だけ。どこかで査読雑誌がアイデンティティの危機を迎えている。",
+        "MMRワクチンは60年間機能してきた。「でも俺の直感は？」——これが2026年の米国公衆衛生政策の公式見解です。",
+        "科学に聞いたら「1回でいい」と言った。大統領の感覚に聞いたら「3回」と言った。感覚が勝った。"
       ],
-      "newsEn": "President Trump signed an executive order calling for the measles, mumps, and rubella (MMR) vaccine to be administered as three separate shots rather than one combined dose. When asked about the scientific basis for the decision, Trump previously stated, 'This is based on what I feel.' Health experts say there is no evidence that vaccines cause autism or that splitting the MMR shot is medically beneficial.",
+      "newsEn": "President Trump signed an executive order directing that the MMR vaccine — which protects against measles, mumps, and rubella — be administered as three separate shots rather than one combined dose. When asked about the rationale last September, Trump stated, 'This is based on what I feel.' Medical and public health experts say there is no scientific evidence supporting the change, and warn the order could reduce vaccination rates and increase disease risk.",
       "ironyEn": [
         {
-          "contradiction": "The president signed a medical policy order and cited his feelings as the evidence. The FDA requires years of clinical trials. Feelings: apparently faster.",
-          "absurdity": "Splitting one shot into three doesn't make vaccines safer — it does mean kids get poked three times, which feels worse by any measure, including feelings.",
-          "outside": "Countries fighting measles outbreaks watched the U.S. revise its vaccine schedule based on vibes. That's the kind of foreign policy no one asked for."
+          "contradiction": "The United States, home to the CDC and the world's largest pharmaceutical industry, just issued a vaccine policy based on the president's feelings.",
+          "absurdity": "The MMR vaccine has decades of safety data. The executive order has one source: vibes.",
+          "outside": "Countries that have spent years trying to rebuild vaccination trust after measles outbreaks are watching the U.S. voluntarily introduce friction into a working system — because it felt right."
         },
         {
-          "contradiction": "There is no scientific evidence linking the MMR vaccine to autism. There is now a presidential order based on a feeling that there might be.",
-          "absurdity": "If feelings count as medical evidence, a lot of people who 'felt fine' before their colonoscopy would like a policy review.",
-          "outside": "The WHO recommends the MMR combined vaccine. The U.S. president recommends checking in with his gut first."
+          "contradiction": "No scientific body supports splitting the MMR shot. The president's supporting citation is 'what I feel,' which is not yet peer-reviewed.",
+          "absurdity": "Three separate appointments instead of one. The anti-bureaucracy administration just tripled the bureaucracy of getting vaccinated.",
+          "outside": "The WHO recommends the combined MMR vaccine. The U.S. president recommends checking his gut. These are now the two competing sources of public health guidance."
         }
       ],
       "imageSeed": 3,
@@ -157,47 +157,47 @@ window.DAILY_DATA = {
     {
       "id": "d4",
       "news": {
-        "headline": "L.A. Schools Ban Screens in Class — The Nation's Second-Largest District Tries Going Cold Turkey",
-        "source": "NPR News",
+        "headline": "Trump Warns FIFA World Cup Will Suffer If Infantino Is Removed",
+        "source": "CNBC Top News",
         "date": "2026-08-11",
-        "url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
-        "summary": "米国第2の規模を誇るロサンゼルス統一学区が新学年から教室でのスクリーン使用を制限する方針を導入し、教師たちは対応への難しさを認めている。"
+        "url": "https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
+        "summary": "トランプ大統領は、FIFA会長ジャンニ・インファンティーノへの世界的な批判が高まる中、同会長が追われれば今後のワールドカップは「これほど収益を上げられない」と警告した。"
       },
       "commentary": [
-        "<b>矛盾:</b> デジタルネイティブ世代を育ててきた教育システムが、今度は同じ子供たちから画面を取り上げようとしており、その実行部隊は「難しい」と首を傾げている。",
-        "<b>滑稽さ:</b> Chromebookで授業をしてきた先生たちが、その同じChromebookを封印するよう言われた初日の表情が目に浮かぶ。",
-        "<b>日本・海外から見ると:</b> 日本でもスマホと学習の関係が議論されるが、LAの規模（生徒数約40万人）でのデジタルデトックスは、社会実験としての規模が別次元だ。"
+        "<b>矛盾:</b> 一国の大統領が国際スポーツ組織の内部人事について「収益性」を根拠に口を出すという構図は、スポーツの独立性という建前を正面から崩している。",
+        "<b>滑稽さ:</b> ワールドカップの「純粋なスポーツ精神」を守ることへの言及は一切なく、会長の去就が収益に与える影響だけが論拠となっている。",
+        "<b>日本・海外から見ると:</b> 欧州や南米のサッカーファンにとって、アメリカの大統領がFIFA会長の椅子をビジネス問題として語る光景は、2026年大会そのものへの皮肉な後日談に映るだろう。"
       ],
       "imagePrompts": [
-        "A classroom where a teacher stands at a blackboard covered in chalk writing while 30 students stare blankly at their empty desks, each with a faint rectangle outline where a laptop used to sit, all looking slightly lost",
-        "A school supply closet overflowing with Chromebooks stacked to the ceiling with a handwritten sign taped to the door reading 'DO NOT USE — NEW POLICY,' while a single box of pencils sits alone on an otherwise empty shelf",
-        "A teacher standing at the front of a classroom holding a physical textbook like it's an ancient artifact, with students leaning in to look at it with curiosity, one kid poking it to see if it has a touchscreen"
+        "A soccer field where the goal posts have been replaced with giant dollar signs, a suited figure holding a golden World Cup trophy in one hand and a bar chart of revenue in the other, a presidential podium visible in the background",
+        "A boardroom with a banner reading 'FIFA ANNUAL MEETING' where all the chairs around the table are filled with men in suits, but one chair has a small American flag planted in it and a nameplate reading 'NOT A MEMBER BUT HEARD'",
+        "A referee holding up a red card labeled 'OUST INFANTINO,' a large hand in a suit sleeve reaching in from off-frame to intercept the card mid-air, a crowd of soccer fans in the background looking confused"
       ],
       "captions": [
-        "L.A. schools spent years going all-digital. Now they're banning screens. Somewhere there's a warehouse full of Chromebooks having an existential crisis.",
-        "Teachers say the screen ban will be a difficult adjustment. For context, these are the same teachers who used YouTube to explain fractions.",
-        "The second-largest school district in the country banned classroom screens. The kids will have to learn the old-fashioned way — by looking stuff up on their phones under the desk.",
-        "No more screens in L.A. classrooms. Apparently the plan is for students to just... listen. Wild concept. We're calling it 'audio learning.'",
-        "They gave every kid a Chromebook. Then they said put it away. That's not education policy — that's a hostage negotiation."
+        "Trump's case for keeping the FIFA president: he's profitable. The beautiful game has found its most honest press release.",
+        "The U.S. prosecuted FIFA officials for corruption in 2015. In 2026, the U.S. president is vouching for the guy running FIFA. Character development.",
+        "FIFA's independence from national governments is a cornerstone of international soccer. So anyway, here's what the American president thinks you should do with your leadership structure.",
+        "The World Cup ended, the money was counted, and the verdict from Washington was: whoever did that should definitely keep their job.",
+        "Sports and politics should stay separate — but not if it's going to hurt the numbers. That's just business."
       ],
       "captionsJa": [
-        "LAの学校は何年もかけてデジタル化を進めた。そして今、スクリーンを禁止した。どこかにChromebookの倉庫があって、実存的危機に陥っている。",
-        "先生たちはスクリーン禁止に「難しい対応」を迫られると言う。ちなみに、分数をYouTubeで教えていたのも同じ先生たちだ。",
-        "全米第2位の学区が教室でのスクリーンを禁止した。子供たちはきっと昔ながらの方法で学ぶ——机の下でこっそりスマホを見ながら。",
-        "LAの教室からスクリーンが消えた。生徒たちはただ……聞くことになるらしい。斬新なコンセプト。「音声学習」と呼ぶことにしよう。",
-        "全員にChromebookを渡した。次の年に「しまえ」と言った。これは教育政策じゃない、人質交渉だ。"
+        "トランプ大統領のFIFA会長擁護の論拠：「収益性が高いから」。「美しきゲーム」は史上最も正直なプレスリリースを手に入れた。",
+        "2015年にアメリカはFIFA幹部を汚職で訴追した。2026年にはアメリカ大統領がFIFA会長の保証人になっている。成長を感じる。",
+        "国際サッカー連盟が各国政府から独立していることは大原則だ。というわけで、アメリカ大統領からFIFAの人事についてひと言。",
+        "ワールドカップが終わり、売上が集計され、ワシントンの結論は「あれをやった人はそのままでいい」だった。",
+        "スポーツと政治は混ぜてはいけない——ただし数字に影響が出る場合を除く。それはビジネスの話だから。"
       ],
-      "newsEn": "Los Angeles Unified School District, the second-largest school district in the United States, is implementing new limits on classroom screen time as the new school year begins. The policy applies to the use of phones and other screens during school hours. Some teachers say adjusting to the change will be difficult, as digital tools have become deeply integrated into daily instruction.",
+      "newsEn": "President Trump issued a warning that the FIFA World Cup 'will never be as profitable' if FIFA President Gianni Infantino is removed from his position. This comes amid a growing global revolt against Infantino's leadership and his aggressive commercialization of the sport. The 2026 World Cup, held in the U.S., Canada, and Mexico, was the largest and most commercially profitable in the tournament's history. Trump's comments were seen as an endorsement of Infantino's business-driven approach to international soccer.",
       "ironyEn": [
         {
-          "contradiction": "A school district that spent years handing Chromebooks to every student is now telling teachers to put the screens away. The hardware budget didn't get that memo.",
-          "absurdity": "Some teachers say the transition will be hard — which is fair, since 'turn off the screen' is now apparently the most disruptive thing you can do in a classroom.",
-          "outside": "Countries that never fully digitized their classrooms are watching L.A. reverse-engineer the same conclusion they reached years ago, at significantly greater expense."
+          "contradiction": "The argument for keeping FIFA's president is not integrity, fairness, or the love of the game — it's that he's really good for the profit margin.",
+          "absurdity": "A sitting U.S. president issued a statement about the internal governance of a Swiss-based international soccer federation, and the argument was basically: he makes us money.",
+          "outside": "Football fans in Brazil and Germany spent decades watching FIFA corruption scandals unfold. Now the U.S. president has weighed in — to defend the revenue model."
         },
         {
-          "contradiction": "The second-largest school district in America is banning screens in classrooms that were built, staffed, and budgeted around screens.",
-          "absurdity": "Students who learned to read on tablets are now being handed — presumably — paper. Teachers who taught via YouTube are now being told to, what, talk?",
-          "outside": "Finland and South Korea are somewhere nodding slowly, not saying 'we told you so,' but definitely thinking it."
+          "contradiction": "International soccer's global governing body is supposed to be independent of national governments. The American president would like to register his preference anyway.",
+          "absurdity": "The World Cup just ended. The ink on the receipts is barely dry. And the official U.S. position is: whoever ran that cash register should stay.",
+          "outside": "FIFA has long faced corruption allegations. The U.S. once prosecuted FIFA officials. Now the U.S. president is their character witness — on financial grounds."
         }
       ],
       "imageSeed": 4,
@@ -207,47 +207,47 @@ window.DAILY_DATA = {
     {
       "id": "d5",
       "news": {
-        "headline": "Trump Warns FIFA Will Suffer If It Ousts Infantino — Soccer World Revolts Anyway",
-        "source": "CNBC Top News",
+        "headline": "LA Schools Ban Classroom Screens — Teachers Say the Real Lesson Starts Now",
+        "source": "NPR News",
         "date": "2026-08-11",
-        "url": "https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html",
-        "summary": "トランプ大統領は、FIFAがジャンニ・インファンティノ会長を追放すれば「ワールドカップはこれほど儲からなくなる」と警告したが、世界の サッカー界ではインファンティノ体制への反発が高まっている。"
+        "url": "https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools",
+        "summary": "全米第2位の規模を持つロサンゼルス統一学区が新学期から教室でのスクリーン利用を制限する方針を導入。現場の教師からは実施への不安の声が上がっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> アメリカの大統領が、国際サッカー連盟の内部政治に介入し、「収益性」を守護する立場から会長の留任を求めるという、スポーツ外交の新ジャンル。",
-        "<b>滑稽さ:</b> 世界でもっともサッカー人気が低かった国の大統領が、世界でもっとも人気のスポーツの組織運営について収益性の観点からアドバイスしている。",
-        "<b>日本・海外から見ると:</b> 欧州や南米のサッカーファンにとって、アメリカの大統領がFIFAの人事に「儲かる・儲からない」で口を出す絵は、驚きと苦笑いの両方を誘う。"
+        "<b>矛盾:</b> コロナ禍でタブレットやデジタルツールへの全面移行を推進したのと同じ公教育の現場が、今度は「スクリーンを減らせ」と指示している——方向転換のスピードが政策の一貫性への不信感を生む。",
+        "<b>滑稽さ:</b> スクリーンなしで教えろと言われた教師の多くは、その指示をメールで受け取った。",
+        "<b>日本・海外から見ると:</b> 「EdTech先進国」として世界に売り込んできたアメリカの教育産業が、自国の公立学校から「やっぱりやめます」と言われている構図は興味深い。"
       ],
       "imagePrompts": [
-        "A soccer field where a referee in a suit holds up a giant golden dollar sign instead of a yellow card, while players from multiple national teams look on in confusion, with a scoreboard reading 'PROFIT vs SPORT'",
-        "A grand FIFA boardroom with a large screen showing a bar graph labeled 'Revenue' going to the ceiling, while tiny flags from dozens of nations are arranged in protest outside the window below",
-        "A presidential podium with a soccer ball on it instead of a microphone, surrounded by confused foreign diplomats in soccer jerseys holding clipboards labeled 'FIFA Governance Reform'"
+        "A classroom where all the smartboards and tablets are covered with black cloth, a teacher standing at a chalkboard with chalk dust on their hands looking slightly lost, a room full of students all secretly looking at their phones under their desks",
+        "A school supply closet overflowing with laptops, tablets, and projectors with a large padlock on the door and a sign reading 'DO NOT USE — NEW POLICY,' a sticky note underneath saying 'we bought these last year'",
+        "A professional development seminar room with a banner reading 'GOING SCREEN-FREE: A WORKSHOP' where every attendee is taking notes on a laptop and the presenter is using a PowerPoint displayed on a large screen"
       ],
       "captions": [
-        "The U.S. president is defending FIFA's leadership on profitability grounds. FIFA. The organization with its own corruption documentary on Netflix.",
-        "Trump says the World Cup won't be as profitable without Infantino. The global soccer revolt says they'll take that deal.",
-        "A country where soccer is the fifth most popular sport is now explaining to the other 194 countries how their soccer organization should be run. Brave.",
-        "FIFA had a record-profitable World Cup in the U.S. Now the U.S. president wants Infantino to stay. Follow the money. It's not hard.",
-        "The world's most corrupt sports body is being defended on financial efficiency grounds. By a president. At a press conference. In 2026. Sure."
+        "LA schools are going screen-free. Teachers were informed via email. The irony is doing great, thanks for asking.",
+        "We gave every kid a tablet in 2020. We're taking away the smartboard in 2026. Somewhere there's a lesson plan about this — we just can't display it anymore.",
+        "The second-largest school district in America decided screens are the problem. Every student in that district has a phone. Seems airtight.",
+        "Teachers say cutting screens will be 'a difficult adjustment.' Students say nothing, because they've already found the workaround. It's in their pocket.",
+        "LA unified is going analog — a bold move in the city that gave us Hollywood, Silicon Beach, and the iPhone store on every corner."
       ],
       "captionsJa": [
-        "米大統領がFIFAの指導部を「収益性」の観点から擁護している。そのFIFA、Netflixに汚職のドキュメンタリーがある組織だ。",
-        "トランプは「インファンティノがいなければワールドカップは儲からない」と言った。世界のサッカー界の反乱は「それで構わない」と答えている。",
-        "サッカー人気が全米5位以下の国が、他の194カ国にサッカー組織の運営方法を説いている。度胸だけは一流だ。",
-        "アメリカでワールドカップが開催されて記録的な利益を出した。次に米大統領がインファンティノの留任を求めた。お金の流れを追えばいい、難しくない。",
-        "世界でもっとも汚職で名高いスポーツ団体が、財務効率の観点から大統領に擁護されている。2026年の記者会見で。そうか。"
+        "LAの学校がスクリーン禁止に。教師への通達はメールで届いた。皮肉の方は元気にやっています。",
+        "2020年に全員にタブレットを配って、2026年にスマートボードを撤去する。このことについての授業計画があるはずだが、もう表示できない。",
+        "全米第2位の学区がスクリーンを問題と断定した。その学区の全生徒はスマートフォンを持っている。完璧な論理だ。",
+        "教師は「難しい移行になる」と言う。生徒は何も言わない。すでにポケットの中に解決策があるから。",
+        "LAがアナログ回帰——ハリウッドとシリコンビーチとiPhoneショップが並ぶ街でのなかなか大胆な判断です。"
       ],
-      "newsEn": "President Trump warned that the FIFA World Cup 'will never be as profitable' if FIFA president Gianni Infantino is removed from his position. Infantino led FIFA's commercialization push, which resulted in the largest and most financially successful World Cup on record. A global revolt among soccer officials and national federations has been building against Infantino's leadership.",
+      "newsEn": "Los Angeles Unified School District, the second-largest school district in the United States, is beginning the new school year with significant new limits on classroom screen time. The policy affects how teachers use devices and digital tools during lessons. Many teachers say the transition will be a difficult adjustment, as instruction over the past several years has increasingly relied on screens and digital platforms. The district serves hundreds of thousands of students across the Los Angeles area.",
       "ironyEn": [
         {
-          "contradiction": "The president of a country where soccer ranks below cornhole in TV ratings is warning the world's most popular sport that it'll lose money without the right leadership.",
-          "absurdity": "Trump's argument for keeping Infantino is basically 'he makes a lot of money' — which, for FIFA, is historically where the legal problems start.",
-          "outside": "In Brazil and Germany, where soccer is a religion, the idea that an American president is weighing in on FIFA governance landed somewhere between baffling and genuinely offensive."
+          "contradiction": "American schools spent the pandemic urgently putting screens in front of every student. The same institutions are now urgently taking them away.",
+          "absurdity": "Teachers were notified of the new no-screen policy — by email. On their computers. Presumably while sitting in front of a screen.",
+          "outside": "The U.S. EdTech industry has spent years selling the world on digital classrooms. The second-largest school district in America just put up a 'closed' sign on the concept."
         },
         {
-          "contradiction": "FIFA is facing a global revolt over its leadership, and the U.S. president's response is to advocate for the status quo on profitability grounds.",
-          "absurdity": "The most profitable World Cup ever was also the one held in the U.S., which is either a coincidence or a very good reason for Trump to have opinions about FIFA.",
-          "outside": "The rest of the world spent decades watching FIFA corruption scandals unfold. Now an American president is arguing the profitable guy should stay. The irony has layers."
+          "contradiction": "The policy asks teachers to stop relying on the tools their training, curriculum, and last three years of professional development told them to use.",
+          "absurdity": "In a city where every teenager has a supercomputer in their pocket, the school district's big innovation for 2026 is: fewer screens. The kids can check TikTok on the bus.",
+          "outside": "Countries still struggling to get enough devices into classrooms are watching LA decide that screens were actually the problem all along."
         }
       ],
       "imageSeed": 5,
@@ -256,76 +256,86 @@ window.DAILY_DATA = {
     }
   ],
   "editorial": {
-    "thread": "一本の糸：「感じ」と「儲け」で動くアメリカ——科学も、民主主義も、スポーツも、全部ヴァイブスで決まる一日。",
-    "titleEn": "America Runs on Vibes (and $6.8 Billion)",
-    "titleJa": "今日のアメリカ：感じと儲けで全部決まる国",
+    "thread": "「民主主義の首都に軍隊」「感覚で決めるワクチン政策」「病院が儲かるほど看護師が貧しくなる」「FIFAを収益で語る大統領」「スクリーンをメールで禁止した学区」——今日のアメリカは、あらゆる方向で手段と目的が入れ替わっている。",
+    "titleEn": "Democracy, Streamlined: Troops, Vibes, and Screen-Free Emails",
+    "titleJa": "感覚でワクチンを分割し、メールでスクリーンを禁じた国",
+    "titleAltJa": [
+      "国家警備隊の駐留費「数十億ドル」、でも民主主義は安全です",
+      "あなたの国は大丈夫ですか？ 東京からアメリカニュースを読んで考えたこと"
+    ],
     "monologueEn": {
-      "opener": "I read five American news stories this morning. Five. And every single one of them could be summarized with the same sentence: 'We made a decision and we're not taking questions.' I'm in Tokyo. I had nothing to do with any of this. And yet somehow I feel implicated.",
+      "opener": "Every morning I open American news and think: okay, today will make sense. Hasn't happened yet. Today we've got troops stationed in the capital indefinitely, a vaccine policy based on feelings, nurses picketing outside a hospital that made $6.8 billion, a president explaining FIFA to soccer fans, and a school district banning screens — by email. The theme, if there is one, is that somewhere along the way, every institution forgot what it was originally for.",
       "beats": [
         {
-          "ref": "d4",
-          "text": "So. Los Angeles Unified — second-largest school district in the country, roughly 400,000 kids — has banned screens in classrooms. Starting now. Cold turkey. The teachers, by the way, are the ones saying it'll be a difficult adjustment. These are the same teachers who spent the last five years explaining fractions via YouTube. I'm not judging. I've taught with slides I didn't fully understand either. But the Chromebooks they handed out in 2020 are still warm."
+          "ref": "d5",
+          "text": "Let's start small, relatively. Los Angeles Unified — second-largest school district in the country — is banning classroom screens starting this semester. New rule, new school year, clean break from digital dependence. The teachers found out through their inboxes. I read that twice. The district sent an email to tell everyone to stop using screens. I'm not saying that makes the policy wrong. I'm just saying nobody noticed."
         },
         {
-          "ref": "d1",
-          "text": "Meanwhile, in a completely different industry that also has trouble staffing its night shifts — HCA Healthcare, the largest for-profit hospital chain in the U.S., posted $6.8 billion in profit. Their workers are outside on a picket line asking for higher wages and more staff. HCA made $6.8 billion. Their nurses are holding signs in parking lots. I'm not saying those two facts are connected. Actually, yeah, I am. That's exactly what I'm saying."
+          "ref": "d4",
+          "text": "Speaking of institutions that forgot their original purpose — soccer. The FIFA World Cup in 2026, held in the U.S., Canada, and Mexico, was the most commercially profitable in the tournament's history. Now there's a global revolt against FIFA president Infantino, and Trump issued a warning: remove him and the Cup 'will never be as profitable.' That's the whole argument. No mention of the sport itself. Not one word. The beautiful game, rendered in pure quarterly earnings. Honest, at least."
         },
         {
           "ref": "d2",
-          "text": "And if you want to visit those nurses, you're welcome to come to Washington D.C. — where there are still thousands of armed National Guard troops, one year into a deployment that has now, quietly, been extended to 2029. That's the next inauguration. They'll be there for the handoff, whether or not anyone planned it that way. 'Quietly extended' is doing a lot of work in that sentence. They spent billions and didn't make an announcement. Somewhere a Pentagon communications person is very proud of themselves."
-        },
-        {
-          "ref": "d5",
-          "text": "Now look — I don't want to be the guy who brings up FIFA twice in one week, but here we are. Trump warned that the World Cup 'will never be as profitable' if FIFA president Infantino gets removed. Infantino, who has his own corruption documentary on Netflix. The global soccer revolt, from what I can tell, said: fine, we'll take that deal. And look, I get it — the U.S. just hosted the most commercially successful World Cup ever. But there's something specific about the fifth-most-popular sport in America explaining to 194 other countries how their soccer organization should be run. Brave is the word. Brave."
+          "text": "Okay, so profits divorced from the people doing the actual work — that brings us to HCA Healthcare. Largest for-profit hospital chain in America. They posted $6.8 billion in profit. While their nurses are outside on the picket line saying they can't cover rent. Six point eight billion. The nurses are outside. Both things are true at the same time, and nobody at the top seems to find that awkward. 'Healthcare.' Two words in there. They've chosen one."
         },
         {
           "ref": "d3",
-          "text": "But here's my problem. None of that — the Chromebooks, the picket lines, the armed tourists in D.C., the FIFA thing — none of it is the story I can't stop thinking about. Trump signed an executive order to split the MMR vaccine into three separate shots. One for measles, one for mumps, one for rubella. No scientific basis. Health experts say there's no benefit. When asked why, he said — and this is a direct quote — 'This is based on what I feel.' He felt it. Into law. My dentist also has feelings. He still takes the X-ray. I closed the article. I opened it again. Same article. Still there."
+          "text": "And then. And then. The president signed an executive order splitting the MMR vaccine — measles, mumps, rubella — into three separate shots instead of one. Reporters asked why. His answer, and I am not embellishing: 'This is based on what I feel.' No studies. No trials. Just the feeling. Somewhere a peer-reviewed journal is lying face-down on its desk. The FDA requires clinical evidence. The Oval Office, it turns out, has a different workflow."
+        },
+        {
+          "ref": "d1",
+          "text": "But the story I keep coming back to is D.C. One year ago, the National Guard was deployed to Washington. The nation's capital. And this week it came out that the deployment has been quietly extended — through Inauguration Day 2029. Billions of dollars. Nobody made a big announcement. They just... renewed it. Like a subscription. The world's largest democracy has troops stationed in its own capital through the next election cycle, and the news landed somewhere around page four. If another country did this, we'd have a word for it. We'd use that word a lot."
         }
       ],
-      "closer": "Five stories. Vibes, profit, soldiers, soccer, and a vaccine policy that came from the gut. I'm going to go make more coffee. It's not going to help, but it's something I can do."
+      "closer": "I don't have a punchline for that last one. I just keep thinking about how quietly it happened."
     },
     "monologueJa": {
-      "opener": "今朝もアメリカのニュースを5本読みました。5本。で、全部まとめると同じ一文になる。「決めました。質問は受け付けません」。私は東京にいます。何も関係ない。なのになぜか、当事者感がある。",
+      "opener": "毎朝アメリカのニュースを開くたびに思うんです。「今日こそ意味がわかる日だ」って。まだそういう日は来ていない。今日は何があったかというと、首都に軍隊が恒常駐留、感覚でワクチン政策を変更、68億ドル稼いだ病院の外で看護師がピケ、FIFAを収益で語る大統領、そしてスクリーン禁止をメールで通知した学区。共通点があるとすれば、どの組織も「自分が何のためにあるか」を忘れた、ということだと思います。",
       "beats": [
         {
-          "ref": "d4",
-          "text": "まず、ロサンゼルスの話から。LAの公立学校は、アメリカで2番目に大きい学区——生徒40万人規模——なんですが、今学期から教室でのスクリーン使用を全面禁止しました。スマホも、タブレットも、だめ。で、難しいと言っているのが、教師の方なんですね。同じ先生が、コロナ禍にYouTubeで分数を教えていた人たちです。2020年に配ったChromebook、まだ温かいですよ。"
+          "ref": "d5",
+          "text": "まず比較的軽いやつから。ロサンゼルス統一学区——全米第2位の規模の公立学区ですが——が今学期から教室でのスクリーン使用を制限します。コロナ禍でタブレット全面導入を推進したのと同じ学区が「やっぱりやめます」と言っている。先生たちへの通知方法は、メールでした。私、二度読みしました。スクリーンをやめろというお達しを、スクリーンで受け取った。政策の内容が正しいかどうかじゃなくて、誰も気づいていないところが好きです。"
         },
         {
-          "ref": "d1",
-          "text": "夜勤の人員が足りないという意味では、こちらも似たような業界の話です。HCAヘルスケア——アメリカ最大の営利病院チェーン——が68億ドルの利益を発表しました。同じ頃、組合員の看護師たちは病院の外でピケを張っています。賃上げと人員増を求めて。68億ドル。外でプラカード。私は「その2つは関係ない」とは言いません。むしろ、それが言いたいことです。"
+          "ref": "d4",
+          "text": "組織が本来の目的を見失うといえば——サッカーの話も聞いてください。2026年のFIFAワールドカップ（アメリカ・カナダ・メキシコ共催）は史上最高の商業収益を記録しました。で、今、世界中でFIFA会長のインファンティーノ氏への批判が高まっている。そこにトランプ大統領が「彼を追い出せば今後のワールドカップはこれほど稼げない」と警告を出した。それだけです。スポーツへの言及、一言もない。美しいゲーム、四半期決算として語られる。まあ、正直ではあります。"
         },
         {
           "ref": "d2",
-          "text": "そのピケを見に行くなら、ワシントンDCへどうぞ。ただし、武装した州兵が数千人います。1年前から展開されているんですが、次の大統領就任式——2029年——まで「静かに」延長されたことが明らかになりました。費用は数十億ドルの見込み。「静かに」というのが絶妙で、数十億ドル使って特にアナウンスしなかった。観光客が記念写真を撮る後ろに武装兵士が映り込むのが日常になった首都、というのは、海外から見るとかなり特殊な光景です。"
-        },
-        {
-          "ref": "d5",
-          "text": "あと、FIFA——国際サッカー連盟——の話もしないといけない。トランプ大統領が、「インファンティノ会長が追放されたらワールドカップはこれほど儲からなくなる」と警告しました。インファンティノというのは、Netflixに汚職ドキュメンタリーがある人です。世界のサッカー界は反発しているんですが、そこにアメリカの大統領が「儲かる・儲からない」で口を挟んでいる。アメリカでサッカーは人気スポーツの5番目です。その国が194カ国に向けてサッカー組織の運営をアドバイスしている。勇気、と言うしかない。"
+          "text": "利益が現場の人に届かない話、続きます。HCAヘルスケア——アメリカ最大の営利病院チェーンです——が68億ドルの利益を計上した。同じ時期に、組合員の看護師や職員が病院の外でピケを張って「賃上げしてくれ、家賃が払えない」と訴えている。68億ドル。外でピケ。両方同時に事実。経営側の誰も「これ、ちょっと変じゃないか」と思っていないように見えるのが、いちばんつらい。「ヘルスケア」って言葉、二つの意味があるんですが、どちらの「ケア」かはわかってきましたね。"
         },
         {
           "ref": "d3",
-          "text": "でも、今日一番頭を抱えたのはこれじゃない。トランプ大統領が、麻疹・おたふく風邪・風疹の混合ワクチン（MMR）を、3回に分けて接種するよう求める大統領令に署名しました。科学的根拠はありません。医療専門家は「効果はない」と言っています。なぜそうしたのか聞かれたとき、本人はこう答えています——「自分がそう感じるから」。感じる。大統領令。私のかかりつけの歯医者も直感はありますが、それでもレントゲンを撮ります。記事を閉じました。もう一回開きました。まだそこに書いてありました。"
+          "text": "で。これが今日のメインです。トランプ大統領が大統領令に署名しました。麻疹・おたふく風邪・風疹の混合ワクチン（MMR）を1本でなく3本に分けて接種しろ、という内容です。記者に理由を聞かれた大統領の答えが「自分の感覚に基づいている」。科学的根拠なし、臨床データなし、感覚だけ。世界の製薬産業をリードしてきた国で、ワクチン政策が「なんとなく」で変わる。どこかで査読論文がうつ伏せに倒れています。FDAは承認に臨床試験を要求するんですが、大統領令には別のルートがある、ということが今日わかりました。"
+        },
+        {
+          "ref": "d1",
+          "text": "でも、今日ずっと頭に残っているのはこれです。1年前、国家警備隊（連邦政府が動員できる準軍事組織です）がワシントンD.C.に展開されました。民主主義の首都に、武装した兵士が。で、今週、その展開が次の大統領就任式、つまり2029年まで延長されることが「静かに」決まったと報じられた。費用は数十億ドル。大きなアナウンスはなかった。ストリーミングサービスの自動更新みたいに、誰も止めなかった。他の国の首都でこれが起きたら、私たちはその国のことを何と呼ぶかわかっています。その言葉、今日は出てきませんでした。"
         }
       ],
-      "closer": "5本。感覚、利益、兵士、サッカー、そして腸で決めたワクチン政策。コーヒーをもう一杯入れます。助けにはなりませんが、私にできることはそれくらいです。"
+      "closer": "最後のやつにオチをつける気になれなくて。静かだったことが、ずっと気になっています。"
     },
     "notesEn": [
-      "L.A. schools spent years handing out Chromebooks and integrating screens into everything. Starting this fall, they're banning screens in class. The teachers are the ones saying it'll be a tough adjustment. I believe them.",
-      "HCA Healthcare — the largest for-profit hospital system in the U.S. — posted $6.8 billion in profit. Their unionized workers are currently on a picket line outside. I'm not saying those two facts are related. Actually, yes I am.",
-      "National Guard troops have been in Washington D.C. for a year. The deployment has quietly been extended to 2029 — Inauguration Day. The cost is expected to run into the billions. No big announcement. Just: still here.",
-      "Trump signed an executive order splitting the MMR vaccine into three separate shots. No scientific basis. When asked why, he said it was 'based on what I feel.' My dentist also has feelings. He still takes the X-ray.",
-      "Trump warned the World Cup 'will never be as profitable' without FIFA president Infantino — who has his own corruption documentary on Netflix. The global soccer revolt, from what I can tell, is willing to find out."
+      "LA Unified School District sent teachers an email telling them to stop using screens in class. I genuinely respect the commitment to the bit.",
+      "Trump warned that the FIFA World Cup won't be as profitable if the current president is removed. That was his full argument. No mention of the sport. We live here now.",
+      "HCA Healthcare posted $6.8 billion in profit. Its workers are on picket lines saying they can't cover rent. Both things happened this week. Same company.",
+      "Trump signed an order splitting the MMR vaccine into three separate shots. His stated rationale: 'what I feel.' The FDA has a different process. Turns out it's optional.",
+      "The National Guard has been in Washington, D.C. for a year. The deployment was quietly extended through Inauguration Day 2029. Billions of dollars. Page four news. Fine.",
+      "Every story today involves an institution that forgot what it was originally for. Hospitals that don't take care of workers. Schools banning screens by email. Troops in the capital. It's a theme.",
+      "Someone asked the president why he ordered a change to a decades-old vaccine schedule. He said it was based on what he feels. I closed the article. Then I opened it again. Still there.",
+      "The 2026 World Cup was the most profitable in history. The U.S. president is now vouching for the FIFA leadership based on that profitability. The beautiful game has good branding people."
     ],
     "xJa": [
-      "LAの公立学校（生徒40万人）が教室のスクリーンを全面禁止。「難しい」と言っているのは、YouTubeで分数を教えてきた教師の方です。",
-      "米最大の営利病院チェーンが68億ドルの利益を発表。同じ日、そこで働く看護師たちは病院の外でピケを張っています。「その2つは関係ない」とは私には言えない。",
-      "ワシントンDCに展開中の州兵（武装・数千人）、次の大統領就任式にあたる2029年まで「静かに」延長。費用は数十億ドル。観光客の記念写真に映り込む日常。",
-      "トランプ大統領、麻疹などのMMRワクチンを3回に分けて打つよう求める大統領令に署名。科学的根拠なし。理由を聞かれ「自分がそう感じるから」と答えた。大統領令です。",
-      "トランプ大統領、FIFAのインファンティノ会長を守るため「追放したらワールドカップは儲からなくなる」と警告。インファンティノとはNetflixに汚職ドキュメンタリーがある人です。"
+      "ロサンゼルスの学区が「教室でスクリーン禁止」を決定。先生への通知手段はメールでした。誰も気づいていないようです。",
+      "トランプ大統領、FIFAの会長人事に警告。「彼を追い出せばW杯は稼げなくなる」。スポーツへの言及は一切なし。正直ではある。",
+      "米最大の営利病院チェーンが今週68億ドルの利益を計上。同じ週に看護師が外でピケを張って「家賃が払えない」と訴えている。どちらも同じ会社の話です。",
+      "トランプ大統領が麻疹などの混合ワクチンを3本に分けるよう命じる大統領令に署名。科学的根拠を問われた答えが「自分の感覚」。FDAには別のルートがあるようです。",
+      "ワシントンD.C.に国家警備隊が展開されて1年。延長が決まり、次の大統領就任式まで駐留が続く。費用は数十億ドル。大きなニュースにはなりませんでした。",
+      "今日のアメリカニュース5本の共通点：どの組織も「自分が何のためにあるか」を忘れているように見える。病院、学区、首都、国際スポーツ。全部。",
+      "「感覚に基づくワクチン政策」という言葉をニュースで読んで、記事を閉じて、もう一度開きました。まだそこに書いてありました。",
+      "W杯史上最高収益を達成したアメリカが、FIFA会長の去就を「収益性」で語り始めました。美しいゲームの広報担当、今日は忙しかったと思います。"
     ],
-    "fullEn": "# America Runs on Vibes (and $6.8 Billion)\n\nI read five American news stories this morning. Five. And every single one of them could be summarized with the same sentence: 'We made a decision and we're not taking questions.' I'm in Tokyo. I had nothing to do with any of this. And yet somehow I feel implicated.\n\nSo. Los Angeles Unified — second-largest school district in the country, roughly 400,000 kids — has banned screens in classrooms. Starting now. Cold turkey. The teachers, by the way, are the ones saying it'll be a difficult adjustment. These are the same teachers who spent the last five years explaining fractions via YouTube. I'm not judging. I've taught with slides I didn't fully understand either. But the Chromebooks they handed out in 2020 are still warm.\n\nMeanwhile, in a completely different industry that also has trouble staffing its night shifts — HCA Healthcare, the largest for-profit hospital chain in the U.S., posted $6.8 billion in profit. Their workers are outside on a picket line asking for higher wages and more staff. HCA made $6.8 billion. Their nurses are holding signs in parking lots. I'm not saying those two facts are connected. Actually, yeah, I am. That's exactly what I'm saying.\n\nAnd if you want to visit those nurses, you're welcome to come to Washington D.C. — where there are still thousands of armed National Guard troops, one year into a deployment that has now, quietly, been extended to 2029. That's the next inauguration. They'll be there for the handoff, whether or not anyone planned it that way. 'Quietly extended' is doing a lot of work in that sentence. They spent billions and didn't make an announcement. Somewhere a Pentagon communications person is very proud of themselves.\n\nNow look — I don't want to be the guy who brings up FIFA twice in one week, but here we are. Trump warned that the World Cup 'will never be as profitable' if FIFA president Infantino gets removed. Infantino, who has his own corruption documentary on Netflix. The global soccer revolt, from what I can tell, said: fine, we'll take that deal. And look, I get it — the U.S. just hosted the most commercially successful World Cup ever. But there's something specific about the fifth-most-popular sport in America explaining to 194 other countries how their soccer organization should be run. Brave is the word. Brave.\n\nBut here's my problem. None of that — the Chromebooks, the picket lines, the armed tourists in D.C., the FIFA thing — none of it is the story I can't stop thinking about. Trump signed an executive order to split the MMR vaccine into three separate shots. One for measles, one for mumps, one for rubella. No scientific basis. Health experts say there's no benefit. When asked why, he said — and this is a direct quote — 'This is based on what I feel.' He felt it. Into law. My dentist also has feelings. He still takes the X-ray. I closed the article. I opened it again. Same article. Still there.\n\nFive stories. Vibes, profit, soldiers, soccer, and a vaccine policy that came from the gut. I'm going to go make more coffee. It's not going to help, but it's something I can do.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **L.A. Schools Ban Screens in Class — The Nation's Second-Largest District Tries Going Cold Turkey** — NPR News ([source](https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools))\n2. **HCA Healthcare Posts $6.8B Profit While Workers Hold Picket Signs** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest))\n3. **D.C.'s Armed Troops Quietly Extended — Until 2029 Inauguration Day** — NPR News ([source](https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump))\n4. **Trump Warns FIFA Will Suffer If It Ousts Infantino — Soccer World Revolts Anyway** — CNBC Top News ([source](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html))\n5. **Trump Signs Order to Split MMR Vaccine — Based on 'What I Feel'** — The Guardian US ([source](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts))\n",
-    "fullJa": "# 今日のアメリカ：感じと儲けで全部決まる国\n\n今朝もアメリカのニュースを5本読みました。5本。で、全部まとめると同じ一文になる。「決めました。質問は受け付けません」。私は東京にいます。何も関係ない。なのになぜか、当事者感がある。\n\nまず、ロサンゼルスの話から。LAの公立学校は、アメリカで2番目に大きい学区——生徒40万人規模——なんですが、今学期から教室でのスクリーン使用を全面禁止しました。スマホも、タブレットも、だめ。で、難しいと言っているのが、教師の方なんですね。同じ先生が、コロナ禍にYouTubeで分数を教えていた人たちです。2020年に配ったChromebook、まだ温かいですよ。\n\n夜勤の人員が足りないという意味では、こちらも似たような業界の話です。HCAヘルスケア——アメリカ最大の営利病院チェーン——が68億ドルの利益を発表しました。同じ頃、組合員の看護師たちは病院の外でピケを張っています。賃上げと人員増を求めて。68億ドル。外でプラカード。私は「その2つは関係ない」とは言いません。むしろ、それが言いたいことです。\n\nそのピケを見に行くなら、ワシントンDCへどうぞ。ただし、武装した州兵が数千人います。1年前から展開されているんですが、次の大統領就任式——2029年——まで「静かに」延長されたことが明らかになりました。費用は数十億ドルの見込み。「静かに」というのが絶妙で、数十億ドル使って特にアナウンスしなかった。観光客が記念写真を撮る後ろに武装兵士が映り込むのが日常になった首都、というのは、海外から見るとかなり特殊な光景です。\n\nあと、FIFA——国際サッカー連盟——の話もしないといけない。トランプ大統領が、「インファンティノ会長が追放されたらワールドカップはこれほど儲からなくなる」と警告しました。インファンティノというのは、Netflixに汚職ドキュメンタリーがある人です。世界のサッカー界は反発しているんですが、そこにアメリカの大統領が「儲かる・儲からない」で口を挟んでいる。アメリカでサッカーは人気スポーツの5番目です。その国が194カ国に向けてサッカー組織の運営をアドバイスしている。勇気、と言うしかない。\n\nでも、今日一番頭を抱えたのはこれじゃない。トランプ大統領が、麻疹・おたふく風邪・風疹の混合ワクチン（MMR）を、3回に分けて接種するよう求める大統領令に署名しました。科学的根拠はありません。医療専門家は「効果はない」と言っています。なぜそうしたのか聞かれたとき、本人はこう答えています——「自分がそう感じるから」。感じる。大統領令。私のかかりつけの歯医者も直感はありますが、それでもレントゲンを撮ります。記事を閉じました。もう一回開きました。まだそこに書いてありました。\n\n5本。感覚、利益、兵士、サッカー、そして腸で決めたワクチン政策。コーヒーをもう一杯入れます。助けにはなりませんが、私にできることはそれくらいです。\n\n---\n\n**今日の5本**（登場順）\n\n1. **L.A. Schools Ban Screens in Class — The Nation's Second-Largest District Tries Going Cold Turkey**（NPR News） — 米国第2の規模を誇るロサンゼルス統一学区が新学年から教室でのスクリーン使用を制限する方針を導入し、教師たちは対応への難しさを認めている。 [記事](https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools)\n2. **HCA Healthcare Posts $6.8B Profit While Workers Hold Picket Signs**（The Guardian US） — 米最大の営利病院チェーンHCAヘルスケアが68億ドルの利益を報告する一方、組合員労働者は全国でピケを張り、賃上げと人員増を求めている。 [記事](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest)\n3. **D.C.'s Armed Troops Quietly Extended — Until 2029 Inauguration Day**（NPR News） — ワシントンDCへの州兵展開から1年が経過し、費用は数十億ドルに上ると見込まれる中、次の大統領就任式にあたる2029年まで静かに延長されていることが明らかになった。 [記事](https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump)\n4. **Trump Warns FIFA Will Suffer If It Ousts Infantino — Soccer World Revolts Anyway**（CNBC Top News） — トランプ大統領は、FIFAがジャンニ・インファンティノ会長を追放すれば「ワールドカップはこれほど儲からなくなる」と警告したが、世界の サッカー界ではインファンティノ体制への反発が高まっている。 [記事](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html)\n5. **Trump Signs Order to Split MMR Vaccine — Based on 'What I Feel'**（The Guardian US） — トランプ大統領は、科学的根拠がないにもかかわらず「自分がそう感じるから」という理由で、MMRワクチンを3回に分けて接種するよう求める大統領令に署名した。 [記事](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts)\n"
+    "fullEn": "# Democracy, Streamlined: Troops, Vibes, and Screen-Free Emails\n\nEvery morning I open American news and think: okay, today will make sense. Hasn't happened yet. Today we've got troops stationed in the capital indefinitely, a vaccine policy based on feelings, nurses picketing outside a hospital that made $6.8 billion, a president explaining FIFA to soccer fans, and a school district banning screens — by email. The theme, if there is one, is that somewhere along the way, every institution forgot what it was originally for.\n\nLet's start small, relatively. Los Angeles Unified — second-largest school district in the country — is banning classroom screens starting this semester. New rule, new school year, clean break from digital dependence. The teachers found out through their inboxes. I read that twice. The district sent an email to tell everyone to stop using screens. I'm not saying that makes the policy wrong. I'm just saying nobody noticed.\n\nSpeaking of institutions that forgot their original purpose — soccer. The FIFA World Cup in 2026, held in the U.S., Canada, and Mexico, was the most commercially profitable in the tournament's history. Now there's a global revolt against FIFA president Infantino, and Trump issued a warning: remove him and the Cup 'will never be as profitable.' That's the whole argument. No mention of the sport itself. Not one word. The beautiful game, rendered in pure quarterly earnings. Honest, at least.\n\nOkay, so profits divorced from the people doing the actual work — that brings us to HCA Healthcare. Largest for-profit hospital chain in America. They posted $6.8 billion in profit. While their nurses are outside on the picket line saying they can't cover rent. Six point eight billion. The nurses are outside. Both things are true at the same time, and nobody at the top seems to find that awkward. 'Healthcare.' Two words in there. They've chosen one.\n\nAnd then. And then. The president signed an executive order splitting the MMR vaccine — measles, mumps, rubella — into three separate shots instead of one. Reporters asked why. His answer, and I am not embellishing: 'This is based on what I feel.' No studies. No trials. Just the feeling. Somewhere a peer-reviewed journal is lying face-down on its desk. The FDA requires clinical evidence. The Oval Office, it turns out, has a different workflow.\n\nBut the story I keep coming back to is D.C. One year ago, the National Guard was deployed to Washington. The nation's capital. And this week it came out that the deployment has been quietly extended — through Inauguration Day 2029. Billions of dollars. Nobody made a big announcement. They just... renewed it. Like a subscription. The world's largest democracy has troops stationed in its own capital through the next election cycle, and the news landed somewhere around page four. If another country did this, we'd have a word for it. We'd use that word a lot.\n\nI don't have a punchline for that last one. I just keep thinking about how quietly it happened.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **LA Schools Ban Classroom Screens — Teachers Say the Real Lesson Starts Now** — NPR News ([source](https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools))\n2. **Trump Warns FIFA World Cup Will Suffer If Infantino Is Removed** — CNBC Top News ([source](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html))\n3. **HCA Healthcare Workers Picket for Raises While Company Posts $6.8 Billion in Profit** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest))\n4. **Trump Signs Order to Split MMR Vaccine, Citing 'What I Feel'** — The Guardian US ([source](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts))\n5. **National Guard Deployed to D.C. One Year Ago — Now It's Staying Until 2029** — NPR News ([source](https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump))\n",
+    "fullJa": "# 感覚でワクチンを分割し、メールでスクリーンを禁じた国\n\n毎朝アメリカのニュースを開くたびに思うんです。「今日こそ意味がわかる日だ」って。まだそういう日は来ていない。今日は何があったかというと、首都に軍隊が恒常駐留、感覚でワクチン政策を変更、68億ドル稼いだ病院の外で看護師がピケ、FIFAを収益で語る大統領、そしてスクリーン禁止をメールで通知した学区。共通点があるとすれば、どの組織も「自分が何のためにあるか」を忘れた、ということだと思います。\n\nまず比較的軽いやつから。ロサンゼルス統一学区——全米第2位の規模の公立学区ですが——が今学期から教室でのスクリーン使用を制限します。コロナ禍でタブレット全面導入を推進したのと同じ学区が「やっぱりやめます」と言っている。先生たちへの通知方法は、メールでした。私、二度読みしました。スクリーンをやめろというお達しを、スクリーンで受け取った。政策の内容が正しいかどうかじゃなくて、誰も気づいていないところが好きです。\n\n組織が本来の目的を見失うといえば——サッカーの話も聞いてください。2026年のFIFAワールドカップ（アメリカ・カナダ・メキシコ共催）は史上最高の商業収益を記録しました。で、今、世界中でFIFA会長のインファンティーノ氏への批判が高まっている。そこにトランプ大統領が「彼を追い出せば今後のワールドカップはこれほど稼げない」と警告を出した。それだけです。スポーツへの言及、一言もない。美しいゲーム、四半期決算として語られる。まあ、正直ではあります。\n\n利益が現場の人に届かない話、続きます。HCAヘルスケア——アメリカ最大の営利病院チェーンです——が68億ドルの利益を計上した。同じ時期に、組合員の看護師や職員が病院の外でピケを張って「賃上げしてくれ、家賃が払えない」と訴えている。68億ドル。外でピケ。両方同時に事実。経営側の誰も「これ、ちょっと変じゃないか」と思っていないように見えるのが、いちばんつらい。「ヘルスケア」って言葉、二つの意味があるんですが、どちらの「ケア」かはわかってきましたね。\n\nで。これが今日のメインです。トランプ大統領が大統領令に署名しました。麻疹・おたふく風邪・風疹の混合ワクチン（MMR）を1本でなく3本に分けて接種しろ、という内容です。記者に理由を聞かれた大統領の答えが「自分の感覚に基づいている」。科学的根拠なし、臨床データなし、感覚だけ。世界の製薬産業をリードしてきた国で、ワクチン政策が「なんとなく」で変わる。どこかで査読論文がうつ伏せに倒れています。FDAは承認に臨床試験を要求するんですが、大統領令には別のルートがある、ということが今日わかりました。\n\nでも、今日ずっと頭に残っているのはこれです。1年前、国家警備隊（連邦政府が動員できる準軍事組織です）がワシントンD.C.に展開されました。民主主義の首都に、武装した兵士が。で、今週、その展開が次の大統領就任式、つまり2029年まで延長されることが「静かに」決まったと報じられた。費用は数十億ドル。大きなアナウンスはなかった。ストリーミングサービスの自動更新みたいに、誰も止めなかった。他の国の首都でこれが起きたら、私たちはその国のことを何と呼ぶかわかっています。その言葉、今日は出てきませんでした。\n\n最後のやつにオチをつける気になれなくて。静かだったことが、ずっと気になっています。\n\n---\n\n**今日の5本**（登場順）\n\n1. **LA Schools Ban Classroom Screens — Teachers Say the Real Lesson Starts Now**（NPR News） — 全米第2位の規模を持つロサンゼルス統一学区が新学期から教室でのスクリーン利用を制限する方針を導入。現場の教師からは実施への不安の声が上がっている。 [記事](https://www.npr.org/2026/08/11/nx-s1-5913745/screen-limits-begin-la-schools)\n2. **Trump Warns FIFA World Cup Will Suffer If Infantino Is Removed**（CNBC Top News） — トランプ大統領は、FIFA会長ジャンニ・インファンティーノへの世界的な批判が高まる中、同会長が追われれば今後のワールドカップは「これほど収益を上げられない」と警告した。 [記事](https://www.cnbc.com/2026/08/11/trump-world-cup-infantino-profit.html)\n3. **HCA Healthcare Workers Picket for Raises While Company Posts $6.8 Billion in Profit**（The Guardian US） — 米最大の営利病院チェーンHCAヘルスケアが68億ドルの利益を計上する一方、組合員の看護師や職員は賃上げと人員増加を求めて全国でピケを張っている。 [記事](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest)\n4. **Trump Signs Order to Split MMR Vaccine, Citing 'What I Feel'**（The Guardian US） — トランプ大統領は、科学的根拠なしに「自分の感覚」に基づくとして、麻疹・おたふく・風疹の混合ワクチン（MMR）を3本に分けて接種するよう求める大統領令に署名した。 [記事](https://www.theguardian.com/commentisfree/2026/aug/11/trumps-vaccine-order-is-about-feelings-not-facts)\n5. **National Guard Deployed to D.C. One Year Ago — Now It's Staying Until 2029**（NPR News） — 国家警備隊がワシントンD.C.に展開されてから1年。静かに2029年の就任式まで延長が決まり、費用は数十億ドル規模に上る見込みだ。 [記事](https://www.npr.org/2026/08/11/nx-s1-5927230/national-guard-dc-anniversary-trump)\n"
   }
 };
