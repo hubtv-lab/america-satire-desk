@@ -124,6 +124,16 @@ MAX_ATTEMPTS = 2          # 生成が崩れた場合のリトライ回数
 MODEL = os.environ.get("SATIRE_MODEL", "claude-sonnet-4-6")
 MAX_TOKENS = 8000
 
+# --- 編集室（モノローグ下書き + SNS投稿候補）の設定 ---
+# EDITORIAL_ENABLED=0 を設定すると生成をスキップできる（従来通りの動作に戻る）。
+# 生成に失敗しても daily.json 本体は必ず出力される（editorial: null になるだけ）。
+EDITORIAL_ENABLED = os.environ.get("EDITORIAL_ENABLED", "1") != "0"
+EDITORIAL_MODEL = os.environ.get("EDITORIAL_MODEL", MODEL)
+EDITORIAL_MAX_TOKENS = 8000
+NUM_NOTES = 8             # Substack Notes 候補（英語）の本数
+NUM_X_POSTS = 8           # X（旧Twitter）候補（日本語）の本数
+X_MAX_CHARS = 135         # X候補の最大文字数（140字制限に余白を持たせる）
+
 JST = timezone(timedelta(hours=9))
 
 ROOT = Path(__file__).resolve().parent.parent  # リポジトリのルート
@@ -210,6 +220,14 @@ SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIです。ア�
 - 名誉毀損リスクのある断定（違法行為の断定、動機の決めつけ）はしない。
 - NEWS/EVENT系フィールド（summary, newsEn）は事実のみ。皮肉・論評を混ぜない。
 - COMMENTARY系フィールド（commentary, ironyEn）は論評・風刺として書き、事実の捏造をしない。
+
+【文体 — 「AIっぽさ」の排除（commentary / ironyEn / captions に適用。厳守）】
+書き手は舞台に立つ人間のスタンダップコメディアン。機械的な整いは芸の敵。
+- captions は「書き言葉」ではなく「舞台で口に出す一言」。英語は短縮形（don't, it's, they're）を使い、会話のリズムを優先する。
+- 定型句を禁止: "Let that sink in" / "In a stunning display of..." / "Ah yes," / "In a world where..." / 「〜と言わざるを得ない」「まさに皮肉としか言いようがない」。
+- きれいな三段並列・対句（AIの癖）を避ける。3つ並べるなら3つ目で予想を外す。
+- 抽象的な総括で笑わせようとしない。具体的なモノ・数字・場面で笑わせる。
+- 同じ記事の5本のcaptionsは、角度だけでなく「文の形」も変える（疑問形・言いかけ・断言・ぼやき・観客への呼びかけ、など）。
 
 【出力形式（厳守）】
 - 有効なJSONのみを出力する。前置き・後書き・コードフェンス・コメントは一切付けない。
@@ -360,6 +378,221 @@ def validate_picks(data: dict, items: list[dict]) -> list[dict]:
 
 
 # ----------------------------------------------------------------
+# 3.2. 編集室: モノローグ下書き（EN/JA）+ SNS投稿候補の生成
+#   - 確定した5候補をもとに、2回目のClaude呼び出しで生成する
+#   - スタンダップ構成: 掴み(opener) → 5本のくだり(beats) → 締め(closer)
+#   - 失敗しても daily.json の生成は止めない（editorial: null で出力）
+# ----------------------------------------------------------------
+
+EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIです。すでに選定済みの本日の風刺候補5本をもとに、ニュースレター用モノローグの下書き（英語版・日本語版）と、SNS投稿候補を作ります。これはあくまで下書きであり、最終的なリライト・事実確認・投稿は必ず人間の編集者が行います。
+
+【ペルソナ（厳守）】
+語り手は「東京でアメリカのニュースを毎朝読んで、頭を抱えている男」。
+- 英語版: An ordinary guy in Tokyo reading American news every morning so you don't have to. 自虐的で、外部者ならではの困惑と好奇心がある。アメリカを見下すのではなく「うちの国も大概だけど、おたくの国は今日も一段と面白いね」という対等な立場のツッコミ。凝りすぎた慣用句の曲芸は不要。シンプルで明瞭な英語と観察の鋭さが武器。一人称は I。
+- 日本語版: 同一人物。英語版の翻訳ではなく、同じ人物が日本の読者に向けて話し直したもの。日本の読者に馴染みが薄い前提（制度・役職・人名）には一言だけ補助線を入れる。文体は「です・ます」を基調に、ツッコミの瞬間だけ砕ける。
+
+【文体 — 「AIっぽさ」の徹底排除（最重要）】
+これは人間のスタンダップコメディアンの語りとして読まれる文章。機械的な整いは芸の敵。以下を厳守する。
+- 文の長さを意図的にばらつかせる。長い文のあとに3語の短文を置く。ときには一語の文も。「で、です。」のような呼吸を恐れない。
+- 教科書的な接続語を使わない: 「しかしながら」「一方で」「さらに」「つまり」 / "Moreover," "Furthermore," "However," "It's worth noting," "Interestingly,"。話し言葉の接続（「で、」「あと」「いや待って」 / "And look," "But here's my problem," "Anyway—no, wait."）で繋ぐ。
+- きれいな三段並列・対句・「AがBなら、CはDだ」型の整いすぎた構文（AIの癖）を避ける。3つ並べるなら3つ目で必ず予想を外す。
+- 抽象語で語らない。具体的な生活のディテールで語る: 冷めたコーヒー、朝5時のスマホの光、コンビニのレジ、山手線。ただし毎回同じ小道具を使い回さない。
+- 観客に直接話しかける瞬間を作る: 「いや、聞いてください」「ここ、笑うところです」 / "Look," "I'm serious," "You think I'm making this up."
+- 語り手自身の身体的リアクションを入れる: 二度読みした、記事を閉じてもう一度開いた、声が出た。
+- 英語は簡潔な口語。短縮形（don't, it's, they're）を必ず使う。完璧な文法よりも会話のリズム。文頭の And / But / So は歓迎。
+- 禁止する定型句: "Let that sink in." / "In a world where..." / "In a stunning display of..." / "And that, ladies and gentlemen, ..." / ダッシュ（—）の多用 / 「〜と言わざるを得ない」「まさに現代の縮図だ」。
+- 完璧にまとめない。締めの一文は「うまいこと言った感」より「本音がこぼれた感」を優先する。
+
+【スタンダップ構成（厳守）】
+- opener: 掴み。今日の5本を貫く「一本の糸」を1つのジョークとして提示する。2〜4文。
+- beats: 5本それぞれのくだり。必ず5候補すべてを1回ずつ使う。各beatの冒頭に前のくだりからのブリッジ（話題転換の一言）を含める。弱いネタから強いネタへ並べ、一番笑える候補を最後のbeatに置く。各2〜5文。
+- closer: 締め。笑いから一段降りて、本音をひとこと。説教はしない。1〜3文。
+
+【風刺のルール（厳守）】
+- 事実は候補データに書かれているものだけを使う。新しい事実・数字・引用を発明しない。
+- 風刺の対象は制度・企業・組織・社会構造・矛盾。実在個人の人格・外見・家族は対象にしない。
+- 名誉毀損リスクのある断定（違法行為の断定、動機の決めつけ）はしない。
+- 悲劇そのものを笑いにしない。
+
+【SNS投稿候補】
+- notesEn: Substack Notes用の英語投稿。各1〜3文。その投稿だけ読んで意味が分かる自己完結型にする（必要なニュースの前提を投稿内に含める）。ハッシュタグ・絵文字・URLなし。ペルソナの声で。
+- xJa: X（旧Twitter）用の日本語投稿。各135字以内。自己完結型。ハッシュタグ・URLなし。ニュースを知らない日本の読者がそのまま笑える形にする。
+
+【出力形式（厳守）】
+- 有効なJSONのみを出力する。前置き・後書き・コードフェンスは一切付けない。
+- beats の ref は候補の id（d1〜d5）を使う。
+
+JSONスキーマ:
+{
+  "thread": "<日本語1〜2文。今日の5本を貫く『一本の糸』（人間の編集者向けメモ）>",
+  "titleEn": "<英語タイトル。ニュースレターの件名になる。punchyに、60文字以内>",
+  "titleJa": "<日本語タイトル。note記事の見出しになる>",
+  "monologueEn": {
+    "opener": "<英語>",
+    "beats": [{"ref": "d1", "text": "<英語>"}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}],
+    "closer": "<英語>"
+  },
+  "monologueJa": {
+    "opener": "<日本語>",
+    "beats": [{"ref": "d1", "text": "<日本語>"}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}],
+    "closer": "<日本語>"
+  },
+  "notesEn": ["<英語>", "...", "...", "...", "...", "...", "...", "..."],
+  "xJa": ["<日本語>", "...", "...", "...", "...", "...", "...", "..."]
+}
+monologueEn と monologueJa の beats は同じ順序（同じrefの並び）にすること。"""
+
+
+def build_editorial_prompt(candidates: list[dict], today: str) -> str:
+    """5候補を圧縮した素材リストにして渡す。"""
+    lines = [f"本日 {today} の確定済み候補5本です。この素材だけを使って、"
+             "指定スキーマのJSONだけを出力してください。\n"]
+    for c in candidates:
+        lines.append(f"[{c['id']}] {c['news']['headline']}  ({c['news']['source']})")
+        lines.append(f"  事実(EN): {c['newsEn']}")
+        lines.append(f"  事実(JA): {c['news']['summary']}")
+        for point in c["commentary"]:
+            lines.append(f"  視点: {point}")
+        for cap in c["captions"][:3]:
+            lines.append(f"  パンチライン案: {cap}")
+        lines.append("")
+    return "\n".join(lines)
+
+
+def _validate_monologue(m: dict, name: str, candidates: list[dict],
+                        min_len: int) -> dict:
+    """モノローグ1言語分の構造検証。beatsが5候補を過不足なく使っているかも確認。"""
+    if not isinstance(m, dict):
+        raise ValueError(f"{name}: not an object")
+    valid_ids = {c["id"] for c in candidates}
+    beats = m.get("beats")
+    if not isinstance(beats, list) or len(beats) != NUM_PICKS:
+        raise ValueError(f"{name}: beats must be exactly {NUM_PICKS}")
+    norm_beats, used = [], set()
+    for i, b in enumerate(beats):
+        ref = b.get("ref") if isinstance(b, dict) else None
+        if ref not in valid_ids or ref in used:
+            raise ValueError(f"{name}: beat {i}: invalid or duplicate ref: {ref!r}")
+        used.add(ref)
+        norm_beats.append({
+            "ref": ref,
+            "text": _req_str(b.get("text"), f"{name}: beat {i} text", min_len),
+        })
+    return {
+        "opener": _req_str(m.get("opener"), f"{name}: opener", min_len),
+        "beats": norm_beats,
+        "closer": _req_str(m.get("closer"), f"{name}: closer", 10),
+    }
+
+
+def validate_editorial(data: dict, candidates: list[dict]) -> dict:
+    """編集室データの検証・正規化。壊れた候補はここで弾く。"""
+    thread = _req_str(data.get("thread"), "editorial: thread", 8)
+    title_en = _req_str(data.get("titleEn"), "editorial: titleEn", 8)
+    title_ja = _req_str(data.get("titleJa"), "editorial: titleJa", 5)
+    mono_en = _validate_monologue(data.get("monologueEn"), "monologueEn", candidates, 40)
+    mono_ja = _validate_monologue(data.get("monologueJa"), "monologueJa", candidates, 25)
+
+    notes = data.get("notesEn")
+    if not isinstance(notes, list):
+        raise ValueError("editorial: notesEn missing")
+    notes = [n.strip() for n in notes if isinstance(n, str) and len(n.strip()) >= 20]
+    if len(notes) < 5:
+        raise ValueError(f"editorial: notesEn needs >=5 usable items (got {len(notes)})")
+
+    x_posts = data.get("xJa")
+    if not isinstance(x_posts, list):
+        raise ValueError("editorial: xJa missing")
+    x_posts = [p.strip() for p in x_posts
+               if isinstance(p, str) and 10 <= len(p.strip()) <= X_MAX_CHARS + 5]
+    if len(x_posts) < 5:
+        raise ValueError(f"editorial: xJa needs >=5 usable items within "
+                         f"{X_MAX_CHARS} chars (got {len(x_posts)})")
+
+    return {
+        "thread": thread,
+        "titleEn": title_en,
+        "titleJa": title_ja,
+        "monologueEn": mono_en,
+        "monologueJa": mono_ja,
+        "notesEn": notes[:NUM_NOTES],
+        "xJa": x_posts[:NUM_X_POSTS],
+    }
+
+
+def assemble_full_text(editorial: dict, candidates: list[dict]) -> None:
+    """モノローグ各部を、そのまま貼れる1本のMarkdown下書きに組み立てる。
+    末尾に beat の順で「今日の5本」の出典リスト（Today's Docket）を付ける。"""
+    by_id = {c["id"]: c for c in candidates}
+
+    def docket_en() -> list[str]:
+        lines = ["---", "", "**Today's Docket** (in order of appearance)", ""]
+        for i, b in enumerate(editorial["monologueEn"]["beats"], start=1):
+            n = by_id[b["ref"]]["news"]
+            lines.append(f"{i}. **{n['headline']}** — {n['source']} ([source]({n['url']}))")
+        return lines
+
+    def docket_ja() -> list[str]:
+        lines = ["---", "", "**今日の5本**（登場順）", ""]
+        for i, b in enumerate(editorial["monologueJa"]["beats"], start=1):
+            n = by_id[b["ref"]]["news"]
+            lines.append(f"{i}. **{n['headline']}**（{n['source']}） — {n['summary']} "
+                         f"[記事]({n['url']})")
+        return lines
+
+    en = editorial["monologueEn"]
+    parts_en = [f"# {editorial['titleEn']}", "", en["opener"], ""]
+    for b in en["beats"]:
+        parts_en += [b["text"], ""]
+    parts_en += [en["closer"], ""] + docket_en()
+    editorial["fullEn"] = "\n".join(parts_en).strip() + "\n"
+
+    ja = editorial["monologueJa"]
+    parts_ja = [f"# {editorial['titleJa']}", "", ja["opener"], ""]
+    for b in ja["beats"]:
+        parts_ja += [b["text"], ""]
+    parts_ja += [ja["closer"], ""] + docket_ja()
+    editorial["fullJa"] = "\n".join(parts_ja).strip() + "\n"
+
+
+def generate_editorial(client: Anthropic, candidates: list[dict],
+                       today: str) -> dict | None:
+    """編集室データを生成する。失敗したら None を返す（本体の生成は止めない）。"""
+    if not EDITORIAL_ENABLED:
+        print("[info] EDITORIAL_ENABLED=0 — skipping monologue generation")
+        return None
+    last_error: Exception | None = None
+    for attempt in range(1, MAX_ATTEMPTS + 1):
+        try:
+            print(f"[info] generating editorial draft "
+                  f"(attempt {attempt}/{MAX_ATTEMPTS}, model={EDITORIAL_MODEL})")
+            message = client.messages.create(
+                model=EDITORIAL_MODEL,
+                max_tokens=EDITORIAL_MAX_TOKENS,
+                system=EDITORIAL_SYSTEM_PROMPT,
+                messages=[{"role": "user",
+                           "content": build_editorial_prompt(candidates, today)}],
+            )
+            text = "".join(b.text for b in message.content if b.type == "text")
+            usage = getattr(message, "usage", None)
+            if usage:
+                print(f"[info] editorial tokens: in={usage.input_tokens} "
+                      f"out={usage.output_tokens}")
+            editorial = validate_editorial(extract_json(text), candidates)
+            assemble_full_text(editorial, candidates)
+            print(f"[ok] editorial draft ready: notes={len(editorial['notesEn'])} "
+                  f"x-posts={len(editorial['xJa'])}")
+            return editorial
+        except Exception as e:
+            last_error = e
+            print(f"[warn] editorial attempt {attempt} failed: {e}", file=sys.stderr)
+            time.sleep(5)
+    print(f"[warn] editorial generation failed entirely — daily.json will have "
+          f"editorial: null ({last_error})", file=sys.stderr)
+    return None
+
+
+# ----------------------------------------------------------------
 # 3.5. 風刺画の実画像生成（OpenAI gpt-image）
 #   - 各候補の imagePrompts[0] から1枚生成し、images/日付/ に保存
 #   - 失敗しても daily.json の生成は止めない（画像なし＝プレースホルダー表示）
@@ -451,13 +684,15 @@ def atomic_write(path: Path, text: str) -> None:
     tmp.replace(path)
 
 
-def write_outputs(candidates: list[dict], today: str) -> None:
+def write_outputs(candidates: list[dict], today: str,
+                  editorial: dict | None = None) -> None:
     daily = {
         "version": 1,
         "date": today,
         "generatedAt": datetime.now(timezone.utc).isoformat(timespec="seconds"),
         "source": "auto (rss + claude)",
         "candidates": candidates,
+        "editorial": editorial,  # モノローグ下書き+SNS候補（生成失敗時は null）
     }
     payload = json.dumps(daily, ensure_ascii=False, indent=2)
 
@@ -493,13 +728,15 @@ def main() -> int:
             data = call_claude(client, items)
             candidates = validate_picks(data, items)
             today = datetime.now(JST).strftime("%Y-%m-%d")
+            # 編集室（モノローグ+SNS候補）も「おまけ」扱い: 失敗しても本体は出す
+            editorial = generate_editorial(client, candidates, today)
             # 画像生成は「おまけ」扱い: 全滅しても daily.json は出す
             try:
                 generate_images(candidates, today)
             except Exception as e:
                 print(f"[warn] image stage failed entirely (placeholders will be shown): {e}",
                       file=sys.stderr)
-            write_outputs(candidates, today)
+            write_outputs(candidates, today, editorial)
             print("[done] generation succeeded")
             return 0
         except Exception as e:
