@@ -130,6 +130,14 @@ MAX_TOKENS = 8000
 EDITORIAL_ENABLED = os.environ.get("EDITORIAL_ENABLED", "1") != "0"
 EDITORIAL_MODEL = os.environ.get("EDITORIAL_MODEL", MODEL)
 EDITORIAL_MAX_TOKENS = 8000
+
+# --- 編集長レビュー（二段階チェック）の設定 ---
+# 生成済みの全コンテンツを「辛口の編集長」としてもう一度読み直し、
+# 弱いジョーク・AIっぽさ・画像プロンプトを書き直す第二パス。
+# REVIEW_ENABLED=0 でスキップ可能。失敗しても一段階目の結果で出力される。
+REVIEW_ENABLED = os.environ.get("REVIEW_ENABLED", "1") != "0"
+REVIEW_MODEL = os.environ.get("REVIEW_MODEL", MODEL)
+REVIEW_MAX_TOKENS = 8000
 NUM_NOTES = 8             # Substack Notes 候補（英語）の本数
 NUM_X_POSTS = 8           # X（旧Twitter）候補（日本語）の本数
 X_MAX_CHARS = 135         # X候補の最大文字数（140字制限に余白を持たせる）
@@ -613,6 +621,156 @@ def generate_editorial(client: Anthropic, candidates: list[dict],
 
 
 # ----------------------------------------------------------------
+# 3.3. 編集長レビュー（二段階チェック）
+#   - 一段階目の全出力を「辛口編集長」として読み直し、弱い箇所だけ書き直す
+#   - 画像生成の前に実行する（改善済みの画像プロンプトを使うため）
+#   - 失敗したら一段階目の結果をそのまま使う（安全なフォールバック）
+# ----------------------------------------------------------------
+
+REVIEW_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集長です。部下が作った本日の風刺コンテンツ一式を、初見の読者としてゼロから読み直し、弱い箇所だけを書き直します。あなたは褒めるためではなく、水準を上げるために存在します。
+
+【審査基準】
+1. ジョークの強度: 「説明」で終わっているcaptionは、オチのある一言に書き直す。良いジョークにはミスディレクション（読者の予想を最後の瞬間に裏切る構造）がある。状況をなぞっただけの文は不合格。
+2. AIっぽさの検出: 整いすぎた対句・きれいな三段並列・定型句・均一な文の長さを見つけたら壊す。人間の呼吸にする。
+3. ペルソナの一貫性: モノローグは「東京でアメリカのニュースを毎朝読んで頭を抱えている男」の声か。上から目線の講釈になっていたら、当事者性のあるぼやきに直す。
+4. 事実の検品: 元データに無い事実・数字・引用が紛れ込んでいたら削除する。新しい事実を絶対に足さない。
+5. 画像プロンプトの検品: 実在人物の顔・容姿に依存した構図は禁止（そもそも似ない上に権利リスクがある）。役職や制度の記号（大統領執務室の机、書類の山、議事堂のドーム、赤いネクタイの後ろ姿、報道陣のマイクの群れ）と状況の可視化で皮肉が伝わる構図に書き直す。人物を入れる場合は「顔が判別できない後ろ姿・シルエット・群衆」まで。
+6. タイトルの検品: 曖昧・抽象的・釣り表現を弾く。具体的な固有名詞や数字の違和感で引くタイトルに。
+
+【ルール（厳守）】
+- 良いものは変えない。「確実により笑える／より人間らしい」と言える場合だけ書き直す。
+- ただし全フィールドを必ず出力する（変更しない場合も元の文をそのまま入れる。フィールドを省略しない）。
+- 元データに無い事実を足さない。ニュースの内容（headline, summary, newsEn, commentary）は変更対象外。
+- xJaは135字以内を厳守。
+- 有効なJSONのみを出力する。前置き・後書き・コードフェンス禁止。
+
+JSONスキーマ:
+{
+  "reviewNotes": "<日本語1〜3文。今日どこを直したかの編集メモ。直す箇所が無ければ『合格』と書く>",
+  "candidates": [
+    {"id": "d1",
+     "captions": ["<英語5本>"],
+     "captionsJa": ["<日本語5本。captionsと同順>"],
+     "imagePrompts": ["<英語3本>"]},
+    {"id": "d2", "...": "..."}, {"id": "d3", "...": "..."},
+    {"id": "d4", "...": "..."}, {"id": "d5", "...": "..."}
+  ],
+  "editorial": {
+    "thread": "<日本語>", "titleEn": "<英語>", "titleJa": "<日本語>",
+    "titleAltJa": ["<日本語>", "<日本語>"],
+    "monologueEn": {"opener": "...", "beats": [{"ref": "d1", "text": "..."}], "closer": "..."},
+    "monologueJa": {"opener": "...", "beats": [{"ref": "d1", "text": "..."}], "closer": "..."},
+    "notesEn": ["<英語8本>"], "xJa": ["<日本語8本>"]
+  }
+}
+candidatesは5件すべて、monologueのbeatsは5本すべてを含めること。"""
+
+
+def build_review_prompt(candidates: list[dict], editorial: dict, today: str) -> str:
+    """一段階目の全出力を審査対象として渡す。"""
+    material = {
+        "date": today,
+        "candidates": [
+            {
+                "id": c["id"],
+                "news": {"headline": c["news"]["headline"],
+                         "summary": c["news"]["summary"]},
+                "newsEn": c["newsEn"],
+                "commentary": c["commentary"],
+                "captions": c["captions"],
+                "captionsJa": c["captionsJa"],
+                "imagePrompts": c["imagePrompts"],
+            } for c in candidates
+        ],
+        "editorial": {k: editorial[k] for k in
+                      ("thread", "titleEn", "titleJa", "titleAltJa",
+                       "monologueEn", "monologueJa", "notesEn", "xJa")},
+    }
+    return ("本日の風刺コンテンツ一式です。審査基準に沿って読み直し、"
+            "指定スキーマのJSONだけを出力してください。\n\n"
+            + json.dumps(material, ensure_ascii=False, indent=1))
+
+
+def _apply_candidate_patches(candidates: list[dict], patches) -> int:
+    """レビュー結果のcaptions/imagePromptsを検証して適用。戻り値は適用件数。"""
+    if not isinstance(patches, list):
+        return 0
+    by_id = {c["id"]: c for c in candidates}
+    applied = 0
+    for p in patches:
+        if not isinstance(p, dict) or p.get("id") not in by_id:
+            continue
+        c = by_id[p["id"]]
+        try:
+            captions = p.get("captions")
+            captions_ja = p.get("captionsJa")
+            prompts = p.get("imagePrompts")
+            if (isinstance(captions, list) and isinstance(captions_ja, list)
+                    and 3 <= len(captions) <= 5 and len(captions) == len(captions_ja)):
+                captions = [_req_str(x, "review caption", 8) for x in captions]
+                captions_ja = [_req_str(x, "review captionJa", 4) for x in captions_ja]
+            else:
+                raise ValueError("captions shape")
+            if isinstance(prompts, list) and len(prompts) >= 2:
+                prompts = [_req_str(x, "review imagePrompt", 20) for x in prompts[:3]]
+            else:
+                raise ValueError("prompts shape")
+        except ValueError:
+            continue  # このカードのパッチは破棄（元の文を残す）
+        c["captions"], c["captionsJa"], c["imagePrompts"] = captions, captions_ja, prompts
+        applied += 1
+    return applied
+
+
+def review_and_polish(client: Anthropic, candidates: list[dict],
+                      editorial: dict | None, today: str
+                      ) -> tuple[list[dict], dict | None]:
+    """二段階目: 編集長パス。失敗しても一段階目の結果をそのまま返す。"""
+    if not REVIEW_ENABLED:
+        print("[info] REVIEW_ENABLED=0 — skipping editor-in-chief pass")
+        return candidates, editorial
+    if editorial is None:
+        print("[info] editorial missing — skipping editor-in-chief pass")
+        return candidates, editorial
+    try:
+        print(f"[info] editor-in-chief review pass (model={REVIEW_MODEL})")
+        message = client.messages.create(
+            model=REVIEW_MODEL,
+            max_tokens=REVIEW_MAX_TOKENS,
+            system=REVIEW_SYSTEM_PROMPT,
+            messages=[{"role": "user",
+                       "content": build_review_prompt(candidates, editorial, today)}],
+        )
+        text = "".join(b.text for b in message.content if b.type == "text")
+        usage = getattr(message, "usage", None)
+        if usage:
+            print(f"[info] review tokens: in={usage.input_tokens} out={usage.output_tokens}")
+        data = extract_json(text)
+
+        applied = _apply_candidate_patches(candidates, data.get("candidates"))
+        print(f"[info] review: caption/image patches applied to {applied}/5 candidates")
+
+        new_editorial = editorial
+        if isinstance(data.get("editorial"), dict):
+            try:
+                new_editorial = validate_editorial(data["editorial"], candidates)
+                assemble_full_text(new_editorial, candidates)
+            except Exception as e:
+                print(f"[warn] review editorial rejected (keeping first draft): {e}",
+                      file=sys.stderr)
+                new_editorial = editorial
+        notes = data.get("reviewNotes")
+        if isinstance(notes, str) and notes.strip():
+            new_editorial["reviewNotes"] = notes.strip()
+        print("[ok] editor-in-chief pass done")
+        return candidates, new_editorial
+    except Exception as e:
+        print(f"[warn] review pass failed entirely (using first draft): {e}",
+              file=sys.stderr)
+        return candidates, editorial
+
+
+# ----------------------------------------------------------------
 # 3.5. 風刺画の実画像生成（OpenAI gpt-image）
 #   - 各候補の imagePrompts[0] から1枚生成し、images/日付/ に保存
 #   - 失敗しても daily.json の生成は止めない（画像なし＝プレースホルダー表示）
@@ -750,6 +908,8 @@ def main() -> int:
             today = datetime.now(JST).strftime("%Y-%m-%d")
             # 編集室（モノローグ+SNS候補）も「おまけ」扱い: 失敗しても本体は出す
             editorial = generate_editorial(client, candidates, today)
+            # 二段階目: 編集長パス（画像生成の前に。改善済みプロンプトを使うため）
+            candidates, editorial = review_and_polish(client, candidates, editorial, today)
             # 画像生成は「おまけ」扱い: 全滅しても daily.json は出す
             try:
                 generate_images(candidates, today)
