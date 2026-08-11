@@ -279,35 +279,6 @@
     outline:2px solid var(--navy); outline-offset:2px;
   }
 
-  /* ---------- archive ---------- */
-  .arch-item{
-    background:var(--surface); border:1px solid var(--line);
-    border-radius:18px; box-shadow:var(--shadow-sm);
-    padding:14px 16px; margin-bottom:13px;
-  }
-  .arch-item .h{ font-family:var(--round); font-size:15px; font-weight:800; color:#3B3F4E; margin-bottom:3px; }
-  .arch-item .cap{ font-family:var(--serif); font-size:13px; font-style:italic; color:var(--muted); margin-bottom:8px; }
-  .arch-item .row{ display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
-  .arch-item .d{ font-family:var(--mono); font-size:10.5px; color:var(--muted); margin-right:auto; }
-  .arch-item button.mini{
-    font-family:var(--round); font-size:11.5px; font-weight:700;
-    padding:6px 11px; border-radius:999px;
-    background:#FBF8F1; border:1px solid var(--line); color:var(--muted); cursor:pointer;
-  }
-  .arch-item button.mini:active{ background:var(--surface-2); }
-  .empty{
-    border:1.5px dashed var(--line); border-radius:18px;
-    background:rgba(255,253,248,.6);
-    padding:30px 20px; text-align:center; color:var(--muted); font-size:13.5px;
-  }
-
-  /* ---------- weekly compilation output ---------- */
-  .comp-actions{
-    display:flex; flex-direction:column; gap:10px;
-    margin:14px 0 20px;
-  }
-  .comp-actions .btn{ width:100%; padding:14px 15px; font-size:14px; }
-
   /* ---------- today's article ---------- */
   .article-actions{
     display:flex; flex-direction:column; gap:10px;
@@ -321,55 +292,6 @@
   }
   .article-note{
     font-size:11.5px; color:var(--muted); margin-top:8px; line-height:1.7;
-  }
-
-  /* ---------- weekly slideshow ---------- */
-  .video-wrap{
-    border:1px solid var(--line); border-radius:16px; overflow:hidden;
-    background:var(--surface-2); box-shadow:var(--shadow-sm);
-    margin-bottom:12px;
-  }
-  .video-wrap canvas{ display:block; width:100%; height:auto; }
-  .video-status{
-    font-family:var(--mono); font-size:11px; color:var(--muted);
-    letter-spacing:.08em; padding:9px 12px;
-    border-top:1px dashed var(--line); background:#FBF7EE;
-  }
-  /* スライドショー用 記事ピッカー */
-  .pick-list{ display:flex; flex-direction:column; gap:8px; margin-bottom:14px; }
-  label.pick-row{
-    display:flex; align-items:flex-start; gap:11px;
-    background:var(--surface-2); border:1px solid var(--line);
-    border-radius:14px; padding:12px 13px; cursor:pointer;
-  }
-  label.pick-row input{
-    width:20px; height:20px; accent-color:var(--coral);
-    margin-top:2px; flex:none;
-  }
-  .pick-body{ min-width:0; }
-  .pick-date{ font-family:var(--mono); font-size:10.5px; color:var(--muted); display:block; margin-bottom:2px; }
-  .pick-cap{ font-size:13.5px; font-weight:700; color:#3B3F4E; line-height:1.55; display:block; }
-  .pick-head{ font-size:11.5px; color:var(--muted); line-height:1.5; display:block; margin-top:1px; }
-  section.comp{
-    background:var(--surface); border:1px solid var(--line);
-    border-radius:22px; box-shadow:var(--shadow);
-    padding:18px 17px; margin-bottom:22px;
-  }
-  section.comp h3{
-    font-family:var(--round); font-size:16.5px; font-weight:800; color:var(--navy);
-    margin-bottom:4px;
-  }
-  section.comp .comp-block{ margin-top:16px; }
-  section.comp .comp-block .slug{ margin:0 0 7px; }
-  section.comp pre{
-    font-family:var(--round); font-size:13.5px; white-space:pre-wrap;
-    background:var(--surface-2); border-radius:14px; padding:13px 14px;
-    line-height:1.8;
-  }
-  section.comp .art-title{
-    font-family:var(--round); font-size:15.5px; font-weight:800; color:#3B3F4E;
-    background:var(--surface-2); border-left:4px solid var(--amber);
-    padding:11px 13px; border-radius:6px 14px 14px 6px;
   }
 
   /* ---------- toast ---------- */
@@ -388,6 +310,43 @@
   @media (prefers-reduced-motion: reduce){
     *{ transition:none !important; }
   }
+  /* ---------- editor's room ---------- */
+  .ed-card{
+    background:var(--surface); border:1px solid var(--line); border-radius:16px;
+    padding:16px; margin-bottom:16px; box-shadow:var(--shadow-sm);
+  }
+  .ed-card h3{
+    font-family:var(--round); font-size:15px; font-weight:800; color:var(--navy);
+    margin-bottom:8px;
+  }
+  .ed-thread{
+    background:var(--surface-2); border-left:4px solid var(--amber);
+    border-radius:10px; padding:10px 12px; font-size:13.5px; margin-bottom:16px;
+  }
+  .ed-thread b{ color:var(--navy); }
+  .ed-pre{
+    white-space:pre-wrap; word-break:break-word;
+    font-family:var(--round); font-size:13.5px; line-height:1.8;
+    background:#FBF8F1; border:1px solid var(--line); border-radius:12px;
+    padding:12px 14px; margin:10px 0;
+    max-height:340px; overflow-y:auto;
+  }
+  .ed-item{
+    display:flex; align-items:flex-start; gap:8px;
+    background:#FBF8F1; border:1px solid var(--line); border-radius:12px;
+    padding:10px 12px; margin-bottom:8px; font-size:13.5px;
+  }
+  .ed-item .t{ flex:1; }
+  .ed-item .cnt{
+    font-family:var(--mono); font-size:10.5px; color:var(--muted); white-space:nowrap;
+  }
+  .ed-item .cnt.over{ color:var(--coral); font-weight:700; }
+  .ed-checklist{
+    background:var(--surface-2); border-radius:12px; padding:12px 14px;
+    font-size:13px; margin-bottom:16px;
+  }
+  .ed-checklist b{ color:var(--coral); }
+  .ed-checklist ul{ margin:6px 0 0 18px; }
 </style>
 </head>
 <body>
@@ -411,25 +370,17 @@
     <div id="articleOut"></div>
   </div>
 
-  <!-- ===== ARCHIVE ===== -->
-  <div id="view-archive" class="view">
-    <p class="lede">保存した候補の一覧です。ここから週末用の記事（Weekly Top 5）や動画素材（Weekly Video Kit）を生成できます。</p>
-    <div class="comp-actions">
-      <button class="btn primary" id="btnWeeklyTop5">🏆 Generate Weekly Top 5 Punchlines</button>
-      <button class="btn" id="btnSlideshow">🎬 Generate Weekly Slideshow Video</button>
-      <button class="btn" id="btnCompile">📼 Weekly Video Kit を生成</button>
-      <button class="btn" id="btnClearArchive">アーカイブを空にする</button>
-    </div>
-    <div id="weeklyTopOut"></div>
-    <div id="slideshowOut"></div>
-    <div id="compOut"></div>
-    <div id="archiveList"></div>
+  <!-- ===== EDITOR'S ROOM ===== -->
+  <div id="view-editorial" class="view">
+    <p class="lede" id="edLede">編集室のデータを読み込んでいます…</p>
+    <div id="editorialOut"></div>
   </div>
+
 </main>
 
 <nav class="tabs">
   <button id="tab-today" class="active" onclick="switchView('today')">TODAY’S DESK</button>
-  <button id="tab-archive" onclick="switchView('archive')">WEEKLY ARCHIVE <span class="n" id="archCount">0</span></button>
+  <button id="tab-editorial" onclick="switchView('editorial')">EDITOR’S ROOM</button>
 </nav>
 
 <div id="toast" role="status"></div>
@@ -472,8 +423,6 @@ const storage = (() => {
     }
   };
 })();
-
-const STORE_KEY = "asd_archive_v1";
 
 /* ---------- mock candidates (5 per morning) ----------
    ※ 実在の個人は登場させず、制度・組織・風潮を対象にした架空寄りのモックです。
@@ -766,8 +715,7 @@ function placeholderSVG(seed, variant, label){
 /* ---------- app state ---------- */
 const state = {
   // per-candidate rotating indices for regenerate buttons
-  vary: {},          // id -> { img: 0, cap: 0 }
-  archive: []        // saved items
+  vary: {}           // id -> { img: 0, cap: 0 }
 };
 
 /* ================================================================
@@ -780,6 +728,7 @@ const state = {
        3) 内蔵モックデータ（フォールバック。アプリは壊れない）
    ================================================================ */
 let CANDIDATES = [];                     // 実行時の5候補（全機能はこれを参照）
+let EDITORIAL = null;                    // 編集室データ（daily.json の editorial。無ければ null）
 let dataSource = "モックデータ";
 
 /* commentary はHTMLとして描画されるため、<b>タグ以外はエスケープする */
@@ -840,6 +789,24 @@ function applyCandidates(list, sourceLabel){
   dataSource = sourceLabel;
 }
 
+/* editorial（編集室データ）の正規化。壊れていたら null（=編集室は案内表示のみ） */
+function normalizeEditorial(raw){
+  if (!raw || typeof raw !== "object") return null;
+  try {
+    const norm = {
+      thread:  String(raw.thread || ""),
+      titleEn: String(raw.titleEn || ""),
+      titleJa: String(raw.titleJa || ""),
+      fullEn:  String(raw.fullEn || ""),
+      fullJa:  String(raw.fullJa || ""),
+      notesEn: (Array.isArray(raw.notesEn) ? raw.notesEn : []).map(String).filter(Boolean),
+      xJa:     (Array.isArray(raw.xJa) ? raw.xJa : []).map(String).filter(Boolean)
+    };
+    if (!norm.fullEn && !norm.fullJa && !norm.notesEn.length && !norm.xJa.length) return null;
+    return norm;
+  } catch(e){ return null; }
+}
+
 async function loadDailyData(){
   // 1) daily.json（http/https で開いている場合の本命経路）
   try {
@@ -847,28 +814,20 @@ async function loadDailyData(){
     if (!res.ok) throw new Error("HTTP " + res.status);
     const json = await res.json();
     applyCandidates(normalizeCandidates(json), "daily.json");
+    EDITORIAL = normalizeEditorial(json.editorial);
     return;
   } catch(e){ /* 次の経路へ */ }
   // 2) daily.js → window.DAILY_DATA（file:// で直接開いた場合の代替経路）
   try {
     if (window.DAILY_DATA){
       applyCandidates(normalizeCandidates(window.DAILY_DATA), "daily.js");
+      EDITORIAL = normalizeEditorial(window.DAILY_DATA.editorial);
       return;
     }
   } catch(e){ /* 次の経路へ */ }
   // 3) 内蔵モックデータ（フォールバック）
   applyCandidates(normalizeCandidates(MOCK_CANDIDATES), "内蔵モックデータ");
-}
-
-function loadArchive(){
-  try {
-    const raw = storage.get(STORE_KEY);
-    state.archive = raw ? JSON.parse(raw) : [];
-    if (!Array.isArray(state.archive)) state.archive = [];
-  } catch(e){ state.archive = []; }
-}
-function saveArchive(){
-  storage.set(STORE_KEY, JSON.stringify(state.archive));
+  EDITORIAL = null;
 }
 
 /* ---------- toast ---------- */
@@ -883,20 +842,15 @@ function toast(msg){
 
 /* ---------- view switching ---------- */
 function switchView(name){
-  document.getElementById("view-today").classList.toggle("active", name==="today");
-  document.getElementById("view-archive").classList.toggle("active", name==="archive");
-  document.getElementById("tab-today").classList.toggle("active", name==="today");
-  document.getElementById("tab-archive").classList.toggle("active", name==="archive");
+  ["today","editorial"].forEach(n => {
+    document.getElementById("view-" + n).classList.toggle("active", n===name);
+    document.getElementById("tab-" + n).classList.toggle("active", n===name);
+  });
   window.scrollTo({ top:0 });
 }
 
 /* ---------- render: today's cards ---------- */
 function esc(s){ return String(s).replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c])); }
-
-function isSavedToday(id){
-  const today = new Date().toISOString().slice(0,10);
-  return state.archive.some(a => a.candidateId === id && a.savedDate === today);
-}
 
 /* 画像パスの拡張子（.jpg / .png）。不明なら .png */
 function imgExt(path){
@@ -921,7 +875,6 @@ function renderCards(){
   wrap.innerHTML = "";
   CANDIDATES.forEach((c, idx) => {
     const v = state.vary[c.id];
-    const saved = isSavedToday(c.id);
     const el = document.createElement("article");
     el.className = "card";
     el.id = "card-" + c.id;
@@ -930,7 +883,7 @@ function renderCards(){
         <div class="no">${idx+1}</div>
         <div class="vlabel">CANDIDATE</div>
       </div>
-      <div class="stamp ${saved ? "saved" : ""}">${saved ? "ARCHIVED" : "SATIRE"}</div>
+      <div class="stamp">SATIRE</div>
       <div class="card-body">
 
         <div class="news-panel tone-${(idx % 5) + 1}">
@@ -970,13 +923,88 @@ function renderCards(){
           <button class="btn" onclick="regen('${c.id}','cap')">✏️ Regenerate caption</button>
           <button class="btn" onclick="regen('${c.id}','both')">🔁 Regenerate both</button>
           <button class="btn" onclick="copyCaption('${c.id}')">📋 Copy caption</button>
-          <button class="btn primary ${saved ? "saved-state" : ""}" onclick="saveCandidate('${c.id}')">
-            ${saved ? "✓ Saved" : "💾 Save this candidate"}
-          </button>
         </div>
       </div>`;
     wrap.appendChild(el);
   });
+}
+
+/* ---------- render: editor's room ---------- */
+function copyEd(kind, index){
+  if (!EDITORIAL) return;
+  let text = "";
+  if (kind === "fullEn") text = EDITORIAL.fullEn;
+  else if (kind === "fullJa") text = EDITORIAL.fullJa;
+  else if (kind === "note") text = EDITORIAL.notesEn[index] || "";
+  else if (kind === "x") text = EDITORIAL.xJa[index] || "";
+  if (!text) return;
+  const done = () => toast("コピーしました");
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
+  } else {
+    fallbackCopy(text, done);
+  }
+}
+
+function renderEditorial(){
+  const lede = document.getElementById("edLede");
+  const out = document.getElementById("editorialOut");
+  if (!EDITORIAL){
+    lede.textContent = "今朝の編集素材はまだありません。バックエンド更新後の daily.json から表示されます（editorial フィールド）。";
+    out.innerHTML = "";
+    return;
+  }
+  lede.textContent = "毎朝の下書きです。掴みと締めを自分の言葉に書き直してから投稿してください（そのまま投稿しない）。";
+
+  const noteItems = EDITORIAL.notesEn.map((n, i) => `
+    <div class="ed-item">
+      <div class="t">${esc(n)}</div>
+      <button class="btn" onclick="copyEd('note',${i})">📋</button>
+    </div>`).join("");
+
+  const xItems = EDITORIAL.xJa.map((p, i) => {
+    const len = [...p].length;
+    return `
+    <div class="ed-item">
+      <div class="t">${esc(p)}</div>
+      <span class="cnt ${len > 140 ? "over" : ""}">${len}字</span>
+      <button class="btn" onclick="copyEd('x',${i})">📋</button>
+    </div>`;
+  }).join("");
+
+  out.innerHTML = `
+    <div class="ed-checklist">
+      <b>人間の声パス（投稿前チェック）</b>
+      <ul>
+        <li>掴み（冒頭）と締めを自分の言葉で書き直したか</li>
+        <li>事実関係を元記事で確認したか（風刺は事実が命）</li>
+        <li>一番弱いくだりを1つ削る勇気を持ったか</li>
+      </ul>
+    </div>
+
+    ${EDITORIAL.thread ? `<div class="ed-thread"><b>今日の一本の糸:</b> ${esc(EDITORIAL.thread)}</div>` : ""}
+
+    <div class="ed-card">
+      <h3>📮 Substack draft（英語モノローグ）</h3>
+      <div class="ed-pre">${esc(EDITORIAL.fullEn)}</div>
+      <button class="btn primary" onclick="copyEd('fullEn')">📋 Copy for Substack</button>
+    </div>
+
+    <div class="ed-card">
+      <h3>📮 note 下書き（日本語モノローグ）</h3>
+      <div class="ed-pre">${esc(EDITORIAL.fullJa)}</div>
+      <button class="btn primary" onclick="copyEd('fullJa')">📋 note用にコピー</button>
+    </div>
+
+    <div class="ed-card">
+      <h3>🗒 Substack Notes 候補（毎日1〜3本投稿）</h3>
+      ${noteItems || '<p class="lede">候補がありません</p>'}
+    </div>
+
+    <div class="ed-card">
+      <h3>🐦 X 候補（毎日1本、noteへの導線に）</h3>
+      ${xItems || '<p class="lede">候補がありません</p>'}
+    </div>`;
 }
 
 /* ---------- actions ---------- */
@@ -1013,207 +1041,6 @@ function fallbackCopy(text, done){
   try { document.execCommand("copy"); done(); }
   catch(e){ toast("コピーできませんでした。手動で選択してください"); }
   document.body.removeChild(ta);
-}
-
-function saveCandidate(id){
-  if (isSavedToday(id)){ toast("この候補は今日すでに保存済みです"); return; }
-  const c = CANDIDATES.find(x=>x.id===id);
-  const v = state.vary[id];
-  state.archive.unshift({
-    key: id + "_" + Date.now(),
-    candidateId: id,
-    savedDate: new Date().toISOString().slice(0,10),
-    headline: c.news.headline,
-    source: c.news.source,
-    newsDate: c.news.date,
-    url: c.news.url,
-    summary: c.news.summary,
-    newsEn: c.newsEn,
-    ironyEn: c.ironyEn,
-    commentary: c.commentary,
-    imagePrompt: c.imagePrompts[v.img % c.imagePrompts.length],
-    imageVariant: v.img % c.imagePrompts.length,
-    imageSeed: c.imageSeed,
-    image: c.image || null,
-    caption: c.captions[v.cap % c.captions.length],
-    captionJa: c.captionsJa[v.cap % c.captionsJa.length],
-    altCaption: c.captions[(v.cap+1) % c.captions.length],
-    altCaptionJa: c.captionsJa[(v.cap+1) % c.captionsJa.length]
-  });
-  saveArchive();
-  renderAll();
-  toast("Weekly Archive に保存しました");
-}
-
-function removeFromArchive(key){
-  state.archive = state.archive.filter(a => a.key !== key);
-  saveArchive();
-  renderAll();
-  toast("アーカイブから削除しました");
-}
-
-function clearArchive(){
-  if (!state.archive.length){ toast("アーカイブは空です"); return; }
-  if (!confirm("Weekly Archive をすべて削除します。よろしいですか？")) return;
-  state.archive = [];
-  saveArchive();
-  document.getElementById("compOut").innerHTML = "";
-  document.getElementById("weeklyTopOut").innerHTML = "";
-  document.getElementById("slideshowOut").innerHTML = "";
-  weeklyTopPicks = [];
-  slideshowPicks = [];
-  renderAll();
-  toast("アーカイブを空にしました");
-}
-
-/* ---------- render: archive ---------- */
-function renderArchive(){
-  const list = document.getElementById("archiveList");
-  document.getElementById("archCount").textContent = state.archive.length;
-  if (!state.archive.length){
-    list.innerHTML = `<div class="empty">まだ保存された候補がありません。<br>TODAY’S DESK から「💾 Save this candidate」で追加できます。</div>`;
-    return;
-  }
-  list.innerHTML = state.archive.map(a => `
-    <div class="arch-item">
-      <div class="h">${esc(a.headline)}</div>
-      <div class="cap">“${esc(a.caption)}”</div>
-      <div class="row">
-        <span class="d">saved ${esc(a.savedDate)} · ${esc(a.source)}</span>
-        <button class="mini" onclick="copyText('${esc(a.key)}')">📋 caption</button>
-        <button class="mini" onclick="removeFromArchive('${esc(a.key)}')">🗑 削除</button>
-      </div>
-    </div>`).join("");
-}
-function copyText(key){
-  const a = state.archive.find(x=>x.key===key);
-  if (!a) return;
-  const done = () => toast("キャプションをコピーしました");
-  if (navigator.clipboard && navigator.clipboard.writeText){
-    navigator.clipboard.writeText(a.caption).then(done).catch(()=>fallbackCopy(a.caption, done));
-  } else fallbackCopy(a.caption, done);
-}
-
-/* ---------- weekly compilation (mock generator) ---------- */
-function weekLabel(){
-  const now = new Date();
-  const end = now.toISOString().slice(0,10);
-  const startD = new Date(now); startD.setDate(now.getDate()-6);
-  const start = startD.toISOString().slice(0,10);
-  return `${start} 〜 ${end}`;
-}
-
-/* ---------- Weekly Video Kit の文言・テンプレ設定 ----------
-   ※ この部分は今後仕様変更の可能性が高いため、文言と出力形式を
-     ここに集約。ラベルやテンプレ関数を差し替えるだけで変更できる。 */
-const VIDEO_KIT_TEXTS = {
-  sectionTitle: "Weekly Video Kit",
-  videoPrompt: {
-    label: "Runway / Video AI Prompt（動画生成AI用プロンプト）",
-    copyLabel: "📋 Copy Video AI Prompt"
-  },
-  narration: { label: "ナレーション原稿", copyLabel: "📋 Copy Narration" },
-  titles:    { label: "記事タイトル案（3案）" },
-  intro:     { label: "記事 導入文", copyLabel: "📋 導入文をコピー" }
-};
-
-/* 動画生成AIに入力するためのプロンプト素材（完成動画ではない）。
-   出力形式を変えたいときはこの関数だけ差し替えればよい。 */
-function buildVideoAiPromptText(picks, total){
-  return `※ これは完成動画ではなく、動画生成AI（Runway 等）に入力するためのプロンプト・素材です。
-
-■ Overall prompt:
-Create a vertical (9:16) short video, 60–90 seconds, in the style of a witty editorial-cartoon news digest. Warm cream background, soft rounded typography, gentle slow zoom on each illustration, soft crossfades between scenes. Tone: smart and ironic, never mean.
-
-■ Scene prompts:
-  Scene 0 (title card): Text "This Week in American Satire" — ${weekLabel()}
-${picks.map((a,i)=>`  Scene ${i+1}: ${a.imagePrompt}
-    On-screen caption: "${a.caption}"`).join("\n")}
-  Final scene (end card): Logo + text "Full stories on Substack"
-
-■ On-screen text notes: 各シーンに source / date を小さく表示（事実性の担保）
-■ 音楽・音声: このプロンプトには含めない（BGM・ナレーション音声は外部ツール側で追加する想定）
-■ 素材数: ${total}本のアーカイブから${picks.length}本を使用`;
-}
-
-/* ナレーション原稿（Weekly Video Kit とスライドショーの Copy Narration で共用） */
-function buildNarrationText(picks, total){
-  const n = total ?? picks.length;
-  return `（オープニング）
-今週もアメリカは平常運転でした。「This Week in American Satire」、${n}本のニュースから選んだハイライトをお届けします。
-
-${picks.map((a,i)=>`（シーン${i+1}）
-${a.headline.replace(/\.$/,"")} — ${a.summary ? a.summary.slice(0,60) : a.headline}…
-一言でいえば: 「${a.caption}」`).join("\n\n")}
-
-（クロージング）
-笑えるうちは、まだ考える余地があるということ。詳しい背景と各ニュースの出典は、Substackの記事でどうぞ。それでは、また来週。`;
-}
-
-function buildCompilation(){
-  const items = state.archive;
-  if (!items.length){
-    toast("保存された候補がありません。先に候補を保存してください");
-    return;
-  }
-  const n = items.length;
-  const picks = items.slice(0, 7); // 最大7本を週次素材に
-
-  /* 動画生成AI用プロンプト（テンプレは buildVideoAiPromptText に集約） */
-  const videoAiPrompt = buildVideoAiPromptText(picks, n);
-
-  /* ナレーション */
-  const narration = buildNarrationText(picks, n);
-
-  /* 記事タイトル案 */
-  const titleCandidates = [
-    `This Week in American Satire: ${picks[0] ? picks[0].headline.split(" ").slice(0,5).join(" ") : "Business as Usual"} & More`,
-    `今週のアメリカ皮肉ダイジェスト（${weekLabel()}）— ${n}本のニュースが語る「自由の国」の現在地`,
-    `Laugh Now, Think Later: ${n} American Headlines That Wrote Their Own Punchlines`
-  ];
-
-  /* 記事導入文 */
-  const intro =
-`今週もアメリカからは、脚本家が書いたら「やりすぎ」と却下されそうなニュースが届きました。${picks[0] ? "たとえば「" + picks[0].headline + "」。" : ""}本記事では、今週保存した${n}本の候補から選んだニュースを、①何が起きたか（事実）、②なぜ皮肉なのか（構図）、③外から見るとどう映るか（視点）の3段で読み解きます。笑いは批評の入り口です。まずは事実から、どうぞ。`;
-
-  document.getElementById("compOut").innerHTML = `
-    <section class="comp">
-      <h3>📼 ${esc(VIDEO_KIT_TEXTS.sectionTitle)} <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">${esc(weekLabel())} · ${n} items</span></h3>
-
-      <div class="comp-block">
-        <div class="slug image"><span class="dot"></span>${esc(VIDEO_KIT_TEXTS.videoPrompt.label)}</div>
-        <pre id="cpVideo">${esc(videoAiPrompt)}</pre>
-        <div class="btn-row"><button class="btn" onclick="copyComp('cpVideo')">${esc(VIDEO_KIT_TEXTS.videoPrompt.copyLabel)}</button></div>
-      </div>
-
-      <div class="comp-block">
-        <div class="slug commentary"><span class="dot"></span>${esc(VIDEO_KIT_TEXTS.narration.label)}</div>
-        <pre id="cpNarr">${esc(narration)}</pre>
-        <div class="btn-row"><button class="btn" onclick="copyComp('cpNarr')">${esc(VIDEO_KIT_TEXTS.narration.copyLabel)}</button></div>
-      </div>
-
-      <div class="comp-block">
-        <div class="slug"><span class="dot"></span>${esc(VIDEO_KIT_TEXTS.titles.label)}</div>
-        ${titleCandidates.map(t=>`<div class="art-title" style="margin-bottom:8px">${esc(t)}</div>`).join("")}
-      </div>
-
-      <div class="comp-block">
-        <div class="slug caption"><span class="dot"></span>${esc(VIDEO_KIT_TEXTS.intro.label)}</div>
-        <pre id="cpIntro">${esc(intro)}</pre>
-        <div class="btn-row"><button class="btn" onclick="copyComp('cpIntro')">${esc(VIDEO_KIT_TEXTS.intro.copyLabel)}</button></div>
-      </div>
-    </section>`;
-  toast("Weekly Video Kit を生成しました（モック）");
-  window.scrollTo({ top:0 });
-}
-function copyComp(id){
-  const el = document.getElementById(id);
-  if (!el) return;
-  const done = () => toast("コピーしました");
-  const text = el.textContent;
-  if (navigator.clipboard && navigator.clipboard.writeText){
-    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
-  } else fallbackCopy(text, done);
 }
 
 /* ---------- image downloads (SVG → PNG → ZIP) ----------
@@ -1441,160 +1268,6 @@ function regenArticle(){
   toast("記事を再生成しました（副題・イントロ・IRONY・結びを変更）");
 }
 
-/* ---------- weekly top 5 punchlines (mock generator) ----------
-   Weekly Archive の保存候補から新しい順に最大5本を選んで週末記事化。
-   ※ 将来は punchline strength / symbolic absurdity / outside view /
-     visual clarity のスコアで選定する想定。現段階は保存の新しい順。
-   事実（NEWS / EVENT）と風刺分析（WHY IT MADE THE WEEK）は混ぜない。 */
-const WEEKLY_SUBTITLES = [
-  "Seven days, five punchlines, zero writers required.",
-  "The week in review, as told by a country that keeps reviewing itself.",
-  "This week, the system was its own best material.",
-  "Five moments when American institutions finished their own jokes.",
-  "A weekly audit of the gap between the mission statement and the parking lot."
-];
-const WEEKLY_INTROS = [
-  "Every week, we file five stories where American institutions delivered the setup, the misdirection, and the punchline entirely on their own. Below are this week's strongest — each presented as fact first, satire second. The order is ours; the comedy was theirs.",
-  "It was another productive week for the republic's unofficial writers' room: committees, press offices, and ceremony planners. Here are the five entries that best captured the week's spirit — the facts laid out plainly, followed by exactly why they made the cut.",
-  "Some weeks the news needs a satirist. This week, as usual, it only needed a stenographer. These are the five stories we couldn't stop thinking about — reported straight, then examined for the contradiction at the center of each."
-];
-const WEEKLY_CLOSINGS = [
-  "That's the week. Five punchlines filed, none of them invented. The republic rests on weekends — allegedly. See you Monday morning at the desk.",
-  "Another week archived, another reminder that the strongest satire in America is minutes from an official meeting. Enjoy the weekend; the material certainly won't.",
-  "We close the ledger here. Five entries, all real, all self-written. Next week's edition is already in committee."
-];
-/* Punchline Strength は Caption 自体への短評（テンプレート巡回） */
-const PUNCHLINE_STRENGTH_TEMPLATES = [
-  (cap) => `One line, no context needed — "${cap}" does the work of a full op-ed.`,
-  (cap) => `It survives being read aloud with a straight face, which is the real test: "${cap}".`,
-  (cap) => `The misdirection lands in under twenty words. "${cap}" opens as a report and closes as a verdict.`
-];
-
-let weekSeed = Math.floor(Math.random() * WEEKLY_SUBTITLES.length);
-let weeklyTopPicks = [];   // 直近に生成したTop 5（ダウンロード/プロンプトコピー用）
-
-/* 保存データに英文素材が無い場合は元候補から補完、最終フォールバックは汎用文 */
-function weeklySourceFor(a){
-  const src = CANDIDATES.find(x => x.id === a.candidateId);
-  const newsEn = a.newsEn || (src && src.newsEn) ||
-    `${a.headline}. (Reported by ${a.source}, ${a.newsDate}.)`;
-  const ironySet = a.ironyEn || (src && src.ironyEn) || null;
-  const irony = ironySet
-    ? ironySet[weekSeed % ironySet.length]
-    : {
-        absurdity: "The event functions as its own parody; no exaggeration was required to make the point.",
-        outside: "Viewed from outside the U.S., the story reads like a sketch premise that happens to be documented."
-      };
-  return { newsEn, irony };
-}
-
-function buildWeeklyTopText(picks){
-  const subtitle = WEEKLY_SUBTITLES[weekSeed % WEEKLY_SUBTITLES.length];
-  const intro    = WEEKLY_INTROS[weekSeed % WEEKLY_INTROS.length];
-  const closing  = WEEKLY_CLOSINGS[weekSeed % WEEKLY_CLOSINGS.length];
-
-  const blocks = picks.map((a, i) => {
-    const { newsEn, irony } = weeklySourceFor(a);
-    const strength = PUNCHLINE_STRENGTH_TEMPLATES[(weekSeed + i) % PUNCHLINE_STRENGTH_TEMPLATES.length](a.caption);
-    const fileExt = (!!a.image && (a.imageVariant || 0) === 0) ? imgExt(a.image) : ".png";
-    return `## #${i + 1} ${a.caption}
-
-NEWS / EVENT:
-${newsEn}
-
-WHY IT MADE THE WEEK:
-- Punchline Strength: ${strength}
-- Symbolic Absurdity: ${irony.absurdity}
-- Outside View: ${irony.outside}
-
-Suggested image:
-Use archived image for this item. (file: punchline-republic-weekly-top-${i + 1}${fileExt})
-
-Image prompt:
-${a.imagePrompt}`;
-  }).join("\n\n---\n\n");
-
-  return `# The Punchline Republic: Weekly Top 5
-
-## ${subtitle}
-
-Intro:
-${intro}
-
----
-
-${blocks}
-
----
-
-${closing}`;
-}
-
-function generateWeeklyTop5(){
-  if (!state.archive.length){
-    document.getElementById("weeklyTopOut").innerHTML =
-      `<div class="empty" style="margin-bottom:20px">保存された候補がありません。<br>TODAY’S DESK から「💾 Save this candidate」で保存すると、ここから週末記事を生成できます。</div>`;
-    toast("保存された候補がありません");
-    return;
-  }
-  weekSeed++;
-  weeklyTopPicks = state.archive.slice(0, 5); // 新しい順の上位5本（5本未満ならある分だけ）
-  const n = weeklyTopPicks.length;
-  const text = buildWeeklyTopText(weeklyTopPicks);
-  document.getElementById("weeklyTopOut").innerHTML = `
-    <section class="comp">
-      <h3>🏆 Weekly Top 5 Punchlines <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">${esc(weekLabel())} · ${n} item${n>1?"s":""}</span></h3>
-      <pre class="article-pre" id="weeklyTopText">${esc(text)}</pre>
-      <div class="btn-row">
-        <button class="btn primary" onclick="copyComp('weeklyTopText')">📋 Copy Weekly Top 5 Article</button>
-        <button class="btn" onclick="downloadWeeklyTopImages()">🖼 Download Top 5 Images</button>
-        <button class="btn" onclick="copyWeeklyTopPrompts()">🎨 Copy Top 5 Image Prompts</button>
-      </div>
-      <p class="article-note">※ 現段階では保存の新しい順で最大5本を選んでいます（将来はパンチライン強度などのスコア選定を想定）。もう一度 Generate を押すと副題・イントロ・分析の表現・結びが切り替わります。画像は保存時点のバリエーションでダウンロードされます。</p>
-    </section>`;
-  toast(n < 5 ? `保存数が${n}本のため、${n}本で生成しました` : "Weekly Top 5 を生成しました（モック）");
-  document.getElementById("weeklyTopOut").scrollIntoView({ behavior:"smooth", block:"start" });
-}
-
-function downloadWeeklyTopImages(){
-  if (!weeklyTopPicks.length){ toast("先に Weekly Top 5 を生成してください"); return; }
-  const items = weeklyTopPicks.map((a, i) => {
-    const useReal = !!a.image && a.imageVariant === 0;
-    return {
-      svg: placeholderSVG(a.imageSeed, a.imageVariant, "TOP" + (i + 1)),
-      url: useReal ? a.image : null,
-      filename: `punchline-republic-weekly-top-${i + 1}` + (useReal ? imgExt(a.image) : ".png")
-    };
-  });
-  downloadImagesAsZip(items, "punchline-republic-weekly-top-images.zip");
-}
-
-function copyWeeklyTopPrompts(){
-  if (!weeklyTopPicks.length){ toast("先に Weekly Top 5 を生成してください"); return; }
-  const text = weeklyTopPicks.map((a, i) =>
-`#${i + 1} "${a.caption}"
-Image prompt: ${a.imagePrompt}`).join("\n\n");
-  const done = () => toast("Top 5 の image prompt をコピーしました");
-  if (navigator.clipboard && navigator.clipboard.writeText){
-    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
-  } else fallbackCopy(text, done);
-}
-
-/* ---------- weekly slideshow video (canvas + MediaRecorder) ----------
-   外部ライブラリなし・外部通信ゼロ。
-   タイトルカード(3秒) → 各候補6秒（画像ズーム + Caption 大表示 + フェード）
-   → エンドカード(3秒)。WebM書き出しは MediaRecorder 対応ブラウザのみ。 */
-const SLIDE_W = 720, SLIDE_H = 1280;   // 縦型ショート動画 (9:16)
-const ITEM_MS = 6000, CARD_MS = 3000;
-let slideshowBusy = false;
-let slideshowPicks = [];
-
-function getSlideshowPicks(){
-  // Weekly Top 5 を生成済みならその5本、なければArchiveの新しい順5本
-  if (weeklyTopPicks.length) return weeklyTopPicks.slice(0, 5);
-  return state.archive.slice(0, 5);
-}
-
 function svgToImage(svgStr){
   return new Promise((resolve, reject) => {
     // canvasへの描画にはintrinsic sizeが必要なので width/height を付与
@@ -1606,305 +1279,11 @@ function svgToImage(svgStr){
   });
 }
 
-function wrapCanvasText(ctx, text, maxWidth){
-  const words = text.split(" ");
-  const lines = [];
-  let line = "";
-  for (const w of words){
-    const test = line ? line + " " + w : w;
-    if (ctx.measureText(test).width > maxWidth && line){
-      lines.push(line); line = w;
-    } else line = test;
-  }
-  if (line) lines.push(line);
-  return lines;
-}
-
-/* 各スライドの描画。t は 0→1 の進行度 */
-function drawSlide(ctx, slide, t){
-  const fade = Math.max(0, Math.min(1, t * 8, (1 - t) * 8)); // フェードイン/アウト
-  ctx.clearRect(0, 0, SLIDE_W, SLIDE_H);
-  ctx.fillStyle = "#F6F1E7";
-  ctx.fillRect(0, 0, SLIDE_W, SLIDE_H);
-  ctx.save();
-  ctx.globalAlpha = fade;
-  ctx.textAlign = "center";
-
-  const ROUND = '"Hiragino Maru Gothic ProN", "Yu Gothic", sans-serif';
-
-  if (slide.type === "title"){
-    ctx.fillStyle = "#E2A44E";
-    ctx.font = "bold 26px " + ROUND;
-    ctx.fillText("W E E K L Y   E D I T I O N", SLIDE_W/2, 480);
-    ctx.fillStyle = "#5F7291";
-    ctx.font = "bold 56px " + ROUND;
-    ctx.fillText("The Punchline", SLIDE_W/2, 580);
-    ctx.fillText("Republic:", SLIDE_W/2, 650);
-    ctx.fillStyle = "#CD6B57";
-    ctx.font = "bold 72px " + ROUND;
-    ctx.fillText("Weekly Top 5", SLIDE_W/2, 760);
-    ctx.fillStyle = "#9C9077";
-    ctx.font = "22px Menlo, monospace";
-    ctx.fillText(weekLabel(), SLIDE_W/2, 830);
-  }
-  else if (slide.type === "item"){
-    // 順位バッジ
-    ctx.fillStyle = "#E2A44E";
-    ctx.beginPath();
-    ctx.arc(SLIDE_W/2, 190, 52, 0, Math.PI * 2);
-    ctx.fill();
-    ctx.fillStyle = "#FFFDF8";
-    ctx.font = "bold 46px " + ROUND;
-    ctx.fillText("#" + (slide.rank), SLIDE_W/2, 206);
-    // 画像（軽いズームイン・実画像の縦横比に合わせてカバー表示）
-    if (slide.img){
-      const zoom = 1 + 0.08 * t;
-      const rx = 50, ry = 300, rw = 620, rh = 620 * (340/640);
-      const ratio = (slide.img.height && slide.img.width)
-        ? slide.img.height / slide.img.width : (340/640);
-      let iw = rw, ih = rw * ratio;
-      if (ih < rh){ ih = rh; iw = rh / ratio; }
-      iw *= zoom; ih *= zoom;
-      ctx.save();
-      ctx.beginPath();
-      if (ctx.roundRect) ctx.roundRect(rx, ry, rw, rh, 20);
-      else ctx.rect(rx, ry, rw, rh);
-      ctx.clip();
-      ctx.drawImage(slide.img, rx + rw/2 - iw/2, ry + rh/2 - ih/2, iw, ih);
-      ctx.restore();
-    }
-    // Caption（大きく重ねる）
-    ctx.fillStyle = "#3B3F4E";
-    ctx.font = "bold 40px " + ROUND;
-    const lines = wrapCanvasText(ctx, slide.caption, 600);
-    const startY = 760;
-    lines.slice(0, 6).forEach((ln, i) => ctx.fillText(ln, SLIDE_W/2, startY + i * 56));
-    ctx.fillStyle = "#9C9077";
-    ctx.font = "20px Menlo, monospace";
-    ctx.fillText("— The Punchline Republic", SLIDE_W/2, startY + Math.min(lines.length, 6) * 56 + 50);
-  }
-  else if (slide.type === "end"){
-    ctx.fillStyle = "#5F7291";
-    ctx.font = "bold 52px " + ROUND;
-    ctx.fillText("Read the full piece", SLIDE_W/2, 590);
-    ctx.fillText("on Substack", SLIDE_W/2, 660);
-    ctx.fillStyle = "#CD6B57";
-    ctx.font = "bold 30px " + ROUND;
-    ctx.fillText("The Punchline Republic", SLIDE_W/2, 760);
-  }
-  ctx.restore();
-}
-
-function setSlideStatus(msg){
-  const el = document.getElementById("slideStatus");
-  if (el) el.textContent = msg;
-}
-
-function generateSlideshow(){
-  if (!state.archive.length){
-    document.getElementById("slideshowOut").innerHTML =
-      `<div class="empty" style="margin-bottom:20px">保存された候補がありません。<br>TODAY’S DESK から「💾 Save this candidate」で保存すると、スライドショー動画を作れます。</div>`;
-    toast("保存された候補がありません");
-    return;
-  }
-  // 記事ピッカー: 日付 + Caption（+ 元見出し）から動画化する記事を選ぶ
-  const rows = state.archive.map(a => `
-    <label class="pick-row">
-      <input type="checkbox" class="slide-pick" value="${esc(a.key)}">
-      <span class="pick-body">
-        <span class="pick-date">saved ${esc(a.savedDate)}</span>
-        <span class="pick-cap">${esc(a.caption)}</span>
-        <span class="pick-head">${esc(a.headline)}</span>
-      </span>
-    </label>`).join("");
-  document.getElementById("slideshowOut").innerHTML = `
-    <section class="comp">
-      <h3>🎬 Weekly Slideshow Video <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">記事を選択</span></h3>
-      <p class="article-note" style="margin:4px 0 12px">動画化したい記事にチェックを入れてください（複数選択可）。<b>何も選ばずに生成した場合</b>は、Weekly Top 5 生成済みならその5本、未生成なら新しい順5本を自動で使います。1本あたり約6秒です。</p>
-      <div class="pick-list">${rows}</div>
-      <div class="btn-row">
-        <button class="btn primary" onclick="startSlideshowFromPicker()">🎬 選択した記事で動画を生成</button>
-      </div>
-    </section>`;
-  document.getElementById("slideshowOut").scrollIntoView({ behavior:"smooth", block:"start" });
-}
-
-function startSlideshowFromPicker(){
-  const checked = Array.from(document.querySelectorAll(".slide-pick:checked")).map(el => el.value);
-  let picks, source;
-  if (checked.length){
-    picks = state.archive.filter(a => checked.includes(a.key));
-    source = `手動選択 ${picks.length}本`;
-  } else {
-    picks = getSlideshowPicks();
-    source = weeklyTopPicks.length ? "Weekly Top 5 の選定" : "Archiveの新しい順";
-  }
-  if (!picks.length){ toast("保存された候補がありません"); return; }
-  startSlideshow(picks, source);
-}
-
-function startSlideshow(picks, source){
-  slideshowPicks = picks;
-  const n = picks.length;
-  const totalSec = Math.round((CARD_MS * 2 + ITEM_MS * n) / 1000);
-  document.getElementById("slideshowOut").innerHTML = `
-    <section class="comp">
-      <h3>🎬 Weekly Slideshow Video <span style="font-family:var(--mono);font-size:11px;color:var(--muted)">${n} slides · 約${totalSec}秒 · ${esc(source)}</span></h3>
-      <div class="video-wrap">
-        <canvas id="slideCanvas" width="${SLIDE_W}" height="${SLIDE_H}"></canvas>
-        <div class="video-status" id="slideStatus">準備完了 — Play Preview で再生できます</div>
-      </div>
-      <div class="btn-row">
-        <button class="btn" onclick="playSlideshow(false)">▶ Play Preview</button>
-        <button class="btn primary" onclick="playSlideshow(true)">⬇ Download Slideshow Video</button>
-        <button class="btn" onclick="copySlideshowNarration()">📋 Copy Narration</button>
-        <button class="btn" onclick="generateSlideshow()">↩ 記事を選び直す</button>
-      </div>
-      <p class="article-note" id="exportNotice"></p>
-      <p class="article-note">※ 動画書き出しは、ブラウザが対応していればMP4、非対応の場合はWebMに自動フォールバックします（実際の形式はステータス行に表示）。BGM・音声は外部ツール（Premiere / CapCut 等）で追加する想定です。タイトル3秒 + 各スライド6秒 + エンドカード3秒。</p>
-    </section>`;
-  toast(`スライドショーを準備しました（${n}本 / 約${totalSec}秒）`);
-  playSlideshow(false); // すぐにプレビュー再生
-}
-
-function copySlideshowNarration(){
-  if (!slideshowPicks.length){ toast("先にスライドショーを生成してください"); return; }
-  const text = buildNarrationText(slideshowPicks);
-  const done = () => toast("ナレーション原稿をコピーしました");
-  if (navigator.clipboard && navigator.clipboard.writeText){
-    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
-  } else fallbackCopy(text, done);
-}
-
-/* スライドショー用の画像読み込み: AI生成の実画像があれば使い、
-   無い/読めない場合はプレースホルダーSVGにフォールバック */
-function loadPickImage(a, i){
-  const fallback = () =>
-    svgToImage(placeholderSVG(a.imageSeed, a.imageVariant || 0, "TOP" + (i + 1)).trim())
-      .catch(() => null);
-  if (a.image && (a.imageVariant || 0) === 0){
-    return new Promise((resolve) => {
-      const img = new Image();
-      img.onload = () => resolve(img);
-      img.onerror = () => fallback().then(resolve);
-      img.src = a.image;
-    });
-  }
-  return fallback();
-}
-
-async function playSlideshow(record){
-  if (slideshowBusy){ toast("再生・録画の処理中です。終わるまでお待ちください"); return; }
-  const canvas = document.getElementById("slideCanvas");
-  if (!canvas || !slideshowPicks.length){ toast("先にスライドショーを生成してください"); return; }
-  slideshowBusy = true;
-  const ctx = canvas.getContext("2d");
-
-  try {
-    // 画像の事前準備（実画像 or プレースホルダー）
-    setSlideStatus("画像を準備中…");
-    const imgs = await Promise.all(slideshowPicks.map((a, i) => loadPickImage(a, i)));
-    const slides = [
-      { type:"title", dur:CARD_MS },
-      ...slideshowPicks.map((a, i) => ({ type:"item", dur:ITEM_MS, rank:i+1, caption:a.caption, img:imgs[i] })),
-      { type:"end", dur:CARD_MS }
-    ];
-    const totalMs = slides.reduce((s, x) => s + x.dur, 0);
-
-    // 録画セットアップ: MP4優先、非対応ならWebMに自動フォールバック
-    const EXPORT_MIME_CANDIDATES = [
-      'video/mp4; codecs="avc1.42E01E, mp4a.40.2"',
-      'video/mp4',
-      'video/webm; codecs=vp9',
-      'video/webm; codecs=vp8',
-      'video/webm'
-    ];
-    let recorder = null;
-    let exportIsMp4 = false;
-    const chunks = [];
-    const noticeEl = document.getElementById("exportNotice");
-    if (noticeEl) noticeEl.innerHTML = "";
-    if (record){
-      if (!canvas.captureStream || typeof MediaRecorder === "undefined"){
-        toast("このブラウザは動画書き出し非対応のため、プレビューのみ再生します");
-        record = false;
-      } else {
-        const mime = EXPORT_MIME_CANDIDATES.find(t =>
-          MediaRecorder.isTypeSupported && MediaRecorder.isTypeSupported(t)) || "";
-        exportIsMp4 = mime.startsWith("video/mp4");
-        const stream = canvas.captureStream(30);
-        recorder = new MediaRecorder(stream, mime ? { mimeType: mime } : undefined);
-        recorder.ondataavailable = e => { if (e.data && e.data.size) chunks.push(e.data); };
-        recorder.onstop = () => {
-          const container = exportIsMp4 ? "video/mp4" : "video/webm";
-          const ext = exportIsMp4 ? "mp4" : "webm";
-          const blob = new Blob(chunks, { type: container });
-          const url = URL.createObjectURL(blob);
-          const a = document.createElement("a");
-          a.href = url;
-          a.download = "punchline-republic-weekly-slideshow." + ext;
-          document.body.appendChild(a);
-          a.click();
-          document.body.removeChild(a);
-          setTimeout(() => URL.revokeObjectURL(url), 4000);
-          toast(`スライドショー動画（${ext.toUpperCase()}）をダウンロードしました`);
-        };
-        recorder.start(250);
-        if (!exportIsMp4 && noticeEl){
-          noticeEl.innerHTML =
-            "⚠ Your browser does not support MP4 recording directly. The video will be exported as WebM. For wider compatibility, convert it to MP4 using Premiere Pro, CapCut, HandBrake, or another video tool.<br>" +
-            "⚠ このブラウザではMP4の直接書き出しに対応していないため、WebM形式で保存します。Premiere Pro、CapCut、HandBrakeなどでMP4に変換してください。";
-        }
-      }
-    }
-    const fmtLabel = record ? (exportIsMp4 ? " · Export format: MP4" : " · Export format: WebM fallback") : "";
-
-    // 再生ループ
-    await new Promise(resolve => {
-      const t0 = performance.now();
-      function frame(now){
-        const elapsed = now - t0;
-        if (elapsed >= totalMs){
-          drawSlide(ctx, slides[slides.length - 1], 0.99);
-          resolve();
-          return;
-        }
-        let acc = 0;
-        for (const s of slides){
-          if (elapsed < acc + s.dur){
-            drawSlide(ctx, s, (elapsed - acc) / s.dur);
-            break;
-          }
-          acc += s.dur;
-        }
-        setSlideStatus((record ? "🔴 録画中 " : "▶ 再生中 ") +
-          Math.floor(elapsed/1000) + "s / " + Math.floor(totalMs/1000) + "s" + fmtLabel);
-        requestAnimationFrame(frame);
-      }
-      requestAnimationFrame(frame);
-    });
-
-    if (recorder && recorder.state !== "inactive") recorder.stop();
-    setSlideStatus(record
-      ? "書き出し完了" + fmtLabel
-      : "再生終了 — もう一度再生 / ダウンロードできます");
-  } catch (e){
-    setSlideStatus("エラーが発生しました: " + (e && e.message ? e.message : e));
-    toast("スライドショーの処理中にエラーが発生しました");
-  } finally {
-    slideshowBusy = false;
-  }
-}
-
 /* ---------- init ---------- */
 function renderAll(){
   renderCards();
-  renderArchive();
+  renderEditorial();
 }
-document.getElementById("btnCompile").addEventListener("click", buildCompilation);
-document.getElementById("btnWeeklyTop5").addEventListener("click", generateWeeklyTop5);
-document.getElementById("btnSlideshow").addEventListener("click", generateSlideshow);
-document.getElementById("btnClearArchive").addEventListener("click", clearArchive);
 document.getElementById("btnArticle").addEventListener("click", generateArticle);
 document.getElementById("btnDownloadAll").addEventListener("click", downloadAllImages);
 document.getElementById("editionDate").textContent =
@@ -1913,10 +1292,9 @@ document.getElementById("editionDate").textContent =
 function updateTodayLede(){
   const el = document.getElementById("todayLede");
   if (!el) return;
-  el.textContent = `今朝の候補 ${CANDIDATES.length} 本（データ: ${dataSource}）。気に入った候補は保存して Weekly Archive に貯めてください。`;
+  el.textContent = `今朝の候補 ${CANDIDATES.length} 本（データ: ${dataSource}）。ネタを確認したら EDITOR'S ROOM で今日の下書きをどうぞ。`;
 }
 
-loadArchive();
 loadDailyData().then(() => {
   renderAll();
   updateTodayLede();
@@ -1924,9 +1302,6 @@ loadDailyData().then(() => {
     toast("daily.json が見つからないため、内蔵モックデータを表示しています");
   } else {
     toast(`今朝のデータを読み込みました（${dataSource}）`);
-  }
-  if (!storage.persistent){
-    setTimeout(() => toast("この環境では localStorage が使えないため、保存はページを閉じるまで有効です"), 2200);
   }
 });
 </script>
