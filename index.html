@@ -360,7 +360,7 @@
 
 <main>
   <!-- ===== TODAY ===== -->
-  <div id="view-today" class="view active">
+  <div id="view-today" class="view">
     <p class="lede" id="todayLede">今朝の候補を読み込んでいます…</p>
     <div id="cards"></div>
     <div class="article-actions">
@@ -371,7 +371,7 @@
   </div>
 
   <!-- ===== EDITOR'S ROOM ===== -->
-  <div id="view-editorial" class="view">
+  <div id="view-editorial" class="view active">
     <p class="lede" id="edLede">編集室のデータを読み込んでいます…</p>
     <div id="editorialOut"></div>
   </div>
@@ -379,8 +379,8 @@
 </main>
 
 <nav class="tabs">
-  <button id="tab-today" class="active" onclick="switchView('today')">TODAY’S DESK</button>
-  <button id="tab-editorial" onclick="switchView('editorial')">EDITOR’S ROOM</button>
+  <button id="tab-editorial" class="active" onclick="switchView('editorial')">EDITOR’S ROOM</button>
+  <button id="tab-today" onclick="switchView('today')">TODAY’S DESK</button>
 </nav>
 
 <div id="toast" role="status"></div>
@@ -1298,6 +1298,8 @@ function updateTodayLede(){
 loadDailyData().then(() => {
   renderAll();
   updateTodayLede();
+  // 編集室データが無い日（生成失敗時など）は、空画面を見せずにTODAYを開く
+  if (!EDITORIAL) switchView("today");
   if (dataSource === "内蔵モックデータ"){
     toast("daily.json が見つからないため、内蔵モックデータを表示しています");
   } else {
