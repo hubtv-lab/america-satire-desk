@@ -797,6 +797,7 @@ function normalizeEditorial(raw){
       thread:  String(raw.thread || ""),
       titleEn: String(raw.titleEn || ""),
       titleJa: String(raw.titleJa || ""),
+      titleAltJa: (Array.isArray(raw.titleAltJa) ? raw.titleAltJa : []).map(String).filter(Boolean),
       fullEn:  String(raw.fullEn || ""),
       fullJa:  String(raw.fullJa || ""),
       notesEn: (Array.isArray(raw.notesEn) ? raw.notesEn : []).map(String).filter(Boolean),
@@ -937,6 +938,8 @@ function copyEd(kind, index){
   else if (kind === "fullJa") text = EDITORIAL.fullJa;
   else if (kind === "note") text = EDITORIAL.notesEn[index] || "";
   else if (kind === "x") text = EDITORIAL.xJa[index] || "";
+  else if (kind === "titleMain") text = EDITORIAL.titleJa;
+  else if (kind === "titleAlt") text = EDITORIAL.titleAltJa[index] || "";
   if (!text) return;
   const done = () => toast("コピーしました");
   if (navigator.clipboard && navigator.clipboard.writeText){
@@ -994,7 +997,23 @@ function renderEditorial(){
       <h3>📮 note 下書き（日本語モノローグ）</h3>
       <div class="ed-pre">${esc(EDITORIAL.fullJa)}</div>
       <button class="btn primary" onclick="copyEd('fullJa')">📋 note用にコピー</button>
+      <p class="lede" style="margin:10px 0 0">💡 貼り付け後: 記事の末尾に自分の過去note記事へのリンクを2〜3本並べると、1人が複数記事を読む「note内回遊」が生まれます（回遊は購入の柱）。</p>
     </div>
+
+    ${(EDITORIAL.titleJa || EDITORIAL.titleAltJa.length) ? `
+    <div class="ed-card">
+      <h3>🏷 note タイトル案（読まれるかはタイトルで決まる）</h3>
+      ${EDITORIAL.titleJa ? `
+      <div class="ed-item">
+        <div class="t"><b>本命:</b> ${esc(EDITORIAL.titleJa)}</div>
+        <button class="btn" onclick="copyEd('titleMain')">📋</button>
+      </div>` : ""}
+      ${EDITORIAL.titleAltJa.map((t, i) => `
+      <div class="ed-item">
+        <div class="t">${esc(t)}</div>
+        <button class="btn" onclick="copyEd('titleAlt',${i})">📋</button>
+      </div>`).join("")}
+    </div>` : ""}
 
     <div class="ed-card">
       <h3>🗒 Substack Notes 候補（毎日1〜3本投稿）</h3>
