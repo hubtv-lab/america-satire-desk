@@ -394,6 +394,9 @@ def validate_picks(data: dict, items: list[dict]) -> list[dict]:
 
 EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIです。すでに選定済みの本日の風刺候補5本をもとに、ニュースレター用モノローグの下書き（英語版・日本語版）と、SNS投稿候補を作ります。これはあくまで下書きであり、最終的なリライト・事実確認・投稿は必ず人間の編集者が行います。
 
+【この商品が売っているもの（全設計の前提）】
+読者が買っているのは「ニュース」ではない。「角度」だ。この記事を読んだ人は、職場・学校・飲み会でこの話題が出たとき、気の利いた視点から一言言えるようになる——それがこの商品の価値。ニュースの要約は無料でどこにでもある。「皮肉の見出し方」「矛盾の突き方」という読み方の技術と、明日そのまま使える一言を持ち帰らせること。すべての見出し・本文・一言はこの前提で書く。
+
 【ペルソナ（厳守）】
 語り手は「東京でアメリカのニュースを毎朝読んで、頭を抱えている男」。
 - 英語版: An ordinary guy in Tokyo reading American news every morning so you don't have to. 自虐的で、外部者ならではの困惑と好奇心がある。アメリカを見下すのではなく「うちの国も大概だけど、おたくの国は今日も一段と面白いね」という対等な立場のツッコミ。凝りすぎた慣用句の曲芸は不要。シンプルで明瞭な英語と観察の鋭さが武器。一人称は I。
@@ -433,9 +436,24 @@ noteでは読まれるかどうかの大半がタイトルで決まる。note公
 - トレンド性: その日の話題語（人名・企業名・事件）を自然に入れる
 本命titleJaに加え、titleAltJaに別角度の2案を作り、型を必ず変えること:
 - 1案は「固有名詞・数字の違和感」型（例: 具体的な数字がそのままオチになっている）
-- 1案は「読者への問いかけ・呼びかけ」型
+- 1案は「これで語れる」型（読み終えたら何をどう語れるようになるかが伝わる。例:「『5000億ドルのAI投資』の話題が出たら、この一言を返せばいい」）
 - 1案は「ぼやき・本音がこぼれた」型
+titleEn / subtitleEn も同じ思想で: 英語の副題は「この記事を読むと何が語れるようになるか」を軽く匂わせる（説教くさくせず、ウィットで）。
 釣らない。本文が答えられない約束をタイトルでしない。「〜がヤバい」「衝撃の」等の摩耗した釣り語は使わない。
+
+【今日の使える一言（quipEn / quipJa）】
+記事の締めに置く「持ち帰り」。読者が明日、会議や飲み会でこの話題が出たときに、そのまま口に出して使える気の利いた一言。
+- 自己完結型（ニュースの前提を知らない相手にも通じる形）
+- 1〜2文。暗記できる短さ。賢く聞こえるが、嫌味に聞こえない
+- quipEnとquipJaは同じ趣旨でよいが、直訳ではなくそれぞれの言語で口に出して自然な形にする
+
+【今日の運勢（fortuneJa / fortuneEn）】
+記事のもう一つの持ち帰り。皮肉を読んだ読者を、最後に少しだけ元気にして帰す「ニュース連動型の前向き占い」。
+- 必ずその日の「一本の糸」（今日の5本に通底するテーマ）に絡めること。汎用の占い文は禁止（例: 糸が「誰も読まない約款」の日なら→「3,000ページ読まない議員でも法律は通る。あなたの今日のタスクも、完璧に読み込んでから始めなくていい。仕事運は上向きです」）
+- 星座別にしない。全読者向けに1本だけ
+- 2〜3文。仕事運・恋愛運・金運のどれかに軽く触れてよい
+- 構造は「ニュースの皮肉→だからあなたは大丈夫、という論理の飛躍→前向きな着地」。説教とスピリチュアル用語は禁止。自己肯定感がその日だけ少し上がる読後感に
+- fortuneEnはThe Onionの風刺占いの伝統を意識しつつ、最後は必ず温かく着地させる（皮肉で終わらせない）
 
 【出力形式（厳守）】
 - 有効なJSONのみを出力する。前置き・後書き・コードフェンスは一切付けない。
@@ -445,8 +463,14 @@ JSONスキーマ:
 {
   "thread": "<日本語1〜2文。今日の5本を貫く『一本の糸』（人間の編集者向けメモ）>",
   "titleEn": "<英語タイトル。ニュースレターの件名になる。punchyに、60文字以内>",
+  "subtitleEn": "<英語の副題(dek)。1文・15語以内。タイトルの下に表示され、開封を後押しするフック>",
   "titleJa": "<日本語タイトル本命案。note記事の見出しになる>",
   "titleAltJa": ["<日本語タイトル別案（本命と型を変える）>", "<日本語タイトル別案（さらに別の型）>"],
+  "leadJa": "<日本語。note記事の冒頭に置く掴み2〜3文。タイトルの約束をすぐ回収しつつ、続きを読ませる。ペルソナの声で>",
+  "quipEn": "<英語1〜2文。読者が明日そのまま会話で使える、今日一番の気の利いた一言>",
+  "quipJa": "<日本語1〜2文。同趣旨の日本語版。口に出して自然な形>",
+  "fortuneEn": "<英語2〜3文。今日のニュースに絡めた前向き占い(Today's Forecast)。温かく着地>",
+  "fortuneJa": "<日本語2〜3文。今日のニュースに絡めた前向き占い。自己肯定感が上がる着地>",
   "monologueEn": {
     "opener": "<英語>",
     "beats": [{"ref": "d1", "text": "<英語>"}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}],
@@ -536,11 +560,31 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
     title_alt = [t.strip() for t in title_alt
                  if isinstance(t, str) and len(t.strip()) >= 5][:3]
 
+    # 副題(EN)とリード文(JA)も任意項目（無ければ空。フロント側でフォールバック）
+    subtitle_en = data.get("subtitleEn")
+    subtitle_en = subtitle_en.strip() if isinstance(subtitle_en, str) and len(subtitle_en.strip()) >= 8 else ""
+    lead_ja = data.get("leadJa")
+    lead_ja = lead_ja.strip() if isinstance(lead_ja, str) and len(lead_ja.strip()) >= 10 else ""
+    quip_en = data.get("quipEn")
+    quip_en = quip_en.strip() if isinstance(quip_en, str) and len(quip_en.strip()) >= 10 else ""
+    quip_ja = data.get("quipJa")
+    quip_ja = quip_ja.strip() if isinstance(quip_ja, str) and len(quip_ja.strip()) >= 8 else ""
+    fortune_en = data.get("fortuneEn")
+    fortune_en = fortune_en.strip() if isinstance(fortune_en, str) and len(fortune_en.strip()) >= 15 else ""
+    fortune_ja = data.get("fortuneJa")
+    fortune_ja = fortune_ja.strip() if isinstance(fortune_ja, str) and len(fortune_ja.strip()) >= 12 else ""
+
     return {
         "thread": thread,
         "titleEn": title_en,
+        "subtitleEn": subtitle_en,
         "titleJa": title_ja,
         "titleAltJa": title_alt,
+        "leadJa": lead_ja,
+        "quipEn": quip_en,
+        "quipJa": quip_ja,
+        "fortuneEn": fortune_en,
+        "fortuneJa": fortune_ja,
         "monologueEn": mono_en,
         "monologueJa": mono_ja,
         "notesEn": notes[:NUM_NOTES],
@@ -572,14 +616,28 @@ def assemble_full_text(editorial: dict, candidates: list[dict]) -> None:
     parts_en = [f"# {editorial['titleEn']}", "", en["opener"], ""]
     for b in en["beats"]:
         parts_en += [b["text"], ""]
-    parts_en += [en["closer"], ""] + docket_en()
+    parts_en += [en["closer"], ""]
+    if editorial.get("fortuneEn"):
+        parts_en += ["**Today's Forecast** (news-based, scientifically dubious, warmly meant):", "",
+                     f"> {editorial['fortuneEn']}", ""]
+    if editorial.get("quipEn"):
+        parts_en += ["**Steal this line** — for your next meeting:", "",
+                     f"> {editorial['quipEn']}", ""]
+    parts_en += docket_en()
     editorial["fullEn"] = "\n".join(parts_en).strip() + "\n"
 
     ja = editorial["monologueJa"]
     parts_ja = [f"# {editorial['titleJa']}", "", ja["opener"], ""]
     for b in ja["beats"]:
         parts_ja += [b["text"], ""]
-    parts_ja += [ja["closer"], ""] + docket_ja()
+    parts_ja += [ja["closer"], ""]
+    if editorial.get("fortuneJa"):
+        parts_ja += ["**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:", "",
+                     f"> {editorial['fortuneJa']}", ""]
+    if editorial.get("quipJa"):
+        parts_ja += ["**今日の使える一言**（明日この話題が出たら、これをどうぞ）:", "",
+                     f"> {editorial['quipJa']}", ""]
+    parts_ja += docket_ja()
     editorial["fullJa"] = "\n".join(parts_ja).strip() + "\n"
 
 
@@ -656,8 +714,11 @@ JSONスキーマ:
     {"id": "d4", "...": "..."}, {"id": "d5", "...": "..."}
   ],
   "editorial": {
-    "thread": "<日本語>", "titleEn": "<英語>", "titleJa": "<日本語>",
-    "titleAltJa": ["<日本語>", "<日本語>"],
+    "thread": "<日本語>", "titleEn": "<英語>", "subtitleEn": "<英語の副題1文>",
+    "titleJa": "<日本語>", "titleAltJa": ["<日本語>", "<日本語>"],
+    "leadJa": "<日本語。note冒頭の掴み2〜3文>",
+    "quipEn": "<英語。明日使える一言>", "quipJa": "<日本語。明日使える一言>",
+    "fortuneEn": "<英語。ニュース連動の前向き占い>", "fortuneJa": "<日本語。同>",
     "monologueEn": {"opener": "...", "beats": [{"ref": "d1", "text": "..."}], "closer": "..."},
     "monologueJa": {"opener": "...", "beats": [{"ref": "d1", "text": "..."}], "closer": "..."},
     "notesEn": ["<英語8本>"], "xJa": ["<日本語8本>"]
@@ -682,8 +743,9 @@ def build_review_prompt(candidates: list[dict], editorial: dict, today: str) -> 
                 "imagePrompts": c["imagePrompts"],
             } for c in candidates
         ],
-        "editorial": {k: editorial[k] for k in
-                      ("thread", "titleEn", "titleJa", "titleAltJa",
+        "editorial": {k: editorial.get(k) for k in
+                      ("thread", "titleEn", "subtitleEn", "titleJa", "titleAltJa",
+                       "leadJa", "quipEn", "quipJa", "fortuneEn", "fortuneJa",
                        "monologueEn", "monologueJa", "notesEn", "xJa")},
     }
     return ("本日の風刺コンテンツ一式です。審査基準に沿って読み直し、"
@@ -843,13 +905,169 @@ def prune_old_images() -> None:
     """IMAGE_KEEP_DAYS より古い日付フォルダを削除してリポジトリの肥大を防ぐ。"""
     if not IMAGES_DIR.exists():
         return
+    import shutil
     cutoff = (datetime.now(JST) - timedelta(days=IMAGE_KEEP_DAYS)).strftime("%Y-%m-%d")
     for d in sorted(IMAGES_DIR.iterdir()):
         if d.is_dir() and re.fullmatch(r"\d{4}-\d{2}-\d{2}", d.name) and d.name < cutoff:
-            for f in d.iterdir():
-                f.unlink()
-            d.rmdir()
+            shutil.rmtree(d, ignore_errors=True)  # carousel等のサブフォルダごと削除
             print(f"[info] pruned old images: {d.name}")
+
+
+# ----------------------------------------------------------------
+# 3.7. カルーセル自動組版（TikTokフォトモード / Instagram用・英語）
+#   - 表紙 + 風刺画5枚(パンチライン焼き込み) + CTA の7枚を毎朝生成
+#   - 1080x1350 (4:5)。Pillowのみで組版。失敗しても本体は止めない
+# ----------------------------------------------------------------
+
+CAROUSEL_W, CAROUSEL_H = 1080, 1350
+C_CREAM = (246, 241, 231)   # サイトと同じ配色
+C_TEXT = (69, 63, 54)
+C_NAVY = (95, 114, 145)
+C_CORAL = (205, 107, 87)
+C_LINE = (231, 222, 204)
+FONT_DIR = "/usr/share/fonts/truetype/dejavu"
+NEWSLETTER_CTA = os.environ.get(
+    "CAROUSEL_CTA", "Full monologue + the line to steal → link in bio")
+
+
+def _font(size: int, bold: bool = True):
+    from PIL import ImageFont
+    name = "DejaVuSans-Bold.ttf" if bold else "DejaVuSans.ttf"
+    try:
+        return ImageFont.truetype(f"{FONT_DIR}/{name}", size)
+    except Exception:
+        return ImageFont.load_default()
+
+
+def _wrap_text(draw, text: str, font, max_width: int) -> list[str]:
+    """ピクセル幅で折り返し。"""
+    words, lines, cur = text.split(), [], ""
+    for w in words:
+        trial = (cur + " " + w).strip()
+        if draw.textlength(trial, font=font) <= max_width:
+            cur = trial
+        else:
+            if cur:
+                lines.append(cur)
+            cur = w
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def _draw_wrapped(draw, text, font, x, y, max_width, fill, line_gap=10) -> int:
+    """折り返して描画し、次のy座標を返す。"""
+    for line in _wrap_text(draw, text, font, max_width):
+        draw.text((x, y), line, font=font, fill=fill)
+        y += font.size + line_gap
+    return y
+
+
+def _slide_base():
+    from PIL import Image, ImageDraw
+    img = Image.new("RGB", (CAROUSEL_W, CAROUSEL_H), C_CREAM)
+    d = ImageDraw.Draw(img)
+    # ヘッダー(ブランド)とフッター
+    d.text((60, 48), "AMERICA SATIRE DESK", font=_font(34), fill=C_NAVY)
+    d.line([(60, 104), (CAROUSEL_W - 60, 104)], fill=C_LINE, width=3)
+    return img, d
+
+
+def _slide_footer(d, page_label: str, today: str):
+    d.line([(60, CAROUSEL_H - 96), (CAROUSEL_W - 60, CAROUSEL_H - 96)], fill=C_LINE, width=3)
+    d.text((60, CAROUSEL_H - 76), f"THE VIEW FROM TOKYO  ·  {today}",
+           font=_font(26, bold=False), fill=C_NAVY)
+    w = d.textlength(page_label, font=_font(26))
+    d.text((CAROUSEL_W - 60 - w, CAROUSEL_H - 76), page_label, font=_font(26), fill=C_CORAL)
+
+
+def generate_carousel(candidates: list[dict], editorial: dict | None,
+                      today: str) -> list[str]:
+    """カルーセル7枚を生成し、相対パスのリストを返す。失敗時は空リスト。"""
+    if not HAS_PIL:
+        print("[info] Pillow not available — skipping carousel")
+        return []
+    from PIL import Image, ImageDraw
+    try:
+        out_dir = IMAGES_DIR / today / "carousel"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        paths: list[str] = []
+        total = len(candidates) + 2
+
+        # --- 表紙 ---
+        img, d = _slide_base()
+        y = 340
+        d.text((60, y - 120), "TODAY IN AMERICA", font=_font(30), fill=C_CORAL)
+        title = (editorial or {}).get("titleEn") or f"Five stories, one raised eyebrow"
+        y = _draw_wrapped(d, title, _font(72), 60, y, CAROUSEL_W - 120, C_TEXT, 16)
+        sub = (editorial or {}).get("subtitleEn") or ""
+        if sub:
+            y += 30
+            y = _draw_wrapped(d, sub, _font(40, bold=False), 60, y, CAROUSEL_W - 120, C_NAVY, 12)
+        d.text((60, CAROUSEL_H - 240), "5 stories → swipe", font=_font(44), fill=C_CORAL)
+        _slide_footer(d, f"1/{total}", today)
+        p = out_dir / "slide-1.jpg"
+        img.save(p, "JPEG", quality=88)
+        paths.append(f"images/{today}/carousel/slide-1.jpg")
+
+        # --- ニュース5枚 ---
+        for i, c in enumerate(candidates, start=1):
+            img, dd = _slide_base()
+            # 風刺画(あれば): 上部に配置
+            art_h = 640
+            art_path = ROOT / c["image"] if c.get("image") else None
+            if art_path and art_path.exists():
+                art = Image.open(art_path).convert("RGB")
+                ratio = (CAROUSEL_W - 120) / art.width
+                art = art.resize((CAROUSEL_W - 120, int(art.height * ratio)), Image.LANCZOS)
+                if art.height > art_h:
+                    art = art.crop((0, (art.height - art_h) // 2,
+                                    art.width, (art.height - art_h) // 2 + art_h))
+                img.paste(art, (60, 140))
+                text_y = 140 + art.height + 44
+            else:
+                dd.rectangle([60, 140, CAROUSEL_W - 60, 140 + art_h], fill=(243, 237, 224))
+                dd.text((CAROUSEL_W // 2 - 20, 140 + art_h // 2), str(i),
+                        font=_font(120), fill=C_LINE)
+                text_y = 140 + art_h + 44
+            # 見出し(小・事実) → パンチライン(大)
+            dd.text((60, text_y), f"STORY {i}", font=_font(28), fill=C_CORAL)
+            text_y += 48
+            text_y = _draw_wrapped(dd, c["news"]["headline"], _font(34, bold=False),
+                                   60, text_y, CAROUSEL_W - 120, C_NAVY, 8)
+            text_y += 28
+            caption = (c.get("captions") or [""])[0]
+            _draw_wrapped(dd, f"“{caption}”", _font(46), 60, text_y,
+                          CAROUSEL_W - 120, C_TEXT, 12)
+            _slide_footer(dd, f"{i + 1}/{total}", today)
+            p = out_dir / f"slide-{i + 1}.jpg"
+            img.save(p, "JPEG", quality=88)
+            paths.append(f"images/{today}/carousel/slide-{i + 1}.jpg")
+
+        # --- CTA ---
+        img, d = _slide_base()
+        y = 300
+        d.text((60, y - 100), "THAT'S TODAY'S AMERICA.", font=_font(30), fill=C_CORAL)
+        quip = (editorial or {}).get("quipEn") or ""
+        if quip:
+            y = _draw_wrapped(d, f"“{quip}”", _font(56), 60, y,
+                              CAROUSEL_W - 120, C_TEXT, 14)
+            y += 40
+            d.text((60, y), "— steal this line for your next meeting",
+                   font=_font(30, bold=False), fill=C_NAVY)
+            y += 90
+        y = max(y, 760)
+        y = _draw_wrapped(d, NEWSLETTER_CTA, _font(44), 60, y, CAROUSEL_W - 120, C_CORAL, 12)
+        _slide_footer(d, f"{total}/{total}", today)
+        p = out_dir / f"slide-{total}.jpg"
+        img.save(p, "JPEG", quality=88)
+        paths.append(f"images/{today}/carousel/slide-{total}.jpg")
+
+        print(f"[ok] carousel: {len(paths)} slides generated")
+        return paths
+    except Exception as e:
+        print(f"[warn] carousel generation failed (skipping): {e}", file=sys.stderr)
+        return []
 
 
 # ----------------------------------------------------------------
@@ -863,7 +1081,8 @@ def atomic_write(path: Path, text: str) -> None:
 
 
 def write_outputs(candidates: list[dict], today: str,
-                  editorial: dict | None = None) -> None:
+                  editorial: dict | None = None,
+                  carousel: list[str] | None = None) -> None:
     daily = {
         "version": 1,
         "date": today,
@@ -871,6 +1090,7 @@ def write_outputs(candidates: list[dict], today: str,
         "source": "auto (rss + claude)",
         "candidates": candidates,
         "editorial": editorial,  # モノローグ下書き+SNS候補（生成失敗時は null）
+        "carousel": carousel or [],  # TikTok/Instagram用カルーセル画像の相対パス
     }
     payload = json.dumps(daily, ensure_ascii=False, indent=2)
 
@@ -916,7 +1136,9 @@ def main() -> int:
             except Exception as e:
                 print(f"[warn] image stage failed entirely (placeholders will be shown): {e}",
                       file=sys.stderr)
-            write_outputs(candidates, today, editorial)
+            # カルーセル組版（風刺画の後。失敗しても本体は止めない）
+            carousel = generate_carousel(candidates, editorial, today)
+            write_outputs(candidates, today, editorial, carousel)
             print("[done] generation succeeded")
             return 0
         except Exception as e:
