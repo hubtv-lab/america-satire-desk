@@ -729,6 +729,7 @@ const state = {
    ================================================================ */
 let CANDIDATES = [];                     // 実行時の5候補（全機能はこれを参照）
 let EDITORIAL = null;                    // 編集室データ（daily.json の editorial。無ければ null）
+let CAROUSEL = [];                       // TikTok/Instagram用カルーセル画像の相対パス
 let dataSource = "モックデータ";
 
 /* commentary はHTMLとして描画されるため、<b>タグ以外はエスケープする */
@@ -796,8 +797,16 @@ function normalizeEditorial(raw){
     const norm = {
       thread:  String(raw.thread || ""),
       titleEn: String(raw.titleEn || ""),
+      subtitleEn: String(raw.subtitleEn || ""),
       titleJa: String(raw.titleJa || ""),
       titleAltJa: (Array.isArray(raw.titleAltJa) ? raw.titleAltJa : []).map(String).filter(Boolean),
+      leadJa: String(raw.leadJa || ""),
+      quipEn: String(raw.quipEn || ""),
+      quipJa: String(raw.quipJa || ""),
+      fortuneEn: String(raw.fortuneEn || ""),
+      fortuneJa: String(raw.fortuneJa || ""),
+      monologueEn: raw.monologueEn || null,
+      monologueJa: raw.monologueJa || null,
       reviewNotes: String(raw.reviewNotes || ""),
       fullEn:  String(raw.fullEn || ""),
       fullJa:  String(raw.fullJa || ""),
@@ -817,6 +826,7 @@ async function loadDailyData(){
     const json = await res.json();
     applyCandidates(normalizeCandidates(json), "daily.json");
     EDITORIAL = normalizeEditorial(json.editorial);
+    CAROUSEL = Array.isArray(json.carousel) ? json.carousel.map(String) : [];
     return;
   } catch(e){ /* 次の経路へ */ }
   // 2) daily.js → window.DAILY_DATA（file:// で直接開いた場合の代替経路）
@@ -824,6 +834,7 @@ async function loadDailyData(){
     if (window.DAILY_DATA){
       applyCandidates(normalizeCandidates(window.DAILY_DATA), "daily.js");
       EDITORIAL = normalizeEditorial(window.DAILY_DATA.editorial);
+      CAROUSEL = Array.isArray(window.DAILY_DATA.carousel) ? window.DAILY_DATA.carousel.map(String) : [];
       return;
     }
   } catch(e){ /* 次の経路へ */ }
@@ -931,6 +942,189 @@ function renderCards(){
   });
 }
 
+/* ---------- publish pack: 整形済み記事の組み立てとリッチコピー ---------- */
+
+/* 相対画像パスを公開URLに変換（file://直開き時はnullを返して画像を省略） */
+function absImageUrl(path){
+  if (!path) return null;
+  if (location.protocol === "file:") return null;
+  try { return new URL(path, location.href).href; } catch(e){ return null; }
+}
+
+/* beat順に並んだ候補配列を返す（モノローグの流れと同じ順） */
+function beatsOrder(mono){
+  const byId = {};
+  CANDIDATES.forEach(c => byId[c.id] = c);
+  if (!mono || !Array.isArray(mono.beats)) return CANDIDATES.slice();
+  return mono.beats.map(b => byId[b.ref]).filter(Boolean);
+}
+
+function pText(s){ return `<p>${esc(s)}</p>`; }
+function imgTag(c, style){
+  const url = absImageUrl(c && c.image);
+  if (!url) return "";
+  return `<img src="${esc(url)}" alt="satirical illustration" style="max-width:100%">`;
+}
+
+/* Substack本文（英語）: 表紙→掴み→くだり（途中に画像2枚と引用1本）→締め→出典→開示 */
+function buildSubstackHtml(){
+  const ed = EDITORIAL, mono = ed.monologueEn;
+  if (!mono) return null;
+  const ordered = beatsOrder(mono);
+  const withImg = ordered.filter(c => absImageUrl(c.image));
+  const parts = [];
+  if (withImg[0]) parts.push(imgTag(withImg[0]));                 // 表紙 = 最初のくだりの絵
+  parts.push(pText(mono.opener));
+  parts.push("<hr>");
+  mono.beats.forEach((b, i) => {
+    parts.push(pText(b.text));
+    // 中盤と終盤の手前に画像を1枚ずつ差し込む（表紙と重複しない絵を選ぶ）
+    if (i === 1 && withImg[1]) parts.push(imgTag(withImg[1]));
+    if (i === 3 && withImg[2]) parts.push(imgTag(withImg[2]));
+  });
+  // 引用（プルクオート）: 最後のくだり=一番強いネタのキャプションを1本
+  const last = ordered[ordered.length - 1];
+  if (last && last.captions && last.captions[0]){
+    parts.push(`<blockquote><p>${esc(last.captions[0])}</p></blockquote>`);
+  }
+  parts.push(pText(mono.closer));
+  if (ed.fortuneEn){
+    parts.push("<hr>");
+    parts.push("<p><strong>Today's Forecast</strong> (news-based, scientifically dubious, warmly meant):</p>");
+    parts.push(`<blockquote><p>${esc(ed.fortuneEn)}</p></blockquote>`);
+  }
+  if (ed.quipEn){
+    parts.push("<hr>");
+    parts.push("<p><strong>Steal this line</strong> — for your next meeting:</p>");
+    parts.push(`<blockquote><p>${esc(ed.quipEn)}</p></blockquote>`);
+  }
+  parts.push("<hr>");
+  parts.push("<p><strong>Today's Docket</strong> (in order of appearance)</p>");
+  const docket = mono.beats.map(b => {
+    const c = CANDIDATES.find(x => x.id === b.ref);
+    if (!c) return "";
+    return `<li><a href="${esc(c.news.url)}">${esc(c.news.headline)}</a> — ${esc(c.news.source)}</li>`;
+  }).join("");
+  parts.push(`<ol>${docket}</ol>`);
+  parts.push(`<p><em>Made in Tokyo by one human and his AI newsroom. How this gets made is on the About page.</em></p>`);
+  return parts.join("\n");
+}
+
+/* note本文（日本語）: リード→表紙→モノローグ（途中に画像と区切り）→今日の5本 */
+function buildNoteHtml(){
+  const ed = EDITORIAL, mono = ed.monologueJa;
+  if (!mono) return null;
+  const ordered = beatsOrder(mono);
+  const withImg = ordered.filter(c => absImageUrl(c.image));
+  const parts = [];
+  const lead = ed.leadJa || (mono.opener || "").split("。")[0] + "。";
+  parts.push(pText(lead));
+  if (withImg[0]) parts.push(imgTag(withImg[0]));
+  parts.push(pText(mono.opener));
+  parts.push("<hr>");
+  mono.beats.forEach((b, i) => {
+    parts.push(pText(b.text));
+    if (i === 1 && withImg[1]) parts.push(imgTag(withImg[1]));
+    if (i === 3 && withImg[2]) parts.push(imgTag(withImg[2]));
+  });
+  parts.push(pText(mono.closer));
+  if (ed.fortuneJa){
+    parts.push("<hr>");
+    parts.push("<p><strong>今日の運勢</strong>（ニュース連動・非科学的・でも本気で応援）</p>");
+    parts.push(`<blockquote><p>${esc(ed.fortuneJa)}</p></blockquote>`);
+  }
+  if (ed.quipJa){
+    parts.push("<hr>");
+    parts.push("<p><strong>今日の使える一言</strong>（明日この話題が出たら、これをどうぞ）</p>");
+    parts.push(`<blockquote><p>${esc(ed.quipJa)}</p></blockquote>`);
+  }
+  parts.push("<hr>");
+  parts.push("<p><strong>今日の5本</strong>（登場順）</p>");
+  const docket = mono.beats.map(b => {
+    const c = CANDIDATES.find(x => x.id === b.ref);
+    if (!c) return "";
+    return `<li><a href="${esc(c.news.url)}">${esc(c.news.headline)}</a>（${esc(c.news.source)}）</li>`;
+  }).join("");
+  parts.push(`<ol>${docket}</ol>`);
+  return parts.join("\n");
+}
+
+/* リッチテキスト（text/html）としてコピー。貼り付け先で見出し・画像・リンクが再現される */
+async function copyRich(html, plainFallback, btn){
+  const done = () => {
+    toast("整形済みでコピーしました。エディタに貼り付けてください");
+    if (btn){ const t = btn.textContent; btn.textContent = "✓ コピー済み"; setTimeout(()=>btn.textContent = t, 2000); }
+  };
+  try {
+    const item = new ClipboardItem({
+      "text/html": new Blob([html], { type: "text/html" }),
+      "text/plain": new Blob([plainFallback], { type: "text/plain" })
+    });
+    await navigator.clipboard.write([item]);
+    done();
+  } catch(e){
+    fallbackCopy(plainFallback, done); // リッチ非対応環境はプレーンで
+  }
+}
+
+function copyPack(kind, ev){
+  if (!EDITORIAL) return;
+  const btn = ev ? ev.currentTarget : null;
+  if (kind === "sub-body"){
+    const html = buildSubstackHtml();
+    if (html) copyRich(html, EDITORIAL.fullEn, btn);
+  } else if (kind === "note-body"){
+    const html = buildNoteHtml();
+    if (html) copyRich(html, EDITORIAL.fullJa, btn);
+  } else if (kind === "sub-title"){
+    copyEdText(EDITORIAL.titleEn, btn);
+  } else if (kind === "sub-subtitle"){
+    copyEdText(EDITORIAL.subtitleEn || EDITORIAL.thread, btn);
+  } else if (kind === "note-title"){
+    copyEdText(EDITORIAL.titleJa, btn);
+  }
+}
+
+/* カルーセル7枚をZIPで一括ダウンロード */
+async function downloadCarousel(ev){
+  const btn = ev ? ev.currentTarget : null;
+  if (!CAROUSEL.length) return;
+  try {
+    if (btn) btn.textContent = "⏳ 準備中…";
+    const files = [];
+    for (let i = 0; i < CAROUSEL.length; i++){
+      const url = new URL(CAROUSEL[i], location.href).href;
+      const res = await fetch(url);
+      if (!res.ok) throw new Error("HTTP " + res.status);
+      files.push({ name: `carousel-${String(i + 1).padStart(2, "0")}.jpg`,
+                   data: new Uint8Array(await res.arrayBuffer()) });
+    }
+    const zipBytes = buildZip(files);
+    const blob = new Blob([zipBytes], { type: "application/zip" });
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `satire-carousel-${new Date().toISOString().slice(0,10)}.zip`;
+    a.click();
+    URL.revokeObjectURL(a.href);
+    toast("カルーセルをZIPで保存しました");
+  } catch(e){
+    toast("保存に失敗しました: " + (e && e.message ? e.message : e));
+  } finally {
+    if (btn) btn.textContent = "📦 一括保存";
+  }
+}
+
+function copyEdText(text, btn){
+  if (!text) return;
+  const done = () => {
+    toast("コピーしました");
+    if (btn){ const t = btn.textContent; btn.textContent = "✓"; setTimeout(()=>btn.textContent = t, 1500); }
+  };
+  if (navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(text).then(done).catch(()=>fallbackCopy(text, done));
+  } else fallbackCopy(text, done);
+}
+
 /* ---------- render: editor's room ---------- */
 function copyEd(kind, index){
   if (!EDITORIAL) return;
@@ -976,13 +1170,42 @@ function renderEditorial(){
     </div>`;
   }).join("");
 
+  const isSubstackDay = [1, 3, 5].includes(new Date().getDay()); // 月・水・金
   out.innerHTML = `
+    <div class="ed-card" style="border-color:var(--coral)">
+      <h3>🚀 今日の投稿（5分ルーティン）</h3>
+      <p class="lede" style="margin-bottom:10px">下のボタンは<b>整形済み（見出し・画像・出典リスト入り）</b>でコピーします。エディタに貼り付けるだけでレイアウトが再現されます。</p>
+
+      <div class="ed-item" style="align-items:center">
+        <div class="t"><b>① note</b>（毎日）: タイトル → 本文の順にコピーして貼る</div>
+        <button class="btn" onclick="copyPack('note-title', event)">📋 タイトル</button>
+        <button class="btn primary" onclick="copyPack('note-body', event)">📋 本文</button>
+      </div>
+
+      <div class="ed-item" style="align-items:center; ${isSubstackDay ? "" : "opacity:.55"}">
+        <div class="t"><b>② Substack</b>（月・水・金${isSubstackDay ? "・<b>今日は投稿日</b>" : "・今日はお休み"}）: Title → Subtitle → 本文</div>
+        <button class="btn" onclick="copyPack('sub-title', event)">📋 Title</button>
+        <button class="btn" onclick="copyPack('sub-subtitle', event)">📋 Sub</button>
+        <button class="btn primary" onclick="copyPack('sub-body', event)">📋 本文</button>
+      </div>
+
+      <div class="ed-item" style="align-items:center">
+        <div class="t"><b>③ SNS</b>（毎日）: 下の候補リストから X 1本・Notes 1〜2本をコピーして投稿</div>
+      </div>
+
+      <div class="ed-item" style="align-items:center">
+        <div class="t"><b>④ TikTok / Instagram</b>（毎日・英語）: カルーセル${CAROUSEL.length ? CAROUSEL.length + "枚" : ""}を保存して投稿（TikTokはフォトモード）</div>
+        ${CAROUSEL.length ? `<button class="btn primary" onclick="downloadCarousel(event)">📦 一括保存</button>` : `<span class="cnt">明朝から生成</span>`}
+      </div>
+      <p class="lede" style="margin:8px 0 0">💡 画像が貼り付け先に入らない場合は、TODAY'S DESKの「Download All 5 Images」で保存してドラッグしてください。</p>
+    </div>
+
     <div class="ed-checklist">
-      <b>人間の声パス（投稿前チェック）</b>
+      <b>投稿前の30秒チェック</b>
       <ul>
-        <li>掴み（冒頭）と締めを自分の言葉で書き直したか</li>
-        <li>事実関係を元記事で確認したか（風刺は事実が命）</li>
-        <li>一番弱いくだりを1つ削る勇気を持ったか</li>
+        <li>事実の誤り・意味の通らない英語が無いか、ざっと目を通したか</li>
+        <li>noteは自分の一言（2〜3文）をどこかに足したか（あなたの署名になる）</li>
+        <li>note末尾に過去記事リンクを2〜3本足したか（回遊=売上の柱）</li>
       </ul>
     </div>
 
