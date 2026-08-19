@@ -808,10 +808,8 @@ function normalizeEditorial(raw){
       leadJa: String(raw.leadJa || ""),
       quipEn: String(raw.quipEn || ""),
       quipJa: String(raw.quipJa || ""),
-      fortuneEn: String(raw.fortuneEn || ""),
-      fortuneJa: String(raw.fortuneJa || ""),
-      monologueEn: raw.monologueEn || null,
-      monologueJa: raw.monologueJa || null,
+      introEn: String(raw.introEn || ""),
+      introJa: String(raw.introJa || ""),
       reviewNotes: String(raw.reviewNotes || ""),
       fullEn:  String(raw.fullEn || ""),
       fullJa:  String(raw.fullJa || ""),
@@ -956,14 +954,6 @@ function absImageUrl(path){
   try { return new URL(path, location.href).href; } catch(e){ return null; }
 }
 
-/* beat順に並んだ候補配列を返す（モノローグの流れと同じ順） */
-function beatsOrder(mono){
-  const byId = {};
-  CANDIDATES.forEach(c => byId[c.id] = c);
-  if (!mono || !Array.isArray(mono.beats)) return CANDIDATES.slice();
-  return mono.beats.map(b => byId[b.ref]).filter(Boolean);
-}
-
 /* 改行(\n)を段落として尊重する。話し言葉の息継ぎをそのまま再現 */
 function pText(s){
   return String(s).split(/\n+/).map(t => t.trim()).filter(Boolean)
@@ -977,86 +967,73 @@ function imgTag(c, style){
   return `<img src="${esc(url)}" alt="satirical illustration" style="max-width:100%">`;
 }
 
-/* Substack本文（英語）: 表紙→掴み→くだり（途中に画像2枚と引用1本）→締め→出典→開示 */
+/* Substack本文（英語・モジュール構成）:
+   Today's Forecast → 5ニュースブロック(画像→概要→Why It's Funny→Say It Out Loud) → Today's Punchline */
 function buildSubstackHtml(){
-  const ed = EDITORIAL, mono = ed.monologueEn;
-  if (!mono) return null;
-  const ordered = beatsOrder(mono);
-  const withImg = ordered.filter(c => absImageUrl(articleArt(c)));
+  const ed = EDITORIAL;
+  if (!ed.introEn) return null;
   const parts = [];
-  if (withImg[0]) parts.push(imgTag(withImg[0]));                 // 表紙 = 最初のくだりの絵
-  parts.push(pText(mono.opener));
+  parts.push("<h2>Today's Forecast</h2>");
+  parts.push(pText(ed.introEn));
   parts.push("<hr>");
-  mono.beats.forEach((b, i) => {
-    parts.push(pText(b.text));
-    // 中盤と終盤の手前に画像を1枚ずつ差し込む（表紙と重複しない絵を選ぶ）
-    if (i === 1 && withImg[1]) parts.push(imgTag(withImg[1]));
-    if (i === 3 && withImg[2]) parts.push(imgTag(withImg[2]));
+  CANDIDATES.forEach((c, i) => {
+    const irony = (c.ironyEn && c.ironyEn[0]) || {};
+    parts.push(`<h2>${i + 1}. ${esc(c.news.headline)}</h2>`);
+    parts.push(imgTag(c));
+    parts.push(`<p><em>${esc(c.news.source)} — <a href="${esc(c.news.url)}">source</a></em></p>`);
+    if (c.newsEn) parts.push(pText(c.newsEn));
+    parts.push("<p><strong>Why It's Funny</strong></p>");
+    const rows = [["Contradiction", irony.contradiction],
+                  ["Absurdity", irony.absurdity],
+                  ["View from Tokyo", irony.outside]]
+      .filter(r => r[1])
+      .map(r => `<li><strong>${r[0]}:</strong> ${esc(r[1])}</li>`).join("");
+    parts.push(`<ul>${rows}</ul>`);
+    const cap = (c.captions || [])[0];
+    if (cap){
+      parts.push("<p><strong>Say It Out Loud</strong></p>");
+      parts.push(`<blockquote><p>${esc(cap)}</p></blockquote>`);
+    }
+    parts.push("<hr>");
   });
-  // 引用（プルクオート）: 最後のくだり=一番強いネタのキャプションを1本
-  const last = ordered[ordered.length - 1];
-  if (last && last.captions && last.captions[0]){
-    parts.push(`<blockquote><p>${esc(last.captions[0])}</p></blockquote>`);
-  }
-  parts.push(pText(mono.closer));
-  if (ed.fortuneEn){
-    parts.push("<hr>");
-    parts.push("<p><strong>Today's Forecast</strong> (news-based, scientifically dubious, warmly meant):</p>");
-    parts.push(`<blockquote><p>${esc(ed.fortuneEn)}</p></blockquote>`);
-  }
   if (ed.quipEn){
-    parts.push("<hr>");
-    parts.push("<p><strong>Steal this line</strong> — for your next meeting:</p>");
+    parts.push("<h2>Today's Punchline</h2>");
     parts.push(`<blockquote><p>${esc(ed.quipEn)}</p></blockquote>`);
   }
-  parts.push("<hr>");
-  parts.push("<p><strong>Today's Docket</strong> (in order of appearance)</p>");
-  const docket = mono.beats.map(b => {
-    const c = CANDIDATES.find(x => x.id === b.ref);
-    if (!c) return "";
-    return `<li><a href="${esc(c.news.url)}">${esc(c.news.headline)}</a> — ${esc(c.news.source)}</li>`;
-  }).join("");
-  parts.push(`<ol>${docket}</ol>`);
   parts.push(`<p><em>Made in Tokyo by one human and his AI newsroom. How this gets made is on the About page.</em></p>`);
   return parts.join("\n");
 }
 
-/* note本文（日本語）: リード→表紙→モノローグ（途中に画像と区切り）→今日の5本 */
+/* note本文（日本語・モジュール構成）:
+   リード→今日を占う→5ニュースブロック(画像→概要→どこで笑うか→そのまま使えるジョーク)→今日のパンチライン */
 function buildNoteHtml(){
-  const ed = EDITORIAL, mono = ed.monologueJa;
-  if (!mono) return null;
-  const ordered = beatsOrder(mono);
-  const withImg = ordered.filter(c => absImageUrl(articleArt(c)));
+  const ed = EDITORIAL;
+  if (!ed.introJa) return null;
   const parts = [];
-  const lead = ed.leadJa || (mono.opener || "").split("。")[0] + "。";
-  parts.push(pText(lead));
-  if (withImg[0]) parts.push(imgTag(withImg[0]));
-  parts.push(pText(mono.opener));
+  if (ed.leadJa) parts.push(pText(ed.leadJa));
+  parts.push("<h2>今日を占うよ〜</h2>");
+  parts.push(pText(ed.introJa));
   parts.push("<hr>");
-  mono.beats.forEach((b, i) => {
-    parts.push(pText(b.text));
-    if (i === 1 && withImg[1]) parts.push(imgTag(withImg[1]));
-    if (i === 3 && withImg[2]) parts.push(imgTag(withImg[2]));
+  CANDIDATES.forEach((c, i) => {
+    parts.push(`<h2>${i + 1}. ${esc(c.news.headline)}</h2>`);
+    parts.push(imgTag(c));
+    parts.push(`<p><em>${esc(c.news.source)}（<a href="${esc(c.news.url)}">記事</a>）</em></p>`);
+    if (c.news.summary) parts.push(pText(c.news.summary));
+    parts.push("<p><strong>どこが笑える？</strong></p>");
+    const rows = (c.commentary || [])
+      .map(p => `<li>${p}</li>`).join(""); // commentaryはsanitize済み(<b>のみ許可)
+    parts.push(`<ul>${rows}</ul>`);
+    const capJa = (c.captionsJa || [])[0];
+    if (capJa){
+      parts.push("<p><strong>このニュースをジョークにするなら...</strong></p>");
+      parts.push(`<blockquote><p>${esc(capJa)}</p></blockquote>`);
+    }
+    parts.push("<hr>");
   });
-  parts.push(pText(mono.closer));
-  if (ed.fortuneJa){
-    parts.push("<hr>");
-    parts.push("<p><strong>今日の運勢</strong>（ニュース連動・非科学的・でも本気で応援）</p>");
-    parts.push(`<blockquote><p>${esc(ed.fortuneJa)}</p></blockquote>`);
-  }
   if (ed.quipJa){
-    parts.push("<hr>");
-    parts.push("<p><strong>今日の使える一言</strong>（明日この話題が出たら、これをどうぞ）</p>");
+    parts.push("<h2>今日のまとめジョーク/パンチライン</h2>");
     parts.push(`<blockquote><p>${esc(ed.quipJa)}</p></blockquote>`);
   }
-  parts.push("<hr>");
-  parts.push("<p><strong>今日の5本</strong>（登場順）</p>");
-  const docket = mono.beats.map(b => {
-    const c = CANDIDATES.find(x => x.id === b.ref);
-    if (!c) return "";
-    return `<li><a href="${esc(c.news.url)}">${esc(c.news.headline)}</a>（${esc(c.news.source)}）</li>`;
-  }).join("");
-  parts.push(`<ol>${docket}</ol>`);
   return parts.join("\n");
 }
 
