@@ -1,53 +1,53 @@
 {
   "version": 1,
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T01:26:37+00:00",
+  "generatedAt": "2026-08-19T08:21:17+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Meta's Federal Trial Begins Over Deliberately Addicting Children to Social Media",
-        "source": "CBS News US",
+        "headline": "Goldman Sachs Confirms AI Is Eating Jobs — in a Report Written With AI",
+        "source": "CNBC Top News",
         "date": "2026-08-19",
-        "url": "https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/",
-        "summary": "Metaが子どもたちをSNSに依存させるようアプリを意図的に設計したとして、連邦裁判が始まった。訴状は同社が若者のメンタルヘルス危機を引き起こしたと主張している。"
+        "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+        "summary": "ゴールドマン・サックスの調査によると、AIは先進国全体の雇用市場に悪影響を与え始めていることが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「つながりで世界をより良くする」と掲げてきた企業が、子どもの脳をターゲットにした依存設計で訴追されている。",
-        "<b>滑稽さ:</b> 「いいね」を押すたびにドーパミンが出る仕組みを何年もかけて精密に設計した結果、裁判でその精巧さを証拠として提出されることになった。",
-        "<b>日本・海外から見ると:</b> 日本でも未成年のSNS依存は深刻な問題だが、プラットフォームへの法的責任追及はまだ緒に就いたばかりで、この裁判の行方は各国の規制論議を動かす可能性がある。"
+        "<b>矛盾:</b> AIが雇用を奪っているという調査報告を、AIを積極導入している投資銀行が発表するという構図が成立している。",
+        "<b>滑稽さ:</b> 「AIで仕事がなくなる」という警告レポートを、AIに仕事を奪われつつあるアナリストたちが作成しているかもしれない。",
+        "<b>日本・海外から見ると:</b> 「我々が調べたら、確かに我々のせいでした」という報告書を世界で最も影響力のある金融機関が出す——これを風刺と呼ばずして何と呼ぶか。"
       ],
       "imagePrompts": [
-        "A courtroom where the judge's bench has a giant 'Like' button on it, and exhibit boards show app engagement graphs that look like ski slopes going straight down",
-        "A tech company whiteboard covered in charts labeled 'Time On App: Ages 10–14' with arrows pointing sharply upward, while a stack of legal subpoenas sits on the floor beneath it",
-        "A witness stand shaped like a smartphone, with a small child's silhouette sitting in it, notification bubbles floating above their head like a halo"
+        "A gleaming Goldman Sachs boardroom where robot arms in suits sit at a conference table, presenting a PowerPoint slide that reads 'AI Is Hurting Workers' to an empty room of chairs",
+        "A single human analyst at a desk surrounded by humming server towers, staring at a printed Goldman Sachs report titled 'AI and Employment' — the only light in the room comes from the servers",
+        "An unemployment office with a line of workers in business casual clothes; a Goldman Sachs logo on the wall, and a banner reading 'Thank You for Your Service to the Economy'"
       ],
       "captions": [
-        "Meta's defense strategy: 'Your Honor, the kids could've just put the phone down.' The plaintiffs' response: 'That's literally what we're suing about.'",
-        "They called it 'high engagement.' The plaintiffs call it 'a dopamine trap for eight-year-olds.' Tomato, tomato.",
-        "The same company that A/B tested which notification sound made teenagers check their phones fastest is now surprised people are mad.",
-        "Somewhere in Meta HQ, someone's job title was literally 'Engagement Growth—Youth.' That person is having a week.",
-        "Facebook started as a way to rate college classmates' attractiveness. The children mental-health lawsuit was, in retrospect, always coming."
+        "Goldman Sachs just released a report on how AI is killing jobs. It took them three minutes to generate.",
+        "Good news: Goldman hired researchers to study AI's impact on employment. Bad news: ask them how that project ended.",
+        "The bank that automates everything just wants you to know — automation is a problem.",
+        "Somewhere in that report there's a footnote that says 'this section drafted by GPT-4.' Probably.",
+        "You paid $47 a month for ChatGPT. Goldman charged a client $4.7 million for the same conclusion."
       ],
       "captionsJa": [
-        "Metaの弁護方針：「裁判長、子どもたちはスマホを置けばよかっただけです」。原告側の反論：「それがまさに訴えている点です」。",
-        "社内では「高エンゲージメント」と呼んでいた。原告側は「8歳向けドーパミン罠」と呼ぶ。どっちもどっちではない。",
-        "どの通知音が10代を一番早く画面に向かわせるかをA/Bテストしてた会社が、なぜか怒られていることに困惑している。",
-        "Metaのどこかに「エンゲージメント成長・ユーザー層：若年」という肩書の人がいる。その人の今週はなかなかしんどい。",
-        "Facebookは大学生の外見を採点するサイトとして始まった。子どものメンタルヘルス訴訟は、振り返れば最初から来ることが決まっていた。"
+        "ゴールドマン・サックスが「AIが雇用を壊している」という報告書を出した。生成に3分かかったそうです。",
+        "良いお知らせ：ゴールドマンはAIの雇用への影響を調べる研究者を雇いました。悪いお知らせ：その後その人たちがどうなったかは聞かないでください。",
+        "何でも自動化してきた銀行が、今さら「自動化は問題です」と言っている。",
+        "レポートのどこかに「このセクションはGPT-4が下書き」という脚注があるはず。たぶん。",
+        "あなたが月4700円払っているChatGPTと、ゴールドマンが47億円請求して出した結論は同じでした。"
       ],
-      "newsEn": "A federal trial against Meta began this week, with plaintiffs accusing the company of deliberately engineering addictive features that hook children to its platforms. The lawsuit argues Meta's product decisions have significantly contributed to the youth mental health crisis in the United States. The case is one of the largest coordinated legal actions against a social media company.",
+      "newsEn": "A Goldman Sachs study found that artificial intelligence is beginning to suppress employment across developed economies. The report tracked AI adoption and its measurable effects on labor markets in multiple sectors. Goldman Sachs itself has been an early adopter of AI tools in its own operations.",
       "ironyEn": [
         {
-          "contradiction": "Meta spent years engineering the perfect dopamine loop for children, and now those engineering documents are Exhibit A in a federal courtroom.",
-          "absurdity": "The company that turned 'connecting people' into a mission statement is now defending whether connecting 12-year-olds to an endless scroll was the kind of connection anyone meant.",
-          "outside": "From the outside, it looks like a tobacco trial—same playbook, same internal memos, just with more notification sounds."
+          "contradiction": "Goldman Sachs used AI tools to help produce a report concluding that AI is squeezing workers out of jobs.",
+          "absurdity": "It's a bit like a fire department publishing a study on the dangers of fire — from inside a burning building.",
+          "outside": "The firm that arguably profits most from automation is now the official messenger of automation's downside. Somewhere, a laid-off analyst is reading this on his phone."
         },
         {
-          "contradiction": "The features the lawsuit calls 'deliberately addictive' are the same ones Meta's product teams once celebrated as high-engagement wins.",
-          "absurdity": "Teenagers are now testifying in federal court about screen time, while the same platforms are still pinging their phones in the hallway.",
-          "outside": "Countries that already restrict algorithmic feeds for minors are watching this trial the way you watch someone else's house fire and quietly check your own smoke detectors."
+          "contradiction": "The bank most associated with cutting labor costs through technology is now framing itself as a neutral researcher on labor costs.",
+          "absurdity": "The report doesn't say how many researchers Goldman replaced with AI to write it.",
+          "outside": "In Japan, where companies still sometimes keep surplus workers rather than fire them, this report would read like a confession."
         }
       ],
       "imageSeed": 1,
@@ -57,47 +57,47 @@
     {
       "id": "d2",
       "news": {
-        "headline": "OpenAI Launches 'ChatGPT for Teens' With Safety Features, While Meta Goes to Trial for the Opposite",
+        "headline": "OpenAI Launches 'ChatGPT for Teens' — With Safety Features That Definitely Won't Be Bypassed in 20 Minutes",
         "source": "CNBC Top News",
         "date": "2026-08-19",
         "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
-        "summary": "OpenAIが10代向けに年齢適切な安全機能を備えた「ChatGPT for Teens」をリリースした。教育的機能と強化されたコンテンツ保護を売りにしている。"
+        "summary": "OpenAIは10代向けに「より強力な安全保護」を組み込んだChatGPT for Teensをリリースした。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「大人と同じAIでは危険」として10代専用版を作ったOpenAIだが、そもそも現行のChatGPTに年齢確認機能はほぼなかった。",
-        "<b>滑稽さ:</b> 「子ども向けに安全にしました」と発表した同じ日、隣の法廷ではMetaが子どもへの依存設計で裁判を受けているというタイミングの妙。",
-        "<b>日本・海外から見ると:</b> テック企業が「自主的に安全機能を付けました」とアピールするのは、規制される前に実績を作っておくための古典的な動きと見る向きもある。"
+        "<b>矛盾:</b> 「子どもを守る」と言いながら、子どもが年齢を詐称して大人版を使うのを防ぐ仕組みについては説明がない。",
+        "<b>滑稽さ:</b> インターネットで一度も「生年月日の改ざん」をやったことのない10代が世界に何人いるか、OpenAIは計算しただろうか。",
+        "<b>日本・海外から見ると:</b> テック業界の「年齢確認」といえば「あなたは18歳以上ですか？ Yes / No」のチェックボックスが世界的な標準であることを思い出させてくれる。"
       ],
       "imagePrompts": [
-        "A storefront with two windows side by side—one labeled 'ChatGPT for Teens: Safety Edition' with a shield logo, and one showing a courtroom scene reflected in the glass",
-        "A product launch stage where an executive unveils a giant padlock labeled 'Teen Safety Features,' while the audience holds signs reading 'What about the last 3 years?'",
-        "A before-and-after display: left panel shows a teenager freely using an AI chatbot, right panel shows the exact same scene but with a tiny badge that says 'now with guardrails'"
+        "A shiny app interface labeled 'ChatGPT for Teens — Safe Edition' with a tiny toggle switch labeled 'Age Verified' set to 'Yes' — toggled by a cartoon hand wearing a hoodie",
+        "A teenager at a laptop on a 'ChatGPT for Teens' screen; a second browser tab is barely visible, showing the adult ChatGPT interface",
+        "OpenAI headquarters exterior with a banner reading 'Protecting Teens Online,' while a line of teenagers outside all hold phones showing the standard ChatGPT app"
       ],
       "captions": [
-        "OpenAI made a safer ChatGPT for teenagers. The old one is still there. Teens know.",
-        "'Stronger built-in safety protections' is doing a lot of heavy lifting when the comparison point is 'whatever we had before.'",
-        "Launching 'ChatGPT for Teens' the same week Meta goes to trial for addiciting kids—is that good timing or a cry for help?",
-        "Every tech company eventually makes a 'for kids' version. It's like admitting the adult version has a room you're not supposed to go in.",
-        "The product name is ChatGPT for Teens. Which means the original is, officially, ChatGPT for People Who Definitely Read the Terms of Service."
+        "OpenAI built an AI that aced the bar exam and their teen safety plan is 'just ask them if they're a teen.'",
+        "ChatGPT for Teens: now with safety features that will take the average 16-year-old roughly one Google search to get around.",
+        "The press release says 'stronger built-in protections.' The fine print does not mention what happens when a kid types in 2008 instead of 2012.",
+        "So the teen version is safer. The adult version is one wrong birthday away.",
+        "Congrats to OpenAI for solving the youth AI crisis — assuming all teenagers are extremely honest about their age online, which they famously are."
       ],
       "captionsJa": [
-        "OpenAIが10代向けの安全なChatGPTを作った。元のやつは今もある。10代はそれを知っている。",
-        "「強化された安全機能」という表現は、比較対象が「これまでのもの」である場合、かなり大きな仕事をしている。",
-        "Metaが子ども依存の裁判を受けている同じ週に「10代向け安全版」を発表するのは、好タイミングなのか、助けを求めているのか。",
-        "テック企業はいつか必ず「子ども向け」版を出す。それは大人向けの製品に入ってはいけない部屋があったことの遠回しな告白だ。",
-        "製品名は「ChatGPT for Teens」。つまり元のやつは公式に、利用規約をちゃんと読んだ人向けのChatGPTということになる。"
+        "OpenAIは司法試験を突破できるAIを作った。10代向け安全策は「本人に聞く」だそうです。",
+        "ChatGPT for Teens：平均的な16歳がGoogle検索1回で突破できる安全機能つき。",
+        "プレスリリースには「より強力な保護」とある。生年月日を4年ずらしたらどうなるかは書いていない。",
+        "10代版は安全らしい。大人版は生年月日の入力ミス一回分の距離にある。",
+        "OpenAIがついに若者のAI問題を解決した——10代がオンラインで年齢について正直であるという前提のもとで。彼らは正直で有名ですからね。"
       ],
-      "newsEn": "OpenAI announced the rollout of a dedicated ChatGPT experience for teenagers, featuring 'stronger built-in safety protections' and age-appropriate educational tools. The company says the product applies specific safeguards designed for younger users. The launch comes as regulators and lawmakers are scrutinizing AI companies' approaches to minors.",
+      "newsEn": "OpenAI announced a new ChatGPT experience specifically designed for teenagers, featuring age-appropriate safeguards and educational tools. The company said the product includes stronger built-in safety protections. OpenAI did not specify how the system verifies a user's age.",
       "ironyEn": [
         {
-          "contradiction": "OpenAI built a safer version of ChatGPT for teens, which implies the regular version was not safe for teens—which millions of teens have been using for three years.",
-          "absurdity": "The press release says 'stronger built-in safety protections,' which raises the obvious question about what the previous protection level was doing.",
-          "outside": "Other countries watching U.S. tech self-regulation: 'So the plan is, they do something problematic, then announce a kids' version, and that counts as fixing it?'"
+          "contradiction": "OpenAI launched a teen-safe version of ChatGPT — accessible via the same app store account a 14-year-old uses to download everything else.",
+          "absurdity": "The safety feature teens are most likely to encounter is the five seconds it takes to switch to their parent's account.",
+          "outside": "Other countries are debating whether AI should be near children at all. The U.S. response was to make a branded teen edition."
         },
         {
-          "contradiction": "The timing is genuinely something: OpenAI's 'we made it safer for children' announcement landed the same week Meta's 'we made it addictive for children' trial began.",
-          "absurdity": "There is now a product called ChatGPT for Teens. The regular ChatGPT, apparently, is ChatGPT for Adults Who Also Let Their Kids Use It.",
-          "outside": "European regulators who have been writing binding youth-protection rules for two years just watched OpenAI do a voluntary version and call it news."
+          "contradiction": "The product promises 'stronger built-in safety protections' without explaining what stops a teenager from simply logging in as an adult.",
+          "absurdity": "OpenAI has built a system that can pass the bar exam but relies on a kid self-reporting their birthday.",
+          "outside": "From the outside, this looks less like child protection and more like a new product line with a pastel color palette."
         }
       ],
       "imageSeed": 2,
@@ -107,47 +107,47 @@
     {
       "id": "d3",
       "news": {
-        "headline": "Trump Administration to Scrap 25-Year Rule Protecting 45 Million Acres of Old-Growth Forests",
+        "headline": "Historic Preservation Group Asks Supreme Court to Stop Trump's $400M White House Ballroom",
         "source": "The Guardian US",
         "date": "2026-08-19",
-        "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
-        "summary": "トランプ政権は25年間、道路建設・採掘・伐採から国有林を守ってきた「ロードレス・ルール」を廃止する方針を発表した。約4500万エーカーが対象となる可能性がある。"
+        "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court",
+        "summary": "歴史的建造物保存団体が、トランプ大統領のホワイトハウス内4億ドルの宴会場建設プロジェクトを差し止めるよう最高裁に申し立てた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「国を守る」を掲げる政権が、四半世紀にわたって守られてきた国の自然資源を開放しようとしている。",
-        "<b>滑稽さ:</b> クリントン政権が残し、ブッシュ・オバマ・バイデンと4政権が手をつけなかった規則を25年越しで廃止するのは、「未開の森」より「未開の政策」を開拓する意欲の表れかもしれない。",
-        "<b>日本・海外から見ると:</b> 国土の約2割を占める国有林を商業利用に開放する決定は、気候変動対策や生態系保護の観点から、国際的な批判を呼ぶことが予想される。"
+        "<b>矛盾:</b> 「アメリカの偉大な歴史」を掲げる政権が、アメリカで最も象徴的な歴史的建造物の一つを改造しようとして保存団体に訴えられている。",
+        "<b>滑稽さ:</b> 予算は4億ドル。これは「緊急の国家プロジェクト」として処理された宴会場のための費用である。",
+        "<b>日本・海外から見ると:</b> 日本では皇居や国会議事堂に勝手に宴会場を増築しようとすれば即刻問題になる。ホワイトハウスで起きていることを外から見ると、規模感のズレが際立つ。"
       ],
       "imagePrompts": [
-        "An ancient forest with trees taller than buildings, and a tiny 'For Sale' sign staked into the ground at their roots, with a road being bulldozed toward them in the distance",
-        "A government filing cabinet labeled '25 Years of Protected Forests' being opened by a hand with a red stamp reading 'RESCINDED,' while through the office window a dense old-growth forest is visible",
-        "A row of five official-looking plaques on a wall, each engraved with the words 'Roadless Rule: Intact,' hanging above a sixth bare nail on the wall where a plaque used to be—replaced by a bulldozer blueprint pinned directly to the drywall"
+        "The White House exterior with construction scaffolding on one wing, a large banner reading '$400M BALLROOM — EMERGENCY PROJECT,' and a tiny figure in a hard hat holding blueprints labeled 'Party Room'",
+        "An empty marble courtroom; on the bench, nine name placards face a set of ballroom floor plans pinned to an easel — disco ball reflected light scatters across the ceiling",
+        "A historic preservation officer in a hard hat standing in front of the White House gate, holding a clipboard that reads 'Please Do Not Add Ballroom,' while construction cranes loom behind"
       ],
       "captions": [
-        "Five presidents, 25 years, and the trees survived every single one of them. Update your scorecards.",
-        "The roadless rule protected forests by not building roads into them. The new plan: roads. Sometimes policy is just that literal.",
-        "Forty-five million acres. That's bigger than Idaho. We're talking about opening something bigger than Idaho to logging, and Idaho is not a small state.",
-        "Clinton built the rule. Bush couldn't kill it. Obama kept it. Biden kept it. The trees were starting to feel good about their odds.",
-        "Great news for anyone who looked at a 500-year-old tree and thought, 'that could be a parking lot.'"
+        "The Supreme Court has been asked to rule on a ballroom. The nuclear arsenal will have to wait.",
+        "Nothing says 'America First' like a $400 million dance floor in a national monument — declared an emergency so it could happen faster.",
+        "Historic preservationists are fighting to protect the White House. From the inside.",
+        "Other presidents left their mark with legislation. This one's going with hardwood floors and a sound system.",
+        "Four hundred million dollars. For a room where you host parties. In a building with 132 rooms. Just checking if anyone else heard that."
       ],
       "captionsJa": [
-        "5人の大統領、25年間、木々はその全員を生き延びた。スコアカードを更新してください。",
-        "ロードレス・ルールは道路を通さないことで森を守っていた。新方針：道路を通す。政策がここまでそのままの意味になることもある。",
-        "4500万エーカー。アイダホ州より広い。アイダホは小さくない州だ。それより広い土地を伐採に開放しようとしている。",
-        "クリントンが作り、ブッシュが潰せず、オバマが守り、バイデンが守った。木々はそろそろ自分たちの勝率に自信を持ち始めていた。",
-        "500年物の木を見て「駐車場になれるな」と思ってた人には朗報だ。"
+        "最高裁に持ち込まれた案件：宴会場。核兵器問題はしばらくお待ちください。",
+        "「アメリカ・ファースト」の証が、国定史跡への4億ドルのダンスフロール——しかも緊急案件として処理された。",
+        "歴史的建造物保存団体が今、ホワイトハウスを守っている。内側から。",
+        "歴代大統領は法律で名を残した。この大統領はフローリングと音響設備で残す。",
+        "4億ドル。パーティー用の部屋。すでに132部屋ある建物の中に。念のため確認しますが、聞こえてますよね？"
       ],
-      "newsEn": "The Trump administration announced plans to rescind the 'roadless rule,' a 25-year-old federal regulation that has shielded approximately 45 million acres of national forests from road construction, drilling, and logging. The rule was originally implemented during the Clinton administration and has survived multiple legal and political challenges since 2001. Rescinding it would potentially open vast areas of protected forest to commercial development.",
+      "newsEn": "The National Trust for Historic Preservation filed an emergency appeal with the US Supreme Court to suspend construction of a $400 million ballroom project at the White House. Trump had previously made an emergency bid for construction to continue after a lower court raised concerns. The Trust argues the project threatens historically significant parts of the White House grounds.",
       "ironyEn": [
         {
-          "contradiction": "A rule called the 'roadless rule' protected 45 million acres for 25 years by keeping roads out. The plan now is to put roads in, which is the kind of solution that works great if your goal is the opposite of conservation.",
-          "absurdity": "Five presidencies left this rule alone—Clinton made it, Bush tried to kill it and couldn't, Obama kept it, Biden kept it. It took until 2026 to find someone willing to finish the job on the trees.",
-          "outside": "Countries that are actively trying to reforest degraded land are watching the U.S. debate whether to un-forest land that isn't degraded yet."
+          "contradiction": "A president who campaigns on American heritage is being sued by a historic preservation group for what he's doing to America's most famous house.",
+          "absurdity": "The emergency at the center of this Supreme Court fight is whether a ballroom gets built fast enough.",
+          "outside": "Four hundred million dollars for a party room in a building that already has quite a few rooms — foreign observers are doing the math and it doesn't get funnier the longer you look at it."
         },
         {
-          "contradiction": "The forests being targeted survived 25 years of legal challenges, Republican presidencies, and industry lobbying. The trees outlasted a lot of politicians. That record may be ending.",
-          "absurdity": "Forty-five million acres sounds abstract until you remember that's larger than the entire state of Idaho—and Idaho has a lot of trees.",
-          "outside": "International climate negotiators who spent two weeks in a conference center talking about forest preservation just got some material for their next slide deck."
+          "contradiction": "The White House is a national historic landmark. The plan is to renovate it under 'emergency' status to speed up a ballroom.",
+          "absurdity": "The Supreme Court — currently handling cases about nuclear arms, immigration and democracy — has been asked to weigh in on interior design.",
+          "outside": "Most countries preserve their executive residences as national symbols. The U.S. is currently arguing in court about adding a dance floor to one."
         }
       ],
       "imageSeed": 3,
@@ -157,47 +157,47 @@
     {
       "id": "d4",
       "news": {
-        "headline": "Historic Preservation Group Asks Supreme Court to Pause Trump's $400M White House Ballroom",
-        "source": "The Guardian US",
+        "headline": "Meta Goes to Trial Over Deliberately Addicting Kids to Its Platforms",
+        "source": "CBS News US",
         "date": "2026-08-19",
-        "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court",
-        "summary": "歴史保存団体が、トランプ大統領のホワイトハウス舞踏場建設プロジェクト（総額4億ドル）の工事停止を連邦最高裁に求めた。大統領は「緊急」建設継続の申し立てを行っていた。"
+        "url": "https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/",
+        "summary": "子どものSNS依存を招いたとして、Metaに対する連邦裁判が開始された。カリフォルニア州司法長官は「損害賠償ではなく原状回復が目的」と述べた。"
       },
       "commentary": [
-        "<b>矛盾:</b> アメリカの歴史的遺産を象徴する建物で、歴史的保護の原則に反する建設工事を「緊急」で進めようとしている。",
-        "<b>滑稽さ:</b> 大統領が自分の住む官邸に4億ドルの舞踏場を「緊急」建設として申請した結果、歴史保護団体も「緊急停止」で対抗するという、最高裁を舞台にした緊急合戦になっている。",
-        "<b>日本・海外から見ると:</b> 日本で首相が官邸に4億ドルの宴会場を「緊急工事」で増築しようとした場合の世論反応を想像すると、この話の規模感が伝わる。"
+        "<b>矛盾:</b> Meta側は「子どもを故意に依存させた設計ではない」と主張するが、「エンゲージメントを最大化する」アルゴリズムの存在は同社の投資家向け資料でも繰り返し強調されてきた。",
+        "<b>滑稽さ:</b> 「依存させるために設計した」かどうかが争点の裁判で、Metaのアプリは現在も世界中の子どもたちのスマホに入っている。",
+        "<b>日本・海外から見ると:</b> 日本を含む多くの国でSNSと若者の精神健康の関係が議論される中、訴訟社会アメリカらしく、答えを法廷で出そうとしている構図が際立つ。"
       ],
       "imagePrompts": [
-        "The White House with construction cranes looming over it, a disco ball visible through the scaffolding, and a Supreme Court building visible in the background with a line of people outside",
-        "A split image: on the left, an architect's rendering of an ornate ballroom with chandeliers; on the right, a historic preservation document stamped 'DO NOT TOUCH' in large red letters",
-        "A Supreme Court justice's desk covered in blueprints for a ballroom, with tiny figurines of lawyers arguing on either side of a miniature White House model"
+        "A federal courtroom where a massive screen displays an Instagram feed mid-scroll; the judge looks at it, the jury looks at it, everyone looks at it — including the Meta lawyers who are also scrolling",
+        "A billboard outside Meta headquarters reading 'We Did Not Design This to Be Addictive' with a 'Like' button below it accumulating clicks in real time",
+        "A child sitting cross-legged on the floor, phone glowing, while in the background a courtroom gavel and scale of justice are visible through a window, tiny and out of focus"
       ],
       "captions": [
-        "The White House has survived a British invasion, two world wars, and Watergate. The ballroom addition is where the Supreme Court finally had to get involved.",
-        "Both sides filed 'emergency' motions about a ballroom. The founding fathers wrote the Constitution for many reasons. This wasn't on their list.",
-        "Four hundred million dollars. For a ballroom. At a house where the resident pays no rent.",
-        "The National Trust for Historic Preservation exists to protect old buildings. They did not expect their Supreme Court debut to be about a dance floor. Nobody's résumé prepares you for that.",
-        "Somewhere a White House historian is staring at blueprints for a $400M ballroom and wondering what exactly they went to grad school for."
+        "Meta is on trial for making apps too addictive for kids. The hearing was live-streamed on Instagram.",
+        "The plaintiffs say Meta deliberately hooked children. Meta says it just accidentally made something billions of kids can't put down.",
+        "California's AG says this isn't about a massive payout — it's about the harm. Meta's PR team is already drafting the press release that says they care about that harm.",
+        "The trial starts. The algorithm runs. The feeds refresh. Nobody closes the app.",
+        "Here's the thing about suing a company for making something too engaging — you have to get a jury to look up from their phones long enough to convict."
       ],
       "captionsJa": [
-        "ホワイトハウスはイギリスの侵攻も、二度の世界大戦も、ウォーターゲートも乗り越えた。舞踏場の増築でついに最高裁が出てきた。",
-        "両者が「緊急」申し立て。対象は舞踏場。建国の父たちは合衆国憲法をさまざまな目的のために書いたが、これは想定していなかった。",
-        "4億ドル。舞踏場のために。家賃ゼロの家に住んでいる人の。",
-        "歴史的建造物保護の団体は古い建物を守るために存在する。最高裁でのデビュー戦がダンスフロアになるとは思っていなかった。どんな職歴もそこまでは準備してくれない。",
-        "ホワイトハウスの歴史家がどこかで4億ドルの舞踏場の設計図を眺めながら、自分が大学院に行った意味を考えている。"
+        "Metaがアプリを依存性が高くしすぎたとして裁判中。審理の様子はInstagramでライブ配信されました。",
+        "原告側は「意図的に子どもを依存させた」と言う。Metaは「たまたま誰も止められないものを作っただけ」と言う。",
+        "カリフォルニア州司法長官は「巨額賠償が目的ではなく、被害の回復が目的」と言う。MetaのPRチームはすでに「我々もその被害を深刻に受け止めています」という声明を準備中。",
+        "裁判が始まる。アルゴリズムは回る。フィードは更新される。誰もアプリを閉じない。",
+        "「夢中になりすぎる」という罪で企業を訴える場合、陪審員にまずスマホから目を離してもらう必要がある。"
       ],
-      "newsEn": "The National Trust for Historic Preservation filed an emergency request with the U.S. Supreme Court to suspend construction of a $400 million ballroom project at the White House while the court considers the case. The move follows President Trump's own emergency bid to keep construction moving forward. The preservation group argues the project threatens the historic integrity of the White House complex.",
+      "newsEn": "A federal trial began against Meta over claims that the company deliberately designed its social media platforms to addict children, contributing to a youth mental health crisis. California Attorney General Rob Bonta said the case is about restitution and distortion, not extracting a massive payout. Meta denies the allegations.",
       "ironyEn": [
         {
-          "contradiction": "The White House—built in 1792, survived a British burning in 1814, and listed on the National Register of Historic Places—may now face a $400 million ballroom addition because someone needs a bigger room for parties.",
-          "absurdity": "Trump filed an 'emergency' request to keep building the ballroom. The preservation group filed an 'emergency' request to stop it. The Supreme Court is now the venue for an emergency argument about a ballroom.",
-          "outside": "Countries with strict heritage protection laws are watching a $400 million renovation of a 230-year-old national landmark get classified as an emergency infrastructure project."
+          "contradiction": "Meta built features to maximize the time children spend on its apps, and is now in court arguing that maximizing time spent on its apps is not the same as causing addiction.",
+          "absurdity": "The trial is happening on the same day millions of teenagers are on Instagram.",
+          "outside": "Other countries are passing laws to keep kids off social media. The U.S. is still in the 'we'll settle this in discovery' phase."
         },
         {
-          "contradiction": "A building that has been preserved through wars, fires, and 46 presidencies may be altered faster than any environmental review process would normally allow, because the paperwork was labeled urgent.",
-          "absurdity": "The argument is essentially: how quickly can we legally add a ballroom to the most legally protected house in America?",
-          "outside": "UNESCO World Heritage site managers are either taking notes or having stress dreams, it's genuinely unclear which."
+          "contradiction": "The California AG says this isn't about damages — it's about distortion. Meta's algorithm, meanwhile, is still distorting things on schedule.",
+          "absurdity": "A company that knows exactly how long a 13-year-old will scroll before bed somehow couldn't have anticipated the mental health consequences.",
+          "outside": "From abroad, watching America sue the app rather than regulate it is a bit like suing a casino for making slot machines fun."
         }
       ],
       "imageSeed": 4,
@@ -207,47 +207,47 @@
     {
       "id": "d5",
       "news": {
-        "headline": "Columbia House, the Company That Mailed You 12 CDs for a Penny, Is Finally Shutting Down",
-        "source": "NPR Business",
+        "headline": "Experts Call RFK Jr.'s Healthcare Research Cuts 'Sabotage' — of the Agency Meant to Fix U.S. Healthcare",
+        "source": "Ars Technica",
         "date": "2026-08-19",
-        "url": "https://www.npr.org/2026/08/18/nx-s1-5936416/an-iconic-mail-order-music-and-video-company-is-shutting-down",
-        "summary": "「12枚のCDを1セントで」というキャッチコピーで知られる通販音楽・映像クラブ「コロンビアハウス」が来月で最後の注文受付を終え、閉業することが発表された。"
+        "url": "https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/",
+        "summary": "専門家や議員たちが、RFKジュニア厚生長官のもとで医療研究機関が機能不全に陥っているとして「妨害行為」と批判している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「1セントで12枚」という夢のような入会特典で顧客を集め、その後の定期購入で元を取るビジネスモデルを生み出した会社が、サブスクリプション経済の全盛期に閉業する。",
-        "<b>滑稽さ:</b> NetflixもSpotifyもApple MusicもコロンビアハウスのDNAを持っているが、本家は先に退場する。",
-        "<b>日本・海外から見ると:</b> 日本でいえば「レコードクラブ」や「本の頒布会」に相当するが、「1円で入会→後でがっつり課金」という構造がその後のデジタルサブスクの原型になったことは、あまり語られない。"
+        "<b>矛盾:</b> アメリカの壊れた医療制度を修復するために存在する研究機関を、その制度を監督する長官が機能させていないという構図が成り立っている。",
+        "<b>滑稽さ:</b> 「Make America Healthy Again（アメリカを再び健康に）」をスローガンに就任した人物が、健康政策の研究機関を壊しているという展開。",
+        "<b>日本・海外から見ると:</b> 国民皆保険を持つ多くの国から見ると、アメリカは医療制度の問題を認識しながらその解決策を研究する組織まで削減している——という状況は相当に奇妙に映る。"
       ],
       "imagePrompts": [
-        "A giant padded mailer envelope with '12 CDs FOR 1¢' printed on it, sitting in a landfill surrounded by streaming service logos on glowing phones",
-        "A cardboard box in a suburban garage overflowing with unopened CD cases from the 1990s, with a single laptop on top of it displaying a streaming music interface",
-        "A 'GOING OUT OF BUSINESS' sign hung on a warehouse full of floor-to-ceiling CD racks, with a single employee holding a box labeled 'Last Orders'"
+        "A federal building labeled 'Agency for Healthcare Research' with caution tape across the entrance, a 'Make America Healthy Again' banner on the fence, and the lights visibly off inside",
+        "A scientist in a lab coat standing in a gutted research office — empty shelves, chairs stacked, one lonely computer — holding a clipboard that reads 'Healthcare Fix: TBD'",
+        "A flow chart on a whiteboard that reads 'Step 1: Identify healthcare problem → Step 2: Fund research → Step 3: ???' with Step 2 crossed out in red marker"
       ],
       "captions": [
-        "Columbia House invented the subscription trap. Netflix, Spotify, and every gym membership in America owe them a thank-you card they'll never send.",
-        "The company that mailed you 12 CDs for a penny is gone. Somewhere in a garage, an unopened copy of Creed's greatest hits remains.",
-        "They locked you in with a penny deal and monthly obligations. Streaming services do the same thing with a free trial. Columbia House just did it with worse graphic design.",
-        "Columbia House is closing in 2026. The 1994 CD you forgot to send back is still somehow generating late fees in the afterlife.",
-        "Pour one out for the company that taught Gen X that 'free' always has a second paragraph."
+        "The guy whose job title is 'Secretary of Health' is accused of sabotaging health research. The irony is not lost on anyone except, apparently, him.",
+        "'Make America Healthy Again' — turns out Step One is eliminating the people who knew what Step One was.",
+        "U.S. healthcare is already ranked near the bottom among wealthy nations. Good news: we're defunding the research into why.",
+        "You broke the healthcare system. You broke the agency studying the broken healthcare system. At some point this stops being an accident.",
+        "Other countries fixed healthcare. America is on step two: figuring out why step one isn't happening — or was, until recently."
       ],
       "captionsJa": [
-        "コロンビアハウスがサブスクリプションの罠を発明した。Netflix、Spotify、そして全国のジム会員はお礼状を送るべきだが、絶対に送らない。",
-        "1セントで12枚のCDを郵送してくれた会社が消えた。どこかのガレージには、未開封のクリードのベスト盤が今も存在する。",
-        "1セントの特典と月々の支払いで縛る。ストリーミングは無料トライアルで同じことをしている。コロンビアハウスはただグラフィックデザインが古かっただけだ。",
-        "コロンビアハウスが2026年に閉業する。1994年に返却し忘れたあのCDは、今もあの世で延滞料金を生み出し続けている。",
-        "「無料」には必ず第二段落があることをX世代に教えた会社に、黙祷を。"
+        "「保健福祉長官」という肩書きの人物が、保健研究の妨害をしていると非難されている。本人以外は全員気づいているようだ。",
+        "「アメリカを再び健康に」——ステップ1は、ステップ1を知っていた人たちを排除することだったらしい。",
+        "アメリカの医療制度は先進国最低水準。朗報：その理由を研究していた機関の予算を削りました。",
+        "医療制度を壊した。その制度を研究する機関も壊した。どこかで「事故」という言い訳が通らなくなってくる。",
+        "他の国は医療制度を整備した。アメリカは「なぜ整備できていないか」を研究していた——最近まで。"
       ],
-      "newsEn": "Columbia House, the iconic American mail-order music and video club best known for its deals offering 12 CDs for a penny, has announced it will accept its final orders next month before shutting down. The company built its business around record and CD clubs before pivoting to DVDs, becoming a fixture of American consumer culture for decades. The closure marks the end of a long-running institution that introduced millions of Americans to subscription commerce.",
+      "newsEn": "Experts and lawmakers are accusing HHS Secretary Robert F. Kennedy Jr. of effectively sabotaging the federal agency responsible for researching ways to fix the U.S. healthcare system. Critics say the agency, already underfunded relative to the scale of American healthcare problems, is being further hollowed out. The U.S. healthcare system is widely regarded as one of the most expensive and least efficient among developed nations.",
       "ironyEn": [
         {
-          "contradiction": "Columbia House invented subscription commerce—the 'get a lot for almost nothing upfront, pay regularly forever' model that every streaming service now runs on. They're closing while Spotify has 600 million users.",
-          "absurdity": "The company that taught America how to feel tricked by a subscription is shutting down right as America has never had more subscriptions.",
-          "outside": "Business school professors who use Columbia House as a case study for subscription models now have to add a slide that says 'also they closed.'"
+          "contradiction": "RFK Jr. took office under the banner of 'Make America Healthy Again' and is now accused of dismantling the research agency tasked with making America's healthcare system work.",
+          "absurdity": "The agency assigned to fix one of the world's most broken healthcare systems is itself now broken.",
+          "outside": "Countries with universal healthcare are watching the U.S. defund the office studying why it doesn't have universal healthcare."
         },
         {
-          "contradiction": "They gave you 12 CDs for a penny to lock you in. Now you get a free trial month to lock you in. Columbia House didn't fail—it graduated.",
-          "absurdity": "Millions of Americans still have a Columbia House CD from 1994 they never opened. It's in a box in a garage somewhere. The company is gone but the unplayed copy of Hootie & the Blowfish lives on.",
-          "outside": "The company that made physical media feel cheap enough to hoard is closing in the era when people pay $15 a month to not own anything."
+          "contradiction": "The head of Health and Human Services is accused of sabotaging health services. The title is doing a lot of heavy lifting right now.",
+          "absurdity": "U.S. healthcare costs more per capita than any developed nation and delivers worse outcomes — and the one agency working on that problem just lost the plot.",
+          "outside": "From a country where you don't go bankrupt getting an appendix out, this reads like watching someone set fire to the fire station."
         }
       ],
       "imageSeed": 5,
@@ -256,94 +256,94 @@
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「子どもを罠にかけた設計」「森を罠にかけた政策」「緊急という名のわがまま」、そして罠ビジネスの元祖が静かに幕を閉じる——アメリカは今日も、自分が作った仕組みに自分で引っかかっている。",
-    "titleEn": "America Got Caught in Its Own Traps (Again)",
-    "subtitleEn": "From Meta's courtroom to Columbia House's last penny, it's that kind of week.",
-    "titleJa": "「子どもを依存させた」Metaの裁判が始まった週に、サブスクの元祖が1セントで静かに閉店した",
+    "thread": "今日の5本に通底する糸：「自分が問題の原因なのに、自分が解決策のふりをしている」——AI、テック、政府、全員が同じ芸を演じている一日。",
+    "titleEn": "We're the Problem. Also We're the Solution. Also We Made an App for That.",
+    "subtitleEn": "Five stories, one punchline: the arsonist filed the fire report.",
+    "titleJa": "「AIが仕事を奪っている」という報告書を、AIで作った会社がある",
     "titleAltJa": [
-      "4億ドルの舞踏場と45万km²の森と12枚のCD——今週のアメリカが全部おかしい",
-      "Metaの裁判を笑えない人へ。この5本を読めば、明日の飲み会で10分は話せます"
+      "4億ドルの宴会場・子ども依存アプリ・自分を壊す保健省——今週のアメリカをひとことで言うなら",
+      "ゴールドマン・サックスの報告書を読んだら、今日の会議で絶対使える一言が見つかった"
     ],
-    "leadJa": "毎朝アメリカのニュースを読んでいると、たまに「これ、同じ週の話ですよね？」と確認したくなる瞬間があります。今週がまさにそれでした。子どもを依存させた疑いで巨大テック企業が裁判所に引きずられ、25年守り続けた森が「やっぱり開放で」となり、ホワイトハウスに4億ドルの舞踏場が「緊急で」建設されようとしている。で、その混乱を横目に、サブスクビジネスの元祖がひっそりと閉店する。罠を作った側が罠に落ちる週、始まります。",
-    "quipEn": "Columbia House invented the subscription trap, Meta refined it for children's brains, and somehow Columbia House is the one shutting down.",
-    "quipJa": "コロンビアハウスがサブスクの罠を発明して、Metaがそれを子どもの脳みそ向けに改良した。で、閉店するのはコロンビアハウスの方。",
-    "fortuneEn": "This week's news is basically a masterclass in systems that worked exactly as designed until they didn't. Your plan doesn't have to be perfect. It just has to survive longer than a 25-year-old forest rule. Given the current competition, your odds are genuinely pretty good.",
-    "fortuneJa": "今週のニュースは「意図どおりに動いたシステムが、意図どおりすぎて裁判になる」話でいっぱいでした。あなたの今日の計画が多少ざっくりでも大丈夫。25年持った規則がひっくり返る時代に、「とりあえず動かしてみる」は立派な戦略です。仕事運、上向きです。",
+    "leadJa": "今朝、コーヒーを飲みながらニュースを5本読みました。5本全部、「自分が問題を起こした人が、その問題について声明を出している」という話でした。偶然じゃないと思います。これが今日のアメリカです。",
+    "quipEn": "The safest job in America right now might be writing reports about how unsafe your job is.",
+    "quipJa": "「自分が問題の原因でした」という調査結果を出せる組織は、まだ生き残っている証拠です。それだけは褒めていい。",
+    "fortuneEn": "Today's Forecast: Every institution you read about today was technically doing its job — just for someone other than you. Which means your job is still yours. Nobody's filing a report on that yet. Go do the thing you've been putting off. Turns out the arsonists are too busy writing the fire safety manual to come after you.",
+    "fortuneJa": "今日のニュースに登場した組織は全員、一応「自分の仕事」をしていました。ただ、誰のための仕事かが少しずれていただけです。あなたの仕事は、今日もちゃんとあなたのものです。調査報告書はまだ来ていません。金運は現状維持。でも現状、悪くないです。",
     "monologueEn": {
-      "opener": "This week in America: the subscription trap, the dopamine trap, the old-growth trap, the emergency ballroom trap, and one AI company trying very hard not to look like a trap. One thread. Five stories. Let's go.",
+      "opener": "I read five news stories this morning. Five. And every single one of them was some version of the same bit: the person who caused the problem held a press conference about the problem. I don't know if that's irony or just Tuesday in America. Probably Tuesday.",
       "beats": [
         {
           "ref": "d3",
-          "text": "We'll start in the forest, because it's quiet there. For now. The Trump administration announced it's scrapping the roadless rule—a 25-year-old federal regulation that kept 45 million acres of national forest off-limits to roads, drilling, and logging. Forty-five million acres. That's bigger than Idaho. Clinton put this rule in. Bush didn't touch it. Obama didn't touch it. Biden didn't touch it. And the current plan is: roads. Sometimes policy is just that literal."
-        },
-        {
-          "ref": "d4",
-          "text": "Speaking of things nobody asked for—the White House. Specifically, the $400 million ballroom someone decided the White House urgently needs. The president filed an emergency motion to keep construction moving. The National Trust for Historic Preservation fired back with their own emergency motion to stop it. The Supreme Court is now involved in an argument about a ballroom. Four hundred million dollars. For a ballroom. At a house where the resident pays no rent. The founding fathers wrote the Constitution for a lot of reasons. This was not on their list."
+          "text": "So. The White House. A historic preservation group just asked the Supreme Court to stop a $400 million ballroom from being built inside it. Four hundred million dollars. For a ballroom. And it was filed as an emergency so construction could move faster. I've been trying to get my landlord to fix a leaking pipe for three months. Apparently I should have declared it a national emergency."
         },
         {
           "ref": "d2",
-          "text": "Meanwhile, in slightly more optimistic tech news—OpenAI launched 'ChatGPT for Teens.' Stronger safety features. Age-appropriate content. Educational tools. Look, I read the announcement. It sounds fine. But 'stronger built-in safety protections' is doing a lot of heavy lifting when the comparison point is whatever they had before, which was basically nothing. And teens know the old version still exists. I'm not saying it's cynical. I'm saying it's the same week Meta went to trial, and the timing is not subtle."
+          "text": "Moving on — OpenAI launched ChatGPT for Teens. With, and I'm quoting here, 'stronger built-in safety protections.' They did not explain how the system verifies a user's age. So. OpenAI built an AI that passed the bar exam. Their teen safety plan is 'just ask them if they're a teen.' I was fifteen once. I would have typed 1998 without blinking."
         },
         {
           "ref": "d5",
-          "text": "And on that note—Columbia House is closing. The company that sent you 12 CDs for a penny, pulled you in with the deal of the century, then quietly billed you every month for the rest of your natural life. They invented the subscription trap. Netflix does it with a free trial. Spotify does it. Every gym membership in America does it. They all owe Columbia House a thank-you card they'll never send. But here's what gets me: the company that invented the model is shutting down during the golden age of the model. Somewhere in a garage, there is an unopened copy of Creed's greatest hits. Still shrink-wrapped."
+          "text": "And then there's RFK Jr. — the U.S. Secretary of Health, whose actual job title includes the word 'Health' — who is now being accused by experts and lawmakers of effectively sabotaging the federal agency that researches how to fix American healthcare. The slogan was 'Make America Healthy Again.' I'm serious. That was the slogan. So the plan, as I understand it, is: step one, dismantle the research into how to do step one."
+        },
+        {
+          "ref": "d4",
+          "text": "Also this week: a federal trial began against Meta over claims that it deliberately designed its platforms to addict children. Meta denies it. Their argument, roughly, is that they didn't mean to make something billions of kids can't put down — it just kind of happened. The trial is about restitution, not a big payout, says the California AG. Meta's PR team is already drafting a statement about how much they care about children's wellbeing. I assume they'll post it on Instagram."
         },
         {
           "ref": "d1",
-          "text": "Which brings us to Meta. Federal trial started this week. The allegation: Meta deliberately engineered addictive features to hook children to its platforms. Not accidentally addictive. Deliberately. The same company that spent years A/B testing which notification sound made a teenager check their phone fastest is now sitting in a courtroom while that research gets entered into evidence. The defense strategy, as I understand it, is essentially: the kids could've just put the phone down. The plaintiffs' response is: that's literally what we're suing about. I read that exchange and I had to put my own phone down. Just for a second."
+          "text": "But the one that got me — the one that made me put my phone down, stare at the ceiling, and then pick it up again — was Goldman Sachs. Goldman Sachs released a study confirming that AI is suppressing employment across developed economies. Goldman Sachs. One of the earliest and most aggressive adopters of AI in its own operations. They looked at the data, they ran the numbers, and they published the report. You think I'm making this up. I'm not. The bank that automates everything just wants you to know: automation is a problem."
         }
       ],
-      "closer": "Five stories. One week. The traps we build, the rules we break, the forests we open, and the ballrooms we apparently need right now, urgently, no time to discuss. I don't have a neat ending. I just read the news so you don't have to, and today it made me want to go sit in a forest while there's still one I'm allowed into."
+      "closer": "Five stories. Five institutions doing the exact thing they're warning you about. I don't have a fix. I just think you should know what you're looking at."
     },
     "monologueJa": {
-      "opener": "今週のアメリカのテーマは「自分で作った罠に自分で落ちる」です。5本、全部そうでした。順番に行きます。",
+      "opener": "今朝、5本ニュースを読みました。5本全部、同じ構造でした。「問題を起こした人が、その問題について声明を出している」。皮肉と呼ぶべきか、それとも単なる火曜日と呼ぶべきか。たぶん、火曜日です。",
       "beats": [
         {
           "ref": "d3",
-          "text": "まず森の話から。静かなうちに。トランプ政権が「ロードレス・ルール」を廃止すると発表しました。25年間、国有林への道路建設・採掘・伐採を禁じてきた連邦規制です。対象は約4500万エーカー。日本の国土面積の約5倍。クリントン政権が作り、ブッシュも、オバマも、バイデンも手をつけなかった規則です。で、新しい方針は何かというと——道路を作る。ときに政策はそのまんまです。"
-        },
-        {
-          "ref": "d4",
-          "text": "誰も頼んでいないものつながりで、次はホワイトハウスの話。総額4億ドルの舞踏場建設計画が進んでいまして、大統領は「緊急」工事継続の申し立てを最高裁に出しました。すると歴史保存団体も「緊急」停止の申し立てを出した。最高裁を巻き込んだ緊急合戦です。建設費4億ドル。舞踏場。家賃ゼロの官邸に。建国の父たちは合衆国憲法をいろんな目的のために書きましたが、これは想定していなかったと思います。"
+          "text": "まず、ホワイトハウス。歴史的建造物の保存団体が、米連邦最高裁にある建設工事の差し止めを申し立てました。何の工事かというと、ホワイトハウスの敷地内に建てようとしている宴会場。費用は4億ドル——約600億円です。しかもこれ、「緊急プロジェクト」として処理されて、工事を早く進めるために緊急申請まで出ていた。私は部屋の水道の蛇口が3年前から少し壊れてますが、緊急宣言を出す発想がなかったです。反省しています。"
         },
         {
           "ref": "d2",
-          "text": "少し明るい話を挟むと——OpenAIが10代向けの「ChatGPT for Teens」をリリースしました。安全機能を強化して、教育的なコンテンツを優先した専用版です。悪い話じゃない。ただ「強化された安全機能」というのは、比較対象が「今まであってなきがごとしの年齢確認」なので、ハードルはそんなに高くない。あと、10代の子どもたちは元のChatGPTが使えることを知っています。それと、発表のタイミングが隣の法廷でMetaの裁判が始まった同じ週というのは、偶然にしては惜しいほどの偶然です。"
+          "text": "次。OpenAIが10代向けChatGPT——「ChatGPT for Teens」をリリースしました。「より強力な安全保護機能を搭載」と言っています。ユーザーの年齢をどうやって確認するかは、説明がありません。OpenAIは司法試験に合格するAIを作りました。10代対策の答えが「10代かどうか聞いてみる」です。私が15歳だったら、生年月日の欄に4年ぐらいは平気で足してましたけど。"
         },
         {
           "ref": "d5",
-          "text": "そのサブスクの話でいうと——コロンビアハウスが閉業します。「12枚のCDが1セントで届く」という伝説の通販クラブです。日本で言えば「レコード頒布会」に近いですが、1セントで入会させて、その後の毎月の購入義務でしっかり回収するモデルを確立した会社。NetflixもSpotifyも、その構造はコロンビアハウスと同じです。いわば本家。でも本家が先に退場する。サブスク経済の全盛期に。どこかのガレージに、開封もされていないCDが今もあると思います。"
+          "text": "あとRFKジュニア。アメリカの厚生長官、つまり国民の健康を管轄する大臣ですが、専門家や議員から「アメリカの医療制度を修復するための研究機関を機能不全にしている」と批判を受けています。彼のスローガンは「Make America Healthy Again——アメリカを再び健康に」でした。本当に。なので整理すると: 医療制度を治す研究をする機関を、医療制度を監督する人が壊している。手順がひとつ飛んでる気がします。"
+        },
+        {
+          "ref": "d4",
+          "text": "Metaの話もありました。子どものSNS依存を招いたとして、連邦裁判が始まっています。Metaは「故意ではない」と否定しています。つまり彼らの主張は、「世界中の何十億人もの子どもが手放せなくなるものが、意図せず完成しました」ということです。カリフォルニア州の司法長官は「損害賠償ではなく原状回復が目的」と言っています。Metaの広報チームは今頃「子どもたちの安全を最優先に考えています」という声明を書いていると思います。Instagramに投稿される予定です。"
         },
         {
           "ref": "d1",
-          "text": "で、本題のMetaです。連邦裁判が今週始まりました。訴状の核心は「意図的に依存する仕組みを設計した」というもの。偶然ではなく、意図的に。何年もかけてどの通知音を使えば10代が最も素早くスマホを開くかをA/Bテストしてきた会社が、いまその研究結果を証拠として法廷に提出されています。弁護側の論理はだいたい「子どもが自分でスマホを置けばよかった」という話らしい。原告側の返しは「それが訴えている内容です」。いや、聞いてください、これを読んで私もスマホを一度だけ置きました。5秒くらい。"
+          "text": "でも今日一番、二度見したのはゴールドマン・サックスです。世界最大級の投資銀行、ゴールドマン・サックスが調査報告書を出しました。内容は「AIが先進国の雇用市場に悪影響を与え始めている」というものです。ゴールドマン・サックスは、自社でも早期からAIを積極導入してきた会社です。つまり——彼らは自分たちで調べて、自分たちで分析して、自分たちで発表したわけです。「我々が調べたところ、確かに我々のせいでした」。これを風刺と呼ばずして何と呼ぶか、私にはわかりません。"
         }
       ],
-      "closer": "5本、読みました。自分で仕組んだ罠に引っかかる企業、四半世紀守ってきたものをあっさり手放す政権、舞踏場が「緊急」になる国。うまいまとめは思いつきません。ただ、まだ入れる森があるうちに、一度くらい行っておこうかなとは思っています。"
+      "closer": "5本のニュース。5つの機関が、自分が警告していることを自分でやっていた。解決策は持っていません。ただ、何を見ているのかは分かってほしいと思いました。"
     },
     "notesEn": [
-      "Meta is in federal court this week, accused of deliberately engineering addictive features to hook children to its platforms. Their reported defense: kids could've just put the phone down. The plaintiffs' response: that's exactly what we're suing about.",
-      "OpenAI launched a special ChatGPT for teenagers with 'stronger built-in safety protections.' The old ChatGPT still exists. Teenagers are aware of this.",
-      "The Trump administration plans to scrap a 25-year-old federal rule that protected 45 million acres of national forest from roads, drilling, and logging. Five presidents left it alone. The new plan is: roads.",
-      "A historic preservation group asked the Supreme Court to pause the $400 million White House ballroom project. The president had already filed an emergency motion to keep building. The Supreme Court is now refereeing a ballroom dispute. The founding fathers are unavailable for comment.",
-      "Columbia House, the company that sent you 12 CDs for a penny and then quietly billed you every month, is shutting down. It invented the subscription trap that Netflix, Spotify, and every gym in America still uses. The original is closing during the golden age of the model it created.",
-      "This week: Meta on trial for addiciting kids, OpenAI launching a safer teen product, 45 million acres of forest opened to development, a $400M White House ballroom in emergency court, and the inventor of the subscription trap closing for good. One week. All of it.",
-      "The roadless rule survived Clinton, Bush, Obama, and Biden. The forests it protected are bigger than Idaho. The new plan involves roads. Sometimes American policy is just that direct.",
-      "Columbia House invented the subscription trap in the physical world. The trap lives on in every free trial, every streaming service, every gym membership. The inventor is gone. The trap is doing fine."
+      "Goldman Sachs released a report confirming AI is killing jobs across developed economies. Goldman Sachs, which has been aggressively adopting AI in its own operations, wrote the report. Possibly with AI. I love this country.",
+      "OpenAI launched ChatGPT for Teens, with 'stronger built-in safety protections.' They did not explain how the system verifies a user's age. OpenAI built an AI that passed the bar exam. Their teen safety plan is: ask the teen.",
+      "A historic preservation group asked the Supreme Court to block a $400 million ballroom being built inside the White House. It was filed as an emergency project so construction could move faster. The nuclear arsenal is fine, it can wait.",
+      "A federal trial began against Meta over claims it deliberately designed its platforms to addict children. Meta says it didn't mean to. They just accidentally made something billions of kids can't put down. Happens to the best of us.",
+      "Experts are calling RFK Jr.'s cuts to health research 'sabotage' of the agency meant to fix U.S. healthcare. His campaign slogan was 'Make America Healthy Again.' Step one, apparently, is removing the people researching how to do step one.",
+      "Today's theme in American news: every institution that caused a problem issued a statement about the problem. This is called accountability, I'm told.",
+      "If you're feeling bad about your own contradictions today — you have never released a report, using the thing causing the problem, explaining that the thing is causing the problem. You're doing fine.",
+      "Five stories this morning. Five. All the same bit: the arsonist filed the fire report. I'm going to need a stronger coffee."
     ],
     "xJa": [
-      "Metaが「子どもを意図的に依存させた」として連邦裁判が開始。弁護側の論理はほぼ「置けばよかった」。原告側の返し「それが訴えてる内容です」。この攻防だけで今週分の元が取れた。",
-      "OpenAIが10代専用の安全なChatGPTをリリース。元のChatGPTも普通に使えます。10代の子どもたちはそれを知っています。「安全版があります」は「危ない版もあります」という発表でもある。",
-      "トランプ政権が25年間、道路建設・採掘・伐採から国有林を守ってきた規制を廃止へ。クリントン、ブッシュ、オバマ、バイデンと4政権が手をつけなかったやつ。新方針は「道路を作る」。シンプル。",
-      "ホワイトハウスへの4億ドル舞踏場建設をめぐり、大統領が「緊急」工事継続を申し立て、歴史保存団体が「緊急」停止を申し立て、最高裁が判断することに。緊急合戦の舞台が最高裁。",
-      "「12枚のCDが1セントで届く」伝説の通販クラブ、コロンビアハウスが閉業。NetflixもSpotifyも同じ構造のサブスクモデルを使っているのに、元祖だけがサブスク全盛期に幕を閉じる。",
-      "今週のアメリカ要約：子どもを依存させた裁判、10代向け安全AI、45万km²の森開放、4億ドルの舞踏場緊急建設、サブスクの元祖が閉店。全部同じ週の話です。私は確認しました。",
-      "コロンビアハウスは「格安で入会させて毎月課金」の元祖。Netflixの無料トライアルも、Spotifyも、ジム会員も全部同じ仕組み。本家が閉まっても、罠は永遠に続く。",
-      "ホワイトハウス舞踏場の建設費4億ドル。家賃は無料。建国の父たちはいろいろ想定して憲法を書いたが、この状況は想定していなかったと思う。"
+      "ゴールドマン・サックスが「AIが雇用を奪っている」という調査報告を出した。同社はAIの積極的な早期導入企業でもある。「我々が調べたところ、確かに我々のせいでした」という報告書を世界最大級の金融機関が出す日が来た。",
+      "OpenAIが10代向けChatGPTをリリース。「より強力な安全保護機能」搭載。年齢確認の方法は未公表。司法試験に合格するAIを作った会社の10代対策が「本人に聞く」である可能性がある。",
+      "ホワイトハウスに4億ドルの宴会場を建設しようとしているトランプ政権に対し、歴史的建造物保存団体が最高裁に差し止めを申し立てた。「緊急プロジェクト」として申請された宴会場の工事が、別の緊急申請で止まっている。",
+      "Metaが子どものSNS依存を招いたとして連邦裁判が始まった。Metaの主張：「故意ではない」。つまり、何十億人もの子どもが手放せなくなるものが意図せず完成したらしい。",
+      "RFKジュニア厚生長官のもとで、アメリカの医療制度を改善するための研究機関が機能不全に。スローガンは「アメリカを再び健康に」。手順が一個飛んでいる気がする。",
+      "今日のアメリカのニュース5本、全部「問題を起こした側が問題について声明を出している」という構造だった。これを偶然と呼ぶか、火曜日と呼ぶかは、あなた次第です。",
+      "自分の矛盾が気になっている人へ：あなたは今日、自分が問題の原因だという調査報告書を自分で発表していない。十分です。今日もよくやっています。",
+      "「AIに仕事を奪われる」という報告書をAIで作った会社の話と、10代向け安全AIの年齢確認方法が不明な話と、ホワイトハウスに緊急で宴会場を建てようとしている話が同じ朝に来た。コーヒーが足りない。"
     ],
-    "fullEn": "# America Got Caught in Its Own Traps (Again)\n\nThis week in America: the subscription trap, the dopamine trap, the old-growth trap, the emergency ballroom trap, and one AI company trying very hard not to look like a trap. One thread. Five stories. Let's go.\n\nWe'll start in the forest, because it's quiet there. For now. The Trump administration announced it's scrapping the roadless rule—a 25-year-old federal regulation that kept 45 million acres of national forest off-limits to roads, drilling, and logging. Forty-five million acres. That's bigger than Idaho. Clinton put this rule in. Bush didn't touch it. Obama didn't touch it. Biden didn't touch it. And the current plan is: roads. Sometimes policy is just that literal.\n\nSpeaking of things nobody asked for—the White House. Specifically, the $400 million ballroom someone decided the White House urgently needs. The president filed an emergency motion to keep construction moving. The National Trust for Historic Preservation fired back with their own emergency motion to stop it. The Supreme Court is now involved in an argument about a ballroom. Four hundred million dollars. For a ballroom. At a house where the resident pays no rent. The founding fathers wrote the Constitution for a lot of reasons. This was not on their list.\n\nMeanwhile, in slightly more optimistic tech news—OpenAI launched 'ChatGPT for Teens.' Stronger safety features. Age-appropriate content. Educational tools. Look, I read the announcement. It sounds fine. But 'stronger built-in safety protections' is doing a lot of heavy lifting when the comparison point is whatever they had before, which was basically nothing. And teens know the old version still exists. I'm not saying it's cynical. I'm saying it's the same week Meta went to trial, and the timing is not subtle.\n\nAnd on that note—Columbia House is closing. The company that sent you 12 CDs for a penny, pulled you in with the deal of the century, then quietly billed you every month for the rest of your natural life. They invented the subscription trap. Netflix does it with a free trial. Spotify does it. Every gym membership in America does it. They all owe Columbia House a thank-you card they'll never send. But here's what gets me: the company that invented the model is shutting down during the golden age of the model. Somewhere in a garage, there is an unopened copy of Creed's greatest hits. Still shrink-wrapped.\n\nWhich brings us to Meta. Federal trial started this week. The allegation: Meta deliberately engineered addictive features to hook children to its platforms. Not accidentally addictive. Deliberately. The same company that spent years A/B testing which notification sound made a teenager check their phone fastest is now sitting in a courtroom while that research gets entered into evidence. The defense strategy, as I understand it, is essentially: the kids could've just put the phone down. The plaintiffs' response is: that's literally what we're suing about. I read that exchange and I had to put my own phone down. Just for a second.\n\nFive stories. One week. The traps we build, the rules we break, the forests we open, and the ballrooms we apparently need right now, urgently, no time to discuss. I don't have a neat ending. I just read the news so you don't have to, and today it made me want to go sit in a forest while there's still one I'm allowed into.\n\n**Today's Forecast** (news-based, scientifically dubious, warmly meant):\n\n> This week's news is basically a masterclass in systems that worked exactly as designed until they didn't. Your plan doesn't have to be perfect. It just has to survive longer than a 25-year-old forest rule. Given the current competition, your odds are genuinely pretty good.\n\n**Steal this line** — for your next meeting:\n\n> Columbia House invented the subscription trap, Meta refined it for children's brains, and somehow Columbia House is the one shutting down.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **Trump Administration to Scrap 25-Year Rule Protecting 45 Million Acres of Old-Growth Forests** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests))\n2. **Historic Preservation Group Asks Supreme Court to Pause Trump's $400M White House Ballroom** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court))\n3. **OpenAI Launches 'ChatGPT for Teens' With Safety Features, While Meta Goes to Trial for the Opposite** — CNBC Top News ([source](https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html))\n4. **Columbia House, the Company That Mailed You 12 CDs for a Penny, Is Finally Shutting Down** — NPR Business ([source](https://www.npr.org/2026/08/18/nx-s1-5936416/an-iconic-mail-order-music-and-video-company-is-shutting-down))\n5. **Meta's Federal Trial Begins Over Deliberately Addicting Children to Social Media** — CBS News US ([source](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/))\n",
-    "fullJa": "# 「子どもを依存させた」Metaの裁判が始まった週に、サブスクの元祖が1セントで静かに閉店した\n\n今週のアメリカのテーマは「自分で作った罠に自分で落ちる」です。5本、全部そうでした。順番に行きます。\n\nまず森の話から。静かなうちに。トランプ政権が「ロードレス・ルール」を廃止すると発表しました。25年間、国有林への道路建設・採掘・伐採を禁じてきた連邦規制です。対象は約4500万エーカー。日本の国土面積の約5倍。クリントン政権が作り、ブッシュも、オバマも、バイデンも手をつけなかった規則です。で、新しい方針は何かというと——道路を作る。ときに政策はそのまんまです。\n\n誰も頼んでいないものつながりで、次はホワイトハウスの話。総額4億ドルの舞踏場建設計画が進んでいまして、大統領は「緊急」工事継続の申し立てを最高裁に出しました。すると歴史保存団体も「緊急」停止の申し立てを出した。最高裁を巻き込んだ緊急合戦です。建設費4億ドル。舞踏場。家賃ゼロの官邸に。建国の父たちは合衆国憲法をいろんな目的のために書きましたが、これは想定していなかったと思います。\n\n少し明るい話を挟むと——OpenAIが10代向けの「ChatGPT for Teens」をリリースしました。安全機能を強化して、教育的なコンテンツを優先した専用版です。悪い話じゃない。ただ「強化された安全機能」というのは、比較対象が「今まであってなきがごとしの年齢確認」なので、ハードルはそんなに高くない。あと、10代の子どもたちは元のChatGPTが使えることを知っています。それと、発表のタイミングが隣の法廷でMetaの裁判が始まった同じ週というのは、偶然にしては惜しいほどの偶然です。\n\nそのサブスクの話でいうと——コロンビアハウスが閉業します。「12枚のCDが1セントで届く」という伝説の通販クラブです。日本で言えば「レコード頒布会」に近いですが、1セントで入会させて、その後の毎月の購入義務でしっかり回収するモデルを確立した会社。NetflixもSpotifyも、その構造はコロンビアハウスと同じです。いわば本家。でも本家が先に退場する。サブスク経済の全盛期に。どこかのガレージに、開封もされていないCDが今もあると思います。\n\nで、本題のMetaです。連邦裁判が今週始まりました。訴状の核心は「意図的に依存する仕組みを設計した」というもの。偶然ではなく、意図的に。何年もかけてどの通知音を使えば10代が最も素早くスマホを開くかをA/Bテストしてきた会社が、いまその研究結果を証拠として法廷に提出されています。弁護側の論理はだいたい「子どもが自分でスマホを置けばよかった」という話らしい。原告側の返しは「それが訴えている内容です」。いや、聞いてください、これを読んで私もスマホを一度だけ置きました。5秒くらい。\n\n5本、読みました。自分で仕組んだ罠に引っかかる企業、四半世紀守ってきたものをあっさり手放す政権、舞踏場が「緊急」になる国。うまいまとめは思いつきません。ただ、まだ入れる森があるうちに、一度くらい行っておこうかなとは思っています。\n\n**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:\n\n> 今週のニュースは「意図どおりに動いたシステムが、意図どおりすぎて裁判になる」話でいっぱいでした。あなたの今日の計画が多少ざっくりでも大丈夫。25年持った規則がひっくり返る時代に、「とりあえず動かしてみる」は立派な戦略です。仕事運、上向きです。\n\n**今日の使える一言**（明日この話題が出たら、これをどうぞ）:\n\n> コロンビアハウスがサブスクの罠を発明して、Metaがそれを子どもの脳みそ向けに改良した。で、閉店するのはコロンビアハウスの方。\n\n---\n\n**今日の5本**（登場順）\n\n1. **Trump Administration to Scrap 25-Year Rule Protecting 45 Million Acres of Old-Growth Forests**（The Guardian US） — トランプ政権は25年間、道路建設・採掘・伐採から国有林を守ってきた「ロードレス・ルール」を廃止する方針を発表した。約4500万エーカーが対象となる可能性がある。 [記事](https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests)\n2. **Historic Preservation Group Asks Supreme Court to Pause Trump's $400M White House Ballroom**（The Guardian US） — 歴史保存団体が、トランプ大統領のホワイトハウス舞踏場建設プロジェクト（総額4億ドル）の工事停止を連邦最高裁に求めた。大統領は「緊急」建設継続の申し立てを行っていた。 [記事](https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court)\n3. **OpenAI Launches 'ChatGPT for Teens' With Safety Features, While Meta Goes to Trial for the Opposite**（CNBC Top News） — OpenAIが10代向けに年齢適切な安全機能を備えた「ChatGPT for Teens」をリリースした。教育的機能と強化されたコンテンツ保護を売りにしている。 [記事](https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html)\n4. **Columbia House, the Company That Mailed You 12 CDs for a Penny, Is Finally Shutting Down**（NPR Business） — 「12枚のCDを1セントで」というキャッチコピーで知られる通販音楽・映像クラブ「コロンビアハウス」が来月で最後の注文受付を終え、閉業することが発表された。 [記事](https://www.npr.org/2026/08/18/nx-s1-5936416/an-iconic-mail-order-music-and-video-company-is-shutting-down)\n5. **Meta's Federal Trial Begins Over Deliberately Addicting Children to Social Media**（CBS News US） — Metaが子どもたちをSNSに依存させるようアプリを意図的に設計したとして、連邦裁判が始まった。訴状は同社が若者のメンタルヘルス危機を引き起こしたと主張している。 [記事](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/)\n",
-    "reviewNotes": "d3のbeat冒頭「静かなうちに」は日英ともに良いが、imagePrompts[2]のサムネイル構図（大統領の肖像画6枚）が実在人物の肖像依存に近く、制度の記号で代替すべき。d4のcaption4「最高裁の前でダンスフロアを守る」は状況説明で終わっており、オチを足す。xJa[1]が135字を超えていないか確認→128字で合格。d1のimagePrompts[2]「school looks dark and empty」は状況として弱く、より皮肉が立つ構図に。それ以外は合格。"
+    "fullEn": "# We're the Problem. Also We're the Solution. Also We Made an App for That.\n\nI read five news stories this morning. Five. And every single one of them was some version of the same bit: the person who caused the problem held a press conference about the problem. I don't know if that's irony or just Tuesday in America. Probably Tuesday.\n\nSo. The White House. A historic preservation group just asked the Supreme Court to stop a $400 million ballroom from being built inside it. Four hundred million dollars. For a ballroom. And it was filed as an emergency so construction could move faster. I've been trying to get my landlord to fix a leaking pipe for three months. Apparently I should have declared it a national emergency.\n\nMoving on — OpenAI launched ChatGPT for Teens. With, and I'm quoting here, 'stronger built-in safety protections.' They did not explain how the system verifies a user's age. So. OpenAI built an AI that passed the bar exam. Their teen safety plan is 'just ask them if they're a teen.' I was fifteen once. I would have typed 1998 without blinking.\n\nAnd then there's RFK Jr. — the U.S. Secretary of Health, whose actual job title includes the word 'Health' — who is now being accused by experts and lawmakers of effectively sabotaging the federal agency that researches how to fix American healthcare. The slogan was 'Make America Healthy Again.' I'm serious. That was the slogan. So the plan, as I understand it, is: step one, dismantle the research into how to do step one.\n\nAlso this week: a federal trial began against Meta over claims that it deliberately designed its platforms to addict children. Meta denies it. Their argument, roughly, is that they didn't mean to make something billions of kids can't put down — it just kind of happened. The trial is about restitution, not a big payout, says the California AG. Meta's PR team is already drafting a statement about how much they care about children's wellbeing. I assume they'll post it on Instagram.\n\nBut the one that got me — the one that made me put my phone down, stare at the ceiling, and then pick it up again — was Goldman Sachs. Goldman Sachs released a study confirming that AI is suppressing employment across developed economies. Goldman Sachs. One of the earliest and most aggressive adopters of AI in its own operations. They looked at the data, they ran the numbers, and they published the report. You think I'm making this up. I'm not. The bank that automates everything just wants you to know: automation is a problem.\n\nFive stories. Five institutions doing the exact thing they're warning you about. I don't have a fix. I just think you should know what you're looking at.\n\n**Today's Forecast** (news-based, scientifically dubious, warmly meant):\n\n> Today's Forecast: Every institution you read about today was technically doing its job — just for someone other than you. Which means your job is still yours. Nobody's filing a report on that yet. Go do the thing you've been putting off. Turns out the arsonists are too busy writing the fire safety manual to come after you.\n\n**Steal this line** — for your next meeting:\n\n> The safest job in America right now might be writing reports about how unsafe your job is.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **Historic Preservation Group Asks Supreme Court to Stop Trump's $400M White House Ballroom** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court))\n2. **OpenAI Launches 'ChatGPT for Teens' — With Safety Features That Definitely Won't Be Bypassed in 20 Minutes** — CNBC Top News ([source](https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html))\n3. **Experts Call RFK Jr.'s Healthcare Research Cuts 'Sabotage' — of the Agency Meant to Fix U.S. Healthcare** — Ars Technica ([source](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/))\n4. **Meta Goes to Trial Over Deliberately Addicting Kids to Its Platforms** — CBS News US ([source](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/))\n5. **Goldman Sachs Confirms AI Is Eating Jobs — in a Report Written With AI** — CNBC Top News ([source](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html))\n",
+    "fullJa": "# 「AIが仕事を奪っている」という報告書を、AIで作った会社がある\n\n今朝、5本ニュースを読みました。5本全部、同じ構造でした。「問題を起こした人が、その問題について声明を出している」。皮肉と呼ぶべきか、それとも単なる火曜日と呼ぶべきか。たぶん、火曜日です。\n\nまず、ホワイトハウス。歴史的建造物の保存団体が、米連邦最高裁にある建設工事の差し止めを申し立てました。何の工事かというと、ホワイトハウスの敷地内に建てようとしている宴会場。費用は4億ドル——約600億円です。しかもこれ、「緊急プロジェクト」として処理されて、工事を早く進めるために緊急申請まで出ていた。私は部屋の水道の蛇口が3年前から少し壊れてますが、緊急宣言を出す発想がなかったです。反省しています。\n\n次。OpenAIが10代向けChatGPT——「ChatGPT for Teens」をリリースしました。「より強力な安全保護機能を搭載」と言っています。ユーザーの年齢をどうやって確認するかは、説明がありません。OpenAIは司法試験に合格するAIを作りました。10代対策の答えが「10代かどうか聞いてみる」です。私が15歳だったら、生年月日の欄に4年ぐらいは平気で足してましたけど。\n\nあとRFKジュニア。アメリカの厚生長官、つまり国民の健康を管轄する大臣ですが、専門家や議員から「アメリカの医療制度を修復するための研究機関を機能不全にしている」と批判を受けています。彼のスローガンは「Make America Healthy Again——アメリカを再び健康に」でした。本当に。なので整理すると: 医療制度を治す研究をする機関を、医療制度を監督する人が壊している。手順がひとつ飛んでる気がします。\n\nMetaの話もありました。子どものSNS依存を招いたとして、連邦裁判が始まっています。Metaは「故意ではない」と否定しています。つまり彼らの主張は、「世界中の何十億人もの子どもが手放せなくなるものが、意図せず完成しました」ということです。カリフォルニア州の司法長官は「損害賠償ではなく原状回復が目的」と言っています。Metaの広報チームは今頃「子どもたちの安全を最優先に考えています」という声明を書いていると思います。Instagramに投稿される予定です。\n\nでも今日一番、二度見したのはゴールドマン・サックスです。世界最大級の投資銀行、ゴールドマン・サックスが調査報告書を出しました。内容は「AIが先進国の雇用市場に悪影響を与え始めている」というものです。ゴールドマン・サックスは、自社でも早期からAIを積極導入してきた会社です。つまり——彼らは自分たちで調べて、自分たちで分析して、自分たちで発表したわけです。「我々が調べたところ、確かに我々のせいでした」。これを風刺と呼ばずして何と呼ぶか、私にはわかりません。\n\n5本のニュース。5つの機関が、自分が警告していることを自分でやっていた。解決策は持っていません。ただ、何を見ているのかは分かってほしいと思いました。\n\n**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:\n\n> 今日のニュースに登場した組織は全員、一応「自分の仕事」をしていました。ただ、誰のための仕事かが少しずれていただけです。あなたの仕事は、今日もちゃんとあなたのものです。調査報告書はまだ来ていません。金運は現状維持。でも現状、悪くないです。\n\n**今日の使える一言**（明日この話題が出たら、これをどうぞ）:\n\n> 「自分が問題の原因でした」という調査結果を出せる組織は、まだ生き残っている証拠です。それだけは褒めていい。\n\n---\n\n**今日の5本**（登場順）\n\n1. **Historic Preservation Group Asks Supreme Court to Stop Trump's $400M White House Ballroom**（The Guardian US） — 歴史的建造物保存団体が、トランプ大統領のホワイトハウス内4億ドルの宴会場建設プロジェクトを差し止めるよう最高裁に申し立てた。 [記事](https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court)\n2. **OpenAI Launches 'ChatGPT for Teens' — With Safety Features That Definitely Won't Be Bypassed in 20 Minutes**（CNBC Top News） — OpenAIは10代向けに「より強力な安全保護」を組み込んだChatGPT for Teensをリリースした。 [記事](https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html)\n3. **Experts Call RFK Jr.'s Healthcare Research Cuts 'Sabotage' — of the Agency Meant to Fix U.S. Healthcare**（Ars Technica） — 専門家や議員たちが、RFKジュニア厚生長官のもとで医療研究機関が機能不全に陥っているとして「妨害行為」と批判している。 [記事](https://arstechnica.com/health/2026/08/sabotage-experts-lawmakers-blast-rfk-jr-for-destroying-healthcare-research/)\n4. **Meta Goes to Trial Over Deliberately Addicting Kids to Its Platforms**（CBS News US） — 子どものSNS依存を招いたとして、Metaに対する連邦裁判が開始された。カリフォルニア州司法長官は「損害賠償ではなく原状回復が目的」と述べた。 [記事](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/)\n5. **Goldman Sachs Confirms AI Is Eating Jobs — in a Report Written With AI**（CNBC Top News） — ゴールドマン・サックスの調査によると、AIは先進国全体の雇用市場に悪影響を与え始めていることが明らかになった。 [記事](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)\n",
+    "reviewNotes": "d3のimagePromptsにある「Nine Supreme Court justices in robes huddled around architectural floor plans」が実在人物9名の集団描写に近く、顔が映らなくても人数・役職・状況が特定的すぎる。制度の記号で置き換える。d5のcaption2「MAHA — Make America Healthy Again — starting with the agency that studies how to do that. By removing it.」は文の切り方がぎこちなくオチが弱い。d1のimagePrompt2に「labeled 'Soon to Be Replaced'」という説明的すぎる記号が入っている点も整理する。その他は合格。"
   },
   "carousel": [
     "images/2026-08-19/carousel/slide-1.jpg",
