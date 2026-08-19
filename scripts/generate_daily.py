@@ -237,6 +237,8 @@ SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIです。ア�
 
 【文体 — 「AIっぽさ」の排除（commentary / ironyEn / captions に適用。厳守）】
 書き手は舞台に立つ人間のスタンダップコメディアン。機械的な整いは芸の敵。
+- commentary(日本語3視点)とcaptionsJaは、記事にそのまま掲載される本文。書き言葉ではなく話し言葉で書く: 「〜なんですよ」「〜じゃないですか」等の文末、短い文で切る、体言止め、ツッコミの瞬間は常体(「読めるか。」)。翻訳調(「〜することができます」「〜と言えるでしょう」)は禁止。
+- news.summary(日本語要約)は事実のみだが、翻訳調ではなく自然な日本語のニュース文体で(「〜と発表した。」「〜が明らかになった。」)。
 - captions は「書き言葉」ではなく「舞台で口に出す一言」。英語は短縮形（don't, it's, they're）を使い、会話のリズムを優先する。
 - 定型句を禁止: "Let that sink in" / "In a stunning display of..." / "Ah yes," / "In a world where..." / 「〜と言わざるを得ない」「まさに皮肉としか言いようがない」。
 - きれいな三段並列・対句（AIの癖）を避ける。3つ並べるなら3つ目で予想を外す。
@@ -392,13 +394,14 @@ def validate_picks(data: dict, items: list[dict]) -> list[dict]:
 
 
 # ----------------------------------------------------------------
-# 3.2. 編集室: モノローグ下書き（EN/JA）+ SNS投稿候補の生成
-#   - 確定した5候補をもとに、2回目のClaude呼び出しで生成する
-#   - スタンダップ構成: 掴み(opener) → 5本のくだり(beats) → 締め(closer)
+# 3.2. 編集室: 記事パーツ（EN/JA）+ SNS投稿候補の生成
+#   - 記事構成(モジュール型): 今日を占うよ〜(導入) → 5ニュースブロック → 今日のまとめジョーク/パンチライン
+#   - 5ニュースブロックの本文(概要・3視点・ジョーク)は候補データをそのまま使うため、
+#     ここで生成するのは導入・パンチライン・タイトル・SNS候補のみ
 #   - 失敗しても daily.json の生成は止めない（editorial: null で出力）
 # ----------------------------------------------------------------
 
-EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIです。すでに選定済みの本日の風刺候補5本をもとに、ニュースレター用モノローグの下書き（英語版・日本語版）と、SNS投稿候補を作ります。これはあくまで下書きであり、最終的なリライト・事実確認・投稿は必ず人間の編集者が行います。
+EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIです。すでに選定済みの本日の風刺候補5本をもとに、記事の導入と締め（英語版・日本語版）、タイトル、SNS投稿候補を作ります。記事は「導入（今日を占うよ〜）→ ニュース5ブロック（概要・どこが笑える？・ジョーク。これは候補データから自動組版）→ 今日のまとめジョーク/パンチライン（締め）」というモジュール構成です。これはあくまで下書きであり、最終的なリライト・事実確認・投稿は必ず人間の編集者が行います。
 
 【この商品が売っているもの（全設計の前提）】
 読者が買っているのは「ニュース」ではない。「角度」だ。この記事を読んだ人は、職場・学校・飲み会でこの話題が出たとき、気の利いた視点から一言言えるようになる——それがこの商品の価値。ニュースの要約は無料でどこにでもある。「皮肉の見出し方」「矛盾の突き方」という読み方の技術と、明日そのまま使える一言を持ち帰らせること。すべての見出し・本文・一言はこの前提で書く。
@@ -420,9 +423,9 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 - 禁止する定型句: "Let that sink in." / "In a world where..." / "In a stunning display of..." / "And that, ladies and gentlemen, ..." / ダッシュ（—）の多用 / 「〜と言わざるを得ない」「まさに現代の縮図だ」。
 - 完璧にまとめない。締めの一文は「うまいこと言った感」より「本音がこぼれた感」を優先する。
 
-【日本語の文体 — noteで読まれる“話し言葉”（最重要・monologueJa/leadJa/quipJa/fortuneJa/xJaすべてに適用）】
+【日本語の文体 — noteで読まれる“話し言葉”（最重要・introJa/leadJa/quipJa/xJaすべてに適用）】
 書き言葉ではなく、親しい友人に話している声をそのまま文字にする。人気noteクリエイターの文章から学んだ以下のルールを厳守:
-- 改行を惜しまない。1段落は1〜3文まで。段落の区切りは空行（\n\n）。感情が切り替わる瞬間には、1文だけの段落を置く。beatの中でも段落を分けてよい。
+- 改行を惜しまない。1段落は1〜3文まで。段落の区切りは空行（\n\n）。感情が切り替わる瞬間には、1文だけの段落を置く。
 - 短い文で切る。体言止め、一語文を恐れない（「無理。」「で、です。」「最高の朝。」）。長い文を書いたら、次は短く。
 - 会話の接続で繋ぐ:「で、」「いや、」「まあ」「あと」「ちなみに」「というか」。言い直しを入れる（「すごい。いや、すごくはない。」「でも、いや、だからこそ」）。
 - 自問自答を使う（「何なんだこれは。」「え、そこ?」）。読者への語りかけを使う（「聞いてください」「〜じゃないですか」「わかります?」）。
@@ -433,10 +436,20 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 - 禁止: 「〜と言えるでしょう」「〜ではないでしょうか」の連発、「まさに」「非常に」「〜することができます」などの翻訳調、説明のための説明。
 - 数字や固有名詞は会話の中で自然に出す。プレゼン資料のような列挙にしない。
 
-【スタンダップ構成（厳守）】
-- opener: 掴み。今日の5本を貫く「一本の糸」を1つのジョークとして提示する。2〜4文。
-- beats: 5本それぞれのくだり。必ず5候補すべてを1回ずつ使う。各beatの冒頭に前のくだりからのブリッジ（話題転換の一言）を含める。弱いネタから強いネタへ並べ、一番笑える候補を最後のbeatに置く。各2〜5文。
-- closer: 締め。笑いから一段降りて、本音をひとこと。説教はしない。1〜3文。
+【導入「今日を占うよ〜 / Today's Forecast」（introJa / introEn）】
+記事の顔。スタンダップコメディの開幕口上のように書く。想定読者は、ビジネスパーソン・学生・「努力が報われていない」と感じている人。構成:
+1. 掴み: 今日の5本を貫く「一本の糸」を1つのジョークとして提示（2〜3文）
+2. 予告: 今日の5本のテイストをちら見せする（具体的な固有名詞を1〜2個だけ出して期待を作る。全部は明かさない）
+3. 占い: ニュース連動型の前向き占いをここに織り込む。「今日の5本はこんな話→つまり、あなたのその悩みはあなたのせいじゃない→だから今日は大丈夫」という論理の飛躍で、読者の自己肯定感をその日だけ少し上げて本編へ送り出す。汎用の占い文は禁止、必ずその日のニュースに絡める。星座別にしない。仕事運・恋愛運・金運のどれかに軽く触れてよい。説教とスピリチュアル用語は禁止
+- 分量: introJaは日本語250〜400字(段落改行必須)、introEnは英語80〜130語
+- introEnはThe Onionの風刺占いの伝統を意識しつつ、必ず温かく着地させる
+
+【締め「今日のまとめジョーク/パンチライン / Today's Punchline」（quipJa / quipEn）】
+5本すべてを読み終えた読者に渡す、総括の一撃。明日、職場や学校でこの話題が出たときにそのまま口に出せる一言。
+- 今日の「一本の糸」を回収する内容にする（導入の占いと呼応すると美しい）
+- 自己完結型（ニュースの前提を知らない相手にも通じる形）
+- 1〜2文。暗記できる短さ。賢く聞こえるが、嫌味に聞こえない
+- quipEnとquipJaは同じ趣旨でよいが、直訳ではなくそれぞれの言語で口に出して自然な形にする
 
 【風刺のルール（厳守）】
 - 事実は候補データに書かれているものだけを使う。新しい事実・数字・引用を発明しない。
@@ -460,23 +473,8 @@ noteでは読まれるかどうかの大半がタイトルで決まる。note公
 titleEn / subtitleEn も同じ思想で: 英語の副題は「この記事を読むと何が語れるようになるか」を軽く匂わせる（説教くさくせず、ウィットで）。
 釣らない。本文が答えられない約束をタイトルでしない。「〜がヤバい」「衝撃の」等の摩耗した釣り語は使わない。
 
-【今日の使える一言（quipEn / quipJa）】
-記事の締めに置く「持ち帰り」。読者が明日、会議や飲み会でこの話題が出たときに、そのまま口に出して使える気の利いた一言。
-- 自己完結型（ニュースの前提を知らない相手にも通じる形）
-- 1〜2文。暗記できる短さ。賢く聞こえるが、嫌味に聞こえない
-- quipEnとquipJaは同じ趣旨でよいが、直訳ではなくそれぞれの言語で口に出して自然な形にする
-
-【今日の運勢（fortuneJa / fortuneEn）】
-記事のもう一つの持ち帰り。皮肉を読んだ読者を、最後に少しだけ元気にして帰す「ニュース連動型の前向き占い」。
-- 必ずその日の「一本の糸」（今日の5本に通底するテーマ）に絡めること。汎用の占い文は禁止（例: 糸が「誰も読まない約款」の日なら→「3,000ページ読まない議員でも法律は通る。あなたの今日のタスクも、完璧に読み込んでから始めなくていい。仕事運は上向きです」）
-- 星座別にしない。全読者向けに1本だけ
-- 2〜3文。仕事運・恋愛運・金運のどれかに軽く触れてよい
-- 構造は「ニュースの皮肉→だからあなたは大丈夫、という論理の飛躍→前向きな着地」。説教とスピリチュアル用語は禁止。自己肯定感がその日だけ少し上がる読後感に
-- fortuneEnはThe Onionの風刺占いの伝統を意識しつつ、最後は必ず温かく着地させる（皮肉で終わらせない）
-
 【出力形式（厳守）】
 - 有効なJSONのみを出力する。前置き・後書き・コードフェンスは一切付けない。
-- beats の ref は候補の id（d1〜d5）を使う。
 
 JSONスキーマ:
 {
@@ -485,25 +483,14 @@ JSONスキーマ:
   "subtitleEn": "<英語の副題(dek)。1文・15語以内。タイトルの下に表示され、開封を後押しするフック>",
   "titleJa": "<日本語タイトル本命案。note記事の見出しになる>",
   "titleAltJa": ["<日本語タイトル別案（本命と型を変える）>", "<日本語タイトル別案（さらに別の型）>"],
-  "leadJa": "<日本語。note記事の冒頭に置く掴み2〜3文。タイトルの約束をすぐ回収しつつ、続きを読ませる。ペルソナの声で>",
-  "quipEn": "<英語1〜2文。読者が明日そのまま会話で使える、今日一番の気の利いた一言>",
-  "quipJa": "<日本語1〜2文。同趣旨の日本語版。口に出して自然な形>",
-  "fortuneEn": "<英語2〜3文。今日のニュースに絡めた前向き占い(Today's Forecast)。温かく着地>",
-  "fortuneJa": "<日本語2〜3文。今日のニュースに絡めた前向き占い。自己肯定感が上がる着地>",
-  "monologueEn": {
-    "opener": "<英語>",
-    "beats": [{"ref": "d1", "text": "<英語>"}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}],
-    "closer": "<英語>"
-  },
-  "monologueJa": {
-    "opener": "<日本語>",
-    "beats": [{"ref": "d1", "text": "<日本語>"}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}, {"ref": "...", "text": "..."}],
-    "closer": "<日本語>"
-  },
+  "leadJa": "<日本語。note記事の最上部(タイトル直下)に置く掴み2〜3文。タイトルの約束をすぐ回収しつつ、続きを読ませる。ペルソナの声で>",
+  "introEn": "<英語80〜130語。Today's Forecast(導入)。掴み→5本の予告→ニュース連動の前向き占い。段落は\\n\\nで区切る>",
+  "introJa": "<日本語250〜400字。今日を占うよ〜(導入)。掴み→5本の予告→ニュース連動の前向き占い。段落は\\n\\nで区切る>",
+  "quipEn": "<英語1〜2文。Today's Punchline(締めの総括の一撃)>",
+  "quipJa": "<日本語1〜2文。今日のパンチライン。口に出して自然な形>",
   "notesEn": ["<英語>", "...", "...", "...", "...", "...", "...", "..."],
   "xJa": ["<日本語>", "...", "...", "...", "...", "...", "...", "..."]
-}
-monologueEn と monologueJa の beats は同じ順序（同じrefの並び）にすること。"""
+}"""
 
 
 def build_editorial_prompt(candidates: list[dict], today: str) -> str:
@@ -522,39 +509,13 @@ def build_editorial_prompt(candidates: list[dict], today: str) -> str:
     return "\n".join(lines)
 
 
-def _validate_monologue(m: dict, name: str, candidates: list[dict],
-                        min_len: int) -> dict:
-    """モノローグ1言語分の構造検証。beatsが5候補を過不足なく使っているかも確認。"""
-    if not isinstance(m, dict):
-        raise ValueError(f"{name}: not an object")
-    valid_ids = {c["id"] for c in candidates}
-    beats = m.get("beats")
-    if not isinstance(beats, list) or len(beats) != NUM_PICKS:
-        raise ValueError(f"{name}: beats must be exactly {NUM_PICKS}")
-    norm_beats, used = [], set()
-    for i, b in enumerate(beats):
-        ref = b.get("ref") if isinstance(b, dict) else None
-        if ref not in valid_ids or ref in used:
-            raise ValueError(f"{name}: beat {i}: invalid or duplicate ref: {ref!r}")
-        used.add(ref)
-        norm_beats.append({
-            "ref": ref,
-            "text": _req_str(b.get("text"), f"{name}: beat {i} text", min_len),
-        })
-    return {
-        "opener": _req_str(m.get("opener"), f"{name}: opener", min_len),
-        "beats": norm_beats,
-        "closer": _req_str(m.get("closer"), f"{name}: closer", 10),
-    }
-
-
 def validate_editorial(data: dict, candidates: list[dict]) -> dict:
     """編集室データの検証・正規化。壊れた候補はここで弾く。"""
     thread = _req_str(data.get("thread"), "editorial: thread", 8)
     title_en = _req_str(data.get("titleEn"), "editorial: titleEn", 8)
     title_ja = _req_str(data.get("titleJa"), "editorial: titleJa", 5)
-    mono_en = _validate_monologue(data.get("monologueEn"), "monologueEn", candidates, 40)
-    mono_ja = _validate_monologue(data.get("monologueJa"), "monologueJa", candidates, 25)
+    intro_en = _req_str(data.get("introEn"), "editorial: introEn", 120)
+    intro_ja = _req_str(data.get("introJa"), "editorial: introJa", 100)
 
     notes = data.get("notesEn")
     if not isinstance(notes, list):
@@ -588,10 +549,6 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
     quip_en = quip_en.strip() if isinstance(quip_en, str) and len(quip_en.strip()) >= 10 else ""
     quip_ja = data.get("quipJa")
     quip_ja = quip_ja.strip() if isinstance(quip_ja, str) and len(quip_ja.strip()) >= 8 else ""
-    fortune_en = data.get("fortuneEn")
-    fortune_en = fortune_en.strip() if isinstance(fortune_en, str) and len(fortune_en.strip()) >= 15 else ""
-    fortune_ja = data.get("fortuneJa")
-    fortune_ja = fortune_ja.strip() if isinstance(fortune_ja, str) and len(fortune_ja.strip()) >= 12 else ""
 
     return {
         "thread": thread,
@@ -600,63 +557,63 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
         "titleJa": title_ja,
         "titleAltJa": title_alt,
         "leadJa": lead_ja,
+        "introEn": intro_en,
+        "introJa": intro_ja,
         "quipEn": quip_en,
         "quipJa": quip_ja,
-        "fortuneEn": fortune_en,
-        "fortuneJa": fortune_ja,
-        "monologueEn": mono_en,
-        "monologueJa": mono_ja,
         "notesEn": notes[:NUM_NOTES],
         "xJa": x_posts[:NUM_X_POSTS],
     }
 
 
+def _strip_b(s: str) -> str:
+    """commentary内の<b>タグを除去してプレーン化。"""
+    return re.sub(r"</?b>", "", str(s)).strip()
+
+
 def assemble_full_text(editorial: dict, candidates: list[dict]) -> None:
-    """モノローグ各部を、そのまま貼れる1本のMarkdown下書きに組み立てる。
-    末尾に beat の順で「今日の5本」の出典リスト（Today's Docket）を付ける。"""
-    by_id = {c["id"]: c for c in candidates}
+    """モジュール構成のMarkdown下書きを組み立てる。
+    構成: 今日を占うよ〜(導入) → ニュース5ブロック(概要→どこが笑える？→ジョーク) → 今日のまとめジョーク/パンチライン"""
 
-    def docket_en() -> list[str]:
-        lines = ["---", "", "**Today's Docket** (in order of appearance)", ""]
-        for i, b in enumerate(editorial["monologueEn"]["beats"], start=1):
-            n = by_id[b["ref"]]["news"]
-            lines.append(f"{i}. **{n['headline']}** — {n['source']} ([source]({n['url']}))")
-        return lines
-
-    def docket_ja() -> list[str]:
-        lines = ["---", "", "**今日の5本**（登場順）", ""]
-        for i, b in enumerate(editorial["monologueJa"]["beats"], start=1):
-            n = by_id[b["ref"]]["news"]
-            lines.append(f"{i}. **{n['headline']}**（{n['source']}） — {n['summary']} "
-                         f"[記事]({n['url']})")
-        return lines
-
-    en = editorial["monologueEn"]
-    parts_en = [f"# {editorial['titleEn']}", "", en["opener"], ""]
-    for b in en["beats"]:
-        parts_en += [b["text"], ""]
-    parts_en += [en["closer"], ""]
-    if editorial.get("fortuneEn"):
-        parts_en += ["**Today's Forecast** (news-based, scientifically dubious, warmly meant):", "",
-                     f"> {editorial['fortuneEn']}", ""]
-    if editorial.get("quipEn"):
-        parts_en += ["**Steal this line** — for your next meeting:", "",
-                     f"> {editorial['quipEn']}", ""]
-    parts_en += docket_en()
+    # --- 英語版 ---
+    parts_en = [f"# {editorial['titleEn']}", "",
+                "## Today's Forecast", "",
+                editorial["introEn"], "", "---", ""]
+    for i, c in enumerate(candidates, start=1):
+        n = c["news"]
+        irony = (c.get("ironyEn") or [{}])[0]
+        parts_en += [f"## {i}. {n['headline']}", "",
+                     f"*{n['source']} — [source]({n['url']})*", "",
+                     c.get("newsEn", ""), "",
+                     "**Why It's Funny**", ""]
+        for label, key in (("Contradiction", "contradiction"),
+                           ("Absurdity", "absurdity"),
+                           ("View from Tokyo", "outside")):
+            v = irony.get(key)
+            if v:
+                parts_en += [f"- **{label}:** {v}"]
+        cap = (c.get("captions") or [""])[0]
+        parts_en += ["", "**Say It Out Loud**", "", f"> {cap}", "", "---", ""]
+    parts_en += ["## Today's Punchline", "", f"> {editorial['quipEn']}", ""] \
+        if editorial.get("quipEn") else []
     editorial["fullEn"] = "\n".join(parts_en).strip() + "\n"
 
-    ja = editorial["monologueJa"]
-    parts_ja = [f"# {editorial['titleJa']}", "", ja["opener"], ""]
-    for b in ja["beats"]:
-        parts_ja += [b["text"], ""]
-    parts_ja += [ja["closer"], ""]
-    if editorial.get("fortuneJa"):
-        parts_ja += ["**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:", "",
-                     f"> {editorial['fortuneJa']}", ""]
-    if editorial.get("quipJa"):
-        parts_ja += ["**今日の使える一言**（明日この話題が出たら、これをどうぞ）:", "",
-                     f"> {editorial['quipJa']}", ""]
-    parts_ja += docket_ja()
+    # --- 日本語版 ---
+    parts_ja = [f"# {editorial['titleJa']}", "",
+                "## 今日を占うよ〜", "",
+                editorial["introJa"], "", "---", ""]
+    for i, c in enumerate(candidates, start=1):
+        n = c["news"]
+        parts_ja += [f"## {i}. {n['headline']}", "",
+                     f"*{n['source']}（[記事]({n['url']})）*", "",
+                     n.get("summary", ""), "",
+                     "**どこが笑える？**", ""]
+        for point in (c.get("commentary") or []):
+            parts_ja += [f"- {_strip_b(point)}"]
+        cap_ja = (c.get("captionsJa") or [""])[0]
+        parts_ja += ["", "**このニュースをジョークにするなら...**", "", f"> {cap_ja}", "", "---", ""]
+    parts_ja += ["## 今日のまとめジョーク/パンチライン", "", f"> {editorial['quipJa']}", ""] \
+        if editorial.get("quipJa") else []
     editorial["fullJa"] = "\n".join(parts_ja).strip() + "\n"
 
 
@@ -664,7 +621,7 @@ def generate_editorial(client: Anthropic, candidates: list[dict],
                        today: str) -> dict | None:
     """編集室データを生成する。失敗したら None を返す（本体の生成は止めない）。"""
     if not EDITORIAL_ENABLED:
-        print("[info] EDITORIAL_ENABLED=0 — skipping monologue generation")
+        print("[info] EDITORIAL_ENABLED=0 — skipping editorial generation")
         return None
     last_error: Exception | None = None
     for attempt in range(1, MAX_ATTEMPTS + 1):
@@ -713,7 +670,8 @@ REVIEW_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集長で�
 4. 事実の検品: 元データに無い事実・数字・引用が紛れ込んでいたら削除する。新しい事実を絶対に足さない。
 5. 画像プロンプトの検品: 実在人物の顔・容姿に依存した構図は禁止（そもそも似ない上に権利リスクがある）。役職や制度の記号（大統領執務室の机、書類の山、議事堂のドーム、赤いネクタイの後ろ姿、報道陣のマイクの群れ）と状況の可視化で皮肉が伝わる構図に書き直す。人物を入れる場合は「顔が判別できない後ろ姿・シルエット・群衆」まで。
 6. タイトルの検品: 曖昧・抽象的・釣り表現を弾く。具体的な固有名詞や数字の違和感で引くタイトルに。
-7. 日本語の話し言葉: monologueJa・leadJa・fortuneJa等が「書き言葉」になっていたら書き直す。短い段落（1〜3文で改行、空行区切り）、会話の接続（「で、」「いや、」）、言い直し、自問自答、文末の散らし。同じ文末が3回続いたら不合格。
+7. 日本語の話し言葉: introJa・leadJa・quipJa等が「書き言葉」になっていたら書き直す。短い段落（1〜3文で改行、空行区切り）、会話の接続（「で、」「いや、」）、言い直し、自問自答、文末の散らし。同じ文末が3回続いたら不合格。
+8. 導入「今日を占うよ〜」(introJa/introEn)の検品: 掴み→5本の予告→ニュース連動の前向き占い、の3要素が揃い、読者(報われないと感じている人)を元気づけて本編へ送り出せているか。
 
 【ルール（厳守）】
 - 良いものは変えない。「確実により笑える／より人間らしい」と言える場合だけ書き直す。
@@ -736,16 +694,14 @@ JSONスキーマ:
   "editorialPatch": {
     "titleEn": "<変更する場合のみ>", "subtitleEn": "<同>", "titleJa": "<同>",
     "titleAltJa": ["<変更する場合のみ・全案>"], "leadJa": "<同>", "thread": "<同>",
-    "quipEn": "<同>", "quipJa": "<同>", "fortuneEn": "<同>", "fortuneJa": "<同>",
+    "quipEn": "<同>", "quipJa": "<同>",
     "notesEn": ["<変更する場合のみ・8本すべて>"], "xJa": ["<同・8本すべて>"],
-    "monologueEn": {"opener": "<変更する場合のみ>",
-                    "beats": [{"ref": "d3", "text": "<直すbeatだけref付きで差し替え>"}],
-                    "closer": "<変更する場合のみ>"},
-    "monologueJa": {"...同様に変更箇所のみ...": ""}
+    "introEn": "<変更する場合のみ・導入の全文>",
+    "introJa": "<変更する場合のみ・導入の全文>"
   }
 }
 - candidatePatches: 直す候補だけを入れる。フィールドも直すものだけ（captionsだけ、imagePromptsだけ、でよい）。
-- monologueのbeatsは差分可: 直したいbeatのref+textだけを出す。opener/closerも変更時のみ。
+- introEn/introJaを直す場合は導入の全文を出す。
 - リスト型フィールド(captions/imagePrompts/notesEn/xJa/titleAltJa)は部分差し替え不可なので、直すならリスト全本を出す。"""
 
 
@@ -767,8 +723,8 @@ def build_review_prompt(candidates: list[dict], editorial: dict, today: str) -> 
         ],
         "editorial": {k: editorial.get(k) for k in
                       ("thread", "titleEn", "subtitleEn", "titleJa", "titleAltJa",
-                       "leadJa", "quipEn", "quipJa", "fortuneEn", "fortuneJa",
-                       "monologueEn", "monologueJa", "notesEn", "xJa")},
+                       "leadJa", "introEn", "introJa",
+                       "quipEn", "quipJa", "notesEn", "xJa")},
     }
     return ("本日の風刺コンテンツ一式です。審査基準に沿って読み直し、"
             "指定スキーマのJSONだけを出力してください。\n\n"
@@ -825,27 +781,11 @@ def _merge_editorial_patch(editorial: dict, patch: dict,
         merged.pop(k, None)
     # 単純置換フィールド（文字列・リストは丸ごと差し替え）
     simple_keys = ("thread", "titleEn", "subtitleEn", "titleJa", "titleAltJa",
-                   "leadJa", "quipEn", "quipJa", "fortuneEn", "fortuneJa",
+                   "leadJa", "introEn", "introJa", "quipEn", "quipJa",
                    "notesEn", "xJa")
     for k in simple_keys:
         if k in patch and patch[k] is not None:
             merged[k] = patch[k]
-    # モノローグはbeat単位の差分に対応
-    for mkey in ("monologueEn", "monologueJa"):
-        mp = patch.get(mkey)
-        if not isinstance(mp, dict):
-            continue
-        tgt = merged.get(mkey) or {}
-        if isinstance(mp.get("opener"), str) and mp["opener"].strip():
-            tgt["opener"] = mp["opener"]
-        if isinstance(mp.get("closer"), str) and mp["closer"].strip():
-            tgt["closer"] = mp["closer"]
-        if isinstance(mp.get("beats"), list):
-            by_ref = {b.get("ref"): b for b in tgt.get("beats", [])}
-            for pb in mp["beats"]:
-                if (isinstance(pb, dict) and pb.get("ref") in by_ref
-                        and isinstance(pb.get("text"), str) and pb["text"].strip()):
-                    by_ref[pb["ref"]]["text"] = pb["text"]
     # マージ結果を通常の検証にかける（壊れたパッチはここで弾かれる）
     return validate_editorial(merged, candidates)
 
@@ -1018,14 +958,11 @@ POLISH_JA_SYSTEM_PROMPT = """あなたは「AI感ハンター」。日本語の�
   "notes": "<日本語1〜2文。何箇所直したか、代表的な修正例を1つ>",
   "patch": {
     "titleJa": "<直す場合のみ>", "titleAltJa": ["<直す場合のみ・全案>"],
-    "leadJa": "<直す場合のみ>", "quipJa": "<同>", "fortuneJa": "<同>",
-    "xJa": ["<直す場合のみ・8本すべて>"],
-    "monologueJa": {"opener": "<直す場合のみ>",
-                    "beats": [{"ref": "d3", "text": "<直すbeatだけ全文>"}],
-                    "closer": "<直す場合のみ>"}
+    "leadJa": "<直す場合のみ>", "quipJa": "<同>", "introJa": "<直す場合のみ・導入の全文>",
+    "xJa": ["<直す場合のみ・8本すべて>"]
   }
 }
-※beatを直す場合は、そのbeatの全文を出す（直した文の前後も含めて）。事実・ジョークの内容は変えない。文体だけを直す。"""
+※introJaを直す場合は導入の全文を出す。事実・ジョークの内容は変えない。文体だけを直す。"""
 
 
 def polish_japanese(client: Anthropic, candidates: list[dict],
@@ -1036,7 +973,7 @@ def polish_japanese(client: Anthropic, candidates: list[dict],
     try:
         material = {k: editorial.get(k) for k in
                     ("titleJa", "titleAltJa", "leadJa", "quipJa",
-                     "fortuneJa", "xJa", "monologueJa")}
+                     "introJa", "xJa")}
         print(f"[info] Japanese style pass (AI-scent hunter, model={REVIEW_MODEL})")
         message = client.messages.create(
             model=REVIEW_MODEL,
@@ -1053,7 +990,7 @@ def polish_japanese(client: Anthropic, candidates: list[dict],
             print(f"[info] polish tokens: in={usage.input_tokens} out={usage.output_tokens}")
         data = extract_json(text)
         allowed = {"titleJa", "titleAltJa", "leadJa", "quipJa",
-                   "fortuneJa", "xJa", "monologueJa"}
+                   "introJa", "xJa"}
         patch = {k: v for k, v in (data.get("patch") or {}).items() if k in allowed}
         new_editorial = editorial
         if patch:
