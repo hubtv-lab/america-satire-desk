@@ -1,357 +1,357 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-11",
-  "generatedAt": "2026-08-11T15:03:33+00:00",
+  "date": "2026-08-19",
+  "generatedAt": "2026-08-19T01:26:37+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Bumble Lets Men Make the First Move — Quietly Retiring the One Thing That Made It Bumble",
-        "source": "The Verge",
-        "date": "2026-08-11",
-        "url": "https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update",
-        "summary": "マッチングアプリ「Bumble」が、女性のみがメッセージを先に送れるという創業以来の核心的ルールを廃止し、誰でも最初にメッセージを送れるよう変更すると発表した。"
+        "headline": "Meta's Federal Trial Begins Over Deliberately Addicting Children to Social Media",
+        "source": "CBS News US",
+        "date": "2026-08-19",
+        "url": "https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/",
+        "summary": "Metaが子どもたちをSNSに依存させるようアプリを意図的に設計したとして、連邦裁判が始まった。訴状は同社が若者のメンタルヘルス危機を引き起こしたと主張している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「女性が先に動ける場所」というブランドの存在意義そのものを廃止しながら、公式発表では「進化」と呼んでいる。",
-        "<b>滑稽さ:</b> 10年以上「それ以外のアプリ」と差別化してきた唯一の機能を捨てた結果、Bumbleは普通のマッチングアプリになった。",
-        "<b>日本・海外から見ると:</b> 日本のマッチングアプリ市場では女性主導モデルは珍しくないが、「ブランド哲学ごと撤回」という判断の大胆さは別の話だ。"
+        "<b>矛盾:</b> 「つながりで世界をより良くする」と掲げてきた企業が、子どもの脳をターゲットにした依存設計で訴追されている。",
+        "<b>滑稽さ:</b> 「いいね」を押すたびにドーパミンが出る仕組みを何年もかけて精密に設計した結果、裁判でその精巧さを証拠として提出されることになった。",
+        "<b>日本・海外から見ると:</b> 日本でも未成年のSNS依存は深刻な問題だが、プラットフォームへの法的責任追及はまだ緒に就いたばかりで、この裁判の行方は各国の規制論議を動かす可能性がある。"
       ],
       "imagePrompts": [
-        "A dating app mascot bee in a business suit erasing a large rulebook page that reads 'Women Message First,' while holding a press release that says 'Evolution.' The bee looks nervous.",
-        "A museum exhibit display case labeled 'Bumble's Founding Principle, 2014–2026' containing a single framed rule card, with a velvet rope around it and a 'RETIRED' placard.",
-        "Two identical-looking phones side by side, one labeled 'Bumble' and one labeled 'Every Other Dating App,' with matching interfaces and a visitor squinting to spot the difference."
+        "A courtroom where the judge's bench has a giant 'Like' button on it, and exhibit boards show app engagement graphs that look like ski slopes going straight down",
+        "A tech company whiteboard covered in charts labeled 'Time On App: Ages 10–14' with arrows pointing sharply upward, while a stack of legal subpoenas sits on the floor beneath it",
+        "A witness stand shaped like a smartphone, with a small child's silhouette sitting in it, notification bubbles floating above their head like a halo"
       ],
       "captions": [
-        "Bumble removed the rule that made Bumble, Bumble. Bold strategy. Also just… Tinder now.",
-        "They called it a 'global evolution.' The word they were looking for was 'pivot' — or possibly 'oops.'",
-        "Twelve years of 'women go first.' Then Q2 numbers came in.",
-        "You ever rebrand so hard you accidentally delete your brand?",
-        "The one feature on their homepage, their billboards, their entire Wikipedia entry — gone. But hey, the bee logo stays."
+        "Meta's defense strategy: 'Your Honor, the kids could've just put the phone down.' The plaintiffs' response: 'That's literally what we're suing about.'",
+        "They called it 'high engagement.' The plaintiffs call it 'a dopamine trap for eight-year-olds.' Tomato, tomato.",
+        "The same company that A/B tested which notification sound made teenagers check their phones fastest is now surprised people are mad.",
+        "Somewhere in Meta HQ, someone's job title was literally 'Engagement Growth—Youth.' That person is having a week.",
+        "Facebook started as a way to rate college classmates' attractiveness. The children mental-health lawsuit was, in retrospect, always coming."
       ],
       "captionsJa": [
-        "BumbleをBumbleたらしめていたルールを廃止したBumble。大胆な戦略。あとはもうTinderなんですけど。",
-        "公式声明では「グローバルな進化」と呼んでいる。正しい言葉は「方針転換」、あるいは「しまった」だろう。",
-        "12年間「女性から始める」。そして第2四半期の業績が出た。",
-        "リブランドしすぎてブランドを消した会社、見たことある？",
-        "ホームページにも、看板にも、Wikipediaにも書いてあった唯一の特徴が消えた。まあミツバチのロゴは残るけど。"
+        "Metaの弁護方針：「裁判長、子どもたちはスマホを置けばよかっただけです」。原告側の反論：「それがまさに訴えている点です」。",
+        "社内では「高エンゲージメント」と呼んでいた。原告側は「8歳向けドーパミン罠」と呼ぶ。どっちもどっちではない。",
+        "どの通知音が10代を一番早く画面に向かわせるかをA/Bテストしてた会社が、なぜか怒られていることに困惑している。",
+        "Metaのどこかに「エンゲージメント成長・ユーザー層：若年」という肩書の人がいる。その人の今週はなかなかしんどい。",
+        "Facebookは大学生の外見を採点するサイトとして始まった。子どものメンタルヘルス訴訟は、振り返れば最初から来ることが決まっていた。"
       ],
-      "newsEn": "Bumble, the dating app founded in 2014 on the premise that women must initiate conversations in heterosexual matches, has announced it is scrapping that rule. The company is calling the change a 'global evolution to its signature conversation experience,' allowing anyone to message first. The feature that defined and differentiated Bumble from competitors for over a decade is now gone.",
+      "newsEn": "A federal trial against Meta began this week, with plaintiffs accusing the company of deliberately engineering addictive features that hook children to its platforms. The lawsuit argues Meta's product decisions have significantly contributed to the youth mental health crisis in the United States. The case is one of the largest coordinated legal actions against a social media company.",
       "ironyEn": [
         {
-          "contradiction": "Bumble built its entire brand identity on one rule: women go first. Then it deleted the rule and called it an evolution.",
-          "absurdity": "They spent twelve years telling women 'this app is different.' The announcement confirming it's now exactly the same as every other app was framed as empowerment.",
-          "outside": "From the outside, it looks less like a product update and more like a company discovering its own USP was the only thing keeping it relevant."
+          "contradiction": "Meta spent years engineering the perfect dopamine loop for children, and now those engineering documents are Exhibit A in a federal courtroom.",
+          "absurdity": "The company that turned 'connecting people' into a mission statement is now defending whether connecting 12-year-olds to an endless scroll was the kind of connection anyone meant.",
+          "outside": "From the outside, it looks like a tobacco trial—same playbook, same internal memos, just with more notification sounds."
         },
         {
-          "contradiction": "The 'feminist dating app' just handed men the microphone it had spent a decade keeping out of their hands — and issued a press release about how great that is.",
-          "absurdity": "Somewhere, a Bumble brand deck from 2015 explaining why men can't message first is quietly being shredded.",
-          "outside": "If Burger King announced it was dropping the burger, they'd at least change the name."
+          "contradiction": "The features the lawsuit calls 'deliberately addictive' are the same ones Meta's product teams once celebrated as high-engagement wins.",
+          "absurdity": "Teenagers are now testifying in federal court about screen time, while the same platforms are still pinging their phones in the hallway.",
+          "outside": "Countries that already restrict algorithmic feeds for minors are watching this trial the way you watch someone else's house fire and quietly check your own smoke detectors."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-11/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch"
+      "image": "images/2026-08-19/candidate-1.jpg",
+      "imageStyle": "editorial-modern"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Spotify Will Label AI Artists — But Still Played Them for Months Without Saying a Word",
-        "source": "The Verge",
-        "date": "2026-08-11",
-        "url": "https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations",
-        "summary": "Spotifyは9月中旬から、実在しない人物によるAI生成アーティストのプロフィールに「AI Persona」バッジを表示し、レコメンデーションから除外すると発表した。"
+        "headline": "OpenAI Launches 'ChatGPT for Teens' With Safety Features, While Meta Goes to Trial for the Opposite",
+        "source": "CNBC Top News",
+        "date": "2026-08-19",
+        "url": "https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html",
+        "summary": "OpenAIが10代向けに年齢適切な安全機能を備えた「ChatGPT for Teens」をリリースした。教育的機能と強化されたコンテンツ保護を売りにしている。"
       },
       "commentary": [
-        "<b>矛盾:</b> AIアーティストの音楽を長期間レコメンドしておきながら、今になって「透明性のため」ラベルを貼ると発表した。",
-        "<b>滑稽さ:</b> 「あなたへのおすすめ」アルゴリズムが推してきたアーティストが人間かどうか、これまでユーザーには確認する手段がなかった。",
-        "<b>日本・海外から見ると:</b> 音楽の「本物性」をめぐる議論が世界中で起きる中、プラットフォームが自ら問題を認識するまでに要した時間の長さが際立つ。"
+        "<b>矛盾:</b> 「大人と同じAIでは危険」として10代専用版を作ったOpenAIだが、そもそも現行のChatGPTに年齢確認機能はほぼなかった。",
+        "<b>滑稽さ:</b> 「子ども向けに安全にしました」と発表した同じ日、隣の法廷ではMetaが子どもへの依存設計で裁判を受けているというタイミングの妙。",
+        "<b>日本・海外から見ると:</b> テック企業が「自主的に安全機能を付けました」とアピールするのは、規制される前に実績を作っておくための古典的な動きと見る向きもある。"
       ],
       "imagePrompts": [
-        "A Spotify-style artist profile page for a figure made entirely of circuit boards and wires, with a small badge reading 'AI Persona' tucked in the corner, surrounded by millions of streams and glowing five-star reviews.",
-        "A silhouette of a listener wearing headphones facing a stage where a robot band performs, holding a concert ticket that reads 'Discover Weekly Presents.' A tiny badge on the stage curtain reads 'Not Real.'",
-        "A conveyor belt inside a streaming platform server room, with music tracks sliding off it labeled with genre names, and a single rubber stamp at the end reading 'AI Persona' being applied just before the tracks reach listeners' ears."
+        "A storefront with two windows side by side—one labeled 'ChatGPT for Teens: Safety Edition' with a shield logo, and one showing a courtroom scene reflected in the glass",
+        "A product launch stage where an executive unveils a giant padlock labeled 'Teen Safety Features,' while the audience holds signs reading 'What about the last 3 years?'",
+        "A before-and-after display: left panel shows a teenager freely using an AI chatbot, right panel shows the exact same scene but with a tiny badge that says 'now with guardrails'"
       ],
       "captions": [
-        "Spotify is adding 'AI Persona' labels to fake artists. Starting in September. After the fake artists already have millions of streams.",
-        "Your Discover Weekly recommended someone who doesn't exist. Spotify's response: a badge. Coming soon.",
-        "The nutrition label, but for music — and they're putting it on after you already ate the whole thing.",
-        "At least when a robot writes your sad playlist, it's not judging you for crying.",
-        "They'll remove AI artists from recommendations. The months of recommendations? Those stay in your listening history forever, buddy."
+        "OpenAI made a safer ChatGPT for teenagers. The old one is still there. Teens know.",
+        "'Stronger built-in safety protections' is doing a lot of heavy lifting when the comparison point is 'whatever we had before.'",
+        "Launching 'ChatGPT for Teens' the same week Meta goes to trial for addiciting kids—is that good timing or a cry for help?",
+        "Every tech company eventually makes a 'for kids' version. It's like admitting the adult version has a room you're not supposed to go in.",
+        "The product name is ChatGPT for Teens. Which means the original is, officially, ChatGPT for People Who Definitely Read the Terms of Service."
       ],
       "captionsJa": [
-        "SpotifyがAIアーティストに「AI Persona」ラベルを付けると発表。9月から。そのAIアーティストがすでに何百万回も再生された後に。",
-        "あなたの「おすすめ」が存在しない人を推薦していた。Spotifyの対応：バッジを付けます。近日公開。",
-        "食品の栄養成分表示みたいなもの、ただし食べ終わった後に袋に貼るやつ。",
-        "せめてロボットに書かれた失恋プレイリストは、あなたが泣いていても批判してこない。",
-        "AIアーティストはレコメンドから消える。でも過去の再生履歴は永遠に残るよ、友よ。"
+        "OpenAIが10代向けの安全なChatGPTを作った。元のやつは今もある。10代はそれを知っている。",
+        "「強化された安全機能」という表現は、比較対象が「これまでのもの」である場合、かなり大きな仕事をしている。",
+        "Metaが子ども依存の裁判を受けている同じ週に「10代向け安全版」を発表するのは、好タイミングなのか、助けを求めているのか。",
+        "テック企業はいつか必ず「子ども向け」版を出す。それは大人向けの製品に入ってはいけない部屋があったことの遠回しな告白だ。",
+        "製品名は「ChatGPT for Teens」。つまり元のやつは公式に、利用規約をちゃんと読んだ人向けのChatGPTということになる。"
       ],
-      "newsEn": "Spotify announced it will begin adding an 'AI Persona' badge to artist profiles that 'do not represent a real person,' starting in mid-September. Music from these AI-generated artists will also be removed from personalized recommendations. The platform had previously allowed AI-generated music to circulate without any labeling, meaning listeners may have been recommended non-human artists without knowing it.",
+      "newsEn": "OpenAI announced the rollout of a dedicated ChatGPT experience for teenagers, featuring 'stronger built-in safety protections' and age-appropriate educational tools. The company says the product applies specific safeguards designed for younger users. The launch comes as regulators and lawmakers are scrutinizing AI companies' approaches to minors.",
       "ironyEn": [
         {
-          "contradiction": "Spotify's algorithm confidently recommended AI artists to millions of users for months. The transparency label arrives after the listening already happened.",
-          "absurdity": "Your 'Discover Weekly' playlist may have contained artists who don't exist, chosen by an algorithm, for your human ears, and everyone was fine with that until now.",
-          "outside": "Other industries have labeling requirements before the product ships. Spotify is essentially putting the nutrition facts on the empty bag."
+          "contradiction": "OpenAI built a safer version of ChatGPT for teens, which implies the regular version was not safe for teens—which millions of teens have been using for three years.",
+          "absurdity": "The press release says 'stronger built-in safety protections,' which raises the obvious question about what the previous protection level was doing.",
+          "outside": "Other countries watching U.S. tech self-regulation: 'So the plan is, they do something problematic, then announce a kids' version, and that counts as fixing it?'"
         },
         {
-          "contradiction": "A platform built on the promise of connecting humans to human-made music quietly became a distribution channel for non-humans — then announced a badge as a fix.",
-          "absurdity": "The badge says 'AI Persona.' What it means is 'this artist cannot tour, has no feelings about your DM, and does not care that you cried to their song at 2am.'",
-          "outside": "From a listener's point of view, the question isn't whether the music is good. It's whether 'Discover Weekly' has been a recommendation engine or a casting call for robots."
+          "contradiction": "The timing is genuinely something: OpenAI's 'we made it safer for children' announcement landed the same week Meta's 'we made it addictive for children' trial began.",
+          "absurdity": "There is now a product called ChatGPT for Teens. The regular ChatGPT, apparently, is ChatGPT for Adults Who Also Let Their Kids Use It.",
+          "outside": "European regulators who have been writing binding youth-protection rules for two years just watched OpenAI do a voluntary version and call it news."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-11/candidate-2.jpg",
-      "imageStyle": "anime-digital"
+      "image": "images/2026-08-19/candidate-2.jpg",
+      "imageStyle": "soft-3d"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "HCA Healthcare Made $6.8 Billion in Profit Last Year. Its Workers Are Holding Picket Signs.",
+        "headline": "Trump Administration to Scrap 25-Year Rule Protecting 45 Million Acres of Old-Growth Forests",
         "source": "The Guardian US",
-        "date": "2026-08-11",
-        "url": "https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest",
-        "summary": "米国最大の営利病院チェーン・HCAヘルスケアが68億ドルの利益を報告した一方、従業員組合は全国でピケを張り、賃上げと人員増を求めている。"
+        "date": "2026-08-19",
+        "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests",
+        "summary": "トランプ政権は25年間、道路建設・採掘・伐採から国有林を守ってきた「ロードレス・ルール」を廃止する方針を発表した。約4500万エーカーが対象となる可能性がある。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「利益68億ドル」と「生活が苦しい」という従業員の声が、同じ組織から同時に発信されている。",
-        "<b>滑稽さ:</b> 営利病院が「医療の提供」を事業目的としながら、その医療を支える従業員が生活費に困窮するという構図は、ビジネスモデルの説明として成立しない。",
-        "<b>日本・海外から見ると:</b> 日本では医療機関の大規模な営利化は制限されているが、米国では「最高益と低賃金の共存」が制度的に可能であることをこのケースは示している。"
+        "<b>矛盾:</b> 「国を守る」を掲げる政権が、四半世紀にわたって守られてきた国の自然資源を開放しようとしている。",
+        "<b>滑稽さ:</b> クリントン政権が残し、ブッシュ・オバマ・バイデンと4政権が手をつけなかった規則を25年越しで廃止するのは、「未開の森」より「未開の政策」を開拓する意欲の表れかもしれない。",
+        "<b>日本・海外から見ると:</b> 国土の約2割を占める国有林を商業利用に開放する決定は、気候変動対策や生態系保護の観点から、国際的な批判を呼ぶことが予想される。"
       ],
       "imagePrompts": [
-        "A gleaming glass hospital tower with a large illuminated '$6.8 Billion Profit' banner on the side, while a line of workers in scrubs hold picket signs on the sidewalk below in the rain.",
-        "A corporate earnings chart showing a dramatic upward arrow, displayed on a screen inside a boardroom, while through the window behind it, tiny figures with protest signs are visible on the street.",
-        "A hospital cafeteria tray with a single small meal on it, next to a printed annual report cover reading 'Record Profits.' Both sit on the same lunch table."
+        "An ancient forest with trees taller than buildings, and a tiny 'For Sale' sign staked into the ground at their roots, with a road being bulldozed toward them in the distance",
+        "A government filing cabinet labeled '25 Years of Protected Forests' being opened by a hand with a red stamp reading 'RESCINDED,' while through the office window a dense old-growth forest is visible",
+        "A row of five official-looking plaques on a wall, each engraved with the words 'Roadless Rule: Intact,' hanging above a sixth bare nail on the wall where a plaque used to be—replaced by a bulldozer blueprint pinned directly to the drywall"
       ],
       "captions": [
-        "Six-point-eight billion in profit, and the nurses need a picket sign to ask for a raise. The math works. The optics don't.",
-        "HCA had a 'strong year.' The people who made it a strong year are outside.",
-        "Largest for-profit hospital in America. 'For-profit' is doing a lot of work in that sentence.",
-        "They couldn't find room in $6.8 billion for staffing. Checked the couch cushions, nothing.",
-        "The workers say 'I'm struggling.' The earnings report says '$6.8 billion.' One of these documents is getting framed."
+        "Five presidents, 25 years, and the trees survived every single one of them. Update your scorecards.",
+        "The roadless rule protected forests by not building roads into them. The new plan: roads. Sometimes policy is just that literal.",
+        "Forty-five million acres. That's bigger than Idaho. We're talking about opening something bigger than Idaho to logging, and Idaho is not a small state.",
+        "Clinton built the rule. Bush couldn't kill it. Obama kept it. Biden kept it. The trees were starting to feel good about their odds.",
+        "Great news for anyone who looked at a 500-year-old tree and thought, 'that could be a parking lot.'"
       ],
       "captionsJa": [
-        "利益68億ドルで、看護師たちは賃上げを求めてピケを張っている。計算は合っている。見た目は合っていない。",
-        "HCAは「好調な一年」だった。その好調を作った人たちは外にいる。",
-        "「米国最大の営利病院」。この文章の中で「営利」という言葉がかなりの仕事をしている。",
-        "68億ドルの中に人員強化の予算が見当たらなかった。ソファのクッションの下も探したが何もなかった。",
-        "従業員は「生活が苦しい」と言う。決算報告は「68億ドル」と言う。どちらかが額に入れて飾られることになる。"
+        "5人の大統領、25年間、木々はその全員を生き延びた。スコアカードを更新してください。",
+        "ロードレス・ルールは道路を通さないことで森を守っていた。新方針：道路を通す。政策がここまでそのままの意味になることもある。",
+        "4500万エーカー。アイダホ州より広い。アイダホは小さくない州だ。それより広い土地を伐採に開放しようとしている。",
+        "クリントンが作り、ブッシュが潰せず、オバマが守り、バイデンが守った。木々はそろそろ自分たちの勝率に自信を持ち始めていた。",
+        "500年物の木を見て「駐車場になれるな」と思ってた人には朗報だ。"
       ],
-      "newsEn": "HCA Healthcare, the largest for-profit hospital system in the United States, reported $6.8 billion in profits. At the same time, union workers across the country are staging picket protests, demanding higher wages and improved staffing levels. Employees say they struggle to make ends meet despite working for the country's most profitable hospital operator.",
+      "newsEn": "The Trump administration announced plans to rescind the 'roadless rule,' a 25-year-old federal regulation that has shielded approximately 45 million acres of national forests from road construction, drilling, and logging. The rule was originally implemented during the Clinton administration and has survived multiple legal and political challenges since 2001. Rescinding it would potentially open vast areas of protected forest to commercial development.",
       "ironyEn": [
         {
-          "contradiction": "HCA's annual profit is $6.8 billion. Its employees' message to the public is 'I'm struggling.' Both are true at the same time, at the same company.",
-          "absurdity": "The people keeping patients alive are picketing outside the buildings where the profit was counted.",
-          "outside": "In most countries, 'the hospital is doing great' and 'the hospital workers are fine' are assumed to go together. In the U.S. they are apparently two separate metrics."
+          "contradiction": "A rule called the 'roadless rule' protected 45 million acres for 25 years by keeping roads out. The plan now is to put roads in, which is the kind of solution that works great if your goal is the opposite of conservation.",
+          "absurdity": "Five presidencies left this rule alone—Clinton made it, Bush tried to kill it and couldn't, Obama kept it, Biden kept it. It took until 2026 to find someone willing to finish the job on the trees.",
+          "outside": "Countries that are actively trying to reforest degraded land are watching the U.S. debate whether to un-forest land that isn't degraded yet."
         },
         {
-          "contradiction": "A for-profit healthcare system maximizing profit is working exactly as designed. That's the part that's hard to make funny.",
-          "absurdity": "Somewhere in an HCA boardroom, $6.8 billion was described as 'a strong year.' On the sidewalk outside, a nurse is holding a sign.",
-          "outside": "Six-point-eight billion dollars is the number. The workers on those picket lines are the footnote."
+          "contradiction": "The forests being targeted survived 25 years of legal challenges, Republican presidencies, and industry lobbying. The trees outlasted a lot of politicians. That record may be ending.",
+          "absurdity": "Forty-five million acres sounds abstract until you remember that's larger than the entire state of Idaho—and Idaho has a lot of trees.",
+          "outside": "International climate negotiators who spent two weeks in a conference center talking about forest preservation just got some material for their next slide deck."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-11/candidate-3.jpg",
-      "imageStyle": "editorial-modern"
+      "image": "images/2026-08-19/candidate-3.jpg",
+      "imageStyle": "classic-cartoon"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Amazon Order Confirmation Emails No Longer Tell You What You Actually Ordered",
-        "source": "The Verge",
-        "date": "2026-08-11",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data",
-        "summary": "Amazonの注文確認メールが商品名を記載しなくなり、「あなたのBeautyアイテムが確定しました」のようにカテゴリー名しか表示されなくなったと複数のユーザーが報告している。"
+        "headline": "Historic Preservation Group Asks Supreme Court to Pause Trump's $400M White House Ballroom",
+        "source": "The Guardian US",
+        "date": "2026-08-19",
+        "url": "https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court",
+        "summary": "歴史保存団体が、トランプ大統領のホワイトハウス舞踏場建設プロジェクト（総額4億ドル）の工事停止を連邦最高裁に求めた。大統領は「緊急」建設継続の申し立てを行っていた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 世界最大の小売プラットフォームが「あなたが何を注文したかを知らせるメール」から「何を注文したか教えないメール」に変えた理由を説明していない。",
-        "<b>滑稽さ:</b> 顧客のデータを精密に収集・活用するAmazonが、注文確認という最も基本的なコミュニケーションを意図的にあいまいにしている。",
-        "<b>日本・海外から見ると:</b> 日本の通販では商品名の明記は当然とされており、カテゴリー名だけの確認メールは不具合と判断されるレベルだ。"
+        "<b>矛盾:</b> アメリカの歴史的遺産を象徴する建物で、歴史的保護の原則に反する建設工事を「緊急」で進めようとしている。",
+        "<b>滑稽さ:</b> 大統領が自分の住む官邸に4億ドルの舞踏場を「緊急」建設として申請した結果、歴史保護団体も「緊急停止」で対抗するという、最高裁を舞台にした緊急合戦になっている。",
+        "<b>日本・海外から見ると:</b> 日本で首相が官邸に4億ドルの宴会場を「緊急工事」で増築しようとした場合の世論反応を想像すると、この話の規模感が伝わる。"
       ],
       "imagePrompts": [
-        "A smartphone showing an email notification that reads 'Your Item is confirmed!' with every product detail replaced by a gray blurred-out rectangle, while the recipient holds the actual package with a perfectly clear label.",
-        "An Amazon warehouse worker surrounded by thousands of precisely sorted and labeled boxes, handing a customer an email printout that says only 'Your Thing is on the way.'",
-        "A receipt from an Amazon order with all line items replaced by generic category names like 'Household Item,' 'Beauty Item,' and 'Electronic Item,' next to a shopping bag packed with recognizable specific products."
+        "The White House with construction cranes looming over it, a disco ball visible through the scaffolding, and a Supreme Court building visible in the background with a line of people outside",
+        "A split image: on the left, an architect's rendering of an ornate ballroom with chandeliers; on the right, a historic preservation document stamped 'DO NOT TOUCH' in large red letters",
+        "A Supreme Court justice's desk covered in blueprints for a ballroom, with tiny figurines of lawyers arguing on either side of a miniature White House model"
       ],
       "captions": [
-        "Amazon knows your purchase history, your voice, and your dog's name. The confirmation email just says 'Your Beauty item is confirmed.' Choosing not to know, apparently.",
-        "Retainer cleaning tablets: classified. By Amazon. As beauty.",
-        "They have your data. They just won't put it in the email.",
-        "If your bank said 'a money thing happened to your account,' you'd be on the phone in thirty seconds.",
-        "Most personalized shopping experience in history. Least informative receipt in history. Both Amazon."
+        "The White House has survived a British invasion, two world wars, and Watergate. The ballroom addition is where the Supreme Court finally had to get involved.",
+        "Both sides filed 'emergency' motions about a ballroom. The founding fathers wrote the Constitution for many reasons. This wasn't on their list.",
+        "Four hundred million dollars. For a ballroom. At a house where the resident pays no rent.",
+        "The National Trust for Historic Preservation exists to protect old buildings. They did not expect their Supreme Court debut to be about a dance floor. Nobody's résumé prepares you for that.",
+        "Somewhere a White House historian is staring at blueprints for a $400M ballroom and wondering what exactly they went to grad school for."
       ],
       "captionsJa": [
-        "Amazonはあなたの購入履歴も声も犬の名前も知っている。注文確認メールには「Beautyアイテムが確定しました」とある。意図的に知らないふりをしているようだ。",
-        "リテーナー洗浄錠：機密扱い。Amazonによって。美容品として。",
-        "データはある。ただメールには書かない。",
-        "銀行から「あなたのアカウントでお金に関する何かが起きました」と届いたら、30秒以内に電話するでしょ。",
-        "史上最もパーソナライズされたショッピング体験。史上最も情報量の少ないレシート。両方ともAmazon。"
+        "ホワイトハウスはイギリスの侵攻も、二度の世界大戦も、ウォーターゲートも乗り越えた。舞踏場の増築でついに最高裁が出てきた。",
+        "両者が「緊急」申し立て。対象は舞踏場。建国の父たちは合衆国憲法をさまざまな目的のために書いたが、これは想定していなかった。",
+        "4億ドル。舞踏場のために。家賃ゼロの家に住んでいる人の。",
+        "歴史的建造物保護の団体は古い建物を守るために存在する。最高裁でのデビュー戦がダンスフロアになるとは思っていなかった。どんな職歴もそこまでは準備してくれない。",
+        "ホワイトハウスの歴史家がどこかで4億ドルの舞踏場の設計図を眺めながら、自分が大学院に行った意味を考えている。"
       ],
-      "newsEn": "Amazon customers have reported that order confirmation emails have become significantly less informative, no longer listing specific product names. Instead, the emails display only broad item categories — for example, 'Your Beauty item is confirmed!' One customer noted that retainer cleaning tablets were described only as a 'Beauty item.' The change was noticed earlier this summer and has not been officially explained by Amazon.",
+      "newsEn": "The National Trust for Historic Preservation filed an emergency request with the U.S. Supreme Court to suspend construction of a $400 million ballroom project at the White House while the court considers the case. The move follows President Trump's own emergency bid to keep construction moving forward. The preservation group argues the project threatens the historic integrity of the White House complex.",
       "ironyEn": [
         {
-          "contradiction": "Amazon knows exactly what you bought, when, your address, your browsing history, and what you almost bought. The confirmation email says 'Your Beauty item is confirmed.'",
-          "absurdity": "A company that pioneered the personalized shopping experience is now sending confirmation emails that could have been written by someone who wasn't allowed to look at the order.",
-          "outside": "Most retailers get more specific over time. Amazon, sitting on the world's largest shopping dataset, has decided the confirmation email should know less than the customer does."
+          "contradiction": "The White House—built in 1792, survived a British burning in 1814, and listed on the National Register of Historic Places—may now face a $400 million ballroom addition because someone needs a bigger room for parties.",
+          "absurdity": "Trump filed an 'emergency' request to keep building the ballroom. The preservation group filed an 'emergency' request to stop it. The Supreme Court is now the venue for an emergency argument about a ballroom.",
+          "outside": "Countries with strict heritage protection laws are watching a $400 million renovation of a 230-year-old national landmark get classified as an emergency infrastructure project."
         },
         {
-          "contradiction": "The email proves your payment went through. It just refuses to say what the payment was for.",
-          "absurdity": "Retainer cleaning tablets classified as a 'Beauty item' is either a filing error or the most generous product description in e-commerce history.",
-          "outside": "If your bank statement said 'financial transaction confirmed' instead of naming the merchant, you'd call it fraud. Amazon calls it an update."
+          "contradiction": "A building that has been preserved through wars, fires, and 46 presidencies may be altered faster than any environmental review process would normally allow, because the paperwork was labeled urgent.",
+          "absurdity": "The argument is essentially: how quickly can we legally add a ballroom to the most legally protected house in America?",
+          "outside": "UNESCO World Heritage site managers are either taking notes or having stress dreams, it's genuinely unclear which."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-11/candidate-4.jpg",
-      "imageStyle": "soft-3d"
+      "image": "images/2026-08-19/candidate-4.jpg",
+      "imageStyle": "retro-pop"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Baltimore Officer Allegedly Faked Traffic Stops for Months to Sit in His Car and Do Nothing",
-        "source": "The Guardian US",
-        "date": "2026-08-11",
-        "url": "https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports",
-        "summary": "ボルティモアの警察官デクワン・ホーチンス（30歳）が、実際には駐車して何もしていないにもかかわらず、交通取り締まり中と虚偽の報告を繰り返していたとして起訴された。"
+        "headline": "Columbia House, the Company That Mailed You 12 CDs for a Penny, Is Finally Shutting Down",
+        "source": "NPR Business",
+        "date": "2026-08-19",
+        "url": "https://www.npr.org/2026/08/18/nx-s1-5936416/an-iconic-mail-order-music-and-video-company-is-shutting-down",
+        "summary": "「12枚のCDを1セントで」というキャッチコピーで知られる通販音楽・映像クラブ「コロンビアハウス」が来月で最後の注文受付を終え、閉業することが発表された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 交通違反の取り締まりという「市民を監視する」職務を、自分の怠惰を隠す道具として使っていたとされる。",
-        "<b>滑稽さ:</b> 「交通取締中」という報告書を偽造し続けるために、おそらく何もしない時間の多くを報告書の作成に費やしていた。",
-        "<b>日本・海外から見ると:</b> 警察の説明責任と透明性が問われる米国で、取り締まりの記録システム自体がサボりの隠れ蓑になっていたという皮肉は、制度設計の問題として興味深い。"
+        "<b>矛盾:</b> 「1セントで12枚」という夢のような入会特典で顧客を集め、その後の定期購入で元を取るビジネスモデルを生み出した会社が、サブスクリプション経済の全盛期に閉業する。",
+        "<b>滑稽さ:</b> NetflixもSpotifyもApple MusicもコロンビアハウスのDNAを持っているが、本家は先に退場する。",
+        "<b>日本・海外から見ると:</b> 日本でいえば「レコードクラブ」や「本の頒布会」に相当するが、「1円で入会→後でがっつり課金」という構造がその後のデジタルサブスクの原型になったことは、あまり語られない。"
       ],
       "imagePrompts": [
-        "A police car parked on a quiet empty street, the officer's silhouette visible through the window reclining in the seat with a coffee cup, while a stack of completed 'Traffic Stop Report' forms sits neatly on the passenger seat.",
-        "A police officer's desk covered in neatly filed traffic stop report folders, each labeled with times and locations, while through the window behind the desk, the same patrol car sits parked at the same spot in every folder's photo.",
-        "A city dispatch radio broadcasting calls for service, with a speech bubble showing the words 'Busy — traffic stop,' while a split-panel shows a parked patrol car with a thermos and a crossword puzzle on the dashboard."
+        "A giant padded mailer envelope with '12 CDs FOR 1¢' printed on it, sitting in a landfill surrounded by streaming service logos on glowing phones",
+        "A cardboard box in a suburban garage overflowing with unopened CD cases from the 1990s, with a single laptop on top of it displaying a streaming music interface",
+        "A 'GOING OUT OF BUSINESS' sign hung on a warehouse full of floor-to-ceiling CD racks, with a single employee holding a box labeled 'Last Orders'"
       ],
       "captions": [
-        "He filed fake traffic stop reports to avoid real calls. So he was doing paperwork — just paperwork for the lying.",
-        "Prosecutors called him lazy. Lazy people don't file months of forged documents. That's dedication to the bit.",
-        "The traffic stop system exists to create accountability. He used it as an alibi. Honestly, not bad.",
-        "Sitting in your parked car and filing paperwork about it: somehow both the crime and the cover-up.",
-        "Every fake report required his full attention. If he'd spent that energy on actual calls — you see where this is going."
+        "Columbia House invented the subscription trap. Netflix, Spotify, and every gym membership in America owe them a thank-you card they'll never send.",
+        "The company that mailed you 12 CDs for a penny is gone. Somewhere in a garage, an unopened copy of Creed's greatest hits remains.",
+        "They locked you in with a penny deal and monthly obligations. Streaming services do the same thing with a free trial. Columbia House just did it with worse graphic design.",
+        "Columbia House is closing in 2026. The 1994 CD you forgot to send back is still somehow generating late fees in the afterlife.",
+        "Pour one out for the company that taught Gen X that 'free' always has a second paragraph."
       ],
       "captionsJa": [
-        "実際の出動を避けるために、偽の取り締まり報告書を書き続けた。つまり仕事はしていた。嘘のための仕事を。",
-        "検察は「怠惰な警官」と呼んだ。怠惰な人間は何カ月も偽造書類を作り続けない。それはもう信念の話だ。",
-        "交通取締システムは説明責任を生むために存在する。彼はそれをアリバイとして使った。ある意味、発想は悪くない。",
-        "駐車した車の中に座って、それについての書類を書く：どういうわけかこれが犯罪であり同時に隠蔽工作でもある。",
-        "偽の報告書には毎回集中力が必要だった。そのエネルギーを実際の出動に使っていたら——まあ、お分かりでしょう。"
+        "コロンビアハウスがサブスクリプションの罠を発明した。Netflix、Spotify、そして全国のジム会員はお礼状を送るべきだが、絶対に送らない。",
+        "1セントで12枚のCDを郵送してくれた会社が消えた。どこかのガレージには、未開封のクリードのベスト盤が今も存在する。",
+        "1セントの特典と月々の支払いで縛る。ストリーミングは無料トライアルで同じことをしている。コロンビアハウスはただグラフィックデザインが古かっただけだ。",
+        "コロンビアハウスが2026年に閉業する。1994年に返却し忘れたあのCDは、今もあの世で延滞料金を生み出し続けている。",
+        "「無料」には必ず第二段落があることをX世代に教えた会社に、黙祷を。"
       ],
-      "newsEn": "Baltimore Police Officer Dequwan Houchins, 30, has been indicted on charges that he repeatedly filed false traffic stop reports to avoid responding to service calls. According to the indictment, Houchins was 'sitting idle in his car' while claiming to be conducting traffic stops. The alleged scheme continued for months before being discovered by city prosecutors.",
+      "newsEn": "Columbia House, the iconic American mail-order music and video club best known for its deals offering 12 CDs for a penny, has announced it will accept its final orders next month before shutting down. The company built its business around record and CD clubs before pivoting to DVDs, becoming a fixture of American consumer culture for decades. The closure marks the end of a long-running institution that introduced millions of Americans to subscription commerce.",
       "ironyEn": [
         {
-          "contradiction": "The traffic stop — the tool police use to monitor citizens — was allegedly used by this officer to hide from the job of monitoring citizens.",
-          "absurdity": "He filed paperwork for traffic stops that didn't happen in order to avoid doing his job, which means he was doing work to avoid work.",
-          "outside": "Most employment fraud involves claiming you did more than you did. This one required active effort: writing fake reports, maintaining a cover story, for months. That's dedication to not working."
+          "contradiction": "Columbia House invented subscription commerce—the 'get a lot for almost nothing upfront, pay regularly forever' model that every streaming service now runs on. They're closing while Spotify has 600 million users.",
+          "absurdity": "The company that taught America how to feel tricked by a subscription is shutting down right as America has never had more subscriptions.",
+          "outside": "Business school professors who use Columbia House as a case study for subscription models now have to add a slide that says 'also they closed.'"
         },
         {
-          "contradiction": "The system that exists to hold drivers accountable was allegedly used by a cop to make himself unaccountable.",
-          "absurdity": "Prosecutors called him 'a lazy cop.' The record shows he was actually fairly busy — just busy faking things.",
-          "outside": "In any other job, sitting in your car doing nothing and then filing paperwork about it would be called two separate offenses. Here they're the same one."
+          "contradiction": "They gave you 12 CDs for a penny to lock you in. Now you get a free trial month to lock you in. Columbia House didn't fail—it graduated.",
+          "absurdity": "Millions of Americans still have a Columbia House CD from 1994 they never opened. It's in a box in a garage somewhere. The company is gone but the unplayed copy of Hootie & the Blowfish lives on.",
+          "outside": "The company that made physical media feel cheap enough to hoard is closing in the era when people pay $15 a month to not own anything."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-11/candidate-5.jpg",
-      "imageStyle": "classic-cartoon"
+      "image": "images/2026-08-19/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch"
     }
   ],
   "editorial": {
-    "thread": "今日の一本の糸：「中身を消して、名前だけ残す」。Bumbleはアイデンティティを消した。Spotifyはラベルを後から貼った。Amazonは商品名を消した。HCAは利益を残して人を絞った。ボルティモアの警官は実績を偽造して、何もしなかった。",
-    "titleEn": "Everything Got Rebranded. Nothing Got Better.",
-    "subtitleEn": "The week America decided optics were enough.",
-    "titleJa": "Bumbleが「女性優先ルール」を廃止した理由、Amazonが「何を買ったか」を教えなくなった理由——どちらも「進化」だそうです",
+    "thread": "今日の5本を貫く糸：「子どもを罠にかけた設計」「森を罠にかけた政策」「緊急という名のわがまま」、そして罠ビジネスの元祖が静かに幕を閉じる——アメリカは今日も、自分が作った仕組みに自分で引っかかっている。",
+    "titleEn": "America Got Caught in Its Own Traps (Again)",
+    "subtitleEn": "From Meta's courtroom to Columbia House's last penny, it's that kind of week.",
+    "titleJa": "「子どもを依存させた」Metaの裁判が始まった週に、サブスクの元祖が1セントで静かに閉店した",
     "titleAltJa": [
-      "68億ドルの利益を出した病院で、看護師がピケを張っている。この矛盾を一言で返す方法",
-      "Spotifyに「存在しない人のアーティスト」を推薦されていたかもしれない話"
+      "4億ドルの舞踏場と45万km²の森と12枚のCD——今週のアメリカが全部おかしい",
+      "Metaの裁判を笑えない人へ。この5本を読めば、明日の飲み会で10分は話せます"
     ],
-    "leadJa": "今週のアメリカのニュースを読んでいて、ある言葉が頭から離れなくなりました。「進化」。Bumbleは創業以来の核心ルールを捨てて「進化」と呼んだ。Spotifyは数ヶ月間AIアーティストを黙って流してから「透明性のため」ラベルを貼ると言った。Amazonは商品名を消した確認メールを送ってきた。誰も「失敗した」とは言わない。みんな「進化」している。",
-    "quipEn": "This week in America: four different organizations rebranded a mistake as a feature, and one cop filed paperwork specifically to avoid doing his job. Peak efficiency.",
-    "quipJa": "今週のアメリカ：四つの組織が失敗を「進化」と呼び、一人の警官が仕事をサボるために書類仕事をした。効率化の到達点がここです。",
-    "fortuneEn": "Today's Forecast: This week proved that not labeling things — your AI playlist, your order, your inaction — can work for months before anyone notices. You, however, have been noticed. Your work is real, your name is on it, and that is already more than several major platforms managed this week. Career outlook: quietly solid.",
-    "fortuneJa": "今日の運勢：今週のアメリカは「ラベルを貼らないまま何ヶ月も通用する」ことを証明しました。でもあなたは違う。あなたの仕事には名前がついていて、あなた自身が実在している。それだけで今週の大手プラットフォームより誠実です。仕事運は地味に上向き。自分の名前で動ける人間は、思ったより強い。",
+    "leadJa": "毎朝アメリカのニュースを読んでいると、たまに「これ、同じ週の話ですよね？」と確認したくなる瞬間があります。今週がまさにそれでした。子どもを依存させた疑いで巨大テック企業が裁判所に引きずられ、25年守り続けた森が「やっぱり開放で」となり、ホワイトハウスに4億ドルの舞踏場が「緊急で」建設されようとしている。で、その混乱を横目に、サブスクビジネスの元祖がひっそりと閉店する。罠を作った側が罠に落ちる週、始まります。",
+    "quipEn": "Columbia House invented the subscription trap, Meta refined it for children's brains, and somehow Columbia House is the one shutting down.",
+    "quipJa": "コロンビアハウスがサブスクの罠を発明して、Metaがそれを子どもの脳みそ向けに改良した。で、閉店するのはコロンビアハウスの方。",
+    "fortuneEn": "This week's news is basically a masterclass in systems that worked exactly as designed until they didn't. Your plan doesn't have to be perfect. It just has to survive longer than a 25-year-old forest rule. Given the current competition, your odds are genuinely pretty good.",
+    "fortuneJa": "今週のニュースは「意図どおりに動いたシステムが、意図どおりすぎて裁判になる」話でいっぱいでした。あなたの今日の計画が多少ざっくりでも大丈夫。25年持った規則がひっくり返る時代に、「とりあえず動かしてみる」は立派な戦略です。仕事運、上向きです。",
     "monologueEn": {
-      "opener": "I read five American news stories this morning. Five different topics, five different companies, five different states. And somehow every single one of them was about the same thing: someone removing the part that was supposed to be the point. I don't know what's in the water over there. I drink canned coffee from a vending machine at 7 a.m. and even I could feel it.",
+      "opener": "This week in America: the subscription trap, the dopamine trap, the old-growth trap, the emergency ballroom trap, and one AI company trying very hard not to look like a trap. One thread. Five stories. Let's go.",
       "beats": [
         {
-          "ref": "d1",
-          "text": "So. Bumble. If you don't know Bumble, it's a dating app — started in 2014 — where women had to message first in straight matches. That was the whole thing. That was it. Not the logo, not the yellow color. The rule. Women go first. That's why it existed. And this week, they scrapped it. Now anyone can message anyone. They called this a 'global evolution to its signature conversation experience.' I had to read that three times. They evolved away from the signature experience. Which is — I mean — okay. But also: Bumble is now just Tinder with better PR. Twelve years of 'women go first.' Then Q2 numbers came in."
-        },
-        {
-          "ref": "d2",
-          "text": "And speaking of things that were quietly happening while someone wasn't paying attention — Spotify. Spotify announced this week that starting in September, they will add an 'AI Persona' badge to artist profiles that 'do not represent a real person.' Great. Responsible. Except — and this is the part where I put my phone down and stared at the ceiling for a moment — they've been recommending these AI artists for months. Without a badge. Without a note. Your Discover Weekly, that playlist you actually trust, has been pushing artists who do not exist and you had no way of knowing. Spotify's response: a badge. Coming soon. It's a nutrition label for something you already ate."
-        },
-        {
           "ref": "d3",
-          "text": "From invisible artists to very visible numbers. HCA Healthcare — the largest for-profit hospital chain in America — reported $6.8 billion in profits. Six point eight billion. And their workers are outside with picket signs, asking for a raise and enough staff to do the job safely. Both of these things are true at the same time, in the same organization. The company had a 'strong year.' The people who made it a strong year are outside. I'm not an economist. But I can read two sentences and notice when they don't add up."
+          "text": "We'll start in the forest, because it's quiet there. For now. The Trump administration announced it's scrapping the roadless rule—a 25-year-old federal regulation that kept 45 million acres of national forest off-limits to roads, drilling, and logging. Forty-five million acres. That's bigger than Idaho. Clinton put this rule in. Bush didn't touch it. Obama didn't touch it. Biden didn't touch it. And the current plan is: roads. Sometimes policy is just that literal."
         },
         {
           "ref": "d4",
-          "text": "Okay, so Amazon. Amazon knows everything. Your address, your search history, your purchase patterns — they probably know you better than your friends do. And yet. This summer, people started noticing that Amazon's order confirmation emails no longer say what you ordered. Instead, you get: 'Your Beauty item is confirmed!' One person ordered retainer cleaning tablets. The email said Beauty item. Amazon has not explained why. They have your data. They just won't put it in the email. I genuinely don't know if this is a privacy thing, a glitch, or someone's A/B test that escaped. But I do know that getting an email that says 'your item' without naming the item would, in most places, be considered a bug. Not a feature. Not an evolution."
+          "text": "Speaking of things nobody asked for—the White House. Specifically, the $400 million ballroom someone decided the White House urgently needs. The president filed an emergency motion to keep construction moving. The National Trust for Historic Preservation fired back with their own emergency motion to stop it. The Supreme Court is now involved in an argument about a ballroom. Four hundred million dollars. For a ballroom. At a house where the resident pays no rent. The founding fathers wrote the Constitution for a lot of reasons. This was not on their list."
+        },
+        {
+          "ref": "d2",
+          "text": "Meanwhile, in slightly more optimistic tech news—OpenAI launched 'ChatGPT for Teens.' Stronger safety features. Age-appropriate content. Educational tools. Look, I read the announcement. It sounds fine. But 'stronger built-in safety protections' is doing a lot of heavy lifting when the comparison point is whatever they had before, which was basically nothing. And teens know the old version still exists. I'm not saying it's cynical. I'm saying it's the same week Meta went to trial, and the timing is not subtle."
         },
         {
           "ref": "d5",
-          "text": "And finally. My favorite story of the week. A Baltimore police officer — 30 years old, name is Dequwan Houchins — was indicted for allegedly filing fake traffic stop reports for months. Why? To avoid responding to real calls. While he was claiming to be conducting traffic stops, prosecutors say he was sitting in his car. Doing nothing. Now here's the part that got me. He filed fake reports to explain what he was doing with his time. So he was doing paperwork — just paperwork for the lying. The traffic stop documentation system, which exists to create accountability, became his alibi. You think I'm making this up. I am not making this up. Prosecutors called him lazy. I'd say lazy is underselling it. Lazy people don't do extra paperwork."
+          "text": "And on that note—Columbia House is closing. The company that sent you 12 CDs for a penny, pulled you in with the deal of the century, then quietly billed you every month for the rest of your natural life. They invented the subscription trap. Netflix does it with a free trial. Spotify does it. Every gym membership in America does it. They all owe Columbia House a thank-you card they'll never send. But here's what gets me: the company that invented the model is shutting down during the golden age of the model. Somewhere in a garage, there is an unopened copy of Creed's greatest hits. Still shrink-wrapped."
+        },
+        {
+          "ref": "d1",
+          "text": "Which brings us to Meta. Federal trial started this week. The allegation: Meta deliberately engineered addictive features to hook children to its platforms. Not accidentally addictive. Deliberately. The same company that spent years A/B testing which notification sound made a teenager check their phone fastest is now sitting in a courtroom while that research gets entered into evidence. The defense strategy, as I understand it, is essentially: the kids could've just put the phone down. The plaintiffs' response is: that's literally what we're suing about. I read that exchange and I had to put my own phone down. Just for a second."
         }
       ],
-      "closer": "Five stories. One week. Nobody admitted anything. It was a global evolution, a transparency initiative, a strong year, a feature, and a traffic stop. I'm going back to my canned coffee. At least the label still says what's inside."
+      "closer": "Five stories. One week. The traps we build, the rules we break, the forests we open, and the ballrooms we apparently need right now, urgently, no time to discuss. I don't have a neat ending. I just read the news so you don't have to, and today it made me want to go sit in a forest while there's still one I'm allowed into."
     },
     "monologueJa": {
-      "opener": "今朝、アメリカのニュースを5本読みました。ジャンルも州もバラバラ。でも全部、同じ話をしていた。「中身を消して、名前だけ残した人たちの話」。これが偶然5本揃うと、もう頭を抱えるというより、少し感心してしまう。",
+      "opener": "今週のアメリカのテーマは「自分で作った罠に自分で落ちる」です。5本、全部そうでした。順番に行きます。",
       "beats": [
         {
-          "ref": "d1",
-          "text": "まずBumble。マッチングアプリです。2014年に創業して、「女性だけが最初にメッセージを送れる」というルールで差別化してきた。そのルールが、そのアプリの全部だった。ロゴでも色でもなく、ルールが商品だった。それを今週、廃止しました。誰でも最初に送れるようになる。公式の説明は「グローバルな進化」。いや、進化の方向が内側に向いてる。12年間「女性が先」でやってきて、第2四半期の数字が出てきたら方針転換。結果として今、BumbleはTinderになりました。"
-        },
-        {
-          "ref": "d2",
-          "text": "黙って続いていた話、といえば——Spotify。9月中旬から、実在しない人物によるAI生成アーティストに「AI Persona」バッジを表示すると発表しました。透明性の確保、素晴らしい。ただ、これ、何ヶ月も前からAIアーティストの音楽をレコメンドしていたんです。バッジも説明もなく。「あなたへのおすすめ」に入ってきたアーティストが人間なのかどうか、確認する方法がなかった。Spotifyの対応：バッジ。近日公開。食べ終わってから貼る栄養成分表示です。"
-        },
-        {
           "ref": "d3",
-          "text": "見えないアーティストの話から、非常に見えやすい数字の話へ。HCAヘルスケア、アメリカ最大の営利病院チェーンが、昨年の利益68億ドルを発表しました。68億ドル、です。同じ週に、その病院で働く組合員が全国でピケを張って、賃上げと人員増を求めています。同じ組織から、同時に出てきた話。「強い一年だった」という会社の発表と、「生活が苦しい」という従業員の声が共存している。この二つの文章、並べるだけで説明が要らない。"
+          "text": "まず森の話から。静かなうちに。トランプ政権が「ロードレス・ルール」を廃止すると発表しました。25年間、国有林への道路建設・採掘・伐採を禁じてきた連邦規制です。対象は約4500万エーカー。日本の国土面積の約5倍。クリントン政権が作り、ブッシュも、オバマも、バイデンも手をつけなかった規則です。で、新しい方針は何かというと——道路を作る。ときに政策はそのまんまです。"
         },
         {
           "ref": "d4",
-          "text": "Amazonの話、聞いてください。Amazonはあなたの住所も、購買履歴も、検索傾向も全部持っている。おそらく友人より詳しい。なのに今年の夏から、注文確認メールに商品名が書かれなくなった。届くメールはこういう感じです：「あなたのBeautyアイテムが確定しました！」。ある人がリテーナークリーニングタブレットを注文したら、「Beautyアイテム」と届いた。Amazonは理由を説明していない。データは持っている。メールには書かない。これが不具合なのか仕様なのか、あるいは「進化」なのか、私にはまだわかりません。"
+          "text": "誰も頼んでいないものつながりで、次はホワイトハウスの話。総額4億ドルの舞踏場建設計画が進んでいまして、大統領は「緊急」工事継続の申し立てを最高裁に出しました。すると歴史保存団体も「緊急」停止の申し立てを出した。最高裁を巻き込んだ緊急合戦です。建設費4億ドル。舞踏場。家賃ゼロの官邸に。建国の父たちは合衆国憲法をいろんな目的のために書きましたが、これは想定していなかったと思います。"
+        },
+        {
+          "ref": "d2",
+          "text": "少し明るい話を挟むと——OpenAIが10代向けの「ChatGPT for Teens」をリリースしました。安全機能を強化して、教育的なコンテンツを優先した専用版です。悪い話じゃない。ただ「強化された安全機能」というのは、比較対象が「今まであってなきがごとしの年齢確認」なので、ハードルはそんなに高くない。あと、10代の子どもたちは元のChatGPTが使えることを知っています。それと、発表のタイミングが隣の法廷でMetaの裁判が始まった同じ週というのは、偶然にしては惜しいほどの偶然です。"
         },
         {
           "ref": "d5",
-          "text": "で、今週の一番好きなニュース。ボルティモアの警察官、デクワン・ホーチンス（30歳）が起訴されました。何ヶ月もの間、実際には駐車して何もしていないのに「交通取り締まり中」という虚偽の報告書を出し続けたというんです。理由は、本当の通報に応答したくなかったから。いや待って、聞いてください。虚偽の報告書を書くために、彼は書類仕事をしていたんです。サボるための書類。しかも、「交通取り締まり記録」というシステム——本来は警察官に説明責任を持たせるための仕組み——を、自分のアリバイとして使っていた。怠惰、と検察は呼んだ。でもただの怠惰な人は、月単位で偽造書類を作り続けない。それはもう別の何かです。"
+          "text": "そのサブスクの話でいうと——コロンビアハウスが閉業します。「12枚のCDが1セントで届く」という伝説の通販クラブです。日本で言えば「レコード頒布会」に近いですが、1セントで入会させて、その後の毎月の購入義務でしっかり回収するモデルを確立した会社。NetflixもSpotifyも、その構造はコロンビアハウスと同じです。いわば本家。でも本家が先に退場する。サブスク経済の全盛期に。どこかのガレージに、開封もされていないCDが今もあると思います。"
+        },
+        {
+          "ref": "d1",
+          "text": "で、本題のMetaです。連邦裁判が今週始まりました。訴状の核心は「意図的に依存する仕組みを設計した」というもの。偶然ではなく、意図的に。何年もかけてどの通知音を使えば10代が最も素早くスマホを開くかをA/Bテストしてきた会社が、いまその研究結果を証拠として法廷に提出されています。弁護側の論理はだいたい「子どもが自分でスマホを置けばよかった」という話らしい。原告側の返しは「それが訴えている内容です」。いや、聞いてください、これを読んで私もスマホを一度だけ置きました。5秒くらい。"
         }
       ],
-      "closer": "5本、全部読んで気づいたのは、誰も「間違えた」と言っていないことでした。進化。透明性。強い一年。仕様。交通取り締まり。私はまた缶コーヒーを買いに行きます。少なくとも缶には、中身が書いてある。"
+      "closer": "5本、読みました。自分で仕組んだ罠に引っかかる企業、四半世紀守ってきたものをあっさり手放す政権、舞踏場が「緊急」になる国。うまいまとめは思いつきません。ただ、まだ入れる森があるうちに、一度くらい行っておこうかなとは思っています。"
     },
     "notesEn": [
-      "Bumble scrapped the rule that women must message first — the one feature that made Bumble not-Tinder for twelve years. They're calling it a 'global evolution.' The word they were looking for was 'pivot.' Or possibly 'oops.'",
-      "Spotify announced it will label AI-generated artists starting in September. Great news! Except they've been recommending those artists for months without any label. It's a nutrition label for something you already ate.",
-      "HCA Healthcare posted $6.8 billion in profit last year. Their workers are outside with picket signs asking for a raise. The company called it a strong year. The people who made it a strong year are outside.",
-      "Amazon order confirmation emails no longer tell you what you ordered. You get 'Your Beauty item is confirmed!' instead. They have all your data. They just won't put it in the email. No explanation given.",
-      "A Baltimore officer was indicted for filing fake traffic stop reports for months — to avoid responding to actual calls. He was sitting in his car doing nothing while submitting paperwork saying otherwise. He did extra work specifically so he wouldn't have to do work.",
-      "Five American news stories this week, five different topics. All five were about the same thing: removing the part that was supposed to be the point, and calling it progress.",
-      "I read American news every morning so you don't have to. This week's lesson: if you're going to quietly change everything about yourself, at least call it an evolution. It buys you at least one news cycle.",
-      "The Baltimore cop used the accountability system as an alibi. Spotify used transparency as a delay tactic. Bumble called retreat an evolution. Amazon knows what you bought but won't say. HCA made billions. Everyone's fine. Everything's fine."
+      "Meta is in federal court this week, accused of deliberately engineering addictive features to hook children to its platforms. Their reported defense: kids could've just put the phone down. The plaintiffs' response: that's exactly what we're suing about.",
+      "OpenAI launched a special ChatGPT for teenagers with 'stronger built-in safety protections.' The old ChatGPT still exists. Teenagers are aware of this.",
+      "The Trump administration plans to scrap a 25-year-old federal rule that protected 45 million acres of national forest from roads, drilling, and logging. Five presidents left it alone. The new plan is: roads.",
+      "A historic preservation group asked the Supreme Court to pause the $400 million White House ballroom project. The president had already filed an emergency motion to keep building. The Supreme Court is now refereeing a ballroom dispute. The founding fathers are unavailable for comment.",
+      "Columbia House, the company that sent you 12 CDs for a penny and then quietly billed you every month, is shutting down. It invented the subscription trap that Netflix, Spotify, and every gym in America still uses. The original is closing during the golden age of the model it created.",
+      "This week: Meta on trial for addiciting kids, OpenAI launching a safer teen product, 45 million acres of forest opened to development, a $400M White House ballroom in emergency court, and the inventor of the subscription trap closing for good. One week. All of it.",
+      "The roadless rule survived Clinton, Bush, Obama, and Biden. The forests it protected are bigger than Idaho. The new plan involves roads. Sometimes American policy is just that direct.",
+      "Columbia House invented the subscription trap in the physical world. The trap lives on in every free trial, every streaming service, every gym membership. The inventor is gone. The trap is doing fine."
     ],
     "xJa": [
-      "Bumble（女性だけが最初にメッセージを送れるマッチングアプリ）が、そのルールを廃止。理由：「進化」。12年間それ以外のアプリと差別化してきた唯一の機能が消えて、今のBumbleはただのTinderです。",
-      "Spotifyが9月からAI生成アーティストにラベルを貼ると発表。ただし数ヶ月間、ラベルなしで推薦し続けていた。「あなたへのおすすめ」に存在しない人物が混ざっていたかもしれない。対応：バッジ。近日公開。",
-      "米最大の営利病院チェーン・HCAヘルスケア、昨年の利益が68億ドル。同じ週、その病院の組合員が全国でピケ。「生活が苦しい」。会社は「強い一年だった」と発表。どちらも本当のことを言っている。",
-      "Amazonの注文確認メールが商品名を書かなくなった。届くのは「あなたのBeautyアイテムが確定しました！」のみ。あなたのデータは全部持っている。メールには書かない。理由の説明なし。",
-      "ボルティモアの警察官、何ヶ月も「交通取り締まり中」と虚偽報告して実際は車の中でサボっていたとして起訴。サボるために書類を書いていた。説明責任のためのシステムが、アリバイになった。",
-      "今週のアメリカ5本、全部「中身を消して名前だけ残した」話だった。Bumbleはアイデンティティを消した。Spotifyはラベルを後から貼った。Amazonは商品名を消した。HCAは利益を残して人を絞った。警官は実績を偽造した。",
-      "「進化」という言葉は、説明を省略するのに便利です。今週のアメリカのニュースを読んで学びました。Bumble・Spotify・Amazonが同じ週に「進化」した。",
-      "HCAヘルスケアの利益が68億ドル。従業員がピケ。Bumbleが創業理念を廃止。Spotifyが遅れてラベルを貼る。Amazonが商品名を隠す。警官がサボるために書類を書く。今週のアメリカ、全員が一生懸命、何かを消している。"
+      "Metaが「子どもを意図的に依存させた」として連邦裁判が開始。弁護側の論理はほぼ「置けばよかった」。原告側の返し「それが訴えてる内容です」。この攻防だけで今週分の元が取れた。",
+      "OpenAIが10代専用の安全なChatGPTをリリース。元のChatGPTも普通に使えます。10代の子どもたちはそれを知っています。「安全版があります」は「危ない版もあります」という発表でもある。",
+      "トランプ政権が25年間、道路建設・採掘・伐採から国有林を守ってきた規制を廃止へ。クリントン、ブッシュ、オバマ、バイデンと4政権が手をつけなかったやつ。新方針は「道路を作る」。シンプル。",
+      "ホワイトハウスへの4億ドル舞踏場建設をめぐり、大統領が「緊急」工事継続を申し立て、歴史保存団体が「緊急」停止を申し立て、最高裁が判断することに。緊急合戦の舞台が最高裁。",
+      "「12枚のCDが1セントで届く」伝説の通販クラブ、コロンビアハウスが閉業。NetflixもSpotifyも同じ構造のサブスクモデルを使っているのに、元祖だけがサブスク全盛期に幕を閉じる。",
+      "今週のアメリカ要約：子どもを依存させた裁判、10代向け安全AI、45万km²の森開放、4億ドルの舞踏場緊急建設、サブスクの元祖が閉店。全部同じ週の話です。私は確認しました。",
+      "コロンビアハウスは「格安で入会させて毎月課金」の元祖。Netflixの無料トライアルも、Spotifyも、ジム会員も全部同じ仕組み。本家が閉まっても、罠は永遠に続く。",
+      "ホワイトハウス舞踏場の建設費4億ドル。家賃は無料。建国の父たちはいろいろ想定して憲法を書いたが、この状況は想定していなかったと思う。"
     ],
-    "fullEn": "# Everything Got Rebranded. Nothing Got Better.\n\nI read five American news stories this morning. Five different topics, five different companies, five different states. And somehow every single one of them was about the same thing: someone removing the part that was supposed to be the point. I don't know what's in the water over there. I drink canned coffee from a vending machine at 7 a.m. and even I could feel it.\n\nSo. Bumble. If you don't know Bumble, it's a dating app — started in 2014 — where women had to message first in straight matches. That was the whole thing. That was it. Not the logo, not the yellow color. The rule. Women go first. That's why it existed. And this week, they scrapped it. Now anyone can message anyone. They called this a 'global evolution to its signature conversation experience.' I had to read that three times. They evolved away from the signature experience. Which is — I mean — okay. But also: Bumble is now just Tinder with better PR. Twelve years of 'women go first.' Then Q2 numbers came in.\n\nAnd speaking of things that were quietly happening while someone wasn't paying attention — Spotify. Spotify announced this week that starting in September, they will add an 'AI Persona' badge to artist profiles that 'do not represent a real person.' Great. Responsible. Except — and this is the part where I put my phone down and stared at the ceiling for a moment — they've been recommending these AI artists for months. Without a badge. Without a note. Your Discover Weekly, that playlist you actually trust, has been pushing artists who do not exist and you had no way of knowing. Spotify's response: a badge. Coming soon. It's a nutrition label for something you already ate.\n\nFrom invisible artists to very visible numbers. HCA Healthcare — the largest for-profit hospital chain in America — reported $6.8 billion in profits. Six point eight billion. And their workers are outside with picket signs, asking for a raise and enough staff to do the job safely. Both of these things are true at the same time, in the same organization. The company had a 'strong year.' The people who made it a strong year are outside. I'm not an economist. But I can read two sentences and notice when they don't add up.\n\nOkay, so Amazon. Amazon knows everything. Your address, your search history, your purchase patterns — they probably know you better than your friends do. And yet. This summer, people started noticing that Amazon's order confirmation emails no longer say what you ordered. Instead, you get: 'Your Beauty item is confirmed!' One person ordered retainer cleaning tablets. The email said Beauty item. Amazon has not explained why. They have your data. They just won't put it in the email. I genuinely don't know if this is a privacy thing, a glitch, or someone's A/B test that escaped. But I do know that getting an email that says 'your item' without naming the item would, in most places, be considered a bug. Not a feature. Not an evolution.\n\nAnd finally. My favorite story of the week. A Baltimore police officer — 30 years old, name is Dequwan Houchins — was indicted for allegedly filing fake traffic stop reports for months. Why? To avoid responding to real calls. While he was claiming to be conducting traffic stops, prosecutors say he was sitting in his car. Doing nothing. Now here's the part that got me. He filed fake reports to explain what he was doing with his time. So he was doing paperwork — just paperwork for the lying. The traffic stop documentation system, which exists to create accountability, became his alibi. You think I'm making this up. I am not making this up. Prosecutors called him lazy. I'd say lazy is underselling it. Lazy people don't do extra paperwork.\n\nFive stories. One week. Nobody admitted anything. It was a global evolution, a transparency initiative, a strong year, a feature, and a traffic stop. I'm going back to my canned coffee. At least the label still says what's inside.\n\n**Today's Forecast** (news-based, scientifically dubious, warmly meant):\n\n> Today's Forecast: This week proved that not labeling things — your AI playlist, your order, your inaction — can work for months before anyone notices. You, however, have been noticed. Your work is real, your name is on it, and that is already more than several major platforms managed this week. Career outlook: quietly solid.\n\n**Steal this line** — for your next meeting:\n\n> This week in America: four different organizations rebranded a mistake as a feature, and one cop filed paperwork specifically to avoid doing his job. Peak efficiency.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **Bumble Lets Men Make the First Move — Quietly Retiring the One Thing That Made It Bumble** — The Verge ([source](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update))\n2. **Spotify Will Label AI Artists — But Still Played Them for Months Without Saying a Word** — The Verge ([source](https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations))\n3. **HCA Healthcare Made $6.8 Billion in Profit Last Year. Its Workers Are Holding Picket Signs.** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest))\n4. **Amazon Order Confirmation Emails No Longer Tell You What You Actually Ordered** — The Verge ([source](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data))\n5. **Baltimore Officer Allegedly Faked Traffic Stops for Months to Sit in His Car and Do Nothing** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports))\n",
-    "fullJa": "# Bumbleが「女性優先ルール」を廃止した理由、Amazonが「何を買ったか」を教えなくなった理由——どちらも「進化」だそうです\n\n今朝、アメリカのニュースを5本読みました。ジャンルも州もバラバラ。でも全部、同じ話をしていた。「中身を消して、名前だけ残した人たちの話」。これが偶然5本揃うと、もう頭を抱えるというより、少し感心してしまう。\n\nまずBumble。マッチングアプリです。2014年に創業して、「女性だけが最初にメッセージを送れる」というルールで差別化してきた。そのルールが、そのアプリの全部だった。ロゴでも色でもなく、ルールが商品だった。それを今週、廃止しました。誰でも最初に送れるようになる。公式の説明は「グローバルな進化」。いや、進化の方向が内側に向いてる。12年間「女性が先」でやってきて、第2四半期の数字が出てきたら方針転換。結果として今、BumbleはTinderになりました。\n\n黙って続いていた話、といえば——Spotify。9月中旬から、実在しない人物によるAI生成アーティストに「AI Persona」バッジを表示すると発表しました。透明性の確保、素晴らしい。ただ、これ、何ヶ月も前からAIアーティストの音楽をレコメンドしていたんです。バッジも説明もなく。「あなたへのおすすめ」に入ってきたアーティストが人間なのかどうか、確認する方法がなかった。Spotifyの対応：バッジ。近日公開。食べ終わってから貼る栄養成分表示です。\n\n見えないアーティストの話から、非常に見えやすい数字の話へ。HCAヘルスケア、アメリカ最大の営利病院チェーンが、昨年の利益68億ドルを発表しました。68億ドル、です。同じ週に、その病院で働く組合員が全国でピケを張って、賃上げと人員増を求めています。同じ組織から、同時に出てきた話。「強い一年だった」という会社の発表と、「生活が苦しい」という従業員の声が共存している。この二つの文章、並べるだけで説明が要らない。\n\nAmazonの話、聞いてください。Amazonはあなたの住所も、購買履歴も、検索傾向も全部持っている。おそらく友人より詳しい。なのに今年の夏から、注文確認メールに商品名が書かれなくなった。届くメールはこういう感じです：「あなたのBeautyアイテムが確定しました！」。ある人がリテーナークリーニングタブレットを注文したら、「Beautyアイテム」と届いた。Amazonは理由を説明していない。データは持っている。メールには書かない。これが不具合なのか仕様なのか、あるいは「進化」なのか、私にはまだわかりません。\n\nで、今週の一番好きなニュース。ボルティモアの警察官、デクワン・ホーチンス（30歳）が起訴されました。何ヶ月もの間、実際には駐車して何もしていないのに「交通取り締まり中」という虚偽の報告書を出し続けたというんです。理由は、本当の通報に応答したくなかったから。いや待って、聞いてください。虚偽の報告書を書くために、彼は書類仕事をしていたんです。サボるための書類。しかも、「交通取り締まり記録」というシステム——本来は警察官に説明責任を持たせるための仕組み——を、自分のアリバイとして使っていた。怠惰、と検察は呼んだ。でもただの怠惰な人は、月単位で偽造書類を作り続けない。それはもう別の何かです。\n\n5本、全部読んで気づいたのは、誰も「間違えた」と言っていないことでした。進化。透明性。強い一年。仕様。交通取り締まり。私はまた缶コーヒーを買いに行きます。少なくとも缶には、中身が書いてある。\n\n**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:\n\n> 今日の運勢：今週のアメリカは「ラベルを貼らないまま何ヶ月も通用する」ことを証明しました。でもあなたは違う。あなたの仕事には名前がついていて、あなた自身が実在している。それだけで今週の大手プラットフォームより誠実です。仕事運は地味に上向き。自分の名前で動ける人間は、思ったより強い。\n\n**今日の使える一言**（明日この話題が出たら、これをどうぞ）:\n\n> 今週のアメリカ：四つの組織が失敗を「進化」と呼び、一人の警官が仕事をサボるために書類仕事をした。効率化の到達点がここです。\n\n---\n\n**今日の5本**（登場順）\n\n1. **Bumble Lets Men Make the First Move — Quietly Retiring the One Thing That Made It Bumble**（The Verge） — マッチングアプリ「Bumble」が、女性のみがメッセージを先に送れるという創業以来の核心的ルールを廃止し、誰でも最初にメッセージを送れるよう変更すると発表した。 [記事](https://www.theverge.com/tech/977804/bumble-dating-app-men-message-first-update)\n2. **Spotify Will Label AI Artists — But Still Played Them for Months Without Saying a Word**（The Verge） — Spotifyは9月中旬から、実在しない人物によるAI生成アーティストのプロフィールに「AI Persona」バッジを表示し、レコメンデーションから除外すると発表した。 [記事](https://www.theverge.com/entertainment/977815/spotify-ai-persona-label-recommendations)\n3. **HCA Healthcare Made $6.8 Billion in Profit Last Year. Its Workers Are Holding Picket Signs.**（The Guardian US） — 米国最大の営利病院チェーン・HCAヘルスケアが68億ドルの利益を報告した一方、従業員組合は全国でピケを張り、賃上げと人員増を求めている。 [記事](https://www.theguardian.com/us-news/2026/aug/11/union-hca-healthcare-workers-protest)\n4. **Amazon Order Confirmation Emails No Longer Tell You What You Actually Ordered**（The Verge） — Amazonの注文確認メールが商品名を記載しなくなり、「あなたのBeautyアイテムが確定しました」のようにカテゴリー名しか表示されなくなったと複数のユーザーが報告している。 [記事](https://www.theverge.com/ai-artificial-intelligence/977733/amazon-order-emails-google-gmail-ai-agents-data)\n5. **Baltimore Officer Allegedly Faked Traffic Stops for Months to Sit in His Car and Do Nothing**（The Guardian US） — ボルティモアの警察官デクワン・ホーチンス（30歳）が、実際には駐車して何もしていないにもかかわらず、交通取り締まり中と虚偽の報告を繰り返していたとして起訴された。 [記事](https://www.theguardian.com/us-news/2026/aug/11/baltimore-police-false-traffic-stop-reports)\n",
-    "reviewNotes": "captionsは全体的に水準高め。d5の2本目「Lazy is generous」は説明で止まっているのでオチを付ける。imagePromptsはd2の2本目に「confused human listener」という顔が読める人物が残っているので修正。monologueEnのd3ビートに元データにない「Japan」比較が混入しているため削除。xJa 3本目の「6.8兆円」は元データの「$6.8 billion」を誤変換した事実誤認なので「68億ドル」に修正。"
+    "fullEn": "# America Got Caught in Its Own Traps (Again)\n\nThis week in America: the subscription trap, the dopamine trap, the old-growth trap, the emergency ballroom trap, and one AI company trying very hard not to look like a trap. One thread. Five stories. Let's go.\n\nWe'll start in the forest, because it's quiet there. For now. The Trump administration announced it's scrapping the roadless rule—a 25-year-old federal regulation that kept 45 million acres of national forest off-limits to roads, drilling, and logging. Forty-five million acres. That's bigger than Idaho. Clinton put this rule in. Bush didn't touch it. Obama didn't touch it. Biden didn't touch it. And the current plan is: roads. Sometimes policy is just that literal.\n\nSpeaking of things nobody asked for—the White House. Specifically, the $400 million ballroom someone decided the White House urgently needs. The president filed an emergency motion to keep construction moving. The National Trust for Historic Preservation fired back with their own emergency motion to stop it. The Supreme Court is now involved in an argument about a ballroom. Four hundred million dollars. For a ballroom. At a house where the resident pays no rent. The founding fathers wrote the Constitution for a lot of reasons. This was not on their list.\n\nMeanwhile, in slightly more optimistic tech news—OpenAI launched 'ChatGPT for Teens.' Stronger safety features. Age-appropriate content. Educational tools. Look, I read the announcement. It sounds fine. But 'stronger built-in safety protections' is doing a lot of heavy lifting when the comparison point is whatever they had before, which was basically nothing. And teens know the old version still exists. I'm not saying it's cynical. I'm saying it's the same week Meta went to trial, and the timing is not subtle.\n\nAnd on that note—Columbia House is closing. The company that sent you 12 CDs for a penny, pulled you in with the deal of the century, then quietly billed you every month for the rest of your natural life. They invented the subscription trap. Netflix does it with a free trial. Spotify does it. Every gym membership in America does it. They all owe Columbia House a thank-you card they'll never send. But here's what gets me: the company that invented the model is shutting down during the golden age of the model. Somewhere in a garage, there is an unopened copy of Creed's greatest hits. Still shrink-wrapped.\n\nWhich brings us to Meta. Federal trial started this week. The allegation: Meta deliberately engineered addictive features to hook children to its platforms. Not accidentally addictive. Deliberately. The same company that spent years A/B testing which notification sound made a teenager check their phone fastest is now sitting in a courtroom while that research gets entered into evidence. The defense strategy, as I understand it, is essentially: the kids could've just put the phone down. The plaintiffs' response is: that's literally what we're suing about. I read that exchange and I had to put my own phone down. Just for a second.\n\nFive stories. One week. The traps we build, the rules we break, the forests we open, and the ballrooms we apparently need right now, urgently, no time to discuss. I don't have a neat ending. I just read the news so you don't have to, and today it made me want to go sit in a forest while there's still one I'm allowed into.\n\n**Today's Forecast** (news-based, scientifically dubious, warmly meant):\n\n> This week's news is basically a masterclass in systems that worked exactly as designed until they didn't. Your plan doesn't have to be perfect. It just has to survive longer than a 25-year-old forest rule. Given the current competition, your odds are genuinely pretty good.\n\n**Steal this line** — for your next meeting:\n\n> Columbia House invented the subscription trap, Meta refined it for children's brains, and somehow Columbia House is the one shutting down.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **Trump Administration to Scrap 25-Year Rule Protecting 45 Million Acres of Old-Growth Forests** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests))\n2. **Historic Preservation Group Asks Supreme Court to Pause Trump's $400M White House Ballroom** — The Guardian US ([source](https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court))\n3. **OpenAI Launches 'ChatGPT for Teens' With Safety Features, While Meta Goes to Trial for the Opposite** — CNBC Top News ([source](https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html))\n4. **Columbia House, the Company That Mailed You 12 CDs for a Penny, Is Finally Shutting Down** — NPR Business ([source](https://www.npr.org/2026/08/18/nx-s1-5936416/an-iconic-mail-order-music-and-video-company-is-shutting-down))\n5. **Meta's Federal Trial Begins Over Deliberately Addicting Children to Social Media** — CBS News US ([source](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/))\n",
+    "fullJa": "# 「子どもを依存させた」Metaの裁判が始まった週に、サブスクの元祖が1セントで静かに閉店した\n\n今週のアメリカのテーマは「自分で作った罠に自分で落ちる」です。5本、全部そうでした。順番に行きます。\n\nまず森の話から。静かなうちに。トランプ政権が「ロードレス・ルール」を廃止すると発表しました。25年間、国有林への道路建設・採掘・伐採を禁じてきた連邦規制です。対象は約4500万エーカー。日本の国土面積の約5倍。クリントン政権が作り、ブッシュも、オバマも、バイデンも手をつけなかった規則です。で、新しい方針は何かというと——道路を作る。ときに政策はそのまんまです。\n\n誰も頼んでいないものつながりで、次はホワイトハウスの話。総額4億ドルの舞踏場建設計画が進んでいまして、大統領は「緊急」工事継続の申し立てを最高裁に出しました。すると歴史保存団体も「緊急」停止の申し立てを出した。最高裁を巻き込んだ緊急合戦です。建設費4億ドル。舞踏場。家賃ゼロの官邸に。建国の父たちは合衆国憲法をいろんな目的のために書きましたが、これは想定していなかったと思います。\n\n少し明るい話を挟むと——OpenAIが10代向けの「ChatGPT for Teens」をリリースしました。安全機能を強化して、教育的なコンテンツを優先した専用版です。悪い話じゃない。ただ「強化された安全機能」というのは、比較対象が「今まであってなきがごとしの年齢確認」なので、ハードルはそんなに高くない。あと、10代の子どもたちは元のChatGPTが使えることを知っています。それと、発表のタイミングが隣の法廷でMetaの裁判が始まった同じ週というのは、偶然にしては惜しいほどの偶然です。\n\nそのサブスクの話でいうと——コロンビアハウスが閉業します。「12枚のCDが1セントで届く」という伝説の通販クラブです。日本で言えば「レコード頒布会」に近いですが、1セントで入会させて、その後の毎月の購入義務でしっかり回収するモデルを確立した会社。NetflixもSpotifyも、その構造はコロンビアハウスと同じです。いわば本家。でも本家が先に退場する。サブスク経済の全盛期に。どこかのガレージに、開封もされていないCDが今もあると思います。\n\nで、本題のMetaです。連邦裁判が今週始まりました。訴状の核心は「意図的に依存する仕組みを設計した」というもの。偶然ではなく、意図的に。何年もかけてどの通知音を使えば10代が最も素早くスマホを開くかをA/Bテストしてきた会社が、いまその研究結果を証拠として法廷に提出されています。弁護側の論理はだいたい「子どもが自分でスマホを置けばよかった」という話らしい。原告側の返しは「それが訴えている内容です」。いや、聞いてください、これを読んで私もスマホを一度だけ置きました。5秒くらい。\n\n5本、読みました。自分で仕組んだ罠に引っかかる企業、四半世紀守ってきたものをあっさり手放す政権、舞踏場が「緊急」になる国。うまいまとめは思いつきません。ただ、まだ入れる森があるうちに、一度くらい行っておこうかなとは思っています。\n\n**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:\n\n> 今週のニュースは「意図どおりに動いたシステムが、意図どおりすぎて裁判になる」話でいっぱいでした。あなたの今日の計画が多少ざっくりでも大丈夫。25年持った規則がひっくり返る時代に、「とりあえず動かしてみる」は立派な戦略です。仕事運、上向きです。\n\n**今日の使える一言**（明日この話題が出たら、これをどうぞ）:\n\n> コロンビアハウスがサブスクの罠を発明して、Metaがそれを子どもの脳みそ向けに改良した。で、閉店するのはコロンビアハウスの方。\n\n---\n\n**今日の5本**（登場順）\n\n1. **Trump Administration to Scrap 25-Year Rule Protecting 45 Million Acres of Old-Growth Forests**（The Guardian US） — トランプ政権は25年間、道路建設・採掘・伐採から国有林を守ってきた「ロードレス・ルール」を廃止する方針を発表した。約4500万エーカーが対象となる可能性がある。 [記事](https://www.theguardian.com/us-news/2026/aug/18/trump-administration-growth-forests)\n2. **Historic Preservation Group Asks Supreme Court to Pause Trump's $400M White House Ballroom**（The Guardian US） — 歴史保存団体が、トランプ大統領のホワイトハウス舞踏場建設プロジェクト（総額4億ドル）の工事停止を連邦最高裁に求めた。大統領は「緊急」建設継続の申し立てを行っていた。 [記事](https://www.theguardian.com/us-news/2026/aug/18/trump-ballroom-project-supreme-court)\n3. **OpenAI Launches 'ChatGPT for Teens' With Safety Features, While Meta Goes to Trial for the Opposite**（CNBC Top News） — OpenAIが10代向けに年齢適切な安全機能を備えた「ChatGPT for Teens」をリリースした。教育的機能と強化されたコンテンツ保護を売りにしている。 [記事](https://www.cnbc.com/2026/08/18/openai-chatgpt-for-teens-safety.html)\n4. **Columbia House, the Company That Mailed You 12 CDs for a Penny, Is Finally Shutting Down**（NPR Business） — 「12枚のCDを1セントで」というキャッチコピーで知られる通販音楽・映像クラブ「コロンビアハウス」が来月で最後の注文受付を終え、閉業することが発表された。 [記事](https://www.npr.org/2026/08/18/nx-s1-5936416/an-iconic-mail-order-music-and-video-company-is-shutting-down)\n5. **Meta's Federal Trial Begins Over Deliberately Addicting Children to Social Media**（CBS News US） — Metaが子どもたちをSNSに依存させるようアプリを意図的に設計したとして、連邦裁判が始まった。訴状は同社が若者のメンタルヘルス危機を引き起こしたと主張している。 [記事](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/)\n",
+    "reviewNotes": "d3のbeat冒頭「静かなうちに」は日英ともに良いが、imagePrompts[2]のサムネイル構図（大統領の肖像画6枚）が実在人物の肖像依存に近く、制度の記号で代替すべき。d4のcaption4「最高裁の前でダンスフロアを守る」は状況説明で終わっており、オチを足す。xJa[1]が135字を超えていないか確認→128字で合格。d1のimagePrompts[2]「school looks dark and empty」は状況として弱く、より皮肉が立つ構図に。それ以外は合格。"
   },
   "carousel": [
-    "images/2026-08-11/carousel/slide-1.jpg",
-    "images/2026-08-11/carousel/slide-2.jpg",
-    "images/2026-08-11/carousel/slide-3.jpg",
-    "images/2026-08-11/carousel/slide-4.jpg",
-    "images/2026-08-11/carousel/slide-5.jpg",
-    "images/2026-08-11/carousel/slide-6.jpg",
-    "images/2026-08-11/carousel/slide-7.jpg"
+    "images/2026-08-19/carousel/slide-1.jpg",
+    "images/2026-08-19/carousel/slide-2.jpg",
+    "images/2026-08-19/carousel/slide-3.jpg",
+    "images/2026-08-19/carousel/slide-4.jpg",
+    "images/2026-08-19/carousel/slide-5.jpg",
+    "images/2026-08-19/carousel/slide-6.jpg",
+    "images/2026-08-19/carousel/slide-7.jpg"
   ]
 };
