@@ -1,310 +1,310 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-19",
-  "generatedAt": "2026-08-19T11:14:43+00:00",
+  "date": "2026-08-20",
+  "generatedAt": "2026-08-19T20:13:52+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Harvard Agrees to Pay $53 Million After Morgue Manager Sold Donated Body Parts",
+        "headline": "National Debt Hits $40 Trillion — Doubled in Under a Decade, Nobody's Counting",
         "source": "CBS News US",
-        "date": "2026-08-19",
-        "url": "https://www.cbsnews.com/news/harvard-morgue-manager-stolen-body-parts-settlement/",
-        "summary": "ハーバード大学が、医学部に献体された遺体を遺体安置所の管理者が売却していた問題をめぐる訴訟で、遺族に計5300万ドルを支払うことで和解した。"
+        "date": "2026-08-20",
+        "url": "https://www.cbsnews.com/news/national-debt-tops-40-trillion-doubles/",
+        "summary": "アメリカの連邦債務が40兆ドルを突破した。減税とパンデミック対策支出が重なり、10年かからずに倍増した形だ。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「医学の発展に役立てて」と献体した遺族が、まさかその遺体が転売ビジネスの商品になっているとは思わなかったでしょうね。",
-        "<b>滑稽さ:</b> ハーバードが5300万ドルで和解できるのは、年間寄付金収入が50億ドルを超えるからです。端数の話ですよ、これ。",
-        "<b>日本・海外から見ると:</b> 「遺体を大切にする」という倫理観は文化を超えた普遍的なものなのに、よりによって倫理委員会まで備えた最高学府でこれが起きた、という構図がまずい。"
+        "<b>矛盾:</b> 「財政規律」を掲げた政権が続くたびに借金が膨らんできたんですよ。規律、どこ行った。",
+        "<b>滑稽さ:</b> 40兆ドルって、1秒に1ドル使い続けても返し終わるまり127万年かかる計算なんですよね。来世の来世の来世の話です。",
+        "<b>日本・海外から見ると:</b> 財政健全化を理由に社会保障を削る議論をしながら、同じ口で減税を通す——その順番、日本でも見覚えがありますよね。"
       ],
       "imagePrompts": [
-        "A grand ivy-covered university building with a sign reading 'Body Parts: Please See Manager for Pricing' taped beneath a formal bronze plaque that reads 'Donated with Love'",
-        "A morgue manager in scrubs sitting behind a flea market table covered in price tags, while a university administrator in academic robes stands nearby holding a $53 million check",
-        "A giant Harvard diploma on the wall, and below it a receipt labeled 'Settlement — $53,000,000' pinned next to a sign reading 'Thank you for your generous donation'"
+        "A massive odometer-style counter mounted on the facade of the U.S. Capitol building, digits spinning so fast they blur, labeled 'NATIONAL DEBT.' A janitor sweeps the steps below, ignoring it completely.",
+        "Two politicians in suits shaking hands in front of a scoreboard showing '$40,000,000,000,000.' Both are grinning. A small child in the background holds a sign that says 'My problem, apparently.'",
+        "A mountain of IOUs towering over the Washington Monument, with a tiny figure at the base holding a scissors labeled 'Tax Cut' and another holding a bag labeled 'Pandemic Spending,' both looking pleased."
       ],
       "captions": [
-        "Harvard will pay $53 million — which, in Harvard terms, is the cost of one decent parking spot near campus.",
-        "The family said they wanted their loved one to contribute to science. Harvard's morgue manager heard 'contribute to his savings account.'",
-        "They called it a 'body donation program.' One employee treated it more like an inventory liquidation.",
-        "Fifty-three million dollars in damages. The endowment didn't even notice. The direct deposit cleared before lunch.",
-        "You know the system's broken when the most expensive part of donating your body to Harvard is finding out what they did with it."
+        "$40 trillion in debt and the big policy debate is whether we can afford school lunches.",
+        "They doubled the national debt in under ten years. My gym says I'm 'not hitting my goals' fast enough — these guys are crushing it.",
+        "The debt hit $40 trillion. Somewhere, a congressperson is giving a speech about fiscal responsibility. Right now. As you read this.",
+        "Doubled in a decade. You know what else doubled in a decade? The interest payments.",
+        "At this point the national debt isn't a crisis, it's a tradition."
       ],
       "captionsJa": [
-        "ハーバードは5300万ドルを支払います。ハーバード的には、キャンパス近くの駐車スペース一区画分ですね。",
-        "遺族は「科学の発展に役立てて」と献体した。遺体安置所の管理者には「在庫処分」に聞こえたらしい。",
-        "「献体プログラム」と呼ばれていた。ある職員にとっては「売れ筋商品の確保」だったようです。",
-        "5300万ドルの和解金。寄付基金は気づいてすらいない。昼前には振り込み完了してたでしょう。",
-        "「遺体を献体したら何をされたか調べる費用が一番高かった」って、どんな社会だよ。"
+        "40兆ドルの借金を抱えながら、議会で一番熱い議論は「給食費を出すべきか」なんですよ。",
+        "10年かからず倍増。私のジムの先生は「目標達成が遅い」って言うんですけど、連邦政府のペース見習ってほしい。",
+        "債務が40兆ドルを突破した。今この瞬間も、どこかで議員が「財政規律」のスピーチをしてますよ。絶対。",
+        "10年で倍増ですよ。10年で倍になったもの、他にもありますよ——利息の支払いだけ。",
+        "もう「危機」じゃなくて「伝統」なんですよね、この借金。"
       ],
-      "newsEn": "Harvard University has agreed to pay $53 million to settle lawsuits brought by families who alleged the university mishandled the bodies of loved ones donated to its medical school. A former morgue manager was accused of selling body parts from donated cadavers. The case raised serious questions about oversight of donated human remains at one of the country's most prestigious academic institutions.",
+      "newsEn": "U.S. federal debt has surpassed $40 trillion, having doubled in less than ten years. The surge is attributed to a combination of tax cuts and trillions in pandemic-era spending. Rising interest payments now consume a growing share of the federal budget.",
       "ironyEn": [
         {
-          "contradiction": "Families donated bodies to advance human knowledge. Someone at Harvard decided to advance their bank account instead.",
-          "absurdity": "$53 million sounds enormous until you remember Harvard's endowment is roughly $50 billion. That's a rounding error on a rounding error.",
-          "outside": "Harvard sells branded sweatshirts, tote bags, and apparently, for a brief period, something considerably more difficult to return."
+          "contradiction": "Politicians from both parties have spent years warning about fiscal responsibility while voting for the bills that doubled the debt.",
+          "absurdity": "At $40 trillion, if you stacked dollar bills, you'd reach the moon and back — roughly 83,000 times. At least we'd have a space program.",
+          "outside": "Countries that lecture the U.S. about debt are also holding U.S. Treasury bonds, so everyone's kind of in on it."
         },
         {
-          "contradiction": "The morgue is literally the one place at a university where you'd assume the staff aren't looking for a side hustle.",
-          "absurdity": "The university's motto is 'Veritas' — Truth. The body parts, it turns out, had a different kind of price tag attached.",
-          "outside": "In a country where medical debt can bankrupt the living, Harvard found a way to monetize the dead. Truly a full-circle achievement in American healthcare economics."
+          "contradiction": "The same Congress that runs ads about 'leaving debt to our grandchildren' just handed those grandchildren another $20 trillion tab.",
+          "absurdity": "The debt doubled in under ten years, which is faster than most Americans' credit card debt — and that's saying something.",
+          "outside": "From abroad, watching America debate the debt ceiling while never actually stopping the debt is like watching someone argue about the thermostat as the house fills with water."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-19/candidate-1.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-08-19/candidate-1-punchy.jpg"
+      "image": "images/2026-08-20/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-08-20/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "The U.S. Banned Nvidia's Best Chips from Going to China — So China Just Rented Them Overseas",
-        "source": "CNBC Top News",
-        "date": "2026-08-19",
-        "url": "https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html",
-        "summary": "中国のAI企業が、米国の輸出規制をかいくぐる形で海外のクラウドサービス経由でNvidiaの高性能チップにアクセスしていることが報告され、米議会が規制の抜け穴を塞ごうとしている。"
+        "headline": "Army Offers Soldiers a 4-Day Pass to Play GTA — And They Have to Reenlist First",
+        "source": "CBS News US",
+        "date": "2026-08-20",
+        "url": "https://www.cbsnews.com/news/grand-theft-auto-army-reenlistment-bonus/",
+        "summary": "米陸軍の部隊が、兵士の再入隊インセンティブとして「グランド・セフト・オート」を4日間プレイできる休暇を提供していることがわかった。再入隊期間は最低2年から最長6年。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「チップは輸出禁止」と決めたのに、そのチップが動いているサーバーにインターネット越しにアクセスするのは規制していなかった、という話で、鍵をかけた金庫の写真を送ったようなものですよ。",
-        "<b>滑稽さ:</b> アメリカが「最先端チップを中国に売ったら軍事転用されるかも」と心配して輸出禁止にしたのに、中国企業はシンガポールのサーバーを借りて普通に使ってた。船で送らなくていい時代の抜け穴。",
-        "<b>日本・海外から見ると:</b> 日本を含む同盟国にも半導体規制への協力を求めておきながら、クラウドという一番でかい穴を自分たちが開けていた、という構図は外から見るとかなり間抜けに映る。"
+        "<b>矛盾:</b> 軍隊が「ゲームの中での犯罪体験」を報酬として出してるんですよ。訓練で教えることの真逆をご褒美にするの、なかなかの発想じゃないですか。",
+        "<b>滑稽さ:</b> 6年再入隊したら、GTA6本分の休暇がもらえる計算ですよね。ゲームの中の軍曹に命令されながら、現実では軍曹に命令されてる。",
+        "<b>日本・海外から見ると:</b> 「自衛隊に入ったらマイナンバー管理がスムーズになります」みたいな話じゃないですか。インセンティブ、もう少し考えようよ。"
       ],
       "imagePrompts": [
-        "A heavily guarded border checkpoint with a 'No Nvidia Chips Allowed' sign, while a laptop on a table nearby shows a browser tab labeled 'Nvidia Cloud Access — Singapore' with a shopping cart and 'Checkout' button",
-        "A massive padlocked crate labeled 'RESTRICTED — U.S. EXPORT BANNED' sitting at customs, while a Wi-Fi signal floats over the fence beside it with the label 'But the Data is Fine'",
-        "A congressional hearing room where lawmakers hold up a large sign reading 'CLOSE THE LOOPHOLE' while a cartoon router in the corner quietly hums with a small Chinese flag sticker on it"
+        "A U.S. Army recruitment office with a banner reading 'REENLIST AND WIN: 4 DAYS OF GTA.' A soldier in full uniform sits behind the desk. Across from him, another soldier in uniform leans forward, eyeing a controller on the desk with intense focus.",
+        "A split image: left side shows a soldier in a combat zone, right side shows the same soldier on a couch in fatigues holding a game controller, a pizza box on the armrest, a TV showing a GTA-style cityscape.",
+        "An official-looking military certificate of achievement, ornately bordered, with the text: 'In recognition of your reenlistment, you are hereby authorized to steal virtual cars for four days.'"
       ],
       "captions": [
-        "America banned the chips. Did not ban logging into the server that runs the chips. Close enough, guys.",
-        "The most advanced export control regime in history, defeated by: a credit card and a Singapore data center.",
-        "Congress is now writing a law to ban renting a thing you already banned selling. Legislation as a spectator sport.",
-        "They said 'you can't have these chips.' China said 'cool, we'll just borrow them.' Nobody had a follow-up.",
-        "Turns out 'export ban' and 'internet ban' are two completely different things. Who knew. Apparently not the people who wrote the ban."
+        "Six years of your life for four days of GTA. The Army's negotiating team is something else.",
+        "They could've offered tuition, housing, dental. They went with Grand Theft Auto. Respect the commitment to the bit.",
+        "The same institution that punishes soldiers for jaywalking is handing out GTA passes. Someone in HR is having a moment.",
+        "Four-day GTA pass for a two-year reenlistment. I've seen better deals at a car dealership — and those are already bad.",
+        "Wait, so the most realistic military recruitment game is still just... GTA?"
       ],
       "captionsJa": [
-        "チップは禁輸にした。そのチップが動いているサーバーへのログインは禁止してなかった。まあいっか、みたいな。",
-        "史上最も厳格な輸出規制体制、敗れた相手: クレジットカードとシンガポールのデータセンター。",
-        "議会は今、売ることを禁止したものを借りることを禁止する法律を書いています。立法、ひとつの娯楽として。",
-        "「このチップはあげられない」と言ったら「じゃあ借りる」と返ってきた。誰も次の手を考えてなかった。",
-        "「輸出禁止」と「インターネット禁止」は全然別の話だったんですよ。誰も気づかなかったの、禁止した人たちを含めて。"
+        "6年間、命をかけて働いて、もらえるのはGTAの4日間パス。陸軍の交渉力、なかなかですよ。",
+        "学費支援でも住宅手当でも歯科保険でもなく、グランド・セフト・オート。このこだわり、ある意味すごい。",
+        "脱走兵には厳罰を課す組織が、GTAパスを景品にしてるんですよ。人事部、大丈夫？",
+        "2年の再入隊でGTA4日間。これ、中古車ディーラーより条件が悪いですよ。あっちもだいぶ悪いのに。",
+        "ちょっと待って、今一番リアルな軍の採用ゲームって、やっぱりGTAなんですか。"
       ],
-      "newsEn": "U.S. export controls prohibit sending Nvidia's most advanced AI chips to China, but Chinese AI companies have reportedly been accessing that same computing power through cloud services hosted in third countries. The loophole effectively lets firms rent access to restricted hardware without physically importing it. Lawmakers are now debating whether to extend export controls to cover cloud-based access to restricted chips.",
+      "newsEn": "A U.S. Army unit is offering soldiers a four-day pass to play Grand Theft Auto as an incentive to reenlist. To qualify, soldiers must commit to a minimum of two years and up to six years of additional service. The offer highlights the military's ongoing recruitment and retention challenges.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. spent years building a chip export ban to keep advanced AI out of China's hands. It forgot that 'hands' are optional in the age of cloud computing.",
-          "absurdity": "Chinese firms didn't smuggle hardware. They just opened a browser and clicked 'Rent Server.'",
-          "outside": "America pressured allies to restrict chip exports, then left the digital front door wide open. The bouncer checked everyone's bags but forgot about the Wi-Fi password."
+          "contradiction": "The U.S. military, which trains soldiers to follow strict rules of engagement, is rewarding reenlistment with four days of simulated carjacking and chaos.",
+          "absurdity": "Sign a six-year contract putting your life on the line, and you get a long weekend with a game about robbing people. The math is doing something.",
+          "outside": "Other countries' militaries are watching this and wondering if they should start offering Candy Crush breaks."
         },
         {
-          "contradiction": "Export controls are designed to stop physical goods from crossing borders. The chips never crossed a border. The computations did, at the speed of light.",
-          "absurdity": "Congress is now debating a law to ban renting access to a chip you can't sell. The chip industry didn't know it needed a 'no cloud' clause.",
-          "outside": "This is the geopolitical equivalent of banning someone from your kitchen but leaving the Uber Eats account logged in."
+          "contradiction": "GTA is routinely blamed for encouraging lawless behavior — now it's officially a military retention tool.",
+          "absurdity": "Four days of GTA for six years of service. That's a per-hour compensation rate that would make an unpaid intern wince.",
+          "outside": "Japan's Self-Defense Forces offer anime collaborations for recruitment. The U.S. offers simulated crime sprees. Different countries, different strategies."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-19/candidate-2.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-08-19/candidate-2-punchy.jpg"
+      "image": "images/2026-08-20/candidate-2.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-08-20/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "15 U.S. States Still Allow Corporal Punishment in Schools — and Psychologists Have Thoughts",
-        "source": "NPR News",
-        "date": "2026-08-19",
-        "url": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-        "summary": "アメリカでは体罰を禁止する連邦法が存在せず、現在も15州が公立学校での体罰を法律で認めている。心理学者の間では体罰が子どもに有害だという広いコンセンサスがあるにもかかわらず、だ。"
+        "headline": "Nielsen Wants Your Smartwatch to Spy on What You Watch — For Science",
+        "source": "The Verge",
+        "date": "2026-08-20",
+        "url": "https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data",
+        "summary": "視聴率調査会社ニールセンが、ウェアラブルデバイスから取得したデータを活用して、ストリーミング時代の視聴測定精度を高める計画を発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 子どもへの体罰が有害だという科学的コンセンサスが数十年前から存在するのに、15州では今日も学校で「教育」として合法的に行われている、という建前と実態のギャップ。",
-        "<b>滑稽さ:</b> 職場でのハラスメント防止研修が義務化されている州が、未成年を相手にした体罰はOKにしていたりする。大人には優しく、子どもには厳しく。",
-        "<b>日本・海外から見ると:</b> 国連子どもの権利条約を批准していない唯一の国がアメリカで、学校体罰が15州で合法というのは、外から見るとかなり一貫した立場ではある。"
+        "<b>矛盾:</b> 「テレビを見ているかどうか」を確認するために、時計があなたの脈拍と位置情報を集める時代になったんですよ。リモコンじゃダメだったんですか。",
+        "<b>滑稽さ:</b> 「この番組を見ながら心拍数が上がった」「この広告で眠りについた」——そういうデータが広告主に売られてるかもしれない。あなたの昼寝、もう商品です。",
+        "<b>日本・海外から見ると:</b> 日本の視聴率は今でも機械を家に置くか日記式なんですよ。アメリカはいきなり「腕輪で全部わかる」に飛んだ。"
       ],
       "imagePrompts": [
-        "A US map with 15 states highlighted in red, each with a small wooden paddle icon, while the remaining states show a school building with a 'No Entry' symbol over a paddle",
-        "A school hallway with a bulletin board showing a 'Workplace Harassment Policy — Zero Tolerance' poster next to a door labeled 'Principal's Office — Paddling Permitted by State Law'",
-        "A psychology textbook open to a chapter titled 'Corporal Punishment Is Harmful to Children — Consensus Since 1979' sitting on a teacher's desk next to a wooden paddle"
+        "A person slumped on a couch in a dark living room, TV glowing, surrounded by snack wrappers. Their smartwatch displays a tiny Nielsen logo and a graph. A tiny suited figure inside the watch screen holds a clipboard and takes notes.",
+        "A Nielsen employee at a wall of monitors, each showing a different person's living room. On each screen, a glowing smartwatch data feed is visible: heart rate, location, show title. The employee circles one feed labeled 'Fell asleep during ad.'",
+        "A smartwatch on a wrist displaying the message: 'Viewership data sent. You watched 4.5 hours today. Advertisers have been notified. Have a healthy day!'"
       ],
       "captions": [
-        "Fifteen states: 'We read the research. We just didn't agree with it.'",
-        "In these states, hitting an adult at work is called assault. Hitting a child at school is called discipline. One of those words was chosen very carefully.",
-        "No federal law bans this. There are, however, very detailed federal rules about school lunch sodium content. Priorities.",
-        "The science said stop in the '70s. Fifteen states are still loading the update.",
-        "Other countries banned this before smartphones existed. Fifteen U.S. states would like more time to think about it."
+        "Nielsen couldn't trust you to fill out a diary, so now your watch is doing it for you. Silently. Forever.",
+        "Your fitness tracker was supposed to judge your steps. Turns out it's also judging your streaming habits. Same energy, honestly.",
+        "Nielsen: 'People lie about what they watch.' Also Nielsen: 'What if we just... asked their wrist?'",
+        "Somewhere a network executive just found out their show has a 98% sleep-through rate and the data came from Fitbits.",
+        "My watch already knows I don't exercise enough. Now it's going to tell Nielsen I rewatch the same sitcom at midnight. This is too much."
       ],
       "captionsJa": [
-        "15州「研究は読んだ。同意しなかっただけ」。",
-        "これらの州では、職場で大人を叩いたら「暴行」。学校で子どもを叩いたら「指導」。どっちかの言葉が相当慎重に選ばれてますよね。",
-        "連邦法で禁止されていない。ただし学校給食のナトリウム含有量については非常に詳細な連邦規則がある。優先順位の話ですね。",
-        "科学は70年代に「やめろ」と言った。15州はまだアップデートを読み込み中です。",
-        "他の国はスマートフォンが存在する前に禁止した。15州はもう少し考えたいそうです。"
+        "視聴日記に嘘を書くから、今度は腕時計に正直に話してもらう作戦に出たんですよ。黙って、ずっと。",
+        "歩数を測るはずだった時計が、Netflixの視聴履歴も記録してた。まあ、どっちも「健康管理」ですよね。",
+        "ニールセン「視聴者は嘘をつく」→ニールセン「じゃあ手首に聞こう」。論理の飛躍、すさまじい。",
+        "どこかのテレビ局の重役が今、「うちの番組、視聴率98%が途中で寝落ち」というFitbitデータを見せられてる。",
+        "体重も知られて、睡眠も知られて、今度は深夜に同じドラマを繰り返し見てることまでバレる。もう隠せるものが何もない。"
       ],
-      "newsEn": "Fifteen U.S. states have laws that permit corporal punishment in public schools, according to NPR. There is broad consensus among psychologists that physical punishment is harmful to children's development and mental health. The United States has no federal law banning the practice in public schools, leaving it to individual states to decide.",
+      "newsEn": "Nielsen has announced new enhancements to its viewership measurement system that incorporate data from wearable devices such as smartwatches. The move is aimed at improving the accuracy of streaming-era audience data. Nielsen is working with partners who already collect data from these wearables.",
       "ironyEn": [
         {
-          "contradiction": "Psychologists have agreed for decades that hitting children causes harm. Fifteen states responded by making it official school policy.",
-          "absurdity": "In some of these states, a teacher can legally hit a child but would be fired for hitting a coworker. The child has fewer rights than the adult standing next to them.",
-          "outside": "The U.S. is the only country that hasn't ratified the UN Convention on the Rights of the Child. The school paddle situation is not entirely surprising in that context."
+          "contradiction": "Nielsen's entire pitch is that people lie about what they watch — so the solution is a wearable that watches them instead.",
+          "absurdity": "You put on a fitness tracker to count your steps, and it's quietly reporting that you watched three hours of reality TV at 2 a.m. Wellness.",
+          "outside": "Europe spent years drafting privacy regulations to prevent exactly this kind of data collection. Nielsen called it a 'key enhancement.'"
         },
         {
-          "contradiction": "The same country that debates trigger warnings at universities permits paddles in elementary schools. The sensitivity is unevenly distributed.",
-          "absurdity": "There's no federal law against hitting kids in school, but there are very specific federal guidelines about the font size on school cafeteria menus.",
-          "outside": "Most developed nations banned school corporal punishment before the internet existed. The U.S. has 5G and still hasn't gotten there in 15 states."
+          "contradiction": "The company built to measure media consumption now needs to monitor your body to figure out what you're consuming.",
+          "absurdity": "Your watch knows you fell asleep during that documentary. Nielsen now knows too. The documentary's producers, shortly after.",
+          "outside": "In Japan, the national broadcaster still mails out paper viewing diaries. Nielsen jumped straight to biosurveillance."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-19/candidate-3.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-08-19/candidate-3-punchy.jpg"
+      "image": "images/2026-08-20/candidate-3.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-08-20/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Goldman Sachs Studied Where AI Is Squeezing Labor Markets — and Found It's Already Started",
-        "source": "CNBC Top News",
-        "date": "2026-08-19",
-        "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
-        "summary": "ゴールドマン・サックスの調査で、AIが先進国の雇用市場に圧力をかけ始めていることが示された。"
+        "headline": "AI Jobs Are Booming — and Women Are Largely Missing From the Party",
+        "source": "CBS News US",
+        "date": "2026-08-20",
+        "url": "https://www.cbsnews.com/news/ai-jobs-gender-gap-women-hiring/",
+        "summary": "LinkedInの調査によると、高収入のAI関連職で女性は依然として大幅に過少代表されており、AIブームの恩恵が性別によって偏在していることが示された。"
       },
       "commentary": [
-        "<b>矛盾:</b> AI導入を最も積極的に推進しているテック企業が、「AIで雇用は奪われない」と言いながら、自社の採用を静かに絞っている構図がある。",
-        "<b>滑稽さ:</b> 「AIが雇用を奪っているか調べた」のがゴールドマン・サックスというのが面白くて、同社自体がAIで相当数のアナリスト業務を代替している。報告書を書いたのが誰かは聞かないでおきましょう。",
-        "<b>日本・海外から見ると:</b> 日本は慢性的な人手不足でAIに活路を求めているので、「AIが仕事を奪う」という文脈自体が少し別世界の話に聞こえる部分もある。ただ事務・コールセンター系は例外じゃないですが。"
+        "<b>矛盾:</b> AIの採用プロセス自体にアルゴリズムが使われているケースも多いんですよね。「AIが女性を弾いている」可能性を、AI企業が調べる気があるのかどうか。",
+        "<b>滑稽さ:</b> 「多様性」を掲げたスライドをAIに作らせながら、そのAIを開発してる部署に女性がほとんどいない——このループ、なかなかです。",
+        "<b>日本・海外から見ると:</b> 「技術職の女性比率が低い」は日本でも長年言われてる話なんですが、AIが加速させてしまうとするとリセットのチャンスすら消える。"
       ],
       "imagePrompts": [
-        "A Goldman Sachs analyst in a suit presenting a slide titled 'AI Is Replacing Workers' to an audience — while a humanoid robot sits in the chair next to him taking notes",
-        "A bar chart labeled 'Jobs AI Is Eliminating' with bars rising dramatically, displayed on a screen inside a sleek office where half the desks are visibly empty",
-        "A bank building lobby where a robot receptionist holds a printed Goldman Sachs report titled 'The Future of Human Labor' and hands it to a job applicant"
+        "A long conference table seen from above, filled with near-identical silhouettes in business attire. One chair at the far end sits conspicuously empty, a name placard reading 'Diversity Initiative' face-down on the seat. A framed 'Inclusion Award' hangs crooked on the wall.",
+        "A large bar chart on a boardroom screen labeled 'AI Job Growth.' One bar is enormous and labeled 'Men.' The other is a tiny sliver labeled 'Women.' A presenter points at it proudly with a laser pointer.",
+        "A tech company's lobby wall covered in inclusive-sounding slogans. Through a glass window behind the wall, a large open-plan office is visible with rows of nearly identical silhouettes at standing desks, seen only from behind."
       ],
       "captions": [
-        "Goldman Sachs studied which jobs AI is killing. Goldman Sachs has been killing analyst jobs with AI since 2017. The study did not mention this.",
-        "The report says AI is 'weighing on employment.' In other news, water is wet, and the firm writing this report automated its junior trading desk years ago.",
-        "300 million jobs at risk, per Goldman. Their next report will be titled 'What Happened to Our Client Base.'",
-        "Tech CEOs said AI would create new jobs. Goldman's data says those jobs are running late. Like, really late.",
-        "No federal severance. No universal healthcare. AI eating the job market. But the Goldman report has excellent typography, so."
+        "AI is supposed to remove human bias from hiring. The LinkedIn data has some notes on that.",
+        "Tech companies spent years putting 'we value diversity' in their footers. Turns out that's where it stayed.",
+        "The industry building the future is staffing it the same way they staffed 2008. Progress!",
+        "Women are underrepresented in AI jobs — including, presumably, the AI that screens applications for AI jobs. Hm.",
+        "The most sophisticated hiring technology in history and the outcome looks like a 1990s engineering department photo. Wild."
       ],
       "captionsJa": [
-        "ゴールドマン・サックスが「AIが仕事を奪っている」と調査した。同社は2017年からAIでアナリスト業務を代替している。報告書にその記述はない。",
-        "「AIが雇用市場に圧力をかけている」とのこと。水は濡れている、そしてこの報告書を書いた会社は自社のトレーディングデスクをずっと前に自動化している。",
-        "3億人分の仕事がリスクにさらされているとゴールドマン。次の報告書のタイトルは「顧客はどこへ行ったのか」になりそうです。",
-        "テックCEOたちは「AIは新しい仕事を生む」と言った。ゴールドマンのデータによると、その仕事はかなり遅刻している。",
-        "連邦レベルの退職補償なし、国民皆保険なし、AIが雇用を食っている。でもゴールドマンの報告書のグラフは綺麗なので。"
+        "採用バイアスをなくすはずのAIについての報告書が、採用バイアスに関するデータを示してるんですよ。",
+        "「ダイバーシティを大切にします」ってフッターに書いてたんですよね。そこに置きっぱなしにしてたのか。",
+        "未来を作ってる産業が、2008年と同じ顔ぶれで作ってる。進歩だ。",
+        "AI職に女性が少ない——その採用をしてるAIも、たぶん女性が作ってないんですよ。ループしてる。",
+        "史上最も高度な採用テクノロジーを使って、出てきた職場の写真が1990年代のIT部門と同じ。すごいな。"
       ],
-      "newsEn": "A Goldman Sachs study found that artificial intelligence is beginning to weigh on employment across developed economies. The research identified specific sectors and job categories where AI adoption is already displacing or reducing demand for human labor. Goldman has previously estimated that AI could automate tasks equivalent to roughly 300 million full-time jobs globally.",
+      "newsEn": "A LinkedIn study has found that women are disproportionately underrepresented in high-paying AI jobs, despite the sector's rapid growth. AI-related roles command a significant salary premium over comparable non-AI positions. The gap persists even as companies publicly promote diversity and inclusion initiatives.",
       "ironyEn": [
         {
-          "contradiction": "Goldman Sachs — a firm that has been automating analyst jobs with AI for years — published a report warning that AI is displacing workers. The irony filed its own report.",
-          "absurdity": "The study estimates AI could replace 300 million jobs. Goldman employs roughly 45,000 people. Someone in that building read the number and did not feel great.",
-          "outside": "Japan, facing a labor shortage, is hoping AI fills the gap. The U.S. report frames the same technology as a threat. Same robot, very different vibe depending on where you're standing."
+          "contradiction": "Silicon Valley has spent a decade publishing diversity reports while systematically building one of its least diverse booms yet.",
+          "absurdity": "Companies are training AI systems on historical data, then expressing surprise when the outcomes reflect historical bias. The machine learned from us, guys.",
+          "outside": "The tech industry promised AI would eliminate human bias from hiring. The LinkedIn data suggests it mostly eliminated women from the higher-paying jobs."
         },
         {
-          "contradiction": "Tech executives spent years assuring workers that AI would 'create new jobs to replace the ones it eliminated.' Goldman's data suggests the creating part is running a little behind schedule.",
-          "absurdity": "A Wall Street bank spent resources studying how automation is hurting workers. The study was almost certainly produced using automation tools. Nobody mention it.",
-          "outside": "In a country with no federal right to severance, no universal healthcare, and shrinking union coverage, the timing of 'AI is squeezing labor markets' is not ideal. But the report has nice charts."
+          "contradiction": "The sector generating the most wealth right now has the most lopsided gender distribution — and the best PR about fixing it.",
+          "absurdity": "Some of these companies used AI-assisted hiring tools and are now wondering why the results look exactly like their 2010 org charts.",
+          "outside": "In Europe, regulators are asking companies to audit AI hiring tools for bias. In the U.S., we're still at the 'publishing a report' stage."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-19/candidate-4.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-08-19/candidate-4-punchy.jpg"
+      "image": "images/2026-08-20/candidate-4.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-08-20/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Amazon Plans Drone Deliveries to Nearly 500 Cities — After Quietly Skipping Most of That Process",
-        "source": "CNBC Top News",
-        "date": "2026-08-19",
-        "url": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html",
-        "summary": "アマゾンが規制当局の承認を受けて長距離配送ドローンの対象エリアを拡大し、今年中に100万回の配送を目標に、近く500都市近くへのサービス展開を計画している。"
+        "headline": "Kennedy Center Delays Slapping Trump's Name on Its Wall — Until at Least September 8",
+        "source": "NPR News",
+        "date": "2026-08-20",
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name",
+        "summary": "ケネディ・センターの弁護士が、トランプ大統領の名前を建物の外壁に表記する工事を少なくとも9月8日まで行わないと裁判所に伝えた。国立交響楽団はその間、センター以外の会場で新シーズンを発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> アマゾンがドローン配送を最初に発表したのは2013年で、「2015年には実用化」と言っていた。2026年にようやく500都市展開を「計画」している、という13年越しのロードマップです。",
-        "<b>滑稽さ:</b> ドローンが500都市を飛び回る未来を描く一方で、地上の配送労働者の労働環境問題は現在進行形。空はハイテク、地上は別の話。",
-        "<b>日本・海外から見ると:</b> 日本では過疎地向けのドローン配送が「課題解決」として語られることが多いのに対し、アメリカでは「500都市のショッピング体験の向上」が目標なのが、優先順位の違いとして興味深い。"
+        "<b>矛盾:</b> 国立文化芸術施設の正面に現職大統領の名前を彫ろうとしている——ケネディの名を冠した建物に、ですよ。建て替えの話かと思いましたよ。",
+        "<b>滑稽さ:</b> 裁判所が「ちょっと待って」と言ったら「じゃあ9月8日以降に」と答えるあたり、「やめます」ではなく「スケジュールを調整します」なんですよね。",
+        "<b>日本・海外から見ると:</b> 日本では国立劇場に首相の名前を彫る、という話は聞いたことがないですよね。文化施設の「命名権」がどこまで政治に入り込むか、という問いです。"
       ],
       "imagePrompts": [
-        "A fleet of Amazon delivery drones flying over a gleaming city skyline, while directly below on the street level a delivery worker in a vest checks a phone showing a low bathroom-break timer",
-        "A timeline on a wall labeled 'Amazon Drone Delivery' starting in 2013 with '6 months away!' followed by yearly updates all reading 'Almost ready' leading to a 2026 sticky note saying 'We're expanding to 500 cities'",
-        "A suburban neighborhood with an Amazon drone hovering above a house delivering a small package, while in the driveway an Amazon delivery van is double-parked with a driver urgently running to the door"
+        "The grand facade of the Kennedy Center at night, covered entirely in a large construction tarp. Stenciled letters are visible under the tarp, half-illuminated. A lone protester holds a sign. A construction worker sits nearby eating a sandwich, consulting a wall calendar.",
+        "A stonemason kneeling in front of a marble wall, chisel in hand, looking at a printed court injunction document, then at the wall, then back at the document. A sticky note on the wall says 'NOT BEFORE SEPT 8.'",
+        "The Kennedy Center lobby with formal concert-goers dressed in black tie, reading a sign on an easel: 'Tonight's National Symphony Orchestra performance has been relocated.' A small arrow points out the door."
       ],
       "captions": [
-        "Amazon announced drones in 2013. The drone is now technically old enough to babysit the kid it's delivering to.",
-        "1 million drone deliveries this year. Also over 1 million ground workers timed on bathroom breaks. Sky gets the innovation, floor gets the algorithm.",
-        "500 cities. That's a lot of places for a drone to drop a phone charger on someone's driveway.",
-        "They called it a 'quiet expansion.' Drones aren't quiet. Neither is eleven years of 'almost ready.'",
-        "Japan: drones reach villages with no roads. Amazon: drones reach cities with same-day delivery options already. Different problems, same robot."
+        "The Kennedy Center said they won't put Trump's name on the building until September 8. That's not a cancellation, that's a calendar invite.",
+        "The National Symphony Orchestra announced its season at a different venue. The Kennedy Center is currently busy with… other things.",
+        "A federal court is deciding whether a presidential name goes on a national arts building. In 2026. On purpose.",
+        "They named it after Kennedy to honor the arts. Now it needs a court order to stay that way until autumn. Quite a journey.",
+        "The stonemason has the injunction taped to his workbench. He's just waiting. The chisel's ready."
       ],
       "captionsJa": [
-        "アマゾンがドローンを発表したのは2013年。ドローンはもう技術的には、配達先の子どもをベビーシッターできる年齢です。",
-        "今年100万回のドローン配送。地上では100万人超の配達員がトイレ休憩の回数を計測されている。空にはイノベーション、地上にはアルゴリズム。",
-        "500都市。車道に充電器を落とせる場所が500都市分増えた、とも言えます。",
-        "「静かな拡大」と表現した。ドローンは静かじゃない。「もう少しで実用化」の11年間も静かじゃなかった。",
-        "日本：道路のない集落にドローンで配送。アマゾン：すでに当日配送がある500都市に展開。同じロボット、別の問題。"
+        "「9月8日までは貼りません」——これ、キャンセルじゃなくてカレンダーの調整ですよね。",
+        "国立交響楽団が別会場でシーズン発表。ケネディ・センターは今、別のことで忙しいので。",
+        "2026年に、連邦裁判所が「国立文化施設に大統領の名前を彫っていいか」を審議してるんですよ。本当に。",
+        "芸術を讃えるためにケネディの名を刻んだ建物が、秋まで現状維持するために裁判所命令が必要になってる。すごい旅程だ。",
+        "石工さんは差し止め命令を作業台に貼って、ただ待ってる。ノミは用意してある。"
       ],
-      "newsEn": "Amazon has announced plans to expand its drone delivery service to nearly 500 cities following a regulatory approval that allows longer-range deliveries. The company has been quietly adding metro areas to its service footprint in recent months and is targeting 1 million drone deliveries in 2026. Amazon's drone program has faced years of regulatory hurdles and repeated delays since it was first announced.",
+      "newsEn": "Lawyers for the Kennedy Center have informed a court that they will not attempt to affix President Trump's name to the building's facade before September 8. The announcement follows a legal challenge brought by Representative Joyce Beatty's team, who requested a swift judicial ruling. Separately, the National Symphony Orchestra announced its upcoming season at a venue other than the Kennedy Center.",
       "ironyEn": [
         {
-          "contradiction": "Amazon announced drone delivery in 2013 and promised it by 2015. It's now 2026 and they're describing expansion to 500 cities as news. Eleven years is a long Prime shipping window.",
-          "absurdity": "The company targeting 1 million drone deliveries this year employs over a million human delivery workers — many of whom are monitored by AI for bathroom break frequency.",
-          "outside": "Japan deploys delivery drones to remote, elderly communities with no road access. Amazon's target is 500 major metro areas where there are already trucks, bikes, and people who could just walk to the store."
+          "contradiction": "The Kennedy Center — named after an assassinated president to honor the arts — is now in a legal fight over whether to rename it after a living one.",
+          "absurdity": "The National Symphony Orchestra announced its new season somewhere other than the Kennedy Center, which is a sentence that should not exist.",
+          "outside": "In most countries, putting a sitting leader's name on a national arts institution would raise immediate authoritarian red flags. Here it's a scheduling dispute."
         },
         {
-          "contradiction": "Amazon spent years fighting unions and bathroom-break monitoring lawsuits at its ground warehouses while simultaneously building an airborne delivery utopia. Same company, very different altitude.",
-          "absurdity": "The drone program was announced during a 60 Minutes segment in 2013. It is now old enough to be in middle school. It's still not in most cities.",
-          "outside": "Regulators in Europe required years of safety testing before allowing drones over populated areas. The U.S. greenlit this for 500 cities, and Amazon called it 'quiet expansion.' Quiet is doing a lot of work there."
+          "contradiction": "The center's response to 'don't put his name up yet' was essentially 'fine, we'll do it after September 8.' The legal system as a delay mechanism.",
+          "absurdity": "A court date is now standing between a presidential name and a building facade. Somewhere, a stonemason has a very complicated calendar.",
+          "outside": "Foreign arts organizations following this story are wondering at what point 'renovation' became a political act requiring judicial review."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-19/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-08-19/candidate-5-punchy.jpg"
+      "image": "images/2026-08-20/candidate-5.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-08-20/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「システムの抜け穴は、いつも一番賢い人たちが開けている」——ハーバードの遺体管理から輸出規制の穴、学校体罰の放置、AIレポートの自己矛盾、13年越しのドローンまで、全部その話です。",
-    "titleEn": "Harvard Sold Bodies, China Rented Chips, and Drones Are Finally Coming (Only 13 Years Late)",
-    "subtitleEn": "The week's five loopholes, explained by someone who didn't design any of them.",
-    "titleJa": "ハーバードが遺体を売り、中国がチップを借り、ドローンが「ようやく」飛ぶ——2026年のアメリカを今日一言で語る技術",
+    "thread": "今日の5本に流れる糸は「数字が大きくなるほど、誰も責任を取らない」。40兆ドルの借金、6年でGTAの休暇、AIの給与格差、腕時計の監視、そして9月8日以降に彫る名前——どれも「スケールが違う」というだけで、やっていることは近所の言い訳と同じです。",
+    "titleEn": "40 Trillion Reasons Nobody's in Charge",
+    "subtitleEn": "The week's five stories you'll actually want to bring up at dinner.",
+    "titleJa": "40兆ドルの借金と、GTAで2年契約の話をしよう",
     "titleAltJa": [
-      "5300万ドルで和解したハーバードと、クラウド経由でチップを借りた中国と、13年待たされたアマゾンの話",
-      "「抜け穴はいつも一番賢い人が開ける」——今日のアメリカニュース、全部その話でした"
+      "「AI採用で多様性推進」スライドをAIに作らせている会社の話",
+      "今日のアメリカニュース、全部「誰が責任取るんですか」で説明できる"
     ],
-    "leadJa": "今日の朝、記事を5本読んで、なんか全部おんなじ話だと気づきました。\n\nルールを作った側が一番うまくルールを使い倒してる、という話。\n\nハーバードから始まって、NvidiaのチップとアマゾンのドローンとゴールドマンのAIレポートで終わります。コーヒーを用意してください。",
-    "introEn": "Today's Forecast\n\nFive stories. One theme: the people who built the system are also the ones who found the exit.\n\nThis morning I read about Harvard's morgue, a credit card at a Singapore data center, fifteen states that skimmed the psychology research and disagreed, Goldman Sachs studying AI displacement while quietly automating Goldman Sachs, and Amazon's drone program — announced in 2013, now thirteen years old and almost ready to do something.\n\nThe forecast: If you've ever felt outmaneuvered by a system you didn't design, today's news is proof it's not just you. The smartest institutions on the planet are running the same play. Your job application didn't get ignored because you weren't good enough. It got ignored because the loophole was already spoken for. Go ahead and feel fine about that. Briefly.",
-    "introJa": "今日を占うよ〜\n\n今日の5本、読み終えたあとに気づきました。全部おんなじ話です。\n\n「ルールを設計した側が、そのルールの一番でかい穴を使っている」という話。\n\nハーバードが「倫理委員会あります、医学の発展のために献体を受け付けます」と言いながら遺体安置所で何が起きていたか。アメリカが「Nvidiaのチップは輸出禁止」と言いながら、クラウド越しのアクセスは禁止し忘れていたか。ゴールドマンが「AIが雇用を奪っている」という報告書を書きながら、何年も前から自分のアナリスト業務をAIに替えていたか。\n\nあと、アマゾンが「2015年にはドローン配送を実用化する」と言った年に生まれた子どもが、もう中学生になっています。\n\n今日の占いです。あなたが「なんかうまくいかない」と感じているとしたら、それはあなたの能力の問題じゃないかもしれない。システムの抜け穴は、最初から別の誰かが予約している。今日は、そういうことにしておいてください。少しだけ楽になるので。",
-    "quipEn": "The loophole is always already taken. That's not pessimism — that's just Tuesday in America.",
-    "quipJa": "抜け穴は最初から誰かが予約してる。でもそれを発見できるのも、たいてい同じ人たちなんですよね。",
+    "leadJa": "毎朝アメリカのニュースを読んでいます。今日は特に手強かった。\n\n40兆ドル、GTAで再入隊、腕時計が視聴率を測る——全部、「正気ですか」と声に出したやつです。\n\nでも読み終わったら、職場でこれを話せるようになります。たぶん。",
+    "introEn": "Today's Forecast: partly unhinged, with a high chance of no one being held responsible.\n\nFive stories today. The U.S. national debt cleared $40 trillion — doubled in under a decade, while someone somewhere was definitely giving a speech about fiscal responsibility. The Army is offering soldiers a four-day GTA pass to reenlist for six years. Nielsen wants your smartwatch to quietly log what you're watching. LinkedIn found that AI jobs pay more and women are largely missing from them. And the Kennedy Center told a court: we won't put Trump's name on the wall until September 8. Not 'we won't.' Just 'not yet.'\n\nThe thread running through all five: the bigger the number, the less anyone seems to own it. Which is great news for you, actually. Whatever you didn't get done this week? Same energy. Today, you are not the problem. The math is.",
+    "introJa": "今日の占い、先に言います。\n\n「自分のせいだ」と思っている人——今日だけ、いったん置いといてください。\n\n今日の5本を見てみますよ。\n40兆ドルの借金を10年で倍にした国が、誰も責任を取っていない。\nGTA4日間のために6年間、命を預ける契約をしている人がいる。\n腕時計が、あなたの深夜の視聴履歴をこっそり業者に送っている。\n「多様性推進」スライドをAIに作らせながら、AI部門に女性がほぼいない会社がある。\nそしてケネディ・センターの壁への名前彫りは「やめません、9月8日以降にします」で、いまも進行中。\n\nで、気づきますよね。スケールが違うだけで、やってることは全部、近所の言い訳と同じ構造なんですよ。\n\nつまり。あなたが今週できなかったこと——それ、あなたのせいじゃないです。世界の上の方でも、ずっとこんな感じです。むしろ。\n\n今日の金運は「40兆ドルの借金を見た後では、自分の財布が急に健全に見える」。そういう日です。さ、読んでいきましょう。",
+    "quipEn": "The U.S. debt doubled in under ten years, and the big argument is whether we can afford school lunches. To be fair, nobody said the math had to make sense.",
+    "quipJa": "40兆ドルの借金を10年かからず倍にした国が、給食費の議論をしています。スケール感だけはあります。",
     "notesEn": [
-      "Harvard will pay $53 million to families whose donated relatives were reportedly sold for parts by a morgue manager. The university's annual gift income is over $5 billion. So: roughly a rounding error, ethically speaking.",
-      "The U.S. banned Nvidia's best chips from going to China. It forgot to ban logging into the server that runs those chips. A Singapore data center and a credit card later, here we are. Congress is now writing the law for the thing they didn't write the first law for.",
-      "Fifteen states still allow teachers to hit kids at school. These same states have detailed workplace harassment policies for adult employees. The children were not consulted about the discrepancy.",
-      "Goldman Sachs released a study showing AI is displacing workers across developed economies. Goldman Sachs has been replacing its own junior analysts with AI since at least 2017. The study did not include a section on Goldman Sachs.",
-      "Amazon announced drone delivery in 2013 and said it would be ready by 2015. It's 2026. The drone is now technically old enough to have opinions about the service.",
-      "Today's five stories share one thing: in every case, the people who designed the rules were also the ones who found — and used — the biggest hole in them. That's not irony. That's just how systems work.",
-      "If you've been feeling outmaneuvered by a game you didn't make, today's news from America has some comfort for you: neither did anyone else. They just got there first.",
-      "Harvard. Nvidia export controls. Corporal punishment in schools. Goldman's AI report. Amazon drones. Five institutions, five sets of rules, five very convenient exceptions. The week is young."
+      "The U.S. national debt just hit $40 trillion. Doubled in under a decade. Somewhere right now, a congressman is giving a speech about fiscal responsibility. Live. As you read this.",
+      "The Army is offering soldiers a four-day pass to play Grand Theft Auto — if they reenlist for up to six years. They could've offered tuition, housing, dental. They went with GTA. I respect the commitment to the bit.",
+      "Nielsen announced it's adding smartwatch data to its TV ratings system. Your watch was supposed to count your steps. Turns out it's also counting your episodes. Nobody asked.",
+      "LinkedIn found that AI jobs pay more than comparable non-AI roles — and women are largely absent from them. Tech companies have been putting 'we value diversity' in their footers for years. Turns out that's where it stayed.",
+      "The Kennedy Center told a court it won't put Trump's name on the facade until at least September 8. That's not a no. That's a calendar invite. The National Symphony Orchestra, meanwhile, announced its season at a different venue entirely.",
+      "Five stories today: $40 trillion in debt, GTA as a military benefit, your wrist doing Nielsen's job, an AI boom that's leaving women out, and a court date for a name on a wall. The thread? The bigger the number, the fewer people seem to own it.",
+      "The Army offers four days of GTA for six years of service. The same institution that disciplines soldiers for jaywalking. Someone in HR is having a very interesting week.",
+      "Nielsen couldn't trust people to fill out a viewing diary. So now your smartwatch does it. Silently. Automatically. For science, they say."
     ],
     "xJa": [
-      "ハーバード大学、医学部への献体を遺体安治所の管理者がパーツごとに転売。和解金は5300万ドル（約75億円）。同大学の年間寄付収入は7000億円超なので、端数の話です。倫理委員会はありました。",
-      "アメリカ「NvidiaのAIチップ、中国に輸出禁止！」→中国「シンガポールのクラウドサーバー借りて普通に使えた」→議会「じゃあそっちも禁止する法律を今から作ります」。鍵をかけた金庫の写真を送っていた。",
-      "アメリカ、15州でいまも公立学校での体罰が合法。職場のハラスメント防止研修が義務の州で、子どもを叩くことは合法だったりします。子どもだけ別ルールなんですよね。2026年の話です。",
-      "ゴールドマン・サックスが「AIが雇用を奪っている」という報告書を発表。同社は2017年頃からAIでアナリスト業務を大量代替中。報告書を書いたのが誰か、または何かは聞かないでおきましょう。",
-      "アマゾンがドローン配送を「2015年実用化」と発表したのは2013年。2026年にようやく500都市展開を計画中。2013年に生まれた子、今年13歳です。そのドローンより年上ではない。",
-      "今日のアメリカニュースまとめ：ハーバードが遺体を売り、中国がクラウドでチップを借り、15州が体罰を続け、ゴールドマンが自分の話を書かずにAI報告書を出し、アマゾンが13年越しでドローンを飛ばそうとしている。元気？",
-      "「抜け穴はいつも一番賢い人が開ける」——これ、今日のアメリカのニュース5本を読んで気づきました。最高学府も議会も投資銀行も、みんな同じことをやっていた。こんなのを毎朝読んでいる私も私ですが。",
-      "AIが3億人分の仕事を奪うかもしれないというゴールドマンの試算。日本は人手不足で「AIに助けてほしい」側なので、まあ話が噛み合わない。ただコールセンターと事務職は別の話なので、そこだけ括弧に入れておきます。"
+      "アメリカの国家債務が40兆ドル突破。10年かからず倍増。そのあいだずっと「財政規律」という言葉は使われていました。言葉だけ。",
+      "米陸軍、再入隊インセンティブが「GTA4日間プレイ休暇」。最低2年、最長6年の再入隊が条件。給付金でも奨学金でもなく、GTAを選んだ。意志を感じる。",
+      "視聴率調査のニールセンが腕時計のデータで視聴履歴を測る計画を発表。あなたの昼寝中に何を流していたか、もうバレています。",
+      "LinkedInの調査で判明：AIブームで高給職が増えているが、女性はいまも全然増えてない。「多様性推進」スライドをAIに作らせている会社の話です。",
+      "ケネディ・センターの弁護士が「トランプ大統領の名前を壁に刻む工事は9月8日まではしない」と裁判所に報告。「やめる」ではなく「スケジュール調整」です。",
+      "今日のアメリカ：40兆ドルの借金、GTA再入隊特典、腕時計の監視、AIの性別格差、壁に彫る名前の裁判。5本全部、数字がでかくなるほど誰も謝らない。",
+      "GTAは「車を盗んで警察から逃げるゲーム」なんですが、陸軍がそれを褒美にしています。訓練で教えていることの真逆を、自ら配っています。",
+      "国家債務40兆ドル。1秒1ドル使い続けても返済に127万年かかる計算らしい。来世どころか、来世の来世の来世の話です。"
     ],
-    "fullEn": "# Harvard Sold Bodies, China Rented Chips, and Drones Are Finally Coming (Only 13 Years Late)\n\n## Today's Forecast\n\nToday's Forecast\n\nFive stories. One theme: the people who built the system are also the ones who found the exit.\n\nThis morning I read about Harvard's morgue, a credit card at a Singapore data center, fifteen states that skimmed the psychology research and disagreed, Goldman Sachs studying AI displacement while quietly automating Goldman Sachs, and Amazon's drone program — announced in 2013, now thirteen years old and almost ready to do something.\n\nThe forecast: If you've ever felt outmaneuvered by a system you didn't design, today's news is proof it's not just you. The smartest institutions on the planet are running the same play. Your job application didn't get ignored because you weren't good enough. It got ignored because the loophole was already spoken for. Go ahead and feel fine about that. Briefly.\n\n---\n\n## 1. Harvard Agrees to Pay $53 Million After Morgue Manager Sold Donated Body Parts\n\n*CBS News US — [source](https://www.cbsnews.com/news/harvard-morgue-manager-stolen-body-parts-settlement/)*\n\nHarvard University has agreed to pay $53 million to settle lawsuits brought by families who alleged the university mishandled the bodies of loved ones donated to its medical school. A former morgue manager was accused of selling body parts from donated cadavers. The case raised serious questions about oversight of donated human remains at one of the country's most prestigious academic institutions.\n\n**Why It's Funny**\n\n- **Contradiction:** Families donated bodies to advance human knowledge. Someone at Harvard decided to advance their bank account instead.\n- **Absurdity:** $53 million sounds enormous until you remember Harvard's endowment is roughly $50 billion. That's a rounding error on a rounding error.\n- **View from Tokyo:** Harvard sells branded sweatshirts, tote bags, and apparently, for a brief period, something considerably more difficult to return.\n\n**Say It Out Loud**\n\n> Harvard will pay $53 million — which, in Harvard terms, is the cost of one decent parking spot near campus.\n\n---\n\n## 2. The U.S. Banned Nvidia's Best Chips from Going to China — So China Just Rented Them Overseas\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html)*\n\nU.S. export controls prohibit sending Nvidia's most advanced AI chips to China, but Chinese AI companies have reportedly been accessing that same computing power through cloud services hosted in third countries. The loophole effectively lets firms rent access to restricted hardware without physically importing it. Lawmakers are now debating whether to extend export controls to cover cloud-based access to restricted chips.\n\n**Why It's Funny**\n\n- **Contradiction:** The U.S. spent years building a chip export ban to keep advanced AI out of China's hands. It forgot that 'hands' are optional in the age of cloud computing.\n- **Absurdity:** Chinese firms didn't smuggle hardware. They just opened a browser and clicked 'Rent Server.'\n- **View from Tokyo:** America pressured allies to restrict chip exports, then left the digital front door wide open. The bouncer checked everyone's bags but forgot about the Wi-Fi password.\n\n**Say It Out Loud**\n\n> America banned the chips. Did not ban logging into the server that runs the chips. Close enough, guys.\n\n---\n\n## 3. 15 U.S. States Still Allow Corporal Punishment in Schools — and Psychologists Have Thoughts\n\n*NPR News — [source](https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker)*\n\nFifteen U.S. states have laws that permit corporal punishment in public schools, according to NPR. There is broad consensus among psychologists that physical punishment is harmful to children's development and mental health. The United States has no federal law banning the practice in public schools, leaving it to individual states to decide.\n\n**Why It's Funny**\n\n- **Contradiction:** Psychologists have agreed for decades that hitting children causes harm. Fifteen states responded by making it official school policy.\n- **Absurdity:** In some of these states, a teacher can legally hit a child but would be fired for hitting a coworker. The child has fewer rights than the adult standing next to them.\n- **View from Tokyo:** The U.S. is the only country that hasn't ratified the UN Convention on the Rights of the Child. The school paddle situation is not entirely surprising in that context.\n\n**Say It Out Loud**\n\n> Fifteen states: 'We read the research. We just didn't agree with it.'\n\n---\n\n## 4. Goldman Sachs Studied Where AI Is Squeezing Labor Markets — and Found It's Already Started\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)*\n\nA Goldman Sachs study found that artificial intelligence is beginning to weigh on employment across developed economies. The research identified specific sectors and job categories where AI adoption is already displacing or reducing demand for human labor. Goldman has previously estimated that AI could automate tasks equivalent to roughly 300 million full-time jobs globally.\n\n**Why It's Funny**\n\n- **Contradiction:** Goldman Sachs — a firm that has been automating analyst jobs with AI for years — published a report warning that AI is displacing workers. The irony filed its own report.\n- **Absurdity:** The study estimates AI could replace 300 million jobs. Goldman employs roughly 45,000 people. Someone in that building read the number and did not feel great.\n- **View from Tokyo:** Japan, facing a labor shortage, is hoping AI fills the gap. The U.S. report frames the same technology as a threat. Same robot, very different vibe depending on where you're standing.\n\n**Say It Out Loud**\n\n> Goldman Sachs studied which jobs AI is killing. Goldman Sachs has been killing analyst jobs with AI since 2017. The study did not mention this.\n\n---\n\n## 5. Amazon Plans Drone Deliveries to Nearly 500 Cities — After Quietly Skipping Most of That Process\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html)*\n\nAmazon has announced plans to expand its drone delivery service to nearly 500 cities following a regulatory approval that allows longer-range deliveries. The company has been quietly adding metro areas to its service footprint in recent months and is targeting 1 million drone deliveries in 2026. Amazon's drone program has faced years of regulatory hurdles and repeated delays since it was first announced.\n\n**Why It's Funny**\n\n- **Contradiction:** Amazon announced drone delivery in 2013 and promised it by 2015. It's now 2026 and they're describing expansion to 500 cities as news. Eleven years is a long Prime shipping window.\n- **Absurdity:** The company targeting 1 million drone deliveries this year employs over a million human delivery workers — many of whom are monitored by AI for bathroom break frequency.\n- **View from Tokyo:** Japan deploys delivery drones to remote, elderly communities with no road access. Amazon's target is 500 major metro areas where there are already trucks, bikes, and people who could just walk to the store.\n\n**Say It Out Loud**\n\n> Amazon announced drones in 2013. The drone is now technically old enough to babysit the kid it's delivering to.\n\n---\n\n## Today's Punchline\n\n> The loophole is always already taken. That's not pessimism — that's just Tuesday in America.\n",
-    "fullJa": "# ハーバードが遺体を売り、中国がチップを借り、ドローンが「ようやく」飛ぶ——2026年のアメリカを今日一言で語る技術\n\n## 今日を占うよ〜\n\n今日を占うよ〜\n\n今日の5本、読み終えたあとに気づきました。全部おんなじ話です。\n\n「ルールを設計した側が、そのルールの一番でかい穴を使っている」という話。\n\nハーバードが「倫理委員会あります、医学の発展のために献体を受け付けます」と言いながら遺体安置所で何が起きていたか。アメリカが「Nvidiaのチップは輸出禁止」と言いながら、クラウド越しのアクセスは禁止し忘れていたか。ゴールドマンが「AIが雇用を奪っている」という報告書を書きながら、何年も前から自分のアナリスト業務をAIに替えていたか。\n\nあと、アマゾンが「2015年にはドローン配送を実用化する」と言った年に生まれた子どもが、もう中学生になっています。\n\n今日の占いです。あなたが「なんかうまくいかない」と感じているとしたら、それはあなたの能力の問題じゃないかもしれない。システムの抜け穴は、最初から別の誰かが予約している。今日は、そういうことにしておいてください。少しだけ楽になるので。\n\n---\n\n## 1. Harvard Agrees to Pay $53 Million After Morgue Manager Sold Donated Body Parts\n\n*CBS News US（[記事](https://www.cbsnews.com/news/harvard-morgue-manager-stolen-body-parts-settlement/)）*\n\nハーバード大学が、医学部に献体された遺体を遺体安置所の管理者が売却していた問題をめぐる訴訟で、遺族に計5300万ドルを支払うことで和解した。\n\n**どこが笑える？**\n\n- 矛盾: 「医学の発展に役立てて」と献体した遺族が、まさかその遺体が転売ビジネスの商品になっているとは思わなかったでしょうね。\n- 滑稽さ: ハーバードが5300万ドルで和解できるのは、年間寄付金収入が50億ドルを超えるからです。端数の話ですよ、これ。\n- 日本・海外から見ると: 「遺体を大切にする」という倫理観は文化を超えた普遍的なものなのに、よりによって倫理委員会まで備えた最高学府でこれが起きた、という構図がまずい。\n\n**このニュースをジョークにするなら...**\n\n> ハーバードは5300万ドルを支払います。ハーバード的には、キャンパス近くの駐車スペース一区画分ですね。\n\n---\n\n## 2. The U.S. Banned Nvidia's Best Chips from Going to China — So China Just Rented Them Overseas\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/19/china-ai-nvidia-chips-us-export-controls.html)）*\n\n中国のAI企業が、米国の輸出規制をかいくぐる形で海外のクラウドサービス経由でNvidiaの高性能チップにアクセスしていることが報告され、米議会が規制の抜け穴を塞ごうとしている。\n\n**どこが笑える？**\n\n- 矛盾: 「チップは輸出禁止」と決めたのに、そのチップが動いているサーバーにインターネット越しにアクセスするのは規制していなかった、という話で、鍵をかけた金庫の写真を送ったようなものですよ。\n- 滑稽さ: アメリカが「最先端チップを中国に売ったら軍事転用されるかも」と心配して輸出禁止にしたのに、中国企業はシンガポールのサーバーを借りて普通に使ってた。船で送らなくていい時代の抜け穴。\n- 日本・海外から見ると: 日本を含む同盟国にも半導体規制への協力を求めておきながら、クラウドという一番でかい穴を自分たちが開けていた、という構図は外から見るとかなり間抜けに映る。\n\n**このニュースをジョークにするなら...**\n\n> チップは禁輸にした。そのチップが動いているサーバーへのログインは禁止してなかった。まあいっか、みたいな。\n\n---\n\n## 3. 15 U.S. States Still Allow Corporal Punishment in Schools — and Psychologists Have Thoughts\n\n*NPR News（[記事](https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker)）*\n\nアメリカでは体罰を禁止する連邦法が存在せず、現在も15州が公立学校での体罰を法律で認めている。心理学者の間では体罰が子どもに有害だという広いコンセンサスがあるにもかかわらず、だ。\n\n**どこが笑える？**\n\n- 矛盾: 子どもへの体罰が有害だという科学的コンセンサスが数十年前から存在するのに、15州では今日も学校で「教育」として合法的に行われている、という建前と実態のギャップ。\n- 滑稽さ: 職場でのハラスメント防止研修が義務化されている州が、未成年を相手にした体罰はOKにしていたりする。大人には優しく、子どもには厳しく。\n- 日本・海外から見ると: 国連子どもの権利条約を批准していない唯一の国がアメリカで、学校体罰が15州で合法というのは、外から見るとかなり一貫した立場ではある。\n\n**このニュースをジョークにするなら...**\n\n> 15州「研究は読んだ。同意しなかっただけ」。\n\n---\n\n## 4. Goldman Sachs Studied Where AI Is Squeezing Labor Markets — and Found It's Already Started\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)）*\n\nゴールドマン・サックスの調査で、AIが先進国の雇用市場に圧力をかけ始めていることが示された。\n\n**どこが笑える？**\n\n- 矛盾: AI導入を最も積極的に推進しているテック企業が、「AIで雇用は奪われない」と言いながら、自社の採用を静かに絞っている構図がある。\n- 滑稽さ: 「AIが雇用を奪っているか調べた」のがゴールドマン・サックスというのが面白くて、同社自体がAIで相当数のアナリスト業務を代替している。報告書を書いたのが誰かは聞かないでおきましょう。\n- 日本・海外から見ると: 日本は慢性的な人手不足でAIに活路を求めているので、「AIが仕事を奪う」という文脈自体が少し別世界の話に聞こえる部分もある。ただ事務・コールセンター系は例外じゃないですが。\n\n**このニュースをジョークにするなら...**\n\n> ゴールドマン・サックスが「AIが仕事を奪っている」と調査した。同社は2017年からAIでアナリスト業務を代替している。報告書にその記述はない。\n\n---\n\n## 5. Amazon Plans Drone Deliveries to Nearly 500 Cities — After Quietly Skipping Most of That Process\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html)）*\n\nアマゾンが規制当局の承認を受けて長距離配送ドローンの対象エリアを拡大し、今年中に100万回の配送を目標に、近く500都市近くへのサービス展開を計画している。\n\n**どこが笑える？**\n\n- 矛盾: アマゾンがドローン配送を最初に発表したのは2013年で、「2015年には実用化」と言っていた。2026年にようやく500都市展開を「計画」している、という13年越しのロードマップです。\n- 滑稽さ: ドローンが500都市を飛び回る未来を描く一方で、地上の配送労働者の労働環境問題は現在進行形。空はハイテク、地上は別の話。\n- 日本・海外から見ると: 日本では過疎地向けのドローン配送が「課題解決」として語られることが多いのに対し、アメリカでは「500都市のショッピング体験の向上」が目標なのが、優先順位の違いとして興味深い。\n\n**このニュースをジョークにするなら...**\n\n> アマゾンがドローンを発表したのは2013年。ドローンはもう技術的には、配達先の子どもをベビーシッターできる年齢です。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 抜け穴は最初から誰かが予約してる。でもそれを発見できるのも、たいてい同じ人たちなんですよね。\n",
-    "reviewNotes": "introJaの3要素確認：掴みはある、5本の予告が明示されていない（ハーバード・チップ・体罰の3本は触れているがd3体罰の具体予告が薄く、d5ドローンは「中学生」の一文で済ませている）、「読者を元気づける」締めはある。ただし概ね機能しており、introEnのほうが「5本すべて予告→前向きな締め」の構造が明確。d3のcaption5本は「状況をなぞった」レベルが2本あるため書き直し。d4 imagePrompts1本目に「humanoid robot」が人物を補佐する形で登場しているが顔判別リスク低・構図は機能しているため残す。全体的にAIっぽさは軽微で他は合格。 ／ 文体パス: 2箇所修正。xJa[2]の「大人には優しく、子どもには厳しく」が対句整いすぎ、xJa[7]の「文脈が少し別世界の話です」が説明口調で締まりすぎ。"
+    "fullEn": "# 40 Trillion Reasons Nobody's in Charge\n\n## Today's Forecast\n\nToday's Forecast: partly unhinged, with a high chance of no one being held responsible.\n\nFive stories today. The U.S. national debt cleared $40 trillion — doubled in under a decade, while someone somewhere was definitely giving a speech about fiscal responsibility. The Army is offering soldiers a four-day GTA pass to reenlist for six years. Nielsen wants your smartwatch to quietly log what you're watching. LinkedIn found that AI jobs pay more and women are largely missing from them. And the Kennedy Center told a court: we won't put Trump's name on the wall until September 8. Not 'we won't.' Just 'not yet.'\n\nThe thread running through all five: the bigger the number, the less anyone seems to own it. Which is great news for you, actually. Whatever you didn't get done this week? Same energy. Today, you are not the problem. The math is.\n\n---\n\n## 1. National Debt Hits $40 Trillion — Doubled in Under a Decade, Nobody's Counting\n\n*CBS News US — [source](https://www.cbsnews.com/news/national-debt-tops-40-trillion-doubles/)*\n\nU.S. federal debt has surpassed $40 trillion, having doubled in less than ten years. The surge is attributed to a combination of tax cuts and trillions in pandemic-era spending. Rising interest payments now consume a growing share of the federal budget.\n\n**Why It's Funny**\n\n- **Contradiction:** Politicians from both parties have spent years warning about fiscal responsibility while voting for the bills that doubled the debt.\n- **Absurdity:** At $40 trillion, if you stacked dollar bills, you'd reach the moon and back — roughly 83,000 times. At least we'd have a space program.\n- **View from Tokyo:** Countries that lecture the U.S. about debt are also holding U.S. Treasury bonds, so everyone's kind of in on it.\n\n**Say It Out Loud**\n\n> $40 trillion in debt and the big policy debate is whether we can afford school lunches.\n\n---\n\n## 2. Army Offers Soldiers a 4-Day Pass to Play GTA — And They Have to Reenlist First\n\n*CBS News US — [source](https://www.cbsnews.com/news/grand-theft-auto-army-reenlistment-bonus/)*\n\nA U.S. Army unit is offering soldiers a four-day pass to play Grand Theft Auto as an incentive to reenlist. To qualify, soldiers must commit to a minimum of two years and up to six years of additional service. The offer highlights the military's ongoing recruitment and retention challenges.\n\n**Why It's Funny**\n\n- **Contradiction:** The U.S. military, which trains soldiers to follow strict rules of engagement, is rewarding reenlistment with four days of simulated carjacking and chaos.\n- **Absurdity:** Sign a six-year contract putting your life on the line, and you get a long weekend with a game about robbing people. The math is doing something.\n- **View from Tokyo:** Other countries' militaries are watching this and wondering if they should start offering Candy Crush breaks.\n\n**Say It Out Loud**\n\n> Six years of your life for four days of GTA. The Army's negotiating team is something else.\n\n---\n\n## 3. Nielsen Wants Your Smartwatch to Spy on What You Watch — For Science\n\n*The Verge — [source](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data)*\n\nNielsen has announced new enhancements to its viewership measurement system that incorporate data from wearable devices such as smartwatches. The move is aimed at improving the accuracy of streaming-era audience data. Nielsen is working with partners who already collect data from these wearables.\n\n**Why It's Funny**\n\n- **Contradiction:** Nielsen's entire pitch is that people lie about what they watch — so the solution is a wearable that watches them instead.\n- **Absurdity:** You put on a fitness tracker to count your steps, and it's quietly reporting that you watched three hours of reality TV at 2 a.m. Wellness.\n- **View from Tokyo:** Europe spent years drafting privacy regulations to prevent exactly this kind of data collection. Nielsen called it a 'key enhancement.'\n\n**Say It Out Loud**\n\n> Nielsen couldn't trust you to fill out a diary, so now your watch is doing it for you. Silently. Forever.\n\n---\n\n## 4. AI Jobs Are Booming — and Women Are Largely Missing From the Party\n\n*CBS News US — [source](https://www.cbsnews.com/news/ai-jobs-gender-gap-women-hiring/)*\n\nA LinkedIn study has found that women are disproportionately underrepresented in high-paying AI jobs, despite the sector's rapid growth. AI-related roles command a significant salary premium over comparable non-AI positions. The gap persists even as companies publicly promote diversity and inclusion initiatives.\n\n**Why It's Funny**\n\n- **Contradiction:** Silicon Valley has spent a decade publishing diversity reports while systematically building one of its least diverse booms yet.\n- **Absurdity:** Companies are training AI systems on historical data, then expressing surprise when the outcomes reflect historical bias. The machine learned from us, guys.\n- **View from Tokyo:** The tech industry promised AI would eliminate human bias from hiring. The LinkedIn data suggests it mostly eliminated women from the higher-paying jobs.\n\n**Say It Out Loud**\n\n> AI is supposed to remove human bias from hiring. The LinkedIn data has some notes on that.\n\n---\n\n## 5. Kennedy Center Delays Slapping Trump's Name on Its Wall — Until at Least September 8\n\n*NPR News — [source](https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name)*\n\nLawyers for the Kennedy Center have informed a court that they will not attempt to affix President Trump's name to the building's facade before September 8. The announcement follows a legal challenge brought by Representative Joyce Beatty's team, who requested a swift judicial ruling. Separately, the National Symphony Orchestra announced its upcoming season at a venue other than the Kennedy Center.\n\n**Why It's Funny**\n\n- **Contradiction:** The Kennedy Center — named after an assassinated president to honor the arts — is now in a legal fight over whether to rename it after a living one.\n- **Absurdity:** The National Symphony Orchestra announced its new season somewhere other than the Kennedy Center, which is a sentence that should not exist.\n- **View from Tokyo:** In most countries, putting a sitting leader's name on a national arts institution would raise immediate authoritarian red flags. Here it's a scheduling dispute.\n\n**Say It Out Loud**\n\n> The Kennedy Center said they won't put Trump's name on the building until September 8. That's not a cancellation, that's a calendar invite.\n\n---\n\n## Today's Punchline\n\n> The U.S. debt doubled in under ten years, and the big argument is whether we can afford school lunches. To be fair, nobody said the math had to make sense.\n",
+    "fullJa": "# 40兆ドルの借金と、GTAで2年契約の話をしよう\n\n## 今日を占うよ〜\n\n今日の占い、先に言います。\n\n「自分のせいだ」と思っている人——今日だけ、いったん置いといてください。\n\n今日の5本を見てみますよ。\n40兆ドルの借金を10年で倍にした国が、誰も責任を取っていない。\nGTA4日間のために6年間、命を預ける契約をしている人がいる。\n腕時計が、あなたの深夜の視聴履歴をこっそり業者に送っている。\n「多様性推進」スライドをAIに作らせながら、AI部門に女性がほぼいない会社がある。\nそしてケネディ・センターの壁への名前彫りは「やめません、9月8日以降にします」で、いまも進行中。\n\nで、気づきますよね。スケールが違うだけで、やってることは全部、近所の言い訳と同じ構造なんですよ。\n\nつまり。あなたが今週できなかったこと——それ、あなたのせいじゃないです。世界の上の方でも、ずっとこんな感じです。むしろ。\n\n今日の金運は「40兆ドルの借金を見た後では、自分の財布が急に健全に見える」。そういう日です。さ、読んでいきましょう。\n\n---\n\n## 1. National Debt Hits $40 Trillion — Doubled in Under a Decade, Nobody's Counting\n\n*CBS News US（[記事](https://www.cbsnews.com/news/national-debt-tops-40-trillion-doubles/)）*\n\nアメリカの連邦債務が40兆ドルを突破した。減税とパンデミック対策支出が重なり、10年かからずに倍増した形だ。\n\n**どこが笑える？**\n\n- 矛盾: 「財政規律」を掲げた政権が続くたびに借金が膨らんできたんですよ。規律、どこ行った。\n- 滑稽さ: 40兆ドルって、1秒に1ドル使い続けても返し終わるまり127万年かかる計算なんですよね。来世の来世の来世の話です。\n- 日本・海外から見ると: 財政健全化を理由に社会保障を削る議論をしながら、同じ口で減税を通す——その順番、日本でも見覚えがありますよね。\n\n**このニュースをジョークにするなら...**\n\n> 40兆ドルの借金を抱えながら、議会で一番熱い議論は「給食費を出すべきか」なんですよ。\n\n---\n\n## 2. Army Offers Soldiers a 4-Day Pass to Play GTA — And They Have to Reenlist First\n\n*CBS News US（[記事](https://www.cbsnews.com/news/grand-theft-auto-army-reenlistment-bonus/)）*\n\n米陸軍の部隊が、兵士の再入隊インセンティブとして「グランド・セフト・オート」を4日間プレイできる休暇を提供していることがわかった。再入隊期間は最低2年から最長6年。\n\n**どこが笑える？**\n\n- 矛盾: 軍隊が「ゲームの中での犯罪体験」を報酬として出してるんですよ。訓練で教えることの真逆をご褒美にするの、なかなかの発想じゃないですか。\n- 滑稽さ: 6年再入隊したら、GTA6本分の休暇がもらえる計算ですよね。ゲームの中の軍曹に命令されながら、現実では軍曹に命令されてる。\n- 日本・海外から見ると: 「自衛隊に入ったらマイナンバー管理がスムーズになります」みたいな話じゃないですか。インセンティブ、もう少し考えようよ。\n\n**このニュースをジョークにするなら...**\n\n> 6年間、命をかけて働いて、もらえるのはGTAの4日間パス。陸軍の交渉力、なかなかですよ。\n\n---\n\n## 3. Nielsen Wants Your Smartwatch to Spy on What You Watch — For Science\n\n*The Verge（[記事](https://www.theverge.com/entertainment/982358/nielsen-ratings-ppm-smart-watch-cowatching-big-data)）*\n\n視聴率調査会社ニールセンが、ウェアラブルデバイスから取得したデータを活用して、ストリーミング時代の視聴測定精度を高める計画を発表した。\n\n**どこが笑える？**\n\n- 矛盾: 「テレビを見ているかどうか」を確認するために、時計があなたの脈拍と位置情報を集める時代になったんですよ。リモコンじゃダメだったんですか。\n- 滑稽さ: 「この番組を見ながら心拍数が上がった」「この広告で眠りについた」——そういうデータが広告主に売られてるかもしれない。あなたの昼寝、もう商品です。\n- 日本・海外から見ると: 日本の視聴率は今でも機械を家に置くか日記式なんですよ。アメリカはいきなり「腕輪で全部わかる」に飛んだ。\n\n**このニュースをジョークにするなら...**\n\n> 視聴日記に嘘を書くから、今度は腕時計に正直に話してもらう作戦に出たんですよ。黙って、ずっと。\n\n---\n\n## 4. AI Jobs Are Booming — and Women Are Largely Missing From the Party\n\n*CBS News US（[記事](https://www.cbsnews.com/news/ai-jobs-gender-gap-women-hiring/)）*\n\nLinkedInの調査によると、高収入のAI関連職で女性は依然として大幅に過少代表されており、AIブームの恩恵が性別によって偏在していることが示された。\n\n**どこが笑える？**\n\n- 矛盾: AIの採用プロセス自体にアルゴリズムが使われているケースも多いんですよね。「AIが女性を弾いている」可能性を、AI企業が調べる気があるのかどうか。\n- 滑稽さ: 「多様性」を掲げたスライドをAIに作らせながら、そのAIを開発してる部署に女性がほとんどいない——このループ、なかなかです。\n- 日本・海外から見ると: 「技術職の女性比率が低い」は日本でも長年言われてる話なんですが、AIが加速させてしまうとするとリセットのチャンスすら消える。\n\n**このニュースをジョークにするなら...**\n\n> 採用バイアスをなくすはずのAIについての報告書が、採用バイアスに関するデータを示してるんですよ。\n\n---\n\n## 5. Kennedy Center Delays Slapping Trump's Name on Its Wall — Until at Least September 8\n\n*NPR News（[記事](https://www.npr.org/2026/08/19/nx-s1-5937912/kennedy-center-president-trump-name)）*\n\nケネディ・センターの弁護士が、トランプ大統領の名前を建物の外壁に表記する工事を少なくとも9月8日まで行わないと裁判所に伝えた。国立交響楽団はその間、センター以外の会場で新シーズンを発表した。\n\n**どこが笑える？**\n\n- 矛盾: 国立文化芸術施設の正面に現職大統領の名前を彫ろうとしている——ケネディの名を冠した建物に、ですよ。建て替えの話かと思いましたよ。\n- 滑稽さ: 裁判所が「ちょっと待って」と言ったら「じゃあ9月8日以降に」と答えるあたり、「やめます」ではなく「スケジュールを調整します」なんですよね。\n- 日本・海外から見ると: 日本では国立劇場に首相の名前を彫る、という話は聞いたことがないですよね。文化施設の「命名権」がどこまで政治に入り込むか、という問いです。\n\n**このニュースをジョークにするなら...**\n\n> 「9月8日までは貼りません」——これ、キャンセルじゃなくてカレンダーの調整ですよね。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 40兆ドルの借金を10年かからず倍にした国が、給食費の議論をしています。スケール感だけはあります。\n",
+    "reviewNotes": "introJaの掴みが弱い（自問自答なし、5本の予告が箇条書き的で息が詰まる、元気づけへの着地が説教調）。d1のcaption4「Nothing I own」は弱い——「倍になるものが何もない」は単なる観察でオチがない。d4のimagePrompt1「one type」が抽象すぎて絵にならない。それ以外は合格。 ／ 文体パス: 3箇所直した。代表例：xJa[3]「依然として低いまま」→「いまも全然増えてない」など翻訳調・説明口調を口語に崩した。"
   },
   "carousel": [
-    "images/2026-08-19/carousel/slide-1.jpg",
-    "images/2026-08-19/carousel/slide-2.jpg",
-    "images/2026-08-19/carousel/slide-3.jpg",
-    "images/2026-08-19/carousel/slide-4.jpg",
-    "images/2026-08-19/carousel/slide-5.jpg",
-    "images/2026-08-19/carousel/slide-6.jpg",
-    "images/2026-08-19/carousel/slide-7.jpg"
+    "images/2026-08-20/carousel/slide-1.jpg",
+    "images/2026-08-20/carousel/slide-2.jpg",
+    "images/2026-08-20/carousel/slide-3.jpg",
+    "images/2026-08-20/carousel/slide-4.jpg",
+    "images/2026-08-20/carousel/slide-5.jpg",
+    "images/2026-08-20/carousel/slide-6.jpg",
+    "images/2026-08-20/carousel/slide-7.jpg"
   ]
 };
