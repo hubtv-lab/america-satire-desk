@@ -1021,7 +1021,7 @@ def _slide_base():
     img = Image.new("RGB", (CAROUSEL_W, CAROUSEL_H), C_CREAM)
     d = ImageDraw.Draw(img)
     # ヘッダー(ブランド)とフッター
-    d.text((60, 48), "AMERICA SATIRE DESK", font=_font(34), fill=C_NAVY)
+    d.text((60, 48), "JOKES YOU CAN USE", font=_font(34), fill=C_NAVY)
     d.line([(60, 104), (CAROUSEL_W - 60, 104)], fill=C_LINE, width=3)
     return img, d
 
@@ -1047,10 +1047,33 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
         paths: list[str] = []
         total = len(candidates) + 2
 
+        # マスコット「Punchy」(images/ に置かれた画像があれば登場)
+        #   mascot.png     → 表紙 / mascot-cta.png → 最終スライド(無ければmascot.png)
+        #   reaction-1..5.png → 各ニューススライドに日替わりローテーションで登場
+        def _load_png(name):
+            p = ROOT / "images" / name
+            if p.exists():
+                try:
+                    return Image.open(p).convert("RGBA")
+                except Exception:
+                    return None
+            return None
+        mascot = _load_png("mascot.png")
+        mascot_cta = _load_png("mascot-cta.png") or mascot
+        reactions = [r for r in (_load_png(f"reaction-{i}.png") for i in range(1, 6)) if r]
+        # 同じ記事番号でも日によって表情が変わるよう、日付でオフセット
+        try:
+            reaction_offset = int(today[8:10]) % len(reactions) if reactions else 0
+        except Exception:
+            reaction_offset = 0
+
         # --- 表紙 ---
         img, d = _slide_base()
-        y = 340
-        d.text((60, y - 120), "TODAY IN AMERICA", font=_font(30), fill=C_CORAL)
+        # ベネフィットのストラップライン（毎日固定。ブランドの約束）
+        d.text((60, 118), "THE IRONY INSIDE AMERICAN NEWS — AS A JOKE YOU CAN USE",
+               font=_font(26), fill=C_CORAL)
+        y = 360
+        d.text((60, y - 120), "TODAY IN AMERICA", font=_font(30), fill=C_NAVY)
         title = (editorial or {}).get("titleEn") or f"Five stories, one raised eyebrow"
         y = _draw_wrapped(d, title, _font(72), 60, y, CAROUSEL_W - 120, C_TEXT, 16)
         sub = (editorial or {}).get("subtitleEn") or ""
@@ -1058,6 +1081,9 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
             y += 30
             y = _draw_wrapped(d, sub, _font(40, bold=False), 60, y, CAROUSEL_W - 120, C_NAVY, 12)
         d.text((60, CAROUSEL_H - 240), "5 stories → swipe", font=_font(44), fill=C_CORAL)
+        if mascot:
+            mm = mascot.resize((250, 250), Image.LANCZOS)
+            img.paste(mm, (CAROUSEL_W - 300, CAROUSEL_H - 370), mm)
         _slide_footer(d, f"1/{total}", today)
         p = out_dir / "slide-1.jpg"
         img.save(p, "JPEG", quality=88)
@@ -1084,6 +1110,11 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
                         font=_font(120), fill=C_LINE)
                 text_y = 140 + art_h + 44
             # 見出し(小・事実) → パンチライン(大)
+            # Punchyのリアクション(記事番号+日付で表情をローテーション)
+            if reactions:
+                rr = reactions[(i - 1 + reaction_offset) % len(reactions)]
+                rr = rr.resize((175, 175), Image.LANCZOS)
+                img.paste(rr, (CAROUSEL_W - 235, 128), rr)
             dd.text((60, text_y), f"STORY {i}", font=_font(28), fill=C_CORAL)
             text_y += 48
             text_y = _draw_wrapped(dd, c["news"]["headline"], _font(34, bold=False),
@@ -1111,6 +1142,12 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
             y += 90
         y = max(y, 760)
         y = _draw_wrapped(d, NEWSLETTER_CTA, _font(44), 60, y, CAROUSEL_W - 120, C_CORAL, 12)
+        y += 30
+        _draw_wrapped(d, "Come back tomorrow. Your meetings will thank you.",
+                      _font(30, bold=False), 60, y, CAROUSEL_W - 700, C_NAVY, 8)
+        if mascot_cta:
+            mm = mascot_cta.resize((300, 300), Image.LANCZOS)
+            img.paste(mm, (CAROUSEL_W - 350, CAROUSEL_H - 430), mm)
         _slide_footer(d, f"{total}/{total}", today)
         p = out_dir / f"slide-{total}.jpg"
         img.save(p, "JPEG", quality=88)
