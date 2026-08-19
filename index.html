@@ -353,7 +353,11 @@
 
 <header class="masthead">
   <div class="masthead-row">
-    <h1 class="brand">America <span class="desk">Satire</span> Desk</h1>
+    <div style="display:flex;align-items:center;gap:10px">
+      <img src="images/mascot.png" alt="Punchy" style="height:48px;transform:rotate(-8deg)"
+           onerror="this.style.display='none'">
+      <h1 class="brand">America <span class="desk">Satire</span> Desk</h1>
+    </div>
     <div class="edition">MORNING EDITION<br><b id="editionDate"></b></div>
   </div>
 </header>
@@ -778,6 +782,7 @@ function normalizeCandidates(raw){
       newsEn: String(c.newsEn || (news.headline ? news.headline + "." : "")),
       ironyEn,
       image: (typeof c.image === "string" && c.image.trim()) ? c.image.trim() : null,
+      imagePunchy: (typeof c.imagePunchy === "string" && c.imagePunchy.trim()) ? c.imagePunchy.trim() : null,
       imageSeed: Number.isFinite(c.imageSeed) ? c.imageSeed : idx + 1
     };
   });
@@ -959,9 +964,15 @@ function beatsOrder(mono){
   return mono.beats.map(b => byId[b.ref]).filter(Boolean);
 }
 
-function pText(s){ return `<p>${esc(s)}</p>`; }
+/* 改行(\n)を段落として尊重する。話し言葉の息継ぎをそのまま再現 */
+function pText(s){
+  return String(s).split(/\n+/).map(t => t.trim()).filter(Boolean)
+    .map(t => `<p>${esc(t)}</p>`).join("\n");
+}
+/* 記事用画像: Punchy合成版があればそれを優先 */
+function articleArt(c){ return c ? (c.imagePunchy || c.image) : null; }
 function imgTag(c, style){
-  const url = absImageUrl(c && c.image);
+  const url = absImageUrl(articleArt(c));
   if (!url) return "";
   return `<img src="${esc(url)}" alt="satirical illustration" style="max-width:100%">`;
 }
@@ -971,7 +982,7 @@ function buildSubstackHtml(){
   const ed = EDITORIAL, mono = ed.monologueEn;
   if (!mono) return null;
   const ordered = beatsOrder(mono);
-  const withImg = ordered.filter(c => absImageUrl(c.image));
+  const withImg = ordered.filter(c => absImageUrl(articleArt(c)));
   const parts = [];
   if (withImg[0]) parts.push(imgTag(withImg[0]));                 // 表紙 = 最初のくだりの絵
   parts.push(pText(mono.opener));
@@ -1015,7 +1026,7 @@ function buildNoteHtml(){
   const ed = EDITORIAL, mono = ed.monologueJa;
   if (!mono) return null;
   const ordered = beatsOrder(mono);
-  const withImg = ordered.filter(c => absImageUrl(c.image));
+  const withImg = ordered.filter(c => absImageUrl(articleArt(c)));
   const parts = [];
   const lead = ed.leadJa || (mono.opener || "").split("。")[0] + "。";
   parts.push(pText(lead));
@@ -1197,6 +1208,11 @@ function renderEditorial(){
         <div class="t"><b>④ TikTok / Instagram</b>（毎日・英語）: カルーセル${CAROUSEL.length ? CAROUSEL.length + "枚" : ""}を保存して投稿（TikTokはフォトモード）</div>
         ${CAROUSEL.length ? `<button class="btn primary" onclick="downloadCarousel(event)">📦 一括保存</button>` : `<span class="cnt">明朝から生成</span>`}
       </div>
+      ${CAROUSEL.length ? `
+      <div style="display:flex;gap:6px;overflow-x:auto;margin:8px 0 2px;padding-bottom:4px">
+        ${CAROUSEL.map(p => `<a href="${esc(p)}" target="_blank" rel="noopener"><img src="${esc(p)}" loading="lazy" style="height:112px;border:1px solid var(--line);border-radius:8px;display:block"></a>`).join("")}
+      </div>
+      <p class="lede" style="margin:2px 0 0">👆 タップで原寸表示。スマホで開けば、ここから長押し保存→そのままTikTok/Instagram投稿もできます。</p>` : ""}
       <p class="lede" style="margin:8px 0 0">💡 画像が貼り付け先に入らない場合は、TODAY'S DESKの「Download All 5 Images」で保存してドラッグしてください。</p>
     </div>
 
@@ -1211,7 +1227,7 @@ function renderEditorial(){
 
     ${EDITORIAL.thread ? `<div class="ed-thread"><b>今日の一本の糸:</b> ${esc(EDITORIAL.thread)}</div>` : ""}
 
-    ${EDITORIAL.reviewNotes ? `<div class="ed-thread" style="border-left-color:var(--coral)"><b>編集長メモ（二段階チェック済み）:</b> ${esc(EDITORIAL.reviewNotes)}</div>` : ""}
+    ${EDITORIAL.reviewNotes ? `<div class="ed-thread" style="border-left-color:var(--coral)"><img src="images/mascot-cta.png" alt="" style="height:52px;float:right;margin:0 0 4px 10px;transform:rotate(7deg)" onerror="this.style.display='none'"><b>編集長メモ（二段階チェック済み）:</b> ${esc(EDITORIAL.reviewNotes)}</div>` : ""}
 
     <div class="ed-card">
       <h3>📮 Substack draft（英語モノローグ）</h3>
