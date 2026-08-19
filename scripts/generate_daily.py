@@ -697,34 +697,36 @@ REVIEW_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集長で�
 
 【ルール（厳守）】
 - 良いものは変えない。「確実により笑える／より人間らしい」と言える場合だけ書き直す。
-- ただし全フィールドを必ず出力する（変更しない場合も元の文をそのまま入れる。フィールドを省略しない）。
 - 元データに無い事実を足さない。ニュースの内容（headline, summary, newsEn, commentary）は変更対象外。
 - xJaは135字以内を厳守。
 - 有効なJSONのみを出力する。前置き・後書き・コードフェンス禁止。
 
+【出力形式（差分方式・厳守）】
+変更した箇所「だけ」を出力する。合格（無変更）の要素は出力に含めない。全体の書き直しは禁止——悪い箇所をピンポイントで直すのがあなたの仕事。何も直す必要がなければ candidatePatches は []、editorialPatch は {} とする。
+
 JSONスキーマ:
 {
   "reviewNotes": "<日本語1〜3文。今日どこを直したかの編集メモ。直す箇所が無ければ『合格』と書く>",
-  "candidates": [
-    {"id": "d1",
-     "captions": ["<英語5本>"],
-     "captionsJa": ["<日本語5本。captionsと同順>"],
-     "imagePrompts": ["<英語3本>"]},
-    {"id": "d2", "...": "..."}, {"id": "d3", "...": "..."},
-    {"id": "d4", "...": "..."}, {"id": "d5", "...": "..."}
+  "candidatePatches": [
+    {"id": "<直す候補のid>",
+     "captions": ["<英語5本。captionsを直す場合のみ・リスト全本を出す>"],
+     "captionsJa": ["<日本語5本。captionsを出すときは必ずペアで同数>"],
+     "imagePrompts": ["<英語3本。直す場合のみ・リスト全本を出す>"]}
   ],
-  "editorial": {
-    "thread": "<日本語>", "titleEn": "<英語>", "subtitleEn": "<英語の副題1文>",
-    "titleJa": "<日本語>", "titleAltJa": ["<日本語>", "<日本語>"],
-    "leadJa": "<日本語。note冒頭の掴み2〜3文>",
-    "quipEn": "<英語。明日使える一言>", "quipJa": "<日本語。明日使える一言>",
-    "fortuneEn": "<英語。ニュース連動の前向き占い>", "fortuneJa": "<日本語。同>",
-    "monologueEn": {"opener": "...", "beats": [{"ref": "d1", "text": "..."}], "closer": "..."},
-    "monologueJa": {"opener": "...", "beats": [{"ref": "d1", "text": "..."}], "closer": "..."},
-    "notesEn": ["<英語8本>"], "xJa": ["<日本語8本>"]
+  "editorialPatch": {
+    "titleEn": "<変更する場合のみ>", "subtitleEn": "<同>", "titleJa": "<同>",
+    "titleAltJa": ["<変更する場合のみ・全案>"], "leadJa": "<同>", "thread": "<同>",
+    "quipEn": "<同>", "quipJa": "<同>", "fortuneEn": "<同>", "fortuneJa": "<同>",
+    "notesEn": ["<変更する場合のみ・8本すべて>"], "xJa": ["<同・8本すべて>"],
+    "monologueEn": {"opener": "<変更する場合のみ>",
+                    "beats": [{"ref": "d3", "text": "<直すbeatだけref付きで差し替え>"}],
+                    "closer": "<変更する場合のみ>"},
+    "monologueJa": {"...同様に変更箇所のみ...": ""}
   }
 }
-candidatesは5件すべて、monologueのbeatsは5本すべてを含めること。"""
+- candidatePatches: 直す候補だけを入れる。フィールドも直すものだけ（captionsだけ、imagePromptsだけ、でよい）。
+- monologueのbeatsは差分可: 直したいbeatのref+textだけを出す。opener/closerも変更時のみ。
+- リスト型フィールド(captions/imagePrompts/notesEn/xJa/titleAltJa)は部分差し替え不可なので、直すならリスト全本を出す。"""
 
 
 def build_review_prompt(candidates: list[dict], editorial: dict, today: str) -> str:
@@ -754,7 +756,9 @@ def build_review_prompt(candidates: list[dict], editorial: dict, today: str) -> 
 
 
 def _apply_candidate_patches(candidates: list[dict], patches) -> int:
-    """レビュー結果のcaptions/imagePromptsを検証して適用。戻り値は適用件数。"""
+    """差分パッチのcaptions/imagePromptsを検証して適用。戻り値は適用件数。
+    フィールドは部分的でよい（captionsだけ、imagePromptsだけ等）。
+    検証は先に全て行い、通った場合だけ反映する（中途半端な適用を防ぐ）。"""
     if not isinstance(patches, list):
         return 0
     by_id = {c["id"]: c for c in candidates}
@@ -764,24 +768,66 @@ def _apply_candidate_patches(candidates: list[dict], patches) -> int:
             continue
         c = by_id[p["id"]]
         try:
+            updates = {}
             captions = p.get("captions")
             captions_ja = p.get("captionsJa")
+            if captions is not None or captions_ja is not None:
+                if (isinstance(captions, list) and isinstance(captions_ja, list)
+                        and 3 <= len(captions) <= 5 and len(captions) == len(captions_ja)):
+                    updates["captions"] = [_req_str(x, "review caption", 8) for x in captions]
+                    updates["captionsJa"] = [_req_str(x, "review captionJa", 4) for x in captions_ja]
+                else:
+                    raise ValueError("captions/captionsJa must be a same-length pair (3-5)")
             prompts = p.get("imagePrompts")
-            if (isinstance(captions, list) and isinstance(captions_ja, list)
-                    and 3 <= len(captions) <= 5 and len(captions) == len(captions_ja)):
-                captions = [_req_str(x, "review caption", 8) for x in captions]
-                captions_ja = [_req_str(x, "review captionJa", 4) for x in captions_ja]
-            else:
-                raise ValueError("captions shape")
-            if isinstance(prompts, list) and len(prompts) >= 2:
-                prompts = [_req_str(x, "review imagePrompt", 20) for x in prompts[:3]]
-            else:
-                raise ValueError("prompts shape")
-        except ValueError:
+            if prompts is not None:
+                if isinstance(prompts, list) and len(prompts) >= 2:
+                    updates["imagePrompts"] = [_req_str(x, "review imagePrompt", 20)
+                                               for x in prompts[:3]]
+                else:
+                    raise ValueError("imagePrompts shape")
+            if not updates:
+                continue
+        except ValueError as e:
+            print(f"[warn] review: patch for {p.get('id')} rejected: {e}", file=sys.stderr)
             continue  # このカードのパッチは破棄（元の文を残す）
-        c["captions"], c["captionsJa"], c["imagePrompts"] = captions, captions_ja, prompts
+        c.update(updates)
         applied += 1
     return applied
+
+
+def _merge_editorial_patch(editorial: dict, patch: dict,
+                           candidates: list[dict]) -> dict:
+    """差分パッチを editorial にマージし、全体を再検証して返す。
+    検証に失敗した場合は例外を投げる（呼び出し側で元のeditorialを維持）。"""
+    import copy
+    merged = copy.deepcopy(editorial)
+    for k in ("fullEn", "fullJa", "reviewNotes"):
+        merged.pop(k, None)
+    # 単純置換フィールド（文字列・リストは丸ごと差し替え）
+    simple_keys = ("thread", "titleEn", "subtitleEn", "titleJa", "titleAltJa",
+                   "leadJa", "quipEn", "quipJa", "fortuneEn", "fortuneJa",
+                   "notesEn", "xJa")
+    for k in simple_keys:
+        if k in patch and patch[k] is not None:
+            merged[k] = patch[k]
+    # モノローグはbeat単位の差分に対応
+    for mkey in ("monologueEn", "monologueJa"):
+        mp = patch.get(mkey)
+        if not isinstance(mp, dict):
+            continue
+        tgt = merged.get(mkey) or {}
+        if isinstance(mp.get("opener"), str) and mp["opener"].strip():
+            tgt["opener"] = mp["opener"]
+        if isinstance(mp.get("closer"), str) and mp["closer"].strip():
+            tgt["closer"] = mp["closer"]
+        if isinstance(mp.get("beats"), list):
+            by_ref = {b.get("ref"): b for b in tgt.get("beats", [])}
+            for pb in mp["beats"]:
+                if (isinstance(pb, dict) and pb.get("ref") in by_ref
+                        and isinstance(pb.get("text"), str) and pb["text"].strip()):
+                    by_ref[pb["ref"]]["text"] = pb["text"]
+    # マージ結果を通常の検証にかける（壊れたパッチはここで弾かれる）
+    return validate_editorial(merged, candidates)
 
 
 def review_and_polish(client: Anthropic, candidates: list[dict],
@@ -809,18 +855,25 @@ def review_and_polish(client: Anthropic, candidates: list[dict],
             print(f"[info] review tokens: in={usage.input_tokens} out={usage.output_tokens}")
         data = extract_json(text)
 
-        applied = _apply_candidate_patches(candidates, data.get("candidates"))
-        print(f"[info] review: caption/image patches applied to {applied}/5 candidates")
+        applied = _apply_candidate_patches(candidates, data.get("candidatePatches"))
+        print(f"[info] review: candidate patches applied to {applied} candidates")
 
         new_editorial = editorial
-        if isinstance(data.get("editorial"), dict):
+        ep = data.get("editorialPatch")
+        if isinstance(ep, dict) and ep:
             try:
-                new_editorial = validate_editorial(data["editorial"], candidates)
+                new_editorial = _merge_editorial_patch(editorial, ep, candidates)
                 assemble_full_text(new_editorial, candidates)
+                print(f"[info] review: editorial patch merged "
+                      f"({', '.join(sorted(ep.keys()))})")
             except Exception as e:
-                print(f"[warn] review editorial rejected (keeping first draft): {e}",
+                print(f"[warn] review editorial patch rejected (keeping first draft): {e}",
                       file=sys.stderr)
                 new_editorial = editorial
+        elif applied:
+            # captionsが変わった場合もfullEn/fullJaのドケット部分は影響を受けないため
+            # 再組み立ては不要（プルクオートはフロント側で最新captionsを参照する）
+            pass
         notes = data.get("reviewNotes")
         if isinstance(notes, str) and notes.strip():
             new_editorial["reviewNotes"] = notes.strip()
