@@ -1061,6 +1061,12 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
         mascot = _load_png("mascot.png")
         mascot_cta = _load_png("mascot-cta.png") or mascot
         reactions = [r for r in (_load_png(f"reaction-{i}.png") for i in range(1, 6)) if r]
+
+        def _paste_sprite(target, sprite, size, angle, x, y):
+            """Punchyをステッカー風に配置(拡大+回転+端からのはみ出しOK)。"""
+            s = sprite.resize((size, size), Image.LANCZOS)
+            s = s.rotate(angle, expand=True, resample=Image.BICUBIC)
+            target.paste(s, (x, y), s)
         # 同じ記事番号でも日によって表情が変わるよう、日付でオフセット
         try:
             reaction_offset = int(today[8:10]) % len(reactions) if reactions else 0
@@ -1081,10 +1087,10 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
             y += 30
             y = _draw_wrapped(d, sub, _font(40, bold=False), 60, y, CAROUSEL_W - 120, C_NAVY, 12)
         d.text((60, CAROUSEL_H - 240), "5 stories → swipe", font=_font(44), fill=C_CORAL)
-        if mascot:
-            mm = mascot.resize((250, 250), Image.LANCZOS)
-            img.paste(mm, (CAROUSEL_W - 300, CAROUSEL_H - 370), mm)
         _slide_footer(d, f"1/{total}", today)
+        if mascot:
+            # 表紙: 大きく傾けて右下の端からはみ出させる(フッターの上まで)
+            _paste_sprite(img, mascot, 430, -12, CAROUSEL_W - 390, CAROUSEL_H - 610)
         p = out_dir / "slide-1.jpg"
         img.save(p, "JPEG", quality=88)
         paths.append(f"images/{today}/carousel/slide-1.jpg")
@@ -1110,11 +1116,11 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
                         font=_font(120), fill=C_LINE)
                 text_y = 140 + art_h + 44
             # 見出し(小・事実) → パンチライン(大)
-            # Punchyのリアクション(記事番号+日付で表情をローテーション)
+            # Punchyのリアクション(記事番号+日付で表情ローテーション、左右交互に傾く)
             if reactions:
                 rr = reactions[(i - 1 + reaction_offset) % len(reactions)]
-                rr = rr.resize((175, 175), Image.LANCZOS)
-                img.paste(rr, (CAROUSEL_W - 235, 128), rr)
+                angle = (-11, 9, -9, 12, -10)[(i - 1) % 5]
+                _paste_sprite(img, rr, 270, angle, CAROUSEL_W - 260, 96)
             dd.text((60, text_y), f"STORY {i}", font=_font(28), fill=C_CORAL)
             text_y += 48
             text_y = _draw_wrapped(dd, c["news"]["headline"], _font(34, bold=False),
@@ -1145,10 +1151,10 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
         y += 30
         _draw_wrapped(d, "Come back tomorrow. Your meetings will thank you.",
                       _font(30, bold=False), 60, y, CAROUSEL_W - 700, C_NAVY, 8)
-        if mascot_cta:
-            mm = mascot_cta.resize((300, 300), Image.LANCZOS)
-            img.paste(mm, (CAROUSEL_W - 350, CAROUSEL_H - 430), mm)
         _slide_footer(d, f"{total}/{total}", today)
+        if mascot_cta:
+            # CTA: コーヒー版を大きく傾けて右下に(カップが見えるよう内側に寄せる)
+            _paste_sprite(img, mascot_cta, 400, 8, CAROUSEL_W - 440, CAROUSEL_H - 580)
         p = out_dir / f"slide-{total}.jpg"
         img.save(p, "JPEG", quality=88)
         paths.append(f"images/{today}/carousel/slide-{total}.jpg")
