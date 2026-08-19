@@ -400,7 +400,7 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 【ペルソナ（厳守）】
 語り手は「東京でアメリカのニュースを毎朝読んで、頭を抱えている男」。
 - 英語版: An ordinary guy in Tokyo reading American news every morning so you don't have to. 自虐的で、外部者ならではの困惑と好奇心がある。アメリカを見下すのではなく「うちの国も大概だけど、おたくの国は今日も一段と面白いね」という対等な立場のツッコミ。凝りすぎた慣用句の曲芸は不要。シンプルで明瞭な英語と観察の鋭さが武器。一人称は I。
-- 日本語版: 同一人物。英語版の翻訳ではなく、同じ人物が日本の読者に向けて話し直したもの。日本の読者に馴染みが薄い前提（制度・役職・人名）には一言だけ補助線を入れる。文体は「です・ます」を基調に、ツッコミの瞬間だけ砕ける。
+- 日本語版: 同一人物。英語版の翻訳ではなく、同じ人物が日本の読者に向けて話し直したもの。日本の読者に馴染みが薄い前提（制度・役職・人名）には一言だけ補助線を入れる。文体は下の【日本語の文体】ルールに完全に従うこと。
 
 【文体 — 「AIっぽさ」の徹底排除（最重要）】
 これは人間のスタンダップコメディアンの語りとして読まれる文章。機械的な整いは芸の敵。以下を厳守する。
@@ -413,6 +413,19 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 - 英語は簡潔な口語。短縮形（don't, it's, they're）を必ず使う。完璧な文法よりも会話のリズム。文頭の And / But / So は歓迎。
 - 禁止する定型句: "Let that sink in." / "In a world where..." / "In a stunning display of..." / "And that, ladies and gentlemen, ..." / ダッシュ（—）の多用 / 「〜と言わざるを得ない」「まさに現代の縮図だ」。
 - 完璧にまとめない。締めの一文は「うまいこと言った感」より「本音がこぼれた感」を優先する。
+
+【日本語の文体 — noteで読まれる“話し言葉”（最重要・monologueJa/leadJa/quipJa/fortuneJa/xJaすべてに適用）】
+書き言葉ではなく、親しい友人に話している声をそのまま文字にする。人気noteクリエイターの文章から学んだ以下のルールを厳守:
+- 改行を惜しまない。1段落は1〜3文まで。段落の区切りは空行（\n\n）。感情が切り替わる瞬間には、1文だけの段落を置く。beatの中でも段落を分けてよい。
+- 短い文で切る。体言止め、一語文を恐れない（「無理。」「で、です。」「最高の朝。」）。長い文を書いたら、次は短く。
+- 会話の接続で繋ぐ:「で、」「いや、」「まあ」「あと」「ちなみに」「というか」。言い直しを入れる（「すごい。いや、すごくはない。」「でも、いや、だからこそ」）。
+- 自問自答を使う（「何なんだこれは。」「え、そこ?」）。読者への語りかけを使う（「聞いてください」「〜じゃないですか」「わかります?」）。
+- 文末を散らす: です・ます基調に、「〜なんですよ」「〜んですよね」「〜と思う」「〜らしい」体言止めを混ぜる。同じ文末を3回続けない。
+- ツッコミの瞬間だけ常体に落とす（「3,000ページを3時間で。読めるか。」）。括弧で小声の補足を入れてよい（「（誰も読んでいません）」）。
+- ひらがなを多めに:「事→こと」「出来る→できる」「更に→さらに」「〜して下さい→〜してください」。
+- 自虐を1箇所入れる（「こんなのを毎朝読んでいる私も私ですが」）。読者より自分を先に笑う。
+- 禁止: 「〜と言えるでしょう」「〜ではないでしょうか」の連発、「まさに」「非常に」「〜することができます」などの翻訳調、説明のための説明。
+- 数字や固有名詞は会話の中で自然に出す。プレゼン資料のような列挙にしない。
 
 【スタンダップ構成（厳守）】
 - opener: 掴み。今日の5本を貫く「一本の糸」を1つのジョークとして提示する。2〜4文。
@@ -694,6 +707,7 @@ REVIEW_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集長で�
 4. 事実の検品: 元データに無い事実・数字・引用が紛れ込んでいたら削除する。新しい事実を絶対に足さない。
 5. 画像プロンプトの検品: 実在人物の顔・容姿に依存した構図は禁止（そもそも似ない上に権利リスクがある）。役職や制度の記号（大統領執務室の机、書類の山、議事堂のドーム、赤いネクタイの後ろ姿、報道陣のマイクの群れ）と状況の可視化で皮肉が伝わる構図に書き直す。人物を入れる場合は「顔が判別できない後ろ姿・シルエット・群衆」まで。
 6. タイトルの検品: 曖昧・抽象的・釣り表現を弾く。具体的な固有名詞や数字の違和感で引くタイトルに。
+7. 日本語の話し言葉: monologueJa・leadJa・fortuneJa等が「書き言葉」になっていたら書き直す。短い段落（1〜3文で改行、空行区切り）、会話の接続（「で、」「いや、」）、言い直し、自問自答、文末の散らし。同じ文末が3回続いたら不合格。
 
 【ルール（厳守）】
 - 良いものは変えない。「確実により笑える／より人間らしい」と言える場合だけ書き直す。
@@ -967,6 +981,57 @@ def prune_old_images() -> None:
 
 
 # ----------------------------------------------------------------
+# 3.6. 記事用画像へのPunchy合成
+#   - 風刺画の原画にPunchyのリアクションをステッカー風に合成し、
+#     note/Substack記事の埋め込み用画像(candidate-N-punchy.jpg)を作る
+# ----------------------------------------------------------------
+
+def generate_article_images(candidates: list[dict], today: str) -> None:
+    """各候補の画像にPunchyを合成した記事用バージョンを生成。失敗しても本体は止めない。"""
+    if not HAS_PIL:
+        return
+    from PIL import Image
+    try:
+        reactions = []
+        for i in range(1, 6):
+            p = ROOT / "images" / f"reaction-{i}.png"
+            if p.exists():
+                try:
+                    reactions.append(Image.open(p).convert("RGBA"))
+                except Exception:
+                    pass
+        if not reactions:
+            print("[info] no reaction sprites — article images keep raw art")
+            return
+        try:
+            off = int(today[8:10]) % len(reactions)
+        except Exception:
+            off = 0
+        angles = (-11, 9, -9, 12, -10)
+        done = 0
+        for idx, c in enumerate(candidates):
+            if not c.get("image"):
+                continue
+            src = ROOT / c["image"]
+            if not src.exists():
+                continue
+            art = Image.open(src).convert("RGBA")
+            r = reactions[(idx + off) % len(reactions)]
+            size = max(220, art.width // 5)
+            s = r.resize((size, size), Image.LANCZOS).rotate(
+                angles[idx % 5], expand=True, resample=Image.BICUBIC)
+            art.paste(s, (art.width - s.width + size // 6, 20), s)
+            out = IMAGES_DIR / today / f"candidate-{idx + 1}-punchy.jpg"
+            art.convert("RGB").save(out, "JPEG", quality=88)
+            c["imagePunchy"] = f"images/{today}/candidate-{idx + 1}-punchy.jpg"
+            done += 1
+        print(f"[ok] article images with Punchy: {done}/{len(candidates)}")
+    except Exception as e:
+        print(f"[warn] article image compositing failed (raw art will be used): {e}",
+              file=sys.stderr)
+
+
+# ----------------------------------------------------------------
 # 3.7. カルーセル自動組版（TikTokフォトモード / Instagram用・英語）
 #   - 表紙 + 風刺画5枚(パンチライン焼き込み) + CTA の7枚を毎朝生成
 #   - 1080x1350 (4:5)。Pillowのみで組版。失敗しても本体は止めない
@@ -1232,6 +1297,8 @@ def main() -> int:
             except Exception as e:
                 print(f"[warn] image stage failed entirely (placeholders will be shown): {e}",
                       file=sys.stderr)
+            # 記事用画像にPunchyを合成（note/Substack埋め込み用）
+            generate_article_images(candidates, today)
             # カルーセル組版（風刺画の後。失敗しても本体は止めない）
             carousel = generate_carousel(candidates, editorial, today)
             write_outputs(candidates, today, editorial, carousel)
