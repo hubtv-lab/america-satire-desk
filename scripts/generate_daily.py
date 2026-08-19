@@ -138,6 +138,12 @@ EDITORIAL_MAX_TOKENS = 8000
 REVIEW_ENABLED = os.environ.get("REVIEW_ENABLED", "1") != "0"
 REVIEW_MODEL = os.environ.get("REVIEW_MODEL", MODEL)
 REVIEW_MAX_TOKENS = 8000
+
+# --- 日本語文体パス（AI感ハンター）の設定 ---
+# 完成した日本語だけを対象に「AIっぽい文」を検出し、その文だけを
+# ラフな話し言葉に書き直す第三のパス。POLISH_JA_ENABLED=0 でスキップ可。
+POLISH_JA_ENABLED = os.environ.get("POLISH_JA_ENABLED", "1") != "0"
+POLISH_JA_MAX_TOKENS = 4000
 NUM_NOTES = 8             # Substack Notes 候補（英語）の本数
 NUM_X_POSTS = 8           # X（旧Twitter）候補（日本語）の本数
 X_MAX_CHARS = 135         # X候補の最大文字数（140字制限に余白を持たせる）
@@ -981,6 +987,99 @@ def prune_old_images() -> None:
 
 
 # ----------------------------------------------------------------
+# 3.4. 日本語文体パス（AI感ハンター）
+#   - 完成した日本語稿だけを読み、「AIが書いたと感じさせる文」を特定して
+#     その文だけをラフな話し言葉に差し替える専門パス
+#   - 差分パッチ方式（_merge_editorial_patch を再利用）。失敗しても本体は止めない
+# ----------------------------------------------------------------
+
+POLISH_JA_SYSTEM_PROMPT = """あなたは「AI感ハンター」。日本語の完成原稿を一文ずつ声に出して読み、「AIが書いた」と感じさせる文だけを見つけ出し、その文だけをラフな話し言葉に書き直す専門職です。全体を書き直してはいけない。すでに人間らしい文は1文字も触らない。
+
+【AI感の兆候（これを探す）】
+1. 翻訳調:「〜することができます」「〜と言えるでしょう」「〜に他なりません」「〜が求められています」
+2. 説明口調・プレゼン口調: 綺麗に要約した文、「つまり」「そして」「しかし」で几帳面に接続された文
+3. 整いすぎ: 対句、三段並列、同じ長さの文の連続、同じ文末の連続（です。です。です。）
+4. 漢語密度が高い: 名詞が連続する硬い文（「保育費補助制度の待機児童問題の深刻化」）
+5. 主語と理屈が几帳面すぎる: 話し言葉なら省略するはずの主語・接続が全部書いてある
+6. 「うまくまとめた感」のある締め: 気の利いた総括で綺麗に着地しようとする文
+7. 過剰な丁寧さ: 距離を感じる敬語、営業スマイルのような文
+
+【直し方（見つけた文だけに適用）】
+- 声に出して、友達に話すならどう言うかに置き換える
+- 途中で切る。「制度は存在するが需要に追いついていない」→「制度はある。満員なだけ。」
+- 理屈をツッコミに変える。「この矛盾について考える必要があります」→「何なんですかね、これ。」
+- 漢語をひらく。「深刻化している」→「どんどんひどくなってる」
+- 完璧な締めを、本音がこぼれた形に崩す
+- 段落は1〜3文+空行（\\n\\n）のリズムを守る
+
+【出力形式（差分方式・厳守）】
+直した箇所だけをJSONで出力。全て合格なら patch は {} とする。有効なJSONのみ、前置き禁止。
+{
+  "notes": "<日本語1〜2文。何箇所直したか、代表的な修正例を1つ>",
+  "patch": {
+    "titleJa": "<直す場合のみ>", "titleAltJa": ["<直す場合のみ・全案>"],
+    "leadJa": "<直す場合のみ>", "quipJa": "<同>", "fortuneJa": "<同>",
+    "xJa": ["<直す場合のみ・8本すべて>"],
+    "monologueJa": {"opener": "<直す場合のみ>",
+                    "beats": [{"ref": "d3", "text": "<直すbeatだけ全文>"}],
+                    "closer": "<直す場合のみ>"}
+  }
+}
+※beatを直す場合は、そのbeatの全文を出す（直した文の前後も含めて）。事実・ジョークの内容は変えない。文体だけを直す。"""
+
+
+def polish_japanese(client: Anthropic, candidates: list[dict],
+                    editorial: dict | None) -> dict | None:
+    """第三パス: 日本語のAI感を除去。失敗したらそのまま返す。"""
+    if not POLISH_JA_ENABLED or editorial is None:
+        return editorial
+    try:
+        material = {k: editorial.get(k) for k in
+                    ("titleJa", "titleAltJa", "leadJa", "quipJa",
+                     "fortuneJa", "xJa", "monologueJa")}
+        print(f"[info] Japanese style pass (AI-scent hunter, model={REVIEW_MODEL})")
+        message = client.messages.create(
+            model=REVIEW_MODEL,
+            max_tokens=POLISH_JA_MAX_TOKENS,
+            system=POLISH_JA_SYSTEM_PROMPT,
+            messages=[{"role": "user",
+                       "content": "本日の日本語完成稿です。AI感の残る文を特定し、"
+                                  "指定スキーマのJSONだけを出力してください。\n\n"
+                                  + json.dumps(material, ensure_ascii=False, indent=1)}],
+        )
+        text = "".join(b.text for b in message.content if b.type == "text")
+        usage = getattr(message, "usage", None)
+        if usage:
+            print(f"[info] polish tokens: in={usage.input_tokens} out={usage.output_tokens}")
+        data = extract_json(text)
+        allowed = {"titleJa", "titleAltJa", "leadJa", "quipJa",
+                   "fortuneJa", "xJa", "monologueJa"}
+        patch = {k: v for k, v in (data.get("patch") or {}).items() if k in allowed}
+        new_editorial = editorial
+        if patch:
+            try:
+                saved_notes = editorial.get("reviewNotes", "")
+                new_editorial = _merge_editorial_patch(editorial, patch, candidates)
+                assemble_full_text(new_editorial, candidates)
+                if saved_notes:
+                    new_editorial["reviewNotes"] = saved_notes
+                print(f"[info] polish: patched {', '.join(sorted(patch.keys()))}")
+            except Exception as e:
+                print(f"[warn] polish patch rejected (keeping previous): {e}", file=sys.stderr)
+                new_editorial = editorial
+        notes = data.get("notes")
+        if isinstance(notes, str) and notes.strip():
+            prev = new_editorial.get("reviewNotes", "")
+            new_editorial["reviewNotes"] = (prev + " ／ 文体パス: " + notes.strip()) if prev \
+                else "文体パス: " + notes.strip()
+        print("[ok] Japanese style pass done")
+        return new_editorial
+    except Exception as e:
+        print(f"[warn] Japanese style pass failed (keeping previous): {e}", file=sys.stderr)
+        return editorial
+
+
+# ----------------------------------------------------------------
 # 3.6. 記事用画像へのPunchy合成
 #   - 風刺画の原画にPunchyのリアクションをステッカー風に合成し、
 #     note/Substack記事の埋め込み用画像(candidate-N-punchy.jpg)を作る
@@ -1291,6 +1390,8 @@ def main() -> int:
             editorial = generate_editorial(client, candidates, today)
             # 二段階目: 編集長パス（画像生成の前に。改善済みプロンプトを使うため）
             candidates, editorial = review_and_polish(client, candidates, editorial, today)
+            # 三段階目: 日本語文体パス（AI感ハンター）
+            editorial = polish_japanese(client, candidates, editorial)
             # 画像生成は「おまけ」扱い: 全滅しても daily.json は出す
             try:
                 generate_images(candidates, today)
