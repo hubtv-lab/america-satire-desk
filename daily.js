@@ -1,53 +1,53 @@
 window.DAILY_DATA = {
   "version": 1,
   "date": "2026-08-19",
-  "generatedAt": "2026-08-19T09:39:25+00:00",
+  "generatedAt": "2026-08-19T10:33:39+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "15 States Still Allow Schools to Hit Kids — Psychologists Have Thoughts",
-        "source": "NPR News",
+        "headline": "Meta's Federal Trial Begins Over Deliberately Addicting Kids to Social Media",
+        "source": "CBS News US",
         "date": "2026-08-19",
-        "url": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
-        "summary": "アメリカの15州では学校での体罰が法律で認められており、連邦レベルでの禁止法は存在しない。心理学者の間では体罰が子どもに有害であるという広いコンセンサスがある。"
+        "url": "https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/",
+        "summary": "メタ社が子どもをSNS依存にさせる機能を意図的に設計したとして、連邦裁判が開廷した。カリフォルニア州司法長官は「損害賠償より原状回復と歪曲の是正が目的」と述べた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 科学的に「害がある」と専門家が合意しているにもかかわらず、それを合法とする州が15もあり、連邦政府は黙認している。",
-        "<b>滑稽さ:</b> 学校はいじめ防止プログラムに予算をかけながら、同じ建物の中で大人が子どもを叩くことは制度として許容されている。",
-        "<b>日本・海外から見ると:</b> 日本では2019年に学校・家庭双方での体罰を禁止する法改正が行われており、先進国の中でアメリカが「まだその議論をしている」こと自体が驚きを持って受け止められる。"
+        "<b>矛盾:</b> 「子どもを依存させるよう意図的に設計した」と訴えられている企業が、長年「コミュニティのつながりを大切にしています」と広告を打ち続けてきた。",
+        "<b>滑稽さ:</b> 法廷で争われているのは「アルゴリズムが子どもを釘付けにした」という話なのに、その子どもたちは今もリアルタイムでメタのアプリを開いている可能性がある。",
+        "<b>日本・海外から見ると:</b> 日本でも青少年のスマホ依存は社会問題だが、プラットフォーム企業が「意図的設計」を理由に連邦法廷で裁かれるのはアメリカならではのスケール感だ。"
       ],
       "imagePrompts": [
-        "A school hallway with an anti-bullying poster on one wall and a wooden paddle mounted in a glass case labeled 'Official Disciplinary Tool' on the opposite wall, fluorescent lighting overhead",
-        "A venn diagram on a classroom chalkboard: one circle labeled 'Things students get suspended for,' the other labeled 'Things staff are legally allowed to do,' with 'hitting' written in the overlapping center",
-        "A stack of peer-reviewed psychology journals labeled 'Harmful to Children' sitting on a desk next to a framed state law document labeled 'Totally Fine Though,' inside a school principal's office"
+        "A courtroom scene where the witness stand is replaced by a glowing smartphone. A judge peers down at it over reading glasses. The public gallery is filled with teenagers, all looking at their own phones.",
+        "A large corporate headquarters building with a giant sign reading 'Connecting the World' — the front door has a small label that says 'ages 13+, results may vary.' A line of lawyers in suits stretches around the block.",
+        "A scale of justice: one side holds a stack of smartphones with notification badges piling up. The other side holds a single crumpled school permission slip. The scale is perfectly level."
       ],
       "captions": [
-        "Fifteen states looked at decades of psychology research and said, 'We'll get back to you on that.'",
-        "Your kid gets sent home for shoving someone on the playground. Then the vice principal picks up a paddle. America, folks.",
-        "The anti-bullying poster is literally in the same hallway.",
-        "We have federal guidelines for school lunch nutrition. Hitting children? That's a local matter.",
-        "Psychologists: unanimous. Fifteen state legislatures: 'Interesting perspective.'"
+        "Meta is on trial for hooking kids on social media. Their legal strategy? Arguing it's the kids' fault for not logging off.",
+        "The attorney general says this case isn't about money — it's about 'distortion.' So Meta distorted an entire generation's brain chemistry and we're calling it even?",
+        "Somewhere right now a 14-year-old is watching a TikTok about the Meta trial on their Instagram feed.",
+        "Deliberately designed to be addictive, says the lawsuit. Unprecedented innovation, says the earnings call. Both things are describing the same app.",
+        "They built a machine that made children miserable and called it a platform. Court's in session."
       ],
       "captionsJa": [
-        "15の州は数十年分の心理学研究を見て、「追って検討します」と答えた。",
-        "子どもが校庭で押したら即自宅謹慎。その後、副校長が木の棒を手に取る。これがアメリカです、皆さん。",
-        "いじめ防止ポスターが、文字通り同じ廊下に貼ってある。",
-        "給食の栄養基準は連邦ガイドラインで管理されている。子どもを叩くこと？それは地方の判断に任せます。",
-        "心理学者たち：全員一致。15の州議会：「興味深い視点ですね」。"
+        "メタは子どもをSNS依存にさせたとして裁判中。弁護戦略は「ログアウトしなかった子どもが悪い」らしい。",
+        "司法長官は「これはお金の問題じゃない、歪曲の問題だ」と言った。一世代分の脳を歪めておいてチャラにするつもり？",
+        "今この瞬間、どこかの14歳がInstagramのフィードでメタ裁判のTikTokを見ている。",
+        "意図的に依存させる設計、と訴状には書いてある。前例のないイノベーション、と決算説明会では言っていた。同じアプリの話だ。",
+        "子どもを不幸にする機械を作って「プラットフォーム」と呼んだ。法廷が開かれた。"
       ],
-      "newsEn": "Fifteen U.S. states have laws permitting corporal punishment in public schools. There is broad consensus among psychologists that such punishment is harmful to children's development. Despite this, no federal law bans the practice in public schools, leaving the decision to individual states.",
+      "newsEn": "A federal trial against Meta began this week, with the lawsuit alleging the company deliberately designed features on Instagram and Facebook to addict children to its platforms, contributing to the youth mental health crisis. California Attorney General Rob Bonta stated in opening arguments that the case is focused on 'restitution and distortion' rather than extracting a massive financial payout. The trial represents one of the most significant legal challenges yet to Big Tech's role in shaping adolescent behavior.",
       "ironyEn": [
         {
-          "contradiction": "Psychologists reached a consensus that hitting kids causes harm. Fifteen states responded by making it the official school policy.",
-          "absurdity": "The same institution that runs anti-bullying assemblies hands a paddle to a staff member and calls it discipline.",
-          "outside": "Japan banned corporal punishment in schools years ago. The U.S. is still having a debate about whether the science counts."
+          "contradiction": "Meta has spent years telling regulators it's a platform for 'meaningful connection' — and now a federal court is examining whether those connections were engineered to be inescapable for 13-year-olds.",
+          "absurdity": "The trial is about algorithms designed to keep kids scrolling. Those kids are probably scrolling Instagram right now waiting for updates about the trial.",
+          "outside": "In Japan, parents already confiscate phones at bedtime. America needed a federal lawsuit to ask whether maybe, just maybe, infinite scroll wasn't an accident."
         },
         {
-          "contradiction": "America debates the ethics of hitting children in schools while simultaneously telling other countries how to treat their citizens.",
-          "absurdity": "A child can be suspended for fighting another student, then sent to the principal's office to get hit by an adult.",
-          "outside": "In much of Europe, corporal punishment in schools ended decades ago. In fifteen American states, it's still a curriculum option."
+          "contradiction": "The state says this isn't about damages — it's about 'distortion.' Which is a polite legal way of saying someone lied, just not in a way we can put a dollar amount on yet.",
+          "absurdity": "Meta's defense will presumably argue the kids chose to keep scrolling. The kids were twelve.",
+          "outside": "European regulators have been fining Meta for years. The U.S. is only now getting to 'opening arguments.' The algorithm had a head start."
         }
       ],
       "imageSeed": 1,
@@ -58,47 +58,47 @@ window.DAILY_DATA = {
     {
       "id": "d2",
       "news": {
-        "headline": "Goldman Sachs Finds AI Is Squeezing Jobs — Report Produced Partly by AI Tools",
-        "source": "CNBC Top News",
+        "headline": "400,000 Kids Stuck on Waitlists for Federal Childcare Aid the Government Says It Provides",
+        "source": "NPR News",
         "date": "2026-08-19",
-        "url": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
-        "summary": "ゴールドマン・サックスの調査により、AIが先進国の雇用市場に圧力をかけ始めていることが明らかになった。"
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
+        "summary": "連邦政府の低所得家庭向け保育支援プログラムは月160万人以上の子どもを支援しているとされるが、40万人以上の子どもが順番待ちリストに載ったまま支援を受けられていない。"
       },
       "commentary": [
-        "<b>矛盾:</b> 金融機関がAIによる雇用喪失を警告するレポートを出す一方、その金融機関自身がAIを最も積極的に導入している業種のひとつである。",
-        "<b>滑稽さ:</b> 「AIが仕事を奪っている」と分析するアナリストたちの仕事も、じわじわとAIに侵食されつつある。",
-        "<b>日本・海外から見ると:</b> 日本でも同様の懸念はあるが、「誰が調査して誰に警告しているのか」という構図が、すでにSF映画の一場面のように見える。"
+        "<b>矛盾:</b> 「低所得家庭を支援するための」連邦プログラムが、最も助けを必要とする家庭40万人以上を順番待ちにさせている。",
+        "<b>滑稽さ:</b> 支援を待っている子どもたちは保育を受けられないため、親は働きに出ることもできず、結果として経済的苦境がさらに深まるという見事な悪循環が完成している。",
+        "<b>日本・海外から見ると:</b> 日本でも待機児童問題は長年の課題だが、「世界最大の経済大国」を名乗るアメリカで40万人が順番を待っているという数字はなかなかの迫力だ。"
       ],
       "imagePrompts": [
-        "A sleek robot at a desk writing a research report titled 'The Impact of Robots on Human Employment,' surrounded by empty office chairs, inside a corporate high-rise with city views",
-        "A Goldman Sachs-style boardroom presentation slide that reads 'AI Is Taking Your Job' projected on a screen, while the audience seats are filled entirely with laptop computers displaying AI interfaces",
-        "A worried office worker reading a Goldman Sachs report on AI job displacement, while a small robot on the desk next to him is quietly editing the same report"
+        "An enormous government building with a banner reading 'Childcare For All' stretched across its facade. In front of the entrance, a line of parents holding small children stretches around the block and out of sight, with a sign at the door reading 'Currently Serving: Number 1,600,001.'",
+        "A literal safety net suspended between two pillars — but it has a large, neat hole cut out of the center. Small figures are falling through the hole while others sit safely in the net around the edges.",
+        "A giant hamster wheel. On one side, a parent tries to enter a 'Jobs' door but is blocked by a locked 'No Childcare' sign. On the other side, a 'Childcare' office has a sign: 'Requires Proof of Employment.'"
       ],
       "captions": [
-        "Goldman Sachs: AI is eliminating jobs. Also Goldman Sachs: have you tried our new AI platform?",
-        "The people who wrote the 'AI is taking jobs' report — what do you think is helping them write it?",
-        "Goldman Sachs published a warning about AI from inside a building full of AI. Noted.",
-        "Somewhere, a Goldman analyst is reading this report and wondering if next quarter they'll still have a desk.",
-        "The study found AI is squeezing labor markets. The study did not find this ironic."
+        "The program helps 1.6 million kids a month. The other 400,000 are on a list. A list that does not come with childcare.",
+        "Can't get childcare, so you can't work. Can't work, so you stay low-income. Stay low-income, so you qualify for the program. Program's full. Congratulations, you're on the waitlist.",
+        "Strongest economy on earth, folks. Four hundred thousand kids in line to see if the safety net includes them.",
+        "They named it the Child Care and Development Fund. Development is doing great. The child care part has a 400,000-person queue.",
+        "My favorite genre of government program: technically exists, practically unavailable, statistically a success."
       ],
       "captionsJa": [
-        "ゴールドマン・サックス曰く「AIが雇用を奪っている」。同社のAI投資戦略については別途お問い合わせください。",
-        "「AIが仕事を奪う」というレポートを書いたのは誰か、という問いから目を逸らしてはいけない。",
-        "「AIが怖い」というレポートを、AIを最も積極的に使っている会社が出した。メモしておきます。",
-        "このレポートを読んでいるゴールドマンのアナリストは、来四半期も自分の席があるか、今ちょっと考えているかもしれない。",
-        "調査の結果、AIが労働市場を圧迫していることがわかった。皮肉については調査していない。"
+        "このプログラムは月160万人の子どもを支援している。残りの40万人はリストに載っている。保育はついていない。",
+        "保育がないから働けない。働けないから低所得のまま。低所得だから支援対象になる。でも定員オーバー。順番待ちにようこそ。",
+        "世界最強の経済大国です。セーフティネットに自分が含まれるか確認するために40万人が行列しています。",
+        "名前は「保育・発達基金」。発達は順調。保育は40万人待ち。",
+        "大好きなタイプの政府プログラム：制度上は存在する、現実には使えない、統計上は大成功。"
       ],
-      "newsEn": "A Goldman Sachs study found that artificial intelligence is beginning to weigh on employment across developed economies. The research examined how AI adoption is affecting labor markets in multiple sectors. The findings suggest the impact on jobs is moving from theoretical concern to measurable reality.",
+      "newsEn": "The Child Care and Development Fund, the primary federal program helping low-income families afford childcare, serves over 1.6 million children per month. However, more than 400,000 children are currently sitting on waitlists, unable to access the assistance the program is designed to provide. Funding gaps and eligibility backlogs mean that for hundreds of thousands of families, the safety net exists on paper but not in practice.",
       "ironyEn": [
         {
-          "contradiction": "Goldman Sachs published a detailed report warning that AI is eliminating jobs — at a firm that has been aggressively deploying AI to eliminate jobs.",
-          "absurdity": "The analysts studying AI's impact on employment are among the workers whose jobs AI is most capable of replicating.",
-          "outside": "A bank warning workers about automation is a bit like a chimney fire safety report sponsored by a match company."
+          "contradiction": "The federal government runs a program specifically to help low-income families pay for childcare. Four hundred thousand children are waiting in line to find out if they qualify for the program that was created for them.",
+          "absurdity": "While they're on the waitlist, parents can't work full-time because they have no childcare — which is exactly the problem the program exists to solve. The system is stuck in a loop and no one pushed pause.",
+          "outside": "Other wealthy countries have nationalized childcare. The U.S. has a waitlist for the waitlist."
         },
         {
-          "contradiction": "Wall Street spent years telling everyone AI was just a productivity tool. Now it's publishing papers about why your job is in trouble.",
-          "absurdity": "Goldman found AI is squeezing labor markets. Goldman also spent billions on AI. These facts appear in the same news cycle.",
-          "outside": "From the outside, this looks like a doctor handing you a cigarette and then scheduling a follow-up about lung health."
+          "contradiction": "Congress built a safety net with a 400,000-child hole in it and called it a success story: 1.6 million served.",
+          "absurdity": "A child born at the bottom of this waitlist will probably be old enough to pay taxes before their name comes up.",
+          "outside": "Japan spent two decades fighting its childcare shortage and called it a national crisis. America has a comparable gap and it didn't make the top of the news cycle."
         }
       ],
       "imageSeed": 2,
@@ -109,47 +109,47 @@ window.DAILY_DATA = {
     {
       "id": "d3",
       "news": {
-        "headline": "Meta Goes to Trial for Addicting Kids to Platforms It Designed to Be Addictive",
-        "source": "CBS News US",
+        "headline": "Amazon Expanding Drone Deliveries to 500 Cities — Starting With the Easy Ones",
+        "source": "CNBC Top News",
         "date": "2026-08-19",
-        "url": "https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/",
-        "summary": "メタ社を相手取った連邦裁判が始まった。訴訟は、同社が子どもをプラットフォームに依存させるよう意図的に設計したとして、若者のメンタルヘルス危機への関与を問うものである。"
+        "url": "https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html",
+        "summary": "アマゾンは規制当局の承認を得て、ドローン配送サービスを近く約500都市に拡大する計画を発表した。同社は今年100万回の配送達成を目標としている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「つながりで世界をより良くする」というミッションを掲げる企業が、子どもを意図的に依存させる設計を行ったと訴えられている。",
-        "<b>滑稽さ:</b> メタ社の「エンゲージメント最大化」という指標が、法廷では「子ども依存の証拠」として読み替えられている。",
-        "<b>日本・海外から見ると:</b> 世界中の10代がすでに深く関わっているプラットフォームに対し、設計の意図を問う裁判が始まったことは、デジタル規制の在り方を問う転換点として注目される。"
+        "<b>矛盾:</b> 「数年以内にドローン配送が当たり前になる」と言われ続けて10年以上。500都市への拡大発表の裏で、まず選ばれる都市は「飛ばしやすい場所」だという現実がある。",
+        "<b>滑稽さ:</b> 100万回という目標は大きく聞こえるが、アマゾンが1日に行う通常配送は約3700万件。ドローンはまだ約0.003%の世界に生きている。",
+        "<b>日本・海外から見ると:</b> 日本でも過疎地向けドローン配送の実証実験が続いているが、アメリカ版は「500都市」という壮大な数字と現実のギャップが鮮やかだ。"
       ],
       "imagePrompts": [
-        "A courtroom with a giant smartphone on trial in the defendant's chair, a judge at the bench, and rows of teenagers in the jury box all staring at their phones",
-        "An internal corporate whiteboard with metrics like 'daily active users' and 'time on app — teens' with arrows going up, now framed and labeled 'Plaintiff's Exhibit A' in a federal courtroom",
-        "A massive tech campus sign reading 'Connecting the World' with a small footnote at the bottom that reads 'see federal case no. —' in tiny text, surrounded by manicured lawns"
+        "A neighborhood street scene: a delivery drone hovers over a manicured suburban lawn dropping a small package, while directly below on the driveway, a traditional Amazon delivery truck is also parked. The homeowner holds both deliveries looking confused.",
+        "A giant map of the United States with 500 tiny drone icons clustered almost entirely around sunny, flat, low-density areas. A speech bubble from corporate headquarters says 'Nationwide coverage.'",
+        "A timeline wall chart from 2013 to present, each year labeled 'Coming Soon' in a slightly different font. The final entry for the current year reads '1 million deliveries (out of 13 billion).'"
       ],
       "captions": [
-        "Meta's engineers called it 'engagement optimization.' The plaintiffs' lawyers have a different term. Both are correct.",
-        "The features worked exactly as designed. That's kind of the whole problem.",
-        "Somewhere there's a product manager whose bonus was tied to teen screen time, and they're having a real bad week.",
-        "California AG says this trial isn't about a massive payout. Meta's lawyers remain cautiously unconvinced.",
-        "The documents showing Meta knew — those don't make the trial awkward. They make the trial."
+        "Amazon announced drone delivery in 2013. They're expanding to 500 cities now. The package took longer to arrive than the drone program did.",
+        "One million drone deliveries sounds huge until you find out Amazon ships 37 million packages on a slow Tuesday.",
+        "They 'quietly' expanded to 500 cities. Quietly. The company that interrupted 60 Minutes to announce this in 2013.",
+        "A drone is delivering a spatula to a suburb. A driver has been circling your block for 40 minutes. Neither knows about the other. This is the future.",
+        "The future of delivery is here — it covers about 0.003% of deliveries, but it photographs beautifully."
       ],
       "captionsJa": [
-        "エンジニアたちはそれを「エンゲージメント最適化」と呼んでいた。原告側弁護士は別の言い方をしている。どちらも正しい。",
-        "機能は設計通りに完璧に動いた。それがそのまま問題になっている。",
-        "10代のスクリーンタイムをボーナス指標に使っていたプロダクトマネージャーは、今週かなり嫌な思いをしているはずだ。",
-        "カリフォルニア州司法長官は「巨額賠償が目的ではない」と言った。メタの弁護士たちは、一応その言葉を聞いておくことにした。",
-        "メタが知っていたことを示す社内文書。それが裁判を気まずくしているのではなく、それが裁判そのものだ。"
+        "アマゾンがドローン配送を発表したのは2013年。今500都市に拡大する。荷物より配送プログラムのほうが届くのが遅かった。",
+        "100万回というのは大きな数字に聞こえる。アマゾンが普通の火曜日に配送するのは3700万件だけど。",
+        "「ひっそりと」500都市に拡大したそうだ。ひっそりと。2013年に60 Minutesの放送を止めて発表した会社が。",
+        "ドローンがフライ返しを郊外に運んでいる。配達員はあなたの家の周りを40分グルグル回っている。お互いのことを知らない。これが未来だ。",
+        "配送の未来がやってきた。カバー率は約0.003%だけど、写真映えは最高だ。"
       ],
-      "newsEn": "A federal trial against Meta began this week over claims that the company deliberately designed its social media platforms to addict children. The lawsuit accuses Meta of contributing to the youth mental health crisis through features engineered to maximize engagement among young users. California Attorney General Rob Bonta stated the case is about 'restitution and distortion,' not simply extracting a large damages payout.",
+      "newsEn": "Amazon has announced plans to expand its drone delivery service to nearly 500 cities after receiving regulatory clearance enabling longer-range deliveries. The company aims to complete approximately 1 million deliveries by drone this year. The expansion comes after Amazon quietly extended coverage to additional metro areas in recent months following years of regulatory hurdles.",
       "ironyEn": [
         {
-          "contradiction": "Meta built an engagement engine so effective it allegedly hooked children by design, and is now surprised the design became evidence.",
-          "absurdity": "The internal metric was 'daily active users.' The courtroom translation is 'children who couldn't log off.'",
-          "outside": "Regulators in the EU moved years ago to restrict algorithmic targeting of minors. The U.S. is just now starting the trial."
+          "contradiction": "Amazon announced drone delivery in 2013. Thirteen years and several regulatory approvals later, they've confirmed the technology works — in places where the weather is cooperating and there are no trees.",
+          "absurdity": "The target is 1 million drone deliveries this year. Amazon ships roughly 37 million packages a day. The drones are handling a rounding error.",
+          "outside": "Japanese rural towns have been using drones to deliver groceries to elderly residents on steep hillsides. Amazon is targeting 500 U.S. cities, which presumably includes Scottsdale."
         },
         {
-          "contradiction": "The company that promised to connect the world is now explaining in federal court what, exactly, it was connecting children to.",
-          "absurdity": "Executives optimized for time-on-app. A generation later, that optimization is Exhibit A.",
-          "outside": "From abroad, watching Silicon Valley get sued for what Silicon Valley's own researchers warned about internally feels less like a trial and more like a very slow read receipt."
+          "contradiction": "They quietly expanded to 'nearly 500 cities' — the word 'quietly' doing a lot of work for a company that announced this in 2013 with a 60 Minutes segment.",
+          "absurdity": "A drone delivering a phone charger to a suburb while your ground driver is stuck in traffic three blocks away is not the future — it's a very expensive photo op.",
+          "outside": "Europe's regulators spent years trying to figure out drone airspace rules. America gave Amazon the greenlight and Amazon's first move was to not tell anyone."
         }
       ],
       "imageSeed": 3,
@@ -160,47 +160,47 @@ window.DAILY_DATA = {
     {
       "id": "d4",
       "news": {
-        "headline": "400,000 Kids on Waitlist for Federal Childcare Help the Government Says It Provides",
+        "headline": "15 States Still Allow Schools to Hit Children — Psychologists Agree It's Harmful, Congress Has Not Weighed In",
         "source": "NPR News",
         "date": "2026-08-19",
-        "url": "https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists",
-        "summary": "連邦政府の低所得家庭向け保育費補助プログラムには毎月160万人以上の子どもが利用しているが、40万人以上の子どもがウェイティングリストに置かれている状況が続いている。"
+        "url": "https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker",
+        "summary": "アメリカ15州では公立学校での体罰が現在も法律で認められており、連邦法による禁止は存在しない。心理学者の間では体罰が子どもに有害であるとのコンセンサスが広く形成されている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 政府が「低所得家庭の保育を支援する」と掲げるプログラムが、支援を必要とする40万人以上の子どもを順番待ちにしている。",
-        "<b>滑稽さ:</b> 保育の順番を待っている間、その子どもの親は仕事を続けられるのか、という問いにプログラム自身は答えられない。",
-        "<b>日本・海外から見ると:</b> 日本でも待機児童問題は長年の課題だが、「解決策として存在するプログラムが40万人規模の待機リストを生んでいる」という構図は、制度設計の問題として共通して刺さる。"
+        "<b>矛盾:</b> 心理学の専門家コミュニティが「有害」と結論づけている行為を、連邦法ではなく州法に任せることで15州の学校が今も合法的に続けている。",
+        "<b>滑稽さ:</b> 同じアメリカで、SNSが子どもに与える心理的影響には連邦裁判で数十億ドル規模の訴訟を起こしながら、学校での体罰には連邦レベルで何もしていない。",
+        "<b>日本・海外から見ると:</b> 日本では学校での体罰は学校教育法で明確に禁止されている。多くのOECD諸国が禁止している中、「先進国」アメリカの15州が今も続けているという事実は国際的に目を引く。"
       ],
       "imagePrompts": [
-        "An enormous line of children in backpacks stretching out the door of a government building labeled 'Federal Childcare Assistance Office — Serving 1.6 Million,' the line disappearing around the block",
-        "A parent at a government desk being handed a ticket with the number 400,000 on it, a sign behind the clerk reading 'Now Serving: 1,600,000,' fluorescent office lighting",
-        "A Venn diagram: one circle labeled 'Families who qualify for federal childcare help,' one labeled 'Families who actually receive it,' with a large gap between them labeled '400,000 children'"
+        "A map of the United States where 15 states are highlighted. Each highlighted state has a small wooden paddle icon. A thought bubble above the map reads 'Federalism.'",
+        "A split image: on the left, a courtroom with lawyers arguing over a smartphone's effect on teen mental health; on the right, a school hallway where a paddle hangs on the wall next to a motivational poster that reads 'Every student matters.'",
+        "A scientist at a podium labeled 'Broad Scientific Consensus' presenting a slide that says 'Harmful to Children.' In the audience, 15 empty chairs have state name placards on them."
       ],
       "captions": [
-        "The program exists to help families who can't afford childcare. There are just 400,000 families it hasn't gotten around to yet.",
-        "Your number is 400,001. We'll call you when the kid's in middle school.",
-        "The safety net is working great — if you're already through it.",
-        "Low-income parents need childcare to work. They need to work to get off the waitlist. The waitlist doesn't care.",
-        "1.6 million served. 400,000 waiting. The press release only mentions the first number."
+        "America is suing Instagram for damaging kids' mental health. Fifteen states are still allowed to hit those same kids at school. Just making sure we're all caught up.",
+        "Psychologists reached broad consensus that it's harmful. The 15 states said: we'll keep you posted.",
+        "No federal law against hitting a child with a paddle at school. There is, however, a federal law about the thread count on mattress labels.",
+        "Japan banned this in 1947. America still has 15 states workshopping the concept.",
+        "They call it corporal punishment in the law books. The scientific literature calls it harmful. The 15 states call it Tuesday."
       ],
       "captionsJa": [
-        "このプログラムは保育費を払えない家庭を支援するために存在する。ただ、あと40万家庭分は、まだ順番が来ていない。",
-        "あなたの番号は40万1番です。お子さんが中学生になった頃にご連絡します。",
-        "セーフティネットは順調に機能している——すでに通り抜けた人には。",
-        "低所得の親は仕事をするために保育が必要で、ウェイティングリストを抜けるためには仕事が必要だ。リストはそういう事情を考慮しない。",
-        "160万人を支援。40万人が待機中。プレスリリースに書いてあるのは最初の数字だけ。"
+        "アメリカはInstagramが子どもの心を傷つけたと訴訟中。でも同じ子どもを学校で叩くことは15州で今も合法。念のため確認しておきます。",
+        "心理学者が「有害」という結論を出した。15州は「参考にします」と言った。",
+        "学校で子どもを板で叩くことを禁じる連邦法はない。マットレスのラベルの糸数については連邦法がある。",
+        "日本は1947年に禁止した。アメリカの15州はまだ検討中。",
+        "法律の言葉では「体罰」。科学文献では「有害」。15州では「火曜日の朝」。"
       ],
-      "newsEn": "The Child Care and Development Fund, the U.S. government's primary program to help low-income families pay for childcare, serves over 1.6 million children each month. Despite this scale, more than 400,000 children are currently on waitlists for assistance. The gap highlights the difference between the program's stated mission and its actual reach.",
+      "newsEn": "Fifteen U.S. states currently have laws permitting corporal punishment in public schools. There is broad consensus among psychologists and child development researchers that corporal punishment is harmful to children. Despite this, the federal government has not passed any legislation banning the practice in public schools, leaving the matter to individual states.",
       "ironyEn": [
         {
-          "contradiction": "The federal program designed to make childcare accessible has a 400,000-child waitlist, which is its own kind of accessibility problem.",
-          "absurdity": "The parents who most need help paying for childcare so they can go to work can't get that help, so they can't go to work, which is why they need the help.",
-          "outside": "Countries with universal childcare look at a 400,000-child waitlist for a means-tested program and see a feature, not a bug."
+          "contradiction": "The U.S. is currently holding a federal trial over the psychological damage Instagram does to children. There is no federal law against hitting them at school.",
+          "absurdity": "Fifteen states decided the scientific consensus on child psychology is optional. These are also the states most likely to describe themselves as pro-family.",
+          "outside": "Japan banned corporal punishment in schools in 1947. The U.S. is still workshopping it."
         },
         {
-          "contradiction": "America's childcare safety net has more holes than it has patches — 400,000 kids worth of holes, to be specific.",
-          "absurdity": "Getting on the waitlist is itself a bureaucratic process that takes time a working parent doesn't have.",
-          "outside": "In Scandinavia, the childcare debate is about quality. In the U.S., it's still about whether 400,000 children qualify as a rounding error."
+          "contradiction": "Congress has not passed a federal ban, which means the question of whether to hit a child at school is considered more of a local governance issue than, say, what kind of lightbulb you can sell.",
+          "absurdity": "Psychologists reached 'broad consensus' that this is harmful. The 15 states looked at that consensus and said: noted, moving on.",
+          "outside": "Most wealthy democracies banned school corporal punishment decades ago. America's approach is: 50 experiments, some of them still punching."
         }
       ],
       "imageSeed": 4,
@@ -211,47 +211,47 @@ window.DAILY_DATA = {
     {
       "id": "d5",
       "news": {
-        "headline": "Trump's Endorsement Loses Another Primary — Wyoming Edition",
-        "source": "Politico",
+        "headline": "Trump Announces 'Deal' With Canada — 72-Hour Delay on 50% Tariffs",
+        "source": "NPR News",
         "date": "2026-08-19",
-        "url": "https://www.politico.com/news/2026/08/18/trumps-pick-for-wyoming-governor-is-the-latest-endorsee-to-lose-primary-01041404",
-        "summary": "ワイオミング州の共和党知事予備選挙で、トランプ大統領が支持した候補が敗れ、大統領の推薦が予備選勝利を保証しないことが改めて示された。"
+        "url": "https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs",
+        "summary": "トランプ大統領はカナダへの50%関税を3日間猶予すると発表した。発動まで2時間を切ったタイミングで「合意」が成立したとされる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 共和党内で最大の影響力を持つとされるトランプ氏の支持表明が、自党の予備選でまた機能しなかった。</b>",
-        "<b>滑稽さ:</b> 「トランプ支持」がかつてはゴールドのラベルだったが、今や予備選で貼られると「要検討」の意味になりつつあるかもしれない。",
-        "<b>日本・海外から見ると:</b> 党内の予備選で現職大統領の推薦が覆されるという現象は、アメリカ政治の分断の深さを改めて示すものとして、海外メディアも注目している。"
+        "<b>矛盾:</b> 「交渉で得た合意」の中身が「3日後にまた同じ交渉をする」という内容で、プロセス自体が目的になっている構図だ。",
+        "<b>滑稽さ:</b> 発動2時間前の「ギリギリ合意」が今回で何度目かを数えたくなる。カナダ側は「貿易交渉」をしているつもりで、実際にやっているのは「期限チキンレース」だ。",
+        "<b>日本・海外から見ると:</b> 日本をはじめ各国が似たような「直前停止」を繰り返し経験してきた中、3日間の猶予が「ディール」と呼ばれることへの世界の反応は想像に難くない。"
       ],
       "imagePrompts": [
-        "A 'Trump Endorsed' gold sticker on a campaign yard sign, with the sign knocked sideways in a front lawn, a neighbor's yard showing a different candidate's sign standing straight",
-        "A scoreboard labeled 'Trump 2026 Endorsement Record' with a running tally, displayed in a state that looks like Wyoming with mountains in the background",
-        "A campaign manager on the phone looking confused, holding a press release that reads 'Trump Endorsement = Guaranteed Win' with a big question mark drawn over the word 'Guaranteed'"
+        "Two figures shaking hands across a border line marked with a giant clock showing two minutes to midnight. One figure holds a document labeled 'DEAL' and the other holds a smaller document labeled 'Three-Day Pause.' Confetti falls around them.",
+        "An enormous alarm clock with a snooze button the size of a car. A suited figure reaches up to press it while a crowd watches. A sign next to the clock reads '50% Tariff — 72-Hour Delay: Day 1 of 1.'",
+        "A negotiating table with two name placards: 'USA' and 'Canada.' The table has a giant egg timer on it showing three days. Both sides are looking at their phones."
       ],
       "captions": [
-        "Wyoming Republicans got the Trump endorsement and said, 'Noted. We voted for the other guy.'",
-        "At some point, candidates might start treating the endorsement like a Yelp review — nice to have, not always predictive.",
-        "The most powerful endorsement in Republican politics lost another primary. But sure, it's fine.",
-        "Degenfelder had Trump's backing. Barlow had Wyoming. Wyoming won.",
-        "Political analysts who built entire careers on 'Trump's endorsement is decisive' are having a quiet week."
+        "The U.S. and Canada reached a deal. The deal is: check back in three days.",
+        "Less than two hours before $20 billion in tariffs kicked in, they shook hands. They called it diplomacy. The rest of us call it hitting snooze.",
+        "Trump got a deal. Canada got a 72-hour extension. Keystone XL apparently got a phone call from beyond the grave.",
+        "Brussels takes nine months to agree on a comma in a trade document. Ottawa and Washington did a full negotiation in under two hours. One of these is more stressful than the other.",
+        "Day 1 of the deal: no tariffs. Day 4: same meeting, different clock."
       ],
       "captionsJa": [
-        "ワイオミング共和党員はトランプの推薦を受け取り、「ご参考まで。我々は別の人に投票しました」と答えた。",
-        "いつか候補者たちは、この推薦をYelpレビューみたいに扱い始めるかもしれない——あると嬉しいけど、当選は保証しない。",
-        "共和党で最強とされる推薦が、また予備選で負けた。でも全然大丈夫らしい。",
-        "デジェンフェルダーにはトランプがついていた。バーローにはワイオミングがついていた。ワイオミングが勝った。",
-        "「トランプの推薦は決定的だ」というキャリアを積んできた政治アナリストたちは、今週は静かにしている。"
+        "アメリカとカナダが合意した。合意の内容は「3日後にまた確認」。",
+        "2兆円超の関税が発動する2時間前に握手した。外交と呼んでいる。世界は「スヌーズボタン」と呼んでいる。",
+        "トランプは合意を得た。カナダは72時間の猶予を得た。キーストーンXLパイプラインは草葉の陰から電話を受けた。",
+        "EUは貿易文書のコンマ一つに9ヶ月かける。カナダとワシントンは2時間で全部やった。どちらがより胃に悪いかは言わずもがな。",
+        "合意1日目：関税なし。4日目：同じ会議、別の時計。"
       ],
-      "newsEn": "In Wyoming's Republican gubernatorial primary, state Senator Eric Barlow defeated Megan Degenfelder, who had received an endorsement from President Donald Trump. The result marks another instance in which a Trump-backed candidate failed to secure a primary victory. Trump's endorsement record in 2026 primaries has drawn attention as losses accumulate.",
+      "newsEn": "President Trump announced he is delaying 50% tariffs on Canadian imports after reaching a last-minute agreement with Ottawa, struck less than two hours before the tariffs were set to take effect. The pause lasts three days, affecting roughly $20 billion worth of trade. Trump also hinted at the possible revival of the Keystone XL oil pipeline project as part of broader negotiations.",
       "ironyEn": [
         {
-          "contradiction": "The president whose political brand is built on winning keeps endorsing candidates who lose their own party's primaries.",
-          "absurdity": "Wyoming Republicans looked at a Trump endorsement and said, 'We'll take the other one, thanks.'",
-          "outside": "In most countries, a sitting president's backing in their own party's primary would be considered significant. In 2026 America, it's a coin flip at best."
+          "contradiction": "The United States announced a trade deal with Canada. The deal is that the 50% tariffs won't start for three more days. That's not a deal — that's a snooze button.",
+          "absurdity": "The agreement was reached less than two hours before a 50% tariff on $20 billion in trade was set to begin. Both governments called this diplomacy. The word they were looking for is 'deadline.'",
+          "outside": "Japan has been through enough of these 11th-hour pauses to know the drill: clear the schedule, wait by the phone, announce a deal, repeat in 72 hours."
         },
         {
-          "contradiction": "Candidates are still lining up for the endorsement. Voters in Wyoming just explained what it's currently worth.",
-          "absurdity": "Degenfelder's campaign likely led with the Trump endorsement. Barlow's campaign apparently didn't need to.",
-          "outside": "Political analysts abroad who spent years studying Trump's grip on the GOP are now updating their spreadsheets again."
+          "contradiction": "Trump said he got a deal. Canada said they got a delay. These are different things wearing the same press release.",
+          "absurdity": "They also apparently discussed reviving the Keystone XL pipeline — a project canceled in 2021, to be negotiated during a three-day tariff pause. That's a lot to fit into 72 hours.",
+          "outside": "Trade negotiators in Brussels take months to finalize paragraph headings. Washington and Ottawa are doing the whole thing in 119 minutes."
         }
       ],
       "imageSeed": 5,
@@ -261,94 +261,94 @@ window.DAILY_DATA = {
     }
   ],
   "editorial": {
-    "thread": "今日の5本の糸：「子どもに優しくない国、アメリカ」——体罰・保育待機・SNS依存・AI雇用喪失・そして誰も止められないリーダーの推薦状。どれも「仕組みが子どもや弱者を後回しにしている」という同じ顔をしている。",
-    "titleEn": "America's Kids Are Fine (They Are Not Fine)",
-    "subtitleEn": "Five stories, one country, zero adults in charge.",
-    "titleJa": "「子どもに優しい国」とは言えないアメリカの、今週の5本",
+    "thread": "「子どものため」と言いながら子どもを傷つけている——今日の5本はすべてこの一本の糸で繋がっている。",
+    "titleEn": "America Is Very Concerned About the Children",
+    "subtitleEn": "How to sound smart when your country hurts kids five different ways at once.",
+    "titleJa": "「子どものために」と言いながら、メタを訴え、体罰を合法にし、保育を40万人待ちにしているアメリカの話",
     "titleAltJa": [
-      "40万人が順番待ち、15州で体罰合法、メタは裁判中。これ全部2026年の話です",
-      "トランプ推薦が負けた話より、学校で殴る話のほうが驚いた——今日のアメリカニュース、語れる一言つき"
+      "15州では学校で子どもを叩けるのに、インスタグラムには数兆円の訴訟を起こしている国の話",
+      "「アメリカの子ども問題」が話題になったとき、この5つを知っていれば会話の流れを変えられる"
     ],
-    "leadJa": "毎朝アメリカのニュースを読んでいます。\n\nで、今日も読みました。\n\n「子どもに優しくない」というテーマで5本が揃ったので、笑いながら頭を抱えていきましょう。",
-    "quipEn": "The U.S. has anti-bullying posters in the same hallway where paddling is legal. That's the whole story, really.",
-    "quipJa": "アメリカでは、いじめ防止のポスターと体罰が合法な廊下が、同じ建物の中に存在しています。これ以上の説明は、たぶんいらない。",
-    "fortuneEn": "Today's Forecast: Systems that were built to help you are running about 400,000 spots behind. That's not your fault — it's a capacity problem. Which means today, doing what you can with what you have is not settling. It's actually the move. Your effort counts even when the waitlist is long.",
-    "fortuneJa": "今日の運勢：あなたが必要としているものへの順番待ちが、もし少し長くても、それはあなたのせいじゃないです。仕組みの話なので。できることをやっている今日のあなたは、すでに正しいです。仕事運、じわじわ上向き。",
+    "leadJa": "今朝のニュースを開いたら、アメリカが子どもについて5本の記事を出していたんですよ。\n\nメタを連邦法廷で裁き、保育は40万人待ち、ドローンで荷物を届け、15州で体罰が合法で、カナダとの関税を3日だけ止めた。\n\nすごい。いや、すごくはない。でも、目が離せない。",
+    "quipEn": "America sued Instagram for harming kids' mental health. Fifteen states are still allowed to hit those same kids at school. Priorities are a spectrum.",
+    "quipJa": "インスタグラムが子どもの精神を傷つけたと訴訟を起こした国が、15州では学校で子どもを叩くのを合法にしてる。「子どもファースト」の定義が広すぎる。",
+    "fortuneEn": "Today's Forecast: America spent the week announcing big plans for children — lawsuits, safety nets, drone deliveries — while quietly leaving the details on a waitlist. The good news is, you don't have to have everything figured out either. Your half-finished idea from last month? Still counts. Keep going.",
+    "fortuneJa": "今日の運勢。アメリカは「子どものため」と言いながら40万人を順番待ちにした。でも考えてみれば、仕組みが追いついていなくても「やろうとしている」という事実は消えない。あなたの今日やりかけのことも、同じです。完成してなくていい。続けていれば、それで十分。",
     "monologueEn": {
-      "opener": "I read five American news stories this morning. All five were about kids. None of them were good news. I don't know if that's a theme or just a Tuesday.",
+      "opener": "So I opened the news this morning and every single story was about kids. Suing a tech giant for them. Building a safety net for them. Delivering packages near them by drone. Hitting them at school. I genuinely cannot tell if America loves children or is just very, very busy doing things in their general direction.",
       "beats": [
         {
-          "ref": "d4",
-          "text": "So. The U.S. has a federal program to help low-income families pay for childcare. Sounds great. Over 1.6 million kids enrolled every month. Also sounds great. And then — 400,000 more kids on a waitlist. Just sitting there. The program's whole job is to make sure parents can work. But if you're number 400,001, the program's answer is basically: 'Good luck with that.' The safety net exists. It's just full."
-        },
-        {
-          "ref": "d1",
-          "text": "While those 400,000 kids wait to get into childcare, let's talk about what happens once they finally get into school. Fifteen states in America still allow teachers to physically hit children as punishment. Fifteen. Psychologists — not one psychologist, the field of psychology — has reached consensus that it's harmful. And yet. No federal law. I looked it up because I didn't believe it. Then I looked it up again. The anti-bullying poster is literally in the same hallway."
+          "ref": "d3",
+          "text": "Let's start with the lightest one. Amazon says it's bringing drone delivery to 500 cities. One million deliveries by the end of the year. Sounds enormous. Amazon ships roughly 37 million packages on a slow Tuesday. So drones are covering about 0.003% of the operation. They announced this program in 2013, by the way. The drone took longer to arrive than most of the packages it was supposed to replace."
         },
         {
           "ref": "d2",
-          "text": "Now, some of those kids will grow up and get jobs. Or maybe not, according to Goldman Sachs, which released a report this week saying AI is starting to measurably eat into employment across developed economies. Which, okay, fair warning. Except — and I need you to know this — Goldman Sachs used AI tools to help produce that report. The people writing 'AI is taking jobs' used AI to write it. I'm not saying that's wrong. I'm saying I read that sentence three times and each time it got funnier."
-        },
-        {
-          "ref": "d3",
-          "text": "And look, if the jobs are gone and school was traumatic, at least the kids have their phones. Except Meta went to federal trial this week over claims that it deliberately designed its platforms to addict children. The California Attorney General said it's about 'restitution and distortion.' Meta's engineers had a different word for it: 'engagement optimization.' Both descriptions are accurate. The features worked exactly as designed. That's kind of the whole problem."
+          "text": "Okay. Less fun. There's a federal program to help low-income families pay for childcare. It helps 1.6 million kids a month — good. But 400,000 kids are on a waitlist. A waitlist. For childcare. Which means their parents can't work. Can't work, so they stay low-income. Stay low-income, so they qualify for the program. Program's full. Congratulations, you've completed the loop. Strongest economy on earth, folks."
         },
         {
           "ref": "d5",
-          "text": "And then there's this. Wyoming held its Republican gubernatorial primary. Trump endorsed a candidate. That candidate lost. To be clear — the sitting President of the United States, the most powerful endorsement in Republican politics, went to Wyoming and backed someone. And Wyoming Republicans said, 'Noted. We voted for the other guy.' This keeps happening. At some point, candidates might start treating the endorsement like a Yelp review — nice to have, not always predictive."
+          "text": "Meanwhile, the United States and Canada have reached a deal. The deal is: check back in three days. Less than two hours before 50% tariffs on Canadian imports were set to kick in, both sides shook hands and called it diplomacy. The rest of us call it hitting snooze. Twenty billion dollars in trade, a 72-hour pause, and apparently the Keystone XL pipeline got a phone call from beyond the grave. This is the second act of a movie that's been in production since 2018."
+        },
+        {
+          "ref": "d4",
+          "text": "And then. And then. Fifteen U.S. states still allow public schools to hit children. Paddles. At school. In 2026. Psychologists reached broad consensus decades ago that it's harmful. The 15 states said — and I'm paraphrasing — we'll keep you posted. There's no federal law banning it. There is, I'm told, a federal law about mattress label thread counts. Just to put things in perspective."
+        },
+        {
+          "ref": "d1",
+          "text": "So we hit the kids at school, we can't get them into daycare, and now we're suing the company that filled their free time. A federal trial against Meta opened this week. The allegation: Instagram and Facebook were deliberately designed to addict children. California's attorney general says the goal isn't a massive payout — it's about 'restitution and distortion.' Meta's rebuttal, as far as I can tell, is still being workshopped. Somewhere right now, a 14-year-old is watching a video about the Meta trial on their Instagram feed. I'm serious. That's probably happening."
         }
       ],
-      "closer": "Five stories. Every single one touched a kid, or a family, or someone waiting on a list for something the system promised them. I don't have a tidy ending for that. I just work here."
+      "closer": "Five stories, all about kids, all from the same week. I don't have a clean way to wrap this up. I just think about the 400,000 kids on that waitlist and I close the laptop and then I open it again because I can't help myself. Same as everyone, I guess."
     },
     "monologueJa": {
-      "opener": "今日、アメリカのニュースを5本読みました。5本全部、子どもの話でした。偶然なのか、アメリカという国の何かなのか。わからないまま、書いています。",
+      "opener": "今朝のニュースを開いたら、全部子どもの話だったんですよ。テック企業を訴えて、セーフティネットを作って、ドローンで荷物を飛ばして、学校で叩いて——アメリカが子どもを愛しているのか、子どもの方向に向かって何かを猛烈にやり続けているだけなのか、正直わからなくなってきた。",
       "beats": [
         {
-          "ref": "d4",
-          "text": "まず、保育費補助の話から。\n\nアメリカには低所得家庭の保育費を助ける連邦プログラムがあって、毎月160万人以上の子どもが使っています。\n\nいい話じゃないですか。\n\n問題は、40万人以上がウェイティングリストにいること。\n\n「親が仕事できるように保育を支援する」プログラムが、その支援を待っている間は親が仕事できない、という状態を作っている。\n\n制度はある。満員なだけ。"
-        },
-        {
-          "ref": "d1",
-          "text": "で、その子たちがようやく学校に行くと、何が待っているか。\n\nアメリカの15州では、学校で先生が子どもを叩くことが法律で認められています。\n\n15州。\n\n心理学者の合意は「有害」。一人じゃなく、分野全体です。それでも連邦法の禁止はない。\n\n日本では2019年に禁止になったじゃないですか。だから「え、まだ？」ってなるんですよ、読んでて。\n\nいじめ防止のポスターが、体罰が合法な廊下に貼ってある。それが2026年のアメリカです。"
+          "ref": "d3",
+          "text": "まず一番軽い話から。アマゾンがドローン配送を500都市に拡大するって言ってる。今年中に100万回が目標。すごい数字に聞こえますよね。でも、アマゾンが普通の遅い火曜日にこなす配送は約3700万件で、ドローンが担うのは全体の0.003%くらい。で、このドローン配送計画、2013年に発表されたやつなんですよ。荷物より、配送プログラムの到着のほうが遅かった。"
         },
         {
           "ref": "d2",
-          "text": "まあ、その子たちも大きくなれば仕事に就くわけですが。\n\nゴールドマン・サックスが今週、「AIが先進国の雇用市場に圧力をかけ始めている」というレポートを出しました。\n\nで、そのレポート、AIツールを使って作ったらしいんですよ。\n\n「AIが仕事を奪っている」と分析した人が、AIに分析を手伝ってもらっている。\n\n声出ました。"
-        },
-        {
-          "ref": "d3",
-          "text": "仕事がAIに侵食されて、でもスマホはある。\n\nその「スマホ」を作ったメタ社の連邦裁判が今週始まりました。\n\n訴訟の主張は「メタは子どもをわざとプラットフォームに依存させるように設計した」というもの。\n\nメタ側の呼び方は「エンゲージメント最適化」。原告側の呼び方は「子どもへの害」。\n\nどちらも、同じ機能を指しています。\n\nそっちのほうが怖い。"
+          "text": "次。もっと重い。連邦政府に低所得家庭向けの保育支援プログラムがあって、月160万人以上の子どもを支援してるんです。でも40万人以上が順番待ちリストに載ったまま、支援を受けられていない。保育を受けられないから、親は働きに出られない。働けないから低所得のまま。低所得のままだからプログラムの対象になる。プログラムは満員。おめでとうございます、ウェイティングリストに入りました。世界最大の経済大国、らしいです。"
         },
         {
           "ref": "d5",
-          "text": "最後はちょっと明るい話、というか、明るいのかわからない話。\n\nワイオミング州の共和党知事予備選で、トランプ大統領が支持した候補が負けました。\n\n今年の予備選、これ何回目かの話なんですよ。\n\n現職大統領の推薦が、自分の党の予備選で負け続けている。\n\nワイオミングの有権者は「推薦、見ました。別の人に入れました」という判断をした。\n\nトランプ支持票がかつてはゴールドのラベルだったのが、今は「要検討」くらいになってきているのかもしれない。\n\nアメリカは今日も複雑です。"
+          "text": "そしてアメリカとカナダが「合意」に達したという話。合意の内容は「3日後にまた話し合う」です。50%の関税が発動する2時間前にギリギリ握手して、これを「ディール」と呼んでいる。私たちが言うなら「スヌーズボタンを押した」。200億ドル分の貿易が72時間止まって、なぜかキーストーンXLパイプラインが墓の中から電話を受けたらしい。これ、2018年から続いているドラマの第何話なんだろう。"
+        },
+        {
+          "ref": "d4",
+          "text": "で。ここからが本題なんですが。アメリカ15州では、公立学校で子どもを叩くことが今でも合法なんですよ。体罰。パドルで。2026年に。心理学者のコミュニティは数十年前から「有害」という結論を出してる。15州の対応は——大意をとると——「引き続き検討します」。連邦法による禁止はない。でも、マットレスのラベルの糸の密度については連邦法がちゃんとある、という話を聞いた。バランスの取り方が独特すぎる。"
+        },
+        {
+          "ref": "d1",
+          "text": "学校で叩いて、保育園に入れなくて、子どもの暇な時間を埋めた会社を訴える。今週、メタに対する連邦裁判が始まったんですよ。インスタグラムとフェイスブックが子どもを依存させるよう意図的に設計されたという訴えです。カリフォルニア州の司法長官は「目的は巨額の賠償金ではなく、原状回復と歪曲の是正だ」と言っていた。いや、気持ちはわかる。でも今この瞬間、法廷の話をするインスタグラムの動画を14歳の子が見ているんじゃないかと思うと、なんか笑えない。笑えないんですよ、本当に。"
         }
       ],
-      "closer": "体罰、保育の待機、AIと雇用、SNS依存、そして機能し始めた有権者の判断。\n\n全部、誰かが後回しにされている話でした。\n\nこんなニュースを毎朝読んでいる私も私ですが、読まずにいられないんですよね。"
+      "closer": "5本、全部子どもの話。きれいにまとめる気力がない。40万人のウェイティングリストのことを考えると、ノートパソコンを閉じて、また開いてしまう。こんなのを毎朝読んでいる私も私ですが。"
     },
     "notesEn": [
-      "Fifteen U.S. states still legally allow teachers to hit students. Psychologists agree it's harmful. No federal ban exists. The anti-bullying poster is in the same hallway. I have no further questions.",
-      "400,000 kids are on a waitlist for the U.S. childcare program that exists specifically to help families who can't afford childcare. The program is working great — just not for those 400,000.",
-      "Goldman Sachs published a report this week saying AI is measurably squeezing jobs. It was produced partly with AI tools. I read that sentence four times. It kept being true.",
-      "Meta went to federal trial over allegations it deliberately designed its platforms to addict children. Its engineers called it 'engagement optimization.' The plaintiffs called it something else. Both are describing the same product.",
-      "Trump endorsed a candidate in Wyoming's Republican primary. That candidate lost. This keeps happening. At some point the endorsement becomes a Yelp review — noted, not always decisive.",
-      "Today's American news, summarized: the childcare program has a waitlist, the schools can paddle kids, Goldman Sachs warned about AI using AI, Meta is on trial for what its own product did, and Trump's endorsement lost another primary. I'm fine. You're fine. It's fine.",
-      "If you're wondering why American kids are struggling with mental health — this week alone: 15 states allow school paddling, Meta's trial started for addicting teens, and 400,000 are waitlisted for childcare. The adults are figuring it out.",
-      "Wyoming Republicans received a Trump endorsement and elected someone else. Somewhere in that result is a story about the limits of brand loyalty that business school professors will be assigning for years."
+      "A federal trial against Meta opened this week. The allegation: Instagram was deliberately designed to hook kids. The California AG says it's not about money — it's about 'distortion.' The kids, presumably, are watching the coverage on Instagram.",
+      "400,000 children are on a waitlist for federal childcare assistance. The program exists. The funding doesn't quite. So the safety net is real, in the sense that it has a name and a website.",
+      "Can't get childcare → can't work → stay low-income → qualify for the program → program's full → back to the waitlist. Someone designed this. Probably not on purpose. Probably.",
+      "Amazon is expanding drone delivery to 500 cities. Target: 1 million deliveries this year. For context, Amazon ships around 37 million packages on a slow Tuesday. Drones are doing heroic work in a very small corner of the operation.",
+      "Fifteen U.S. states still allow public schools to physically hit children with paddles. There is broad scientific consensus this is harmful. There is no federal law banning it. There is, however, a federal regulation on mattress label thread count.",
+      "America is suing Meta for damaging kids' mental health. Fifteen states are still allowed to hit those same kids at school. Both things are true right now, today, in the same country.",
+      "The U.S. and Canada reached a deal on tariffs. The deal: a 72-hour pause. They announced it less than two hours before $20 billion in tariffs were set to kick in. Diplomacy, they called it. The rest of us have a word for it too.",
+      "Every story in the news today is about children — lawsuits, waitlists, drones, paddling, trade wars. America is extremely busy doing things in the direction of kids. Whether those things help is a separate question."
     ],
     "xJa": [
-      "アメリカの15州では学校での体罰が今も合法で、連邦レベルの禁止法はありません。心理学者は全員「有害」と言っています。いじめ防止のポスターと、同じ廊下に。",
-      "アメリカの保育費補助プログラム、毎月160万人が利用中。でも40万人以上がウェイティングリスト。「親が働けるよう支援する制度」が、待っている間は親が働けない状況を作っています。",
-      "ゴールドマン・サックスが「AIが雇用を圧迫している」というレポートを発表。そのレポート、AIツールで作ったらしい。「AIに仕事を奪われる」と分析した人が、AIに手伝ってもらって分析している。",
-      "メタ社の連邦裁判が始まりました。「子どもをわざと依存させる設計をした」という訴え。メタ側は「エンゲージメント最適化」と呼んでいた機能が、法廷では証拠として読まれています。",
-      "ワイオミング州の共和党予備選でトランプ大統領が支持した候補が敗れました。今年何度目かの話です。現職大統領の推薦が、自党の予備選で負け続けている。",
-      "今日のアメリカ：体罰合法の学校、40万人の保育待機、AIが書いたAI雇用レポート、メタ裁判、トランプ推薦また負け。5本全部「誰かが後回しにされている話」でした。",
-      "「子どもを守る国」と「子どもをプラットフォームに依存させた企業が裁かれる国」が同じ国、という話を今日5本分読みました。アメリカ、今日も複雑です。",
-      "トランプ推薦がまた予備選で負けた件、笑えない理由があって——「最強の推薦状」が機能しなくなってきたとしたら、アメリカの党内政治は今、誰も地図を持っていない状態かもしれない。"
+      "アメリカでメタの連邦裁判が始まった。「インスタグラムは子どもを依存させるよう意図的に設計された」という訴え。カリフォルニア州「目的は賠償金じゃなく原状回復です」。今その動画をインスタで見ている14歳が世界中にいると思うと、なんとも言えない気持ちになる。",
+      "アメリカの連邦保育支援プログラム、月160万人を支援。でも40万人以上が順番待ちリストに載ったまま。保育ないから親が働けない。働けないから低所得。低所得だからプログラム対象。プログラムは満員。世界最大の経済大国、これが現実。",
+      "アマゾンがドローン配送を500都市に拡大。今年100万回の配送が目標。ちなみにアマゾンが普通の火曜日にこなす配送は約3700万件。ドローンはまだ全体の0.003%の世界にいる。2013年に発表したプログラムがやっとここまで来た。",
+      "アメリカ15州では公立学校で体罰が今も合法。心理学者たちは数十年前から「有害」と結論づけてる。連邦法による禁止はない。でもマットレスのラベルの糸の密度には連邦規制がある。バランスの取り方が独特。",
+      "インスタが子どもの精神を傷つけたとして連邦裁判。同じアメリカで15州の学校では今も子どもを叩くことが合法。「子どもの心を守る」の定義、もう少し統一できないのかな。",
+      "アメリカとカナダが関税「合意」。内容：50%関税を3日間止める。関税発動2時間前の土壇場合意。これを「ディール」と呼んでいる。私たちが言うなら「スヌーズボタンを押した」。",
+      "カナダへの50%関税、発動2時間前に72時間の猶予で合意。3日後にまた同じ交渉が始まる。「合意」って言葉、もう原形をとどめてない。",
+      "今日のアメリカのニュース、全部子どもの話だった。訴訟して、待機させて、ドローンで届けて、学校で叩いて、関税で揺らす。「子どもファースト」の定義がいろんな方向に広がりすぎている。"
     ],
-    "fullEn": "# America's Kids Are Fine (They Are Not Fine)\n\nI read five American news stories this morning. All five were about kids. None of them were good news. I don't know if that's a theme or just a Tuesday.\n\nSo. The U.S. has a federal program to help low-income families pay for childcare. Sounds great. Over 1.6 million kids enrolled every month. Also sounds great. And then — 400,000 more kids on a waitlist. Just sitting there. The program's whole job is to make sure parents can work. But if you're number 400,001, the program's answer is basically: 'Good luck with that.' The safety net exists. It's just full.\n\nWhile those 400,000 kids wait to get into childcare, let's talk about what happens once they finally get into school. Fifteen states in America still allow teachers to physically hit children as punishment. Fifteen. Psychologists — not one psychologist, the field of psychology — has reached consensus that it's harmful. And yet. No federal law. I looked it up because I didn't believe it. Then I looked it up again. The anti-bullying poster is literally in the same hallway.\n\nNow, some of those kids will grow up and get jobs. Or maybe not, according to Goldman Sachs, which released a report this week saying AI is starting to measurably eat into employment across developed economies. Which, okay, fair warning. Except — and I need you to know this — Goldman Sachs used AI tools to help produce that report. The people writing 'AI is taking jobs' used AI to write it. I'm not saying that's wrong. I'm saying I read that sentence three times and each time it got funnier.\n\nAnd look, if the jobs are gone and school was traumatic, at least the kids have their phones. Except Meta went to federal trial this week over claims that it deliberately designed its platforms to addict children. The California Attorney General said it's about 'restitution and distortion.' Meta's engineers had a different word for it: 'engagement optimization.' Both descriptions are accurate. The features worked exactly as designed. That's kind of the whole problem.\n\nAnd then there's this. Wyoming held its Republican gubernatorial primary. Trump endorsed a candidate. That candidate lost. To be clear — the sitting President of the United States, the most powerful endorsement in Republican politics, went to Wyoming and backed someone. And Wyoming Republicans said, 'Noted. We voted for the other guy.' This keeps happening. At some point, candidates might start treating the endorsement like a Yelp review — nice to have, not always predictive.\n\nFive stories. Every single one touched a kid, or a family, or someone waiting on a list for something the system promised them. I don't have a tidy ending for that. I just work here.\n\n**Today's Forecast** (news-based, scientifically dubious, warmly meant):\n\n> Today's Forecast: Systems that were built to help you are running about 400,000 spots behind. That's not your fault — it's a capacity problem. Which means today, doing what you can with what you have is not settling. It's actually the move. Your effort counts even when the waitlist is long.\n\n**Steal this line** — for your next meeting:\n\n> The U.S. has anti-bullying posters in the same hallway where paddling is legal. That's the whole story, really.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **400,000 Kids on Waitlist for Federal Childcare Help the Government Says It Provides** — NPR News ([source](https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists))\n2. **15 States Still Allow Schools to Hit Kids — Psychologists Have Thoughts** — NPR News ([source](https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker))\n3. **Goldman Sachs Finds AI Is Squeezing Jobs — Report Produced Partly by AI Tools** — CNBC Top News ([source](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html))\n4. **Meta Goes to Trial for Addicting Kids to Platforms It Designed to Be Addictive** — CBS News US ([source](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/))\n5. **Trump's Endorsement Loses Another Primary — Wyoming Edition** — Politico ([source](https://www.politico.com/news/2026/08/18/trumps-pick-for-wyoming-governor-is-the-latest-endorsee-to-lose-primary-01041404))\n",
-    "fullJa": "# 「子どもに優しい国」とは言えないアメリカの、今週の5本\n\n今日、アメリカのニュースを5本読みました。5本全部、子どもの話でした。偶然なのか、アメリカという国の何かなのか。わからないまま、書いています。\n\nまず、保育費補助の話から。\n\nアメリカには低所得家庭の保育費を助ける連邦プログラムがあって、毎月160万人以上の子どもが使っています。\n\nいい話じゃないですか。\n\n問題は、40万人以上がウェイティングリストにいること。\n\n「親が仕事できるように保育を支援する」プログラムが、その支援を待っている間は親が仕事できない、という状態を作っている。\n\n制度はある。満員なだけ。\n\nで、その子たちがようやく学校に行くと、何が待っているか。\n\nアメリカの15州では、学校で先生が子どもを叩くことが法律で認められています。\n\n15州。\n\n心理学者の合意は「有害」。一人じゃなく、分野全体です。それでも連邦法の禁止はない。\n\n日本では2019年に禁止になったじゃないですか。だから「え、まだ？」ってなるんですよ、読んでて。\n\nいじめ防止のポスターが、体罰が合法な廊下に貼ってある。それが2026年のアメリカです。\n\nまあ、その子たちも大きくなれば仕事に就くわけですが。\n\nゴールドマン・サックスが今週、「AIが先進国の雇用市場に圧力をかけ始めている」というレポートを出しました。\n\nで、そのレポート、AIツールを使って作ったらしいんですよ。\n\n「AIが仕事を奪っている」と分析した人が、AIに分析を手伝ってもらっている。\n\n声出ました。\n\n仕事がAIに侵食されて、でもスマホはある。\n\nその「スマホ」を作ったメタ社の連邦裁判が今週始まりました。\n\n訴訟の主張は「メタは子どもをわざとプラットフォームに依存させるように設計した」というもの。\n\nメタ側の呼び方は「エンゲージメント最適化」。原告側の呼び方は「子どもへの害」。\n\nどちらも、同じ機能を指しています。\n\nそっちのほうが怖い。\n\n最後はちょっと明るい話、というか、明るいのかわからない話。\n\nワイオミング州の共和党知事予備選で、トランプ大統領が支持した候補が負けました。\n\n今年の予備選、これ何回目かの話なんですよ。\n\n現職大統領の推薦が、自分の党の予備選で負け続けている。\n\nワイオミングの有権者は「推薦、見ました。別の人に入れました」という判断をした。\n\nトランプ支持票がかつてはゴールドのラベルだったのが、今は「要検討」くらいになってきているのかもしれない。\n\nアメリカは今日も複雑です。\n\n体罰、保育の待機、AIと雇用、SNS依存、そして機能し始めた有権者の判断。\n\n全部、誰かが後回しにされている話でした。\n\nこんなニュースを毎朝読んでいる私も私ですが、読まずにいられないんですよね。\n\n**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:\n\n> 今日の運勢：あなたが必要としているものへの順番待ちが、もし少し長くても、それはあなたのせいじゃないです。仕組みの話なので。できることをやっている今日のあなたは、すでに正しいです。仕事運、じわじわ上向き。\n\n**今日の使える一言**（明日この話題が出たら、これをどうぞ）:\n\n> アメリカでは、いじめ防止のポスターと体罰が合法な廊下が、同じ建物の中に存在しています。これ以上の説明は、たぶんいらない。\n\n---\n\n**今日の5本**（登場順）\n\n1. **400,000 Kids on Waitlist for Federal Childcare Help the Government Says It Provides**（NPR News） — 連邦政府の低所得家庭向け保育費補助プログラムには毎月160万人以上の子どもが利用しているが、40万人以上の子どもがウェイティングリストに置かれている状況が続いている。 [記事](https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists)\n2. **15 States Still Allow Schools to Hit Kids — Psychologists Have Thoughts**（NPR News） — アメリカの15州では学校での体罰が法律で認められており、連邦レベルでの禁止法は存在しない。心理学者の間では体罰が子どもに有害であるという広いコンセンサスがある。 [記事](https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker)\n3. **Goldman Sachs Finds AI Is Squeezing Jobs — Report Produced Partly by AI Tools**（CNBC Top News） — ゴールドマン・サックスの調査により、AIが先進国の雇用市場に圧力をかけ始めていることが明らかになった。 [記事](https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html)\n4. **Meta Goes to Trial for Addicting Kids to Platforms It Designed to Be Addictive**（CBS News US） — メタ社を相手取った連邦裁判が始まった。訴訟は、同社が子どもをプラットフォームに依存させるよう意図的に設計したとして、若者のメンタルヘルス危機への関与を問うものである。 [記事](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/)\n5. **Trump's Endorsement Loses Another Primary — Wyoming Edition**（Politico） — ワイオミング州の共和党知事予備選挙で、トランプ大統領が支持した候補が敗れ、大統領の推薦が予備選勝利を保証しないことが改めて示された。 [記事](https://www.politico.com/news/2026/08/18/trumps-pick-for-wyoming-governor-is-the-latest-endorsee-to-lose-primary-01041404)\n",
-    "reviewNotes": "d2のcaption3「publishing a warning from inside the machine」が状況をなぞっただけでオチがない。d3のimagePrompt1に実質的に「陪審員が全員スマホを見ている」という絵があり悪くないが、d3のmonologueJaのbeat「どちらも正しいと思う。それが一番怖い」が講釈調に滑っているので当事者のぼやきに直す。monologueJaのd1beatで「日本では2019年に〜」の段落が解説モードになっているので口語に戻す。それ以外は合格。"
+    "fullEn": "# America Is Very Concerned About the Children\n\nSo I opened the news this morning and every single story was about kids. Suing a tech giant for them. Building a safety net for them. Delivering packages near them by drone. Hitting them at school. I genuinely cannot tell if America loves children or is just very, very busy doing things in their general direction.\n\nLet's start with the lightest one. Amazon says it's bringing drone delivery to 500 cities. One million deliveries by the end of the year. Sounds enormous. Amazon ships roughly 37 million packages on a slow Tuesday. So drones are covering about 0.003% of the operation. They announced this program in 2013, by the way. The drone took longer to arrive than most of the packages it was supposed to replace.\n\nOkay. Less fun. There's a federal program to help low-income families pay for childcare. It helps 1.6 million kids a month — good. But 400,000 kids are on a waitlist. A waitlist. For childcare. Which means their parents can't work. Can't work, so they stay low-income. Stay low-income, so they qualify for the program. Program's full. Congratulations, you've completed the loop. Strongest economy on earth, folks.\n\nMeanwhile, the United States and Canada have reached a deal. The deal is: check back in three days. Less than two hours before 50% tariffs on Canadian imports were set to kick in, both sides shook hands and called it diplomacy. The rest of us call it hitting snooze. Twenty billion dollars in trade, a 72-hour pause, and apparently the Keystone XL pipeline got a phone call from beyond the grave. This is the second act of a movie that's been in production since 2018.\n\nAnd then. And then. Fifteen U.S. states still allow public schools to hit children. Paddles. At school. In 2026. Psychologists reached broad consensus decades ago that it's harmful. The 15 states said — and I'm paraphrasing — we'll keep you posted. There's no federal law banning it. There is, I'm told, a federal law about mattress label thread counts. Just to put things in perspective.\n\nSo we hit the kids at school, we can't get them into daycare, and now we're suing the company that filled their free time. A federal trial against Meta opened this week. The allegation: Instagram and Facebook were deliberately designed to addict children. California's attorney general says the goal isn't a massive payout — it's about 'restitution and distortion.' Meta's rebuttal, as far as I can tell, is still being workshopped. Somewhere right now, a 14-year-old is watching a video about the Meta trial on their Instagram feed. I'm serious. That's probably happening.\n\nFive stories, all about kids, all from the same week. I don't have a clean way to wrap this up. I just think about the 400,000 kids on that waitlist and I close the laptop and then I open it again because I can't help myself. Same as everyone, I guess.\n\n**Today's Forecast** (news-based, scientifically dubious, warmly meant):\n\n> Today's Forecast: America spent the week announcing big plans for children — lawsuits, safety nets, drone deliveries — while quietly leaving the details on a waitlist. The good news is, you don't have to have everything figured out either. Your half-finished idea from last month? Still counts. Keep going.\n\n**Steal this line** — for your next meeting:\n\n> America sued Instagram for harming kids' mental health. Fifteen states are still allowed to hit those same kids at school. Priorities are a spectrum.\n\n---\n\n**Today's Docket** (in order of appearance)\n\n1. **Amazon Expanding Drone Deliveries to 500 Cities — Starting With the Easy Ones** — CNBC Top News ([source](https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html))\n2. **400,000 Kids Stuck on Waitlists for Federal Childcare Aid the Government Says It Provides** — NPR News ([source](https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists))\n3. **Trump Announces 'Deal' With Canada — 72-Hour Delay on 50% Tariffs** — NPR News ([source](https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs))\n4. **15 States Still Allow Schools to Hit Children — Psychologists Agree It's Harmful, Congress Has Not Weighed In** — NPR News ([source](https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker))\n5. **Meta's Federal Trial Begins Over Deliberately Addicting Kids to Social Media** — CBS News US ([source](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/))\n",
+    "fullJa": "# 「子どものために」と言いながら、メタを訴え、体罰を合法にし、保育を40万人待ちにしているアメリカの話\n\n今朝のニュースを開いたら、全部子どもの話だったんですよ。テック企業を訴えて、セーフティネットを作って、ドローンで荷物を飛ばして、学校で叩いて——アメリカが子どもを愛しているのか、子どもの方向に向かって何かを猛烈にやり続けているだけなのか、正直わからなくなってきた。\n\nまず一番軽い話から。アマゾンがドローン配送を500都市に拡大するって言ってる。今年中に100万回が目標。すごい数字に聞こえますよね。でも、アマゾンが普通の遅い火曜日にこなす配送は約3700万件で、ドローンが担うのは全体の0.003%くらい。で、このドローン配送計画、2013年に発表されたやつなんですよ。荷物より、配送プログラムの到着のほうが遅かった。\n\n次。もっと重い。連邦政府に低所得家庭向けの保育支援プログラムがあって、月160万人以上の子どもを支援してるんです。でも40万人以上が順番待ちリストに載ったまま、支援を受けられていない。保育を受けられないから、親は働きに出られない。働けないから低所得のまま。低所得のままだからプログラムの対象になる。プログラムは満員。おめでとうございます、ウェイティングリストに入りました。世界最大の経済大国、らしいです。\n\nそしてアメリカとカナダが「合意」に達したという話。合意の内容は「3日後にまた話し合う」です。50%の関税が発動する2時間前にギリギリ握手して、これを「ディール」と呼んでいる。私たちが言うなら「スヌーズボタンを押した」。200億ドル分の貿易が72時間止まって、なぜかキーストーンXLパイプラインが墓の中から電話を受けたらしい。これ、2018年から続いているドラマの第何話なんだろう。\n\nで。ここからが本題なんですが。アメリカ15州では、公立学校で子どもを叩くことが今でも合法なんですよ。体罰。パドルで。2026年に。心理学者のコミュニティは数十年前から「有害」という結論を出してる。15州の対応は——大意をとると——「引き続き検討します」。連邦法による禁止はない。でも、マットレスのラベルの糸の密度については連邦法がちゃんとある、という話を聞いた。バランスの取り方が独特すぎる。\n\n学校で叩いて、保育園に入れなくて、子どもの暇な時間を埋めた会社を訴える。今週、メタに対する連邦裁判が始まったんですよ。インスタグラムとフェイスブックが子どもを依存させるよう意図的に設計されたという訴えです。カリフォルニア州の司法長官は「目的は巨額の賠償金ではなく、原状回復と歪曲の是正だ」と言っていた。いや、気持ちはわかる。でも今この瞬間、法廷の話をするインスタグラムの動画を14歳の子が見ているんじゃないかと思うと、なんか笑えない。笑えないんですよ、本当に。\n\n5本、全部子どもの話。きれいにまとめる気力がない。40万人のウェイティングリストのことを考えると、ノートパソコンを閉じて、また開いてしまう。こんなのを毎朝読んでいる私も私ですが。\n\n**今日の運勢**（ニュース連動・非科学的・でも本気で応援）:\n\n> 今日の運勢。アメリカは「子どものため」と言いながら40万人を順番待ちにした。でも考えてみれば、仕組みが追いついていなくても「やろうとしている」という事実は消えない。あなたの今日やりかけのことも、同じです。完成してなくていい。続けていれば、それで十分。\n\n**今日の使える一言**（明日この話題が出たら、これをどうぞ）:\n\n> インスタグラムが子どもの精神を傷つけたと訴訟を起こした国が、15州では学校で子どもを叩くのを合法にしてる。「子どもファースト」の定義が広すぎる。\n\n---\n\n**今日の5本**（登場順）\n\n1. **Amazon Expanding Drone Deliveries to 500 Cities — Starting With the Easy Ones**（CNBC Top News） — アマゾンは規制当局の承認を得て、ドローン配送サービスを近く約500都市に拡大する計画を発表した。同社は今年100万回の配送達成を目標としている。 [記事](https://www.cnbc.com/2026/08/19/amazon-plans-drone-expansion-as-top-exec-projects-1-million-deliveries.html)\n2. **400,000 Kids Stuck on Waitlists for Federal Childcare Aid the Government Says It Provides**（NPR News） — 連邦政府の低所得家庭向け保育支援プログラムは月160万人以上の子どもを支援しているとされるが、40万人以上の子どもが順番待ちリストに載ったまま支援を受けられていない。 [記事](https://www.npr.org/2026/08/19/nx-s1-5920326/childcare-assistance-waitlists)\n3. **Trump Announces 'Deal' With Canada — 72-Hour Delay on 50% Tariffs**（NPR News） — トランプ大統領はカナダへの50%関税を3日間猶予すると発表した。発動まで2時間を切ったタイミングで「合意」が成立したとされる。 [記事](https://www.npr.org/2026/08/19/g-s1-139156/trump-canada-tariffs)\n4. **15 States Still Allow Schools to Hit Children — Psychologists Agree It's Harmful, Congress Has Not Weighed In**（NPR News） — アメリカ15州では公立学校での体罰が現在も法律で認められており、連邦法による禁止は存在しない。心理学者の間では体罰が子どもに有害であるとのコンセンサスが広く形成されている。 [記事](https://www.npr.org/2026/08/19/nx-s1-5803505/school-corporal-punishment-policy-tracker)\n5. **Meta's Federal Trial Begins Over Deliberately Addicting Kids to Social Media**（CBS News US） — メタ社が子どもをSNS依存にさせる機能を意図的に設計したとして、連邦裁判が開廷した。カリフォルニア州司法長官は「損害賠償より原状回復と歪曲の是正が目的」と述べた。 [記事](https://www.cbsnews.com/news/meta-federal-trial-child-social-media-addiction/)\n",
+    "reviewNotes": "全体の完成度は高い。修正箇所は3点：d1のimagePrompts③がジョークの構造を視覚化できていない（天秤の両側の組み合わせが弱い）、d3のcaption④とcaptionsJa④がやや説明的でオチが甘い、monologueJaのd3beatの文末が「〜んです」「〜んですよ」「〜です」で均一すぎてリズムが崩れていない分だけ平板。それぞれ修正する。 ／ 文体パス: 2箇所修正。xJa[6]の「〜気がするのは私だけですか」というAI的な締め、d2beatの「おめでとうございます、ウェイティングリストに入りました」直後の「世界最大の経済大国、らしいです」は原文のまま生きているので温存。主な修正はxJa[1]の循環構造の説明口調と、xJa[6]の締め文の「整いすぎ」。"
   },
   "carousel": [
     "images/2026-08-19/carousel/slide-1.jpg",
