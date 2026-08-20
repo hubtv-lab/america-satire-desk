@@ -442,6 +442,7 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 2. 予告: 今日の5本のテイストをちら見せする（具体的な固有名詞を1〜2個だけ出して期待を作る。全部は明かさない）
 3. 占い: ニュース連動型の前向き占いをここに織り込む。「今日の5本はこんな話→つまり、あなたのその悩みはあなたのせいじゃない→だから今日は大丈夫」という論理の飛躍で、読者の自己肯定感をその日だけ少し上げて本編へ送り出す。汎用の占い文は禁止、必ずその日のニュースに絡める。星座別にしない。仕事運・恋愛運・金運のどれかに軽く触れてよい。説教とスピリチュアル用語は禁止
 - 分量: introJaは日本語250〜400字(段落改行必須)、introEnは英語80〜130語
+- 本文にコーナー名（「今日を占うよ〜」「Today's Forecast」）を書かない。見出しは組版時に自動で付くため、本文は1文目からいきなり始める
 - introEnはThe Onionの風刺占いの伝統を意識しつつ、必ず温かく着地させる
 
 【締め「今日のまとめジョーク/パンチライン / Today's Punchline」（quipJa / quipEn）】
@@ -509,6 +510,16 @@ def build_editorial_prompt(candidates: list[dict], today: str) -> str:
     return "\n".join(lines)
 
 
+def _strip_corner_label(text: str, labels: tuple) -> str:
+    """本文1行目がコーナー名の重複だったら取り除く。"""
+    first, _, rest = text.partition("\n")
+    key = first.strip().strip("#*:： 　〜~")
+    for lb in labels:
+        if key.lower() == lb.strip("〜~").lower() and rest.strip():
+            return rest.strip()
+    return text
+
+
 def validate_editorial(data: dict, candidates: list[dict]) -> dict:
     """編集室データの検証・正規化。壊れた候補はここで弾く。"""
     thread = _req_str(data.get("thread"), "editorial: thread", 8)
@@ -516,6 +527,9 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
     title_ja = _req_str(data.get("titleJa"), "editorial: titleJa", 5)
     intro_en = _req_str(data.get("introEn"), "editorial: introEn", 120)
     intro_ja = _req_str(data.get("introJa"), "editorial: introJa", 100)
+    # 本文冒頭にコーナー名が重複していたら除去（見出しは組版で自動付与されるため）
+    intro_en = _strip_corner_label(intro_en, ("today's forecast",))
+    intro_ja = _strip_corner_label(intro_ja, ("今日を占うよ〜", "今日を占うよ", "今日を占う"))
 
     notes = data.get("notesEn")
     if not isinstance(notes, list):
