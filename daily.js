@@ -1,314 +1,311 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-21",
-  "generatedAt": "2026-08-21T08:08:47+00:00",
+  "date": "2026-08-22",
+  "generatedAt": "2026-08-21T20:06:55+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "U.S. Is Paying Its National Mortgage With a Credit Card, JPMorgan Warns",
-        "source": "CNBC Top News",
-        "date": "2026-08-21",
-        "url": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
-        "summary": "JPモルガンのアナリストが、米政府による国債市場への介入は問題を先送りにしているだけだと警告した。クレジットカードで住宅ローンを払うようなものだと指摘している。"
+        "headline": "Pentagon Moves to Fire the Publisher and Editor of Stars and Stripes",
+        "source": "CBS News US",
+        "date": "2026-08-22",
+        "url": "https://www.cbsnews.com/news/stars-and-stripes-publisher-editor-separation-notices-pentagon/",
+        "summary": "国防総省が、米軍の独立系機関紙「スターズ・アンド・ストライプス」の発行人と編集長に解雇通知を出したことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 国の財政を管理する機関が、個人の家計相談窓口なら真っ先に「やめてください」と言う手法を採用しているんですよ。",
-        "<b>滑稽さ:</b> クレジットカードで住宅ローンを払うのは自己破産の予兆として有名なんですけど、国家規模でやると「介入」って呼ばれるんですね。",
-        "<b>日本・海外から見ると:</b> 日本も財政問題を抱えてるけど、アメリカがこの規模で同じことをやってるという事実は、世界中の財務省の人たちが静かに頭を抱える案件じゃないですか。"
+        "<b>矛盾:</b> 「自由のために戦う」軍隊が、自軍向けの独立報道機関を黙らせようとしてるんですよ。",
+        "<b>滑稽さ:</b> 1942年から戦場でナチスにも負けなかった新聞が、ペンタゴンのオフィスからクビにされそうになってる。",
+        "<b>日本・海外から見ると:</b> 軍が自分たちの機関紙の編集独立性を守れないなら、民主主義の輸出どころじゃないですよね。"
       ],
       "imagePrompts": [
-        "A suited government official at a bank teller window, handing over an enormous credit card labeled 'Treasury Intervention' to pay off a mortgage document labeled 'National Debt.' The teller looks mildly concerned. Towering stacks of smaller credit cards wait behind the official.",
-        "A kitchen table covered in overdue bills, one labeled 'U.S. Bond Market.' A hand reaches in from off-frame to place a new credit card on top of the pile. A calendar on the wall shows the year kicking the can down the road.",
-        "A massive 'MORTGAGE PAID' stamp hovering over the U.S. Capitol building, but a tiny fine print reads 'via Visa.' A JPMorgan analyst in the corner holds up a pamphlet titled 'This Is Fine.'"
+        "A massive Pentagon building with a tiny newspaper office inside it. A hand in a suit reaches in from outside the building to pull out two tiny desks with people sitting at them. The newspaper on the desks reads 'Stars and Stripes, Est. 1942.'",
+        "A large industrial printing press running at full speed, paper flying, the fresh headline reading 'EDITOR FIRED.' On the floor beside the press, a manila envelope labeled 'SEPARATION NOTICE' sits unopened. No people visible.",
+        "A framed wall of famous war-era Stars and Stripes front pages — Normandy, Korea, Vietnam — and at the end of the row, a blank frame with a 'Vacancy' sign on it."
       ],
       "captions": [
-        "JPMorgan just described U.S. fiscal policy the way your parents described your twenties.",
-        "Paying your mortgage with your credit card is bad. Doing it with $36 trillion is apparently called monetary policy.",
-        "So the plan is… to borrow more money to deal with the borrowing. Got it. Totally got it.",
-        "They have economists, lawyers, and the full faith and credit of the United States — and they landed on the same plan as a guy who just lost his job.",
-        "I've read three personal finance books that specifically say don't do this. Apparently Congress hasn't."
+        "Survived Hitler. Survived Saddam. Didn't survive the Pentagon's HR department.",
+        "The paper that covered every American war just got a pink slip — not from an enemy, from the building next door.",
+        "Nothing says 'we support the troops' like firing the journalist who was covering them.",
+        "Stars and Stripes: 84 years, zero shutdowns by foreign powers. Current streak: at risk.",
+        "You know your press freedom talking points need work when the army's own newspaper is the one getting silenced."
       ],
       "captionsJa": [
-        "JPモルガンが米国の財政政策を、親が子どもの二十代を評するような言い方で表現してくれましたね。",
-        "クレジットカードで住宅ローンを払うのはまずい。36兆ドル規模でやると「金融政策」って呼ばれる。",
-        "つまり計画は、借金問題に対処するためにもっと借りる、ということですね。完全に理解した。",
-        "経済学者も弁護士も全米の信用力も持ってて、行き着いた答えが仕事なくしたおじさんと同じ。",
-        "やっちゃダメって書いてある本を3冊読んだことあるんですよ。議会は読んでないみたいですね。"
+        "ヒトラーにも負けなかった。サダムにも負けなかった。ペンタゴンの人事部にはあっさりやられた。",
+        "全米の戦争を報じてきた新聞が解雇通知を受けた相手、それは敵国じゃなくてお隣のビル。",
+        "「兵士を支援する」って言いながら、その兵士を取材してた記者をクビにするんですよ。",
+        "スターズ・アンド・ストライプス、84年間、外国勢力による廃刊ゼロ。現在の記録：危機的状況。",
+        "軍の機関紙を黙らせようとしながら「報道の自由を守る」って、さすがにセリフが渋滞してますよね。"
       ],
-      "newsEn": "JPMorgan's James Sullivan warned that the U.S. government's interventions in the Treasury market are not resolving underlying fiscal stress, but merely deferring it. Sullivan compared the strategy to paying a mortgage with a credit card — temporarily easing pressure while accumulating a larger problem. The comments come as Washington continues to manage record debt levels.",
+      "newsEn": "The Pentagon has issued separation notices to both the publisher and editor-in-chief of Stars and Stripes, the congressionally funded newspaper serving U.S. military personnel. Stars and Stripes has operated as an editorially independent outlet since 1942. The move comes amid broader pressure on federally funded media organizations.",
       "ironyEn": [
         {
-          "contradiction": "The entity responsible for America's financial stability is employing a debt-management strategy that any credit counselor would call a red flag.",
-          "absurdity": "When an individual does this, it's called a cry for help. When Washington does it, it gets a formal name and a press release.",
-          "outside": "From abroad, the world's reserve currency is being propped up using the same logic as a college student juggling five store cards."
+          "contradiction": "A military built on defending free speech is now handing pink slips to the people who report on that same military.",
+          "absurdity": "Stars and Stripes survived Normandy, Korea, Vietnam, and two Gulf Wars. Its biggest threat turned out to be an internal memo.",
+          "outside": "The U.S. exports democracy abroad while quietly defunding the newsroom that covers the people doing the exporting."
         },
         {
-          "contradiction": "The U.S. government, which regulates lending practices to protect consumers from predatory debt cycles, appears to be running one of its own.",
-          "absurdity": "There is probably a pamphlet somewhere in a federal building titled 'Avoid Using Credit to Pay Debt.' Nobody checked.",
-          "outside": "International investors holding U.S. Treasuries just found out they might be the credit card company in this analogy."
+          "contradiction": "The Pentagon's message to its troops: we support you, unless someone starts writing it down.",
+          "absurdity": "A paper that's been printing since 1942 without being shut down by actual enemies is now getting a separation notice from its own employer.",
+          "outside": "From the outside, this looks less like a staffing decision and more like a country editing its own footnotes."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-21/candidate-1.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-08-21/candidate-1-punchy.jpg"
+      "image": "images/2026-08-22/candidate-1.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-08-22/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Army Shuts Down Its New Drone Battalion — the One It Created Because It Was Losing the Drone Race",
-        "source": "CBS News US",
-        "date": "2026-08-21",
-        "url": "https://www.cbsnews.com/video/us-army-phases-out-new-drone-battalion-despite-being-far-behind-drone-race/",
-        "summary": "米陸軍は、ドローン技術の遅れを取り戻すために今年初めに設立したばかりの新しいドローン大隊を廃止することを決定した。幹部間の対立が背景にある。"
+        "headline": "DHS Said Nevada Had 16,000 Non-Citizen Voters. The Real Number Was 185.",
+        "source": "The Guardian US",
+        "date": "2026-08-22",
+        "url": "https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers",
+        "summary": "国土安全保障省（DHS）がネバダ州の選挙人名簿に非市民が最大1万6000人いると主張した約1か月後、実際に確認された数はわずか185人だったことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「ドローン競争で遅れてる」から作った部隊を、「内輪もめ」を理由に解散するって、ゴールに向かいながら自分の足を引っ張る以外の何ものでもないですよね。",
-        "<b>滑稽さ:</b> ウクライナ戦争の教訓を吸収するために設立した部隊が、ウクライナ戦争中に廃止されるというタイミングの見事さよ。",
-        "<b>日本・海外から見ると:</b> 中国やロシアの軍関係者がこのニュースを読んで、特に何もしなくて良かったと安心している絵が浮かぶんですよね。"
+        "<b>矛盾:</b> 選挙の信頼性を守るために出した数字が、98%の誤差で信頼性をぶち壊してるんですよ。",
+        "<b>滑稽さ:</b> 1万6000人と発表して185人でした、って、これ四捨五入じゃなくて99分の1ですからね。",
+        "<b>日本・海外から見ると:</b> 選挙の不正を告発するプロセス自体が、事実確認なしで走ってる。これはこれで制度の問題なんですよ。"
       ],
       "imagePrompts": [
-        "A military official cutting a ribbon in front of a shiny new 'Drone Battalion HQ' building, while in the background another official is already posting a 'CLOSED' sign on the same door. A drone hovers uselessly overhead.",
-        "A large scoreboard labeled 'Drone Race' showing U.S. significantly behind competitors. A soldier walks away from the field carrying equipment, pointing at a sign that reads 'Internal Restructuring in Progress.'",
-        "A trash can overflowing with drone manuals labeled 'Ukraine War Lessons,' while two generals in separate corners of a room face opposite walls with their arms crossed."
+        "A giant banner reading '15,903 ILLEGAL VOTERS' hanging in a government building lobby. A small sticky note is placed in the corner of the banner reading 'update: 185.' Officials in suits stand beneath it looking at their shoes.",
+        "A dartboard on a wall of a government office. One dart is stuck far outside the board, labeled '15,903.' A tiny dart barely on the board reads '185.' A framed certificate above reads 'Election Integrity Division.'",
+        "A press conference podium with a large screen showing the number 15,903 crossed out and replaced with 185. The officials at the podium are studying their phones very intently."
       ],
       "captions": [
-        "We're losing the drone race, so we built a drone unit. Then we lost the drone unit. Still losing the drone race, though — that part's intact.",
-        "The battalion was created to absorb lessons from Ukraine. Ukraine: still going. Battalion: not.",
-        "Two generals got fired in the process. The drones did not get built. Classic efficient government, working as designed.",
-        "You know what's scarier than being behind in the drone race? Being behind in the drone race and then doing this.",
-        "Pentagon press release, probably: 'The unit successfully fulfilled its mission of being created and then disbanded.'"
+        "They announced 16,000 and found 185. Somewhere in between there's a press release that needs a refund.",
+        "98% margin of error — still calling it 'preliminary' rather than 'made up.'",
+        "Election fraud investigators: very confident, somewhat optional on the facts.",
+        "185 confirmed. 15,718 'still needed review.' The headline had already run.",
+        "You ever watch someone count to ten and stop at nine? DHS counted to 16,000 and stopped at 185."
       ],
       "captionsJa": [
-        "ドローン競争で負けてるから部隊を作った。次に部隊を廃止した。ドローン競争で負けてるのはそのまま。そこだけ達成。",
-        "ウクライナの教訓を吸収するために作った部隊。ウクライナ：今も続いてる。部隊：もうない。",
-        "将軍2人がクビになって、ドローンは作られなかった。典型的な効率的政府、完璧に機能してます。",
-        "ドローン競争で遅れてることより怖いことって何か知ってます？遅れてる上にこれをやることです。",
-        "国防総省のプレスリリース、たぶんこう書いてある。「本部隊は設立と廃止というミッションを完遂した。」"
+        "1万6000人と発表して185人でした。プレスリリースの払い戻しを要求したい。",
+        "誤差98%。それでも「暫定値」と呼ぶ。「でっち上げ」とは言わない。",
+        "選挙不正調査担当：自信はたっぷり、事実確認はオプション。",
+        "185人は確認済み。1万5718人は「まだ審査中」。その間に見出しはもう全国を走った。",
+        "10数えて9で止まる人見たことあります？DHSは1万6000数えて185で止まったんですよ。"
       ],
-      "newsEn": "The U.S. Army has decided to phase out a drone battalion it established earlier this year to close the gap with adversaries in drone warfare technology. The decision came amid internal tensions between senior officers, including two who were fired or forced into early retirement. Critics note the battalion was specifically created in response to lessons observed from the war in Ukraine, where drone dominance has proven decisive.",
+      "newsEn": "About a month after the Department of Homeland Security claimed Nevada's voter rolls contained up to 15,903 non-citizens, DHS officials acknowledged the figure was 'preliminary' and that more than 14,000 names still required review. The number of actually confirmed non-citizen registrants came to 185. The discrepancy raises questions about how the original figure was communicated and publicized.",
       "ironyEn": [
         {
-          "contradiction": "The Army built a unit specifically to catch up in drone warfare, then dismantled it while still behind in drone warfare.",
-          "absurdity": "The battalion absorbed lessons from Ukraine. Ukraine is still ongoing. The battalion is not.",
-          "outside": "Foreign defense ministries tracking U.S. military readiness just got handed a free update — and it's a good one for them."
+          "contradiction": "The agency tasked with protecting election integrity released numbers it hadn't verified — which is, by definition, the opposite of integrity.",
+          "absurdity": "They were off by 15,718 people. That's not a rounding error. That's a different story.",
+          "outside": "From abroad, this is what it looks like when election security measures become the source of election misinformation."
         },
         {
-          "contradiction": "Two senior officers were fired in the process of shutting down a unit designed to modernize the military. The modernization effort has been modernized away.",
-          "absurdity": "If the drone race is a marathon, the U.S. Army just stopped to argue about who tied their shoes wrong, then sat down.",
-          "outside": "Observers abroad who feared American drone capabilities can apparently stand down — the Pentagon handled it."
+          "contradiction": "DHS announced 16,000 suspected fraudulent voters and confirmed 185. The headline did its job; the investigation didn't.",
+          "absurdity": "If a pollster was off by 98 percent they'd be fired. If DHS does it, it's just called 'preliminary.'",
+          "outside": "Other countries watch the U.S. lecture them on election standards. Then they read this story."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-21/candidate-2.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-08-21/candidate-2-punchy.jpg"
+      "image": "images/2026-08-22/candidate-2.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-08-22/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Fashion Tech CEO Gets 5 Years for $300 Million Fraud — After Six Years of 'Disrupting' the Industry",
-        "source": "The Guardian US",
-        "date": "2026-08-21",
-        "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
-        "summary": "ファッションテック企業CaaStle(キャッスル)の元CEOクリスティン・ハンシッカーが、2019年から2025年にかけて投資家に3億ドル規模の不正を働いたとして、連邦刑務所への5年間の禁固刑を言い渡された。"
+        "headline": "Apple Lays Off 200+ Siri and Vision Pro Staff After Years of 'Next Big Thing' Promises",
+        "source": "The Verge",
+        "date": "2026-08-22",
+        "url": "https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri",
+        "summary": "アップルがSiriチームとVision Proチームで200人以上を解雇したことが報道された。Vision Proのゲームチームは事実上解散、没入型コンテンツチームも縮小される。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「テクノロジーでファッション産業を変える」と言って投資家を集めた会社が、変えてたのはExcelの数字だけだったというオチですね。",
-        "<b>滑稽さ:</b> 2019年から2025年まで6年間、利益と手持ち資金を偽り続けたってことは、四半期報告書を少なくとも24回はでっちあげたはずなんですよ。",
-        "<b>日本・海外から見ると:</b> シリコンバレー発の「フェイクイットまでメイクイット」文化の行き着く先として、これほど教科書的な例もなかなかないんじゃないですか。"
+        "<b>矛盾:</b> 「Siriはもうすぐ賢くなる」と言い続けて10年以上、そのチームをリストラで賢くしようとしてるんですよ。",
+        "<b>滑稽さ:</b> 3499ドルの「未来のデバイス」のゲームチームが、発売1年ちょっとで「ほぼ解散」。未来、短すぎ。",
+        "<b>日本・海外から見ると:</b> 日本でも「Siriさん」は長年ネタキャラ扱いで、それでもここまでの結末は誰も予想してなかったはず。"
       ],
       "imagePrompts": [
-        "A sleek fashion tech startup office with trendy decor and a giant screen reading 'DISRUPTING THE INDUSTRY.' In the corner, a CEO figure types at a laptop with a spreadsheet visible showing numbers being manually inflated with a giant plus sign.",
-        "A medieval castle wearing a Silicon Valley hoodie and holding a pitch deck labeled '$300M Vision.' The castle's drawbridge is labeled 'Falsified Documents.' A judge's gavel hovers above.",
-        "A glossy investor presentation slide showing a hockey-stick growth chart. Beside it, the actual chart — a flat line with a cliff at the end labeled '2025: Federal Indictment.'"
+        "A giant glowing Apple keynote stage with a banner reading 'THE FUTURE IS HERE.' In front of the stage, a line of employees in lanyards carry cardboard boxes out a side door marked 'Exit.'",
+        "A $3,499 price tag hanging from a Vision Pro headset on display, and next to it a whiteboard with 'GAMING TEAM' crossed out in red marker. A sticky note reads 'sorry.'",
+        "Siri's sound wave icon on a phone screen, pixelating and fading, while a hand holds a pink slip of paper up to the microphone slot."
       ],
       "captions": [
-        "She was disrupting the fashion industry for six years. Turns out she was disrupting Generally Accepted Accounting Principles.",
-        "Faked the numbers from 2019 to 2025. That's at least 24 quarterly reports. At some point it stopped being fraud and started being a hobby.",
-        "The company was called CaaStle. A castle. With a moat. To keep people from looking inside. They really committed to the brand.",
-        "Five years in prison for $300 million in fraud. Somewhere a VC who funded this is very quietly updating their LinkedIn.",
-        "Tech founder raises $300M, goes to federal prison — so the exit was real, just not the kind she pitched."
+        "Siri couldn't set a reminder for her own team's termination date.",
+        "They charged $3,499 for the future, then laid off the people building it thirteen months later.",
+        "Vision Pro gaming team: launched, hyped, gone — faster than most people finished the onboarding tutorial.",
+        "Apple's message to developers: believe in our platform. Apple's message to its own staff: different conversation.",
+        "Hey Siri, why are 200 people cleaning out their desks? 'Here's what I found on the web for that.'"
       ],
       "captionsJa": [
-        "6年間ファッション業界を「ディスラプト」してたそうです。してたのは一般会計原則の方でした。",
-        "2019年から2025年まで数字を偽り続けた。四半期報告書で少なくとも24回。途中から詐欺じゃなくて趣味になってたんじゃないですか。",
-        "社名がCaaStle、つまり「お城」なんですよ。堀があって、中が見えない構造。ブランドへのこだわりだけは本物だった。",
-        "3億ドルの詐欺で禁固5年。どこかで出資したVCが、今ひっそりLinkedInを更新してると思う。",
-        "テック創業者が300億円調達して連邦刑務所へ。エグジットは実現した。ピッチしてた種類じゃないけど。"
+        "Siriは自分たちのチームの解雇通知をリマインドできなかった。",
+        "未来に3499ドルの値をつけて、13か月後にその未来を作ってた人たちをクビにした。",
+        "Vision Proゲームチーム：発表、宣伝、解散。ほとんどの人がチュートリアル終わるより早かった。",
+        "開発者には「うちのプラットフォームを信じろ」。自社スタッフには「それとこれは別の話」。",
+        "Hey Siri、なんで200人が荷物まとめてるの？「それについてウェブで見つけたものがあります」"
       ],
-      "newsEn": "Christine Hunsicker, former CEO of fashion tech company CaaStle, was sentenced to five years in federal prison for orchestrating a $300 million fraud scheme that ran from 2019 to 2025. Prosecutors said Hunsicker provided investors with falsified documents that overstated the company's profits and cash reserves. The Manhattan U.S. attorney's office announced the sentence following her conviction.",
+      "newsEn": "Apple laid off more than 200 employees working on Siri and the Vision Pro headset, according to Bloomberg. The cuts include largely shutting down the Vision Pro gaming team and reducing the immersive content team. The layoffs come after years in which Apple publicly positioned both Siri and Vision Pro as central to its future strategy.",
       "ironyEn": [
         {
-          "contradiction": "A company promising to disrupt the fashion industry turned out to be disrupting investor bank accounts instead.",
-          "absurdity": "Six years of falsified quarterly reports means someone sat down, at least 24 times, and actively chose to lie. That takes a kind of commitment.",
-          "outside": "In an era when 'fake it till you make it' is a startup philosophy, a court has clarified that the 'till you make it' part was apparently mandatory."
+          "contradiction": "Apple has spent a decade telling us Siri is about to get smarter. The latest upgrade to the team was a layoff notice.",
+          "absurdity": "The Vision Pro gaming team lasted about as long as a free trial subscription.",
+          "outside": "Apple sold a $3,499 headset as the future of computing. The team building that future just got let go."
         },
         {
-          "contradiction": "CaaStle marketed itself as a transparency-forward tech platform while running an opaque $300 million fiction for half a decade.",
-          "absurdity": "The company's name is literally a castle — a structure historically associated with moats, walls, and keeping people from seeing what's inside.",
-          "outside": "European regulators watching this probably feel unusually good about their paperwork requirements right now."
+          "contradiction": "Every keynote promised Siri was a priority. Turns out 'priority' and 'staffed' are different things.",
+          "absurdity": "The Vision Pro immersive content team is shrinking before most people have ever seen what Vision Pro content looks like.",
+          "outside": "International observers watching Apple: incredible hardware, confident announcements, quietly reduced headcount."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-21/candidate-3.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-08-21/candidate-3-punchy.jpg"
+      "image": "images/2026-08-22/candidate-3.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-08-22/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Michael Cohen, Who Called Trump a 'Mobster,' Just Gave Him a Radio Interview Full of Praise",
-        "source": "The Guardian US",
-        "date": "2026-08-21",
-        "url": "https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates",
-        "summary": "かつてトランプ前大統領を「詐欺師」「マフィアのような人物」と公言していた元側近のマイケル・コーエンが、自身のラジオ番組にトランプ大統領を招待し、称賛のインタビューを行った。"
+        "headline": "Woman Secretly Filmed via Meta Smart Glasses Speaks Out on Privacy",
+        "source": "CBS News US",
+        "date": "2026-08-22",
+        "url": "https://www.cbsnews.com/news/meta-ai-smart-glasses-covert-filming-privacy/",
+        "summary": "メタのAI搭載スマートグラスで無断撮影された女性が声を上げ、ウェアラブルカメラが個人のプライバシーに与える脅威に警鐘を鳴らしている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 宣誓証言でトランプを批判した人物が、宣誓なしで同じ人物を褒めちぎる番組を作るって、矛盾の構造として完成されすぎてるんですよ。",
-        "<b>滑稽さ:</b> 「詐欺師」「マフィア」と言い続けた人の番組に「マフィア」本人がゲスト出演して、両者がいい感じに話してる。これをサプライズと呼ぶのか和解と呼ぶのか。",
-        "<b>日本・海外から見ると:</b> アメリカ政治の登場人物が全員、数年前の自分の発言と完全に矛盾した立場を取れるという柔軟性だけは、世界が認めるところですよね。"
+        "<b>矛盾:</b> Metaはプライバシー問題で何度も議会に呼ばれた会社なのに、今度は「普通のメガネに見えるカメラ」を売り出してるんですよ。",
+        "<b>滑稽さ:</b> スマートフォンのカメラが怖いと思ってた人々に、「ノーカメラサイン」すら見えない世界が来た。",
+        "<b>日本・海外から見ると:</b> 日本だとGoogle Glassが不評で廃れたあの問題が、メガネがおしゃれになっただけで解決されずに戻ってきた感じ。"
       ],
       "imagePrompts": [
-        "A radio studio with two men sitting across from each other at microphones. One holds a thick folder labeled 'Previous Statements' face-down on his lap. The other grins broadly. A framed quote on the wall behind them reads 'CONMAN' in large letters, hastily covered with a 'WELCOME GUEST' banner.",
-        "A split image: on the left, a serious courtroom with a man pointing accusingly at a large portrait; on the right, the same man holding a microphone and grinning at the same portrait, now decorated with balloons.",
-        "A recycling bin overflowing with crumpled papers labeled 'Sworn Testimony,' 'Book Chapters,' and 'Podcast Episodes,' while a shiny new 'Radio Show' sign hangs above a studio door."
+        "A busy café where everyone is sitting normally, but one person at a table is wearing sleek glasses with a tiny camera light that only the viewer of the image can see. A small 'REC' icon floats in the corner of the scene.",
+        "A split image: on the left, a congressional hearing room with a CEO at a witness table under a banner reading 'PRIVACY HEARING.' On the right, a store display of smart glasses with a cheerful 'NOW SHIPPING' sign.",
+        "A woman at a park looking around confused. Behind her, a person in ordinary-looking glasses with a tiny lens glinting in the sunlight, facing her direction. A tiny privacy policy document floats above, the size of a postage stamp."
       ],
       "captions": [
-        "Cohen once said Trump acts like a mobster. Yesterday he gave the mobster his own radio segment. Growth.",
-        "There's flipping, and then there's flipping back. Cohen may have invented a third direction.",
-        "He had years of material. Quotes, testimony, a whole book. Decided to go with: 'Great to have you on the show.'",
-        "Under oath: 'conman, racist, cheat.' On air, same guy: warm welcome, good chat, probably a bumper sticker.",
-        "Somewhere, the prosecutor who used Cohen's testimony is staring at the ceiling right now."
+        "Meta faced Congress over privacy three times and their solution was: make the camera smaller and put it on your face.",
+        "At least a phone in your face is obvious. These are just... glasses. We never evolved to be suspicious of glasses.",
+        "The 'I have nothing to hide' crowd is going to love explaining this one from the other direction.",
+        "Privacy law last updated: before the iPhone. Camera now available in: regular glasses. Cool, cool, cool.",
+        "Google Glass failed because people felt watched. Meta's version: same idea, better frames, problem solved apparently."
       ],
       "captionsJa": [
-        "コーエンはトランプをマフィアみたいな人と言ってた。昨日そのマフィアに自分のラジオの枠を渡した。成長ですね。",
-        "転向って概念があるじゃないですか。また転向する、ってのも聞いたことある。コーエンは第三の方向を発明したかもしれない。",
-        "ネタは山ほどあった。証言、本、ポッドキャスト全部。選んだのは「お越しいただきありがとうございます」。",
-        "宣誓の上では「詐欺師、差別主義者、ペテン師」。電波の上では同じ人に「いやあ、お会いできて光栄です」。",
-        "コーエンの証言を証拠として使った検察官、今頃天井見てると思う。"
+        "Metaはプライバシーで3回議会に呼ばれて、答えはカメラを小さくして顔に乗せることだった。",
+        "スマホを向けられたら気づける。でもこれはメガネ。人類はメガネを疑う本能を持ってない。",
+        "「隠すことはない」派の皆さん、今度は自分が撮られる側ですよ。",
+        "プライバシー法の最終更新：iPhone以前。カメラの最新設置場所：普通のメガネ。順調ですね。",
+        "Google Glassは「監視される感じ」で嫌われた。Metaの版：同じ発想、おしゃれなフレーム、問題解決ということらしい。"
       ],
-      "newsEn": "Michael Cohen, Donald Trump's former personal attorney turned fierce public critic, hosted the president on his radio show despite previously describing Trump as a 'racist,' a 'conman,' and someone who behaves like a 'mobster.' During the interview, Cohen praised his former boss rather than challenging him. Cohen had notably testified against Trump in legal proceedings and spent years publicly condemning him.",
+      "newsEn": "A woman is speaking out after she was covertly filmed using Meta's AI-powered smart glasses, raising concerns about the privacy implications of the device. The glasses, which feature a built-in camera, are designed for everyday wear and can capture photos and video without obvious indication to bystanders. The incident highlights a growing gap between consumer tech capability and existing privacy law.",
       "ironyEn": [
         {
-          "contradiction": "A man who testified under oath that his boss was a criminal invited that same boss onto his show to receive compliments.",
-          "absurdity": "Cohen spent years building a public identity around telling the truth about Trump. He is now building a show around not doing that.",
-          "outside": "Foreign journalists covering this are presumably refreshing their notes from three years ago and wondering if they need a different folder."
+          "contradiction": "Meta, a company that's testified before Congress about privacy, is now selling eyewear that films strangers without a visible indicator.",
+          "absurdity": "At least when someone points a phone at you, you know. This is just glasses. Your threat-detection instincts don't cover glasses.",
+          "outside": "Google Glass got rejected in 2013 because people felt watched. Meta repackaged the same concept in a trendier frame and called it solved."
         },
         {
-          "contradiction": "Cohen once said Trump behaves like a mobster. The mobster accepted the radio invitation and everyone was very polite.",
-          "absurdity": "The most honest thing Cohen could have said on air was his own old quotes. He chose not to.",
-          "outside": "Political analysts in other countries who cite Cohen's congressional testimony as a primary source are going to need a footnote."
+          "contradiction": "The company whose business model depends on knowing everything about you has now put a camera where you'd least think to look.",
+          "absurdity": "The device is called smart glasses. The privacy framework governing it hasn't been updated since before smartphones existed.",
+          "outside": "Outside the U.S., this lands as a case study in what happens when product launches move faster than any regulator can read the manual."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-21/candidate-4.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-08-21/candidate-4-punchy.jpg"
+      "image": "images/2026-08-22/candidate-4.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-08-22/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Judge Rules Oil Pipeline Off California Coast Can Keep Running — Over California's Objections",
-        "source": "The Guardian US",
-        "date": "2026-08-21",
-        "url": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
-        "summary": "カリフォルニア州当局と環境団体の反対を押し切り、連邦判事がサンタバーバラ沖の石油パイプラインの運転継続を認める判決を下した。トランプ大統領の命令による再稼働が背景にある。"
+        "headline": "Walmart Is Finally Accepting Apple Pay and Google Pay — About a Decade Late",
+        "source": "The Verge",
+        "date": "2026-08-22",
+        "url": "https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch",
+        "summary": "ウォルマートが2026年8月24日からApple PayとGoogle Payに対応することを発表した。米国内の全店舗への展開は2026年末を予定している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 環境規制で全米をリードすることを誇りにしているカリフォルニア州が、自分の海岸の沖でやめてほしいと言った石油パイプラインを止められないという構図が、連邦制の教科書として秀逸すぎる。",
-        "<b>滑稽さ:</b> サンタバーバーラといえば、アメリカで最も環境意識の高い富裕層が住む地域のひとつじゃないですか。その沖合でパイプラインが動いてる。",
-        "<b>日本・海外から見ると:</b> 州が「うちの海でやめて」と言って、連邦が「いや続けて」と言って、裁判所が「連邦の勝ち」と言う。アメリカの連邦制の機能を説明する教材として、これ以上わかりやすい例はなかなかないですよね。"
+        "<b>矛盾:</b> 世界最大の小売業者が、スマホ決済を「ついに導入」するのが2026年なんですよ。娘さん、成人式迎えました？",
+        "<b>滑稽さ:</b> ウォルマートは独自決済アプリ「Walmart Pay」を作って10年間戦い続けた結果、白旗を挙げた。業界最大の「勝てなかった戦」。",
+        "<b>日本・海外から見ると:</b> 日本のコンビニが2016年からスマホ決済を進めていたことを考えると、ウォルマートのペースはちょっと別の次元。"
       ],
       "imagePrompts": [
-        "A map of California's coastline with a glowing oil pipeline running just offshore, clearly visible from the Santa Barbara waterfront. On the beach, a 'NO PIPELINE' protest sign is planted in the sand. Overhead, a banner reads 'Federal Order: Carry On.'",
-        "A California state official holding a large 'STOP' sign pointed toward the ocean, while a judge's gavel descends from above holding a sign reading 'CONTINUE.' An oil tanker moves calmly in the background.",
-        "A courtroom split down the middle: one side labeled 'State of California — We Said No,' the other 'Federal Government — We Said Yes.' A scales-of-justice figure tips heavily toward the federal side. Through the window behind them, an oil pipeline is visible offshore."
+        "A Walmart store entrance with a large 'NOW ACCEPTING APPLE PAY' banner. In the corner, a small dusty sign reads 'Walmart Pay: Est. 2015' with cobwebs on it.",
+        "A timeline on a wall: 2014 Apple Pay launched, 2015 Google Pay launched, 2016 Walmart Pay created, 2026 Walmart accepts Apple Pay. Each year is marked with a small icon; the last one has a tiny white flag.",
+        "A customer at a Walmart checkout holding up their phone to pay, looking surprised and emotional, while the cashier holds up a sign reading 'Yes, it finally works.' Other customers in line are slow-clapping."
       ],
       "captions": [
-        "California banned plastic straws, outlawed gas stoves, and leads the nation in EV sales. The pipeline's still running.",
-        "The state that literally has 'environmental protection' in three different agency names just got told it can't stop an offshore oil pipeline. Cool system.",
-        "Santa Barbara residents, who drove their Teslas to the protest, can see the pipeline from the beach. The judge cannot.",
-        "Trump ordered it reopened. California said no. The court said yes. The pipeline said nothing — it just kept pumping.",
-        "Federalism is when you care a lot about something and then find out it's someone else's decision."
+        "Apple Pay launched in 2014. Kids born that year are in middle school. Walmart just let it in.",
+        "Walmart built a whole payment app to avoid this. The app lost. Took twelve years to admit it.",
+        "Tap to pay at Walmart: coming soon — if 'soon' means 'after two presidential terms and a pandemic.'",
+        "They made customers download Walmart Pay. They lost. This is the receipt.",
+        "Every other store, every transit card, every parking meter: tap. Walmart: 'let us think about it.' Twelve years later: fine."
       ],
       "captionsJa": [
-        "カリフォルニアはプラスチックストローを禁止して、ガスコンロを廃止して、EV普及率全米トップ。パイプラインは動いてる。",
-        "「環境保護」という名前のついた機関が3つある州が、沖合の石油パイプラインを止められないと言われた。いいシステムですね。",
-        "サンタバーバーバのみなさんはテスラで抗議集会に来て、ビーチからパイプラインが見えてる。裁判官は見えていない。",
-        "トランプが再稼働を命じた。カリフォルニアが反対した。裁判所がOKを出した。パイプラインは何も言わず、ただ稼働し続けた。",
-        "連邦制とは、何かをすごく気にしてたら、それが他の人の管轄だったと気づくことです。"
+        "Apple Payが始まったのは2014年。その年生まれた子ども、もう中学生。ウォルマートはついに入れた。",
+        "独自の決済アプリを作って戦い続けた。負けた。認めるのに12年かかった。",
+        "ウォルマートでタッチ決済：もうすぐ——「もうすぐ」が大統領2期分とパンデミックを経てからの話だけど。",
+        "Walmart Payをダウンロードさせた。負けた。これがそのレシート。",
+        "他の店もコンビニも駐車場も：タッチ。ウォルマート：「考えさせてください」。12年後：わかった。"
       ],
-      "newsEn": "A federal judge ruled that an oil pipeline operating off the coast of Santa Barbara, California, can continue operations despite objections from state regulators and environmental groups. The pipeline had been restarted after President Trump ordered its reopening. California state officials had sought to halt the pipeline's operations, putting state environmental policy in direct conflict with the federal order.",
+      "newsEn": "Walmart announced it will begin accepting Apple Pay and Google Pay at select Walmart and Sam's Club locations starting August 24th, with a full U.S. rollout planned by the end of 2026. Apple Pay launched in 2014 and Google Pay in 2015, meaning Walmart's adoption comes roughly a decade after the technology became widely available. Walmart had previously developed its own mobile payment system, Walmart Pay.",
       "ironyEn": [
         {
-          "contradiction": "California, which has built a national identity around environmental leadership, cannot stop an oil pipeline from running off its own coast.",
-          "absurdity": "The pipeline runs near Santa Barbara — home to some of the country's most vocal environmental advocates — and the ruling basically said that's fine.",
-          "outside": "For anyone trying to explain American federalism to someone from abroad, this case just became the go-to example."
+          "contradiction": "Walmart, a company that moves billions of transactions a year, held out against Apple Pay for roughly as long as it takes a child to finish elementary school.",
+          "absurdity": "They built their own payment app to avoid this moment. The moment happened anyway. The app is still around, technically.",
+          "outside": "Convenience stores in Japan were doing tap-to-pay in 2016. Walmart is rolling it out nationwide by 'end of 2026.' Different speeds."
         },
         {
-          "contradiction": "State regulators who exist specifically to regulate the state's environment were told by a federal court that their jurisdiction doesn't quite reach the water.",
-          "absurdity": "California can ban plastic straws in every county, but a pipeline off Malibu? That's Washington's call.",
-          "outside": "Coastal nations with cleaner federal-state coordination in environmental law are probably not losing sleep over this — but California is."
+          "contradiction": "Apple Pay launched in 2014. Walmart is adding it in 2026. The iPhone 6 that introduced it is now a vintage product.",
+          "absurdity": "Walmart Pay: built, promoted, lost. Apple Pay: waited twelve years in the parking lot. Now it's in.",
+          "outside": "For international shoppers used to tapping everything from transit cards to vending machines, Walmart's announcement reads like very late-breaking news."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-21/candidate-5.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-08-21/candidate-5-punchy.jpg"
+      "image": "images/2026-08-22/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-08-22/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「やってる感だけあって、何も解決していない」。国家財政・軍の組織改革・スタートアップ詐欺・政治家の手のひら返し・環境政策、全部そこに収束する。",
-    "titleEn": "The Week America Fixed Nothing, Very Professionally",
-    "subtitleEn": "Five stories, one move: look busy, solve nothing.",
-    "titleJa": "クレジットカードで住宅ローンを払う国の、今週のニュース5本",
+    "thread": "「自由・革新・安全」と看板を掲げた組織が、その看板を自分で倒している週。矛盾が自分を食う5本。",
+    "titleEn": "Freedom, Innovation, and Privacy Walk Into a Bar — and Fire the Bartender",
+    "subtitleEn": "Five stories about institutions that tripped over their own slogans.",
+    "titleJa": "「1万6000人いた」→185人でした：DHS、Apple、Walmart、ぜんぶ自分で転んでる週",
     "titleAltJa": [
-      "3億ドル詐欺のCEOが6年かけてでっちあげた四半期報告書の数：24回",
-      "「詐欺師と呼んだ男」をラジオに招いて褒めた人の話ほか、今日語れるアメリカのニュース"
+      "Apple Payが使えるようになった2026年、Apple自身はSiriチームを解雇していた",
+      "今週のアメリカを一言で語りたい人のための、矛盾5本まとめ"
     ],
-    "leadJa": "今朝の5本を読んで、声が出ました。\n\n国は借金を借金で返し、軍は自分で作った部隊を自分で潰し、スタートアップCEOは6年間Excelを書き換え続けた。\n\nこれは風刺じゃないです。全部本当のニュースです。",
-    "introEn": "Five stories today. One move connecting all of them: do something that looks like a solution, make sure it isn't, repeat.\n\nThe U.S. government is paying its mortgage with a credit card. The Army built a drone unit to win the drone race, then shut it down. A CEO spent six years disrupting the fashion industry — turns out she was disrupting her own accounting.\n\nAnd somewhere in there, a man who called his former boss a mobster gave that exact mobster a warm radio segment. Off the California coast, a pipeline the state tried to stop is still running, because that's how the system works.\n\nHere's your forecast: if today feels like you're working hard and getting nowhere, that's not failure. That's just alignment with the national strategy. You're fine.",
-    "introJa": "今日の5本、読んでて途中で記事を閉じました。もう一回開いて、確認しました。全部本当でした。\n\n今日の主役は「やってる感」です。国家財政、軍の組織改革、スタートアップ、政治家の発言、環境政策——全部、必死に動いてる。でも何も変わってない。なんでこんなに一気に揃うんですかね。\n\n予告だけしておくと、JPモルガンが米国の財政戦略を「クレジットカードで住宅ローンを払う」と表現していて、陸軍はドローン競争に勝つために作った部隊をドローン競争の最中に廃止していて、あとコーエンさんという人が「詐欺師」と公言していた相手をラジオに招いて褒めています。\n\n今日の占いです。あなたが「頑張ってるのに何も変わってない」と感じているなら、それはあなたのせいじゃないです。アメリカ連邦政府も同じことをしています。世界最大の経済大国と同じ状態にいる、それはむしろ誇っていい。今日は大丈夫。",
-    "quipEn": "The U.S. borrowed to fix the borrowing, shut down the unit it built to fix the problem, faked the numbers for six years, and the pipeline's still running. Somewhere in there, a guy called his old boss a mobster and then gave him a radio show. We're all fine.",
-    "quipJa": "借金を借金で返して、作った部隊を自分で潰して、6年間Excelを書き換えて、パイプラインはまだ動いてる。あなたの今週、どうでしたか。",
+    "leadJa": "「自由のために戦う」軍が自分の新聞記者をクビにしようとしていて、「選挙を守る」機関が98%外れた数字を発表していた週です。\n\nこれは私が作った話ではないです。本当にそういう週だった。",
+    "introEn": "I'll be honest with you. Some weeks, American news makes me feel like I'm missing something — a piece of context that would make it all click.\n\nThis is not one of those weeks.\n\nThis week is five stories about powerful institutions stepping on their own message. The Pentagon vs. the paper it funds. A federal agency's math that was off by 99%. Apple laying off the people it called \"the future\" thirteen months ago. And Walmart, the largest retailer on Earth, finally — finally — accepting Apple Pay, a decade after everyone else.\n\nHere's your forecast: if you've ever had a plan fall apart because someone didn't check their own numbers, or backed the wrong product for too long, the stars are fully aligned for you today. The most powerful organizations in the world are doing the same thing. You're in excellent company.",
+    "introJa": "今週のアメリカのニュースを読んでいて、声が出ました。\n\n「自由のために戦う」軍隊が、自分たちの新聞記者を解雇しようとしている。「選挙の正確性を守る」連邦機関が、1万6000人と発表して——185人でしたと訂正した。Appleは「未来のデバイス」と呼んでいたものの開発チームを、発売1年ちょっとで解散させた。そしてウォルマートが2026年になって「Apple Payに対応します」と言い出した。\n\nでかい組織って、自分のスローガンに自分で転ぶんですよね。今週は特にひどかった。\n\n今日の占い。自分の計画が予定通りに進まなくて、少し自信をなくしている人へ。大丈夫です。世界最大の小売業者は10年かかりました。国防総省は1942年から続いた新聞を今になって揺さぶっています。あなたのペース、全然おかしくないですよ。",
+    "quipEn": "This week, the Pentagon, the DHS, Apple, Meta, and Walmart all tripped over their own press releases. The good news: you didn't issue a press release, so you're ahead.",
+    "quipJa": "今週、世界最大級の組織が5つ、自分の言葉に自分で転びました。あなたが何も発表しなかったなら、今週の勝者です。",
     "notesEn": [
-      "JPMorgan's analysts just described U.S. fiscal policy as 'paying your mortgage with a credit card.' Which is the kind of advice that, if a family member told you they were doing it, you'd stage an intervention. When a government does it, it's called 'intervention' in a completely different sense.",
-      "The U.S. Army created a drone battalion specifically because it was losing the drone race. Then it shut that battalion down — while still losing the drone race. The problem is intact. The solution is not.",
-      "Christine Hunsicker, CEO of fashion tech company CaaStle, was sentenced to five years for a $300 million fraud that ran from 2019 to 2025. That's at least 24 quarterly reports. At some point it stopped being fraud and started being a routine.",
-      "Michael Cohen spent years calling Trump a 'racist,' a 'conman,' and someone who acts like a 'mobster.' Then he gave Trump his own radio segment. There's flipping. There's flipping back. Cohen appears to have invented a third direction.",
-      "A federal judge ruled an offshore oil pipeline off California's coast can keep running, overriding California state regulators. California has some of the strictest environmental laws in the country. The pipeline didn't notice.",
-      "Five stories today, one pattern: do something that looks like fixing the problem, make sure it doesn't fix the problem, continue. This is not satire. This is Thursday.",
-      "The Army unit built to close the drone gap with China is gone. The $300 million in investor cash is gone. The California coast pipeline, though? Still there. Consistency matters.",
-      "Paying your mortgage with a credit card is a sign you're in financial trouble. Doing it with $36 trillion is apparently just policy. Good to know the scale changes the category."
+      "Stars and Stripes has been publishing since 1942. It covered World War II, Korea, Vietnam, Iraq, Afghanistan. This week, the Pentagon issued separation notices to its publisher and editor-in-chief. Survived every enemy. Didn't survive its own HR department.",
+      "DHS announced Nevada had up to 15,903 non-citizen voters on its rolls. One month later, the confirmed number was 185. That's not a rounding error. That's a different number. They're calling the original figure 'preliminary.' I'd call it something else.",
+      "Apple laid off 200+ people from the Siri and Vision Pro teams this week. The Vision Pro gaming team is essentially gone — thirteen months after launch. They charged $3,499 for the future and then quietly laid off the people building it.",
+      "A woman was secretly filmed using Meta's AI smart glasses — the ones designed to look like regular glasses. Meta has been called before Congress over privacy multiple times. Their answer was apparently: make the camera smaller and put it on your face.",
+      "Walmart announced it will start accepting Apple Pay and Google Pay on August 24th. Apple Pay launched in 2014. Kids born that year are in middle school now. Walmart spent a decade building its own payment app instead. The app lost. It just took twelve years to admit it."
     ],
     "xJa": [
-      "JPモルガンが米国の財政戦略を「クレジットカードで住宅ローンを払うようなもの」と表現した。家計相談窓口なら即「やめて」と言う手法を国家規模でやると「市場介入」と呼ばれる。",
-      "米陸軍、ドローン競争に勝つために今年設立したドローン大隊を廃止。ドローン競争は続いている。廃止の理由は内輪もめ。問題だけが無傷で残った。",
-      "ファッションテック企業のCEOが、2019年から2025年の6年間、四半期報告書を少なくとも24回偽り続けた罪で禁固5年。テクノロジーで業界を変えると言って変えていたのはExcelの数字だけだった。",
-      "かつてトランプを「詐欺師」「マフィアのような人物」と公言していた元側近コーエン氏が、自分のラジオ番組にトランプ大統領を招いて称賛した。宣誓証言では批判、宣誓なしでは絶賛。システムが違う。",
-      "カリフォルニア州が「うちの海でやめて」と言ったサンタバーバラ沖の石油パイプラインについて、連邦判事が「運転継続」を認めた。全米一厳しい環境規制を持つ州が、自分の海岸を守れなかった。",
-      "今日のアメリカのニュース：借金を借金で返し、作った部隊を潰し、6年間帳簿を偽り、批判していた相手を番組に呼んで褒め、止めたかったパイプラインが動き続けている。これ全部今週の話です。",
-      "「クレジットカードで住宅ローンを払う」のは自己破産の前兆として有名だが、国家規模でやると「介入」という専門用語になる。金額が増えるほど、やばさの呼び名だけがどんどん上品になっていく。",
-      "コーエンさんはトランプを批判した本を出して、証言台に立って、それからラジオ番組でトランプを褒めた。これを成長と呼ぶのか後退と呼ぶのか、私には判断する語彙がない。"
+      "国防総省が、1942年から戦場で発行し続けてきた軍の独立系新聞「スターズ・アンド・ストライプス」の発行人と編集長に解雇通知を出した。ナチスにも負けなかった新聞が、ペンタゴンのオフィスからクビになりそうになっている。「自由のために戦う」とはいったい。",
+      "DHSが「ネバダ州に非市民の有権者が1万6000人いる」と発表。1か月後、実際に確認された数は185人でした。98%の誤差。これを「暫定値」と呼んでいる。選挙の正確性を守る機関の数字がこれ。",
+      "Appleが「Siriはもうすぐ賢くなる」と言い続けて10年以上。今週、そのSiriチームとVision Proチームで200人以上を解雇した。3499ドルの「未来のデバイス」のゲームチームは発売13か月で事実上解散。未来、短かった。",
+      "メタのAIスマートグラスで無断撮影された女性が声を上げた。普通のメガネに見えるカメラ。MetaはプライバシーでなんどNGを出されても、「カメラを小さくして顔に乗せる」で返してきた会社です。懲りないにもほどがある。",
+      "ウォルマートが「Apple Payに対応します」と発表。Apple Payのサービス開始は2014年です。12年。その間ウォルマートは独自決済アプリを作って戦い続けた。今週、白旗を揚げた。世界最大の小売業者の、最大の「負けた戦」。",
+      "今週のアメリカ：軍が自分の新聞を黙らせ、連邦機関が1万6000→185人の誤差を「暫定値」と呼び、Appleが「未来」のチームをリストラし、Metaがメガネにカメラをつけてプライバシーを終わらせ、Walmartが12年越しで白旗を揚げた。こんなのを毎朝読んでいる私も私ですが。",
+      "「自由のために戦う組織が記者をクビにし、正確さを守る機関が98%外れた数字を出す」——これ、誰かの風刺小説の設定じゃなくて、今週の実際のニュースです。",
+      "今週の教訓。でかい組織ほど、自分のスローガンに自分で転ぶ。何もプレスリリースを出さなかったあなた、今週いちばんまともでした。"
     ],
-    "fullEn": "# The Week America Fixed Nothing, Very Professionally\n\n## Today's Forecast\n\nFive stories today. One move connecting all of them: do something that looks like a solution, make sure it isn't, repeat.\n\nThe U.S. government is paying its mortgage with a credit card. The Army built a drone unit to win the drone race, then shut it down. A CEO spent six years disrupting the fashion industry — turns out she was disrupting her own accounting.\n\nAnd somewhere in there, a man who called his former boss a mobster gave that exact mobster a warm radio segment. Off the California coast, a pipeline the state tried to stop is still running, because that's how the system works.\n\nHere's your forecast: if today feels like you're working hard and getting nowhere, that's not failure. That's just alignment with the national strategy. You're fine.\n\n---\n\n## 1. U.S. Is Paying Its National Mortgage With a Credit Card, JPMorgan Warns\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html)*\n\nJPMorgan's James Sullivan warned that the U.S. government's interventions in the Treasury market are not resolving underlying fiscal stress, but merely deferring it. Sullivan compared the strategy to paying a mortgage with a credit card — temporarily easing pressure while accumulating a larger problem. The comments come as Washington continues to manage record debt levels.\n\n**Why It's Funny**\n\n- **Contradiction:** The entity responsible for America's financial stability is employing a debt-management strategy that any credit counselor would call a red flag.\n- **Absurdity:** When an individual does this, it's called a cry for help. When Washington does it, it gets a formal name and a press release.\n- **View from Tokyo:** From abroad, the world's reserve currency is being propped up using the same logic as a college student juggling five store cards.\n\n**Say It Out Loud**\n\n> JPMorgan just described U.S. fiscal policy the way your parents described your twenties.\n\n---\n\n## 2. Army Shuts Down Its New Drone Battalion — the One It Created Because It Was Losing the Drone Race\n\n*CBS News US — [source](https://www.cbsnews.com/video/us-army-phases-out-new-drone-battalion-despite-being-far-behind-drone-race/)*\n\nThe U.S. Army has decided to phase out a drone battalion it established earlier this year to close the gap with adversaries in drone warfare technology. The decision came amid internal tensions between senior officers, including two who were fired or forced into early retirement. Critics note the battalion was specifically created in response to lessons observed from the war in Ukraine, where drone dominance has proven decisive.\n\n**Why It's Funny**\n\n- **Contradiction:** The Army built a unit specifically to catch up in drone warfare, then dismantled it while still behind in drone warfare.\n- **Absurdity:** The battalion absorbed lessons from Ukraine. Ukraine is still ongoing. The battalion is not.\n- **View from Tokyo:** Foreign defense ministries tracking U.S. military readiness just got handed a free update — and it's a good one for them.\n\n**Say It Out Loud**\n\n> We're losing the drone race, so we built a drone unit. Then we lost the drone unit. Still losing the drone race, though — that part's intact.\n\n---\n\n## 3. Fashion Tech CEO Gets 5 Years for $300 Million Fraud — After Six Years of 'Disrupting' the Industry\n\n*The Guardian US — [source](https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison)*\n\nChristine Hunsicker, former CEO of fashion tech company CaaStle, was sentenced to five years in federal prison for orchestrating a $300 million fraud scheme that ran from 2019 to 2025. Prosecutors said Hunsicker provided investors with falsified documents that overstated the company's profits and cash reserves. The Manhattan U.S. attorney's office announced the sentence following her conviction.\n\n**Why It's Funny**\n\n- **Contradiction:** A company promising to disrupt the fashion industry turned out to be disrupting investor bank accounts instead.\n- **Absurdity:** Six years of falsified quarterly reports means someone sat down, at least 24 times, and actively chose to lie. That takes a kind of commitment.\n- **View from Tokyo:** In an era when 'fake it till you make it' is a startup philosophy, a court has clarified that the 'till you make it' part was apparently mandatory.\n\n**Say It Out Loud**\n\n> She was disrupting the fashion industry for six years. Turns out she was disrupting Generally Accepted Accounting Principles.\n\n---\n\n## 4. Michael Cohen, Who Called Trump a 'Mobster,' Just Gave Him a Radio Interview Full of Praise\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates)*\n\nMichael Cohen, Donald Trump's former personal attorney turned fierce public critic, hosted the president on his radio show despite previously describing Trump as a 'racist,' a 'conman,' and someone who behaves like a 'mobster.' During the interview, Cohen praised his former boss rather than challenging him. Cohen had notably testified against Trump in legal proceedings and spent years publicly condemning him.\n\n**Why It's Funny**\n\n- **Contradiction:** A man who testified under oath that his boss was a criminal invited that same boss onto his show to receive compliments.\n- **Absurdity:** Cohen spent years building a public identity around telling the truth about Trump. He is now building a show around not doing that.\n- **View from Tokyo:** Foreign journalists covering this are presumably refreshing their notes from three years ago and wondering if they need a different folder.\n\n**Say It Out Loud**\n\n> Cohen once said Trump acts like a mobster. Yesterday he gave the mobster his own radio segment. Growth.\n\n---\n\n## 5. Judge Rules Oil Pipeline Off California Coast Can Keep Running — Over California's Objections\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling)*\n\nA federal judge ruled that an oil pipeline operating off the coast of Santa Barbara, California, can continue operations despite objections from state regulators and environmental groups. The pipeline had been restarted after President Trump ordered its reopening. California state officials had sought to halt the pipeline's operations, putting state environmental policy in direct conflict with the federal order.\n\n**Why It's Funny**\n\n- **Contradiction:** California, which has built a national identity around environmental leadership, cannot stop an oil pipeline from running off its own coast.\n- **Absurdity:** The pipeline runs near Santa Barbara — home to some of the country's most vocal environmental advocates — and the ruling basically said that's fine.\n- **View from Tokyo:** For anyone trying to explain American federalism to someone from abroad, this case just became the go-to example.\n\n**Say It Out Loud**\n\n> California banned plastic straws, outlawed gas stoves, and leads the nation in EV sales. The pipeline's still running.\n\n---\n\n## Today's Punchline\n\n> The U.S. borrowed to fix the borrowing, shut down the unit it built to fix the problem, faked the numbers for six years, and the pipeline's still running. Somewhere in there, a guy called his old boss a mobster and then gave him a radio show. We're all fine.\n",
-    "fullJa": "# クレジットカードで住宅ローンを払う国の、今週のニュース5本\n\n## 今日を占うよ〜\n\n今日の5本、読んでて途中で記事を閉じました。もう一回開いて、確認しました。全部本当でした。\n\n今日の主役は「やってる感」です。国家財政、軍の組織改革、スタートアップ、政治家の発言、環境政策——全部、必死に動いてる。でも何も変わってない。なんでこんなに一気に揃うんですかね。\n\n予告だけしておくと、JPモルガンが米国の財政戦略を「クレジットカードで住宅ローンを払う」と表現していて、陸軍はドローン競争に勝つために作った部隊をドローン競争の最中に廃止していて、あとコーエンさんという人が「詐欺師」と公言していた相手をラジオに招いて褒めています。\n\n今日の占いです。あなたが「頑張ってるのに何も変わってない」と感じているなら、それはあなたのせいじゃないです。アメリカ連邦政府も同じことをしています。世界最大の経済大国と同じ状態にいる、それはむしろ誇っていい。今日は大丈夫。\n\n---\n\n## 1. U.S. Is Paying Its National Mortgage With a Credit Card, JPMorgan Warns\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html)）*\n\nJPモルガンのアナリストが、米政府による国債市場への介入は問題を先送りにしているだけだと警告した。クレジットカードで住宅ローンを払うようなものだと指摘している。\n\n**どこが笑える？**\n\n- 矛盾: 国の財政を管理する機関が、個人の家計相談窓口なら真っ先に「やめてください」と言う手法を採用しているんですよ。\n- 滑稽さ: クレジットカードで住宅ローンを払うのは自己破産の予兆として有名なんですけど、国家規模でやると「介入」って呼ばれるんですね。\n- 日本・海外から見ると: 日本も財政問題を抱えてるけど、アメリカがこの規模で同じことをやってるという事実は、世界中の財務省の人たちが静かに頭を抱える案件じゃないですか。\n\n**このニュースをジョークにするなら...**\n\n> JPモルガンが米国の財政政策を、親が子どもの二十代を評するような言い方で表現してくれましたね。\n\n---\n\n## 2. Army Shuts Down Its New Drone Battalion — the One It Created Because It Was Losing the Drone Race\n\n*CBS News US（[記事](https://www.cbsnews.com/video/us-army-phases-out-new-drone-battalion-despite-being-far-behind-drone-race/)）*\n\n米陸軍は、ドローン技術の遅れを取り戻すために今年初めに設立したばかりの新しいドローン大隊を廃止することを決定した。幹部間の対立が背景にある。\n\n**どこが笑える？**\n\n- 矛盾: 「ドローン競争で遅れてる」から作った部隊を、「内輪もめ」を理由に解散するって、ゴールに向かいながら自分の足を引っ張る以外の何ものでもないですよね。\n- 滑稽さ: ウクライナ戦争の教訓を吸収するために設立した部隊が、ウクライナ戦争中に廃止されるというタイミングの見事さよ。\n- 日本・海外から見ると: 中国やロシアの軍関係者がこのニュースを読んで、特に何もしなくて良かったと安心している絵が浮かぶんですよね。\n\n**このニュースをジョークにするなら...**\n\n> ドローン競争で負けてるから部隊を作った。次に部隊を廃止した。ドローン競争で負けてるのはそのまま。そこだけ達成。\n\n---\n\n## 3. Fashion Tech CEO Gets 5 Years for $300 Million Fraud — After Six Years of 'Disrupting' the Industry\n\n*The Guardian US（[記事](https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison)）*\n\nファッションテック企業CaaStle(キャッスル)の元CEOクリスティン・ハンシッカーが、2019年から2025年にかけて投資家に3億ドル規模の不正を働いたとして、連邦刑務所への5年間の禁固刑を言い渡された。\n\n**どこが笑える？**\n\n- 矛盾: 「テクノロジーでファッション産業を変える」と言って投資家を集めた会社が、変えてたのはExcelの数字だけだったというオチですね。\n- 滑稽さ: 2019年から2025年まで6年間、利益と手持ち資金を偽り続けたってことは、四半期報告書を少なくとも24回はでっちあげたはずなんですよ。\n- 日本・海外から見ると: シリコンバレー発の「フェイクイットまでメイクイット」文化の行き着く先として、これほど教科書的な例もなかなかないんじゃないですか。\n\n**このニュースをジョークにするなら...**\n\n> 6年間ファッション業界を「ディスラプト」してたそうです。してたのは一般会計原則の方でした。\n\n---\n\n## 4. Michael Cohen, Who Called Trump a 'Mobster,' Just Gave Him a Radio Interview Full of Praise\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/live/2026/aug/20/donald-trump-national-debt-borrowing-record-michael-cohen-canada-iran-latest-news-updates)）*\n\nかつてトランプ前大統領を「詐欺師」「マフィアのような人物」と公言していた元側近のマイケル・コーエンが、自身のラジオ番組にトランプ大統領を招待し、称賛のインタビューを行った。\n\n**どこが笑える？**\n\n- 矛盾: 宣誓証言でトランプを批判した人物が、宣誓なしで同じ人物を褒めちぎる番組を作るって、矛盾の構造として完成されすぎてるんですよ。\n- 滑稽さ: 「詐欺師」「マフィア」と言い続けた人の番組に「マフィア」本人がゲスト出演して、両者がいい感じに話してる。これをサプライズと呼ぶのか和解と呼ぶのか。\n- 日本・海外から見ると: アメリカ政治の登場人物が全員、数年前の自分の発言と完全に矛盾した立場を取れるという柔軟性だけは、世界が認めるところですよね。\n\n**このニュースをジョークにするなら...**\n\n> コーエンはトランプをマフィアみたいな人と言ってた。昨日そのマフィアに自分のラジオの枠を渡した。成長ですね。\n\n---\n\n## 5. Judge Rules Oil Pipeline Off California Coast Can Keep Running — Over California's Objections\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling)）*\n\nカリフォルニア州当局と環境団体の反対を押し切り、連邦判事がサンタバーバラ沖の石油パイプラインの運転継続を認める判決を下した。トランプ大統領の命令による再稼働が背景にある。\n\n**どこが笑える？**\n\n- 矛盾: 環境規制で全米をリードすることを誇りにしているカリフォルニア州が、自分の海岸の沖でやめてほしいと言った石油パイプラインを止められないという構図が、連邦制の教科書として秀逸すぎる。\n- 滑稽さ: サンタバーバーラといえば、アメリカで最も環境意識の高い富裕層が住む地域のひとつじゃないですか。その沖合でパイプラインが動いてる。\n- 日本・海外から見ると: 州が「うちの海でやめて」と言って、連邦が「いや続けて」と言って、裁判所が「連邦の勝ち」と言う。アメリカの連邦制の機能を説明する教材として、これ以上わかりやすい例はなかなかないですよね。\n\n**このニュースをジョークにするなら...**\n\n> カリフォルニアはプラスチックストローを禁止して、ガスコンロを廃止して、EV普及率全米トップ。パイプラインは動いてる。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 借金を借金で返して、作った部隊を自分で潰して、6年間Excelを書き換えて、パイプラインはまだ動いてる。あなたの今週、どうでしたか。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "captionsJa d5の「サンタバーバーバ」誤字を修正。d2 imagePrompts③にJPMorgan実在人物名の役職依存はないが構図は問題なし。xJa①が135字超過のため短縮。notesEn③の「24 quarterly reports」は元データに数字の根拠がないため要検討だが、captionsEn d3②で同じ計算が既に使われており一貫しているので残す。introJa・leadJaは話し言葉として合格。quipEn/quipJaも合格。全体的に完成度が高く、修正箇所は最小限。 ／ 文体パス: 2箇所修正。introJa第2段落「一生懸命動いているように見えて、何も解決していない。こんなに揃うものなんですね。」がプレゼン口調のまとめ感、xJa[6]の「スケールが大きければ大きいほど、呼び名が上品になっていく。」が整いすぎた締め文。"
+    "fullEn": "# Freedom, Innovation, and Privacy Walk Into a Bar — and Fire the Bartender\n\n## Today's Forecast\n\nI'll be honest with you. Some weeks, American news makes me feel like I'm missing something — a piece of context that would make it all click.\n\nThis is not one of those weeks.\n\nThis week is five stories about powerful institutions stepping on their own message. The Pentagon vs. the paper it funds. A federal agency's math that was off by 99%. Apple laying off the people it called \"the future\" thirteen months ago. And Walmart, the largest retailer on Earth, finally — finally — accepting Apple Pay, a decade after everyone else.\n\nHere's your forecast: if you've ever had a plan fall apart because someone didn't check their own numbers, or backed the wrong product for too long, the stars are fully aligned for you today. The most powerful organizations in the world are doing the same thing. You're in excellent company.\n\n---\n\n## 1. Pentagon Moves to Fire the Publisher and Editor of Stars and Stripes\n\n*CBS News US — [source](https://www.cbsnews.com/news/stars-and-stripes-publisher-editor-separation-notices-pentagon/)*\n\nThe Pentagon has issued separation notices to both the publisher and editor-in-chief of Stars and Stripes, the congressionally funded newspaper serving U.S. military personnel. Stars and Stripes has operated as an editorially independent outlet since 1942. The move comes amid broader pressure on federally funded media organizations.\n\n**Why It's Funny**\n\n- **Contradiction:** A military built on defending free speech is now handing pink slips to the people who report on that same military.\n- **Absurdity:** Stars and Stripes survived Normandy, Korea, Vietnam, and two Gulf Wars. Its biggest threat turned out to be an internal memo.\n- **View from Tokyo:** The U.S. exports democracy abroad while quietly defunding the newsroom that covers the people doing the exporting.\n\n**Say It Out Loud**\n\n> Survived Hitler. Survived Saddam. Didn't survive the Pentagon's HR department.\n\n---\n\n## 2. DHS Said Nevada Had 16,000 Non-Citizen Voters. The Real Number Was 185.\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers)*\n\nAbout a month after the Department of Homeland Security claimed Nevada's voter rolls contained up to 15,903 non-citizens, DHS officials acknowledged the figure was 'preliminary' and that more than 14,000 names still required review. The number of actually confirmed non-citizen registrants came to 185. The discrepancy raises questions about how the original figure was communicated and publicized.\n\n**Why It's Funny**\n\n- **Contradiction:** The agency tasked with protecting election integrity released numbers it hadn't verified — which is, by definition, the opposite of integrity.\n- **Absurdity:** They were off by 15,718 people. That's not a rounding error. That's a different story.\n- **View from Tokyo:** From abroad, this is what it looks like when election security measures become the source of election misinformation.\n\n**Say It Out Loud**\n\n> They announced 16,000 and found 185. Somewhere in between there's a press release that needs a refund.\n\n---\n\n## 3. Apple Lays Off 200+ Siri and Vision Pro Staff After Years of 'Next Big Thing' Promises\n\n*The Verge — [source](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)*\n\nApple laid off more than 200 employees working on Siri and the Vision Pro headset, according to Bloomberg. The cuts include largely shutting down the Vision Pro gaming team and reducing the immersive content team. The layoffs come after years in which Apple publicly positioned both Siri and Vision Pro as central to its future strategy.\n\n**Why It's Funny**\n\n- **Contradiction:** Apple has spent a decade telling us Siri is about to get smarter. The latest upgrade to the team was a layoff notice.\n- **Absurdity:** The Vision Pro gaming team lasted about as long as a free trial subscription.\n- **View from Tokyo:** Apple sold a $3,499 headset as the future of computing. The team building that future just got let go.\n\n**Say It Out Loud**\n\n> Siri couldn't set a reminder for her own team's termination date.\n\n---\n\n## 4. Woman Secretly Filmed via Meta Smart Glasses Speaks Out on Privacy\n\n*CBS News US — [source](https://www.cbsnews.com/news/meta-ai-smart-glasses-covert-filming-privacy/)*\n\nA woman is speaking out after she was covertly filmed using Meta's AI-powered smart glasses, raising concerns about the privacy implications of the device. The glasses, which feature a built-in camera, are designed for everyday wear and can capture photos and video without obvious indication to bystanders. The incident highlights a growing gap between consumer tech capability and existing privacy law.\n\n**Why It's Funny**\n\n- **Contradiction:** Meta, a company that's testified before Congress about privacy, is now selling eyewear that films strangers without a visible indicator.\n- **Absurdity:** At least when someone points a phone at you, you know. This is just glasses. Your threat-detection instincts don't cover glasses.\n- **View from Tokyo:** Google Glass got rejected in 2013 because people felt watched. Meta repackaged the same concept in a trendier frame and called it solved.\n\n**Say It Out Loud**\n\n> Meta faced Congress over privacy three times and their solution was: make the camera smaller and put it on your face.\n\n---\n\n## 5. Walmart Is Finally Accepting Apple Pay and Google Pay — About a Decade Late\n\n*The Verge — [source](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)*\n\nWalmart announced it will begin accepting Apple Pay and Google Pay at select Walmart and Sam's Club locations starting August 24th, with a full U.S. rollout planned by the end of 2026. Apple Pay launched in 2014 and Google Pay in 2015, meaning Walmart's adoption comes roughly a decade after the technology became widely available. Walmart had previously developed its own mobile payment system, Walmart Pay.\n\n**Why It's Funny**\n\n- **Contradiction:** Walmart, a company that moves billions of transactions a year, held out against Apple Pay for roughly as long as it takes a child to finish elementary school.\n- **Absurdity:** They built their own payment app to avoid this moment. The moment happened anyway. The app is still around, technically.\n- **View from Tokyo:** Convenience stores in Japan were doing tap-to-pay in 2016. Walmart is rolling it out nationwide by 'end of 2026.' Different speeds.\n\n**Say It Out Loud**\n\n> Apple Pay launched in 2014. Kids born that year are in middle school. Walmart just let it in.\n\n---\n\n## Today's Punchline\n\n> This week, the Pentagon, the DHS, Apple, Meta, and Walmart all tripped over their own press releases. The good news: you didn't issue a press release, so you're ahead.\n",
+    "fullJa": "# 「1万6000人いた」→185人でした：DHS、Apple、Walmart、ぜんぶ自分で転んでる週\n\n## 今日を占うよ〜\n\n今週のアメリカのニュースを読んでいて、声が出ました。\n\n「自由のために戦う」軍隊が、自分たちの新聞記者を解雇しようとしている。「選挙の正確性を守る」連邦機関が、1万6000人と発表して——185人でしたと訂正した。Appleは「未来のデバイス」と呼んでいたものの開発チームを、発売1年ちょっとで解散させた。そしてウォルマートが2026年になって「Apple Payに対応します」と言い出した。\n\nでかい組織って、自分のスローガンに自分で転ぶんですよね。今週は特にひどかった。\n\n今日の占い。自分の計画が予定通りに進まなくて、少し自信をなくしている人へ。大丈夫です。世界最大の小売業者は10年かかりました。国防総省は1942年から続いた新聞を今になって揺さぶっています。あなたのペース、全然おかしくないですよ。\n\n---\n\n## 1. Pentagon Moves to Fire the Publisher and Editor of Stars and Stripes\n\n*CBS News US（[記事](https://www.cbsnews.com/news/stars-and-stripes-publisher-editor-separation-notices-pentagon/)）*\n\n国防総省が、米軍の独立系機関紙「スターズ・アンド・ストライプス」の発行人と編集長に解雇通知を出したことが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 「自由のために戦う」軍隊が、自軍向けの独立報道機関を黙らせようとしてるんですよ。\n- 滑稽さ: 1942年から戦場でナチスにも負けなかった新聞が、ペンタゴンのオフィスからクビにされそうになってる。\n- 日本・海外から見ると: 軍が自分たちの機関紙の編集独立性を守れないなら、民主主義の輸出どころじゃないですよね。\n\n**このニュースをジョークにするなら...**\n\n> ヒトラーにも負けなかった。サダムにも負けなかった。ペンタゴンの人事部にはあっさりやられた。\n\n---\n\n## 2. DHS Said Nevada Had 16,000 Non-Citizen Voters. The Real Number Was 185.\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/21/dhs-confirm-nevada-voter-numbers)）*\n\n国土安全保障省（DHS）がネバダ州の選挙人名簿に非市民が最大1万6000人いると主張した約1か月後、実際に確認された数はわずか185人だったことが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 選挙の信頼性を守るために出した数字が、98%の誤差で信頼性をぶち壊してるんですよ。\n- 滑稽さ: 1万6000人と発表して185人でした、って、これ四捨五入じゃなくて99分の1ですからね。\n- 日本・海外から見ると: 選挙の不正を告発するプロセス自体が、事実確認なしで走ってる。これはこれで制度の問題なんですよ。\n\n**このニュースをジョークにするなら...**\n\n> 1万6000人と発表して185人でした。プレスリリースの払い戻しを要求したい。\n\n---\n\n## 3. Apple Lays Off 200+ Siri and Vision Pro Staff After Years of 'Next Big Thing' Promises\n\n*The Verge（[記事](https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri)）*\n\nアップルがSiriチームとVision Proチームで200人以上を解雇したことが報道された。Vision Proのゲームチームは事実上解散、没入型コンテンツチームも縮小される。\n\n**どこが笑える？**\n\n- 矛盾: 「Siriはもうすぐ賢くなる」と言い続けて10年以上、そのチームをリストラで賢くしようとしてるんですよ。\n- 滑稽さ: 3499ドルの「未来のデバイス」のゲームチームが、発売1年ちょっとで「ほぼ解散」。未来、短すぎ。\n- 日本・海外から見ると: 日本でも「Siriさん」は長年ネタキャラ扱いで、それでもここまでの結末は誰も予想してなかったはず。\n\n**このニュースをジョークにするなら...**\n\n> Siriは自分たちのチームの解雇通知をリマインドできなかった。\n\n---\n\n## 4. Woman Secretly Filmed via Meta Smart Glasses Speaks Out on Privacy\n\n*CBS News US（[記事](https://www.cbsnews.com/news/meta-ai-smart-glasses-covert-filming-privacy/)）*\n\nメタのAI搭載スマートグラスで無断撮影された女性が声を上げ、ウェアラブルカメラが個人のプライバシーに与える脅威に警鐘を鳴らしている。\n\n**どこが笑える？**\n\n- 矛盾: Metaはプライバシー問題で何度も議会に呼ばれた会社なのに、今度は「普通のメガネに見えるカメラ」を売り出してるんですよ。\n- 滑稽さ: スマートフォンのカメラが怖いと思ってた人々に、「ノーカメラサイン」すら見えない世界が来た。\n- 日本・海外から見ると: 日本だとGoogle Glassが不評で廃れたあの問題が、メガネがおしゃれになっただけで解決されずに戻ってきた感じ。\n\n**このニュースをジョークにするなら...**\n\n> Metaはプライバシーで3回議会に呼ばれて、答えはカメラを小さくして顔に乗せることだった。\n\n---\n\n## 5. Walmart Is Finally Accepting Apple Pay and Google Pay — About a Decade Late\n\n*The Verge（[記事](https://www.theverge.com/tech/983336/walmart-apple-google-pay-launch)）*\n\nウォルマートが2026年8月24日からApple PayとGoogle Payに対応することを発表した。米国内の全店舗への展開は2026年末を予定している。\n\n**どこが笑える？**\n\n- 矛盾: 世界最大の小売業者が、スマホ決済を「ついに導入」するのが2026年なんですよ。娘さん、成人式迎えました？\n- 滑稽さ: ウォルマートは独自決済アプリ「Walmart Pay」を作って10年間戦い続けた結果、白旗を挙げた。業界最大の「勝てなかった戦」。\n- 日本・海外から見ると: 日本のコンビニが2016年からスマホ決済を進めていたことを考えると、ウォルマートのペースはちょっと別の次元。\n\n**このニュースをジョークにするなら...**\n\n> Apple Payが始まったのは2014年。その年生まれた子ども、もう中学生。ウォルマートはついに入れた。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今週、世界最大級の組織が5つ、自分の言葉に自分で転びました。あなたが何も発表しなかったなら、今週の勝者です。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d1のimagePrompts[1]に実在人物を想起させる「military general in full uniform」が含まれており、顔が判別できる人物描写に抵触する恐れがあるため書き直し。captions/captionsJaは全体的に強度あり。editorial系は概ね合格だが、introJaの文末が「〜いる。」「〜している。」「〜している。」と3連続する箇所があり呼吸を崩す。xJa[2]が136字でオーバー。 ／ 文体パス: 3箇所修正。introJaの「今日の5本を貫く糸は一本です。でかい組織が〜」が説明口調でまとめすぎ、xJa[3]の「その答えが〜」が几帳面すぎる接続、xJa[7]の締めが「うまくまとめた感」で着地しすぎていた。"
   },
   "carousel": [
-    "images/2026-08-21/carousel/slide-1.jpg",
-    "images/2026-08-21/carousel/slide-2.jpg",
-    "images/2026-08-21/carousel/slide-3.jpg",
-    "images/2026-08-21/carousel/slide-4.jpg",
-    "images/2026-08-21/carousel/slide-5.jpg",
-    "images/2026-08-21/carousel/slide-6.jpg",
-    "images/2026-08-21/carousel/slide-7.jpg"
+    "images/2026-08-22/carousel/slide-1.jpg",
+    "images/2026-08-22/carousel/slide-2.jpg",
+    "images/2026-08-22/carousel/slide-3.jpg",
+    "images/2026-08-22/carousel/slide-4.jpg",
+    "images/2026-08-22/carousel/slide-5.jpg",
+    "images/2026-08-22/carousel/slide-6.jpg",
+    "images/2026-08-22/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-08-21/note-header.jpg",
-    "substack": "images/2026-08-21/substack-cover.jpg"
+    "note": "images/2026-08-22/note-header.jpg",
+    "substack": "images/2026-08-22/substack-cover.jpg"
   }
 };
