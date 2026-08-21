@@ -734,6 +734,7 @@ const state = {
 let CANDIDATES = [];                     // 実行時の5候補（全機能はこれを参照）
 let EDITORIAL = null;                    // 編集室データ（daily.json の editorial。無ければ null）
 let CAROUSEL = [];                       // TikTok/Instagram用カルーセル画像の相対パス
+let HEADERS = {};                        // 見出し画像 {note, substack}
 let dataSource = "モックデータ";
 
 /* commentary はHTMLとして描画されるため、<b>タグ以外はエスケープする */
@@ -830,6 +831,7 @@ async function loadDailyData(){
     applyCandidates(normalizeCandidates(json), "daily.json");
     EDITORIAL = normalizeEditorial(json.editorial);
     CAROUSEL = Array.isArray(json.carousel) ? json.carousel.map(String) : [];
+    HEADERS = (json.headers && typeof json.headers === 'object') ? json.headers : {};
     return;
   } catch(e){ /* 次の経路へ */ }
   // 2) daily.js → window.DAILY_DATA（file:// で直接開いた場合の代替経路）
@@ -838,6 +840,7 @@ async function loadDailyData(){
       applyCandidates(normalizeCandidates(window.DAILY_DATA), "daily.js");
       EDITORIAL = normalizeEditorial(window.DAILY_DATA.editorial);
       CAROUSEL = Array.isArray(window.DAILY_DATA.carousel) ? window.DAILY_DATA.carousel.map(String) : [];
+      HEADERS = (window.DAILY_DATA.headers && typeof window.DAILY_DATA.headers === 'object') ? window.DAILY_DATA.headers : {};
       return;
     }
   } catch(e){ /* 次の経路へ */ }
@@ -1081,6 +1084,29 @@ function copyPack(kind, ev){
   }
 }
 
+/* 単一ファイルのダウンロード(見出し画像用) */
+async function downloadHeaderImage(key, name, ev){
+  const btn = ev ? ev.currentTarget : null;
+  const p = HEADERS && HEADERS[key];
+  if (!p){ toast("見出し画像は明朝の生成から利用できます"); return; }
+  try {
+    if (btn) btn.textContent = "⏳";
+    const res = await fetch(new URL(p, location.href).href);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const blob = await res.blob();
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = name;
+    a.click();
+    URL.revokeObjectURL(a.href);
+    toast("見出し画像を保存しました");
+  } catch(e){
+    toast("保存に失敗しました: " + (e && e.message ? e.message : e));
+  } finally {
+    if (btn) btn.textContent = "🖼 見出し画像";
+  }
+}
+
 /* カルーセル7枚をZIPで一括ダウンロード */
 async function downloadCarousel(ev){
   const btn = ev ? ev.currentTarget : null;
@@ -1173,13 +1199,15 @@ function renderEditorial(){
       <p class="lede" style="margin-bottom:10px">下のボタンは<b>整形済み（見出し・画像・出典リスト入り）</b>でコピーします。エディタに貼り付けるだけでレイアウトが再現されます。</p>
 
       <div class="ed-item" style="align-items:center">
-        <div class="t"><b>① note</b>（毎日）: タイトル → 本文の順にコピーして貼る</div>
+        <div class="t"><b>① note</b>（毎日）: タイトル → 本文 → 見出し画像を設定</div>
+        <button class="btn" onclick="downloadHeaderImage('note', 'note-header.jpg', event)">🖼 見出し画像</button>
         <button class="btn" onclick="copyPack('note-title', event)">📋 タイトル</button>
         <button class="btn primary" onclick="copyPack('note-body', event)">📋 本文</button>
       </div>
 
       <div class="ed-item" style="align-items:center; ${isSubstackDay ? "" : "opacity:.55"}">
         <div class="t"><b>② Substack</b>（平日毎日${isSubstackDay ? "・<b>今日は投稿日</b>" : "・週末はお休み"}）: Title → Subtitle → 本文（米国東部時間 朝7時に予約投稿）</div>
+        <button class="btn" onclick="downloadHeaderImage('substack', 'substack-cover.jpg', event)">🖼 見出し画像</button>
         <button class="btn" onclick="copyPack('sub-title', event)">📋 Title</button>
         <button class="btn" onclick="copyPack('sub-subtitle', event)">📋 Sub</button>
         <button class="btn primary" onclick="copyPack('sub-body', event)">📋 本文</button>
