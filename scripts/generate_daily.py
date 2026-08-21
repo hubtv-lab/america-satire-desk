@@ -1084,6 +1084,136 @@ def generate_article_images(candidates: list[dict], today: str) -> None:
 
 
 # ----------------------------------------------------------------
+# 3.65. 記事の見出し画像（note用アイキャッチ / Substackカバー）
+#   - 5枚の風刺画をコラージュし、その日のタイトルを帯に載せる
+#   - note: 1280x670(日本語) / Substack: 1200x630(英語)
+# ----------------------------------------------------------------
+
+def _cover_crop(img, w: int, h: int):
+    """中央クロップでw×hにフィットさせる。"""
+    from PIL import Image
+    ratio = max(w / img.width, h / img.height)
+    r = img.resize((int(img.width * ratio) + 1, int(img.height * ratio) + 1),
+                   Image.LANCZOS)
+    x = (r.width - w) // 2
+    y = (r.height - h) // 2
+    return r.crop((x, y, x + w, y + h))
+
+
+def _collage_base(candidates, W: int, H: int):
+    """5枚モザイク背景（左に大1枚+右に2x2）。欠けはクリームで埋める。"""
+    from PIL import Image
+    base = Image.new("RGB", (W, H), (243, 237, 224))
+    arts = []
+    for c in candidates[:5]:
+        p = ROOT / c["image"] if c.get("image") else None
+        if p and p.exists():
+            try:
+                arts.append(Image.open(p).convert("RGB"))
+                continue
+            except Exception:
+                pass
+        arts.append(None)
+    lw = W // 2
+    cw, ch = W - lw, H // 2
+    slots = [(0, 0, lw, H), (lw, 0, cw // 2, ch), (lw + cw // 2, 0, cw - cw // 2, ch),
+             (lw, ch, cw // 2, H - ch), (lw + cw // 2, ch, cw - cw // 2, H - ch)]
+    for art, (x, y, w, h) in zip(arts, slots):
+        if art:
+            base.paste(_cover_crop(art, w - 2, h - 2), (x + 1, y + 1))
+    return base
+
+
+def _wrap_cjk(draw, text: str, font, max_width: int) -> list[str]:
+    """CJK対応の文字単位折り返し。"""
+    lines, cur = [], ""
+    for ch in text:
+        if draw.textlength(cur + ch, font=font) <= max_width:
+            cur += ch
+        else:
+            lines.append(cur)
+            cur = ch
+    if cur:
+        lines.append(cur)
+    return lines
+
+
+def generate_article_headers(candidates: list[dict], editorial: dict | None,
+                             today: str) -> dict:
+    """note用アイキャッチとSubstackカバーを生成。失敗時は空dict。"""
+    if not HAS_PIL or not editorial:
+        return {}
+    from PIL import Image, ImageDraw, ImageFont
+    out: dict = {}
+    try:
+        mascot = None
+        mp = ROOT / "images" / "mascot.png"
+        if mp.exists():
+            try:
+                mascot = Image.open(mp).convert("RGBA")
+            except Exception:
+                mascot = None
+
+        def compose(W, H, title, brand, jp: bool, fname: str):
+            img = _collage_base(candidates, W, H)
+            d = ImageDraw.Draw(img, "RGBA")
+            text_w = W - 120 - (240 if mascot else 0)
+
+            # タイトルの長さに応じてフォントサイズを自動調整（2行以内を優先、最大3行）
+            def load(size):
+                return (ImageFont.truetype(FONT_DIR_CJK, size, index=0) if jp
+                        else ImageFont.truetype(f"{FONT_DIR}/DejaVuSans-Bold.ttf", size))
+            f_title, lines = None, []
+            for size in ((72, 60, 50) if jp else (62, 52, 44)):
+                f_title = load(size)
+                lines = (_wrap_cjk(d, title, f_title, text_w) if jp
+                         else _wrap_text(d, title, f_title, text_w))
+                if len(lines) <= (2 if size > 55 else 3):
+                    break
+            lines = lines[:3]
+            line_h = f_title.size + 12
+
+            # 帯の高さを行数から逆算（タイトル+ブランド行が必ず収まる）
+            band_top = H - (34 + len(lines) * line_h + 18 + 46 + 24)
+            band_top = max(int(H * 0.34), band_top)
+            d.rectangle([0, band_top, W, H], fill=(246, 241, 231, 240))
+            d.rectangle([0, band_top, W, band_top + 8], fill=(205, 107, 87, 255))
+            y = band_top + 34
+            for ln in lines:
+                d.text((60, y), ln, font=f_title, fill=(69, 63, 54))
+                y += line_h
+            f_small = (ImageFont.truetype(FONT_DIR_CJK, 28, index=0) if jp
+                       else ImageFont.truetype(f"{FONT_DIR}/DejaVuSans-Bold.ttf", 26))
+            d.text((60, H - 48), brand, font=f_small, fill=(95, 114, 145))
+            if mascot:
+                mh = min(230, H - band_top - 20)
+                s = mascot.resize((mh, mh), Image.LANCZOS).rotate(
+                    -8, expand=True, resample=Image.BICUBIC)
+                img.paste(s, (W - s.width - 18, H - s.height - 14), s)
+            path = IMAGES_DIR / today / fname
+            img.save(path, "JPEG", quality=90)
+            return f"images/{today}/{fname}"
+
+        title_ja = editorial.get("titleJa") or ""
+        title_en = editorial.get("titleEn") or ""
+        if title_ja and not os.path.exists(FONT_DIR_CJK):
+            print("[warn] CJK font missing — skipping note header "
+                  "(add fonts-noto-cjk to the workflow)", file=sys.stderr)
+            title_ja = ""
+        if title_ja:
+            out["note"] = compose(1280, 670, title_ja,
+                                  "明日使えるアメリカンジョーク", True, "note-header.jpg")
+        if title_en:
+            out["substack"] = compose(1200, 630, title_en,
+                                      "JOKES YOU CAN USE — the view from Tokyo",
+                                      False, "substack-cover.jpg")
+        print(f"[ok] article header images: {', '.join(out.keys()) or 'none'}")
+    except Exception as e:
+        print(f"[warn] header image generation failed: {e}", file=sys.stderr)
+    return out
+
+
+# ----------------------------------------------------------------
 # 3.7. カルーセル自動組版（TikTokフォトモード / Instagram用・英語）
 #   - 表紙 + 風刺画5枚(パンチライン焼き込み) + CTA の7枚を毎朝生成
 #   - 1080x1350 (4:5)。Pillowのみで組版。失敗しても本体は止めない
@@ -1096,6 +1226,7 @@ C_NAVY = (95, 114, 145)
 C_CORAL = (205, 107, 87)
 C_LINE = (231, 222, 204)
 FONT_DIR = "/usr/share/fonts/truetype/dejavu"
+FONT_DIR_CJK = "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"  # 日本語(要fonts-noto-cjk)
 NEWSLETTER_CTA = os.environ.get(
     "CAROUSEL_CTA", "Full monologue + the line to steal → link in bio")
 
@@ -1295,7 +1426,8 @@ def atomic_write(path: Path, text: str) -> None:
 
 def write_outputs(candidates: list[dict], today: str,
                   editorial: dict | None = None,
-                  carousel: list[str] | None = None) -> None:
+                  carousel: list[str] | None = None,
+                  headers: dict | None = None) -> None:
     daily = {
         "version": 1,
         "date": today,
@@ -1304,6 +1436,7 @@ def write_outputs(candidates: list[dict], today: str,
         "candidates": candidates,
         "editorial": editorial,  # モノローグ下書き+SNS候補（生成失敗時は null）
         "carousel": carousel or [],  # TikTok/Instagram用カルーセル画像の相対パス
+        "headers": headers or {},  # 見出し画像 {note: path, substack: path}
     }
     payload = json.dumps(daily, ensure_ascii=False, indent=2)
 
@@ -1353,9 +1486,11 @@ def main() -> int:
                       file=sys.stderr)
             # 記事用画像にPunchyを合成（note/Substack埋め込み用）
             generate_article_images(candidates, today)
+            # 見出し画像（noteアイキャッチ / Substackカバー）
+            headers = generate_article_headers(candidates, editorial, today)
             # カルーセル組版（風刺画の後。失敗しても本体は止めない）
             carousel = generate_carousel(candidates, editorial, today)
-            write_outputs(candidates, today, editorial, carousel)
+            write_outputs(candidates, today, editorial, carousel, headers)
             print("[done] generation succeeded")
             return 0
         except Exception as e:
