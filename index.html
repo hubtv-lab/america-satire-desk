@@ -1034,6 +1034,8 @@ function buildNoteHtml(){
     parts.push("<h2>今日のまとめジョーク/パンチライン</h2>");
     parts.push(`<blockquote><p>${esc(ed.quipJa)}</p></blockquote>`);
   }
+  // 締めの固定挨拶（noteエディタが最後尾ブロックを取りこぼす対策も兼ねる）
+  parts.push("<p>今日も読んでくれてありがとうございます。また明日の朝、ここで。</p>");
   return parts.join("\n");
 }
 
