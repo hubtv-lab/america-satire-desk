@@ -1,53 +1,53 @@
 window.DAILY_DATA = {
   "version": 1,
   "date": "2026-08-21",
-  "generatedAt": "2026-08-20T20:17:11+00:00",
+  "generatedAt": "2026-08-21T07:31:53+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Education Dept. Recalculates PSLF Progress — Borrowers Discover They're Further From Forgiveness Than Ever",
-        "source": "CNBC Top News",
+        "headline": "Fashion Tech CEO Gets 5 Years for $300M Fraud — Turns Out 'Disrupting' Included the Truth",
+        "source": "The Guardian US",
         "date": "2026-08-21",
-        "url": "https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html",
-        "summary": "教育省が公共サービスローン免除（PSLF）プログラムの返済カウントを再計算した結果、多くの借り手が想定より債務免除から遠ざかっていることが判明した。"
+        "url": "https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison",
+        "summary": "ファッションテック企業CaaStle創業者のクリスティン・ハンシッカーCEOが、2019年から2025年にかけて投資家に利益と手元資金を偽った書類を提出し3億ドル規模の詐欺を主導したとして、連邦裁判所から禁固5年の判決を受けた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「公共サービスへの奉仕に報いる」制度が、奉仕し続けた人ほど「やっぱりまだ先です」と言われる構造になってる。",
-        "<b>滑稽さ:</b> 10年払い続けて「あなたの進捗をリセットします」って、ゲームのセーブデータ消去と何が違うんですか。",
-        "<b>日本・海外から見ると:</b> 日本でも奨学金の返済問題は深刻だけど、「もうすぐゴール」と思ってたら「ゴールが移動しました」はさすがに見たことない。"
+        "<b>矛盾:</b> 「テクノロジーで業界を変革する」と言い続けた6年間、実際に変革していたのは財務諸表の数字だったんですよ。",
+        "<b>滑稽さ:</b> 服の「シェアリング」を売りにした会社が、やっていたのは架空の利益を投資家とシェアすること。",
+        "<b>日本・海外から見ると:</b> シリコンバレー流の「まず大きく見せろ」文化が行き着いた先として、海外のスタートアップ投資家には「またか」と映るはずなんですよね。"
       ],
       "imagePrompts": [
-        "A teacher in a graduation gown standing at a finish-line tape stretched across a road labeled 'PSLF FORGIVENESS.' A government official with a clipboard moves the tape 50 feet further down the road. The teacher's face shows exhausted disbelief.",
-        "A giant odometer on a wall reading 119 out of 120 payments, with a hand in a suit reaching over and rolling it back to 85. Stacks of paperwork on the floor.",
-        "A board game called 'Public Service Loan Forgiveness' where several player tokens are near the finish square. A game card reads: 'Government Recalculation — Move Back 30 Spaces.' Players stare at the board in silence."
+        "A CEO in a business suit standing at a podium labeled 'DISRUPT THE FUTURE,' presenting a bar chart where every bar is visibly made of tissue paper and falling apart at the edges",
+        "A high-end clothing rental rack with price tags replaced by tags reading 'IMAGINARY REVENUE,' set inside a gleaming startup office with motivational posters on the walls",
+        "A federal courtroom where the evidence table holds a single printed spreadsheet with obviously altered numbers circled in red, surrounded by a stack of fashion lookbooks"
       ],
       "captions": [
-        "They said ten years of public service and you're free. They didn't mention the ten years resets if someone at HQ sneezes on a spreadsheet.",
-        "A nurse who's been filing PSLF paperwork since 2016 just found out she's at year four. The program is working exactly as intended, apparently.",
-        "You ever run a marathon, cross the finish line, and have someone tap you on the shoulder and go, 'Actually, this was a training run'?",
-        "Imagine a loyalty card where the coffee shop can erase your stamps. That's the federal student loan system.",
-        "The Department of Education: making sure public servants stay humble about that whole 'nearly debt-free' feeling."
+        "She disrupted the fashion industry, the investment community, and federal securities law — in that order.",
+        "Six years of fake profits. Most startups can't even fake traction for six months — respect the commitment.",
+        "The business model was 'rent clothes you don't own.' Somewhere along the way, 'clothes' became 'cash reserves.'",
+        "Five years. For $300 million. Her investors are doing the math and it's not adding up — which, honestly, tracks.",
+        "They called it a fashion tech company. The only thing she was really tailoring was the balance sheet."
       ],
       "captionsJa": [
-        "10年奉仕すれば自由って言ったじゃないですか。「担当者がスプレッドシートでくしゃみしたらリセット」は聞いてないですよ。",
-        "2016年からPSLF書類を出し続けてきた看護師が「あなたは4年目です」と言われた。制度はちゃんと機能してるらしい。",
-        "フルマラソン走ってゴール切ったら、係員に「あ、これ練習走ですよ」って言われた感じ、経験ありますか。",
-        "スタンプが消えるポイントカード、想像してみてください。それが連邦学生ローン制度です。",
-        "教育省、「もうすぐ完済」という高揚感を公務員に味わわせない努力を怠らない。"
+        "ファッション業界を変えた、投資家も変えた、そして連邦法も変えようとした――この順番で。",
+        "6年間、ずっと架空の利益。ふつうのスタートアップは半年も嘘をつき続けられない。ある意味すごい。",
+        "「持たない服を借りる」ビジネスが、いつの間にか「存在しない利益を借りる」ビジネスになってた。",
+        "5年の実刑、3億ドルの被害。投資家たちが計算しても答えが合わない――まあ、最初からそうだったんですけどね。",
+        "ファッションテック企業と名乗っていたが、彼女が本当に仕立てていたのは決算書のほうだった。"
       ],
-      "newsEn": "The U.S. Department of Education has recalculated qualifying payment counts for borrowers pursuing Public Service Loan Forgiveness. Many borrowers have discovered their progress toward the 120-payment threshold has been set back, in some cases significantly. The program was created to reward public servants — teachers, nurses, government workers — with loan forgiveness after ten years of qualifying payments.",
+      "newsEn": "Christine Hunsicker, the former CEO of fashion tech startup CaaStle, was sentenced to five years in federal prison for orchestrating a $300 million fraud scheme that ran from 2019 to 2025. Prosecutors said she provided investors with falsified documents that overstated the company's profits and cash reserves. The Manhattan U.S. attorney's office announced the sentencing.",
       "ironyEn": [
         {
-          "contradiction": "A program designed to reward public service has found a new way to extend the punishment phase.",
-          "absurdity": "Somewhere, a nurse who's been filing paperwork for nine years just found out her payment count is back to year four.",
-          "outside": "Most countries forgive student debt by policy. America forgives it by a 120-step obstacle course that occasionally resets."
+          "contradiction": "A CEO who promised to 'disrupt' the fashion industry spent six years disrupting her own financial statements instead.",
+          "absurdity": "The company's whole pitch was sharing clothes you don't own — and apparently that extended to sharing profits that didn't exist.",
+          "outside": "For anyone watching from outside Silicon Valley, a startup founder going to prison for overstating numbers is less 'shocking scandal' and more 'Tuesday.'"
         },
         {
-          "contradiction": "The government told public servants: 'Keep going, ten years and you're free.' Then recounted the laps.",
-          "absurdity": "The Department of Education has essentially invented a treadmill that tracks backward.",
-          "outside": "From the outside, this looks less like a forgiveness program and more like a loyalty test for people who've already proved it."
+          "contradiction": "CaaStle was built on the idea that you don't have to own something to benefit from it — a philosophy the CEO applied directly to her investor funds.",
+          "absurdity": "She submitted falsified documents for six straight years. At some point that stops being fraud and starts being a subscription service.",
+          "outside": "Five years in prison for $300 million in fake profits. Meanwhile, her investors are still waiting on their real ones."
         }
       ],
       "imageSeed": 1,
@@ -58,47 +58,47 @@ window.DAILY_DATA = {
     {
       "id": "d2",
       "news": {
-        "headline": "FCC Kills Gigabit Broadband Speed Goals — Officially Decides Fast Internet Is Too Ambitious",
-        "source": "The Verge",
+        "headline": "Army Shuts Down Drone Battalion It Created to Catch Up on Drones",
+        "source": "CBS News US",
         "date": "2026-08-21",
-        "url": "https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal",
-        "summary": "FCC（連邦通信委員会）のブレンダン・カー委員長が、バイデン政権時代に設定されたギガビット速度を目標とする長期ブロードバンド目標を廃止した。"
+        "url": "https://www.cbsnews.com/video/us-army-phases-out-new-drone-battalion-despite-being-far-behind-drone-race/",
+        "summary": "米陸軍は、ウクライナ戦争の教訓を吸収しドローン戦に追いつくために今年初めに創設したドローン大隊を廃止する方針を決定した。廃止の背景には、担当幹部2人の解雇・早期退職強制を含む上層部内の対立がある。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「世界最先端のテクノロジー大国」を自称する国の通信規制機関が、インターネットの速度目標を「高すぎる」として下げてる。",
-        "<b>滑稽さ:</b> ギガビット回線を「夢を見すぎ」と判断する一方で、同じ週にAI覇権の話を国会でやってたりするんですよね。",
-        "<b>日本・海外から見ると:</b> 日本で1Gbps回線が月3,000円台で普通に買える中、アメリカは「ギガビット、さすがに無理でしょ」って方向に舵を切った。"
+        "<b>矛盾:</b> ドローン競争に遅れているから作ったユニットを、ドローン競争に遅れたまま解散させる――解決策が問題と同じ形をしてるんですよ。",
+        "<b>滑稽さ:</b> 廃止の理由が「幹部同士の仲たがい」というのも間の抜けた話で、最先端の軍事技術より先に崩壊したのが人間関係。",
+        "<b>日本・海外から見ると:</b> ウクライナから学んだはずの教訓が、官僚的な内輪もめで消えていく様子は、同盟国から見るとかなり不安な絵面なんですよね。"
       ],
       "imagePrompts": [
-        "An FCC official at a podium formally erasing a large highway speed limit sign that reads 'GOAL: 1 GBPS' and replacing it with a sign that reads 'WHATEVER'S FINE.' A crowd of telecom executives applauds in the background.",
-        "A race track where the finish line is being moved closer to the starting blocks. A runner labeled 'US broadband' looks relieved. Runners from Japan, South Korea, and Sweden are already in the parking lot having snacks.",
-        "A government building with a banner reading 'AI SUPERPOWER' out front. Inside, a small office where someone is filing paperwork to cancel a gigabit internet goal. The lights flicker from a slow connection."
+        "A military general standing in front of a large banner reading 'DRONE INNOVATION BATTALION — EST. 2026' while holding a 'CLOSED' sign, a fleet of drones still hovering uselessly behind him",
+        "A whiteboard in a military briefing room showing a flowchart: 'Problem: Losing drone race' → 'Solution: Drone Battalion' → 'New Problem: Generals argue' → 'Solution: Delete drone battalion,' with the final arrow looping back to the start",
+        "Two empty high-backed chairs facing each other across a long conference table littered with crumpled memos, a small drone hovering unattended between them with a 'FOR SALE' tag attached, the room otherwise deserted"
       ],
       "captions": [
-        "The FCC declared gigabit internet too ambitious. Meanwhile, my cousin in Osaka is watching 4K on five devices and complaining it feels slow.",
-        "America: we will win the AI race. Also America: gigabit speeds? Let's not get crazy.",
-        "They didn't kill the dream of fast internet. They downgraded it to a participation ribbon and filed the paperwork in triplicate.",
-        "When the internet regulator's solution to slow broadband is to lower what counts as a goal — that's not policy, that's a participation ribbon.",
-        "Other countries hit gigabit years ago. The U.S. response: stop measuring."
+        "We're behind on drones, so we built a drone unit, and then we fired the guys who built it and shut the unit down. Caught up yet?",
+        "The drones survived. The org chart didn't. Casualties: two generals and whatever credibility we had left.",
+        "Learning from Ukraine took six months. Unlearning it took a personnel dispute and an early retirement package.",
+        "Somewhere in Beijing, a general just put down his coffee and said, 'Wait — they did what?'",
+        "The unit was called a drone battalion. What they actually built was a very expensive argument between colonels."
       ],
       "captionsJa": [
-        "FCCがギガビット回線を「野心的すぎる」と認定。一方、大阪の親戚は5台同時に4K流しながら「遅い」って言ってる。",
-        "アメリカ「AIレースに勝つ」。アメリカFCC「ギガビット回線の目標は廃止」。うん、戦略一貫してますね。",
-        "高速インターネットという夢を潰したんじゃないんです。参加賞に格下げして、書類を3部提出しただけ。",
-        "目標を達成できない解決策が「目標を下げる」——それ、政策じゃなくて参加賞ですよ。",
-        "他の国はもうギガビット達成済み。アメリカの対応：スコアボードを撤去。"
+        "ドローンで遅れてるからドローン部隊を作って、作った人を首にして部隊を解散した。追いつけましたか？",
+        "ドローンは無事だった。崩壊したのは組織図のほう。犠牲者：将官2名と残り少ない信頼。",
+        "ウクライナから学ぶのに6か月かかった。それを無かったことにするのに要したのは、人事トラブルと早期退職手当。",
+        "北京のどこかで将官がコーヒーを置いて「……え、何したって？」と言ってるはず。",
+        "ドローン大隊と呼ばれていたが、実際に作り上げたのは将校たちの非常に高コストな口論だった。"
       ],
-      "newsEn": "FCC Chairman Brendan Carr has officially eliminated long-term broadband speed goals that aimed to bring gigabit-level download speeds to Americans. The goals were established during the Biden administration. Carr had signaled this move in 2025. The United States continues to lag behind many peer nations in average broadband speeds and access.",
+      "newsEn": "The U.S. Army has decided to phase out a drone battalion it established earlier this year specifically to help close the gap with adversaries in drone warfare, drawing on lessons observed in the Ukraine conflict. The decision came amid reported tensions between senior Army officials, including two who were either fired or forced into early retirement. The move has raised concerns given that the U.S. is widely considered to be behind in drone technology and deployment.",
       "ironyEn": [
         {
-          "contradiction": "The country that invented the internet just officially decided that fast internet is a bridge too far.",
-          "absurdity": "American leaders are out here promising AI dominance while the FCC quietly unpromises the broadband speeds AI would need.",
-          "outside": "Japan sells gigabit home internet for about $25 a month. The FCC's response is essentially: let's not make that a goal."
+          "contradiction": "The Army created a drone battalion because it was losing the drone race. It's now disbanding that battalion — while still losing the drone race.",
+          "absurdity": "The unit wasn't taken down by enemy fire. It was taken down by a disagreement between generals.",
+          "outside": "America's allies watching this unfold are probably not feeling great about the 'world's most powerful military' branding right now."
         },
         {
-          "contradiction": "The agency charged with improving communications just lowered the ambition bar on communications.",
-          "absurdity": "Somewhere a senator is giving a speech about winning the AI race on a connection that still buffers during the intro.",
-          "outside": "South Korea, Japan, and most of Western Europe hit gigabit speeds years ago. The U.S. regulator's move is to stop keeping score."
+          "contradiction": "The whole point of the battalion was to absorb lessons from Ukraine. The lesson the Army actually absorbed was 'don't let two generals disagree about it.'",
+          "absurdity": "They fired the people who built the unit and then shut down the unit. The drones are fine. The org chart is the casualty.",
+          "outside": "China and Russia are watching a U.S. drone program collapse due to internal HR issues. That's either deeply reassuring or deeply funny, depending on where you're sitting."
         }
       ],
       "imageSeed": 2,
@@ -109,47 +109,47 @@ window.DAILY_DATA = {
     {
       "id": "d3",
       "news": {
-        "headline": "U.S. Sports Fans Spend ~$2,000 a Year on Their Teams — and Many Go Into Debt Doing It",
-        "source": "CNBC Top News",
+        "headline": "Judge Lets California Oil Pipeline Keep Running — Over California's Objections",
+        "source": "The Guardian US",
         "date": "2026-08-21",
-        "url": "https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html",
-        "summary": "アメリカのスポーツファンは年間約2,000ドルを応援するチームに費やしており、多くがそのために借金を抱えていることが明らかになった。フットボールシーズンを前に、チケット・グッズ・賭けなどへの出費が膨らんでいる。"
+        "url": "https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling",
+        "summary": "トランプ政権が再稼働を命じたカリフォルニア州沖のサンタバーバラ近海の石油パイプラインについて、連邦裁判所の判事が州当局や環境団体の反対を退け、操業継続を認める判断を下した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 家計が苦しいと報道される同じ週に、スポーツ観戦のために年2,000ドル借金するのがアメリカの消費者像として浮かぶ。",
-        "<b>滑稽さ:</b> 「推しチームへの忠誠心」を維持するためにリボ払いを使う——これロイヤルティプログラムじゃなくてローンプログラムですよね。",
-        "<b>日本・海外から見ると:</b> 日本のスポーツファンも熱狂的だけど、借金してユニフォーム買うのはさすがに「それ大丈夫？」ってなる文化。"
+        "<b>矛盾:</b> 環境規制で全米一厳しいはずのカリフォルニアが、自分の海岸沖のパイプライン操業を止められない――「我が州のことは我が州で決める」の限界がここに。",
+        "<b>滑稽さ:</b> 舞台がサンタバーバラというのも効いていて、全米屈指の高級リゾート地の沖合で、州が「やめて」、連邦が「やれ」と言い合ってる。",
+        "<b>日本・海外から見ると:</b> 連邦vs州という構図は日本にはピンとこないかもしれないけど、要は「地元が嫌だと言っても上が通す」という話で、それはわかる。"
       ],
       "imagePrompts": [
-        "A man in full NFL team gear — jersey, foam finger, face paint — sitting across from a bank loan officer. The loan application on the desk reads 'PURPOSE OF LOAN: Season tickets, merch, and parlay bets.' Both parties look completely serious.",
-        "A stadium scoreboard showing not the game score but each fan's running tab: '$340 on beer, $120 parking, $89 jersey, $200 parlay.' Fans in the stands check their phones with mild panic.",
-        "A piggy bank wearing a team jersey, cracked open and empty, with a credit card placed next to it. A game-day pennant hangs on the wall behind it."
+        "A map of the California coastline near Santa Barbara with a pipeline clearly marked offshore, a California state flag planted in the water with a 'NO' sign, and a federal seal planted next to it with a 'YES' sign, both flags tilting against each other",
+        "A courtroom scene where a judge's gavel strikes down a banner reading 'CALIFORNIA ENVIRONMENTAL AUTHORITY' while a pipeline diagram is displayed on a screen behind the bench",
+        "A scenic Santa Barbara beach with luxury hotels in the background and an oil pipeline marker visible just offshore, a tourist taking a photo of the horizon without noticing the infrastructure"
       ],
       "captions": [
-        "Americans are borrowing money to support teams owned by billionaires in stadiums built with their tax dollars. And they call it loyalty.",
-        "Two thousand dollars a year on the team. At 24% APR. For a franchise that went 7 and 10.",
-        "The jersey costs $150. The ticket's $300. The beer's $18. The debt's indefinite. But hey — go team.",
-        "European fans buy a scarf. American fans open a line of credit and call it passion.",
-        "If your team can charge you $2,000 a year and you'll go into debt to pay it — who's really winning the season?"
+        "California: 'No pipeline.' Federal judge: 'Pipeline.' California: '...we have the world's fifth-largest economy and absolutely zero say in this.'",
+        "1969 Santa Barbara oil spill made the location famous. Fifty-seven years later, the pipeline debate is back. The coastline just can't catch a break.",
+        "The greenest state in America just lost a court fight over oil in its own backyard. The backyard happens to be the Pacific Ocean.",
+        "State regulators said stop. Environmental groups said stop. The judge said, and I'm paraphrasing, 'pipe it.'",
+        "You've got to admire the boldness of picking Santa Barbara for this fight. That's like holding a smoking seminar at an asthma clinic."
       ],
       "captionsJa": [
-        "大富豪オーナーのチームを、税金で建てたスタジアムで、借金して応援する。これをアメリカでは「ロイヤリティ」と呼ぶ。",
-        "年2,000ドル、金利24%のリボ払いで。7勝10敗のチームのために。",
-        "ユニフォーム150ドル、チケット300ドル、ビール18ドル、借金は無期限。でもまあ、ゴー・チーム。",
-        "ヨーロッパのファンはマフラーを買う。アメリカのファンはクレジットラインを開設して「情熱」と名付ける。",
-        "年2,000ドル取られても借金してでも払うファンがいる——これ、どっちが勝者か、もうわかりますよね。"
+        "カリフォルニア「パイプライン反対」、連邦裁判事「操業続けろ」、カリフォルニア「……GDP世界5位なのに一切口出せないじゃないですか」。",
+        "1969年のサンタバーバラ原油流出事故で全米に名前が知れ渡った場所。57年後、また同じ海岸でパイプライン論争。どこまでも休めない海。",
+        "全米で一番環境に厳しいはずの州が、自分ちの裏庭の石油訴訟で負けた。裏庭が太平洋なんですけどね。",
+        "州当局も「やめろ」、環境団体も「やめろ」と言った。裁判官の答えは、乱暴に言えば「通せ」。",
+        "この争いの舞台にサンタバーバラを選ぶ度胸はすごい。喘息外来の前で喫煙セミナーを開くようなもんですよ。"
       ],
-      "newsEn": "A new report finds that American sports fans spend approximately $2,000 per year on their favorite teams, covering tickets, merchandise, streaming, and sports betting. As NFL season approaches, many fans say they plan to take on debt to cover these costs. The finding comes amid broader data showing rising consumer financial stress across income levels.",
+      "newsEn": "A federal judge ruled this week that an oil pipeline operating off the California coast near Santa Barbara can continue to function, rejecting efforts by state regulators and environmental groups to halt its operations. The pipeline had been ordered to resume by the Trump administration. California state authorities had sought to stop the system from operating, setting up a direct conflict between state and federal authority.",
       "ironyEn": [
         {
-          "contradiction": "Americans are going into debt to cheer for billionaire-owned teams playing in stadiums often subsidized by public funds.",
-          "absurdity": "The average fan is financing team loyalty at credit card interest rates. The team owner is not.",
-          "outside": "In most countries, sports fandom is a hobby. In America, it's apparently a line of credit."
+          "contradiction": "California has some of the strictest environmental laws in the country, but it turns out those laws stop at the waterline if a federal judge disagrees.",
+          "absurdity": "The pipeline runs off Santa Barbara — a stretch of coast that became a symbol of oil spill disaster in 1969. Same location, new chapter.",
+          "outside": "From the outside, watching America's greenest state lose a court fight to keep oil out of its own coastline reads like a very expensive punchline."
         },
         {
-          "contradiction": "The same economy producing headlines about financial stress is producing fans willing to borrow $2,000 for jersey season.",
-          "absurdity": "Some of these guys are paying 24% APR to watch a team lose in January.",
-          "outside": "European soccer fans pay for a scarf and a beer. American fans finance a whole lifestyle and call the debt 'supporting the team.'"
+          "contradiction": "The state said stop. The federal government said go. The judge sided with go. California's environmental reputation took the loss.",
+          "absurdity": "Santa Barbara residents who moved there partly for the clean coastline are now watching the federal government and a judge argue about whether that's their call to make.",
+          "outside": "For countries with centralized environmental authority, the idea that a state can't stop a pipeline off its own coast is genuinely baffling."
         }
       ],
       "imageSeed": 3,
@@ -160,47 +160,47 @@ window.DAILY_DATA = {
     {
       "id": "d4",
       "news": {
-        "headline": "Mark Zuckerberg Buys an Irish Castle — 440 Acres of Feudal Vibes for the Metaverse Guy",
-        "source": "The Verge",
+        "headline": "How One Psychologist Convinced Both Parties That Kids' Phones Are the Problem",
+        "source": "Politico",
         "date": "2026-08-21",
-        "url": "https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland",
-        "summary": "Meta CEOのマーク・ザッカーバーグが、妻プリシラ・チャンとともにアイルランドのストランカリー城と約180ヘクタールの土地を取得したと、アイリッシュ・タイムズが報じた。"
+        "url": "https://www.politico.com/video/2026/08/21/how-jonathan-haidt-turned-the-fight-over-kids-and-social-media-into-a-political-movement-2147935",
+        "summary": "心理学者ジョナサン・ハイトが子どもとSNSの関係に関する主張を展開し、党派を超えた政治運動にまで発展させた経緯をPoliticoが詳報した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「人々をつなぐデジタル空間」を売っている人が、現実世界では中世の城を買って440エーカーの土地に囲まれてる。",
-        "<b>滑稽さ:</b> メタバースで「場所の概念を超える未来」を語った人が、アイルランドの城を現物買いしてる。石造りで、堀付きで。",
-        "<b>日本・海外から見ると:</b> アメリカのテック億万長者が「封建領主」スタイルにハマっていく流れ、シリコンバレーの次の段階として普通に読める。"
+        "<b>矛盾:</b> 何十年も「分断」と言われてきたアメリカ政界が珍しく一致した議題が「子どものスマホ禁止」で、その旗振り役が学者一人というのが妙に物語ってる。",
+        "<b>滑稽さ:</b> SNSで政治的合意が不可能になったと言われる時代に、SNSの害を訴える運動がSNSで広がって超党派の支持を集めた。",
+        "<b>日本・海外から見ると:</b> 「スマホが子どもをダメにする」論は日本でも根強いけど、それが連邦・州立法まで動かす規模感になるのはさすがアメリカ。"
       ],
       "imagePrompts": [
-        "A medieval stone castle with a drawbridge. A blue thumbs-up icon is mounted on the front gate like a coat of arms. In the foreground, a figure seen only from behind — hoodie, jeans, sneakers — holds a rolled deed of sale. Face never visible.",
-        "An aerial view of a massive Irish estate with green rolling hills and a castle at the center. Surrounding the castle, faint blue digital grid lines labeled 'METAVERSE' fade into the countryside.",
-        "A real estate listing pinned to a corkboard. The property photo shows a castle. The listing agent's headshot is replaced with a blue 'f' logo. Price field reads: 'TBD (but a lot).'"
+        "A university lecture hall where a lone professor stands at a podium, and on either side of the aisle politicians with opposing party colors are both leaning forward, nodding in rare agreement, all of them holding their own smartphones under their seats",
+        "A book titled 'The Anxious Generation' displayed on a pedestal in the center of a congressional chamber, with legislators from both parties circling it like it's a campfire",
+        "A split-screen image: on one side a teenager looking at a phone, on the other side a politician at a press conference also looking at a phone, with the caption space left blank"
       ],
       "captions": [
-        "The guy who told us the future is virtual just bought a 12th-century castle in Ireland. Stone walls, 440 acres, zero latency.",
-        "Metaverse, digital connection, borderless future — and then, apparently, a moat.",
-        "Zuckerberg owns a castle now. Presumably the serfs can reach him through the portal.",
-        "440 acres in Ireland. They don't have Wi-Fi that good out there, Mark — how are you going to post?",
-        "Tech billionaires keep buying land, islands, and castles. The cloud, it turns out, is just a rental."
+        "Republicans and Democrats finally agree on something. It's that your kid's phone is ruining your kid. Their phones are fine.",
+        "A psychologist wrote a book about social media anxiety. It went viral. He seems to be handling the irony okay.",
+        "The 'phones are destroying children' movement has millions of followers online. The algorithm is very proud of itself.",
+        "Both parties looked at the data, looked at their donors in tech, and decided — yeah, let's go after the teenagers.",
+        "Bipartisan agreement in 2026: kids shouldn't doom-scroll. Bipartisan disagreement: everything needed to actually fix it."
       ],
       "captionsJa": [
-        "「未来はバーチャル」と言い続けた人が、アイルランドに12世紀の城を買いました。石造り、440エーカー、遅延ゼロ。",
-        "メタバース、デジタルな繋がり、ボーダーレスな未来——そして次のニュース：お堀。",
-        "ザッカーバーグ、城のオーナーに。農奴の皆さんはポータル経由でご連絡ください。",
-        "アイルランドの440エーカー。あのへん電波弱いですよマークさん、どうやって投稿するんですか。",
-        "テック長者たちは土地・島・城を買い続けてる。クラウドって、結局ただのレンタルだったみたい。"
+        "共和党と民主党がついに意見一致。「子どものスマホが問題だ」と。自分たちのスマホは問題ない。",
+        "SNSの不安を訴える本がバズった。皮肉には気づいてるっぽいけど、まあ本は売れた。",
+        "「スマホが子どもを壊す」運動がオンラインで何百万フォロワー。アルゴリズムは自分の仕事に誇りを持っている。",
+        "両党はデータを見て、テック企業の献金元を見て、そして決めた――ここは10代を叩こうと。",
+        "2026年に超党派で一致した唯一のこと：子どものスクロールは良くない。一致しないこと：それ以外全部。"
       ],
-      "newsEn": "Meta CEO Mark Zuckerberg and his wife Priscilla Chan have purchased Strancally Castle in Ireland along with its 440-acre estate, according to The Irish Times. The transaction reportedly occurred several weeks ago, though the exact purchase price has not been confirmed. Zuckerberg has been expanding his real estate holdings in recent years, including a large compound in Hawaii.",
+      "newsEn": "Politico examined how psychologist Jonathan Haidt transformed his arguments about the harms of social media on children into a bipartisan political movement. Haidt's work, particularly his book 'The Anxious Generation,' has influenced legislative efforts in multiple U.S. states and drawn support from politicians across the ideological spectrum. His campaign has made restricting kids' access to smartphones and social media one of the rare areas of current American political agreement.",
       "ironyEn": [
         {
-          "contradiction": "The man who sold the world on a borderless digital future just bought a castle. With borders. And a moat, presumably.",
-          "absurdity": "Somewhere in Menlo Park, a product manager is updating the Metaverse roadmap while their boss negotiates Irish feudal real estate.",
-          "outside": "The richest tech figures in America keep buying physical land, islands, and castles. The digital utopia, it turns out, needs a very analog backup."
+          "contradiction": "American politicians haven't agreed on much in decades. The one thing that finally united them is taking phones away from teenagers.",
+          "absurdity": "The movement warning about the dangers of social media spread primarily through — social media.",
+          "outside": "In Japan, concerns about kids and screen time are common, but watching one academic's book spark bipartisan legislation across fifty states is a level of policy velocity that feels distinctly American."
         },
         {
-          "contradiction": "Zuckerberg once asked users to live their lives online. He appears to be living his in a 12th-century stone structure.",
-          "absurdity": "440 acres is a lot of land for someone whose company exists in the cloud.",
-          "outside": "European nobles spent centuries building castles to project power. Zuckerberg bought one in a few weeks, probably between earnings calls."
+          "contradiction": "Haidt argues social media is making young people anxious and politically polarized. His solution has been adopted by politicians who are anxious and politically polarized.",
+          "absurdity": "The platforms accused of killing kids' attention spans responded with lengthy blog posts explaining why the science is wrong. Nobody read them.",
+          "outside": "For observers outside the U.S., the spectacle of Republicans and Democrats agreeing on anything — even just 'phones bad' — is strange enough to be newsworthy on its own."
         }
       ],
       "imageSeed": 4,
@@ -211,47 +211,47 @@ window.DAILY_DATA = {
     {
       "id": "d5",
       "news": {
-        "headline": "Gatekeeping Bots and AI Slop: The Workplace Has Gotten Genuinely Weird",
-        "source": "CNBC Top News",
+        "headline": "Man Who Rates Benches on Instagram Gives His First 10/10 After Seven Years",
+        "source": "CBS News US",
         "date": "2026-08-21",
-        "url": "https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html",
-        "summary": "職場にAIが普及した結果、業務の効率化だけでなく、ボトルネックの発生や人間同士のコミュニケーションの混乱、奇妙なすれ違いが増加していることが報告されている。"
+        "url": "https://www.cbsnews.com/video/why-instagram-bench-rater-gave-out-first-10-7-years/",
+        "summary": "Instagramでベンチだけをレビューし続けている男性が、7年・300件以上の投稿を経て初めて満点10点を与えたと米CBSニュースが報じた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「人間の仕事を楽にするため」に導入したAIが、人間が仕事をするための障壁を新しく作り出してる。",
-        "<b>滑稽さ:</b> 人間の書いたメールをAIが要約して、その要約をまた別のAIが処理して、最終的に人間が「何の話？」ってなってる職場、ちゃんとあるんですよ。",
-        "<b>日本・海外から見ると:</b> 日本の職場はハンコと稟議書のボトルネックで有名だったけど、アメリカはAIボットがその役割を引き継ぎつつある。"
+        "<b>矛盾:</b> 映画評論家や食評家は初日からポンポン10点を出すのに、ベンチ評論家は7年かけてやっと出した――対象への真剣さが誰より本物なんですよ。",
+        "<b>滑稽さ:</b> 世界中で政治・経済・戦争のニュースが飛び交う中、CBSが全国放送で届けた本日の重大ニュースのひとつがベンチの満点。",
+        "<b>日本・海外から見ると:</b> 日本にも「〇〇だけレビュー」アカウントはあるけど、それがCBSイブニングニュースに取り上げられるスケール感、これがアメリカ。"
       ],
       "imagePrompts": [
-        "An office hallway with a series of robot bouncers standing in front of each door, each holding a clipboard. A human worker in business attire tries to pass through, gets handed a form by the first robot, then directed to the second robot, then the third. The final door leads back to the starting point.",
-        "A worker's computer screen showing an inbox completely filled with messages labeled 'AI SUMMARY OF AI SUMMARY OF AI SUMMARY.' One actual human email is buried at the bottom, marked as spam.",
-        "A conference room where four AI chatbot screens sit around a table. A single bewildered human sits at the end with a coffee mug, trying to follow a meeting agenda generated entirely by the bots."
+        "A man in a trench coat and press badge sitting on a plain park bench with a notepad, examining it with the intense focus of a Michelin-star restaurant inspector, other benches visible in the background with various scores posted on them",
+        "An Instagram grid entirely filled with photos of different park benches, each with a score out of 10 in the corner, with one post at the center glowing with a gold '10/10' badge",
+        "A mock awards ceremony podium in a park, with a single wooden bench on the top step, a small crowd of pigeons and one bewildered jogger watching as a ribbon is placed on the bench's armrest"
       ],
       "captions": [
-        "We built AI to cut through the red tape. It cut through the red tape and installed new red tape, but faster.",
-        "My email gets summarized by an AI, screened by another AI, and flagged by a third. The human on the other end still hasn't read it.",
-        "The new workplace bottleneck isn't your manager — it's six bots your manager approved last quarter.",
-        "'Slop' is now a professional term. Let that be the legacy of the AI productivity revolution.",
-        "Robots doing your work: the dream. Robots filing tickets about your work and CC'ing each other: the Tuesday."
+        "Seven years. 300 benches. He finally found one worth sitting on. Most people just... sit.",
+        "Film critics gave 'Cats' four stars. This man has given nothing a 10 for seven years. I know who I trust.",
+        "CBS Evening News: war, famine, economic collapse — and a bench that finally got a 10. Thank you. I needed that.",
+        "He's reviewed 300 benches and only now gave a perfect score. Meanwhile, Yelp has seventeen 5-star reviews for a parking lot.",
+        "The man has standards. The bench had lumbar support. Everyone went home happy."
       ],
       "captionsJa": [
-        "お役所仕事をなくすためにAIを入れたら、AIがお役所仕事を新設して、しかも速くなった。",
-        "メールがAIに要約されて、別のAIに審査されて、3つ目のAIにフラグを立てられる。相手の人間はまだ読んでない。",
-        "職場のボトルネックはもう上司じゃないんです。上司が先四半期に承認した6つのボットです。",
-        "「スロップ」がビジネス用語になった。これがAI生産性革命の遺産。",
-        "ロボットが仕事をする：夢。ロボットが仕事についてチケット切って互いにCCする：火曜日の現実。"
+        "7年間、ベンチ300脚。やっと座れる場所を見つけた。普通の人はもう座ってる。",
+        "映画評論家は「キャッツ」に星4つ付けた。この人は7年間、何にも10点をあげなかった。信頼できるのはどっちか。",
+        "CBSイブニングニュース：戦争、飢饉、経済危機――そしてベンチが満点。ありがとう。必要だった。",
+        "300脚レビューしてやっと満点。いっぽうYelpには駐車場への星5レビューが17件ある。",
+        "男に基準があった。ベンチに腰のサポートがあった。全員ハッピーで帰った。"
       ],
-      "newsEn": "A new report details how AI tools embedded in workplaces are creating unexpected friction alongside their promised efficiencies. Workers describe encountering AI-generated gatekeeping systems, automated responses that misfire, and a growing layer of AI-produced content — sometimes called 'slop' — clogging internal communications. The disruptions span industries from tech to finance to HR.",
+      "newsEn": "A man who has spent seven years reviewing park benches on Instagram — rating them in the style of a food or film critic — has given out his first perfect score of 10 out of 10 after more than 300 reviews. CBS News covered the milestone, framing it as a rare and significant event in the niche world of bench criticism. The account has attracted a dedicated following.",
       "ironyEn": [
         {
-          "contradiction": "AI was deployed to cut through workplace bureaucracy and has started generating its own.",
-          "absurdity": "There are now offices where a human writes an email, an AI summarizes it, another AI screens the summary, and the recipient still has no idea what anyone wanted.",
-          "outside": "Japan was famous for paper-stamp bottlenecks. America automated the bottleneck and called it innovation."
+          "contradiction": "Film critics hand out five stars on opening weekend. This man reviewed 300 benches across seven years before he trusted anything enough to call it perfect.",
+          "absurdity": "CBS Evening News — the same broadcast that covers wars, elections, and economic crises — gave airtime to a bench getting a 10.",
+          "outside": "In a media environment full of outrage and breaking alerts, the most wholesome story of the week is a man who sat on things and took notes for seven years."
         },
         {
-          "contradiction": "Companies spent billions on AI to boost productivity and are now troubleshooting why no one can get a straight answer out of anything.",
-          "absurdity": "'Slop' — AI-generated filler content polluting internal channels — is a word that now needs to exist in a professional context.",
-          "outside": "The dream was robots doing our work. The reality is robots filing tickets about our work and CC'ing three other robots."
+          "contradiction": "Rotten Tomatoes critics have given out hundreds of perfect scores. This guy held out for seven years and 300 benches. One of them has higher standards.",
+          "absurdity": "The milestone wasn't a cure, a verdict, or a record. It was a bench. In a park. That was apparently very good.",
+          "outside": "For anyone overwhelmed by the news cycle, a man who has spent a decade finding the best place to sit down is either deeply irrelevant or the most important journalist alive."
         }
       ],
       "imageSeed": 5,
@@ -261,42 +261,42 @@ window.DAILY_DATA = {
     }
   ],
   "editorial": {
-    "thread": "「頑張ったのに、ゴールが動いた」という感覚が今日の5本を貫く糸。ローン免除・回線速度・スポーツ観戦・デジタルの未来・職場のAI、どれも「これだけやったのに、なんで？」という話。",
-    "titleEn": "The Goalposts Moved Again",
-    "subtitleEn": "Five stories about effort, betrayal, and one guy with a castle.",
-    "titleJa": "「もうすぐゴール」と思ったら、ゴールが移動していた話",
+    "thread": "今日の5本を貫く糸:「システムが機能していないのに、誰もそれを止められない」——ただし最後の一本だけは、7年かけてちゃんと機能した男の話。",
+    "titleEn": "Everything Is Fine (The Bench Got a 10/10)",
+    "subtitleEn": "Five stories proving that systems fail, except the one that really matters.",
+    "titleJa": "ドローン部隊は解散、パイプラインは再稼働、でもベンチはついに満点をもらった",
     "titleAltJa": [
-      "ザッカーバーグが城を買った週に、教師のローン免除進捗がリセットされた",
-      "今日のアメリカの話題が出たとき、この一言を返せばいい"
+      "『スマホが子どもをダメにする』運動がSNSで広まった件、どう返せばいい?",
+      "3億ドル詐欺も内輪もめで潰れたドローン部隊も、全部アメリカの話です。私は毎朝読んでいます。"
     ],
-    "leadJa": "10年間まじめに払い続けた教師のローン免除進捗が「リセット」されて、FCCはギガビット回線を「夢見すぎ」と廃止して、ザッカーバーグはアイルランドに城を買った。\n\nこれ全部、今週の話です。",
-    "introEn": "Five stories today, and they all rhyme.\n\nSomeone worked for ten years toward a promised reward, and the math changed. Someone invested in a technology future while quietly downgrading the actual technology. Someone spent money they didn't have on something that was supposed to feel good. I read all of this before 8 a.m. and I'm fine. Totally fine.\n\nToday's forecast: if you've ever done everything right and still ended up further from the finish line, this is your day. Not because the news gets better — it doesn't — but because it turns out the system was confused about the goalposts long before you were. Your effort was real. The arithmetic was someone else's problem.\n\nStick around. Zuckerberg bought a castle. That part is just funny.",
-    "introJa": "今日の5本、読む前から予告します。\n\n全部「やったのに」の話です。\n\n10年間、公共サービスに従事してローンを払い続けた人たちが、教育省の再計算で「あなたの進捗、思ったより少ないです」と告げられた。アメリカの通信委員会はギガビット回線の目標を「高すぎる」として廃止した。スポーツファンは年2,000ドルを推しチームに使って借金している。AIは仕事を楽にするために導入されたはずなのに、新しい障壁を量産している。\n\nそしてザッカーバーグは、メタバースを売りながらアイルランドの城を買った。\n\nここまで読んで「私のせいじゃなかったのかも」と少し思ったあなた、正解です。ゴールを動かしてたのはシステムのほう。あなたの努力は本物で、計算式がおかしかっただけ。\n\nというわけで今日の仕事運は「上振れはないが、あなたのせいでもない」。これで十分いける。",
-    "quipEn": "Ten years of public service, two thousand dollars on the team, a gigabit that's no longer a goal, and a CEO in a medieval castle selling you the borderless future. We're all running the same marathon. Nobody told us the finish line has wheels.",
-    "quipJa": "10年払い続けたらリセット、ギガビットは夢見すぎ、AIは新しいハンコを発明、ザッカーバーグは城主に。ゴールって、足生えてたんですね。",
+    "leadJa": "今日のアメリカのニュースを開いたら、詐欺師が服をシェアしていて、軍がドローン部隊を自ら解散していて、カリフォルニアが自分の海岸に口を出せなくなっていました。\n\nでも最後にちゃんと、ベンチが満点をもらった話があります。それだけで今日は生きていけます。",
+    "introEn": "Five stories today, and they all rhyme.\n\nA CEO built a company for six years on fake numbers. The Army built a drone unit to catch up on drones, then shut it down. California lost a court fight over its own coastline. A psychologist convinced the entire U.S. political system to agree on one thing — which is a miracle, honestly.\n\nAnd one man on Instagram gave a park bench a perfect 10 after seven years of not giving anything a 10.\n\nHere's your forecast: the systems aren't working, the org charts are fighting each other, and nobody's in charge of anything. Which means the pressure you feel to have it all figured out? Not your fault. Today, your job is to sit on a good bench, if you can find one. Apparently they exist.",
+    "introJa": "今日の5本、読む前に言っておきます。\n\n「またシステムが壊れてる」話が4本と、「でもこれだけはちゃんとしてた」話が1本です。\n\nCEOが6年間、財務諸表を「変革」し続けて禁固5年。軍がドローン戦に追いつこうとドローン部隊を作って、半年で自ら解散。カリフォルニアが自分の海岸のパイプラインを止めようとして、連邦裁判所に「ダメ」と言われた。そして分断の国アメリカが珍しく一致した議題が「子どものスマホ禁止」で、その旗を振ったのが一人の心理学者。\n\n「なんで私だけうまくいかないんだろう」と思ってるなら、軍もカリフォルニア州も6年続いたスタートアップも全員同じなので、安心してください。あなただけじゃないです。\n\n最後にベンチの話があるので、そこまで読んでください。7年待てば、満点に出会えます。",
+    "quipEn": "The CEO faked profits, the Army folded its own drone unit, and California couldn't stop an oil pipeline in its own ocean. But somewhere out there, a bench got a 10 out of 10. Hold onto that.",
+    "quipJa": "詐欺師は捕まり、ドローン部隊は自滅し、カリフォルニアは自分の海を守れなかった。でもベンチは7年越しに満点をもらった。今日はそれで十分です。",
     "notesEn": [
-      "The U.S. Education Department just recalculated Public Service Loan Forgiveness payment counts for thousands of borrowers — teachers, nurses, government workers — and many found out they're further from the 120-payment finish line than they thought. Ten years of public service. The reward for that is apparently: we're redoing the math.",
-      "The FCC has officially eliminated its long-term gigabit broadband speed goals, determining they were too ambitious. The United States already trails most peer nations in average broadband speeds. The AI race, however, remains very much on. Nobody explain the contradiction.",
-      "A new report finds American sports fans spend about $2,000 a year on their teams — tickets, merch, streaming, betting — and many plan to go into debt for the upcoming NFL season. The teams are owned by billionaires. The stadiums were often built with public money. The debt is personal. They call this loyalty.",
-      "Mark Zuckerberg has purchased Strancally Castle in Ireland, a 440-acre estate. The man who spent years telling us the future is virtual, borderless, and digital has acquired a 12th-century stone building with land roughly the size of a small town. Zero latency on those walls, I assume.",
-      "A new report says AI tools embedded in workplaces are creating as much friction as they're removing. Workers describe AI gatekeeping systems, misfiring automated responses, and internal channels clogged with AI-generated content. We built it to cut the red tape. It cut the red tape and immediately started laying new red tape.",
-      "Today's American news in one sentence: the goalposts moved on student loans, internet speeds, your team loyalty budget, and the definition of 'digital future.' The castle, though — that one's staying put.",
-      "Somehow the most honest thing in today's news is a tech billionaire buying a medieval castle. At least feudalism doesn't pretend to be something else.",
-      "If you've been doing everything right and still feel further from the finish line than last year, congratulations: it's not a personal failure. It's an extremely well-documented systemic pattern. This does not pay your loans. But it might help a little."
+      "The CaaStle CEO ran a $300M fraud for six years — falsifying profits, faking cash reserves, the whole thing. She's now facing five years in federal prison. The company was about renting clothes. At some point 'clothes' became 'other people's money.' Federal prosecutors noticed.",
+      "The U.S. Army created a drone battalion earlier this year specifically because it was falling behind in drone warfare. It just shut that battalion down. The stated reason involves senior officials who were fired or pushed into early retirement. The drone gap is still there. The org chart just lost.",
+      "A federal judge ruled this week that an oil pipeline off the Santa Barbara coast can keep operating — over California's explicit objections. The Trump administration had ordered it restarted. California is the world's fifth-largest economy and, in this case, had no say. The pipeline runs. The Pacific watches.",
+      "Psychologist Jonathan Haidt spent years arguing that smartphones are wrecking an entire generation of kids. His book went viral on social media. The movement spread on social media. It now has bipartisan support in a country that agrees on almost nothing. The irony is fully aware of itself and doesn't seem to care.",
+      "A man has been reviewing park benches on Instagram for seven years — rating them like a film critic, posting after every sit. After 300 reviews, he finally gave one a 10 out of 10. CBS News covered it. I'm not being sarcastic when I say this was the best story I read today.",
+      "Quick pattern I noticed in today's news: a startup that faked success, a military unit that disbanded itself, a state that lost control of its own coast, and a movement that spread via the thing it was criticizing. Everything failing in its own specific way. And then one bench, finally, nailing it.",
+      "If you're wondering what bipartisan agreement looks like in 2026: Republicans and Democrats have found common ground on restricting kids' phones. Their own phones remain unrestricted. Progress is progress.",
+      "Seven years. 300 benches. First perfect score. Film critics gave 'Cats' four stars. This man has standards, and I respect that more than I can explain."
     ],
     "xJa": [
-      "教育省が10年間ローンを払い続けた教師・看護師の返済進捗を再計算した結果、多くの人がゴールから遠ざかっていた。ゲームのセーブデータ消去と何が違うのか、誰か教えてください。",
-      "アメリカのFCC（通信委員会）がギガビット回線の長期目標を廃止。理由は「高すぎる目標」。日本では月3,000円台で1Gbpsが普通に買える。同じ週にアメリカはAI覇権の話をしている。誰も矛盾を指摘しない。",
-      "アメリカのスポーツファン、年間約28万円を推しチームに使っていて、多くが借金中。チームは億万長者の所有、スタジアムは税金で建設、ユニフォームは自腹ローン払い。これをロイヤルティと呼ぶらしい。",
-      "ザッカーバーグ、アイルランドの城と180ヘクタールの土地を購入。「場所の概念を超えるメタバースの未来」を売っている人の最新の買い物が、12世紀の石造りの城。デジタルの夢、物理で回収。",
-      "職場にAIを導入した結果、人間のメールをAIが要約して、別のAIが処理して、また別のAIがフラグを立てる。人間担当者にはまだ届いていない。「業務効率化」の定義を誰か再確認してほしい。",
-      "今週のアメリカまとめ。ローン免除の進捗リセット、ギガビット目標の廃止、スポーツ観戦のための借金、AIが作る新しいボトルネック、そして城を買うCEO。全部今週の話。こんなのを毎朝読んでいる私も私ですが。",
-      "ゴール、動いてましたね。今週5本のニュース、全部それでした。あなたの努力は本物。計算式がおかしかっただけ。",
-      "「やったのに、なんで？」がテーマの一日。10年払ったのにリセット、ギガビットは夢見すぎ、AIが新しい障壁を発明、ザッカーバーグは封建領主に。ゴールに足がついていることを、誰も教えてくれなかっただけ。"
+      "ファッションテックCEOが6年間、利益と手元資金を偽り続けて禁固5年。「業界を変革する」と言い続けた6年間、実際に変革していたのは財務諸表だったという話です。",
+      "米陸軍が「ドローン戦に遅れているから」と今年作ったドローン部隊を、ドローン戦に遅れたまま解散することにした。理由は幹部の内輪もめ。最先端の軍事技術より先に崩壊したのが人間関係。",
+      "カリフォルニア州が自分の海岸沖のパイプラインを「止めたい」と言ったら連邦裁判所に「ダメ」と言われた。全米一の環境規制を誇る州が、自分の海の油田に口を出せない。これが連邦vs州という話です。",
+      "分断の国アメリカで、共和党と民主党が珍しく一致した議題が「子どものスマホ禁止」。その運動はSNSで広まった。彼らのスマホは規制対象に入っていない。",
+      "Instagramでベンチだけをレビューする男性が、7年・300件以上の投稿を経て初めて満点10点を出した。映画評論家はすぐ10点を出す。この人は7年出さなかった。どっちが本物かって話ですよ。",
+      "今日のアメリカ: CEO6年詐欺、軍が自分のドローン部隊を解散、カリフォルニアが自分の海岸に負ける、子どものスマホ禁止運動がSNSで拡散。最後にベンチが満点をもらった。最後だけ信頼できる。",
+      "「スマホが子どもをダメにする」と訴える本がSNSでバズり、超党派の立法運動になった。スマホで広まる反スマホ運動、何も言えない。",
+      "ベンチを7年レビューし続けた男の満点ニュースをCBSが全国放送した。戦争、経済、詐欺、ドローン解散の後に届くベンチ満点の話。アメリカのニュースを毎朝読んでいる私ですが、これだけは純粋にありがとうと思いました。"
     ],
-    "fullEn": "# The Goalposts Moved Again\n\n## Today's Forecast\n\nFive stories today, and they all rhyme.\n\nSomeone worked for ten years toward a promised reward, and the math changed. Someone invested in a technology future while quietly downgrading the actual technology. Someone spent money they didn't have on something that was supposed to feel good. I read all of this before 8 a.m. and I'm fine. Totally fine.\n\nToday's forecast: if you've ever done everything right and still ended up further from the finish line, this is your day. Not because the news gets better — it doesn't — but because it turns out the system was confused about the goalposts long before you were. Your effort was real. The arithmetic was someone else's problem.\n\nStick around. Zuckerberg bought a castle. That part is just funny.\n\n---\n\n## 1. Education Dept. Recalculates PSLF Progress — Borrowers Discover They're Further From Forgiveness Than Ever\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html)*\n\nThe U.S. Department of Education has recalculated qualifying payment counts for borrowers pursuing Public Service Loan Forgiveness. Many borrowers have discovered their progress toward the 120-payment threshold has been set back, in some cases significantly. The program was created to reward public servants — teachers, nurses, government workers — with loan forgiveness after ten years of qualifying payments.\n\n**Why It's Funny**\n\n- **Contradiction:** A program designed to reward public service has found a new way to extend the punishment phase.\n- **Absurdity:** Somewhere, a nurse who's been filing paperwork for nine years just found out her payment count is back to year four.\n- **View from Tokyo:** Most countries forgive student debt by policy. America forgives it by a 120-step obstacle course that occasionally resets.\n\n**Say It Out Loud**\n\n> They said ten years of public service and you're free. They didn't mention the ten years resets if someone at HQ sneezes on a spreadsheet.\n\n---\n\n## 2. FCC Kills Gigabit Broadband Speed Goals — Officially Decides Fast Internet Is Too Ambitious\n\n*The Verge — [source](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal)*\n\nFCC Chairman Brendan Carr has officially eliminated long-term broadband speed goals that aimed to bring gigabit-level download speeds to Americans. The goals were established during the Biden administration. Carr had signaled this move in 2025. The United States continues to lag behind many peer nations in average broadband speeds and access.\n\n**Why It's Funny**\n\n- **Contradiction:** The country that invented the internet just officially decided that fast internet is a bridge too far.\n- **Absurdity:** American leaders are out here promising AI dominance while the FCC quietly unpromises the broadband speeds AI would need.\n- **View from Tokyo:** Japan sells gigabit home internet for about $25 a month. The FCC's response is essentially: let's not make that a goal.\n\n**Say It Out Loud**\n\n> The FCC declared gigabit internet too ambitious. Meanwhile, my cousin in Osaka is watching 4K on five devices and complaining it feels slow.\n\n---\n\n## 3. U.S. Sports Fans Spend ~$2,000 a Year on Their Teams — and Many Go Into Debt Doing It\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html)*\n\nA new report finds that American sports fans spend approximately $2,000 per year on their favorite teams, covering tickets, merchandise, streaming, and sports betting. As NFL season approaches, many fans say they plan to take on debt to cover these costs. The finding comes amid broader data showing rising consumer financial stress across income levels.\n\n**Why It's Funny**\n\n- **Contradiction:** Americans are going into debt to cheer for billionaire-owned teams playing in stadiums often subsidized by public funds.\n- **Absurdity:** The average fan is financing team loyalty at credit card interest rates. The team owner is not.\n- **View from Tokyo:** In most countries, sports fandom is a hobby. In America, it's apparently a line of credit.\n\n**Say It Out Loud**\n\n> Americans are borrowing money to support teams owned by billionaires in stadiums built with their tax dollars. And they call it loyalty.\n\n---\n\n## 4. Mark Zuckerberg Buys an Irish Castle — 440 Acres of Feudal Vibes for the Metaverse Guy\n\n*The Verge — [source](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)*\n\nMeta CEO Mark Zuckerberg and his wife Priscilla Chan have purchased Strancally Castle in Ireland along with its 440-acre estate, according to The Irish Times. The transaction reportedly occurred several weeks ago, though the exact purchase price has not been confirmed. Zuckerberg has been expanding his real estate holdings in recent years, including a large compound in Hawaii.\n\n**Why It's Funny**\n\n- **Contradiction:** The man who sold the world on a borderless digital future just bought a castle. With borders. And a moat, presumably.\n- **Absurdity:** Somewhere in Menlo Park, a product manager is updating the Metaverse roadmap while their boss negotiates Irish feudal real estate.\n- **View from Tokyo:** The richest tech figures in America keep buying physical land, islands, and castles. The digital utopia, it turns out, needs a very analog backup.\n\n**Say It Out Loud**\n\n> The guy who told us the future is virtual just bought a 12th-century castle in Ireland. Stone walls, 440 acres, zero latency.\n\n---\n\n## 5. Gatekeeping Bots and AI Slop: The Workplace Has Gotten Genuinely Weird\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html)*\n\nA new report details how AI tools embedded in workplaces are creating unexpected friction alongside their promised efficiencies. Workers describe encountering AI-generated gatekeeping systems, automated responses that misfire, and a growing layer of AI-produced content — sometimes called 'slop' — clogging internal communications. The disruptions span industries from tech to finance to HR.\n\n**Why It's Funny**\n\n- **Contradiction:** AI was deployed to cut through workplace bureaucracy and has started generating its own.\n- **Absurdity:** There are now offices where a human writes an email, an AI summarizes it, another AI screens the summary, and the recipient still has no idea what anyone wanted.\n- **View from Tokyo:** Japan was famous for paper-stamp bottlenecks. America automated the bottleneck and called it innovation.\n\n**Say It Out Loud**\n\n> We built AI to cut through the red tape. It cut through the red tape and installed new red tape, but faster.\n\n---\n\n## Today's Punchline\n\n> Ten years of public service, two thousand dollars on the team, a gigabit that's no longer a goal, and a CEO in a medieval castle selling you the borderless future. We're all running the same marathon. Nobody told us the finish line has wheels.\n",
-    "fullJa": "# 「もうすぐゴール」と思ったら、ゴールが移動していた話\n\n## 今日を占うよ〜\n\n今日の5本、読む前から予告します。\n\n全部「やったのに」の話です。\n\n10年間、公共サービスに従事してローンを払い続けた人たちが、教育省の再計算で「あなたの進捗、思ったより少ないです」と告げられた。アメリカの通信委員会はギガビット回線の目標を「高すぎる」として廃止した。スポーツファンは年2,000ドルを推しチームに使って借金している。AIは仕事を楽にするために導入されたはずなのに、新しい障壁を量産している。\n\nそしてザッカーバーグは、メタバースを売りながらアイルランドの城を買った。\n\nここまで読んで「私のせいじゃなかったのかも」と少し思ったあなた、正解です。ゴールを動かしてたのはシステムのほう。あなたの努力は本物で、計算式がおかしかっただけ。\n\nというわけで今日の仕事運は「上振れはないが、あなたのせいでもない」。これで十分いける。\n\n---\n\n## 1. Education Dept. Recalculates PSLF Progress — Borrowers Discover They're Further From Forgiveness Than Ever\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/20/public-service-loan-forgiveness-pslf-payment-counts.html)）*\n\n教育省が公共サービスローン免除（PSLF）プログラムの返済カウントを再計算した結果、多くの借り手が想定より債務免除から遠ざかっていることが判明した。\n\n**どこが笑える？**\n\n- 矛盾: 「公共サービスへの奉仕に報いる」制度が、奉仕し続けた人ほど「やっぱりまだ先です」と言われる構造になってる。\n- 滑稽さ: 10年払い続けて「あなたの進捗をリセットします」って、ゲームのセーブデータ消去と何が違うんですか。\n- 日本・海外から見ると: 日本でも奨学金の返済問題は深刻だけど、「もうすぐゴール」と思ってたら「ゴールが移動しました」はさすがに見たことない。\n\n**このニュースをジョークにするなら...**\n\n> 10年奉仕すれば自由って言ったじゃないですか。「担当者がスプレッドシートでくしゃみしたらリセット」は聞いてないですよ。\n\n---\n\n## 2. FCC Kills Gigabit Broadband Speed Goals — Officially Decides Fast Internet Is Too Ambitious\n\n*The Verge（[記事](https://www.theverge.com/policy/982863/fcc-kills-gigabit-goal)）*\n\nFCC（連邦通信委員会）のブレンダン・カー委員長が、バイデン政権時代に設定されたギガビット速度を目標とする長期ブロードバンド目標を廃止した。\n\n**どこが笑える？**\n\n- 矛盾: 「世界最先端のテクノロジー大国」を自称する国の通信規制機関が、インターネットの速度目標を「高すぎる」として下げてる。\n- 滑稽さ: ギガビット回線を「夢を見すぎ」と判断する一方で、同じ週にAI覇権の話を国会でやってたりするんですよね。\n- 日本・海外から見ると: 日本で1Gbps回線が月3,000円台で普通に買える中、アメリカは「ギガビット、さすがに無理でしょ」って方向に舵を切った。\n\n**このニュースをジョークにするなら...**\n\n> FCCがギガビット回線を「野心的すぎる」と認定。一方、大阪の親戚は5台同時に4K流しながら「遅い」って言ってる。\n\n---\n\n## 3. U.S. Sports Fans Spend ~$2,000 a Year on Their Teams — and Many Go Into Debt Doing It\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/20/americans-debt-sports-fans.html)）*\n\nアメリカのスポーツファンは年間約2,000ドルを応援するチームに費やしており、多くがそのために借金を抱えていることが明らかになった。フットボールシーズンを前に、チケット・グッズ・賭けなどへの出費が膨らんでいる。\n\n**どこが笑える？**\n\n- 矛盾: 家計が苦しいと報道される同じ週に、スポーツ観戦のために年2,000ドル借金するのがアメリカの消費者像として浮かぶ。\n- 滑稽さ: 「推しチームへの忠誠心」を維持するためにリボ払いを使う——これロイヤルティプログラムじゃなくてローンプログラムですよね。\n- 日本・海外から見ると: 日本のスポーツファンも熱狂的だけど、借金してユニフォーム買うのはさすがに「それ大丈夫？」ってなる文化。\n\n**このニュースをジョークにするなら...**\n\n> 大富豪オーナーのチームを、税金で建てたスタジアムで、借金して応援する。これをアメリカでは「ロイヤリティ」と呼ぶ。\n\n---\n\n## 4. Mark Zuckerberg Buys an Irish Castle — 440 Acres of Feudal Vibes for the Metaverse Guy\n\n*The Verge（[記事](https://www.theverge.com/tech/982955/meta-mark-zuckerberg-strancally-castle-ireland)）*\n\nMeta CEOのマーク・ザッカーバーグが、妻プリシラ・チャンとともにアイルランドのストランカリー城と約180ヘクタールの土地を取得したと、アイリッシュ・タイムズが報じた。\n\n**どこが笑える？**\n\n- 矛盾: 「人々をつなぐデジタル空間」を売っている人が、現実世界では中世の城を買って440エーカーの土地に囲まれてる。\n- 滑稽さ: メタバースで「場所の概念を超える未来」を語った人が、アイルランドの城を現物買いしてる。石造りで、堀付きで。\n- 日本・海外から見ると: アメリカのテック億万長者が「封建領主」スタイルにハマっていく流れ、シリコンバレーの次の段階として普通に読める。\n\n**このニュースをジョークにするなら...**\n\n> 「未来はバーチャル」と言い続けた人が、アイルランドに12世紀の城を買いました。石造り、440エーカー、遅延ゼロ。\n\n---\n\n## 5. Gatekeeping Bots and AI Slop: The Workplace Has Gotten Genuinely Weird\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/20/gatekeeping-bots-piles-of-slop-welcome-to-the-age-of-ai-weirdness-at-work.html)）*\n\n職場にAIが普及した結果、業務の効率化だけでなく、ボトルネックの発生や人間同士のコミュニケーションの混乱、奇妙なすれ違いが増加していることが報告されている。\n\n**どこが笑える？**\n\n- 矛盾: 「人間の仕事を楽にするため」に導入したAIが、人間が仕事をするための障壁を新しく作り出してる。\n- 滑稽さ: 人間の書いたメールをAIが要約して、その要約をまた別のAIが処理して、最終的に人間が「何の話？」ってなってる職場、ちゃんとあるんですよ。\n- 日本・海外から見ると: 日本の職場はハンコと稟議書のボトルネックで有名だったけど、アメリカはAIボットがその役割を引き継ぎつつある。\n\n**このニュースをジョークにするなら...**\n\n> お役所仕事をなくすためにAIを入れたら、AIがお役所仕事を新設して、しかも速くなった。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 10年払い続けたらリセット、ギガビットは夢見すぎ、AIは新しいハンコを発明、ザッカーバーグは城主に。ゴールって、足生えてたんですね。\n",
-    "reviewNotes": "d2のcaption3・d4のcaption3が状況説明止まりでオチが弱い。d4のimagePrompts[0]がシルエット不明確で顔依存リスクあり。xJa[0]が142字でオーバー。他は合格。 ／ 文体パス: 3箇所修正。quipJaの締め・introJaの後半2段落・xJa[6]が「うまくまとめた感」と「主語と理屈が几帳面すぎる」典型だったので、それぞれ崩した。"
+    "fullEn": "# Everything Is Fine (The Bench Got a 10/10)\n\n## Today's Forecast\n\nFive stories today, and they all rhyme.\n\nA CEO built a company for six years on fake numbers. The Army built a drone unit to catch up on drones, then shut it down. California lost a court fight over its own coastline. A psychologist convinced the entire U.S. political system to agree on one thing — which is a miracle, honestly.\n\nAnd one man on Instagram gave a park bench a perfect 10 after seven years of not giving anything a 10.\n\nHere's your forecast: the systems aren't working, the org charts are fighting each other, and nobody's in charge of anything. Which means the pressure you feel to have it all figured out? Not your fault. Today, your job is to sit on a good bench, if you can find one. Apparently they exist.\n\n---\n\n## 1. Fashion Tech CEO Gets 5 Years for $300M Fraud — Turns Out 'Disrupting' Included the Truth\n\n*The Guardian US — [source](https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison)*\n\nChristine Hunsicker, the former CEO of fashion tech startup CaaStle, was sentenced to five years in federal prison for orchestrating a $300 million fraud scheme that ran from 2019 to 2025. Prosecutors said she provided investors with falsified documents that overstated the company's profits and cash reserves. The Manhattan U.S. attorney's office announced the sentencing.\n\n**Why It's Funny**\n\n- **Contradiction:** A CEO who promised to 'disrupt' the fashion industry spent six years disrupting her own financial statements instead.\n- **Absurdity:** The company's whole pitch was sharing clothes you don't own — and apparently that extended to sharing profits that didn't exist.\n- **View from Tokyo:** For anyone watching from outside Silicon Valley, a startup founder going to prison for overstating numbers is less 'shocking scandal' and more 'Tuesday.'\n\n**Say It Out Loud**\n\n> She disrupted the fashion industry, the investment community, and federal securities law — in that order.\n\n---\n\n## 2. Army Shuts Down Drone Battalion It Created to Catch Up on Drones\n\n*CBS News US — [source](https://www.cbsnews.com/video/us-army-phases-out-new-drone-battalion-despite-being-far-behind-drone-race/)*\n\nThe U.S. Army has decided to phase out a drone battalion it established earlier this year specifically to help close the gap with adversaries in drone warfare, drawing on lessons observed in the Ukraine conflict. The decision came amid reported tensions between senior Army officials, including two who were either fired or forced into early retirement. The move has raised concerns given that the U.S. is widely considered to be behind in drone technology and deployment.\n\n**Why It's Funny**\n\n- **Contradiction:** The Army created a drone battalion because it was losing the drone race. It's now disbanding that battalion — while still losing the drone race.\n- **Absurdity:** The unit wasn't taken down by enemy fire. It was taken down by a disagreement between generals.\n- **View from Tokyo:** America's allies watching this unfold are probably not feeling great about the 'world's most powerful military' branding right now.\n\n**Say It Out Loud**\n\n> We're behind on drones, so we built a drone unit, and then we fired the guys who built it and shut the unit down. Caught up yet?\n\n---\n\n## 3. Judge Lets California Oil Pipeline Keep Running — Over California's Objections\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling)*\n\nA federal judge ruled this week that an oil pipeline operating off the California coast near Santa Barbara can continue to function, rejecting efforts by state regulators and environmental groups to halt its operations. The pipeline had been ordered to resume by the Trump administration. California state authorities had sought to stop the system from operating, setting up a direct conflict between state and federal authority.\n\n**Why It's Funny**\n\n- **Contradiction:** California has some of the strictest environmental laws in the country, but it turns out those laws stop at the waterline if a federal judge disagrees.\n- **Absurdity:** The pipeline runs off Santa Barbara — a stretch of coast that became a symbol of oil spill disaster in 1969. Same location, new chapter.\n- **View from Tokyo:** From the outside, watching America's greenest state lose a court fight to keep oil out of its own coastline reads like a very expensive punchline.\n\n**Say It Out Loud**\n\n> California: 'No pipeline.' Federal judge: 'Pipeline.' California: '...we have the world's fifth-largest economy and absolutely zero say in this.'\n\n---\n\n## 4. How One Psychologist Convinced Both Parties That Kids' Phones Are the Problem\n\n*Politico — [source](https://www.politico.com/video/2026/08/21/how-jonathan-haidt-turned-the-fight-over-kids-and-social-media-into-a-political-movement-2147935)*\n\nPolitico examined how psychologist Jonathan Haidt transformed his arguments about the harms of social media on children into a bipartisan political movement. Haidt's work, particularly his book 'The Anxious Generation,' has influenced legislative efforts in multiple U.S. states and drawn support from politicians across the ideological spectrum. His campaign has made restricting kids' access to smartphones and social media one of the rare areas of current American political agreement.\n\n**Why It's Funny**\n\n- **Contradiction:** American politicians haven't agreed on much in decades. The one thing that finally united them is taking phones away from teenagers.\n- **Absurdity:** The movement warning about the dangers of social media spread primarily through — social media.\n- **View from Tokyo:** In Japan, concerns about kids and screen time are common, but watching one academic's book spark bipartisan legislation across fifty states is a level of policy velocity that feels distinctly American.\n\n**Say It Out Loud**\n\n> Republicans and Democrats finally agree on something. It's that your kid's phone is ruining your kid. Their phones are fine.\n\n---\n\n## 5. Man Who Rates Benches on Instagram Gives His First 10/10 After Seven Years\n\n*CBS News US — [source](https://www.cbsnews.com/video/why-instagram-bench-rater-gave-out-first-10-7-years/)*\n\nA man who has spent seven years reviewing park benches on Instagram — rating them in the style of a food or film critic — has given out his first perfect score of 10 out of 10 after more than 300 reviews. CBS News covered the milestone, framing it as a rare and significant event in the niche world of bench criticism. The account has attracted a dedicated following.\n\n**Why It's Funny**\n\n- **Contradiction:** Film critics hand out five stars on opening weekend. This man reviewed 300 benches across seven years before he trusted anything enough to call it perfect.\n- **Absurdity:** CBS Evening News — the same broadcast that covers wars, elections, and economic crises — gave airtime to a bench getting a 10.\n- **View from Tokyo:** In a media environment full of outrage and breaking alerts, the most wholesome story of the week is a man who sat on things and took notes for seven years.\n\n**Say It Out Loud**\n\n> Seven years. 300 benches. He finally found one worth sitting on. Most people just... sit.\n\n---\n\n## Today's Punchline\n\n> The CEO faked profits, the Army folded its own drone unit, and California couldn't stop an oil pipeline in its own ocean. But somewhere out there, a bench got a 10 out of 10. Hold onto that.\n",
+    "fullJa": "# ドローン部隊は解散、パイプラインは再稼働、でもベンチはついに満点をもらった\n\n## 今日を占うよ〜\n\n今日の5本、読む前に言っておきます。\n\n「またシステムが壊れてる」話が4本と、「でもこれだけはちゃんとしてた」話が1本です。\n\nCEOが6年間、財務諸表を「変革」し続けて禁固5年。軍がドローン戦に追いつこうとドローン部隊を作って、半年で自ら解散。カリフォルニアが自分の海岸のパイプラインを止めようとして、連邦裁判所に「ダメ」と言われた。そして分断の国アメリカが珍しく一致した議題が「子どものスマホ禁止」で、その旗を振ったのが一人の心理学者。\n\n「なんで私だけうまくいかないんだろう」と思ってるなら、軍もカリフォルニア州も6年続いたスタートアップも全員同じなので、安心してください。あなただけじゃないです。\n\n最後にベンチの話があるので、そこまで読んでください。7年待てば、満点に出会えます。\n\n---\n\n## 1. Fashion Tech CEO Gets 5 Years for $300M Fraud — Turns Out 'Disrupting' Included the Truth\n\n*The Guardian US（[記事](https://www.theguardian.com/business/2026/aug/20/christine-hunsicker-caastle-sentenced-prison)）*\n\nファッションテック企業CaaStle創業者のクリスティン・ハンシッカーCEOが、2019年から2025年にかけて投資家に利益と手元資金を偽った書類を提出し3億ドル規模の詐欺を主導したとして、連邦裁判所から禁固5年の判決を受けた。\n\n**どこが笑える？**\n\n- 矛盾: 「テクノロジーで業界を変革する」と言い続けた6年間、実際に変革していたのは財務諸表の数字だったんですよ。\n- 滑稽さ: 服の「シェアリング」を売りにした会社が、やっていたのは架空の利益を投資家とシェアすること。\n- 日本・海外から見ると: シリコンバレー流の「まず大きく見せろ」文化が行き着いた先として、海外のスタートアップ投資家には「またか」と映るはずなんですよね。\n\n**このニュースをジョークにするなら...**\n\n> ファッション業界を変えた、投資家も変えた、そして連邦法も変えようとした――この順番で。\n\n---\n\n## 2. Army Shuts Down Drone Battalion It Created to Catch Up on Drones\n\n*CBS News US（[記事](https://www.cbsnews.com/video/us-army-phases-out-new-drone-battalion-despite-being-far-behind-drone-race/)）*\n\n米陸軍は、ウクライナ戦争の教訓を吸収しドローン戦に追いつくために今年初めに創設したドローン大隊を廃止する方針を決定した。廃止の背景には、担当幹部2人の解雇・早期退職強制を含む上層部内の対立がある。\n\n**どこが笑える？**\n\n- 矛盾: ドローン競争に遅れているから作ったユニットを、ドローン競争に遅れたまま解散させる――解決策が問題と同じ形をしてるんですよ。\n- 滑稽さ: 廃止の理由が「幹部同士の仲たがい」というのも間の抜けた話で、最先端の軍事技術より先に崩壊したのが人間関係。\n- 日本・海外から見ると: ウクライナから学んだはずの教訓が、官僚的な内輪もめで消えていく様子は、同盟国から見るとかなり不安な絵面なんですよね。\n\n**このニュースをジョークにするなら...**\n\n> ドローンで遅れてるからドローン部隊を作って、作った人を首にして部隊を解散した。追いつけましたか？\n\n---\n\n## 3. Judge Lets California Oil Pipeline Keep Running — Over California's Objections\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/20/california-oil-pipeline-trump-judge-ruling)）*\n\nトランプ政権が再稼働を命じたカリフォルニア州沖のサンタバーバラ近海の石油パイプラインについて、連邦裁判所の判事が州当局や環境団体の反対を退け、操業継続を認める判断を下した。\n\n**どこが笑える？**\n\n- 矛盾: 環境規制で全米一厳しいはずのカリフォルニアが、自分の海岸沖のパイプライン操業を止められない――「我が州のことは我が州で決める」の限界がここに。\n- 滑稽さ: 舞台がサンタバーバラというのも効いていて、全米屈指の高級リゾート地の沖合で、州が「やめて」、連邦が「やれ」と言い合ってる。\n- 日本・海外から見ると: 連邦vs州という構図は日本にはピンとこないかもしれないけど、要は「地元が嫌だと言っても上が通す」という話で、それはわかる。\n\n**このニュースをジョークにするなら...**\n\n> カリフォルニア「パイプライン反対」、連邦裁判事「操業続けろ」、カリフォルニア「……GDP世界5位なのに一切口出せないじゃないですか」。\n\n---\n\n## 4. How One Psychologist Convinced Both Parties That Kids' Phones Are the Problem\n\n*Politico（[記事](https://www.politico.com/video/2026/08/21/how-jonathan-haidt-turned-the-fight-over-kids-and-social-media-into-a-political-movement-2147935)）*\n\n心理学者ジョナサン・ハイトが子どもとSNSの関係に関する主張を展開し、党派を超えた政治運動にまで発展させた経緯をPoliticoが詳報した。\n\n**どこが笑える？**\n\n- 矛盾: 何十年も「分断」と言われてきたアメリカ政界が珍しく一致した議題が「子どものスマホ禁止」で、その旗振り役が学者一人というのが妙に物語ってる。\n- 滑稽さ: SNSで政治的合意が不可能になったと言われる時代に、SNSの害を訴える運動がSNSで広がって超党派の支持を集めた。\n- 日本・海外から見ると: 「スマホが子どもをダメにする」論は日本でも根強いけど、それが連邦・州立法まで動かす規模感になるのはさすがアメリカ。\n\n**このニュースをジョークにするなら...**\n\n> 共和党と民主党がついに意見一致。「子どものスマホが問題だ」と。自分たちのスマホは問題ない。\n\n---\n\n## 5. Man Who Rates Benches on Instagram Gives His First 10/10 After Seven Years\n\n*CBS News US（[記事](https://www.cbsnews.com/video/why-instagram-bench-rater-gave-out-first-10-7-years/)）*\n\nInstagramでベンチだけをレビューし続けている男性が、7年・300件以上の投稿を経て初めて満点10点を与えたと米CBSニュースが報じた。\n\n**どこが笑える？**\n\n- 矛盾: 映画評論家や食評家は初日からポンポン10点を出すのに、ベンチ評論家は7年かけてやっと出した――対象への真剣さが誰より本物なんですよ。\n- 滑稽さ: 世界中で政治・経済・戦争のニュースが飛び交う中、CBSが全国放送で届けた本日の重大ニュースのひとつがベンチの満点。\n- 日本・海外から見ると: 日本にも「〇〇だけレビュー」アカウントはあるけど、それがCBSイブニングニュースに取り上げられるスケール感、これがアメリカ。\n\n**このニュースをジョークにするなら...**\n\n> 7年間、ベンチ300脚。やっと座れる場所を見つけた。普通の人はもう座ってる。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 詐欺師は捕まり、ドローン部隊は自滅し、カリフォルニアは自分の海を守れなかった。でもベンチは7年越しに満点をもらった。今日はそれで十分です。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d2のimagePrompts③に実在人物を想起させる「two Army generals」が顔・表情つきで登場しており基準5違反。d4のcaptions③とcaptionsJa③は説明で終わっていてオチが弱い。xJa①が136字でオーバー。それ以外は合格。 ／ 文体パス: 3箇所修正。introJaの「つまり今日の占いはこうです」以降の締め段落がプレゼン的にきれいにまとまりすぎていたのと、xJa[4]の「どちらが信頼できるかは明らかです」という整いすぎた結び、xJa[6]の「アルゴリズムはこの話題が大好きです」という説明口調を修正。"
   },
   "carousel": [
     "images/2026-08-21/carousel/slide-1.jpg",
