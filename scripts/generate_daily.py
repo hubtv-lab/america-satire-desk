@@ -628,6 +628,7 @@ def assemble_full_text(editorial: dict, candidates: list[dict]) -> None:
         parts_ja += ["", "**このニュースをジョークにするなら...**", "", f"> {cap_ja}", "", "---", ""]
     parts_ja += ["## 今日のまとめジョーク/パンチライン", "", f"> {editorial['quipJa']}", ""] \
         if editorial.get("quipJa") else []
+    parts_ja += ["今日も読んでくれてありがとうございます。また明日の朝、ここで。", ""]
     editorial["fullJa"] = "\n".join(parts_ja).strip() + "\n"
 
 
