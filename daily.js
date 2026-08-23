@@ -1,314 +1,314 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-23",
-  "generatedAt": "2026-08-22T20:06:00+00:00",
+  "date": "2026-08-24",
+  "generatedAt": "2026-08-23T20:05:04+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Supreme Court Clears the Way for Trump's White House Ballroom — For Now",
-        "source": "CNBC Top News",
-        "date": "2026-08-22",
-        "url": "https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html",
-        "summary": "最高裁のジョン・ロバーツ長官が、ホワイトハウス内に建設中の舞踏室工事の継続を暫定的に認める差し止め命令を発令した。トランプ大統領は2025年に東棟を取り壊し、物議を醸すこの舞踏室計画を進めている。"
+        "headline": "IndyCar Races Around the National Mall Because Why Not",
+        "source": "CBS News US",
+        "date": "2026-08-24",
+        "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
+        "summary": "インディカーが今週末、ワシントンD.C.のナショナル・モール周辺の公道でレースを開催。25台が時速約290kmで走行し、「フリーダム250」と名付けられたこのイベントはアメリカ建国250周年記念の一環とされている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「法の支配の守護者」である最高裁が、大統領が公邸に私的な舞踏室を建てる工事にゴーサインを出すという、守るべき「公」と「私」の境界線がどこにあるのかよくわからない状況なんですよ。",
-        "<b>滑稽さ:</b> 東棟が丸ごと解体されて、その跡地に舞踏室。合衆国最高裁判所が審査するほどの案件が「ダンスフロアをどこに敷くか」問題だっていうのが、もう喜劇のタイトルにそのまま使えるじゃないですか。",
-        "<b>日本・海外から見ると:</b> 首相官邸に「宴会場を増築したい」と言い出したら翌日には辞任会見になりそうな国から見ると、それが最高裁まで行って「とりあえず建てていい」で終わるのはちょっとしたSFですよ。"
+        "<b>矛盾:</b> 民主主義の象徴である公共空間・ナショナル・モールを、排気ガスをまき散らす高速レースで封鎖するのが「自由の祭典」というのは、なかなか独特な解釈なんですよ。",
+        "<b>滑稽さ:</b> リンカーン記念堂の隣で時速290kmの車が走り抜けていく。リンカーンだったら何て言うか、ちょっと聞いてみたい。",
+        "<b>日本・海外から見ると:</b> 皇居前広場でF1を走らせるようなもんじゃないですか。「建国記念だから何でもあり」の論理、日本では確実に炎上コース。"
       ],
       "imagePrompts": [
-        "A construction crane hanging a giant disco ball over the ruins of the White House East Wing, hard-hat workers in the foreground, the main White House façade visible in the background with a 'Grand Opening Soon' banner draped across it.",
-        "Nine Supreme Court justices in robes studying architectural blueprints of a ballroom, one justice holding a tiny scale model of a dance floor, stacks of legal documents piled beside a disco ball on the bench.",
-        "A velvet rope and a bouncer standing at a half-demolished government building entrance marked 'White House East Wing — Temporarily Closed for Renovations,' tourists taking photos outside."
+        "An IndyCar racing at full speed past the Lincoln Memorial, with tourists pressed against temporary barriers watching, holding American flags and cotton candy",
+        "A wide aerial shot of the National Mall completely lined with racing barriers and tire marks, the Capitol building visible in the background",
+        "A driver in a race helmet standing at a podium shaped like the Washington Monument, holding a trophy made to look like the Liberty Bell"
       ],
       "captions": [
-        "The Supreme Court ruled the ballroom can stay — which means the highest court in the land is now basically a construction permit office.",
-        "They tore down the East Wing for this. The East Wing. Gone. For a dance floor. I just need someone to confirm I'm awake.",
-        "Chief Justice Roberts issued a stay. The disco ball is, constitutionally speaking, still on the table.",
-        "Other countries renovate government buildings after they leave office. Just saying.",
-        "The case won't be fully decided for months — so right now, America's most powerful judges are just... letting the contractor keep going. You good with that? Cool. Foxtrot, anyone?"
+        "They wanted to honor 250 years of American democracy, so they closed the street.",
+        "Lincoln Memorial, Jefferson Memorial, pit lane — just your standard D.C. weekend.",
+        "The Freedom 250. Freedom for whom, exactly? Certainly not anyone trying to walk to the Smithsonian.",
+        "180 mph past the monuments to liberty. Checks out.",
+        "Other countries plant trees for their 250th birthday. America, you doing okay?"
       ],
       "captionsJa": [
-        "最高裁が「工事続けていいよ」と判断した。つまり米国最高法院は今、建築確認申請の窓口でもあるわけです。",
-        "東棟を全部壊して、その跡地が舞踏室。東棟が。まるごと。ダンスフロアのために。誰か今夢じゃないって教えてください。",
-        "ロバーツ長官が差し止め命令を発令した。ミラーボールは、憲法上まだ検討中です。",
-        "他の国は政権を去ってから官邸をいじる。まあ、参考までに。",
-        "最終判断は数ヶ月先。それまで米国最高裁はただ工事を眺めてる。いいの？　じゃあワルツでも踊ってて。"
+        "アメリカ民主主義250年を祝うために、公道を封鎖しました。",
+        "リンカーン記念堂、ジェファーソン記念堂、ピットレーン——D.C.の普通の週末ですね。",
+        "フリーダム250。誰の自由？スミソニアムに歩いて行こうとしてた人の自由は？",
+        "自由の碑の横を時速290kmで通過。まあ、そういうことか。",
+        "他の国は250周年に記念植樹とかするんですよ。アメリカ、大丈夫？"
       ],
-      "newsEn": "Chief Justice John Roberts issued a temporary stay allowing construction of a planned White House ballroom to continue. Trump had the East Wing demolished in 2025 to make room for the project. The stay will remain in place until the Supreme Court takes further action. The construction has drawn legal challenges and widespread criticism.",
+      "newsEn": "IndyCar held its first-ever street race in Washington, D.C. this weekend, with 25 cars reaching speeds close to 180 mph around the National Mall. The event, dubbed the Freedom 250, was framed as a celebration of America's 250th birthday. President Trump kicked off the race, making it one of several official birthday celebrations held this year.",
       "ironyEn": [
         {
-          "contradiction": "The institution tasked with protecting constitutional order just gave a thumbs-up to the president renovating the people's house into a personal venue.",
-          "absurdity": "The East Wing — home to the First Lady's office and visitor operations — got demolished so there'd be room for a dance floor. Democracy's waiting room is literally rubble.",
-          "outside": "Most countries would have a cabinet crisis over this. America has a Supreme Court ruling, a construction crane, and apparently a catering question still pending."
+          "contradiction": "The National Mall — designed as a shared civic space — was closed off so 25 cars could burn rubber past the monuments to democracy.",
+          "absurdity": "Nothing says 'freedom' quite like roping off public land and blasting exhaust fumes past the Lincoln Memorial.",
+          "outside": "For context: Japan once held a Formula E race in Tokyo, but nobody called it a birthday party for the emperor."
         },
         {
-          "contradiction": "The court that rules on the limits of executive power just told a president: your ballroom renovation can proceed while we think about it.",
-          "absurdity": "The stay 'will remain in place until the Supreme Court takes further action' — which means the disco ball could go up before the justices even schedule oral arguments.",
-          "outside": "Foreign heads of state visiting the White House may soon be greeted not by history, but by a freshly waxed parquet floor and a DJ booth. Diplomatic protocol is scrambling."
+          "contradiction": "A celebration of 250 years of American ideals, held in a place where regular Americans couldn't walk because the road was reserved for a motorsport event.",
+          "absurdity": "The Freedom 250. Not 'The Democracy 250.' Not 'The Constitution 250.' They went with freedom — and expressed it by closing the street.",
+          "outside": "Other countries mark major anniversaries with fireworks or parades. The U.S. went with 180 mph open-wheel cars dodging the Washington Monument."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-23/candidate-1.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-08-23/candidate-1-punchy.jpg"
+      "image": "images/2026-08-24/candidate-1.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-08-24/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Nebraska Schools Ask Police to Stop Bringing Electric Shock Gloves to Class",
-        "source": "The Guardian US",
-        "date": "2026-08-22",
-        "url": "https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police",
-        "summary": "ネブラスカ州オマハの警察が、州最大の公立学校区の校内で電気ショックグローブを携行するのをやめることに同意した。学校区側からの要請を受けての決定で、生徒への衝撃的な使用が問題視されていた。"
+        "headline": "CMS Chief Dr. Oz Clarifies MMR Vaccine 'Not Lethal' — After the President Suggested Otherwise",
+        "source": "CBS News US",
+        "date": "2026-08-24",
+        "url": "https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/",
+        "summary": "トランプ大統領がMMRワクチンの安全性に疑問を呈する発言をした数日後、CMS長官のドクター・オズがMMRワクチンは「致死的ではない」と述べ、事実上の火消しに追われた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「子どもたちを守るため」に学校に配備された警察官が「子どもたちを感電させる装備」を持ち込んでいたわけで、守る側と脅かす側が同一人物っていう構図がまず解決しないといけない問題なんですよ。",
-        "<b>滑稽さ:</b> 「校内に電気ショックグローブを持ち込まないでください」というお願いを学校が警察にしなければならなかった、という事実そのものが既にオチなんですよね。ルールが存在する前の状態を想像してほしい。",
-        "<b>日本・海外から見ると:</b> 「スクールポリス」という制度自体が存在しない国から見ると、「廊下を巡回する警官が感電グローブを持っている学校」というのはもはや設定の説明に数分かかるレベルの話ですよ。"
+        "<b>矛盾:</b> メディケアとメディケイドの最高責任者が、大統領の発言を受けて「ワクチンは人を殺しません」と改めて発表しなければならない状況——これ自体が公衆衛生の危機のシグナルなんですよ。",
+        "<b>滑稽さ:</b> ドクター・オズが「科学的に正しいこと」を言うのに、上司の発言を打ち消す形でしか言えないっていう。テレビ医師として培ったコミュニケーション力の使いどころ、これじゃないはず。",
+        "<b>日本・海外から見ると:</b> 先進国の政府高官が「MMRワクチンは死にません」と記者会見で言わなければならない2026年。ワクチン行政の信頼性という点で、海外の医療関係者はどう受け取るか。"
       ],
       "imagePrompts": [
-        "A school hallway lined with lockers, a police officer in uniform walking past elementary school student artwork on the walls, with a pair of bright yellow electric shock gloves visibly clipped to their belt.",
-        "A school principal at a desk handing a formal letter across to a police officer, the letter reads 'Please leave the shock gloves at home,' a framed photo of smiling children on the wall behind.",
-        "A lost-and-found box in a school office overflowing with items — lunchboxes, a retainer, a single sneaker, and a pair of electric shock gloves sitting on top."
+        "A press briefing room podium with a giant projected slide reading only 'NOT LETHAL' in block letters, a row of reporters' hands raised in the foreground, faces not visible",
+        "A press briefing room where the projected slide behind the speaker reads only 'NOT LETHAL' in large block letters",
+        "A pharmacist handing a child a vaccine sticker that reads 'You survived!' while a long line of confused parents waits behind a velvet rope"
       ],
       "captions": [
-        "The school had to formally ask the police to stop bringing electric shock gloves to school. I want to live in the timeline where that conversation wasn't necessary.",
-        "Police agreed to stop. Which is great. But 'agreed to stop' means they were doing it.",
-        "Somewhere, a kid's worst school nightmare just got upgraded. And it wasn't the cafeteria food.",
-        "They put it in writing. 'No shock gloves in the hallway.' That's a school rule now. That's on the list with 'no running' and 'raise your hand.'",
-        "Other school districts are fighting over standardized testing. Omaha's out here negotiating the voltage policy."
+        "Breaking news: vaccine confirmed not fatal. More on this developing story.",
+        "It took the head of Medicare to clarify that a 60-year-old vaccine won't kill you. Long week.",
+        "Dr. Oz's biggest TV diagnosis: trying to out-doctor the president on live television.",
+        "The bar for 'reassuring the public' is now: 'It's not lethal.' We've set a new floor.",
+        "Other health agencies issue advisories about flu season. America issues advisories about whether the MMR vaccine is murder."
       ],
       "captionsJa": [
-        "学校が警察に「電気ショックグローブを校内に持ち込まないでください」と正式にお願いしなければならなかった。そのお願いが不要だった世界線に生まれたかった。",
-        "警察は「やめることに同意した」。良かった。でも「やめることに同意した」ってことは、やってたってことですよ。",
-        "ある子どもの学校における最悪の悪夢が今日アップグレードされた。食堂のメニューの話じゃないです。",
-        "しかも文書化された。「廊下に電気ショックグローブ持込禁止」。これが校則になった。「廊下を走るな」「手を挙げてから発言」と並んで。",
-        "他の学校区は学力テストで揉めてる。オマハは電圧の交渉をしてる。"
+        "速報: ワクチン、致死的でないと確認。続報をお待ちください。",
+        "60年使われてきたワクチンが「死なない」と改めて発表されました。長い一週間でしたね。",
+        "ドクター・オズの今世紀最大の診断: 生放送で大統領より医学的に正しいことを言おうとすること。",
+        "「安心してください」の最低ラインが「致死的ではありません」になりました。新記録です。",
+        "他国の保健機関はインフルエンザの季節に備える。アメリカはMMRが殺人かどうかを発表する。"
       ],
-      "newsEn": "Omaha police have agreed to stop carrying gloves capable of delivering electric shocks to students in the hallways of Nebraska's largest public school district. The decision came after the school district asked officers to leave the devices behind. The gloves had been used on students, prompting the request to remove them from campus. The policy change affects most schools in the Omaha area.",
+      "newsEn": "Dr. Mehmet Oz, administrator of the Centers for Medicare and Medicaid Services, stated publicly that the MMR vaccine is 'not a lethal vaccine,' following remarks by President Trump that cast doubt on its safety. Oz's clarification came as the nation's top public health communicators were left in the position of walking back the president's comments. MMR vaccines protect against measles, mumps, and rubella, and have been in widespread use for decades.",
       "ironyEn": [
         {
-          "contradiction": "Schools are supposed to be safe spaces for learning. Omaha's solution was to staff the halls with officers carrying electric shock equipment — and the 'fix' is asking them nicely to leave the gloves at home.",
-          "absurdity": "The fact that a formal request had to be made suggests the gloves were, at some point, used. On children. In a school. During the school day.",
-          "outside": "In many countries, explaining what a 'school resource officer with electric shock gloves' is would take longer than explaining the entire American education funding system."
+          "contradiction": "The head of Medicare and Medicaid had to hold a press event to confirm that a vaccine used safely for 60 years does not, in fact, kill you.",
+          "absurdity": "Dr. Oz — a TV personality turned health czar — is now the responsible adult in the room clarifying the president's vaccine comments. That sentence exists.",
+          "outside": "Health officials in other countries spend their time debating vaccine distribution logistics. U.S. officials are debating whether vaccines are fatal."
         },
         {
-          "contradiction": "The district didn't ban the gloves — it asked. Police agreed. Which means tomorrow, a new chief could un-agree.",
-          "absurdity": "Somewhere there's a police requisition form where someone checked a box for 'electric shock gloves' under 'school supplies.'",
-          "outside": "The international version of this headline writes itself, and every foreign editor who reads it assumes something got lost in translation. It didn't."
+          "contradiction": "An administration that put a celebrity doctor in charge of Medicare is now relying on that same doctor to clean up the president's comments about medicine.",
+          "absurdity": "The bar for 'reassuring public health communication' has officially become: 'It won't kill you.'",
+          "outside": "Imagine briefing the WHO: 'Good news — the U.S. government has confirmed that the MMR vaccine is not lethal.' That's the update."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-23/candidate-2.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-08-23/candidate-2-punchy.jpg"
+      "image": "images/2026-08-24/candidate-2.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-08-24/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Prosecutors Use Comey's Own Thriller Novel Against Him in Court",
-        "source": "The Guardian US",
-        "date": "2026-08-23",
-        "url": "https://www.theguardian.com/us-news/2026/aug/22/james-comey-novel-trump-pen-america",
-        "summary": "連邦検察官が、元FBI長官ジェームズ・コミー氏がトランプ大統領を脅迫したと主張する裁判で、コミー氏自身が書いたサスペンス小説の一節を証拠として使用したことに対し、言論の自由を守る団体「PENアメリカ」が強く反発している。"
+        "headline": "Nonprofits Step In to Give Austin Musicians Health Insurance Because the System Won't",
+        "source": "NPR News",
+        "date": "2026-08-24",
+        "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
+        "summary": "テキサス州オースティンで、非営利団体と地域の公衆衛生機関が、医療費が払えない地元ミュージシャンのために保険料を補助するプログラムを運営している。医療費の高騰でプログラム自体も存続の危機に直面している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「フィクションを書いた」という行為が、その著者を刑事訴追する根拠になり得るなら、小説家・脚本家・コメディアン全員が自分の過去作を法廷で読まれるリスクを負うわけで、これは「創作の自由」の問題がかなり直接的に浮かび上がってるんですよ。",
-        "<b>滑稽さ:</b> 元FBI長官が書いたミステリ小説の登場人物のセリフが、その元FBI長官を起訴する材料として使われるって、もうこれ自体がミステリ小説の出だしとして最高じゃないですか。",
-        "<b>日本・海外から見ると:</b> 「作家が書いたフィクションが証拠採用される」という前例ができると、松本清張が生きていたら何本かの作品で起訴されてたかもしれないという冗談が冗談じゃなくなってくるんですよ。"
+        "<b>矛盾:</b> ライブ音楽の街として売り出しているオースティンで、そのライブ音楽を支えるミュージシャンが医療保険すら持てないから非営利団体が補填している。街のブランドと、街が実際に演者に何をしているかのギャップが激しい。",
+        "<b>滑稽さ:</b> 「医療費が高騰しすぎて、ミュージシャンに医療保険を提供するためのプログラムが医療費で潰れそう」という文章、一回読んだだけじゃ意味がわからないのに全部事実なんですよ。",
+        "<b>日本・海外から見ると:</b> 国民皆保険の国から見たら「ミュージシャン専用の医療保険クラウドファンディング組織が必要な先進国」というのは、どう説明しても信じてもらえない話。"
       ],
       "imagePrompts": [
-        "A courtroom scene where a prosecutor holds up a paperback thriller novel as evidence, the novel's cover clearly visible on a large screen behind the witness stand, jurors leaning forward to look.",
-        "A bookshelf in a law office where crime novels are filed between legal briefs, each book tagged with a yellow evidence sticker and a case number.",
-        "A writer at a desk typing on a laptop, the screen showing a thriller manuscript, while over their shoulder through a window, a federal building is visible with people in suits walking in."
+        "A musician playing guitar on a street corner in Austin, with a tip jar that reads 'for health insurance' instead of the usual donation message, neon signs for live music venues in the background",
+        "A nonprofit office with a whiteboard that reads 'Musicians Insured This Month: 47' next to a second whiteboard reading 'Program Budget Remaining: dwindling,' with a staff member looking worried",
+        "A close-up of a musician's hands on a guitar neck, with a bandaged finger and a small insurance card tucked under the strings"
       ],
       "captions": [
-        "The prosecution's star witness is a fictional hitman. The defendant wrote him. This is not a premise for a TV show — this is an active federal case.",
-        "Comey spent 20 years building federal cases. His own case is being built on chapter seven of his Amazon listing.",
-        "PEN America usually defends writers imprisoned in authoritarian states. They just filed a brief in New York. Think about that for a second.",
-        "If your novel can be used against you in court, every mystery writer in America needs a lawyer. Starting with whoever wrote the Hallmark Christmas murder mysteries.",
-        "The prosecution read the book. Gave it one star. Would not recommend. Submitting as Exhibit A."
+        "Live Music Capital of the World — as long as you don't need a doctor.",
+        "The program helping musicians pay for healthcare is going broke because of healthcare costs. Read that again.",
+        "One broken wrist away from losing the apartment. That's the deal Austin's offering its musicians.",
+        "They're subsidizing insurance with charity money because the market won't. Austin's tourism board left that part out of the brochure.",
+        "Universal healthcare: still not on the setlist."
       ],
       "captionsJa": [
-        "検察側の目玉証拠はフィクションの殺し屋。被告がその殺し屋を書いた。これはドラマの企画書じゃなくて、現在進行中の連邦裁判です。",
-        "コミー氏は20年間、連邦裁判の証拠を積み上げてきた。自分への裁判は、Amazonの商品ページ7章で積み上げられた。",
-        "PENアメリカはふだん権威主義国家で投獄された作家を守る組織。今日、ニューヨークで書面を提出した。ちょっと考えてほしい。",
-        "小説が法廷で使われるなら、アメリカのミステリ作家は全員弁護士が要る。ハワイアン・ミステリのハーレクイン作家から始めて。",
-        "検察は本を読んだ。星1つ。お勧めしない。証拠品Aとして提出します。"
+        "世界のライブ音楽の首都——医者にかかれなければの話ですが。",
+        "ミュージシャンの医療費を助けるプログラムが医療費で潰れかけてる。もう一度読んでください。",
+        "手首を一回骨折したらアパートを失う。オースティンがミュージシャンに提示している条件です。",
+        "市場が動かないから慈善団体が保険料を補填している。観光パンフレットにはそこ書いてないんですよね。",
+        "国民皆保険: まだセットリストに入っていません。"
       ],
-      "newsEn": "Federal prosecutors have cited a passage from a thriller novel written by former FBI Director James Comey in their case accusing him of threatening to kill President Trump. Free-expression organization PEN America has condemned the move, calling it a misuse of creative fiction as legal evidence. Comey has denied any intent to harm the president. The case has drawn attention to concerns over the criminalization of political speech and literary expression.",
+      "newsEn": "A nonprofit organization and a local public health agency in Austin, Texas, are subsidizing health insurance premiums for local musicians who cannot afford coverage on their own. The program uses Affordable Care Act marketplace plans to provide musicians with access to healthcare. However, rising healthcare costs are putting the program itself under financial pressure, threatening its sustainability.",
       "ironyEn": [
         {
-          "contradiction": "The former head of the nation's premier law enforcement agency is now being prosecuted partly on the basis of a plot he invented for entertainment.",
-          "absurdity": "If fictional villains can be used as evidence of their authors' intent, every crime writer in America just became a legal liability.",
-          "outside": "PEN America — an organization that normally fights for writers jailed in authoritarian countries — is now filing objections in a US federal courtroom. That's a sentence nobody had on their bingo card."
+          "contradiction": "Austin bills itself as the Live Music Capital of the World, yet the people making that music can't afford a doctor's visit without charity intervention.",
+          "absurdity": "The program helping musicians afford healthcare is now struggling to survive because — healthcare costs too much. It's turtles all the way down.",
+          "outside": "In countries with universal coverage, this sentence doesn't exist: 'a nonprofit is raising money so guitar players can see a doctor.'"
         },
         {
-          "contradiction": "Prosecutors are treating a published thriller as a confession. The defendant's lawyer's next move is presumably to argue that the butler didn't do it.",
-          "absurdity": "Comey spent decades building cases from evidence. The case against him is, in part, a paperback novel he sold on Amazon.",
-          "outside": "Literary critics have historically been the harshest judges of a Comey thriller. Now federal prosecutors are giving it a second read — with very different notes."
+          "contradiction": "The city's entire cultural identity rests on its music scene, but the musicians underwriting that identity are one broken arm away from financial ruin.",
+          "absurdity": "Rising medical costs are threatening a program designed to offset rising medical costs. The problem is eating its own solution.",
+          "outside": "A musician in Germany can play a gig, break a finger, and see a specialist the next morning. An Austin musician plays the same gig and hopes the nonprofit's budget holds."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-23/candidate-3.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-08-23/candidate-3-punchy.jpg"
+      "image": "images/2026-08-24/candidate-3.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-08-24/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Amazon Hikes Echo and Kindle Prices Up to 60% — Blames Memory Costs",
-        "source": "The Verge",
-        "date": "2026-08-22",
-        "url": "https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv",
-        "summary": "Amazonが、EchoスマートスピーカーやKindle、Fire TVなどの自社デバイス価格を最大60%値上げした。同社は「メモリ・ストレージ部品コストの大幅な増加」を理由に挙げており、最も低価格な製品ほど値上げ幅が大きい。"
+        "headline": "Pentagon Fires Stars and Stripes Editor for Being Too Independent at the Military's Own Newspaper",
+        "source": "CBS News US",
+        "date": "2026-08-23",
+        "url": "https://www.cbsnews.com/video/update-the-battle-over-stars-and-stripes/",
+        "summary": "国防総省が一部資金を提供している軍向け新聞「スターズ・アンド・ストライプス」の編集長、発行人、記者1名を解雇した。同紙スタッフは以前から編集権の独立性に対する懸念を表明していた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「お客様の生活をより安く便利に」がAmazonの建前なのに、いちばん安くて手が届きやすかった製品を最も大きく値上げするっていう、「裾野を広げる」どころか「裾野を切り捨てる」動きをしてるんですよ。",
-        "<b>滑稽さ:</b> Echoは「Alexa、もっと安い選択肢を探して」と頼めるデバイスなんですけど、そのデバイス自体が60%高くなったので、もうAlexaに聞く前の段階で詰んでる感がありますよね。",
-        "<b>日本・海外から見ると:</b> 「まずデバイスを安く配って、サービスで回収する」というAmazonのモデルが崩れてきているとすれば、Alexaに話しかけ続けてきた数億人分のデータは一体どういう収支計算だったんだろうという話になってくるんですよ。"
+        "<b>矛盾:</b> 「報道の自由」と「国防」を同時に掲げる国の軍が、自分たちで資金を出している新聞社の編集長を「独立性が強すぎる」という形で解雇する——この構図、風刺として書く必要がないくらい出来上がってるんですよ。",
+        "<b>滑稽さ:</b> 編集権の独立を求める記事を書いていたら、その独立を理由に首を切られた。因果応報どころか、因果が一周して帰ってきた。",
+        "<b>日本・海外から見ると:</b> 「軍が運営する独立した新聞」という時点で外から見たら矛盾してるんですが、さらにその「独立」を守ろうとした人が軍に解雇される。二重に矛盾が積み上がってる。"
       ],
       "imagePrompts": [
-        "An Amazon Echo Dot on a kitchen counter with a large red price tag showing a 60% increase, a person staring at it with a calculator in hand, a Prime membership card visible nearby.",
-        "A shelf in a big-box store where the Amazon Echo section has prices crossed out and rewritten in red marker multiple times, getting larger each time, the original price barely visible underneath.",
-        "An Amazon delivery box being opened to reveal a tiny Echo Dot and an oversized invoice, the invoice taller than the product itself."
+        "A newspaper front page with the headline 'EDITORIAL INDEPENDENCE UNDER THREAT' being used to pack a cardboard box by a journalist clearing out their desk, with a Pentagon building visible through the office window",
+        "An editor's desk with a termination letter on official government letterhead, a framed newspaper front page on the wall behind, no faces visible",
+        "A printing press producing newspapers with 'STARS AND STRIPES' on the masthead, while a uniformed silhouette holds scissors near the editorial page"
       ],
       "captions": [
-        "Amazon raised the price of the Echo Dot 60 percent. You can ask Alexa to find a better deal. She'll redirect you to Amazon.",
-        "They blamed 'memory and storage costs.' This is a speaker that listens to everything and remembers nothing. The memory costs are ironic.",
-        "The company that once sold books cheaper than anyone on earth is now charging 60 percent more for a hockey puck that plays Spotify. Progress.",
-        "Budget shoppers who bought an Echo to save money are now being priced out of the Echo. The ecosystem has eaten itself.",
-        "Alexa, why did you get so expensive? '…I'm sorry, I didn't catch that.'"
+        "They fired the editor of the military's own newspaper for being too much of a journalist. Bold strategy.",
+        "Stars and Stripes: 'We support editorial independence.' Pentagon: 'Not like that.'",
+        "The staff was reporting on threats to their independence. Then came the threat to their independence.",
+        "Defending freedom abroad, managing the message at home — multi-tasking.",
+        "The editor got the scoop. Just not the one they were expecting."
       ],
       "captionsJa": [
-        "AmazonはEcho Dotを60%値上げした。Alexaに安い代替品を探してもらえる。Alexaはあなたをアmazonに誘導します。",
-        "「メモリとストレージのコスト増」が理由らしい。このスピーカー、全部聞いて何も覚えてないんですけど。メモリのコストが皮肉すぎる。",
-        "かつて誰よりも安く本を売っていた会社が、今はSpotifyを流すだけのホッケーパックを60%増しで売ってる。進化ですね。",
-        "節約のためにEchoを買った人たちが今、そのEchoを買えない値段になってる。エコシステムが自分を食べた。",
-        "Alexa、なんでこんなに高くなったの？　「……もう一度おっしゃっていただけますか？」"
+        "軍の新聞社の編集長を「ジャーナリストすぎる」という理由で解雇。大胆な作戦ですね。",
+        "スターズ・アンド・ストライプス「編集権の独立を支持します」。国防総省「そういう意味じゃない」。",
+        "編集権への脅威を取材していたら、編集権への脅威が来た。",
+        "海外では自由を守り、国内ではメッセージを管理する。器用なもんですよ。",
+        "編集長はスクープをとりました。想定していたやつではなかったですが。"
       ],
-      "newsEn": "Amazon has raised prices on its Echo, Kindle, Fire TV, and Eero product lines by up to 60 percent, citing 'significant increases in memory and storage component costs.' The budget end of Amazon's lineup was hit hardest, with the Echo Dot jumping from $49.99 to a significantly higher price point. The increases were first reported by Fortune. The move affects the devices Amazon uses to keep customers tied to its ecosystem.",
+      "newsEn": "The Pentagon fired the editor-in-chief, publisher, and a reporter at Stars and Stripes, a newspaper partly funded by the Department of Defense that serves U.S. military personnel. Prior to the firings, staff members had raised concerns about editorial independence. The outlet had been reporting on issues related to its own autonomy before the dismissals took place.",
       "ironyEn": [
         {
-          "contradiction": "Amazon built its hardware empire by selling devices cheap to hook people into its ecosystem. Now it's raising the price of the hook.",
-          "absurdity": "The Echo Dot — a device you can ask 'Alexa, find me a cheaper alternative' — just got 60 percent more expensive. Alexa has no answer for that one.",
-          "outside": "Amazon's whole pitch was: buy the cheap speaker, we'll make it back on Prime subscriptions and impulse purchases at 2am. The cheap speaker is no longer cheap. The 2am purchases remain."
+          "contradiction": "Stars and Stripes has 'editorial independence' written into its mandate. The Pentagon funds it. Those two facts just ran into each other at high speed.",
+          "absurdity": "The paper's staff raised concerns about editorial independence. Then they got fired. The story basically wrote itself — while they still had jobs.",
+          "outside": "State-funded media that gets fired for being too independent is usually the punchline in stories about other countries."
         },
         {
-          "contradiction": "The company that disrupted retail by undercutting everyone on price is now the one hiking prices by 60 percent on its own products.",
-          "absurdity": "They blamed 'memory and storage component costs' — on a device whose entire job is to listen and forget what you said.",
-          "outside": "The international price comparison shopper's instinct is to check Amazon. For Amazon's own products, Amazon is now the expensive option."
+          "contradiction": "A publication that exists to serve troops who defend freedom of the press just had its editor removed for exercising it.",
+          "absurdity": "They were reporting on their own lack of independence. Then they lost it. That's not irony, that's a proof of concept.",
+          "outside": "Foreign press freedom indexes are going to need a new footnote category: 'Fired by the institution that funds the paper that covers the institution.'"
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-23/candidate-4.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-08-23/candidate-4-punchy.jpg"
+      "image": "images/2026-08-24/candidate-4.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-08-24/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "U.S. Kindergarten Vaccination Rates Drop as Non-Medical Exemptions Hit Record High",
-        "source": "The Guardian US",
-        "date": "2026-08-22",
-        "url": "https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip",
-        "summary": "CDCの新データによると、米国の幼稚園児におけるMMRワクチン（麻疹・おたふく風邪・風疹）の接種率が僅かに低下し、医学的理由によらない接種免除申請が過去最高の4.2%に達したことが明らかになった。"
+        "headline": "Trump Re-Nominates FEMA Chief He Already Fired Once — for the Same Job",
+        "source": "NPR Politics",
+        "date": "2026-08-23",
+        "url": "https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again",
+        "summary": "トランプ大統領が、一度解任したキャメロン・ハミルトン氏を再びFEMA長官に指名した。ハミルトン氏の再任がFEMAの扱いについての方針転換を意味するのか注目されている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「アメリカを再び強くする」という掛け声の下で、麻疹など既に制圧済みだった感染症への集団免疫が崩れていくというのは、強さの方向が少し違うんじゃないかという話なんですよ。",
-        "<b>滑稽さ:</b> 「注射が炭酸飲料のボトルくらいの大きさに見える」という発言の翌週に過去最高の接種免除率が出たというタイミングが、因果関係を証明するものではないにせよ、統計的にかなりシュールな一致なんですよね。",
-        "<b>日本・海外から見ると:</b> 日本でも予防接種の副反応報道が接種率を下げた経験があるので笑えない話なんですが、ソーダボトルの例えで医療政策を語る大統領がいる国の話だと思うと、やっぱりだいぶ違う次元の話なんですよ。"
+        "<b>矛盾:</b> 一度クビにした人間を、同じポストに再指名する。採用プロセスを経て「やっぱりあいつがよかった」に戻るのか、最初から別の意図があったのか——どちらにしてもFEMAの安定性とは程遠い話なんですよ。",
+        "<b>滑稽さ:</b> FEMA長官を一度解任して、また同じ人を指名する。災害対応機関のトップ人事がこれだと、次の災害のとき誰が電話に出るのか本当にわからない。",
+        "<b>日本・海外から見ると:</b> 防災・危機管理機関の長を一度罷免してから再任するというのは、日本の感覚では「いったい何があったんですか」案件。組織の継続性と信頼性という観点で、ちょっと理解が追いつかない。"
       ],
       "imagePrompts": [
-        "A CDC chart showing kindergarten vaccination rates with a line dipping slightly downward, the chart displayed on a screen in a pediatric clinic waiting room with children's toys in the foreground.",
-        "A school health office bulletin board covered in vaccination reminder flyers, with a growing pile of exemption application forms stacked on the desk below it.",
-        "A glass of soda and a tiny vaccine syringe placed side by side on a table for size comparison, a measuring tape stretched between them."
+        "A man in a suit walking out of a government building carrying a box of belongings, then in the next panel walking back in with the same box, a 'FEMA' sign on the wall",
+        "A revolving door at a federal agency building with the same person going in and out, a hurricane symbol visible on the window",
+        "An HR desk with a hire/fire/rehire checklist, the same name checked in all three boxes, with a FEMA logo on the wall calendar"
       ],
       "captions": [
-        "Non-medical vaccine exemptions just hit a record high. Somewhere, measles is looking at that stat and feeling optimistic.",
-        "The exemption form is apparently easier to fill out than showing up for the shot. We've gamified avoiding public health.",
-        "Trump said some vaccines look like soda bottles. The following week, exemption rates hit a record. This is not a controlled study. The results are still in.",
-        "These are kindergarteners. They didn't file the exemption. Someone filed it for them. That's the detail that keeps pediatricians up at night.",
-        "CDC released the numbers. Public health officials said they were 'concerned.' Measles said nothing. Measles is patient."
+        "He got fired. Then nominated again. For the exact same job. FEMA's having a year.",
+        "The nation's disaster response chief: now with bonus job insecurity.",
+        "Hamilton's résumé now reads: FEMA Director, gap, FEMA Director. The gap is the whole story.",
+        "When a hurricane hits at 3am, it's good to know if the person picking up the phone has been fired yet.",
+        "First term: fired. Second term: pending. Stability: not on the agenda."
       ],
       "captionsJa": [
-        "非医学的理由による接種免除が過去最高を記録した。どこかで麻疹がこの数字を見て、少し元気を取り戻してる。",
-        "どうやら免除申請書を書く方が、注射を受けに行くより簡単らしい。公衆衛生の回避がゲーム化された。",
-        "トランプ氏が「注射がソーダボトルくらいの大きさに見える」と言った翌週、免除率が過去最高になった。対照実験ではない。結果は出ている。",
-        "これ、幼稚園児の話ですよ。免除申請を出したのは子どもじゃない。誰かが代わりに出した。小児科医が夜眠れなくなるのはそこなんです。",
-        "CDCが数字を発表した。公衆衛生の専門家たちは「懸念している」と言った。麻疹は何も言わなかった。麻疹は待つのが得意だ。"
+        "解任されて、また同じポストに指名された。FEMAにとって充実した一年ですね。",
+        "国の災害対応責任者。求人票の備考欄: 雇用の安定は保証しません。",
+        "ハミルトン氏の職歴: FEMA長官 → 空白 → FEMA長官。空白のところに全部が詰まってる。",
+        "午前3時にハリケーンが来たとき、電話に出る人がまだ解任されてないか確認が必要。",
+        "第一期: 解任。第二期: 審議中。安定性: 議題にありません。"
       ],
-      "newsEn": "New CDC data shows that MMR vaccination rates among kindergarteners have dipped slightly, while non-medical exemptions have climbed to a record 4.2 percent. The data was released about a week after President Trump made a series of misleading public claims about vaccines, including a comment comparing injection size to a soda bottle. Public health officials have expressed concern that declining rates could leave communities vulnerable to outbreaks of previously controlled diseases.",
+      "newsEn": "President Trump has nominated Cameron Hamilton to serve as FEMA administrator for a second time, after previously removing him from the position. The renomination raises questions about whether it signals a change in the administration's stance toward the agency. NPR's Ayesha Rascoe spoke with Politico reporter Thomas Frank about what Hamilton's return could mean for FEMA's future under the administration.",
       "ironyEn": [
         {
-          "contradiction": "The CDC tracks which diseases the country has controlled. The list is getting shorter — not because of new diseases, but because of old ones coming back.",
-          "absurdity": "Non-medical exemption forms are at a record high. The exemption paperwork takes more effort to file than the vaccine takes to administer.",
-          "outside": "Countries that spent decades trying to access MMR vaccines are watching a country that has them freely available voluntarily opting out. The WHO is not having a great week."
+          "contradiction": "The administration fired its FEMA chief, then nominated the same person again. The agency responsible for continuity of emergency response doesn't appear to have continuity of leadership.",
+          "absurdity": "Being rehired for a job you were fired from is awkward enough. Being rehired to run the nation's disaster response agency makes for a really specific kind of awkward.",
+          "outside": "Most countries expect their emergency management chief to have consecutive tenure. The U.S. model now includes an intermission."
         },
         {
-          "contradiction": "Public health infrastructure was built on the promise that vaccine-preventable diseases would stay prevented. That premise is now a variable.",
-          "absurdity": "Trump compared vaccine injections to soda bottles the week before this data dropped. The CDC data does not mention this. The timing does the work.",
-          "outside": "Japan had its own vaccination rate crisis after adverse event media coverage tanked uptake. That took years of reporting to achieve. A soda bottle comparison did it in a week."
+          "contradiction": "FEMA exists to bring order to chaos. Its own leadership structure has been — chaotic.",
+          "absurdity": "Hamilton went from FEMA chief, to fired, to nominee again. His résumé now has a gap that is also a federal agency.",
+          "outside": "When a hurricane hits, the first call goes to FEMA. It's useful to know whether the person answering has been fired yet this week."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-23/candidate-5.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-08-23/candidate-5-punchy.jpg"
+      "image": "images/2026-08-24/candidate-5.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-08-24/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日のアメリカは「公私の境界線が消えた国」特集。最高裁がダンスフロアを承認し、小説がそのまま証拠になり、学校が警察に『感電させないで』とお願いし、AlexaがAlexaの値上げを教えてくれる——制度という建前が各所でほころびている。",
-    "titleEn": "The Ballroom, the Taser Gloves, and the Thriller Novel Walk Into a Courtroom",
-    "subtitleEn": "America's week in five scenes you couldn't write sober.",
-    "titleJa": "最高裁がダンスフロアを承認し、学校が警察に「感電やめて」とお願いした日",
+    "thread": "今日の5本を貫く糸：「自分たちで壊しておいて、自分たちで直したと言う」——制度の自己矛盾が全方位で炸裂している一日。",
+    "titleEn": "America Broke Everything and Called It a Celebration",
+    "subtitleEn": "Five stories, one theme: the system explaining itself to itself.",
+    "titleJa": "ナショナル・モールでレースをやって「自由の祭典」と言う国の、今日のニュース5本",
     "titleAltJa": [
-      "Echo60%値上げ・ワクチン免除率過去最高・小説が証拠採用——今週のアメリカは一体どこへ向かっているのか",
-      "「アメリカのニュース、今日どう返せばいい？」に答える5本"
+      "「ワクチンは死にません」と政府高官が記者会見で言わなければならなかった2026年8月24日",
+      "一度クビにした人をまた同じ役職に指名する——FEMAの話が、今日のアメリカ全部の縮図だった"
     ],
-    "leadJa": "毎朝アメリカのニュースを読んでいます。職業病みたいなものです。\n\n今日は読み終えた後、30秒くらいコーヒーを眺めていました。ホワイトハウスに舞踏室、校内に感電グローブ、小説が法廷証拠。全部今週の話です。\n\n笑っていいのか怒るべきなのかよくわからないので、とりあえず一緒に読んでいきましょう。",
-    "introEn": "Five stories today. One through-line: somewhere between the White House ballroom and the school hallway taser gloves, the line between official and absurd seems to have gotten... lost.\n\nWe've got the Supreme Court greenlit a dance floor, a thriller novel starring as evidence in a federal case, and Amazon raising prices on the device you'd use to ask Alexa if prices are going up. Plus kindergarten vaccination numbers heading the wrong direction.\n\nHere's your forecast: if you've spent this week feeling like the rules don't quite make sense anymore, today's news confirms it's not you. The rules are genuinely confused. Go into your meetings with that confidence. You're not the problem. You're just paying attention.",
-    "introJa": "今日の5本を読んで気づいたことがあります。\n\n「公のもの」と「私のもの」の境界線が、アメリカのあちこちでぼんやりしてきている。\n\nホワイトハウスに舞踏室（最高裁認可済み）。警察官が学校の廊下で感電グローブを装備。元FBI長官が書いた小説がそのまま法廷証拠に。Alexaが自分自身の60%値上げをお知らせ。幼稚園の麻疹ワクチン接種率が静かに下がっていく。\n\n5本バラバラに見えて、全部おなじ問いに行き着くんですよね。「それ、誰のためのルールだっけ？」って。\n\n今日の占いです。このニュースたちは全員、あなたが「なんかおかしくない？」と感じていることの外部証拠です。あなたの感覚は正しい。職場でなんかモヤっとしていたなら、今日はそれをそのまま口に出していい日だと思います。少なくともアメリカは今日も堂々とモヤっています。",
-    "quipEn": "The Supreme Court approved the ballroom, the school had to ask police to leave the shock gloves at home, and Alexa will happily tell you about all of it — for sixty percent more than last year. The system is working exactly as designed. I'm just not sure what it was designed for.",
-    "quipJa": "最高裁がダンスフロアを承認して、学校が警察に感電やめてとお願いして、小説が証拠になって、Alexaが値上がりした。制度はちゃんと動いています。何のための制度かはよくわかりません。",
+    "leadJa": "今日のニュースを5本読んで、声が出ました。笑い声か悲鳴かは自分でもわからない。ただ「これ全部同じ日に起きてるの?」という感覚だけははっきりしています。",
+    "introEn": "I opened the news this morning and had to set down my coffee. Not dramatically — I just needed my hands free to count on my fingers.\n\nToday we've got IndyCar tearing around the Lincoln Memorial at 180 mph in the name of freedom. We've got a TV doctor clarifying, on the record, that a vaccine won't kill you. We've got Austin musicians losing health coverage because healthcare cost too much. We've got the Pentagon firing the editor of its own newspaper for journalism. And we've got FEMA's director getting un-fired and re-hired for the exact same job.\n\nHere's your forecast: if you've been feeling like the rules don't quite apply the same way to everyone, today's news is basically a five-course confirmation. That's not your fault. That's the system being the system. You're fine. Go get more coffee.",
+    "introJa": "今朝、ニュースを開いて、指折り数えながら読みました。\n\n一本目、ナショナル・モール（ワシントンD.C.の中心にある公園で、リンカーン記念堂やスミソニアン博物館が並ぶあそこです）を時速290kmのレースカーが爆走。「建国250周年の自由の祭典」として。\n\n二本目、大統領がMMRワクチンの安全性に疑問を呈したあと、政府高官が「MMRワクチンは人を殺しません」と公式に発表する事態に。\n\n三本目、ライブ音楽の街・オースティンのミュージシャンが医療保険を持てないので非営利団体が補填していたら、その組織も医療費高騰で潰れかけている。\n\n四本目、軍が資金を出している新聞の編集長が「独立しすぎている」という理由で解雇される。\n\n五本目、一度クビにしたFEMA長官をまた同じポストに指名。\n\n今日の占い。システムがこれだけ派手に自分で自分を壊している日は、逆にチャンスです。「うまくいかないのは自分のせいだ」と思っていたあなた、そのシステムの中身、見ましたか? 今日は仕事でちょっとくらい判断ミスをしても怒られる筋合いはないと思う。少なくとも、FEMAよりはうまくやってる。",
+    "quipEn": "Today America fired people for doing their jobs, subsidized things the government should handle, and called a car race a civil rights moment. Just a regular Sunday.",
+    "quipJa": "今日のアメリカ、まとめると——「壊した人が直したと言い、直そうとした人が解雇され、誰かが代わりにツケを払っている」。明日、この話が出たらこの一文だけ言えば十分です。",
     "notesEn": [
-      "The Supreme Court just issued a stay allowing the White House ballroom construction to continue. Chief Justice Roberts — guardian of the rule of law — is now, functionally, a permit officer for a dance floor built on top of the demolished East Wing. I stared at this headline for a while. I'm still staring.",
-      "Nebraska's Omaha school district had to formally ask its police officers to stop bringing electric shock gloves into school hallways. The officers agreed to stop. Which means, before the request, they were doing it. I want to be very clear: there was no rule against this until the school asked nicely.",
-      "Federal prosecutors are using a passage from James Comey's thriller novel to argue he threatened the president. PEN America — the group that usually defends writers imprisoned in authoritarian countries — just filed a brief about a case in New York. That's where we are.",
-      "Amazon raised Echo Dot prices 60 percent. The Echo Dot is the device you'd use to ask Alexa to find a cheaper option. She will redirect you to Amazon. The company that once undercut every bookstore on earth is now charging more for a hockey puck that plays Spotify.",
-      "New CDC data: kindergarten MMR vaccination rates are down slightly, and non-medical exemptions just hit a record 4.2 percent. This data dropped about a week after the president compared injection size to a soda bottle at a public event. Correlation is not causation. The timing, though.",
-      "Today's five stories from America, ranked by how long I had to sit quietly afterward: 1. Ballroom (2 minutes). 2. Shock gloves in school (4 minutes). 3. Thriller novel as federal evidence (ongoing). 4. Alexa's 60% price hike (one bitter laugh). 5. Vaccine exemption record (I closed the tab).",
-      "The common thread in today's American news: someone, somewhere, looked at a thing that was supposed to serve the public and quietly started using it for something else. The ballroom, the gloves, the novel, the speaker, the exemption form. Five stories, one question — who is this system actually for?",
-      "Kindergarten vaccination exemptions are at a record high in the US. The exemption form is apparently easier to complete than scheduling a shot. We have, without meaning to, made opting out of public health more convenient than opting in. That's not a conspiracy. That's just a badly designed form."
+      "IndyCar raced around the Lincoln Memorial this weekend at 180 mph. They called it the Freedom 250, a celebration of American democracy. The Smithsonian was closed for the day. Lincoln did not comment.",
+      "Dr. Oz, who runs Medicare and Medicaid, held a press conference to clarify that the MMR vaccine — which has been in use for 60 years — is, quote, 'not a lethal vaccine.' He had to say this because the president had suggested otherwise. That's where we are.",
+      "Austin calls itself the Live Music Capital of the World. The musicians who make that true can't afford health insurance. A nonprofit has been covering their premiums. That nonprofit is now going broke — because of healthcare costs. I read this sentence three times.",
+      "Stars and Stripes is a newspaper run by the U.S. military, for U.S. military personnel. Its staff had been reporting on threats to their editorial independence. The Pentagon then fired the editor, the publisher, and a reporter. The story kind of wrote itself at that point.",
+      "Trump fired the FEMA director earlier this year. This week he nominated the same person for the same job again. FEMA is the agency responsible for disaster response. I'll leave it there.",
+      "Today's theme across five unrelated news stories: institutions explaining their own contradictions, out loud, on the record, apparently without noticing.",
+      "If you're having a rough week because something that should have worked didn't — IndyCar closed the National Mall, the Pentagon fired a journalist for journalism, and FEMA's director got hired twice for the same job. The system is having a rougher one.",
+      "Five stories from August 24, 2026. A race around democracy's front yard. A vaccine safety clarification from a TV doctor. Musicians without healthcare in a city that sells music. A fired editor at a military paper. A re-hired disaster chief. I just report what I find."
     ],
     "xJa": [
-      "アメリカの最高裁が今週審査した案件：「ホワイトハウスに舞踏室を建てていいか」。判断：いい。東棟（！）が解体された跡地に、ダンスフロアが合憲の形で誕生しようとしています。喜劇のタイトルとしては最高です。",
-      "ネブラスカ州の学校が警察にお願いしたこと：「廊下に電気ショックグローブを持ち込まないでください」。警察は快諾。快諾した、ということはそれまでは持ち込んでいた。ルールが存在する前の状態を少し想像してほしい。",
-      "コミー元FBI長官が刑事訴追されている件、連邦検察の証拠の一つが「コミー本人が書いたサスペンス小説の一節」です。元捜査の責任者が、自分の小説に起訴されている。これ、誰かドラマの設定に使っていいです。",
-      "Amazon、EchoやKindleなどを最大60%値上げ。理由は「部品コストの高騰」。Echoとは、もっと安い商品を探してとAlexaに頼めるデバイスのことです。そのデバイスが60%高くなりました。Alexaに聞いても、Amazonに誘導されます。",
-      "アメリカの幼稚園児の麻疹ワクチン、医療的理由なしの接種免除率が過去最高4.2%に。このデータが出たのは、大統領が「注射はソーダのボトルくらいの大きさに見える」と公言した翌週です。因果関係は知らない。タイミングはご自由に。",
-      "今日のアメリカまとめ：最高裁がダンスフロアを認可し、学校が警察に感電やめてとお願いし、小説が証拠になり、Alexaが自分の値上げを告知し、ワクチン免除率が最高記録。制度はちゃんと動いています。何のための制度かは不明。",
-      "「アメリカを再び強くする」という掛け声のもとで今週起きたこと：麻疹の集団免疫が少し崩れ、東棟が舞踏室になり、小説家が自作を証拠にされた。強さって何でしたっけ。",
-      "コミー氏のサスペンス小説が法廷証拠になったことで、言論の自由を守る団体「PENアメリカ」が動きました。PENアメリカといえば、権威主義国家で投獄された作家を守る組織です。今回の案件はニューヨーク。そういう週です。"
+      "ワシントンD.C.のナショナル・モール（リンカーン記念堂の隣）で時速290kmのレース。建国250周年の「自由の祭典」として。自由とは何か、リンカーンに聞いてみたい。",
+      "トランプ大統領がMMRワクチンの安全性に疑問を呈したあと、政府の医療トップが「ワクチンは致死的ではありません」と公式発表。2026年に、先進国で、この会見が。",
+      "「ライブ音楽の首都」を自称するテキサス州オースティン、ミュージシャンが医療保険を払えないので非営利団体が補填→その組織も医療費高騰で存続の危機。一文で意味わからないのに全部事実。",
+      "軍が資金を出している新聞の編集長が「編集の独立性を守ろうとしすぎた」として軍に解雇された。編集権の独立について書いていたら独立を奪われた。風刺を書く必要がない完成度。",
+      "トランプ大統領、今年解任したFEMA長官を同じポストに再指名。一度クビ→また同じ人。次の台風が来たとき誰が電話に出るのか、少し心配になっています。",
+      "今日のアメリカニュース5本、読んでて「あ、これ誰も止める気ないんだ」ってなった。こんなのを毎朝読んでいる私も私ですが。",
+      "FEMAが長官を解任して再任、ペンタゴンが自社の新聞記者を解雇、ミュージシャン向け医療保険が医療費で潰れかけている——これ全部同じ日のニュース。私のコーヒーが冷めた。",
+      "今日覚えて帰ってほしいこと。「うまくいかないのは自分のせい」と思っていたあなた、FEMAの長官人事とナショナル・モールのレース渋滞を見てください。あなたはだいぶましです。"
     ],
-    "fullEn": "# The Ballroom, the Taser Gloves, and the Thriller Novel Walk Into a Courtroom\n\n## Today's Forecast\n\nFive stories today. One through-line: somewhere between the White House ballroom and the school hallway taser gloves, the line between official and absurd seems to have gotten... lost.\n\nWe've got the Supreme Court greenlit a dance floor, a thriller novel starring as evidence in a federal case, and Amazon raising prices on the device you'd use to ask Alexa if prices are going up. Plus kindergarten vaccination numbers heading the wrong direction.\n\nHere's your forecast: if you've spent this week feeling like the rules don't quite make sense anymore, today's news confirms it's not you. The rules are genuinely confused. Go into your meetings with that confidence. You're not the problem. You're just paying attention.\n\n---\n\n## 1. Supreme Court Clears the Way for Trump's White House Ballroom — For Now\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html)*\n\nChief Justice John Roberts issued a temporary stay allowing construction of a planned White House ballroom to continue. Trump had the East Wing demolished in 2025 to make room for the project. The stay will remain in place until the Supreme Court takes further action. The construction has drawn legal challenges and widespread criticism.\n\n**Why It's Funny**\n\n- **Contradiction:** The institution tasked with protecting constitutional order just gave a thumbs-up to the president renovating the people's house into a personal venue.\n- **Absurdity:** The East Wing — home to the First Lady's office and visitor operations — got demolished so there'd be room for a dance floor. Democracy's waiting room is literally rubble.\n- **View from Tokyo:** Most countries would have a cabinet crisis over this. America has a Supreme Court ruling, a construction crane, and apparently a catering question still pending.\n\n**Say It Out Loud**\n\n> The Supreme Court ruled the ballroom can stay — which means the highest court in the land is now basically a construction permit office.\n\n---\n\n## 2. Nebraska Schools Ask Police to Stop Bringing Electric Shock Gloves to Class\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police)*\n\nOmaha police have agreed to stop carrying gloves capable of delivering electric shocks to students in the hallways of Nebraska's largest public school district. The decision came after the school district asked officers to leave the devices behind. The gloves had been used on students, prompting the request to remove them from campus. The policy change affects most schools in the Omaha area.\n\n**Why It's Funny**\n\n- **Contradiction:** Schools are supposed to be safe spaces for learning. Omaha's solution was to staff the halls with officers carrying electric shock equipment — and the 'fix' is asking them nicely to leave the gloves at home.\n- **Absurdity:** The fact that a formal request had to be made suggests the gloves were, at some point, used. On children. In a school. During the school day.\n- **View from Tokyo:** In many countries, explaining what a 'school resource officer with electric shock gloves' is would take longer than explaining the entire American education funding system.\n\n**Say It Out Loud**\n\n> The school had to formally ask the police to stop bringing electric shock gloves to school. I want to live in the timeline where that conversation wasn't necessary.\n\n---\n\n## 3. Prosecutors Use Comey's Own Thriller Novel Against Him in Court\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/22/james-comey-novel-trump-pen-america)*\n\nFederal prosecutors have cited a passage from a thriller novel written by former FBI Director James Comey in their case accusing him of threatening to kill President Trump. Free-expression organization PEN America has condemned the move, calling it a misuse of creative fiction as legal evidence. Comey has denied any intent to harm the president. The case has drawn attention to concerns over the criminalization of political speech and literary expression.\n\n**Why It's Funny**\n\n- **Contradiction:** The former head of the nation's premier law enforcement agency is now being prosecuted partly on the basis of a plot he invented for entertainment.\n- **Absurdity:** If fictional villains can be used as evidence of their authors' intent, every crime writer in America just became a legal liability.\n- **View from Tokyo:** PEN America — an organization that normally fights for writers jailed in authoritarian countries — is now filing objections in a US federal courtroom. That's a sentence nobody had on their bingo card.\n\n**Say It Out Loud**\n\n> The prosecution's star witness is a fictional hitman. The defendant wrote him. This is not a premise for a TV show — this is an active federal case.\n\n---\n\n## 4. Amazon Hikes Echo and Kindle Prices Up to 60% — Blames Memory Costs\n\n*The Verge — [source](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)*\n\nAmazon has raised prices on its Echo, Kindle, Fire TV, and Eero product lines by up to 60 percent, citing 'significant increases in memory and storage component costs.' The budget end of Amazon's lineup was hit hardest, with the Echo Dot jumping from $49.99 to a significantly higher price point. The increases were first reported by Fortune. The move affects the devices Amazon uses to keep customers tied to its ecosystem.\n\n**Why It's Funny**\n\n- **Contradiction:** Amazon built its hardware empire by selling devices cheap to hook people into its ecosystem. Now it's raising the price of the hook.\n- **Absurdity:** The Echo Dot — a device you can ask 'Alexa, find me a cheaper alternative' — just got 60 percent more expensive. Alexa has no answer for that one.\n- **View from Tokyo:** Amazon's whole pitch was: buy the cheap speaker, we'll make it back on Prime subscriptions and impulse purchases at 2am. The cheap speaker is no longer cheap. The 2am purchases remain.\n\n**Say It Out Loud**\n\n> Amazon raised the price of the Echo Dot 60 percent. You can ask Alexa to find a better deal. She'll redirect you to Amazon.\n\n---\n\n## 5. U.S. Kindergarten Vaccination Rates Drop as Non-Medical Exemptions Hit Record High\n\n*The Guardian US — [source](https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip)*\n\nNew CDC data shows that MMR vaccination rates among kindergarteners have dipped slightly, while non-medical exemptions have climbed to a record 4.2 percent. The data was released about a week after President Trump made a series of misleading public claims about vaccines, including a comment comparing injection size to a soda bottle. Public health officials have expressed concern that declining rates could leave communities vulnerable to outbreaks of previously controlled diseases.\n\n**Why It's Funny**\n\n- **Contradiction:** The CDC tracks which diseases the country has controlled. The list is getting shorter — not because of new diseases, but because of old ones coming back.\n- **Absurdity:** Non-medical exemption forms are at a record high. The exemption paperwork takes more effort to file than the vaccine takes to administer.\n- **View from Tokyo:** Countries that spent decades trying to access MMR vaccines are watching a country that has them freely available voluntarily opting out. The WHO is not having a great week.\n\n**Say It Out Loud**\n\n> Non-medical vaccine exemptions just hit a record high. Somewhere, measles is looking at that stat and feeling optimistic.\n\n---\n\n## Today's Punchline\n\n> The Supreme Court approved the ballroom, the school had to ask police to leave the shock gloves at home, and Alexa will happily tell you about all of it — for sixty percent more than last year. The system is working exactly as designed. I'm just not sure what it was designed for.\n",
-    "fullJa": "# 最高裁がダンスフロアを承認し、学校が警察に「感電やめて」とお願いした日\n\n## 今日を占うよ〜\n\n今日の5本を読んで気づいたことがあります。\n\n「公のもの」と「私のもの」の境界線が、アメリカのあちこちでぼんやりしてきている。\n\nホワイトハウスに舞踏室（最高裁認可済み）。警察官が学校の廊下で感電グローブを装備。元FBI長官が書いた小説がそのまま法廷証拠に。Alexaが自分自身の60%値上げをお知らせ。幼稚園の麻疹ワクチン接種率が静かに下がっていく。\n\n5本バラバラに見えて、全部おなじ問いに行き着くんですよね。「それ、誰のためのルールだっけ？」って。\n\n今日の占いです。このニュースたちは全員、あなたが「なんかおかしくない？」と感じていることの外部証拠です。あなたの感覚は正しい。職場でなんかモヤっとしていたなら、今日はそれをそのまま口に出していい日だと思います。少なくともアメリカは今日も堂々とモヤっています。\n\n---\n\n## 1. Supreme Court Clears the Way for Trump's White House Ballroom — For Now\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/21/supreme-court-trump-white-house-ballroom.html)）*\n\n最高裁のジョン・ロバーツ長官が、ホワイトハウス内に建設中の舞踏室工事の継続を暫定的に認める差し止め命令を発令した。トランプ大統領は2025年に東棟を取り壊し、物議を醸すこの舞踏室計画を進めている。\n\n**どこが笑える？**\n\n- 矛盾: 「法の支配の守護者」である最高裁が、大統領が公邸に私的な舞踏室を建てる工事にゴーサインを出すという、守るべき「公」と「私」の境界線がどこにあるのかよくわからない状況なんですよ。\n- 滑稽さ: 東棟が丸ごと解体されて、その跡地に舞踏室。合衆国最高裁判所が審査するほどの案件が「ダンスフロアをどこに敷くか」問題だっていうのが、もう喜劇のタイトルにそのまま使えるじゃないですか。\n- 日本・海外から見ると: 首相官邸に「宴会場を増築したい」と言い出したら翌日には辞任会見になりそうな国から見ると、それが最高裁まで行って「とりあえず建てていい」で終わるのはちょっとしたSFですよ。\n\n**このニュースをジョークにするなら...**\n\n> 最高裁が「工事続けていいよ」と判断した。つまり米国最高法院は今、建築確認申請の窓口でもあるわけです。\n\n---\n\n## 2. Nebraska Schools Ask Police to Stop Bringing Electric Shock Gloves to Class\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/22/omaha-nebraska-school-district-shock-gloves-police)）*\n\nネブラスカ州オマハの警察が、州最大の公立学校区の校内で電気ショックグローブを携行するのをやめることに同意した。学校区側からの要請を受けての決定で、生徒への衝撃的な使用が問題視されていた。\n\n**どこが笑える？**\n\n- 矛盾: 「子どもたちを守るため」に学校に配備された警察官が「子どもたちを感電させる装備」を持ち込んでいたわけで、守る側と脅かす側が同一人物っていう構図がまず解決しないといけない問題なんですよ。\n- 滑稽さ: 「校内に電気ショックグローブを持ち込まないでください」というお願いを学校が警察にしなければならなかった、という事実そのものが既にオチなんですよね。ルールが存在する前の状態を想像してほしい。\n- 日本・海外から見ると: 「スクールポリス」という制度自体が存在しない国から見ると、「廊下を巡回する警官が感電グローブを持っている学校」というのはもはや設定の説明に数分かかるレベルの話ですよ。\n\n**このニュースをジョークにするなら...**\n\n> 学校が警察に「電気ショックグローブを校内に持ち込まないでください」と正式にお願いしなければならなかった。そのお願いが不要だった世界線に生まれたかった。\n\n---\n\n## 3. Prosecutors Use Comey's Own Thriller Novel Against Him in Court\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/22/james-comey-novel-trump-pen-america)）*\n\n連邦検察官が、元FBI長官ジェームズ・コミー氏がトランプ大統領を脅迫したと主張する裁判で、コミー氏自身が書いたサスペンス小説の一節を証拠として使用したことに対し、言論の自由を守る団体「PENアメリカ」が強く反発している。\n\n**どこが笑える？**\n\n- 矛盾: 「フィクションを書いた」という行為が、その著者を刑事訴追する根拠になり得るなら、小説家・脚本家・コメディアン全員が自分の過去作を法廷で読まれるリスクを負うわけで、これは「創作の自由」の問題がかなり直接的に浮かび上がってるんですよ。\n- 滑稽さ: 元FBI長官が書いたミステリ小説の登場人物のセリフが、その元FBI長官を起訴する材料として使われるって、もうこれ自体がミステリ小説の出だしとして最高じゃないですか。\n- 日本・海外から見ると: 「作家が書いたフィクションが証拠採用される」という前例ができると、松本清張が生きていたら何本かの作品で起訴されてたかもしれないという冗談が冗談じゃなくなってくるんですよ。\n\n**このニュースをジョークにするなら...**\n\n> 検察側の目玉証拠はフィクションの殺し屋。被告がその殺し屋を書いた。これはドラマの企画書じゃなくて、現在進行中の連邦裁判です。\n\n---\n\n## 4. Amazon Hikes Echo and Kindle Prices Up to 60% — Blames Memory Costs\n\n*The Verge（[記事](https://www.theverge.com/tech/983598/amazon-price-increase-echo-kindle-fire-tv)）*\n\nAmazonが、EchoスマートスピーカーやKindle、Fire TVなどの自社デバイス価格を最大60%値上げした。同社は「メモリ・ストレージ部品コストの大幅な増加」を理由に挙げており、最も低価格な製品ほど値上げ幅が大きい。\n\n**どこが笑える？**\n\n- 矛盾: 「お客様の生活をより安く便利に」がAmazonの建前なのに、いちばん安くて手が届きやすかった製品を最も大きく値上げするっていう、「裾野を広げる」どころか「裾野を切り捨てる」動きをしてるんですよ。\n- 滑稽さ: Echoは「Alexa、もっと安い選択肢を探して」と頼めるデバイスなんですけど、そのデバイス自体が60%高くなったので、もうAlexaに聞く前の段階で詰んでる感がありますよね。\n- 日本・海外から見ると: 「まずデバイスを安く配って、サービスで回収する」というAmazonのモデルが崩れてきているとすれば、Alexaに話しかけ続けてきた数億人分のデータは一体どういう収支計算だったんだろうという話になってくるんですよ。\n\n**このニュースをジョークにするなら...**\n\n> AmazonはEcho Dotを60%値上げした。Alexaに安い代替品を探してもらえる。Alexaはあなたをアmazonに誘導します。\n\n---\n\n## 5. U.S. Kindergarten Vaccination Rates Drop as Non-Medical Exemptions Hit Record High\n\n*The Guardian US（[記事](https://www.theguardian.com/society/2026/aug/22/kindergarten-mmr-vaccination-rates-dip)）*\n\nCDCの新データによると、米国の幼稚園児におけるMMRワクチン（麻疹・おたふく風邪・風疹）の接種率が僅かに低下し、医学的理由によらない接種免除申請が過去最高の4.2%に達したことが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 「アメリカを再び強くする」という掛け声の下で、麻疹など既に制圧済みだった感染症への集団免疫が崩れていくというのは、強さの方向が少し違うんじゃないかという話なんですよ。\n- 滑稽さ: 「注射が炭酸飲料のボトルくらいの大きさに見える」という発言の翌週に過去最高の接種免除率が出たというタイミングが、因果関係を証明するものではないにせよ、統計的にかなりシュールな一致なんですよね。\n- 日本・海外から見ると: 日本でも予防接種の副反応報道が接種率を下げた経験があるので笑えない話なんですが、ソーダボトルの例えで医療政策を語る大統領がいる国の話だと思うと、やっぱりだいぶ違う次元の話なんですよ。\n\n**このニュースをジョークにするなら...**\n\n> 非医学的理由による接種免除が過去最高を記録した。どこかで麻疹がこの数字を見て、少し元気を取り戻してる。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 最高裁がダンスフロアを承認して、学校が警察に感電やめてとお願いして、小説が証拠になって、Alexaが値上がりした。制度はちゃんと動いています。何のための制度かはよくわかりません。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "文体パス: 3箇所修正。xJa[6]の「確認したほうがいいかもしれません」という締めがプレゼン口調で着地しすぎ、introJa冒頭の「気づいたことがあります」→「気づいたことがある」程度は許容範囲だが「境界線が〜ぼんやりしてきている」の説明口調が続く部分と、xJa[4]の「因果関係は証明されていません」がやや翻訳調。"
+    "fullEn": "# America Broke Everything and Called It a Celebration\n\n## Today's Forecast\n\nI opened the news this morning and had to set down my coffee. Not dramatically — I just needed my hands free to count on my fingers.\n\nToday we've got IndyCar tearing around the Lincoln Memorial at 180 mph in the name of freedom. We've got a TV doctor clarifying, on the record, that a vaccine won't kill you. We've got Austin musicians losing health coverage because healthcare cost too much. We've got the Pentagon firing the editor of its own newspaper for journalism. And we've got FEMA's director getting un-fired and re-hired for the exact same job.\n\nHere's your forecast: if you've been feeling like the rules don't quite apply the same way to everyone, today's news is basically a five-course confirmation. That's not your fault. That's the system being the system. You're fine. Go get more coffee.\n\n---\n\n## 1. IndyCar Races Around the National Mall Because Why Not\n\n*CBS News US — [source](https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/)*\n\nIndyCar held its first-ever street race in Washington, D.C. this weekend, with 25 cars reaching speeds close to 180 mph around the National Mall. The event, dubbed the Freedom 250, was framed as a celebration of America's 250th birthday. President Trump kicked off the race, making it one of several official birthday celebrations held this year.\n\n**Why It's Funny**\n\n- **Contradiction:** The National Mall — designed as a shared civic space — was closed off so 25 cars could burn rubber past the monuments to democracy.\n- **Absurdity:** Nothing says 'freedom' quite like roping off public land and blasting exhaust fumes past the Lincoln Memorial.\n- **View from Tokyo:** For context: Japan once held a Formula E race in Tokyo, but nobody called it a birthday party for the emperor.\n\n**Say It Out Loud**\n\n> They wanted to honor 250 years of American democracy, so they closed the street.\n\n---\n\n## 2. CMS Chief Dr. Oz Clarifies MMR Vaccine 'Not Lethal' — After the President Suggested Otherwise\n\n*CBS News US — [source](https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/)*\n\nDr. Mehmet Oz, administrator of the Centers for Medicare and Medicaid Services, stated publicly that the MMR vaccine is 'not a lethal vaccine,' following remarks by President Trump that cast doubt on its safety. Oz's clarification came as the nation's top public health communicators were left in the position of walking back the president's comments. MMR vaccines protect against measles, mumps, and rubella, and have been in widespread use for decades.\n\n**Why It's Funny**\n\n- **Contradiction:** The head of Medicare and Medicaid had to hold a press event to confirm that a vaccine used safely for 60 years does not, in fact, kill you.\n- **Absurdity:** Dr. Oz — a TV personality turned health czar — is now the responsible adult in the room clarifying the president's vaccine comments. That sentence exists.\n- **View from Tokyo:** Health officials in other countries spend their time debating vaccine distribution logistics. U.S. officials are debating whether vaccines are fatal.\n\n**Say It Out Loud**\n\n> Breaking news: vaccine confirmed not fatal. More on this developing story.\n\n---\n\n## 3. Nonprofits Step In to Give Austin Musicians Health Insurance Because the System Won't\n\n*NPR News — [source](https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured)*\n\nA nonprofit organization and a local public health agency in Austin, Texas, are subsidizing health insurance premiums for local musicians who cannot afford coverage on their own. The program uses Affordable Care Act marketplace plans to provide musicians with access to healthcare. However, rising healthcare costs are putting the program itself under financial pressure, threatening its sustainability.\n\n**Why It's Funny**\n\n- **Contradiction:** Austin bills itself as the Live Music Capital of the World, yet the people making that music can't afford a doctor's visit without charity intervention.\n- **Absurdity:** The program helping musicians afford healthcare is now struggling to survive because — healthcare costs too much. It's turtles all the way down.\n- **View from Tokyo:** In countries with universal coverage, this sentence doesn't exist: 'a nonprofit is raising money so guitar players can see a doctor.'\n\n**Say It Out Loud**\n\n> Live Music Capital of the World — as long as you don't need a doctor.\n\n---\n\n## 4. Pentagon Fires Stars and Stripes Editor for Being Too Independent at the Military's Own Newspaper\n\n*CBS News US — [source](https://www.cbsnews.com/video/update-the-battle-over-stars-and-stripes/)*\n\nThe Pentagon fired the editor-in-chief, publisher, and a reporter at Stars and Stripes, a newspaper partly funded by the Department of Defense that serves U.S. military personnel. Prior to the firings, staff members had raised concerns about editorial independence. The outlet had been reporting on issues related to its own autonomy before the dismissals took place.\n\n**Why It's Funny**\n\n- **Contradiction:** Stars and Stripes has 'editorial independence' written into its mandate. The Pentagon funds it. Those two facts just ran into each other at high speed.\n- **Absurdity:** The paper's staff raised concerns about editorial independence. Then they got fired. The story basically wrote itself — while they still had jobs.\n- **View from Tokyo:** State-funded media that gets fired for being too independent is usually the punchline in stories about other countries.\n\n**Say It Out Loud**\n\n> They fired the editor of the military's own newspaper for being too much of a journalist. Bold strategy.\n\n---\n\n## 5. Trump Re-Nominates FEMA Chief He Already Fired Once — for the Same Job\n\n*NPR Politics — [source](https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again)*\n\nPresident Trump has nominated Cameron Hamilton to serve as FEMA administrator for a second time, after previously removing him from the position. The renomination raises questions about whether it signals a change in the administration's stance toward the agency. NPR's Ayesha Rascoe spoke with Politico reporter Thomas Frank about what Hamilton's return could mean for FEMA's future under the administration.\n\n**Why It's Funny**\n\n- **Contradiction:** The administration fired its FEMA chief, then nominated the same person again. The agency responsible for continuity of emergency response doesn't appear to have continuity of leadership.\n- **Absurdity:** Being rehired for a job you were fired from is awkward enough. Being rehired to run the nation's disaster response agency makes for a really specific kind of awkward.\n- **View from Tokyo:** Most countries expect their emergency management chief to have consecutive tenure. The U.S. model now includes an intermission.\n\n**Say It Out Loud**\n\n> He got fired. Then nominated again. For the exact same job. FEMA's having a year.\n\n---\n\n## Today's Punchline\n\n> Today America fired people for doing their jobs, subsidized things the government should handle, and called a car race a civil rights moment. Just a regular Sunday.\n",
+    "fullJa": "# ナショナル・モールでレースをやって「自由の祭典」と言う国の、今日のニュース5本\n\n## 今日を占うよ〜\n\n今朝、ニュースを開いて、指折り数えながら読みました。\n\n一本目、ナショナル・モール（ワシントンD.C.の中心にある公園で、リンカーン記念堂やスミソニアン博物館が並ぶあそこです）を時速290kmのレースカーが爆走。「建国250周年の自由の祭典」として。\n\n二本目、大統領がMMRワクチンの安全性に疑問を呈したあと、政府高官が「MMRワクチンは人を殺しません」と公式に発表する事態に。\n\n三本目、ライブ音楽の街・オースティンのミュージシャンが医療保険を持てないので非営利団体が補填していたら、その組織も医療費高騰で潰れかけている。\n\n四本目、軍が資金を出している新聞の編集長が「独立しすぎている」という理由で解雇される。\n\n五本目、一度クビにしたFEMA長官をまた同じポストに指名。\n\n今日の占い。システムがこれだけ派手に自分で自分を壊している日は、逆にチャンスです。「うまくいかないのは自分のせいだ」と思っていたあなた、そのシステムの中身、見ましたか? 今日は仕事でちょっとくらい判断ミスをしても怒られる筋合いはないと思う。少なくとも、FEMAよりはうまくやってる。\n\n---\n\n## 1. IndyCar Races Around the National Mall Because Why Not\n\n*CBS News US（[記事](https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/)）*\n\nインディカーが今週末、ワシントンD.C.のナショナル・モール周辺の公道でレースを開催。25台が時速約290kmで走行し、「フリーダム250」と名付けられたこのイベントはアメリカ建国250周年記念の一環とされている。\n\n**どこが笑える？**\n\n- 矛盾: 民主主義の象徴である公共空間・ナショナル・モールを、排気ガスをまき散らす高速レースで封鎖するのが「自由の祭典」というのは、なかなか独特な解釈なんですよ。\n- 滑稽さ: リンカーン記念堂の隣で時速290kmの車が走り抜けていく。リンカーンだったら何て言うか、ちょっと聞いてみたい。\n- 日本・海外から見ると: 皇居前広場でF1を走らせるようなもんじゃないですか。「建国記念だから何でもあり」の論理、日本では確実に炎上コース。\n\n**このニュースをジョークにするなら...**\n\n> アメリカ民主主義250年を祝うために、公道を封鎖しました。\n\n---\n\n## 2. CMS Chief Dr. Oz Clarifies MMR Vaccine 'Not Lethal' — After the President Suggested Otherwise\n\n*CBS News US（[記事](https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/)）*\n\nトランプ大統領がMMRワクチンの安全性に疑問を呈する発言をした数日後、CMS長官のドクター・オズがMMRワクチンは「致死的ではない」と述べ、事実上の火消しに追われた。\n\n**どこが笑える？**\n\n- 矛盾: メディケアとメディケイドの最高責任者が、大統領の発言を受けて「ワクチンは人を殺しません」と改めて発表しなければならない状況——これ自体が公衆衛生の危機のシグナルなんですよ。\n- 滑稽さ: ドクター・オズが「科学的に正しいこと」を言うのに、上司の発言を打ち消す形でしか言えないっていう。テレビ医師として培ったコミュニケーション力の使いどころ、これじゃないはず。\n- 日本・海外から見ると: 先進国の政府高官が「MMRワクチンは死にません」と記者会見で言わなければならない2026年。ワクチン行政の信頼性という点で、海外の医療関係者はどう受け取るか。\n\n**このニュースをジョークにするなら...**\n\n> 速報: ワクチン、致死的でないと確認。続報をお待ちください。\n\n---\n\n## 3. Nonprofits Step In to Give Austin Musicians Health Insurance Because the System Won't\n\n*NPR News（[記事](https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured)）*\n\nテキサス州オースティンで、非営利団体と地域の公衆衛生機関が、医療費が払えない地元ミュージシャンのために保険料を補助するプログラムを運営している。医療費の高騰でプログラム自体も存続の危機に直面している。\n\n**どこが笑える？**\n\n- 矛盾: ライブ音楽の街として売り出しているオースティンで、そのライブ音楽を支えるミュージシャンが医療保険すら持てないから非営利団体が補填している。街のブランドと、街が実際に演者に何をしているかのギャップが激しい。\n- 滑稽さ: 「医療費が高騰しすぎて、ミュージシャンに医療保険を提供するためのプログラムが医療費で潰れそう」という文章、一回読んだだけじゃ意味がわからないのに全部事実なんですよ。\n- 日本・海外から見ると: 国民皆保険の国から見たら「ミュージシャン専用の医療保険クラウドファンディング組織が必要な先進国」というのは、どう説明しても信じてもらえない話。\n\n**このニュースをジョークにするなら...**\n\n> 世界のライブ音楽の首都——医者にかかれなければの話ですが。\n\n---\n\n## 4. Pentagon Fires Stars and Stripes Editor for Being Too Independent at the Military's Own Newspaper\n\n*CBS News US（[記事](https://www.cbsnews.com/video/update-the-battle-over-stars-and-stripes/)）*\n\n国防総省が一部資金を提供している軍向け新聞「スターズ・アンド・ストライプス」の編集長、発行人、記者1名を解雇した。同紙スタッフは以前から編集権の独立性に対する懸念を表明していた。\n\n**どこが笑える？**\n\n- 矛盾: 「報道の自由」と「国防」を同時に掲げる国の軍が、自分たちで資金を出している新聞社の編集長を「独立性が強すぎる」という形で解雇する——この構図、風刺として書く必要がないくらい出来上がってるんですよ。\n- 滑稽さ: 編集権の独立を求める記事を書いていたら、その独立を理由に首を切られた。因果応報どころか、因果が一周して帰ってきた。\n- 日本・海外から見ると: 「軍が運営する独立した新聞」という時点で外から見たら矛盾してるんですが、さらにその「独立」を守ろうとした人が軍に解雇される。二重に矛盾が積み上がってる。\n\n**このニュースをジョークにするなら...**\n\n> 軍の新聞社の編集長を「ジャーナリストすぎる」という理由で解雇。大胆な作戦ですね。\n\n---\n\n## 5. Trump Re-Nominates FEMA Chief He Already Fired Once — for the Same Job\n\n*NPR Politics（[記事](https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again)）*\n\nトランプ大統領が、一度解任したキャメロン・ハミルトン氏を再びFEMA長官に指名した。ハミルトン氏の再任がFEMAの扱いについての方針転換を意味するのか注目されている。\n\n**どこが笑える？**\n\n- 矛盾: 一度クビにした人間を、同じポストに再指名する。採用プロセスを経て「やっぱりあいつがよかった」に戻るのか、最初から別の意図があったのか——どちらにしてもFEMAの安定性とは程遠い話なんですよ。\n- 滑稽さ: FEMA長官を一度解任して、また同じ人を指名する。災害対応機関のトップ人事がこれだと、次の災害のとき誰が電話に出るのか本当にわからない。\n- 日本・海外から見ると: 防災・危機管理機関の長を一度罷免してから再任するというのは、日本の感覚では「いったい何があったんですか」案件。組織の継続性と信頼性という観点で、ちょっと理解が追いつかない。\n\n**このニュースをジョークにするなら...**\n\n> 解任されて、また同じポストに指名された。FEMAにとって充実した一年ですね。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今日のアメリカ、まとめると——「壊した人が直したと言い、直そうとした人が解雇され、誰かが代わりにツケを払っている」。明日、この話が出たらこの一文だけ言えば十分です。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d2のimagePrompts[0]に実在人物（Dr. Oz）の外見を想起させる「man in a suit with MMR sign + thumbs up」があり、権利リスクの懸念から構図を差し替えた。d4のimagePrompts[1]に「First Amendment on the wall」という元データに無い事実の追加があるため削除・修正。その他のcaptions・本文・xJa・notesEn・introJa/En等は基準をおおむね満たしており変更しない。 ／ 文体パス: 2箇所修正。xJa[1]の「という事実だけ置いておきます」が典型的なAI締め口調、xJa[5]の「制度が自分で自分を壊して、誰も気づいていないふりをしている」が整いすぎた総括文だったので崩した。"
   },
   "carousel": [
-    "images/2026-08-23/carousel/slide-1.jpg",
-    "images/2026-08-23/carousel/slide-2.jpg",
-    "images/2026-08-23/carousel/slide-3.jpg",
-    "images/2026-08-23/carousel/slide-4.jpg",
-    "images/2026-08-23/carousel/slide-5.jpg",
-    "images/2026-08-23/carousel/slide-6.jpg",
-    "images/2026-08-23/carousel/slide-7.jpg"
+    "images/2026-08-24/carousel/slide-1.jpg",
+    "images/2026-08-24/carousel/slide-2.jpg",
+    "images/2026-08-24/carousel/slide-3.jpg",
+    "images/2026-08-24/carousel/slide-4.jpg",
+    "images/2026-08-24/carousel/slide-5.jpg",
+    "images/2026-08-24/carousel/slide-6.jpg",
+    "images/2026-08-24/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-08-23/note-header.jpg",
-    "substack": "images/2026-08-23/substack-cover.jpg"
+    "note": "images/2026-08-24/note-header.jpg",
+    "substack": "images/2026-08-24/substack-cover.jpg"
   }
 };
