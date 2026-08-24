@@ -1,314 +1,314 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-24",
-  "generatedAt": "2026-08-23T20:05:04+00:00",
+  "date": "2026-08-25",
+  "generatedAt": "2026-08-24T20:17:51+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "IndyCar Races Around the National Mall Because Why Not",
-        "source": "CBS News US",
-        "date": "2026-08-24",
-        "url": "https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/",
-        "summary": "インディカーが今週末、ワシントンD.C.のナショナル・モール周辺の公道でレースを開催。25台が時速約290kmで走行し、「フリーダム250」と名付けられたこのイベントはアメリカ建国250周年記念の一環とされている。"
+        "headline": "Trump Media Now Selling 'Faster Access' to Trump's Own Posts — Democracy, Premium Tier",
+        "source": "CNBC Top News",
+        "date": "2026-08-25",
+        "url": "https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html",
+        "summary": "トランプ・メディアの暫定CEOが、トランプ大統領のTruth Socialへの投稿をいち早く読める有料アクセスプランを販売・擁護し、会員数が増加していると明かした。"
       },
       "commentary": [
-        "<b>矛盾:</b> 民主主義の象徴である公共空間・ナショナル・モールを、排気ガスをまき散らす高速レースで封鎖するのが「自由の祭典」というのは、なかなか独特な解釈なんですよ。",
-        "<b>滑稽さ:</b> リンカーン記念堂の隣で時速290kmの車が走り抜けていく。リンカーンだったら何て言うか、ちょっと聞いてみたい。",
-        "<b>日本・海外から見ると:</b> 皇居前広場でF1を走らせるようなもんじゃないですか。「建国記念だから何でもあり」の論理、日本では確実に炎上コース。"
+        "<b>矛盾:</b> 「国民への直接発信」が売りだったSNSで、お金を払わないと他の人より遅れて大統領の言葉を受け取る仕組みになってる。",
+        "<b>滑稽さ:</b> 民主主義の情報平等を語る国で、大統領ツイートに「VIPレーン」ができた。次は投稿の文字数で課金か。",
+        "<b>日本・海外から見ると:</b> アメリカでは大統領の発言がサブスクコンテンツになった。NHKプラスより先に政府が有料化した、みたいな話。"
       ],
       "imagePrompts": [
-        "An IndyCar racing at full speed past the Lincoln Memorial, with tourists pressed against temporary barriers watching, holding American flags and cotton candy",
-        "A wide aerial shot of the National Mall completely lined with racing barriers and tire marks, the Capitol building visible in the background",
-        "A driver in a race helmet standing at a podium shaped like the Washington Monument, holding a trophy made to look like the Liberty Bell"
+        "A velvet rope dividing a crowd in front of a giant glowing phone screen showing a presidential post. Half the crowd holds gold VIP passes and stands close; the other half stands far back squinting to read the screen.",
+        "A toll booth on a digital highway labeled 'Truth Social Fast Lane.' Cars full of people holding credit cards zoom through; regular citizens on foot wait behind a barrier.",
+        "A newsstand with a sign reading 'Today's Presidential Posts — $9.99 for Early Access.' A man in a suit proudly points at the sign while a long queue of confused voters snakes around the block."
       ],
       "captions": [
-        "They wanted to honor 250 years of American democracy, so they closed the street.",
-        "Lincoln Memorial, Jefferson Memorial, pit lane — just your standard D.C. weekend.",
-        "The Freedom 250. Freedom for whom, exactly? Certainly not anyone trying to walk to the Smithsonian.",
-        "180 mph past the monuments to liberty. Checks out.",
-        "Other countries plant trees for their 250th birthday. America, you doing okay?"
+        "Freedom of speech — available now with a 7-day free trial.",
+        "They called it Truth Social. Turns out the truth has a processing fee.",
+        "The CEO said 'more people have signed up than expected.' He seemed surprised. Sir, you invented a presidential paywall. People are weird.",
+        "Other countries suppress the press. America just puts it behind a paywall and calls it innovation.",
+        "VIP access to the president's thoughts. The Founding Fathers are spinning so fast we could use them for renewable energy."
       ],
       "captionsJa": [
-        "アメリカ民主主義250年を祝うために、公道を封鎖しました。",
-        "リンカーン記念堂、ジェファーソン記念堂、ピットレーン——D.C.の普通の週末ですね。",
-        "フリーダム250。誰の自由？スミソニアムに歩いて行こうとしてた人の自由は？",
-        "自由の碑の横を時速290kmで通過。まあ、そういうことか。",
-        "他の国は250周年に記念植樹とかするんですよ。アメリカ、大丈夫？"
+        "言論の自由、ただいま7日間無料トライアル中。",
+        "「Truth（真実）」って名前のSNSで、真実に手数料がかかるようになった。",
+        "CEOは「予想より多く加入した」と驚いていた。あなたが大統領ペイウォールを作ったんですよ。人間ってすごい。",
+        "他の国はメディアを弾圧する。アメリカはとりあえずサブスク化してイノベーションと呼ぶ。",
+        "大統領の思考へのVIPアクセス。建国の父たちが回転する速さで発電所が作れそう。"
       ],
-      "newsEn": "IndyCar held its first-ever street race in Washington, D.C. this weekend, with 25 cars reaching speeds close to 180 mph around the National Mall. The event, dubbed the Freedom 250, was framed as a celebration of America's 250th birthday. President Trump kicked off the race, making it one of several official birthday celebrations held this year.",
+      "newsEn": "Trump Media interim CEO Kevin McGurn defended the company's practice of selling premium, faster access to President Donald Trump's Truth Social posts. McGurn said the program has attracted more subscribers than expected. The arrangement allows paying members to see the president's social media statements before they reach the general public.",
       "ironyEn": [
         {
-          "contradiction": "The National Mall — designed as a shared civic space — was closed off so 25 cars could burn rubber past the monuments to democracy.",
-          "absurdity": "Nothing says 'freedom' quite like roping off public land and blasting exhaust fumes past the Lincoln Memorial.",
-          "outside": "For context: Japan once held a Formula E race in Tokyo, but nobody called it a birthday party for the emperor."
+          "contradiction": "Truth Social was sold as the antidote to elite-gated media — a place where Trump could speak directly to the people. The people now need a paid subscription to get there first.",
+          "absurdity": "Presidential statements have a fast lane and a slow lane. Welcome to democratic discourse, economy class.",
+          "outside": "In countries where state media is government-controlled, this would be a scandal. In the US, it's a product launch."
         },
         {
-          "contradiction": "A celebration of 250 years of American ideals, held in a place where regular Americans couldn't walk because the road was reserved for a motorsport event.",
-          "absurdity": "The Freedom 250. Not 'The Democracy 250.' Not 'The Constitution 250.' They went with freedom — and expressed it by closing the street.",
-          "outside": "Other countries mark major anniversaries with fireworks or parades. The U.S. went with 180 mph open-wheel cars dodging the Washington Monument."
+          "contradiction": "The platform literally has 'Truth' in the name, but the truth costs extra if you want it on time.",
+          "absurdity": "The CEO defended it. Defended it. As if 'pay more to hear the president faster' is a totally normal sentence in 2026.",
+          "outside": "Imagine explaining to a civics textbook editor that the US president's official statements are now a tiered subscription product."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-24/candidate-1.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-08-24/candidate-1-punchy.jpg"
+      "image": "images/2026-08-25/candidate-1.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-08-25/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "CMS Chief Dr. Oz Clarifies MMR Vaccine 'Not Lethal' — After the President Suggested Otherwise",
-        "source": "CBS News US",
-        "date": "2026-08-24",
-        "url": "https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/",
-        "summary": "トランプ大統領がMMRワクチンの安全性に疑問を呈する発言をした数日後、CMS長官のドクター・オズがMMRワクチンは「致死的ではない」と述べ、事実上の火消しに追われた。"
+        "headline": "Anti-Fraud Immigration Officers Pulled Off Fraud Cases to Find… Voters and Refugees",
+        "source": "The Guardian US",
+        "date": "2026-08-25",
+        "url": "https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned",
+        "summary": "トランプ政権が、移民詐欺対策を専門とするUSCISの職員全員を、南アフリカ難民の審査と「不正投票者」の摘発という2つの「最優先事項」に異動させたことが、内部文書で明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> メディケアとメディケイドの最高責任者が、大統領の発言を受けて「ワクチンは人を殺しません」と改めて発表しなければならない状況——これ自体が公衆衛生の危機のシグナルなんですよ。",
-        "<b>滑稽さ:</b> ドクター・オズが「科学的に正しいこと」を言うのに、上司の発言を打ち消す形でしか言えないっていう。テレビ医師として培ったコミュニケーション力の使いどころ、これじゃないはず。",
-        "<b>日本・海外から見ると:</b> 先進国の政府高官が「MMRワクチンは死にません」と記者会見で言わなければならない2026年。ワクチン行政の信頼性という点で、海外の医療関係者はどう受け取るか。"
+        "<b>矛盾:</b> 詐欺を取り締まる部署の人員を全員引き抜いて、別の仕事をさせた結果、詐欺を取り締まる人が0人になった。これを「不正対策」と呼んでいる。",
+        "<b>滑稽さ:</b> 消防署員を全員「火の用心パトロール」に回して、消防署を無人にした感じ。火事は誰が消すんですか。",
+        "<b>日本・海外から見ると:</b> 「不正を防ぐために不正防止部隊を解体した」という文章、英語で書いてもやっぱりおかしい。"
       ],
       "imagePrompts": [
-        "A press briefing room podium with a giant projected slide reading only 'NOT LETHAL' in block letters, a row of reporters' hands raised in the foreground, faces not visible",
-        "A press briefing room where the projected slide behind the speaker reads only 'NOT LETHAL' in large block letters",
-        "A pharmacist handing a child a vaccine sticker that reads 'You survived!' while a long line of confused parents waits behind a velvet rope"
+        "An empty government office labeled 'Immigration Anti-Fraud Unit.' All the chairs are vacant, coffee cups still half full, a stack of fraud case files untouched on the desks. A sticky note on the door reads 'Gone to other assignment.'",
+        "A Venn diagram on a whiteboard with two circles: 'Stopping immigration fraud' and 'New priorities.' The circles do not overlap. A government official stands next to it nodding.",
+        "A long line of people in suits carrying briefcases labeled 'Anti-Fraud Officers' walking single-file out of one door marked 'USCIS Fraud Unit' and into another door marked 'Voter Search.'"
       ],
       "captions": [
-        "Breaking news: vaccine confirmed not fatal. More on this developing story.",
-        "It took the head of Medicare to clarify that a 60-year-old vaccine won't kill you. Long week.",
-        "Dr. Oz's biggest TV diagnosis: trying to out-doctor the president on live television.",
-        "The bar for 'reassuring the public' is now: 'It's not lethal.' We've set a new floor.",
-        "Other health agencies issue advisories about flu season. America issues advisories about whether the MMR vaccine is murder."
+        "To fight fraud, they eliminated the fraud fighters. Bold strategy.",
+        "Every. Single. Officer. If you're currently committing immigration document fraud, congrats — you picked a great week.",
+        "The unit that catches fake immigration cases is gone. But don't worry, they're busy. Very busy. Somewhere else.",
+        "High-priority anti-fraud initiative, step one: remove all anti-fraud investigators.",
+        "It's fine. I'm sure immigration fraud will just sort of… stop on its own now."
       ],
       "captionsJa": [
-        "速報: ワクチン、致死的でないと確認。続報をお待ちください。",
-        "60年使われてきたワクチンが「死なない」と改めて発表されました。長い一週間でしたね。",
-        "ドクター・オズの今世紀最大の診断: 生放送で大統領より医学的に正しいことを言おうとすること。",
-        "「安心してください」の最低ラインが「致死的ではありません」になりました。新記録です。",
-        "他国の保健機関はインフルエンザの季節に備える。アメリカはMMRが殺人かどうかを発表する。"
+        "詐欺を防ぐために、詐欺防止チームを解体した。大胆な戦略。",
+        "全員、です。今まさに書類を偽造してる人、今週は当たり週ですよ。",
+        "移民詐欺を摘発する部署がなくなった。でも大丈夫、みんな忙しい。どこかで。",
+        "不正対策の最優先事項、ステップ1：不正対策担当者を全員外す。",
+        "まあいいか。移民詐欺ってそのうち自然に減るでしょ、たぶん。"
       ],
-      "newsEn": "Dr. Mehmet Oz, administrator of the Centers for Medicare and Medicaid Services, stated publicly that the MMR vaccine is 'not a lethal vaccine,' following remarks by President Trump that cast doubt on its safety. Oz's clarification came as the nation's top public health communicators were left in the position of walking back the president's comments. MMR vaccines protect against measles, mumps, and rubella, and have been in widespread use for decades.",
+      "newsEn": "Internal correspondence obtained by The Guardian reveals that all US immigration officers assigned to a key anti-fraud unit at USCIS have been reassigned. Their new duties involve screening South African refugees admitted under a recent program and identifying alleged 'unlawful' voters. The anti-fraud unit they vacated was responsible for detecting immigration fraud and document forgeries.",
       "ironyEn": [
         {
-          "contradiction": "The head of Medicare and Medicaid had to hold a press event to confirm that a vaccine used safely for 60 years does not, in fact, kill you.",
-          "absurdity": "Dr. Oz — a TV personality turned health czar — is now the responsible adult in the room clarifying the president's vaccine comments. That sentence exists.",
-          "outside": "Health officials in other countries spend their time debating vaccine distribution logistics. U.S. officials are debating whether vaccines are fatal."
+          "contradiction": "The unit built to fight immigration fraud has been emptied out — so the government can chase a different kind of fraud. Immigration fraud will now investigate itself, presumably.",
+          "absurdity": "Every single officer. Not some. All of them. Whoever is faking documents right now, this is your window.",
+          "outside": "Most countries designate anti-fraud investigators to, specifically, investigate fraud. This is apparently a design choice, not a requirement."
         },
         {
-          "contradiction": "An administration that put a celebrity doctor in charge of Medicare is now relying on that same doctor to clean up the president's comments about medicine.",
-          "absurdity": "The bar for 'reassuring public health communication' has officially become: 'It won't kill you.'",
-          "outside": "Imagine briefing the WHO: 'Good news — the U.S. government has confirmed that the MMR vaccine is not lethal.' That's the update."
+          "contradiction": "The administration said the reassignment was a 'high priority.' High-priority anti-fraud work apparently requires first dismantling the anti-fraud team.",
+          "absurdity": "South African refugees and alleged unlawful voters: two assignments so specific that every immigration fraud specialist in the country is needed simultaneously for both.",
+          "outside": "From the outside, it looks less like a policy and more like someone needed the desks."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-24/candidate-2.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-08-24/candidate-2-punchy.jpg"
+      "image": "images/2026-08-25/candidate-2.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-08-25/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Nonprofits Step In to Give Austin Musicians Health Insurance Because the System Won't",
-        "source": "NPR News",
-        "date": "2026-08-24",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured",
-        "summary": "テキサス州オースティンで、非営利団体と地域の公衆衛生機関が、医療費が払えない地元ミュージシャンのために保険料を補助するプログラムを運営している。医療費の高騰でプログラム自体も存続の危機に直面している。"
+        "headline": "Goldman Sachs Warns AI Is Making Bankers Dumb — While Goldman Sachs Uses AI to Replace Bankers",
+        "source": "CNBC Top News",
+        "date": "2026-08-25",
+        "url": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+        "summary": "ゴールドマン・サックスのパートナーが、AIを積極採用する一方で、AIが若手バンカーの推論力を弱める「巨大なリスク」になりうると警告した。"
       },
       "commentary": [
-        "<b>矛盾:</b> ライブ音楽の街として売り出しているオースティンで、そのライブ音楽を支えるミュージシャンが医療保険すら持てないから非営利団体が補填している。街のブランドと、街が実際に演者に何をしているかのギャップが激しい。",
-        "<b>滑稽さ:</b> 「医療費が高騰しすぎて、ミュージシャンに医療保険を提供するためのプログラムが医療費で潰れそう」という文章、一回読んだだけじゃ意味がわからないのに全部事実なんですよ。",
-        "<b>日本・海外から見ると:</b> 国民皆保険の国から見たら「ミュージシャン専用の医療保険クラウドファンディング組織が必要な先進国」というのは、どう説明しても信じてもらえない話。"
+        "<b>矛盾:</b> AIに仕事を任せながら「AIで考える力が落ちる」と心配している。どっちが心配なのか、という話。",
+        "<b>滑稽さ:</b> 「AIを使いすぎると人間が馬鹿になる」という警告を、AIツールを全社導入している会社のパートナーが言ってる。自分のことじゃないですか。",
+        "<b>日本・海外から見ると:</b> ファストフード業界が「外食しすぎると料理できなくなる」と警告するようなもの。商売と心配が真逆。"
       ],
       "imagePrompts": [
-        "A musician playing guitar on a street corner in Austin, with a tip jar that reads 'for health insurance' instead of the usual donation message, neon signs for live music venues in the background",
-        "A nonprofit office with a whiteboard that reads 'Musicians Insured This Month: 47' next to a second whiteboard reading 'Program Budget Remaining: dwindling,' with a staff member looking worried",
-        "A close-up of a musician's hands on a guitar neck, with a bandaged finger and a small insurance card tucked under the strings"
+        "A large modern office where rows of bankers stare at glowing AI dashboards. One senior executive at the front holds a sign reading 'WARNING: Too Much AI.' His laptop screen behind him shows three AI tools running simultaneously.",
+        "A bank of vending machines labeled 'AI Analysis — One Click.' A young banker in a suit feeds in a coin and waits. An older banker stands to the side holding a handwritten calculation, looking worried.",
+        "A trophy case labeled 'Goldman Sachs Analysts' that is completely empty. A small plaque at the bottom reads 'Replaced 2025. Missed 2026.'"
       ],
       "captions": [
-        "Live Music Capital of the World — as long as you don't need a doctor.",
-        "The program helping musicians pay for healthcare is going broke because of healthcare costs. Read that again.",
-        "One broken wrist away from losing the apartment. That's the deal Austin's offering its musicians.",
-        "They're subsidizing insurance with charity money because the market won't. Austin's tourism board left that part out of the brochure.",
-        "Universal healthcare: still not on the setlist."
+        "Goldman Sachs: 'AI is a huge danger to banker reasoning.' Also Goldman Sachs: *installs AI in every department.*",
+        "They didn't say stop. They said be careful. While continuing. At full speed.",
+        "You know who else told people about a risk and then kept doing it anyway? Never mind, this is a finance article.",
+        "The concern is that young bankers will stop thinking critically. The solution was a conference talk, not fewer AI tools.",
+        "It's called having it both ways. Goldman charges extra for that service."
       ],
       "captionsJa": [
-        "世界のライブ音楽の首都——医者にかかれなければの話ですが。",
-        "ミュージシャンの医療費を助けるプログラムが医療費で潰れかけてる。もう一度読んでください。",
-        "手首を一回骨折したらアパートを失う。オースティンがミュージシャンに提示している条件です。",
-        "市場が動かないから慈善団体が保険料を補填している。観光パンフレットにはそこ書いてないんですよね。",
-        "国民皆保険: まだセットリストに入っていません。"
+        "ゴールドマン「AIは推論力を壊す巨大リスク」。同・ゴールドマン：全部署にAI導入済み。",
+        "「やめろ」とは言ってない。「気をつけろ」と言った。フルスピードで進みながら。",
+        "リスクを認識しながら続けた組織って他にもありましたよね。まあ、これはファイナンスの記事なので。",
+        "若手が批判的思考を失うのが心配。対策はカンファレンスのトーク1本。AIツールは減らさない。",
+        "「いいとこどり」というやつ。ゴールドマンはそれも有料でやってくれます。"
       ],
-      "newsEn": "A nonprofit organization and a local public health agency in Austin, Texas, are subsidizing health insurance premiums for local musicians who cannot afford coverage on their own. The program uses Affordable Care Act marketplace plans to provide musicians with access to healthcare. However, rising healthcare costs are putting the program itself under financial pressure, threatening its sustainability.",
+      "newsEn": "A senior Goldman Sachs technology leader has warned that the firm's aggressive embrace of AI comes with an unintended consequence: it may erode the reasoning and analytical skills of the next generation of bankers. The warning was issued internally as Goldman Sachs continues to expand AI use across its operations. The executive described the risk as a 'huge danger.'",
       "ironyEn": [
         {
-          "contradiction": "Austin bills itself as the Live Music Capital of the World, yet the people making that music can't afford a doctor's visit without charity intervention.",
-          "absurdity": "The program helping musicians afford healthcare is now struggling to survive because — healthcare costs too much. It's turtles all the way down.",
-          "outside": "In countries with universal coverage, this sentence doesn't exist: 'a nonprofit is raising money so guitar players can see a doctor.'"
+          "contradiction": "Goldman Sachs is deploying AI firm-wide and simultaneously warning that AI will hollow out the brains of future Goldman Sachs employees. The left hand is very worried about what the right hand is doing.",
+          "absurdity": "A 'huge danger.' From the company actively installing it. In every department.",
+          "outside": "When tobacco executives warned about the health risks of smoking, they were eventually made to put it on the label. Goldman's warning is in a conference presentation."
         },
         {
-          "contradiction": "The city's entire cultural identity rests on its music scene, but the musicians underwriting that identity are one broken arm away from financial ruin.",
-          "absurdity": "Rising medical costs are threatening a program designed to offset rising medical costs. The problem is eating its own solution.",
-          "outside": "A musician in Germany can play a gig, break a finger, and see a specialist the next morning. An Austin musician plays the same gig and hopes the nonprofit's budget holds."
+          "contradiction": "The whole pitch of hiring young bankers at Goldman is their raw analytical horsepower. Now the firm is warning they're building a system that softens exactly that.",
+          "absurdity": "The solution mentioned was not to slow the AI rollout. It was to maybe have the junior bankers think harder while also using AI. Good luck with that.",
+          "outside": "From outside finance, this reads as: we replaced the ladder, then noticed we might need people who know how to climb."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-24/candidate-3.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-08-24/candidate-3-punchy.jpg"
+      "image": "images/2026-08-25/candidate-3.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-08-25/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Pentagon Fires Stars and Stripes Editor for Being Too Independent at the Military's Own Newspaper",
+        "headline": "FTC Tells Zillow and Redfin: You Can't Divide the Apartment Market Between Yourselves",
         "source": "CBS News US",
-        "date": "2026-08-23",
-        "url": "https://www.cbsnews.com/video/update-the-battle-over-stars-and-stripes/",
-        "summary": "国防総省が一部資金を提供している軍向け新聞「スターズ・アンド・ストライプス」の編集長、発行人、記者1名を解雇した。同紙スタッフは以前から編集権の独立性に対する懸念を表明していた。"
+        "date": "2026-08-25",
+        "url": "https://www.cbsnews.com/news/ftc-settles-zillow-antitrust-case-redfin/",
+        "summary": "米連邦取引委員会（FTC）が、ZillowとRedfin間の1億ドルの提携が賃貸物件リスティング市場の競争を阻害したとして是正を命じ、両社は和解に応じた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「報道の自由」と「国防」を同時に掲げる国の軍が、自分たちで資金を出している新聞社の編集長を「独立性が強すぎる」という形で解雇する——この構図、風刺として書く必要がないくらい出来上がってるんですよ。",
-        "<b>滑稽さ:</b> 編集権の独立を求める記事を書いていたら、その独立を理由に首を切られた。因果応報どころか、因果が一周して帰ってきた。",
-        "<b>日本・海外から見ると:</b> 「軍が運営する独立した新聞」という時点で外から見たら矛盾してるんですが、さらにその「独立」を守ろうとした人が軍に解雇される。二重に矛盾が積み上がってる。"
+        "<b>矛盾:</b> 「家探しをもっと透明に、もっと便利に」と謳う住宅プラットフォーム2社が、裏で「あなたはここ、私はそっち」と市場を山分けしていた。",
+        "<b>滑稽さ:</b> 家賃が高くて困っている人たちに、住宅情報サービス同士が1億ドルで「競争しない契約」を結んでいたと言われても、笑う気力もない。",
+        "<b>日本・海外から見ると:</b> SUUMOとHOME'Sが「うちは東日本、あなたは西日本にして」と決めていたら、という話。独禁法の教科書に載りそう。"
       ],
       "imagePrompts": [
-        "A newspaper front page with the headline 'EDITORIAL INDEPENDENCE UNDER THREAT' being used to pack a cardboard box by a journalist clearing out their desk, with a Pentagon building visible through the office window",
-        "An editor's desk with a termination letter on official government letterhead, a framed newspaper front page on the wall behind, no faces visible",
-        "A printing press producing newspapers with 'STARS AND STRIPES' on the masthead, while a uniformed silhouette holds scissors near the editorial page"
+        "Two real estate executives shaking hands over a table, with a map of the US apartment market divided by a dotted line between them. A pile of cash labeled '$100M' sits on the table. In the background, tiny renters peer through a window looking confused.",
+        "A referee in an FTC jacket blowing a whistle at two figures in business suits who are caught in the act of drawing territory lines on a map of apartment listings.",
+        "A shopfront that reads 'Apartment Listings — More Competition Than Ever!' The window display shows only two identical companies listed, both smiling and waving at each other."
       ],
       "captions": [
-        "They fired the editor of the military's own newspaper for being too much of a journalist. Bold strategy.",
-        "Stars and Stripes: 'We support editorial independence.' Pentagon: 'Not like that.'",
-        "The staff was reporting on threats to their independence. Then came the threat to their independence.",
-        "Defending freedom abroad, managing the message at home — multi-tasking.",
-        "The editor got the scoop. Just not the one they were expecting."
+        "Redfin took $100 million from Zillow to stop competing with Zillow. In housing. During a rental crisis. Just checking you read that.",
+        "The FTC explained that dividing a market with your competitor is illegal. Redfin's legal team said, 'Oh.' Allegedly.",
+        "Nothing says 'helping renters find homes' like a $100M deal to make sure they have fewer options.",
+        "Redfin's whole thing was being the alternative. Then it got paid to stop alternating.",
+        "Settlement reached. Market restored. Rent still $3,400 a month. Good talk, everyone."
       ],
       "captionsJa": [
-        "軍の新聞社の編集長を「ジャーナリストすぎる」という理由で解雇。大胆な作戦ですね。",
-        "スターズ・アンド・ストライプス「編集権の独立を支持します」。国防総省「そういう意味じゃない」。",
-        "編集権への脅威を取材していたら、編集権への脅威が来た。",
-        "海外では自由を守り、国内ではメッセージを管理する。器用なもんですよ。",
-        "編集長はスクープをとりました。想定していたやつではなかったですが。"
+        "RedffinはZillowから1億ドル受け取って競争をやめた。住宅市場で。家賃危機の最中に。念のため確認。",
+        "FTCが「競合と市場を分け合うのは違法」と説明した。Redfin法務部が「あ、そうでしたか」と言ったかどうかは不明。",
+        "「もっと多くの選択肢を」と謳うプラットフォームが、選択肢を減らすために1億ドル使ってた。",
+        "Redffinの売りは「Zillowの代替」だった。その後Zillowに代替をやめる代金をもらった。",
+        "和解成立。市場は回復。家賃は月34万円のまま。お疲れさまでした。"
       ],
-      "newsEn": "The Pentagon fired the editor-in-chief, publisher, and a reporter at Stars and Stripes, a newspaper partly funded by the Department of Defense that serves U.S. military personnel. Prior to the firings, staff members had raised concerns about editorial independence. The outlet had been reporting on issues related to its own autonomy before the dismissals took place.",
+      "newsEn": "The Federal Trade Commission alleged that a $100 million agreement between Zillow and Redfin stifled competition in the apartment listings market. Under the deal, Redfin agreed to stop its own advertising contracts and not compete with Zillow in certain areas in exchange for payment. Federal regulators ordered both companies to change the arrangement, and the companies agreed to a settlement.",
       "ironyEn": [
         {
-          "contradiction": "Stars and Stripes has 'editorial independence' written into its mandate. The Pentagon funds it. Those two facts just ran into each other at high speed.",
-          "absurdity": "The paper's staff raised concerns about editorial independence. Then they got fired. The story basically wrote itself — while they still had jobs.",
-          "outside": "State-funded media that gets fired for being too independent is usually the punchline in stories about other countries."
+          "contradiction": "Two platforms built to help renters find apartments agreed — for $100 million — that Redfin would stop competing. Renters were not consulted.",
+          "absurdity": "The deal required Redfin to drop its own advertising contracts. So Redfin got paid to get smaller. That's one business model.",
+          "outside": "In a country where housing costs are a national crisis, the two biggest listing platforms found time to carve up the market. The renters are still searching."
         },
         {
-          "contradiction": "A publication that exists to serve troops who defend freedom of the press just had its editor removed for exercising it.",
-          "absurdity": "They were reporting on their own lack of independence. Then they lost it. That's not irony, that's a proof of concept.",
-          "outside": "Foreign press freedom indexes are going to need a new footnote category: 'Fired by the institution that funds the paper that covers the institution.'"
+          "contradiction": "Redfin's whole brand is being the scrappy, consumer-friendly alternative to Zillow. It then took $100 million from Zillow to stop being that.",
+          "absurdity": "The FTC had to explain to a real estate company that dividing a market with a competitor is, in fact, illegal. The company needed this explained.",
+          "outside": "If two Japanese housing platforms did this, it would be front-page scandal. Here it was a 'settlement.'"
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-24/candidate-4.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-08-24/candidate-4-punchy.jpg"
+      "image": "images/2026-08-25/candidate-4.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-08-25/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Trump Re-Nominates FEMA Chief He Already Fired Once — for the Same Job",
-        "source": "NPR Politics",
-        "date": "2026-08-23",
-        "url": "https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again",
-        "summary": "トランプ大統領が、一度解任したキャメロン・ハミルトン氏を再びFEMA長官に指名した。ハミルトン氏の再任がFEMAの扱いについての方針転換を意味するのか注目されている。"
+        "headline": "Gen X Finally Gets to Retire — While Still Going to Work",
+        "source": "CBS News US",
+        "date": "2026-08-25",
+        "url": "https://www.cbsnews.com/news/gen-x-social-security-retirement-savings/",
+        "summary": "米国のX世代の多くが、社会保障が主要または唯一の退職後収入になると予想しており、「退職後も働き続ける」と述べる人が相次いでいる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 一度クビにした人間を、同じポストに再指名する。採用プロセスを経て「やっぱりあいつがよかった」に戻るのか、最初から別の意図があったのか——どちらにしてもFEMAの安定性とは程遠い話なんですよ。",
-        "<b>滑稽さ:</b> FEMA長官を一度解任して、また同じ人を指名する。災害対応機関のトップ人事がこれだと、次の災害のとき誰が電話に出るのか本当にわからない。",
-        "<b>日本・海外から見ると:</b> 防災・危機管理機関の長を一度罷免してから再任するというのは、日本の感覚では「いったい何があったんですか」案件。組織の継続性と信頼性という観点で、ちょっと理解が追いつかない。"
+        "<b>矛盾:</b> 「退職後も働く」というのは、もはや「退職」ではない。言葉の意味が制度の破綻を隠すために使われてる。",
+        "<b>滑稽さ:</b> X世代は「何にでも懐疑的な世代」として育った。まさかその懐疑心が自分の老後にも向かうとは、自分たちも思っていなかったはず。",
+        "<b>日本・海外から見ると:</b> 日本の「老後2000万円問題」に近いが、アメリカ版は「そのお金もない」が出発点。セーフティネットの穴の大きさが違う。"
       ],
       "imagePrompts": [
-        "A man in a suit walking out of a government building carrying a box of belongings, then in the next panel walking back in with the same box, a 'FEMA' sign on the wall",
-        "A revolving door at a federal agency building with the same person going in and out, a hurricane symbol visible on the window",
-        "An HR desk with a hire/fire/rehire checklist, the same name checked in all three boxes, with a FEMA logo on the wall calendar"
+        "An elderly person in a fast food uniform stands next to a wall calendar with 'RETIREMENT DAY' circled, while also holding a work schedule. A sign behind them reads 'Now Hiring — All Ages Welcome.'",
+        "A retirement party banner hanging in an office break room. Below it, the guest of honor sits at a desk with a new computer, a fresh stack of files, and a name tag that reads 'Still Here.'",
+        "A Venn diagram: one circle labeled 'Retirement,' another labeled 'Employment.' The overlapping middle section is very large and labeled 'Gen X Plan.'"
       ],
       "captions": [
-        "He got fired. Then nominated again. For the exact same job. FEMA's having a year.",
-        "The nation's disaster response chief: now with bonus job insecurity.",
-        "Hamilton's résumé now reads: FEMA Director, gap, FEMA Director. The gap is the whole story.",
-        "When a hurricane hits at 3am, it's good to know if the person picking up the phone has been fired yet.",
-        "First term: fired. Second term: pending. Stability: not on the agenda."
+        "'I will likely be working in retirement.' Sir, that's just called working.",
+        "Gen X was skeptical of everything — grunge, authority, the establishment. Apparently not retirement brochures.",
+        "Social Security as a backup plan became the whole plan. The backup plan is now the plan. What's the new backup plan? Working.",
+        "The generation that grew up watching their parents retire at 62 is now looking at 72 and going, 'maybe 74.'",
+        "Retirement: the years you spend working, but sadder."
       ],
       "captionsJa": [
-        "解任されて、また同じポストに指名された。FEMAにとって充実した一年ですね。",
-        "国の災害対応責任者。求人票の備考欄: 雇用の安定は保証しません。",
-        "ハミルトン氏の職歴: FEMA長官 → 空白 → FEMA長官。空白のところに全部が詰まってる。",
-        "午前3時にハリケーンが来たとき、電話に出る人がまだ解任されてないか確認が必要。",
-        "第一期: 解任。第二期: 審議中。安定性: 議題にありません。"
+        "「退職後も働き続けるだろう」って、それ退職じゃないですよ。",
+        "グランジも権威も体制も信じなかったX世代。老後の設計書だけ信じた。",
+        "「保険」のつもりだった社会保障が、いつの間にか唯一の計画になった。新しい保険は？働くこと。",
+        "62歳で引退した親を見て育った世代が、72歳を見ながら「74歳かな」と考えている。",
+        "退職後の生活：働く。ただし気分は少し暗め。"
       ],
-      "newsEn": "President Trump has nominated Cameron Hamilton to serve as FEMA administrator for a second time, after previously removing him from the position. The renomination raises questions about whether it signals a change in the administration's stance toward the agency. NPR's Ayesha Rascoe spoke with Politico reporter Thomas Frank about what Hamilton's return could mean for FEMA's future under the administration.",
+      "newsEn": "Millions of Generation X Americans — those born roughly between 1965 and 1980 — are increasingly worried about retirement security. Many expect to rely on Social Security as their primary or only income source in retirement. Several survey respondents stated they expect to still be working during what would traditionally be considered retirement years.",
       "ironyEn": [
         {
-          "contradiction": "The administration fired its FEMA chief, then nominated the same person again. The agency responsible for continuity of emergency response doesn't appear to have continuity of leadership.",
-          "absurdity": "Being rehired for a job you were fired from is awkward enough. Being rehired to run the nation's disaster response agency makes for a really specific kind of awkward.",
-          "outside": "Most countries expect their emergency management chief to have consecutive tenure. The U.S. model now includes an intermission."
+          "contradiction": "Social Security was designed as a supplement to retirement savings, not the whole thing. For millions of Gen Xers, the supplement became the plan.",
+          "absurdity": "'I will likely be working in retirement.' That sentence. That's not a plan, that's a definition of what retirement isn't.",
+          "outside": "Countries with strong pension systems look at this and see a cautionary tale. Gen X looks at this and sees a calendar."
         },
         {
-          "contradiction": "FEMA exists to bring order to chaos. Its own leadership structure has been — chaotic.",
-          "absurdity": "Hamilton went from FEMA chief, to fired, to nominee again. His résumé now has a gap that is also a federal agency.",
-          "outside": "When a hurricane hits, the first call goes to FEMA. It's useful to know whether the person answering has been fired yet this week."
+          "contradiction": "Gen X was told to save, invest, and build a 401(k). They were also told wages would keep up, housing would stay affordable, and healthcare wouldn't eat their savings. Two of those things didn't happen.",
+          "absurdity": "The generation that practically invented cynicism apparently didn't apply it to retirement planning brochures from 1994.",
+          "outside": "From outside the US, the phrase 'working in retirement' sounds like a punchline. Inside the US, it's a retirement strategy."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-24/candidate-5.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-08-24/candidate-5-punchy.jpg"
+      "image": "images/2026-08-25/candidate-5.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-08-25/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「自分たちで壊しておいて、自分たちで直したと言う」——制度の自己矛盾が全方位で炸裂している一日。",
-    "titleEn": "America Broke Everything and Called It a Celebration",
-    "subtitleEn": "Five stories, one theme: the system explaining itself to itself.",
-    "titleJa": "ナショナル・モールでレースをやって「自由の祭典」と言う国の、今日のニュース5本",
+    "thread": "「仕組みが機能していると思っていたら、その仕組み自体が商品になっていた」という日。民主主義・詐欺対策・競争・退職——全部、建前と実態が逆さまになっている。",
+    "titleEn": "Everything Is Working Exactly as Designed (Which Is the Problem)",
+    "subtitleEn": "Five stories, one theme: the system isn't broken — it's just not for you.",
+    "titleJa": "大統領ツイートが有料になった日、不正対策部隊が消えた日、ゴールドマンが「AIは危険」と言いながらAIを入れ続けた日",
     "titleAltJa": [
-      "「ワクチンは死にません」と政府高官が記者会見で言わなければならなかった2026年8月24日",
-      "一度クビにした人をまた同じ役職に指名する——FEMAの話が、今日のアメリカ全部の縮図だった"
+      "「退職後も働く」って、それ退職じゃないですよね——アメリカの今日5本を読んで声が出た",
+      "「Truth Socialの真実は月額課金」と言えるようになる記事"
     ],
-    "leadJa": "今日のニュースを5本読んで、声が出ました。笑い声か悲鳴かは自分でもわからない。ただ「これ全部同じ日に起きてるの?」という感覚だけははっきりしています。",
-    "introEn": "I opened the news this morning and had to set down my coffee. Not dramatically — I just needed my hands free to count on my fingers.\n\nToday we've got IndyCar tearing around the Lincoln Memorial at 180 mph in the name of freedom. We've got a TV doctor clarifying, on the record, that a vaccine won't kill you. We've got Austin musicians losing health coverage because healthcare cost too much. We've got the Pentagon firing the editor of its own newspaper for journalism. And we've got FEMA's director getting un-fired and re-hired for the exact same job.\n\nHere's your forecast: if you've been feeling like the rules don't quite apply the same way to everyone, today's news is basically a five-course confirmation. That's not your fault. That's the system being the system. You're fine. Go get more coffee.",
-    "introJa": "今朝、ニュースを開いて、指折り数えながら読みました。\n\n一本目、ナショナル・モール（ワシントンD.C.の中心にある公園で、リンカーン記念堂やスミソニアン博物館が並ぶあそこです）を時速290kmのレースカーが爆走。「建国250周年の自由の祭典」として。\n\n二本目、大統領がMMRワクチンの安全性に疑問を呈したあと、政府高官が「MMRワクチンは人を殺しません」と公式に発表する事態に。\n\n三本目、ライブ音楽の街・オースティンのミュージシャンが医療保険を持てないので非営利団体が補填していたら、その組織も医療費高騰で潰れかけている。\n\n四本目、軍が資金を出している新聞の編集長が「独立しすぎている」という理由で解雇される。\n\n五本目、一度クビにしたFEMA長官をまた同じポストに指名。\n\n今日の占い。システムがこれだけ派手に自分で自分を壊している日は、逆にチャンスです。「うまくいかないのは自分のせいだ」と思っていたあなた、そのシステムの中身、見ましたか? 今日は仕事でちょっとくらい判断ミスをしても怒られる筋合いはないと思う。少なくとも、FEMAよりはうまくやってる。",
-    "quipEn": "Today America fired people for doing their jobs, subsidized things the government should handle, and called a car race a civil rights moment. Just a regular Sunday.",
-    "quipJa": "今日のアメリカ、まとめると——「壊した人が直したと言い、直そうとした人が解雇され、誰かが代わりにツケを払っている」。明日、この話が出たらこの一文だけ言えば十分です。",
+    "leadJa": "今日ね、大統領の投稿に「VIPレーン」ができたって読んで、思わず記事を閉じてもう一度開いたんですよ。\n\n開いても同じことが書いてありました。\n\nそういう月曜日の話を5本、します。",
+    "introEn": "I read American news every morning so you don't have to. This morning I had to read it twice.\n\nToday's five stories share one feature: systems that were supposed to serve everyone have quietly started charging admission. A presidential social media feed. An anti-fraud unit. A housing platform. A retirement plan. A warning from a bank that is, itself, the cause of the warning.\n\nHere's your forecast: if you've ever suspected that the rules were designed for someone else, today's news is basically a press release confirming that. The silver lining? The fact that you noticed is worth something. Probably more than a Truth Social subscription. Read on.",
+    "introJa": "声が出ました。\n\n大統領の投稿を「早く読みたければ課金してください」というサービスが存在して、しかも「予想より多くの人が入会している」って話、今朝読んで、ほんとに声が出た。\n\n今日は5本ぜんぶそういう日です。詐欺対策の部署が詐欺対策以外の仕事をさせられて詐欺対策ゼロになった話。AIを全社導入している会社のえらい人が「AIで人間が馬鹿になる」と警告している話。賃貸情報サービス2社が「うちはここ、あなたはそっち」と1億ドルで競争しない契約を結んでいた話。そして、「退職後も働く予定です」と言うアメリカ人の話。\n\n今日のあなたへの占いはこれです。なんかおかしいな、ずっとそう思ってたなら、あなたは正しい。今日5本読んだらたぶん確信に変わります。今日うまくいかないことがあっても、そっちのせいじゃないと思う。たぶん。少なくとも今日は。",
+    "quipEn": "Freedom of speech is free. Faster freedom of speech is $9.99 a month. As for your retirement plan — that's on you.",
+    "quipJa": "真実は無料で届きます。ただし、少し遅れて。退職後の生活も、来ます。ただし、働きながら。",
     "notesEn": [
-      "IndyCar raced around the Lincoln Memorial this weekend at 180 mph. They called it the Freedom 250, a celebration of American democracy. The Smithsonian was closed for the day. Lincoln did not comment.",
-      "Dr. Oz, who runs Medicare and Medicaid, held a press conference to clarify that the MMR vaccine — which has been in use for 60 years — is, quote, 'not a lethal vaccine.' He had to say this because the president had suggested otherwise. That's where we are.",
-      "Austin calls itself the Live Music Capital of the World. The musicians who make that true can't afford health insurance. A nonprofit has been covering their premiums. That nonprofit is now going broke — because of healthcare costs. I read this sentence three times.",
-      "Stars and Stripes is a newspaper run by the U.S. military, for U.S. military personnel. Its staff had been reporting on threats to their editorial independence. The Pentagon then fired the editor, the publisher, and a reporter. The story kind of wrote itself at that point.",
-      "Trump fired the FEMA director earlier this year. This week he nominated the same person for the same job again. FEMA is the agency responsible for disaster response. I'll leave it there.",
-      "Today's theme across five unrelated news stories: institutions explaining their own contradictions, out loud, on the record, apparently without noticing.",
-      "If you're having a rough week because something that should have worked didn't — IndyCar closed the National Mall, the Pentagon fired a journalist for journalism, and FEMA's director got hired twice for the same job. The system is having a rougher one.",
-      "Five stories from August 24, 2026. A race around democracy's front yard. A vaccine safety clarification from a TV doctor. Musicians without healthcare in a city that sells music. A fired editor at a military paper. A re-hired disaster chief. I just report what I find."
+      "Trump Media is selling premium access to Trump's posts — pay more, see his tweets faster than everyone else. The CEO said more people signed up than expected. He seemed surprised. Sir, you built a presidential paywall. Of course people are weird about it.",
+      "The US anti-fraud unit at USCIS — the one that catches fake immigration documents — had every single officer reassigned. New duties: screening South African refugees and finding alleged unlawful voters. The fraud unit is now empty. Bold anti-fraud strategy.",
+      "A Goldman Sachs partner warned internally that AI is a 'huge danger' to the reasoning skills of young bankers. Goldman Sachs has also been installing AI across every department. The warning and the cause of the warning are the same company. Just want to make sure that landed.",
+      "The FTC found that Zillow paid Redfin $100 million to stop competing with Zillow in the apartment listings market. During a rental affordability crisis. Both companies agreed to settle. Nothing says 'helping renters find homes' like paying your competitor to disappear.",
+      "A new survey finds many Gen X Americans expect to be working during what would traditionally be called retirement years. 'I will likely be working in retirement' is a sentence several people said. That's not retirement. That's just working with a different name for it.",
+      "Today's theme: five systems — democracy, fraud enforcement, banking, housing, retirement — each quietly stopped working for regular people and nobody officially announced it. They just kept using the same words.",
+      "The Goldman Sachs warning about AI eroding banker skills is genuinely interesting. Not because they're wrong. Because they're right, and they're not stopping. That's the part that's interesting.",
+      "Social Security as a backup income in retirement became the primary income plan. The backup plan became the whole plan. Several Gen X respondents are now asking what the new backup plan is. The answer, apparently, is: keep working."
     ],
     "xJa": [
-      "ワシントンD.C.のナショナル・モール（リンカーン記念堂の隣）で時速290kmのレース。建国250周年の「自由の祭典」として。自由とは何か、リンカーンに聞いてみたい。",
-      "トランプ大統領がMMRワクチンの安全性に疑問を呈したあと、政府の医療トップが「ワクチンは致死的ではありません」と公式発表。2026年に、先進国で、この会見が。",
-      "「ライブ音楽の首都」を自称するテキサス州オースティン、ミュージシャンが医療保険を払えないので非営利団体が補填→その組織も医療費高騰で存続の危機。一文で意味わからないのに全部事実。",
-      "軍が資金を出している新聞の編集長が「編集の独立性を守ろうとしすぎた」として軍に解雇された。編集権の独立について書いていたら独立を奪われた。風刺を書く必要がない完成度。",
-      "トランプ大統領、今年解任したFEMA長官を同じポストに再指名。一度クビ→また同じ人。次の台風が来たとき誰が電話に出るのか、少し心配になっています。",
-      "今日のアメリカニュース5本、読んでて「あ、これ誰も止める気ないんだ」ってなった。こんなのを毎朝読んでいる私も私ですが。",
-      "FEMAが長官を解任して再任、ペンタゴンが自社の新聞記者を解雇、ミュージシャン向け医療保険が医療費で潰れかけている——これ全部同じ日のニュース。私のコーヒーが冷めた。",
-      "今日覚えて帰ってほしいこと。「うまくいかないのは自分のせい」と思っていたあなた、FEMAの長官人事とナショナル・モールのレース渋滞を見てください。あなたはだいぶましです。"
+      "アメリカで大統領のSNS投稿に「VIPレーン」ができた。有料会員は他の人より早くトランプの言葉を受け取れる。「国民への直接発信」が売りだったはずなのに、その「直接」に値段がついた。",
+      "移民詐欺を摘発する部署の職員を全員、別の仕事に異動させた結果、詐欺を取り締まる人が0人になった。これを「不正対策の強化」と呼んでいる。文章にするとやっぱりおかしい。",
+      "ゴールドマン・サックスのパートナーが「AIを使いすぎると若手バンカーの考える力が落ちる、巨大なリスクだ」と警告した。同社は現在、全部門にAIを導入中。商売と心配が完全に逆方向。",
+      "ZillowがRedfin（アメリカの住宅情報サービス）に1億ドル払って「この市場で競争しないで」と約束させていたことが判明。家賃が高くて困っている人たちの話をしているときに。FTCに怒られました。",
+      "「退職後も働くつもりです」と答えたアメリカのX世代が多数。それ、退職じゃないですよね。「退職」って言葉で、制度が追いついてない現実にフタしてる感じ。",
+      "今日のアメリカのニュースまとめ: 大統領ツイートが有料に、詐欺対策部隊が消滅、AIの危険を警告する会社がAIを全社導入、住宅サービスが談合、退職後も働く世代。全部、建前と実態が逆さま。",
+      "「Truth Socialの真実は月額課金」という事実を今朝知りました。CEOは「予想以上に多くの人が入会した」と言っている。大統領の投稿に課金する人がいない世界、信じてたんですけどね。",
+      "退職後の収入をアメリカの社会保障（日本の年金みたいなもの）に頼るX世代が増えている。「バックアッププランが唯一のプランになった」という状況。その新しいバックアッププランは? 働くこと、らしい。"
     ],
-    "fullEn": "# America Broke Everything and Called It a Celebration\n\n## Today's Forecast\n\nI opened the news this morning and had to set down my coffee. Not dramatically — I just needed my hands free to count on my fingers.\n\nToday we've got IndyCar tearing around the Lincoln Memorial at 180 mph in the name of freedom. We've got a TV doctor clarifying, on the record, that a vaccine won't kill you. We've got Austin musicians losing health coverage because healthcare cost too much. We've got the Pentagon firing the editor of its own newspaper for journalism. And we've got FEMA's director getting un-fired and re-hired for the exact same job.\n\nHere's your forecast: if you've been feeling like the rules don't quite apply the same way to everyone, today's news is basically a five-course confirmation. That's not your fault. That's the system being the system. You're fine. Go get more coffee.\n\n---\n\n## 1. IndyCar Races Around the National Mall Because Why Not\n\n*CBS News US — [source](https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/)*\n\nIndyCar held its first-ever street race in Washington, D.C. this weekend, with 25 cars reaching speeds close to 180 mph around the National Mall. The event, dubbed the Freedom 250, was framed as a celebration of America's 250th birthday. President Trump kicked off the race, making it one of several official birthday celebrations held this year.\n\n**Why It's Funny**\n\n- **Contradiction:** The National Mall — designed as a shared civic space — was closed off so 25 cars could burn rubber past the monuments to democracy.\n- **Absurdity:** Nothing says 'freedom' quite like roping off public land and blasting exhaust fumes past the Lincoln Memorial.\n- **View from Tokyo:** For context: Japan once held a Formula E race in Tokyo, but nobody called it a birthday party for the emperor.\n\n**Say It Out Loud**\n\n> They wanted to honor 250 years of American democracy, so they closed the street.\n\n---\n\n## 2. CMS Chief Dr. Oz Clarifies MMR Vaccine 'Not Lethal' — After the President Suggested Otherwise\n\n*CBS News US — [source](https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/)*\n\nDr. Mehmet Oz, administrator of the Centers for Medicare and Medicaid Services, stated publicly that the MMR vaccine is 'not a lethal vaccine,' following remarks by President Trump that cast doubt on its safety. Oz's clarification came as the nation's top public health communicators were left in the position of walking back the president's comments. MMR vaccines protect against measles, mumps, and rubella, and have been in widespread use for decades.\n\n**Why It's Funny**\n\n- **Contradiction:** The head of Medicare and Medicaid had to hold a press event to confirm that a vaccine used safely for 60 years does not, in fact, kill you.\n- **Absurdity:** Dr. Oz — a TV personality turned health czar — is now the responsible adult in the room clarifying the president's vaccine comments. That sentence exists.\n- **View from Tokyo:** Health officials in other countries spend their time debating vaccine distribution logistics. U.S. officials are debating whether vaccines are fatal.\n\n**Say It Out Loud**\n\n> Breaking news: vaccine confirmed not fatal. More on this developing story.\n\n---\n\n## 3. Nonprofits Step In to Give Austin Musicians Health Insurance Because the System Won't\n\n*NPR News — [source](https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured)*\n\nA nonprofit organization and a local public health agency in Austin, Texas, are subsidizing health insurance premiums for local musicians who cannot afford coverage on their own. The program uses Affordable Care Act marketplace plans to provide musicians with access to healthcare. However, rising healthcare costs are putting the program itself under financial pressure, threatening its sustainability.\n\n**Why It's Funny**\n\n- **Contradiction:** Austin bills itself as the Live Music Capital of the World, yet the people making that music can't afford a doctor's visit without charity intervention.\n- **Absurdity:** The program helping musicians afford healthcare is now struggling to survive because — healthcare costs too much. It's turtles all the way down.\n- **View from Tokyo:** In countries with universal coverage, this sentence doesn't exist: 'a nonprofit is raising money so guitar players can see a doctor.'\n\n**Say It Out Loud**\n\n> Live Music Capital of the World — as long as you don't need a doctor.\n\n---\n\n## 4. Pentagon Fires Stars and Stripes Editor for Being Too Independent at the Military's Own Newspaper\n\n*CBS News US — [source](https://www.cbsnews.com/video/update-the-battle-over-stars-and-stripes/)*\n\nThe Pentagon fired the editor-in-chief, publisher, and a reporter at Stars and Stripes, a newspaper partly funded by the Department of Defense that serves U.S. military personnel. Prior to the firings, staff members had raised concerns about editorial independence. The outlet had been reporting on issues related to its own autonomy before the dismissals took place.\n\n**Why It's Funny**\n\n- **Contradiction:** Stars and Stripes has 'editorial independence' written into its mandate. The Pentagon funds it. Those two facts just ran into each other at high speed.\n- **Absurdity:** The paper's staff raised concerns about editorial independence. Then they got fired. The story basically wrote itself — while they still had jobs.\n- **View from Tokyo:** State-funded media that gets fired for being too independent is usually the punchline in stories about other countries.\n\n**Say It Out Loud**\n\n> They fired the editor of the military's own newspaper for being too much of a journalist. Bold strategy.\n\n---\n\n## 5. Trump Re-Nominates FEMA Chief He Already Fired Once — for the Same Job\n\n*NPR Politics — [source](https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again)*\n\nPresident Trump has nominated Cameron Hamilton to serve as FEMA administrator for a second time, after previously removing him from the position. The renomination raises questions about whether it signals a change in the administration's stance toward the agency. NPR's Ayesha Rascoe spoke with Politico reporter Thomas Frank about what Hamilton's return could mean for FEMA's future under the administration.\n\n**Why It's Funny**\n\n- **Contradiction:** The administration fired its FEMA chief, then nominated the same person again. The agency responsible for continuity of emergency response doesn't appear to have continuity of leadership.\n- **Absurdity:** Being rehired for a job you were fired from is awkward enough. Being rehired to run the nation's disaster response agency makes for a really specific kind of awkward.\n- **View from Tokyo:** Most countries expect their emergency management chief to have consecutive tenure. The U.S. model now includes an intermission.\n\n**Say It Out Loud**\n\n> He got fired. Then nominated again. For the exact same job. FEMA's having a year.\n\n---\n\n## Today's Punchline\n\n> Today America fired people for doing their jobs, subsidized things the government should handle, and called a car race a civil rights moment. Just a regular Sunday.\n",
-    "fullJa": "# ナショナル・モールでレースをやって「自由の祭典」と言う国の、今日のニュース5本\n\n## 今日を占うよ〜\n\n今朝、ニュースを開いて、指折り数えながら読みました。\n\n一本目、ナショナル・モール（ワシントンD.C.の中心にある公園で、リンカーン記念堂やスミソニアン博物館が並ぶあそこです）を時速290kmのレースカーが爆走。「建国250周年の自由の祭典」として。\n\n二本目、大統領がMMRワクチンの安全性に疑問を呈したあと、政府高官が「MMRワクチンは人を殺しません」と公式に発表する事態に。\n\n三本目、ライブ音楽の街・オースティンのミュージシャンが医療保険を持てないので非営利団体が補填していたら、その組織も医療費高騰で潰れかけている。\n\n四本目、軍が資金を出している新聞の編集長が「独立しすぎている」という理由で解雇される。\n\n五本目、一度クビにしたFEMA長官をまた同じポストに指名。\n\n今日の占い。システムがこれだけ派手に自分で自分を壊している日は、逆にチャンスです。「うまくいかないのは自分のせいだ」と思っていたあなた、そのシステムの中身、見ましたか? 今日は仕事でちょっとくらい判断ミスをしても怒られる筋合いはないと思う。少なくとも、FEMAよりはうまくやってる。\n\n---\n\n## 1. IndyCar Races Around the National Mall Because Why Not\n\n*CBS News US（[記事](https://www.cbsnews.com/news/indycar-race-dc-freedom-250-grand-prix-what-to-know/)）*\n\nインディカーが今週末、ワシントンD.C.のナショナル・モール周辺の公道でレースを開催。25台が時速約290kmで走行し、「フリーダム250」と名付けられたこのイベントはアメリカ建国250周年記念の一環とされている。\n\n**どこが笑える？**\n\n- 矛盾: 民主主義の象徴である公共空間・ナショナル・モールを、排気ガスをまき散らす高速レースで封鎖するのが「自由の祭典」というのは、なかなか独特な解釈なんですよ。\n- 滑稽さ: リンカーン記念堂の隣で時速290kmの車が走り抜けていく。リンカーンだったら何て言うか、ちょっと聞いてみたい。\n- 日本・海外から見ると: 皇居前広場でF1を走らせるようなもんじゃないですか。「建国記念だから何でもあり」の論理、日本では確実に炎上コース。\n\n**このニュースをジョークにするなら...**\n\n> アメリカ民主主義250年を祝うために、公道を封鎖しました。\n\n---\n\n## 2. CMS Chief Dr. Oz Clarifies MMR Vaccine 'Not Lethal' — After the President Suggested Otherwise\n\n*CBS News US（[記事](https://www.cbsnews.com/news/dr-oz-mmr-vaccine-not-lethal-trump-executive-order/)）*\n\nトランプ大統領がMMRワクチンの安全性に疑問を呈する発言をした数日後、CMS長官のドクター・オズがMMRワクチンは「致死的ではない」と述べ、事実上の火消しに追われた。\n\n**どこが笑える？**\n\n- 矛盾: メディケアとメディケイドの最高責任者が、大統領の発言を受けて「ワクチンは人を殺しません」と改めて発表しなければならない状況——これ自体が公衆衛生の危機のシグナルなんですよ。\n- 滑稽さ: ドクター・オズが「科学的に正しいこと」を言うのに、上司の発言を打ち消す形でしか言えないっていう。テレビ医師として培ったコミュニケーション力の使いどころ、これじゃないはず。\n- 日本・海外から見ると: 先進国の政府高官が「MMRワクチンは死にません」と記者会見で言わなければならない2026年。ワクチン行政の信頼性という点で、海外の医療関係者はどう受け取るか。\n\n**このニュースをジョークにするなら...**\n\n> 速報: ワクチン、致死的でないと確認。続報をお待ちください。\n\n---\n\n## 3. Nonprofits Step In to Give Austin Musicians Health Insurance Because the System Won't\n\n*NPR News（[記事](https://www.npr.org/2026/08/23/nx-s1-5901338/health-alliance-austin-musicians-texas-health-premiums-obamacare-marketplace-uninsured)）*\n\nテキサス州オースティンで、非営利団体と地域の公衆衛生機関が、医療費が払えない地元ミュージシャンのために保険料を補助するプログラムを運営している。医療費の高騰でプログラム自体も存続の危機に直面している。\n\n**どこが笑える？**\n\n- 矛盾: ライブ音楽の街として売り出しているオースティンで、そのライブ音楽を支えるミュージシャンが医療保険すら持てないから非営利団体が補填している。街のブランドと、街が実際に演者に何をしているかのギャップが激しい。\n- 滑稽さ: 「医療費が高騰しすぎて、ミュージシャンに医療保険を提供するためのプログラムが医療費で潰れそう」という文章、一回読んだだけじゃ意味がわからないのに全部事実なんですよ。\n- 日本・海外から見ると: 国民皆保険の国から見たら「ミュージシャン専用の医療保険クラウドファンディング組織が必要な先進国」というのは、どう説明しても信じてもらえない話。\n\n**このニュースをジョークにするなら...**\n\n> 世界のライブ音楽の首都——医者にかかれなければの話ですが。\n\n---\n\n## 4. Pentagon Fires Stars and Stripes Editor for Being Too Independent at the Military's Own Newspaper\n\n*CBS News US（[記事](https://www.cbsnews.com/video/update-the-battle-over-stars-and-stripes/)）*\n\n国防総省が一部資金を提供している軍向け新聞「スターズ・アンド・ストライプス」の編集長、発行人、記者1名を解雇した。同紙スタッフは以前から編集権の独立性に対する懸念を表明していた。\n\n**どこが笑える？**\n\n- 矛盾: 「報道の自由」と「国防」を同時に掲げる国の軍が、自分たちで資金を出している新聞社の編集長を「独立性が強すぎる」という形で解雇する——この構図、風刺として書く必要がないくらい出来上がってるんですよ。\n- 滑稽さ: 編集権の独立を求める記事を書いていたら、その独立を理由に首を切られた。因果応報どころか、因果が一周して帰ってきた。\n- 日本・海外から見ると: 「軍が運営する独立した新聞」という時点で外から見たら矛盾してるんですが、さらにその「独立」を守ろうとした人が軍に解雇される。二重に矛盾が積み上がってる。\n\n**このニュースをジョークにするなら...**\n\n> 軍の新聞社の編集長を「ジャーナリストすぎる」という理由で解雇。大胆な作戦ですね。\n\n---\n\n## 5. Trump Re-Nominates FEMA Chief He Already Fired Once — for the Same Job\n\n*NPR Politics（[記事](https://www.npr.org/2026/08/23/nx-s1-5939486/trump-nominates-cameron-hamilton-to-lead-fema-again)）*\n\nトランプ大統領が、一度解任したキャメロン・ハミルトン氏を再びFEMA長官に指名した。ハミルトン氏の再任がFEMAの扱いについての方針転換を意味するのか注目されている。\n\n**どこが笑える？**\n\n- 矛盾: 一度クビにした人間を、同じポストに再指名する。採用プロセスを経て「やっぱりあいつがよかった」に戻るのか、最初から別の意図があったのか——どちらにしてもFEMAの安定性とは程遠い話なんですよ。\n- 滑稽さ: FEMA長官を一度解任して、また同じ人を指名する。災害対応機関のトップ人事がこれだと、次の災害のとき誰が電話に出るのか本当にわからない。\n- 日本・海外から見ると: 防災・危機管理機関の長を一度罷免してから再任するというのは、日本の感覚では「いったい何があったんですか」案件。組織の継続性と信頼性という観点で、ちょっと理解が追いつかない。\n\n**このニュースをジョークにするなら...**\n\n> 解任されて、また同じポストに指名された。FEMAにとって充実した一年ですね。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今日のアメリカ、まとめると——「壊した人が直したと言い、直そうとした人が解雇され、誰かが代わりにツケを払っている」。明日、この話が出たらこの一文だけ言えば十分です。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d2のimagePrompts[0]に実在人物（Dr. Oz）の外見を想起させる「man in a suit with MMR sign + thumbs up」があり、権利リスクの懸念から構図を差し替えた。d4のimagePrompts[1]に「First Amendment on the wall」という元データに無い事実の追加があるため削除・修正。その他のcaptions・本文・xJa・notesEn・introJa/En等は基準をおおむね満たしており変更しない。 ／ 文体パス: 2箇所修正。xJa[1]の「という事実だけ置いておきます」が典型的なAI締め口調、xJa[5]の「制度が自分で自分を壊して、誰も気づいていないふりをしている」が整いすぎた総括文だったので崩した。"
+    "fullEn": "# Everything Is Working Exactly as Designed (Which Is the Problem)\n\n## Today's Forecast\n\nI read American news every morning so you don't have to. This morning I had to read it twice.\n\nToday's five stories share one feature: systems that were supposed to serve everyone have quietly started charging admission. A presidential social media feed. An anti-fraud unit. A housing platform. A retirement plan. A warning from a bank that is, itself, the cause of the warning.\n\nHere's your forecast: if you've ever suspected that the rules were designed for someone else, today's news is basically a press release confirming that. The silver lining? The fact that you noticed is worth something. Probably more than a Truth Social subscription. Read on.\n\n---\n\n## 1. Trump Media Now Selling 'Faster Access' to Trump's Own Posts — Democracy, Premium Tier\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html)*\n\nTrump Media interim CEO Kevin McGurn defended the company's practice of selling premium, faster access to President Donald Trump's Truth Social posts. McGurn said the program has attracted more subscribers than expected. The arrangement allows paying members to see the president's social media statements before they reach the general public.\n\n**Why It's Funny**\n\n- **Contradiction:** Truth Social was sold as the antidote to elite-gated media — a place where Trump could speak directly to the people. The people now need a paid subscription to get there first.\n- **Absurdity:** Presidential statements have a fast lane and a slow lane. Welcome to democratic discourse, economy class.\n- **View from Tokyo:** In countries where state media is government-controlled, this would be a scandal. In the US, it's a product launch.\n\n**Say It Out Loud**\n\n> Freedom of speech — available now with a 7-day free trial.\n\n---\n\n## 2. Anti-Fraud Immigration Officers Pulled Off Fraud Cases to Find… Voters and Refugees\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned)*\n\nInternal correspondence obtained by The Guardian reveals that all US immigration officers assigned to a key anti-fraud unit at USCIS have been reassigned. Their new duties involve screening South African refugees admitted under a recent program and identifying alleged 'unlawful' voters. The anti-fraud unit they vacated was responsible for detecting immigration fraud and document forgeries.\n\n**Why It's Funny**\n\n- **Contradiction:** The unit built to fight immigration fraud has been emptied out — so the government can chase a different kind of fraud. Immigration fraud will now investigate itself, presumably.\n- **Absurdity:** Every single officer. Not some. All of them. Whoever is faking documents right now, this is your window.\n- **View from Tokyo:** Most countries designate anti-fraud investigators to, specifically, investigate fraud. This is apparently a design choice, not a requirement.\n\n**Say It Out Loud**\n\n> To fight fraud, they eliminated the fraud fighters. Bold strategy.\n\n---\n\n## 3. Goldman Sachs Warns AI Is Making Bankers Dumb — While Goldman Sachs Uses AI to Replace Bankers\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)*\n\nA senior Goldman Sachs technology leader has warned that the firm's aggressive embrace of AI comes with an unintended consequence: it may erode the reasoning and analytical skills of the next generation of bankers. The warning was issued internally as Goldman Sachs continues to expand AI use across its operations. The executive described the risk as a 'huge danger.'\n\n**Why It's Funny**\n\n- **Contradiction:** Goldman Sachs is deploying AI firm-wide and simultaneously warning that AI will hollow out the brains of future Goldman Sachs employees. The left hand is very worried about what the right hand is doing.\n- **Absurdity:** A 'huge danger.' From the company actively installing it. In every department.\n- **View from Tokyo:** When tobacco executives warned about the health risks of smoking, they were eventually made to put it on the label. Goldman's warning is in a conference presentation.\n\n**Say It Out Loud**\n\n> Goldman Sachs: 'AI is a huge danger to banker reasoning.' Also Goldman Sachs: *installs AI in every department.*\n\n---\n\n## 4. FTC Tells Zillow and Redfin: You Can't Divide the Apartment Market Between Yourselves\n\n*CBS News US — [source](https://www.cbsnews.com/news/ftc-settles-zillow-antitrust-case-redfin/)*\n\nThe Federal Trade Commission alleged that a $100 million agreement between Zillow and Redfin stifled competition in the apartment listings market. Under the deal, Redfin agreed to stop its own advertising contracts and not compete with Zillow in certain areas in exchange for payment. Federal regulators ordered both companies to change the arrangement, and the companies agreed to a settlement.\n\n**Why It's Funny**\n\n- **Contradiction:** Two platforms built to help renters find apartments agreed — for $100 million — that Redfin would stop competing. Renters were not consulted.\n- **Absurdity:** The deal required Redfin to drop its own advertising contracts. So Redfin got paid to get smaller. That's one business model.\n- **View from Tokyo:** In a country where housing costs are a national crisis, the two biggest listing platforms found time to carve up the market. The renters are still searching.\n\n**Say It Out Loud**\n\n> Redfin took $100 million from Zillow to stop competing with Zillow. In housing. During a rental crisis. Just checking you read that.\n\n---\n\n## 5. Gen X Finally Gets to Retire — While Still Going to Work\n\n*CBS News US — [source](https://www.cbsnews.com/news/gen-x-social-security-retirement-savings/)*\n\nMillions of Generation X Americans — those born roughly between 1965 and 1980 — are increasingly worried about retirement security. Many expect to rely on Social Security as their primary or only income source in retirement. Several survey respondents stated they expect to still be working during what would traditionally be considered retirement years.\n\n**Why It's Funny**\n\n- **Contradiction:** Social Security was designed as a supplement to retirement savings, not the whole thing. For millions of Gen Xers, the supplement became the plan.\n- **Absurdity:** 'I will likely be working in retirement.' That sentence. That's not a plan, that's a definition of what retirement isn't.\n- **View from Tokyo:** Countries with strong pension systems look at this and see a cautionary tale. Gen X looks at this and sees a calendar.\n\n**Say It Out Loud**\n\n> 'I will likely be working in retirement.' Sir, that's just called working.\n\n---\n\n## Today's Punchline\n\n> Freedom of speech is free. Faster freedom of speech is $9.99 a month. As for your retirement plan — that's on you.\n",
+    "fullJa": "# 大統領ツイートが有料になった日、不正対策部隊が消えた日、ゴールドマンが「AIは危険」と言いながらAIを入れ続けた日\n\n## 今日を占うよ〜\n\n声が出ました。\n\n大統領の投稿を「早く読みたければ課金してください」というサービスが存在して、しかも「予想より多くの人が入会している」って話、今朝読んで、ほんとに声が出た。\n\n今日は5本ぜんぶそういう日です。詐欺対策の部署が詐欺対策以外の仕事をさせられて詐欺対策ゼロになった話。AIを全社導入している会社のえらい人が「AIで人間が馬鹿になる」と警告している話。賃貸情報サービス2社が「うちはここ、あなたはそっち」と1億ドルで競争しない契約を結んでいた話。そして、「退職後も働く予定です」と言うアメリカ人の話。\n\n今日のあなたへの占いはこれです。なんかおかしいな、ずっとそう思ってたなら、あなたは正しい。今日5本読んだらたぶん確信に変わります。今日うまくいかないことがあっても、そっちのせいじゃないと思う。たぶん。少なくとも今日は。\n\n---\n\n## 1. Trump Media Now Selling 'Faster Access' to Trump's Own Posts — Democracy, Premium Tier\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/24/trump-media-ceo-truth-api.html)）*\n\nトランプ・メディアの暫定CEOが、トランプ大統領のTruth Socialへの投稿をいち早く読める有料アクセスプランを販売・擁護し、会員数が増加していると明かした。\n\n**どこが笑える？**\n\n- 矛盾: 「国民への直接発信」が売りだったSNSで、お金を払わないと他の人より遅れて大統領の言葉を受け取る仕組みになってる。\n- 滑稽さ: 民主主義の情報平等を語る国で、大統領ツイートに「VIPレーン」ができた。次は投稿の文字数で課金か。\n- 日本・海外から見ると: アメリカでは大統領の発言がサブスクコンテンツになった。NHKプラスより先に政府が有料化した、みたいな話。\n\n**このニュースをジョークにするなら...**\n\n> 言論の自由、ただいま7日間無料トライアル中。\n\n---\n\n## 2. Anti-Fraud Immigration Officers Pulled Off Fraud Cases to Find… Voters and Refugees\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/24/uscis-immigration-officers-reassigned)）*\n\nトランプ政権が、移民詐欺対策を専門とするUSCISの職員全員を、南アフリカ難民の審査と「不正投票者」の摘発という2つの「最優先事項」に異動させたことが、内部文書で明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 詐欺を取り締まる部署の人員を全員引き抜いて、別の仕事をさせた結果、詐欺を取り締まる人が0人になった。これを「不正対策」と呼んでいる。\n- 滑稽さ: 消防署員を全員「火の用心パトロール」に回して、消防署を無人にした感じ。火事は誰が消すんですか。\n- 日本・海外から見ると: 「不正を防ぐために不正防止部隊を解体した」という文章、英語で書いてもやっぱりおかしい。\n\n**このニュースをジョークにするなら...**\n\n> 詐欺を防ぐために、詐欺防止チームを解体した。大胆な戦略。\n\n---\n\n## 3. Goldman Sachs Warns AI Is Making Bankers Dumb — While Goldman Sachs Uses AI to Replace Bankers\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html)）*\n\nゴールドマン・サックスのパートナーが、AIを積極採用する一方で、AIが若手バンカーの推論力を弱める「巨大なリスク」になりうると警告した。\n\n**どこが笑える？**\n\n- 矛盾: AIに仕事を任せながら「AIで考える力が落ちる」と心配している。どっちが心配なのか、という話。\n- 滑稽さ: 「AIを使いすぎると人間が馬鹿になる」という警告を、AIツールを全社導入している会社のパートナーが言ってる。自分のことじゃないですか。\n- 日本・海外から見ると: ファストフード業界が「外食しすぎると料理できなくなる」と警告するようなもの。商売と心配が真逆。\n\n**このニュースをジョークにするなら...**\n\n> ゴールドマン「AIは推論力を壊す巨大リスク」。同・ゴールドマン：全部署にAI導入済み。\n\n---\n\n## 4. FTC Tells Zillow and Redfin: You Can't Divide the Apartment Market Between Yourselves\n\n*CBS News US（[記事](https://www.cbsnews.com/news/ftc-settles-zillow-antitrust-case-redfin/)）*\n\n米連邦取引委員会（FTC）が、ZillowとRedfin間の1億ドルの提携が賃貸物件リスティング市場の競争を阻害したとして是正を命じ、両社は和解に応じた。\n\n**どこが笑える？**\n\n- 矛盾: 「家探しをもっと透明に、もっと便利に」と謳う住宅プラットフォーム2社が、裏で「あなたはここ、私はそっち」と市場を山分けしていた。\n- 滑稽さ: 家賃が高くて困っている人たちに、住宅情報サービス同士が1億ドルで「競争しない契約」を結んでいたと言われても、笑う気力もない。\n- 日本・海外から見ると: SUUMOとHOME'Sが「うちは東日本、あなたは西日本にして」と決めていたら、という話。独禁法の教科書に載りそう。\n\n**このニュースをジョークにするなら...**\n\n> RedffinはZillowから1億ドル受け取って競争をやめた。住宅市場で。家賃危機の最中に。念のため確認。\n\n---\n\n## 5. Gen X Finally Gets to Retire — While Still Going to Work\n\n*CBS News US（[記事](https://www.cbsnews.com/news/gen-x-social-security-retirement-savings/)）*\n\n米国のX世代の多くが、社会保障が主要または唯一の退職後収入になると予想しており、「退職後も働き続ける」と述べる人が相次いでいる。\n\n**どこが笑える？**\n\n- 矛盾: 「退職後も働く」というのは、もはや「退職」ではない。言葉の意味が制度の破綻を隠すために使われてる。\n- 滑稽さ: X世代は「何にでも懐疑的な世代」として育った。まさかその懐疑心が自分の老後にも向かうとは、自分たちも思っていなかったはず。\n- 日本・海外から見ると: 日本の「老後2000万円問題」に近いが、アメリカ版は「そのお金もない」が出発点。セーフティネットの穴の大きさが違う。\n\n**このニュースをジョークにするなら...**\n\n> 「退職後も働き続けるだろう」って、それ退職じゃないですよ。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 真実は無料で届きます。ただし、少し遅れて。退職後の生活も、来ます。ただし、働きながら。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "captionsJa d4の「Reffin」表記ミスを修正。d3のimagePrompts[2]は実在組織の具体的状況依存度が高いが人物なしで合格圏内のため保留。xJa[6]が「私は信じていましたよ」と書き言葉に滑り込んでいるため修正。それ以外は合格。 ／ 文体パス: 2箇所直した。introJaの締め段落「仕組みがおかしいと感じてきたなら〜」が占い師のプレゼン口調だったのと、xJa[4]の「言葉の意味が制度の限界を隠すために使われている」が漢語密度高めの説明口調だったのを崩した。"
   },
   "carousel": [
-    "images/2026-08-24/carousel/slide-1.jpg",
-    "images/2026-08-24/carousel/slide-2.jpg",
-    "images/2026-08-24/carousel/slide-3.jpg",
-    "images/2026-08-24/carousel/slide-4.jpg",
-    "images/2026-08-24/carousel/slide-5.jpg",
-    "images/2026-08-24/carousel/slide-6.jpg",
-    "images/2026-08-24/carousel/slide-7.jpg"
+    "images/2026-08-25/carousel/slide-1.jpg",
+    "images/2026-08-25/carousel/slide-2.jpg",
+    "images/2026-08-25/carousel/slide-3.jpg",
+    "images/2026-08-25/carousel/slide-4.jpg",
+    "images/2026-08-25/carousel/slide-5.jpg",
+    "images/2026-08-25/carousel/slide-6.jpg",
+    "images/2026-08-25/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-08-24/note-header.jpg",
-    "substack": "images/2026-08-24/substack-cover.jpg"
+    "note": "images/2026-08-25/note-header.jpg",
+    "substack": "images/2026-08-25/substack-cover.jpg"
   }
 };
