@@ -1,314 +1,314 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-28",
-  "generatedAt": "2026-08-28T03:57:25+00:00",
+  "date": "2026-08-29",
+  "generatedAt": "2026-08-29T02:33:14+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Trump Renames Lake Ontario 'Lake America,' Canada Unmoved",
+        "headline": "National Park Service Backs Trump Arch That Would Block Views of DC's Historic Landmarks",
         "source": "The Guardian US",
-        "date": "2026-08-28",
-        "url": "https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america",
-        "summary": "トランプ大統領が大統領令に署名し、カナダとの国境にあるオンタリオ湖を「レイク・アメリカ」に改名するよう連邦政府に指示した。カナダ首相や複数の米国州知事はこれを拒否している。"
+        "date": "2026-08-29",
+        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc",
+        "summary": "国立公園局が、ワシントンDCの歴史的建造物の眺望に「悪影響を与える」と自ら認めながらも、トランプ大統領が提案する高さ約76メートルのアーチ建設を支持していることが報告書で明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 大統領令でアメリカ国内の地名台帳を書き換えることはできる。でも湖の半分はカナダ領なんですよ。地図の左半分だけ「レイク・アメリカ」と書いて、右半分は「オンタリオ湖」のままにするの？",
-        "<b>滑稽さ:</b> 水に名前をつけることで貿易戦争に勝てると思ってる、そのゆるぎない確信がすごい。湖は一ミリも動いてないし、カナダは一ドルも払ってない。",
-        "<b>日本・海外から見ると:</b> 日本でいえば「琵琶湖の滋賀側を今日から『大阪湖』にします」と大阪府が宣言するようなもの。国際社会から見ると、地名変更が外交の切り札になる世界線にいる。"
+        "<b>矛盾:</b> 国立公園局の使命は「アメリカの歴史的・文化的遺産を保護する」こと。その組織が、自分たちのレポートで「悪影響がある」と書いた建物を「支持します」と言ってるんですよ。自分で赤ペン入れた答案に◯つけてる状態。",
+        "<b>滑稽さ:</b> リンカーン記念堂の前に、リンカーンが見えなくなるアーチを建てる。観光客が「あのアーチの向こうに何かあるんですか？」って聞くたびに「昔は見えた有名なやつです」って答える係員が必要になりますね。",
+        "<b>日本・海外から見ると:</b> 国の文化財を守る機関が「壊れるのわかってるけど賛成」と言う構図、日本で言えば文化庁が「世界遺産の真横に大型広告塔を建てます、景観は悪化しますが推奨します」と発表するようなもの。"
       ],
       "imagePrompts": [
-        "A large lake split down the middle by a dotted border line. The left half has a freshly painted sign reading 'Lake America' planted on the shore. The right half has an unchanged 'Lake Ontario' sign. A confused seagull sits exactly on the dividing line.",
-        "A bureaucrat in a suit applying a 'Lake America' sticker over one half of a large wall map, while the other half still says 'Lake Ontario' in bold letters. A Canadian official across the room points at the map and shrugs.",
-        "An official-looking document titled 'Executive Order: Lake Renaming' on a desk, next to a globe where the lake is half labeled 'Lake America' and half labeled 'Lake Ontario,' with a tiny eraser mark in the middle."
+        "A large decorative arch under construction in front of the Lincoln Memorial, with tourists craning their necks trying to peek around it, a National Park Service ranger in uniform holding a clipboard that reads 'Approved' while standing next to a sign that says 'Protect Our Landmarks'",
+        "A before-and-after split image of the Washington DC skyline: one side showing clear historic monuments, the other side showing the same view with a massive arch squarely blocking most of them, a small label reading 'NPS Certified' on the arch",
+        "A National Park Service official at a podium, presenting a report with large red text reading 'ADVERSE EFFECTS,' enthusiastically giving a thumbs up to a model of a giant arch on the table beside them"
       ],
       "captions": [
-        "Bold move — renaming a lake you own 50% of. That's like putting 'Casa de Me' on your duplex and hoping your upstairs neighbor plays along.",
-        "Canada's response: 'No.' The lake's response: still there, still cold, still draining into the St. Lawrence.",
-        "The Interior Department now has to update a federal database to say 'Lake America.' The lake is not updating anything.",
-        "Wisconsin's governor mocked it, Canada rejected it, and honestly the geese didn't even look up.",
-        "You want a trade win? You renamed the water. The water does not care."
+        "The National Park Service's motto is 'preserving America's heritage.' Their new project is blocking it—literally.",
+        "They wrote 'adverse effects' in the report and then signed it. That's not a green light, that's a cry for help.",
+        "Future tour guide script: 'And behind this arch is… well, it used to be something.'",
+        "The agency filed a report saying a monument would harm monuments, then approved it. The report is now also a monument to something.",
+        "You know a government report is something special when the conclusion contradicts the findings and nobody blinks."
       ],
       "captionsJa": [
-        "湖の所有権が50%しかないのにリネームするのは度胸がある。共同住宅の玄関に「俺の家」って表札つけて、上の階の住人が従うと思ってるようなもんですよ。",
-        "カナダの返答：「ノー」。湖の返答：今日も変わらずそこにあります。",
-        "内務省は連邦データベースを「レイク・アメリカ」に更新しなければならない。湖は何も更新しない。",
-        "ウィスコンシン州知事はバカにして、カナダは拒否して、カモメは顔も上げなかった。",
-        "貿易戦争の勝利として水に名前をつけた。水は気にしていない。"
+        "国立公園局のモットーは「アメリカの遺産を守る」こと。新プロジェクトはそれを文字通りブロックしてます。",
+        "「悪影響がある」ってレポートに書いて、そのまま承認した。それはゴーサインじゃなくて、助けを求めるSOSですよ。",
+        "将来のガイドのセリフ：「このアーチの向こうに……昔は何かあったんです。」",
+        "モニュメントがモニュメントに悪影響を与えると書いた書類を作って承認した。その書類も今や何かのモニュメントです。",
+        "報告書の結論が本文と矛盾してて、誰も気にしない。それが特別な政府文書ってもんですよ。"
       ],
-      "newsEn": "President Trump signed an executive order directing the Interior Department to update the Geographic Names Information System to rename Lake Ontario as 'Lake America.' Canadian Prime Minister Mark Carney rejected the move, as did several U.S. governors, including Wisconsin Governor Tony Evers, who publicly mocked the directive. The order comes amid an escalating trade dispute between the U.S. and Canada.",
+      "newsEn": "A National Park Service report has endorsed the construction of a 250-foot arch proposed by President Trump in Washington, DC. The same report acknowledges that the structure would have adverse effects on the sightlines of dozens of historic landmarks in the capital. The agency that exists to protect the nation's monuments is supporting a project its own analysis says will harm them.",
       "ironyEn": [
         {
-          "contradiction": "The executive order can legally change what the U.S. federal government calls the lake. It cannot change what the lake itself is, where it sits, or what Canada calls it.",
-          "absurdity": "Half the lake is Canadian territory. So for now, 'Lake America' ends somewhere in the middle of the water, and Ontario picks back up on the other side.",
-          "outside": "From abroad, this looks like putting a new name tag on your neighbor's shared fence and declaring victory in a trade war."
+          "contradiction": "The National Park Service was created to preserve America's historic sites. Its own report says the arch will harm dozens of them. The agency's response: let's build it.",
+          "absurdity": "Tourists will soon be able to visit DC and see a great arch blocking the view of the things they came to DC to see.",
+          "outside": "Abroad, people protect landmarks by keeping stuff away from them. In DC, the plan is to build something in front of them and call it a monument to protection."
         },
         {
-          "contradiction": "The order was framed as a response to a trade dispute — as if a lake's name is a tariff.",
-          "absurdity": "Canada rejected it, several U.S. governors rejected it, and the lake issued no comment, which is honestly the most dignified response of the three.",
-          "outside": "Renaming a geographic feature you only half-own is the geopolitical equivalent of spray-painting 'MINE' on a wall you share with your landlord."
+          "contradiction": "The same document that says 'adverse effects on historical significance' also says 'we support this.' That's not a report—that's a hostage note written by the hostage.",
+          "absurdity": "The Lincoln Memorial may soon be partially obscured by a structure celebrating a different president. Lincoln famously didn't get to enjoy a second term.",
+          "outside": "Imagine France building a giant personal arch in front of the Eiffel Tower and having the Ministry of Culture sign off with 'we noted some concerns, but sure.'"
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-28/candidate-1.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-08-28/candidate-1-punchy.jpg"
+      "image": "images/2026-08-29/candidate-1.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-08-29/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Judge Blocks Trump's Mail-Vote Limits — Again — a Week Before Ballots Go Out",
-        "source": "The Guardian US",
-        "date": "2026-08-28",
-        "url": "https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms",
-        "summary": "連邦判事が、郵便投票を制限するトランプ大統領の大統領令を再び差し止めた。最初の郵便投票用紙が送付される約1週間前のことだった。"
+        "headline": "Meta Pays $17 Billion to Add Rules for Kids Its Own Platforms Were Designed to Circumvent",
+        "source": "CNBC Top News",
+        "date": "2026-08-29",
+        "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
+        "summary": "Metaが子どもの安全をめぐる訴訟で17億ドル規模の和解に合意し、18歳未満のInstagram・Facebookユーザーに対して1日2時間の利用制限や投稿へのリアクション非表示などの新機能を導入することになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 同じ裁判所に同じ大統領令を二度止められるってことは、一度目の差し止めを受けた後もそのまま実施しようとしたってことなんですよ。「赤信号でいったん止まったけどもう一回行ってみた」みたいな話。",
-        "<b>滑稽さ:</b> 郵便投票用紙が出る一週間前のタイミングで再び止まった。選挙管理の現場は「今回は使えるの？使えないの？」を一週間以内に把握しないといけない。",
-        "<b>日本・海外から見ると:</b> 日本でいえば参院選の一週間前に期日前投票の制度を突然変えようとして二度止められている状況。選挙インフラをめぐる混乱が世界基準でも異常に見える。"
+        "<b>矛盾:</b> 「子どものためにリアクション数を非表示にする」、これ、内部資料でMetaが数年前に「子どもに悪影響がある」とわかってた機能なんですよ。知っててやってたのを、17億ドル払ってやめる。",
+        "<b>滑稽さ:</b> 1日2時間の制限を設けるって言うけど、13歳の子どもがサブアカウントを作るのに要する時間、何分だと思います？だいたいCM1本分です。",
+        "<b>日本・海外から見ると:</b> 日本のガチャ課金問題と似た構図。「依存性があるとわかってた」→「規制が来た」→「対策します」の順番で、最初から設計を変えるという選択肢は最後まで出てこない。"
       ],
       "imagePrompts": [
-        "A large red 'STOP' sign planted directly in front of a mail truck loaded with ballot envelopes, with a smaller identical 'STOP' sign right behind it labeled 'Round 2.' A calendar on the wall shows one week until Election Day.",
-        "A county election official standing at a sorting machine surrounded by stacked mail ballot envelopes, staring at a phone displaying a news alert that reads 'Judge Halts Order — Again.' A wall clock shows urgency.",
-        "A federal courthouse with a revolving door. A stack of papers labeled 'Mail Voting Order' is spinning through the door and being pushed back out by a gavel each time."
+        "A giant Instagram 'like' button with a price tag reading '$17 billion' hanging from it, surrounded by lawyers in suits shaking hands, while a teenager on their phone in the background has already opened a second app",
+        "A corporate boardroom with a large screen showing internal research documents labeled 'Known Harm to Children — 2021,' a lawyer placing a giant settlement check on the table in 2026, everyone nodding as if this is the logical next step",
+        "A two-hour sand timer labeled 'Daily Limit' next to a teenager with five different phones lined up, each showing a different Meta account, all with full batteries"
       ],
       "captions": [
-        "Second time the same judge stopped the same order. At this point it's less a legal battle and more a subscription service.",
-        "One week before the ballots ship. Not one month. One week. The county clerks are fine, they're totally fine.",
-        "The order was meant to protect elections. It did protect them — from being run on any kind of schedule.",
-        "Halted again. The word 'again' is now load-bearing in American election law.",
-        "Other countries have boring election logistics. We have cliffhangers."
+        "Meta knew, kept going, got sued, and now gets credit for fixing it. That's one way to run a company.",
+        "A two-hour limit for kids. Bold move from the app that spent a decade figuring out how to make two hours feel like ten minutes.",
+        "Hiding reaction counts is the new safeguard. The kid will just refresh their follower count instead—same anxiety, different number.",
+        "$17 billion to add features their own researchers said were needed years ago. The delay cost extra.",
+        "They called the new rules 'promising.' Promising compared to what they were doing before isn't the bar I'd put on the poster."
       ],
       "captionsJa": [
-        "同じ裁判官が同じ大統領令を二度止めた。もはや法廷闘争というよりサブスクサービスですよ。",
-        "投票用紙の発送一週間前。一ヶ月前じゃないですよ。一週間。選挙管理の現場は大丈夫、きっと大丈夫。",
-        "選挙を守るための大統領令が守ったのは、選挙が予定通り進む可能性からでした。",
-        "「再び差し止め」。「再び」という言葉が今やアメリカ選挙法の根幹を支えている。",
-        "他の国の選挙事務は退屈なんですよ。こっちはサスペンスがある。"
+        "わかってた、続けた、訴えられた、直したら褒められた。それが経営というもの。",
+        "子どもに1日2時間の制限。2時間を2分に感じさせる技術を10年かけて磨いたアプリが言ってます。",
+        "リアクション数を隠す新機能。大丈夫、子どもはフォロワー数を更新し続けるので不安は無傷です。",
+        "自社の研究者が何年も前に「必要だ」と言ってた機能を、17億ドル払って導入。遅延料が高い。",
+        "専門家が「前進だ」と評価してるんですけど、比較対象が今まで何もしてなかった自分たちなので、ハードルの位置を確認したい。"
       ],
-      "newsEn": "A federal judge on Thursday blocked implementation of President Trump's executive order restricting mail-in voting for a second time, just about a week before the first postal ballots for the midterm elections were scheduled to be sent out. The directive had previously been halted by the same court. The back-and-forth legal battle has created significant uncertainty for election administrators preparing for the upcoming midterms.",
+      "newsEn": "Meta has reached a major legal settlement that requires Instagram and Facebook to impose a two-hour daily screen limit for users under 18 and prevent them from seeing reaction counts on posts. Safety experts say several of the mandated changes are meaningful. The settlement is valued at approximately $17 billion. Many of the features now legally required were previously identified by internal Meta research as necessary for child well-being.",
       "ironyEn": [
         {
-          "contradiction": "An executive order designed to protect the integrity of elections is causing the kind of last-minute administrative chaos that undermines election integrity.",
-          "absurdity": "This is the second time the same court stopped the same order. At some point 'halted again' stops being news and starts being a scheduled event.",
-          "outside": "Election administrators in other countries are watching the U.S. sort out whether mail voting is legal one week before the ballots ship."
+          "contradiction": "Meta's own internal research reportedly flagged these features as harmful to children years ago. The company's response at the time was to keep the features. The court's response now is $17 billion.",
+          "absurdity": "A two-hour daily limit sounds protective until you remember that the same company will spend the next two hours engineering ways to make those two hours more addictive than before.",
+          "outside": "Outside the US, regulators often ask companies to stop harmful practices before a settlement. Here, the sequence is: harm kids, get sued, pay, then stop."
         },
         {
-          "contradiction": "The order claimed to ensure fair elections; what it actually ensured was a frantic week for every county clerk in America.",
-          "absurdity": "The judge used the word 'again.' That's in the legal record now. 'Again.'",
-          "outside": "From outside the U.S., the phrase 'judge halts mail voting order for the second time, a week before ballots go out' reads like a sentence that was never supposed to exist."
+          "contradiction": "The platform built to maximize engagement is now legally required to minimize it. The settlement is basically a receipt for the engagement that already happened.",
+          "absurdity": "Hiding reaction counts from teenagers is the new safeguard. The teen will now just check how many followers they lost today instead.",
+          "outside": "Seventeen billion dollars is a lot to spend on features a safety expert calls 'promising.' It's also a lot to spend before adding a screen time limit that every phone already had for free."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-28/candidate-2.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-08-28/candidate-2-punchy.jpg"
+      "image": "images/2026-08-29/candidate-2.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-08-29/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Pentagon-Funded Journalists Sue the Pentagon for Firing Them",
-        "source": "The Guardian US",
-        "date": "2026-08-28",
-        "url": "https://www.theguardian.com/us-news/2026/aug/27/journalists-sue-pentagon-stars-and-stripes",
-        "summary": "政府資金で運営される軍事紙「スターズ・アンド・ストライプス」の記者3人が、USS エイブラハム・リンカーンに関する報道の後に解雇されたとして、国防総省を連邦裁判所に提訴した。"
+        "headline": "FBI Quietly Lowers Background Check Standards, Including History of Hiring Prostitutes",
+        "source": "CBS News US",
+        "date": "2026-08-29",
+        "url": "https://www.cbsnews.com/news/fbi-candidates-prostitutes-theft/",
+        "summary": "FBIが6月に採用基準の一部を静かに引き下げ、売春婦の利用歴などがあっても採用審査上の障壁とならない可能性があることが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> スターズ・アンド・ストライプスは「政府が資金を出すが、編集権は独立している」という建前で1861年から続いてきた新聞なんですよ。今回の訴訟は、その「独立」が機能しなかったときに何が起きるかを実証するケースになってしまった。",
-        "<b>滑稽さ:</b> 軍を報道するために政府に雇われた記者が、軍を報道したことで政府に解雇される。雇用主が取材対象、取材対象が雇用主。",
-        "<b>日本・海外から見ると:</b> NHKの記者が政府の不祥事を報道したせいで経営委員会に解雇されるような構図。「独立した政府メディア」という概念がどこまで成立するかという問いは、日本でも無関係ではない。"
+        "<b>矛盾:</b> FBIは他人の身辺調査をする組織。その組織が自分たちの採用基準を「こっそり」緩める。諜報機関の透明性のなさを批判してきた人たちが、諜報機関のやり方で変更された基準に審査されることになる。",
+        "<b>滑稽さ:</b> 「6月に静かに変えました」って、FBIが「こっそり」するの、得意なのはわかるんですけど、それ、自分の採用基準でやることじゃないんですよ。",
+        "<b>日本・海外から見ると:</b> 警察の採用基準を「お静かに」緩める、というニュースが出た場合、日本なら国会で追及案件。アメリカではCBSがひっそり報じて終わりになりそうな雰囲気があるのが怖い。"
       ],
       "imagePrompts": [
-        "A newspaper office with a banner reading 'Stars and Stripes — Independent Press Since 1861.' The editor's desk faces a large window with a view of the Pentagon. A firing notice sits on top of a stack of investigative reports.",
-        "Three silhouetted figures carrying press badges and notebooks, seen from behind, walking out of a government building. One holds a lawsuit filing. The building behind them has a sign reading 'Department of Defense — Press Office.'",
-        "A Venn diagram drawn on a chalkboard with three circles labeled 'Employer,' 'Subject of Reporting,' and 'Defendant in Lawsuit' — all three circles overlap completely into one."
+        "An FBI field office building with a small sign on the door reading 'Now Hiring — Standards Updated June 2026,' a line of applicants outside reading the sign with puzzled expressions, a single agent inside stamping 'APPROVED' on folders",
+        "A thick FBI background check form with most sections blacked out in redaction tape, one section visibly uncovered reading 'Previous Activity' with a large 'No Longer Applicable' stamp across it",
+        "An FBI recruiter at a job fair booth, handing out brochures titled 'You May Qualify Now,' next to a shredder actively destroying a document labeled 'Old Standards'"
       ],
       "captions": [
-        "The government hired them to cover the government, the government didn't like what they covered, the government fired them. Now they're suing the government. The circle is complete.",
-        "Stars and Stripes: editorially independent since 1861, allegedly not independent enough since this March.",
-        "Their boss was the Pentagon. Their beat was the Pentagon. Their lawsuit is against the Pentagon. Somebody had a very short commute to the wrong meeting.",
-        "The Defense Department's press outlet fired reporters for the press. This is fine. This is how press works.",
-        "1861 to now without losing editorial independence — and then a carrier group report apparently did it."
+        "The FBI runs background checks on everyone. They updated their own standards in June. You weren't supposed to notice.",
+        "They didn't announce it. They didn't explain it. That's very on-brand for the FBI, honestly—just usually it's other people's secrets.",
+        "Of all the things to quietly relax on a hiring form, that is a very specific line to quietly relax.",
+        "The agency that exists to investigate people quietly changed what it investigates about people wanting to join the agency.",
+        "If you hid something from the FBI's background check, that's disqualifying. If the FBI hides a change to background checks, that's just a slow news Friday."
       ],
       "captionsJa": [
-        "政府が雇って、政府を取材させて、政府が気に入らなくて、政府が解雇した。今度は政府を訴えている。円環が閉じた。",
-        "スターズ・アンド・ストライプス：1861年から編集独立、今年3月から独立の限界を試験中。",
-        "雇用主がペンタゴン、担当取材先がペンタゴン、訴訟相手がペンタゴン。通勤距離は短かったけど、会議室は最悪だった。",
-        "国防総省の広報紙が記者を報道を理由に解雇した。これが報道の姿。問題ない。",
-        "1861年から今日まで編集の独立を守ってきたのに、空母の記事一本でそれを試されることになった。"
+        "FBIは全員の身辺を調べる機関。6月に自分たちの採用基準を更新した。気づかなくていい話、らしい。",
+        "発表なし、説明なし。FBIらしいっちゃらしいけど、普通は他人の秘密を守るほうで使う技術ですよ。",
+        "採用フォームで「こっそり緩める」項目として、よりによってあの項目を選ぶセンス。",
+        "人を調査する組織が、自分たちを調査する基準を、こっそり変えた。",
+        "あなたがFBIの審査で何かを隠したら失格。FBIが基準変更を隠したら、ただの静かな金曜日。"
       ],
-      "newsEn": "Three journalists employed by Stars and Stripes, a U.S. government-funded news outlet serving the military, filed a federal lawsuit against the Department of Defense on Thursday, alleging they were unlawfully fired in retaliation for their reporting on the USS Abraham Lincoln. The plaintiffs argue their dismissals violated First Amendment protections for government employees. Stars and Stripes has operated as an editorially independent publication since 1861.",
+      "newsEn": "The FBI quietly lowered several standards used during background checks for prospective agents and other personnel in June. Among the changes, a history of hiring prostitutes may no longer automatically disqualify applicants. The update was made without a public announcement. The FBI has not provided detailed public explanation for the specific adjustments.",
       "ironyEn": [
         {
-          "contradiction": "Stars and Stripes exists specifically to be an independent press funded by the government. The lawsuit alleges the government fired reporters for being independent.",
-          "absurdity": "The reporters were covering the military. Their employer is the military. Their lawsuit is against the military. The Venn diagram of 'source,' 'boss,' and 'defendant' is just one circle.",
-          "outside": "State-funded news outlets claiming editorial independence is a difficult premise everywhere. The U.S. version just filed a lawsuit to test whether it's true."
+          "contradiction": "The FBI conducts background investigations on millions of Americans. The agency just quietly lowered its own background check standards without telling anyone.",
+          "absurdity": "The agency best known for knowing everyone else's secrets decided to make this particular policy change a secret.",
+          "outside": "In most countries, lowering law enforcement hiring standards would prompt a parliamentary hearing. Here it took a CBS report for people to find out it happened."
         },
         {
-          "contradiction": "A publication that has operated since 1861 under a promise of editorial freedom is now in court arguing that promise meant something.",
-          "absurdity": "The Defense Department funded the reporters, assigned them to cover the Defense Department, then — allegedly — fired them for covering the Defense Department.",
-          "outside": "For observers used to state media with no independence claims at all, 'independent government press' was already a stretch. This lawsuit is the footnote."
+          "contradiction": "An institution that can pull a decade of your financial records before breakfast quietly changed what goes on its own hiring checklist in June.",
+          "absurdity": "They didn't lower the standard for jaywalking or unpaid parking tickets. They specifically relaxed the rule about hiring prostitutes. That's a very particular edit.",
+          "outside": "If you applied to work at the FBI and tried to hide something from your background check, that'd be disqualifying. The FBI hiding a change to background checks from the public is apparently just Thursday."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-28/candidate-3.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-08-28/candidate-3-punchy.jpg"
+      "image": "images/2026-08-29/candidate-3.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-08-29/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Trump Travels to Texas to Promote Beef Price Cuts — Gets Booed by Cattle Ranchers",
+        "headline": "Tennessee Governor Proposes Renaming Nashville Airport After Dolly Parton",
         "source": "CBS News US",
-        "date": "2026-08-28",
-        "url": "https://www.cbsnews.com/video/republicans-cattle-rangers-angry-trump-beef-import-tariff-suspension/",
-        "summary": "トランプ大統領が牛肉価格引き下げを訴えてテキサスを訪問したが、その政策の柱である外国産牛肉の輸入拡大に、地元の牛肉農家や共和党員から激しい反発が起きている。"
+        "date": "2026-08-29",
+        "url": "https://www.cbsnews.com/news/dolly-parton-nashville-airport-rename-proposal/",
+        "summary": "テネシー州知事が、ナッシュビル国際空港をカントリーミュージックの象徴ドリー・パートンにちなんで改名する提案を行った。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「アメリカン・ビーフを守る」で票を集めた共和党の大統領が、牛肉を安くするために外国産牛肉の関税を下げに行く。テキサスの牛肉農家に「安い外国産で対抗してください」と言いに行くのは、なかなかの度胸なんですよ。",
-        "<b>滑稽さ:</b> 地産地消を掲げる保守系農業州のど真ん中で、外国産輸入拡大政策を発表する場所としてテキサスを選んだ。会場選びから間違ってる。",
-        "<b>日本・海外から見ると:</b> 日本では米国産牛肉の輸入拡大をめぐって長年もめてきた歴史がある。そのアメリカが今度は自国の牛肉農家に「外国産でいいじゃないか」と言っている。立場が逆転したような奇妙な既視感がある。"
+        "<b>矛盾:</b> アメリカでは政治家や軍人の名前がついた空港がほとんど。そこにドリー・パートンを持ってくるのは、実は「誰からも愛されてる人」という意味で最も民主的な選択かもしれない。矛盾を超えて正解になりかけてる案件。",
+        "<b>滑稽さ:</b> アナウンスが「ドリー・パートン国際空港へようこそ」になる日、パイロットが滑走路でついニコッとする未来が見えますね。遅延のアナウンスでも少し楽しくなる唯一の空港。",
+        "<b>日本・海外から見ると:</b> 日本だと空港名は地名が多い。アメリカは人名が多くて、政治色が強い場合はいつも論争になる。ドリー・パートン案は珍しく超党派でウケてるので、この国の政治的分断の深さを別の角度から見せてる。"
       ],
       "imagePrompts": [
-        "A politician at a podium in front of a crowd of cattle ranchers in cowboy hats, holding a sign reading 'Lower Beef Prices!' The ranchers in the audience hold signs saying 'Buy American Beef.' A large banner behind the podium reads 'Texas.'",
-        "A grocery store beef aisle with a 'Now Imported!' sticker plastered over packaging labeled 'American Rancher Pride.' A cowboy stands in the aisle looking at the sticker with visible frustration.",
-        "A map of the U.S. with Texas highlighted, and an arrow pointing to it labeled 'Location chosen to announce foreign beef import expansion.' A cartoon cow in the corner holds its head in its hooves."
+        "A large airport terminal with a glittering marquee sign reading 'Dolly Parton International Airport,' passengers smiling and taking selfies in front of it, a departure board showing flights with gate names like 'Gate Jolene' and 'Gate 9 to 5'",
+        "A formal ribbon-cutting ceremony at an airport, silhouettes of a row of officials facing away from camera toward the newly unveiled sign reading 'Dolly Parton International,' confetti falling, a crowd of passengers cheering in the background",
+        "A pilot's silhouette visible through a cockpit window, grinning while making an announcement, a runway sign outside reading 'Dolly Parton Intl — Welcome Home'"
       ],
       "captions": [
-        "He flew to Texas to sell a foreign beef import plan to cattle ranchers. The cattle ranchers were not buying it. Neither, apparently, is he buying American.",
-        "The party of American beef went to the beef capital of America to explain why foreign beef is fine now. The hats in the crowd were not convinced.",
-        "Choosing Texas to announce a beef import expansion is like going to Detroit to announce you're switching the company fleet to Toyotas.",
-        "Republicans are mad, ranchers are mad, and the foreign beef hasn't even landed yet.",
-        "Lowering grocery bills by importing beef — an idea so straightforward that it made Texas angry."
+        "Most airports are named after presidents or generals. Tennessee said: what if we tried someone people actually like?",
+        "Her most famous song is about begging a woman not to take her man. It's the perfect vibe for an airport farewell.",
+        "Gate Jolene, boarding now. Please have your boarding pass and your heart ready.",
+        "In a decade of political fights over every name on every building, this is the proposal nobody's mad about. That's the Dolly Parton effect.",
+        "She spent her career singing about leaving Tennessee. They're putting her name on the door you walk out of. It tracks."
       ],
       "captionsJa": [
-        "テキサスに飛んで外国産牛肉の輸入拡大策を牛肉農家に売りに行った。農家は買わなかった。そして彼もアメリカ産を買わないことになった。",
-        "アメリカン・ビーフの党が、アメリカ最大の牛肉州に来て「外国産でもいいじゃないか」と説明した。カウボーイハットの群衆は納得していなかった。",
-        "牛肉輸入拡大をテキサスで発表するのは、デトロイトに行って「社用車全部トヨタにします」と言うようなもんですよ。",
-        "共和党員も怒ってる、牛肉農家も怒ってる、外国産牛肉はまだ着いてもいない。",
-        "外国産を輸入することで食料品代を下げる。シンプルな話がテキサスを怒らせた。"
+        "ほとんどの空港は大統領か将軍の名前。テネシーは「実際に好かれてる人」にしようと言い出した。",
+        "彼女の一番有名な曲は「私の男を取らないで」というお願い。空港のお見送りに最高すぎる世界観。",
+        "ゲートJolene、搭乗開始。搭乗券と心の準備をしてお待ちください。",
+        "あらゆる建物の名前で政治ゲンカが続く時代に、これだけ誰も怒ってない提案。それがドリー効果。",
+        "テネシーを去る歌を歌い続けた人の名前が、テネシーを出る出口についた。筋は通ってる。"
       ],
-      "newsEn": "President Trump visited Texas on Thursday to promote his plan to lower beef prices, a key part of which involves suspending tariffs on 300,000 metric tons of foreign beef imports for 90 days. The move drew criticism from Republican lawmakers and cattle ranchers, who argue that importing more foreign beef undercuts American producers. Trump signed the tariff suspension earlier in the week after backlash to the proposal.",
+      "newsEn": "Tennessee's governor has put forward a proposal to rename the international airport in Nashville after country music icon Dolly Parton. The airport currently serves as one of the fastest-growing in the United States. No vote has been announced yet, and the proposal's timeline remains unclear.",
       "ironyEn": [
         {
-          "contradiction": "Trump built significant political support in cattle country on promises to protect American agricultural producers. The centerpiece of his beef price plan is letting more foreign beef in.",
-          "absurdity": "He announced this in Texas. To cattle ranchers. Who then got angry. The venue selection is doing a lot of work here.",
-          "outside": "Japan spent decades being pressured by the U.S. to accept American beef imports. Now the U.S. is running the same argument on its own ranchers."
+          "contradiction": "Most US airports are named after politicians and generals who spent their careers telling people where to go. Dolly Parton spent hers making people glad they arrived.",
+          "absurdity": "A woman famous for songs about leaving Tennessee would have her name on the building where people leave Tennessee.",
+          "outside": "Outside the US, airports are usually named after geography. Americans name airports after people—and a country singer might be the least controversial choice they've made in years."
         },
         {
-          "contradiction": "The plan to lower grocery costs for American consumers directly competes with the income of American beef producers — both groups the same party claims to represent.",
-          "absurdity": "Republican cattle ranchers are now publicly mad at a Republican president in Texas for a policy that involves cheaper beef. The party of American beef went to Texas to argue against American beef.",
-          "outside": "From abroad, watching the U.S. debate whether to import beef while Texas cattle ranches exist is a specific kind of confusion."
+          "contradiction": "Nashville is a city where political fights are constant. The one proposal getting bipartisan smiles is naming an airport after a woman known for kindness, wigs, and a theme park.",
+          "absurdity": "The gate announcements will never quite hit the same after this: 'Flight to Atlanta now boarding at Gate Jolene.'",
+          "outside": "In a country where naming a post office after someone triggers a Senate hearing, naming an entire international airport after a living country singer is either the most American thing ever or a sign that everyone just needed a win."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-28/candidate-4.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-08-28/candidate-4-punchy.jpg"
+      "image": "images/2026-08-29/candidate-4.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-08-29/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "FDA Approves Updated Covid Vaccine — Insurance Coverage Still a Mystery",
-        "source": "The Guardian US",
-        "date": "2026-08-28",
-        "url": "https://www.theguardian.com/us-news/2026/aug/27/fda-approves-updated-covid-19-vaccines",
-        "summary": "米食品医薬品局（FDA）が新型コロナウイルスの主流変異株XFGに対応した更新版ワクチンを承認し、メーカーは出荷を開始できるようになった。ただし保険適用については依然として混乱が続いている。"
+        "headline": "Google Buries Search Results Even Deeper Under AI Summaries Nobody Asked For",
+        "source": "The Verge",
+        "date": "2026-08-29",
+        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
+        "summary": "Googleが一部の検索でAIによる要約を自動展開するようになり、従来のリンク一覧がページのさらに下に追いやられることが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> ワクチンの科学的承認は素早くできる。でも「誰がお金を払うか」という部分は承認後も「混乱が続いている」と記事に書かれている。薬は承認されたが、請求書の宛先はまだ決まっていない。",
-        "<b>滑稽さ:</b> 感染症対策のワクチンが病院に届く速度と、保険適用の判断が追いつく速度が全然違う。「打ちに行ったら自己負担かもしれない」という状態で承認だけ先行している。",
-        "<b>日本・海外から見ると:</b> 日本や欧州では公費負担・公的接種の枠組みが先に決まって接種が始まるのが一般的。アメリカでは承認が先で、保険の話は後。誰が払うかわからないまま打ちに来てくださいという構造は、海外からは理解しにくい。"
+        "<b>矛盾:</b> Googleは「世界中の情報を整理して届ける」会社として大きくなった。今やってるのは「情報に行く前にAIが代わりに読んであげる」こと。図書館が「本は奥にあります、入口でスタッフが内容を教えます」と言い出した感じ。",
+        "<b>滑稽さ:</b> 検索結果の下にあるリンクが「ウェブサイト」から「過去の遺物」になる日が近い。将来の子どもたちに「昔はリンクをクリックして読んでたんだよ」と話す親の顔が見えますね。",
+        "<b>日本・海外から見ると:</b> 日本でも検索エンジン離れが進んでいるが、Googleがコンテンツを作ったサイトへのトラフィックを絞りながら、そのコンテンツを学習したAIで答えを出す構図は、元の執筆者が報われない仕組みになっている。"
       ],
       "imagePrompts": [
-        "A pharmacy counter with a cheerful 'Updated Covid Vaccine Available Today!' sign. Next to it, a second sign reads 'Coverage: Please Call Your Insurer.' A long phone cord dangles from the counter.",
-        "A vaccine vial labeled 'XFG Variant — FDA Approved' sitting on a pedestal under a spotlight. Next to it, in darkness, sits a thick document labeled 'Insurance Coverage Status: TBD.'",
-        "A doctor holding a vaccine syringe in one hand and a giant question mark in the other, standing in front of a bulletin board covered in insurance plan documents, all with different highlighted sections."
+        "A Google search results page where the top three-quarters of the screen is filled with a large AI summary box labeled 'AI Overview,' and at the very bottom a tiny section labeled 'Actual Websites' with arrows pointing down, users with magnifying glasses searching for the links",
+        "A librarian standing at the entrance of a massive library, blocking the door, holding a printout that reads 'I already read everything inside—what did you want to know?' while stacks of books are visible but unreachable behind them",
+        "A 'then and now' comparison image: on the left, a clean Google results page with blue links in 2004; on the right, the same page in 2026 where a giant AI text block occupies 90% of the screen and a single tiny link is visible at the bottom labeled 'Source (if you insist)'"
       ],
       "captions": [
-        "FDA approved the vaccine. Your insurance? Still thinking about it. Get comfortable.",
-        "The science moved fast. The billing department is taking the scenic route.",
-        "Shots are shipping nationwide. Whether you pay $0 or $200 depends on details your insurer hasn't quite worked out yet. Good luck out there.",
-        "Approved, available, and covered — well, two out of three for sure.",
-        "The fastest part of American healthcare is the part where they approve the thing. After that, it slows down a little."
+        "Google used to take you to the web. Now it takes a look at the web and gets back to you.",
+        "The links are still there. You just have to scroll past the AI explaining the links to find the links.",
+        "Publishers spent years gaming Google's algorithm to get traffic. Google spent one update making sure none of it matters.",
+        "It's a search engine that increasingly doesn't want you to search.",
+        "Coming soon: a button that says 'Skip AI' — available only after you scroll past the AI."
       ],
       "captionsJa": [
-        "FDAはワクチンを承認した。あなたの保険は？まだ考え中です。少しお待ちください。",
-        "科学の動きは速かった。請求書の部署はのんびりルートを選んだ。",
-        "全国に出荷されます。あなたが0円払うか2万円払うかは、保険会社がまだ詰めてない細かい話次第です。頑張って。",
-        "承認済み、入手可能、保険適用あり――まあ、2つは確実です。",
-        "アメリカの医療制度で一番速いのは承認するところ。そのあとはちょっとペースが落ちる。"
+        "Googleはかつてウェブに連れて行ってくれた。今はウェブを一通り見て、代わりに教えてくれる。",
+        "リンクはまだある。AIがそのリンクの説明をしてるの、スクロールして通り過ぎれば辿り着ける。",
+        "サイト運営者たちが何年もかけてSEO対策した。Googleはアップデート1回でその努力を無意味にした。",
+        "「検索したくない人のための検索エンジン」に進化中。",
+        "近日公開予定：AIをスキップするボタン。ただし、AIを一通りスクロールした後でのみ表示。"
       ],
-      "newsEn": "The FDA on Thursday approved updated Covid-19 vaccines targeting the dominant XFG variant, clearing the way for manufacturers to ship doses to pharmacies and doctors' offices nationwide. While the regulatory approval process moved quickly, significant confusion remains about whether and how insurance plans will cover the updated shots. The FDA approval does not automatically guarantee coverage under all insurance plans.",
+      "newsEn": "Google has begun automatically expanding its AI-generated search summaries at the top of results pages for certain queries, according to Search Engine Roundtable. The change pushes the standard list of search links significantly further down the page, with users sometimes needing to scroll past the AI summary to reach traditional results. The move continues a broader shift toward AI-first search presentation that has drawn criticism from publishers and SEO professionals.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. regulatory system can approve a new vaccine in a matter of weeks. It apparently cannot tell you in advance whether your insurance will pay for it.",
-          "absurdity": "The shot is available. The science is settled. Whether you'll get a bill afterward is a surprise to be revealed at checkout.",
-          "outside": "In most high-income countries, the coverage question is answered before the doses ship. In the U.S., it's a follow-up item."
+          "contradiction": "Google built its entire empire on sending people to other websites. It's now building a wall between users and those websites and calling it a helpful summary.",
+          "absurdity": "The links that were always the point of searching are now what you scroll past to get to the AI that summarized the links.",
+          "outside": "News publishers spent years optimizing their sites to show up on Google. Google is now using that content to generate answers that ensure users never visit those sites."
         },
         {
-          "contradiction": "A public health measure depends on broad uptake; broad uptake depends on cost clarity; cost clarity is listed in this article as 'confusion.'",
-          "absurdity": "Manufacturers can ship doses nationally. They just can't tell you what it'll cost you specifically, in your zip code, with your insurer, on your plan.",
-          "outside": "The FDA approval process is the fast part of American healthcare. That sentence should feel weirder than it does."
+          "contradiction": "A company worth over a trillion dollars because it found information for people is now hiding information behind a layer that finds the information so you don't have to.",
+          "absurdity": "The 'search result' is now the thing you find after you get past the search result.",
+          "outside": "Imagine a library that, when you ask for a book, just reads it to you at the door and sends you home. Same energy."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-28/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-08-28/candidate-5-punchy.jpg"
+      "image": "images/2026-08-29/candidate-5.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-08-29/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く一本の糸：「宣言は速い、現実は動かない」——名前を変えても湖はそこにあり、令を出しても票は届き、承認しても請求書の宛先は決まっていない。アメリカのシステムが「やってる感」と「実際に動くこと」の間でバラバラになっている一日。",
-    "titleEn": "Lake America, Blocked Again, and Beef Booed in Texas",
-    "subtitleEn": "Five signs America declared victory before checking if anything moved.",
-    "titleJa": "オンタリオ湖を「レイク・アメリカ」に改名して、湖は一ミリも動かなかった話",
+    "thread": "「守るべき機関が壊す」という構図が今日の5本を貫く一本の糸。国立公園局が眺望を潰し、FBIが自分の基準を静かに緩め、Googleが検索の先にある情報を隠し、Metaが知ってたのに17億ドル払うまでやめなかった——制度の建前と実態のズレを笑いながら持ち帰れる1日。",
+    "titleEn": "Protecting Things by Ruining Them",
+    "subtitleEn": "Five stories about institutions doing exactly what they're supposed to prevent.",
+    "titleJa": "「守る機関」が一番よく壊してる話を5本まとめました",
     "titleAltJa": [
-      "「5本のニュース」を読んだら、今日の飲み会でアメリカの話を一言でまとめられるようになる",
-      "コロナワクチン承認されました。誰が払うかは未定です。"
+      "国立公園局が景観を潰し、Metaが17億ドル払い、FBIが『こっそり』やった日",
+      "『これ笑うところですよ』って言わないと伝わらないニュースが今日5本あります"
     ],
-    "leadJa": "今朝、アメリカのニュースを開いたら、湖の名前が変わっていた。大統領令で。\n\n湖は動いていない。カナダも動いていない。私の頭だけが少しおかしくなってきた。",
-    "introEn": "Five stories today, one theme: America keeps announcing the win before the game is over.\n\nA lake got renamed by executive order. The lake didn't notice. A mail-vote ban got blocked by the same judge, for the second time, one week before ballots ship. A vaccine got approved, fast — the billing part is still loading. And somewhere in Texas, cattle ranchers booed a man who flew in specifically to talk about beef.\n\nHere's your forecast: if you've been wondering why your perfectly reasonable plan keeps hitting unexpected resistance — courts, neighbors, your own body — today's news suggests the problem isn't you. The problem is that reality has its own opinions. You're actually in excellent company. Walk into today knowing that.",
-    "introJa": "今日の5本、一個ずつ読んでたらある法則に気づいてしまったんですよ。\n\nアメリカ、「宣言した」と「動いた」を毎回混同している。\n\n湖の名前を変えた。でも湖は動いていない。投票制限令を出した。同じ裁判官に二度止められた。ワクチンを承認した。保険の話はまだ「検討中」。テキサスに乗り込んで牛肉の輸入拡大を発表した。地元の農家にブーイングされた。\n\n5本とも、「やった」と「実際に起きた」の間に崖がある。\n\nで、今日の占い。最近、ちゃんと動いているのに手応えがない——そういう感覚ありませんか。世界最強のはずの大統領令でも、湖の位置は変えられないんですよ。だからまあ、あなたの計画が進まないのも、べつにあなたのせいじゃないと思う。今日の5本、そのことを知りながら読んでみてください。",
-    "quipEn": "Five executive orders, two court blocks, one booing crowd, and one lake that still doesn't care. Turns out signing something is the easy part.",
-    "quipJa": "大統領令でできること：地図に名前を書く。できないこと：湖を動かす、裁判官を黙らせる、テキサスの農家を納得させる。三連敗の速報でした。",
+    "leadJa": "守るはずの組織が壊す。知ってたのにやめない。こっそり変えて誰も気づかないと思ってる。\n\n今日のアメリカ、そういう日でした。",
+    "introEn": "Some days the news has a theme. Today's theme is: the people in charge of protecting things are doing a great job destroying them.\n\nThe National Park Service endorsed a project its own report says will damage historic views. Meta paid $17 billion to fix things its own researchers said needed fixing years ago. The FBI quietly updated its hiring standards. Quietly. You'll see what I mean.\n\nAlso: Nashville might get the only airport name that could make a delayed flight feel okay. And Google is making sure you never have to click a link again—whether you wanted that or not.\n\nHere's the forecast: if today feels like the system isn't working the way it's supposed to, you're not wrong. That's not a personal failure. That's just Tuesday. You're fine.",
+    "introJa": "今日のアメリカのニュース、5本読んで気づいたことがあります。\n\n「守る」って言いながら壊してる人が多い。\n\n国立公園局は「歴史的建造物を守ります」という機関なんですけど、今日の報告書では「眺望に悪影響があります」と自分で書いて、そのまま「でも支持します」と続けていました。そういう一日です。\n\nMetaは17億ドル払って子どもの安全対策をします。内部資料では数年前から「これは問題だ」とわかってたやつです。FBIは採用基準を6月に「静かに」緩めました。FBIが「こっそり」やるのは得意なんですけど、自分の採用基準でやる話じゃないですよ。\n\nあとドリー・パートン空港の話もあります。これだけ普通にいいニュースです。\n\n今日の占い。「なんか制度がおかしくないか」と感じているあなた、それはあなたがおかしいんじゃなくて、制度がおかしいんです。仕事がうまくいかないのもたぶんそっちのせい。今日は堂々としていてください。",
+    "quipEn": "Today's lesson: the institution most likely to ignore the warning in its own report is the one whose entire job is the warning.",
+    "quipJa": "自分で「悪影響あり」と書いた報告書に判子を押す。それができる組織だけが、今日のアメリカで生き残っています。",
     "notesEn": [
-      "Trump signed an executive order renaming Lake Ontario 'Lake America.' Canada said no. The lake said nothing. The lake is still there, half of it in Canada, cold, completely unbothered. Bold strategy.",
-      "A federal judge blocked Trump's mail-vote executive order for the second time. Same judge, same order, one week before ballots are scheduled to ship. At some point this stops being a legal fight and starts being a recurring calendar event.",
-      "Three journalists at Stars and Stripes — a U.S. government-funded paper — are suing the Pentagon for firing them over their reporting on the Pentagon. Their employer was also their beat. That's one way to keep commuting costs down.",
-      "Trump flew to Texas to announce a plan to lower beef prices by importing more foreign beef. The Texas cattle ranchers booed him. The man chose Texas specifically for this announcement. The hats in the crowd were not moved.",
-      "The FDA approved an updated Covid vaccine targeting the XFG variant. Doses are shipping to pharmacies nationwide. Whether your insurance covers it? Still being worked out. Great news — check back later about the bill.",
-      "Today's throughline in American news: declaration and reality moving at completely different speeds. The order is signed. The judge blocks it. The vaccine ships. The billing system shrugs. The lake stays where it is. Normal country.",
-      "The Pentagon funds a newspaper. The newspaper covers the Pentagon. The Pentagon didn't like the coverage and fired the journalists. The journalists are now suing the Pentagon. The Pentagon is about to cover this story about itself. Stay tuned.",
-      "Five stories, one pattern: the announcement is easy, the follow-through is where everything falls apart. Executive orders, vaccine rollouts, beef summits in Texas — declaring the win is the fast part. Everything after that is apparently optional."
+      "The National Park Service exists to protect America's historic landmarks. Their own report says the proposed Trump arch would damage views of dozens of them. They support it anyway. I had to read that sentence three times.",
+      "Meta is paying $17 billion to add a two-hour screen limit for kids on Instagram. Internal researchers flagged the need for this years ago. The lawsuit just made it cheaper to fix than to ignore. Barely.",
+      "The FBI updated its background check standards in June. Quietly. No press release, no explanation. The agency that runs background checks on everyone updated their own standards and didn't tell anyone. That's not a policy change. That's a plot point.",
+      "Nashville's governor wants to rename the international airport after Dolly Parton. It's a genuinely good idea. In a week full of institutions failing at their basic jobs, Tennessee looked around and said: what if we named something after someone people actually like?",
+      "Google is now auto-expanding its AI summaries so the actual search links get pushed even further down the page. The company that built its entire business on 'here are links to the web' is now in the business of 'trust us, we read it for you.' Publishers are not thrilled. I get it.",
+      "The through-line today: five stories about organizations doing the opposite of their stated purpose. The park service undermining landmarks. The background-check agency changing its own standards in secret. The platform that connected the world charging $17 billion to admit it did it badly.",
+      "Dolly Parton has not commented on the airport proposal. She doesn't need to. The fact that it's the least controversial thing in American politics right now tells you everything about where American politics is right now.",
+      "Google buries links under AI. Meta buries safety under features. The FBI buries its standards update under silence. The NPS buries the view of Lincoln Memorial under an arch. Today in: things getting buried."
     ],
     "xJa": [
-      "トランプ大統領がオンタリオ湖を「レイク・アメリカ」に改名する大統領令に署名した。カナダは「拒否」と一言。湖はそこにあって、今日も冷たく静かです。",
-      "郵便投票を制限するトランプの大統領令、同じ連邦判事に2度目の差し止め。郵便投票用紙の発送まで残り1週間。もはやこの裁判官、月額サブスクか何かだよ。",
-      "米軍系紙「スターズ・アンド・ストライプス」の記者3人が、国防総省に解雇されたとして国防総省を提訴した。雇用主が取材対象で、取材対象が雇用主。円環が閉じた。",
-      "トランプ大統領が外国産牛肉の輸入拡大を訴えにテキサスへ。地元の牧場主たちにブーイングされた。テキサスで外国産牛肉を売りに行くって、どこよりも外した会場選び。",
-      "FDAが新型コロナ更新ワクチンを承認。全国の薬局に出荷開始。保険が適用されるかどうかは「まだ混乱中」とのこと。打ちに行ったら自己負担かもしれない。承認だけ先に来た。",
-      "今日のアメリカニュース5本、全部「やった」と「実際に起きた」の間に崖があった。令を出しても湖は動かないし、裁判官は止めるし、テキサスの農家はブーする。",
-      "「コロナワクチン承認されました」「保険適用は未定です」「ご自身で確認してください」——この流れ、日本にいると何度読んでも頭が追いつかない。",
-      "スターズ・アンド・ストライプスは1861年から編集独立を掲げてきた軍事紙。今年、記者が軍を報道したら解雇された。163年もったのに、今年だったのか。"
+      "国立公園局「このアーチ、歴史的建造物の眺望に悪影響があります」→「支持します」。自分で赤ペン入れた答案に◯つける組織、今日のMVPです。",
+      "Metaが17億ドル払って「子どもに悪影響な機能をやめます」と発表。内部資料では数年前に悪影響だと把握していました。知ってたんかい。",
+      "FBIが6月に採用基準を「静かに」引き下げていたことが判明。FBIが「こっそり」やるのは得意なんですけど、それ、自分の採用基準でやるやつじゃないですよ。",
+      "テネシー州知事がナッシュビル空港をドリー・パートンにちなんで改名する提案。遅延アナウンスが少しだけ楽しくなる唯一の空港になるかもしれない。",
+      "Googleが検索結果の上にAI要約を自動展開、リンクはさらに下へ。「世界の情報を届ける」会社が「情報に行く前に俺が読んであげる」会社になりました。",
+      "今日のアメリカ：守る機関が壊し、知ってた機関が払い、調査する機関がこっそり変えた。唯一無傷なのはドリー・パートンで、もうそれだけでいい。",
+      "Googleの検索結果の下にあるリンク、将来の子どもたちに「昔はこれをクリックして読んでたんだよ」と話す日が来そうです。「なんで？」って聞かれても答えに困りますね。",
+      "「守るべき機関が一番よく壊している」という法則、今日だけで5件ありました。こんなのを毎朝読んでいる私も私ですが。"
     ],
-    "fullEn": "# Lake America, Blocked Again, and Beef Booed in Texas\n\n## Today's Forecast\n\nFive stories today, one theme: America keeps announcing the win before the game is over.\n\nA lake got renamed by executive order. The lake didn't notice. A mail-vote ban got blocked by the same judge, for the second time, one week before ballots ship. A vaccine got approved, fast — the billing part is still loading. And somewhere in Texas, cattle ranchers booed a man who flew in specifically to talk about beef.\n\nHere's your forecast: if you've been wondering why your perfectly reasonable plan keeps hitting unexpected resistance — courts, neighbors, your own body — today's news suggests the problem isn't you. The problem is that reality has its own opinions. You're actually in excellent company. Walk into today knowing that.\n\n---\n\n## 1. Trump Renames Lake Ontario 'Lake America,' Canada Unmoved\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america)*\n\nPresident Trump signed an executive order directing the Interior Department to update the Geographic Names Information System to rename Lake Ontario as 'Lake America.' Canadian Prime Minister Mark Carney rejected the move, as did several U.S. governors, including Wisconsin Governor Tony Evers, who publicly mocked the directive. The order comes amid an escalating trade dispute between the U.S. and Canada.\n\n**Why It's Funny**\n\n- **Contradiction:** The executive order can legally change what the U.S. federal government calls the lake. It cannot change what the lake itself is, where it sits, or what Canada calls it.\n- **Absurdity:** Half the lake is Canadian territory. So for now, 'Lake America' ends somewhere in the middle of the water, and Ontario picks back up on the other side.\n- **View from Tokyo:** From abroad, this looks like putting a new name tag on your neighbor's shared fence and declaring victory in a trade war.\n\n**Say It Out Loud**\n\n> Bold move — renaming a lake you own 50% of. That's like putting 'Casa de Me' on your duplex and hoping your upstairs neighbor plays along.\n\n---\n\n## 2. Judge Blocks Trump's Mail-Vote Limits — Again — a Week Before Ballots Go Out\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms)*\n\nA federal judge on Thursday blocked implementation of President Trump's executive order restricting mail-in voting for a second time, just about a week before the first postal ballots for the midterm elections were scheduled to be sent out. The directive had previously been halted by the same court. The back-and-forth legal battle has created significant uncertainty for election administrators preparing for the upcoming midterms.\n\n**Why It's Funny**\n\n- **Contradiction:** An executive order designed to protect the integrity of elections is causing the kind of last-minute administrative chaos that undermines election integrity.\n- **Absurdity:** This is the second time the same court stopped the same order. At some point 'halted again' stops being news and starts being a scheduled event.\n- **View from Tokyo:** Election administrators in other countries are watching the U.S. sort out whether mail voting is legal one week before the ballots ship.\n\n**Say It Out Loud**\n\n> Second time the same judge stopped the same order. At this point it's less a legal battle and more a subscription service.\n\n---\n\n## 3. Pentagon-Funded Journalists Sue the Pentagon for Firing Them\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/27/journalists-sue-pentagon-stars-and-stripes)*\n\nThree journalists employed by Stars and Stripes, a U.S. government-funded news outlet serving the military, filed a federal lawsuit against the Department of Defense on Thursday, alleging they were unlawfully fired in retaliation for their reporting on the USS Abraham Lincoln. The plaintiffs argue their dismissals violated First Amendment protections for government employees. Stars and Stripes has operated as an editorially independent publication since 1861.\n\n**Why It's Funny**\n\n- **Contradiction:** Stars and Stripes exists specifically to be an independent press funded by the government. The lawsuit alleges the government fired reporters for being independent.\n- **Absurdity:** The reporters were covering the military. Their employer is the military. Their lawsuit is against the military. The Venn diagram of 'source,' 'boss,' and 'defendant' is just one circle.\n- **View from Tokyo:** State-funded news outlets claiming editorial independence is a difficult premise everywhere. The U.S. version just filed a lawsuit to test whether it's true.\n\n**Say It Out Loud**\n\n> The government hired them to cover the government, the government didn't like what they covered, the government fired them. Now they're suing the government. The circle is complete.\n\n---\n\n## 4. Trump Travels to Texas to Promote Beef Price Cuts — Gets Booed by Cattle Ranchers\n\n*CBS News US — [source](https://www.cbsnews.com/video/republicans-cattle-rangers-angry-trump-beef-import-tariff-suspension/)*\n\nPresident Trump visited Texas on Thursday to promote his plan to lower beef prices, a key part of which involves suspending tariffs on 300,000 metric tons of foreign beef imports for 90 days. The move drew criticism from Republican lawmakers and cattle ranchers, who argue that importing more foreign beef undercuts American producers. Trump signed the tariff suspension earlier in the week after backlash to the proposal.\n\n**Why It's Funny**\n\n- **Contradiction:** Trump built significant political support in cattle country on promises to protect American agricultural producers. The centerpiece of his beef price plan is letting more foreign beef in.\n- **Absurdity:** He announced this in Texas. To cattle ranchers. Who then got angry. The venue selection is doing a lot of work here.\n- **View from Tokyo:** Japan spent decades being pressured by the U.S. to accept American beef imports. Now the U.S. is running the same argument on its own ranchers.\n\n**Say It Out Loud**\n\n> He flew to Texas to sell a foreign beef import plan to cattle ranchers. The cattle ranchers were not buying it. Neither, apparently, is he buying American.\n\n---\n\n## 5. FDA Approves Updated Covid Vaccine — Insurance Coverage Still a Mystery\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/27/fda-approves-updated-covid-19-vaccines)*\n\nThe FDA on Thursday approved updated Covid-19 vaccines targeting the dominant XFG variant, clearing the way for manufacturers to ship doses to pharmacies and doctors' offices nationwide. While the regulatory approval process moved quickly, significant confusion remains about whether and how insurance plans will cover the updated shots. The FDA approval does not automatically guarantee coverage under all insurance plans.\n\n**Why It's Funny**\n\n- **Contradiction:** The U.S. regulatory system can approve a new vaccine in a matter of weeks. It apparently cannot tell you in advance whether your insurance will pay for it.\n- **Absurdity:** The shot is available. The science is settled. Whether you'll get a bill afterward is a surprise to be revealed at checkout.\n- **View from Tokyo:** In most high-income countries, the coverage question is answered before the doses ship. In the U.S., it's a follow-up item.\n\n**Say It Out Loud**\n\n> FDA approved the vaccine. Your insurance? Still thinking about it. Get comfortable.\n\n---\n\n## Today's Punchline\n\n> Five executive orders, two court blocks, one booing crowd, and one lake that still doesn't care. Turns out signing something is the easy part.\n",
-    "fullJa": "# オンタリオ湖を「レイク・アメリカ」に改名して、湖は一ミリも動かなかった話\n\n## 今日を占うよ〜\n\n今日の5本、一個ずつ読んでたらある法則に気づいてしまったんですよ。\n\nアメリカ、「宣言した」と「動いた」を毎回混同している。\n\n湖の名前を変えた。でも湖は動いていない。投票制限令を出した。同じ裁判官に二度止められた。ワクチンを承認した。保険の話はまだ「検討中」。テキサスに乗り込んで牛肉の輸入拡大を発表した。地元の農家にブーイングされた。\n\n5本とも、「やった」と「実際に起きた」の間に崖がある。\n\nで、今日の占い。最近、ちゃんと動いているのに手応えがない——そういう感覚ありませんか。世界最強のはずの大統領令でも、湖の位置は変えられないんですよ。だからまあ、あなたの計画が進まないのも、べつにあなたのせいじゃないと思う。今日の5本、そのことを知りながら読んでみてください。\n\n---\n\n## 1. Trump Renames Lake Ontario 'Lake America,' Canada Unmoved\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/27/trump-renames-lake-ontario-america)）*\n\nトランプ大統領が大統領令に署名し、カナダとの国境にあるオンタリオ湖を「レイク・アメリカ」に改名するよう連邦政府に指示した。カナダ首相や複数の米国州知事はこれを拒否している。\n\n**どこが笑える？**\n\n- 矛盾: 大統領令でアメリカ国内の地名台帳を書き換えることはできる。でも湖の半分はカナダ領なんですよ。地図の左半分だけ「レイク・アメリカ」と書いて、右半分は「オンタリオ湖」のままにするの？\n- 滑稽さ: 水に名前をつけることで貿易戦争に勝てると思ってる、そのゆるぎない確信がすごい。湖は一ミリも動いてないし、カナダは一ドルも払ってない。\n- 日本・海外から見ると: 日本でいえば「琵琶湖の滋賀側を今日から『大阪湖』にします」と大阪府が宣言するようなもの。国際社会から見ると、地名変更が外交の切り札になる世界線にいる。\n\n**このニュースをジョークにするなら...**\n\n> 湖の所有権が50%しかないのにリネームするのは度胸がある。共同住宅の玄関に「俺の家」って表札つけて、上の階の住人が従うと思ってるようなもんですよ。\n\n---\n\n## 2. Judge Blocks Trump's Mail-Vote Limits — Again — a Week Before Ballots Go Out\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/28/federal-judge-halts-trump-executive-order-mail-voting-midterms)）*\n\n連邦判事が、郵便投票を制限するトランプ大統領の大統領令を再び差し止めた。最初の郵便投票用紙が送付される約1週間前のことだった。\n\n**どこが笑える？**\n\n- 矛盾: 同じ裁判所に同じ大統領令を二度止められるってことは、一度目の差し止めを受けた後もそのまま実施しようとしたってことなんですよ。「赤信号でいったん止まったけどもう一回行ってみた」みたいな話。\n- 滑稽さ: 郵便投票用紙が出る一週間前のタイミングで再び止まった。選挙管理の現場は「今回は使えるの？使えないの？」を一週間以内に把握しないといけない。\n- 日本・海外から見ると: 日本でいえば参院選の一週間前に期日前投票の制度を突然変えようとして二度止められている状況。選挙インフラをめぐる混乱が世界基準でも異常に見える。\n\n**このニュースをジョークにするなら...**\n\n> 同じ裁判官が同じ大統領令を二度止めた。もはや法廷闘争というよりサブスクサービスですよ。\n\n---\n\n## 3. Pentagon-Funded Journalists Sue the Pentagon for Firing Them\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/27/journalists-sue-pentagon-stars-and-stripes)）*\n\n政府資金で運営される軍事紙「スターズ・アンド・ストライプス」の記者3人が、USS エイブラハム・リンカーンに関する報道の後に解雇されたとして、国防総省を連邦裁判所に提訴した。\n\n**どこが笑える？**\n\n- 矛盾: スターズ・アンド・ストライプスは「政府が資金を出すが、編集権は独立している」という建前で1861年から続いてきた新聞なんですよ。今回の訴訟は、その「独立」が機能しなかったときに何が起きるかを実証するケースになってしまった。\n- 滑稽さ: 軍を報道するために政府に雇われた記者が、軍を報道したことで政府に解雇される。雇用主が取材対象、取材対象が雇用主。\n- 日本・海外から見ると: NHKの記者が政府の不祥事を報道したせいで経営委員会に解雇されるような構図。「独立した政府メディア」という概念がどこまで成立するかという問いは、日本でも無関係ではない。\n\n**このニュースをジョークにするなら...**\n\n> 政府が雇って、政府を取材させて、政府が気に入らなくて、政府が解雇した。今度は政府を訴えている。円環が閉じた。\n\n---\n\n## 4. Trump Travels to Texas to Promote Beef Price Cuts — Gets Booed by Cattle Ranchers\n\n*CBS News US（[記事](https://www.cbsnews.com/video/republicans-cattle-rangers-angry-trump-beef-import-tariff-suspension/)）*\n\nトランプ大統領が牛肉価格引き下げを訴えてテキサスを訪問したが、その政策の柱である外国産牛肉の輸入拡大に、地元の牛肉農家や共和党員から激しい反発が起きている。\n\n**どこが笑える？**\n\n- 矛盾: 「アメリカン・ビーフを守る」で票を集めた共和党の大統領が、牛肉を安くするために外国産牛肉の関税を下げに行く。テキサスの牛肉農家に「安い外国産で対抗してください」と言いに行くのは、なかなかの度胸なんですよ。\n- 滑稽さ: 地産地消を掲げる保守系農業州のど真ん中で、外国産輸入拡大政策を発表する場所としてテキサスを選んだ。会場選びから間違ってる。\n- 日本・海外から見ると: 日本では米国産牛肉の輸入拡大をめぐって長年もめてきた歴史がある。そのアメリカが今度は自国の牛肉農家に「外国産でいいじゃないか」と言っている。立場が逆転したような奇妙な既視感がある。\n\n**このニュースをジョークにするなら...**\n\n> テキサスに飛んで外国産牛肉の輸入拡大策を牛肉農家に売りに行った。農家は買わなかった。そして彼もアメリカ産を買わないことになった。\n\n---\n\n## 5. FDA Approves Updated Covid Vaccine — Insurance Coverage Still a Mystery\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/27/fda-approves-updated-covid-19-vaccines)）*\n\n米食品医薬品局（FDA）が新型コロナウイルスの主流変異株XFGに対応した更新版ワクチンを承認し、メーカーは出荷を開始できるようになった。ただし保険適用については依然として混乱が続いている。\n\n**どこが笑える？**\n\n- 矛盾: ワクチンの科学的承認は素早くできる。でも「誰がお金を払うか」という部分は承認後も「混乱が続いている」と記事に書かれている。薬は承認されたが、請求書の宛先はまだ決まっていない。\n- 滑稽さ: 感染症対策のワクチンが病院に届く速度と、保険適用の判断が追いつく速度が全然違う。「打ちに行ったら自己負担かもしれない」という状態で承認だけ先行している。\n- 日本・海外から見ると: 日本や欧州では公費負担・公的接種の枠組みが先に決まって接種が始まるのが一般的。アメリカでは承認が先で、保険の話は後。誰が払うかわからないまま打ちに来てくださいという構造は、海外からは理解しにくい。\n\n**このニュースをジョークにするなら...**\n\n> FDAはワクチンを承認した。あなたの保険は？まだ考え中です。少しお待ちください。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 大統領令でできること：地図に名前を書く。できないこと：湖を動かす、裁判官を黙らせる、テキサスの農家を納得させる。三連敗の速報でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "notesEnが7本（8本必要）、xJaも7本（8本必要）なので各1本追加。d4のcaption3「Choosing Texas…」はミスディレクション済みで合格だが、d5のcaption3日本語「2万円」は元データに無い数字なので削除して修正。introJaは「やりました占い」構造になっていて掴み→5本予告→前向き占いの流れが弱いので書き直し。quipJaは「今日はそれを覚えて帰ってください」が講釈口調なので修正。d3のimagePrompt2に「Three journalists…walking out」とあり顔の判別可能な描写リスクがあるため後ろ姿表記に修正。 ／ 文体パス: 3箇所修正。introJaの「世界最強の大統領令でも〜現実がそもそもそういうもの」がプレゼン口調の整いすぎ、xJa[5]の「深い溝がある日だった」が締め感ありすぎ、xJa[7]の「独立の期限が今年だったとは誰も知らなかった」が気の利いた総括すぎる。"
+    "fullEn": "# Protecting Things by Ruining Them\n\n## Today's Forecast\n\nSome days the news has a theme. Today's theme is: the people in charge of protecting things are doing a great job destroying them.\n\nThe National Park Service endorsed a project its own report says will damage historic views. Meta paid $17 billion to fix things its own researchers said needed fixing years ago. The FBI quietly updated its hiring standards. Quietly. You'll see what I mean.\n\nAlso: Nashville might get the only airport name that could make a delayed flight feel okay. And Google is making sure you never have to click a link again—whether you wanted that or not.\n\nHere's the forecast: if today feels like the system isn't working the way it's supposed to, you're not wrong. That's not a personal failure. That's just Tuesday. You're fine.\n\n---\n\n## 1. National Park Service Backs Trump Arch That Would Block Views of DC's Historic Landmarks\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc)*\n\nA National Park Service report has endorsed the construction of a 250-foot arch proposed by President Trump in Washington, DC. The same report acknowledges that the structure would have adverse effects on the sightlines of dozens of historic landmarks in the capital. The agency that exists to protect the nation's monuments is supporting a project its own analysis says will harm them.\n\n**Why It's Funny**\n\n- **Contradiction:** The National Park Service was created to preserve America's historic sites. Its own report says the arch will harm dozens of them. The agency's response: let's build it.\n- **Absurdity:** Tourists will soon be able to visit DC and see a great arch blocking the view of the things they came to DC to see.\n- **View from Tokyo:** Abroad, people protect landmarks by keeping stuff away from them. In DC, the plan is to build something in front of them and call it a monument to protection.\n\n**Say It Out Loud**\n\n> The National Park Service's motto is 'preserving America's heritage.' Their new project is blocking it—literally.\n\n---\n\n## 2. Meta Pays $17 Billion to Add Rules for Kids Its Own Platforms Were Designed to Circumvent\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html)*\n\nMeta has reached a major legal settlement that requires Instagram and Facebook to impose a two-hour daily screen limit for users under 18 and prevent them from seeing reaction counts on posts. Safety experts say several of the mandated changes are meaningful. The settlement is valued at approximately $17 billion. Many of the features now legally required were previously identified by internal Meta research as necessary for child well-being.\n\n**Why It's Funny**\n\n- **Contradiction:** Meta's own internal research reportedly flagged these features as harmful to children years ago. The company's response at the time was to keep the features. The court's response now is $17 billion.\n- **Absurdity:** A two-hour daily limit sounds protective until you remember that the same company will spend the next two hours engineering ways to make those two hours more addictive than before.\n- **View from Tokyo:** Outside the US, regulators often ask companies to stop harmful practices before a settlement. Here, the sequence is: harm kids, get sued, pay, then stop.\n\n**Say It Out Loud**\n\n> Meta knew, kept going, got sued, and now gets credit for fixing it. That's one way to run a company.\n\n---\n\n## 3. FBI Quietly Lowers Background Check Standards, Including History of Hiring Prostitutes\n\n*CBS News US — [source](https://www.cbsnews.com/news/fbi-candidates-prostitutes-theft/)*\n\nThe FBI quietly lowered several standards used during background checks for prospective agents and other personnel in June. Among the changes, a history of hiring prostitutes may no longer automatically disqualify applicants. The update was made without a public announcement. The FBI has not provided detailed public explanation for the specific adjustments.\n\n**Why It's Funny**\n\n- **Contradiction:** The FBI conducts background investigations on millions of Americans. The agency just quietly lowered its own background check standards without telling anyone.\n- **Absurdity:** The agency best known for knowing everyone else's secrets decided to make this particular policy change a secret.\n- **View from Tokyo:** In most countries, lowering law enforcement hiring standards would prompt a parliamentary hearing. Here it took a CBS report for people to find out it happened.\n\n**Say It Out Loud**\n\n> The FBI runs background checks on everyone. They updated their own standards in June. You weren't supposed to notice.\n\n---\n\n## 4. Tennessee Governor Proposes Renaming Nashville Airport After Dolly Parton\n\n*CBS News US — [source](https://www.cbsnews.com/news/dolly-parton-nashville-airport-rename-proposal/)*\n\nTennessee's governor has put forward a proposal to rename the international airport in Nashville after country music icon Dolly Parton. The airport currently serves as one of the fastest-growing in the United States. No vote has been announced yet, and the proposal's timeline remains unclear.\n\n**Why It's Funny**\n\n- **Contradiction:** Most US airports are named after politicians and generals who spent their careers telling people where to go. Dolly Parton spent hers making people glad they arrived.\n- **Absurdity:** A woman famous for songs about leaving Tennessee would have her name on the building where people leave Tennessee.\n- **View from Tokyo:** Outside the US, airports are usually named after geography. Americans name airports after people—and a country singer might be the least controversial choice they've made in years.\n\n**Say It Out Loud**\n\n> Most airports are named after presidents or generals. Tennessee said: what if we tried someone people actually like?\n\n---\n\n## 5. Google Buries Search Results Even Deeper Under AI Summaries Nobody Asked For\n\n*The Verge — [source](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)*\n\nGoogle has begun automatically expanding its AI-generated search summaries at the top of results pages for certain queries, according to Search Engine Roundtable. The change pushes the standard list of search links significantly further down the page, with users sometimes needing to scroll past the AI summary to reach traditional results. The move continues a broader shift toward AI-first search presentation that has drawn criticism from publishers and SEO professionals.\n\n**Why It's Funny**\n\n- **Contradiction:** Google built its entire empire on sending people to other websites. It's now building a wall between users and those websites and calling it a helpful summary.\n- **Absurdity:** The links that were always the point of searching are now what you scroll past to get to the AI that summarized the links.\n- **View from Tokyo:** News publishers spent years optimizing their sites to show up on Google. Google is now using that content to generate answers that ensure users never visit those sites.\n\n**Say It Out Loud**\n\n> Google used to take you to the web. Now it takes a look at the web and gets back to you.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: the institution most likely to ignore the warning in its own report is the one whose entire job is the warning.\n",
+    "fullJa": "# 「守る機関」が一番よく壊してる話を5本まとめました\n\n## 今日を占うよ〜\n\n今日のアメリカのニュース、5本読んで気づいたことがあります。\n\n「守る」って言いながら壊してる人が多い。\n\n国立公園局は「歴史的建造物を守ります」という機関なんですけど、今日の報告書では「眺望に悪影響があります」と自分で書いて、そのまま「でも支持します」と続けていました。そういう一日です。\n\nMetaは17億ドル払って子どもの安全対策をします。内部資料では数年前から「これは問題だ」とわかってたやつです。FBIは採用基準を6月に「静かに」緩めました。FBIが「こっそり」やるのは得意なんですけど、自分の採用基準でやる話じゃないですよ。\n\nあとドリー・パートン空港の話もあります。これだけ普通にいいニュースです。\n\n今日の占い。「なんか制度がおかしくないか」と感じているあなた、それはあなたがおかしいんじゃなくて、制度がおかしいんです。仕事がうまくいかないのもたぶんそっちのせい。今日は堂々としていてください。\n\n---\n\n## 1. National Park Service Backs Trump Arch That Would Block Views of DC's Historic Landmarks\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc)）*\n\n国立公園局が、ワシントンDCの歴史的建造物の眺望に「悪影響を与える」と自ら認めながらも、トランプ大統領が提案する高さ約76メートルのアーチ建設を支持していることが報告書で明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 国立公園局の使命は「アメリカの歴史的・文化的遺産を保護する」こと。その組織が、自分たちのレポートで「悪影響がある」と書いた建物を「支持します」と言ってるんですよ。自分で赤ペン入れた答案に◯つけてる状態。\n- 滑稽さ: リンカーン記念堂の前に、リンカーンが見えなくなるアーチを建てる。観光客が「あのアーチの向こうに何かあるんですか？」って聞くたびに「昔は見えた有名なやつです」って答える係員が必要になりますね。\n- 日本・海外から見ると: 国の文化財を守る機関が「壊れるのわかってるけど賛成」と言う構図、日本で言えば文化庁が「世界遺産の真横に大型広告塔を建てます、景観は悪化しますが推奨します」と発表するようなもの。\n\n**このニュースをジョークにするなら...**\n\n> 国立公園局のモットーは「アメリカの遺産を守る」こと。新プロジェクトはそれを文字通りブロックしてます。\n\n---\n\n## 2. Meta Pays $17 Billion to Add Rules for Kids Its Own Platforms Were Designed to Circumvent\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html)）*\n\nMetaが子どもの安全をめぐる訴訟で17億ドル規模の和解に合意し、18歳未満のInstagram・Facebookユーザーに対して1日2時間の利用制限や投稿へのリアクション非表示などの新機能を導入することになった。\n\n**どこが笑える？**\n\n- 矛盾: 「子どものためにリアクション数を非表示にする」、これ、内部資料でMetaが数年前に「子どもに悪影響がある」とわかってた機能なんですよ。知っててやってたのを、17億ドル払ってやめる。\n- 滑稽さ: 1日2時間の制限を設けるって言うけど、13歳の子どもがサブアカウントを作るのに要する時間、何分だと思います？だいたいCM1本分です。\n- 日本・海外から見ると: 日本のガチャ課金問題と似た構図。「依存性があるとわかってた」→「規制が来た」→「対策します」の順番で、最初から設計を変えるという選択肢は最後まで出てこない。\n\n**このニュースをジョークにするなら...**\n\n> わかってた、続けた、訴えられた、直したら褒められた。それが経営というもの。\n\n---\n\n## 3. FBI Quietly Lowers Background Check Standards, Including History of Hiring Prostitutes\n\n*CBS News US（[記事](https://www.cbsnews.com/news/fbi-candidates-prostitutes-theft/)）*\n\nFBIが6月に採用基準の一部を静かに引き下げ、売春婦の利用歴などがあっても採用審査上の障壁とならない可能性があることが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: FBIは他人の身辺調査をする組織。その組織が自分たちの採用基準を「こっそり」緩める。諜報機関の透明性のなさを批判してきた人たちが、諜報機関のやり方で変更された基準に審査されることになる。\n- 滑稽さ: 「6月に静かに変えました」って、FBIが「こっそり」するの、得意なのはわかるんですけど、それ、自分の採用基準でやることじゃないんですよ。\n- 日本・海外から見ると: 警察の採用基準を「お静かに」緩める、というニュースが出た場合、日本なら国会で追及案件。アメリカではCBSがひっそり報じて終わりになりそうな雰囲気があるのが怖い。\n\n**このニュースをジョークにするなら...**\n\n> FBIは全員の身辺を調べる機関。6月に自分たちの採用基準を更新した。気づかなくていい話、らしい。\n\n---\n\n## 4. Tennessee Governor Proposes Renaming Nashville Airport After Dolly Parton\n\n*CBS News US（[記事](https://www.cbsnews.com/news/dolly-parton-nashville-airport-rename-proposal/)）*\n\nテネシー州知事が、ナッシュビル国際空港をカントリーミュージックの象徴ドリー・パートンにちなんで改名する提案を行った。\n\n**どこが笑える？**\n\n- 矛盾: アメリカでは政治家や軍人の名前がついた空港がほとんど。そこにドリー・パートンを持ってくるのは、実は「誰からも愛されてる人」という意味で最も民主的な選択かもしれない。矛盾を超えて正解になりかけてる案件。\n- 滑稽さ: アナウンスが「ドリー・パートン国際空港へようこそ」になる日、パイロットが滑走路でついニコッとする未来が見えますね。遅延のアナウンスでも少し楽しくなる唯一の空港。\n- 日本・海外から見ると: 日本だと空港名は地名が多い。アメリカは人名が多くて、政治色が強い場合はいつも論争になる。ドリー・パートン案は珍しく超党派でウケてるので、この国の政治的分断の深さを別の角度から見せてる。\n\n**このニュースをジョークにするなら...**\n\n> ほとんどの空港は大統領か将軍の名前。テネシーは「実際に好かれてる人」にしようと言い出した。\n\n---\n\n## 5. Google Buries Search Results Even Deeper Under AI Summaries Nobody Asked For\n\n*The Verge（[記事](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)）*\n\nGoogleが一部の検索でAIによる要約を自動展開するようになり、従来のリンク一覧がページのさらに下に追いやられることが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: Googleは「世界中の情報を整理して届ける」会社として大きくなった。今やってるのは「情報に行く前にAIが代わりに読んであげる」こと。図書館が「本は奥にあります、入口でスタッフが内容を教えます」と言い出した感じ。\n- 滑稽さ: 検索結果の下にあるリンクが「ウェブサイト」から「過去の遺物」になる日が近い。将来の子どもたちに「昔はリンクをクリックして読んでたんだよ」と話す親の顔が見えますね。\n- 日本・海外から見ると: 日本でも検索エンジン離れが進んでいるが、Googleがコンテンツを作ったサイトへのトラフィックを絞りながら、そのコンテンツを学習したAIで答えを出す構図は、元の執筆者が報われない仕組みになっている。\n\n**このニュースをジョークにするなら...**\n\n> Googleはかつてウェブに連れて行ってくれた。今はウェブを一通り見て、代わりに教えてくれる。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 自分で「悪影響あり」と書いた報告書に判子を押す。それができる組織だけが、今日のアメリカで生き残っています。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d1のcaption4が状況のなぞり倒しで落ちが弱い。d4のimagePrompts2に実在人物の顔が判別できる描写（正面・リボンカット式の人物列）が残っている。xJa6本目が「まとめ」形式で単体成立しているが締めが弱くオチなし。それ以外は合格。 ／ 文体パス: 3箇所直しました。xJa[3]の「可能性があります」、xJa[5]の締めの「偉大さがわかる」、xJa[7]の「確認できました」がプレゼン口調・整いすぎに該当。"
   },
   "carousel": [
-    "images/2026-08-28/carousel/slide-1.jpg",
-    "images/2026-08-28/carousel/slide-2.jpg",
-    "images/2026-08-28/carousel/slide-3.jpg",
-    "images/2026-08-28/carousel/slide-4.jpg",
-    "images/2026-08-28/carousel/slide-5.jpg",
-    "images/2026-08-28/carousel/slide-6.jpg",
-    "images/2026-08-28/carousel/slide-7.jpg"
+    "images/2026-08-29/carousel/slide-1.jpg",
+    "images/2026-08-29/carousel/slide-2.jpg",
+    "images/2026-08-29/carousel/slide-3.jpg",
+    "images/2026-08-29/carousel/slide-4.jpg",
+    "images/2026-08-29/carousel/slide-5.jpg",
+    "images/2026-08-29/carousel/slide-6.jpg",
+    "images/2026-08-29/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-08-28/note-header.jpg",
-    "substack": "images/2026-08-28/substack-cover.jpg"
+    "note": "images/2026-08-29/note-header.jpg",
+    "substack": "images/2026-08-29/substack-cover.jpg"
   }
 };
