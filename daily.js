@@ -1,314 +1,311 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-29",
-  "generatedAt": "2026-08-29T02:33:14+00:00",
+  "date": "2026-08-30",
+  "generatedAt": "2026-08-29T22:06:33+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "National Park Service Backs Trump Arch That Would Block Views of DC's Historic Landmarks",
+        "headline": "Milo Yiannopoulos, Loudest Cheerleader for Mass Deportation, Gets Deported",
         "source": "The Guardian US",
-        "date": "2026-08-29",
-        "url": "https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc",
-        "summary": "国立公園局が、ワシントンDCの歴史的建造物の眺望に「悪影響を与える」と自ら認めながらも、トランプ大統領が提案する高さ約76メートルのアーチ建設を支持していることが報告書で明らかになった。"
+        "date": "2026-08-30",
+        "url": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
+        "summary": "移民強硬派として知られる英国人コメンテーター、マイロ・ヤノポロスが、ビザ失効を理由にICEに拘束され、英国へ強制送還された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 国立公園局の使命は「アメリカの歴史的・文化的遺産を保護する」こと。その組織が、自分たちのレポートで「悪影響がある」と書いた建物を「支持します」と言ってるんですよ。自分で赤ペン入れた答案に◯つけてる状態。",
-        "<b>滑稽さ:</b> リンカーン記念堂の前に、リンカーンが見えなくなるアーチを建てる。観光客が「あのアーチの向こうに何かあるんですか？」って聞くたびに「昔は見えた有名なやつです」って答える係員が必要になりますね。",
-        "<b>日本・海外から見ると:</b> 国の文化財を守る機関が「壊れるのわかってるけど賛成」と言う構図、日本で言えば文化庁が「世界遺産の真横に大型広告塔を建てます、景観は悪化しますが推奨します」と発表するようなもの。"
+        "<b>矛盾:</b> 「不法移民は即座に国外追放すべき」と長年主張してきた本人が、ビザ失効という不法滞在状態のまま7年間アメリカに住んでいたんですよ。",
+        "<b>滑稽さ:</b> ICEにとって今回の案件、被疑者の主義主張と執行内容が完全に一致するという、史上もっとも楽なお仕事だったんじゃないですか。",
+        "<b>日本・海外から見ると:</b> 「厳格な移民政策は自分には適用されない」という感覚、アメリカだけの話じゃないですけど、ここまでスッキリ可視化されるのは珍しい。"
       ],
       "imagePrompts": [
-        "A large decorative arch under construction in front of the Lincoln Memorial, with tourists craning their necks trying to peek around it, a National Park Service ranger in uniform holding a clipboard that reads 'Approved' while standing next to a sign that says 'Protect Our Landmarks'",
-        "A before-and-after split image of the Washington DC skyline: one side showing clear historic monuments, the other side showing the same view with a massive arch squarely blocking most of them, a small label reading 'NPS Certified' on the arch",
-        "A National Park Service official at a podium, presenting a report with large red text reading 'ADVERSE EFFECTS,' enthusiastically giving a thumbs up to a model of a giant arch on the table beside them"
+        "A man enthusiastically holding a large 'DEPORT THEM ALL' protest sign while simultaneously being escorted onto a deportation plane by two ICE officers, his own sign visible over his shoulder",
+        "A desk covered in 'DEPORTATION APPROVED' stamp marks, with one form at the center labeled with the subject's name, a thumbs-up sticker stuck to the corner",
+        "A revolving door at a US Customs building, with a figure exiting the 'DEPORTED' side while stacks of his own anti-immigration op-eds flutter to the ground behind him"
       ],
       "captions": [
-        "The National Park Service's motto is 'preserving America's heritage.' Their new project is blocking it—literally.",
-        "They wrote 'adverse effects' in the report and then signed it. That's not a green light, that's a cry for help.",
-        "Future tour guide script: 'And behind this arch is… well, it used to be something.'",
-        "The agency filed a report saying a monument would harm monuments, then approved it. The report is now also a monument to something.",
-        "You know a government report is something special when the conclusion contradicts the findings and nobody blinks."
+        "He spent years saying 'send them back.' Turns out he was in the demo group.",
+        "ICE finally found an illegal immigrant whose removal literally everyone agreed on — including the illegal immigrant.",
+        "Seven years of overstaying a visa. Thousands of tweets demanding zero tolerance. The math was always going to catch up.",
+        "The UK is getting him back. Nobody in the UK voted on this.",
+        "Somewhere, an ICE agent is going to dine out on this story for the rest of their career."
       ],
       "captionsJa": [
-        "国立公園局のモットーは「アメリカの遺産を守る」こと。新プロジェクトはそれを文字通りブロックしてます。",
-        "「悪影響がある」ってレポートに書いて、そのまま承認した。それはゴーサインじゃなくて、助けを求めるSOSですよ。",
-        "将来のガイドのセリフ：「このアーチの向こうに……昔は何かあったんです。」",
-        "モニュメントがモニュメントに悪影響を与えると書いた書類を作って承認した。その書類も今や何かのモニュメントです。",
-        "報告書の結論が本文と矛盾してて、誰も気にしない。それが特別な政府文書ってもんですよ。"
+        "何年も「全員送り返せ」と言い続けた。まさか「全員」に自分が入るとは思ってなかったみたいですけど。",
+        "ICEがついに、本人も含む全員が追放に同意した不法滞在者を見つけましたよ。",
+        "ビザ失効から7年。ゼロトレランスを訴えたツイート、数千件。計算は最初から合ってなかった。",
+        "英国が引き取ることになった。英国は誰も投票してないんですけど。",
+        "どこかのICE職員が、この話を定年まで飲み会のネタにし続けると思う。"
       ],
-      "newsEn": "A National Park Service report has endorsed the construction of a 250-foot arch proposed by President Trump in Washington, DC. The same report acknowledges that the structure would have adverse effects on the sightlines of dozens of historic landmarks in the capital. The agency that exists to protect the nation's monuments is supporting a project its own analysis says will harm them.",
+      "newsEn": "Milo Yiannopoulos, a British far-right media figure who vocally supported the Trump administration's immigration crackdown, was arrested by ICE in New Orleans and deported to the UK. He had entered the US legally in 2019 but overstayed his visa and later failed to appear in court. DHS confirmed the deportation to Reuters and the Washington Post.",
       "ironyEn": [
         {
-          "contradiction": "The National Park Service was created to preserve America's historic sites. Its own report says the arch will harm dozens of them. The agency's response: let's build it.",
-          "absurdity": "Tourists will soon be able to visit DC and see a great arch blocking the view of the things they came to DC to see.",
-          "outside": "Abroad, people protect landmarks by keeping stuff away from them. In DC, the plan is to build something in front of them and call it a monument to protection."
+          "contradiction": "A man who spent years demanding that illegal immigrants be thrown out of the country was himself an illegal immigrant for years.",
+          "absurdity": "ICE enforced immigration law against someone who was publicly rooting for ICE to enforce immigration law. The paperwork must have been deeply confusing.",
+          "outside": "From abroad, this reads like a morality tale so neat you'd reject it as fiction."
         },
         {
-          "contradiction": "The same document that says 'adverse effects on historical significance' also says 'we support this.' That's not a report—that's a hostage note written by the hostage.",
-          "absurdity": "The Lincoln Memorial may soon be partially obscured by a structure celebrating a different president. Lincoln famously didn't get to enjoy a second term.",
-          "outside": "Imagine France building a giant personal arch in front of the Eiffel Tower and having the Ministry of Culture sign off with 'we noted some concerns, but sure.'"
+          "contradiction": "He overstayed his visa in 2019. He was loudly cheering for deportations in 2020, 2021, 2022, 2023, 2024, and 2025.",
+          "absurdity": "The government deported someone who agreed with the government's decision to deport him. There's probably a form for that.",
+          "outside": "In the UK, they're getting him back. Nobody asked the UK."
         }
       ],
-      "imageSeed": 1,
-      "image": "images/2026-08-29/candidate-1.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-08-29/candidate-1-punchy.jpg"
+      "imageSeed": 1
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Meta Pays $17 Billion to Add Rules for Kids Its Own Platforms Were Designed to Circumvent",
-        "source": "CNBC Top News",
-        "date": "2026-08-29",
-        "url": "https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html",
-        "summary": "Metaが子どもの安全をめぐる訴訟で17億ドル規模の和解に合意し、18歳未満のInstagram・Facebookユーザーに対して1日2時間の利用制限や投稿へのリアクション非表示などの新機能を導入することになった。"
+        "headline": "Federal Judge Rules Trump Can't Deport Students for Criticizing Israel",
+        "source": "CBS News US",
+        "date": "2026-08-30",
+        "url": "https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/",
+        "summary": "連邦裁判所は、イスラエルへの批判を理由に外国人留学生を強制送還することは違憲だと判断し、スタンフォード大学の学生新聞の主張を支持した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「子どものためにリアクション数を非表示にする」、これ、内部資料でMetaが数年前に「子どもに悪影響がある」とわかってた機能なんですよ。知っててやってたのを、17億ドル払ってやめる。",
-        "<b>滑稽さ:</b> 1日2時間の制限を設けるって言うけど、13歳の子どもがサブアカウントを作るのに要する時間、何分だと思います？だいたいCM1本分です。",
-        "<b>日本・海外から見ると:</b> 日本のガチャ課金問題と似た構図。「依存性があるとわかってた」→「規制が来た」→「対策します」の順番で、最初から設計を変えるという選択肢は最後まで出てこない。"
+        "<b>矛盾:</b> 「言論の自由の国」が、批判的な意見を書いた留学生を国外追放できるかどうかを裁判所で争っていたんですよ。",
+        "<b>滑稽さ:</b> 学生新聞の記者が、取材対象の学生に「強制送還が怖くてコメントできない」と言われる状況。編集会議がどんな雰囲気か想像したくない。",
+        "<b>日本・海外から見ると:</b> アメリカの大学を「自由な議論ができる場所」として留学先に選んだ学生にとって、この数年の展開はかなり違う話になってますよね。"
       ],
       "imagePrompts": [
-        "A giant Instagram 'like' button with a price tag reading '$17 billion' hanging from it, surrounded by lawyers in suits shaking hands, while a teenager on their phone in the background has already opened a second app",
-        "A corporate boardroom with a large screen showing internal research documents labeled 'Known Harm to Children — 2021,' a lawyer placing a giant settlement check on the table in 2026, everyone nodding as if this is the logical next step",
-        "A two-hour sand timer labeled 'Daily Limit' next to a teenager with five different phones lined up, each showing a different Meta account, all with full batteries"
+        "A student sitting at a library desk, surrounded by blank notebook pages, looking over their shoulder at a shadowy figure in the doorway labeled 'ICE', a half-written opinion piece visible on the desk",
+        "A college newspaper front page with large blank white boxes where op-eds should be, captioned 'SELF-CENSORED', displayed on a newsstand outside a prestigious university gate",
+        "A courtroom scale balancing a pocket US Constitution on one side and a stack of deportation forms on the other, with a judge's gavel mid-swing"
       ],
       "captions": [
-        "Meta knew, kept going, got sued, and now gets credit for fixing it. That's one way to run a company.",
-        "A two-hour limit for kids. Bold move from the app that spent a decade figuring out how to make two hours feel like ten minutes.",
-        "Hiding reaction counts is the new safeguard. The kid will just refresh their follower count instead—same anxiety, different number.",
-        "$17 billion to add features their own researchers said were needed years ago. The delay cost extra.",
-        "They called the new rules 'promising.' Promising compared to what they were doing before isn't the bar I'd put on the poster."
+        "A college newspaper took the federal government to court over the First Amendment. The federal government lost. To a college newspaper.",
+        "Students were scared to speak to the student press. We used to call that a red flag when it happened in other countries.",
+        "The good news: you can criticize Israel. The bad news: you had to wait for a judge to make that official.",
+        "Academic freedom, apparently, now comes with a legal citation attached.",
+        "Somewhere a journalism professor is updating their syllabus to include 'how to cover a story when your sources are afraid to exist.'"
       ],
       "captionsJa": [
-        "わかってた、続けた、訴えられた、直したら褒められた。それが経営というもの。",
-        "子どもに1日2時間の制限。2時間を2分に感じさせる技術を10年かけて磨いたアプリが言ってます。",
-        "リアクション数を隠す新機能。大丈夫、子どもはフォロワー数を更新し続けるので不安は無傷です。",
-        "自社の研究者が何年も前に「必要だ」と言ってた機能を、17億ドル払って導入。遅延料が高い。",
-        "専門家が「前進だ」と評価してるんですけど、比較対象が今まで何もしてなかった自分たちなので、ハードルの位置を確認したい。"
+        "大学の学生新聞が連邦政府を訴えて、連邦政府が負けた。相手は学生新聞ですよ。",
+        "学生が学生メディアに話すのを怖がってた。それって以前は「他の国の話」として紹介してた話じゃないですか。",
+        "朗報：イスラエルを批判してもいい。悲報：それを確認するのに裁判が必要だった。",
+        "学問の自由、どうやら今は判決文つきで提供されるらしい。",
+        "どこかのジャーナリズムの教授が、「情報源が存在することを恐れているときの取材方法」をシラバスに追加してると思う。"
       ],
-      "newsEn": "Meta has reached a major legal settlement that requires Instagram and Facebook to impose a two-hour daily screen limit for users under 18 and prevent them from seeing reaction counts on posts. Safety experts say several of the mandated changes are meaningful. The settlement is valued at approximately $17 billion. Many of the features now legally required were previously identified by internal Meta research as necessary for child well-being.",
+      "newsEn": "A federal judge ruled that the Trump administration cannot deport international students solely for criticizing Israel, delivering a win to Stanford University's student newspaper. The paper reported that some international students had been self-censoring out of fear of deportation. The ruling reinforces First Amendment protections for non-citizens on US soil.",
       "ironyEn": [
         {
-          "contradiction": "Meta's own internal research reportedly flagged these features as harmful to children years ago. The company's response at the time was to keep the features. The court's response now is $17 billion.",
-          "absurdity": "A two-hour daily limit sounds protective until you remember that the same company will spend the next two hours engineering ways to make those two hours more addictive than before.",
-          "outside": "Outside the US, regulators often ask companies to stop harmful practices before a settlement. Here, the sequence is: harm kids, get sued, pay, then stop."
+          "contradiction": "The country that exports 'free speech' as a core value needed a court to clarify that students can't be expelled from the country for writing opinions.",
+          "absurdity": "Stanford's student newspaper — a college paper — ended up being the plaintiff in a First Amendment case against the federal government. Journalism students, congratulations.",
+          "outside": "International students chose America specifically for academic freedom. They're now in court over whether academic freedom applies to them."
         },
         {
-          "contradiction": "The platform built to maximize engagement is now legally required to minimize it. The settlement is basically a receipt for the engagement that already happened.",
-          "absurdity": "Hiding reaction counts from teenagers is the new safeguard. The teen will now just check how many followers they lost today instead.",
-          "outside": "Seventeen billion dollars is a lot to spend on features a safety expert calls 'promising.' It's also a lot to spend before adding a screen time limit that every phone already had for free."
+          "contradiction": "The administration built a deportation threat around speech. A judge built a ruling around the Constitution. One of those documents is older.",
+          "absurdity": "Students were too afraid to be quoted in a student newspaper. That sentence used to describe authoritarian states.",
+          "outside": "Foreign universities are watching this and quietly updating their recruitment brochures."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-29/candidate-2.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-08-29/candidate-2-punchy.jpg"
+      "image": "images/2026-08-30/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-08-30/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "FBI Quietly Lowers Background Check Standards, Including History of Hiring Prostitutes",
-        "source": "CBS News US",
-        "date": "2026-08-29",
-        "url": "https://www.cbsnews.com/news/fbi-candidates-prostitutes-theft/",
-        "summary": "FBIが6月に採用基準の一部を静かに引き下げ、売春婦の利用歴などがあっても採用審査上の障壁とならない可能性があることが明らかになった。"
+        "headline": "National Park Service Backs Trump's 250-Foot Arch Despite Finding It Harms Historic Sites",
+        "source": "CNBC Top News",
+        "date": "2026-08-30",
+        "url": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
+        "summary": "国立公園局は、景観や歴史的眺望への悪影響を自ら認めながら、トランプ政権が推進する高さ約76メートルのアーチ建設を支持すると表明した。"
       },
       "commentary": [
-        "<b>矛盾:</b> FBIは他人の身辺調査をする組織。その組織が自分たちの採用基準を「こっそり」緩める。諜報機関の透明性のなさを批判してきた人たちが、諜報機関のやり方で変更された基準に審査されることになる。",
-        "<b>滑稽さ:</b> 「6月に静かに変えました」って、FBIが「こっそり」するの、得意なのはわかるんですけど、それ、自分の採用基準でやることじゃないんですよ。",
-        "<b>日本・海外から見ると:</b> 警察の採用基準を「お静かに」緩める、というニュースが出た場合、日本なら国会で追及案件。アメリカではCBSがひっそり報じて終わりになりそうな雰囲気があるのが怖い。"
+        "<b>矛盾:</b> 歴史的景観の保護を使命とする国立公園局が、「景観に悪影響あり」と自分で書いた報告書を出した翌ページで「でも支持します」と言ってるんですよ。",
+        "<b>滑稽さ:</b> 「悪影響がある」「しかし認める」という文書構造、もはや自分で自分に反対意見を書いてそれを却下してる。",
+        "<b>日本・海外から見ると:</b> 環境アセスメントって普通は「悪影響あり→計画見直し」という順番のはずで、「悪影響あり→まあいいか」というルートは珍しいんですよね。"
       ],
       "imagePrompts": [
-        "An FBI field office building with a small sign on the door reading 'Now Hiring — Standards Updated June 2026,' a line of applicants outside reading the sign with puzzled expressions, a single agent inside stamping 'APPROVED' on folders",
-        "A thick FBI background check form with most sections blacked out in redaction tape, one section visibly uncovered reading 'Previous Activity' with a large 'No Longer Applicable' stamp across it",
-        "An FBI recruiter at a job fair booth, handing out brochures titled 'You May Qualify Now,' next to a shredder actively destroying a document labeled 'Old Standards'"
+        "A park ranger holding two clipboards side by side — one says 'ADVERSE EFFECTS ON HISTORIC SIGHTLINES' with a checkmark, the other says 'PROJECT APPROVED' with a checkmark, both signed by the same hand",
+        "A massive steel arch looming over a historic landscape, blocking a famous scenic vista, with a small sign at the base reading 'AS APPROVED BY THE NATIONAL PARK SERVICE'",
+        "A government office desk with a rubber stamp labeled 'APPROVED' pressed over a document whose visible text reads 'ADVERSE EFFECTS CONFIRMED'"
       ],
       "captions": [
-        "The FBI runs background checks on everyone. They updated their own standards in June. You weren't supposed to notice.",
-        "They didn't announce it. They didn't explain it. That's very on-brand for the FBI, honestly—just usually it's other people's secrets.",
-        "Of all the things to quietly relax on a hiring form, that is a very specific line to quietly relax.",
-        "The agency that exists to investigate people quietly changed what it investigates about people wanting to join the agency.",
-        "If you hid something from the FBI's background check, that's disqualifying. If the FBI hides a change to background checks, that's just a slow news Friday."
+        "They found 'adverse effects.' They approved it anyway. The form even has a box for that, apparently.",
+        "The agency that protects historic views wrote a report saying this blocks historic views. Then signed off on it.",
+        "National Park Service, tasked with preservation, reviewing a project: 'Yeah, it's bad for preservation. Love it.'",
+        "Most agencies try to hide contradictions like this. NPS put it in the same document.",
+        "250 feet tall, adverse effects confirmed, zero hesitation. Bold strategy."
       ],
       "captionsJa": [
-        "FBIは全員の身辺を調べる機関。6月に自分たちの採用基準を更新した。気づかなくていい話、らしい。",
-        "発表なし、説明なし。FBIらしいっちゃらしいけど、普通は他人の秘密を守るほうで使う技術ですよ。",
-        "採用フォームで「こっそり緩める」項目として、よりによってあの項目を選ぶセンス。",
-        "人を調査する組織が、自分たちを調査する基準を、こっそり変えた。",
-        "あなたがFBIの審査で何かを隠したら失格。FBIが基準変更を隠したら、ただの静かな金曜日。"
+        "「悪影響あり」と確認した。それでも承認した。どうやらその用のチェックボックスが書類に存在するらしい。",
+        "歴史的眺望を保護する機関が、「この建物は眺望を損ないます」と書いた報告書にサインした。",
+        "国立公園局、保全が使命なのにプロジェクト審査して「うん、保全に悪い。いいじゃないですか」。",
+        "普通の役所はこういう矛盾を隠そうとする。国立公園局は同じ書類に並べた。",
+        "高さ76メートル、悪影響確認済み、迷いゼロ。思い切った判断。"
       ],
-      "newsEn": "The FBI quietly lowered several standards used during background checks for prospective agents and other personnel in June. Among the changes, a history of hiring prostitutes may no longer automatically disqualify applicants. The update was made without a public announcement. The FBI has not provided detailed public explanation for the specific adjustments.",
+      "newsEn": "The National Park Service issued findings that a proposed 250-foot arch would have 'adverse effects' on historic sightlines and the visual relationships between nearby landmarks. Despite this finding, the agency stated it supports the project. The arch is backed by the Trump administration.",
       "ironyEn": [
         {
-          "contradiction": "The FBI conducts background investigations on millions of Americans. The agency just quietly lowered its own background check standards without telling anyone.",
-          "absurdity": "The agency best known for knowing everyone else's secrets decided to make this particular policy change a secret.",
-          "outside": "In most countries, lowering law enforcement hiring standards would prompt a parliamentary hearing. Here it took a CBS report for people to find out it happened."
+          "contradiction": "The agency whose job is protecting historic landscapes officially found the project damages historic landscapes, then officially endorsed it.",
+          "absurdity": "They wrote 'adverse effects' in the report and 'we support it' in the conclusion. That document is doing a lot of work.",
+          "outside": "Environmental review processes exist to stop things like this. Apparently they can also be used to document things like this and then do them anyway."
         },
         {
-          "contradiction": "An institution that can pull a decade of your financial records before breakfast quietly changed what goes on its own hiring checklist in June.",
-          "absurdity": "They didn't lower the standard for jaywalking or unpaid parking tickets. They specifically relaxed the rule about hiring prostitutes. That's a very particular edit.",
-          "outside": "If you applied to work at the FBI and tried to hide something from your background check, that'd be disqualifying. The FBI hiding a change to background checks from the public is apparently just Thursday."
+          "contradiction": "The National Park Service is backing a structure it found would harm the very sightlines it was created to preserve.",
+          "absurdity": "The report essentially said 'this will hurt the historic views' and the response was 'noted, build it.'",
+          "outside": "Other countries submit environmental impact statements to regulators. The US submits them to history."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-29/candidate-3.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-08-29/candidate-3-punchy.jpg"
+      "image": "images/2026-08-30/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-08-30/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Tennessee Governor Proposes Renaming Nashville Airport After Dolly Parton",
-        "source": "CBS News US",
+        "headline": "White House Teleprompter Operator Fined $172,000 for Betting on Trump's Speeches",
+        "source": "The Guardian US",
         "date": "2026-08-29",
-        "url": "https://www.cbsnews.com/news/dolly-parton-nashville-airport-rename-proposal/",
-        "summary": "テネシー州知事が、ナッシュビル国際空港をカントリーミュージックの象徴ドリー・パートンにちなんで改名する提案を行った。"
+        "url": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi",
+        "summary": "トランプ大統領の演説原稿を事前に把握できる立場を利用して、予測市場でインサイダー賭けを行ったホワイトハウスのテレプロンプター担当者が、商品先物取引委員会から約17万2000ドルの罰金を科された。"
       },
       "commentary": [
-        "<b>矛盾:</b> アメリカでは政治家や軍人の名前がついた空港がほとんど。そこにドリー・パートンを持ってくるのは、実は「誰からも愛されてる人」という意味で最も民主的な選択かもしれない。矛盾を超えて正解になりかけてる案件。",
-        "<b>滑稽さ:</b> アナウンスが「ドリー・パートン国際空港へようこそ」になる日、パイロットが滑走路でついニコッとする未来が見えますね。遅延のアナウンスでも少し楽しくなる唯一の空港。",
-        "<b>日本・海外から見ると:</b> 日本だと空港名は地名が多い。アメリカは人名が多くて、政治色が強い場合はいつも論争になる。ドリー・パートン案は珍しく超党派でウケてるので、この国の政治的分断の深さを別の角度から見せてる。"
+        "<b>矛盾:</b> 予測市場は「集合知で未来を当てる」という建前なんですが、テレプロンプターを読んだ人間が参加したら、それはもう予測じゃなくてカンニングですよね。",
+        "<b>滑稽さ:</b> 賭けの対象が「大統領が何の単語を使うか」で、インサイダー情報が「テレプロンプターに書いてある文字」という、史上もっとも地味なインサイダー取引。",
+        "<b>日本・海外から見ると:</b> 大統領演説の単語に金をかける市場がアメリカに存在すること自体、海外から見るとまず「え、そのゲームのルール教えて」ってなりますよね。"
       ],
       "imagePrompts": [
-        "A large airport terminal with a glittering marquee sign reading 'Dolly Parton International Airport,' passengers smiling and taking selfies in front of it, a departure board showing flights with gate names like 'Gate Jolene' and 'Gate 9 to 5'",
-        "A formal ribbon-cutting ceremony at an airport, silhouettes of a row of officials facing away from camera toward the newly unveiled sign reading 'Dolly Parton International,' confetti falling, a crowd of passengers cheering in the background",
-        "A pilot's silhouette visible through a cockpit window, grinning while making an announcement, a runway sign outside reading 'Dolly Parton Intl — Welcome Home'"
+        "A man in a suit standing at a teleprompter machine at a podium, surreptitiously typing into a phone app labeled 'BET NOW' with one hand while scrolling the speech text with the other",
+        "A CFTC hearing room with a giant display showing the word 'TARIFF' circled in red, labeled 'EVIDENCE', with a betting slip pinned next to it",
+        "A Wall Street trading floor with one tiny desk in the corner labeled 'PRESIDENTIAL WORD FUTURES', a single trader surrounded by much larger screens of stock data"
       ],
       "captions": [
-        "Most airports are named after presidents or generals. Tennessee said: what if we tried someone people actually like?",
-        "Her most famous song is about begging a woman not to take her man. It's the perfect vibe for an airport farewell.",
-        "Gate Jolene, boarding now. Please have your boarding pass and your heart ready.",
-        "In a decade of political fights over every name on every building, this is the proposal nobody's mad about. That's the Dolly Parton effect.",
-        "She spent her career singing about leaving Tennessee. They're putting her name on the door you walk out of. It tracks."
+        "He had access to the speech before the speech. He bet on the speech. The CFTC had to explain why that's illegal. All of this happened.",
+        "Most insider trading involves quarterly earnings. His involved the word 'tremendous.'",
+        "The man literally ran the teleprompter. You can't get more inside than reading the script out loud.",
+        "$172,000 fine for knowing what your boss was going to say before he said it. He should've just asked for a raise.",
+        "Somewhere a compliance officer is adding 'teleprompter operators' to the insider trading training module."
       ],
       "captionsJa": [
-        "ほとんどの空港は大統領か将軍の名前。テネシーは「実際に好かれてる人」にしようと言い出した。",
-        "彼女の一番有名な曲は「私の男を取らないで」というお願い。空港のお見送りに最高すぎる世界観。",
-        "ゲートJolene、搭乗開始。搭乗券と心の準備をしてお待ちください。",
-        "あらゆる建物の名前で政治ゲンカが続く時代に、これだけ誰も怒ってない提案。それがドリー効果。",
-        "テネシーを去る歌を歌い続けた人の名前が、テネシーを出る出口についた。筋は通ってる。"
+        "演説前に原稿を持っていた。演説に賭けた。CFTCがなぜそれがダメか説明しなきゃいけなかった。全部本当の話。",
+        "インサイダー取引といえば決算情報が相場だが、彼の場合は「tremendous」って単語だった。",
+        "テレプロンプターを実際に動かしていた人間が。原稿を読み上げた人間が。これ以上のインサイダーはいない。",
+        "上司が何を言うか、言う前から知ってて罰金17万2000ドル。それだけ知ってたなら昇給を交渉すべきだった。",
+        "どこかのコンプライアンス担当者が、インサイダー取引研修の対象リストに「テレプロンプター担当者」を追加してると思う。"
       ],
-      "newsEn": "Tennessee's governor has put forward a proposal to rename the international airport in Nashville after country music icon Dolly Parton. The airport currently serves as one of the fastest-growing in the United States. No vote has been announced yet, and the proposal's timeline remains unclear.",
+      "newsEn": "Gabriel Perez, a former White House teleprompter operator, was fined $172,000 by the Commodity Futures Trading Commission for using inside knowledge to place bets on prediction platform Kalshi about specific words President Trump would use in speeches. Perez left his position amid the accusations. The CFTC said he had advance access to speech content that gave him an unfair advantage.",
       "ironyEn": [
         {
-          "contradiction": "Most US airports are named after politicians and generals who spent their careers telling people where to go. Dolly Parton spent hers making people glad they arrived.",
-          "absurdity": "A woman famous for songs about leaving Tennessee would have her name on the building where people leave Tennessee.",
-          "outside": "Outside the US, airports are usually named after geography. Americans name airports after people—and a country singer might be the least controversial choice they've made in years."
+          "contradiction": "Prediction markets sell the idea of wisdom-of-the-crowd forecasting. One participant's crowd was just him and the teleprompter.",
+          "absurdity": "The insider information here was 'I read the script before the speech.' Wall Street insider trading cases are rarely this literal.",
+          "outside": "Outside the US, the headline 'man bets on presidential word choice' requires a second read just to confirm it's real."
         },
         {
-          "contradiction": "Nashville is a city where political fights are constant. The one proposal getting bipartisan smiles is naming an airport after a woman known for kindness, wigs, and a theme park.",
-          "absurdity": "The gate announcements will never quite hit the same after this: 'Flight to Atlanta now boarding at Gate Jolene.'",
-          "outside": "In a country where naming a post office after someone triggers a Senate hearing, naming an entire international airport after a living country singer is either the most American thing ever or a sign that everyone just needed a win."
+          "contradiction": "Kalshi is a legal prediction market. Perez found a way to make a legal market into an illegal scheme without changing a single rule.",
+          "absurdity": "He was fined $172,000 for knowing what his boss was going to say. Most employees just call that 'being prepared.'",
+          "outside": "The CFTC had to regulate a bet about the word 'tariff.' This was not in the original mandate."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-29/candidate-4.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-08-29/candidate-4-punchy.jpg"
+      "image": "images/2026-08-30/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-08-30/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Google Buries Search Results Even Deeper Under AI Summaries Nobody Asked For",
-        "source": "The Verge",
+        "headline": "Meta Settles Social Media Addiction Lawsuit for Up to $17.1 Billion",
+        "source": "CBS News US",
         "date": "2026-08-29",
-        "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
-        "summary": "Googleが一部の検索でAIによる要約を自動展開するようになり、従来のリンク一覧がページのさらに下に追いやられることが明らかになった。"
+        "url": "https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/",
+        "summary": "メタ社は、同社のSNSが中毒性を持つように設計されているとして提起された集団訴訟を、最大171億ドルの和解金で解決することに合意した。"
       },
       "commentary": [
-        "<b>矛盾:</b> Googleは「世界中の情報を整理して届ける」会社として大きくなった。今やってるのは「情報に行く前にAIが代わりに読んであげる」こと。図書館が「本は奥にあります、入口でスタッフが内容を教えます」と言い出した感じ。",
-        "<b>滑稽さ:</b> 検索結果の下にあるリンクが「ウェブサイト」から「過去の遺物」になる日が近い。将来の子どもたちに「昔はリンクをクリックして読んでたんだよ」と話す親の顔が見えますね。",
-        "<b>日本・海外から見ると:</b> 日本でも検索エンジン離れが進んでいるが、Googleがコンテンツを作ったサイトへのトラフィックを絞りながら、そのコンテンツを学習したAIで答えを出す構図は、元の執筆者が報われない仕組みになっている。"
+        "<b>矛盾:</b> 「中毒性があるように作った」という訴えを認めないまま、171億ドルを払うんですよ。「何もしてないけど171億払います」という文書が存在してる。",
+        "<b>滑稽さ:</b> 和解発表のニュースを読んでいる人の多く、たぶんInstagramかFacebookで読んでるじゃないですか。和解金の一部はその画面上の広告収益から出てる。",
+        "<b>日本・海外から見ると:</b> 171億ドルはメタの年間売上の約1割。「中毒にした」と言われた会社の1割分の売上の原資が、中毒になったユーザーのスクロールから来てるんですよ。"
       ],
       "imagePrompts": [
-        "A Google search results page where the top three-quarters of the screen is filled with a large AI summary box labeled 'AI Overview,' and at the very bottom a tiny section labeled 'Actual Websites' with arrows pointing down, users with magnifying glasses searching for the links",
-        "A librarian standing at the entrance of a massive library, blocking the door, holding a printout that reads 'I already read everything inside—what did you want to know?' while stacks of books are visible but unreachable behind them",
-        "A 'then and now' comparison image: on the left, a clean Google results page with blue links in 2004; on the right, the same page in 2026 where a giant AI text block occupies 90% of the screen and a single tiny link is visible at the bottom labeled 'Source (if you insist)'"
+        "A person slumped on a couch, eyes glazed, phone in hand showing a social media feed, while a tiny check for $17.1 billion is slid under their front door with a sticky note reading 'Sorry, sort of'",
+        "A massive corporate boardroom with a chart showing $17.1 billion labeled 'SETTLEMENT' and a second chart showing $164 billion labeled 'REVENUE', both presented matter-of-factly side by side",
+        "A slot machine with a social media logo, coins pouring out into a bucket labeled 'LEGAL FEES', while the player keeps pulling the lever"
       ],
       "captions": [
-        "Google used to take you to the web. Now it takes a look at the web and gets back to you.",
-        "The links are still there. You just have to scroll past the AI explaining the links to find the links.",
-        "Publishers spent years gaming Google's algorithm to get traffic. Google spent one update making sure none of it matters.",
-        "It's a search engine that increasingly doesn't want you to search.",
-        "Coming soon: a button that says 'Skip AI' — available only after you scroll past the AI."
+        "$17.1 billion. No admission of wrongdoing. The app still works the same. Read about it on Instagram.",
+        "Meta's defense: 'We didn't make it addictive.' Meta's action: '$17.1 billion, now can we move on?'",
+        "The fine is about 10 percent of one year's revenue. Your bar tab would hurt more, proportionally.",
+        "They're paying billions to people who couldn't stop scrolling. The payout notification will appear in their feed.",
+        "No wrongdoing admitted. Seventeen billion dollars paid. Somewhere in legal, that sentence is considered a win."
       ],
       "captionsJa": [
-        "Googleはかつてウェブに連れて行ってくれた。今はウェブを一通り見て、代わりに教えてくれる。",
-        "リンクはまだある。AIがそのリンクの説明をしてるの、スクロールして通り過ぎれば辿り着ける。",
-        "サイト運営者たちが何年もかけてSEO対策した。Googleはアップデート1回でその努力を無意味にした。",
-        "「検索したくない人のための検索エンジン」に進化中。",
-        "近日公開予定：AIをスキップするボタン。ただし、AIを一通りスクロールした後でのみ表示。"
+        "171億ドル。不正行為は認めない。アプリは変わらない。このニュース、Instagramで読んだでしょ。",
+        "メタの主張：「中毒にしてない」。メタの行動：「171億払うから次いきましょう」。",
+        "罰金は年間売上の約1割。比率で言うと、あなたの先週の飲み代のほうが痛い。",
+        "スクロールが止まらなかった人たちへの支払いの通知が、そのフィードに届く。",
+        "不正行為は認めていない。170億ドル以上を支払った。法務部的には、これは勝ちらしい。"
       ],
-      "newsEn": "Google has begun automatically expanding its AI-generated search summaries at the top of results pages for certain queries, according to Search Engine Roundtable. The change pushes the standard list of search links significantly further down the page, with users sometimes needing to scroll past the AI summary to reach traditional results. The move continues a broader shift toward AI-first search presentation that has drawn criticism from publishers and SEO professionals.",
+      "newsEn": "Meta agreed to pay up to $17.1 billion to settle allegations that its social media platforms were designed to be addictive. The settlement covers a class action lawsuit brought by users and their families. Meta has not admitted wrongdoing as part of the deal.",
       "ironyEn": [
         {
-          "contradiction": "Google built its entire empire on sending people to other websites. It's now building a wall between users and those websites and calling it a helpful summary.",
-          "absurdity": "The links that were always the point of searching are now what you scroll past to get to the AI that summarized the links.",
-          "outside": "News publishers spent years optimizing their sites to show up on Google. Google is now using that content to generate answers that ensure users never visit those sites."
+          "contradiction": "Meta is paying $17.1 billion for allegedly making platforms addictive, while admitting nothing — which means the platforms remain exactly as they were.",
+          "absurdity": "Most people will read the settlement news on the platform that just settled. The ad revenue from that read contributes to Meta's ability to pay the fine.",
+          "outside": "From outside, it looks like the punishment for making people addicted to a product is: pay a fee, keep selling the product."
         },
         {
-          "contradiction": "A company worth over a trillion dollars because it found information for people is now hiding information behind a layer that finds the information so you don't have to.",
-          "absurdity": "The 'search result' is now the thing you find after you get past the search result.",
-          "outside": "Imagine a library that, when you ask for a book, just reads it to you at the door and sends you home. Same energy."
+          "contradiction": "The company built engagement tools so effective they generated a $17 billion lawsuit. They're keeping the tools.",
+          "absurdity": "$17.1 billion sounds massive until you remember Meta made roughly $164 billion in revenue last year. This is a rounding error with a press release.",
+          "outside": "Other industries that created addiction epidemics faced product bans. Meta faces a number that fits in one quarter's earnings."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-29/candidate-5.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-08-29/candidate-5-punchy.jpg"
+      "image": "images/2026-08-30/candidate-5.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-08-30/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "「守るべき機関が壊す」という構図が今日の5本を貫く一本の糸。国立公園局が眺望を潰し、FBIが自分の基準を静かに緩め、Googleが検索の先にある情報を隠し、Metaが知ってたのに17億ドル払うまでやめなかった——制度の建前と実態のズレを笑いながら持ち帰れる1日。",
-    "titleEn": "Protecting Things by Ruining Them",
-    "subtitleEn": "Five stories about institutions doing exactly what they're supposed to prevent.",
-    "titleJa": "「守る機関」が一番よく壊してる話を5本まとめました",
+    "thread": "今日の5本を貫く糸：「ルールを作った側が、そのルールに引っかかる日」。強制送還を叫んだ人が送還され、言論の自由の国が言論を裁判所で守り直し、景観保護機関が景観を壊し、大統領の言葉に賭けた人が罰せられ、SNSを中毒にした会社が「してません」と言いながら171億ドルを払う。",
+    "titleEn": "The Rules Came Back and Nobody Was Ready",
+    "subtitleEn": "Five stories about people who didn't think the rules applied to them.",
+    "titleJa": "「強制送還すべき」と言い続けた男が、今日、強制送還された",
     "titleAltJa": [
-      "国立公園局が景観を潰し、Metaが17億ドル払い、FBIが『こっそり』やった日",
-      "『これ笑うところですよ』って言わないと伝わらないニュースが今日5本あります"
+      "171億ドルを払っても「中毒にしてない」——今日のアメリカ5本、全部この構造だった",
+      "今日のアメリカニュース、なんか全部「自分で自分を論破してる」んですが"
     ],
-    "leadJa": "守るはずの組織が壊す。知ってたのにやめない。こっそり変えて誰も気づかないと思ってる。\n\n今日のアメリカ、そういう日でした。",
-    "introEn": "Some days the news has a theme. Today's theme is: the people in charge of protecting things are doing a great job destroying them.\n\nThe National Park Service endorsed a project its own report says will damage historic views. Meta paid $17 billion to fix things its own researchers said needed fixing years ago. The FBI quietly updated its hiring standards. Quietly. You'll see what I mean.\n\nAlso: Nashville might get the only airport name that could make a delayed flight feel okay. And Google is making sure you never have to click a link again—whether you wanted that or not.\n\nHere's the forecast: if today feels like the system isn't working the way it's supposed to, you're not wrong. That's not a personal failure. That's just Tuesday. You're fine.",
-    "introJa": "今日のアメリカのニュース、5本読んで気づいたことがあります。\n\n「守る」って言いながら壊してる人が多い。\n\n国立公園局は「歴史的建造物を守ります」という機関なんですけど、今日の報告書では「眺望に悪影響があります」と自分で書いて、そのまま「でも支持します」と続けていました。そういう一日です。\n\nMetaは17億ドル払って子どもの安全対策をします。内部資料では数年前から「これは問題だ」とわかってたやつです。FBIは採用基準を6月に「静かに」緩めました。FBIが「こっそり」やるのは得意なんですけど、自分の採用基準でやる話じゃないですよ。\n\nあとドリー・パートン空港の話もあります。これだけ普通にいいニュースです。\n\n今日の占い。「なんか制度がおかしくないか」と感じているあなた、それはあなたがおかしいんじゃなくて、制度がおかしいんです。仕事がうまくいかないのもたぶんそっちのせい。今日は堂々としていてください。",
-    "quipEn": "Today's lesson: the institution most likely to ignore the warning in its own report is the one whose entire job is the warning.",
-    "quipJa": "自分で「悪影響あり」と書いた報告書に判子を押す。それができる組織だけが、今日のアメリカで生き残っています。",
+    "leadJa": "今朝、コーヒーを飲みながら記事を開いたら、声が出ました。\n\n「強制送還すべき」と何年も叫んでいた人が強制送還されていた。月曜の朝からこれ。\n\nあとの4本も、だいたい同じ構造です。",
+    "introEn": "This morning I opened five different news tabs and noticed something.\n\nEvery single story was about someone who made the rules, then got hit by the rules. Or approved the rules and ignored them in the same document. Or paid $17 billion while insisting the rules didn't apply.\n\nMilo Yiannopoulos got deported. A college newspaper beat the federal government in court. The National Park Service wrote 'adverse effects' and then wrote 'we support it' on the next line. A teleprompter operator bet on words he'd already read. And Meta settled for $17.1 billion without admitting anything.\n\nHere's your forecast: if you've ever felt like the rules only apply to you and nobody else, today's news is proof you're not imagining things. That's not pessimism. That's just paying attention. Go into your day accordingly.",
+    "introJa": "今朝、5本の記事を立て続けに読んで、ちょっと待って、ってなりました。\n\n全部、同じ話なんですよ。\n\n「自分でルールを作った人が、そのルールに引っかかる話」。\n\nで、「ルールに反すると自分で書いて、それでも認めちゃう話」。5本中5本、全部この型。\n\n不法移民の即時送還を何年も訴えてきた人が、ビザ失効のまま7年いたことがバレて送還される。景観保護が仕事の機関が、「景観に悪影響あり」と書いた翌行で「支持します」と書く。SNSを中毒にした訴えに171億ドルを払いながら「してません」と言う。\n\nいや、毎朝これを読んでいる私も私なんですけど。\n\n今日の占いです。「なんで私だけルールを守らないといけないの」と思っているあなた、今日のニュースがその答えです。守ってない人は、だいたい最後に追いつかれます。遅いけど、ちゃんと追いつかれる。今日の仕事運、悪くないですよ。",
+    "quipEn": "Today's theme: the rules eventually find you, even if you wrote them, even if you approved the exemption, even if you paid $17 billion to say you didn't break them.",
+    "quipJa": "ルールって、作った人のところに最後に返ってくるんですよ。遅いけど、ちゃんと返ってくる。",
     "notesEn": [
-      "The National Park Service exists to protect America's historic landmarks. Their own report says the proposed Trump arch would damage views of dozens of them. They support it anyway. I had to read that sentence three times.",
-      "Meta is paying $17 billion to add a two-hour screen limit for kids on Instagram. Internal researchers flagged the need for this years ago. The lawsuit just made it cheaper to fix than to ignore. Barely.",
-      "The FBI updated its background check standards in June. Quietly. No press release, no explanation. The agency that runs background checks on everyone updated their own standards and didn't tell anyone. That's not a policy change. That's a plot point.",
-      "Nashville's governor wants to rename the international airport after Dolly Parton. It's a genuinely good idea. In a week full of institutions failing at their basic jobs, Tennessee looked around and said: what if we named something after someone people actually like?",
-      "Google is now auto-expanding its AI summaries so the actual search links get pushed even further down the page. The company that built its entire business on 'here are links to the web' is now in the business of 'trust us, we read it for you.' Publishers are not thrilled. I get it.",
-      "The through-line today: five stories about organizations doing the opposite of their stated purpose. The park service undermining landmarks. The background-check agency changing its own standards in secret. The platform that connected the world charging $17 billion to admit it did it badly.",
-      "Dolly Parton has not commented on the airport proposal. She doesn't need to. The fact that it's the least controversial thing in American politics right now tells you everything about where American politics is right now.",
-      "Google buries links under AI. Meta buries safety under features. The FBI buries its standards update under silence. The NPS buries the view of Lincoln Memorial under an arch. Today in: things getting buried."
+      "Milo Yiannopoulos spent years demanding the US deport people who overstay their visas. He overstayed his visa. ICE deported him. I genuinely don't know what to add.",
+      "A federal judge ruled the Trump administration can't deport international students for criticizing Israel. The First Amendment still exists. A college newspaper had to sue to confirm this. Both of those last sentences are true at the same time.",
+      "The National Park Service wrote a report finding that a 250-foot arch would have 'adverse effects' on historic sightlines. Then the same agency said it supports building the arch. The report still exists. So does the approval.",
+      "A White House teleprompter operator was fined $172,000 for betting on prediction markets about which words Trump would use in speeches. His inside information was: he ran the teleprompter. The CFTC had to explain why that's cheating.",
+      "Meta agreed to pay up to $17.1 billion to settle claims that its platforms were designed to be addictive. Meta did not admit wrongdoing. The apps still work the same way. You probably saw this story on one of them.",
+      "Today's American news in one sentence: five separate institutions discovered that the rules they made, ignored, or wrote reports about were, in fact, still rules.",
+      "The week's theme so far: 'I didn't think that applied to me' — Milo Yiannopoulos, the National Park Service, a teleprompter operator, and Meta, probably.",
+      "Five stories. Five different institutions. One recurring structure: write the rule, break the rule, act surprised when someone noticed."
     ],
     "xJa": [
-      "国立公園局「このアーチ、歴史的建造物の眺望に悪影響があります」→「支持します」。自分で赤ペン入れた答案に◯つける組織、今日のMVPです。",
-      "Metaが17億ドル払って「子どもに悪影響な機能をやめます」と発表。内部資料では数年前に悪影響だと把握していました。知ってたんかい。",
-      "FBIが6月に採用基準を「静かに」引き下げていたことが判明。FBIが「こっそり」やるのは得意なんですけど、それ、自分の採用基準でやるやつじゃないですよ。",
-      "テネシー州知事がナッシュビル空港をドリー・パートンにちなんで改名する提案。遅延アナウンスが少しだけ楽しくなる唯一の空港になるかもしれない。",
-      "Googleが検索結果の上にAI要約を自動展開、リンクはさらに下へ。「世界の情報を届ける」会社が「情報に行く前に俺が読んであげる」会社になりました。",
-      "今日のアメリカ：守る機関が壊し、知ってた機関が払い、調査する機関がこっそり変えた。唯一無傷なのはドリー・パートンで、もうそれだけでいい。",
-      "Googleの検索結果の下にあるリンク、将来の子どもたちに「昔はこれをクリックして読んでたんだよ」と話す日が来そうです。「なんで？」って聞かれても答えに困りますね。",
-      "「守るべき機関が一番よく壊している」という法則、今日だけで5件ありました。こんなのを毎朝読んでいる私も私ですが。"
+      "「不法移民は即刻送還すべき」と何年も訴えてきた英国人コメンテーター、ビザ失効のまま7年アメリカに住んでいたことが発覚してICEに送還される。これ、ICEにとっては史上もっとも説明しやすい案件だったと思う。",
+      "スタンフォードの学生新聞が「イスラエル批判を理由に留学生を強制送還するのは違憲」と連邦政府を訴えて勝った。学生新聞が連邦政府に勝った。言論の自由をめぐって。アメリカ、2026年。",
+      "国立公園局が「景観に悪影響あり」と書いた報告書を出したその翌行で「でもトランプ政権のアーチ計画は支持します」と書いていた。自分で自分に反対して、自分で却下した文書が公式に存在してる。",
+      "ホワイトハウスのテレプロンプター担当者が「大統領が演説で何の単語を使うか」に賭けて罰金17万2000ドル。インサイダー情報は「テレプロンプターに書いてある文字」。史上もっとも地味なインサイダー取引かもしれない。",
+      "メタ、「SNSを中毒になるよう設計した」という訴えに171億ドルで和解。「何も認めません」とのこと。アプリは変わらず動いてる。このニュース、Instagramで読んだ人もいると思う。",
+      "今日のアメリカニュース5本、全部「自分で作ったルールに自分で引っかかる話」か「自分でダメと書いて自分で認める話」だった。月曜の朝から何なんですかね。",
+      "強制送還を叫んだ人が送還され、景観保護機関が景観破壊を承認し、SNS企業が中毒にしてないと言いながら171億ドル払う。今日のアメリカ、ちょっと盛りすぎじゃないですか。",
+      "テレプロンプター担当者が大統領の演説に賭けて罰金、学生新聞が政府に勝訴、景観保護機関が景観破壊を承認——今日のアメリカ5本、全部オチがついてるのがつらい。"
     ],
-    "fullEn": "# Protecting Things by Ruining Them\n\n## Today's Forecast\n\nSome days the news has a theme. Today's theme is: the people in charge of protecting things are doing a great job destroying them.\n\nThe National Park Service endorsed a project its own report says will damage historic views. Meta paid $17 billion to fix things its own researchers said needed fixing years ago. The FBI quietly updated its hiring standards. Quietly. You'll see what I mean.\n\nAlso: Nashville might get the only airport name that could make a delayed flight feel okay. And Google is making sure you never have to click a link again—whether you wanted that or not.\n\nHere's the forecast: if today feels like the system isn't working the way it's supposed to, you're not wrong. That's not a personal failure. That's just Tuesday. You're fine.\n\n---\n\n## 1. National Park Service Backs Trump Arch That Would Block Views of DC's Historic Landmarks\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc)*\n\nA National Park Service report has endorsed the construction of a 250-foot arch proposed by President Trump in Washington, DC. The same report acknowledges that the structure would have adverse effects on the sightlines of dozens of historic landmarks in the capital. The agency that exists to protect the nation's monuments is supporting a project its own analysis says will harm them.\n\n**Why It's Funny**\n\n- **Contradiction:** The National Park Service was created to preserve America's historic sites. Its own report says the arch will harm dozens of them. The agency's response: let's build it.\n- **Absurdity:** Tourists will soon be able to visit DC and see a great arch blocking the view of the things they came to DC to see.\n- **View from Tokyo:** Abroad, people protect landmarks by keeping stuff away from them. In DC, the plan is to build something in front of them and call it a monument to protection.\n\n**Say It Out Loud**\n\n> The National Park Service's motto is 'preserving America's heritage.' Their new project is blocking it—literally.\n\n---\n\n## 2. Meta Pays $17 Billion to Add Rules for Kids Its Own Platforms Were Designed to Circumvent\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html)*\n\nMeta has reached a major legal settlement that requires Instagram and Facebook to impose a two-hour daily screen limit for users under 18 and prevent them from seeing reaction counts on posts. Safety experts say several of the mandated changes are meaningful. The settlement is valued at approximately $17 billion. Many of the features now legally required were previously identified by internal Meta research as necessary for child well-being.\n\n**Why It's Funny**\n\n- **Contradiction:** Meta's own internal research reportedly flagged these features as harmful to children years ago. The company's response at the time was to keep the features. The court's response now is $17 billion.\n- **Absurdity:** A two-hour daily limit sounds protective until you remember that the same company will spend the next two hours engineering ways to make those two hours more addictive than before.\n- **View from Tokyo:** Outside the US, regulators often ask companies to stop harmful practices before a settlement. Here, the sequence is: harm kids, get sued, pay, then stop.\n\n**Say It Out Loud**\n\n> Meta knew, kept going, got sued, and now gets credit for fixing it. That's one way to run a company.\n\n---\n\n## 3. FBI Quietly Lowers Background Check Standards, Including History of Hiring Prostitutes\n\n*CBS News US — [source](https://www.cbsnews.com/news/fbi-candidates-prostitutes-theft/)*\n\nThe FBI quietly lowered several standards used during background checks for prospective agents and other personnel in June. Among the changes, a history of hiring prostitutes may no longer automatically disqualify applicants. The update was made without a public announcement. The FBI has not provided detailed public explanation for the specific adjustments.\n\n**Why It's Funny**\n\n- **Contradiction:** The FBI conducts background investigations on millions of Americans. The agency just quietly lowered its own background check standards without telling anyone.\n- **Absurdity:** The agency best known for knowing everyone else's secrets decided to make this particular policy change a secret.\n- **View from Tokyo:** In most countries, lowering law enforcement hiring standards would prompt a parliamentary hearing. Here it took a CBS report for people to find out it happened.\n\n**Say It Out Loud**\n\n> The FBI runs background checks on everyone. They updated their own standards in June. You weren't supposed to notice.\n\n---\n\n## 4. Tennessee Governor Proposes Renaming Nashville Airport After Dolly Parton\n\n*CBS News US — [source](https://www.cbsnews.com/news/dolly-parton-nashville-airport-rename-proposal/)*\n\nTennessee's governor has put forward a proposal to rename the international airport in Nashville after country music icon Dolly Parton. The airport currently serves as one of the fastest-growing in the United States. No vote has been announced yet, and the proposal's timeline remains unclear.\n\n**Why It's Funny**\n\n- **Contradiction:** Most US airports are named after politicians and generals who spent their careers telling people where to go. Dolly Parton spent hers making people glad they arrived.\n- **Absurdity:** A woman famous for songs about leaving Tennessee would have her name on the building where people leave Tennessee.\n- **View from Tokyo:** Outside the US, airports are usually named after geography. Americans name airports after people—and a country singer might be the least controversial choice they've made in years.\n\n**Say It Out Loud**\n\n> Most airports are named after presidents or generals. Tennessee said: what if we tried someone people actually like?\n\n---\n\n## 5. Google Buries Search Results Even Deeper Under AI Summaries Nobody Asked For\n\n*The Verge — [source](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)*\n\nGoogle has begun automatically expanding its AI-generated search summaries at the top of results pages for certain queries, according to Search Engine Roundtable. The change pushes the standard list of search links significantly further down the page, with users sometimes needing to scroll past the AI summary to reach traditional results. The move continues a broader shift toward AI-first search presentation that has drawn criticism from publishers and SEO professionals.\n\n**Why It's Funny**\n\n- **Contradiction:** Google built its entire empire on sending people to other websites. It's now building a wall between users and those websites and calling it a helpful summary.\n- **Absurdity:** The links that were always the point of searching are now what you scroll past to get to the AI that summarized the links.\n- **View from Tokyo:** News publishers spent years optimizing their sites to show up on Google. Google is now using that content to generate answers that ensure users never visit those sites.\n\n**Say It Out Loud**\n\n> Google used to take you to the web. Now it takes a look at the web and gets back to you.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: the institution most likely to ignore the warning in its own report is the one whose entire job is the warning.\n",
-    "fullJa": "# 「守る機関」が一番よく壊してる話を5本まとめました\n\n## 今日を占うよ〜\n\n今日のアメリカのニュース、5本読んで気づいたことがあります。\n\n「守る」って言いながら壊してる人が多い。\n\n国立公園局は「歴史的建造物を守ります」という機関なんですけど、今日の報告書では「眺望に悪影響があります」と自分で書いて、そのまま「でも支持します」と続けていました。そういう一日です。\n\nMetaは17億ドル払って子どもの安全対策をします。内部資料では数年前から「これは問題だ」とわかってたやつです。FBIは採用基準を6月に「静かに」緩めました。FBIが「こっそり」やるのは得意なんですけど、自分の採用基準でやる話じゃないですよ。\n\nあとドリー・パートン空港の話もあります。これだけ普通にいいニュースです。\n\n今日の占い。「なんか制度がおかしくないか」と感じているあなた、それはあなたがおかしいんじゃなくて、制度がおかしいんです。仕事がうまくいかないのもたぶんそっちのせい。今日は堂々としていてください。\n\n---\n\n## 1. National Park Service Backs Trump Arch That Would Block Views of DC's Historic Landmarks\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/28/trump-arch-sightlines-washington-dc)）*\n\n国立公園局が、ワシントンDCの歴史的建造物の眺望に「悪影響を与える」と自ら認めながらも、トランプ大統領が提案する高さ約76メートルのアーチ建設を支持していることが報告書で明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 国立公園局の使命は「アメリカの歴史的・文化的遺産を保護する」こと。その組織が、自分たちのレポートで「悪影響がある」と書いた建物を「支持します」と言ってるんですよ。自分で赤ペン入れた答案に◯つけてる状態。\n- 滑稽さ: リンカーン記念堂の前に、リンカーンが見えなくなるアーチを建てる。観光客が「あのアーチの向こうに何かあるんですか？」って聞くたびに「昔は見えた有名なやつです」って答える係員が必要になりますね。\n- 日本・海外から見ると: 国の文化財を守る機関が「壊れるのわかってるけど賛成」と言う構図、日本で言えば文化庁が「世界遺産の真横に大型広告塔を建てます、景観は悪化しますが推奨します」と発表するようなもの。\n\n**このニュースをジョークにするなら...**\n\n> 国立公園局のモットーは「アメリカの遺産を守る」こと。新プロジェクトはそれを文字通りブロックしてます。\n\n---\n\n## 2. Meta Pays $17 Billion to Add Rules for Kids Its Own Platforms Were Designed to Circumvent\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/28/new-meta-safeguards-teens.html)）*\n\nMetaが子どもの安全をめぐる訴訟で17億ドル規模の和解に合意し、18歳未満のInstagram・Facebookユーザーに対して1日2時間の利用制限や投稿へのリアクション非表示などの新機能を導入することになった。\n\n**どこが笑える？**\n\n- 矛盾: 「子どものためにリアクション数を非表示にする」、これ、内部資料でMetaが数年前に「子どもに悪影響がある」とわかってた機能なんですよ。知っててやってたのを、17億ドル払ってやめる。\n- 滑稽さ: 1日2時間の制限を設けるって言うけど、13歳の子どもがサブアカウントを作るのに要する時間、何分だと思います？だいたいCM1本分です。\n- 日本・海外から見ると: 日本のガチャ課金問題と似た構図。「依存性があるとわかってた」→「規制が来た」→「対策します」の順番で、最初から設計を変えるという選択肢は最後まで出てこない。\n\n**このニュースをジョークにするなら...**\n\n> わかってた、続けた、訴えられた、直したら褒められた。それが経営というもの。\n\n---\n\n## 3. FBI Quietly Lowers Background Check Standards, Including History of Hiring Prostitutes\n\n*CBS News US（[記事](https://www.cbsnews.com/news/fbi-candidates-prostitutes-theft/)）*\n\nFBIが6月に採用基準の一部を静かに引き下げ、売春婦の利用歴などがあっても採用審査上の障壁とならない可能性があることが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: FBIは他人の身辺調査をする組織。その組織が自分たちの採用基準を「こっそり」緩める。諜報機関の透明性のなさを批判してきた人たちが、諜報機関のやり方で変更された基準に審査されることになる。\n- 滑稽さ: 「6月に静かに変えました」って、FBIが「こっそり」するの、得意なのはわかるんですけど、それ、自分の採用基準でやることじゃないんですよ。\n- 日本・海外から見ると: 警察の採用基準を「お静かに」緩める、というニュースが出た場合、日本なら国会で追及案件。アメリカではCBSがひっそり報じて終わりになりそうな雰囲気があるのが怖い。\n\n**このニュースをジョークにするなら...**\n\n> FBIは全員の身辺を調べる機関。6月に自分たちの採用基準を更新した。気づかなくていい話、らしい。\n\n---\n\n## 4. Tennessee Governor Proposes Renaming Nashville Airport After Dolly Parton\n\n*CBS News US（[記事](https://www.cbsnews.com/news/dolly-parton-nashville-airport-rename-proposal/)）*\n\nテネシー州知事が、ナッシュビル国際空港をカントリーミュージックの象徴ドリー・パートンにちなんで改名する提案を行った。\n\n**どこが笑える？**\n\n- 矛盾: アメリカでは政治家や軍人の名前がついた空港がほとんど。そこにドリー・パートンを持ってくるのは、実は「誰からも愛されてる人」という意味で最も民主的な選択かもしれない。矛盾を超えて正解になりかけてる案件。\n- 滑稽さ: アナウンスが「ドリー・パートン国際空港へようこそ」になる日、パイロットが滑走路でついニコッとする未来が見えますね。遅延のアナウンスでも少し楽しくなる唯一の空港。\n- 日本・海外から見ると: 日本だと空港名は地名が多い。アメリカは人名が多くて、政治色が強い場合はいつも論争になる。ドリー・パートン案は珍しく超党派でウケてるので、この国の政治的分断の深さを別の角度から見せてる。\n\n**このニュースをジョークにするなら...**\n\n> ほとんどの空港は大統領か将軍の名前。テネシーは「実際に好かれてる人」にしようと言い出した。\n\n---\n\n## 5. Google Buries Search Results Even Deeper Under AI Summaries Nobody Asked For\n\n*The Verge（[記事](https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand)）*\n\nGoogleが一部の検索でAIによる要約を自動展開するようになり、従来のリンク一覧がページのさらに下に追いやられることが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: Googleは「世界中の情報を整理して届ける」会社として大きくなった。今やってるのは「情報に行く前にAIが代わりに読んであげる」こと。図書館が「本は奥にあります、入口でスタッフが内容を教えます」と言い出した感じ。\n- 滑稽さ: 検索結果の下にあるリンクが「ウェブサイト」から「過去の遺物」になる日が近い。将来の子どもたちに「昔はリンクをクリックして読んでたんだよ」と話す親の顔が見えますね。\n- 日本・海外から見ると: 日本でも検索エンジン離れが進んでいるが、Googleがコンテンツを作ったサイトへのトラフィックを絞りながら、そのコンテンツを学習したAIで答えを出す構図は、元の執筆者が報われない仕組みになっている。\n\n**このニュースをジョークにするなら...**\n\n> Googleはかつてウェブに連れて行ってくれた。今はウェブを一通り見て、代わりに教えてくれる。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 自分で「悪影響あり」と書いた報告書に判子を押す。それができる組織だけが、今日のアメリカで生き残っています。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d1のcaption4が状況のなぞり倒しで落ちが弱い。d4のimagePrompts2に実在人物の顔が判別できる描写（正面・リボンカット式の人物列）が残っている。xJa6本目が「まとめ」形式で単体成立しているが締めが弱くオチなし。それ以外は合格。 ／ 文体パス: 3箇所直しました。xJa[3]の「可能性があります」、xJa[5]の締めの「偉大さがわかる」、xJa[7]の「確認できました」がプレゼン口調・整いすぎに該当。"
+    "fullEn": "# The Rules Came Back and Nobody Was Ready\n\n## Today's Forecast\n\nThis morning I opened five different news tabs and noticed something.\n\nEvery single story was about someone who made the rules, then got hit by the rules. Or approved the rules and ignored them in the same document. Or paid $17 billion while insisting the rules didn't apply.\n\nMilo Yiannopoulos got deported. A college newspaper beat the federal government in court. The National Park Service wrote 'adverse effects' and then wrote 'we support it' on the next line. A teleprompter operator bet on words he'd already read. And Meta settled for $17.1 billion without admitting anything.\n\nHere's your forecast: if you've ever felt like the rules only apply to you and nobody else, today's news is proof you're not imagining things. That's not pessimism. That's just paying attention. Go into your day accordingly.\n\n---\n\n## 1. Milo Yiannopoulos, Loudest Cheerleader for Mass Deportation, Gets Deported\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk)*\n\nMilo Yiannopoulos, a British far-right media figure who vocally supported the Trump administration's immigration crackdown, was arrested by ICE in New Orleans and deported to the UK. He had entered the US legally in 2019 but overstayed his visa and later failed to appear in court. DHS confirmed the deportation to Reuters and the Washington Post.\n\n**Why It's Funny**\n\n- **Contradiction:** A man who spent years demanding that illegal immigrants be thrown out of the country was himself an illegal immigrant for years.\n- **Absurdity:** ICE enforced immigration law against someone who was publicly rooting for ICE to enforce immigration law. The paperwork must have been deeply confusing.\n- **View from Tokyo:** From abroad, this reads like a morality tale so neat you'd reject it as fiction.\n\n**Say It Out Loud**\n\n> He spent years saying 'send them back.' Turns out he was in the demo group.\n\n---\n\n## 2. Federal Judge Rules Trump Can't Deport Students for Criticizing Israel\n\n*CBS News US — [source](https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/)*\n\nA federal judge ruled that the Trump administration cannot deport international students solely for criticizing Israel, delivering a win to Stanford University's student newspaper. The paper reported that some international students had been self-censoring out of fear of deportation. The ruling reinforces First Amendment protections for non-citizens on US soil.\n\n**Why It's Funny**\n\n- **Contradiction:** The country that exports 'free speech' as a core value needed a court to clarify that students can't be expelled from the country for writing opinions.\n- **Absurdity:** Stanford's student newspaper — a college paper — ended up being the plaintiff in a First Amendment case against the federal government. Journalism students, congratulations.\n- **View from Tokyo:** International students chose America specifically for academic freedom. They're now in court over whether academic freedom applies to them.\n\n**Say It Out Loud**\n\n> A college newspaper took the federal government to court over the First Amendment. The federal government lost. To a college newspaper.\n\n---\n\n## 3. National Park Service Backs Trump's 250-Foot Arch Despite Finding It Harms Historic Sites\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html)*\n\nThe National Park Service issued findings that a proposed 250-foot arch would have 'adverse effects' on historic sightlines and the visual relationships between nearby landmarks. Despite this finding, the agency stated it supports the project. The arch is backed by the Trump administration.\n\n**Why It's Funny**\n\n- **Contradiction:** The agency whose job is protecting historic landscapes officially found the project damages historic landscapes, then officially endorsed it.\n- **Absurdity:** They wrote 'adverse effects' in the report and 'we support it' in the conclusion. That document is doing a lot of work.\n- **View from Tokyo:** Environmental review processes exist to stop things like this. Apparently they can also be used to document things like this and then do them anyway.\n\n**Say It Out Loud**\n\n> They found 'adverse effects.' They approved it anyway. The form even has a box for that, apparently.\n\n---\n\n## 4. White House Teleprompter Operator Fined $172,000 for Betting on Trump's Speeches\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi)*\n\nGabriel Perez, a former White House teleprompter operator, was fined $172,000 by the Commodity Futures Trading Commission for using inside knowledge to place bets on prediction platform Kalshi about specific words President Trump would use in speeches. Perez left his position amid the accusations. The CFTC said he had advance access to speech content that gave him an unfair advantage.\n\n**Why It's Funny**\n\n- **Contradiction:** Prediction markets sell the idea of wisdom-of-the-crowd forecasting. One participant's crowd was just him and the teleprompter.\n- **Absurdity:** The insider information here was 'I read the script before the speech.' Wall Street insider trading cases are rarely this literal.\n- **View from Tokyo:** Outside the US, the headline 'man bets on presidential word choice' requires a second read just to confirm it's real.\n\n**Say It Out Loud**\n\n> He had access to the speech before the speech. He bet on the speech. The CFTC had to explain why that's illegal. All of this happened.\n\n---\n\n## 5. Meta Settles Social Media Addiction Lawsuit for Up to $17.1 Billion\n\n*CBS News US — [source](https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/)*\n\nMeta agreed to pay up to $17.1 billion to settle allegations that its social media platforms were designed to be addictive. The settlement covers a class action lawsuit brought by users and their families. Meta has not admitted wrongdoing as part of the deal.\n\n**Why It's Funny**\n\n- **Contradiction:** Meta is paying $17.1 billion for allegedly making platforms addictive, while admitting nothing — which means the platforms remain exactly as they were.\n- **Absurdity:** Most people will read the settlement news on the platform that just settled. The ad revenue from that read contributes to Meta's ability to pay the fine.\n- **View from Tokyo:** From outside, it looks like the punishment for making people addicted to a product is: pay a fee, keep selling the product.\n\n**Say It Out Loud**\n\n> $17.1 billion. No admission of wrongdoing. The app still works the same. Read about it on Instagram.\n\n---\n\n## Today's Punchline\n\n> Today's theme: the rules eventually find you, even if you wrote them, even if you approved the exemption, even if you paid $17 billion to say you didn't break them.\n",
+    "fullJa": "# 「強制送還すべき」と言い続けた男が、今日、強制送還された\n\n## 今日を占うよ〜\n\n今朝、5本の記事を立て続けに読んで、ちょっと待って、ってなりました。\n\n全部、同じ話なんですよ。\n\n「自分でルールを作った人が、そのルールに引っかかる話」。\n\nで、「ルールに反すると自分で書いて、それでも認めちゃう話」。5本中5本、全部この型。\n\n不法移民の即時送還を何年も訴えてきた人が、ビザ失効のまま7年いたことがバレて送還される。景観保護が仕事の機関が、「景観に悪影響あり」と書いた翌行で「支持します」と書く。SNSを中毒にした訴えに171億ドルを払いながら「してません」と言う。\n\nいや、毎朝これを読んでいる私も私なんですけど。\n\n今日の占いです。「なんで私だけルールを守らないといけないの」と思っているあなた、今日のニュースがその答えです。守ってない人は、だいたい最後に追いつかれます。遅いけど、ちゃんと追いつかれる。今日の仕事運、悪くないですよ。\n\n---\n\n## 1. Milo Yiannopoulos, Loudest Cheerleader for Mass Deportation, Gets Deported\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk)）*\n\n移民強硬派として知られる英国人コメンテーター、マイロ・ヤノポロスが、ビザ失効を理由にICEに拘束され、英国へ強制送還された。\n\n**どこが笑える？**\n\n- 矛盾: 「不法移民は即座に国外追放すべき」と長年主張してきた本人が、ビザ失効という不法滞在状態のまま7年間アメリカに住んでいたんですよ。\n- 滑稽さ: ICEにとって今回の案件、被疑者の主義主張と執行内容が完全に一致するという、史上もっとも楽なお仕事だったんじゃないですか。\n- 日本・海外から見ると: 「厳格な移民政策は自分には適用されない」という感覚、アメリカだけの話じゃないですけど、ここまでスッキリ可視化されるのは珍しい。\n\n**このニュースをジョークにするなら...**\n\n> 何年も「全員送り返せ」と言い続けた。まさか「全員」に自分が入るとは思ってなかったみたいですけど。\n\n---\n\n## 2. Federal Judge Rules Trump Can't Deport Students for Criticizing Israel\n\n*CBS News US（[記事](https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/)）*\n\n連邦裁判所は、イスラエルへの批判を理由に外国人留学生を強制送還することは違憲だと判断し、スタンフォード大学の学生新聞の主張を支持した。\n\n**どこが笑える？**\n\n- 矛盾: 「言論の自由の国」が、批判的な意見を書いた留学生を国外追放できるかどうかを裁判所で争っていたんですよ。\n- 滑稽さ: 学生新聞の記者が、取材対象の学生に「強制送還が怖くてコメントできない」と言われる状況。編集会議がどんな雰囲気か想像したくない。\n- 日本・海外から見ると: アメリカの大学を「自由な議論ができる場所」として留学先に選んだ学生にとって、この数年の展開はかなり違う話になってますよね。\n\n**このニュースをジョークにするなら...**\n\n> 大学の学生新聞が連邦政府を訴えて、連邦政府が負けた。相手は学生新聞ですよ。\n\n---\n\n## 3. National Park Service Backs Trump's 250-Foot Arch Despite Finding It Harms Historic Sites\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html)）*\n\n国立公園局は、景観や歴史的眺望への悪影響を自ら認めながら、トランプ政権が推進する高さ約76メートルのアーチ建設を支持すると表明した。\n\n**どこが笑える？**\n\n- 矛盾: 歴史的景観の保護を使命とする国立公園局が、「景観に悪影響あり」と自分で書いた報告書を出した翌ページで「でも支持します」と言ってるんですよ。\n- 滑稽さ: 「悪影響がある」「しかし認める」という文書構造、もはや自分で自分に反対意見を書いてそれを却下してる。\n- 日本・海外から見ると: 環境アセスメントって普通は「悪影響あり→計画見直し」という順番のはずで、「悪影響あり→まあいいか」というルートは珍しいんですよね。\n\n**このニュースをジョークにするなら...**\n\n> 「悪影響あり」と確認した。それでも承認した。どうやらその用のチェックボックスが書類に存在するらしい。\n\n---\n\n## 4. White House Teleprompter Operator Fined $172,000 for Betting on Trump's Speeches\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi)）*\n\nトランプ大統領の演説原稿を事前に把握できる立場を利用して、予測市場でインサイダー賭けを行ったホワイトハウスのテレプロンプター担当者が、商品先物取引委員会から約17万2000ドルの罰金を科された。\n\n**どこが笑える？**\n\n- 矛盾: 予測市場は「集合知で未来を当てる」という建前なんですが、テレプロンプターを読んだ人間が参加したら、それはもう予測じゃなくてカンニングですよね。\n- 滑稽さ: 賭けの対象が「大統領が何の単語を使うか」で、インサイダー情報が「テレプロンプターに書いてある文字」という、史上もっとも地味なインサイダー取引。\n- 日本・海外から見ると: 大統領演説の単語に金をかける市場がアメリカに存在すること自体、海外から見るとまず「え、そのゲームのルール教えて」ってなりますよね。\n\n**このニュースをジョークにするなら...**\n\n> 演説前に原稿を持っていた。演説に賭けた。CFTCがなぜそれがダメか説明しなきゃいけなかった。全部本当の話。\n\n---\n\n## 5. Meta Settles Social Media Addiction Lawsuit for Up to $17.1 Billion\n\n*CBS News US（[記事](https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/)）*\n\nメタ社は、同社のSNSが中毒性を持つように設計されているとして提起された集団訴訟を、最大171億ドルの和解金で解決することに合意した。\n\n**どこが笑える？**\n\n- 矛盾: 「中毒性があるように作った」という訴えを認めないまま、171億ドルを払うんですよ。「何もしてないけど171億払います」という文書が存在してる。\n- 滑稽さ: 和解発表のニュースを読んでいる人の多く、たぶんInstagramかFacebookで読んでるじゃないですか。和解金の一部はその画面上の広告収益から出てる。\n- 日本・海外から見ると: 171億ドルはメタの年間売上の約1割。「中毒にした」と言われた会社の1割分の売上の原資が、中毒になったユーザーのスクロールから来てるんですよ。\n\n**このニュースをジョークにするなら...**\n\n> 171億ドル。不正行為は認めない。アプリは変わらない。このニュース、Instagramで読んだでしょ。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> ルールって、作った人のところに最後に返ってくるんですよ。遅いけど、ちゃんと返ってくる。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "xJaが7本しかない（8本必要）。notesEnも7本（8本必要）。d1のcaption1は「6年」だが元データは「7年ビザ失効」で、ただし「6年間〜と言い続けた」という主張期間は元データに数字がなく独自解釈のリスクあり——captionに「7 years of overstaying」とあるので日本語5本目も含め期間の根拠を整理し修正。d4 caption4「通勤コストが高くついた」はオチとして弱い（状況の言い換えで終わっている）ので書き直し。introJaは書き言葉寄りで改行リズムが均一——段落構造を崩して呼吸を入れる。xJa・notesEnの本数不足を補填する。 ／ 文体パス: 2箇所修正。xJa[5]の「月曜の朝から学びが深い」がプレゼン締め口調、xJa[6]の「自己矛盾の密度が高すぎる」が漢語まとめ口調だったので崩した。"
   },
   "carousel": [
-    "images/2026-08-29/carousel/slide-1.jpg",
-    "images/2026-08-29/carousel/slide-2.jpg",
-    "images/2026-08-29/carousel/slide-3.jpg",
-    "images/2026-08-29/carousel/slide-4.jpg",
-    "images/2026-08-29/carousel/slide-5.jpg",
-    "images/2026-08-29/carousel/slide-6.jpg",
-    "images/2026-08-29/carousel/slide-7.jpg"
+    "images/2026-08-30/carousel/slide-1.jpg",
+    "images/2026-08-30/carousel/slide-2.jpg",
+    "images/2026-08-30/carousel/slide-3.jpg",
+    "images/2026-08-30/carousel/slide-4.jpg",
+    "images/2026-08-30/carousel/slide-5.jpg",
+    "images/2026-08-30/carousel/slide-6.jpg",
+    "images/2026-08-30/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-08-29/note-header.jpg",
-    "substack": "images/2026-08-29/substack-cover.jpg"
+    "note": "images/2026-08-30/note-header.jpg",
+    "substack": "images/2026-08-30/substack-cover.jpg"
   }
 };
