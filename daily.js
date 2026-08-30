@@ -1,311 +1,314 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-30",
-  "generatedAt": "2026-08-29T22:06:33+00:00",
+  "date": "2026-08-31",
+  "generatedAt": "2026-08-30T22:12:58+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Milo Yiannopoulos, Loudest Cheerleader for Mass Deportation, Gets Deported",
-        "source": "The Guardian US",
-        "date": "2026-08-30",
-        "url": "https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk",
-        "summary": "移民強硬派として知られる英国人コメンテーター、マイロ・ヤノポロスが、ビザ失効を理由にICEに拘束され、英国へ強制送還された。"
+        "headline": "Google Renames Lake Ontario 'Lake America' for U.S. Users After Trump Executive Order",
+        "source": "CBS News US",
+        "date": "2026-08-31",
+        "url": "https://www.cbsnews.com/news/lake-america-trump-order-google-maps-lake-ontario/",
+        "summary": "トランプ大統領の大統領令を受け、Googleがアメリカ国内のマップ上でオンタリオ湖の表示名を「レイク・アメリカ」に変更し始めたと発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「不法移民は即座に国外追放すべき」と長年主張してきた本人が、ビザ失効という不法滞在状態のまま7年間アメリカに住んでいたんですよ。",
-        "<b>滑稽さ:</b> ICEにとって今回の案件、被疑者の主義主張と執行内容が完全に一致するという、史上もっとも楽なお仕事だったんじゃないですか。",
-        "<b>日本・海外から見ると:</b> 「厳格な移民政策は自分には適用されない」という感覚、アメリカだけの話じゃないですけど、ここまでスッキリ可視化されるのは珍しい。"
+        "<b>矛盾:</b> 「地図の名前を変えれば現実が変わる」という発想で地政学をやっている。Googleが従ったことで、アメリカ人はレイク・アメリカを見ながら、カナダ人はオンタリオ湖を見るという「並行現実」が生まれたんですよ。",
+        "<b>滑稽さ:</b> 湖岸はカナダとの国境線そのもの。つまり「レイク・アメリカ」の北半分は、名実ともにアメリカじゃないんですよね。地図の上だけのアメリカ。",
+        "<b>日本・海外から見ると:</b> 日本で例えるなら琵琶湖を突然「レイク・ジャパン」に改名して、AppleとGoogleが従った感じ。他の国から見れば「あの国、また地図でやってる」案件。"
       ],
       "imagePrompts": [
-        "A man enthusiastically holding a large 'DEPORT THEM ALL' protest sign while simultaneously being escorted onto a deportation plane by two ICE officers, his own sign visible over his shoulder",
-        "A desk covered in 'DEPORTATION APPROVED' stamp marks, with one form at the center labeled with the subject's name, a thumbs-up sticker stuck to the corner",
-        "A revolving door at a US Customs building, with a figure exiting the 'DEPORTED' side while stacks of his own anti-immigration op-eds flutter to the ground behind him"
+        "A large lake with a dotted international border line running through its middle. The left (U.S.) side has a digital map overlay reading 'Lake America' in bold. The right (Canada) side has a handmade billboard reading 'Lake Ontario — Now and Always.' Geese fly across the border ignoring both signs.",
+        "A Google Maps interface on a phone screen showing 'Lake America.' A Canadian hand holds an identical phone showing 'Lake Ontario.' Both phones display the same blue shape of water.",
+        "An official-looking cartographer's desk covered in globes and atlases. A hand is crossing out 'Ontario' and writing 'America' with a marker. Through the window behind the desk, the actual lake is visible, completely unimpressed."
       ],
       "captions": [
-        "He spent years saying 'send them back.' Turns out he was in the demo group.",
-        "ICE finally found an illegal immigrant whose removal literally everyone agreed on — including the illegal immigrant.",
-        "Seven years of overstaying a visa. Thousands of tweets demanding zero tolerance. The math was always going to catch up.",
-        "The UK is getting him back. Nobody in the UK voted on this.",
-        "Somewhere, an ICE agent is going to dine out on this story for the rest of their career."
+        "The water's the same. The fish are the same. But now half of them are American fish, apparently.",
+        "Canada built a billboard. Trump signed an order. Google caved. The lake has no comment.",
+        "Executive orders: effective on databases, less effective on lakes.",
+        "You renamed a lake that Canada owns 50% of. Legally speaking, that's not renaming a lake — that's putting a flag in your neighbor's fish.",
+        "Other countries sanction each other. These two are fighting over who gets to label the water."
       ],
       "captionsJa": [
-        "何年も「全員送り返せ」と言い続けた。まさか「全員」に自分が入るとは思ってなかったみたいですけど。",
-        "ICEがついに、本人も含む全員が追放に同意した不法滞在者を見つけましたよ。",
-        "ビザ失効から7年。ゼロトレランスを訴えたツイート、数千件。計算は最初から合ってなかった。",
-        "英国が引き取ることになった。英国は誰も投票してないんですけど。",
-        "どこかのICE職員が、この話を定年まで飲み会のネタにし続けると思う。"
+        "水は同じ。魚も同じ。でも今はアメリカの魚、ってことになったらしいですよ。",
+        "カナダは看板を立てた。トランプは大統領令に署名した。Googleは従った。湖はノーコメント。",
+        "大統領令ってデータベースには効くんですけど、湖にはあんまり効かないんですよね。",
+        "カナダが半分持ってる湖を改名したんですよ。法的に言えばそれ、隣人の魚に旗を刺した話じゃないですか。",
+        "他の国は制裁で争うのに、この二国は水の名前ラベルで喧嘩してる。"
       ],
-      "newsEn": "Milo Yiannopoulos, a British far-right media figure who vocally supported the Trump administration's immigration crackdown, was arrested by ICE in New Orleans and deported to the UK. He had entered the US legally in 2019 but overstayed his visa and later failed to appear in court. DHS confirmed the deportation to Reuters and the Washington Post.",
+      "newsEn": "Google announced it has begun updating its maps to display 'Lake America' instead of 'Lake Ontario' for users in the United States, following an executive order signed by President Trump. Canada has pushed back against the renaming, with Ontario Premier Doug Ford unveiling a large billboard reading 'Lake Ontario — Now and Always.' The lake itself, of course, remains unchanged.",
       "ironyEn": [
         {
-          "contradiction": "A man who spent years demanding that illegal immigrants be thrown out of the country was himself an illegal immigrant for years.",
-          "absurdity": "ICE enforced immigration law against someone who was publicly rooting for ICE to enforce immigration law. The paperwork must have been deeply confusing.",
-          "outside": "From abroad, this reads like a morality tale so neat you'd reject it as fiction."
+          "contradiction": "Trump renamed a lake that's literally half in Canada. 'Lake America' shares a shoreline with a country that refuses to call it that.",
+          "absurdity": "Google updated the map. The lake did not update Google.",
+          "outside": "Canada put up a billboard. The U.S. issued an executive order. One of these things cost taxpayers nothing and will still be standing in fifty years."
         },
         {
-          "contradiction": "He overstayed his visa in 2019. He was loudly cheering for deportations in 2020, 2021, 2022, 2023, 2024, and 2025.",
-          "absurdity": "The government deported someone who agreed with the government's decision to deport him. There's probably a form for that.",
-          "outside": "In the UK, they're getting him back. Nobody asked the UK."
+          "contradiction": "An executive order can rename a body of water in a database, but cannot move the international border running through the middle of it.",
+          "absurdity": "American users now look at 'Lake America' while Canadian users look at 'Lake Ontario' — same lake, two realities, zero geological changes.",
+          "outside": "From abroad, this reads as the world's most expensive way to lose an argument with a neighbor who already owns half the thing you just renamed."
         }
       ],
-      "imageSeed": 1
+      "imageSeed": 1,
+      "image": "images/2026-08-31/candidate-1.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-08-31/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Federal Judge Rules Trump Can't Deport Students for Criticizing Israel",
-        "source": "CBS News US",
-        "date": "2026-08-30",
-        "url": "https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/",
-        "summary": "連邦裁判所は、イスラエルへの批判を理由に外国人留学生を強制送還することは違憲だと判断し、スタンフォード大学の学生新聞の主張を支持した。"
+        "headline": "USDA Shelves Cyclospora Research After Parasite Has Already Sickened Tens of Thousands",
+        "source": "The Guardian US",
+        "date": "2026-08-31",
+        "url": "https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved",
+        "summary": "トランプ政権が、数万人規模の食中毒被害を出してきた寄生虫「サイクロスポラ」の研究プロジェクトを、予算削減と研究者の再配置を理由にUSDAで事実上凍結したことが報じられた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「言論の自由の国」が、批判的な意見を書いた留学生を国外追放できるかどうかを裁判所で争っていたんですよ。",
-        "<b>滑稽さ:</b> 学生新聞の記者が、取材対象の学生に「強制送還が怖くてコメントできない」と言われる状況。編集会議がどんな雰囲気か想像したくない。",
-        "<b>日本・海外から見ると:</b> アメリカの大学を「自由な議論ができる場所」として留学先に選んだ学生にとって、この数年の展開はかなり違う話になってますよね。"
+        "<b>矛盾:</b> 食の安全を守るはずの農務省が、「食品由来の病気を研究する部門」を閉めるんですよ。玄関の鍵の研究予算を削りながら「防犯対策は万全」と言ってる感じ。",
+        "<b>滑稽さ:</b> 患者を数万人出してから「もう研究しなくていいか」という判断になったわけで、タイミングが逆すぎて笑えない。いや、笑うしかない。",
+        "<b>日本・海外から見ると:</b> 食品安全の研究は「コスト」に見えて、アウトブレイクが起きたときの経済損失と比べると桁が違う。外から見ると予防医学の基礎を削っている、という話。"
       ],
       "imagePrompts": [
-        "A student sitting at a library desk, surrounded by blank notebook pages, looking over their shoulder at a shadowy figure in the doorway labeled 'ICE', a half-written opinion piece visible on the desk",
-        "A college newspaper front page with large blank white boxes where op-eds should be, captioned 'SELF-CENSORED', displayed on a newsstand outside a prestigious university gate",
-        "A courtroom scale balancing a pocket US Constitution on one side and a stack of deportation forms on the other, with a judge's gavel mid-swing"
+        "A government laboratory being closed up with yellow caution tape. Inside through the window, microscopes and research equipment sit unused. Outside, a long line of people waits at a clinic labeled 'Cyclospora Treatment,' stretching around the block.",
+        "A USDA budget spreadsheet with the 'Cyclospora Research' line item crossed out with a red marker. Next to it, a small chart shows outbreak cases spiking upward.",
+        "An overhead view of a produce section in a grocery store, with fresh berries and herbs displayed. A tiny 'Caution: Under-researched' flag is planted in the middle of the strawberries."
       ],
       "captions": [
-        "A college newspaper took the federal government to court over the First Amendment. The federal government lost. To a college newspaper.",
-        "Students were scared to speak to the student press. We used to call that a red flag when it happened in other countries.",
-        "The good news: you can criticize Israel. The bad news: you had to wait for a judge to make that official.",
-        "Academic freedom, apparently, now comes with a legal citation attached.",
-        "Somewhere a journalism professor is updating their syllabus to include 'how to cover a story when your sources are afraid to exist.'"
+        "Tens of thousands sick. Problem solved — we stopped counting.",
+        "The parasite is still in the lettuce. The researchers are not still in the building. One of those things is adjustable.",
+        "Defunded: the team studying why people keep getting sick from salad. Still at large: the salad.",
+        "Three projects on a parasite that's sickened tens of thousands of Americans. We're down to one. Progress!",
+        "The cyclospora didn't apply for a budget exemption, so it's still operating at full capacity."
       ],
       "captionsJa": [
-        "大学の学生新聞が連邦政府を訴えて、連邦政府が負けた。相手は学生新聞ですよ。",
-        "学生が学生メディアに話すのを怖がってた。それって以前は「他の国の話」として紹介してた話じゃないですか。",
-        "朗報：イスラエルを批判してもいい。悲報：それを確認するのに裁判が必要だった。",
-        "学問の自由、どうやら今は判決文つきで提供されるらしい。",
-        "どこかのジャーナリズムの教授が、「情報源が存在することを恐れているときの取材方法」をシラバスに追加してると思う。"
+        "数万人が感染。問題解決——数えるのをやめました。",
+        "寄生虫はまだサラダの中にいる。研究者はもう職場にいない。どっちが動かせたかって話なんですよ。",
+        "廃止されたもの：なぜ人々がサラダで病気になるかを調べていたチーム。現在も野放し：サラダ。",
+        "数万人を病気にしてきた寄生虫の研究プロジェクトが3つあった。残り1つになりました。前進してる。",
+        "サイクロスポラは予算免除申請をしていないので、今も通常営業中です。"
       ],
-      "newsEn": "A federal judge ruled that the Trump administration cannot deport international students solely for criticizing Israel, delivering a win to Stanford University's student newspaper. The paper reported that some international students had been self-censoring out of fear of deportation. The ruling reinforces First Amendment protections for non-citizens on US soil.",
+      "newsEn": "The Trump administration is shutting down two of three USDA research projects studying cyclospora, a foodborne parasite that has sickened tens of thousands of Americans. Two projects were defunded by Congress, while relocations have disrupted staffing on the remaining work. Cyclospora outbreaks have been repeatedly linked to fresh produce imported into the United States.",
       "ironyEn": [
         {
-          "contradiction": "The country that exports 'free speech' as a core value needed a court to clarify that students can't be expelled from the country for writing opinions.",
-          "absurdity": "Stanford's student newspaper — a college paper — ended up being the plaintiff in a First Amendment case against the federal government. Journalism students, congratulations.",
-          "outside": "International students chose America specifically for academic freedom. They're now in court over whether academic freedom applies to them."
+          "contradiction": "The agency tasked with keeping the food supply safe just shut down the team studying one of the parasites making people sick from the food supply.",
+          "absurdity": "Tens of thousands sickened. Three research projects existed. Now there's one. Apparently the data was pointing in a direction someone didn't enjoy.",
+          "outside": "Most countries expand disease research after a wave of cases. The U.S. is trying something different."
         },
         {
-          "contradiction": "The administration built a deportation threat around speech. A judge built a ruling around the Constitution. One of those documents is older.",
-          "absurdity": "Students were too afraid to be quoted in a student newspaper. That sentence used to describe authoritarian states.",
-          "outside": "Foreign universities are watching this and quietly updating their recruitment brochures."
+          "contradiction": "Congress defunded two of the projects, meaning the legislature cut food safety research while constituents were still being hospitalized by the thing not being researched.",
+          "absurdity": "The parasite didn't get the memo. It's still out there, doing its thing, completely unaffected by the budget decision.",
+          "outside": "From a public health standpoint abroad, this looks less like a budget cut and more like deciding to stop counting the fires after the fire season starts."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-30/candidate-2.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-08-30/candidate-2-punchy.jpg"
+      "image": "images/2026-08-31/candidate-2.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-08-31/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "National Park Service Backs Trump's 250-Foot Arch Despite Finding It Harms Historic Sites",
+        "headline": "Trump-Branded 'Freedom Fuel' Stations Linked to $4 Million in Unpaid Gas Bills, Lawsuit Claims",
         "source": "CNBC Top News",
-        "date": "2026-08-30",
-        "url": "https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html",
-        "summary": "国立公園局は、景観や歴史的眺望への悪影響を自ら認めながら、トランプ政権が推進する高さ約76メートルのアーチ建設を支持すると表明した。"
+        "date": "2026-08-31",
+        "url": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
+        "summary": "トランプ大統領が宣伝していた「フリーダム・フューエル」ガソリンスタンドのネットワークに燃料を供給していた業者が、約400万ドル分の燃料代が未払いだとして連邦裁判所に訴訟を起こしたことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 歴史的景観の保護を使命とする国立公園局が、「景観に悪影響あり」と自分で書いた報告書を出した翌ページで「でも支持します」と言ってるんですよ。",
-        "<b>滑稽さ:</b> 「悪影響がある」「しかし認める」という文書構造、もはや自分で自分に反対意見を書いてそれを却下してる。",
-        "<b>日本・海外から見ると:</b> 環境アセスメントって普通は「悪影響あり→計画見直し」という順番のはずで、「悪影響あり→まあいいか」というルートは珍しいんですよね。"
+        "<b>矛盾:</b> 「エネルギーの自立」を訴えるブランドが、ガソリン代を払っていなかったと訴えられてる。自由のためにタダ乗りしてたってこと？",
+        "<b>滑稽さ:</b> ブランド名が「フリーダム・フューエル」——「フリー」の部分が文字通りになっちゃったんですよ。400万ドル分、フリー。",
+        "<b>日本・海外から見ると:</b> 大統領のお墨付きブランドが燃料代を踏み倒したという訴訟。「エンドースメントリスク」のケーススタディとして、MBAの授業で使えそうな話。"
       ],
       "imagePrompts": [
-        "A park ranger holding two clipboards side by side — one says 'ADVERSE EFFECTS ON HISTORIC SIGHTLINES' with a checkmark, the other says 'PROJECT APPROVED' with a checkmark, both signed by the same hand",
-        "A massive steel arch looming over a historic landscape, blocking a famous scenic vista, with a small sign at the base reading 'AS APPROVED BY THE NATIONAL PARK SERVICE'",
-        "A government office desk with a rubber stamp labeled 'APPROVED' pressed over a document whose visible text reads 'ADVERSE EFFECTS CONFIRMED'"
+        "A gas station with a large patriotic 'Freedom Fuel' sign featuring stars and stripes. The pump handles are wrapped in 'Past Due' invoice paper. A delivery truck driver stands at the door holding a clipboard with '$4,000,000 UNPAID' stamped in red.",
+        "A presidential podium with a 'Freedom Fuel' banner behind it. At the base of the podium, an overflowing inbox of unpaid invoices spills onto the floor.",
+        "A close-up of a gas pump screen that reads 'FREEDOM FUEL' at the top and 'PAYMENT DECLINED' at the bottom, with a little American flag sticker next to the error message."
       ],
       "captions": [
-        "They found 'adverse effects.' They approved it anyway. The form even has a box for that, apparently.",
-        "The agency that protects historic views wrote a report saying this blocks historic views. Then signed off on it.",
-        "National Park Service, tasked with preservation, reviewing a project: 'Yeah, it's bad for preservation. Love it.'",
-        "Most agencies try to hide contradictions like this. NPS put it in the same document.",
-        "250 feet tall, adverse effects confirmed, zero hesitation. Bold strategy."
+        "Freedom Fuel: liberty, patriotism, and apparently net-90 payment terms that nobody agreed to.",
+        "The brand is called Freedom Fuel. Four million dollars' worth of fuel. Free.",
+        "Endorsed by the president, sued by the guy who actually delivered the gas. The American dream, two different ways.",
+        "Energy independence — from invoices, specifically.",
+        "If you're going to not pay a $4 million fuel bill, 'Freedom Fuel' is at least the right name for it."
       ],
       "captionsJa": [
-        "「悪影響あり」と確認した。それでも承認した。どうやらその用のチェックボックスが書類に存在するらしい。",
-        "歴史的眺望を保護する機関が、「この建物は眺望を損ないます」と書いた報告書にサインした。",
-        "国立公園局、保全が使命なのにプロジェクト審査して「うん、保全に悪い。いいじゃないですか」。",
-        "普通の役所はこういう矛盾を隠そうとする。国立公園局は同じ書類に並べた。",
-        "高さ76メートル、悪影響確認済み、迷いゼロ。思い切った判断。"
+        "フリーダム・フューエル：自由と愛国心と、誰も合意していなかったらしい支払い猶予期間。",
+        "ブランド名はフリーダム・フューエル。400万ドル分のガソリン。フリー。",
+        "大統領がお墨付きを出して、実際に燃料を届けた業者が訴えた。アメリカンドリーム、二通りの解釈。",
+        "エネルギーの自立——特に請求書からの自立。",
+        "400万ドルの燃料代を払わないなら、社名は「フリーダム・フューエル」が確かに一番しっくりきますよね。"
       ],
-      "newsEn": "The National Park Service issued findings that a proposed 250-foot arch would have 'adverse effects' on historic sightlines and the visual relationships between nearby landmarks. Despite this finding, the agency stated it supports the project. The arch is backed by the Trump administration.",
+      "newsEn": "A federal lawsuit alleges that fuel distributor KRSM failed to pay for approximately $4 million worth of fuel, some of which was delivered to stations operating under the Trump-promoted Freedom Fuel brand. President Trump had publicly backed the Freedom Fuel network as part of his energy agenda. The lawsuit was filed in federal court against KRSM.",
       "ironyEn": [
         {
-          "contradiction": "The agency whose job is protecting historic landscapes officially found the project damages historic landscapes, then officially endorsed it.",
-          "absurdity": "They wrote 'adverse effects' in the report and 'we support it' in the conclusion. That document is doing a lot of work.",
-          "outside": "Environmental review processes exist to stop things like this. Apparently they can also be used to document things like this and then do them anyway."
+          "contradiction": "A gas station network promoted by the president as a symbol of American energy freedom is being sued for not paying for the gas.",
+          "absurdity": "Freedom Fuel. The 'free' part apparently applied to the fuel invoices.",
+          "outside": "In most countries, an endorsed brand not paying its suppliers would be called a scandal. In this news cycle, it's a Tuesday."
         },
         {
-          "contradiction": "The National Park Service is backing a structure it found would harm the very sightlines it was created to preserve.",
-          "absurdity": "The report essentially said 'this will hurt the historic views' and the response was 'noted, build it.'",
-          "outside": "Other countries submit environmental impact statements to regulators. The US submits them to history."
+          "contradiction": "The whole pitch was energy independence. It turns out 'independence' included independence from paying the fuel bill.",
+          "absurdity": "Four million dollars in gas. Unpaid. At a chain literally named after freedom. This is either irony or a very on-brand business model.",
+          "outside": "Presidential brand endorsements that end in federal lawsuits are a uniquely American genre of story that doesn't translate well abroad — mostly because other countries don't know what to do with it."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-30/candidate-3.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-08-30/candidate-3-punchy.jpg"
+      "image": "images/2026-08-31/candidate-3.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-08-31/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "White House Teleprompter Operator Fined $172,000 for Betting on Trump's Speeches",
-        "source": "The Guardian US",
-        "date": "2026-08-29",
-        "url": "https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi",
-        "summary": "トランプ大統領の演説原稿を事前に把握できる立場を利用して、予測市場でインサイダー賭けを行ったホワイトハウスのテレプロンプター担当者が、商品先物取引委員会から約17万2000ドルの罰金を科された。"
+        "headline": "Texas Governor Freezes Funding for AI Surveillance Cameras — Right Before Investigation Reveals $30 Million Already Spent",
+        "source": "The Verge",
+        "date": "2026-08-31",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
+        "summary": "テキサス州のグレッグ・アボット知事が、AIカメラ監視システム「フロック」への州資金の凍結を発表したが、直後にテキサス・トリビューンの調査報道で州がすでに3000万ドル以上を同システムに費やしていたことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 予測市場は「集合知で未来を当てる」という建前なんですが、テレプロンプターを読んだ人間が参加したら、それはもう予測じゃなくてカンニングですよね。",
-        "<b>滑稽さ:</b> 賭けの対象が「大統領が何の単語を使うか」で、インサイダー情報が「テレプロンプターに書いてある文字」という、史上もっとも地味なインサイダー取引。",
-        "<b>日本・海外から見ると:</b> 大統領演説の単語に金をかける市場がアメリカに存在すること自体、海外から見るとまず「え、そのゲームのルール教えて」ってなりますよね。"
+        "<b>矛盾:</b> 「もう買わない」と宣言した翌日に「3000万ドル、もう買ってた」と報道された。凍結の発表がちょうど調査報道の公開直前で、タイミングが絶妙すぎる。",
+        "<b>滑稽さ:</b> 市民をカメラで追跡するシステムの問題点は「見られている」こと。それを問題にした知事が、調査報道に「見られていた」という構図になってるんですよ。",
+        "<b>日本・海外から見ると:</b> 監視カメラの予算を交通違反の罰金で賄っていた、という点が特に興味深い。つまり速度違反をした市民が、自分を監視するカメラの資金を払っていた。"
       ],
       "imagePrompts": [
-        "A man in a suit standing at a teleprompter machine at a podium, surreptitiously typing into a phone app labeled 'BET NOW' with one hand while scrolling the speech text with the other",
-        "A CFTC hearing room with a giant display showing the word 'TARIFF' circled in red, labeled 'EVIDENCE', with a betting slip pinned next to it",
-        "A Wall Street trading floor with one tiny desk in the corner labeled 'PRESIDENTIAL WORD FUTURES', a single trader surrounded by much larger screens of stock data"
+        "A row of AI surveillance cameras on poles along a Texas highway. Below each camera, a small traffic fine receipt is taped. A government official holds a 'FROZEN' stamp but has already stamped only the last camera in a long, long row.",
+        "A split image: on the left, a 'SPENDING FREEZE' press release on official letterhead with today's date; on the right, a newspaper front page dated one day later reading '$30 MILLION ALREADY SPENT' with an image of the same cameras.",
+        "A giant receipt labeled 'STATE OF TEXAS — FLOCK CAMERAS' totaling $30,000,000+. A hand holds a pen trying to sign 'APPROVED' but the ink has already dried."
       ],
       "captions": [
-        "He had access to the speech before the speech. He bet on the speech. The CFTC had to explain why that's illegal. All of this happened.",
-        "Most insider trading involves quarterly earnings. His involved the word 'tremendous.'",
-        "The man literally ran the teleprompter. You can't get more inside than reading the script out loud.",
-        "$172,000 fine for knowing what your boss was going to say before he said it. He should've just asked for a raise.",
-        "Somewhere a compliance officer is adding 'teleprompter operators' to the insider trading training module."
+        "The state spent $30 million watching people. A newspaper spent nothing watching the state. Efficiency gap.",
+        "Governor freezes camera spending. Cameras: already bought, already watching, not frozen.",
+        "Traffic fines funded the surveillance network. So the people being watched paid for the cameras. Full circle.",
+        "He announced the freeze the day before the investigation dropped. That's not a policy change — that's a very bad calendar.",
+        "Flock cameras catch people doing things they shouldn't. Turns out that works on governments too."
       ],
       "captionsJa": [
-        "演説前に原稿を持っていた。演説に賭けた。CFTCがなぜそれがダメか説明しなきゃいけなかった。全部本当の話。",
-        "インサイダー取引といえば決算情報が相場だが、彼の場合は「tremendous」って単語だった。",
-        "テレプロンプターを実際に動かしていた人間が。原稿を読み上げた人間が。これ以上のインサイダーはいない。",
-        "上司が何を言うか、言う前から知ってて罰金17万2000ドル。それだけ知ってたなら昇給を交渉すべきだった。",
-        "どこかのコンプライアンス担当者が、インサイダー取引研修の対象リストに「テレプロンプター担当者」を追加してると思う。"
+        "州は3000万ドルかけて市民を監視した。新聞社は0円で州を監視した。コスパの差よ。",
+        "知事がカメラへの支出を凍結。カメラ：すでに買ってある、すでに稼働中、別に寒くない。",
+        "交通違反の罰金が監視ネットワークの資金になってたんですよ。つまり見られてる人が、自分を見るカメラの金を払ってた。完全な円環。",
+        "凍結の発表が調査報道の公開前日。ポリシー変更じゃなくて、カレンダーの管理ミスです。",
+        "フロックのカメラはやってはいけないことをしている人を捕まえる。政府にも使えるってわかりましたね。"
       ],
-      "newsEn": "Gabriel Perez, a former White House teleprompter operator, was fined $172,000 by the Commodity Futures Trading Commission for using inside knowledge to place bets on prediction platform Kalshi about specific words President Trump would use in speeches. Perez left his position amid the accusations. The CFTC said he had advance access to speech content that gave him an unfair advantage.",
+      "newsEn": "Texas Governor Greg Abbott froze state spending on Flock AI surveillance cameras amid growing public backlash. The move came just before a Texas Tribune investigation revealed the state had already spent over $30 million on the cameras, with much of the funding coming from traffic fines and fees. Flock cameras use license plate recognition and other AI tools to track vehicles across jurisdictions.",
       "ironyEn": [
         {
-          "contradiction": "Prediction markets sell the idea of wisdom-of-the-crowd forecasting. One participant's crowd was just him and the teleprompter.",
-          "absurdity": "The insider information here was 'I read the script before the speech.' Wall Street insider trading cases are rarely this literal.",
-          "outside": "Outside the US, the headline 'man bets on presidential word choice' requires a second read just to confirm it's real."
+          "contradiction": "The governor froze spending on surveillance cameras the day before journalists revealed how much had already been spent on surveillance cameras.",
+          "absurdity": "The cameras track citizens. The journalists tracked the spending. Only one of those groups is facing a funding freeze.",
+          "outside": "Abroad, the detail that traffic fines funded the surveillance network is the part that lands hardest — drivers literally paid to be watched."
         },
         {
-          "contradiction": "Kalshi is a legal prediction market. Perez found a way to make a legal market into an illegal scheme without changing a single rule.",
-          "absurdity": "He was fined $172,000 for knowing what his boss was going to say. Most employees just call that 'being prepared.'",
-          "outside": "The CFTC had to regulate a bet about the word 'tariff.' This was not in the original mandate."
+          "contradiction": "Abbott's announcement positioned the freeze as a response to public concern, but $30 million had already moved before anyone pumped the brakes.",
+          "absurdity": "Flock cameras are sold as a tool for catching people doing things they shouldn't. The irony is that a newspaper just used the same concept on the government.",
+          "outside": "The sequencing here — freeze announced, then investigation drops — is the kind of timing that looks different depending on which side of the press release you're reading it from."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-30/candidate-4.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-08-30/candidate-4-punchy.jpg"
+      "image": "images/2026-08-31/candidate-4.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-08-31/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Meta Settles Social Media Addiction Lawsuit for Up to $17.1 Billion",
-        "source": "CBS News US",
-        "date": "2026-08-29",
-        "url": "https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/",
-        "summary": "メタ社は、同社のSNSが中毒性を持つように設計されているとして提起された集団訴訟を、最大171億ドルの和解金で解決することに合意した。"
+        "headline": "'Fat Marmot Week' Champion Crowned by Researchers Who Fund Science Through OnlyFans",
+        "source": "The Guardian US",
+        "date": "2026-08-31",
+        "url": "https://www.theguardian.com/us-news/2026/aug/30/marmot-winner-fat-marmot-week-contest",
+        "summary": "数十年にわたる研究プロジェクトを継続するためにOnlyFansアカウントを開設した科学者たちが、マーモット8頭の「冬眠前の肥満コンテスト」を実施し、初代チャンピオンを決定した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「中毒性があるように作った」という訴えを認めないまま、171億ドルを払うんですよ。「何もしてないけど171億払います」という文書が存在してる。",
-        "<b>滑稽さ:</b> 和解発表のニュースを読んでいる人の多く、たぶんInstagramかFacebookで読んでるじゃないですか。和解金の一部はその画面上の広告収益から出てる。",
-        "<b>日本・海外から見ると:</b> 171億ドルはメタの年間売上の約1割。「中毒にした」と言われた会社の1割分の売上の原資が、中毒になったユーザーのスクロールから来てるんですよ。"
+        "<b>矛盾:</b> 科学者がOnlyFansで研究費を稼いでいるという時点で、アメリカの学術資金調達の何かが壊れているんですよ。でも投票で選ばれたマーモットに「チャンピオン」の称号がついているという事実のほうが、なぜか心が洗われる。",
+        "<b>滑稽さ:</b> 「ファット・マーモット・ウィーク」。学術プロジェクトの予算が切られた結果、研究者が「どのマーモットが一番太ったか」を一般投票にかけている。これがアメリカの科学資金危機の顔。かわいすぎる顔。",
+        "<b>日本・海外から見ると:</b> 日本の「カピバラ温泉」ブームとかパンダの赤ちゃん命名投票に近い文脈。ただ、あちらは動物園の余裕からくるイベントで、こちらは研究費が底をついた末の苦肉の策という違いがある。"
       ],
       "imagePrompts": [
-        "A person slumped on a couch, eyes glazed, phone in hand showing a social media feed, while a tiny check for $17.1 billion is slid under their front door with a sticky note reading 'Sorry, sort of'",
-        "A massive corporate boardroom with a chart showing $17.1 billion labeled 'SETTLEMENT' and a second chart showing $164 billion labeled 'REVENUE', both presented matter-of-factly side by side",
-        "A slot machine with a social media logo, coins pouring out into a bucket labeled 'LEGAL FEES', while the player keeps pulling the lever"
+        "A very round, fluffy marmot sitting on a rock, wearing a tiny sash reading 'FAT MARMOT CHAMPION.' Below the rock, a laptop displays an OnlyFans-style subscription page with marmot photos.",
+        "A university research office with a nearly empty budget spreadsheet on the wall. Through the window, eight marmots are visible on a hillside, with a voting booth-style setup next to them and a banner reading 'FAT MARMOT WEEK — VOTE NOW.'",
+        "A scientist at a field station desk, one hand writing field notes, the other hand managing a social media post with a photo of a fat marmot. The caption on the post reads: 'Subscribe for exclusive fat marmot content.'"
       ],
       "captions": [
-        "$17.1 billion. No admission of wrongdoing. The app still works the same. Read about it on Instagram.",
-        "Meta's defense: 'We didn't make it addictive.' Meta's action: '$17.1 billion, now can we move on?'",
-        "The fine is about 10 percent of one year's revenue. Your bar tab would hurt more, proportionally.",
-        "They're paying billions to people who couldn't stop scrolling. The payout notification will appear in their feed.",
-        "No wrongdoing admitted. Seventeen billion dollars paid. Somewhere in legal, that sentence is considered a win."
+        "Science funding is broken. Dawn is thriving.",
+        "They couldn't get a grant. They got an OnlyFans. Dawn won a sash. Peer review takes many forms.",
+        "The public voted on which marmot got fattest. This is how we do wildlife ecology now.",
+        "Fat Marmot Week exists because somewhere, a grant committee said no. Dawn said yes.",
+        "Eight marmots entered. One marmot won. None of them know about the OnlyFans."
       ],
       "captionsJa": [
-        "171億ドル。不正行為は認めない。アプリは変わらない。このニュース、Instagramで読んだでしょ。",
-        "メタの主張：「中毒にしてない」。メタの行動：「171億払うから次いきましょう」。",
-        "罰金は年間売上の約1割。比率で言うと、あなたの先週の飲み代のほうが痛い。",
-        "スクロールが止まらなかった人たちへの支払いの通知が、そのフィードに届く。",
-        "不正行為は認めていない。170億ドル以上を支払った。法務部的には、これは勝ちらしい。"
+        "科学の資金調達は壊れてる。ドーンはご機嫌です。",
+        "助成金は取れなかった。OnlyFansは取れた。ドーンはチャンピオンのたすきをもらった。査読にはいろんな形がある。",
+        "どのマーモットが一番太ったかを一般投票で決める。これが今の野生生物生態学のやり方。",
+        "ファット・マーモット・ウィークが存在するのは、どこかで助成金委員会が「ノー」と言ったから。ドーンは「イエス」と言った。",
+        "マーモット8頭が参加して、1頭が優勝した。OnlyFansのことは誰も教えていない。"
       ],
-      "newsEn": "Meta agreed to pay up to $17.1 billion to settle allegations that its social media platforms were designed to be addictive. The settlement covers a class action lawsuit brought by users and their families. Meta has not admitted wrongdoing as part of the deal.",
+      "newsEn": "A team of wildlife researchers who turned to OnlyFans to fund a decades-long marmot study crowned the winner of their inaugural 'Fat Marmot Week' contest. A yellow-bellied marmot named Dawn was selected champion through public voting as the animals fattened up ahead of winter hibernation. The contest was designed to raise public engagement — and funding — for the long-running research project.",
       "ironyEn": [
         {
-          "contradiction": "Meta is paying $17.1 billion for allegedly making platforms addictive, while admitting nothing — which means the platforms remain exactly as they were.",
-          "absurdity": "Most people will read the settlement news on the platform that just settled. The ad revenue from that read contributes to Meta's ability to pay the fine.",
-          "outside": "From outside, it looks like the punishment for making people addicted to a product is: pay a fee, keep selling the product."
+          "contradiction": "The scientists studying animal behavior for decades couldn't get their research funded through normal academic channels, so they posted marmots on OnlyFans.",
+          "absurdity": "The contest is called Fat Marmot Week. Dawn won. This is a peer-reviewed adjacent research program.",
+          "outside": "In most countries, a decades-long wildlife study would be a grant application. In the U.S. in 2026, it's a subscription service and a popularity contest."
         },
         {
-          "contradiction": "The company built engagement tools so effective they generated a $17 billion lawsuit. They're keeping the tools.",
-          "absurdity": "$17.1 billion sounds massive until you remember Meta made roughly $164 billion in revenue last year. This is a rounding error with a press release.",
-          "outside": "Other industries that created addiction epidemics faced product bans. Meta faces a number that fits in one quarter's earnings."
+          "contradiction": "Academic funding systems exist to support exactly this kind of long-term ecological research. They apparently did not support this long-term ecological research.",
+          "absurdity": "Eight marmots competed for the title of fattest marmot. The public voted. Dawn won. The scientists have a paper due.",
+          "outside": "The phrase 'OnlyFans-funded wildlife research' is a sentence that no science policy document anywhere anticipated having to address."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-30/candidate-5.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-08-30/candidate-5-punchy.jpg"
+      "image": "images/2026-08-31/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-08-31/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「ルールを作った側が、そのルールに引っかかる日」。強制送還を叫んだ人が送還され、言論の自由の国が言論を裁判所で守り直し、景観保護機関が景観を壊し、大統領の言葉に賭けた人が罰せられ、SNSを中毒にした会社が「してません」と言いながら171億ドルを払う。",
-    "titleEn": "The Rules Came Back and Nobody Was Ready",
-    "subtitleEn": "Five stories about people who didn't think the rules applied to them.",
-    "titleJa": "「強制送還すべき」と言い続けた男が、今日、強制送還された",
+    "thread": "今日の5本を貫く糸：「名前を変える」「研究を止める」「払わない」「見ながら隠す」「OnlyFansで稼ぐ」——全部、何かが正常に機能していないときに起きることだけど、正常な顔をしている。",
+    "titleEn": "Lake America, Freedom Fuel, and a Marmot Named Dawn",
+    "subtitleEn": "Five stories that explain everything wrong, very calmly.",
+    "titleJa": "「レイク・アメリカ」「フリーダム・フューエル（4億円踏み倒し）」「OnlyFansの学者」——今日のアメリカ、全部説明します",
     "titleAltJa": [
-      "171億ドルを払っても「中毒にしてない」——今日のアメリカ5本、全部この構造だった",
-      "今日のアメリカニュース、なんか全部「自分で自分を論破してる」んですが"
+      "3000万ドル使ってから「監視カメラ、凍結します」と言った知事の話",
+      "「フリーダム・フューエル」のフリーが文字通りになった日。あと太ったマーモットが優勝した。"
     ],
-    "leadJa": "今朝、コーヒーを飲みながら記事を開いたら、声が出ました。\n\n「強制送還すべき」と何年も叫んでいた人が強制送還されていた。月曜の朝からこれ。\n\nあとの4本も、だいたい同じ構造です。",
-    "introEn": "This morning I opened five different news tabs and noticed something.\n\nEvery single story was about someone who made the rules, then got hit by the rules. Or approved the rules and ignored them in the same document. Or paid $17 billion while insisting the rules didn't apply.\n\nMilo Yiannopoulos got deported. A college newspaper beat the federal government in court. The National Park Service wrote 'adverse effects' and then wrote 'we support it' on the next line. A teleprompter operator bet on words he'd already read. And Meta settled for $17.1 billion without admitting anything.\n\nHere's your forecast: if you've ever felt like the rules only apply to you and nobody else, today's news is proof you're not imagining things. That's not pessimism. That's just paying attention. Go into your day accordingly.",
-    "introJa": "今朝、5本の記事を立て続けに読んで、ちょっと待って、ってなりました。\n\n全部、同じ話なんですよ。\n\n「自分でルールを作った人が、そのルールに引っかかる話」。\n\nで、「ルールに反すると自分で書いて、それでも認めちゃう話」。5本中5本、全部この型。\n\n不法移民の即時送還を何年も訴えてきた人が、ビザ失効のまま7年いたことがバレて送還される。景観保護が仕事の機関が、「景観に悪影響あり」と書いた翌行で「支持します」と書く。SNSを中毒にした訴えに171億ドルを払いながら「してません」と言う。\n\nいや、毎朝これを読んでいる私も私なんですけど。\n\n今日の占いです。「なんで私だけルールを守らないといけないの」と思っているあなた、今日のニュースがその答えです。守ってない人は、だいたい最後に追いつかれます。遅いけど、ちゃんと追いつかれる。今日の仕事運、悪くないですよ。",
-    "quipEn": "Today's theme: the rules eventually find you, even if you wrote them, even if you approved the exemption, even if you paid $17 billion to say you didn't break them.",
-    "quipJa": "ルールって、作った人のところに最後に返ってくるんですよ。遅いけど、ちゃんと返ってくる。",
+    "leadJa": "毎朝アメリカのニュースを読んでいます。今日も読みました。声が出ました。\n\n「レイク・アメリカ」「フリーダム（無料）フューエル」「監視カメラを買ってから凍結」「マーモットのOnlyFans」。全部、今日の実話です。",
+    "introEn": "Five stories today. One theme: systems doing the exact opposite of their job, with complete confidence.\n\nGoogle is now showing 'Lake America' to American users. Texas froze AI camera spending — right after spending $30 million on AI cameras. A brand called Freedom Fuel allegedly didn't pay for the fuel. And a research team is funding wildlife science through OnlyFans because grants weren't happening.\n\nHere's your forecast. If you've ever done everything right and still come up short — filled out the form, followed the process, played by the rules — today's news is weirdly validating. The people running things are also just making it up as they go. You're not behind. The scoreboard is broken. Dawn the marmot is thriving, and honestly, so can you.",
+    "introJa": "今日の5本、読み終えてから気づいたんですが、全部「本来やるべきことと逆のことをやっている」話なんですよ。\n\nGoogleが地図上でオンタリオ湖を「レイク・アメリカ」に改名。テキサス州は監視カメラ予算を凍結——3000万ドル使ったあとに。「フリーダム・フューエル」は燃料代400万ドルを払っていないと訴えられ。食中毒の原因を研究していたチームは予算を切られ。そして科学者がOnlyFansでマーモットの研究費を稼いでいる。\n\nで、これを毎朝読んでいる私も私ですが。\n\n今日の占い、聞いてください。これだけシステムが逆回転しているということは、あなたが「なんでうまくいかないんだろう」と思っていることの、少なくとも半分はあなたのせいじゃないんですよ。環境がおかしい。マーモットのDawnでさえ、不条理な仕組みの中でちゃんと太って、チャンピオンになっています。今日はあなたも、そのくらいの気持ちでいてください。",
+    "quipEn": "The lake is unchanged. The fuel wasn't paid for. The cameras are still on. And Dawn is fat and happy. Some systems are working fine.",
+    "quipJa": "湖は何も変わっていない。ガソリン代は払われていない。カメラはまだ動いている。Dawnは太って優勝した。正常に機能しているものもある。",
     "notesEn": [
-      "Milo Yiannopoulos spent years demanding the US deport people who overstay their visas. He overstayed his visa. ICE deported him. I genuinely don't know what to add.",
-      "A federal judge ruled the Trump administration can't deport international students for criticizing Israel. The First Amendment still exists. A college newspaper had to sue to confirm this. Both of those last sentences are true at the same time.",
-      "The National Park Service wrote a report finding that a 250-foot arch would have 'adverse effects' on historic sightlines. Then the same agency said it supports building the arch. The report still exists. So does the approval.",
-      "A White House teleprompter operator was fined $172,000 for betting on prediction markets about which words Trump would use in speeches. His inside information was: he ran the teleprompter. The CFTC had to explain why that's cheating.",
-      "Meta agreed to pay up to $17.1 billion to settle claims that its platforms were designed to be addictive. Meta did not admit wrongdoing. The apps still work the same way. You probably saw this story on one of them.",
-      "Today's American news in one sentence: five separate institutions discovered that the rules they made, ignored, or wrote reports about were, in fact, still rules.",
-      "The week's theme so far: 'I didn't think that applied to me' — Milo Yiannopoulos, the National Park Service, a teleprompter operator, and Meta, probably.",
-      "Five stories. Five different institutions. One recurring structure: write the rule, break the rule, act surprised when someone noticed."
+      "Google is now showing 'Lake America' instead of 'Lake Ontario' for U.S. users, per a Trump executive order. Canada built a billboard. The lake has no comment. The fish are the same fish.",
+      "The USDA shelved research on cyclospora — a parasite that has sickened tens of thousands of Americans — citing budget cuts and staff relocations. The parasite wasn't notified and has continued operations.",
+      "A federal lawsuit claims that stations operating under Trump's Freedom Fuel brand are connected to $4 million in unpaid fuel bills. The brand is called Freedom Fuel. Four million dollars of fuel. Free.",
+      "Texas Governor Greg Abbott froze state spending on Flock AI surveillance cameras. A newspaper then reported the state had already spent over $30 million on them — funded largely by traffic fines. The people being watched paid for the cameras. The governor is now watching the newspaper.",
+      "Scientists studying yellow-bellied marmots turned to OnlyFans to fund their research. The public voted on which marmot was fattest. A marmot named Dawn won. This is peer review now.",
+      "Today's five stories, one sentence: a renamed lake, an unpaid fuel bill, a shelved parasite study, a $30 million surveillance freeze, and a marmot named Dawn — all happening at the same time, all making complete sense if you don't think about it.",
+      "The common thread in today's news: every system doing the opposite of its stated purpose, confidently. The food safety team: defunded. The 'energy independence' brand: not paying for energy. The anti-surveillance announcement: made after buying the surveillance. Functioning as designed.",
+      "Dawn the marmot won Fat Marmot Week. Researchers who couldn't get grants funded their decades-long wildlife study through OnlyFans. Science funding is broken. Dawn is thriving. There's a lesson in there somewhere."
     ],
     "xJa": [
-      "「不法移民は即刻送還すべき」と何年も訴えてきた英国人コメンテーター、ビザ失効のまま7年アメリカに住んでいたことが発覚してICEに送還される。これ、ICEにとっては史上もっとも説明しやすい案件だったと思う。",
-      "スタンフォードの学生新聞が「イスラエル批判を理由に留学生を強制送還するのは違憲」と連邦政府を訴えて勝った。学生新聞が連邦政府に勝った。言論の自由をめぐって。アメリカ、2026年。",
-      "国立公園局が「景観に悪影響あり」と書いた報告書を出したその翌行で「でもトランプ政権のアーチ計画は支持します」と書いていた。自分で自分に反対して、自分で却下した文書が公式に存在してる。",
-      "ホワイトハウスのテレプロンプター担当者が「大統領が演説で何の単語を使うか」に賭けて罰金17万2000ドル。インサイダー情報は「テレプロンプターに書いてある文字」。史上もっとも地味なインサイダー取引かもしれない。",
-      "メタ、「SNSを中毒になるよう設計した」という訴えに171億ドルで和解。「何も認めません」とのこと。アプリは変わらず動いてる。このニュース、Instagramで読んだ人もいると思う。",
-      "今日のアメリカニュース5本、全部「自分で作ったルールに自分で引っかかる話」か「自分でダメと書いて自分で認める話」だった。月曜の朝から何なんですかね。",
-      "強制送還を叫んだ人が送還され、景観保護機関が景観破壊を承認し、SNS企業が中毒にしてないと言いながら171億ドル払う。今日のアメリカ、ちょっと盛りすぎじゃないですか。",
-      "テレプロンプター担当者が大統領の演説に賭けて罰金、学生新聞が政府に勝訴、景観保護機関が景観破壊を承認——今日のアメリカ5本、全部オチがついてるのがつらい。"
+      "Googleがアメリカ国内の地図でオンタリオ湖を「レイク・アメリカ」に改名しました。カナダは「オンタリオ湖——今も、これからも」という看板を建てました。湖は何もしていません。",
+      "アメリカで食中毒被害を数万人出してきた寄生虫の研究が、USDAの予算削減で事実上停止されました。問題を研究するチームをなくせば問題が消える、と思っているんですかね。",
+      "トランプ大統領が宣伝していた「フリーダム・フューエル」ブランドのガソリンスタンド、燃料代約400万ドルを払っていないと訴えられました。「フリーダム」の「フリー」が文字通りになりました。",
+      "テキサス州知事がAI監視カメラの予算を凍結と発表→直後に調査報道で「すでに3000万ドル以上使っていた」と判明。監視する側が、取材に見られていました。",
+      "交通違反の罰金でAI監視カメラを買っていたテキサス州。つまり、カメラで見られる市民が、自分を見るカメラを買っていたということです。何なんですかね、これ。",
+      "研究費が底をついた動物学者たちがOnlyFansで資金調達→マーモットの「冬眠前肥満コンテスト」を開催→Dawnが優勝。アメリカの科学資金危機の顔が、思ったよりかわいい。",
+      "今日学んだこと：地図の名前は変えられる。ガソリン代は払わなくてもブランドは作れる。監視カメラは買ってから凍結できる。研究費はOnlyFansで稼げる。Dawnは太れる。",
+      "「フリーダム・フューエル」「レイク・アメリカ」「ファット・マーモット・ウィーク」。これ全部今日の実話です。毎朝こんなニュースを読んでいる自分が、たまによくわからなくなる。"
     ],
-    "fullEn": "# The Rules Came Back and Nobody Was Ready\n\n## Today's Forecast\n\nThis morning I opened five different news tabs and noticed something.\n\nEvery single story was about someone who made the rules, then got hit by the rules. Or approved the rules and ignored them in the same document. Or paid $17 billion while insisting the rules didn't apply.\n\nMilo Yiannopoulos got deported. A college newspaper beat the federal government in court. The National Park Service wrote 'adverse effects' and then wrote 'we support it' on the next line. A teleprompter operator bet on words he'd already read. And Meta settled for $17.1 billion without admitting anything.\n\nHere's your forecast: if you've ever felt like the rules only apply to you and nobody else, today's news is proof you're not imagining things. That's not pessimism. That's just paying attention. Go into your day accordingly.\n\n---\n\n## 1. Milo Yiannopoulos, Loudest Cheerleader for Mass Deportation, Gets Deported\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk)*\n\nMilo Yiannopoulos, a British far-right media figure who vocally supported the Trump administration's immigration crackdown, was arrested by ICE in New Orleans and deported to the UK. He had entered the US legally in 2019 but overstayed his visa and later failed to appear in court. DHS confirmed the deportation to Reuters and the Washington Post.\n\n**Why It's Funny**\n\n- **Contradiction:** A man who spent years demanding that illegal immigrants be thrown out of the country was himself an illegal immigrant for years.\n- **Absurdity:** ICE enforced immigration law against someone who was publicly rooting for ICE to enforce immigration law. The paperwork must have been deeply confusing.\n- **View from Tokyo:** From abroad, this reads like a morality tale so neat you'd reject it as fiction.\n\n**Say It Out Loud**\n\n> He spent years saying 'send them back.' Turns out he was in the demo group.\n\n---\n\n## 2. Federal Judge Rules Trump Can't Deport Students for Criticizing Israel\n\n*CBS News US — [source](https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/)*\n\nA federal judge ruled that the Trump administration cannot deport international students solely for criticizing Israel, delivering a win to Stanford University's student newspaper. The paper reported that some international students had been self-censoring out of fear of deportation. The ruling reinforces First Amendment protections for non-citizens on US soil.\n\n**Why It's Funny**\n\n- **Contradiction:** The country that exports 'free speech' as a core value needed a court to clarify that students can't be expelled from the country for writing opinions.\n- **Absurdity:** Stanford's student newspaper — a college paper — ended up being the plaintiff in a First Amendment case against the federal government. Journalism students, congratulations.\n- **View from Tokyo:** International students chose America specifically for academic freedom. They're now in court over whether academic freedom applies to them.\n\n**Say It Out Loud**\n\n> A college newspaper took the federal government to court over the First Amendment. The federal government lost. To a college newspaper.\n\n---\n\n## 3. National Park Service Backs Trump's 250-Foot Arch Despite Finding It Harms Historic Sites\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html)*\n\nThe National Park Service issued findings that a proposed 250-foot arch would have 'adverse effects' on historic sightlines and the visual relationships between nearby landmarks. Despite this finding, the agency stated it supports the project. The arch is backed by the Trump administration.\n\n**Why It's Funny**\n\n- **Contradiction:** The agency whose job is protecting historic landscapes officially found the project damages historic landscapes, then officially endorsed it.\n- **Absurdity:** They wrote 'adverse effects' in the report and 'we support it' in the conclusion. That document is doing a lot of work.\n- **View from Tokyo:** Environmental review processes exist to stop things like this. Apparently they can also be used to document things like this and then do them anyway.\n\n**Say It Out Loud**\n\n> They found 'adverse effects.' They approved it anyway. The form even has a box for that, apparently.\n\n---\n\n## 4. White House Teleprompter Operator Fined $172,000 for Betting on Trump's Speeches\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi)*\n\nGabriel Perez, a former White House teleprompter operator, was fined $172,000 by the Commodity Futures Trading Commission for using inside knowledge to place bets on prediction platform Kalshi about specific words President Trump would use in speeches. Perez left his position amid the accusations. The CFTC said he had advance access to speech content that gave him an unfair advantage.\n\n**Why It's Funny**\n\n- **Contradiction:** Prediction markets sell the idea of wisdom-of-the-crowd forecasting. One participant's crowd was just him and the teleprompter.\n- **Absurdity:** The insider information here was 'I read the script before the speech.' Wall Street insider trading cases are rarely this literal.\n- **View from Tokyo:** Outside the US, the headline 'man bets on presidential word choice' requires a second read just to confirm it's real.\n\n**Say It Out Loud**\n\n> He had access to the speech before the speech. He bet on the speech. The CFTC had to explain why that's illegal. All of this happened.\n\n---\n\n## 5. Meta Settles Social Media Addiction Lawsuit for Up to $17.1 Billion\n\n*CBS News US — [source](https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/)*\n\nMeta agreed to pay up to $17.1 billion to settle allegations that its social media platforms were designed to be addictive. The settlement covers a class action lawsuit brought by users and their families. Meta has not admitted wrongdoing as part of the deal.\n\n**Why It's Funny**\n\n- **Contradiction:** Meta is paying $17.1 billion for allegedly making platforms addictive, while admitting nothing — which means the platforms remain exactly as they were.\n- **Absurdity:** Most people will read the settlement news on the platform that just settled. The ad revenue from that read contributes to Meta's ability to pay the fine.\n- **View from Tokyo:** From outside, it looks like the punishment for making people addicted to a product is: pay a fee, keep selling the product.\n\n**Say It Out Loud**\n\n> $17.1 billion. No admission of wrongdoing. The app still works the same. Read about it on Instagram.\n\n---\n\n## Today's Punchline\n\n> Today's theme: the rules eventually find you, even if you wrote them, even if you approved the exemption, even if you paid $17 billion to say you didn't break them.\n",
-    "fullJa": "# 「強制送還すべき」と言い続けた男が、今日、強制送還された\n\n## 今日を占うよ〜\n\n今朝、5本の記事を立て続けに読んで、ちょっと待って、ってなりました。\n\n全部、同じ話なんですよ。\n\n「自分でルールを作った人が、そのルールに引っかかる話」。\n\nで、「ルールに反すると自分で書いて、それでも認めちゃう話」。5本中5本、全部この型。\n\n不法移民の即時送還を何年も訴えてきた人が、ビザ失効のまま7年いたことがバレて送還される。景観保護が仕事の機関が、「景観に悪影響あり」と書いた翌行で「支持します」と書く。SNSを中毒にした訴えに171億ドルを払いながら「してません」と言う。\n\nいや、毎朝これを読んでいる私も私なんですけど。\n\n今日の占いです。「なんで私だけルールを守らないといけないの」と思っているあなた、今日のニュースがその答えです。守ってない人は、だいたい最後に追いつかれます。遅いけど、ちゃんと追いつかれる。今日の仕事運、悪くないですよ。\n\n---\n\n## 1. Milo Yiannopoulos, Loudest Cheerleader for Mass Deportation, Gets Deported\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/29/milo-yiannopoulos-deported-us-to-uk)）*\n\n移民強硬派として知られる英国人コメンテーター、マイロ・ヤノポロスが、ビザ失効を理由にICEに拘束され、英国へ強制送還された。\n\n**どこが笑える？**\n\n- 矛盾: 「不法移民は即座に国外追放すべき」と長年主張してきた本人が、ビザ失効という不法滞在状態のまま7年間アメリカに住んでいたんですよ。\n- 滑稽さ: ICEにとって今回の案件、被疑者の主義主張と執行内容が完全に一致するという、史上もっとも楽なお仕事だったんじゃないですか。\n- 日本・海外から見ると: 「厳格な移民政策は自分には適用されない」という感覚、アメリカだけの話じゃないですけど、ここまでスッキリ可視化されるのは珍しい。\n\n**このニュースをジョークにするなら...**\n\n> 何年も「全員送り返せ」と言い続けた。まさか「全員」に自分が入るとは思ってなかったみたいですけど。\n\n---\n\n## 2. Federal Judge Rules Trump Can't Deport Students for Criticizing Israel\n\n*CBS News US（[記事](https://www.cbsnews.com/news/trump-cannot-deport-students-for-criticizing-israel-federal-judge-rules/)）*\n\n連邦裁判所は、イスラエルへの批判を理由に外国人留学生を強制送還することは違憲だと判断し、スタンフォード大学の学生新聞の主張を支持した。\n\n**どこが笑える？**\n\n- 矛盾: 「言論の自由の国」が、批判的な意見を書いた留学生を国外追放できるかどうかを裁判所で争っていたんですよ。\n- 滑稽さ: 学生新聞の記者が、取材対象の学生に「強制送還が怖くてコメントできない」と言われる状況。編集会議がどんな雰囲気か想像したくない。\n- 日本・海外から見ると: アメリカの大学を「自由な議論ができる場所」として留学先に選んだ学生にとって、この数年の展開はかなり違う話になってますよね。\n\n**このニュースをジョークにするなら...**\n\n> 大学の学生新聞が連邦政府を訴えて、連邦政府が負けた。相手は学生新聞ですよ。\n\n---\n\n## 3. National Park Service Backs Trump's 250-Foot Arch Despite Finding It Harms Historic Sites\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/29/trump-arch-national-park-service-report.html)）*\n\n国立公園局は、景観や歴史的眺望への悪影響を自ら認めながら、トランプ政権が推進する高さ約76メートルのアーチ建設を支持すると表明した。\n\n**どこが笑える？**\n\n- 矛盾: 歴史的景観の保護を使命とする国立公園局が、「景観に悪影響あり」と自分で書いた報告書を出した翌ページで「でも支持します」と言ってるんですよ。\n- 滑稽さ: 「悪影響がある」「しかし認める」という文書構造、もはや自分で自分に反対意見を書いてそれを却下してる。\n- 日本・海外から見ると: 環境アセスメントって普通は「悪影響あり→計画見直し」という順番のはずで、「悪影響あり→まあいいか」というルートは珍しいんですよね。\n\n**このニュースをジョークにするなら...**\n\n> 「悪影響あり」と確認した。それでも承認した。どうやらその用のチェックボックスが書類に存在するらしい。\n\n---\n\n## 4. White House Teleprompter Operator Fined $172,000 for Betting on Trump's Speeches\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/29/former-white-house-teleprompter-operator-fined-kalshi)）*\n\nトランプ大統領の演説原稿を事前に把握できる立場を利用して、予測市場でインサイダー賭けを行ったホワイトハウスのテレプロンプター担当者が、商品先物取引委員会から約17万2000ドルの罰金を科された。\n\n**どこが笑える？**\n\n- 矛盾: 予測市場は「集合知で未来を当てる」という建前なんですが、テレプロンプターを読んだ人間が参加したら、それはもう予測じゃなくてカンニングですよね。\n- 滑稽さ: 賭けの対象が「大統領が何の単語を使うか」で、インサイダー情報が「テレプロンプターに書いてある文字」という、史上もっとも地味なインサイダー取引。\n- 日本・海外から見ると: 大統領演説の単語に金をかける市場がアメリカに存在すること自体、海外から見るとまず「え、そのゲームのルール教えて」ってなりますよね。\n\n**このニュースをジョークにするなら...**\n\n> 演説前に原稿を持っていた。演説に賭けた。CFTCがなぜそれがダメか説明しなきゃいけなかった。全部本当の話。\n\n---\n\n## 5. Meta Settles Social Media Addiction Lawsuit for Up to $17.1 Billion\n\n*CBS News US（[記事](https://www.cbsnews.com/news/meta-settles-social-media-addiction-lawsuit/)）*\n\nメタ社は、同社のSNSが中毒性を持つように設計されているとして提起された集団訴訟を、最大171億ドルの和解金で解決することに合意した。\n\n**どこが笑える？**\n\n- 矛盾: 「中毒性があるように作った」という訴えを認めないまま、171億ドルを払うんですよ。「何もしてないけど171億払います」という文書が存在してる。\n- 滑稽さ: 和解発表のニュースを読んでいる人の多く、たぶんInstagramかFacebookで読んでるじゃないですか。和解金の一部はその画面上の広告収益から出てる。\n- 日本・海外から見ると: 171億ドルはメタの年間売上の約1割。「中毒にした」と言われた会社の1割分の売上の原資が、中毒になったユーザーのスクロールから来てるんですよ。\n\n**このニュースをジョークにするなら...**\n\n> 171億ドル。不正行為は認めない。アプリは変わらない。このニュース、Instagramで読んだでしょ。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> ルールって、作った人のところに最後に返ってくるんですよ。遅いけど、ちゃんと返ってくる。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "xJaが7本しかない（8本必要）。notesEnも7本（8本必要）。d1のcaption1は「6年」だが元データは「7年ビザ失効」で、ただし「6年間〜と言い続けた」という主張期間は元データに数字がなく独自解釈のリスクあり——captionに「7 years of overstaying」とあるので日本語5本目も含め期間の根拠を整理し修正。d4 caption4「通勤コストが高くついた」はオチとして弱い（状況の言い換えで終わっている）ので書き直し。introJaは書き言葉寄りで改行リズムが均一——段落構造を崩して呼吸を入れる。xJa・notesEnの本数不足を補填する。 ／ 文体パス: 2箇所修正。xJa[5]の「月曜の朝から学びが深い」がプレゼン締め口調、xJa[6]の「自己矛盾の密度が高すぎる」が漢語まとめ口調だったので崩した。"
+    "fullEn": "# Lake America, Freedom Fuel, and a Marmot Named Dawn\n\n## Today's Forecast\n\nFive stories today. One theme: systems doing the exact opposite of their job, with complete confidence.\n\nGoogle is now showing 'Lake America' to American users. Texas froze AI camera spending — right after spending $30 million on AI cameras. A brand called Freedom Fuel allegedly didn't pay for the fuel. And a research team is funding wildlife science through OnlyFans because grants weren't happening.\n\nHere's your forecast. If you've ever done everything right and still come up short — filled out the form, followed the process, played by the rules — today's news is weirdly validating. The people running things are also just making it up as they go. You're not behind. The scoreboard is broken. Dawn the marmot is thriving, and honestly, so can you.\n\n---\n\n## 1. Google Renames Lake Ontario 'Lake America' for U.S. Users After Trump Executive Order\n\n*CBS News US — [source](https://www.cbsnews.com/news/lake-america-trump-order-google-maps-lake-ontario/)*\n\nGoogle announced it has begun updating its maps to display 'Lake America' instead of 'Lake Ontario' for users in the United States, following an executive order signed by President Trump. Canada has pushed back against the renaming, with Ontario Premier Doug Ford unveiling a large billboard reading 'Lake Ontario — Now and Always.' The lake itself, of course, remains unchanged.\n\n**Why It's Funny**\n\n- **Contradiction:** Trump renamed a lake that's literally half in Canada. 'Lake America' shares a shoreline with a country that refuses to call it that.\n- **Absurdity:** Google updated the map. The lake did not update Google.\n- **View from Tokyo:** Canada put up a billboard. The U.S. issued an executive order. One of these things cost taxpayers nothing and will still be standing in fifty years.\n\n**Say It Out Loud**\n\n> The water's the same. The fish are the same. But now half of them are American fish, apparently.\n\n---\n\n## 2. USDA Shelves Cyclospora Research After Parasite Has Already Sickened Tens of Thousands\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved)*\n\nThe Trump administration is shutting down two of three USDA research projects studying cyclospora, a foodborne parasite that has sickened tens of thousands of Americans. Two projects were defunded by Congress, while relocations have disrupted staffing on the remaining work. Cyclospora outbreaks have been repeatedly linked to fresh produce imported into the United States.\n\n**Why It's Funny**\n\n- **Contradiction:** The agency tasked with keeping the food supply safe just shut down the team studying one of the parasites making people sick from the food supply.\n- **Absurdity:** Tens of thousands sickened. Three research projects existed. Now there's one. Apparently the data was pointing in a direction someone didn't enjoy.\n- **View from Tokyo:** Most countries expand disease research after a wave of cases. The U.S. is trying something different.\n\n**Say It Out Loud**\n\n> Tens of thousands sick. Problem solved — we stopped counting.\n\n---\n\n## 3. Trump-Branded 'Freedom Fuel' Stations Linked to $4 Million in Unpaid Gas Bills, Lawsuit Claims\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html)*\n\nA federal lawsuit alleges that fuel distributor KRSM failed to pay for approximately $4 million worth of fuel, some of which was delivered to stations operating under the Trump-promoted Freedom Fuel brand. President Trump had publicly backed the Freedom Fuel network as part of his energy agenda. The lawsuit was filed in federal court against KRSM.\n\n**Why It's Funny**\n\n- **Contradiction:** A gas station network promoted by the president as a symbol of American energy freedom is being sued for not paying for the gas.\n- **Absurdity:** Freedom Fuel. The 'free' part apparently applied to the fuel invoices.\n- **View from Tokyo:** In most countries, an endorsed brand not paying its suppliers would be called a scandal. In this news cycle, it's a Tuesday.\n\n**Say It Out Loud**\n\n> Freedom Fuel: liberty, patriotism, and apparently net-90 payment terms that nobody agreed to.\n\n---\n\n## 4. Texas Governor Freezes Funding for AI Surveillance Cameras — Right Before Investigation Reveals $30 Million Already Spent\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)*\n\nTexas Governor Greg Abbott froze state spending on Flock AI surveillance cameras amid growing public backlash. The move came just before a Texas Tribune investigation revealed the state had already spent over $30 million on the cameras, with much of the funding coming from traffic fines and fees. Flock cameras use license plate recognition and other AI tools to track vehicles across jurisdictions.\n\n**Why It's Funny**\n\n- **Contradiction:** The governor froze spending on surveillance cameras the day before journalists revealed how much had already been spent on surveillance cameras.\n- **Absurdity:** The cameras track citizens. The journalists tracked the spending. Only one of those groups is facing a funding freeze.\n- **View from Tokyo:** Abroad, the detail that traffic fines funded the surveillance network is the part that lands hardest — drivers literally paid to be watched.\n\n**Say It Out Loud**\n\n> The state spent $30 million watching people. A newspaper spent nothing watching the state. Efficiency gap.\n\n---\n\n## 5. 'Fat Marmot Week' Champion Crowned by Researchers Who Fund Science Through OnlyFans\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/30/marmot-winner-fat-marmot-week-contest)*\n\nA team of wildlife researchers who turned to OnlyFans to fund a decades-long marmot study crowned the winner of their inaugural 'Fat Marmot Week' contest. A yellow-bellied marmot named Dawn was selected champion through public voting as the animals fattened up ahead of winter hibernation. The contest was designed to raise public engagement — and funding — for the long-running research project.\n\n**Why It's Funny**\n\n- **Contradiction:** The scientists studying animal behavior for decades couldn't get their research funded through normal academic channels, so they posted marmots on OnlyFans.\n- **Absurdity:** The contest is called Fat Marmot Week. Dawn won. This is a peer-reviewed adjacent research program.\n- **View from Tokyo:** In most countries, a decades-long wildlife study would be a grant application. In the U.S. in 2026, it's a subscription service and a popularity contest.\n\n**Say It Out Loud**\n\n> Science funding is broken. Dawn is thriving.\n\n---\n\n## Today's Punchline\n\n> The lake is unchanged. The fuel wasn't paid for. The cameras are still on. And Dawn is fat and happy. Some systems are working fine.\n",
+    "fullJa": "# 「レイク・アメリカ」「フリーダム・フューエル（4億円踏み倒し）」「OnlyFansの学者」——今日のアメリカ、全部説明します\n\n## 今日を占うよ〜\n\n今日の5本、読み終えてから気づいたんですが、全部「本来やるべきことと逆のことをやっている」話なんですよ。\n\nGoogleが地図上でオンタリオ湖を「レイク・アメリカ」に改名。テキサス州は監視カメラ予算を凍結——3000万ドル使ったあとに。「フリーダム・フューエル」は燃料代400万ドルを払っていないと訴えられ。食中毒の原因を研究していたチームは予算を切られ。そして科学者がOnlyFansでマーモットの研究費を稼いでいる。\n\nで、これを毎朝読んでいる私も私ですが。\n\n今日の占い、聞いてください。これだけシステムが逆回転しているということは、あなたが「なんでうまくいかないんだろう」と思っていることの、少なくとも半分はあなたのせいじゃないんですよ。環境がおかしい。マーモットのDawnでさえ、不条理な仕組みの中でちゃんと太って、チャンピオンになっています。今日はあなたも、そのくらいの気持ちでいてください。\n\n---\n\n## 1. Google Renames Lake Ontario 'Lake America' for U.S. Users After Trump Executive Order\n\n*CBS News US（[記事](https://www.cbsnews.com/news/lake-america-trump-order-google-maps-lake-ontario/)）*\n\nトランプ大統領の大統領令を受け、Googleがアメリカ国内のマップ上でオンタリオ湖の表示名を「レイク・アメリカ」に変更し始めたと発表した。\n\n**どこが笑える？**\n\n- 矛盾: 「地図の名前を変えれば現実が変わる」という発想で地政学をやっている。Googleが従ったことで、アメリカ人はレイク・アメリカを見ながら、カナダ人はオンタリオ湖を見るという「並行現実」が生まれたんですよ。\n- 滑稽さ: 湖岸はカナダとの国境線そのもの。つまり「レイク・アメリカ」の北半分は、名実ともにアメリカじゃないんですよね。地図の上だけのアメリカ。\n- 日本・海外から見ると: 日本で例えるなら琵琶湖を突然「レイク・ジャパン」に改名して、AppleとGoogleが従った感じ。他の国から見れば「あの国、また地図でやってる」案件。\n\n**このニュースをジョークにするなら...**\n\n> 水は同じ。魚も同じ。でも今はアメリカの魚、ってことになったらしいですよ。\n\n---\n\n## 2. USDA Shelves Cyclospora Research After Parasite Has Already Sickened Tens of Thousands\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved)）*\n\nトランプ政権が、数万人規模の食中毒被害を出してきた寄生虫「サイクロスポラ」の研究プロジェクトを、予算削減と研究者の再配置を理由にUSDAで事実上凍結したことが報じられた。\n\n**どこが笑える？**\n\n- 矛盾: 食の安全を守るはずの農務省が、「食品由来の病気を研究する部門」を閉めるんですよ。玄関の鍵の研究予算を削りながら「防犯対策は万全」と言ってる感じ。\n- 滑稽さ: 患者を数万人出してから「もう研究しなくていいか」という判断になったわけで、タイミングが逆すぎて笑えない。いや、笑うしかない。\n- 日本・海外から見ると: 食品安全の研究は「コスト」に見えて、アウトブレイクが起きたときの経済損失と比べると桁が違う。外から見ると予防医学の基礎を削っている、という話。\n\n**このニュースをジョークにするなら...**\n\n> 数万人が感染。問題解決——数えるのをやめました。\n\n---\n\n## 3. Trump-Branded 'Freedom Fuel' Stations Linked to $4 Million in Unpaid Gas Bills, Lawsuit Claims\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html)）*\n\nトランプ大統領が宣伝していた「フリーダム・フューエル」ガソリンスタンドのネットワークに燃料を供給していた業者が、約400万ドル分の燃料代が未払いだとして連邦裁判所に訴訟を起こしたことが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 「エネルギーの自立」を訴えるブランドが、ガソリン代を払っていなかったと訴えられてる。自由のためにタダ乗りしてたってこと？\n- 滑稽さ: ブランド名が「フリーダム・フューエル」——「フリー」の部分が文字通りになっちゃったんですよ。400万ドル分、フリー。\n- 日本・海外から見ると: 大統領のお墨付きブランドが燃料代を踏み倒したという訴訟。「エンドースメントリスク」のケーススタディとして、MBAの授業で使えそうな話。\n\n**このニュースをジョークにするなら...**\n\n> フリーダム・フューエル：自由と愛国心と、誰も合意していなかったらしい支払い猶予期間。\n\n---\n\n## 4. Texas Governor Freezes Funding for AI Surveillance Cameras — Right Before Investigation Reveals $30 Million Already Spent\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)）*\n\nテキサス州のグレッグ・アボット知事が、AIカメラ監視システム「フロック」への州資金の凍結を発表したが、直後にテキサス・トリビューンの調査報道で州がすでに3000万ドル以上を同システムに費やしていたことが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 「もう買わない」と宣言した翌日に「3000万ドル、もう買ってた」と報道された。凍結の発表がちょうど調査報道の公開直前で、タイミングが絶妙すぎる。\n- 滑稽さ: 市民をカメラで追跡するシステムの問題点は「見られている」こと。それを問題にした知事が、調査報道に「見られていた」という構図になってるんですよ。\n- 日本・海外から見ると: 監視カメラの予算を交通違反の罰金で賄っていた、という点が特に興味深い。つまり速度違反をした市民が、自分を監視するカメラの資金を払っていた。\n\n**このニュースをジョークにするなら...**\n\n> 州は3000万ドルかけて市民を監視した。新聞社は0円で州を監視した。コスパの差よ。\n\n---\n\n## 5. 'Fat Marmot Week' Champion Crowned by Researchers Who Fund Science Through OnlyFans\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/30/marmot-winner-fat-marmot-week-contest)）*\n\n数十年にわたる研究プロジェクトを継続するためにOnlyFansアカウントを開設した科学者たちが、マーモット8頭の「冬眠前の肥満コンテスト」を実施し、初代チャンピオンを決定した。\n\n**どこが笑える？**\n\n- 矛盾: 科学者がOnlyFansで研究費を稼いでいるという時点で、アメリカの学術資金調達の何かが壊れているんですよ。でも投票で選ばれたマーモットに「チャンピオン」の称号がついているという事実のほうが、なぜか心が洗われる。\n- 滑稽さ: 「ファット・マーモット・ウィーク」。学術プロジェクトの予算が切られた結果、研究者が「どのマーモットが一番太ったか」を一般投票にかけている。これがアメリカの科学資金危機の顔。かわいすぎる顔。\n- 日本・海外から見ると: 日本の「カピバラ温泉」ブームとかパンダの赤ちゃん命名投票に近い文脈。ただ、あちらは動物園の余裕からくるイベントで、こちらは研究費が底をついた末の苦肉の策という違いがある。\n\n**このニュースをジョークにするなら...**\n\n> 科学の資金調達は壊れてる。ドーンはご機嫌です。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 湖は何も変わっていない。ガソリン代は払われていない。カメラはまだ動いている。Dawnは太って優勝した。正常に機能しているものもある。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "全体的に水準は高い。ただしd1のcaption4（隣人の私道）はオチが説明で終わっている。d4のcaption4は「スケジュールの問題」で着地が弱い——「スケジュールの衝突」と言い直しているだけ。d5のimagePrompt3に実在しない「Subscribe for exclusive fat marmot content」という引用文が混入しているが、これは架空のSNS投稿テキストであり実在人物・事実ではないため許容範囲。xJa[3]が「30億円以上」と円換算しているが元データに円換算はなく、独自換算は事実追加に当たるため修正。xJa[7]の「毎日こんな感じです」は自己言及として機能しているが、その前の文が箇条書き口調で散漫。d2のcaption3「Fully funded: something else」は弱い——オチがない。該当箇所のみ修正する。 ／ 文体パス: 2箇所修正。xJa[1]の「という論理です」がプレゼン締め口調、xJa[4]の「完璧な円環」が気の利いた総括すぎる。どちらも崩した。"
   },
   "carousel": [
-    "images/2026-08-30/carousel/slide-1.jpg",
-    "images/2026-08-30/carousel/slide-2.jpg",
-    "images/2026-08-30/carousel/slide-3.jpg",
-    "images/2026-08-30/carousel/slide-4.jpg",
-    "images/2026-08-30/carousel/slide-5.jpg",
-    "images/2026-08-30/carousel/slide-6.jpg",
-    "images/2026-08-30/carousel/slide-7.jpg"
+    "images/2026-08-31/carousel/slide-1.jpg",
+    "images/2026-08-31/carousel/slide-2.jpg",
+    "images/2026-08-31/carousel/slide-3.jpg",
+    "images/2026-08-31/carousel/slide-4.jpg",
+    "images/2026-08-31/carousel/slide-5.jpg",
+    "images/2026-08-31/carousel/slide-6.jpg",
+    "images/2026-08-31/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-08-30/note-header.jpg",
-    "substack": "images/2026-08-30/substack-cover.jpg"
+    "note": "images/2026-08-31/note-header.jpg",
+    "substack": "images/2026-08-31/substack-cover.jpg"
   }
 };
