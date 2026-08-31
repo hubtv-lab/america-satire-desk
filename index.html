@@ -819,7 +819,9 @@ function normalizeEditorial(raw){
       notesEn: (Array.isArray(raw.notesEn) ? raw.notesEn : []).map(String).filter(Boolean),
       xJa:     (Array.isArray(raw.xJa) ? raw.xJa : []).map(String).filter(Boolean),
       raidEn:  (Array.isArray(raw.raidEn) ? raw.raidEn : []).map(String).filter(Boolean),
-      raidJa:  (Array.isArray(raw.raidJa) ? raw.raidJa : []).map(String).filter(Boolean)
+      raidJa:  (Array.isArray(raw.raidJa) ? raw.raidJa : []).map(String).filter(Boolean),
+      riffEn:  (Array.isArray(raw.riffEn) ? raw.riffEn : []).map(String).filter(Boolean),
+      riffJa:  (Array.isArray(raw.riffJa) ? raw.riffJa : []).map(String).filter(Boolean)
     };
     if (!norm.fullEn && !norm.fullJa && !norm.notesEn.length && !norm.xJa.length) return null;
     return norm;
@@ -994,12 +996,17 @@ function buildSubstackHtml(){
     parts.push(`<p><em>${esc(c.news.source)} — <a href="${esc(c.news.url)}">source</a></em></p>`);
     if (c.newsEn) parts.push(pText(c.newsEn));
     parts.push("<p><strong>Why It's Funny</strong></p>");
-    const rows = [["Contradiction", irony.contradiction],
-                  ["Absurdity", irony.absurdity],
-                  ["View from Tokyo", irony.outside]]
-      .filter(r => r[1])
-      .map(r => `<li><strong>${r[0]}:</strong> ${esc(r[1])}</li>`).join("");
-    parts.push(`<ul>${rows}</ul>`);
+    const riffEn = (ed.riffEn || [])[i];
+    if (riffEn){
+      parts.push(pText(riffEn));
+    } else {
+      const rows = [["Contradiction", irony.contradiction],
+                    ["Absurdity", irony.absurdity],
+                    ["View from Tokyo", irony.outside]]
+        .filter(r => r[1])
+        .map(r => `<li><strong>${r[0]}:</strong> ${esc(r[1])}</li>`).join("");
+      parts.push(`<ul>${rows}</ul>`);
+    }
     const cap = (c.captions || [])[0];
     if (cap){
       parts.push("<p><strong>Say It Out Loud</strong></p>");
@@ -1031,9 +1038,14 @@ function buildNoteHtml(){
     parts.push(`<p><em>${esc(c.news.source)}（<a href="${esc(c.news.url)}">記事</a>）</em></p>`);
     if (c.news.summary) parts.push(pText(c.news.summary));
     parts.push("<p><strong>どこが笑える？</strong></p>");
-    const rows = (c.commentary || [])
-      .map(p => `<li>${p}</li>`).join(""); // commentaryはsanitize済み(<b>のみ許可)
-    parts.push(`<ul>${rows}</ul>`);
+    const riffJa = (ed.riffJa || [])[i];
+    if (riffJa){
+      parts.push(pText(riffJa));
+    } else {
+      const rows = (c.commentary || [])
+        .map(p => `<li>${p}</li>`).join(""); // commentaryはsanitize済み(<b>のみ許可)
+      parts.push(`<ul>${rows}</ul>`);
+    }
     const capJa = (c.captionsJa || [])[0];
     if (capJa){
       parts.push("<p><strong>このニュースをジョークにするなら...</strong></p>");
