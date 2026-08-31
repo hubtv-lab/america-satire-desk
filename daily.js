@@ -1,314 +1,336 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-08-31",
-  "generatedAt": "2026-08-30T22:12:58+00:00",
+  "date": "2026-09-01",
+  "generatedAt": "2026-08-31T23:32:14+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Google Renames Lake Ontario 'Lake America' for U.S. Users After Trump Executive Order",
-        "source": "CBS News US",
-        "date": "2026-08-31",
-        "url": "https://www.cbsnews.com/news/lake-america-trump-order-google-maps-lake-ontario/",
-        "summary": "トランプ大統領の大統領令を受け、Googleがアメリカ国内のマップ上でオンタリオ湖の表示名を「レイク・アメリカ」に変更し始めたと発表した。"
+        "headline": "Supreme Court Clears the Way for Trump's $400M White House Ballroom",
+        "source": "The Guardian US",
+        "date": "2026-09-01",
+        "url": "https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump",
+        "summary": "連邦最高裁判所は5対4の判決で、ホワイトハウス敷地内に建設中のトランプ大統領の4億ドル規模の舞踏場工事を継続することを認めた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「地図の名前を変えれば現実が変わる」という発想で地政学をやっている。Googleが従ったことで、アメリカ人はレイク・アメリカを見ながら、カナダ人はオンタリオ湖を見るという「並行現実」が生まれたんですよ。",
-        "<b>滑稽さ:</b> 湖岸はカナダとの国境線そのもの。つまり「レイク・アメリカ」の北半分は、名実ともにアメリカじゃないんですよね。地図の上だけのアメリカ。",
-        "<b>日本・海外から見ると:</b> 日本で例えるなら琵琶湖を突然「レイク・ジャパン」に改名して、AppleとGoogleが従った感じ。他の国から見れば「あの国、また地図でやってる」案件。"
+        "<b>矛盾:</b> 「小さな政府」を掲げる政権が、公有地に4億ドルの舞踏場を建設している。規模感としては、ホワイトハウスがラスベガスのカジノホテルに進化中といったところ。",
+        "<b>滑稽さ:</b> 最高裁長官自ら「違法の可能性が高い」と書いたのに工事続行を認めた——つまり「多分ダメだけどとりあえず建てていいよ」という判決が出た。",
+        "<b>日本・海外から見ると:</b> 首相官邸の隣に100億円のパーティ会場を建てたら即刻終わる話が、裁判所のお墨付きをもらいながら進んでいる。アメリカの三権分立、今ちょっと踊り場に立っている。"
       ],
       "imagePrompts": [
-        "A large lake with a dotted international border line running through its middle. The left (U.S.) side has a digital map overlay reading 'Lake America' in bold. The right (Canada) side has a handmade billboard reading 'Lake Ontario — Now and Always.' Geese fly across the border ignoring both signs.",
-        "A Google Maps interface on a phone screen showing 'Lake America.' A Canadian hand holds an identical phone showing 'Lake Ontario.' Both phones display the same blue shape of water.",
-        "An official-looking cartographer's desk covered in globes and atlases. A hand is crossing out 'Ontario' and writing 'America' with a marker. Through the window behind the desk, the actual lake is visible, completely unimpressed."
+        "A grand ballroom under construction inside the White House, with chandeliers being hung over exposed concrete and scaffolding, construction workers in hard hats waltzing with blueprints, a velvet rope cordoning off a half-poured foundation",
+        "A Supreme Court bench with nine justices, five holding tiny construction helmets and four holding stop signs, a massive golden ballroom visible through the courtroom window behind them",
+        "An aerial view of the White House grounds with a glittering ballroom annex towering over the rose garden, price tags dangling from every beam like a furniture showroom"
       ],
       "captions": [
-        "The water's the same. The fish are the same. But now half of them are American fish, apparently.",
-        "Canada built a billboard. Trump signed an order. Google caved. The lake has no comment.",
-        "Executive orders: effective on databases, less effective on lakes.",
-        "You renamed a lake that Canada owns 50% of. Legally speaking, that's not renaming a lake — that's putting a flag in your neighbor's fish.",
-        "Other countries sanction each other. These two are fighting over who gets to label the water."
+        "The Chief Justice wrote 'this is probably illegal' and then signed off on it. That's not a dissent, that's a Yelp review.",
+        "Four hundred million for a ballroom at a house the taxpayers already own. The lease terms on this place are getting out of hand.",
+        "Other presidents left libraries. This one's leaving a dance floor.",
+        "The legal challenge is still ongoing, which means there's a real chance America ends up with a $400 million ballroom it has to tear down. Democracy's most expensive rehearsal space.",
+        "Five justices said keep building. Four said stop. The ballroom said nothing — it just kept going up."
       ],
       "captionsJa": [
-        "水は同じ。魚も同じ。でも今はアメリカの魚、ってことになったらしいですよ。",
-        "カナダは看板を立てた。トランプは大統領令に署名した。Googleは従った。湖はノーコメント。",
-        "大統領令ってデータベースには効くんですけど、湖にはあんまり効かないんですよね。",
-        "カナダが半分持ってる湖を改名したんですよ。法的に言えばそれ、隣人の魚に旗を刺した話じゃないですか。",
-        "他の国は制裁で争うのに、この二国は水の名前ラベルで喧嘩してる。"
+        "最高裁長官自ら「多分違法」と書いておいて署名した。これは反対意見じゃなくて、Googleレビューですよね。",
+        "国民がすでに持ってる家に4億ドルの舞踏場。この賃貸契約、ちょっとおかしくなってきた。",
+        "歴代大統領は図書館を残した。この人は댄스フロアを残す。",
+        "法廷闘争はまだ続いてるんで、最終的に取り壊し命令が出る可能性がある。4億ドルのリハーサル会場。",
+        "5人が「建てろ」、4人が「やめろ」。舞踏場は何も言わずに、ただ上へ伸びていった。"
       ],
-      "newsEn": "Google announced it has begun updating its maps to display 'Lake America' instead of 'Lake Ontario' for users in the United States, following an executive order signed by President Trump. Canada has pushed back against the renaming, with Ontario Premier Doug Ford unveiling a large billboard reading 'Lake Ontario — Now and Always.' The lake itself, of course, remains unchanged.",
+      "newsEn": "The US Supreme Court ruled 5-4 to allow construction of a $400 million ballroom on White House grounds to continue while legal challenges proceed. Chief Justice John Roberts dissented alongside three liberal justices, writing that the construction is 'likely unlawful.' The project has drawn criticism over its cost and the use of presidential property for private entertainment.",
       "ironyEn": [
         {
-          "contradiction": "Trump renamed a lake that's literally half in Canada. 'Lake America' shares a shoreline with a country that refuses to call it that.",
-          "absurdity": "Google updated the map. The lake did not update Google.",
-          "outside": "Canada put up a billboard. The U.S. issued an executive order. One of these things cost taxpayers nothing and will still be standing in fifty years."
+          "contradiction": "An administration that campaigns on fiscal discipline is building a $400 million ballroom inside the People's House.",
+          "absurdity": "The Chief Justice literally wrote 'this is likely unlawful' in his dissent — and construction kept going. Dissenting from your own permission slip is a new legal genre.",
+          "outside": "Most countries would call this a constitutional crisis. The US calls it a 5-4 ruling and moves on."
         },
         {
-          "contradiction": "An executive order can rename a body of water in a database, but cannot move the international border running through the middle of it.",
-          "absurdity": "American users now look at 'Lake America' while Canadian users look at 'Lake Ontario' — same lake, two realities, zero geological changes.",
-          "outside": "From abroad, this reads as the world's most expensive way to lose an argument with a neighbor who already owns half the thing you just renamed."
+          "contradiction": "The Supreme Court is allowing work to continue on a project it may eventually rule illegal, which means the government could be one ruling away from owning a very expensive hole in the ground.",
+          "absurdity": "Four hundred million dollars for a ballroom. The entire country's student loan relief has been tied up in courts for years, but a dance floor gets expedited clearance.",
+          "outside": "Foreign leaders watching this are taking notes — apparently the trick is to start building fast enough that stopping becomes awkward."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-08-31/candidate-1.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-08-31/candidate-1-punchy.jpg"
+      "image": "images/2026-09-01/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-01/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "USDA Shelves Cyclospora Research After Parasite Has Already Sickened Tens of Thousands",
-        "source": "The Guardian US",
-        "date": "2026-08-31",
-        "url": "https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved",
-        "summary": "トランプ政権が、数万人規模の食中毒被害を出してきた寄生虫「サイクロスポラ」の研究プロジェクトを、予算削減と研究者の再配置を理由にUSDAで事実上凍結したことが報じられた。"
+        "headline": "Census Bureau Quietly Drops Political Interference Ban — Right After a Politically Tinged Report",
+        "source": "NPR News",
+        "date": "2026-09-01",
+        "url": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
+        "summary": "センサス局がトランプ支持系シンクタンクと連携した報告書を発表した直後、親省庁が科学的誠実性ポリシーから「政治的干渉を禁じる」条文を削除していたことが、NPRの取材で明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 食の安全を守るはずの農務省が、「食品由来の病気を研究する部門」を閉めるんですよ。玄関の鍵の研究予算を削りながら「防犯対策は万全」と言ってる感じ。",
-        "<b>滑稽さ:</b> 患者を数万人出してから「もう研究しなくていいか」という判断になったわけで、タイミングが逆すぎて笑えない。いや、笑うしかない。",
-        "<b>日本・海外から見ると:</b> 食品安全の研究は「コスト」に見えて、アウトブレイクが起きたときの経済損失と比べると桁が違う。外から見ると予防医学の基礎を削っている、という話。"
+        "<b>矛盾:</b> 「科学的誠実性」ポリシーから、政治介入を禁じる条文を抜いた。「誠実性」という看板はそのままに、中身だけ交換した。",
+        "<b>滑稽さ:</b> 「政治に干渉されてはいけない」と書いてあった文書を、政治が消した。自分で自分の取締役会から降ろした的な、ものすごく素直な動きなんですよ。",
+        "<b>日本・海外から見ると:</b> 国勢調査は議席数から連邦予算配分まで左右する。その独立性を守るルールをこっそり削除する——「制度の自己解体」がこんなに静かに進むのかと、外から見ると震える。"
       ],
       "imagePrompts": [
-        "A government laboratory being closed up with yellow caution tape. Inside through the window, microscopes and research equipment sit unused. Outside, a long line of people waits at a clinic labeled 'Cyclospora Treatment,' stretching around the block.",
-        "A USDA budget spreadsheet with the 'Cyclospora Research' line item crossed out with a red marker. Next to it, a small chart shows outbreak cases spiking upward.",
-        "An overhead view of a produce section in a grocery store, with fresh berries and herbs displayed. A tiny 'Caution: Under-researched' flag is planted in the middle of the strawberries."
+        "A government official with a large eraser carefully removing a single sentence from a framed policy document on the wall, while holding a think tank report under their other arm, a Census Bureau seal visible above the frame",
+        "A document titled 'Scientific Integrity Policy' with one paragraph visibly whited-out, a magnifying glass hovering over the blank space revealing the ghost text 'no political interference'",
+        "Two doors side by side in a federal building hallway — one labeled 'Political Influence: PROHIBITED' with a red X crossed over it, the other newly labeled 'Political Influence: Please Come In' with a welcome mat"
       ],
       "captions": [
-        "Tens of thousands sick. Problem solved — we stopped counting.",
-        "The parasite is still in the lettuce. The researchers are not still in the building. One of those things is adjustable.",
-        "Defunded: the team studying why people keep getting sick from salad. Still at large: the salad.",
-        "Three projects on a parasite that's sickened tens of thousands of Americans. We're down to one. Progress!",
-        "The cyclospora didn't apply for a budget exemption, so it's still operating at full capacity."
+        "They removed the 'no political interference' rule from the scientific integrity policy. The document is still called a scientific integrity policy. The name is doing a lot of heavy lifting right now.",
+        "The timing: report linked to a political think tank drops, then the anti-interference clause disappears. Totally unrelated, they'd like you to know.",
+        "It's the change-log nobody wanted to find. 'Deleted: government shall not meddle with its own data.' Tracked changes, off.",
+        "The Census decides congressional seats and federal funding. Who controls the count controls the map. But sure, let's call removing the ethics rule a 'policy update.'",
+        "Somewhere out there a junior staffer hit delete on a sentence and accidentally broke a democratic norm. Or it wasn't an accident. Anyway, the sentence is gone."
       ],
       "captionsJa": [
-        "数万人が感染。問題解決——数えるのをやめました。",
-        "寄生虫はまだサラダの中にいる。研究者はもう職場にいない。どっちが動かせたかって話なんですよ。",
-        "廃止されたもの：なぜ人々がサラダで病気になるかを調べていたチーム。現在も野放し：サラダ。",
-        "数万人を病気にしてきた寄生虫の研究プロジェクトが3つあった。残り1つになりました。前進してる。",
-        "サイクロスポラは予算免除申請をしていないので、今も通常営業中です。"
+        "科学的誠実性ポリシーから「政治干渉禁止」を削除した。それでも書類の名前は「科学的誠実性ポリシー」のまま。タイトルが今、全部の仕事してる。",
+        "タイミング: 政治系シンクタンクと連携した報告書が出て、次に干渉禁止条文が消えた。「まったく無関係です」とのことです。",
+        "誰も見たくなかった変更履歴。「削除: 政府は自分のデータに介入してはならない」。追跡変更、オフ。",
+        "国勢調査は議席数と連邦予算を決める。数を支配する者が地図を支配する。でも大丈夫、これは「方針の更新」です。",
+        "どこかの若手職員が一文をデリートして、民主主義の規範がひとつ壊れた。あるいは事故じゃなかったかもしれない。どちらにせよ、その一文はもうない。"
       ],
-      "newsEn": "The Trump administration is shutting down two of three USDA research projects studying cyclospora, a foodborne parasite that has sickened tens of thousands of Americans. Two projects were defunded by Congress, while relocations have disrupted staffing on the remaining work. Cyclospora outbreaks have been repeatedly linked to fresh produce imported into the United States.",
+      "newsEn": "After the Census Bureau released a report connected to a Trump-aligned think tank, its parent agency quietly removed language prohibiting political interference from its scientific integrity policy, NPR has learned. The sequence of events has raised concerns among researchers and data integrity advocates about the independence of federal statistical agencies. The Census Bureau's data underpins decisions on congressional apportionment, federal funding, and economic policy.",
       "ironyEn": [
         {
-          "contradiction": "The agency tasked with keeping the food supply safe just shut down the team studying one of the parasites making people sick from the food supply.",
-          "absurdity": "Tens of thousands sickened. Three research projects existed. Now there's one. Apparently the data was pointing in a direction someone didn't enjoy.",
-          "outside": "Most countries expand disease research after a wave of cases. The U.S. is trying something different."
+          "contradiction": "The agency removed a ban on political interference from its scientific integrity policy — making it a scientific integrity policy with less integrity.",
+          "absurdity": "The edit came right after a report tied to a Trump-aligned think tank. The timing was so on-the-nose it reads like a rough draft someone forgot to hide.",
+          "outside": "The Census determines how many seats each state gets in Congress. Letting politics steer it is the democratic equivalent of letting the team owner also referee the game."
         },
         {
-          "contradiction": "Congress defunded two of the projects, meaning the legislature cut food safety research while constituents were still being hospitalized by the thing not being researched.",
-          "absurdity": "The parasite didn't get the memo. It's still out there, doing its thing, completely unaffected by the budget decision.",
-          "outside": "From a public health standpoint abroad, this looks less like a budget cut and more like deciding to stop counting the fires after the fire season starts."
+          "contradiction": "A policy called 'scientific integrity' now has a smaller prohibition against the thing that threatens scientific integrity.",
+          "absurdity": "This is the bureaucratic equivalent of erasing the 'do not erase' sign.",
+          "outside": "Other democracies spend decades building firewalls between government statistics and political pressure. This one just quietly opened a door and hoped no one checked the change log."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-08-31/candidate-2.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-08-31/candidate-2-punchy.jpg"
+      "image": "images/2026-09-01/candidate-2.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-01/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Trump-Branded 'Freedom Fuel' Stations Linked to $4 Million in Unpaid Gas Bills, Lawsuit Claims",
-        "source": "CNBC Top News",
-        "date": "2026-08-31",
-        "url": "https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html",
-        "summary": "トランプ大統領が宣伝していた「フリーダム・フューエル」ガソリンスタンドのネットワークに燃料を供給していた業者が、約400万ドル分の燃料代が未払いだとして連邦裁判所に訴訟を起こしたことが明らかになった。"
+        "headline": "FTC Sues Amazon Over Secret Ad Surcharge That Was Passed on to Consumers",
+        "source": "The Verge",
+        "date": "2026-09-01",
+        "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
+        "summary": "米連邦取引委員会（FTC）と22州の司法長官は、Amazonが広告主に対して秘密の追加料金を課し、そのコストを最終的に消費者に転嫁していたとして、同社を提訴した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「エネルギーの自立」を訴えるブランドが、ガソリン代を払っていなかったと訴えられてる。自由のためにタダ乗りしてたってこと？",
-        "<b>滑稽さ:</b> ブランド名が「フリーダム・フューエル」——「フリー」の部分が文字通りになっちゃったんですよ。400万ドル分、フリー。",
-        "<b>日本・海外から見ると:</b> 大統領のお墨付きブランドが燃料代を踏み倒したという訴訟。「エンドースメントリスク」のケーススタディとして、MBAの授業で使えそうな話。"
+        "<b>矛盾:</b> 「より安く、より便利に」が売りのAmazonが、密かな手数料で消費者の財布を狙っていた疑い。プライム会費を払って、さらに見えない料金も払っていた可能性。",
+        "<b>滑稽さ:</b> 「秘密の追加料金」を広告主に課して、そのコストを商品価格に転嫁した——要するに消費者が自分の買い物を自分で高くする仕組みに乗っかっていたかもしれない。",
+        "<b>日本・海外から見ると:</b> 日本でも「Amazon安い」は生活常識になっているが、その安さの裏に隠れたサーチャージがあったとしたら、バーゲンのレシートをもう一度読み直す必要がある。"
       ],
       "imagePrompts": [
-        "A gas station with a large patriotic 'Freedom Fuel' sign featuring stars and stripes. The pump handles are wrapped in 'Past Due' invoice paper. A delivery truck driver stands at the door holding a clipboard with '$4,000,000 UNPAID' stamped in red.",
-        "A presidential podium with a 'Freedom Fuel' banner behind it. At the base of the podium, an overflowing inbox of unpaid invoices spills onto the floor.",
-        "A close-up of a gas pump screen that reads 'FREEDOM FUEL' at the top and 'PAYMENT DECLINED' at the bottom, with a little American flag sticker next to the error message."
+        "An Amazon warehouse worker handing a customer a shopping bag with a visible price tag on the front and a tiny hidden price tag sewn into the lining, the customer smiling obliviously",
+        "A courtroom with the FTC seal on the wall, a giant Amazon logo in the defendant's chair, and 22 tiny state seals crowded into the prosecutor's bench like an overcrowded jury box",
+        "A 'sale' banner hanging over an Amazon storefront with increasingly small asterisks trailing down to a footnote at the floor level that reads '*secret ad surcharge applies'"
       ],
       "captions": [
-        "Freedom Fuel: liberty, patriotism, and apparently net-90 payment terms that nobody agreed to.",
-        "The brand is called Freedom Fuel. Four million dollars' worth of fuel. Free.",
-        "Endorsed by the president, sued by the guy who actually delivered the gas. The American dream, two different ways.",
-        "Energy independence — from invoices, specifically.",
-        "If you're going to not pay a $4 million fuel bill, 'Freedom Fuel' is at least the right name for it."
+        "Amazon allegedly charged advertisers a secret fee, advertisers raised their prices, and consumers paid more. A full circle that moves money from your cart directly to nowhere you can see.",
+        "The FTC is calling it a 'secret surcharge.' Amazon calls it 'denied.' Twenty-two states are calling it a lawsuit. Everybody's calling something.",
+        "You paid for Prime. You paid for the product. Turns out you may have also been paying for the ad that convinced you to buy it. Loyalty has layers.",
+        "Twenty-two state attorneys general agreeing on one lawsuit — Amazon may have achieved something Congress has been failing at for a decade.",
+        "The company that tracks every click, every return, every 'buy it again' prompt — and allegedly hid one number from everyone. The irony of the one missing data point."
       ],
       "captionsJa": [
-        "フリーダム・フューエル：自由と愛国心と、誰も合意していなかったらしい支払い猶予期間。",
-        "ブランド名はフリーダム・フューエル。400万ドル分のガソリン。フリー。",
-        "大統領がお墨付きを出して、実際に燃料を届けた業者が訴えた。アメリカンドリーム、二通りの解釈。",
-        "エネルギーの自立——特に請求書からの自立。",
-        "400万ドルの燃料代を払わないなら、社名は「フリーダム・フューエル」が確かに一番しっくりきますよね。"
+        "Amazonが広告主に秘密料金を課して、広告主が価格に上乗せして、消費者が払った。ぐるっと一周して、お金が見えないところに消える仕組み。",
+        "FTCは「秘密のサーチャージ」と呼んでいる。Amazonは「否定する」と言っている。22州は「訴訟」と呼んでいる。みんなそれぞれ何か言ってる。",
+        "プライム会費払って、商品代払って、その商品を買わせた広告の費用まで払ってたかもしれない。ロイヤリティに地層がある。",
+        "22州の司法長官が一つの訴訟で合意した。Amazonが連邦議会の10年越しの課題を1件で達成した可能性。",
+        "クリックも返品も「また買う」ボタンも全部追跡してる会社が、ひとつだけ数字を隠してたかもしれない。唯一消えていたデータポイントの皮肉。"
       ],
-      "newsEn": "A federal lawsuit alleges that fuel distributor KRSM failed to pay for approximately $4 million worth of fuel, some of which was delivered to stations operating under the Trump-promoted Freedom Fuel brand. President Trump had publicly backed the Freedom Fuel network as part of his energy agenda. The lawsuit was filed in federal court against KRSM.",
+      "newsEn": "The FTC and 22 state attorneys general filed a lawsuit against Amazon, alleging the company used a hidden surcharge system to inflate advertising prices on its website and app. FTC Chairman Andrew Ferguson stated that the higher costs were 'largely passed on to American consumers.' Amazon has denied the allegations. The lawsuit is the latest in a series of major antitrust actions targeting the e-commerce giant.",
       "ironyEn": [
         {
-          "contradiction": "A gas station network promoted by the president as a symbol of American energy freedom is being sued for not paying for the gas.",
-          "absurdity": "Freedom Fuel. The 'free' part apparently applied to the fuel invoices.",
-          "outside": "In most countries, an endorsed brand not paying its suppliers would be called a scandal. In this news cycle, it's a Tuesday."
+          "contradiction": "Amazon built its empire on the promise of lower prices, and allegedly did it partly by charging advertisers extra — who then raised prices to cover it. Round trip surcharge.",
+          "absurdity": "The FTC calls it a 'secret ad surcharge.' Amazon's whole value proposition is transparency of price. The price was apparently just not for the ads.",
+          "outside": "Twenty-two state AGs joining one lawsuit is a lot of states agreeing on something. That almost never happens. Amazon apparently united people in a way Congress hasn't managed in years."
         },
         {
-          "contradiction": "The whole pitch was energy independence. It turns out 'independence' included independence from paying the fuel bill.",
-          "absurdity": "Four million dollars in gas. Unpaid. At a chain literally named after freedom. This is either irony or a very on-brand business model.",
-          "outside": "Presidential brand endorsements that end in federal lawsuits are a uniquely American genre of story that doesn't translate well abroad — mostly because other countries don't know what to do with it."
+          "contradiction": "Consumers came to Amazon to escape retail markups, and may have been funding a hidden markup the whole time — one they couldn't see and didn't agree to.",
+          "absurdity": "The company that knows exactly what you want to buy, when you'll run out of it, and how much you're willing to pay, allegedly decided the price of running an ad on its platform was also its business to quietly adjust.",
+          "outside": "In Japan, hidden fees are a known sore point across services. If the country's self-proclaimed discount king turns out to be running a surcharge in the back room, it's not a scandal — it's a plot twist in the world's longest-running shopping story."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-08-31/candidate-3.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-08-31/candidate-3-punchy.jpg"
+      "image": "images/2026-09-01/candidate-3.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-01/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Texas Governor Freezes Funding for AI Surveillance Cameras — Right Before Investigation Reveals $30 Million Already Spent",
-        "source": "The Verge",
-        "date": "2026-08-31",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-        "summary": "テキサス州のグレッグ・アボット知事が、AIカメラ監視システム「フロック」への州資金の凍結を発表したが、直後にテキサス・トリビューンの調査報道で州がすでに3000万ドル以上を同システムに費やしていたことが明らかになった。"
+        "headline": "EY to Hand Out $100M in Bonuses for Workers Who Act Like... Humans",
+        "source": "CBS News US",
+        "date": "2026-09-01",
+        "url": "https://www.cbsnews.com/news/ernst-young-human-focused-skills/",
+        "summary": "大手コンサルティング会社EYは、ビジネス感覚や判断力といった「人間的スキル」を持つ従業員に対し、総額1億ドルのボーナスを支給すると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「もう買わない」と宣言した翌日に「3000万ドル、もう買ってた」と報道された。凍結の発表がちょうど調査報道の公開直前で、タイミングが絶妙すぎる。",
-        "<b>滑稽さ:</b> 市民をカメラで追跡するシステムの問題点は「見られている」こと。それを問題にした知事が、調査報道に「見られていた」という構図になってるんですよ。",
-        "<b>日本・海外から見ると:</b> 監視カメラの予算を交通違反の罰金で賄っていた、という点が特に興味深い。つまり速度違反をした市民が、自分を監視するカメラの資金を払っていた。"
+        "<b>矛盾:</b> 何十年もかけて人間の仕事をAIに置き換えようとしてきたコンサル業界が、今度は「人間らしくできる人」に1億ドル払うと言い出した。",
+        "<b>滑稽さ:</b> 「ビジネス感覚」と「判断力」がボーナス査定項目になるということは、それがレアスキルになったということ。コンサルタントが判断力を持っていること自体が加点対象の時代に突入した。",
+        "<b>日本・海外から見ると:</b> 日本企業も「人材育成」を口では言い続けてきた。でもそれに1億ドルのボーナスをつけたことはなかった。EYは「人間であること」に値段をつけた。"
       ],
       "imagePrompts": [
-        "A row of AI surveillance cameras on poles along a Texas highway. Below each camera, a small traffic fine receipt is taped. A government official holds a 'FROZEN' stamp but has already stamped only the last camera in a long, long row.",
-        "A split image: on the left, a 'SPENDING FREEZE' press release on official letterhead with today's date; on the right, a newspaper front page dated one day later reading '$30 MILLION ALREADY SPENT' with an image of the same cameras.",
-        "A giant receipt labeled 'STATE OF TEXAS — FLOCK CAMERAS' totaling $30,000,000+. A hand holds a pen trying to sign 'APPROVED' but the ink has already dried."
+        "A corporate award ceremony on a stage where a giant trophy reads 'Most Human Employee of the Year,' the winner is a person holding a check for $100 million while surrounded by confused-looking colleagues holding laptops",
+        "An EY office performance review form with checkboxes: 'Completes spreadsheets — checked,' 'Attends meetings — checked,' 'Demonstrates basic human judgment — empty checkbox, starred in red'",
+        "A vending machine in a modern office labeled 'Skills Dispenser' with buttons for 'Excel,' 'PowerPoint,' 'AI Prompting,' and one glowing button at the bottom labeled 'Human Judgment — $100M'"
       ],
       "captions": [
-        "The state spent $30 million watching people. A newspaper spent nothing watching the state. Efficiency gap.",
-        "Governor freezes camera spending. Cameras: already bought, already watching, not frozen.",
-        "Traffic fines funded the surveillance network. So the people being watched paid for the cameras. Full circle.",
-        "He announced the freeze the day before the investigation dropped. That's not a policy change — that's a very bad calendar.",
-        "Flock cameras catch people doing things they shouldn't. Turns out that works on governments too."
+        "EY is paying $100 million for employees who show 'judgment.' At a consulting firm. That's not a bonus program, that's an admissions process for the bar they set when they hired people.",
+        "First they sold AI to every client. Now they're paying a premium for humans. The arc of the consulting business model is wild.",
+        "A hundred million dollars to reward 'being able to think.' I have questions about the other 390,000 employees.",
+        "'Human skills' is now a bonus category. Somewhere in a performance review, someone is writing: 'strong eye contact, correctly identified a problem, did not hallucinate the solution.' Exceeds expectations.",
+        "The job posting probably still says 'AI proficiency required.' The bonus structure says please, for the love of everything, also use your brain."
       ],
       "captionsJa": [
-        "州は3000万ドルかけて市民を監視した。新聞社は0円で州を監視した。コスパの差よ。",
-        "知事がカメラへの支出を凍結。カメラ：すでに買ってある、すでに稼働中、別に寒くない。",
-        "交通違反の罰金が監視ネットワークの資金になってたんですよ。つまり見られてる人が、自分を見るカメラの金を払ってた。完全な円環。",
-        "凍結の発表が調査報道の公開前日。ポリシー変更じゃなくて、カレンダーの管理ミスです。",
-        "フロックのカメラはやってはいけないことをしている人を捕まえる。政府にも使えるってわかりましたね。"
+        "EYが「判断力のある社員」に1億ドル払う。コンサル会社で。これはボーナスじゃなくて、採用基準に対する事後謝罪では？",
+        "まずAIを全クライアントに売って、次に人間に割増料金を払う。コンサルのビジネスモデルの弧、なかなか壮大。",
+        "「考える能力」に1億ドルの賞金。残りの39万人の社員について、ちょっと聞いていいですか。",
+        "「人間的スキル」がボーナス項目になった。人事評価に「アイコンタクト良好、問題を正確に把握、答えをでっち上げなかった——期待以上」と書かれる時代。",
+        "求人票にはたぶんまだ「AI活用スキル必須」とある。ボーナス制度には「頼むから脳みそも使ってくれ」とある。"
       ],
-      "newsEn": "Texas Governor Greg Abbott froze state spending on Flock AI surveillance cameras amid growing public backlash. The move came just before a Texas Tribune investigation revealed the state had already spent over $30 million on the cameras, with much of the funding coming from traffic fines and fees. Flock cameras use license plate recognition and other AI tools to track vehicles across jurisdictions.",
+      "newsEn": "Management consulting firm EY announced it will distribute $100 million in bonuses to employees who demonstrate what it calls 'human skills,' including business acumen and sound judgment. The move comes amid widespread adoption of AI tools in professional services, with firms increasingly looking to distinguish work that requires human capabilities. EY employs over 390,000 people globally.",
       "ironyEn": [
         {
-          "contradiction": "The governor froze spending on surveillance cameras the day before journalists revealed how much had already been spent on surveillance cameras.",
-          "absurdity": "The cameras track citizens. The journalists tracked the spending. Only one of those groups is facing a funding freeze.",
-          "outside": "Abroad, the detail that traffic fines funded the surveillance network is the part that lands hardest — drivers literally paid to be watched."
+          "contradiction": "Consulting firms spent years selling AI transformation to clients — and now the same firms are paying a premium for employees who can do what AI can't. The product is eating the pitch.",
+          "absurdity": "EY is offering bonuses for 'judgment and business acumen.' These are things you'd assume were baseline requirements for a management consultant. Apparently they've become exceptional enough to warrant nine figures.",
+          "outside": "From the outside, this reads as a firm quietly admitting it hired a lot of people who scored high on spreadsheets and low on thinking. The bonus is retroactive proof of concept."
         },
         {
-          "contradiction": "Abbott's announcement positioned the freeze as a response to public concern, but $30 million had already moved before anyone pumped the brakes.",
-          "absurdity": "Flock cameras are sold as a tool for catching people doing things they shouldn't. The irony is that a newspaper just used the same concept on the government.",
-          "outside": "The sequencing here — freeze announced, then investigation drops — is the kind of timing that looks different depending on which side of the press release you're reading it from."
+          "contradiction": "'Human skills' as a reward category implies 'non-human skills' are what's been getting rewarded until now.",
+          "absurdity": "One hundred million dollars to prove your employees are not robots — in a sector that billed clients billions to automate everyone else's workforce.",
+          "outside": "In Japan, 'being a team player' and 'having good judgment' have always been implicit job requirements. That a global firm has to pay people to have them is either very honest or very alarming."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-08-31/candidate-4.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-08-31/candidate-4-punchy.jpg"
+      "image": "images/2026-09-01/candidate-4.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-01/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "'Fat Marmot Week' Champion Crowned by Researchers Who Fund Science Through OnlyFans",
-        "source": "The Guardian US",
-        "date": "2026-08-31",
-        "url": "https://www.theguardian.com/us-news/2026/aug/30/marmot-winner-fat-marmot-week-contest",
-        "summary": "数十年にわたる研究プロジェクトを継続するためにOnlyFansアカウントを開設した科学者たちが、マーモット8頭の「冬眠前の肥満コンテスト」を実施し、初代チャンピオンを決定した。"
+        "headline": "Prediction Market Kalshi Bans George Santos for Life — Over Bets on His Own Attendance",
+        "source": "NPR News",
+        "date": "2026-09-01",
+        "url": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
+        "summary": "予測市場Kalshiは、元下院議員ジョージ・サントスに対し、自身の一般教書演説への出席を賭けた取引をめぐる調査への非協力を理由として、永久利用禁止と7万1,000ドル超の罰金を科したと発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 科学者がOnlyFansで研究費を稼いでいるという時点で、アメリカの学術資金調達の何かが壊れているんですよ。でも投票で選ばれたマーモットに「チャンピオン」の称号がついているという事実のほうが、なぜか心が洗われる。",
-        "<b>滑稽さ:</b> 「ファット・マーモット・ウィーク」。学術プロジェクトの予算が切られた結果、研究者が「どのマーモットが一番太ったか」を一般投票にかけている。これがアメリカの科学資金危機の顔。かわいすぎる顔。",
-        "<b>日本・海外から見ると:</b> 日本の「カピバラ温泉」ブームとかパンダの赤ちゃん命名投票に近い文脈。ただ、あちらは動物園の余裕からくるイベントで、こちらは研究費が底をついた末の苦肉の策という違いがある。"
+        "<b>矛盾:</b> 国会から追放された元議員が、今度は予測市場からも追放された。どこに行っても退場になる人生、ある意味一貫している。",
+        "<b>滑稽さ:</b> 「自分が会場に行くかどうか」に賭けた。インサイダー情報が「自分の予定」という、史上最もシンプルなインサイダー取引疑惑。",
+        "<b>日本・海外から見ると:</b> 予測市場で「自分の出席」に賭けるのは、野球選手が自分のヒット数に賭けるのと同じ構図。ピート・ローズのデジタル後継者がここに現れた。"
       ],
       "imagePrompts": [
-        "A very round, fluffy marmot sitting on a rock, wearing a tiny sash reading 'FAT MARMOT CHAMPION.' Below the rock, a laptop displays an OnlyFans-style subscription page with marmot photos.",
-        "A university research office with a nearly empty budget spreadsheet on the wall. Through the window, eight marmots are visible on a hillside, with a voting booth-style setup next to them and a banner reading 'FAT MARMOT WEEK — VOTE NOW.'",
-        "A scientist at a field station desk, one hand writing field notes, the other hand managing a social media post with a photo of a fat marmot. The caption on the post reads: 'Subscribe for exclusive fat marmot content.'"
+        "A man standing outside a prediction market office with a 'permanently banned' placard around his neck, holding a betting slip that reads 'will I show up today — yes — $500,' a long list of prior ban notices visible in his jacket pocket",
+        "A bingo card labeled 'George Santos Banned From' with squares filled in: Congress, a prediction market, and several blank squares still waiting",
+        "A horse racing betting window replaced by a 'State of the Union attendance odds' board, a single bettor leaning in to place a bet on himself, the cashier looking visibly exhausted"
       ],
       "captions": [
-        "Science funding is broken. Dawn is thriving.",
-        "They couldn't get a grant. They got an OnlyFans. Dawn won a sash. Peer review takes many forms.",
-        "The public voted on which marmot got fattest. This is how we do wildlife ecology now.",
-        "Fat Marmot Week exists because somewhere, a grant committee said no. Dawn said yes.",
-        "Eight marmots entered. One marmot won. None of them know about the OnlyFans."
+        "Santos bet on his own attendance at the State of the Union. His inside information was his own Google Calendar. This is the simplest possible conflict of interest and he still managed to not cooperate with the investigation.",
+        "Expelled from Congress, indicted federally, now banned from a betting app. He's not failing upward, he's failing sideways with tremendous consistency.",
+        "Kalshi fined him $71,000 for betting on whether he'd walk through a door. The door wasn't even worth $71,000.",
+        "Pete Rose bet on baseball. Santos bet on his own schedule. One of these is more embarrassing and I'll let you decide which.",
+        "He didn't cooperate with the internal investigation. Into bets. About himself. The story where every detail is somehow worse than the last."
       ],
       "captionsJa": [
-        "科学の資金調達は壊れてる。ドーンはご機嫌です。",
-        "助成金は取れなかった。OnlyFansは取れた。ドーンはチャンピオンのたすきをもらった。査読にはいろんな形がある。",
-        "どのマーモットが一番太ったかを一般投票で決める。これが今の野生生物生態学のやり方。",
-        "ファット・マーモット・ウィークが存在するのは、どこかで助成金委員会が「ノー」と言ったから。ドーンは「イエス」と言った。",
-        "マーモット8頭が参加して、1頭が優勝した。OnlyFansのことは誰も教えていない。"
+        "一般教書演説への自分の出席に賭けた。インサイダー情報は自分のGoogleカレンダー。これ以上シンプルな利益相反はないのに、それでも調査に非協力だった。",
+        "国会から追放、連邦起訴、そして今度は賭けアプリから永久ban。上に向かって失敗してるわけじゃなく、横に向かって一貫して失敗している。",
+        "「ドアをくぐるかどうか」に賭けて7万1,000ドルの罰金。そのドア、7万ドルの価値はなかった。",
+        "ピート・ローズは野球に賭けた。サントスは自分のスケジュールに賭けた。どちらがより情けないかは、みなさんに判断をお任せする。",
+        "自分自身に関する賭けの、社内調査に、協力しなかった。ディテールを追うたびに一段ずつひどくなっていく話。"
       ],
-      "newsEn": "A team of wildlife researchers who turned to OnlyFans to fund a decades-long marmot study crowned the winner of their inaugural 'Fat Marmot Week' contest. A yellow-bellied marmot named Dawn was selected champion through public voting as the animals fattened up ahead of winter hibernation. The contest was designed to raise public engagement — and funding — for the long-running research project.",
+      "newsEn": "Prediction market platform Kalshi announced it has permanently banned former Congressman George Santos and fined him over $71,000 for placing bets tied to his own attendance at the State of the Union address. Santos allegedly did not cooperate with Kalshi's internal investigation into the trades. Santos was expelled from Congress in 2023 following revelations of extensive biographical fabrications and faces ongoing federal charges.",
       "ironyEn": [
         {
-          "contradiction": "The scientists studying animal behavior for decades couldn't get their research funded through normal academic channels, so they posted marmots on OnlyFans.",
-          "absurdity": "The contest is called Fat Marmot Week. Dawn won. This is a peer-reviewed adjacent research program.",
-          "outside": "In most countries, a decades-long wildlife study would be a grant application. In the U.S. in 2026, it's a subscription service and a popularity contest."
+          "contradiction": "George Santos was expelled from Congress for lying about his entire biography, and then allegedly placed bets on whether he personally would show up somewhere. The subject of the lie got smaller, but the habit stayed.",
+          "absurdity": "The insider information in this case was literally his own calendar. The investment thesis was: 'I know things about me that you don't.'",
+          "outside": "Pete Rose got banned from baseball for betting on his own games. Santos got banned from a prediction market for betting on his own commute. The moral is the same; the scale is somehow sadder."
         },
         {
-          "contradiction": "Academic funding systems exist to support exactly this kind of long-term ecological research. They apparently did not support this long-term ecological research.",
-          "absurdity": "Eight marmots competed for the title of fattest marmot. The public voted. Dawn won. The scientists have a paper due.",
-          "outside": "The phrase 'OnlyFans-funded wildlife research' is a sentence that no science policy document anywhere anticipated having to address."
+          "contradiction": "A man expelled from the People's House for fabricating his entire life story allegedly tried to profit from the one thing he couldn't fabricate — whether he walked through a door.",
+          "absurdity": "Kalshi fined him $71,000. Santos didn't cooperate with the investigation. He's been expelled by Congress, indicted by federal prosecutors, and now banned by a betting app. He's collecting institutions.",
+          "outside": "In other countries, political scandal ends careers. Santos's career already ended, and he's still finding new organizations to get kicked out of. Resilience, in a very specific direction."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-08-31/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-08-31/candidate-5-punchy.jpg"
+      "image": "images/2026-09-01/candidate-5.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-01/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「名前を変える」「研究を止める」「払わない」「見ながら隠す」「OnlyFansで稼ぐ」——全部、何かが正常に機能していないときに起きることだけど、正常な顔をしている。",
-    "titleEn": "Lake America, Freedom Fuel, and a Marmot Named Dawn",
-    "subtitleEn": "Five stories that explain everything wrong, very calmly.",
-    "titleJa": "「レイク・アメリカ」「フリーダム・フューエル（4億円踏み倒し）」「OnlyFansの学者」——今日のアメリカ、全部説明します",
+    "thread": "「ルールの番人」が次々とルールを自分で消していく週。三権分立も科学的誠実性も、看板だけ残して中身が入れ替わっている。",
+    "titleEn": "The House Always Wins (Especially If It's the White House)",
+    "subtitleEn": "Five stories about people rewriting the rules they were supposed to follow.",
+    "titleJa": "「違法かもしれないけど建てていいよ」という判決が出た国の話",
     "titleAltJa": [
-      "3000万ドル使ってから「監視カメラ、凍結します」と言った知事の話",
-      "「フリーダム・フューエル」のフリーが文字通りになった日。あと太ったマーモットが優勝した。"
+      "最高裁長官が『多分ダメ』と書いて工事を止めなかった日のアメリカ5本",
+      "『人間らしくできる人』に1億ドル払うと言い出したコンサル会社について、今日語れるようになる"
     ],
-    "leadJa": "毎朝アメリカのニュースを読んでいます。今日も読みました。声が出ました。\n\n「レイク・アメリカ」「フリーダム（無料）フューエル」「監視カメラを買ってから凍結」「マーモットのOnlyFans」。全部、今日の実話です。",
-    "introEn": "Five stories today. One theme: systems doing the exact opposite of their job, with complete confidence.\n\nGoogle is now showing 'Lake America' to American users. Texas froze AI camera spending — right after spending $30 million on AI cameras. A brand called Freedom Fuel allegedly didn't pay for the fuel. And a research team is funding wildlife science through OnlyFans because grants weren't happening.\n\nHere's your forecast. If you've ever done everything right and still come up short — filled out the form, followed the process, played by the rules — today's news is weirdly validating. The people running things are also just making it up as they go. You're not behind. The scoreboard is broken. Dawn the marmot is thriving, and honestly, so can you.",
-    "introJa": "今日の5本、読み終えてから気づいたんですが、全部「本来やるべきことと逆のことをやっている」話なんですよ。\n\nGoogleが地図上でオンタリオ湖を「レイク・アメリカ」に改名。テキサス州は監視カメラ予算を凍結——3000万ドル使ったあとに。「フリーダム・フューエル」は燃料代400万ドルを払っていないと訴えられ。食中毒の原因を研究していたチームは予算を切られ。そして科学者がOnlyFansでマーモットの研究費を稼いでいる。\n\nで、これを毎朝読んでいる私も私ですが。\n\n今日の占い、聞いてください。これだけシステムが逆回転しているということは、あなたが「なんでうまくいかないんだろう」と思っていることの、少なくとも半分はあなたのせいじゃないんですよ。環境がおかしい。マーモットのDawnでさえ、不条理な仕組みの中でちゃんと太って、チャンピオンになっています。今日はあなたも、そのくらいの気持ちでいてください。",
-    "quipEn": "The lake is unchanged. The fuel wasn't paid for. The cameras are still on. And Dawn is fat and happy. Some systems are working fine.",
-    "quipJa": "湖は何も変わっていない。ガソリン代は払われていない。カメラはまだ動いている。Dawnは太って優勝した。正常に機能しているものもある。",
+    "leadJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。「違法の可能性が高い」と書いた人が、工事の続行を認めた。",
+    "introEn": "There's a theme running through today's five stories, and it's not subtle.\n\nSomebody rewrote the rules. Or ignored them. Or just... kept going anyway.\n\nThe Supreme Court let a $400 million ballroom keep going up — with a dissent from the Chief Justice himself saying it's probably illegal. A federal agency quietly deleted the clause that said politicians shouldn't touch its data. Amazon may have been charging you for the ad that sold you the thing you bought. And George Santos got banned from a betting app for gambling on his own Google Calendar.\n\nHere's your forecast: the system isn't broken. It's doing exactly what the people currently running it want it to do. Which means whatever isn't working in your life right now? Not your fault. You're playing by rules that keep getting edited while the game is live. Today, knowing that is enough.",
+    "introJa": "「違法かもしれない」と言いながら進む工事があります。\n\n今日の話です。アメリカの話です。でも笑えない感じもあります。\n\n最高裁判所が、「多分違法」と書いた長官の反対意見ごと、ホワイトハウスの舞踏場工事の続行を認めた。センサス局は「政治介入を禁じる」条文を、政治が削除した。Amazonは広告主に秘密の追加料金を課して、そのコストを消費者に払わせていた疑惑がある。コンサル大手EYは「人間らしく判断できる人」に1億ドルのボーナスを出すと言った。元議員サントスは、自分の予定帳を元手にインサイダー賭けをして、予測市場から永久追放された。\n\n今日の5本、全部「ルールを作った側が、そのルールの外を歩いている」話なんですよね。\n\nで、占いです。ルールを自分で書き換えられる人たちがこれだけいるなら、あなたが「なんか損してる気がする」のはあなたのせいじゃない。今日は、それだけ。",
+    "quipEn": "This week, the people in charge of the rules kept editing the rules. Which means if something's not working for you right now, the document may still be under revision.",
+    "quipJa": "ルールを書いた人が、こっそり書き直している。あなたが損してる気がするのは、たぶんそのせいです。",
     "notesEn": [
-      "Google is now showing 'Lake America' instead of 'Lake Ontario' for U.S. users, per a Trump executive order. Canada built a billboard. The lake has no comment. The fish are the same fish.",
-      "The USDA shelved research on cyclospora — a parasite that has sickened tens of thousands of Americans — citing budget cuts and staff relocations. The parasite wasn't notified and has continued operations.",
-      "A federal lawsuit claims that stations operating under Trump's Freedom Fuel brand are connected to $4 million in unpaid fuel bills. The brand is called Freedom Fuel. Four million dollars of fuel. Free.",
-      "Texas Governor Greg Abbott froze state spending on Flock AI surveillance cameras. A newspaper then reported the state had already spent over $30 million on them — funded largely by traffic fines. The people being watched paid for the cameras. The governor is now watching the newspaper.",
-      "Scientists studying yellow-bellied marmots turned to OnlyFans to fund their research. The public voted on which marmot was fattest. A marmot named Dawn won. This is peer review now.",
-      "Today's five stories, one sentence: a renamed lake, an unpaid fuel bill, a shelved parasite study, a $30 million surveillance freeze, and a marmot named Dawn — all happening at the same time, all making complete sense if you don't think about it.",
-      "The common thread in today's news: every system doing the opposite of its stated purpose, confidently. The food safety team: defunded. The 'energy independence' brand: not paying for energy. The anti-surveillance announcement: made after buying the surveillance. Functioning as designed.",
-      "Dawn the marmot won Fat Marmot Week. Researchers who couldn't get grants funded their decades-long wildlife study through OnlyFans. Science funding is broken. Dawn is thriving. There's a lesson in there somewhere."
+      "The Chief Justice of the Supreme Court wrote that the White House ballroom is 'likely unlawful.' He was in the minority. Construction continues. I don't know what a dissent is for anymore.",
+      "The Census Bureau's parent agency removed the clause banning political interference from its scientific integrity policy — right after releasing a report tied to a political think tank. The document is still called a scientific integrity policy. The name is doing a lot of heavy lifting.",
+      "The FTC alleges Amazon charged advertisers a secret fee, advertisers raised their prices, and consumers paid more. You paid for Prime. You paid for the product. You may have also paid for the ad that found you first.",
+      "EY is handing out $100 million in bonuses for employees who show 'judgment and business acumen.' At a consulting firm. This is either a great sign for humans or a devastating one, and I can't decide which.",
+      "George Santos bet on whether he would personally show up to the State of the Union. His inside information was his own schedule. He then refused to cooperate with the investigation. Expelled from Congress, indicted, now banned from a betting app. The consistency is actually impressive."
     ],
     "xJa": [
-      "Googleがアメリカ国内の地図でオンタリオ湖を「レイク・アメリカ」に改名しました。カナダは「オンタリオ湖——今も、これからも」という看板を建てました。湖は何もしていません。",
-      "アメリカで食中毒被害を数万人出してきた寄生虫の研究が、USDAの予算削減で事実上停止されました。問題を研究するチームをなくせば問題が消える、と思っているんですかね。",
-      "トランプ大統領が宣伝していた「フリーダム・フューエル」ブランドのガソリンスタンド、燃料代約400万ドルを払っていないと訴えられました。「フリーダム」の「フリー」が文字通りになりました。",
-      "テキサス州知事がAI監視カメラの予算を凍結と発表→直後に調査報道で「すでに3000万ドル以上使っていた」と判明。監視する側が、取材に見られていました。",
-      "交通違反の罰金でAI監視カメラを買っていたテキサス州。つまり、カメラで見られる市民が、自分を見るカメラを買っていたということです。何なんですかね、これ。",
-      "研究費が底をついた動物学者たちがOnlyFansで資金調達→マーモットの「冬眠前肥満コンテスト」を開催→Dawnが優勝。アメリカの科学資金危機の顔が、思ったよりかわいい。",
-      "今日学んだこと：地図の名前は変えられる。ガソリン代は払わなくてもブランドは作れる。監視カメラは買ってから凍結できる。研究費はOnlyFansで稼げる。Dawnは太れる。",
-      "「フリーダム・フューエル」「レイク・アメリカ」「ファット・マーモット・ウィーク」。これ全部今日の実話です。毎朝こんなニュースを読んでいる自分が、たまによくわからなくなる。"
+      "最高裁長官が「多分違法」と書いた反対意見ごと、ホワイトハウスの4億ドル舞踏場の工事続行が認められた。「多分ダメ」は止まる理由にならない国になってきた。",
+      "センサス局が「政治的干渉を禁じる」条文を科学的誠実性ポリシーからこっそり削除。タイミングは政治寄りの報告書を出した直後。看板だけ残して中身を入れ替えるのが上手すぎる。",
+      "AmazonがFTCに提訴された。広告主に秘密の追加料金を課して、コストを消費者に転嫁した疑惑。プライム料金払って、商品代も払って、広告費まで払ってたかもしれない。奥が深い。",
+      "コンサル大手EYが「人間らしいスキルを持つ従業員」に総額1億ドルのボーナス。AIを全クライアントに売り込んできた会社が、今度は「人間であること」に値段をつけた。弧が大きい。",
+      "元議員サントス、自分が一般教書演説に出席するかどうかに賭けて予測市場から永久追放。インサイダー情報が自分のスケジュール帳。議会追放→連邦起訴→アプリ追放。横に倒れながら落ちていく。"
     ],
-    "fullEn": "# Lake America, Freedom Fuel, and a Marmot Named Dawn\n\n## Today's Forecast\n\nFive stories today. One theme: systems doing the exact opposite of their job, with complete confidence.\n\nGoogle is now showing 'Lake America' to American users. Texas froze AI camera spending — right after spending $30 million on AI cameras. A brand called Freedom Fuel allegedly didn't pay for the fuel. And a research team is funding wildlife science through OnlyFans because grants weren't happening.\n\nHere's your forecast. If you've ever done everything right and still come up short — filled out the form, followed the process, played by the rules — today's news is weirdly validating. The people running things are also just making it up as they go. You're not behind. The scoreboard is broken. Dawn the marmot is thriving, and honestly, so can you.\n\n---\n\n## 1. Google Renames Lake Ontario 'Lake America' for U.S. Users After Trump Executive Order\n\n*CBS News US — [source](https://www.cbsnews.com/news/lake-america-trump-order-google-maps-lake-ontario/)*\n\nGoogle announced it has begun updating its maps to display 'Lake America' instead of 'Lake Ontario' for users in the United States, following an executive order signed by President Trump. Canada has pushed back against the renaming, with Ontario Premier Doug Ford unveiling a large billboard reading 'Lake Ontario — Now and Always.' The lake itself, of course, remains unchanged.\n\n**Why It's Funny**\n\n- **Contradiction:** Trump renamed a lake that's literally half in Canada. 'Lake America' shares a shoreline with a country that refuses to call it that.\n- **Absurdity:** Google updated the map. The lake did not update Google.\n- **View from Tokyo:** Canada put up a billboard. The U.S. issued an executive order. One of these things cost taxpayers nothing and will still be standing in fifty years.\n\n**Say It Out Loud**\n\n> The water's the same. The fish are the same. But now half of them are American fish, apparently.\n\n---\n\n## 2. USDA Shelves Cyclospora Research After Parasite Has Already Sickened Tens of Thousands\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved)*\n\nThe Trump administration is shutting down two of three USDA research projects studying cyclospora, a foodborne parasite that has sickened tens of thousands of Americans. Two projects were defunded by Congress, while relocations have disrupted staffing on the remaining work. Cyclospora outbreaks have been repeatedly linked to fresh produce imported into the United States.\n\n**Why It's Funny**\n\n- **Contradiction:** The agency tasked with keeping the food supply safe just shut down the team studying one of the parasites making people sick from the food supply.\n- **Absurdity:** Tens of thousands sickened. Three research projects existed. Now there's one. Apparently the data was pointing in a direction someone didn't enjoy.\n- **View from Tokyo:** Most countries expand disease research after a wave of cases. The U.S. is trying something different.\n\n**Say It Out Loud**\n\n> Tens of thousands sick. Problem solved — we stopped counting.\n\n---\n\n## 3. Trump-Branded 'Freedom Fuel' Stations Linked to $4 Million in Unpaid Gas Bills, Lawsuit Claims\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html)*\n\nA federal lawsuit alleges that fuel distributor KRSM failed to pay for approximately $4 million worth of fuel, some of which was delivered to stations operating under the Trump-promoted Freedom Fuel brand. President Trump had publicly backed the Freedom Fuel network as part of his energy agenda. The lawsuit was filed in federal court against KRSM.\n\n**Why It's Funny**\n\n- **Contradiction:** A gas station network promoted by the president as a symbol of American energy freedom is being sued for not paying for the gas.\n- **Absurdity:** Freedom Fuel. The 'free' part apparently applied to the fuel invoices.\n- **View from Tokyo:** In most countries, an endorsed brand not paying its suppliers would be called a scandal. In this news cycle, it's a Tuesday.\n\n**Say It Out Loud**\n\n> Freedom Fuel: liberty, patriotism, and apparently net-90 payment terms that nobody agreed to.\n\n---\n\n## 4. Texas Governor Freezes Funding for AI Surveillance Cameras — Right Before Investigation Reveals $30 Million Already Spent\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)*\n\nTexas Governor Greg Abbott froze state spending on Flock AI surveillance cameras amid growing public backlash. The move came just before a Texas Tribune investigation revealed the state had already spent over $30 million on the cameras, with much of the funding coming from traffic fines and fees. Flock cameras use license plate recognition and other AI tools to track vehicles across jurisdictions.\n\n**Why It's Funny**\n\n- **Contradiction:** The governor froze spending on surveillance cameras the day before journalists revealed how much had already been spent on surveillance cameras.\n- **Absurdity:** The cameras track citizens. The journalists tracked the spending. Only one of those groups is facing a funding freeze.\n- **View from Tokyo:** Abroad, the detail that traffic fines funded the surveillance network is the part that lands hardest — drivers literally paid to be watched.\n\n**Say It Out Loud**\n\n> The state spent $30 million watching people. A newspaper spent nothing watching the state. Efficiency gap.\n\n---\n\n## 5. 'Fat Marmot Week' Champion Crowned by Researchers Who Fund Science Through OnlyFans\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/30/marmot-winner-fat-marmot-week-contest)*\n\nA team of wildlife researchers who turned to OnlyFans to fund a decades-long marmot study crowned the winner of their inaugural 'Fat Marmot Week' contest. A yellow-bellied marmot named Dawn was selected champion through public voting as the animals fattened up ahead of winter hibernation. The contest was designed to raise public engagement — and funding — for the long-running research project.\n\n**Why It's Funny**\n\n- **Contradiction:** The scientists studying animal behavior for decades couldn't get their research funded through normal academic channels, so they posted marmots on OnlyFans.\n- **Absurdity:** The contest is called Fat Marmot Week. Dawn won. This is a peer-reviewed adjacent research program.\n- **View from Tokyo:** In most countries, a decades-long wildlife study would be a grant application. In the U.S. in 2026, it's a subscription service and a popularity contest.\n\n**Say It Out Loud**\n\n> Science funding is broken. Dawn is thriving.\n\n---\n\n## Today's Punchline\n\n> The lake is unchanged. The fuel wasn't paid for. The cameras are still on. And Dawn is fat and happy. Some systems are working fine.\n",
-    "fullJa": "# 「レイク・アメリカ」「フリーダム・フューエル（4億円踏み倒し）」「OnlyFansの学者」——今日のアメリカ、全部説明します\n\n## 今日を占うよ〜\n\n今日の5本、読み終えてから気づいたんですが、全部「本来やるべきことと逆のことをやっている」話なんですよ。\n\nGoogleが地図上でオンタリオ湖を「レイク・アメリカ」に改名。テキサス州は監視カメラ予算を凍結——3000万ドル使ったあとに。「フリーダム・フューエル」は燃料代400万ドルを払っていないと訴えられ。食中毒の原因を研究していたチームは予算を切られ。そして科学者がOnlyFansでマーモットの研究費を稼いでいる。\n\nで、これを毎朝読んでいる私も私ですが。\n\n今日の占い、聞いてください。これだけシステムが逆回転しているということは、あなたが「なんでうまくいかないんだろう」と思っていることの、少なくとも半分はあなたのせいじゃないんですよ。環境がおかしい。マーモットのDawnでさえ、不条理な仕組みの中でちゃんと太って、チャンピオンになっています。今日はあなたも、そのくらいの気持ちでいてください。\n\n---\n\n## 1. Google Renames Lake Ontario 'Lake America' for U.S. Users After Trump Executive Order\n\n*CBS News US（[記事](https://www.cbsnews.com/news/lake-america-trump-order-google-maps-lake-ontario/)）*\n\nトランプ大統領の大統領令を受け、Googleがアメリカ国内のマップ上でオンタリオ湖の表示名を「レイク・アメリカ」に変更し始めたと発表した。\n\n**どこが笑える？**\n\n- 矛盾: 「地図の名前を変えれば現実が変わる」という発想で地政学をやっている。Googleが従ったことで、アメリカ人はレイク・アメリカを見ながら、カナダ人はオンタリオ湖を見るという「並行現実」が生まれたんですよ。\n- 滑稽さ: 湖岸はカナダとの国境線そのもの。つまり「レイク・アメリカ」の北半分は、名実ともにアメリカじゃないんですよね。地図の上だけのアメリカ。\n- 日本・海外から見ると: 日本で例えるなら琵琶湖を突然「レイク・ジャパン」に改名して、AppleとGoogleが従った感じ。他の国から見れば「あの国、また地図でやってる」案件。\n\n**このニュースをジョークにするなら...**\n\n> 水は同じ。魚も同じ。でも今はアメリカの魚、ってことになったらしいですよ。\n\n---\n\n## 2. USDA Shelves Cyclospora Research After Parasite Has Already Sickened Tens of Thousands\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/30/usda-cyclospora-research-projects-shelved)）*\n\nトランプ政権が、数万人規模の食中毒被害を出してきた寄生虫「サイクロスポラ」の研究プロジェクトを、予算削減と研究者の再配置を理由にUSDAで事実上凍結したことが報じられた。\n\n**どこが笑える？**\n\n- 矛盾: 食の安全を守るはずの農務省が、「食品由来の病気を研究する部門」を閉めるんですよ。玄関の鍵の研究予算を削りながら「防犯対策は万全」と言ってる感じ。\n- 滑稽さ: 患者を数万人出してから「もう研究しなくていいか」という判断になったわけで、タイミングが逆すぎて笑えない。いや、笑うしかない。\n- 日本・海外から見ると: 食品安全の研究は「コスト」に見えて、アウトブレイクが起きたときの経済損失と比べると桁が違う。外から見ると予防医学の基礎を削っている、という話。\n\n**このニュースをジョークにするなら...**\n\n> 数万人が感染。問題解決——数えるのをやめました。\n\n---\n\n## 3. Trump-Branded 'Freedom Fuel' Stations Linked to $4 Million in Unpaid Gas Bills, Lawsuit Claims\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/08/30/trump-freedom-fuel-mansfield-lawsuit.html)）*\n\nトランプ大統領が宣伝していた「フリーダム・フューエル」ガソリンスタンドのネットワークに燃料を供給していた業者が、約400万ドル分の燃料代が未払いだとして連邦裁判所に訴訟を起こしたことが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 「エネルギーの自立」を訴えるブランドが、ガソリン代を払っていなかったと訴えられてる。自由のためにタダ乗りしてたってこと？\n- 滑稽さ: ブランド名が「フリーダム・フューエル」——「フリー」の部分が文字通りになっちゃったんですよ。400万ドル分、フリー。\n- 日本・海外から見ると: 大統領のお墨付きブランドが燃料代を踏み倒したという訴訟。「エンドースメントリスク」のケーススタディとして、MBAの授業で使えそうな話。\n\n**このニュースをジョークにするなら...**\n\n> フリーダム・フューエル：自由と愛国心と、誰も合意していなかったらしい支払い猶予期間。\n\n---\n\n## 4. Texas Governor Freezes Funding for AI Surveillance Cameras — Right Before Investigation Reveals $30 Million Already Spent\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras)）*\n\nテキサス州のグレッグ・アボット知事が、AIカメラ監視システム「フロック」への州資金の凍結を発表したが、直後にテキサス・トリビューンの調査報道で州がすでに3000万ドル以上を同システムに費やしていたことが明らかになった。\n\n**どこが笑える？**\n\n- 矛盾: 「もう買わない」と宣言した翌日に「3000万ドル、もう買ってた」と報道された。凍結の発表がちょうど調査報道の公開直前で、タイミングが絶妙すぎる。\n- 滑稽さ: 市民をカメラで追跡するシステムの問題点は「見られている」こと。それを問題にした知事が、調査報道に「見られていた」という構図になってるんですよ。\n- 日本・海外から見ると: 監視カメラの予算を交通違反の罰金で賄っていた、という点が特に興味深い。つまり速度違反をした市民が、自分を監視するカメラの資金を払っていた。\n\n**このニュースをジョークにするなら...**\n\n> 州は3000万ドルかけて市民を監視した。新聞社は0円で州を監視した。コスパの差よ。\n\n---\n\n## 5. 'Fat Marmot Week' Champion Crowned by Researchers Who Fund Science Through OnlyFans\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/30/marmot-winner-fat-marmot-week-contest)）*\n\n数十年にわたる研究プロジェクトを継続するためにOnlyFansアカウントを開設した科学者たちが、マーモット8頭の「冬眠前の肥満コンテスト」を実施し、初代チャンピオンを決定した。\n\n**どこが笑える？**\n\n- 矛盾: 科学者がOnlyFansで研究費を稼いでいるという時点で、アメリカの学術資金調達の何かが壊れているんですよ。でも投票で選ばれたマーモットに「チャンピオン」の称号がついているという事実のほうが、なぜか心が洗われる。\n- 滑稽さ: 「ファット・マーモット・ウィーク」。学術プロジェクトの予算が切られた結果、研究者が「どのマーモットが一番太ったか」を一般投票にかけている。これがアメリカの科学資金危機の顔。かわいすぎる顔。\n- 日本・海外から見ると: 日本の「カピバラ温泉」ブームとかパンダの赤ちゃん命名投票に近い文脈。ただ、あちらは動物園の余裕からくるイベントで、こちらは研究費が底をついた末の苦肉の策という違いがある。\n\n**このニュースをジョークにするなら...**\n\n> 科学の資金調達は壊れてる。ドーンはご機嫌です。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 湖は何も変わっていない。ガソリン代は払われていない。カメラはまだ動いている。Dawnは太って優勝した。正常に機能しているものもある。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "全体的に水準は高い。ただしd1のcaption4（隣人の私道）はオチが説明で終わっている。d4のcaption4は「スケジュールの問題」で着地が弱い——「スケジュールの衝突」と言い直しているだけ。d5のimagePrompt3に実在しない「Subscribe for exclusive fat marmot content」という引用文が混入しているが、これは架空のSNS投稿テキストであり実在人物・事実ではないため許容範囲。xJa[3]が「30億円以上」と円換算しているが元データに円換算はなく、独自換算は事実追加に当たるため修正。xJa[7]の「毎日こんな感じです」は自己言及として機能しているが、その前の文が箇条書き口調で散漫。d2のcaption3「Fully funded: something else」は弱い——オチがない。該当箇所のみ修正する。 ／ 文体パス: 2箇所修正。xJa[1]の「という論理です」がプレゼン締め口調、xJa[4]の「完璧な円環」が気の利いた総括すぎる。どちらも崩した。"
+    "raidEn": [
+      "Other presidents left libraries. This one's leaving a dance floor. The legacy architecture really has changed.",
+      "The 'no political interference' clause is gone, but the document is still called a scientific integrity policy. The branding team is working overtime.",
+      "You paid for Prime, you paid for the product, and apparently you may have paid for the ad that got you there. Amazon Prime: it's a whole ecosystem.",
+      "First they sold AI to every client. Now they're paying $100M for humans who can think. The full circle on this one is genuinely something.",
+      "Santos bet on his own attendance using his own schedule as inside information and then refused to cooperate with the investigation into that. The commitment to the bit is extraordinary."
+    ],
+    "raidJa": [
+      "「多分違法」という反対意見ごと工事を認めた判決、読んでいて二度見しました。記事でこの構図を丁寧に整理してくださっていて、すっと入ってきました。",
+      "科学的誠実性ポリシーから政治介入禁止の条文だけ削除、という動きの静けさが一番怖いですよね。こういう「こっそり」の積み重ねを追ってくださっている記事、ありがたいです。",
+      "「安い」の裏側にこういう構造があるかもしれないと思うと、日常の買い物の感覚が変わりますよね。丁寧に整理してくださっていてとても読みやすかったです。",
+      "「人間らしく判断できること」がボーナス査定項目になる時代、という切り取り方がおもしろいなと思いました。EYのこの発表、いろんな読み方ができますよね。",
+      "「自分の予定帳がインサイダー情報」というくだりで声が出ました。サントス案件、追えば追うほど新しい展開があって目が離せないですね。"
+    ],
+    "riffEn": [
+      "Chief Justice Roberts wrote in his dissent that the White House ballroom construction is 'likely unlawful.' He was outvoted 5-4. Construction continues. I want to be clear about what happened here: the highest-ranking judge in the country said 'this is probably illegal' and the response was essentially 'noted, keep building.' A dissent is supposed to be a legal argument. This one reads more like a Yelp review the restaurant decided to frame and hang on the wall.",
+      "The Census Bureau released a report. The report had ties to a Trump-aligned think tank. Shortly after, the parent agency quietly removed the clause in its scientific integrity policy that said politicians shouldn't interfere with the data. The clause is gone. The policy is still called a scientific integrity policy. That name is doing extraordinary work right now. It's like removing the 'no lying' rule from an honesty pledge and keeping the pledge.",
+      "The FTC says Amazon created a secret surcharge, charged it to advertisers, advertisers passed it to sellers, sellers passed it to consumers, and consumers paid more for things they were already paying Prime membership to access. You found the product. You added it to your cart. You checked out. Somewhere in that journey, you may have also funded the ad that convinced you to do all of that. Amazon calls it 'denied.' Twenty-two states call it a lawsuit. I call it the most elaborate loyalty program I've ever seen.",
+      "EY, a firm that has spent years helping clients automate human jobs, just announced it will pay $100 million in bonuses to employees who demonstrate 'human skills' — specifically judgment and business acumen. So to be clear: judgment is now a premium feature. At a consulting firm. The same firms that charged clients $500 an hour for judgment are now offering bonuses for it internally because apparently it got scarce. I have questions about what was happening before.",
+      "George Santos bet on whether he would personally attend the State of the Union address. His competitive advantage in this trade was his own Google Calendar. When Kalshi investigated, he didn't cooperate. He was expelled from Congress in 2023. He faces federal charges. He is now also permanently banned from a prediction market app and fined $71,000. At some point this stops being a downfall and starts being a world record attempt."
+    ],
+    "riffJa": [
+      "最高裁の長官ジョン・ロバーツが、反対意見にこう書きました。「この工事は違法の可能性が高い」と。で、5対4で工事の続行が認められた。つまり「多分ダメ」という意見は負けた。\n\n反対意見って、法律の世界では一応まともな議論のはずなんですよ。でも今回それは、店主に貼られて終わったクレームのメモみたいな扱いを受けた。ホワイトハウスの敷地に4億ドルの舞踏場が建つ。「小さな政府」の旗を掲げている政権が。",
+      "センサス局が報告書を出した。その報告書、トランプ支持系のシンクタンクと関係があった。その直後に、親省庁が「政治的干渉を禁じる」という条文を、科学的誠実性ポリシーからそっと消した。\n\nポリシーの名前はまだ「科学的誠実性ポリシー」のまま。看板は残った。中身だけ変わった。「嘘をつかない誓い」から「嘘をつかない」という一文を抜いた感じがする。誓いは続いている。",
+      "Amazonが提訴された話、構造が面白い。広告主に秘密の追加料金を課す→広告主が価格に転嫁する→消費者が払う。プライム会費を払って、商品代を払って、もしかしたらその商品の広告費まで払っていた可能性がある。\n\n「お得に買えた」と思っていたあの体験、なんかちょっと違う感じがしてきた。Amazonはすべて否定しています。22の州はそれを裁判所で争うと言っています。",
+      "EYというコンサル会社が「人間らしいスキルを持つ社員に1億ドルのボーナス」を出すと言った。その「人間らしいスキル」というのが、判断力とビジネス感覚らしい。\n\nちょっと待って。コンサルタントが判断力を持っていることが、加点対象になる時代に入ったということですよね。「判断できます」が希少価値。何十年もかけてAIを売り続けてきた業界の今がこれ。弧が大きすぎて、端っこが見えない。",
+      "元議員ジョージ・サントスという人がいます。2023年に議会を追放されました。連邦起訴もされています。その彼が、予測市場サービスで「自分が一般教書演説の会場に行くかどうか」に賭けていた。\n\nインサイダー情報が自分のスケジュール帳、というのはある意味すごい。調査には非協力だったので永久追放と7万1000ドルの罰金。議会を追放されて、起訴されて、アプリにも追放される。横に滑りながら落ちていくスタイルが、ここまで一貫していると逆に清々しい。"
+    ],
+    "fullEn": "# The House Always Wins (Especially If It's the White House)\n\n## Today's Forecast\n\nThere's a theme running through today's five stories, and it's not subtle.\n\nSomebody rewrote the rules. Or ignored them. Or just... kept going anyway.\n\nThe Supreme Court let a $400 million ballroom keep going up — with a dissent from the Chief Justice himself saying it's probably illegal. A federal agency quietly deleted the clause that said politicians shouldn't touch its data. Amazon may have been charging you for the ad that sold you the thing you bought. And George Santos got banned from a betting app for gambling on his own Google Calendar.\n\nHere's your forecast: the system isn't broken. It's doing exactly what the people currently running it want it to do. Which means whatever isn't working in your life right now? Not your fault. You're playing by rules that keep getting edited while the game is live. Today, knowing that is enough.\n\n---\n\n## 1. Supreme Court Clears the Way for Trump's $400M White House Ballroom\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump)*\n\nThe US Supreme Court ruled 5-4 to allow construction of a $400 million ballroom on White House grounds to continue while legal challenges proceed. Chief Justice John Roberts dissented alongside three liberal justices, writing that the construction is 'likely unlawful.' The project has drawn criticism over its cost and the use of presidential property for private entertainment.\n\n**Why It's Funny**\n\nChief Justice Roberts wrote in his dissent that the White House ballroom construction is 'likely unlawful.' He was outvoted 5-4. Construction continues. I want to be clear about what happened here: the highest-ranking judge in the country said 'this is probably illegal' and the response was essentially 'noted, keep building.' A dissent is supposed to be a legal argument. This one reads more like a Yelp review the restaurant decided to frame and hang on the wall.\n\n**Say It Out Loud**\n\n> The Chief Justice wrote 'this is probably illegal' and then signed off on it. That's not a dissent, that's a Yelp review.\n\n---\n\n## 2. Census Bureau Quietly Drops Political Interference Ban — Right After a Politically Tinged Report\n\n*NPR News — [source](https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity)*\n\nAfter the Census Bureau released a report connected to a Trump-aligned think tank, its parent agency quietly removed language prohibiting political interference from its scientific integrity policy, NPR has learned. The sequence of events has raised concerns among researchers and data integrity advocates about the independence of federal statistical agencies. The Census Bureau's data underpins decisions on congressional apportionment, federal funding, and economic policy.\n\n**Why It's Funny**\n\nThe Census Bureau released a report. The report had ties to a Trump-aligned think tank. Shortly after, the parent agency quietly removed the clause in its scientific integrity policy that said politicians shouldn't interfere with the data. The clause is gone. The policy is still called a scientific integrity policy. That name is doing extraordinary work right now. It's like removing the 'no lying' rule from an honesty pledge and keeping the pledge.\n\n**Say It Out Loud**\n\n> They removed the 'no political interference' rule from the scientific integrity policy. The document is still called a scientific integrity policy. The name is doing a lot of heavy lifting right now.\n\n---\n\n## 3. FTC Sues Amazon Over Secret Ad Surcharge That Was Passed on to Consumers\n\n*The Verge — [source](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit)*\n\nThe FTC and 22 state attorneys general filed a lawsuit against Amazon, alleging the company used a hidden surcharge system to inflate advertising prices on its website and app. FTC Chairman Andrew Ferguson stated that the higher costs were 'largely passed on to American consumers.' Amazon has denied the allegations. The lawsuit is the latest in a series of major antitrust actions targeting the e-commerce giant.\n\n**Why It's Funny**\n\nThe FTC says Amazon created a secret surcharge, charged it to advertisers, advertisers passed it to sellers, sellers passed it to consumers, and consumers paid more for things they were already paying Prime membership to access. You found the product. You added it to your cart. You checked out. Somewhere in that journey, you may have also funded the ad that convinced you to do all of that. Amazon calls it 'denied.' Twenty-two states call it a lawsuit. I call it the most elaborate loyalty program I've ever seen.\n\n**Say It Out Loud**\n\n> Amazon allegedly charged advertisers a secret fee, advertisers raised their prices, and consumers paid more. A full circle that moves money from your cart directly to nowhere you can see.\n\n---\n\n## 4. EY to Hand Out $100M in Bonuses for Workers Who Act Like... Humans\n\n*CBS News US — [source](https://www.cbsnews.com/news/ernst-young-human-focused-skills/)*\n\nManagement consulting firm EY announced it will distribute $100 million in bonuses to employees who demonstrate what it calls 'human skills,' including business acumen and sound judgment. The move comes amid widespread adoption of AI tools in professional services, with firms increasingly looking to distinguish work that requires human capabilities. EY employs over 390,000 people globally.\n\n**Why It's Funny**\n\nEY, a firm that has spent years helping clients automate human jobs, just announced it will pay $100 million in bonuses to employees who demonstrate 'human skills' — specifically judgment and business acumen. So to be clear: judgment is now a premium feature. At a consulting firm. The same firms that charged clients $500 an hour for judgment are now offering bonuses for it internally because apparently it got scarce. I have questions about what was happening before.\n\n**Say It Out Loud**\n\n> EY is paying $100 million for employees who show 'judgment.' At a consulting firm. That's not a bonus program, that's an admissions process for the bar they set when they hired people.\n\n---\n\n## 5. Prediction Market Kalshi Bans George Santos for Life — Over Bets on His Own Attendance\n\n*NPR News — [source](https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets)*\n\nPrediction market platform Kalshi announced it has permanently banned former Congressman George Santos and fined him over $71,000 for placing bets tied to his own attendance at the State of the Union address. Santos allegedly did not cooperate with Kalshi's internal investigation into the trades. Santos was expelled from Congress in 2023 following revelations of extensive biographical fabrications and faces ongoing federal charges.\n\n**Why It's Funny**\n\nGeorge Santos bet on whether he would personally attend the State of the Union address. His competitive advantage in this trade was his own Google Calendar. When Kalshi investigated, he didn't cooperate. He was expelled from Congress in 2023. He faces federal charges. He is now also permanently banned from a prediction market app and fined $71,000. At some point this stops being a downfall and starts being a world record attempt.\n\n**Say It Out Loud**\n\n> Santos bet on his own attendance at the State of the Union. His inside information was his own Google Calendar. This is the simplest possible conflict of interest and he still managed to not cooperate with the investigation.\n\n---\n\n## Today's Punchline\n\n> This week, the people in charge of the rules kept editing the rules. Which means if something's not working for you right now, the document may still be under revision.\n",
+    "fullJa": "# 「違法かもしれないけど建てていいよ」という判決が出た国の話\n\n## 今日を占うよ〜\n\n「違法かもしれない」と言いながら進む工事があります。\n\n今日の話です。アメリカの話です。でも笑えない感じもあります。\n\n最高裁判所が、「多分違法」と書いた長官の反対意見ごと、ホワイトハウスの舞踏場工事の続行を認めた。センサス局は「政治介入を禁じる」条文を、政治が削除した。Amazonは広告主に秘密の追加料金を課して、そのコストを消費者に払わせていた疑惑がある。コンサル大手EYは「人間らしく判断できる人」に1億ドルのボーナスを出すと言った。元議員サントスは、自分の予定帳を元手にインサイダー賭けをして、予測市場から永久追放された。\n\n今日の5本、全部「ルールを作った側が、そのルールの外を歩いている」話なんですよね。\n\nで、占いです。ルールを自分で書き換えられる人たちがこれだけいるなら、あなたが「なんか損してる気がする」のはあなたのせいじゃない。今日は、それだけ。\n\n---\n\n## 1. Supreme Court Clears the Way for Trump's $400M White House Ballroom\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump)）*\n\n連邦最高裁判所は5対4の判決で、ホワイトハウス敷地内に建設中のトランプ大統領の4億ドル規模の舞踏場工事を継続することを認めた。\n\n**どこが笑える？**\n\n最高裁の長官ジョン・ロバーツが、反対意見にこう書きました。「この工事は違法の可能性が高い」と。で、5対4で工事の続行が認められた。つまり「多分ダメ」という意見は負けた。\n\n反対意見って、法律の世界では一応まともな議論のはずなんですよ。でも今回それは、店主に貼られて終わったクレームのメモみたいな扱いを受けた。ホワイトハウスの敷地に4億ドルの舞踏場が建つ。「小さな政府」の旗を掲げている政権が。\n\n**このニュースをジョークにするなら...**\n\n> 最高裁長官自ら「多分違法」と書いておいて署名した。これは反対意見じゃなくて、Googleレビューですよね。\n\n---\n\n## 2. Census Bureau Quietly Drops Political Interference Ban — Right After a Politically Tinged Report\n\n*NPR News（[記事](https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity)）*\n\nセンサス局がトランプ支持系シンクタンクと連携した報告書を発表した直後、親省庁が科学的誠実性ポリシーから「政治的干渉を禁じる」条文を削除していたことが、NPRの取材で明らかになった。\n\n**どこが笑える？**\n\nセンサス局が報告書を出した。その報告書、トランプ支持系のシンクタンクと関係があった。その直後に、親省庁が「政治的干渉を禁じる」という条文を、科学的誠実性ポリシーからそっと消した。\n\nポリシーの名前はまだ「科学的誠実性ポリシー」のまま。看板は残った。中身だけ変わった。「嘘をつかない誓い」から「嘘をつかない」という一文を抜いた感じがする。誓いは続いている。\n\n**このニュースをジョークにするなら...**\n\n> 科学的誠実性ポリシーから「政治干渉禁止」を削除した。それでも書類の名前は「科学的誠実性ポリシー」のまま。タイトルが今、全部の仕事してる。\n\n---\n\n## 3. FTC Sues Amazon Over Secret Ad Surcharge That Was Passed on to Consumers\n\n*The Verge（[記事](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit)）*\n\n米連邦取引委員会（FTC）と22州の司法長官は、Amazonが広告主に対して秘密の追加料金を課し、そのコストを最終的に消費者に転嫁していたとして、同社を提訴した。\n\n**どこが笑える？**\n\nAmazonが提訴された話、構造が面白い。広告主に秘密の追加料金を課す→広告主が価格に転嫁する→消費者が払う。プライム会費を払って、商品代を払って、もしかしたらその商品の広告費まで払っていた可能性がある。\n\n「お得に買えた」と思っていたあの体験、なんかちょっと違う感じがしてきた。Amazonはすべて否定しています。22の州はそれを裁判所で争うと言っています。\n\n**このニュースをジョークにするなら...**\n\n> Amazonが広告主に秘密料金を課して、広告主が価格に上乗せして、消費者が払った。ぐるっと一周して、お金が見えないところに消える仕組み。\n\n---\n\n## 4. EY to Hand Out $100M in Bonuses for Workers Who Act Like... Humans\n\n*CBS News US（[記事](https://www.cbsnews.com/news/ernst-young-human-focused-skills/)）*\n\n大手コンサルティング会社EYは、ビジネス感覚や判断力といった「人間的スキル」を持つ従業員に対し、総額1億ドルのボーナスを支給すると発表した。\n\n**どこが笑える？**\n\nEYというコンサル会社が「人間らしいスキルを持つ社員に1億ドルのボーナス」を出すと言った。その「人間らしいスキル」というのが、判断力とビジネス感覚らしい。\n\nちょっと待って。コンサルタントが判断力を持っていることが、加点対象になる時代に入ったということですよね。「判断できます」が希少価値。何十年もかけてAIを売り続けてきた業界の今がこれ。弧が大きすぎて、端っこが見えない。\n\n**このニュースをジョークにするなら...**\n\n> EYが「判断力のある社員」に1億ドル払う。コンサル会社で。これはボーナスじゃなくて、採用基準に対する事後謝罪では？\n\n---\n\n## 5. Prediction Market Kalshi Bans George Santos for Life — Over Bets on His Own Attendance\n\n*NPR News（[記事](https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets)）*\n\n予測市場Kalshiは、元下院議員ジョージ・サントスに対し、自身の一般教書演説への出席を賭けた取引をめぐる調査への非協力を理由として、永久利用禁止と7万1,000ドル超の罰金を科したと発表した。\n\n**どこが笑える？**\n\n元議員ジョージ・サントスという人がいます。2023年に議会を追放されました。連邦起訴もされています。その彼が、予測市場サービスで「自分が一般教書演説の会場に行くかどうか」に賭けていた。\n\nインサイダー情報が自分のスケジュール帳、というのはある意味すごい。調査には非協力だったので永久追放と7万1000ドルの罰金。議会を追放されて、起訴されて、アプリにも追放される。横に滑りながら落ちていくスタイルが、ここまで一貫していると逆に清々しい。\n\n**このニュースをジョークにするなら...**\n\n> 一般教書演説への自分の出席に賭けた。インサイダー情報は自分のGoogleカレンダー。これ以上シンプルな利益相反はないのに、それでも調査に非協力だった。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> ルールを書いた人が、こっそり書き直している。あなたが損してる気がするのは、たぶんそのせいです。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "captionsJa d1-3本目の混入文字（댄스→ダンス）を修正。d2のnotesEn/xJa 2本目は単体成立の検品で問題なし。imagePrompts全5候補に実在人物の顔・容姿依存なし・合格。introJa・riffJaは話し言葉で合格。xJa 5本は135字以内・合格。直す箇所はcaptionsJa d1の3本目の文字化けのみ。 ／ 文体パス: 3箇所修正。leadJaの「今日はそういう日のアメリカです」はプレゼン口調の締め、introJaの「そこだけ覚えて帰れば十分だと思う」は読者への指示形、riffJa[2]の「もう一度レシートを読み直す必要がある」も同様の指示形だったので崩した。"
   },
   "carousel": [
-    "images/2026-08-31/carousel/slide-1.jpg",
-    "images/2026-08-31/carousel/slide-2.jpg",
-    "images/2026-08-31/carousel/slide-3.jpg",
-    "images/2026-08-31/carousel/slide-4.jpg",
-    "images/2026-08-31/carousel/slide-5.jpg",
-    "images/2026-08-31/carousel/slide-6.jpg",
-    "images/2026-08-31/carousel/slide-7.jpg"
+    "images/2026-09-01/carousel/slide-1.jpg",
+    "images/2026-09-01/carousel/slide-2.jpg",
+    "images/2026-09-01/carousel/slide-3.jpg",
+    "images/2026-09-01/carousel/slide-4.jpg",
+    "images/2026-09-01/carousel/slide-5.jpg",
+    "images/2026-09-01/carousel/slide-6.jpg",
+    "images/2026-09-01/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-08-31/note-header.jpg",
-    "substack": "images/2026-08-31/substack-cover.jpg"
+    "note": "images/2026-09-01/note-header.jpg",
+    "substack": "images/2026-09-01/substack-cover.jpg"
   }
 };
