@@ -735,8 +735,10 @@ let CANDIDATES = [];                     // 実行時の5候補（全機能は�
 let EDITORIAL = null;                    // 編集室データ（daily.json の editorial。無ければ null）
 let CAROUSEL = [];                       // TikTok/Instagram用カルーセル画像の相対パス
 let HEADERS = {};                        // 見出し画像 {note, substack}
-let VIDEO = "";                          // 縦動画(TikTok/YouTubeショート用)の相対パス
+let VIDEO = "";                          // 縦動画・英語版(TikTok/リール/YTショート用)の相対パス
 let VIDEO_DUR = 0;
+let VIDEO_JA = "";                       // 縦動画・日本語版(Hub-TVショート用)
+let VIDEO_JA_DUR = 0;
 let dataSource = "モックデータ";
 
 /* commentary はHTMLとして描画されるため、<b>タグ以外はエスケープする */
@@ -840,6 +842,8 @@ async function loadDailyData(){
     HEADERS = (json.headers && typeof json.headers === 'object') ? json.headers : {};
     VIDEO = typeof json.video === 'string' ? json.video : "";
     VIDEO_DUR = Number(json.videoDuration) || 0;
+    VIDEO_JA = typeof json.videoJa === 'string' ? json.videoJa : "";
+    VIDEO_JA_DUR = Number(json.videoJaDuration) || 0;
     return;
   } catch(e){ /* 次の経路へ */ }
   // 2) daily.js → window.DAILY_DATA（file:// で直接開いた場合の代替経路）
@@ -851,6 +855,8 @@ async function loadDailyData(){
       HEADERS = (window.DAILY_DATA.headers && typeof window.DAILY_DATA.headers === 'object') ? window.DAILY_DATA.headers : {};
       VIDEO = typeof window.DAILY_DATA.video === 'string' ? window.DAILY_DATA.video : "";
       VIDEO_DUR = Number(window.DAILY_DATA.videoDuration) || 0;
+      VIDEO_JA = typeof window.DAILY_DATA.videoJa === 'string' ? window.DAILY_DATA.videoJa : "";
+      VIDEO_JA_DUR = Number(window.DAILY_DATA.videoJaDuration) || 0;
       return;
     }
   } catch(e){ /* 次の経路へ */ }
@@ -1095,6 +1101,25 @@ function copyPack(kind, ev){
       + "\n\nThe irony inside American news, daily. Full breakdown → link in bio."
       + "\n\n#news #satire #comedy #usa #jokes";
     copyEdText(caption, btn);
+  } else if (kind === "substack-note"){
+    // Notes投稿文(完成形): ①価値の宣伝フック → ②今日の実例ジョーク1本 → ③記事への導線
+    const hooks = [
+      "Today's free sample of sounding smart at work:",
+      "One joke you can steal for tomorrow's small talk:",
+      "News you can actually use in a conversation, exhibit A:",
+      "Your daily dose of looking informed AND funny:",
+      "Here's today's \"wait, how did you know that?\" starter:",
+      "Smart-sounding joke of the day, on the house:",
+      "Skip the news. Keep the punchline. Today's sample:"
+    ];
+    const day = Math.floor(Date.now() / 86400000);
+    const joke = (EDITORIAL.notesEn || [])[0] || EDITORIAL.quipEn || "";
+    if (!joke) return;
+    const text = hooks[day % hooks.length]
+      + "\n\n" + joke
+      + "\n\nThat's 1 of 5 from today's issue. The other 4 — and how to actually use them — are here:"
+      + "\nhttps://jokesyoucanuse.substack.com";
+    copyEdText(text, btn);
   } else if (kind === "sub-title"){
     copyEdText(EDITORIAL.titleEn, btn);
   } else if (kind === "sub-subtitle"){
@@ -1248,7 +1273,8 @@ function renderEditorial(){
       </div>
 
       <div class="ed-item" style="align-items:center">
-        <div class="t"><b>③ SNS</b>（毎日）: 下の候補リストから X 1本・Notes 1〜2本をコピーして投稿</div>
+        <div class="t"><b>③ Substack Notes</b>（毎日・約1分）: ボタンを押す → https://substack.com/notes の投稿欄に貼る → Post（宣伝フック+今日のジョーク+記事への導線が完成形で入ります）</div>
+        <button class="btn primary" onclick="copyPack('substack-note', event)">📋 Notes投稿文</button>
       </div>
 
       <div class="ed-item" style="align-items:center">
@@ -1257,8 +1283,13 @@ function renderEditorial(){
         ${CAROUSEL.length ? `<button class="btn primary" onclick="downloadCarousel(event)">📦 一括保存</button>` : `<span class="cnt">明朝から生成</span>`}
       </div>
       <div class="ed-item" style="align-items:center">
-        <div class="t"><b>⑤ 縦動画</b>（毎日・英語${VIDEO_DUR ? `・${Math.round(VIDEO_DUR)}秒` : ""}）: TikTok(通常投稿)と<b>YouTubeショート</b>の両方に同じファイルを投稿。キャプションは④と共通</div>
-        ${VIDEO ? `<a class="btn primary" href="${esc(VIDEO)}" download="daily-short.mp4">🎬 動画を保存</a>` : `<span class="cnt">明朝から生成</span>`}
+        <div class="t"><b>⑤ 縦動画・英語版</b>（毎日${VIDEO_DUR ? `・${Math.round(VIDEO_DUR)}秒` : ""}）: <b>TikTok</b>(通常投稿・キャプションは④と共通)・<b>Instagramリール</b>・<b>YouTube(Hub-TV)ショート</b>へ。※YouTube自動投稿を設定済みなら、YouTube分は勝手に届きます</div>
+        ${VIDEO ? `<a class="btn primary" href="${esc(VIDEO)}" download="daily-short.mp4">🎬 英語版を保存</a>` : `<span class="cnt">明朝から生成</span>`}
+      </div>
+
+      <div class="ed-item" style="align-items:center">
+        <div class="t"><b>⑥ 縦動画・日本語版</b>（毎日${VIDEO_JA_DUR ? `・${Math.round(VIDEO_JA_DUR)}秒` : ""}）: 予備・実験用（日本語向けの動画面を試すときに。当面は投稿不要）</div>
+        ${VIDEO_JA ? `<a class="btn primary" href="${esc(VIDEO_JA)}" download="daily-short-ja.mp4">🎬 日本語版を保存</a>` : `<span class="cnt">明朝から生成</span>`}
       </div>
 
       ${CAROUSEL.length ? `
