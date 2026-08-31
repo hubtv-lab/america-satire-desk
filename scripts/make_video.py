@@ -23,8 +23,10 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 DAILY = ROOT / "daily.json"
 
-VOICE = os.environ.get("VIDEO_VOICE", "en-US-ChristopherNeural")
-RATE = os.environ.get("VIDEO_RATE", "+8%")
+LANG = os.environ.get("VIDEO_LANG", "en")   # "en" or "ja"
+_DEFAULT_VOICES = {"en": "en-US-ChristopherNeural", "ja": "ja-JP-KeitaNeural"}
+VOICE = os.environ.get("VIDEO_VOICE", _DEFAULT_VOICES.get(LANG, _DEFAULT_VOICES["en"]))
+RATE = os.environ.get("VIDEO_RATE", "+8%" if LANG == "en" else "+4%")
 FAKE_TTS = os.environ.get("FAKE_TTS") == "1"
 MIN_TOTAL_SEC = 63.0          # TikTok報酬ライン(60秒)+安全マージン
 MAX_SEG_PAD = 2.5             # 音声後の余韻(秒)
@@ -63,6 +65,36 @@ async def tts_to_file(text: str, out: Path) -> None:
     import edge_tts
     comm = edge_tts.Communicate(text, VOICE, rate=RATE)
     await comm.save(str(out))
+
+
+def build_segments_ja(d: dict) -> list[dict]:
+    """日本語版の台本。英語スライド+日本語ナレーション(教養/英語学習の趣)。"""
+    ed = d.get("editorial") or {}
+    cands = d.get("candidates") or []
+    car = d.get("carousel") or []
+    slides = car if isinstance(car, list) else (car.get("slides") or [])
+    if len(slides) < 3 or not cands:
+        raise SystemExit("[skip] carousel/candidates not ready; no video today")
+
+    segs = []
+    title = clean_for_speech(ed.get("titleJa") or "今日のアメリカ")
+    segs.append({"img": slides[0],
+                 "text": f"{title}。今日の5本、いきます。"})
+
+    for i, c in enumerate(cands[:5]):
+        n = c.get("news") or {}
+        summary = clean_for_speech(n.get("summary") or "")
+        joke = clean_for_speech((c.get("captionsJa") or [""])[0])
+        idx = i + 1
+        if idx < len(slides):
+            segs.append({"img": slides[idx],
+                         "text": f"{idx}本目。{summary} …{joke}"})
+
+    quip = clean_for_speech(ed.get("quipJa") or "今日もそういう日でした。")
+    segs.append({"img": slides[-1],
+                 "text": f"今日のまとめ。{quip} "
+                         "フォローしておくと、毎朝ここに届くよ。"})
+    return segs
 
 
 def build_segments(d: dict) -> list[dict]:
@@ -133,11 +165,11 @@ def main() -> None:
 
     out_dir = ROOT / "videos" / date
     out_dir.mkdir(parents=True, exist_ok=True)
-    tmp = out_dir / "_tmp"
+    tmp = out_dir / f"_tmp-{LANG}"
     tmp.mkdir(exist_ok=True)
 
-    segs = build_segments(d)
-    print(f"[video] {len(segs)} segments for {date}")
+    segs = build_segments_ja(d) if LANG == "ja" else build_segments(d)
+    print(f"[video:{LANG}] {len(segs)} segments for {date}")
 
     # 1) TTS
     for i, s in enumerate(segs):
@@ -165,7 +197,7 @@ def main() -> None:
     concat_list = tmp / "list.txt"
     concat_list.write_text("".join(f"file '{p.name}'\n" for p in parts),
                            encoding="utf-8")
-    final = out_dir / "daily-short.mp4"
+    final = out_dir / ("daily-short-ja.mp4" if LANG == "ja" else "daily-short.mp4")
     run(["ffmpeg", "-y", "-f", "concat", "-safe", "0",
          "-i", str(concat_list), "-c", "copy", str(final)])
 
@@ -173,12 +205,17 @@ def main() -> None:
     vdur = probe_duration(final)
     size_mb = final.stat().st_size / 1e6
     print(f"[ok] {final.relative_to(ROOT)}  {vdur:.1f}s  {size_mb:.1f}MB")
-    if vdur < 60:
+    if vdur < 60 and LANG == "en":
         print("[warn] under 60s — TikTok報酬対象外の尺です")
 
-    # 5) daily.json に動画パスを記録
-    d["video"] = str(final.relative_to(ROOT)).replace(os.sep, "/")
-    d["videoDuration"] = round(vdur, 1)
+    # 5) daily.json に動画パスを記録（言語別キー）
+    rel = str(final.relative_to(ROOT)).replace(os.sep, "/")
+    if LANG == "ja":
+        d["videoJa"] = rel
+        d["videoJaDuration"] = round(vdur, 1)
+    else:
+        d["video"] = rel
+        d["videoDuration"] = round(vdur, 1)
     DAILY.write_text(json.dumps(d, ensure_ascii=False, indent=2),
                      encoding="utf-8")
 
