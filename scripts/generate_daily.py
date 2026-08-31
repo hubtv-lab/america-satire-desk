@@ -435,6 +435,9 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 - 自虐を1箇所入れる（「こんなのを毎朝読んでいる私も私ですが」）。読者より自分を先に笑う。
 - 禁止: 「〜と言えるでしょう」「〜ではないでしょうか」の連発、「まさに」「非常に」「〜することができます」などの翻訳調、説明のための説明。
 - 数字や固有名詞は会話の中で自然に出す。プレゼン資料のような列挙にしない。
+- 【使い古し表現の禁止（毎日同じ書き出しは読者に飽きられる）】以下は使用禁止:「声が出ました」「声が出た」「今日も読みました」「信じられますか」「〜という週です」で始める型。書き出しは毎日ちがう入り方にする。入り方の例（日替わりで型を変える）: ①一番強い事実をいきなり置く（「オンタリオ湖が今日から『レイク・アメリカ』です。」）②読者への質問から入る ③会話の再現から入る（「『それ本当？』って聞き返しました。」）④数字のツッコミから入る ⑤自分の行動から入る（「記事を閉じて、もう一度開きました。同じことが書いてありました。」）
+- 【文末の温度】読者への指示形「〜してください」「〜でいてください」「〜しましょう」は使わない。友達に話す形に:「〜でいいんだよ」「〜でいいと思う」「〜だと思うよ」「〜じゃないかな」。占いの締めも命令ではなく、隣に座って言う感じで。
+- 「〜んですよ」「〜ですよ」は効くが連発すると鼻につく。1つの段落に1回まで。
 
 【導入「今日を占うよ〜 / Today's Forecast」（introJa / introEn）】
 記事の顔。スタンダップコメディの開幕口上のように書く。想定読者は、ビジネスパーソン・学生・「努力が報われていない」と感じている人。構成:
@@ -462,6 +465,11 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 - notesEn: Substack Notes用の英語投稿。各1〜3文。その投稿だけ読んで意味が分かる自己完結型にする（必要なニュースの前提を投稿内に含める）。ハッシュタグ・絵文字・URLなし。ペルソナの声で。
 - xJa: X（旧Twitter）用の日本語投稿。各135字以内。自己完結型。ハッシュタグ・URLなし。ニュースを知らない日本の読者がそのまま笑える形にする。
 
+【コメント弾（raidEn / raidJa）— 他人の投稿のコメント欄に置く一言】
+フォロワー獲得の巡回コメント用。今日の5本それぞれに1本ずつ、計5本作る。
+- raidEn: TikTok/Instagramで同じニュースを扱う他人の投稿のコメント欄に書く想定の英語1〜2文。そのコメント単体で笑えて、投稿主を立てる（投稿の否定・訂正をしない）。宣伝・ハッシュタグ・URL・「follow me」系は厳禁。プロフィールを見に来させる力はコメントの面白さだけに持たせる。
+- raidJa: noteで同じ話題を扱う他人の記事のコメント欄に書く想定の日本語1〜2文。「記事を読んだ感想」として自然な、敬意＋ウィットの形。丁寧語ベース。営業・自分の記事への誘導はゼロ。
+
 【noteタイトル3案（titleJa + titleAltJa）】
 noteでは読まれるかどうかの大半がタイトルで決まる。note公式の有料記事500件分析によれば、読まれるタイトルの共通点は「具体性」「読者にとっての価値の明確さ」「トレンド性」。風刺コラムでは次のように翻訳する:
 - 具体性: 固有名詞・数字をタイトルにそのまま見せ、その違和感で引く（「最近思ったこと」型の曖昧タイトルは禁止）
@@ -471,6 +479,7 @@ noteでは読まれるかどうかの大半がタイトルで決まる。note公
 - 1案は「固有名詞・数字の違和感」型（例: 具体的な数字がそのままオチになっている）
 - 1案は「これで語れる」型（読み終えたら何をどう語れるようになるかが伝わる。例:「『5000億ドルのAI投資』の話題が出たら、この一言を返せばいい」）
 - 1案は「ぼやき・本音がこぼれた」型
+- 「〜話」で終える型も有効（例:「オンタリオ湖を『レイク・アメリカ』に改名して、湖は一ミリも動かなかった話」）。事実+結果のズレを一文に収めて「話」で締めると、note読者の既読感覚に馴染む
 titleEn / subtitleEn も同じ思想で: 英語の副題は「この記事を読むと何が語れるようになるか」を軽く匂わせる（説教くさくせず、ウィットで）。
 釣らない。本文が答えられない約束をタイトルでしない。「〜がヤバい」「衝撃の」等の摩耗した釣り語は使わない。
 
@@ -490,14 +499,44 @@ JSONスキーマ:
   "quipEn": "<英語1〜2文。Today's Punchline(締めの総括の一撃)>",
   "quipJa": "<日本語1〜2文。今日のパンチライン。口に出して自然な形>",
   "notesEn": ["<英語>", "...", "...", "...", "...", "...", "...", "..."],
-  "xJa": ["<日本語>", "...", "...", "...", "...", "...", "...", "..."]
+  "xJa": ["<日本語>", "...", "...", "...", "...", "...", "...", "..."],
+  "raidEn": ["<英語・ニュース1対応>", "<ニュース2対応>", "<ニュース3対応>", "<ニュース4対応>", "<ニュース5対応>"],
+  "raidJa": ["<日本語・ニュース1対応>", "<ニュース2対応>", "<ニュース3対応>", "<ニュース4対応>", "<ニュース5対応>"]
 }"""
+
+
+def _recent_openings(limit: int = 3) -> list[str]:
+    """直近のアーカイブから日本語の書き出しを集める（マンネリ防止用）。"""
+    snippets = []
+    try:
+        files = sorted(ARCHIVE_DIR.glob("*.json"))[-limit:]
+        for f in files:
+            try:
+                ed = json.loads(f.read_text(encoding="utf-8")).get("editorial") or {}
+                for key in ("leadJa", "introJa"):
+                    t = (ed.get(key) or "").strip()
+                    if t:
+                        first = t.split("\n", 1)[0][:60]
+                        if first:
+                            snippets.append(first)
+            except Exception:
+                continue
+    except Exception:
+        pass
+    return snippets
 
 
 def build_editorial_prompt(candidates: list[dict], today: str) -> str:
     """5候補を圧縮した素材リストにして渡す。"""
     lines = [f"本日 {today} の確定済み候補5本です。この素材だけを使って、"
              "指定スキーマのJSONだけを出力してください。\n"]
+    recent = _recent_openings()
+    if recent:
+        lines.append("【昨日までの書き出し（重要：以下と似た書き出し・言い回しを今日使うのは禁止。"
+                     "特に同じ決まり文句の再利用は読者に「またこれか」と思われる）】")
+        for s in recent:
+            lines.append(f"  ×「{s}」")
+        lines.append("")
     for c in candidates:
         lines.append(f"[{c['id']}] {c['news']['headline']}  ({c['news']['source']})")
         lines.append(f"  事実(EN): {c['newsEn']}")
@@ -564,6 +603,16 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
     quip_ja = data.get("quipJa")
     quip_ja = quip_ja.strip() if isinstance(quip_ja, str) and len(quip_ja.strip()) >= 8 else ""
 
+    # コメント弾（任意項目・無くても失敗にしない）
+    raid_en = data.get("raidEn")
+    raid_en = ([r.strip() for r in raid_en
+                if isinstance(r, str) and len(r.strip()) >= 15][:5]
+               if isinstance(raid_en, list) else [])
+    raid_ja = data.get("raidJa")
+    raid_ja = ([r.strip() for r in raid_ja
+                if isinstance(r, str) and len(r.strip()) >= 10][:5]
+               if isinstance(raid_ja, list) else [])
+
     return {
         "thread": thread,
         "titleEn": title_en,
@@ -577,6 +626,8 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
         "quipJa": quip_ja,
         "notesEn": notes[:NUM_NOTES],
         "xJa": x_posts[:NUM_X_POSTS],
+        "raidEn": raid_en,
+        "raidJa": raid_ja,
     }
 
 
@@ -959,6 +1010,8 @@ POLISH_JA_SYSTEM_PROMPT = """あなたは「AI感ハンター」。日本語の�
 5. 主語と理屈が几帳面すぎる: 話し言葉なら省略するはずの主語・接続が全部書いてある
 6. 「うまくまとめた感」のある締め: 気の利いた総括で綺麗に着地しようとする文
 7. 過剰な丁寧さ: 距離を感じる敬語、営業スマイルのような文
+8. 使い古しの決まり文句:「声が出ました」「今日も読みました」「信じられますか」。見つけたら別の入り方に書き直す
+9. 読者への指示形:「〜してください」「〜でいてください」「〜しましょう」→「〜でいいんだよ」「〜だと思うよ」など、隣に座って話す形に直す
 
 【直し方（見つけた文だけに適用）】
 - 声に出して、友達に話すならどう言うかに置き換える
