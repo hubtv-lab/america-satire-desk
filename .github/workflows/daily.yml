@@ -31,7 +31,7 @@ jobs:
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg
           pip install -r requirements.txt
-          pip install edge-tts
+          pip install edge-tts google-api-python-client google-auth google-auth-oauthlib
 
       - name: Generate daily.json
         # スクリプトが失敗(exit 1)した場合、このステップで止まり、
@@ -42,11 +42,28 @@ jobs:
           IMAGE_QUALITY: ${{ vars.IMAGE_QUALITY || 'medium' }}
         run: python scripts/generate_daily.py
 
-      - name: Generate vertical video (TikTok / YouTube Shorts)
+      - name: Generate vertical video EN (TikTok / IG Reels / YouTube Shorts)
         # 動画生成が失敗しても記事の公開は止めない
         continue-on-error: true
         timeout-minutes: 10
         run: python scripts/make_video.py
+
+      - name: Generate vertical video JA (Hub-TV Shorts)
+        continue-on-error: true
+        timeout-minutes: 10
+        env:
+          VIDEO_LANG: ja
+        run: python scripts/make_video.py
+
+      - name: Upload JA Short to YouTube (runs only when secrets are set)
+        continue-on-error: true
+        timeout-minutes: 10
+        env:
+          YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+          YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+          YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+          YT_PRIVACY: ${{ vars.YT_PRIVACY || 'private' }}
+        run: python scripts/upload_youtube.py
 
       - name: Commit and push results
         run: |
