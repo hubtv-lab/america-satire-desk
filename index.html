@@ -735,6 +735,8 @@ let CANDIDATES = [];                     // 実行時の5候補（全機能は�
 let EDITORIAL = null;                    // 編集室データ（daily.json の editorial。無ければ null）
 let CAROUSEL = [];                       // TikTok/Instagram用カルーセル画像の相対パス
 let HEADERS = {};                        // 見出し画像 {note, substack}
+let VIDEO = "";                          // 縦動画(TikTok/YouTubeショート用)の相対パス
+let VIDEO_DUR = 0;
 let dataSource = "モックデータ";
 
 /* commentary はHTMLとして描画されるため、<b>タグ以外はエスケープする */
@@ -815,7 +817,9 @@ function normalizeEditorial(raw){
       fullEn:  String(raw.fullEn || ""),
       fullJa:  String(raw.fullJa || ""),
       notesEn: (Array.isArray(raw.notesEn) ? raw.notesEn : []).map(String).filter(Boolean),
-      xJa:     (Array.isArray(raw.xJa) ? raw.xJa : []).map(String).filter(Boolean)
+      xJa:     (Array.isArray(raw.xJa) ? raw.xJa : []).map(String).filter(Boolean),
+      raidEn:  (Array.isArray(raw.raidEn) ? raw.raidEn : []).map(String).filter(Boolean),
+      raidJa:  (Array.isArray(raw.raidJa) ? raw.raidJa : []).map(String).filter(Boolean)
     };
     if (!norm.fullEn && !norm.fullJa && !norm.notesEn.length && !norm.xJa.length) return null;
     return norm;
@@ -832,6 +836,8 @@ async function loadDailyData(){
     EDITORIAL = normalizeEditorial(json.editorial);
     CAROUSEL = Array.isArray(json.carousel) ? json.carousel.map(String) : [];
     HEADERS = (json.headers && typeof json.headers === 'object') ? json.headers : {};
+    VIDEO = typeof json.video === 'string' ? json.video : "";
+    VIDEO_DUR = Number(json.videoDuration) || 0;
     return;
   } catch(e){ /* 次の経路へ */ }
   // 2) daily.js → window.DAILY_DATA（file:// で直接開いた場合の代替経路）
@@ -841,6 +847,8 @@ async function loadDailyData(){
       EDITORIAL = normalizeEditorial(window.DAILY_DATA.editorial);
       CAROUSEL = Array.isArray(window.DAILY_DATA.carousel) ? window.DAILY_DATA.carousel.map(String) : [];
       HEADERS = (window.DAILY_DATA.headers && typeof window.DAILY_DATA.headers === 'object') ? window.DAILY_DATA.headers : {};
+      VIDEO = typeof window.DAILY_DATA.video === 'string' ? window.DAILY_DATA.video : "";
+      VIDEO_DUR = Number(window.DAILY_DATA.videoDuration) || 0;
       return;
     }
   } catch(e){ /* 次の経路へ */ }
@@ -1155,6 +1163,8 @@ function copyEd(kind, index){
   else if (kind === "fullJa") text = EDITORIAL.fullJa;
   else if (kind === "note") text = EDITORIAL.notesEn[index] || "";
   else if (kind === "x") text = EDITORIAL.xJa[index] || "";
+  else if (kind === "raidEn") text = (EDITORIAL.raidEn || [])[index] || "";
+  else if (kind === "raidJa") text = (EDITORIAL.raidJa || [])[index] || "";
   else if (kind === "titleMain") text = EDITORIAL.titleJa;
   else if (kind === "titleAlt") text = EDITORIAL.titleAltJa[index] || "";
   if (!text) return;
@@ -1192,6 +1202,18 @@ function renderEditorial(){
     </div>`;
   }).join("");
 
+  const raidEnItems = (EDITORIAL.raidEn || []).map((r, i) => `
+    <div class="ed-item">
+      <div class="t">${esc(r)}</div>
+      <button class="btn" onclick="copyEd('raidEn',${i})">📋</button>
+    </div>`).join("");
+
+  const raidJaItems = (EDITORIAL.raidJa || []).map((r, i) => `
+    <div class="ed-item">
+      <div class="t">${esc(r)}</div>
+      <button class="btn" onclick="copyEd('raidJa',${i})">📋</button>
+    </div>`).join("");
+
   const isSubstackDay = [1, 2, 3, 4, 5].includes(new Date().getDay()); // 平日毎日
   out.innerHTML = `
     <div class="ed-card" style="border-color:var(--coral)">
@@ -1222,6 +1244,11 @@ function renderEditorial(){
         <button class="btn" onclick="copyPack('sns-caption', event)">📋 キャプション</button>
         ${CAROUSEL.length ? `<button class="btn primary" onclick="downloadCarousel(event)">📦 一括保存</button>` : `<span class="cnt">明朝から生成</span>`}
       </div>
+      <div class="ed-item" style="align-items:center">
+        <div class="t"><b>⑤ 縦動画</b>（毎日・英語${VIDEO_DUR ? `・${Math.round(VIDEO_DUR)}秒` : ""}）: TikTok(通常投稿)と<b>YouTubeショート</b>の両方に同じファイルを投稿。キャプションは④と共通</div>
+        ${VIDEO ? `<a class="btn primary" href="${esc(VIDEO)}" download="daily-short.mp4">🎬 動画を保存</a>` : `<span class="cnt">明朝から生成</span>`}
+      </div>
+
       ${CAROUSEL.length ? `
       <div style="display:flex;gap:6px;overflow-x:auto;margin:8px 0 2px;padding-bottom:4px">
         ${CAROUSEL.map(p => `<a href="${esc(p)}" target="_blank" rel="noopener"><img src="${esc(p)}" loading="lazy" style="height:112px;border:1px solid var(--line);border-radius:8px;display:block"></a>`).join("")}
@@ -1279,7 +1306,15 @@ function renderEditorial(){
     <div class="ed-card">
       <h3>🐦 X 候補（毎日1本、noteへの導線に）</h3>
       ${xItems || '<p class="lede">候補がありません</p>'}
-    </div>`;
+    </div>
+
+    ${(raidEnItems || raidJaItems) ? `
+    <div class="ed-card">
+      <h3>🎯 コメント弾（フォロワー獲得の巡回用・1日10分）</h3>
+      <p class="lede" style="margin-bottom:10px"><b>宣伝ゼロ・面白さだけで釣る</b>のがルールです（プロフィールに来させる力はコメントの質だけ）。上限の目安: Instagram=フォロー20〜30+コメント10/日、TikTok=現状ペース、note=スキ20〜30+コメント数件/日。<br><b>巡回先:</b> TikTok/Instagramは今日の固有名詞で検索して伸びている投稿へ／noteは「アメリカ」「国際情勢」「時事」タグの新着・人気記事へ。</p>
+      ${raidEnItems ? `<p class="lede" style="margin:6px 0 2px"><b>🇺🇸 TikTok / Instagram用（今日の5本に1本ずつ対応）</b></p>${raidEnItems}` : ""}
+      ${raidJaItems ? `<p class="lede" style="margin:10px 0 2px"><b>🇯🇵 note用（記事への感想として自然な形）</b></p>${raidJaItems}` : ""}
+    </div>` : ""}`;
 }
 
 /* ---------- actions ---------- */
