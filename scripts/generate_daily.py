@@ -129,7 +129,7 @@ MAX_TOKENS = 8000
 # 生成に失敗しても daily.json 本体は必ず出力される（editorial: null になるだけ）。
 EDITORIAL_ENABLED = os.environ.get("EDITORIAL_ENABLED", "1") != "0"
 EDITORIAL_MODEL = os.environ.get("EDITORIAL_MODEL", MODEL)
-EDITORIAL_MAX_TOKENS = 8000
+EDITORIAL_MAX_TOKENS = 12000
 
 # --- 編集長レビュー（二段階チェック）の設定 ---
 # 生成済みの全コンテンツを「辛口の編集長」としてもう一度読み直し、
@@ -470,6 +470,14 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 - raidEn: TikTok/Instagramで同じニュースを扱う他人の投稿のコメント欄に書く想定の英語1〜2文。そのコメント単体で笑えて、投稿主を立てる（投稿の否定・訂正をしない）。宣伝・ハッシュタグ・URL・「follow me」系は厳禁。プロフィールを見に来させる力はコメントの面白さだけに持たせる。
 - raidJa: noteで同じ話題を扱う他人の記事のコメント欄に書く想定の日本語1〜2文。「記事を読んだ感想」として自然な、敬意＋ウィットの形。丁寧語ベース。営業・自分の記事への誘導はゼロ。
 
+【リフ（riffEn / riffJa）— 各ニュースの「どこが笑える？」本文。この記事の読み物としての心臓部】
+各ニュースに1本ずつ、計5本ずつ。素材の視点（矛盾・滑稽さ・外からの視点）を、ラベルや箇条書きに分解せず、1つの流れる小咄（リフ）に統合して書く。読者が読むのは分析メモではなく、この語りそのもの。
+- 構成: ツッコミどころの提示 → 具体で転がす → 一段エスカレート → 短い一撃で着地。3〜6文。
+- ジョークの解説をしない。「ここが面白いのは〜」「〜という点が皮肉です」は禁止。面白さは言い方で見せる。
+- riffJa: 上の【日本語の文体】を全面適用。友達に「ねえ聞いて」と話す声。段落を分けたいときは\nを1〜2箇所入れてよい。
+- riffEn: スタンダップの語り。短文でリズムを作る。deadpan。最後の1文は必ず短く切る。
+- 素材にない事実・数字を発明しない。
+
 【noteタイトル3案（titleJa + titleAltJa）】
 noteでは読まれるかどうかの大半がタイトルで決まる。note公式の有料記事500件分析によれば、読まれるタイトルの共通点は「具体性」「読者にとっての価値の明確さ」「トレンド性」。風刺コラムでは次のように翻訳する:
 - 具体性: 固有名詞・数字をタイトルにそのまま見せ、その違和感で引く（「最近思ったこと」型の曖昧タイトルは禁止）
@@ -501,7 +509,9 @@ JSONスキーマ:
   "notesEn": ["<英語>", "...", "...", "...", "...", "...", "...", "..."],
   "xJa": ["<日本語>", "...", "...", "...", "...", "...", "...", "..."],
   "raidEn": ["<英語・ニュース1対応>", "<ニュース2対応>", "<ニュース3対応>", "<ニュース4対応>", "<ニュース5対応>"],
-  "raidJa": ["<日本語・ニュース1対応>", "<ニュース2対応>", "<ニュース3対応>", "<ニュース4対応>", "<ニュース5対応>"]
+  "raidJa": ["<日本語・ニュース1対応>", "<ニュース2対応>", "<ニュース3対応>", "<ニュース4対応>", "<ニュース5対応>"],
+  "riffEn": ["<英語の小咄・ニュース1>", "<ニュース2>", "<ニュース3>", "<ニュース4>", "<ニュース5>"],
+  "riffJa": ["<日本語の小咄・ニュース1>", "<ニュース2>", "<ニュース3>", "<ニュース4>", "<ニュース5>"]
 }"""
 
 
@@ -603,6 +613,16 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
     quip_ja = data.get("quipJa")
     quip_ja = quip_ja.strip() if isinstance(quip_ja, str) and len(quip_ja.strip()) >= 8 else ""
 
+    # リフ（任意項目・無くても失敗にしない。無ければ従来の箇条書き表示に自動フォールバック）
+    riff_en = data.get("riffEn")
+    riff_en = ([r.strip() for r in riff_en
+                if isinstance(r, str) and len(r.strip()) >= 40][:5]
+               if isinstance(riff_en, list) else [])
+    riff_ja = data.get("riffJa")
+    riff_ja = ([r.strip() for r in riff_ja
+                if isinstance(r, str) and len(r.strip()) >= 30][:5]
+               if isinstance(riff_ja, list) else [])
+
     # コメント弾（任意項目・無くても失敗にしない）
     raid_en = data.get("raidEn")
     raid_en = ([r.strip() for r in raid_en
@@ -628,6 +648,8 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
         "xJa": x_posts[:NUM_X_POSTS],
         "raidEn": raid_en,
         "raidJa": raid_ja,
+        "riffEn": riff_en,
+        "riffJa": riff_ja,
     }
 
 
@@ -644,6 +666,7 @@ def assemble_full_text(editorial: dict, candidates: list[dict]) -> None:
     parts_en = [f"# {editorial['titleEn']}", "",
                 "## Today's Forecast", "",
                 editorial["introEn"], "", "---", ""]
+    riffs_en = editorial.get("riffEn") or []
     for i, c in enumerate(candidates, start=1):
         n = c["news"]
         irony = (c.get("ironyEn") or [{}])[0]
@@ -651,12 +674,16 @@ def assemble_full_text(editorial: dict, candidates: list[dict]) -> None:
                      f"*{n['source']} — [source]({n['url']})*", "",
                      c.get("newsEn", ""), "",
                      "**Why It's Funny**", ""]
-        for label, key in (("Contradiction", "contradiction"),
-                           ("Absurdity", "absurdity"),
-                           ("View from Tokyo", "outside")):
-            v = irony.get(key)
-            if v:
-                parts_en += [f"- **{label}:** {v}"]
+        riff = riffs_en[i - 1] if i - 1 < len(riffs_en) else None
+        if riff:
+            parts_en += [riff]
+        else:
+            for label, key in (("Contradiction", "contradiction"),
+                               ("Absurdity", "absurdity"),
+                               ("View from Tokyo", "outside")):
+                v = irony.get(key)
+                if v:
+                    parts_en += [f"- **{label}:** {v}"]
         cap = (c.get("captions") or [""])[0]
         parts_en += ["", "**Say It Out Loud**", "", f"> {cap}", "", "---", ""]
     parts_en += ["## Today's Punchline", "", f"> {editorial['quipEn']}", ""] \
@@ -667,14 +694,19 @@ def assemble_full_text(editorial: dict, candidates: list[dict]) -> None:
     parts_ja = [f"# {editorial['titleJa']}", "",
                 "## 今日を占うよ〜", "",
                 editorial["introJa"], "", "---", ""]
+    riffs_ja = editorial.get("riffJa") or []
     for i, c in enumerate(candidates, start=1):
         n = c["news"]
         parts_ja += [f"## {i}. {n['headline']}", "",
                      f"*{n['source']}（[記事]({n['url']})）*", "",
                      n.get("summary", ""), "",
                      "**どこが笑える？**", ""]
-        for point in (c.get("commentary") or []):
-            parts_ja += [f"- {_strip_b(point)}"]
+        riff = riffs_ja[i - 1] if i - 1 < len(riffs_ja) else None
+        if riff:
+            parts_ja += [riff]
+        else:
+            for point in (c.get("commentary") or []):
+                parts_ja += [f"- {_strip_b(point)}"]
         cap_ja = (c.get("captionsJa") or [""])[0]
         parts_ja += ["", "**このニュースをジョークにするなら...**", "", f"> {cap_ja}", "", "---", ""]
     parts_ja += ["## 今日のまとめジョーク/パンチライン", "", f"> {editorial['quipJa']}", ""] \
@@ -763,6 +795,7 @@ JSONスキーマ:
     "titleAltJa": ["<変更する場合のみ・全案>"], "leadJa": "<同>", "thread": "<同>",
     "quipEn": "<同>", "quipJa": "<同>",
     "notesEn": ["<変更する場合のみ・8本すべて>"], "xJa": ["<同・8本すべて>"],
+    "riffEn": ["<変更する場合のみ・5本すべて>"], "riffJa": ["<同・5本すべて>"],
     "introEn": "<変更する場合のみ・導入の全文>",
     "introJa": "<変更する場合のみ・導入の全文>"
   }
@@ -791,7 +824,8 @@ def build_review_prompt(candidates: list[dict], editorial: dict, today: str) -> 
         "editorial": {k: editorial.get(k) for k in
                       ("thread", "titleEn", "subtitleEn", "titleJa", "titleAltJa",
                        "leadJa", "introEn", "introJa",
-                       "quipEn", "quipJa", "notesEn", "xJa")},
+                       "quipEn", "quipJa", "notesEn", "xJa",
+                       "riffEn", "riffJa")},
     }
     return ("本日の風刺コンテンツ一式です。審査基準に沿って読み直し、"
             "指定スキーマのJSONだけを出力してください。\n\n"
@@ -849,7 +883,7 @@ def _merge_editorial_patch(editorial: dict, patch: dict,
     # 単純置換フィールド（文字列・リストは丸ごと差し替え）
     simple_keys = ("thread", "titleEn", "subtitleEn", "titleJa", "titleAltJa",
                    "leadJa", "introEn", "introJa", "quipEn", "quipJa",
-                   "notesEn", "xJa")
+                   "notesEn", "xJa", "riffEn", "riffJa")
     for k in simple_keys:
         if k in patch and patch[k] is not None:
             merged[k] = patch[k]
@@ -1028,7 +1062,8 @@ POLISH_JA_SYSTEM_PROMPT = """あなたは「AI感ハンター」。日本語の�
   "patch": {
     "titleJa": "<直す場合のみ>", "titleAltJa": ["<直す場合のみ・全案>"],
     "leadJa": "<直す場合のみ>", "quipJa": "<同>", "introJa": "<直す場合のみ・導入の全文>",
-    "xJa": ["<直す場合のみ・8本すべて>"]
+    "xJa": ["<直す場合のみ・8本すべて>"],
+    "riffJa": ["<直す場合のみ・5本すべて>"]
   }
 }
 ※introJaを直す場合は導入の全文を出す。事実・ジョークの内容は変えない。文体だけを直す。"""
@@ -1042,7 +1077,7 @@ def polish_japanese(client: Anthropic, candidates: list[dict],
     try:
         material = {k: editorial.get(k) for k in
                     ("titleJa", "titleAltJa", "leadJa", "quipJa",
-                     "introJa", "xJa")}
+                     "introJa", "xJa", "riffJa")}
         print(f"[info] Japanese style pass (AI-scent hunter, model={REVIEW_MODEL})")
         message = client.messages.create(
             model=REVIEW_MODEL,
@@ -1059,7 +1094,7 @@ def polish_japanese(client: Anthropic, candidates: list[dict],
             print(f"[info] polish tokens: in={usage.input_tokens} out={usage.output_tokens}")
         data = extract_json(text)
         allowed = {"titleJa", "titleAltJa", "leadJa", "quipJa",
-                   "introJa", "xJa"}
+                   "introJa", "xJa", "riffJa"}
         patch = {k: v for k, v in (data.get("patch") or {}).items() if k in allowed}
         new_editorial = editorial
         if patch:
