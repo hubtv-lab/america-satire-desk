@@ -17,7 +17,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 25
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,8 +29,9 @@ jobs:
 
       - name: Install dependencies
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk
+          sudo apt-get update -qq && sudo apt-get install -y -qq fonts-noto-cjk ffmpeg
           pip install -r requirements.txt
+          pip install edge-tts
 
       - name: Generate daily.json
         # スクリプトが失敗(exit 1)した場合、このステップで止まり、
@@ -41,11 +42,18 @@ jobs:
           IMAGE_QUALITY: ${{ vars.IMAGE_QUALITY || 'medium' }}
         run: python scripts/generate_daily.py
 
+      - name: Generate vertical video (TikTok / YouTube Shorts)
+        # 動画生成が失敗しても記事の公開は止めない
+        continue-on-error: true
+        timeout-minutes: 10
+        run: python scripts/make_video.py
+
       - name: Commit and push results
         run: |
           git config user.name "satire-desk-bot"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add daily.json daily.js archive images
+          git add -A videos || true
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
