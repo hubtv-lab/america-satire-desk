@@ -2,9 +2,9 @@ name: Generate daily satire candidates
 
 on:
   schedule:
-    # UTC 19:50 = 日本時間 4:50。GitHubのcronは混雑時に15〜60分遅れることが
+    # UTC 19:10 = 日本時間 4:10。:50帯は混雑で数時間遅れるため:10帯に変更。
     # あるため、朝5時に欲しい場合は少し早めに設定している。
-    - cron: "50 19 * * *"
+    - cron: "10 19 * * *"
   workflow_dispatch: {}   # Actionsタブから手動実行もできる
 
 permissions:
