@@ -77,6 +77,19 @@ def clean_for_speech(s: str) -> str:
     return s
 
 
+def first_sentences(s: str, max_sentences: int, max_chars: int) -> str:
+    """ニュース文を先頭N文・上限文字数に圧縮(ショート3分制限対策)。"""
+    s = clean_for_speech(s)
+    parts = re.split(r"(?<=[.!?。！？])\s+", s)
+    out = " ".join(parts[:max_sentences]).strip()
+    if len(out) > max_chars:
+        cut = out[:max_chars]
+        # 文の途中で切らない(最後の句点まで)
+        m = re.search(r"^(.+[.!?。！？])", cut)
+        out = m.group(1) if m else cut
+    return out
+
+
 async def tts_to_file(text: str, out: Path, rate: str) -> None:
     if FAKE_TTS:
         dur = max(1.5, min(14.0, len(text) * 0.05))
@@ -266,10 +279,11 @@ def build_segments(d: dict) -> list[dict]:
         aside = clean_for_speech(asides[i] if i < len(asides) else fallback[i])
         cue = cues[(i + day_off) % len(cues)]
         if ja:
-            news_text = f"{idx}本目。{clean_for_speech(n.get('summary') or '')}"
+            news_text = f"{idx}本目。{first_sentences(n.get('summary') or '', 2, 130)}"
             joke = clean_for_speech((c.get("captionsJa") or [""])[0])
         else:
-            news_text = f"Story {idx}. {clean_for_speech(c.get('newsEn') or n.get('headline') or '')}"
+            news_text = (f"Story {idx}. "
+                         f"{first_sentences(c.get('newsEn') or n.get('headline') or '', 2, 230)}")
             joke = clean_for_speech((c.get("captions") or [""])[0])
         # ①ニュースの内容をしっかり読む(ジョーク無しの画)
         segs.append({"kind": "story", "img": plain_img, "text": news_text,
@@ -327,7 +341,7 @@ def main() -> None:
         s["adur"] = probe_duration(merged)
 
     # 2) 尺: 各セグメント=音声+短い余韻
-    base_pad = 0.35
+    base_pad = 0.30
     total = sum(s["adur"] + base_pad for s in segs)
     extra = max(0.0, MIN_TOTAL_SEC - total) / len(segs)
     pad = min(MAX_SEG_PAD, base_pad + extra)
