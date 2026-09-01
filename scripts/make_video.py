@@ -24,9 +24,11 @@ DAILY = ROOT / "daily.json"
 BGM = ROOT / "assets" / "bgm.mp3"
 
 LANG = os.environ.get("VIDEO_LANG", "en")   # "en" or "ja"
-_DEFAULT_VOICES = {"en": "en-US-ChristopherNeural", "ja": "ja-JP-KeitaNeural"}
-VOICE = os.environ.get("VIDEO_VOICE", _DEFAULT_VOICES.get(LANG, _DEFAULT_VOICES["en"]))
+# en-US-GuyNeural: TikTok系ミーム動画で定番の、明るくエネルギッシュな「友達の声」
+_DEFAULT_VOICES = {"en": "en-US-GuyNeural", "ja": "ja-JP-KeitaNeural"}
+VOICE = os.environ.get("VIDEO_VOICE") or _DEFAULT_VOICES.get(LANG, _DEFAULT_VOICES["en"])
 RATE = os.environ.get("VIDEO_RATE", "+15%" if LANG == "en" else "+10%")
+PITCH = os.environ.get("VIDEO_PITCH", "+2Hz" if LANG == "en" else "+0Hz")
 INTRO_RATE = os.environ.get("VIDEO_INTRO_RATE", "+22%" if LANG == "en" else "+16%")
 FAKE_TTS = os.environ.get("FAKE_TTS") == "1"
 MIN_TOTAL_SEC = 63.0
@@ -97,7 +99,10 @@ async def tts_to_file(text: str, out: Path, rate: str) -> None:
              "-t", f"{dur:.2f}", "-c:a", "libmp3lame", "-q:a", "9", str(out)])
         return
     import edge_tts
-    comm = edge_tts.Communicate(text, VOICE, rate=rate)
+    try:
+        comm = edge_tts.Communicate(text, VOICE, rate=rate, pitch=PITCH)
+    except TypeError:  # 古いedge-ttsはpitch未対応
+        comm = edge_tts.Communicate(text, VOICE, rate=rate)
     await comm.save(str(out))
 
 
