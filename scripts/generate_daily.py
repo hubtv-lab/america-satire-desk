@@ -478,6 +478,12 @@ EDITORIAL_SYSTEM_PROMPT = """あなたは「America Satire Desk」の編集AIで
 - riffEn: スタンダップの語り。短文でリズムを作る。deadpan。最後の1文は必ず短く切る。
 - 素材にない事実・数字を発明しない。
 
+【アサイド（asideEn / asideJa）— 動画ナレーション用「読み終えた直後のひとこと」】
+各ニュースに1本ずつ、計5本ずつ。スタンダップコメディアンがニュースを読み上げた直後、呆れ顔で観客に投げる短い捨て台詞。ジョーク(キャプション)とは別の角度から、そのニュースの一番ばかばかしい点・皮肉な点を刺す。
+- asideEn: 10語以内。deadpan。例: "And nobody blinked." / "Democracy, folks."
+- asideJa: 20字以内。口語。例:「いやあ、皮肉だね。」「誰か止めなかったの？」
+- 5本で同じ型・同じ言い回しを繰り返さない。ニュースの中身を分析した上で、その話に一番刺さる一言を選ぶこと。
+
 【noteタイトル3案（titleJa + titleAltJa）】
 noteでは読まれるかどうかの大半がタイトルで決まる。note公式の有料記事500件分析によれば、読まれるタイトルの共通点は「具体性」「読者にとっての価値の明確さ」「トレンド性」。風刺コラムでは次のように翻訳する:
 - 具体性: 固有名詞・数字をタイトルにそのまま見せ、その違和感で引く（「最近思ったこと」型の曖昧タイトルは禁止）
@@ -511,7 +517,9 @@ JSONスキーマ:
   "raidEn": ["<英語・ニュース1対応>", "<ニュース2対応>", "<ニュース3対応>", "<ニュース4対応>", "<ニュース5対応>"],
   "raidJa": ["<日本語・ニュース1対応>", "<ニュース2対応>", "<ニュース3対応>", "<ニュース4対応>", "<ニュース5対応>"],
   "riffEn": ["<英語の小咄・ニュース1>", "<ニュース2>", "<ニュース3>", "<ニュース4>", "<ニュース5>"],
-  "riffJa": ["<日本語の小咄・ニュース1>", "<ニュース2>", "<ニュース3>", "<ニュース4>", "<ニュース5>"]
+  "riffJa": ["<日本語の小咄・ニュース1>", "<ニュース2>", "<ニュース3>", "<ニュース4>", "<ニュース5>"],
+  "asideEn": ["<英語10語以内・ニュース1>", "<2>", "<3>", "<4>", "<5>"],
+  "asideJa": ["<日本語20字以内・ニュース1>", "<2>", "<3>", "<4>", "<5>"]
 }"""
 
 
@@ -623,6 +631,16 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
                 if isinstance(r, str) and len(r.strip()) >= 30][:5]
                if isinstance(riff_ja, list) else [])
 
+    # アサイド（任意項目・動画ナレーション用）
+    aside_en = data.get("asideEn")
+    aside_en = ([a.strip() for a in aside_en
+                 if isinstance(a, str) and 2 <= len(a.strip()) <= 80][:5]
+                if isinstance(aside_en, list) else [])
+    aside_ja = data.get("asideJa")
+    aside_ja = ([a.strip() for a in aside_ja
+                 if isinstance(a, str) and 2 <= len(a.strip()) <= 40][:5]
+                if isinstance(aside_ja, list) else [])
+
     # コメント弾（任意項目・無くても失敗にしない）
     raid_en = data.get("raidEn")
     raid_en = ([r.strip() for r in raid_en
@@ -650,6 +668,8 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
         "raidJa": raid_ja,
         "riffEn": riff_en,
         "riffJa": riff_ja,
+        "asideEn": aside_en,
+        "asideJa": aside_ja,
     }
 
 
@@ -825,7 +845,7 @@ def build_review_prompt(candidates: list[dict], editorial: dict, today: str) -> 
                       ("thread", "titleEn", "subtitleEn", "titleJa", "titleAltJa",
                        "leadJa", "introEn", "introJa",
                        "quipEn", "quipJa", "notesEn", "xJa",
-                       "riffEn", "riffJa")},
+                       "riffEn", "riffJa", "asideEn", "asideJa")},
     }
     return ("本日の風刺コンテンツ一式です。審査基準に沿って読み直し、"
             "指定スキーマのJSONだけを出力してください。\n\n"
@@ -883,7 +903,7 @@ def _merge_editorial_patch(editorial: dict, patch: dict,
     # 単純置換フィールド（文字列・リストは丸ごと差し替え）
     simple_keys = ("thread", "titleEn", "subtitleEn", "titleJa", "titleAltJa",
                    "leadJa", "introEn", "introJa", "quipEn", "quipJa",
-                   "notesEn", "xJa", "riffEn", "riffJa")
+                   "notesEn", "xJa", "riffEn", "riffJa", "asideEn", "asideJa")
     for k in simple_keys:
         if k in patch and patch[k] is not None:
             merged[k] = patch[k]
@@ -1363,11 +1383,40 @@ def _slide_base():
 
 
 def _slide_footer(d, page_label: str, today: str):
-    d.line([(60, CAROUSEL_H - 96), (CAROUSEL_W - 60, CAROUSEL_H - 96)], fill=C_LINE, width=3)
-    d.text((60, CAROUSEL_H - 76), f"THE VIEW FROM TOKYO  ·  {today}",
-           font=_font(26, bold=False), fill=C_NAVY)
+    """ページ番号のみの最小フッター(文字被り防止のため左側のクレジットは廃止)。"""
     w = d.textlength(page_label, font=_font(26))
-    d.text((CAROUSEL_W - 60 - w, CAROUSEL_H - 76), page_label, font=_font(26), fill=C_CORAL)
+    d.text((CAROUSEL_W - 60 - w, CAROUSEL_H - 66), page_label, font=_font(26), fill=C_CORAL)
+
+
+def _paste_stamp(img, caption: str):
+    """ジョークを「スタンプをバンと押した」風のカードにして風刺画の上に斜め配置。"""
+    from PIL import Image, ImageDraw
+    cw = 860
+    pad = 40
+    tmp_d = ImageDraw.Draw(img)
+    f = _font(46)
+    lines = _wrap_text(tmp_d, f"“{caption}”", f, cw - pad * 2)
+    ch = pad * 2 + len(lines) * (f.size + 12)
+    card = Image.new("RGBA", (cw, ch), (255, 253, 247, 255))
+    cd = ImageDraw.Draw(card)
+    try:
+        cd.rounded_rectangle([6, 6, cw - 7, ch - 7], radius=28,
+                             outline=C_CORAL, width=10)
+    except Exception:
+        cd.rectangle([6, 6, cw - 7, ch - 7], outline=C_CORAL, width=10)
+    ty = pad
+    for line in lines:
+        cd.text((pad, ty), line, font=f, fill=C_TEXT)
+        ty += f.size + 12
+    rotated = card.rotate(-7, expand=True, resample=Image.BICUBIC)
+    # 影(押した感)
+    shadow = Image.new("RGBA", rotated.size, (0, 0, 0, 0))
+    alpha = rotated.split()[3].point(lambda a: min(a, 90))
+    shadow.putalpha(alpha)
+    cx = (CAROUSEL_W - rotated.width) // 2
+    cy = 150 + 320 - rotated.height // 2  # 風刺画のほぼ中央
+    img.paste(shadow, (cx + 12, cy + 16), shadow)
+    img.paste(rotated, (cx, cy), rotated)
 
 
 def generate_carousel(candidates: list[dict], editorial: dict | None,
@@ -1457,18 +1506,39 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
                 rr = reactions[(i - 1 + reaction_offset) % len(reactions)]
                 angle = (-11, 9, -9, 12, -10)[(i - 1) % 5]
                 _paste_sprite(img, rr, 270, angle, CAROUSEL_W - 260, 96)
-            dd.text((60, text_y), f"STORY {i}", font=_font(28), fill=C_CORAL)
-            text_y += 48
-            text_y = _draw_wrapped(dd, c["news"]["headline"], _font(34, bold=False),
-                                   60, text_y, CAROUSEL_W - 120, C_NAVY, 8)
-            text_y += 28
-            caption = (c.get("captions") or [""])[0]
-            _draw_wrapped(dd, f"“{caption}”", _font(46), 60, text_y,
-                          CAROUSEL_W - 120, C_TEXT, 12)
+            dd.text((60, text_y), f"STORY {i}", font=_font(30), fill=C_CORAL)
+            text_y += 54
+            # ニュース内容(見出し)を大きく
+            text_y = _draw_wrapped(dd, c["news"]["headline"], _font(42),
+                                   60, text_y, CAROUSEL_W - 120, C_NAVY, 10)
             _slide_footer(dd, f"{i + 1}/{total}", today)
+
+            # 動画用①: ジョーク無しの土台(この上にスタンプが押される)
+            plain = img.copy()
+            plain.save(out_dir / f"slide-{i + 1}-plain.jpg", "JPEG", quality=88)
+
+            # カルーセル用: ジョークを下部に(収まらなければ自動縮小)
+            caption = (c.get("captions") or [""])[0]
+            ty = text_y + 26
+            avail = (CAROUSEL_H - 110) - ty
+            for size in (50, 44, 38, 32):
+                f_cap = _font(size)
+                n_lines = len(_wrap_text(dd, f"“{caption}”", f_cap, CAROUSEL_W - 120))
+                if n_lines * (size + 12) <= avail:
+                    break
+            _draw_wrapped(dd, f"“{caption}”", f_cap, 60, ty,
+                          CAROUSEL_W - 120, C_TEXT, 12)
             p = out_dir / f"slide-{i + 1}.jpg"
             img.save(p, "JPEG", quality=88)
             paths.append(f"images/{today}/carousel/slide-{i + 1}.jpg")
+
+            # 動画用②: スタンプ版(ジョークが風刺画の上に「バンッ」)
+            stamped = plain.copy()
+            try:
+                _paste_stamp(stamped, caption)
+            except Exception as e:
+                print(f"[warn] stamp failed for slide {i + 1}: {e}", file=sys.stderr)
+            stamped.save(out_dir / f"slide-{i + 1}-stamped.jpg", "JPEG", quality=88)
 
         # --- CTA ---
         img, d = _slide_base()
