@@ -1,340 +1,354 @@
 {
   "version": 1,
-  "date": "2026-09-01",
-  "generatedAt": "2026-08-31T23:32:14+00:00",
+  "date": "2026-09-02",
+  "generatedAt": "2026-09-01T21:55:20+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Supreme Court Clears the Way for Trump's $400M White House Ballroom",
-        "source": "The Guardian US",
-        "date": "2026-09-01",
-        "url": "https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump",
-        "summary": "連邦最高裁判所は5対4の判決で、ホワイトハウス敷地内に建設中のトランプ大統領の4億ドル規模の舞踏場工事を継続することを認めた。"
+        "headline": "IRS Audit Revenue Drops $3.5 Billion After Agency Fires the People Who Collect Money",
+        "source": "CBS News US",
+        "date": "2026-09-02",
+        "url": "https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/",
+        "summary": "IRSが大規模な人員削減を行った結果、2025会計年度の査察による税収が35億ドル減少したことが、政府の監視機関の調査で明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「小さな政府」を掲げる政権が、公有地に4億ドルの舞踏場を建設している。規模感としては、ホワイトハウスがラスベガスのカジノホテルに進化中といったところ。",
-        "<b>滑稽さ:</b> 最高裁長官自ら「違法の可能性が高い」と書いたのに工事続行を認めた——つまり「多分ダメだけどとりあえず建てていいよ」という判決が出た。",
-        "<b>日本・海外から見ると:</b> 首相官邸の隣に100億円のパーティ会場を建てたら即刻終わる話が、裁判所のお墨付きをもらいながら進んでいる。アメリカの三権分立、今ちょっと踊り場に立っている。"
+        "<b>矛盾:</b> 税金を取り立てる職員を削減すると税収が減る——これ、誰でも予測できた話なんですよ。監視機関が「調査して発見しました」って言ってるけど、これ発見じゃなくて算数ですよね。",
+        "<b>滑稽さ:</b> 「政府の無駄を省く」という名目で、年間35億ドルを回収していた部署を削ったわけですよ。節約するために損してる。財布の穴を広げて「スリム化した」って言ってる感じ。",
+        "<b>日本・海外から見ると:</b> 日本だと国税庁の調査官を大量解雇して「財政健全化」と呼ぶ政権は想像しにくい。アメリカでは実際に起きて、監視機関が驚いた顔でレポートを出してるんですよ。"
       ],
       "imagePrompts": [
-        "A grand ballroom under construction inside the White House, with chandeliers being hung over exposed concrete and scaffolding, construction workers in hard hats waltzing with blueprints, a velvet rope cordoning off a half-poured foundation",
-        "A Supreme Court bench with nine justices, five holding tiny construction helmets and four holding stop signs, a massive golden ballroom visible through the courtroom window behind them",
-        "An aerial view of the White House grounds with a glittering ballroom annex towering over the rose garden, price tags dangling from every beam like a furniture showroom"
+        "A government office with rows of empty desks and \"AUDITOR\" nameplates left behind. A single remaining worker stares at a towering stack of unfiled tax returns. A whiteboard reads 'Savings: $0. Lost Revenue: $3,500,000,000.'",
+        "A large piggy bank with a label reading 'TAX REVENUE' sitting on a table. Next to it, a pair of scissors and a pile of pink slips from 'IRS Workforce Reduction.' The bank has a wide-open hole in the bottom.",
+        "A courtroom-style weigh scale: one side holds a stack of documents labeled 'AUDITOR SALARIES SAVED,' the other side is crushed under a boulder labeled '$3.5 BILLION UNCOLLECTED.' The scale is almost vertical."
       ],
       "captions": [
-        "The Chief Justice wrote 'this is probably illegal' and then signed off on it. That's not a dissent, that's a Yelp review.",
-        "Four hundred million for a ballroom at a house the taxpayers already own. The lease terms on this place are getting out of hand.",
-        "Other presidents left libraries. This one's leaving a dance floor.",
-        "The legal challenge is still ongoing, which means there's a real chance America ends up with a $400 million ballroom it has to tear down. Democracy's most expensive rehearsal space.",
-        "Five justices said keep building. Four said stop. The ballroom said nothing — it just kept going up."
+        "We fired the people who collect money to save money. The auditors are gone. The math, unfortunately, stayed.",
+        "The IRS lost $3.5 billion in audit revenue. Don't worry — a watchdog noticed. Six months later. In a report.",
+        "Firing your revenue collectors to cut costs: bold strategy. How'd that work out? Thirty-five hundred million dollars of 'not great.'",
+        "Somewhere, the auditors who got laid off are doing their taxes. And laughing.",
+        "You know your government efficiency plan has a flaw when the watchdog report title is basically 'We Checked, and Fewer Auditors Means Less Auditing.'"
       ],
       "captionsJa": [
-        "最高裁長官自ら「多分違法」と書いておいて署名した。これは反対意見じゃなくて、Googleレビューですよね。",
-        "国民がすでに持ってる家に4億ドルの舞踏場。この賃貸契約、ちょっとおかしくなってきた。",
-        "歴代大統領は図書館を残した。この人は댄스フロアを残す。",
-        "法廷闘争はまだ続いてるんで、最終的に取り壊し命令が出る可能性がある。4億ドルのリハーサル会場。",
-        "5人が「建てろ」、4人が「やめろ」。舞踏場は何も言わずに、ただ上へ伸びていった。"
+        "お金を集める人を削減してお金を節約しようとした。査察官は去った。算数は残った。",
+        "IRSは査察で35億ドル失った。大丈夫、監視機関が気づいた。半年後に。報告書で。",
+        "税収担当者を解雇してコスト削減。結果は？35億ドル分の「うまくいかなかった」。",
+        "解雇された査察官たち、今ごろ自分の確定申告をしながら笑ってると思う。",
+        "政府の効率化計画に欠陥があるとわかるサイン——監視機関レポートのタイトルが「査察官を減らしたら査察が減りました」のとき。"
       ],
-      "newsEn": "The US Supreme Court ruled 5-4 to allow construction of a $400 million ballroom on White House grounds to continue while legal challenges proceed. Chief Justice John Roberts dissented alongside three liberal justices, writing that the construction is 'likely unlawful.' The project has drawn criticism over its cost and the use of presidential property for private entertainment.",
+      "newsEn": "A federal watchdog found that IRS audit revenue fell by $3.5 billion in fiscal year 2025 following significant workforce reductions at the agency. The IRS shed thousands of auditors and support staff as part of broader government downsizing efforts. The drop means billions in potentially owed taxes went uncollected during the period.",
       "ironyEn": [
         {
-          "contradiction": "An administration that campaigns on fiscal discipline is building a $400 million ballroom inside the People's House.",
-          "absurdity": "The Chief Justice literally wrote 'this is likely unlawful' in his dissent — and construction kept going. Dissenting from your own permission slip is a new legal genre.",
-          "outside": "Most countries would call this a constitutional crisis. The US calls it a 5-4 ruling and moves on."
+          "contradiction": "The government cut the department responsible for collecting $3.5 billion in taxes and called it fiscal responsibility. That's not trimming the fat — that's cutting off the arm that holds the wallet.",
+          "absurdity": "A watchdog had to write an official report to explain that firing auditors leads to fewer audits. Next quarter: watchdog discovers water is wet.",
+          "outside": "Most countries treat tax enforcement as revenue-generating infrastructure. The U.S. apparently filed it under 'unnecessary overhead.'"
         },
         {
-          "contradiction": "The Supreme Court is allowing work to continue on a project it may eventually rule illegal, which means the government could be one ruling away from owning a very expensive hole in the ground.",
-          "absurdity": "Four hundred million dollars for a ballroom. The entire country's student loan relief has been tied up in courts for years, but a dance floor gets expedited clearance.",
-          "outside": "Foreign leaders watching this are taking notes — apparently the trick is to start building fast enough that stopping becomes awkward."
+          "contradiction": "Agencies tasked with reducing government waste eliminated one of the few government functions that literally returns more money than it costs.",
+          "absurdity": "The IRS lost 35 hundred million dollars in collections — not to fraud, not to a crash, but to a spreadsheet that said 'less staff = savings.'",
+          "outside": "From abroad, this looks like a shop that fired all its cashiers to cut labor costs, then announced record losses at checkout."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-01/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-01/candidate-1-punchy.jpg"
+      "image": "images/2026-09-02/candidate-1.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-02/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Census Bureau Quietly Drops Political Interference Ban — Right After a Politically Tinged Report",
-        "source": "NPR News",
-        "date": "2026-09-01",
-        "url": "https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity",
-        "summary": "センサス局がトランプ支持系シンクタンクと連携した報告書を発表した直後、親省庁が科学的誠実性ポリシーから「政治的干渉を禁じる」条文を削除していたことが、NPRの取材で明らかになった。"
+        "headline": "House Votes to Condemn Socialism — Also, Please Show Your ID to Vote",
+        "source": "CNBC Top News",
+        "date": "2026-09-02",
+        "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+        "summary": "米下院は11月の中間選挙を前に社会主義を非難する決議案を採決にかけたが、共和党はその決議文の中に賛否が大きく割れる有権者ID法案（SAVE America Act）の可決要求も盛り込んだ。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「科学的誠実性」ポリシーから、政治介入を禁じる条文を抜いた。「誠実性」という看板はそのままに、中身だけ交換した。",
-        "<b>滑稽さ:</b> 「政治に干渉されてはいけない」と書いてあった文書を、政治が消した。自分で自分の取締役会から降ろした的な、ものすごく素直な動きなんですよ。",
-        "<b>日本・海外から見ると:</b> 国勢調査は議席数から連邦予算配分まで左右する。その独立性を守るルールをこっそり削除する——「制度の自己解体」がこんなに静かに進むのかと、外から見ると震える。"
+        "<b>矛盾:</b> 「社会主義反対」の決議文の中に、別の法案を通せという要求を忍び込ませるのは、デモクラシーの純粋なやつですよ。反社会主義を叫びながら、議会の手続きでちゃっかり抱き合わせ商法をやってるわけで。",
+        "<b>滑稽さ:</b> 「社会主義を非難する」という声明のためだけに投票するのかと思ったら、裏メニューがついてた。政治のセットメニュー——メインは理念、サイドに選挙制度改変、ドリンクは選択不可。",
+        "<b>日本・海外から見ると:</b> 選挙前に「社会主義はダメ」と全員で声を揃えて宣言する文化は、アメリカ特有のものがある。日本だと国会で「資本主義最高！賛成の方は挙手」という採決は想像しにくい。"
       ],
       "imagePrompts": [
-        "A government official with a large eraser carefully removing a single sentence from a framed policy document on the wall, while holding a think tank report under their other arm, a Census Bureau seal visible above the frame",
-        "A document titled 'Scientific Integrity Policy' with one paragraph visibly whited-out, a magnifying glass hovering over the blank space revealing the ghost text 'no political interference'",
-        "Two doors side by side in a federal building hallway — one labeled 'Political Influence: PROHIBITED' with a red X crossed over it, the other newly labeled 'Political Influence: Please Come In' with a welcome mat"
+        "A large ornate congressional resolution document titled 'CONDEMNING SOCIALISM' with bold red text. At the bottom, in tiny fine print, is a paragraph titled 'Also, Voter ID Bill.' A magnifying glass is hovering over the fine print.",
+        "A restaurant menu titled 'DEMOCRACY COMBO MEAL.' Listed items: 'Anti-Socialism Statement (symbolic)' as the main, and 'SAVE America Act (highly contested)' as the mandatory side dish. No substitutions.",
+        "A politician at a podium holding a giant banner reading 'NO SOCIALISM' while a second, smaller sign quietly slides into frame from the side reading 'P.S. Voter ID Bill, please.'"
       ],
       "captions": [
-        "They removed the 'no political interference' rule from the scientific integrity policy. The document is still called a scientific integrity policy. The name is doing a lot of heavy lifting right now.",
-        "The timing: report linked to a political think tank drops, then the anti-interference clause disappears. Totally unrelated, they'd like you to know.",
-        "It's the change-log nobody wanted to find. 'Deleted: government shall not meddle with its own data.' Tracked changes, off.",
-        "The Census decides congressional seats and federal funding. Who controls the count controls the map. But sure, let's call removing the ethics rule a 'policy update.'",
-        "Somewhere out there a junior staffer hit delete on a sentence and accidentally broke a democratic norm. Or it wasn't an accident. Anyway, the sentence is gone."
+        "Congress voted to condemn socialism. Bundled inside: a voter-ID bill that couldn't pass on its own. Free-market principles, apparently, don't apply to legislation.",
+        "The resolution against socialism came with a surprise inside. Like a Kinder egg, but for electoral policy.",
+        "They needed a vote on whether socialism is bad. In 2026. Took the opportunity to sneak in another bill. Efficient use of everyone's time.",
+        "Anti-socialism resolution, featuring a bonus voting restriction — because nothing says 'land of freedom' like terms and conditions.",
+        "So the bill couldn't pass alone, so they stapled it to 'socialism bad.' At this point Congress is just doing what the rest of us do when we bury a question in the middle of a long text."
       ],
       "captionsJa": [
-        "科学的誠実性ポリシーから「政治干渉禁止」を削除した。それでも書類の名前は「科学的誠実性ポリシー」のまま。タイトルが今、全部の仕事してる。",
-        "タイミング: 政治系シンクタンクと連携した報告書が出て、次に干渉禁止条文が消えた。「まったく無関係です」とのことです。",
-        "誰も見たくなかった変更履歴。「削除: 政府は自分のデータに介入してはならない」。追跡変更、オフ。",
-        "国勢調査は議席数と連邦予算を決める。数を支配する者が地図を支配する。でも大丈夫、これは「方針の更新」です。",
-        "どこかの若手職員が一文をデリートして、民主主義の規範がひとつ壊れた。あるいは事故じゃなかったかもしれない。どちらにせよ、その一文はもうない。"
+        "議会は社会主義を非難する決議を採決した。その中に、単独では通らなかった投票制限法案が入っていた。自由市場の原理は、どうやら法案には適用されないらしい。",
+        "社会主義反対の決議に、サプライズ入り。キンダーエッグみたいなものだけど、中身は選挙制度。",
+        "2026年に、社会主義がダメかどうかの採決があった。ついでに別の法案を忍び込ませた。みんなの時間を有効活用。",
+        "反社会主義決議、特典として投票制限付き。「自由の国」が規約と条件付きになってきた。",
+        "単独で通らないから「社会主義はダメ」にくっつけた。長いLINEの真ん中にこっそり質問を混ぜる手法を、議会もやってるとは思わなかった。"
       ],
-      "newsEn": "After the Census Bureau released a report connected to a Trump-aligned think tank, its parent agency quietly removed language prohibiting political interference from its scientific integrity policy, NPR has learned. The sequence of events has raised concerns among researchers and data integrity advocates about the independence of federal statistical agencies. The Census Bureau's data underpins decisions on congressional apportionment, federal funding, and economic policy.",
+      "newsEn": "The U.S. House of Representatives voted on a resolution condemning socialism ahead of November's midterm elections. Republicans added language to the resolution calling for passage of the SAVE America Act, a controversial voter-ID bill that has faced significant opposition. The move bundled a broad ideological statement with a specific and contested piece of legislation.",
       "ironyEn": [
         {
-          "contradiction": "The agency removed a ban on political interference from its scientific integrity policy — making it a scientific integrity policy with less integrity.",
-          "absurdity": "The edit came right after a report tied to a Trump-aligned think tank. The timing was so on-the-nose it reads like a rough draft someone forgot to hide.",
-          "outside": "The Census determines how many seats each state gets in Congress. Letting politics steer it is the democratic equivalent of letting the team owner also referee the game."
+          "contradiction": "A resolution condemning ideological overreach was used to push through a separate, unrelated, and deeply contested policy goal. Democracy doing a little socialism of its own — sharing one bill's momentum with another.",
+          "absurdity": "Congress took a stand against an economic system by hiding a voting-rights bill inside the stand. The anti-socialism package came bundled with extras, like a cable contract.",
+          "outside": "Observers abroad may note that the U.S. Congress scheduled a formal vote on whether socialism is bad — roughly 35 years after the Cold War ended."
         },
         {
-          "contradiction": "A policy called 'scientific integrity' now has a smaller prohibition against the thing that threatens scientific integrity.",
-          "absurdity": "This is the bureaucratic equivalent of erasing the 'do not erase' sign.",
-          "outside": "Other democracies spend decades building firewalls between government statistics and political pressure. This one just quietly opened a door and hoped no one checked the change log."
+          "contradiction": "The party that opposes government overreach used a government resolution to pressure passage of a separate government bill they couldn't pass on its own merits.",
+          "absurdity": "Attaching a voter-ID mandate to an anti-socialism statement is a bit like putting a parking ticket in a birthday card. Technically valid. Still a weird move.",
+          "outside": "Most legislatures save the ideological declarations for speeches. The U.S. House made it a vehicle for hitchhiking legislation."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-01/candidate-2.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-01/candidate-2-punchy.jpg"
+      "image": "images/2026-09-02/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-02/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "FTC Sues Amazon Over Secret Ad Surcharge That Was Passed on to Consumers",
-        "source": "The Verge",
-        "date": "2026-09-01",
-        "url": "https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit",
-        "summary": "米連邦取引委員会（FTC）と22州の司法長官は、Amazonが広告主に対して秘密の追加料金を課し、そのコストを最終的に消費者に転嫁していたとして、同社を提訴した。"
+        "headline": "GoPro Is Pivoting to AI Data Centers. Its Stock Jumped 40%.",
+        "source": "CNBC Top News",
+        "date": "2026-09-02",
+        "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
+        "summary": "アクションカメラメーカーのGoPro社が、フォトニクス企業Starman Opticalとの合併を発表し、AIデータセンター分野に参入すると表明。株価は40%急騰した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「より安く、より便利に」が売りのAmazonが、密かな手数料で消費者の財布を狙っていた疑い。プライム会費を払って、さらに見えない料金も払っていた可能性。",
-        "<b>滑稽さ:</b> 「秘密の追加料金」を広告主に課して、そのコストを商品価格に転嫁した——要するに消費者が自分の買い物を自分で高くする仕組みに乗っかっていたかもしれない。",
-        "<b>日本・海外から見ると:</b> 日本でも「Amazon安い」は生活常識になっているが、その安さの裏に隠れたサーチャージがあったとしたら、バーゲンのレシートをもう一度読み直す必要がある。"
+        "<b>矛盾:</b> スカイダイビングや波乗りの動画を撮るカメラを作っていた会社が、データセンターに転身する。ユーザーが「崖から飛んだ映像」を撮っていたら、会社のほうも崖から飛んだ——ただしAIという方向に。",
+        "<b>滑稽さ:</b> 「AI」とつけた途端に株が40%上がる市場が面白いんですよ。GoPro、もしかして今まで発表する言葉を間違えてただけでは？「サーフィン動画カメラ、AIデータセンターに転身」と言った瞬間に価値が生まれた。",
+        "<b>日本・海外から見ると:</b> 日本で言うと、ガラス工芸の会社が突然「AIクラウドインフラに参入します」と発表して株価が急騰するようなもの。業種の連続性ゼロ。でも市場は「AI」を聞いた瞬間に動く。"
       ],
       "imagePrompts": [
-        "An Amazon warehouse worker handing a customer a shopping bag with a visible price tag on the front and a tiny hidden price tag sewn into the lining, the customer smiling obliviously",
-        "A courtroom with the FTC seal on the wall, a giant Amazon logo in the defendant's chair, and 22 tiny state seals crowded into the prosecutor's bench like an overcrowded jury box",
-        "A 'sale' banner hanging over an Amazon storefront with increasingly small asterisks trailing down to a footnote at the floor level that reads '*secret ad surcharge applies'"
+        "A GoPro action camera mounted on a helmet, but instead of a skier on a mountain, the camera is strapped to a server rack in a sterile data center. Blinking LEDs everywhere. No mountains in sight.",
+        "A stock chart shaped like a cliff dive — flat for years, then a vertical 40% spike — displayed on a monitor in a server room. A GoPro camera sits on the desk next to a keyboard, gathering dust.",
+        "A trade show booth split down the middle: the left side shows GoPro's classic branding with surfers and skydivers; the right side has been hastily redecorated with AI data center imagery and a new logo still being hot-glued on."
       ],
       "captions": [
-        "Amazon allegedly charged advertisers a secret fee, advertisers raised their prices, and consumers paid more. A full circle that moves money from your cart directly to nowhere you can see.",
-        "The FTC is calling it a 'secret surcharge.' Amazon calls it 'denied.' Twenty-two states are calling it a lawsuit. Everybody's calling something.",
-        "You paid for Prime. You paid for the product. Turns out you may have also been paying for the ad that convinced you to buy it. Loyalty has layers.",
-        "Twenty-two state attorneys general agreeing on one lawsuit — Amazon may have achieved something Congress has been failing at for a decade.",
-        "The company that tracks every click, every return, every 'buy it again' prompt — and allegedly hid one number from everyone. The irony of the one missing data point."
+        "GoPro pivoted to AI data centers. Stock up 40%. The extreme sport now is telling investors what they want to hear.",
+        "The company that filmed people jumping off cliffs has announced it's jumping into AI infrastructure. Honestly, the risk tolerance tracks.",
+        "GoPro didn't build a new product. It just said 'AI data center' in a press release. Forty percent. That's the whole story.",
+        "Remember when GoPro was for people doing cool stuff outside? The new product is: server rooms. Still shoots great footage of nothing happening.",
+        "At what point do we admit the word 'AI' is just a financial energy drink? GoPro drank it. Up 40% before lunch."
       ],
       "captionsJa": [
-        "Amazonが広告主に秘密料金を課して、広告主が価格に上乗せして、消費者が払った。ぐるっと一周して、お金が見えないところに消える仕組み。",
-        "FTCは「秘密のサーチャージ」と呼んでいる。Amazonは「否定する」と言っている。22州は「訴訟」と呼んでいる。みんなそれぞれ何か言ってる。",
-        "プライム会費払って、商品代払って、その商品を買わせた広告の費用まで払ってたかもしれない。ロイヤリティに地層がある。",
-        "22州の司法長官が一つの訴訟で合意した。Amazonが連邦議会の10年越しの課題を1件で達成した可能性。",
-        "クリックも返品も「また買う」ボタンも全部追跡してる会社が、ひとつだけ数字を隠してたかもしれない。唯一消えていたデータポイントの皮肉。"
+        "GoPro、AIデータセンターに転身。株価40%上昇。今一番過激なスポーツは「投資家が聞きたいことを言う」こと。",
+        "崖から飛ぶ人を撮ってた会社が、AIインフラに飛び込んだ。リスク許容度は一貫してる、確かに。",
+        "GoPro、新製品は作ってない。プレスリリースに「AIデータセンター」と書いただけ。40%上昇。以上。",
+        "外でかっこいことする人向けのカメラ、覚えてますか？新商品はサーバールームです。映像は相変わらずきれいに撮れます、何も起きていない様子を。",
+        "「AI」という言葉が財務上のエナドリになってる時点でもう認めようよ。GoPro飲んだら昼前に40%上がった。"
       ],
-      "newsEn": "The FTC and 22 state attorneys general filed a lawsuit against Amazon, alleging the company used a hidden surcharge system to inflate advertising prices on its website and app. FTC Chairman Andrew Ferguson stated that the higher costs were 'largely passed on to American consumers.' Amazon has denied the allegations. The lawsuit is the latest in a series of major antitrust actions targeting the e-commerce giant.",
+      "newsEn": "GoPro, the maker of action cameras popular with extreme sports enthusiasts, announced a merger with private photonics company Starman Optical and a pivot into AI data center infrastructure. The company's shares surged approximately 40% on the news. The move represents a dramatic departure from GoPro's core consumer electronics business.",
       "ironyEn": [
         {
-          "contradiction": "Amazon built its empire on the promise of lower prices, and allegedly did it partly by charging advertisers extra — who then raised prices to cover it. Round trip surcharge.",
-          "absurdity": "The FTC calls it a 'secret ad surcharge.' Amazon's whole value proposition is transparency of price. The price was apparently just not for the ads.",
-          "outside": "Twenty-two state AGs joining one lawsuit is a lot of states agreeing on something. That almost never happens. Amazon apparently united people in a way Congress hasn't managed in years."
+          "contradiction": "A company whose entire identity was built on filming humans doing reckless things in physical space has announced its future is in server rooms. The camera that survived avalanches is now chasing data center margins.",
+          "absurdity": "GoPro's stock jumped 40% not because it built anything new, but because it announced a merger and used the word 'AI.' The product hasn't changed. The ticker has.",
+          "outside": "From outside the U.S., the GoPro story reads like a perfectly calibrated market experiment: say 'AI data center,' measure the spike, repeat."
         },
         {
-          "contradiction": "Consumers came to Amazon to escape retail markups, and may have been funding a hidden markup the whole time — one they couldn't see and didn't agree to.",
-          "absurdity": "The company that knows exactly what you want to buy, when you'll run out of it, and how much you're willing to pay, allegedly decided the price of running an ad on its platform was also its business to quietly adjust.",
-          "outside": "In Japan, hidden fees are a known sore point across services. If the country's self-proclaimed discount king turns out to be running a surcharge in the back room, it's not a scandal — it's a plot twist in the world's longest-running shopping story."
+          "contradiction": "GoPro spent decades branding itself as the camera for people who do real, physical, dangerous things. Its pivot to data centers is about as on-brand as a skateboard company opening a law firm.",
+          "absurdity": "A 40% stock surge for a merger between an action camera brand and a photonics startup most people can't name — the market is apparently very easily startled by the word 'AI.'",
+          "outside": "Investors rewarded GoPro for announcing it would stop doing the thing it was known for. It's the financial equivalent of applauding someone for quitting their job."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-01/candidate-3.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-01/candidate-3-punchy.jpg"
+      "image": "images/2026-09-02/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-02/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "EY to Hand Out $100M in Bonuses for Workers Who Act Like... Humans",
-        "source": "CBS News US",
-        "date": "2026-09-01",
-        "url": "https://www.cbsnews.com/news/ernst-young-human-focused-skills/",
-        "summary": "大手コンサルティング会社EYは、ビジネス感覚や判断力といった「人間的スキル」を持つ従業員に対し、総額1億ドルのボーナスを支給すると発表した。"
+        "headline": "Pentagon's Top AI Policy Official Sold $25M in AI Stock While Overseeing AI Policy",
+        "source": "The Guardian US",
+        "date": "2026-09-02",
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+        "summary": "米国防総省でAI政策を統括するエミール・マイケル氏が、同職に就いている間にAI企業Perplexityの株式を最大2500万ドル相当売却していたことが、財務開示書類の調査で明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 何十年もかけて人間の仕事をAIに置き換えようとしてきたコンサル業界が、今度は「人間らしくできる人」に1億ドル払うと言い出した。",
-        "<b>滑稽さ:</b> 「ビジネス感覚」と「判断力」がボーナス査定項目になるということは、それがレアスキルになったということ。コンサルタントが判断力を持っていること自体が加点対象の時代に突入した。",
-        "<b>日本・海外から見ると:</b> 日本企業も「人材育成」を口では言い続けてきた。でもそれに1億ドルのボーナスをつけたことはなかった。EYは「人間であること」に値段をつけた。"
+        "<b>矛盾:</b> AI政策を決める人が、AI株で数十億円分の利益を得ている。利益相反という言葉の辞書に、このニュースの写真を載せてもいい。",
+        "<b>滑稽さ:</b> xAI株で24億円、Perplexity株で25億円——これ、AI政策の「成果」をどちらが受け取っているか、わかりやすすぎる。国防総省の判断が市場に与える影響と、本人の口座残高が同じ方向を向いている。",
+        "<b>日本・海外から見ると:</b> 日本の防衛省でIT調達を担う高官が、調達先候補の株を数十億円分売却していたら——想像するだけで制度が震える。アメリカでは「開示したから問題ない」という建付けで動いている。"
       ],
       "imagePrompts": [
-        "A corporate award ceremony on a stage where a giant trophy reads 'Most Human Employee of the Year,' the winner is a person holding a check for $100 million while surrounded by confused-looking colleagues holding laptops",
-        "An EY office performance review form with checkboxes: 'Completes spreadsheets — checked,' 'Attends meetings — checked,' 'Demonstrates basic human judgment — empty checkbox, starred in red'",
-        "A vending machine in a modern office labeled 'Skills Dispenser' with buttons for 'Excel,' 'PowerPoint,' 'AI Prompting,' and one glowing button at the bottom labeled 'Human Judgment — $100M'"
+        "A Pentagon briefing room table, shot from above. One side holds a stack of documents labeled 'AI ACQUISITION POLICY.' The other side holds a laptop open to a brokerage screen showing a trade confirmation for $25,000,000. A Pentagon ID badge sits face-down between them. No faces visible.",
+        "A large scale of justice. On one side: a Pentagon badge labeled 'AI POLICY OVERSIGHT.' On the other side: two bags of money labeled 'xAI $24M' and 'Perplexity $25M.' The scale is completely horizontal, perfectly balanced.",
+        "A conflict-of-interest flowchart on a whiteboard: 'Write AI policy' → 'AI companies gain value' → 'Sell AI stock' → 'File disclosure form' → arrow looping back to 'Write AI policy.' A smiley face drawn at the end."
       ],
       "captions": [
-        "EY is paying $100 million for employees who show 'judgment.' At a consulting firm. That's not a bonus program, that's an admissions process for the bar they set when they hired people.",
-        "First they sold AI to every client. Now they're paying a premium for humans. The arc of the consulting business model is wild.",
-        "A hundred million dollars to reward 'being able to think.' I have questions about the other 390,000 employees.",
-        "'Human skills' is now a bonus category. Somewhere in a performance review, someone is writing: 'strong eye contact, correctly identified a problem, did not hallucinate the solution.' Exceeds expectations.",
-        "The job posting probably still says 'AI proficiency required.' The bonus structure says please, for the love of everything, also use your brain."
+        "The Pentagon's top AI policy guy sold $25 million in AI stock. But he filed the disclosure. So we're good. We're totally good.",
+        "xAI: $24 million. Perplexity: $25 million. Job title: Pentagon AI Oversight. Resume's looking strong.",
+        "He's in charge of deciding which AI companies the military buys from. He's also very personally invested in how that goes.",
+        "Conflict of interest? No, no — he disclosed it. The form is filed. The $49 million is in the account. Oversight achieved.",
+        "You know how referees aren't supposed to bet on the game? The Pentagon would like to present a different perspective on that."
       ],
       "captionsJa": [
-        "EYが「判断力のある社員」に1億ドル払う。コンサル会社で。これはボーナスじゃなくて、採用基準に対する事後謝罪では？",
-        "まずAIを全クライアントに売って、次に人間に割増料金を払う。コンサルのビジネスモデルの弧、なかなか壮大。",
-        "「考える能力」に1億ドルの賞金。残りの39万人の社員について、ちょっと聞いていいですか。",
-        "「人間的スキル」がボーナス項目になった。人事評価に「アイコンタクト良好、問題を正確に把握、答えをでっち上げなかった——期待以上」と書かれる時代。",
-        "求人票にはたぶんまだ「AI活用スキル必須」とある。ボーナス制度には「頼むから脳みそも使ってくれ」とある。"
+        "国防総省のAI政策責任者がAI株を2500万ドル売却。でも開示書類は提出した。だから大丈夫。全然大丈夫。",
+        "xAI株で24億円、Perplexity株で25億円。肩書：国防総省AI監督官。職歴、充実してる。",
+        "軍がどのAI企業から買うか決める立場の人が、その結果に個人的にとても深く関心を持っている。",
+        "利益相反？いや、開示したから問題ないんですよ。書類は提出済み。49億円は口座に入ってる。監督完了。",
+        "審判が試合に賭けちゃいけないのはご存知の通り。国防総省はその件について、別の見解を持っているようです。"
       ],
-      "newsEn": "Management consulting firm EY announced it will distribute $100 million in bonuses to employees who demonstrate what it calls 'human skills,' including business acumen and sound judgment. The move comes amid widespread adoption of AI tools in professional services, with firms increasingly looking to distinguish work that requires human capabilities. EY employs over 390,000 people globally.",
+      "newsEn": "Financial disclosures reviewed by The Guardian show that Emil Michael, the top Pentagon official responsible for overseeing military artificial intelligence policy, sold stock in AI company Perplexity worth up to $25 million. Michael had also previously reaped up to $24 million from selling xAI stock earlier this year. The official is responsible for shaping the military's AI acquisition and policy decisions.",
       "ironyEn": [
         {
-          "contradiction": "Consulting firms spent years selling AI transformation to clients — and now the same firms are paying a premium for employees who can do what AI can't. The product is eating the pitch.",
-          "absurdity": "EY is offering bonuses for 'judgment and business acumen.' These are things you'd assume were baseline requirements for a management consultant. Apparently they've become exceptional enough to warrant nine figures.",
-          "outside": "From the outside, this reads as a firm quietly admitting it hired a lot of people who scored high on spreadsheets and low on thinking. The bonus is retroactive proof of concept."
+          "contradiction": "The official deciding which AI companies get Pentagon contracts held tens of millions of dollars in AI company stocks. The conflict of interest didn't need a microscope — it needed a brokerage statement.",
+          "absurdity": "He sold $25 million in Perplexity stock and $24 million in xAI stock while writing national AI policy. At that point, 'oversight' is doing a lot of heavy lifting as a word.",
+          "outside": "In most democracies, this level of financial entanglement between a regulator and the regulated industry would trigger automatic recusal. In Washington, it triggered a disclosure form."
         },
         {
-          "contradiction": "'Human skills' as a reward category implies 'non-human skills' are what's been getting rewarded until now.",
-          "absurdity": "One hundred million dollars to prove your employees are not robots — in a sector that billed clients billions to automate everyone else's workforce.",
-          "outside": "In Japan, 'being a team player' and 'having good judgment' have always been implicit job requirements. That a global firm has to pay people to have them is either very honest or very alarming."
+          "contradiction": "Emil Michael was in charge of making sure the military's AI investments serve the public interest — while personally earning $49 million from AI investments of his own.",
+          "absurdity": "The Pentagon has an AI safety policy. The man who runs it made $25 million selling AI stock. 'Safety' is a flexible concept.",
+          "outside": "The structure here is elegant in its simplicity: shape the policy, hold the stock, sell the stock, file the disclosure. All legal. All disclosed. All a bit much."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-01/candidate-4.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-01/candidate-4-punchy.jpg"
+      "image": "images/2026-09-02/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-02/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Prediction Market Kalshi Bans George Santos for Life — Over Bets on His Own Attendance",
-        "source": "NPR News",
-        "date": "2026-09-01",
-        "url": "https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets",
-        "summary": "予測市場Kalshiは、元下院議員ジョージ・サントスに対し、自身の一般教書演説への出席を賭けた取引をめぐる調査への非協力を理由として、永久利用禁止と7万1,000ドル超の罰金を科したと発表した。"
+        "headline": "USPS Is Launching a New Computer System That Could Derail Mail-In Voting. It's Due Before the Election.",
+        "source": "The Guardian US",
+        "date": "2026-09-02",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
+        "summary": "民主党上院議員が内部告発者の声明を公開し、USPSが選挙前に導入予定の新コンピュータシステムが郵便投票に混乱をもたらす恐れがあると警告していることが明らかになった。チャック・シューマー上院議員はシステム導入を差し止める法案を提出した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 国会から追放された元議員が、今度は予測市場からも追放された。どこに行っても退場になる人生、ある意味一貫している。",
-        "<b>滑稽さ:</b> 「自分が会場に行くかどうか」に賭けた。インサイダー情報が「自分の予定」という、史上最もシンプルなインサイダー取引疑惑。",
-        "<b>日本・海外から見ると:</b> 予測市場で「自分の出席」に賭けるのは、野球選手が自分のヒット数に賭けるのと同じ構図。ピート・ローズのデジタル後継者がここに現れた。"
+        "<b>矛盾:</b> 郵便局が選挙直前に大規模なシステム移行を行う——IT業界なら「選挙期間中だけはシステム更新を止める」のが常識なのに、USPSはそのタイミングを選んでいるわけですよ。「フリーズ期間」が存在しないシステム運用。",
+        "<b>滑稽さ:</b> 内部告発者が「これはまずい」と言い、上院議員が「止めるための法案を出す」と言い、それでもシステムは予定通り動こうとしている。三者全員が違う方向に走っていて、誰も郵便物の行方を知らない状態になってきた。",
+        "<b>日本・海外から見ると:</b> 日本だと選挙管理の信頼性は「当然のインフラ」として扱われる。アメリカでは選挙の仕組み自体が毎回、政治的な争点になる。郵便局のシステム更新ですら国会審議になる国。"
       ],
       "imagePrompts": [
-        "A man standing outside a prediction market office with a 'permanently banned' placard around his neck, holding a betting slip that reads 'will I show up today — yes — $500,' a long list of prior ban notices visible in his jacket pocket",
-        "A bingo card labeled 'George Santos Banned From' with squares filled in: Congress, a prediction market, and several blank squares still waiting",
-        "A horse racing betting window replaced by a 'State of the Union attendance odds' board, a single bettor leaning in to place a bet on himself, the cashier looking visibly exhausted"
+        "A U.S. Postal Service worker standing in front of a massive server being wheeled through a sorting facility. Thousands of envelopes labeled 'BALLOT' are stacked everywhere. A calendar on the wall shows Election Day circled in red, just weeks away. A technician nearby holds a laptop showing 'SYSTEM MIGRATION IN PROGRESS.'",
+        "A flowchart on a whiteboard labeled 'MAIL-IN VOTING PROCESS.' Every arrow leads through a box labeled 'NEW USPS COMPUTER SYSTEM (UNTESTED)' surrounded by question marks. The final box just reads '???'",
+        "A split image: on the left, a voter carefully sealing a mail-in ballot envelope. On the right, the same envelope entering a sorting machine with a screen showing 'ERROR: SYSTEM UPDATING. PLEASE WAIT.'"
       ],
       "captions": [
-        "Santos bet on his own attendance at the State of the Union. His inside information was his own Google Calendar. This is the simplest possible conflict of interest and he still managed to not cooperate with the investigation.",
-        "Expelled from Congress, indicted federally, now banned from a betting app. He's not failing upward, he's failing sideways with tremendous consistency.",
-        "Kalshi fined him $71,000 for betting on whether he'd walk through a door. The door wasn't even worth $71,000.",
-        "Pete Rose bet on baseball. Santos bet on his own schedule. One of these is more embarrassing and I'll let you decide which.",
-        "He didn't cooperate with the internal investigation. Into bets. About himself. The story where every detail is somehow worse than the last."
+        "The post office is installing a new computer system before the election. The whistleblower says it could cause chaos. USPS says it'll be fine. Somewhere, a ballot is already nervous.",
+        "Nothing says 'democracy is working' like a Senate bill to stop the post office from doing an IT upgrade in October.",
+        "Mail-in voting: designed to be reliable. New USPS computer system: scheduled, untested, launching before November. These two facts are in a room together now.",
+        "The system that processes your ballot is getting a complete software overhaul six weeks before Election Day. Updates may take longer than expected. Please do not turn off your democracy.",
+        "A whistleblower warned the USPS system could derail mail-in voting. USPS said they're proceeding. Congress introduced a bill. The system is still being installed. Classic four-way standoff where the computers are winning."
       ],
       "captionsJa": [
-        "一般教書演説への自分の出席に賭けた。インサイダー情報は自分のGoogleカレンダー。これ以上シンプルな利益相反はないのに、それでも調査に非協力だった。",
-        "国会から追放、連邦起訴、そして今度は賭けアプリから永久ban。上に向かって失敗してるわけじゃなく、横に向かって一貫して失敗している。",
-        "「ドアをくぐるかどうか」に賭けて7万1,000ドルの罰金。そのドア、7万ドルの価値はなかった。",
-        "ピート・ローズは野球に賭けた。サントスは自分のスケジュールに賭けた。どちらがより情けないかは、みなさんに判断をお任せする。",
-        "自分自身に関する賭けの、社内調査に、協力しなかった。ディテールを追うたびに一段ずつひどくなっていく話。"
+        "郵便局が選挙前に新しいコンピュータシステムを入れようとしている。内部告発者は「混乱が起きる」と言う。USPSは「大丈夫」と言う。どこかで投票用紙がもう不安になってる。",
+        "「郵便局が10月にシステム更新するのを止めるための法案」が上院で提出される——これ、民主主義が機能してる証拠としてカウントされるんですかね。",
+        "郵便投票は「信頼できる」設計のはず。USPSの新システムは未テストで、11月前に導入予定。この二つが今、同じ部屋にいる。",
+        "あなたの投票用紙を処理するシステムが、選挙の6週間前に全面ソフトウェア更新中です。更新には予想より時間がかかる場合があります。民主主義の電源は切らないでください。",
+        "内部告発者が警告し、議会が法案を出し、USPSは続行すると言い、システムはそのまま稼働している。四者四様のにらみ合い——今のところコンピュータが勝ってる。"
       ],
-      "newsEn": "Prediction market platform Kalshi announced it has permanently banned former Congressman George Santos and fined him over $71,000 for placing bets tied to his own attendance at the State of the Union address. Santos allegedly did not cooperate with Kalshi's internal investigation into the trades. Santos was expelled from Congress in 2023 following revelations of extensive biographical fabrications and faces ongoing federal charges.",
+      "newsEn": "A Democratic senator disclosed a whistleblower statement warning that the U.S. Postal Service is set to launch a new computer system that could disrupt mail-in voting before November's midterm elections. Senate Minority Leader Chuck Schumer introduced a bill that would block the rollout. The USPS system overhaul is moving forward despite the warnings, according to the disclosure.",
       "ironyEn": [
         {
-          "contradiction": "George Santos was expelled from Congress for lying about his entire biography, and then allegedly placed bets on whether he personally would show up somewhere. The subject of the lie got smaller, but the habit stayed.",
-          "absurdity": "The insider information in this case was literally his own calendar. The investment thesis was: 'I know things about me that you don't.'",
-          "outside": "Pete Rose got banned from baseball for betting on his own games. Santos got banned from a prediction market for betting on his own commute. The moral is the same; the scale is somehow sadder."
+          "contradiction": "The U.S. Postal Service chose the months immediately before a national election to roll out a brand-new, untested computer system that handles mail sorting — including mail-in ballots. The timing was apparently not flagged as a concern until a whistleblower flagged it as a concern.",
+          "absurdity": "A senator had to introduce a bill to stop the post office from upgrading its computers right before an election. That sentence should not exist.",
+          "outside": "In countries with centralized election infrastructure, a last-minute IT overhaul at the national mail agency before voting day would be front-page news for weeks. Here, it surfaced in a whistleblower disclosure."
         },
         {
-          "contradiction": "A man expelled from the People's House for fabricating his entire life story allegedly tried to profit from the one thing he couldn't fabricate — whether he walked through a door.",
-          "absurdity": "Kalshi fined him $71,000. Santos didn't cooperate with the investigation. He's been expelled by Congress, indicted by federal prosecutors, and now banned by a betting app. He's collecting institutions.",
-          "outside": "In other countries, political scandal ends careers. Santos's career already ended, and he's still finding new organizations to get kicked out of. Resilience, in a very specific direction."
+          "contradiction": "Mail-in voting exists to make voting more accessible. The system being installed before the election could make mail-in voting less reliable. Infrastructure meant to expand access may end up narrowing it — accidentally, officially, on schedule.",
+          "absurdity": "The whistleblower said the rollout could cause 'chaos.' USPS said it's moving forward. Congress is now in the position of trying to stop the post office from doing its own IT project.",
+          "outside": "The U.S. debates whether mail-in voting is safe — then schedules a potentially destabilizing system upgrade right before an election that will rely on mail-in voting. The debate may be settling itself."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-01/candidate-5.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-01/candidate-5-punchy.jpg"
+      "image": "images/2026-09-02/candidate-5.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-02/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "「ルールの番人」が次々とルールを自分で消していく週。三権分立も科学的誠実性も、看板だけ残して中身が入れ替わっている。",
-    "titleEn": "The House Always Wins (Especially If It's the White House)",
-    "subtitleEn": "Five stories about people rewriting the rules they were supposed to follow.",
-    "titleJa": "「違法かもしれないけど建てていいよ」という判決が出た国の話",
+    "thread": "今日の5本を貫く糸：「やるべきことと逆のことを、自信満々でやる人たちの話」。IRS・議会・GoPro・国防総省・郵便局、全員が同じ方向に走っている。",
+    "titleEn": "We Fired the Tax Collectors to Save Money. Guess What Happened.",
+    "subtitleEn": "Five stories about doing the wrong thing with complete confidence.",
+    "titleJa": "IRSが税金の取り立て係を解雇して35億ドル損した話と、その他4本",
     "titleAltJa": [
-      "最高裁長官が『多分ダメ』と書いて工事を止めなかった日のアメリカ5本",
-      "『人間らしくできる人』に1億ドル払うと言い出したコンサル会社について、今日語れるようになる"
+      "「AI」と言った瞬間に株が40%上がる市場で、ペンタゴンのAI担当が2500万ドル稼いでいた",
+      "今日のアメリカのニュース、全部「それって逆じゃないの」で返せる"
     ],
-    "leadJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。「違法の可能性が高い」と書いた人が、工事の続行を認めた。",
-    "introEn": "There's a theme running through today's five stories, and it's not subtle.\n\nSomebody rewrote the rules. Or ignored them. Or just... kept going anyway.\n\nThe Supreme Court let a $400 million ballroom keep going up — with a dissent from the Chief Justice himself saying it's probably illegal. A federal agency quietly deleted the clause that said politicians shouldn't touch its data. Amazon may have been charging you for the ad that sold you the thing you bought. And George Santos got banned from a betting app for gambling on his own Google Calendar.\n\nHere's your forecast: the system isn't broken. It's doing exactly what the people currently running it want it to do. Which means whatever isn't working in your life right now? Not your fault. You're playing by rules that keep getting edited while the game is live. Today, knowing that is enough.",
-    "introJa": "「違法かもしれない」と言いながら進む工事があります。\n\n今日の話です。アメリカの話です。でも笑えない感じもあります。\n\n最高裁判所が、「多分違法」と書いた長官の反対意見ごと、ホワイトハウスの舞踏場工事の続行を認めた。センサス局は「政治介入を禁じる」条文を、政治が削除した。Amazonは広告主に秘密の追加料金を課して、そのコストを消費者に払わせていた疑惑がある。コンサル大手EYは「人間らしく判断できる人」に1億ドルのボーナスを出すと言った。元議員サントスは、自分の予定帳を元手にインサイダー賭けをして、予測市場から永久追放された。\n\n今日の5本、全部「ルールを作った側が、そのルールの外を歩いている」話なんですよね。\n\nで、占いです。ルールを自分で書き換えられる人たちがこれだけいるなら、あなたが「なんか損してる気がする」のはあなたのせいじゃない。今日は、それだけ。",
-    "quipEn": "This week, the people in charge of the rules kept editing the rules. Which means if something's not working for you right now, the document may still be under revision.",
-    "quipJa": "ルールを書いた人が、こっそり書き直している。あなたが損してる気がするのは、たぶんそのせいです。",
+    "leadJa": "算数の話を5本読みました。引き算を「改革」って呼んでる人たちの話です。\n\n全部、ちゃんとした顔をして実行されています。",
+    "introEn": "I want to be clear: today's five stories are not complicated.\n\nThe IRS fired the people who collect money, and collected less money. The Pentagon's AI czar sold tens of millions in AI stock while running AI policy. GoPro said 'data center' in a press release and watched its stock jump 40%. Congress snuck a voter-ID bill inside a resolution about socialism. And the post office is installing a new computer system right before the election, while a whistleblower says please, please don't.\n\nThis is not chaos. This is the system doing exactly what it's set up to do — just not for you.\n\nWhich means your judgment is fine. If something about your week felt backwards, today's news is telling you: it probably was. Trust that instinct. You're reading the room correctly.",
+    "introJa": "35億ドル。\n\nそれが、「節約のために税金の取り立て係を解雇した」結果、消えた金額です。監視機関がレポートを出して「発見した」と言っています。いや、これ発見じゃなくて算数ですよね。\n\n今日はそういう5本です。GoPro（スカイダイビング動画のカメラ会社）が「AIデータセンターに転身」と言って株価が40%上がった話。国防総省でAI政策を仕切る人が、AI株を25億円分売っていた話。あと、郵便局が選挙直前に新しいコンピュータシステムを入れようとしていて、内部告発者が止めてくれと言っている話。\n\n5本全部、逆のことを自信満々でやっている人たちの話です。\n\n今日の占いです。「なんかうまくいかない」と感じているなら、あなたのせいじゃないかもしれない。算数を無視して走っている人たちが、今日もいます。あなたはちゃんと数えられている。それだけで、今日はわりと大丈夫だと思う。",
+    "quipEn": "Today's theme: doing the wrong thing, on purpose, with paperwork. The math didn't change. The outcomes were very predictable. And yet.",
+    "quipJa": "節約のために損して、利益相反を「開示したから問題なし」と言って、「AI」と言うだけで株が上がる。算数は壊れていない。使う人を選んでいるだけ。",
     "notesEn": [
-      "The Chief Justice of the Supreme Court wrote that the White House ballroom is 'likely unlawful.' He was in the minority. Construction continues. I don't know what a dissent is for anymore.",
-      "The Census Bureau's parent agency removed the clause banning political interference from its scientific integrity policy — right after releasing a report tied to a political think tank. The document is still called a scientific integrity policy. The name is doing a lot of heavy lifting.",
-      "The FTC alleges Amazon charged advertisers a secret fee, advertisers raised their prices, and consumers paid more. You paid for Prime. You paid for the product. You may have also paid for the ad that found you first.",
-      "EY is handing out $100 million in bonuses for employees who show 'judgment and business acumen.' At a consulting firm. This is either a great sign for humans or a devastating one, and I can't decide which.",
-      "George Santos bet on whether he would personally show up to the State of the Union. His inside information was his own schedule. He then refused to cooperate with the investigation. Expelled from Congress, indicted, now banned from a betting app. The consistency is actually impressive."
+      "The IRS fired thousands of auditors to cut costs. Audit revenue fell $3.5 billion. A federal watchdog wrote this up and called it a 'finding.' I'd call it subtraction.",
+      "Congress voted to condemn socialism. Fine. But buried inside the resolution was a push to pass a voter-ID bill that couldn't survive a standalone vote. They put the bill inside the ideology like it was a carry-on bag.",
+      "GoPro makes cameras for people jumping off cliffs. This week it announced a pivot to AI data center infrastructure. Stock up 40%. The announcement was the product.",
+      "The Pentagon's top AI policy official sold up to $25 million in AI stock while overseeing AI policy. He disclosed it, so technically everything is fine. Technically.",
+      "The USPS is rolling out a new computer system before November's election. A whistleblower says it could disrupt mail-in voting. USPS says it'll be fine. The ballot is in the mail. Probably."
     ],
     "xJa": [
-      "最高裁長官が「多分違法」と書いた反対意見ごと、ホワイトハウスの4億ドル舞踏場の工事続行が認められた。「多分ダメ」は止まる理由にならない国になってきた。",
-      "センサス局が「政治的干渉を禁じる」条文を科学的誠実性ポリシーからこっそり削除。タイミングは政治寄りの報告書を出した直後。看板だけ残して中身を入れ替えるのが上手すぎる。",
-      "AmazonがFTCに提訴された。広告主に秘密の追加料金を課して、コストを消費者に転嫁した疑惑。プライム料金払って、商品代も払って、広告費まで払ってたかもしれない。奥が深い。",
-      "コンサル大手EYが「人間らしいスキルを持つ従業員」に総額1億ドルのボーナス。AIを全クライアントに売り込んできた会社が、今度は「人間であること」に値段をつけた。弧が大きい。",
-      "元議員サントス、自分が一般教書演説に出席するかどうかに賭けて予測市場から永久追放。インサイダー情報が自分のスケジュール帳。議会追放→連邦起訴→アプリ追放。横に倒れながら落ちていく。"
+      "IRSが「節約のために」調査官を大量解雇したら、査察による税収が35億ドル減った。監視機関がレポートを出して「発見しました」と言っている。これ発見じゃなくて算数です。",
+      "「社会主義を非難する」決議文の中に、賛否が分かれる有権者ID法案を忍び込ませた米下院。理念のメインに選挙制度改変がサイドでついてくる政治のセットメニュー。",
+      "GoProが「AIデータセンターに参入」と発表して株価40%上昇。新製品は出ていない。プレスリリースに「AI」と書いただけ。それが今の市場。",
+      "国防総省のAI政策トップが、在職中にAI企業の株を最大2500万ドル売却。でも開示はしました。なのでセーフらしいです。利益相反って言葉、辞書に写真を載せていいレベル。",
+      "郵便局が選挙直前に新システム導入予定。内部告発者が「郵便投票に混乱が起きる」と警告。上院議員が止める法案を提出。それでもシステムは予定通り動こうとしている。どこかで投票用紙が不安そうにしている。"
     ],
     "raidEn": [
-      "Other presidents left libraries. This one's leaving a dance floor. The legacy architecture really has changed.",
-      "The 'no political interference' clause is gone, but the document is still called a scientific integrity policy. The branding team is working overtime.",
-      "You paid for Prime, you paid for the product, and apparently you may have paid for the ad that got you there. Amazon Prime: it's a whole ecosystem.",
-      "First they sold AI to every client. Now they're paying $100M for humans who can think. The full circle on this one is genuinely something.",
-      "Santos bet on his own attendance using his own schedule as inside information and then refused to cooperate with the investigation into that. The commitment to the bit is extraordinary."
+      "'We found that firing the revenue collectors reduced revenue' is the sentence that ended me this week.",
+      "The Kinder egg analogy is exactly right — crack open the anti-socialism resolution and there's a voter-ID bill inside. Surprise.",
+      "They didn't build a new product. They just rewrote the press release. Forty percent. I'm still thinking about this.",
+      "Filing a disclosure before trading doesn't mean there's no conflict — it just means the conflict is on the record now. Great system.",
+      "The IT upgrade scheduled for election season is exactly the kind of thing where someone should have circled a date on a calendar and said 'not then.'"
     ],
     "raidJa": [
-      "「多分違法」という反対意見ごと工事を認めた判決、読んでいて二度見しました。記事でこの構図を丁寧に整理してくださっていて、すっと入ってきました。",
-      "科学的誠実性ポリシーから政治介入禁止の条文だけ削除、という動きの静けさが一番怖いですよね。こういう「こっそり」の積み重ねを追ってくださっている記事、ありがたいです。",
-      "「安い」の裏側にこういう構造があるかもしれないと思うと、日常の買い物の感覚が変わりますよね。丁寧に整理してくださっていてとても読みやすかったです。",
-      "「人間らしく判断できること」がボーナス査定項目になる時代、という切り取り方がおもしろいなと思いました。EYのこの発表、いろんな読み方ができますよね。",
-      "「自分の予定帳がインサイダー情報」というくだりで声が出ました。サントス案件、追えば追うほど新しい展開があって目が離せないですね。"
+      "「税収を増やす人を解雇したら税収が減った」という文を、監視機関が真顔で報告書に書いているのが今週一番きつかったです。丁寧に読んでくださってありがとうございました。",
+      "「社会主義反対」の決議文に別の法案を忍び込ませる手法、政治のセットメニューとして的確な表現だと思いました。この記事読んで笑ってしまいました。",
+      "プレスリリースに「AI」と書くだけで40%上がる市場、GoProの話を読んで初めてちゃんと実感しました。商品より言葉の話ですよね。",
+      "開示すればセーフという建付け、この記事読んで「それで動いているんだ」と改めて驚きました。利益相反の話、丁寧に整理してくださってありがとうございます。",
+      "選挙直前のシステム更新、IT的には絶対やっちゃいけないタイミングですよね。この記事読んでその一点がずっと引っかかっています。"
     ],
     "riffEn": [
-      "Chief Justice Roberts wrote in his dissent that the White House ballroom construction is 'likely unlawful.' He was outvoted 5-4. Construction continues. I want to be clear about what happened here: the highest-ranking judge in the country said 'this is probably illegal' and the response was essentially 'noted, keep building.' A dissent is supposed to be a legal argument. This one reads more like a Yelp review the restaurant decided to frame and hang on the wall.",
-      "The Census Bureau released a report. The report had ties to a Trump-aligned think tank. Shortly after, the parent agency quietly removed the clause in its scientific integrity policy that said politicians shouldn't interfere with the data. The clause is gone. The policy is still called a scientific integrity policy. That name is doing extraordinary work right now. It's like removing the 'no lying' rule from an honesty pledge and keeping the pledge.",
-      "The FTC says Amazon created a secret surcharge, charged it to advertisers, advertisers passed it to sellers, sellers passed it to consumers, and consumers paid more for things they were already paying Prime membership to access. You found the product. You added it to your cart. You checked out. Somewhere in that journey, you may have also funded the ad that convinced you to do all of that. Amazon calls it 'denied.' Twenty-two states call it a lawsuit. I call it the most elaborate loyalty program I've ever seen.",
-      "EY, a firm that has spent years helping clients automate human jobs, just announced it will pay $100 million in bonuses to employees who demonstrate 'human skills' — specifically judgment and business acumen. So to be clear: judgment is now a premium feature. At a consulting firm. The same firms that charged clients $500 an hour for judgment are now offering bonuses for it internally because apparently it got scarce. I have questions about what was happening before.",
-      "George Santos bet on whether he would personally attend the State of the Union address. His competitive advantage in this trade was his own Google Calendar. When Kalshi investigated, he didn't cooperate. He was expelled from Congress in 2023. He faces federal charges. He is now also permanently banned from a prediction market app and fined $71,000. At some point this stops being a downfall and starts being a world record attempt."
+      "The IRS let go of thousands of auditors. Audit revenue dropped $3.5 billion. A federal watchdog looked into it and published a report calling this a 'finding.' I want to be precise about what they found: they found that when you stop collecting money, you collect less money. This is not investigative journalism. This is a subtraction problem that got a government letterhead. The auditors are gone. The math, unfortunately, stayed.",
+      "The House voted to condemn socialism. Simple enough. But Republicans added language to the resolution pushing for a voter-ID bill — one that had been struggling to pass on its own. So the anti-socialism statement came with a bonus item tucked inside, like terms and conditions nobody reads. They needed a moral declaration to carry the legislation across the finish line. Free-market principles, apparently, don't apply to how you move legislation.",
+      "GoPro — the company whose whole identity is strapping a camera to someone who is about to do something inadvisable — announced it's merging with a photonics firm and pivoting to AI data centers. The stock jumped 40%. No new product. No prototype. A press release with the words 'AI' and 'data center' in it. The extreme sport turned out to be investor relations.",
+      "Emil Michael oversees AI policy at the Pentagon — which companies the military works with, what gets funded, how the whole thing is shaped. He also sold up to $25 million in Perplexity stock while doing that job. Earlier this year: up to $24 million from xAI. He filed disclosures. Everything is technically above board. The word 'technically' is doing a lot of work in that sentence.",
+      "The USPS is launching a new computer system before November's midterm elections. A whistleblower says it could disrupt mail-in voting. Chuck Schumer introduced a bill to stop the rollout. The rollout is continuing anyway. Three separate people are running in three separate directions, and somewhere in the middle of all this is a ballot that just wants to arrive on time."
     ],
     "riffJa": [
-      "最高裁の長官ジョン・ロバーツが、反対意見にこう書きました。「この工事は違法の可能性が高い」と。で、5対4で工事の続行が認められた。つまり「多分ダメ」という意見は負けた。\n\n反対意見って、法律の世界では一応まともな議論のはずなんですよ。でも今回それは、店主に貼られて終わったクレームのメモみたいな扱いを受けた。ホワイトハウスの敷地に4億ドルの舞踏場が建つ。「小さな政府」の旗を掲げている政権が。",
-      "センサス局が報告書を出した。その報告書、トランプ支持系のシンクタンクと関係があった。その直後に、親省庁が「政治的干渉を禁じる」という条文を、科学的誠実性ポリシーからそっと消した。\n\nポリシーの名前はまだ「科学的誠実性ポリシー」のまま。看板は残った。中身だけ変わった。「嘘をつかない誓い」から「嘘をつかない」という一文を抜いた感じがする。誓いは続いている。",
-      "Amazonが提訴された話、構造が面白い。広告主に秘密の追加料金を課す→広告主が価格に転嫁する→消費者が払う。プライム会費を払って、商品代を払って、もしかしたらその商品の広告費まで払っていた可能性がある。\n\n「お得に買えた」と思っていたあの体験、なんかちょっと違う感じがしてきた。Amazonはすべて否定しています。22の州はそれを裁判所で争うと言っています。",
-      "EYというコンサル会社が「人間らしいスキルを持つ社員に1億ドルのボーナス」を出すと言った。その「人間らしいスキル」というのが、判断力とビジネス感覚らしい。\n\nちょっと待って。コンサルタントが判断力を持っていることが、加点対象になる時代に入ったということですよね。「判断できます」が希少価値。何十年もかけてAIを売り続けてきた業界の今がこれ。弧が大きすぎて、端っこが見えない。",
-      "元議員ジョージ・サントスという人がいます。2023年に議会を追放されました。連邦起訴もされています。その彼が、予測市場サービスで「自分が一般教書演説の会場に行くかどうか」に賭けていた。\n\nインサイダー情報が自分のスケジュール帳、というのはある意味すごい。調査には非協力だったので永久追放と7万1000ドルの罰金。議会を追放されて、起訴されて、アプリにも追放される。横に滑りながら落ちていくスタイルが、ここまで一貫していると逆に清々しい。"
+      "税金を取り立てる調査官を大量解雇したら、査察による税収が35億ドル減りました。政府の監視機関がこれを調査して、報告書にまとめて「発見した」と言っています。\n\n待って。これ発見じゃないですよ。引き算です。調査官がいなくなれば査察が減る。査察が減れば取りこぼす税金が増える。誰でも予測できる話を、政府機関が半年かけて確認してレポートにした。\n\n調査官は消えました。算数だけが残っています。",
+      "「社会主義を非難する決議」を下院で採決しました。まあ、それはいい。問題は決議文の中に、単独では通る見込みの薄い有権者ID法案の可決要求が盛り込まれていたことです。\n\nメインディッシュは理念。サイドに選挙制度改変。ドリンクは選べません。\n\n「社会主義はダメ」に全員が手を挙げたタイミングで、裏メニューが通る仕組みになっていた。自由市場の原理、どうやら議会の手続きには適用されないらしい。",
+      "GoProはスカイダイビングや波乗りの動画を撮るカメラの会社です。その会社が今週、フォトニクス企業と合併してAIデータセンター分野に参入すると発表しました。\n\n株価が40%上がりました。\n\n新製品は出ていません。プレスリリースに「AI」と「データセンター」と書いた。それだけで価値が40%増えた。もしかしてGoPro、ずっと発表する言葉を間違えていただけでは。",
+      "エミール・マイケル氏は米国防総省でAI政策を統括しています。どのAI企業を軍が使うか、どこに予算がつくか、そういうことを決める立場です。\n\nその人が、在職中にPerplexityの株を最大2500万ドル売却していました。今年初めにはxAI株でも最大2400万ドル。財務開示はしています。なので制度的には問題ないらしい。\n\n「開示したから問題ない」。その一文、何回読んでも慣れないな。",
+      "郵便局が、11月の選挙の前に新しいコンピュータシステムを導入しようとしています。内部告発者が「郵便投票に混乱が起きる」と警告しています。上院の野党トップが差し止め法案を出しています。それでもシステムは予定通り進んでいます。\n\n止めようとしてる人が二人いて、止まらない。そういう話です。どこかの投票用紙が、今からすでに不安そうにしています。"
     ],
-    "fullEn": "# The House Always Wins (Especially If It's the White House)\n\n## Today's Forecast\n\nThere's a theme running through today's five stories, and it's not subtle.\n\nSomebody rewrote the rules. Or ignored them. Or just... kept going anyway.\n\nThe Supreme Court let a $400 million ballroom keep going up — with a dissent from the Chief Justice himself saying it's probably illegal. A federal agency quietly deleted the clause that said politicians shouldn't touch its data. Amazon may have been charging you for the ad that sold you the thing you bought. And George Santos got banned from a betting app for gambling on his own Google Calendar.\n\nHere's your forecast: the system isn't broken. It's doing exactly what the people currently running it want it to do. Which means whatever isn't working in your life right now? Not your fault. You're playing by rules that keep getting edited while the game is live. Today, knowing that is enough.\n\n---\n\n## 1. Supreme Court Clears the Way for Trump's $400M White House Ballroom\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump)*\n\nThe US Supreme Court ruled 5-4 to allow construction of a $400 million ballroom on White House grounds to continue while legal challenges proceed. Chief Justice John Roberts dissented alongside three liberal justices, writing that the construction is 'likely unlawful.' The project has drawn criticism over its cost and the use of presidential property for private entertainment.\n\n**Why It's Funny**\n\nChief Justice Roberts wrote in his dissent that the White House ballroom construction is 'likely unlawful.' He was outvoted 5-4. Construction continues. I want to be clear about what happened here: the highest-ranking judge in the country said 'this is probably illegal' and the response was essentially 'noted, keep building.' A dissent is supposed to be a legal argument. This one reads more like a Yelp review the restaurant decided to frame and hang on the wall.\n\n**Say It Out Loud**\n\n> The Chief Justice wrote 'this is probably illegal' and then signed off on it. That's not a dissent, that's a Yelp review.\n\n---\n\n## 2. Census Bureau Quietly Drops Political Interference Ban — Right After a Politically Tinged Report\n\n*NPR News — [source](https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity)*\n\nAfter the Census Bureau released a report connected to a Trump-aligned think tank, its parent agency quietly removed language prohibiting political interference from its scientific integrity policy, NPR has learned. The sequence of events has raised concerns among researchers and data integrity advocates about the independence of federal statistical agencies. The Census Bureau's data underpins decisions on congressional apportionment, federal funding, and economic policy.\n\n**Why It's Funny**\n\nThe Census Bureau released a report. The report had ties to a Trump-aligned think tank. Shortly after, the parent agency quietly removed the clause in its scientific integrity policy that said politicians shouldn't interfere with the data. The clause is gone. The policy is still called a scientific integrity policy. That name is doing extraordinary work right now. It's like removing the 'no lying' rule from an honesty pledge and keeping the pledge.\n\n**Say It Out Loud**\n\n> They removed the 'no political interference' rule from the scientific integrity policy. The document is still called a scientific integrity policy. The name is doing a lot of heavy lifting right now.\n\n---\n\n## 3. FTC Sues Amazon Over Secret Ad Surcharge That Was Passed on to Consumers\n\n*The Verge — [source](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit)*\n\nThe FTC and 22 state attorneys general filed a lawsuit against Amazon, alleging the company used a hidden surcharge system to inflate advertising prices on its website and app. FTC Chairman Andrew Ferguson stated that the higher costs were 'largely passed on to American consumers.' Amazon has denied the allegations. The lawsuit is the latest in a series of major antitrust actions targeting the e-commerce giant.\n\n**Why It's Funny**\n\nThe FTC says Amazon created a secret surcharge, charged it to advertisers, advertisers passed it to sellers, sellers passed it to consumers, and consumers paid more for things they were already paying Prime membership to access. You found the product. You added it to your cart. You checked out. Somewhere in that journey, you may have also funded the ad that convinced you to do all of that. Amazon calls it 'denied.' Twenty-two states call it a lawsuit. I call it the most elaborate loyalty program I've ever seen.\n\n**Say It Out Loud**\n\n> Amazon allegedly charged advertisers a secret fee, advertisers raised their prices, and consumers paid more. A full circle that moves money from your cart directly to nowhere you can see.\n\n---\n\n## 4. EY to Hand Out $100M in Bonuses for Workers Who Act Like... Humans\n\n*CBS News US — [source](https://www.cbsnews.com/news/ernst-young-human-focused-skills/)*\n\nManagement consulting firm EY announced it will distribute $100 million in bonuses to employees who demonstrate what it calls 'human skills,' including business acumen and sound judgment. The move comes amid widespread adoption of AI tools in professional services, with firms increasingly looking to distinguish work that requires human capabilities. EY employs over 390,000 people globally.\n\n**Why It's Funny**\n\nEY, a firm that has spent years helping clients automate human jobs, just announced it will pay $100 million in bonuses to employees who demonstrate 'human skills' — specifically judgment and business acumen. So to be clear: judgment is now a premium feature. At a consulting firm. The same firms that charged clients $500 an hour for judgment are now offering bonuses for it internally because apparently it got scarce. I have questions about what was happening before.\n\n**Say It Out Loud**\n\n> EY is paying $100 million for employees who show 'judgment.' At a consulting firm. That's not a bonus program, that's an admissions process for the bar they set when they hired people.\n\n---\n\n## 5. Prediction Market Kalshi Bans George Santos for Life — Over Bets on His Own Attendance\n\n*NPR News — [source](https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets)*\n\nPrediction market platform Kalshi announced it has permanently banned former Congressman George Santos and fined him over $71,000 for placing bets tied to his own attendance at the State of the Union address. Santos allegedly did not cooperate with Kalshi's internal investigation into the trades. Santos was expelled from Congress in 2023 following revelations of extensive biographical fabrications and faces ongoing federal charges.\n\n**Why It's Funny**\n\nGeorge Santos bet on whether he would personally attend the State of the Union address. His competitive advantage in this trade was his own Google Calendar. When Kalshi investigated, he didn't cooperate. He was expelled from Congress in 2023. He faces federal charges. He is now also permanently banned from a prediction market app and fined $71,000. At some point this stops being a downfall and starts being a world record attempt.\n\n**Say It Out Loud**\n\n> Santos bet on his own attendance at the State of the Union. His inside information was his own Google Calendar. This is the simplest possible conflict of interest and he still managed to not cooperate with the investigation.\n\n---\n\n## Today's Punchline\n\n> This week, the people in charge of the rules kept editing the rules. Which means if something's not working for you right now, the document may still be under revision.\n",
-    "fullJa": "# 「違法かもしれないけど建てていいよ」という判決が出た国の話\n\n## 今日を占うよ〜\n\n「違法かもしれない」と言いながら進む工事があります。\n\n今日の話です。アメリカの話です。でも笑えない感じもあります。\n\n最高裁判所が、「多分違法」と書いた長官の反対意見ごと、ホワイトハウスの舞踏場工事の続行を認めた。センサス局は「政治介入を禁じる」条文を、政治が削除した。Amazonは広告主に秘密の追加料金を課して、そのコストを消費者に払わせていた疑惑がある。コンサル大手EYは「人間らしく判断できる人」に1億ドルのボーナスを出すと言った。元議員サントスは、自分の予定帳を元手にインサイダー賭けをして、予測市場から永久追放された。\n\n今日の5本、全部「ルールを作った側が、そのルールの外を歩いている」話なんですよね。\n\nで、占いです。ルールを自分で書き換えられる人たちがこれだけいるなら、あなたが「なんか損してる気がする」のはあなたのせいじゃない。今日は、それだけ。\n\n---\n\n## 1. Supreme Court Clears the Way for Trump's $400M White House Ballroom\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/aug/31/supreme-court-white-house-ballroom-trump)）*\n\n連邦最高裁判所は5対4の判決で、ホワイトハウス敷地内に建設中のトランプ大統領の4億ドル規模の舞踏場工事を継続することを認めた。\n\n**どこが笑える？**\n\n最高裁の長官ジョン・ロバーツが、反対意見にこう書きました。「この工事は違法の可能性が高い」と。で、5対4で工事の続行が認められた。つまり「多分ダメ」という意見は負けた。\n\n反対意見って、法律の世界では一応まともな議論のはずなんですよ。でも今回それは、店主に貼られて終わったクレームのメモみたいな扱いを受けた。ホワイトハウスの敷地に4億ドルの舞踏場が建つ。「小さな政府」の旗を掲げている政権が。\n\n**このニュースをジョークにするなら...**\n\n> 最高裁長官自ら「多分違法」と書いておいて署名した。これは反対意見じゃなくて、Googleレビューですよね。\n\n---\n\n## 2. Census Bureau Quietly Drops Political Interference Ban — Right After a Politically Tinged Report\n\n*NPR News（[記事](https://www.npr.org/2026/08/31/nx-s1-5948057/department-commerce-census-bureau-scientific-integrity)）*\n\nセンサス局がトランプ支持系シンクタンクと連携した報告書を発表した直後、親省庁が科学的誠実性ポリシーから「政治的干渉を禁じる」条文を削除していたことが、NPRの取材で明らかになった。\n\n**どこが笑える？**\n\nセンサス局が報告書を出した。その報告書、トランプ支持系のシンクタンクと関係があった。その直後に、親省庁が「政治的干渉を禁じる」という条文を、科学的誠実性ポリシーからそっと消した。\n\nポリシーの名前はまだ「科学的誠実性ポリシー」のまま。看板は残った。中身だけ変わった。「嘘をつかない誓い」から「嘘をつかない」という一文を抜いた感じがする。誓いは続いている。\n\n**このニュースをジョークにするなら...**\n\n> 科学的誠実性ポリシーから「政治干渉禁止」を削除した。それでも書類の名前は「科学的誠実性ポリシー」のまま。タイトルが今、全部の仕事してる。\n\n---\n\n## 3. FTC Sues Amazon Over Secret Ad Surcharge That Was Passed on to Consumers\n\n*The Verge（[記事](https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit)）*\n\n米連邦取引委員会（FTC）と22州の司法長官は、Amazonが広告主に対して秘密の追加料金を課し、そのコストを最終的に消費者に転嫁していたとして、同社を提訴した。\n\n**どこが笑える？**\n\nAmazonが提訴された話、構造が面白い。広告主に秘密の追加料金を課す→広告主が価格に転嫁する→消費者が払う。プライム会費を払って、商品代を払って、もしかしたらその商品の広告費まで払っていた可能性がある。\n\n「お得に買えた」と思っていたあの体験、なんかちょっと違う感じがしてきた。Amazonはすべて否定しています。22の州はそれを裁判所で争うと言っています。\n\n**このニュースをジョークにするなら...**\n\n> Amazonが広告主に秘密料金を課して、広告主が価格に上乗せして、消費者が払った。ぐるっと一周して、お金が見えないところに消える仕組み。\n\n---\n\n## 4. EY to Hand Out $100M in Bonuses for Workers Who Act Like... Humans\n\n*CBS News US（[記事](https://www.cbsnews.com/news/ernst-young-human-focused-skills/)）*\n\n大手コンサルティング会社EYは、ビジネス感覚や判断力といった「人間的スキル」を持つ従業員に対し、総額1億ドルのボーナスを支給すると発表した。\n\n**どこが笑える？**\n\nEYというコンサル会社が「人間らしいスキルを持つ社員に1億ドルのボーナス」を出すと言った。その「人間らしいスキル」というのが、判断力とビジネス感覚らしい。\n\nちょっと待って。コンサルタントが判断力を持っていることが、加点対象になる時代に入ったということですよね。「判断できます」が希少価値。何十年もかけてAIを売り続けてきた業界の今がこれ。弧が大きすぎて、端っこが見えない。\n\n**このニュースをジョークにするなら...**\n\n> EYが「判断力のある社員」に1億ドル払う。コンサル会社で。これはボーナスじゃなくて、採用基準に対する事後謝罪では？\n\n---\n\n## 5. Prediction Market Kalshi Bans George Santos for Life — Over Bets on His Own Attendance\n\n*NPR News（[記事](https://www.npr.org/2026/08/31/nx-s1-5950432/george-santos-kalshi-ban-prediction-markets)）*\n\n予測市場Kalshiは、元下院議員ジョージ・サントスに対し、自身の一般教書演説への出席を賭けた取引をめぐる調査への非協力を理由として、永久利用禁止と7万1,000ドル超の罰金を科したと発表した。\n\n**どこが笑える？**\n\n元議員ジョージ・サントスという人がいます。2023年に議会を追放されました。連邦起訴もされています。その彼が、予測市場サービスで「自分が一般教書演説の会場に行くかどうか」に賭けていた。\n\nインサイダー情報が自分のスケジュール帳、というのはある意味すごい。調査には非協力だったので永久追放と7万1000ドルの罰金。議会を追放されて、起訴されて、アプリにも追放される。横に滑りながら落ちていくスタイルが、ここまで一貫していると逆に清々しい。\n\n**このニュースをジョークにするなら...**\n\n> 一般教書演説への自分の出席に賭けた。インサイダー情報は自分のGoogleカレンダー。これ以上シンプルな利益相反はないのに、それでも調査に非協力だった。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> ルールを書いた人が、こっそり書き直している。あなたが損してる気がするのは、たぶんそのせいです。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "captionsJa d1-3本目の混入文字（댄스→ダンス）を修正。d2のnotesEn/xJa 2本目は単体成立の検品で問題なし。imagePrompts全5候補に実在人物の顔・容姿依存なし・合格。introJa・riffJaは話し言葉で合格。xJa 5本は135字以内・合格。直す箇所はcaptionsJa d1の3本目の文字化けのみ。 ／ 文体パス: 3箇所修正。leadJaの「今日はそういう日のアメリカです」はプレゼン口調の締め、introJaの「そこだけ覚えて帰れば十分だと思う」は読者への指示形、riffJa[2]の「もう一度レシートを読み直す必要がある」も同様の指示形だったので崩した。"
+    "asideEn": [
+      "Subtraction: confirmed.",
+      "Read the fine print, folks.",
+      "The press release was the product.",
+      "He disclosed it, so.",
+      "The ballot is nervous."
+    ],
+    "asideJa": [
+      "引き算です。",
+      "裏メニューがありました。",
+      "言葉だけで40%。",
+      "開示はしました。",
+      "投票用紙、不安そう。"
+    ],
+    "fullEn": "# We Fired the Tax Collectors to Save Money. Guess What Happened.\n\n## Today's Forecast\n\nI want to be clear: today's five stories are not complicated.\n\nThe IRS fired the people who collect money, and collected less money. The Pentagon's AI czar sold tens of millions in AI stock while running AI policy. GoPro said 'data center' in a press release and watched its stock jump 40%. Congress snuck a voter-ID bill inside a resolution about socialism. And the post office is installing a new computer system right before the election, while a whistleblower says please, please don't.\n\nThis is not chaos. This is the system doing exactly what it's set up to do — just not for you.\n\nWhich means your judgment is fine. If something about your week felt backwards, today's news is telling you: it probably was. Trust that instinct. You're reading the room correctly.\n\n---\n\n## 1. IRS Audit Revenue Drops $3.5 Billion After Agency Fires the People Who Collect Money\n\n*CBS News US — [source](https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/)*\n\nA federal watchdog found that IRS audit revenue fell by $3.5 billion in fiscal year 2025 following significant workforce reductions at the agency. The IRS shed thousands of auditors and support staff as part of broader government downsizing efforts. The drop means billions in potentially owed taxes went uncollected during the period.\n\n**Why It's Funny**\n\nThe IRS let go of thousands of auditors. Audit revenue dropped $3.5 billion. A federal watchdog looked into it and published a report calling this a 'finding.' I want to be precise about what they found: they found that when you stop collecting money, you collect less money. This is not investigative journalism. This is a subtraction problem that got a government letterhead. The auditors are gone. The math, unfortunately, stayed.\n\n**Say It Out Loud**\n\n> We fired the people who collect money to save money. The auditors are gone. The math, unfortunately, stayed.\n\n---\n\n## 2. House Votes to Condemn Socialism — Also, Please Show Your ID to Vote\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)*\n\nThe U.S. House of Representatives voted on a resolution condemning socialism ahead of November's midterm elections. Republicans added language to the resolution calling for passage of the SAVE America Act, a controversial voter-ID bill that has faced significant opposition. The move bundled a broad ideological statement with a specific and contested piece of legislation.\n\n**Why It's Funny**\n\nThe House voted to condemn socialism. Simple enough. But Republicans added language to the resolution pushing for a voter-ID bill — one that had been struggling to pass on its own. So the anti-socialism statement came with a bonus item tucked inside, like terms and conditions nobody reads. They needed a moral declaration to carry the legislation across the finish line. Free-market principles, apparently, don't apply to how you move legislation.\n\n**Say It Out Loud**\n\n> Congress voted to condemn socialism. Bundled inside: a voter-ID bill that couldn't pass on its own. Free-market principles, apparently, don't apply to legislation.\n\n---\n\n## 3. GoPro Is Pivoting to AI Data Centers. Its Stock Jumped 40%.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html)*\n\nGoPro, the maker of action cameras popular with extreme sports enthusiasts, announced a merger with private photonics company Starman Optical and a pivot into AI data center infrastructure. The company's shares surged approximately 40% on the news. The move represents a dramatic departure from GoPro's core consumer electronics business.\n\n**Why It's Funny**\n\nGoPro — the company whose whole identity is strapping a camera to someone who is about to do something inadvisable — announced it's merging with a photonics firm and pivoting to AI data centers. The stock jumped 40%. No new product. No prototype. A press release with the words 'AI' and 'data center' in it. The extreme sport turned out to be investor relations.\n\n**Say It Out Loud**\n\n> GoPro pivoted to AI data centers. Stock up 40%. The extreme sport now is telling investors what they want to hear.\n\n---\n\n## 4. Pentagon's Top AI Policy Official Sold $25M in AI Stock While Overseeing AI Policy\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings)*\n\nFinancial disclosures reviewed by The Guardian show that Emil Michael, the top Pentagon official responsible for overseeing military artificial intelligence policy, sold stock in AI company Perplexity worth up to $25 million. Michael had also previously reaped up to $24 million from selling xAI stock earlier this year. The official is responsible for shaping the military's AI acquisition and policy decisions.\n\n**Why It's Funny**\n\nEmil Michael oversees AI policy at the Pentagon — which companies the military works with, what gets funded, how the whole thing is shaped. He also sold up to $25 million in Perplexity stock while doing that job. Earlier this year: up to $24 million from xAI. He filed disclosures. Everything is technically above board. The word 'technically' is doing a lot of work in that sentence.\n\n**Say It Out Loud**\n\n> The Pentagon's top AI policy guy sold $25 million in AI stock. But he filed the disclosure. So we're good. We're totally good.\n\n---\n\n## 5. USPS Is Launching a New Computer System That Could Derail Mail-In Voting. It's Due Before the Election.\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates)*\n\nA Democratic senator disclosed a whistleblower statement warning that the U.S. Postal Service is set to launch a new computer system that could disrupt mail-in voting before November's midterm elections. Senate Minority Leader Chuck Schumer introduced a bill that would block the rollout. The USPS system overhaul is moving forward despite the warnings, according to the disclosure.\n\n**Why It's Funny**\n\nThe USPS is launching a new computer system before November's midterm elections. A whistleblower says it could disrupt mail-in voting. Chuck Schumer introduced a bill to stop the rollout. The rollout is continuing anyway. Three separate people are running in three separate directions, and somewhere in the middle of all this is a ballot that just wants to arrive on time.\n\n**Say It Out Loud**\n\n> The post office is installing a new computer system before the election. The whistleblower says it could cause chaos. USPS says it'll be fine. Somewhere, a ballot is already nervous.\n\n---\n\n## Today's Punchline\n\n> Today's theme: doing the wrong thing, on purpose, with paperwork. The math didn't change. The outcomes were very predictable. And yet.\n",
+    "fullJa": "# IRSが税金の取り立て係を解雇して35億ドル損した話と、その他4本\n\n## 今日を占うよ〜\n\n35億ドル。\n\nそれが、「節約のために税金の取り立て係を解雇した」結果、消えた金額です。監視機関がレポートを出して「発見した」と言っています。いや、これ発見じゃなくて算数ですよね。\n\n今日はそういう5本です。GoPro（スカイダイビング動画のカメラ会社）が「AIデータセンターに転身」と言って株価が40%上がった話。国防総省でAI政策を仕切る人が、AI株を25億円分売っていた話。あと、郵便局が選挙直前に新しいコンピュータシステムを入れようとしていて、内部告発者が止めてくれと言っている話。\n\n5本全部、逆のことを自信満々でやっている人たちの話です。\n\n今日の占いです。「なんかうまくいかない」と感じているなら、あなたのせいじゃないかもしれない。算数を無視して走っている人たちが、今日もいます。あなたはちゃんと数えられている。それだけで、今日はわりと大丈夫だと思う。\n\n---\n\n## 1. IRS Audit Revenue Drops $3.5 Billion After Agency Fires the People Who Collect Money\n\n*CBS News US（[記事](https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/)）*\n\nIRSが大規模な人員削減を行った結果、2025会計年度の査察による税収が35億ドル減少したことが、政府の監視機関の調査で明らかになった。\n\n**どこが笑える？**\n\n税金を取り立てる調査官を大量解雇したら、査察による税収が35億ドル減りました。政府の監視機関がこれを調査して、報告書にまとめて「発見した」と言っています。\n\n待って。これ発見じゃないですよ。引き算です。調査官がいなくなれば査察が減る。査察が減れば取りこぼす税金が増える。誰でも予測できる話を、政府機関が半年かけて確認してレポートにした。\n\n調査官は消えました。算数だけが残っています。\n\n**このニュースをジョークにするなら...**\n\n> お金を集める人を削減してお金を節約しようとした。査察官は去った。算数は残った。\n\n---\n\n## 2. House Votes to Condemn Socialism — Also, Please Show Your ID to Vote\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)）*\n\n米下院は11月の中間選挙を前に社会主義を非難する決議案を採決にかけたが、共和党はその決議文の中に賛否が大きく割れる有権者ID法案（SAVE America Act）の可決要求も盛り込んだ。\n\n**どこが笑える？**\n\n「社会主義を非難する決議」を下院で採決しました。まあ、それはいい。問題は決議文の中に、単独では通る見込みの薄い有権者ID法案の可決要求が盛り込まれていたことです。\n\nメインディッシュは理念。サイドに選挙制度改変。ドリンクは選べません。\n\n「社会主義はダメ」に全員が手を挙げたタイミングで、裏メニューが通る仕組みになっていた。自由市場の原理、どうやら議会の手続きには適用されないらしい。\n\n**このニュースをジョークにするなら...**\n\n> 議会は社会主義を非難する決議を採決した。その中に、単独では通らなかった投票制限法案が入っていた。自由市場の原理は、どうやら法案には適用されないらしい。\n\n---\n\n## 3. GoPro Is Pivoting to AI Data Centers. Its Stock Jumped 40%.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html)）*\n\nアクションカメラメーカーのGoPro社が、フォトニクス企業Starman Opticalとの合併を発表し、AIデータセンター分野に参入すると表明。株価は40%急騰した。\n\n**どこが笑える？**\n\nGoProはスカイダイビングや波乗りの動画を撮るカメラの会社です。その会社が今週、フォトニクス企業と合併してAIデータセンター分野に参入すると発表しました。\n\n株価が40%上がりました。\n\n新製品は出ていません。プレスリリースに「AI」と「データセンター」と書いた。それだけで価値が40%増えた。もしかしてGoPro、ずっと発表する言葉を間違えていただけでは。\n\n**このニュースをジョークにするなら...**\n\n> GoPro、AIデータセンターに転身。株価40%上昇。今一番過激なスポーツは「投資家が聞きたいことを言う」こと。\n\n---\n\n## 4. Pentagon's Top AI Policy Official Sold $25M in AI Stock While Overseeing AI Policy\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings)）*\n\n米国防総省でAI政策を統括するエミール・マイケル氏が、同職に就いている間にAI企業Perplexityの株式を最大2500万ドル相当売却していたことが、財務開示書類の調査で明らかになった。\n\n**どこが笑える？**\n\nエミール・マイケル氏は米国防総省でAI政策を統括しています。どのAI企業を軍が使うか、どこに予算がつくか、そういうことを決める立場です。\n\nその人が、在職中にPerplexityの株を最大2500万ドル売却していました。今年初めにはxAI株でも最大2400万ドル。財務開示はしています。なので制度的には問題ないらしい。\n\n「開示したから問題ない」。その一文、何回読んでも慣れないな。\n\n**このニュースをジョークにするなら...**\n\n> 国防総省のAI政策責任者がAI株を2500万ドル売却。でも開示書類は提出した。だから大丈夫。全然大丈夫。\n\n---\n\n## 5. USPS Is Launching a New Computer System That Could Derail Mail-In Voting. It's Due Before the Election.\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates)）*\n\n民主党上院議員が内部告発者の声明を公開し、USPSが選挙前に導入予定の新コンピュータシステムが郵便投票に混乱をもたらす恐れがあると警告していることが明らかになった。チャック・シューマー上院議員はシステム導入を差し止める法案を提出した。\n\n**どこが笑える？**\n\n郵便局が、11月の選挙の前に新しいコンピュータシステムを導入しようとしています。内部告発者が「郵便投票に混乱が起きる」と警告しています。上院の野党トップが差し止め法案を出しています。それでもシステムは予定通り進んでいます。\n\n止めようとしてる人が二人いて、止まらない。そういう話です。どこかの投票用紙が、今からすでに不安そうにしています。\n\n**このニュースをジョークにするなら...**\n\n> 郵便局が選挙前に新しいコンピュータシステムを入れようとしている。内部告発者は「混乱が起きる」と言う。USPSは「大丈夫」と言う。どこかで投票用紙がもう不安になってる。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 節約のために損して、利益相反を「開示したから問題なし」と言って、「AI」と言うだけで株が上がる。算数は壊れていない。使う人を選んでいるだけ。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d4のimagePrompts[0]が実在人物（エミール・マイケル氏）を特定可能な形で描写しており権利・類似リスクがある。その他のcaptions・imagePromptsは合格水準。editorial全体はペルソナ・文体・SNS単体成立とも問題なし。d4のimagePrompts一本のみ修正。 ／ 文体パス: 3箇所修正。leadJaの「足し算ではなく、引き算を『改革』と呼んでいる人たちの話です」が説明口調でプレゼンっぽかったので崩した。riffJa[3]の「財務開示はしています。なので制度的には問題ないらしい」は合格だが末尾の「すごく長い距離を走っています」が気の利いた締め感があったので本音がこぼれる形に。riffJa[4]の「三者が三方向に走っていて、誰も郵便物の行方を知らない状態になってきた」が整いすぎた総括だったので崩した。"
   },
   "carousel": [
-    "images/2026-09-01/carousel/slide-1.jpg",
-    "images/2026-09-01/carousel/slide-2.jpg",
-    "images/2026-09-01/carousel/slide-3.jpg",
-    "images/2026-09-01/carousel/slide-4.jpg",
-    "images/2026-09-01/carousel/slide-5.jpg",
-    "images/2026-09-01/carousel/slide-6.jpg",
-    "images/2026-09-01/carousel/slide-7.jpg"
+    "images/2026-09-02/carousel/slide-1.jpg",
+    "images/2026-09-02/carousel/slide-2.jpg",
+    "images/2026-09-02/carousel/slide-3.jpg",
+    "images/2026-09-02/carousel/slide-4.jpg",
+    "images/2026-09-02/carousel/slide-5.jpg",
+    "images/2026-09-02/carousel/slide-6.jpg",
+    "images/2026-09-02/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-01/note-header.jpg",
-    "substack": "images/2026-09-01/substack-cover.jpg"
+    "note": "images/2026-09-02/note-header.jpg",
+    "substack": "images/2026-09-02/substack-cover.jpg"
   },
-  "video": "videos/2026-09-01/daily-short.mp4",
-  "videoDuration": 122.3,
-  "videoJa": "videos/2026-09-01/daily-short-ja.mp4",
-  "videoJaDuration": 148.2
+  "video": "videos/2026-09-02/daily-short.mp4",
+  "videoDuration": 211.2,
+  "videoJa": "videos/2026-09-02/daily-short-ja.mp4",
+  "videoJaDuration": 182.4
 }

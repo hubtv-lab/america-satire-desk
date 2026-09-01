@@ -1,4 +1,4 @@
-window.DAILY_DATA = {
+{
   "version": 1,
   "date": "2026-09-02",
   "generatedAt": "2026-09-01T21:55:20+00:00",
@@ -347,4 +347,4 @@ window.DAILY_DATA = {
     "note": "images/2026-09-02/note-header.jpg",
     "substack": "images/2026-09-02/substack-cover.jpg"
   }
-};
+}
