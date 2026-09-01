@@ -1,53 +1,53 @@
 {
   "version": 1,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-01T21:55:20+00:00",
+  "generatedAt": "2026-09-01T22:17:34+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "IRS Audit Revenue Drops $3.5 Billion After Agency Fires the People Who Collect Money",
-        "source": "CBS News US",
+        "headline": "Apple Maps Renames Lake Ontario to 'Lake America' Following Executive Order",
+        "source": "The Verge",
         "date": "2026-09-02",
-        "url": "https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/",
-        "summary": "IRSが大規模な人員削減を行った結果、2025会計年度の査察による税収が35億ドル減少したことが、政府の監視機関の調査で明らかになった。"
+        "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
+        "summary": "トランプ大統領の大統領令を受け、AppleがGoogleに続いてアップルマップ上のオンタリオ湖の名称を「レイク・アメリカ」に変更した。カナダ版では従来の名称が維持されている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 税金を取り立てる職員を削減すると税収が減る——これ、誰でも予測できた話なんですよ。監視機関が「調査して発見しました」って言ってるけど、これ発見じゃなくて算数ですよね。",
-        "<b>滑稽さ:</b> 「政府の無駄を省く」という名目で、年間35億ドルを回収していた部署を削ったわけですよ。節約するために損してる。財布の穴を広げて「スリム化した」って言ってる感じ。",
-        "<b>日本・海外から見ると:</b> 日本だと国税庁の調査官を大量解雇して「財政健全化」と呼ぶ政権は想像しにくい。アメリカでは実際に起きて、監視機関が驚いた顔でレポートを出してるんですよ。"
+        "<b>矛盾:</b> 湖は1万年前から同じ場所にあるんですけど、貿易交渉の道具として名前を変えると外交が有利になる、という発想がまずすごい。",
+        "<b>滑稽さ:</b> 地図アプリが変えたところで水は一滴も動かないわけで、カナダ側から見たら自分の湖岸に「レイク・アメリカ」って書いてある地図を外国人観光客が持ってくるだけなんですよ。",
+        "<b>日本・海外から見ると:</b> 日本海の呼称問題もこんな感じで揉めてるから他人事じゃないんですが、あちらはもう何十年もかかってる。アメリカは大統領令一本で済ませた。"
       ],
       "imagePrompts": [
-        "A government office with rows of empty desks and \"AUDITOR\" nameplates left behind. A single remaining worker stares at a towering stack of unfiled tax returns. A whiteboard reads 'Savings: $0. Lost Revenue: $3,500,000,000.'",
-        "A large piggy bank with a label reading 'TAX REVENUE' sitting on a table. Next to it, a pair of scissors and a pile of pink slips from 'IRS Workforce Reduction.' The bank has a wide-open hole in the bottom.",
-        "A courtroom-style weigh scale: one side holds a stack of documents labeled 'AUDITOR SALARIES SAVED,' the other side is crushed under a boulder labeled '$3.5 BILLION UNCOLLECTED.' The scale is almost vertical."
+        "A park ranger standing at the shore of a large lake, holding a sign that reads 'Lake America.' Behind him, Canadian geese are swimming past, completely unbothered. A faded sign reading 'Lake Ontario' is partially visible on the ground.",
+        "A split-screen view of the same lake on two smartphones side by side — one shows 'Lake America,' the other shows 'Lake Ontario.' Both phones are taking a selfie of the lake in the background.",
+        "A cartographic office with a globe and stacks of maps. A worker is carefully painting over 'Lake Ontario' with white-out and stenciling in 'Lake America.' A calendar on the wall shows the date. A fish tank in the corner has a tiny label on it: 'Atlantic Ocean.'"
       ],
       "captions": [
-        "We fired the people who collect money to save money. The auditors are gone. The math, unfortunately, stayed.",
-        "The IRS lost $3.5 billion in audit revenue. Don't worry — a watchdog noticed. Six months later. In a report.",
-        "Firing your revenue collectors to cut costs: bold strategy. How'd that work out? Thirty-five hundred million dollars of 'not great.'",
-        "Somewhere, the auditors who got laid off are doing their taxes. And laughing.",
-        "You know your government efficiency plan has a flaw when the watchdog report title is basically 'We Checked, and Fewer Auditors Means Less Auditing.'"
+        "The lake didn't move. The fish didn't move. One executive order, and suddenly the map moved.",
+        "Canada's version still says Lake Ontario. So depending on your App Store region, you're literally living in a different geography.",
+        "Rename the lake, win the trade war. Nobody tell them about the Great Salt Lake.",
+        "Apple spent a decade refusing to unlock a phone for the FBI — but Lake Ontario? Gone in a software update.",
+        "Ten thousand years of geology, overruled. Takes about thirty seconds to push an update."
       ],
       "captionsJa": [
-        "お金を集める人を削減してお金を節約しようとした。査察官は去った。算数は残った。",
-        "IRSは査察で35億ドル失った。大丈夫、監視機関が気づいた。半年後に。報告書で。",
-        "税収担当者を解雇してコスト削減。結果は？35億ドル分の「うまくいかなかった」。",
-        "解雇された査察官たち、今ごろ自分の確定申告をしながら笑ってると思う。",
-        "政府の効率化計画に欠陥があるとわかるサイン——監視機関レポートのタイトルが「査察官を減らしたら査察が減りました」のとき。"
+        "湖は動いてない。魚も動いてない。大統領令一本で、地図だけ動いた。",
+        "カナダ版は今もオンタリオ湖です。App Storeの地域設定で、あなたの地理が変わる時代。",
+        "湖の名前を変えれば貿易戦争に勝てる。グレートソルト湖には内緒で。",
+        "FBIにはiPhoneのロック解除を断ったAppleが、オンタリオ湖はソフトウェアアップデートで秒殺した。",
+        "1万年の地質学、アップデート所要時間30秒で上書き完了。"
       ],
-      "newsEn": "A federal watchdog found that IRS audit revenue fell by $3.5 billion in fiscal year 2025 following significant workforce reductions at the agency. The IRS shed thousands of auditors and support staff as part of broader government downsizing efforts. The drop means billions in potentially owed taxes went uncollected during the period.",
+      "newsEn": "Apple Maps has officially renamed Lake Ontario to 'Lake America,' following an executive order signed by President Trump during a trade dispute with Canada. Google Maps made the same change earlier. The Canadian version of Apple Maps retains the original name, Lake Ontario.",
       "ironyEn": [
         {
-          "contradiction": "The government cut the department responsible for collecting $3.5 billion in taxes and called it fiscal responsibility. That's not trimming the fat — that's cutting off the arm that holds the wallet.",
-          "absurdity": "A watchdog had to write an official report to explain that firing auditors leads to fewer audits. Next quarter: watchdog discovers water is wet.",
-          "outside": "Most countries treat tax enforcement as revenue-generating infrastructure. The U.S. apparently filed it under 'unnecessary overhead.'"
+          "contradiction": "The Great Lake has existed for roughly 10,000 years. It took one trade spat and a presidential signature to rename it — no geological event required.",
+          "absurdity": "The water doesn't know. The fish don't know. Only the people using a phone app know, and only if they're not in Canada.",
+          "outside": "Countries have fought for decades over sea naming disputes. The U.S. apparently found a shortcut: just update the app."
         },
         {
-          "contradiction": "Agencies tasked with reducing government waste eliminated one of the few government functions that literally returns more money than it costs.",
-          "absurdity": "The IRS lost 35 hundred million dollars in collections — not to fraud, not to a crash, but to a spreadsheet that said 'less staff = savings.'",
-          "outside": "From abroad, this looks like a shop that fired all its cashiers to cut labor costs, then announced record losses at checkout."
+          "contradiction": "Apple spent years branding itself as a company that doesn't bow to political pressure. Lake Ontario has entered the chat.",
+          "absurdity": "The Canadian version still says Lake Ontario, which means the same lake has two names depending on which side of an invisible line you're standing on.",
+          "outside": "For anyone tracking American soft power: it now extends to freshwater geography, retroactively, via software update."
         }
       ],
       "imageSeed": 1,
@@ -58,47 +58,47 @@
     {
       "id": "d2",
       "news": {
-        "headline": "House Votes to Condemn Socialism — Also, Please Show Your ID to Vote",
-        "source": "CNBC Top News",
+        "headline": "IRS Audit Revenue Dropped $3.5 Billion After Mass Layoffs, Watchdog Finds",
+        "source": "CBS News US",
         "date": "2026-09-02",
-        "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
-        "summary": "米下院は11月の中間選挙を前に社会主義を非難する決議案を採決にかけたが、共和党はその決議文の中に賛否が大きく割れる有権者ID法案（SAVE America Act）の可決要求も盛り込んだ。"
+        "url": "https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/",
+        "summary": "政府の監視機関の調査により、IRSが大規模な人員削減を行った結果、2025会計年度の税務調査による徴収額が35億ドル減少したことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「社会主義反対」の決議文の中に、別の法案を通せという要求を忍び込ませるのは、デモクラシーの純粋なやつですよ。反社会主義を叫びながら、議会の手続きでちゃっかり抱き合わせ商法をやってるわけで。",
-        "<b>滑稽さ:</b> 「社会主義を非難する」という声明のためだけに投票するのかと思ったら、裏メニューがついてた。政治のセットメニュー——メインは理念、サイドに選挙制度改変、ドリンクは選択不可。",
-        "<b>日本・海外から見ると:</b> 選挙前に「社会主義はダメ」と全員で声を揃えて宣言する文化は、アメリカ特有のものがある。日本だと国会で「資本主義最高！賛成の方は挙手」という採決は想像しにくい。"
+        "<b>矛盾:</b> 政府の支出を削減するために税務調査官を減らしたら、税収が35億ドル減った。節約しようとして損する、家計でいえばポイントカード解約して損するやつ。",
+        "<b>滑稽さ:</b> 「無駄をなくす」と言って税金を取る人を首にしたら取れる税金が減った、という話をどう説明するんですかね。IRSの予算1ドルが約6ドルの税収を生んでたという試算があるのに。",
+        "<b>日本・海外から見ると:</b> 国税庁の調査官を減らして税収が増えた国は、歴史上一度もないはずなんですが、これが「小さな政府」の実験結果です。"
       ],
       "imagePrompts": [
-        "A large ornate congressional resolution document titled 'CONDEMNING SOCIALISM' with bold red text. At the bottom, in tiny fine print, is a paragraph titled 'Also, Voter ID Bill.' A magnifying glass is hovering over the fine print.",
-        "A restaurant menu titled 'DEMOCRACY COMBO MEAL.' Listed items: 'Anti-Socialism Statement (symbolic)' as the main, and 'SAVE America Act (highly contested)' as the mandatory side dish. No substitutions.",
-        "A politician at a podium holding a giant banner reading 'NO SOCIALISM' while a second, smaller sign quietly slides into frame from the side reading 'P.S. Voter ID Bill, please.'"
+        "A half-empty government office. Rows of empty desks with overflowing stacks of unreviewed tax files. A banner on the wall reads 'Efficiency Initiative.' A single remaining employee stares at a towering pile of folders, eating a sad desk lunch.",
+        "A large piggy bank labeled 'U.S. Treasury' with a visible crack and coins falling out of it. Beside it, a sign reads: 'Auditors Laid Off: 5,000. Revenue Lost: $3.5 Billion. Savings: ?'",
+        "A scale of justice, but instead of legal concepts, one side holds a small stack of coins labeled 'Salary Savings' and the other holds a much larger stack labeled '$3.5B Lost Revenue.' The scale is dramatically tilted."
       ],
       "captions": [
-        "Congress voted to condemn socialism. Bundled inside: a voter-ID bill that couldn't pass on its own. Free-market principles, apparently, don't apply to legislation.",
-        "The resolution against socialism came with a surprise inside. Like a Kinder egg, but for electoral policy.",
-        "They needed a vote on whether socialism is bad. In 2026. Took the opportunity to sneak in another bill. Efficient use of everyone's time.",
-        "Anti-socialism resolution, featuring a bonus voting restriction — because nothing says 'land of freedom' like terms and conditions.",
-        "So the bill couldn't pass alone, so they stapled it to 'socialism bad.' At this point Congress is just doing what the rest of us do when we bury a question in the middle of a long text."
+        "We fired the people who collect the money. As a cost-saving measure. I'll wait.",
+        "Turns out 'small government' still has to pay its bills — it just collects $3.5 billion less to do it.",
+        "Every dollar spent on IRS enforcement used to return about six. So naturally, we cut the IRS.",
+        "The auditors are gone. The wealthy filers' tax returns are still very much here.",
+        "A watchdog found the $3.5 billion shortfall. Good thing nobody fired the watchdog. Yet."
       ],
       "captionsJa": [
-        "議会は社会主義を非難する決議を採決した。その中に、単独では通らなかった投票制限法案が入っていた。自由市場の原理は、どうやら法案には適用されないらしい。",
-        "社会主義反対の決議に、サプライズ入り。キンダーエッグみたいなものだけど、中身は選挙制度。",
-        "2026年に、社会主義がダメかどうかの採決があった。ついでに別の法案を忍び込ませた。みんなの時間を有効活用。",
-        "反社会主義決議、特典として投票制限付き。「自由の国」が規約と条件付きになってきた。",
-        "単独で通らないから「社会主義はダメ」にくっつけた。長いLINEの真ん中にこっそり質問を混ぜる手法を、議会もやってるとは思わなかった。"
+        "お金を集める人たちを、コスト削減のために首にした。ちょっと待ってくれ。",
+        "「小さな政府」にも請求書は来る。ただ取れる税金が35億ドル減っただけで。",
+        "IRS予算1ドルが6ドルの税収を生む、というデータがあった。だからIRSを削った。",
+        "調査官はいなくなった。複雑な税務申告書は、まだそこにある。",
+        "今回は監視機関が35億ドルの穴を発見した。監視機関もまだ生き残ってて、よかった。今のところは。"
       ],
-      "newsEn": "The U.S. House of Representatives voted on a resolution condemning socialism ahead of November's midterm elections. Republicans added language to the resolution calling for passage of the SAVE America Act, a controversial voter-ID bill that has faced significant opposition. The move bundled a broad ideological statement with a specific and contested piece of legislation.",
+      "newsEn": "A government watchdog found that IRS audit revenue fell by $3.5 billion in fiscal year 2025, following significant workforce reductions that eliminated thousands of auditors and other staff. The IRS shed a substantial portion of its enforcement workforce as part of broader federal cost-cutting efforts.",
       "ironyEn": [
         {
-          "contradiction": "A resolution condemning ideological overreach was used to push through a separate, unrelated, and deeply contested policy goal. Democracy doing a little socialism of its own — sharing one bill's momentum with another.",
-          "absurdity": "Congress took a stand against an economic system by hiding a voting-rights bill inside the stand. The anti-socialism package came bundled with extras, like a cable contract.",
-          "outside": "Observers abroad may note that the U.S. Congress scheduled a formal vote on whether socialism is bad — roughly 35 years after the Cold War ended."
+          "contradiction": "The federal government cut IRS staff to save money, then collected $3.5 billion less in tax revenue. The math did not work out.",
+          "absurdity": "Studies have consistently shown that every dollar spent on IRS enforcement returns roughly six in collected revenue. Cutting the auditors is the fiscal equivalent of firing the cashier to reduce costs.",
+          "outside": "No country has ever shrunk its tax collection workforce and reported higher tax revenues. The U.S. now has a fresh data point confirming this trend."
         },
         {
-          "contradiction": "The party that opposes government overreach used a government resolution to pressure passage of a separate government bill they couldn't pass on its own merits.",
-          "absurdity": "Attaching a voter-ID mandate to an anti-socialism statement is a bit like putting a parking ticket in a birthday card. Technically valid. Still a weird move.",
-          "outside": "Most legislatures save the ideological declarations for speeches. The U.S. House made it a vehicle for hitchhiking legislation."
+          "contradiction": "The stated goal was reducing government waste. The measurable result was $3.5 billion less flowing into the government.",
+          "absurdity": "The people most likely to benefit from fewer auditors are the people with the most complicated tax situations — which is not the average wage earner whose withholding is automatic.",
+          "outside": "From the outside, this looks less like fiscal conservatism and more like a policy that very specifically helps a very specific income bracket."
         }
       ],
       "imageSeed": 2,
@@ -109,47 +109,47 @@
     {
       "id": "d3",
       "news": {
-        "headline": "GoPro Is Pivoting to AI Data Centers. Its Stock Jumped 40%.",
-        "source": "CNBC Top News",
+        "headline": "Pentagon's Top AI Official Sold Up to $25M in AI Company Stock While Overseeing AI Policy",
+        "source": "The Guardian US",
         "date": "2026-09-02",
-        "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
-        "summary": "アクションカメラメーカーのGoPro社が、フォトニクス企業Starman Opticalとの合併を発表し、AIデータセンター分野に参入すると表明。株価は40%急騰した。"
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
+        "summary": "米軍の人工知能政策を統括するペンタゴン高官エミール・マイケル氏が、今年xAIの株で最大2400万ドルの利益を得た後、担当政策と直接関係するPerplexity社の株を最大2500万ドル相当売却していたことが財務開示書類で明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> スカイダイビングや波乗りの動画を撮るカメラを作っていた会社が、データセンターに転身する。ユーザーが「崖から飛んだ映像」を撮っていたら、会社のほうも崖から飛んだ——ただしAIという方向に。",
-        "<b>滑稽さ:</b> 「AI」とつけた途端に株が40%上がる市場が面白いんですよ。GoPro、もしかして今まで発表する言葉を間違えてただけでは？「サーフィン動画カメラ、AIデータセンターに転身」と言った瞬間に価値が生まれた。",
-        "<b>日本・海外から見ると:</b> 日本で言うと、ガラス工芸の会社が突然「AIクラウドインフラに参入します」と発表して株価が急騰するようなもの。業種の連続性ゼロ。でも市場は「AI」を聞いた瞬間に動く。"
+        "<b>矛盾:</b> 軍のAI政策を決める立場の人が、その政策の影響を直接受けるAI企業の株を数十億円規模で売買してるんですよ。利益相反の教科書に載せるレベル。",
+        "<b>滑稽さ:</b> 「AIの安全保障リスクを管理します」って言ってる人が、AIスタートアップの株で個人資産を最大4900万ドル動かしてた。管理してるのは何の安全保障なのか。",
+        "<b>日本・海外から見ると:</b> 防衛省の官僚が防衛産業の株を数十億単位で売買したら日本でどうなるか考えると、これは「開示したからセーフ」で済む話なのか普通に疑問なんですが。"
       ],
       "imagePrompts": [
-        "A GoPro action camera mounted on a helmet, but instead of a skier on a mountain, the camera is strapped to a server rack in a sterile data center. Blinking LEDs everywhere. No mountains in sight.",
-        "A stock chart shaped like a cliff dive — flat for years, then a vertical 40% spike — displayed on a monitor in a server room. A GoPro camera sits on the desk next to a keyboard, gathering dust.",
-        "A trade show booth split down the middle: the left side shows GoPro's classic branding with surfers and skydivers; the right side has been hastily redecorated with AI data center imagery and a new logo still being hot-glued on."
+        "A military briefing room. At the podium, a suit jacket hangs on a stand beneath a presentation slide reading 'National AI Security Strategy.' On the table in front of it, visible to the viewer but facing away from the audience, a stock trading app on a tablet shows large green profit numbers. No face visible.",
+        "A referee in a sports uniform standing in the middle of a tech company logo arena. The referee is wearing a jacket with AI company logos on the sleeves, like a NASCAR driver. A whistle hangs around his neck, unused.",
+        "A large balance scale on an official-looking desk. On one side: a placard reading 'Pentagon AI Policy Oversight.' On the other: stacks of cash labeled '$24M xAI' and '$25M Perplexity.' The scale is dramatically tilted toward the cash. No figures present — just the objects, the desk, and a framed 'Public Trust' certificate hanging crooked on the wall behind it."
       ],
       "captions": [
-        "GoPro pivoted to AI data centers. Stock up 40%. The extreme sport now is telling investors what they want to hear.",
-        "The company that filmed people jumping off cliffs has announced it's jumping into AI infrastructure. Honestly, the risk tolerance tracks.",
-        "GoPro didn't build a new product. It just said 'AI data center' in a press release. Forty percent. That's the whole story.",
-        "Remember when GoPro was for people doing cool stuff outside? The new product is: server rooms. Still shoots great footage of nothing happening.",
-        "At what point do we admit the word 'AI' is just a financial energy drink? GoPro drank it. Up 40% before lunch."
+        "He sets the rules for military AI. He also had $49 million in AI stocks. Totally unrelated, I'm sure.",
+        "Disclosing a conflict of interest doesn't make it not a conflict of interest. It just makes it a documented one.",
+        "He profited from xAI. Then he profited from Perplexity. The AI arms race has a very motivated referee.",
+        "You want someone to manage the risks of AI for the entire U.S. military? Find a guy with $49 million reasons to get it right — for himself.",
+        "This is the revolving door between Washington and Silicon Valley. It's not even revolving anymore. It's just... open."
       ],
       "captionsJa": [
-        "GoPro、AIデータセンターに転身。株価40%上昇。今一番過激なスポーツは「投資家が聞きたいことを言う」こと。",
-        "崖から飛ぶ人を撮ってた会社が、AIインフラに飛び込んだ。リスク許容度は一貫してる、確かに。",
-        "GoPro、新製品は作ってない。プレスリリースに「AIデータセンター」と書いただけ。40%上昇。以上。",
-        "外でかっこいことする人向けのカメラ、覚えてますか？新商品はサーバールームです。映像は相変わらずきれいに撮れます、何も起きていない様子を。",
-        "「AI」という言葉が財務上のエナドリになってる時点でもう認めようよ。GoPro飲んだら昼前に40%上がった。"
+        "軍のAIルールを決める人が、AI株で49億円動かしてた。全然関係ないですよね、きっと。",
+        "利益相反を開示したからといって、利益相反がなくなるわけじゃない。書類に残るだけ。",
+        "xAIで稼いで、Perplexityでも稼いだ。AI軍拡競争の審判が、両チームのユニフォーム着てる。",
+        "米軍全体のAIリスクを管理する人材が欲しい? 個人的に49億円の利害関係がある人間を探せばいい。動機は十分。",
+        "ワシントンとシリコンバレーをつなぐ回転ドアの話、みなさん聞いたことあると思いますが。もう回転してないですよ。開けっ放しです。"
       ],
-      "newsEn": "GoPro, the maker of action cameras popular with extreme sports enthusiasts, announced a merger with private photonics company Starman Optical and a pivot into AI data center infrastructure. The company's shares surged approximately 40% on the news. The move represents a dramatic departure from GoPro's core consumer electronics business.",
+      "newsEn": "Emil Michael, the top Pentagon official responsible for military AI policy, sold up to $25 million in stock from Perplexity, an AI company whose sector falls under his policy oversight, according to financial disclosures. He also reaped up to $24 million earlier this year from selling xAI stock. The disclosures were reported exclusively by The Guardian.",
       "ironyEn": [
         {
-          "contradiction": "A company whose entire identity was built on filming humans doing reckless things in physical space has announced its future is in server rooms. The camera that survived avalanches is now chasing data center margins.",
-          "absurdity": "GoPro's stock jumped 40% not because it built anything new, but because it announced a merger and used the word 'AI.' The product hasn't changed. The ticker has.",
-          "outside": "From outside the U.S., the GoPro story reads like a perfectly calibrated market experiment: say 'AI data center,' measure the spike, repeat."
+          "contradiction": "The person whose job is to set guardrails for military AI had tens of millions of dollars riding on the performance of AI companies operating in that exact space.",
+          "absurdity": "He disclosed it, which is technically compliant. Whether disclosure resolves the conflict of interest or just makes it official is a different question.",
+          "outside": "In most countries, a defense official with $49 million in AI stock transactions while setting AI defense policy would face more than a financial disclosure form."
         },
         {
-          "contradiction": "GoPro spent decades branding itself as the camera for people who do real, physical, dangerous things. Its pivot to data centers is about as on-brand as a skateboard company opening a law firm.",
-          "absurdity": "A 40% stock surge for a merger between an action camera brand and a photonics startup most people can't name — the market is apparently very easily startled by the word 'AI.'",
-          "outside": "Investors rewarded GoPro for announcing it would stop doing the thing it was known for. It's the financial equivalent of applauding someone for quitting their job."
+          "contradiction": "The U.S. government is urgently concerned about AI risks to national security. Its point person on that concern was also a very motivated AI investor.",
+          "absurdity": "xAI is Elon Musk's company. Perplexity is a direct competitor to other AI firms. The official managed to profit from both ends of the AI arms race he was nominally refereeing.",
+          "outside": "For anyone following the revolving door between Washington and Silicon Valley — this isn't a door anymore, it's a roundabout."
         }
       ],
       "imageSeed": 3,
@@ -160,47 +160,47 @@
     {
       "id": "d4",
       "news": {
-        "headline": "Pentagon's Top AI Policy Official Sold $25M in AI Stock While Overseeing AI Policy",
-        "source": "The Guardian US",
+        "headline": "House Votes to Condemn Socialism — and Quietly Slips In a Voter-ID Push",
+        "source": "CNBC Top News",
         "date": "2026-09-02",
-        "url": "https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings",
-        "summary": "米国防総省でAI政策を統括するエミール・マイケル氏が、同職に就いている間にAI企業Perplexityの株式を最大2500万ドル相当売却していたことが、財務開示書類の調査で明らかになった。"
+        "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+        "summary": "米下院共和党は社会主義を非難する決議案に投票したが、その決議文には物議を醸している有権者ID法「SAVE America Act」の可決を求める文言も盛り込まれていた。"
       },
       "commentary": [
-        "<b>矛盾:</b> AI政策を決める人が、AI株で数十億円分の利益を得ている。利益相反という言葉の辞書に、このニュースの写真を載せてもいい。",
-        "<b>滑稽さ:</b> xAI株で24億円、Perplexity株で25億円——これ、AI政策の「成果」をどちらが受け取っているか、わかりやすすぎる。国防総省の判断が市場に与える影響と、本人の口座残高が同じ方向を向いている。",
-        "<b>日本・海外から見ると:</b> 日本の防衛省でIT調達を担う高官が、調達先候補の株を数十億円分売却していたら——想像するだけで制度が震える。アメリカでは「開示したから問題ない」という建付けで動いている。"
+        "<b>矛盾:</b> 社会主義反対の決議に選挙法を忍び込ませるって、反対票を「あなたは社会主義者ですか?」という踏み絵にする構造なんですよ。議会の立法技術として正直すごい。",
+        "<b>滑稽さ:</b> 「社会主義に反対します」という文書に「それと、この投票法も通してください」って書いてある。チラシの裏に重要事項を書く契約書と同じ手法。",
+        "<b>日本・海外から見ると:</b> 日本の国会でも抱き合わせ審議の批判はあるけど、イデオロギー非難文書に別の法案を縫い付けるのはなかなかの力技で、しかもそれが通った。"
       ],
       "imagePrompts": [
-        "A Pentagon briefing room table, shot from above. One side holds a stack of documents labeled 'AI ACQUISITION POLICY.' The other side holds a laptop open to a brokerage screen showing a trade confirmation for $25,000,000. A Pentagon ID badge sits face-down between them. No faces visible.",
-        "A large scale of justice. On one side: a Pentagon badge labeled 'AI POLICY OVERSIGHT.' On the other side: two bags of money labeled 'xAI $24M' and 'Perplexity $25M.' The scale is completely horizontal, perfectly balanced.",
-        "A conflict-of-interest flowchart on a whiteboard: 'Write AI policy' → 'AI companies gain value' → 'Sell AI stock' → 'File disclosure form' → arrow looping back to 'Write AI policy.' A smiley face drawn at the end."
+        "A large official-looking government document titled 'Resolution Condemning Socialism.' In bold red text at the top. Halfway down the page, in tiny fine print, a clause reads 'Also: pass the SAVE America Act.' A congressman holds it up proudly at a podium.",
+        "A cereal box with a bright logo reading 'Anti-Socialism Crunch.' On the side panel, in the nutritional information area, small text reads 'Contains: Voter ID Bill (SAVE America Act), trace amounts of ideological messaging.'",
+        "A tailor's shop. A person in a suit jacket labeled 'SAVE America Act' stands on a fitting platform. A tailor is attaching a large patch reading 'ANTI-SOCIALISM' to the front. Several other bills hang on a rack in the background, each with a different ideological patch sewn on."
       ],
       "captions": [
-        "The Pentagon's top AI policy guy sold $25 million in AI stock. But he filed the disclosure. So we're good. We're totally good.",
-        "xAI: $24 million. Perplexity: $25 million. Job title: Pentagon AI Oversight. Resume's looking strong.",
-        "He's in charge of deciding which AI companies the military buys from. He's also very personally invested in how that goes.",
-        "Conflict of interest? No, no — he disclosed it. The form is filed. The $49 million is in the account. Oversight achieved.",
-        "You know how referees aren't supposed to bet on the game? The Pentagon would like to present a different perspective on that."
+        "They hid a voter-ID bill inside an anti-socialism resolution. If you vote no, you're basically a socialist. Checkmate.",
+        "The SAVE America Act needed a new outfit. Turns out 'anti-socialism resolution' was its size.",
+        "Nothing says 'this bill can stand on its own' like bundling it with a completely unrelated ideological statement.",
+        "At least read the fine print before you condemn an economic system, guys.",
+        "Legislative riders: the 'one weird trick' of American lawmaking."
       ],
       "captionsJa": [
-        "国防総省のAI政策責任者がAI株を2500万ドル売却。でも開示書類は提出した。だから大丈夫。全然大丈夫。",
-        "xAI株で24億円、Perplexity株で25億円。肩書：国防総省AI監督官。職歴、充実してる。",
-        "軍がどのAI企業から買うか決める立場の人が、その結果に個人的にとても深く関心を持っている。",
-        "利益相反？いや、開示したから問題ないんですよ。書類は提出済み。49億円は口座に入ってる。監督完了。",
-        "審判が試合に賭けちゃいけないのはご存知の通り。国防総省はその件について、別の見解を持っているようです。"
+        "社会主義反対決議の中に投票法を隠した。反対票を入れたら「あなたは社会主義者ですか」になる。お見事。",
+        "SAVE America Actには新しい服が必要だった。「反社会主義決議」がちょうどサイズに合った。",
+        "「この法案は単独で通せます」という自信があるなら、なぜ別の文書にくっつけた。",
+        "経済思想を非難する前に、せめて文書全体を読もうよ、みなさん。",
+        "抱き合わせ立法：アメリカ議会が誇る「これ一つで二度おいしい」テクニック。"
       ],
-      "newsEn": "Financial disclosures reviewed by The Guardian show that Emil Michael, the top Pentagon official responsible for overseeing military artificial intelligence policy, sold stock in AI company Perplexity worth up to $25 million. Michael had also previously reaped up to $24 million from selling xAI stock earlier this year. The official is responsible for shaping the military's AI acquisition and policy decisions.",
+      "newsEn": "The U.S. House voted on a resolution condemning socialism ahead of the November midterm election. Republicans inserted language into the resolution calling for passage of the SAVE America Act, a highly controversial voter-ID bill. The move links an ideological statement to a specific contested piece of voting legislation.",
       "ironyEn": [
         {
-          "contradiction": "The official deciding which AI companies get Pentagon contracts held tens of millions of dollars in AI company stocks. The conflict of interest didn't need a microscope — it needed a brokerage statement.",
-          "absurdity": "He sold $25 million in Perplexity stock and $24 million in xAI stock while writing national AI policy. At that point, 'oversight' is doing a lot of heavy lifting as a word.",
-          "outside": "In most democracies, this level of financial entanglement between a regulator and the regulated industry would trigger automatic recusal. In Washington, it triggered a disclosure form."
+          "contradiction": "A resolution about an economic ideology became the vehicle for a voting-access bill. The connection between condemning socialism and requiring voter ID is... the vote count in November.",
+          "absurdity": "Anyone voting against the resolution now votes against — technically — condemning socialism. Whether or not they've ever had a position on socialism before this week.",
+          "outside": "Legislative riders are common worldwide, but attaching a voting-restriction bill to an anti-socialism resolution is a particular kind of efficiency."
         },
         {
-          "contradiction": "Emil Michael was in charge of making sure the military's AI investments serve the public interest — while personally earning $49 million from AI investments of his own.",
-          "absurdity": "The Pentagon has an AI safety policy. The man who runs it made $25 million selling AI stock. 'Safety' is a flexible concept.",
-          "outside": "The structure here is elegant in its simplicity: shape the policy, hold the stock, sell the stock, file the disclosure. All legal. All disclosed. All a bit much."
+          "contradiction": "The stated purpose was an ideological statement about economic systems. The practical output was advancing specific election legislation. These are not the same thing.",
+          "absurdity": "The SAVE America Act is one of the most contested election bills in Congress. The word 'socialism' is apparently its new jacket.",
+          "outside": "Observers of American legislative procedure have a term for this: a rider. Observers of American political theater have a different term."
         }
       ],
       "imageSeed": 4,
@@ -211,47 +211,47 @@
     {
       "id": "d5",
       "news": {
-        "headline": "USPS Is Launching a New Computer System That Could Derail Mail-In Voting. It's Due Before the Election.",
-        "source": "The Guardian US",
+        "headline": "GoPro Pivots to AI Data Centers, Stock Jumps 40%",
+        "source": "CNBC Top News",
         "date": "2026-09-02",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates",
-        "summary": "民主党上院議員が内部告発者の声明を公開し、USPSが選挙前に導入予定の新コンピュータシステムが郵便投票に混乱をもたらす恐れがあると警告していることが明らかになった。チャック・シューマー上院議員はシステム導入を差し止める法案を提出した。"
+        "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
+        "summary": "アクションカメラで知られるGoPro社が、フォトニクス企業Starman Opticalとの合併を発表し、AIデータセンター事業への転換を表明した。発表を受け株価は40%急騰した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 郵便局が選挙直前に大規模なシステム移行を行う——IT業界なら「選挙期間中だけはシステム更新を止める」のが常識なのに、USPSはそのタイミングを選んでいるわけですよ。「フリーズ期間」が存在しないシステム運用。",
-        "<b>滑稽さ:</b> 内部告発者が「これはまずい」と言い、上院議員が「止めるための法案を出す」と言い、それでもシステムは予定通り動こうとしている。三者全員が違う方向に走っていて、誰も郵便物の行方を知らない状態になってきた。",
-        "<b>日本・海外から見ると:</b> 日本だと選挙管理の信頼性は「当然のインフラ」として扱われる。アメリカでは選挙の仕組み自体が毎回、政治的な争点になる。郵便局のシステム更新ですら国会審議になる国。"
+        "<b>矛盾:</b> スカイダイビングや波乗りの映像を撮るカメラ会社が、AIデータセンターに転換する。技術的なつながりを探せばゼロではないかもしれないけど、ブランドイメージとしては「ヘルメットを売る会社が病院経営を始めた」くらいの飛躍。",
+        "<b>滑稽さ:</b> 発表した瞬間に株価が40%上がったってことは、投資家は「GoPro」が好きなんじゃなくて「AIデータセンター」という単語が好きなんですよ。会社名なんてもう関係ない。",
+        "<b>日本・海外から見ると:</b> 2000年代のドットコムバブルで何でも「.com」をつけたら株価が上がった話を思い出すんですが、今は「AI」をつければいい時代になった、というだけで構造は全く同じ。"
       ],
       "imagePrompts": [
-        "A U.S. Postal Service worker standing in front of a massive server being wheeled through a sorting facility. Thousands of envelopes labeled 'BALLOT' are stacked everywhere. A calendar on the wall shows Election Day circled in red, just weeks away. A technician nearby holds a laptop showing 'SYSTEM MIGRATION IN PROGRESS.'",
-        "A flowchart on a whiteboard labeled 'MAIL-IN VOTING PROCESS.' Every arrow leads through a box labeled 'NEW USPS COMPUTER SYSTEM (UNTESTED)' surrounded by question marks. The final box just reads '???'",
-        "A split image: on the left, a voter carefully sealing a mail-in ballot envelope. On the right, the same envelope entering a sorting machine with a screen showing 'ERROR: SYSTEM UPDATING. PLEASE WAIT.'"
+        "A GoPro camera mounted on a selfie stick, planted in the middle of a massive server farm. Rows of blinking servers stretch into the distance. The camera's recording light is on. Nobody else is in the room.",
+        "A stock market ticker board. 'GPRO +40%' flashes in bright green. Below it, a small note reads: 'Reason: said AI.' In the foreground, a trader in a helmet and GoPro chest mount celebrates.",
+        "A timeline illustration showing product evolution: a surfboard with a GoPro camera, then a drone with a GoPro, then a large data center building with a tiny GoPro logo above the entrance and a banner reading 'AI Pivot in Progress.'"
       ],
       "captions": [
-        "The post office is installing a new computer system before the election. The whistleblower says it could cause chaos. USPS says it'll be fine. Somewhere, a ballot is already nervous.",
-        "Nothing says 'democracy is working' like a Senate bill to stop the post office from doing an IT upgrade in October.",
-        "Mail-in voting: designed to be reliable. New USPS computer system: scheduled, untested, launching before November. These two facts are in a room together now.",
-        "The system that processes your ballot is getting a complete software overhaul six weeks before Election Day. Updates may take longer than expected. Please do not turn off your democracy.",
-        "A whistleblower warned the USPS system could derail mail-in voting. USPS said they're proceeding. Congress introduced a bill. The system is still being installed. Classic four-way standoff where the computers are winning."
+        "GoPro pivoted to AI data centers. Stock up 40%. The cameras are still in the name, technically.",
+        "Investors didn't buy GoPro. They bought the phrase 'AI data center' that happened to be coming out of GoPro's mouth.",
+        "In 1999 you added '.com' and the stock doubled. Same trick, different magic words.",
+        "Their whole brand is filming people doing extreme sports. The most extreme thing here is the valuation.",
+        "Not one server has been built yet. The 40% is for the announcement. We're pricing in the PowerPoint."
       ],
       "captionsJa": [
-        "郵便局が選挙前に新しいコンピュータシステムを入れようとしている。内部告発者は「混乱が起きる」と言う。USPSは「大丈夫」と言う。どこかで投票用紙がもう不安になってる。",
-        "「郵便局が10月にシステム更新するのを止めるための法案」が上院で提出される——これ、民主主義が機能してる証拠としてカウントされるんですかね。",
-        "郵便投票は「信頼できる」設計のはず。USPSの新システムは未テストで、11月前に導入予定。この二つが今、同じ部屋にいる。",
-        "あなたの投票用紙を処理するシステムが、選挙の6週間前に全面ソフトウェア更新中です。更新には予想より時間がかかる場合があります。民主主義の電源は切らないでください。",
-        "内部告発者が警告し、議会が法案を出し、USPSは続行すると言い、システムはそのまま稼働している。四者四様のにらみ合い——今のところコンピュータが勝ってる。"
+        "GoPro、AIデータセンターに転換。株価40%上昇。カメラは社名の中にだけ残った。",
+        "投資家はGoPro株を買ったんじゃない。GoPro口から出てきた「AIデータセンター」という言葉を買った。",
+        "1999年は「.com」をつければ株価が倍になった。呪文が変わっただけで、仕組みは全く同じ。",
+        "ブランドの売りは「人が崖から飛ぶ動画」。今回一番エクストリームなのは時価総額。",
+        "サーバーはまだ一台も存在しない。40%上昇はプレゼン資料への先行投資です。"
       ],
-      "newsEn": "A Democratic senator disclosed a whistleblower statement warning that the U.S. Postal Service is set to launch a new computer system that could disrupt mail-in voting before November's midterm elections. Senate Minority Leader Chuck Schumer introduced a bill that would block the rollout. The USPS system overhaul is moving forward despite the warnings, according to the disclosure.",
+      "newsEn": "GoPro, the action camera company, announced a merger with private photonics company Starman Optical and a pivot into the AI data center business. Shares skyrocketed approximately 40 percent following the announcement. The move represents a significant departure from GoPro's core consumer electronics identity.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. Postal Service chose the months immediately before a national election to roll out a brand-new, untested computer system that handles mail sorting — including mail-in ballots. The timing was apparently not flagged as a concern until a whistleblower flagged it as a concern.",
-          "absurdity": "A senator had to introduce a bill to stop the post office from upgrading its computers right before an election. That sentence should not exist.",
-          "outside": "In countries with centralized election infrastructure, a last-minute IT overhaul at the national mail agency before voting day would be front-page news for weeks. Here, it surfaced in a whistleblower disclosure."
+          "contradiction": "GoPro built its brand on people jumping off cliffs and surfing waves. The company's new business is server racks in climate-controlled rooms. The cameras may be optional.",
+          "absurdity": "The stock jumped 40% on the announcement — meaning investors weren't buying GoPro, they were buying the words 'AI data center' printed on top of GoPro.",
+          "outside": "In 1999, companies added '.com' to their name and watched their stock price double. The mechanism is identical. Only the magic words changed."
         },
         {
-          "contradiction": "Mail-in voting exists to make voting more accessible. The system being installed before the election could make mail-in voting less reliable. Infrastructure meant to expand access may end up narrowing it — accidentally, officially, on schedule.",
-          "absurdity": "The whistleblower said the rollout could cause 'chaos.' USPS said it's moving forward. Congress is now in the position of trying to stop the post office from doing its own IT project.",
-          "outside": "The U.S. debates whether mail-in voting is safe — then schedules a potentially destabilizing system upgrade right before an election that will rely on mail-in voting. The debate may be settling itself."
+          "contradiction": "GoPro's competitive advantage is ruggedized consumer cameras. Data centers require entirely different hardware, supply chains, talent, and infrastructure. The overlap is the word 'technology.'",
+          "absurdity": "A 40% single-day stock jump based on a pivot announcement — before a single server is built — is the market pricing in vibes.",
+          "outside": "From outside the U.S., watching American tech stocks react to AI pivot announcements is a reliable source of entertainment and occasional despair."
         }
       ],
       "imageSeed": 5,
@@ -261,78 +261,78 @@
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「やるべきことと逆のことを、自信満々でやる人たちの話」。IRS・議会・GoPro・国防総省・郵便局、全員が同じ方向に走っている。",
-    "titleEn": "We Fired the Tax Collectors to Save Money. Guess What Happened.",
-    "subtitleEn": "Five stories about doing the wrong thing with complete confidence.",
-    "titleJa": "IRSが税金の取り立て係を解雇して35億ドル損した話と、その他4本",
+    "thread": "今日の5本、全部「ラベルと中身が違う」話。湖の名前、節約の結果、利益相反の開示、決議の中身、会社のピボット——どれも「そう呼んでいるだけ」で実態は別のものです。",
+    "titleEn": "Lake America, $3.5B Shortfall, and Other Rebranding Disasters",
+    "subtitleEn": "Five stories about calling things what they aren't.",
+    "titleJa": "オンタリオ湖を「レイク・アメリカ」に改名したら、湖は一ミリも動かなかった話",
     "titleAltJa": [
-      "「AI」と言った瞬間に株が40%上がる市場で、ペンタゴンのAI担当が2500万ドル稼いでいた",
-      "今日のアメリカのニュース、全部「それって逆じゃないの」で返せる"
+      "「社会主義に反対します、あと投票法も通してください」が通った日",
+      "今日の5本が語れるようになる一言：「名前を変えると何かが変わると思ってるのかな、みんな」"
     ],
-    "leadJa": "算数の話を5本読みました。引き算を「改革」って呼んでる人たちの話です。\n\n全部、ちゃんとした顔をして実行されています。",
-    "introEn": "I want to be clear: today's five stories are not complicated.\n\nThe IRS fired the people who collect money, and collected less money. The Pentagon's AI czar sold tens of millions in AI stock while running AI policy. GoPro said 'data center' in a press release and watched its stock jump 40%. Congress snuck a voter-ID bill inside a resolution about socialism. And the post office is installing a new computer system right before the election, while a whistleblower says please, please don't.\n\nThis is not chaos. This is the system doing exactly what it's set up to do — just not for you.\n\nWhich means your judgment is fine. If something about your week felt backwards, today's news is telling you: it probably was. Trust that instinct. You're reading the room correctly.",
-    "introJa": "35億ドル。\n\nそれが、「節約のために税金の取り立て係を解雇した」結果、消えた金額です。監視機関がレポートを出して「発見した」と言っています。いや、これ発見じゃなくて算数ですよね。\n\n今日はそういう5本です。GoPro（スカイダイビング動画のカメラ会社）が「AIデータセンターに転身」と言って株価が40%上がった話。国防総省でAI政策を仕切る人が、AI株を25億円分売っていた話。あと、郵便局が選挙直前に新しいコンピュータシステムを入れようとしていて、内部告発者が止めてくれと言っている話。\n\n5本全部、逆のことを自信満々でやっている人たちの話です。\n\n今日の占いです。「なんかうまくいかない」と感じているなら、あなたのせいじゃないかもしれない。算数を無視して走っている人たちが、今日もいます。あなたはちゃんと数えられている。それだけで、今日はわりと大丈夫だと思う。",
-    "quipEn": "Today's theme: doing the wrong thing, on purpose, with paperwork. The math didn't change. The outcomes were very predictable. And yet.",
-    "quipJa": "節約のために損して、利益相反を「開示したから問題なし」と言って、「AI」と言うだけで株が上がる。算数は壊れていない。使う人を選んでいるだけ。",
+    "leadJa": "地図アプリの話、税収の話、AI株の話。全部バラバラに見えて、実は同じ一つのことについての話でした。\n\n「名前を変えるだけで、実態が変わると思ってる」——その話です。",
+    "introEn": "The lake is still there. The auditors are gone. The AI guy filed his paperwork. The resolution passed.\n\nToday's five stories share exactly one thing: someone changed the label and expected the contents to follow. An executive order renamed a Great Lake. Firing tax collectors was called cost-cutting. Disclosing a conflict of interest was treated as resolving one. A voter-ID bill wore an anti-socialism costume. GoPro said 'AI data center' and the stock did the rest.\n\nHere's your forecast: if you've ever been told your job title is changing but your workload isn't, today's news will feel oddly familiar. That's not a coincidence — it's a system. And recognizing the system is worth something. Your instinct that the label doesn't match the contents? It's correct. Trust it today.",
+    "introJa": "「レイク・アメリカ」。\n\nオンタリオ湖の話から始まります。湖は動いていない。魚も動いていない。でも地図の名前は変わった。で、それで何かが変わったかというと、何も変わっていない。\n\n今日の5本、全部これなんです。税務調査官を減らして「コスト削減」と呼んだら税収が35億ドル消えた話。AI株で49億円動かした官僚が「開示したのでセーフ」という話。「社会主義反対」の決議にこっそり別の法案を縫い付けた話。GoProが「AIデータセンター」と言ったら株価が40%上がった話。\n\nラベルだけ変えて、中身はそのままか、むしろ悪くなってる。\n\n今日の占いです。あなたが「なんか話が噛み合わないな」と感じている相手がいるとしたら、それはたぶんあなたのせいじゃない。相手がラベルと中身をずらして話しているだけです。今日はそれを見抜く練習ができる5本です。金運は、ラベルに踊らない人が強い。",
+    "quipEn": "Rename the lake, fire the auditors, disclose the stocks, hide the bill, say 'AI.' None of it changed what was actually there. That's not five stories. That's one habit.",
+    "quipJa": "名前を変えても、湖は動かない。でも地図は変わる。みんなが地図を信じてるうちは、それで十分なんですよね——今日の5本、全部そういう話でした。",
     "notesEn": [
-      "The IRS fired thousands of auditors to cut costs. Audit revenue fell $3.5 billion. A federal watchdog wrote this up and called it a 'finding.' I'd call it subtraction.",
-      "Congress voted to condemn socialism. Fine. But buried inside the resolution was a push to pass a voter-ID bill that couldn't survive a standalone vote. They put the bill inside the ideology like it was a carry-on bag.",
-      "GoPro makes cameras for people jumping off cliffs. This week it announced a pivot to AI data center infrastructure. Stock up 40%. The announcement was the product.",
-      "The Pentagon's top AI policy official sold up to $25 million in AI stock while overseeing AI policy. He disclosed it, so technically everything is fine. Technically.",
-      "The USPS is rolling out a new computer system before November's election. A whistleblower says it could disrupt mail-in voting. USPS says it'll be fine. The ballot is in the mail. Probably."
+      "Apple Maps renamed Lake Ontario to 'Lake America' after an executive order. The Canadian version still says Lake Ontario. So right now, the same shoreline has two different names depending on which App Store account you used to download the app. The lake finds this irrelevant.",
+      "A government watchdog just reported that firing IRS auditors saved money the way canceling your gym membership gets you fit. Audit revenue dropped $3.5 billion in one year. The math on 'small government' is getting harder to hide.",
+      "The Pentagon's top AI official sold up to $25 million in stock from an AI company whose industry he oversees — on top of $24 million from xAI earlier this year. He disclosed it, so it's documented. Whether 'documented' means 'resolved' is a question nobody in charge seems to be asking.",
+      "The House passed a resolution condemning socialism. Tucked inside: language pushing a controversial voter-ID bill. Vote no on the resolution and you're basically on record as pro-socialism. As legislative sleight of hand goes, it's almost elegant.",
+      "GoPro announced a pivot to AI data centers and the stock jumped 40%. Not because GoPro built anything yet. Because they said the words. In 1999 you added '.com.' Same trick. Different magic words."
     ],
     "xJa": [
-      "IRSが「節約のために」調査官を大量解雇したら、査察による税収が35億ドル減った。監視機関がレポートを出して「発見しました」と言っている。これ発見じゃなくて算数です。",
-      "「社会主義を非難する」決議文の中に、賛否が分かれる有権者ID法案を忍び込ませた米下院。理念のメインに選挙制度改変がサイドでついてくる政治のセットメニュー。",
-      "GoProが「AIデータセンターに参入」と発表して株価40%上昇。新製品は出ていない。プレスリリースに「AI」と書いただけ。それが今の市場。",
-      "国防総省のAI政策トップが、在職中にAI企業の株を最大2500万ドル売却。でも開示はしました。なのでセーフらしいです。利益相反って言葉、辞書に写真を載せていいレベル。",
-      "郵便局が選挙直前に新システム導入予定。内部告発者が「郵便投票に混乱が起きる」と警告。上院議員が止める法案を提出。それでもシステムは予定通り動こうとしている。どこかで投票用紙が不安そうにしている。"
+      "オンタリオ湖が「レイク・アメリカ」になりました。大統領令一本で。湖は動いていません。カナダ版のアップルマップでは今でも「オンタリオ湖」です。同じ湖岸に立って、持ってるスマホによって住んでいる世界が違う。",
+      "IRSの調査官を大量に首にしたら、税務調査による税収が35億ドル減りました。「無駄を省いた」結果がこれ。節約しようとして損するやつ、家計でもよくありますが、スケールが違いすぎて笑えない。",
+      "米軍のAI政策担当ペンタゴン高官が、担当分野のAI企業株を最大2500万ドル売却。その前にxAI株でも最大2400万ドル。「開示したのでセーフ」という整理らしい。開示と解決は別物だと思うんですが。",
+      "「社会主義に反対します」という決議文の中に、物議を醸している有権者ID法の可決を求める文言が入っていました。反対票を入れたら「社会主義者ですか？」という踏み絵になる構造。立法技術として、正直すごい。",
+      "GoProが「AIデータセンター事業に転換します」と言ったら株価が40%上がりました。何かを作ったわけじゃない。言っただけです。1999年に何でも「.com」をつけたら株価が上がったバブルと、構造が全く同じです。"
     ],
     "raidEn": [
-      "'We found that firing the revenue collectors reduced revenue' is the sentence that ended me this week.",
-      "The Kinder egg analogy is exactly right — crack open the anti-socialism resolution and there's a voter-ID bill inside. Surprise.",
-      "They didn't build a new product. They just rewrote the press release. Forty percent. I'm still thinking about this.",
-      "Filing a disclosure before trading doesn't mean there's no conflict — it just means the conflict is on the record now. Great system.",
-      "The IT upgrade scheduled for election season is exactly the kind of thing where someone should have circled a date on a calendar and said 'not then.'"
+      "The part that got me: the Canadian version still says Lake Ontario. So the name of the lake now depends on your App Store region. Geopolitics, settled by terms of service.",
+      "The wildest part of this is that it was framed as savings. Like, yes, you spent less on auditors — you also collected $3.5 billion less in taxes. That's not a budget win.",
+      "He disclosed everything, which I appreciate — transparency matters. It just makes the underlying situation easier to see, not easier to explain.",
+      "The procedural move here is genuinely impressive in a terrible way. Attaching a contested bill to an ideological resolution turns every 'no' vote into a statement nobody wants on their record.",
+      "The camera brand part is almost a footnote now. Investors heard 'AI data center' and that was enough. The GoPro logo is just load-bearing at this point."
     ],
     "raidJa": [
-      "「税収を増やす人を解雇したら税収が減った」という文を、監視機関が真顔で報告書に書いているのが今週一番きつかったです。丁寧に読んでくださってありがとうございました。",
-      "「社会主義反対」の決議文に別の法案を忍び込ませる手法、政治のセットメニューとして的確な表現だと思いました。この記事読んで笑ってしまいました。",
-      "プレスリリースに「AI」と書くだけで40%上がる市場、GoProの話を読んで初めてちゃんと実感しました。商品より言葉の話ですよね。",
-      "開示すればセーフという建付け、この記事読んで「それで動いているんだ」と改めて驚きました。利益相反の話、丁寧に整理してくださってありがとうございます。",
-      "選挙直前のシステム更新、IT的には絶対やっちゃいけないタイミングですよね。この記事読んでその一点がずっと引っかかっています。"
+      "カナダ版では「オンタリオ湖」のまま、という部分が一番刺さりました。同じ場所を指しながら、アプリのリージョン設定によって地名が変わる世界、なかなかSFですよね。",
+      "「節約のために税務調査官を削減」→「税収が35億ドル減少」という因果関係の記事、丁寧に読んでいただいてありがとうございます。数字がシンプルすぎてかえって説明に困りますよね。",
+      "「開示したから問題ない」という整理と「開示したからこそ問題が見える」という現実、この記事はその両方をちゃんと見せていて、とても読み応えがありました。",
+      "抱き合わせ立法の構造をこれだけ分かりやすく整理してくださって助かりました。「反対票が踏み絵になる」という指摘、他の人に説明するときに使わせてもらいます。",
+      "GoProの社名と事業内容がこれだけ乖離しても株価が上がる、という現象を記事で確認できてよかったです。ブランドより「AI」という単語の方が強い時代になったんですね。"
     ],
     "riffEn": [
-      "The IRS let go of thousands of auditors. Audit revenue dropped $3.5 billion. A federal watchdog looked into it and published a report calling this a 'finding.' I want to be precise about what they found: they found that when you stop collecting money, you collect less money. This is not investigative journalism. This is a subtraction problem that got a government letterhead. The auditors are gone. The math, unfortunately, stayed.",
-      "The House voted to condemn socialism. Simple enough. But Republicans added language to the resolution pushing for a voter-ID bill — one that had been struggling to pass on its own. So the anti-socialism statement came with a bonus item tucked inside, like terms and conditions nobody reads. They needed a moral declaration to carry the legislation across the finish line. Free-market principles, apparently, don't apply to how you move legislation.",
-      "GoPro — the company whose whole identity is strapping a camera to someone who is about to do something inadvisable — announced it's merging with a photonics firm and pivoting to AI data centers. The stock jumped 40%. No new product. No prototype. A press release with the words 'AI' and 'data center' in it. The extreme sport turned out to be investor relations.",
-      "Emil Michael oversees AI policy at the Pentagon — which companies the military works with, what gets funded, how the whole thing is shaped. He also sold up to $25 million in Perplexity stock while doing that job. Earlier this year: up to $24 million from xAI. He filed disclosures. Everything is technically above board. The word 'technically' is doing a lot of work in that sentence.",
-      "The USPS is launching a new computer system before November's midterm elections. A whistleblower says it could disrupt mail-in voting. Chuck Schumer introduced a bill to stop the rollout. The rollout is continuing anyway. Three separate people are running in three separate directions, and somewhere in the middle of all this is a ballot that just wants to arrive on time."
+      "Lake Ontario has existed for about ten thousand years. It formed at the end of the last ice age, give or take. Last week, it became Lake America — via executive order, during a trade dispute with Canada. The water didn't move. The fish didn't move. The shoreline is identical on both sides. Apple Maps updated, Google Maps updated, and the Canadian versions kept the old name, so right now the same body of water has two names depending on which country's App Store you used. The lake is not following this closely. But I respect the confidence of thinking a trade negotiation goes better if you rename a lake first.",
+      "The logic went like this: government spends too much, so cut the IRS, which is the part of the government that collects money from people who aren't paying. A watchdog just put a number on it. Audit revenue: down $3.5 billion in one year. There's a figure in the source material — every dollar of IRS enforcement used to return about six in tax revenue. So you can do that math, or you can not do that math, but either way the result is the same. You fired the people who collect the money. As a cost-saving measure. I've been staring at this for several minutes and I still can't make it add up.",
+      "Emil Michael runs military AI policy for the Pentagon. This year he sold up to $24 million in xAI stock. Then he sold up to $25 million in Perplexity stock — Perplexity being an AI company that falls directly under the policy he oversees. He disclosed all of it. I want to be clear about that: the disclosures exist, they're documented, The Guardian found them in financial filings. What disclosure doesn't do is change the situation it's describing. The referee declared his financial interest in the outcome of the game, filed the paperwork, and went back to officiating. Documented is not the same as resolved.",
+      "The House voted to condemn socialism. Fine, that's a thing Congress does sometimes. But inside the resolution — tucked into the language — was a call to pass the SAVE America Act, a voter-ID bill that's been too controversial to pass on its own. Here's how that works: if you vote no on the resolution, you're now on record opposing an anti-socialism statement. Nobody wants that clip in an ad. So the bill gets to ride along. It's not subtle. It's not meant to be. It passed.",
+      "GoPro makes action cameras. Helmet cams. The ones people strap to their foreheads before jumping off things. Last week they announced a merger with a photonics company and a full pivot into AI data centers. Stock jumped 40%. Not because they built anything. Not because the merger closed. Because they said the words 'AI data center' in a press release. In 1999 you added '.com' to your company name and the stock doubled overnight. The trick is the same. The magic words just updated."
     ],
     "riffJa": [
-      "税金を取り立てる調査官を大量解雇したら、査察による税収が35億ドル減りました。政府の監視機関がこれを調査して、報告書にまとめて「発見した」と言っています。\n\n待って。これ発見じゃないですよ。引き算です。調査官がいなくなれば査察が減る。査察が減れば取りこぼす税金が増える。誰でも予測できる話を、政府機関が半年かけて確認してレポートにした。\n\n調査官は消えました。算数だけが残っています。",
-      "「社会主義を非難する決議」を下院で採決しました。まあ、それはいい。問題は決議文の中に、単独では通る見込みの薄い有権者ID法案の可決要求が盛り込まれていたことです。\n\nメインディッシュは理念。サイドに選挙制度改変。ドリンクは選べません。\n\n「社会主義はダメ」に全員が手を挙げたタイミングで、裏メニューが通る仕組みになっていた。自由市場の原理、どうやら議会の手続きには適用されないらしい。",
-      "GoProはスカイダイビングや波乗りの動画を撮るカメラの会社です。その会社が今週、フォトニクス企業と合併してAIデータセンター分野に参入すると発表しました。\n\n株価が40%上がりました。\n\n新製品は出ていません。プレスリリースに「AI」と「データセンター」と書いた。それだけで価値が40%増えた。もしかしてGoPro、ずっと発表する言葉を間違えていただけでは。",
-      "エミール・マイケル氏は米国防総省でAI政策を統括しています。どのAI企業を軍が使うか、どこに予算がつくか、そういうことを決める立場です。\n\nその人が、在職中にPerplexityの株を最大2500万ドル売却していました。今年初めにはxAI株でも最大2400万ドル。財務開示はしています。なので制度的には問題ないらしい。\n\n「開示したから問題ない」。その一文、何回読んでも慣れないな。",
-      "郵便局が、11月の選挙の前に新しいコンピュータシステムを導入しようとしています。内部告発者が「郵便投票に混乱が起きる」と警告しています。上院の野党トップが差し止め法案を出しています。それでもシステムは予定通り進んでいます。\n\n止めようとしてる人が二人いて、止まらない。そういう話です。どこかの投票用紙が、今からすでに不安そうにしています。"
+      "オンタリオ湖は約1万年前から同じ場所にあります。最後の氷河期が終わったあとに形成された湖です。それが先週、大統領令一本で「レイク・アメリカ」になりました。理由は貿易交渉。\n\n水は動いていない。岸も動いていない。ただ地図アプリが更新された。アメリカ版は「レイク・アメリカ」、カナダ版は「オンタリオ湖」のまま。つまり今この瞬間、同じ湖岸を歩いている人が持つスマホによって、その湖の名前が違う。湖はこれを特に気にしていない。でも私は少し気にしています。「名前を変えると交渉が有利になる」という発想の構造が、なんか別のところでも見たことあるな、と思って。",
+      "コスト削減のためにIRSの調査官を大量に解雇しました。IRSというのはアメリカの国税庁です。で、その結果、税務調査による徴収額が35億ドル減りました。\n\n「税金を取る人を減らしたら、取れる税金が減った」という話で、言葉にすると当たり前なんですが、これが「無駄をなくした」という文脈で実行されたんですよ。素材に載っている試算だと、IRSの調査に使った1ドルは約6ドルの税収を生んでいたらしい。節約しようとして損するやつ——ポイントカードを解約してもっと割高に買い物し始める、あれの国家版です。",
+      "ペンタゴンのAI政策担当トップ、エミール・マイケル氏の話です。今年、xAIの株で最大2400万ドル。次にPerplexity（彼の担当政策と直接関係するAI企業）の株で最大2500万ドル。合わせて最大4900万ドル、日本円で70億円超。\n\n全部開示されています。これが「開示したのでセーフ」という話なのかどうか、私にはよくわからない。開示は透明性のためにある。透明性は問題を見えやすくするためにある。見えやすくなった問題が解決されるかどうかは、また別の話です。審判が「私はこのチームの株を持っています」と申告してから試合を裁く——それ、開示って呼んでいいんですかね。",
+      "米下院が「社会主義を非難する決議」に投票しました。それはまあいい。ただその決議文の中に、「有権者ID法（SAVE America Act）も通してください」という一文が入っていました。\n\nこの法案、単独では通すのが難しいくらい物議を醸しているやつです。だからセットにした。反対票を入れると「社会主義を非難しませんでした」という記録が残る。そんな記録、誰も残したくない。法案は決議に乗っかって通過しました。抱き合わせ商法の議会版で、技術としては正直すごいと思う。すごいと思う、というだけです。",
+      "GoProはアクションカメラの会社です。ヘルメットに付けてスカイダイビングする、あのカメラ。それが先週「フォトニクス企業と合併してAIデータセンター事業に転換します」と発表しました。株価が40%上がりました。\n\n何かを作ったわけじゃない。合併が完了したわけでもない。プレスリリースに「AIデータセンター」と書いた。それだけです。投資家はGoProを買ったんじゃなくて、GoProの口から出てきた「AIデータセンター」という単語を買った。2000年代前半のドットコムバブルで、何でも「.com」をつけたら株価が上がった話をご存じですか。構造が全く同じです。呪文の中身だけが変わった。"
     ],
     "asideEn": [
-      "Subtraction: confirmed.",
-      "Read the fine print, folks.",
-      "The press release was the product.",
-      "He disclosed it, so.",
-      "The ballot is nervous."
+      "The lake is unmoved. Literally.",
+      "Fired the collectors. Surprised by the shortfall.",
+      "Disclosed. Still overseeing.",
+      "The bill needed a costume. Found one.",
+      "Said 'AI.' Stock did the math."
     ],
     "asideJa": [
-      "引き算です。",
-      "裏メニューがありました。",
-      "言葉だけで40%。",
-      "開示はしました。",
-      "投票用紙、不安そう。"
+      "湖、一ミリも動かず。",
+      "取る人を減らして税収が減った。",
+      "開示済み。担当は継続中。",
+      "法案に衣装を着せたら通った。",
+      "「AI」と言ったら株が上がった。"
     ],
-    "fullEn": "# We Fired the Tax Collectors to Save Money. Guess What Happened.\n\n## Today's Forecast\n\nI want to be clear: today's five stories are not complicated.\n\nThe IRS fired the people who collect money, and collected less money. The Pentagon's AI czar sold tens of millions in AI stock while running AI policy. GoPro said 'data center' in a press release and watched its stock jump 40%. Congress snuck a voter-ID bill inside a resolution about socialism. And the post office is installing a new computer system right before the election, while a whistleblower says please, please don't.\n\nThis is not chaos. This is the system doing exactly what it's set up to do — just not for you.\n\nWhich means your judgment is fine. If something about your week felt backwards, today's news is telling you: it probably was. Trust that instinct. You're reading the room correctly.\n\n---\n\n## 1. IRS Audit Revenue Drops $3.5 Billion After Agency Fires the People Who Collect Money\n\n*CBS News US — [source](https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/)*\n\nA federal watchdog found that IRS audit revenue fell by $3.5 billion in fiscal year 2025 following significant workforce reductions at the agency. The IRS shed thousands of auditors and support staff as part of broader government downsizing efforts. The drop means billions in potentially owed taxes went uncollected during the period.\n\n**Why It's Funny**\n\nThe IRS let go of thousands of auditors. Audit revenue dropped $3.5 billion. A federal watchdog looked into it and published a report calling this a 'finding.' I want to be precise about what they found: they found that when you stop collecting money, you collect less money. This is not investigative journalism. This is a subtraction problem that got a government letterhead. The auditors are gone. The math, unfortunately, stayed.\n\n**Say It Out Loud**\n\n> We fired the people who collect money to save money. The auditors are gone. The math, unfortunately, stayed.\n\n---\n\n## 2. House Votes to Condemn Socialism — Also, Please Show Your ID to Vote\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)*\n\nThe U.S. House of Representatives voted on a resolution condemning socialism ahead of November's midterm elections. Republicans added language to the resolution calling for passage of the SAVE America Act, a controversial voter-ID bill that has faced significant opposition. The move bundled a broad ideological statement with a specific and contested piece of legislation.\n\n**Why It's Funny**\n\nThe House voted to condemn socialism. Simple enough. But Republicans added language to the resolution pushing for a voter-ID bill — one that had been struggling to pass on its own. So the anti-socialism statement came with a bonus item tucked inside, like terms and conditions nobody reads. They needed a moral declaration to carry the legislation across the finish line. Free-market principles, apparently, don't apply to how you move legislation.\n\n**Say It Out Loud**\n\n> Congress voted to condemn socialism. Bundled inside: a voter-ID bill that couldn't pass on its own. Free-market principles, apparently, don't apply to legislation.\n\n---\n\n## 3. GoPro Is Pivoting to AI Data Centers. Its Stock Jumped 40%.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html)*\n\nGoPro, the maker of action cameras popular with extreme sports enthusiasts, announced a merger with private photonics company Starman Optical and a pivot into AI data center infrastructure. The company's shares surged approximately 40% on the news. The move represents a dramatic departure from GoPro's core consumer electronics business.\n\n**Why It's Funny**\n\nGoPro — the company whose whole identity is strapping a camera to someone who is about to do something inadvisable — announced it's merging with a photonics firm and pivoting to AI data centers. The stock jumped 40%. No new product. No prototype. A press release with the words 'AI' and 'data center' in it. The extreme sport turned out to be investor relations.\n\n**Say It Out Loud**\n\n> GoPro pivoted to AI data centers. Stock up 40%. The extreme sport now is telling investors what they want to hear.\n\n---\n\n## 4. Pentagon's Top AI Policy Official Sold $25M in AI Stock While Overseeing AI Policy\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings)*\n\nFinancial disclosures reviewed by The Guardian show that Emil Michael, the top Pentagon official responsible for overseeing military artificial intelligence policy, sold stock in AI company Perplexity worth up to $25 million. Michael had also previously reaped up to $24 million from selling xAI stock earlier this year. The official is responsible for shaping the military's AI acquisition and policy decisions.\n\n**Why It's Funny**\n\nEmil Michael oversees AI policy at the Pentagon — which companies the military works with, what gets funded, how the whole thing is shaped. He also sold up to $25 million in Perplexity stock while doing that job. Earlier this year: up to $24 million from xAI. He filed disclosures. Everything is technically above board. The word 'technically' is doing a lot of work in that sentence.\n\n**Say It Out Loud**\n\n> The Pentagon's top AI policy guy sold $25 million in AI stock. But he filed the disclosure. So we're good. We're totally good.\n\n---\n\n## 5. USPS Is Launching a New Computer System That Could Derail Mail-In Voting. It's Due Before the Election.\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates)*\n\nA Democratic senator disclosed a whistleblower statement warning that the U.S. Postal Service is set to launch a new computer system that could disrupt mail-in voting before November's midterm elections. Senate Minority Leader Chuck Schumer introduced a bill that would block the rollout. The USPS system overhaul is moving forward despite the warnings, according to the disclosure.\n\n**Why It's Funny**\n\nThe USPS is launching a new computer system before November's midterm elections. A whistleblower says it could disrupt mail-in voting. Chuck Schumer introduced a bill to stop the rollout. The rollout is continuing anyway. Three separate people are running in three separate directions, and somewhere in the middle of all this is a ballot that just wants to arrive on time.\n\n**Say It Out Loud**\n\n> The post office is installing a new computer system before the election. The whistleblower says it could cause chaos. USPS says it'll be fine. Somewhere, a ballot is already nervous.\n\n---\n\n## Today's Punchline\n\n> Today's theme: doing the wrong thing, on purpose, with paperwork. The math didn't change. The outcomes were very predictable. And yet.\n",
-    "fullJa": "# IRSが税金の取り立て係を解雇して35億ドル損した話と、その他4本\n\n## 今日を占うよ〜\n\n35億ドル。\n\nそれが、「節約のために税金の取り立て係を解雇した」結果、消えた金額です。監視機関がレポートを出して「発見した」と言っています。いや、これ発見じゃなくて算数ですよね。\n\n今日はそういう5本です。GoPro（スカイダイビング動画のカメラ会社）が「AIデータセンターに転身」と言って株価が40%上がった話。国防総省でAI政策を仕切る人が、AI株を25億円分売っていた話。あと、郵便局が選挙直前に新しいコンピュータシステムを入れようとしていて、内部告発者が止めてくれと言っている話。\n\n5本全部、逆のことを自信満々でやっている人たちの話です。\n\n今日の占いです。「なんかうまくいかない」と感じているなら、あなたのせいじゃないかもしれない。算数を無視して走っている人たちが、今日もいます。あなたはちゃんと数えられている。それだけで、今日はわりと大丈夫だと思う。\n\n---\n\n## 1. IRS Audit Revenue Drops $3.5 Billion After Agency Fires the People Who Collect Money\n\n*CBS News US（[記事](https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/)）*\n\nIRSが大規模な人員削減を行った結果、2025会計年度の査察による税収が35億ドル減少したことが、政府の監視機関の調査で明らかになった。\n\n**どこが笑える？**\n\n税金を取り立てる調査官を大量解雇したら、査察による税収が35億ドル減りました。政府の監視機関がこれを調査して、報告書にまとめて「発見した」と言っています。\n\n待って。これ発見じゃないですよ。引き算です。調査官がいなくなれば査察が減る。査察が減れば取りこぼす税金が増える。誰でも予測できる話を、政府機関が半年かけて確認してレポートにした。\n\n調査官は消えました。算数だけが残っています。\n\n**このニュースをジョークにするなら...**\n\n> お金を集める人を削減してお金を節約しようとした。査察官は去った。算数は残った。\n\n---\n\n## 2. House Votes to Condemn Socialism — Also, Please Show Your ID to Vote\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)）*\n\n米下院は11月の中間選挙を前に社会主義を非難する決議案を採決にかけたが、共和党はその決議文の中に賛否が大きく割れる有権者ID法案（SAVE America Act）の可決要求も盛り込んだ。\n\n**どこが笑える？**\n\n「社会主義を非難する決議」を下院で採決しました。まあ、それはいい。問題は決議文の中に、単独では通る見込みの薄い有権者ID法案の可決要求が盛り込まれていたことです。\n\nメインディッシュは理念。サイドに選挙制度改変。ドリンクは選べません。\n\n「社会主義はダメ」に全員が手を挙げたタイミングで、裏メニューが通る仕組みになっていた。自由市場の原理、どうやら議会の手続きには適用されないらしい。\n\n**このニュースをジョークにするなら...**\n\n> 議会は社会主義を非難する決議を採決した。その中に、単独では通らなかった投票制限法案が入っていた。自由市場の原理は、どうやら法案には適用されないらしい。\n\n---\n\n## 3. GoPro Is Pivoting to AI Data Centers. Its Stock Jumped 40%.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html)）*\n\nアクションカメラメーカーのGoPro社が、フォトニクス企業Starman Opticalとの合併を発表し、AIデータセンター分野に参入すると表明。株価は40%急騰した。\n\n**どこが笑える？**\n\nGoProはスカイダイビングや波乗りの動画を撮るカメラの会社です。その会社が今週、フォトニクス企業と合併してAIデータセンター分野に参入すると発表しました。\n\n株価が40%上がりました。\n\n新製品は出ていません。プレスリリースに「AI」と「データセンター」と書いた。それだけで価値が40%増えた。もしかしてGoPro、ずっと発表する言葉を間違えていただけでは。\n\n**このニュースをジョークにするなら...**\n\n> GoPro、AIデータセンターに転身。株価40%上昇。今一番過激なスポーツは「投資家が聞きたいことを言う」こと。\n\n---\n\n## 4. Pentagon's Top AI Policy Official Sold $25M in AI Stock While Overseeing AI Policy\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings)）*\n\n米国防総省でAI政策を統括するエミール・マイケル氏が、同職に就いている間にAI企業Perplexityの株式を最大2500万ドル相当売却していたことが、財務開示書類の調査で明らかになった。\n\n**どこが笑える？**\n\nエミール・マイケル氏は米国防総省でAI政策を統括しています。どのAI企業を軍が使うか、どこに予算がつくか、そういうことを決める立場です。\n\nその人が、在職中にPerplexityの株を最大2500万ドル売却していました。今年初めにはxAI株でも最大2400万ドル。財務開示はしています。なので制度的には問題ないらしい。\n\n「開示したから問題ない」。その一文、何回読んでも慣れないな。\n\n**このニュースをジョークにするなら...**\n\n> 国防総省のAI政策責任者がAI株を2500万ドル売却。でも開示書類は提出した。だから大丈夫。全然大丈夫。\n\n---\n\n## 5. USPS Is Launching a New Computer System That Could Derail Mail-In Voting. It's Due Before the Election.\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/live/2026/sep/01/house-vote-stopgap-funding-bill-us-federal-government-shutdown-mike-johnson-trump-ballroom-politics-latest-news-updates)）*\n\n民主党上院議員が内部告発者の声明を公開し、USPSが選挙前に導入予定の新コンピュータシステムが郵便投票に混乱をもたらす恐れがあると警告していることが明らかになった。チャック・シューマー上院議員はシステム導入を差し止める法案を提出した。\n\n**どこが笑える？**\n\n郵便局が、11月の選挙の前に新しいコンピュータシステムを導入しようとしています。内部告発者が「郵便投票に混乱が起きる」と警告しています。上院の野党トップが差し止め法案を出しています。それでもシステムは予定通り進んでいます。\n\n止めようとしてる人が二人いて、止まらない。そういう話です。どこかの投票用紙が、今からすでに不安そうにしています。\n\n**このニュースをジョークにするなら...**\n\n> 郵便局が選挙前に新しいコンピュータシステムを入れようとしている。内部告発者は「混乱が起きる」と言う。USPSは「大丈夫」と言う。どこかで投票用紙がもう不安になってる。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 節約のために損して、利益相反を「開示したから問題なし」と言って、「AI」と言うだけで株が上がる。算数は壊れていない。使う人を選んでいるだけ。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d4のimagePrompts[0]が実在人物（エミール・マイケル氏）を特定可能な形で描写しており権利・類似リスクがある。その他のcaptions・imagePromptsは合格水準。editorial全体はペルソナ・文体・SNS単体成立とも問題なし。d4のimagePrompts一本のみ修正。 ／ 文体パス: 3箇所修正。leadJaの「足し算ではなく、引き算を『改革』と呼んでいる人たちの話です」が説明口調でプレゼンっぽかったので崩した。riffJa[3]の「財務開示はしています。なので制度的には問題ないらしい」は合格だが末尾の「すごく長い距離を走っています」が気の利いた締め感があったので本音がこぼれる形に。riffJa[4]の「三者が三方向に走っていて、誰も郵便物の行方を知らない状態になってきた」が整いすぎた総括だったので崩した。"
+    "fullEn": "# Lake America, $3.5B Shortfall, and Other Rebranding Disasters\n\n## Today's Forecast\n\nThe lake is still there. The auditors are gone. The AI guy filed his paperwork. The resolution passed.\n\nToday's five stories share exactly one thing: someone changed the label and expected the contents to follow. An executive order renamed a Great Lake. Firing tax collectors was called cost-cutting. Disclosing a conflict of interest was treated as resolving one. A voter-ID bill wore an anti-socialism costume. GoPro said 'AI data center' and the stock did the rest.\n\nHere's your forecast: if you've ever been told your job title is changing but your workload isn't, today's news will feel oddly familiar. That's not a coincidence — it's a system. And recognizing the system is worth something. Your instinct that the label doesn't match the contents? It's correct. Trust it today.\n\n---\n\n## 1. Apple Maps Renames Lake Ontario to 'Lake America' Following Executive Order\n\n*The Verge — [source](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)*\n\nApple Maps has officially renamed Lake Ontario to 'Lake America,' following an executive order signed by President Trump during a trade dispute with Canada. Google Maps made the same change earlier. The Canadian version of Apple Maps retains the original name, Lake Ontario.\n\n**Why It's Funny**\n\nLake Ontario has existed for about ten thousand years. It formed at the end of the last ice age, give or take. Last week, it became Lake America — via executive order, during a trade dispute with Canada. The water didn't move. The fish didn't move. The shoreline is identical on both sides. Apple Maps updated, Google Maps updated, and the Canadian versions kept the old name, so right now the same body of water has two names depending on which country's App Store you used. The lake is not following this closely. But I respect the confidence of thinking a trade negotiation goes better if you rename a lake first.\n\n**Say It Out Loud**\n\n> The lake didn't move. The fish didn't move. One executive order, and suddenly the map moved.\n\n---\n\n## 2. IRS Audit Revenue Dropped $3.5 Billion After Mass Layoffs, Watchdog Finds\n\n*CBS News US — [source](https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/)*\n\nA government watchdog found that IRS audit revenue fell by $3.5 billion in fiscal year 2025, following significant workforce reductions that eliminated thousands of auditors and other staff. The IRS shed a substantial portion of its enforcement workforce as part of broader federal cost-cutting efforts.\n\n**Why It's Funny**\n\nThe logic went like this: government spends too much, so cut the IRS, which is the part of the government that collects money from people who aren't paying. A watchdog just put a number on it. Audit revenue: down $3.5 billion in one year. There's a figure in the source material — every dollar of IRS enforcement used to return about six in tax revenue. So you can do that math, or you can not do that math, but either way the result is the same. You fired the people who collect the money. As a cost-saving measure. I've been staring at this for several minutes and I still can't make it add up.\n\n**Say It Out Loud**\n\n> We fired the people who collect the money. As a cost-saving measure. I'll wait.\n\n---\n\n## 3. Pentagon's Top AI Official Sold Up to $25M in AI Company Stock While Overseeing AI Policy\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings)*\n\nEmil Michael, the top Pentagon official responsible for military AI policy, sold up to $25 million in stock from Perplexity, an AI company whose sector falls under his policy oversight, according to financial disclosures. He also reaped up to $24 million earlier this year from selling xAI stock. The disclosures were reported exclusively by The Guardian.\n\n**Why It's Funny**\n\nEmil Michael runs military AI policy for the Pentagon. This year he sold up to $24 million in xAI stock. Then he sold up to $25 million in Perplexity stock — Perplexity being an AI company that falls directly under the policy he oversees. He disclosed all of it. I want to be clear about that: the disclosures exist, they're documented, The Guardian found them in financial filings. What disclosure doesn't do is change the situation it's describing. The referee declared his financial interest in the outcome of the game, filed the paperwork, and went back to officiating. Documented is not the same as resolved.\n\n**Say It Out Loud**\n\n> He sets the rules for military AI. He also had $49 million in AI stocks. Totally unrelated, I'm sure.\n\n---\n\n## 4. House Votes to Condemn Socialism — and Quietly Slips In a Voter-ID Push\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)*\n\nThe U.S. House voted on a resolution condemning socialism ahead of the November midterm election. Republicans inserted language into the resolution calling for passage of the SAVE America Act, a highly controversial voter-ID bill. The move links an ideological statement to a specific contested piece of voting legislation.\n\n**Why It's Funny**\n\nThe House voted to condemn socialism. Fine, that's a thing Congress does sometimes. But inside the resolution — tucked into the language — was a call to pass the SAVE America Act, a voter-ID bill that's been too controversial to pass on its own. Here's how that works: if you vote no on the resolution, you're now on record opposing an anti-socialism statement. Nobody wants that clip in an ad. So the bill gets to ride along. It's not subtle. It's not meant to be. It passed.\n\n**Say It Out Loud**\n\n> They hid a voter-ID bill inside an anti-socialism resolution. If you vote no, you're basically a socialist. Checkmate.\n\n---\n\n## 5. GoPro Pivots to AI Data Centers, Stock Jumps 40%\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html)*\n\nGoPro, the action camera company, announced a merger with private photonics company Starman Optical and a pivot into the AI data center business. Shares skyrocketed approximately 40 percent following the announcement. The move represents a significant departure from GoPro's core consumer electronics identity.\n\n**Why It's Funny**\n\nGoPro makes action cameras. Helmet cams. The ones people strap to their foreheads before jumping off things. Last week they announced a merger with a photonics company and a full pivot into AI data centers. Stock jumped 40%. Not because they built anything. Not because the merger closed. Because they said the words 'AI data center' in a press release. In 1999 you added '.com' to your company name and the stock doubled overnight. The trick is the same. The magic words just updated.\n\n**Say It Out Loud**\n\n> GoPro pivoted to AI data centers. Stock up 40%. The cameras are still in the name, technically.\n\n---\n\n## Today's Punchline\n\n> Rename the lake, fire the auditors, disclose the stocks, hide the bill, say 'AI.' None of it changed what was actually there. That's not five stories. That's one habit.\n",
+    "fullJa": "# オンタリオ湖を「レイク・アメリカ」に改名したら、湖は一ミリも動かなかった話\n\n## 今日を占うよ〜\n\n「レイク・アメリカ」。\n\nオンタリオ湖の話から始まります。湖は動いていない。魚も動いていない。でも地図の名前は変わった。で、それで何かが変わったかというと、何も変わっていない。\n\n今日の5本、全部これなんです。税務調査官を減らして「コスト削減」と呼んだら税収が35億ドル消えた話。AI株で49億円動かした官僚が「開示したのでセーフ」という話。「社会主義反対」の決議にこっそり別の法案を縫い付けた話。GoProが「AIデータセンター」と言ったら株価が40%上がった話。\n\nラベルだけ変えて、中身はそのままか、むしろ悪くなってる。\n\n今日の占いです。あなたが「なんか話が噛み合わないな」と感じている相手がいるとしたら、それはたぶんあなたのせいじゃない。相手がラベルと中身をずらして話しているだけです。今日はそれを見抜く練習ができる5本です。金運は、ラベルに踊らない人が強い。\n\n---\n\n## 1. Apple Maps Renames Lake Ontario to 'Lake America' Following Executive Order\n\n*The Verge（[記事](https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming)）*\n\nトランプ大統領の大統領令を受け、AppleがGoogleに続いてアップルマップ上のオンタリオ湖の名称を「レイク・アメリカ」に変更した。カナダ版では従来の名称が維持されている。\n\n**どこが笑える？**\n\nオンタリオ湖は約1万年前から同じ場所にあります。最後の氷河期が終わったあとに形成された湖です。それが先週、大統領令一本で「レイク・アメリカ」になりました。理由は貿易交渉。\n\n水は動いていない。岸も動いていない。ただ地図アプリが更新された。アメリカ版は「レイク・アメリカ」、カナダ版は「オンタリオ湖」のまま。つまり今この瞬間、同じ湖岸を歩いている人が持つスマホによって、その湖の名前が違う。湖はこれを特に気にしていない。でも私は少し気にしています。「名前を変えると交渉が有利になる」という発想の構造が、なんか別のところでも見たことあるな、と思って。\n\n**このニュースをジョークにするなら...**\n\n> 湖は動いてない。魚も動いてない。大統領令一本で、地図だけ動いた。\n\n---\n\n## 2. IRS Audit Revenue Dropped $3.5 Billion After Mass Layoffs, Watchdog Finds\n\n*CBS News US（[記事](https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/)）*\n\n政府の監視機関の調査により、IRSが大規模な人員削減を行った結果、2025会計年度の税務調査による徴収額が35億ドル減少したことが明らかになった。\n\n**どこが笑える？**\n\nコスト削減のためにIRSの調査官を大量に解雇しました。IRSというのはアメリカの国税庁です。で、その結果、税務調査による徴収額が35億ドル減りました。\n\n「税金を取る人を減らしたら、取れる税金が減った」という話で、言葉にすると当たり前なんですが、これが「無駄をなくした」という文脈で実行されたんですよ。素材に載っている試算だと、IRSの調査に使った1ドルは約6ドルの税収を生んでいたらしい。節約しようとして損するやつ——ポイントカードを解約してもっと割高に買い物し始める、あれの国家版です。\n\n**このニュースをジョークにするなら...**\n\n> お金を集める人たちを、コスト削減のために首にした。ちょっと待ってくれ。\n\n---\n\n## 3. Pentagon's Top AI Official Sold Up to $25M in AI Company Stock While Overseeing AI Policy\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/01/top-pentagon-official-ai-stock-holdings)）*\n\n米軍の人工知能政策を統括するペンタゴン高官エミール・マイケル氏が、今年xAIの株で最大2400万ドルの利益を得た後、担当政策と直接関係するPerplexity社の株を最大2500万ドル相当売却していたことが財務開示書類で明らかになった。\n\n**どこが笑える？**\n\nペンタゴンのAI政策担当トップ、エミール・マイケル氏の話です。今年、xAIの株で最大2400万ドル。次にPerplexity（彼の担当政策と直接関係するAI企業）の株で最大2500万ドル。合わせて最大4900万ドル、日本円で70億円超。\n\n全部開示されています。これが「開示したのでセーフ」という話なのかどうか、私にはよくわからない。開示は透明性のためにある。透明性は問題を見えやすくするためにある。見えやすくなった問題が解決されるかどうかは、また別の話です。審判が「私はこのチームの株を持っています」と申告してから試合を裁く——それ、開示って呼んでいいんですかね。\n\n**このニュースをジョークにするなら...**\n\n> 軍のAIルールを決める人が、AI株で49億円動かしてた。全然関係ないですよね、きっと。\n\n---\n\n## 4. House Votes to Condemn Socialism — and Quietly Slips In a Voter-ID Push\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)）*\n\n米下院共和党は社会主義を非難する決議案に投票したが、その決議文には物議を醸している有権者ID法「SAVE America Act」の可決を求める文言も盛り込まれていた。\n\n**どこが笑える？**\n\n米下院が「社会主義を非難する決議」に投票しました。それはまあいい。ただその決議文の中に、「有権者ID法（SAVE America Act）も通してください」という一文が入っていました。\n\nこの法案、単独では通すのが難しいくらい物議を醸しているやつです。だからセットにした。反対票を入れると「社会主義を非難しませんでした」という記録が残る。そんな記録、誰も残したくない。法案は決議に乗っかって通過しました。抱き合わせ商法の議会版で、技術としては正直すごいと思う。すごいと思う、というだけです。\n\n**このニュースをジョークにするなら...**\n\n> 社会主義反対決議の中に投票法を隠した。反対票を入れたら「あなたは社会主義者ですか」になる。お見事。\n\n---\n\n## 5. GoPro Pivots to AI Data Centers, Stock Jumps 40%\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html)）*\n\nアクションカメラで知られるGoPro社が、フォトニクス企業Starman Opticalとの合併を発表し、AIデータセンター事業への転換を表明した。発表を受け株価は40%急騰した。\n\n**どこが笑える？**\n\nGoProはアクションカメラの会社です。ヘルメットに付けてスカイダイビングする、あのカメラ。それが先週「フォトニクス企業と合併してAIデータセンター事業に転換します」と発表しました。株価が40%上がりました。\n\n何かを作ったわけじゃない。合併が完了したわけでもない。プレスリリースに「AIデータセンター」と書いた。それだけです。投資家はGoProを買ったんじゃなくて、GoProの口から出てきた「AIデータセンター」という単語を買った。2000年代前半のドットコムバブルで、何でも「.com」をつけたら株価が上がった話をご存じですか。構造が全く同じです。呪文の中身だけが変わった。\n\n**このニュースをジョークにするなら...**\n\n> GoPro、AIデータセンターに転換。株価40%上昇。カメラは社名の中にだけ残った。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 名前を変えても、湖は動かない。でも地図は変わる。みんなが地図を信じてるうちは、それで十分なんですよね——今日の5本、全部そういう話でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "全体的に水準は高い。直す箇所は2点：d3のimagePrompts③に「a small figure in a suit stands between both sides, arms outstretched」という人物描写が入っており、顔・姿勢が視認できる構図になっているため記号化で置き換える。xJa③が139字でオーバー（135字制限）なので削る。他は合格。 ／ 文体パス: 3箇所修正。quipJaの「というのが、今日の5本の共通の結論でした」がプレゼン締め口調、riffJa[2]の「立場によって変わってくるんだと思います」が説明口調の着地、riffJa[4]末尾の「魔法の言葉だけが更新された」がうまくまとめた感のある締めだったので、それぞれ崩した。"
   },
   "carousel": [
     "images/2026-09-02/carousel/slide-1.jpg",
