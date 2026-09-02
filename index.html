@@ -1115,10 +1115,10 @@ function copyPack(kind, ev){
     const day = Math.floor(Date.now() / 86400000);
     const joke = (EDITORIAL.notesEn || [])[0] || EDITORIAL.quipEn || "";
     if (!joke) return;
+    // リスタック投稿用: 記事カードが導線になるので生URLは付けない
     const text = hooks[day % hooks.length]
       + "\n\n" + joke
-      + "\n\nThat's 1 of 5 from today's issue. The other 4 — and how to actually use them — are here:"
-      + "\nhttps://jokesyoucanuse.substack.com";
+      + "\n\nThat's 1 of 5 from today's issue. The other 4 — and how to actually use them — are in the full post below. ⬇️";
     copyEdText(text, btn);
   } else if (kind === "sub-title"){
     copyEdText(EDITORIAL.titleEn, btn);
@@ -1273,7 +1273,7 @@ function renderEditorial(){
       </div>
 
       <div class="ed-item" style="align-items:center">
-        <div class="t"><b>③ Substack Notes</b>（毎日・約1分）: ボタンを押す → https://substack.com/notes の投稿欄に貼る → Post（宣伝フック+今日のジョーク+記事への導線が完成形で入ります）</div>
+        <div class="t"><b>③ Substack Notes</b>（毎日・約2分/②の記事公開後に）: ⑴公開した今日の記事ページで <b>🔁（リスタック）→「Restack with a note」</b> を押す → ⑵このボタンの文章を貼る → ⑶🎬ボタンで保存した<b>英語版ショート動画も添付</b>（動画ボタン📎から）→ Post。記事カードが「続きへの導線」になるのでURL貼りは不要。動画付きNoteはSubstackの動画フィードにも流れます</div>
         <button class="btn primary" onclick="copyPack('substack-note', event)">📋 Notes投稿文</button>
       </div>
 
