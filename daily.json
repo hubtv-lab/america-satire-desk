@@ -1,354 +1,354 @@
 {
   "version": 1,
-  "date": "2026-09-02",
-  "generatedAt": "2026-09-02T01:14:50+00:00",
+  "date": "2026-09-03",
+  "generatedAt": "2026-09-02T21:53:21+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "MapQuest Hits No. 1 on App Store After Refusing to Rename Lake Ontario",
-        "source": "CBS News US",
-        "date": "2026-09-02",
-        "url": "https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/",
-        "summary": "トランプ大統領令に従ってGoogleとAppleがオンタリオ湖を「レイク・アメリカ」に改名する中、MapQuestが改名を拒否したことで話題となり、App Storeで無料アプリ1位に急浮上した。"
+        "headline": "Apple Renames Lake Ontario 'Lake America' Because an Executive Order Said So",
+        "source": "The Guardian US",
+        "date": "2026-09-03",
+        "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+        "summary": "トランプ大統領の行政命令を受け、Appleはカナダとアメリカの国境にあるオンタリオ湖をアメリカ国内のMapsアプリ上で「レイク・アメリカ」に改名した。"
       },
       "commentary": [
-        "<b>矛盾:</b> テクノロジーの最先端を走るGoogleとAppleが政府の地名変更に即座に従い、「時代遅れ」と思われていたMapQuestが唯一抵抗したことで、デジタル独立心の象徴になってしまった。",
-        "<b>滑稽さ:</b> 2026年に人々がMapQuestをダウンロードしている理由が「地図が使いやすいから」ではなく「湖の名前へのこだわり」というのが、もはや完全に別競技。",
-        "<b>日本・海外から見ると:</b> 米国の巨大テック企業が大統領令ひとつでカナダとの国境湖の名前を書き換える一方、生き残りをかけたMapQuestが抵抗するという構図、「どっちが体制側か」が完全に逆転している。"
+        "<b>矛盾:</b> カナダとの国境をまたぐ湖の名前をアメリカ側だけ変えても、湖そのものは1ミリも動かないんですよ。地図の上だけで「俺の湖」にした感じ。",
+        "<b>滑稽さ:</b> 行政命令一本で地形の名前が変わるなら、次は「大西洋はトランプ・オーシャン」になっても誰も驚けないじゃないですか。",
+        "<b>日本・海外から見ると:</b> カナダ側の地図には今でも「オンタリオ湖」と書いてある。国境のど真ん中にある湖が、岸によって別の名前を持つという、なかなかシュールな状況です。"
       ],
       "imagePrompts": [
-        "A dusty, cobweb-covered MapQuest logo trophy sitting on a podium labeled '#1 App Store', flanked by glossy Google Maps and Apple Maps trophies with their heads bowed",
-        "A giant lake with a name tag that reads 'Lake Ontario / Lake America' — the name half-crossed out, half-reinstated, with a small MapQuest flag planted on the shore",
-        "A smartphone screen showing the App Store top chart: #1 MapQuest, #2 ChatGPT — a user staring at the phone with wide, confused eyes, a printed MapQuest direction sheet sticking out of their pocket"
+        "A large lake viewed from above, split down the middle by a national border line. The left (US) side is labeled 'LAKE AMERICA' in bold official font. The right (Canadian) side is labeled 'LAKE ONTARIO' in the same font. A tiny Apple logo hovers over the US side with a paintbrush.",
+        "A cartographer at a massive wooden desk carefully crossing out 'Ontario' on an antique map and writing 'America' with a quill pen, while a framed executive order hangs on the wall behind him. The map still shows Canada surrounding the lake on three sides.",
+        "Two kayakers facing each other in the middle of a lake, one holding a sign reading 'LAKE ONTARIO,' the other holding one reading 'LAKE AMERICA.' A fish jumps between them, completely uninterested."
       ],
       "captions": [
-        "MapQuest just beat ChatGPT on the charts. Not by being smarter. Not by being faster. By refusing to rename a lake.",
-        "Google built a trillion-dollar company around 'Don't be evil.' Renaming Lake Ontario took, what, an afternoon?",
-        "People downloaded MapQuest in 2026. For the lake names. I'm not saying the timeline is broken, but—",
-        "Somewhere a MapQuest engineer is reading this news and thinking, 'We've been ready for this moment since 2003.'",
-        "You know things are weird when the most principled tech company of the week still gives you seventeen-page directions for a left turn."
+        "Apple changed the name of a lake. Canada still has the lake.",
+        "MapQuest, which your parents stopped using in 2011, now has more downloads than ChatGPT — because it just didn't rename a lake. That's the whole story.",
+        "The executive order changed the map. It did not change the watershed, the fish population, or Canada's opinion of us.",
+        "You ever rename half a lake and wonder if the other half got the memo?",
+        "Somewhere in Cupertino, an engineer had to open a database, find 'Lake Ontario,' change it to 'Lake America,' close the laptop, and go home for the day. That was the job."
       ],
       "captionsJa": [
-        "MapQuestがApp StoreでChatGPTを抜いた。頭がいいから？いや。湖の名前を変えなかっただけ。",
-        "Googleは「悪にならない」を掲げて1兆ドル企業になった。オンタリオ湖の改名は……まあ、午後一本で終わったんでしょうね。",
-        "2026年にMapQuestをダウンロードしてる人たちの理由が「湖の名前へのこだわり」って、もうそれ別の何かじゃないですか。",
-        "どこかのMapQuestのエンジニア、今ごろ「2003年からずっとこの瞬間を待ってた」って思ってますよ絶対。",
-        "一番気骨のあるテック企業が、左折するのに17ページの道案内を出してくるやつっていうのが、今週の話。"
+        "Appleが湖の名前を変えた。湖はカナダにまだある。",
+        "2011年に誰もが使うのをやめたMapQuestが、「湖の名前を変えなかっただけ」でChatGPTを抜いて1位になった。それが全部です。",
+        "行政命令は地図を変えた。集水域も、魚の数も、カナダの気持ちも、1ミリも変わっていない。",
+        "半分だけ名前を変えた湖、残り半分には連絡が届いてないんですけど。",
+        "どこかのエンジニアが「オンタリオ湖」を検索して「レイク・アメリカ」に直して、ノートパソコンを閉じて帰宅した。それが今日の仕事。"
       ],
-      "newsEn": "MapQuest, the once-dominant mapping service many had assumed was defunct, shot to the top of Apple's App Store free downloads chart after announcing it would keep traditional lake names rather than comply with a Trump executive order renaming Lake Ontario. The company's refusal placed it above ChatGPT on the charts. Google Maps and Apple Maps both updated their labels to reflect the new government-mandated name.",
+      "newsEn": "Apple has renamed Lake Ontario as 'Lake America' for US users of its Maps app, following an executive order from President Trump issued amid his trade dispute with Canada. The lake sits on the border between the US and Canada and has been called Lake Ontario for centuries. The name change applies only to the US version of Apple Maps.",
       "ironyEn": [
         {
-          "contradiction": "Google and Apple — companies that built empires on the idea of organizing the world's information — updated a lake's name on government request faster than they update their own privacy policies.",
-          "absurdity": "MapQuest, a service people use primarily by accident when their phone dies, is now the symbol of digital resistance.",
-          "outside": "From outside the U.S., watching Silicon Valley giants rename a Great Lake while a 2005-era mapping app holds the line is a very specific kind of performance art."
+          "contradiction": "The lake hasn't moved an inch, but on the US side of Apple Maps it's now called 'Lake America' — a body of water that is, factually, half Canadian.",
+          "absurdity": "Apple, a company that once told users 'Think Different,' chose to quietly swap out a name that's been on maps since 1755 because a trade dispute happened.",
+          "outside": "Canadian users open the same app and still see 'Lake Ontario.' So the lake has two names depending on which shore you're standing on. The water does not care."
         },
         {
-          "contradiction": "The boldest act of corporate independence this week came from a company whose main claim to fame is printing out seventeen pages of directions for a twelve-minute drive.",
-          "absurdity": "It beat ChatGPT. The AI that can write your novel, pass the bar exam, and compose a sonnet — lost the download race to MapQuest over a lake.",
-          "outside": "Canada's version of Apple Maps still says Lake Ontario, which means the lake is currently named differently depending on which side of the border your iPhone thinks you're on."
+          "contradiction": "An executive order about tariffs somehow also became an executive order about Great Lakes nomenclature. The logic connecting those two things has not been made public.",
+          "absurdity": "Meanwhile, MapQuest — a service most people assumed died in 2009 — shot to No. 1 on the App Store by simply not renaming the lake. Defiance has never required less effort.",
+          "outside": "From abroad, this reads as a country trying to win a trade war by editing its own map. Canada's exports remain unchanged. The lake's volume remains unchanged. Only the font is different."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-02/candidate-1.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-02/candidate-1-punchy.jpg"
+      "image": "images/2026-09-03/candidate-1.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-03/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "House Censures Rep. Chuck Edwards for 'Inappropriate Conduct' Toward Female Aides",
-        "source": "CBS News US",
-        "date": "2026-09-02",
-        "url": "https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/",
-        "summary": "下院は倫理委員会の調査を受け、ノースカロライナ州選出の共和党議員チャック・エドワーズを、若い女性スタッフ2人への「不適切な行為」を理由に公式に非難決議した。"
+        "headline": "IRS Fired Its Auditors. Turns Out, Auditors Were the Ones Collecting Taxes.",
+        "source": "NPR News",
+        "date": "2026-09-03",
+        "url": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
+        "summary": "監察総監のレポートにより、IRS（米国歳入庁）が監査スタッフを大幅削減した結果、税務執行による徴収額が急減していたことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 同じ週に下院が「反社会主義決議」を超党派で通過させる一方、職場ハラスメントの議員への非難決議もまた超党派で通過させたという事実が、アメリカ政治の優先順位表を静かに照らし出している。",
-        "<b>滑稽さ:</b> 「非難決議」を受けても議員を即座に失職させる仕組みがない。公式に「これはダメ」と書いた紙を渡して、そのまま一緒に仕事を続けるという制度設計が、職場研修のロールプレイより機能していない。",
-        "<b>日本・海外から見ると:</b> 非難決議（censure）に法的拘束力がない点は日本でも同じだが、「議会で同僚に紙を渡す」ことが最大の処分というのは、有権者の目にどう映っているのか気になるところ。"
+        "<b>矛盾:</b> 「政府のムダを省く」という名目で税金を集める人員を削ったら、集まる税金が減った。節約しようとして収入を減らすという、家計でもやってはいけないやつ。",
+        "<b>滑稽さ:</b> 脱税を摘発する側の人間がいなくなったことで、得をしたのは脱税しようとしていた人たちです。「政府の効率化」の恩恵、これが一番わかりやすい受取人。",
+        "<b>日本・海外から見ると:</b> 税務調査官を解雇することで税収が増えると思っていたなら話は別ですが、普通に考えて、チェックする人がいなければ申告は緩くなりますよね。"
       ],
       "imagePrompts": [
-        "A congressman standing in a grand congressional chamber receiving a formally framed piece of paper labeled 'CENSURE', holding it with both hands while colleagues give a polite golf clap, all returning immediately to their desks",
-        "An office bulletin board with a printed 'CENSURE NOTICE' pinned next to a 'EMPLOYEE OF THE MONTH' plaque, both hanging in the same ornate congressional hallway",
-        "A giant official government seal stamp reading 'BAD BEHAVIOR CONFIRMED' pressed onto a document, next to a second stamp reading 'STILL IN OFFICE'"
+        "An empty government office with rows of vacant desks, audit folders scattered on the floor, and a large scoreboard on the wall showing 'TAX COLLECTED: $0' with a downward arrow. A single plant on one desk is also dead.",
+        "A person in a suit walking out of an IRS building carrying a box of belongings, while behind them through the glass doors a line of people with briefcases labeled 'UNPAID TAXES' quietly tiptoe away smiling.",
+        "A balance scale: on the left side, a small stack of coins labeled 'SALARY SAVED BY LAYOFFS.' On the right side, a massive pile of gold bars labeled 'TAXES NOW GOING UNCOLLECTED.' The scale is tipped dramatically to the right."
       ],
       "captions": [
-        "Congress officially told him his behavior was unacceptable. He still has his desk. His vote. His parking spot. But they told him.",
-        "A censure is basically Congress writing 'we are not pleased' in calligraphy and handing it over at a podium. Very fancy. Completely toothless.",
-        "The good news: it was bipartisan. The bad news: the bipartisan consensus was 'yes, this happened' and nothing else.",
-        "Most offices call HR. Congress calls a floor vote, issues a document, and then everyone goes to the same cafeteria for lunch.",
-        "Young women who work on Capitol Hill, this one's for you — they passed a whole resolution. It's framed now."
+        "We fired the tax collectors to save money. We are now saving even more money by not collecting taxes.",
+        "The Inspector General wrote a report about this. The findings were: yes, if you fire the auditors, people get audited less.",
+        "Somewhere, someone who owed the IRS a lot of money just had the best year of their life — courtesy of federal workforce reform.",
+        "Government efficiency: achieved. Government revenue: less achieved.",
+        "It cost money to run the audit division. It cost more money to stop running it. Nobody put that in the press release."
       ],
       "captionsJa": [
-        "下院は正式に「あなたの行いはダメです」と告げた。席もある。投票権もある。駐車場もある。でも告げた。",
-        "「非難決議」って、議会が「大変遺憾に思います」を公式書類にして手渡す儀式なんですよ。格式はある。効力はない。",
-        "超党派で可決。よかった。ただその超党派の合意が「これは起きた」というところで止まっている。",
-        "普通の会社ならHR案件。議会では本会議採決→書類手渡し→同じ食堂でランチ、というルートをたどる。",
-        "国会議事堂で働く若い女性のみなさん、決議が通りましたよ。額縁に入れてもらえます。"
+        "節税のために税金を集める人を解雇した。おかげで税金がさらに集まらなくなった。",
+        "監察総監がレポートを書いた。内容は「監査する人を解雇したら、監査が減った」。以上。",
+        "どこかで税金を大量に滞納していた人が、今年最高の年を過ごしています。連邦政府の効率化のおかげで。",
+        "政府の効率化：達成。政府の収入：それほど達成できず。",
+        "監査部門の運営にはお金がかかった。廃止するともっとお金がかかった。プレスリリースにはそう書かれていなかった。"
       ],
-      "newsEn": "The House of Representatives formally censured Republican Rep. Chuck Edwards of North Carolina following a House Ethics Committee investigation into allegations of unprofessional and inappropriate conduct toward two young female staffers. The censure vote drew bipartisan support. Edwards represents a district he has held since 2023.",
+      "newsEn": "The IRS significantly cut its auditing staff last year as part of broader federal workforce reductions. An Inspector General report now shows that tax collections from enforcement efforts have plummeted as a direct result. Consumer and fiscal watchdog groups warn the shortfall could add substantially to the federal deficit.",
       "ironyEn": [
         {
-          "contradiction": "The House passed a bipartisan censure for workplace misconduct the same week it passed a bipartisan resolution condemning socialism — making 'harassment bad' and 'socialism bad' equally binding, which is to say, not at all.",
-          "absurdity": "A censure in Congress means colleagues officially hand you a piece of paper saying you behaved badly, then immediately go back to working with you. It's less consequence than a one-star Yelp review.",
-          "outside": "In most workplaces, the HR outcome here would look very different. In Congress, the outcome is a floor speech and a handshake from the other side of the aisle."
+          "contradiction": "The government cut the people whose job is to collect money from people who aren't paying — and then collected less money. The Inspector General did not seem surprised.",
+          "absurdity": "In the effort to shrink government spending, the administration eliminated a division that was, by most accounts, generating more revenue than it cost to operate.",
+          "outside": "Tax authorities in other countries are watching this as a case study. Not a flattering one."
         },
         {
-          "contradiction": "The Ethics Committee called it 'unprofessional and inappropriate conduct.' The resolution passed. Edwards keeps his seat, his vote, and his parking space.",
-          "absurdity": "Bipartisanship is rare in this Congress. When it showed up this week, it was to agree that harassing your young female staffers is, technically, not great.",
-          "outside": "The censure is the legislative equivalent of a strongly worded email. It goes in the record. Nobody is required to act on it."
+          "contradiction": "Firing enforcement staff to save money is a bit like a restaurant laying off the waitstaff to cut costs and then noticing that revenue has dropped.",
+          "absurdity": "The people who were supposed to find unpaid taxes are now gone, which means the unpaid taxes are simply staying unpaid. The system is working exactly as gutted.",
+          "outside": "The Inspector General filed a report. The report found what you'd expect. The question now is what happens to the report."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-02/candidate-2.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-02/candidate-2-punchy.jpg"
+      "image": "images/2026-09-03/candidate-2.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-03/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "Ed Markey, 80, Wins Massachusetts Democratic Primary Despite Age Challenges",
-        "source": "The Guardian US",
-        "date": "2026-09-02",
-        "url": "https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary",
-        "summary": "マサチューセッツ州選出の現職上院議員エド・マーキー（80歳）が、「マーキーは高齢で効果的でない」と訴えたセス・モールトン下院議員との民主党予備選を制し、再選に向けた党指名を勝ち取った。"
+        "headline": "US Mint Sells $1 Trump Coins for $1.55 Each, Which Is Not How a Dollar Works",
+        "source": "CBS News US",
+        "date": "2026-09-03",
+        "url": "https://www.cbsnews.com/news/trump-1-dollar-coins-us-mint-sale/",
+        "summary": "米造幣局がトランプ大統領の肖像を刻んだ1ドル硬貨を発売。25枚セットで61ドル（1枚あたり約2.44ドル）から販売されており、額面の1.55倍以上の価格設定となっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「若い世代に交代すべき」という主張を掲げた47歳の候補が、1976年から議員を続ける80歳に敗れた——民主党が世代交代を議論している最中の選挙で。",
-        "<b>滑稽さ:</b> マーキー氏が初当選した1976年、モールトン氏はまだ生まれていない。その相手に「古すぎる」と言って挑んで負けるというのは、ある種の完成された話になっている。",
-        "<b>日本・海外から見ると:</b> 日本でも「政治家の高齢化」は定番の議題だが、「高齢すぎる」を選挙の争点にして、その高齢候補に正面から負けるという展開は、どの国でも有権者の意思表示として面白い。"
+        "<b>矛盾:</b> 1ドルの価値しか持たない硬貨を、政府が1.55ドル以上で売っています。インフレを批判してきた政権が、自分の顔が入った硬貨でインフレを実演してる。",
+        "<b>滑稽さ:</b> 25枚買うと61ドル取られるんですが、それを全部使おうとすると25ドルにしかならない。36ドルは「トランプ硬貨プレミアム」として消えていくわけです。",
+        "<b>日本・海外から見ると:</b> 日本の造幣局も記念硬貨を額面より高く売ることはありますが、それは「コレクターアイテム」として売るんですよ。これは一応「1ドル硬貨」として売っている。"
       ],
       "imagePrompts": [
-        "An 80-year-old senator in a victory pose at a podium, confetti falling, campaign banner behind him reading 'FRESH IDEAS', while a significantly younger challenger looks on from the side",
-        "A campaign flyer split in two: left side reads 'TOO OLD TO BE EFFECTIVE' with a photo of an elderly senator; right side reads 'WINNER' with a check mark and the same photo",
-        "A timeline graphic on a wall showing '1976: Markey elected' and '1978: Opponent born' with a small arrow connecting them, displayed in a campaign headquarters"
+        "A vending machine display case showing a single Trump $1 coin behind glass with a price tag reading '$2.44.' A hand reaches toward it holding a regular dollar bill looking confused.",
+        "A scale with a single coin labeled '$1 FACE VALUE' on one side and a price tag reading '$2.44' on the other side, with the price tag side sinking lower. A tiny US Mint logo is stamped on the scale.",
+        "A storefront window displaying Trump $1 coins in velvet boxes, with a handwritten sign: 'BUY 100 FOR $154.50 — SPEND THEM AND GET $100 BACK!' A small footnote reads: 'Net loss: $54.50.'"
       ],
       "captions": [
-        "Moulton's whole campaign was 'he's too old.' Markey's campaign was 'hold on, I'm still here.' Markey won.",
-        "Ed Markey was already in Congress when his opponent was born. That's not an attack line. That's just the calendar.",
-        "Democrats have been talking about generational change all year. Massachusetts said, 'Interesting. We'll revisit that in six years.'",
-        "At what age does a senator become too old? Massachusetts voters looked at 80, shrugged, and said, 'Not yet.'",
-        "Moulton lost on the argument that the other guy was too old. He's 47. I don't know what to do with that either."
+        "The US government is selling a dollar for $1.55. Inflation, but make it patriotic.",
+        "Buy 25 Trump dollars, spend them all, you're out $36. That's not a coin — that's a cover charge.",
+        "The face value says $1. The checkout page says $2.44. One of those is lying.",
+        "The government is selling money at a markup. The markup is $0.55. The explanation is a coin with a face on it.",
+        "For $154.50, you can own $100. The other $54.50 is apparently the cost of the face on the front."
       ],
       "captionsJa": [
-        "モールトンの選挙戦略は「彼は年を取りすぎ」。マーキーの戦略は「まだここにいます」。マーキーが勝った。",
-        "マーキーが初めて議会に来た年、対立候補はまだ生まれていなかった。攻撃材料じゃなくて、ただのカレンダーの話。",
-        "民主党は今年ずっと「世代交代」を語ってきた。マサチューセッツは「面白い。6年後にまた考えよう」と答えた。",
-        "何歳になったら「年を取りすぎ」になるのか。マサチューセッツの有権者は80歳を見て「まだ」と言った。",
-        "「相手が古すぎる」という主張で負けたモールトンは47歳。私にもどう解釈すればいいかわからない。"
+        "政府が1ドルを1.55ドルで売っている。インフレ、愛国心でラッピング。",
+        "25枚買って全部使うと36ドル損する。これは硬貨じゃなくて入場料です。",
+        "額面は1ドル。購入ページには2.44ドル。どっちかが嘘をついてる。",
+        "政府がお金を割増価格で売っている。割増分は0.55ドル。理由は、顔の入った硬貨だから。",
+        "154.50ドル払えば100ドルもらえる。残りの54.50ドルは、表の顔の使用料らしい。"
       ],
-      "newsEn": "Senator Ed Markey, 80, won the Massachusetts Democratic primary on Tuesday, defeating Rep. Seth Moulton, 47, who had centered his campaign on the argument that the party needed younger leaders. The victory comes at a moment when Democrats nationally have been debating age and generational change in party leadership. Markey has served in Congress since 1976.",
+      "newsEn": "The US Mint has begun selling President Donald J. Trump $1 coins, priced at $1.55 per coin at minimum. A package of 25 coins costs $61, while 100 coins cost $154.50, making the per-coin price range from $1.545 to $2.44 depending on quantity. The coins have a face value of one dollar.",
       "ironyEn": [
         {
-          "contradiction": "Moulton ran a campaign built entirely on 'Markey is too old to be effective.' Markey won. The voters of Massachusetts looked at that argument and said, 'Sure, but have you considered: no.'",
-          "absurdity": "Markey has been in Congress since 1976. Moulton was born in 1978. The 'too old' candidate won against someone who literally didn't exist yet when Markey first showed up to work.",
-          "outside": "Democrats spent most of this election cycle arguing their party needed fresh faces. Massachusetts sent a message — just not that message."
+          "contradiction": "A $1 coin is being sold for $1.55 — by the same government that has made lowering the cost of things a central policy message.",
+          "absurdity": "If you buy 25 of them and spend them all at a vending machine, you lose $36. The US Mint has found a way to make legal tender a bad investment.",
+          "outside": "Other countries sell commemorative coins above face value too, but they're usually sold as collectibles. These are officially '$1 coins.' The denomination is right there on the coin."
         },
         {
-          "contradiction": "The centerpiece of Moulton's campaign was generational change. The outcome was: same generation, another term.",
-          "absurdity": "At 80, Markey is old enough to remember when Massachusetts had a different senator. He outlasted that senator too.",
-          "outside": "Globally, voters have shown they'll often back the familiar over the argument for change — even when the argument is literally about the age of the person they're backing."
+          "contradiction": "The coin is worth a dollar. The coin costs $2.44 if you buy the small pack. The gap between those two numbers is the entire joke.",
+          "absurdity": "For $154.50 you receive $100 in spendable currency, a net loss of $54.50, and a very large bag of coins featuring the same face on all of them.",
+          "outside": "Economists have a word for when the market price of money is higher than its stated value. It's called a 'premium.' Having it on a government-issued product is a choice."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-02/candidate-3.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-02/candidate-3-punchy.jpg"
+      "image": "images/2026-09-03/candidate-3.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-03/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Homeland Security Chief Says ICE Could Be Deployed to Polling Places",
-        "source": "The Guardian US",
-        "date": "2026-09-02",
-        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-homeland-security-markwayne-mullin-polling",
-        "summary": "マークウェイン・マリン国土安全保障長官は、投票所に対する「脅威」や逮捕令状の執行が必要な場合、ICE（移民・関税執行局）捜査官を投票所に派遣する可能性があると述べた。"
+        "headline": "Laid Off While on Maternity Leave. It's Legal. It Happens More Than You Think.",
+        "source": "CNBC Top News",
+        "date": "2026-09-03",
+        "url": "https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html",
+        "summary": "育児休暇中にレイオフされた女性が複数おり、CNBCの報道によれば、こうした解雇は違法ではなく、実態として広く行われている可能性がある。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「脅威があれば行く」という論理は一見合理的に聞こえるが、投票所に連邦移民捜査官が現れること自体が、多くの有権者にとって脅威になりうる——という構造的な矛盾を、発言は綺麗にスルーしている。",
-        "<b>滑稽さ:</b> 「投票を守るために捜査官を送る」という建前と、「捜査官が来ると投票に来ない人が出る」という現実が、同じ一文に共存している。民主主義の保護と抑制が、同じ手段で実現されようとしている。",
-        "<b>日本・海外から見ると:</b> 日本では投票所に警察官が常駐することはまずなく、投票率の低さは別の文脈で語られる。移民捜査官が投票所の周辺に立つという絵は、多くの民主主義国家では「選挙の健全性を示すもの」とは受け取られないだろう。"
+        "<b>矛盾:</b> 産休という「会社の制度を正しく使っている期間」に、同じ会社が「お前はいらなくなった」と伝えられる。制度が制度を食う構図です。",
+        "<b>滑稽さ:</b> 「レイオフはビジネス上の判断」と言えば合法になる、というのがアメリカの雇用法のすごいところで、つまり理由の言い方さえ正しければ何でも通る。",
+        "<b>日本・海外から見ると:</b> 多くの国では産休・育休中の解雇は原則禁止なんですが、アメリカでは「合法かどうかは文脈次第」という話になる。文脈、重すぎませんか。"
       ],
       "imagePrompts": [
-        "A small-town polling place with a cheerful 'VOTE HERE' banner, staffed by elderly volunteers, while two ICE officers in tactical gear stand at the entrance checking clipboards",
-        "A Venn diagram with two overlapping circles: one labeled 'Protecting the vote', the other labeled 'Discouraging the vote' — the overlap is labeled 'ICE at polling places'",
-        "An 'OPEN FOR DEMOCRACY' sign on a polling place door, with a second, smaller sign below it reading 'Federal agents may be present', a lone voter hesitating at the sidewalk"
+        "A hospital room seen from the doorway. On the bedside table: a bouquet of congratulatory flowers and a smartphone showing an email notification reading 'RE: Your Position Has Been Eliminated.' The room is empty of people — only the objects tell the story. A balloon in the corner reads 'IT'S A GIRL!'",
+        "A corporate HR office with a wall calendar. The weeks labeled 'MATERNITY LEAVE' are circled in red with a sticky note: 'Legally permissible if framed correctly.' The desk is otherwise bare and tidy.",
+        "An office desk with two items side by side: a framed photo of a newborn's footprint and a cardboard box labeled 'PERSONAL BELONGINGS.' A sticky note on the box reads: 'Business decision. Nothing personal.'"
       ],
       "captions": [
-        "The polling place is safe, they said. Safe enough that we're sending armed federal immigration agents. Just in case.",
-        "Nothing gets voters excited to participate in democracy like finding out there might be ICE officers at the door. Very 'I Voted' sticker energy.",
-        "Their argument: ICE would only show up if there's a threat. Their blind spot: ICE showing up is the threat.",
-        "Most countries staff polling places with retirees and PTA volunteers. America is workshopping a different vibe.",
-        "Federal law bans intimidation at polls. Federal agents at polls is, per the secretary, totally different. He did not elaborate on what the difference is."
+        "Great news: you had a baby. Also: we've restructured. Unrelated.",
+        "The layoff is legal as long as nobody writes down the real reason. So they don't write down the real reason.",
+        "You're protected from being fired for being pregnant. You're not protected from being fired while being on leave for having been pregnant. There's a gap there.",
+        "HR calls it a restructuring. You call it from the maternity ward. The timing is, legally speaking, a coincidence.",
+        "The benefit is real. The job waiting for you when the benefit ends — that part's optional."
       ],
       "captionsJa": [
-        "投票所は安全です、と言った。だから連邦移民捜査官を送ります、とも言った。念のため。",
-        "玄関にICE捜査官がいるかもしれないと知ったとき、有権者の投票意欲がどう動くか——「参加したい」じゃないですよね。",
-        "「脅威があれば派遣する」という論理。盲点は、「ICEが来ること」が脅威だということ。",
-        "多くの国の投票所は、退職した教師や地域ボランティアで運営されている。アメリカは別の雰囲気を模索中。",
-        "連邦法は投票所での威圧を禁じている。投票所への連邦捜査官の派遣は、長官によれば別の話。どう違うかは説明されなかった。"
+        "おめでとうございます、出産しました。あと、組織再編しました。無関係です。",
+        "本当の理由を書かなければ合法。なので書かない。",
+        "妊娠を理由に解雇するのは違法。妊娠で産休中に解雇するのは、状況次第で合法。そこにスキマがある。",
+        "会社は「組織再編」と呼ぶ。あなたは産院から電話を受ける。タイミングは、法的には偶然の一致。",
+        "産休という制度は本物。産休が終わったときに仕事があるかどうかは、オプション扱い。"
       ],
-      "newsEn": "Homeland Security Secretary Markwayne Mullin said Tuesday that ICE officers could be deployed to polling sites if there is a perceived threat to a polling place or if agents need to serve a warrant there. The comment drew immediate alarm from voting rights advocates and Democratic lawmakers, who warned it could suppress voter turnout. Federal law prohibits certain forms of intimidation at polling places.",
+      "newsEn": "Several women have reported being laid off by their employers while on maternity leave. Legal experts note that in many US states, this practice is technically lawful as long as the layoff is framed as a business decision rather than a response to the pregnancy or leave itself. Employment attorneys say the line between legal restructuring and illegal discrimination can be difficult to prove in court.",
       "ironyEn": [
         {
-          "contradiction": "The plan is to protect the polling place by sending the people whose presence makes a large portion of the population afraid to approach the polling place.",
-          "absurdity": "It's a voter protection strategy where the protection itself is the threat. Very efficient — one move does two jobs.",
-          "outside": "International election observers are typically sent to countries to look for signs of voter intimidation. This is starting to sound like content for their reports."
+          "contradiction": "Maternity leave exists so new mothers can keep their jobs while recovering from childbirth. It does not, as it turns out, guarantee that the job will still be there when they get back.",
+          "absurdity": "The layoff is legal as long as the employer calls it a business decision rather than a pregnancy-related decision. The outcome is identical. The paperwork is different.",
+          "outside": "In most of Europe, terminating someone during maternity leave requires navigating very specific legal exceptions. In the US, the question is more like: can you prove it was about the baby?"
         },
         {
-          "contradiction": "Mullin said ICE could show up 'if there is a threat.' The question left unanswered is who decides what counts as a threat, and whether ICE's presence automatically qualifies.",
-          "absurdity": "Federal law already prohibits intimidation at polling places. The proposed solution to potential lawbreaking at polls is to add federal agents with arrest powers. Truly a belt-and-suspenders approach to democracy.",
-          "outside": "Most democracies try to make polling places feel as unthreatening as possible — often staffing them with retired teachers and PTA volunteers. Just a different design philosophy."
+          "contradiction": "Companies offer maternity leave as a benefit. That benefit can be the period during which the company decides to eliminate the position receiving the benefit.",
+          "absurdity": "Legal experts describe the gap between 'illegal pregnancy discrimination' and 'legal restructuring during leave' as a line that exists mostly in how the HR memo is worded.",
+          "outside": "The US has no federally mandated paid maternity leave. It does have a law that allows unpaid leave, during which you can still be laid off. That's the system, fully assembled."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-02/candidate-4.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-02/candidate-4-punchy.jpg"
+      "image": "images/2026-09-03/candidate-4.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-03/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "House Passes Resolution Condemning Socialism — With Voter ID Rider Tucked Inside",
+        "headline": "Uber Cuts 10% of Staff to Move 'Simpler and Faster,' Starting With the Humans",
         "source": "CNBC Top News",
-        "date": "2026-09-02",
-        "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
-        "summary": "下院共和党は反社会主義を非難する決議を可決させたが、その中に物議を醸している有権者ID法案「SAVE America Act」の通過を求める条項を紛れ込ませていた。"
+        "date": "2026-09-03",
+        "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
+        "summary": "Uberが全従業員の約10%を削減すると発表。「よりシンプルかつ迅速に動く」ことを目的とするとしており、小規模チームはほぼ半減、リモートワーク継続を認められるのは全体の約1%にとどまる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「社会主義を非難する」という象徴的な決議に、有権者ID法案の推進文言を抱き合わせで入れた構造がある。法的効力のない声明を、実際の立法意図の包み紙として使っている。",
-        "<b>滑稽さ:</b> 反社会主義決議なのに、中身を読むと選挙法の話が書いてある——という文書の二重構造が、「何について話しているのか」という問いに素直に答えていない。",
-        "<b>日本・海外から見ると:</b> 日本の国会でも予算案への抱き合わせ条項は議論になるが、「社会主義批判」と「選挙制度」を一枚の紙に同居させるという発想は、立法のパッケージングとして独特の大胆さがある。"
+        "<b>矛盾:</b> 人を届けるサービスを提供している会社が、自分の社員を「効率化」という名目でリストラする。ライドシェアのドライバーは業務委託だから「従業員」ではない、というのも含めてなかなかの構図。",
+        "<b>滑稽さ:</b> 「シンプルで速い会社になる」という説明で10%カットを発表したんですが、残された人が同じ仕事を10%多くやることを「シンプル」と呼ぶのは、言葉の使い方として勇気がある。",
+        "<b>日本・海外から見ると:</b> リモートワーク継続を認めるのが全体の1%というのも地味に厳しくて、オフィス復帰を義務づけつつ同時にレイオフするという、2つのニュースが同時に起きている。"
       ],
       "imagePrompts": [
-        "A large document labeled 'ANTI-SOCIALISM RESOLUTION' on the cover, held open to an interior page that reads 'Also: please pass our voter ID bill', a congressman smiling and pointing to the inside page",
-        "A matryoshka doll set: the outer doll labeled 'Condemning Socialism', opened to reveal a smaller doll labeled 'Voter ID Bill', opened to reveal a tiny doll labeled 'November Election'",
-        "A congressional podium with two signs: a large one reading 'DOWN WITH SOCIALISM' and a small sticky note below reading '(p.s. vote for our election bill)'"
+        "A large office floor with half the desks empty and chairs stacked on them. Remaining employees sit at their desks with a banner overhead reading 'SIMPLER AND FASTER.' One employee is visibly doing the work of three people, each desk's worth of paperwork stacked in front of them.",
+        "An Uber app interface on a phone screen, but instead of requesting a ride it shows a notification: 'Your team has been streamlined. ETA to exit: 2 weeks.' A 4.8-star rating appears below.",
+        "A corporate meeting room with a whiteboard. On the whiteboard is written 'HOW TO BE SIMPLER AND FASTER' with a single bullet point: 'Fewer people.' A presenter points to it with a satisfied expression."
       ],
       "captions": [
-        "They passed an anti-socialism resolution. Inside the anti-socialism resolution: a voter ID bill. Inside the voter ID bill: November.",
-        "Can't get your bill through on its own? Staple it to the thing everybody's already voting yes on. Congrats, you've invented legislative origami.",
-        "The resolution has no legal force. The rider has no legal force. But they are now both permanently in the Congressional Record, which is what counts as a win on a Tuesday in September.",
-        "Somewhere a staffer had to write 'WHEREAS socialism is bad' and then immediately write 'THEREFORE, voter ID.' That's the whole document. That person went home.",
-        "Other countries put policy riders in budget bills. America put one inside a vibe."
+        "Uber laid off 10% of staff to get 'simpler and faster.' The math on who does their work is still loading.",
+        "Small teams cut by nearly half. So your four-person team is now a two-person team with four people's tasks. That's not simpler. That's just fewer complaints.",
+        "1% of the workforce gets to keep working remotely. The other 99% get to come back to an office with noticeably fewer coworkers.",
+        "The drivers aren't employees, so they don't count in the layoff numbers. The people who got laid off were the employees. Uber contains multitudes.",
+        "'Simpler and faster' — the press release phrase that means 'we have fewer people now and we'd prefer not to discuss it further.'"
       ],
       "captionsJa": [
-        "反社会主義決議を通した。決議の中身を読んだら有権者ID法案が入っていた。そのさらに奥には11月がある。",
-        "単独では通せない法案は、みんながどうせ賛成する決議の中に入れればいい。立法折り紙の誕生。",
-        "この決議に法的効力はない。ライダーにも法的効力はない。でも議会議事録には残る。9月の火曜日の「勝ち」はそういうもの。",
-        "どこかのスタッフが「社会主義はよくない」と書いて、次の行に「だから有権者IDを」と書いた。それが書類の全部。その人は定時で帰った。",
-        "他の国は予算法案に政策を抱き合わせる。アメリカは「雰囲気」の中に入れた。"
+        "「よりシンプルで速く」なるために10%カット。その10%の仕事が誰に行くかは、まだ計算中。",
+        "小規模チームがほぼ半減。4人チームが2人になって、仕事は4人分のまま。シンプルじゃなくて、文句を言う人が減っただけ。",
+        "リモート継続が認められるのは全体の1%。残りの99%はオフィスに戻る。ただし同僚は目に見えて減っている。",
+        "ドライバーは「従業員」じゃないので、レイオフの数には入らない。レイオフされたのは社員だけ。Uberという会社、いろいろ含んでいる。",
+        "「シンプルで速く」というプレスリリース用語の意味：人が減った。それ以上の質問はご遠慮ください。"
       ],
-      "newsEn": "The House passed a measure formally condemning socialism ahead of the November election. Republicans inserted language calling for the passage of the SAVE America Act — a highly controversial voter ID bill — into the same resolution. The socialism resolution is largely symbolic and has no binding legal effect.",
+      "newsEn": "Uber announced it will cut approximately 10% of its global workforce as part of a company restructuring aimed at becoming 'simpler and faster.' The company said small teams will be reduced by nearly half, and only about 1% of the total workforce will be allowed to continue working fully remotely. No specific division or role was named as the primary target of cuts.",
       "ironyEn": [
         {
-          "contradiction": "The resolution condemning socialism has no legal force. The voter ID language inserted inside it also has no legal force. Together they make a very official-sounding document that does nothing — but makes sure people read both sentences.",
-          "absurdity": "Congress found a way to campaign and legislate at the same time while doing neither. It's a remarkably efficient use of a Tuesday.",
-          "outside": "From the outside, watching a body with serious legislative powers spend floor time passing a symbolic anti-socialism statement — with a policy wish list stapled to the back — looks like a very elaborate press release."
+          "contradiction": "Uber's core business is connecting people who need to get somewhere with people who can take them there. The internal staff — the people designing and running that system — just got 10% smaller.",
+          "absurdity": "'Simpler and faster' is doing a lot of work in that press release. The company will be simpler in the sense that it now has fewer employees. Whether that makes it faster is a next-quarter problem.",
+          "outside": "Uber's drivers have never been classified as employees in most US jurisdictions, which means the people actually doing the rides aren't counted in the 10%. Only the people in offices are."
         },
         {
-          "contradiction": "Republicans attached a voting bill to an anti-socialism resolution. The socialism resolution is symbolic. So the voting bill is now symbolically inside a symbol. Symbolism all the way down.",
-          "absurdity": "The SAVE America Act is 'highly controversial,' which in this context means they couldn't pass it on its own, so they hid it inside the thing everyone would vote yes on.",
-          "outside": "Legislative riders — slipping policy into unrelated bills — are common globally. Slipping policy into what is essentially a press release is a more advanced technique."
+          "contradiction": "The company that built a platform to help people avoid inconvenience is now requiring its remaining 99% of remote workers to come back to the office — on the same day it announced layoffs.",
+          "absurdity": "Small teams are being cut by nearly half. Which means if you were on a four-person team, there are now two of you. 'Simpler and faster' is one way to put it.",
+          "outside": "Tech industry layoffs in 2024 and 2025 were supposed to be a correction. In 2026, Uber is still correcting. At some point, the correction is just the shape of the company."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-02/candidate-5.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-02/candidate-5-punchy.jpg"
+      "image": "images/2026-09-03/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-03/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「建前」と「本音」が同じ一枚の紙に書いてある日。民主主義を守ると言いながら怖がらせる、社会主義を批判しながら別の議題を密輸する、「不適切」と書いた紙を渡してそのまま隣に座る。MapQuestだけが何も言わずに一番正直だった。",
-    "titleEn": "MapQuest Beat ChatGPT. A Lake Did That.",
-    "subtitleEn": "Five stories where the fine print is doing all the real work.",
-    "titleJa": "「反社会主義決議」の中に選挙法が入っていた話と、それより正直だったMapQuestの話",
+    "thread": "今日の5本を貫く糸は「言葉と現実がもう離婚している」。湖の名前、1ドル硬貨、効率化、産休保護——どれも「言い方だけが正しい」話。",
+    "titleEn": "A Dollar Worth $1.55, a Lake With Two Names, and Other American Innovations",
+    "subtitleEn": "The US is streamlining. The results are something.",
+    "titleJa": "1ドル硬貨を1.55ドルで売る国の話",
     "titleAltJa": [
-      "「社会主義を批判する紙」と「ICEが投票所に来るかもしれない話」が同じ週に出てきた",
-      "今週のアメリカを語るなら、もう言葉がない"
+      "「レイク・アメリカ」に改名して、湖はカナダに半分残ったままだった話",
+      "「シンプルで速い会社になります」と言いながら10%を切った人たちに今日会った"
     ],
-    "leadJa": "「反社会主義決議」を開いたら中に選挙法が書いてありました。\n\n議員は「不適切」と書いた紙を渡されて、翌日も同じ席に座っています。MapQuestが、湖の名前を変えなかっただけで今週のヒーローです。\n\nアメリカ、今日もどうかしている。",
-    "introEn": "I want to talk about the fine print today. Not the fine print in contracts — I mean the fine print in democracy. The thing everyone agrees the document says, while quietly doing something else with it.\n\nThis week: MapQuest is No. 1 on the App Store, and it got there by doing absolutely nothing except not renaming a lake. Meanwhile, the House passed an anti-socialism resolution with a voter ID bill tucked inside it, like a prize in a cereal box. Also, ICE might show up at your polling place. To protect it, they say.\n\nHere's your forecast: if you've ever felt like you were following the rules while people around you rewrote them mid-game, today's news is basically a mirror. That's not your fault. That's just Tuesday in September. You're fine.",
-    "introJa": "今日の話、全部「表の紙と裏の中身が違う」週なんですよ。\n\n反社会主義決議を開いたら選挙法が入ってた。投票所を「守る」ためにICEを送るって言ってる。議員に「不適切」と書いた紙を渡して、翌日は隣に座って仕事してる。MapQuestは何も言わずに湖の名前を変えなかっただけで、今週のApp Store1位になった。\n\nそんな5本です。\n\nで、今日の占い。「なんか話がかみ合わないな」って感じてるとしたら、あなたがおかしいんじゃないと思う。書いてあることとやっていることが違う世界で、ちゃんと困惑してるだけだから。今日は、その困惑を笑っていい日です。",
-    "quipEn": "This week, the most honest actor in American democracy was MapQuest. A mapping app from 2000. Which refused to rename a lake.",
-    "quipJa": "今週いちばん正直だったのは、MapQuestでした。",
+    "leadJa": "1ドル硬貨を1.55ドルで売る国があります。アメリカです。そして今日、その国では湖の名前を変えて、税金を集める人を解雇して、産休中の人にレイオフを伝えて、「シンプルになります」と言いながら社員を10%切りました。おかしいな〜。",
+    "introEn": "Five stories today. Each one involves someone saying a word and expecting reality to comply.\n\nA lake was renamed. The lake didn't move. A coin worth one dollar is being sold for $1.55. The dollar didn't get stronger. The IRS fired its auditors. Taxes got harder to collect. Uber wants to be \"simpler.\" Someone else will do the work.\n\nHere's your forecast: if you've ever felt like you said the right thing and the world still didn't cooperate — today's news proves you're not alone. The most powerful institutions on the planet are in the same situation. Call it a solidarity Wednesday. Whatever you're carrying, you're at least carrying it more honestly than the US Mint right now.",
+    "introJa": "今日、「1ドル」と書いてあるものを1.55ドルで売っているニュースを読みました。\n\nただの硬貨の話かと思ったら、続きがあった。オンタリオ湖が「レイク・アメリカ」になっていて、IRSが監査スタッフを削減したら税収が減って、育休中の女性がレイオフされていて、Uberが「シンプルで速くなります」と言いながら全体の10%を切っていた。\n\n今日の5本、全部「言葉と現実が別々に動いている」話なんです。名前を変えても湖は動かない。「ビジネス上の判断」と書けば違法にならない。「効率化」と呼べば10%減でも前向きに聞こえる。\n\nということで、今日の占いです。\n「正しいことしてるのに、なんか報われないな」って感じてる人、たぶんあなたが正しいんですよ。言葉だけ整えて現実を動かそうとしてる人が、今日だけでこんなにいる。そっちが多数派で、あなたは誠実な少数側にいる。\n少なくとも今日はね。",
+    "quipEn": "Today's theme: America keeps changing the label. The contents remain the same.",
+    "quipJa": "名前を変えても、湖はそこにある。額面を変えても、1ドルは1ドル。言い方だけ正しくなっても、現実はちゃんと残ってる。",
     "notesEn": [
-      "MapQuest hit No. 1 on the App Store this week. It beat ChatGPT. Not by adding AI, not by redesigning the interface — by refusing to rename Lake Ontario to 'Lake America' after a Trump executive order. Google and Apple updated their maps. MapQuest did not. And apparently that's all it takes to become a hero in 2026.",
-      "The House passed an anti-socialism resolution this week. Symbolic, no legal force, everyone votes yes, done. Except — tucked inside the resolution was language pushing the SAVE America Act, a controversial voter ID bill. So the anti-socialism document was also, quietly, a voter ID document. The socialism was in the packaging.",
-      "Rep. Chuck Edwards was formally censured by the House this week for inappropriate conduct toward two female staffers. Bipartisan support. Official podium. Fancy ceremony. He still has his seat, his vote, and presumably his parking spot. A censure is Congress writing 'we are not pleased' in calligraphy and then going back to work.",
-      "Ed Markey is 80. He's been in Congress since 1976 — two years before his opponent, Rep. Seth Moulton, was born. Moulton's entire campaign was 'this guy is too old.' Markey won. That's not an attack line. That's just a calendar.",
-      "The Homeland Security Secretary said this week that ICE could be deployed to polling places if there's a threat there. Voting rights groups immediately pointed out that ICE showing up is the threat. The Secretary did not appear to find that confusing."
+      "Apple renamed Lake Ontario 'Lake America' for US users, following a Trump executive order. Canada still calls it Lake Ontario. The lake, for its part, has not commented.",
+      "The IRS cut its auditing staff to reduce government waste. An Inspector General report now shows tax enforcement collections dropped sharply as a result. Efficiency, achieved.",
+      "The US Mint is selling $1 Trump coins for $1.55 each. If you buy 25, you spend $61 and get $25 worth of spending money. The other $36 is apparently the patriotism surcharge.",
+      "Multiple women have reported being laid off while on maternity leave. Employment lawyers confirm it's often legal, as long as the employer calls it a business decision. The naming convention matters more than the timing.",
+      "Uber is cutting 10% of its workforce to become 'simpler and faster.' Small teams will be cut nearly in half. The remaining employees will move faster, presumably because they have to."
     ],
     "xJa": [
-      "トランプ大統領令でオンタリオ湖が「レイク・アメリカ」に改名された。GoogleもAppleも従った。改名を拒否したのはMapQuestだった。MapQuestが今週App Store1位。2026年のことです。",
-      "下院が「反社会主義非難決議」を可決。中を読んだら選挙制度の話が書いてあった。反社会主義の紙に選挙法を忍ばせるの、立法の手品すぎる。",
-      "議員が若い女性スタッフへの不適切行為で「非難決議」を受けた。全会一致で可決。議員は翌日も同じ席で働いている。最大の処分が「紙を渡す」の制度、どうなってるんだ。",
-      "「高齢すぎる」を争点に47歳が挑み、80歳に負けた。80歳のマーキー議員が初当選した1976年、対立候補はまだ生まれていなかった。",
-      "「投票所に脅威があればICEを派遣する」と国土安全保障長官が発言。移民当局の捜査官が来ること自体が脅威だという指摘に、長官は特に応答しなかった。"
+      "Appleがオンタリオ湖をアメリカ国内のMapsアプリで「レイク・アメリカ」に改名。カナダ側の地図には今日も「オンタリオ湖」と書いてある。湖は動いていない。",
+      "IRS（米国歳入庁）が監査スタッフを削減したら税収が激減していたことが判明。「税金を集める人を解雇したら税金が集まらなくなった」というレポートが今日出ました。",
+      "米造幣局がトランプ大統領の1ドル硬貨を1.55ドル以上で販売中。25枚買うと61ドル取られ、使うと25ドルにしかならない。差額36ドルが「愛国心」の値段らしい。",
+      "育休中にレイオフされた女性が複数。「ビジネス上の判断」と言えば合法というのがアメリカの雇用法で、つまり理由の書き方さえ正しければ通る。言葉、重すぎる。",
+      "Uberが「シンプルで速くなる」と言いながら従業員の10%を削減。小規模チームはほぼ半減、リモート継続は1%のみ。残り90%がシンプルに2倍働く。"
     ],
     "raidEn": [
-      "The part that gets me is that Google and Apple — trillion-dollar companies — updated their maps immediately. MapQuest, which most people thought was a screensaver by now, just didn't. And won.",
-      "A censure is Congress's way of saying 'we wrote your name on a list' and then going to lunch. The bipartisan part is honestly the funniest — they all agreed this was bad, and then agreed there was nothing to do about it.",
-      "Moulton's campaign slogan was basically 'he's old.' Markey's response was apparently just to show up and win. At 80. After 50 years in Congress. The timeline on this one is genuinely something.",
-      "The circular logic here is so clean: ICE at polling places protects voters. ICE at polling places scares voters away. Therefore, fewer voters to protect. Problem solved, technically.",
-      "The anti-socialism resolution is legally meaningless — it just says 'we don't like socialism.' Which is fine. But the voter ID bill they tucked inside is very much not meaningless. The wrapper was symbolic. The gift inside was not."
+      "Apple changed the name. Canada did not change the lake. There's a lesson here about the limits of executive orders.",
+      "The Inspector General found that firing the auditors reduced auditing. I respect the commitment to documenting the obvious.",
+      "A dollar coin sold for $2.44. The government has found a way to make inflation feel premium.",
+      "\"It was a business decision, unrelated to the leave\" is doing a lot of heavy lifting in a lot of HR emails right now.",
+      "1% of staff gets to keep working remotely. Which means someone in leadership had a very good week and a very specific reason to come back to the office."
     ],
     "raidJa": [
-      "MapQuestが何もしなかっただけで1位になるの、ちょっと笑ってしまいました。GoogleとAppleがすぐ従ったのと並べると、「どっちが体制に近いか」が完全に逆転してますよね。",
-      "「非難決議」が最大の処分という制度設計、改めて読んで驚きました。記事の「紙を渡して隣に座り続ける」という表現、まさにそうですよね。",
-      "「高齢すぎる」を争点にした47歳が、相手が初当選した年に生まれていなかったという事実、記事を読んで二度確認しました。カレンダーがそのままオチになってますね。",
-      "「守るために送る」と「来ること自体が脅威」が同じ一文に入るの、この矛盾の構造をきちんと書いてくださっていてよかったです。なかなか言語化しにくいところですよね。",
-      "反社会主義の紙に選挙法を同居させる発想、初めて読んだとき「え、本当に？」と思いました。立法のパッケージングとして、ちょっと唯一無二の大胆さがありますよね。"
+      "「地図の名前を変えたら湖が変わる」と思っていたとしたら、なかなかロマンチックな行政命令ですよね。記事、すごく面白かったです。",
+      "「監査スタッフを解雇したら税収が減った」というレポートを読んで、しばらく動けなくなりました。この記事がまとめてくれて助かりました。",
+      "1ドル硬貨を1.55ドルで売る話、こんな丁寧に整理してくださってありがとうございます。「愛国心の値段」として考えるとまあ安いのかもしれない、とは思えませんでした。",
+      "「ビジネス上の判断」と書けば合法になる、という話の構造をここまで丁寧に説明していただけると、怒りの解像度が上がりますね。読んでよかったです。",
+      "Uberのリストラ、「シンプルで速く」という言葉の選び方が絶妙すぎて笑いました。この記事のおかげで今日のニュースが整理できました。"
     ],
     "riffEn": [
-      "Google has a market cap north of two trillion dollars. Apple is bigger. Between them, they have more engineers than most countries have voters. And when the executive order came down to rename Lake Ontario, both of them — immediately, quietly — updated their maps. MapQuest, which I genuinely thought had become a meme sometime around 2011, looked at that order and apparently said no. Not with a press release. Not with a lawsuit. Just by not doing it. And then it hit No. 1 on the App Store. Above ChatGPT. Because it refused to rename a lake. I'm not saying the big companies did something wrong. I'm just saying MapQuest is now the most punk thing in tech.",
-      "Here's how a censure works. The House investigates. The House votes. The House calls the member to the floor. Someone reads a document out loud that says, officially, on the record, that his behavior was unacceptable. He stands there. He receives this information. And then everyone goes back to their offices and continues to serve together in the same legislative body, with the same votes, the same staff budget, and presumably the same lunch options. The censure has no legal force. It cannot remove him. It cannot dock his pay. It is, to be precise, a piece of paper that says 'we noticed.' Which is more than nothing. But only just.",
-      "Seth Moulton is 47. He ran on the argument that Ed Markey, at 80, was simply too old to continue. This is a reasonable thing to argue. What is not reasonable — or rather, what is completely, perfectly, absurdly poetic — is that Markey has been in Congress since 1976. Moulton was born in 1978. So the man who ran against Markey for being too old was not yet alive when Markey started the job he is supposedly too old to continue. Moulton lost. The Democrats are still having their conversation about generational change. Massachusetts apparently decided to table it.",
-      "The secretary's argument, as best I can reconstruct it: polling places sometimes face threats, ICE officers respond to threats, therefore ICE officers might go to polling places. This is logical the same way a fire extinguisher is a source of water. Technically true. Deeply missing the point. Because the thing about sending federal immigration agents to a polling location — the specific detail that several people apparently had to explain out loud — is that federal immigration agents showing up is what makes a polling location feel threatening to a very large number of eligible voters. The protection and the suppression are the same object. You don't have to squint to see it.",
-      "They passed a resolution condemning socialism. Fine. Symbolic. Costs nothing, means nothing, everyone claps. But inside the anti-socialism resolution — tucked in, stapled, gift-wrapped — was language pushing the SAVE America Act, a voter ID bill that has been too controversial to pass on its own. So the document that officially says 'we oppose socialism' also, in the same breath, says 'pass this specific election legislation.' The outside of the package says one thing. The inside says something else entirely. Congress invented legislative origami, and they're very proud of the crane."
+      "Apple renamed Lake Ontario 'Lake America' for US users. The lake is on the border between the US and Canada. Canada still calls it Lake Ontario. The fish have not been informed of the change, and continue to swim through both jurisdictions without documentation. The executive order worked perfectly. The geography just didn't read it.",
+      "The IRS fired a significant portion of its auditing staff last year. An Inspector General then wrote a report explaining what happened to tax collections afterward. The report's conclusion — that collecting less taxes leads to collecting less taxes — is now officially documented, in writing, for anyone who needs that confirmed. The report runs several pages. The core finding did not.",
+      "The US Mint is selling $1 Trump coins for $1.55 each, minimum. At the 25-coin package price, you spend $61 and walk away with $25 of purchasing power. The remaining $36 is described nowhere on the product page. The coin says '$1' on its face. The checkout says '$2.44.' Somewhere between those two numbers is the most honest summary of 2026 I've seen all week.",
+      "Several women were laid off while on maternity leave. Employment lawyers explained that this is frequently legal, provided the employer frames it as a business decision rather than a response to the leave itself. So the protection exists. The gap between the protection and what actually happens — that also exists. Both are real. Only one of them shows up on the paperwork.",
+      "Uber announced it will cut 10% of its global workforce to become 'simpler and faster.' Small teams will be nearly halved. Fully remote work will be permitted for roughly 1% of employees. The press release described this as streamlining. The people whose work will now be done by fewer people may find a different word for it. Probably not in a press release."
     ],
     "riffJa": [
-      "Googleは時価総額が200兆円を超える会社で、Appleはもっと大きい。大統領令が来た日、両社はオンタリオ湖を「レイク・アメリカ」に書き換えた。素早く、静かに、特に抵抗なく。\n\nMapQuestは、2000年代にほぼ化石になったと思っていた地図アプリなんですが、改名しなかった。声明も出さず、訴訟も起こさず、ただやらなかっただけ。それでApp Store1位になった。ChatGPTを抜いて。\n\n誰が一番、湖に正直だったか。今週の答えは完全に出ています。",
-      "非難決議のしくみ、どんなものか。倫理委員会が調査して、下院が投票して、その議員を議場に呼んで、「あなたの行動は不適切でした」と書いた文書を読み上げる。議員はそれを受け取る。で、全員そのまま仕事に戻る。\n\n同じ建物で、同じ票を持って、おそらく同じお昼を食べて。\n\n法的効力はない。辞職も求めない。給与も止まらない。「私たちは気づきました」という紙を渡す、それが最大の処分。何もないよりはいい。でも、かなりギリギリのラインで「何もない」に近い。",
-      "モールトン議員、47歳。選挙戦の軸は「マーキーは80歳で高齢すぎる」でした。それ自体は真っ当な議論なんですが。\n\nマーキーが議員になったのは1976年です。モールトンが生まれたのは1978年。つまり、「古すぎる」と言って挑んだ相手が、マーキーが初当選した時点でまだ生まれていなかった。\n\nモールトンは負けました。民主党の世代交代論争、続いています。マサチューセッツは「引き続き検討します」という結論を出しました。",
-      "マリン長官の論理、ちゃんと追うとこうです。投票所に脅威があればICEが行く。ICEは脅威に対処する。だから投票所にICEが来ることもある。\n\nでも抜けているのは一つだけ。ICEが来ること自体が、多くの有権者にとっての脅威なんですよね。移民当局の捜査官が選挙当日に投票所の周りにいる——その絵が、投票に来ようとしていた人を家に帰らせる。\n\n守る手段と、遠ざける手段が、まったく同じです。その指摘に、長官は特に何も言いませんでした。",
-      "反社会主義非難決議、可決されました。象徴的な決議で、法的効力はゼロ。「社会主義はよくない」という公式声明みたいなものです。\n\nで、その中身を読んだ人が気づいた。有権者ID法案「SAVE America Act」の通過を求める条項が、ちゃんと入っていた。\n\n反社会主義の封筒を開けたら、選挙法が入っていた。封筒の外に書いてあることと、中に入っているものが全然違う。\n\nこれを「立法の折り紙」と呼ばずに何と呼べばいいのか、まだ言葉が見つかっていません。"
+      "Appleがアメリカ国内のMapsアプリでオンタリオ湖を「レイク・アメリカ」に改名しました。カナダとアメリカの国境にある湖で、カナダ側では今日も「オンタリオ湖」と表示されています。湖の魚は、両方の名前のついた水の中を今日も普通に泳いでいる。\n\n行政命令で地形の名前が変わるなら、次は「大西洋はトランプ・オーシャン」でも誰も驚けないじゃないですか。驚けない自分に気づいた瞬間、ちょっと怖くなりました。",
+      "IRS（米国歳入庁）が監査スタッフを大幅に削減した。で、監察総監のレポートが出た。内容は「監査する人を減らしたら、監査される量が減った」。そのレポート、何ページあったんだろう。\n\nこれ、家計でやったら「節約しようと思って収入源を断った」ですよ。でも政府がやると「連邦政府の人員改革」という名前がつく。名前だけ見ると、すごくかっこいいんですよね。",
+      "米造幣局がトランプ大統領の1ドル硬貨を発売しました。値段は1枚1.55ドルから。25枚セットだと61ドル。使えるのは25ドル分。\n\n残りの36ドルは何かというと、商品ページには書いていません。硬貨には「1ドル」と刻んである。レジは「2.44ドル」と言う。どちらかが嘘をついている。たぶん、硬貨のほうです。",
+      "育休中にレイオフされた女性が複数いて、CNBCが報じました。雇用弁護士によると、「ビジネス上の判断」として処理すれば、多くの州で合法らしいです。\n\n産休という「会社の制度を正しく使っている期間」に、同じ会社が「あなたはいらなくなりました」と伝える。保護はある。ただその保護と現実のあいだに、書面には残らないすき間がある。そこに落ちた人の話が今日出ていた。",
+      "Uberが全従業員の約10%を削減すると発表。理由は「よりシンプルかつ迅速に動くため」。小規模チームはほぼ半減、リモートワーク継続は全体の1%のみ。\n\n「シンプルで速い」という言葉を選んだ人は、残された人が10%分の仕事を引き受けることを「シンプル」と呼んでいる。言葉の使い方として、かなり勇気がある。残された人の感想は、たぶんプレスリリースには載らない言葉で表現されると思います。"
     ],
     "asideEn": [
-      "MapQuest won. Sit with that.",
-      "Very official paper. Zero consequences.",
-      "1976 called. It's still winning.",
-      "The protection is the threat. Moving on.",
-      "Anti-socialism gift wrap. Voter ID inside."
+      "The fish don't know.",
+      "Pages written. Lesson: zero.",
+      "One of those numbers is lying.",
+      "The gap is real. The paperwork isn't.",
+      "Someone will do that work."
     ],
     "asideJa": [
-      "MapQuestが勝った週。",
-      "紙を渡して、終わり。",
-      "1976年から現役。負けた方が若い。",
-      "守りに来た人が脅威でした。",
-      "封筒の中身、全然違う話だった。"
+      "湖は動いていない。",
+      "誰も驚いていないのが怖い。",
+      "どちらかが嘘をついている。",
+      "書面には残らないすき間。",
+      "残った人が10%分やる。"
     ],
-    "fullEn": "# MapQuest Beat ChatGPT. A Lake Did That.\n\n## Today's Forecast\n\nI want to talk about the fine print today. Not the fine print in contracts — I mean the fine print in democracy. The thing everyone agrees the document says, while quietly doing something else with it.\n\nThis week: MapQuest is No. 1 on the App Store, and it got there by doing absolutely nothing except not renaming a lake. Meanwhile, the House passed an anti-socialism resolution with a voter ID bill tucked inside it, like a prize in a cereal box. Also, ICE might show up at your polling place. To protect it, they say.\n\nHere's your forecast: if you've ever felt like you were following the rules while people around you rewrote them mid-game, today's news is basically a mirror. That's not your fault. That's just Tuesday in September. You're fine.\n\n---\n\n## 1. MapQuest Hits No. 1 on App Store After Refusing to Rename Lake Ontario\n\n*CBS News US — [source](https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/)*\n\nMapQuest, the once-dominant mapping service many had assumed was defunct, shot to the top of Apple's App Store free downloads chart after announcing it would keep traditional lake names rather than comply with a Trump executive order renaming Lake Ontario. The company's refusal placed it above ChatGPT on the charts. Google Maps and Apple Maps both updated their labels to reflect the new government-mandated name.\n\n**Why It's Funny**\n\nGoogle has a market cap north of two trillion dollars. Apple is bigger. Between them, they have more engineers than most countries have voters. And when the executive order came down to rename Lake Ontario, both of them — immediately, quietly — updated their maps. MapQuest, which I genuinely thought had become a meme sometime around 2011, looked at that order and apparently said no. Not with a press release. Not with a lawsuit. Just by not doing it. And then it hit No. 1 on the App Store. Above ChatGPT. Because it refused to rename a lake. I'm not saying the big companies did something wrong. I'm just saying MapQuest is now the most punk thing in tech.\n\n**Say It Out Loud**\n\n> MapQuest just beat ChatGPT on the charts. Not by being smarter. Not by being faster. By refusing to rename a lake.\n\n---\n\n## 2. House Censures Rep. Chuck Edwards for 'Inappropriate Conduct' Toward Female Aides\n\n*CBS News US — [source](https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/)*\n\nThe House of Representatives formally censured Republican Rep. Chuck Edwards of North Carolina following a House Ethics Committee investigation into allegations of unprofessional and inappropriate conduct toward two young female staffers. The censure vote drew bipartisan support. Edwards represents a district he has held since 2023.\n\n**Why It's Funny**\n\nHere's how a censure works. The House investigates. The House votes. The House calls the member to the floor. Someone reads a document out loud that says, officially, on the record, that his behavior was unacceptable. He stands there. He receives this information. And then everyone goes back to their offices and continues to serve together in the same legislative body, with the same votes, the same staff budget, and presumably the same lunch options. The censure has no legal force. It cannot remove him. It cannot dock his pay. It is, to be precise, a piece of paper that says 'we noticed.' Which is more than nothing. But only just.\n\n**Say It Out Loud**\n\n> Congress officially told him his behavior was unacceptable. He still has his desk. His vote. His parking spot. But they told him.\n\n---\n\n## 3. Ed Markey, 80, Wins Massachusetts Democratic Primary Despite Age Challenges\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary)*\n\nSenator Ed Markey, 80, won the Massachusetts Democratic primary on Tuesday, defeating Rep. Seth Moulton, 47, who had centered his campaign on the argument that the party needed younger leaders. The victory comes at a moment when Democrats nationally have been debating age and generational change in party leadership. Markey has served in Congress since 1976.\n\n**Why It's Funny**\n\nSeth Moulton is 47. He ran on the argument that Ed Markey, at 80, was simply too old to continue. This is a reasonable thing to argue. What is not reasonable — or rather, what is completely, perfectly, absurdly poetic — is that Markey has been in Congress since 1976. Moulton was born in 1978. So the man who ran against Markey for being too old was not yet alive when Markey started the job he is supposedly too old to continue. Moulton lost. The Democrats are still having their conversation about generational change. Massachusetts apparently decided to table it.\n\n**Say It Out Loud**\n\n> Moulton's whole campaign was 'he's too old.' Markey's campaign was 'hold on, I'm still here.' Markey won.\n\n---\n\n## 4. Homeland Security Chief Says ICE Could Be Deployed to Polling Places\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/01/trump-homeland-security-markwayne-mullin-polling)*\n\nHomeland Security Secretary Markwayne Mullin said Tuesday that ICE officers could be deployed to polling sites if there is a perceived threat to a polling place or if agents need to serve a warrant there. The comment drew immediate alarm from voting rights advocates and Democratic lawmakers, who warned it could suppress voter turnout. Federal law prohibits certain forms of intimidation at polling places.\n\n**Why It's Funny**\n\nThe secretary's argument, as best I can reconstruct it: polling places sometimes face threats, ICE officers respond to threats, therefore ICE officers might go to polling places. This is logical the same way a fire extinguisher is a source of water. Technically true. Deeply missing the point. Because the thing about sending federal immigration agents to a polling location — the specific detail that several people apparently had to explain out loud — is that federal immigration agents showing up is what makes a polling location feel threatening to a very large number of eligible voters. The protection and the suppression are the same object. You don't have to squint to see it.\n\n**Say It Out Loud**\n\n> The polling place is safe, they said. Safe enough that we're sending armed federal immigration agents. Just in case.\n\n---\n\n## 5. House Passes Resolution Condemning Socialism — With Voter ID Rider Tucked Inside\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)*\n\nThe House passed a measure formally condemning socialism ahead of the November election. Republicans inserted language calling for the passage of the SAVE America Act — a highly controversial voter ID bill — into the same resolution. The socialism resolution is largely symbolic and has no binding legal effect.\n\n**Why It's Funny**\n\nThey passed a resolution condemning socialism. Fine. Symbolic. Costs nothing, means nothing, everyone claps. But inside the anti-socialism resolution — tucked in, stapled, gift-wrapped — was language pushing the SAVE America Act, a voter ID bill that has been too controversial to pass on its own. So the document that officially says 'we oppose socialism' also, in the same breath, says 'pass this specific election legislation.' The outside of the package says one thing. The inside says something else entirely. Congress invented legislative origami, and they're very proud of the crane.\n\n**Say It Out Loud**\n\n> They passed an anti-socialism resolution. Inside the anti-socialism resolution: a voter ID bill. Inside the voter ID bill: November.\n\n---\n\n## Today's Punchline\n\n> This week, the most honest actor in American democracy was MapQuest. A mapping app from 2000. Which refused to rename a lake.\n",
-    "fullJa": "# 「反社会主義決議」の中に選挙法が入っていた話と、それより正直だったMapQuestの話\n\n## 今日を占うよ〜\n\n今日の話、全部「表の紙と裏の中身が違う」週なんですよ。\n\n反社会主義決議を開いたら選挙法が入ってた。投票所を「守る」ためにICEを送るって言ってる。議員に「不適切」と書いた紙を渡して、翌日は隣に座って仕事してる。MapQuestは何も言わずに湖の名前を変えなかっただけで、今週のApp Store1位になった。\n\nそんな5本です。\n\nで、今日の占い。「なんか話がかみ合わないな」って感じてるとしたら、あなたがおかしいんじゃないと思う。書いてあることとやっていることが違う世界で、ちゃんと困惑してるだけだから。今日は、その困惑を笑っていい日です。\n\n---\n\n## 1. MapQuest Hits No. 1 on App Store After Refusing to Rename Lake Ontario\n\n*CBS News US（[記事](https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/)）*\n\nトランプ大統領令に従ってGoogleとAppleがオンタリオ湖を「レイク・アメリカ」に改名する中、MapQuestが改名を拒否したことで話題となり、App Storeで無料アプリ1位に急浮上した。\n\n**どこが笑える？**\n\nGoogleは時価総額が200兆円を超える会社で、Appleはもっと大きい。大統領令が来た日、両社はオンタリオ湖を「レイク・アメリカ」に書き換えた。素早く、静かに、特に抵抗なく。\n\nMapQuestは、2000年代にほぼ化石になったと思っていた地図アプリなんですが、改名しなかった。声明も出さず、訴訟も起こさず、ただやらなかっただけ。それでApp Store1位になった。ChatGPTを抜いて。\n\n誰が一番、湖に正直だったか。今週の答えは完全に出ています。\n\n**このニュースをジョークにするなら...**\n\n> MapQuestがApp StoreでChatGPTを抜いた。頭がいいから？いや。湖の名前を変えなかっただけ。\n\n---\n\n## 2. House Censures Rep. Chuck Edwards for 'Inappropriate Conduct' Toward Female Aides\n\n*CBS News US（[記事](https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/)）*\n\n下院は倫理委員会の調査を受け、ノースカロライナ州選出の共和党議員チャック・エドワーズを、若い女性スタッフ2人への「不適切な行為」を理由に公式に非難決議した。\n\n**どこが笑える？**\n\n非難決議のしくみ、どんなものか。倫理委員会が調査して、下院が投票して、その議員を議場に呼んで、「あなたの行動は不適切でした」と書いた文書を読み上げる。議員はそれを受け取る。で、全員そのまま仕事に戻る。\n\n同じ建物で、同じ票を持って、おそらく同じお昼を食べて。\n\n法的効力はない。辞職も求めない。給与も止まらない。「私たちは気づきました」という紙を渡す、それが最大の処分。何もないよりはいい。でも、かなりギリギリのラインで「何もない」に近い。\n\n**このニュースをジョークにするなら...**\n\n> 下院は正式に「あなたの行いはダメです」と告げた。席もある。投票権もある。駐車場もある。でも告げた。\n\n---\n\n## 3. Ed Markey, 80, Wins Massachusetts Democratic Primary Despite Age Challenges\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary)）*\n\nマサチューセッツ州選出の現職上院議員エド・マーキー（80歳）が、「マーキーは高齢で効果的でない」と訴えたセス・モールトン下院議員との民主党予備選を制し、再選に向けた党指名を勝ち取った。\n\n**どこが笑える？**\n\nモールトン議員、47歳。選挙戦の軸は「マーキーは80歳で高齢すぎる」でした。それ自体は真っ当な議論なんですが。\n\nマーキーが議員になったのは1976年です。モールトンが生まれたのは1978年。つまり、「古すぎる」と言って挑んだ相手が、マーキーが初当選した時点でまだ生まれていなかった。\n\nモールトンは負けました。民主党の世代交代論争、続いています。マサチューセッツは「引き続き検討します」という結論を出しました。\n\n**このニュースをジョークにするなら...**\n\n> モールトンの選挙戦略は「彼は年を取りすぎ」。マーキーの戦略は「まだここにいます」。マーキーが勝った。\n\n---\n\n## 4. Homeland Security Chief Says ICE Could Be Deployed to Polling Places\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/01/trump-homeland-security-markwayne-mullin-polling)）*\n\nマークウェイン・マリン国土安全保障長官は、投票所に対する「脅威」や逮捕令状の執行が必要な場合、ICE（移民・関税執行局）捜査官を投票所に派遣する可能性があると述べた。\n\n**どこが笑える？**\n\nマリン長官の論理、ちゃんと追うとこうです。投票所に脅威があればICEが行く。ICEは脅威に対処する。だから投票所にICEが来ることもある。\n\nでも抜けているのは一つだけ。ICEが来ること自体が、多くの有権者にとっての脅威なんですよね。移民当局の捜査官が選挙当日に投票所の周りにいる——その絵が、投票に来ようとしていた人を家に帰らせる。\n\n守る手段と、遠ざける手段が、まったく同じです。その指摘に、長官は特に何も言いませんでした。\n\n**このニュースをジョークにするなら...**\n\n> 投票所は安全です、と言った。だから連邦移民捜査官を送ります、とも言った。念のため。\n\n---\n\n## 5. House Passes Resolution Condemning Socialism — With Voter ID Rider Tucked Inside\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)）*\n\n下院共和党は反社会主義を非難する決議を可決させたが、その中に物議を醸している有権者ID法案「SAVE America Act」の通過を求める条項を紛れ込ませていた。\n\n**どこが笑える？**\n\n反社会主義非難決議、可決されました。象徴的な決議で、法的効力はゼロ。「社会主義はよくない」という公式声明みたいなものです。\n\nで、その中身を読んだ人が気づいた。有権者ID法案「SAVE America Act」の通過を求める条項が、ちゃんと入っていた。\n\n反社会主義の封筒を開けたら、選挙法が入っていた。封筒の外に書いてあることと、中に入っているものが全然違う。\n\nこれを「立法の折り紙」と呼ばずに何と呼べばいいのか、まだ言葉が見つかっていません。\n\n**このニュースをジョークにするなら...**\n\n> 反社会主義決議を通した。決議の中身を読んだら有権者ID法案が入っていた。そのさらに奥には11月がある。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今週いちばん正直だったのは、MapQuestでした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "candidatesはcaptions・imagePrompts含めほぼ合格。editorial側でxJa[3]の字数超過（元データは144字）とnotesEn[3]の単体成立（Moulton生年が本文中で宙吊り）を修正。introJaは全体的に書き言葉寄りで、掴み→5本予告→前向き占いの3要素のうち「5本の予告」が抜けているため書き直し。 ／ 文体パス: 6箇所修正。代表例：riffJa[1]の「説明しますね」導入と締め、riffJa[3]の「一見筋が通っています」などプレゼン口調、titleAltJa[1]の締め文「が同じ週に出てきた」はOKだがtitleAltJa[2]の「この一言で十分です」が翻訳調。"
+    "fullEn": "# A Dollar Worth $1.55, a Lake With Two Names, and Other American Innovations\n\n## Today's Forecast\n\nFive stories today. Each one involves someone saying a word and expecting reality to comply.\n\nA lake was renamed. The lake didn't move. A coin worth one dollar is being sold for $1.55. The dollar didn't get stronger. The IRS fired its auditors. Taxes got harder to collect. Uber wants to be \"simpler.\" Someone else will do the work.\n\nHere's your forecast: if you've ever felt like you said the right thing and the world still didn't cooperate — today's news proves you're not alone. The most powerful institutions on the planet are in the same situation. Call it a solidarity Wednesday. Whatever you're carrying, you're at least carrying it more honestly than the US Mint right now.\n\n---\n\n## 1. Apple Renames Lake Ontario 'Lake America' Because an Executive Order Said So\n\n*The Guardian US — [source](https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america)*\n\nApple has renamed Lake Ontario as 'Lake America' for US users of its Maps app, following an executive order from President Trump issued amid his trade dispute with Canada. The lake sits on the border between the US and Canada and has been called Lake Ontario for centuries. The name change applies only to the US version of Apple Maps.\n\n**Why It's Funny**\n\nApple renamed Lake Ontario 'Lake America' for US users. The lake is on the border between the US and Canada. Canada still calls it Lake Ontario. The fish have not been informed of the change, and continue to swim through both jurisdictions without documentation. The executive order worked perfectly. The geography just didn't read it.\n\n**Say It Out Loud**\n\n> Apple changed the name of a lake. Canada still has the lake.\n\n---\n\n## 2. IRS Fired Its Auditors. Turns Out, Auditors Were the Ones Collecting Taxes.\n\n*NPR News — [source](https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions)*\n\nThe IRS significantly cut its auditing staff last year as part of broader federal workforce reductions. An Inspector General report now shows that tax collections from enforcement efforts have plummeted as a direct result. Consumer and fiscal watchdog groups warn the shortfall could add substantially to the federal deficit.\n\n**Why It's Funny**\n\nThe IRS fired a significant portion of its auditing staff last year. An Inspector General then wrote a report explaining what happened to tax collections afterward. The report's conclusion — that collecting less taxes leads to collecting less taxes — is now officially documented, in writing, for anyone who needs that confirmed. The report runs several pages. The core finding did not.\n\n**Say It Out Loud**\n\n> We fired the tax collectors to save money. We are now saving even more money by not collecting taxes.\n\n---\n\n## 3. US Mint Sells $1 Trump Coins for $1.55 Each, Which Is Not How a Dollar Works\n\n*CBS News US — [source](https://www.cbsnews.com/news/trump-1-dollar-coins-us-mint-sale/)*\n\nThe US Mint has begun selling President Donald J. Trump $1 coins, priced at $1.55 per coin at minimum. A package of 25 coins costs $61, while 100 coins cost $154.50, making the per-coin price range from $1.545 to $2.44 depending on quantity. The coins have a face value of one dollar.\n\n**Why It's Funny**\n\nThe US Mint is selling $1 Trump coins for $1.55 each, minimum. At the 25-coin package price, you spend $61 and walk away with $25 of purchasing power. The remaining $36 is described nowhere on the product page. The coin says '$1' on its face. The checkout says '$2.44.' Somewhere between those two numbers is the most honest summary of 2026 I've seen all week.\n\n**Say It Out Loud**\n\n> The US government is selling a dollar for $1.55. Inflation, but make it patriotic.\n\n---\n\n## 4. Laid Off While on Maternity Leave. It's Legal. It Happens More Than You Think.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html)*\n\nSeveral women have reported being laid off by their employers while on maternity leave. Legal experts note that in many US states, this practice is technically lawful as long as the layoff is framed as a business decision rather than a response to the pregnancy or leave itself. Employment attorneys say the line between legal restructuring and illegal discrimination can be difficult to prove in court.\n\n**Why It's Funny**\n\nSeveral women were laid off while on maternity leave. Employment lawyers explained that this is frequently legal, provided the employer frames it as a business decision rather than a response to the leave itself. So the protection exists. The gap between the protection and what actually happens — that also exists. Both are real. Only one of them shows up on the paperwork.\n\n**Say It Out Loud**\n\n> Great news: you had a baby. Also: we've restructured. Unrelated.\n\n---\n\n## 5. Uber Cuts 10% of Staff to Move 'Simpler and Faster,' Starting With the Humans\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html)*\n\nUber announced it will cut approximately 10% of its global workforce as part of a company restructuring aimed at becoming 'simpler and faster.' The company said small teams will be reduced by nearly half, and only about 1% of the total workforce will be allowed to continue working fully remotely. No specific division or role was named as the primary target of cuts.\n\n**Why It's Funny**\n\nUber announced it will cut 10% of its global workforce to become 'simpler and faster.' Small teams will be nearly halved. Fully remote work will be permitted for roughly 1% of employees. The press release described this as streamlining. The people whose work will now be done by fewer people may find a different word for it. Probably not in a press release.\n\n**Say It Out Loud**\n\n> Uber laid off 10% of staff to get 'simpler and faster.' The math on who does their work is still loading.\n\n---\n\n## Today's Punchline\n\n> Today's theme: America keeps changing the label. The contents remain the same.\n",
+    "fullJa": "# 1ドル硬貨を1.55ドルで売る国の話\n\n## 今日を占うよ〜\n\n今日、「1ドル」と書いてあるものを1.55ドルで売っているニュースを読みました。\n\nただの硬貨の話かと思ったら、続きがあった。オンタリオ湖が「レイク・アメリカ」になっていて、IRSが監査スタッフを削減したら税収が減って、育休中の女性がレイオフされていて、Uberが「シンプルで速くなります」と言いながら全体の10%を切っていた。\n\n今日の5本、全部「言葉と現実が別々に動いている」話なんです。名前を変えても湖は動かない。「ビジネス上の判断」と書けば違法にならない。「効率化」と呼べば10%減でも前向きに聞こえる。\n\nということで、今日の占いです。\n「正しいことしてるのに、なんか報われないな」って感じてる人、たぶんあなたが正しいんですよ。言葉だけ整えて現実を動かそうとしてる人が、今日だけでこんなにいる。そっちが多数派で、あなたは誠実な少数側にいる。\n少なくとも今日はね。\n\n---\n\n## 1. Apple Renames Lake Ontario 'Lake America' Because an Executive Order Said So\n\n*The Guardian US（[記事](https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america)）*\n\nトランプ大統領の行政命令を受け、Appleはカナダとアメリカの国境にあるオンタリオ湖をアメリカ国内のMapsアプリ上で「レイク・アメリカ」に改名した。\n\n**どこが笑える？**\n\nAppleがアメリカ国内のMapsアプリでオンタリオ湖を「レイク・アメリカ」に改名しました。カナダとアメリカの国境にある湖で、カナダ側では今日も「オンタリオ湖」と表示されています。湖の魚は、両方の名前のついた水の中を今日も普通に泳いでいる。\n\n行政命令で地形の名前が変わるなら、次は「大西洋はトランプ・オーシャン」でも誰も驚けないじゃないですか。驚けない自分に気づいた瞬間、ちょっと怖くなりました。\n\n**このニュースをジョークにするなら...**\n\n> Appleが湖の名前を変えた。湖はカナダにまだある。\n\n---\n\n## 2. IRS Fired Its Auditors. Turns Out, Auditors Were the Ones Collecting Taxes.\n\n*NPR News（[記事](https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions)）*\n\n監察総監のレポートにより、IRS（米国歳入庁）が監査スタッフを大幅削減した結果、税務執行による徴収額が急減していたことが明らかになった。\n\n**どこが笑える？**\n\nIRS（米国歳入庁）が監査スタッフを大幅に削減した。で、監察総監のレポートが出た。内容は「監査する人を減らしたら、監査される量が減った」。そのレポート、何ページあったんだろう。\n\nこれ、家計でやったら「節約しようと思って収入源を断った」ですよ。でも政府がやると「連邦政府の人員改革」という名前がつく。名前だけ見ると、すごくかっこいいんですよね。\n\n**このニュースをジョークにするなら...**\n\n> 節税のために税金を集める人を解雇した。おかげで税金がさらに集まらなくなった。\n\n---\n\n## 3. US Mint Sells $1 Trump Coins for $1.55 Each, Which Is Not How a Dollar Works\n\n*CBS News US（[記事](https://www.cbsnews.com/news/trump-1-dollar-coins-us-mint-sale/)）*\n\n米造幣局がトランプ大統領の肖像を刻んだ1ドル硬貨を発売。25枚セットで61ドル（1枚あたり約2.44ドル）から販売されており、額面の1.55倍以上の価格設定となっている。\n\n**どこが笑える？**\n\n米造幣局がトランプ大統領の1ドル硬貨を発売しました。値段は1枚1.55ドルから。25枚セットだと61ドル。使えるのは25ドル分。\n\n残りの36ドルは何かというと、商品ページには書いていません。硬貨には「1ドル」と刻んである。レジは「2.44ドル」と言う。どちらかが嘘をついている。たぶん、硬貨のほうです。\n\n**このニュースをジョークにするなら...**\n\n> 政府が1ドルを1.55ドルで売っている。インフレ、愛国心でラッピング。\n\n---\n\n## 4. Laid Off While on Maternity Leave. It's Legal. It Happens More Than You Think.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html)）*\n\n育児休暇中にレイオフされた女性が複数おり、CNBCの報道によれば、こうした解雇は違法ではなく、実態として広く行われている可能性がある。\n\n**どこが笑える？**\n\n育休中にレイオフされた女性が複数いて、CNBCが報じました。雇用弁護士によると、「ビジネス上の判断」として処理すれば、多くの州で合法らしいです。\n\n産休という「会社の制度を正しく使っている期間」に、同じ会社が「あなたはいらなくなりました」と伝える。保護はある。ただその保護と現実のあいだに、書面には残らないすき間がある。そこに落ちた人の話が今日出ていた。\n\n**このニュースをジョークにするなら...**\n\n> おめでとうございます、出産しました。あと、組織再編しました。無関係です。\n\n---\n\n## 5. Uber Cuts 10% of Staff to Move 'Simpler and Faster,' Starting With the Humans\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html)）*\n\nUberが全従業員の約10%を削減すると発表。「よりシンプルかつ迅速に動く」ことを目的とするとしており、小規模チームはほぼ半減、リモートワーク継続を認められるのは全体の約1%にとどまる。\n\n**どこが笑える？**\n\nUberが全従業員の約10%を削減すると発表。理由は「よりシンプルかつ迅速に動くため」。小規模チームはほぼ半減、リモートワーク継続は全体の1%のみ。\n\n「シンプルで速い」という言葉を選んだ人は、残された人が10%分の仕事を引き受けることを「シンプル」と呼んでいる。言葉の使い方として、かなり勇気がある。残された人の感想は、たぶんプレスリリースには載らない言葉で表現されると思います。\n\n**このニュースをジョークにするなら...**\n\n> 「よりシンプルで速く」なるために10%カット。その10%の仕事が誰に行くかは、まだ計算中。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 名前を変えても、湖はそこにある。額面を変えても、1ドルは1ドル。言い方だけ正しくなっても、現実はちゃんと残ってる。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3のcaption4「I love when the government sells money at a markup. Really takes the guesswork out of where the money's going.」はオチが弱くパンチラインが散漫。d4のimagePrompt1が実在し得る特定個人（産院の母親＋赤ちゃん）の顔描写に近く、構図依存度が高い。xJa5本目が138字でオーバー。それ以外は合格。 ／ 文体パス: 全体的に人間の声に近いが、quipJaが「名言まとめ」的な整いすぎ、introJaの占いパートが「読者への説明・指示形」に滑っている箇所、riffJa[3]の末尾が論文的な締めになっている3箇所を修正。"
   },
   "carousel": [
-    "images/2026-09-02/carousel/slide-1.jpg",
-    "images/2026-09-02/carousel/slide-2.jpg",
-    "images/2026-09-02/carousel/slide-3.jpg",
-    "images/2026-09-02/carousel/slide-4.jpg",
-    "images/2026-09-02/carousel/slide-5.jpg",
-    "images/2026-09-02/carousel/slide-6.jpg",
-    "images/2026-09-02/carousel/slide-7.jpg"
+    "images/2026-09-03/carousel/slide-1.jpg",
+    "images/2026-09-03/carousel/slide-2.jpg",
+    "images/2026-09-03/carousel/slide-3.jpg",
+    "images/2026-09-03/carousel/slide-4.jpg",
+    "images/2026-09-03/carousel/slide-5.jpg",
+    "images/2026-09-03/carousel/slide-6.jpg",
+    "images/2026-09-03/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-02/note-header.jpg",
-    "substack": "images/2026-09-02/substack-cover.jpg"
+    "note": "images/2026-09-03/note-header.jpg",
+    "substack": "images/2026-09-03/substack-cover.jpg"
   },
-  "video": "videos/2026-09-02/daily-short.mp4",
-  "videoDuration": 127.8,
-  "videoJa": "videos/2026-09-02/daily-short-ja.mp4",
-  "videoJaDuration": 143.6
+  "video": "videos/2026-09-03/daily-short.mp4",
+  "videoDuration": 105.6,
+  "videoJa": "videos/2026-09-03/daily-short-ja.mp4",
+  "videoJaDuration": 133.9
 }
