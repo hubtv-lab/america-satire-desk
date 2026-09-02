@@ -1,53 +1,53 @@
 {
   "version": 1,
   "date": "2026-09-02",
-  "generatedAt": "2026-09-01T22:31:49+00:00",
+  "generatedAt": "2026-09-02T01:14:50+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "MapQuest Hits No. 1 on App Store by Refusing to Rename Lake Ontario",
+        "headline": "MapQuest Hits No. 1 on App Store After Refusing to Rename Lake Ontario",
         "source": "CBS News US",
         "date": "2026-09-02",
         "url": "https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/",
-        "summary": "地図アプリ「MapQuest」が「Lake Ontario」の名称変更を拒否すると表明したところ、App Storeの無料アプリランキングでChatGPTを抑えて1位を獲得した。"
+        "summary": "トランプ大統領令に従ってGoogleとAppleがオンタリオ湖を「レイク・アメリカ」に改名する中、MapQuestが改名を拒否したことで話題となり、App Storeで無料アプリ1位に急浮上した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「地図の名前を変えない」というただそれだけのことが、数百万人のダウンロードを呼び込む差別化戦略になってしまった。何もしないことがマーケティングになる時代です。",
-        "<b>滑稽さ:</b> ChatGPT、Instagramを差し置いてApp Store1位に立ったのが、2000年代のインターネット遺産、MapQuest。復活の理由が「湖の名前を変えなかった」というのは、もはやシュールすぎる。",
-        "<b>日本・海外から見ると:</b> 「政府の言う通りに地名を変えたアップルとグーグル」対「変えなかったMapQuest」の構図。企業の意地を示すのに一番コストが低い方法が、「何もしないこと」だったというのが2026年のアメリカです。"
+        "<b>矛盾:</b> テクノロジーの最先端を走るGoogleとAppleが政府の地名変更に即座に従い、「時代遅れ」と思われていたMapQuestが唯一抵抗したことで、デジタル独立心の象徴になってしまった。",
+        "<b>滑稽さ:</b> 2026年に人々がMapQuestをダウンロードしている理由が「地図が使いやすいから」ではなく「湖の名前へのこだわり」というのが、もはや完全に別競技。",
+        "<b>日本・海外から見ると:</b> 米国の巨大テック企業が大統領令ひとつでカナダとの国境湖の名前を書き換える一方、生き残りをかけたMapQuestが抵抗するという構図、「どっちが体制側か」が完全に逆転している。"
       ],
       "imagePrompts": [
-        "A dusty, cobweb-covered MapQuest logo on a podium, holding a No. 1 trophy. Behind it, the logos of Google Maps and Apple Maps stand on lower podiums looking embarrassed. A map in the background clearly labels 'Lake Ontario.'",
-        "A man in 2003-era clothing printing out MapQuest directions at a desktop computer, with a crowd of modern smartphone users gathered behind him cheering. A banner reads 'No. 1 App in America.'",
-        "A large lake with two signs planted on its shore: one weathered sign reading 'Lake Ontario,' one shiny new government sign reading 'Lake America.' A tiny MapQuest flag is planted firmly next to the old sign."
+        "A dusty, cobweb-covered MapQuest logo trophy sitting on a podium labeled '#1 App Store', flanked by glossy Google Maps and Apple Maps trophies with their heads bowed",
+        "A giant lake with a name tag that reads 'Lake Ontario / Lake America' — the name half-crossed out, half-reinstated, with a small MapQuest flag planted on the shore",
+        "A smartphone screen showing the App Store top chart: #1 MapQuest, #2 ChatGPT — a user staring at the phone with wide, confused eyes, a printed MapQuest direction sheet sticking out of their pocket"
       ],
       "captions": [
-        "MapQuest's big comeback strategy: own a server from 2004 and just... don't rename anything.",
-        "Apple built the iPhone. Google built self-driving cars. MapQuest's big win in 2026? Keeping a lake's name.",
-        "Somewhere a product manager at Google is explaining to their boss why they lost the top spot to MapQuest. That meeting is not going well.",
-        "Your dad's been vindicated. MapQuest is officially the No. 1 app in America, and he printed the directions to prove it.",
-        "So the fastest way to beat ChatGPT on the App Store is to refuse a presidential order about a lake. Filing that one away."
+        "MapQuest just beat ChatGPT on the charts. Not by being smarter. Not by being faster. By refusing to rename a lake.",
+        "Google built a trillion-dollar company around 'Don't be evil.' Renaming Lake Ontario took, what, an afternoon?",
+        "People downloaded MapQuest in 2026. For the lake names. I'm not saying the timeline is broken, but—",
+        "Somewhere a MapQuest engineer is reading this news and thinking, 'We've been ready for this moment since 2003.'",
+        "You know things are weird when the most principled tech company of the week still gives you seventeen-page directions for a left turn."
       ],
       "captionsJa": [
-        "MapQuestの起死回生の一手は、「2004年のサーバーを維持して、名前を変えない」でした。",
-        "アップルはiPhoneを作った。グーグルは自動運転を作った。MapQuestが2026年にやったのは、「湖の名前を変えない」こと。",
-        "グーグルのプロダクトマネージャーが上司に「なぜMapQuestに1位を奪われたか」を説明している、あの会議室、見てみたい。",
-        "お父さんの名誉、回復されました。MapQuestがApp Store全米1位です。ルートはすでに印刷済みです。",
-        "ChatGPTをApp Storeで負かす方法は、「湖についての大統領令を断る」こと。メモしました。"
+        "MapQuestがApp StoreでChatGPTを抜いた。頭がいいから？いや。湖の名前を変えなかっただけ。",
+        "Googleは「悪にならない」を掲げて1兆ドル企業になった。オンタリオ湖の改名は……まあ、午後一本で終わったんでしょうね。",
+        "2026年にMapQuestをダウンロードしてる人たちの理由が「湖の名前へのこだわり」って、もうそれ別の何かじゃないですか。",
+        "どこかのMapQuestのエンジニア、今ごろ「2003年からずっとこの瞬間を待ってた」って思ってますよ絶対。",
+        "一番気骨のあるテック企業が、左折するのに17ページの道案内を出してくるやつっていうのが、今週の話。"
       ],
-      "newsEn": "MapQuest, the long-dormant digital mapping service, surged to the top of Apple's App Store free download chart after announcing it would keep the name 'Lake Ontario' rather than adopt the executive-order-mandated 'Lake America.' The company cited 'historical and familiar' naming as its reason. The move came as rival mapping apps Apple Maps and Google Maps both updated their labels to reflect the Trump administration's renaming directive.",
+      "newsEn": "MapQuest, the once-dominant mapping service many had assumed was defunct, shot to the top of Apple's App Store free downloads chart after announcing it would keep traditional lake names rather than comply with a Trump executive order renaming Lake Ontario. The company's refusal placed it above ChatGPT on the charts. Google Maps and Apple Maps both updated their labels to reflect the new government-mandated name.",
       "ironyEn": [
         {
-          "contradiction": "MapQuest didn't build a new feature, run an ad campaign, or even update its UI. It just said 'no.' That was enough to beat ChatGPT.",
-          "absurdity": "The app most famous for printing directions before smartphones is now the symbol of resistance against a presidential executive order on Great Lakes nomenclature.",
-          "outside": "In what world does refusing to rename a lake make you the most downloaded app in America? Apparently this one."
+          "contradiction": "Google and Apple — companies that built empires on the idea of organizing the world's information — updated a lake's name on government request faster than they update their own privacy policies.",
+          "absurdity": "MapQuest, a service people use primarily by accident when their phone dies, is now the symbol of digital resistance.",
+          "outside": "From outside the U.S., watching Silicon Valley giants rename a Great Lake while a 2005-era mapping app holds the line is a very specific kind of performance art."
         },
         {
-          "contradiction": "Apple and Google — companies that pitch themselves as champions of user trust — quietly relabeled a Canadian lake on command. MapQuest, of all companies, drew the line.",
-          "absurdity": "Millions of Americans downloaded a map app they hadn't thought about in fifteen years specifically to look at a lake they will never visit.",
-          "outside": "From outside the U.S., this reads as: the most powerful tech companies in the world changed geography for the government, and the one holdout was a website your dad used in 2003."
+          "contradiction": "The boldest act of corporate independence this week came from a company whose main claim to fame is printing out seventeen pages of directions for a twelve-minute drive.",
+          "absurdity": "It beat ChatGPT. The AI that can write your novel, pass the bar exam, and compose a sonnet — lost the download race to MapQuest over a lake.",
+          "outside": "Canada's version of Apple Maps still says Lake Ontario, which means the lake is currently named differently depending on which side of the border your iPhone thinks you're on."
         }
       ],
       "imageSeed": 1,
@@ -58,47 +58,47 @@
     {
       "id": "d2",
       "news": {
-        "headline": "IRS Collected $3.5 Billion Less After Firing the People Who Collect Money",
+        "headline": "House Censures Rep. Chuck Edwards for 'Inappropriate Conduct' Toward Female Aides",
         "source": "CBS News US",
         "date": "2026-09-02",
-        "url": "https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/",
-        "summary": "米国歳入庁（IRS）が大規模な人員削減を実施した結果、2025会計年度の税務調査による税収が35億ドル減少したと監視機関が報告した。"
+        "url": "https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/",
+        "summary": "下院は倫理委員会の調査を受け、ノースカロライナ州選出の共和党議員チャック・エドワーズを、若い女性スタッフ2人への「不適切な行為」を理由に公式に非難決議した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「政府の無駄遣いを減らす」名目で行われた人員削減が、35億ドルの税収減という形で政府のコストになった。節約のために使った鎌が、自分の足を刈った。",
-        "<b>滑稽さ:</b> 「取り立て係を解雇したら取り立てできなくなった」という話なんですよ、これ。経営の基本すぎて、授業例として使えるレベル。",
-        "<b>日本・海外から見ると:</b> どんな国でも税務署の職員を大量解雇したら税収が落ちる。「それ予測できなかったんですか」という問いへの答えが、監視機関のレポートという形で出てきた。"
+        "<b>矛盾:</b> 同じ週に下院が「反社会主義決議」を超党派で通過させる一方、職場ハラスメントの議員への非難決議もまた超党派で通過させたという事実が、アメリカ政治の優先順位表を静かに照らし出している。",
+        "<b>滑稽さ:</b> 「非難決議」を受けても議員を即座に失職させる仕組みがない。公式に「これはダメ」と書いた紙を渡して、そのまま一緒に仕事を続けるという制度設計が、職場研修のロールプレイより機能していない。",
+        "<b>日本・海外から見ると:</b> 非難決議（censure）に法的拘束力がない点は日本でも同じだが、「議会で同僚に紙を渡す」ことが最大の処分というのは、有権者の目にどう映っているのか気になるところ。"
       ],
       "imagePrompts": [
-        "An empty IRS office with cleared-out desks and chairs, a whiteboard still showing audit targets, and a large open vault in the background with the door hanging open and cobwebs forming.",
-        "A government official proudly holding a chart showing 'Staff Reduced: 5,000' while standing next to another chart showing '$3.5 Billion Less Collected,' both charts pointing in opposite directions.",
-        "A piggy bank labeled 'U.S. Treasury' with a large crack in it and a sign on the side reading 'Auditors — Laid Off.' A broom rests against the wall, mid-sweep, abandoned."
+        "A congressman standing in a grand congressional chamber receiving a formally framed piece of paper labeled 'CENSURE', holding it with both hands while colleagues give a polite golf clap, all returning immediately to their desks",
+        "An office bulletin board with a printed 'CENSURE NOTICE' pinned next to a 'EMPLOYEE OF THE MONTH' plaque, both hanging in the same ornate congressional hallway",
+        "A giant official government seal stamp reading 'BAD BEHAVIOR CONFIRMED' pressed onto a document, next to a second stamp reading 'STILL IN OFFICE'"
       ],
       "captions": [
-        "Fired the tax collectors. Collected less tax. Groundbreaking.",
-        "The government spent money to get rid of the people who bring in money. I'm not an economist, but I've played enough Monopoly to see where this goes.",
-        "Somewhere a very rich person's unaudited return is sitting in a filing cabinet. Nobody's coming.",
-        "$3.5 billion less collected — so, technically, the IRS cuts paid for themselves. Just not in the way anyone meant.",
-        "Who could have predicted that fewer auditors would mean fewer audits? Besides, you know, everyone."
+        "Congress officially told him his behavior was unacceptable. He still has his desk. His vote. His parking spot. But they told him.",
+        "A censure is basically Congress writing 'we are not pleased' in calligraphy and handing it over at a podium. Very fancy. Completely toothless.",
+        "The good news: it was bipartisan. The bad news: the bipartisan consensus was 'yes, this happened' and nothing else.",
+        "Most offices call HR. Congress calls a floor vote, issues a document, and then everyone goes to the same cafeteria for lunch.",
+        "Young women who work on Capitol Hill, this one's for you — they passed a whole resolution. It's framed now."
       ],
       "captionsJa": [
-        "税金を徴収する人を解雇したら、税金が集まらなくなりました。革命的な発見です。",
-        "税収を生む人たちを、コスト削減のために切った。人生ゲームでもそれはやらない。",
-        "どこかのお金持ちの未監査の申告書が、ファイルキャビネットの中で静かに眠っています。迎えに来る人はいません。",
-        "35億ドルの税収減。「IRS削減は元が取れた」と言えなくもないが、そういう意味ではなかった。",
-        "監査員を減らしたら監査が減った。これ、事前に気づいた人いませんでしたか？"
+        "下院は正式に「あなたの行いはダメです」と告げた。席もある。投票権もある。駐車場もある。でも告げた。",
+        "「非難決議」って、議会が「大変遺憾に思います」を公式書類にして手渡す儀式なんですよ。格式はある。効力はない。",
+        "超党派で可決。よかった。ただその超党派の合意が「これは起きた」というところで止まっている。",
+        "普通の会社ならHR案件。議会では本会議採決→書類手渡し→同じ食堂でランチ、というルートをたどる。",
+        "国会議事堂で働く若い女性のみなさん、決議が通りましたよ。額縁に入れてもらえます。"
       ],
-      "newsEn": "A federal watchdog found that IRS audit revenue dropped by $3.5 billion in fiscal year 2025 following significant reductions to the agency's workforce, including thousands of auditors and support staff. The staffing cuts were part of a broader federal downsizing effort. The report highlights how the personnel losses directly reduced the government's ability to collect taxes already owed.",
+      "newsEn": "The House of Representatives formally censured Republican Rep. Chuck Edwards of North Carolina following a House Ethics Committee investigation into allegations of unprofessional and inappropriate conduct toward two young female staffers. The censure vote drew bipartisan support. Edwards represents a district he has held since 2023.",
       "ironyEn": [
         {
-          "contradiction": "The federal government cut IRS staff to save money and ended up $3.5 billion shorter. The auditors were, it turns out, net positive.",
-          "absurdity": "The agency responsible for collecting the government's money is now collecting less of it because the government took away its people. The math is doing something in there.",
-          "outside": "From outside the U.S., this looks like firing the cashiers to cut labor costs and then being surprised the register is empty."
+          "contradiction": "The House passed a bipartisan censure for workplace misconduct the same week it passed a bipartisan resolution condemning socialism — making 'harassment bad' and 'socialism bad' equally binding, which is to say, not at all.",
+          "absurdity": "A censure in Congress means colleagues officially hand you a piece of paper saying you behaved badly, then immediately go back to working with you. It's less consequence than a one-star Yelp review.",
+          "outside": "In most workplaces, the HR outcome here would look very different. In Congress, the outcome is a floor speech and a handshake from the other side of the aisle."
         },
         {
-          "contradiction": "Thousands of workers were let go in the name of efficiency. The result was $3.5 billion in uncollected revenue — paid for by the same taxpayers the cuts were supposed to help.",
-          "absurdity": "You'd need a lot of government waste to offset $3.5 billion in lost audit revenue. Luckily, we found it — it was the auditors.",
-          "outside": "A private business that fired its billing department and then reported lower revenue would not describe this as a success. The U.S. government did."
+          "contradiction": "The Ethics Committee called it 'unprofessional and inappropriate conduct.' The resolution passed. Edwards keeps his seat, his vote, and his parking space.",
+          "absurdity": "Bipartisanship is rare in this Congress. When it showed up this week, it was to agree that harassing your young female staffers is, technically, not great.",
+          "outside": "The censure is the legislative equivalent of a strongly worded email. It goes in the record. Nobody is required to act on it."
         }
       ],
       "imageSeed": 2,
@@ -109,47 +109,47 @@
     {
       "id": "d3",
       "news": {
-        "headline": "GoPro Pivots to Data Centers, Shares Jump 40% — Yes, the Camera Company",
-        "source": "CNBC Top News",
+        "headline": "Ed Markey, 80, Wins Massachusetts Democratic Primary Despite Age Challenges",
+        "source": "The Guardian US",
         "date": "2026-09-02",
-        "url": "https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html",
-        "summary": "アクションカメラメーカーのGoPro社がフォトニクス企業Starman Opticalとの合併を発表し、データセンター事業への参入を表明。株価が40%急騰した。"
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary",
+        "summary": "マサチューセッツ州選出の現職上院議員エド・マーキー（80歳）が、「マーキーは高齢で効果的でない」と訴えたセス・モールトン下院議員との民主党予備選を制し、再選に向けた党指名を勝ち取った。"
       },
       "commentary": [
-        "<b>矛盾:</b> スカイダイビングの映像を撮るカメラ会社が、なぜかAIデータセンターに参入。製品の一貫性ではなく「株価を上げる言葉」が事業戦略を決める構図が、あまりにもあからさますぎる。",
-        "<b>滑稽さ:</b> 「AI」「データセンター」と言っただけで株が4割上がるなら、もう製品は何でもいい。明日サーフボード会社がAIに参入しても誰も驚かない。",
-        "<b>日本・海外から見ると:</b> 2000年代のドットコムバブルで「.com」をつけるだけで株が騰がったように、今は「AI」と言えばいい。GoPro、よくわかってる。"
+        "<b>矛盾:</b> 「若い世代に交代すべき」という主張を掲げた47歳の候補が、1976年から議員を続ける80歳に敗れた——民主党が世代交代を議論している最中の選挙で。",
+        "<b>滑稽さ:</b> マーキー氏が初当選した1976年、モールトン氏はまだ生まれていない。その相手に「古すぎる」と言って挑んで負けるというのは、ある種の完成された話になっている。",
+        "<b>日本・海外から見ると:</b> 日本でも「政治家の高齢化」は定番の議題だが、「高齢すぎる」を選挙の争点にして、その高齢候補に正面から負けるという展開は、どの国でも有権者の意思表示として面白い。"
       ],
       "imagePrompts": [
-        "A GoPro action camera mounted on a helmet, but instead of an athlete, it's attached to a server rack in a data center. Blinking lights surround it. The camera lens points directly at another server.",
-        "A stock chart showing GoPro's share price rocketing upward, with the word 'AI' written in giant letters at the exact point the line turns vertical. A tiny GoPro camera icon sits at the bottom.",
-        "A podium in a conference room. The slide on screen behind it reads 'Data Centers.' The podium is empty except for a GoPro camera sitting on top of it, lens facing the audience. Rows of empty suits — no faces visible — fill the chairs, all applauding."
+        "An 80-year-old senator in a victory pose at a podium, confetti falling, campaign banner behind him reading 'FRESH IDEAS', while a significantly younger challenger looks on from the side",
+        "A campaign flyer split in two: left side reads 'TOO OLD TO BE EFFECTIVE' with a photo of an elderly senator; right side reads 'WINNER' with a check mark and the same photo",
+        "A timeline graphic on a wall showing '1976: Markey elected' and '1978: Opponent born' with a small arrow connecting them, displayed in a campaign headquarters"
       ],
       "captions": [
-        "GoPro said 'data centers' and the stock went up 40%. Nobody asked how those two things connect. Nobody.",
-        "The company that made the camera your brother-in-law uses to film his kayak trips is now in AI infrastructure. Totally normal industry evolution.",
-        "It's not a camera company anymore. It's not really a data center company yet. But for one beautiful afternoon, it was a 40%-richer company.",
-        "2000: add '.com' to your name. 2026: say 'AI data center.' The playbook hasn't changed that much.",
-        "Somewhere a GoPro product manager is trying to figure out how a Hero 13 fits into an AI infrastructure strategy. They'll get back to us."
+        "Moulton's whole campaign was 'he's too old.' Markey's campaign was 'hold on, I'm still here.' Markey won.",
+        "Ed Markey was already in Congress when his opponent was born. That's not an attack line. That's just the calendar.",
+        "Democrats have been talking about generational change all year. Massachusetts said, 'Interesting. We'll revisit that in six years.'",
+        "At what age does a senator become too old? Massachusetts voters looked at 80, shrugged, and said, 'Not yet.'",
+        "Moulton lost on the argument that the other guy was too old. He's 47. I don't know what to do with that either."
       ],
       "captionsJa": [
-        "GoPro社が「データセンター」と言ったら株が40%上がった。誰も「それどういう関係?」とは聞かなかった。",
-        "義兄がカヤックを撮影するカメラを作っていた会社が、AIインフラに参入です。業界の自然な進化ですね。",
-        "カメラ会社でもなく、まだデータセンター会社でもない。でもあの午後だけは、40%値上がりした会社だった。",
-        "2000年代は社名に「.com」をつけた。2026年は「AIデータセンター」と言えばいい。プレイブックは変わらない。",
-        "どこかのGoPro製品マネージャーが「Hero 13カメラがAIインフラ戦略にどう絡むか」を考えています。追って連絡があるそうです。"
+        "モールトンの選挙戦略は「彼は年を取りすぎ」。マーキーの戦略は「まだここにいます」。マーキーが勝った。",
+        "マーキーが初めて議会に来た年、対立候補はまだ生まれていなかった。攻撃材料じゃなくて、ただのカレンダーの話。",
+        "民主党は今年ずっと「世代交代」を語ってきた。マサチューセッツは「面白い。6年後にまた考えよう」と答えた。",
+        "何歳になったら「年を取りすぎ」になるのか。マサチューセッツの有権者は80歳を見て「まだ」と言った。",
+        "「相手が古すぎる」という主張で負けたモールトンは47歳。私にもどう解釈すればいいかわからない。"
       ],
-      "newsEn": "GoPro, the consumer action camera brand best known for helmet-mounted sports footage, announced it is merging with private photonics company Starman Optical and entering the data center market. The company framed the move as joining the AI infrastructure boom. Following the announcement, GoPro's shares surged approximately 40 percent.",
+      "newsEn": "Senator Ed Markey, 80, won the Massachusetts Democratic primary on Tuesday, defeating Rep. Seth Moulton, 47, who had centered his campaign on the argument that the party needed younger leaders. The victory comes at a moment when Democrats nationally have been debating age and generational change in party leadership. Markey has served in Congress since 1976.",
       "ironyEn": [
         {
-          "contradiction": "GoPro's core product is a waterproof camera you strap to your forehead. Its new business is AI data center infrastructure. These are related in ways that are not immediately apparent.",
-          "absurdity": "The stock jumped 40 percent on the announcement. Investors did not ask a lot of follow-up questions.",
-          "outside": "Internationally, this reads as: an American company said the word 'AI' and its value increased by nearly half. The camera part was incidental."
+          "contradiction": "Moulton ran a campaign built entirely on 'Markey is too old to be effective.' Markey won. The voters of Massachusetts looked at that argument and said, 'Sure, but have you considered: no.'",
+          "absurdity": "Markey has been in Congress since 1976. Moulton was born in 1978. The 'too old' candidate won against someone who literally didn't exist yet when Markey first showed up to work.",
+          "outside": "Democrats spent most of this election cycle arguing their party needed fresh faces. Massachusetts sent a message — just not that message."
         },
         {
-          "contradiction": "GoPro built its brand on extreme sports and rugged outdoor cameras. It is now pivoting to server rooms, which are famously the opposite of extreme.",
-          "absurdity": "At some point a GoPro executive had to stand up in a meeting and say 'data centers' with a straight face. That meeting went well, apparently.",
-          "outside": "In a rational market, a camera company announcing it will compete with AWS would cause concern. In this market, it caused a 40 percent rally."
+          "contradiction": "The centerpiece of Moulton's campaign was generational change. The outcome was: same generation, another term.",
+          "absurdity": "At 80, Markey is old enough to remember when Massachusetts had a different senator. He outlasted that senator too.",
+          "outside": "Globally, voters have shown they'll often back the familiar over the argument for change — even when the argument is literally about the age of the person they're backing."
         }
       ],
       "imageSeed": 3,
@@ -160,47 +160,47 @@
     {
       "id": "d4",
       "news": {
-        "headline": "House Votes to Condemn Socialism — Also, Please Show Your ID to Vote",
-        "source": "CNBC Top News",
+        "headline": "Homeland Security Chief Says ICE Could Be Deployed to Polling Places",
+        "source": "The Guardian US",
         "date": "2026-09-02",
-        "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
-        "summary": "米国下院が11月の中間選挙を前に社会主義を非難する決議を採択した。共和党はこの決議に、物議を醸している選挙人確認法案（SAVE America Act）の可決要求も盛り込んだ。"
+        "url": "https://www.theguardian.com/us-news/2026/sep/01/trump-homeland-security-markwayne-mullin-polling",
+        "summary": "マークウェイン・マリン国土安全保障長官は、投票所に対する「脅威」や逮捕令状の執行が必要な場合、ICE（移民・関税執行局）捜査官を投票所に派遣する可能性があると述べた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「社会主義を非難する」決議の中に、別の法案を通すよう求める文言をこっそり挿入。イデオロギー声明を、全然関係ない立法ロビーの器として使っている。",
-        "<b>滑稽さ:</b> 反社会主義の決議に有権者ID法を抱き合わせるのは、「健康に気をつけよう」というポスターの端に「ついでに駐車場の規則も読んで」と書くようなもの。",
-        "<b>日本・海外から見ると:</b> 「社会主義に反対です、あと選挙には身分証明書が必要です」が一つの文書に入っているのは、アメリカの立法プロセスの独特な文化として海外メディアに紹介されそうな案件です。"
+        "<b>矛盾:</b> 「脅威があれば行く」という論理は一見合理的に聞こえるが、投票所に連邦移民捜査官が現れること自体が、多くの有権者にとって脅威になりうる——という構造的な矛盾を、発言は綺麗にスルーしている。",
+        "<b>滑稽さ:</b> 「投票を守るために捜査官を送る」という建前と、「捜査官が来ると投票に来ない人が出る」という現実が、同じ一文に共存している。民主主義の保護と抑制が、同じ手段で実現されようとしている。",
+        "<b>日本・海外から見ると:</b> 日本では投票所に警察官が常駐することはまずなく、投票率の低さは別の文脈で語られる。移民捜査官が投票所の周辺に立つという絵は、多くの民主主義国家では「選挙の健全性を示すもの」とは受け取られないだろう。"
       ],
       "imagePrompts": [
-        "A large official-looking congressional resolution document with the header 'Condemning Socialism.' Halfway down the page, in small print, a sticky note is attached reading 'P.S. Also pass the voter ID bill.' A red stamp reading 'PASSED' is on the front.",
-        "A House chamber podium with two speech bubbles: one reading 'Down with socialism!' and a smaller, quieter one reading '...and also, show your ID to vote.' The audience is only paying attention to the first bubble.",
-        "A coupon clipped to a political manifesto. The manifesto reads 'Freedom from Socialism.' The coupon reads 'Valid only with government-issued photo ID at participating polling locations.'"
+        "A small-town polling place with a cheerful 'VOTE HERE' banner, staffed by elderly volunteers, while two ICE officers in tactical gear stand at the entrance checking clipboards",
+        "A Venn diagram with two overlapping circles: one labeled 'Protecting the vote', the other labeled 'Discouraging the vote' — the overlap is labeled 'ICE at polling places'",
+        "An 'OPEN FOR DEMOCRACY' sign on a polling place door, with a second, smaller sign below it reading 'Federal agents may be present', a lone voter hesitating at the sidewalk"
       ],
       "captions": [
-        "Congress condemned socialism and slipped a voter ID bill into the same document. Efficient use of paper.",
-        "The resolution against socialism is mostly about socialism. Mostly.",
-        "Nothing says 'land of the free' like bundling your voting restrictions into your anti-authoritarianism statement.",
-        "Two things that have nothing to do with each other, legally bound together. Washington, baby.",
-        "They found the one document where nobody would look for a voting bill and they put the voting bill there."
+        "The polling place is safe, they said. Safe enough that we're sending armed federal immigration agents. Just in case.",
+        "Nothing gets voters excited to participate in democracy like finding out there might be ICE officers at the door. Very 'I Voted' sticker energy.",
+        "Their argument: ICE would only show up if there's a threat. Their blind spot: ICE showing up is the threat.",
+        "Most countries staff polling places with retirees and PTA volunteers. America is workshopping a different vibe.",
+        "Federal law bans intimidation at polls. Federal agents at polls is, per the secretary, totally different. He did not elaborate on what the difference is."
       ],
       "captionsJa": [
-        "社会主義を非難しつつ、有権者ID法案もその中に仕込みました。紙の有効活用。",
-        "反社会主義決議の内容は、だいたい社会主義の話です。だいたい。",
-        "「権威主義に反対」という声明に投票制限を埋め込む。これが自由の国の立法テクニック。",
-        "何の関係もない二つの話が、一つの公式文書に合法的に束ねられた。ワシントンですね。",
-        "誰も投票法案を探さないような文書を見つけて、そこに投票法案を入れた。"
+        "投票所は安全です、と言った。だから連邦移民捜査官を送ります、とも言った。念のため。",
+        "玄関にICE捜査官がいるかもしれないと知ったとき、有権者の投票意欲がどう動くか——「参加したい」じゃないですよね。",
+        "「脅威があれば派遣する」という論理。盲点は、「ICEが来ること」が脅威だということ。",
+        "多くの国の投票所は、退職した教師や地域ボランティアで運営されている。アメリカは別の雰囲気を模索中。",
+        "連邦法は投票所での威圧を禁じている。投票所への連邦捜査官の派遣は、長官によれば別の話。どう違うかは説明されなかった。"
       ],
-      "newsEn": "The U.S. House of Representatives passed a resolution formally condemning socialism ahead of November's midterm elections. Republicans used the measure to simultaneously insert language calling for passage of the SAVE America Act, a highly controversial voter identification bill. The combination of an ideological statement and a specific voting-access policy in a single resolution drew attention to the legislative strategy.",
+      "newsEn": "Homeland Security Secretary Markwayne Mullin said Tuesday that ICE officers could be deployed to polling sites if there is a perceived threat to a polling place or if agents need to serve a warrant there. The comment drew immediate alarm from voting rights advocates and Democratic lawmakers, who warned it could suppress voter turnout. Federal law prohibits certain forms of intimidation at polling places.",
       "ironyEn": [
         {
-          "contradiction": "Congress passed a resolution about the dangers of socialism and snuck a voter ID bill into it. The resolution condemning political opportunism will presumably follow.",
-          "absurdity": "It's a document that officially hates socialism and also wants you to show a card before you can vote — two things that have famously nothing to do with each other.",
-          "outside": "From abroad, this looks like someone stapling a coupon to a manifesto. The manifesto is about freedom. The coupon is for one specific thing they want."
+          "contradiction": "The plan is to protect the polling place by sending the people whose presence makes a large portion of the population afraid to approach the polling place.",
+          "absurdity": "It's a voter protection strategy where the protection itself is the threat. Very efficient — one move does two jobs.",
+          "outside": "International election observers are typically sent to countries to look for signs of voter intimidation. This is starting to sound like content for their reports."
         },
         {
-          "contradiction": "The House found time to formally condemn an economic system but needed to bundle it with unrelated legislation to move that legislation forward. Very efficient.",
-          "absurdity": "No one in the chamber appeared confused by the combination. That might be the most telling part.",
-          "outside": "In parliamentary systems, this kind of rider attachment is considered a procedural trick. In the U.S. House, it's Tuesday."
+          "contradiction": "Mullin said ICE could show up 'if there is a threat.' The question left unanswered is who decides what counts as a threat, and whether ICE's presence automatically qualifies.",
+          "absurdity": "Federal law already prohibits intimidation at polling places. The proposed solution to potential lawbreaking at polls is to add federal agents with arrest powers. Truly a belt-and-suspenders approach to democracy.",
+          "outside": "Most democracies try to make polling places feel as unthreatening as possible — often staffing them with retired teachers and PTA volunteers. Just a different design philosophy."
         }
       ],
       "imageSeed": 4,
@@ -211,47 +211,47 @@
     {
       "id": "d5",
       "news": {
-        "headline": "Tim Cook Left Apple Greener — Now Apple's AI Servers Are Undoing That",
-        "source": "The Verge",
+        "headline": "House Passes Resolution Condemning Socialism — With Voter ID Rider Tucked Inside",
+        "source": "CNBC Top News",
         "date": "2026-09-02",
-        "url": "https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy",
-        "summary": "アップルCEOを退任したティム・クックは、環境面で比較的良好な実績を残したと評価されているが、アップルのAIインフラ拡大が今後その気候変動対策の遺産を脅かす可能性があると指摘されている。"
+        "url": "https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html",
+        "summary": "下院共和党は反社会主義を非難する決議を可決させたが、その中に物議を醸している有権者ID法案「SAVE America Act」の通過を求める条項を紛れ込ませていた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「環境に優しいテック企業」として20年近く積み上げたクックのイメージが、退任直後から自社のAI投資によって掘り崩されていく。緑のバトンを渡した相手が、電力を爆食いするデータセンターだった。",
-        "<b>滑稽さ:</b> 「環境への取り組み」を誇るスライドを出しながら、同時にAIのために山ほど電気を食うサーバーを増設している。左手と右手の話が全く合ってない。",
-        "<b>日本・海外から見ると:</b> 欧州のESG基準から見ると、「AIと環境コミットメントの両立」はすでに最大のテック業界の矛盾の一つ。クックが去った後のアップルが、どちらを優先するかは誰もが注目している。"
+        "<b>矛盾:</b> 「社会主義を非難する」という象徴的な決議に、有権者ID法案の推進文言を抱き合わせで入れた構造がある。法的効力のない声明を、実際の立法意図の包み紙として使っている。",
+        "<b>滑稽さ:</b> 反社会主義決議なのに、中身を読むと選挙法の話が書いてある——という文書の二重構造が、「何について話しているのか」という問いに素直に答えていない。",
+        "<b>日本・海外から見ると:</b> 日本の国会でも予算案への抱き合わせ条項は議論になるが、「社会主義批判」と「選挙制度」を一枚の紙に同居させるという発想は、立法のパッケージングとして独特の大胆さがある。"
       ],
       "imagePrompts": [
-        "A green, leafy Apple logo on the left side of an image, and on the right side, an enormous data center with cooling fans and glowing servers. A set of scales in the center tries to balance a small leaf against a smoking server rack.",
-        "Tim Cook walking out of Apple's glass headquarters carrying a certificate reading 'Environmental Legacy.' Behind him, through the glass walls, workers are installing rows of AI servers. He hasn't turned around yet.",
-        "An Apple product box made of recycled materials, opened to reveal a tiny data center inside, with blinking lights and a small cooling unit humming away."
+        "A large document labeled 'ANTI-SOCIALISM RESOLUTION' on the cover, held open to an interior page that reads 'Also: please pass our voter ID bill', a congressman smiling and pointing to the inside page",
+        "A matryoshka doll set: the outer doll labeled 'Condemning Socialism', opened to reveal a smaller doll labeled 'Voter ID Bill', opened to reveal a tiny doll labeled 'November Election'",
+        "A congressional podium with two signs: a large one reading 'DOWN WITH SOCIALISM' and a small sticky note below reading '(p.s. vote for our election bill)'"
       ],
       "captions": [
-        "Cook spent fifteen years making Apple greener. Apple's AI team is working on that.",
-        "The recycled aluminum MacBook is being powered by a data center that drinks electricity like it's free. Which, for Apple, it basically is.",
-        "Tim Cook's environmental legacy and Tim Cook's AI legacy are now in direct competition. One of them has better margins.",
-        "'We're committed to the environment,' said the company that just broke ground on its fourth data center this quarter. That one.",
-        "The carbon Apple saved over twenty years — AI would like a word."
+        "They passed an anti-socialism resolution. Inside the anti-socialism resolution: a voter ID bill. Inside the voter ID bill: November.",
+        "Can't get your bill through on its own? Staple it to the thing everybody's already voting yes on. Congrats, you've invented legislative origami.",
+        "The resolution has no legal force. The rider has no legal force. But they are now both permanently in the Congressional Record, which is what counts as a win on a Tuesday in September.",
+        "Somewhere a staffer had to write 'WHEREAS socialism is bad' and then immediately write 'THEREFORE, voter ID.' That's the whole document. That person went home.",
+        "Other countries put policy riders in budget bills. America put one inside a vibe."
       ],
       "captionsJa": [
-        "クックは15年かけてアップルを「緑の会社」にした。アップルのAIチームが今、それに取り組んでいます。",
-        "リサイクルアルミのMacBookは、電力をガブ飲みするデータセンターで動いています。アップルにとっては安いもんですが。",
-        "クックの環境レガシーとクックのAIレガシーが、直接対決しています。利益率がいいのはどっちか、わかりますよね。",
-        "「環境コミットメントを守ります」と言った会社の、今四半期4棟目のデータセンターが着工しました。その会社です。",
-        "アップルが20年で削減したカーボン。AIが「ちょっといいですか」と言っています。"
+        "反社会主義決議を通した。決議の中身を読んだら有権者ID法案が入っていた。そのさらに奥には11月がある。",
+        "単独では通せない法案は、みんながどうせ賛成する決議の中に入れればいい。立法折り紙の誕生。",
+        "この決議に法的効力はない。ライダーにも法的効力はない。でも議会議事録には残る。9月の火曜日の「勝ち」はそういうもの。",
+        "どこかのスタッフが「社会主義はよくない」と書いて、次の行に「だから有権者IDを」と書いた。それが書類の全部。その人は定時で帰った。",
+        "他の国は予算法案に政策を抱き合わせる。アメリカは「雰囲気」の中に入れた。"
       ],
-      "newsEn": "As Tim Cook stepped down as Apple's CEO, analyses noted he leaves behind a largely positive environmental record for a major tech company, including significant renewable energy commitments and reduced carbon footprint goals. However, Apple's rapidly expanding AI server infrastructure — driven by demand for on-device and cloud AI features — raises questions about whether the company can maintain those commitments. Energy consumption from AI computing is expected to grow substantially under the company's new direction.",
+      "newsEn": "The House passed a measure formally condemning socialism ahead of the November election. Republicans inserted language calling for the passage of the SAVE America Act — a highly controversial voter ID bill — into the same resolution. The socialism resolution is largely symbolic and has no binding legal effect.",
       "ironyEn": [
         {
-          "contradiction": "Cook spent nearly fifteen years building Apple's green reputation, and the thing most likely to erase it is Apple's own AI ambition — which he also helped build.",
-          "absurdity": "Apple's environmental progress and Apple's AI expansion are both Tim Cook legacies. They are currently in a fight, and only one of them consumes gigawatts.",
-          "outside": "From a European ESG perspective, 'we're carbon neutral, also we're building massive AI data centers' is not a complete sentence yet."
+          "contradiction": "The resolution condemning socialism has no legal force. The voter ID language inserted inside it also has no legal force. Together they make a very official-sounding document that does nothing — but makes sure people read both sentences.",
+          "absurdity": "Congress found a way to campaign and legislate at the same time while doing neither. It's a remarkably efficient use of a Tuesday.",
+          "outside": "From the outside, watching a body with serious legislative powers spend floor time passing a symbolic anti-socialism statement — with a policy wish list stapled to the back — looks like a very elaborate press release."
         },
         {
-          "contradiction": "The company famous for telling you its products are made with recycled materials is now running server farms around the clock to power AI features you didn't ask for.",
-          "absurdity": "The carbon footprint Apple carefully reduced over two decades could be rebuilt in a handful of years of AI growth. Progress: non-linear.",
-          "outside": "Outside the U.S., the question isn't whether Cook was a good environmental steward. It's whether 'Apple Intelligence' is a punchline to the whole story."
+          "contradiction": "Republicans attached a voting bill to an anti-socialism resolution. The socialism resolution is symbolic. So the voting bill is now symbolically inside a symbol. Symbolism all the way down.",
+          "absurdity": "The SAVE America Act is 'highly controversial,' which in this context means they couldn't pass it on its own, so they hid it inside the thing everyone would vote yes on.",
+          "outside": "Legislative riders — slipping policy into unrelated bills — are common globally. Slipping policy into what is essentially a press release is a more advanced technique."
         }
       ],
       "imageSeed": 5,
@@ -261,78 +261,78 @@
     }
   ],
   "editorial": {
-    "thread": "今日の5本は全部「言葉と現実がズレている話」。社会主義を非難しながら別の法案を忍ばせ、節約のために取り立て係を解雇し、カメラ会社がAIを名乗る。2026年のアメリカでは、何かに名前をつけることと、その名前通りのことをすることは、もう別の話になっている。",
-    "titleEn": "Nothing Means What It Says Anymore",
-    "subtitleEn": "MapQuest is winning. The IRS is losing money. GoPro is in AI now. Sure.",
-    "titleJa": "「節約のために税務署員を全員クビにした」国の話をします",
+    "thread": "今日の5本を貫く糸：「建前」と「本音」が同じ一枚の紙に書いてある日。民主主義を守ると言いながら怖がらせる、社会主義を批判しながら別の議題を密輸する、「不適切」と書いた紙を渡してそのまま隣に座る。MapQuestだけが何も言わずに一番正直だった。",
+    "titleEn": "MapQuest Beat ChatGPT. A Lake Did That.",
+    "subtitleEn": "Five stories where the fine print is doing all the real work.",
+    "titleJa": "「反社会主義決議」の中に選挙法が入っていた話と、それより正直だったMapQuestの話",
     "titleAltJa": [
-      "GoPro、AIと言ったら株が40%上がった話。誰も意味を聞かなかった。",
-      "「社会主義に反対です。あと選挙には身分証が必要です」が同じ文書に入っていた話をどうぞ"
+      "「社会主義を批判する紙」と「ICEが投票所に来るかもしれない話」が同じ週に出てきた",
+      "今週のアメリカを語るなら、もう言葉がない"
     ],
-    "leadJa": "MapQuestが1位。GoProがAI。IRSが大赤字。クックが去ったアップルが環境を食べ始めている。\n\nおかしいな、と思ったけど、今日はそういう日です。",
-    "introEn": "I've been doing this long enough to notice when five different stories are all somehow about the same thing. Today it's this: the gap between what you call something and what it actually is.\n\nMapQuest is number one in the App Store. GoPro is an AI company now. The IRS fired its collectors and collected less money — shocking absolutely no one except apparently the people who made that call. Congress condemned socialism and slipped a voting bill into the same document. And Tim Cook handed off Apple's green reputation to a team of servers that are very, very thirsty.\n\nHere's your forecast: if today you feel like you're doing the right thing but nobody's noticing, you're MapQuest. You kept the lake's name. That's worth something. Today might surprise you.",
-    "introJa": "「MapQuestが1位」という文字を見て、目をこすりました。\n\nChatGPTでも、Instagramでもなく、2000年代の地図サービスが。しかも理由が「湖の名前を変えなかったから」。これが2026年9月のApp Storeの話です。\n\nで、他を見ると。税務署が人員削減して35億ドルの税収を失い、カメラ会社が「AI」と言っただけで株が4割上がり、反社会主義の決議に選挙法案が混入し、ティム・クックが20年かけて積んだ環境実績をアップルのAIサーバーが食べ始めている。\n\n今日の5本を貫く糸は、たぶん「名前と中身がもう一致していない」ということです。\n\n今日の占いです。あなたが「何もしてないのに」と思っていることがあるとしたら、それはMapQuestかもしれません。名前を変えなかっただけで1位になった話が今日あります。何もしてないのに、が今日は正解だったりする。少なくとも今日は。",
-    "quipEn": "GoPro said 'data centers,' the IRS stopped collecting taxes to save money, and MapQuest won the internet by doing nothing. I have no notes. This is just America.",
-    "quipJa": "カメラ会社がAIと言い、税務署が節約して損をし、地図アプリが「名前を変えません」で1位になった。これが先進国の話です。",
+    "leadJa": "「反社会主義決議」を開いたら中に選挙法が書いてありました。\n\n議員は「不適切」と書いた紙を渡されて、翌日も同じ席に座っています。MapQuestが、湖の名前を変えなかっただけで今週のヒーローです。\n\nアメリカ、今日もどうかしている。",
+    "introEn": "I want to talk about the fine print today. Not the fine print in contracts — I mean the fine print in democracy. The thing everyone agrees the document says, while quietly doing something else with it.\n\nThis week: MapQuest is No. 1 on the App Store, and it got there by doing absolutely nothing except not renaming a lake. Meanwhile, the House passed an anti-socialism resolution with a voter ID bill tucked inside it, like a prize in a cereal box. Also, ICE might show up at your polling place. To protect it, they say.\n\nHere's your forecast: if you've ever felt like you were following the rules while people around you rewrote them mid-game, today's news is basically a mirror. That's not your fault. That's just Tuesday in September. You're fine.",
+    "introJa": "今日の話、全部「表の紙と裏の中身が違う」週なんですよ。\n\n反社会主義決議を開いたら選挙法が入ってた。投票所を「守る」ためにICEを送るって言ってる。議員に「不適切」と書いた紙を渡して、翌日は隣に座って仕事してる。MapQuestは何も言わずに湖の名前を変えなかっただけで、今週のApp Store1位になった。\n\nそんな5本です。\n\nで、今日の占い。「なんか話がかみ合わないな」って感じてるとしたら、あなたがおかしいんじゃないと思う。書いてあることとやっていることが違う世界で、ちゃんと困惑してるだけだから。今日は、その困惑を笑っていい日です。",
+    "quipEn": "This week, the most honest actor in American democracy was MapQuest. A mapping app from 2000. Which refused to rename a lake.",
+    "quipJa": "今週いちばん正直だったのは、MapQuestでした。",
     "notesEn": [
-      "MapQuest just hit number one on the App Store. Not by launching a new feature. Not by a rebrand. By keeping a lake's original name when Apple Maps and Google Maps both changed it. The bar for corporate heroism in 2026 is on the floor, and MapQuest stepped over it.",
-      "The IRS fired thousands of auditors, and tax audit revenue dropped by 3.5 billion dollars. A federal watchdog reported this with what I assume was a very straight face. Turns out the people who collect money are load-bearing.",
-      "GoPro announced a merger with a photonics company and said the words 'data center.' The stock went up 40 percent. No one in the room asked any follow-up questions.",
-      "The House passed a resolution condemning socialism. Inside that resolution: a call to pass a voter ID bill. It's not about socialism. It's mostly about socialism.",
-      "Tim Cook's environmental legacy at Apple: genuinely solid, by big-tech standards. The thing Apple built to replace Tim Cook: AI servers that consume electricity at a scale that is less genuinely solid. The baton has been passed."
+      "MapQuest hit No. 1 on the App Store this week. It beat ChatGPT. Not by adding AI, not by redesigning the interface — by refusing to rename Lake Ontario to 'Lake America' after a Trump executive order. Google and Apple updated their maps. MapQuest did not. And apparently that's all it takes to become a hero in 2026.",
+      "The House passed an anti-socialism resolution this week. Symbolic, no legal force, everyone votes yes, done. Except — tucked inside the resolution was language pushing the SAVE America Act, a controversial voter ID bill. So the anti-socialism document was also, quietly, a voter ID document. The socialism was in the packaging.",
+      "Rep. Chuck Edwards was formally censured by the House this week for inappropriate conduct toward two female staffers. Bipartisan support. Official podium. Fancy ceremony. He still has his seat, his vote, and presumably his parking spot. A censure is Congress writing 'we are not pleased' in calligraphy and then going back to work.",
+      "Ed Markey is 80. He's been in Congress since 1976 — two years before his opponent, Rep. Seth Moulton, was born. Moulton's entire campaign was 'this guy is too old.' Markey won. That's not an attack line. That's just a calendar.",
+      "The Homeland Security Secretary said this week that ICE could be deployed to polling places if there's a threat there. Voting rights groups immediately pointed out that ICE showing up is the threat. The Secretary did not appear to find that confusing."
     ],
     "xJa": [
-      "App Store1位：MapQuest。理由は「湖の名前を変えなかった」。ChatGPTを抜いた。2026年のアメリカです。",
-      "IRSが大量の審査員をクビにした→税収が35億ドル減った。「取り立て係を解雇したら取り立てできなくなった」という話が連邦政府で起きています。",
-      "GoProが「データセンターに参入します」と言ったら株が40%上がった。誰も「なんで?」と聞かなかった。2026年の株式市場の話です。",
-      "米下院が「社会主義を非難する決議」を採択。同じ文書に選挙人確認法案の可決要求も入っていた。抱き合わせにもほどがある。",
-      "ティム・クックが退任。環境面では比較的まともな実績を残した。そのアップルのAIサーバーが今、電力を爆食い中。バトンの受け取り方が難しい。"
+      "トランプ大統領令でオンタリオ湖が「レイク・アメリカ」に改名された。GoogleもAppleも従った。改名を拒否したのはMapQuestだった。MapQuestが今週App Store1位。2026年のことです。",
+      "下院が「反社会主義非難決議」を可決。中を読んだら選挙制度の話が書いてあった。反社会主義の紙に選挙法を忍ばせるの、立法の手品すぎる。",
+      "議員が若い女性スタッフへの不適切行為で「非難決議」を受けた。全会一致で可決。議員は翌日も同じ席で働いている。最大の処分が「紙を渡す」の制度、どうなってるんだ。",
+      "「高齢すぎる」を争点に47歳が挑み、80歳に負けた。80歳のマーキー議員が初当選した1976年、対立候補はまだ生まれていなかった。",
+      "「投票所に脅威があればICEを派遣する」と国土安全保障長官が発言。移民当局の捜査官が来ること自体が脅威だという指摘に、長官は特に応答しなかった。"
     ],
     "raidEn": [
-      "The part that gets me is that MapQuest didn't add a feature or run an ad. They just kept the name and millions of people downloaded a 2004 relic. Resistance has never been this low-effort.",
-      "The phrase 'load-bearing employees' doesn't get enough use in public policy discussions, and this report is making a strong case for it.",
-      "The stock went up before anyone explained the business plan. That's not investing, that's a word game with a 40% payout. Incredible.",
-      "The resolution against socialism is doing a lot of work today. Very busy document.",
-      "The recycled aluminum MacBook outlasted the policy that made it. That's a sentence I wasn't ready to read today but here we are."
+      "The part that gets me is that Google and Apple — trillion-dollar companies — updated their maps immediately. MapQuest, which most people thought was a screensaver by now, just didn't. And won.",
+      "A censure is Congress's way of saying 'we wrote your name on a list' and then going to lunch. The bipartisan part is honestly the funniest — they all agreed this was bad, and then agreed there was nothing to do about it.",
+      "Moulton's campaign slogan was basically 'he's old.' Markey's response was apparently just to show up and win. At 80. After 50 years in Congress. The timeline on this one is genuinely something.",
+      "The circular logic here is so clean: ICE at polling places protects voters. ICE at polling places scares voters away. Therefore, fewer voters to protect. Problem solved, technically.",
+      "The anti-socialism resolution is legally meaningless — it just says 'we don't like socialism.' Which is fine. But the voter ID bill they tucked inside is very much not meaningless. The wrapper was symbolic. The gift inside was not."
     ],
     "raidJa": [
-      "MapQuestが復活した経緯、読んでいて笑うしかありませんでした。「変えない」がマーケティングになる時代、の解像度がすごく上がった気がします。",
-      "「取り立て係を解雇したら取り立てができなくなった」という話、こんなに明快な形でレポートに出てくるんですね。記事を読んで妙に腑に落ちてしまいました。",
-      "GoPro株40%の件、読んでいて「AIと言えばいい」という空気を改めて実感しました。ドットコムバブルの構図がそのまま来ているんですね。",
-      "反社会主義決議に選挙法案を忍ばせる、という立法の技術、初めて知りました。一つの文書でこんなことができるんですね、と素直に驚いています。",
-      "クックの環境実績とAI拡大の矛盾、丁寧に整理されていて読みやすかったです。「緑のバトンを渡した相手がサーバーだった」という構図、なかなか来ました。"
+      "MapQuestが何もしなかっただけで1位になるの、ちょっと笑ってしまいました。GoogleとAppleがすぐ従ったのと並べると、「どっちが体制に近いか」が完全に逆転してますよね。",
+      "「非難決議」が最大の処分という制度設計、改めて読んで驚きました。記事の「紙を渡して隣に座り続ける」という表現、まさにそうですよね。",
+      "「高齢すぎる」を争点にした47歳が、相手が初当選した年に生まれていなかったという事実、記事を読んで二度確認しました。カレンダーがそのままオチになってますね。",
+      "「守るために送る」と「来ること自体が脅威」が同じ一文に入るの、この矛盾の構造をきちんと書いてくださっていてよかったです。なかなか言語化しにくいところですよね。",
+      "反社会主義の紙に選挙法を同居させる発想、初めて読んだとき「え、本当に？」と思いました。立法のパッケージングとして、ちょっと唯一無二の大胆さがありますよね。"
     ],
     "riffEn": [
-      "MapQuest — remember MapQuest? — is the number one free app in the App Store right now. Not because of a new feature. Not because of a celebrity partnership. Because they said they wouldn't rename Lake Ontario to Lake America, while Apple Maps and Google Maps quietly made the change. That's it. That was the whole move. A company that hasn't mattered since 2007 just out-positioned two of the most valuable companies on earth by doing absolutely nothing new. Somewhere a brand consultant is staring at this and rethinking their entire career.",
-      "The federal government cut a large chunk of the IRS workforce — auditors, support staff, the people whose whole job is to find money that's owed — and then a watchdog came back and said, hey, you collected 3.5 billion dollars less. This is the part where I want to say something clever, but there's really nothing to add. They fired the tax collectors. They collected less tax. The report exists. Democracy.",
-      "GoPro makes action cameras. Helmet cams. The thing your neighbor straps to his forehead at ski resorts. Yesterday GoPro announced it's merging with a photonics company and entering the data center market for AI infrastructure. The stock jumped 40 percent. Nobody on the call asked what a camera company knows about data centers. Nobody needed to. The word 'AI' was in the sentence, and that was enough. We are living in the dot-com era again except this time nobody's even buying the domain names.",
-      "The House of Representatives passed a resolution condemning socialism. Fine, okay, routine stuff. But look a little closer and there it is: inside the anti-socialism resolution, Republicans tucked in language calling for the passage of the SAVE America Act, a controversial voter ID bill. An ideological statement became a vehicle for completely unrelated legislation. It's like writing a strongly-worded letter about honesty and slipping in a coupon. Efficient.",
-      "Tim Cook spent roughly fifteen years building Apple's environmental reputation. Real commitments: renewable energy, carbon reduction targets, the works. He steps down, and the analysis is basically — great record, Tim, genuinely impressive. And then the next paragraph is about Apple's AI server expansion, which runs on electricity, a lot of it, more than the previous plan accounted for. Cook planted the tree. The new team is running a data center next to it."
+      "Google has a market cap north of two trillion dollars. Apple is bigger. Between them, they have more engineers than most countries have voters. And when the executive order came down to rename Lake Ontario, both of them — immediately, quietly — updated their maps. MapQuest, which I genuinely thought had become a meme sometime around 2011, looked at that order and apparently said no. Not with a press release. Not with a lawsuit. Just by not doing it. And then it hit No. 1 on the App Store. Above ChatGPT. Because it refused to rename a lake. I'm not saying the big companies did something wrong. I'm just saying MapQuest is now the most punk thing in tech.",
+      "Here's how a censure works. The House investigates. The House votes. The House calls the member to the floor. Someone reads a document out loud that says, officially, on the record, that his behavior was unacceptable. He stands there. He receives this information. And then everyone goes back to their offices and continues to serve together in the same legislative body, with the same votes, the same staff budget, and presumably the same lunch options. The censure has no legal force. It cannot remove him. It cannot dock his pay. It is, to be precise, a piece of paper that says 'we noticed.' Which is more than nothing. But only just.",
+      "Seth Moulton is 47. He ran on the argument that Ed Markey, at 80, was simply too old to continue. This is a reasonable thing to argue. What is not reasonable — or rather, what is completely, perfectly, absurdly poetic — is that Markey has been in Congress since 1976. Moulton was born in 1978. So the man who ran against Markey for being too old was not yet alive when Markey started the job he is supposedly too old to continue. Moulton lost. The Democrats are still having their conversation about generational change. Massachusetts apparently decided to table it.",
+      "The secretary's argument, as best I can reconstruct it: polling places sometimes face threats, ICE officers respond to threats, therefore ICE officers might go to polling places. This is logical the same way a fire extinguisher is a source of water. Technically true. Deeply missing the point. Because the thing about sending federal immigration agents to a polling location — the specific detail that several people apparently had to explain out loud — is that federal immigration agents showing up is what makes a polling location feel threatening to a very large number of eligible voters. The protection and the suppression are the same object. You don't have to squint to see it.",
+      "They passed a resolution condemning socialism. Fine. Symbolic. Costs nothing, means nothing, everyone claps. But inside the anti-socialism resolution — tucked in, stapled, gift-wrapped — was language pushing the SAVE America Act, a voter ID bill that has been too controversial to pass on its own. So the document that officially says 'we oppose socialism' also, in the same breath, says 'pass this specific election legislation.' The outside of the package says one thing. The inside says something else entirely. Congress invented legislative origami, and they're very proud of the crane."
     ],
     "riffJa": [
-      "MapQuestって覚えてますか。2000年代の地図サービスで、スマートフォンが出る前にみんなが使ってたやつです。そのMapQuestが、今日のApp Store無料ランキング1位。ChatGPTを抑えて。\n\n理由は「Lake OntarioをLake Americaに変えません」と言っただけ。アップルとグーグルはトランプ政権の改名指令に従ってさっさと地図を更新したんですが、MapQuestは「歴史的な名称を維持します」と言って、それだけで数百万ダウンロードを集めた。何も新しいものを作っていない。ただ、変えなかった。それが2026年の差別化戦略です。ブランドコンサルタントに見せたい案件。",
-      "IRSというのはアメリカの国税庁です。その国税庁が、「政府のスリム化」の一環として審査員や職員を大量に解雇しました。で、どうなったか。2025会計年度の税務調査による税収が35億ドル減りました。\n\n監視機関がそのレポートを出しました。「取り立て係をクビにしたら取り立てができなくなりました」という内容を、連邦政府への正式な報告書として。こんなのを毎朝読んでいる私も私ですが、これは経営学の授業で使えるレベルの話です。",
-      "GoProって知ってますか。ヘルメットにつけてスキーとかサーフィンを撮るカメラ。あれを作っている会社が昨日、フォトニクス企業と合併してデータセンター事業に参入すると発表しました。\n\n株価が40%上がりました。\n\n「カメラとデータセンターってどう繋がるの?」という質問は、誰もしていません。「AI」と「データセンター」という言葉が発表文に入っていた。それで十分だった。2000年代のドットコムバブルで「.com」をつけるだけで株が上がったやつ、あれが帰ってきています。名前が違うだけで。",
-      "米下院が「社会主義を非難する決議」を採決しました。まあ、そういう決議、あるんですよ。ただ、この決議をよく読むと、中に「SAVE America Act（選挙人確認法案）を可決せよ」という文言が入っています。\n\n反社会主義の声明の中に、有権者ID法の要求が抱き合わせで入っている。全然関係ない話が一つの文書に同居している。健康に気をつけよう、というポスターの下に駐車場のルールが書いてある感じ。立法の効率化、まあうまくやってますね、という感じはします。",
-      "ティム・クックがアップルのCEOを退任しました。環境面の実績は、大手テック企業としては割とまともだったと評価されています。再生可能エネルギーへのコミットメント、カーボンフットプリントの削減目標、実際に動いていた。\n\nただ、クックが去った後のアップルが積極的に投資しているのはAIインフラです。AIサーバーは電力をたくさん使います。どれくらいかというと、従来の計画では到底まかなえないくらい。20年かけて植えた木の隣に、巨大なデータセンターを建て始めた感じです。誰も止めていません。"
+      "Googleは時価総額が200兆円を超える会社で、Appleはもっと大きい。大統領令が来た日、両社はオンタリオ湖を「レイク・アメリカ」に書き換えた。素早く、静かに、特に抵抗なく。\n\nMapQuestは、2000年代にほぼ化石になったと思っていた地図アプリなんですが、改名しなかった。声明も出さず、訴訟も起こさず、ただやらなかっただけ。それでApp Store1位になった。ChatGPTを抜いて。\n\n誰が一番、湖に正直だったか。今週の答えは完全に出ています。",
+      "非難決議のしくみ、どんなものか。倫理委員会が調査して、下院が投票して、その議員を議場に呼んで、「あなたの行動は不適切でした」と書いた文書を読み上げる。議員はそれを受け取る。で、全員そのまま仕事に戻る。\n\n同じ建物で、同じ票を持って、おそらく同じお昼を食べて。\n\n法的効力はない。辞職も求めない。給与も止まらない。「私たちは気づきました」という紙を渡す、それが最大の処分。何もないよりはいい。でも、かなりギリギリのラインで「何もない」に近い。",
+      "モールトン議員、47歳。選挙戦の軸は「マーキーは80歳で高齢すぎる」でした。それ自体は真っ当な議論なんですが。\n\nマーキーが議員になったのは1976年です。モールトンが生まれたのは1978年。つまり、「古すぎる」と言って挑んだ相手が、マーキーが初当選した時点でまだ生まれていなかった。\n\nモールトンは負けました。民主党の世代交代論争、続いています。マサチューセッツは「引き続き検討します」という結論を出しました。",
+      "マリン長官の論理、ちゃんと追うとこうです。投票所に脅威があればICEが行く。ICEは脅威に対処する。だから投票所にICEが来ることもある。\n\nでも抜けているのは一つだけ。ICEが来ること自体が、多くの有権者にとっての脅威なんですよね。移民当局の捜査官が選挙当日に投票所の周りにいる——その絵が、投票に来ようとしていた人を家に帰らせる。\n\n守る手段と、遠ざける手段が、まったく同じです。その指摘に、長官は特に何も言いませんでした。",
+      "反社会主義非難決議、可決されました。象徴的な決議で、法的効力はゼロ。「社会主義はよくない」という公式声明みたいなものです。\n\nで、その中身を読んだ人が気づいた。有権者ID法案「SAVE America Act」の通過を求める条項が、ちゃんと入っていた。\n\n反社会主義の封筒を開けたら、選挙法が入っていた。封筒の外に書いてあることと、中に入っているものが全然違う。\n\nこれを「立法の折り紙」と呼ばずに何と呼べばいいのか、まだ言葉が見つかっていません。"
     ],
     "asideEn": [
-      "MapQuest won by doing nothing. Study that.",
-      "Fired the collectors. Collected less. Filed a report.",
-      "Nobody asked. Nobody needed to.",
-      "Very productive document.",
-      "The tree is still there. For now."
+      "MapQuest won. Sit with that.",
+      "Very official paper. Zero consequences.",
+      "1976 called. It's still winning.",
+      "The protection is the threat. Moving on.",
+      "Anti-socialism gift wrap. Voter ID inside."
     ],
     "asideJa": [
-      "何もしないのが最強戦略。",
-      "解雇してから気づいたんですね。",
-      "誰も意味を聞かなかった。",
-      "一枚に全部入れた。",
-      "木はまだあります。今のところ。"
+      "MapQuestが勝った週。",
+      "紙を渡して、終わり。",
+      "1976年から現役。負けた方が若い。",
+      "守りに来た人が脅威でした。",
+      "封筒の中身、全然違う話だった。"
     ],
-    "fullEn": "# Nothing Means What It Says Anymore\n\n## Today's Forecast\n\nI've been doing this long enough to notice when five different stories are all somehow about the same thing. Today it's this: the gap between what you call something and what it actually is.\n\nMapQuest is number one in the App Store. GoPro is an AI company now. The IRS fired its collectors and collected less money — shocking absolutely no one except apparently the people who made that call. Congress condemned socialism and slipped a voting bill into the same document. And Tim Cook handed off Apple's green reputation to a team of servers that are very, very thirsty.\n\nHere's your forecast: if today you feel like you're doing the right thing but nobody's noticing, you're MapQuest. You kept the lake's name. That's worth something. Today might surprise you.\n\n---\n\n## 1. MapQuest Hits No. 1 on App Store by Refusing to Rename Lake Ontario\n\n*CBS News US — [source](https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/)*\n\nMapQuest, the long-dormant digital mapping service, surged to the top of Apple's App Store free download chart after announcing it would keep the name 'Lake Ontario' rather than adopt the executive-order-mandated 'Lake America.' The company cited 'historical and familiar' naming as its reason. The move came as rival mapping apps Apple Maps and Google Maps both updated their labels to reflect the Trump administration's renaming directive.\n\n**Why It's Funny**\n\nMapQuest — remember MapQuest? — is the number one free app in the App Store right now. Not because of a new feature. Not because of a celebrity partnership. Because they said they wouldn't rename Lake Ontario to Lake America, while Apple Maps and Google Maps quietly made the change. That's it. That was the whole move. A company that hasn't mattered since 2007 just out-positioned two of the most valuable companies on earth by doing absolutely nothing new. Somewhere a brand consultant is staring at this and rethinking their entire career.\n\n**Say It Out Loud**\n\n> MapQuest's big comeback strategy: own a server from 2004 and just... don't rename anything.\n\n---\n\n## 2. IRS Collected $3.5 Billion Less After Firing the People Who Collect Money\n\n*CBS News US — [source](https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/)*\n\nA federal watchdog found that IRS audit revenue dropped by $3.5 billion in fiscal year 2025 following significant reductions to the agency's workforce, including thousands of auditors and support staff. The staffing cuts were part of a broader federal downsizing effort. The report highlights how the personnel losses directly reduced the government's ability to collect taxes already owed.\n\n**Why It's Funny**\n\nThe federal government cut a large chunk of the IRS workforce — auditors, support staff, the people whose whole job is to find money that's owed — and then a watchdog came back and said, hey, you collected 3.5 billion dollars less. This is the part where I want to say something clever, but there's really nothing to add. They fired the tax collectors. They collected less tax. The report exists. Democracy.\n\n**Say It Out Loud**\n\n> Fired the tax collectors. Collected less tax. Groundbreaking.\n\n---\n\n## 3. GoPro Pivots to Data Centers, Shares Jump 40% — Yes, the Camera Company\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html)*\n\nGoPro, the consumer action camera brand best known for helmet-mounted sports footage, announced it is merging with private photonics company Starman Optical and entering the data center market. The company framed the move as joining the AI infrastructure boom. Following the announcement, GoPro's shares surged approximately 40 percent.\n\n**Why It's Funny**\n\nGoPro makes action cameras. Helmet cams. The thing your neighbor straps to his forehead at ski resorts. Yesterday GoPro announced it's merging with a photonics company and entering the data center market for AI infrastructure. The stock jumped 40 percent. Nobody on the call asked what a camera company knows about data centers. Nobody needed to. The word 'AI' was in the sentence, and that was enough. We are living in the dot-com era again except this time nobody's even buying the domain names.\n\n**Say It Out Loud**\n\n> GoPro said 'data centers' and the stock went up 40%. Nobody asked how those two things connect. Nobody.\n\n---\n\n## 4. House Votes to Condemn Socialism — Also, Please Show Your ID to Vote\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)*\n\nThe U.S. House of Representatives passed a resolution formally condemning socialism ahead of November's midterm elections. Republicans used the measure to simultaneously insert language calling for passage of the SAVE America Act, a highly controversial voter identification bill. The combination of an ideological statement and a specific voting-access policy in a single resolution drew attention to the legislative strategy.\n\n**Why It's Funny**\n\nThe House of Representatives passed a resolution condemning socialism. Fine, okay, routine stuff. But look a little closer and there it is: inside the anti-socialism resolution, Republicans tucked in language calling for the passage of the SAVE America Act, a controversial voter ID bill. An ideological statement became a vehicle for completely unrelated legislation. It's like writing a strongly-worded letter about honesty and slipping in a coupon. Efficient.\n\n**Say It Out Loud**\n\n> Congress condemned socialism and slipped a voter ID bill into the same document. Efficient use of paper.\n\n---\n\n## 5. Tim Cook Left Apple Greener — Now Apple's AI Servers Are Undoing That\n\n*The Verge — [source](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy)*\n\nAs Tim Cook stepped down as Apple's CEO, analyses noted he leaves behind a largely positive environmental record for a major tech company, including significant renewable energy commitments and reduced carbon footprint goals. However, Apple's rapidly expanding AI server infrastructure — driven by demand for on-device and cloud AI features — raises questions about whether the company can maintain those commitments. Energy consumption from AI computing is expected to grow substantially under the company's new direction.\n\n**Why It's Funny**\n\nTim Cook spent roughly fifteen years building Apple's environmental reputation. Real commitments: renewable energy, carbon reduction targets, the works. He steps down, and the analysis is basically — great record, Tim, genuinely impressive. And then the next paragraph is about Apple's AI server expansion, which runs on electricity, a lot of it, more than the previous plan accounted for. Cook planted the tree. The new team is running a data center next to it.\n\n**Say It Out Loud**\n\n> Cook spent fifteen years making Apple greener. Apple's AI team is working on that.\n\n---\n\n## Today's Punchline\n\n> GoPro said 'data centers,' the IRS stopped collecting taxes to save money, and MapQuest won the internet by doing nothing. I have no notes. This is just America.\n",
-    "fullJa": "# 「節約のために税務署員を全員クビにした」国の話をします\n\n## 今日を占うよ〜\n\n「MapQuestが1位」という文字を見て、目をこすりました。\n\nChatGPTでも、Instagramでもなく、2000年代の地図サービスが。しかも理由が「湖の名前を変えなかったから」。これが2026年9月のApp Storeの話です。\n\nで、他を見ると。税務署が人員削減して35億ドルの税収を失い、カメラ会社が「AI」と言っただけで株が4割上がり、反社会主義の決議に選挙法案が混入し、ティム・クックが20年かけて積んだ環境実績をアップルのAIサーバーが食べ始めている。\n\n今日の5本を貫く糸は、たぶん「名前と中身がもう一致していない」ということです。\n\n今日の占いです。あなたが「何もしてないのに」と思っていることがあるとしたら、それはMapQuestかもしれません。名前を変えなかっただけで1位になった話が今日あります。何もしてないのに、が今日は正解だったりする。少なくとも今日は。\n\n---\n\n## 1. MapQuest Hits No. 1 on App Store by Refusing to Rename Lake Ontario\n\n*CBS News US（[記事](https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/)）*\n\n地図アプリ「MapQuest」が「Lake Ontario」の名称変更を拒否すると表明したところ、App Storeの無料アプリランキングでChatGPTを抑えて1位を獲得した。\n\n**どこが笑える？**\n\nMapQuestって覚えてますか。2000年代の地図サービスで、スマートフォンが出る前にみんなが使ってたやつです。そのMapQuestが、今日のApp Store無料ランキング1位。ChatGPTを抑えて。\n\n理由は「Lake OntarioをLake Americaに変えません」と言っただけ。アップルとグーグルはトランプ政権の改名指令に従ってさっさと地図を更新したんですが、MapQuestは「歴史的な名称を維持します」と言って、それだけで数百万ダウンロードを集めた。何も新しいものを作っていない。ただ、変えなかった。それが2026年の差別化戦略です。ブランドコンサルタントに見せたい案件。\n\n**このニュースをジョークにするなら...**\n\n> MapQuestの起死回生の一手は、「2004年のサーバーを維持して、名前を変えない」でした。\n\n---\n\n## 2. IRS Collected $3.5 Billion Less After Firing the People Who Collect Money\n\n*CBS News US（[記事](https://www.cbsnews.com/news/irs-audit-revenue-decline-worker-cuts/)）*\n\n米国歳入庁（IRS）が大規模な人員削減を実施した結果、2025会計年度の税務調査による税収が35億ドル減少したと監視機関が報告した。\n\n**どこが笑える？**\n\nIRSというのはアメリカの国税庁です。その国税庁が、「政府のスリム化」の一環として審査員や職員を大量に解雇しました。で、どうなったか。2025会計年度の税務調査による税収が35億ドル減りました。\n\n監視機関がそのレポートを出しました。「取り立て係をクビにしたら取り立てができなくなりました」という内容を、連邦政府への正式な報告書として。こんなのを毎朝読んでいる私も私ですが、これは経営学の授業で使えるレベルの話です。\n\n**このニュースをジョークにするなら...**\n\n> 税金を徴収する人を解雇したら、税金が集まらなくなりました。革命的な発見です。\n\n---\n\n## 3. GoPro Pivots to Data Centers, Shares Jump 40% — Yes, the Camera Company\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/gopro-stock-ai-data-centers.html)）*\n\nアクションカメラメーカーのGoPro社がフォトニクス企業Starman Opticalとの合併を発表し、データセンター事業への参入を表明。株価が40%急騰した。\n\n**どこが笑える？**\n\nGoProって知ってますか。ヘルメットにつけてスキーとかサーフィンを撮るカメラ。あれを作っている会社が昨日、フォトニクス企業と合併してデータセンター事業に参入すると発表しました。\n\n株価が40%上がりました。\n\n「カメラとデータセンターってどう繋がるの?」という質問は、誰もしていません。「AI」と「データセンター」という言葉が発表文に入っていた。それで十分だった。2000年代のドットコムバブルで「.com」をつけるだけで株が上がったやつ、あれが帰ってきています。名前が違うだけで。\n\n**このニュースをジョークにするなら...**\n\n> GoPro社が「データセンター」と言ったら株が40%上がった。誰も「それどういう関係?」とは聞かなかった。\n\n---\n\n## 4. House Votes to Condemn Socialism — Also, Please Show Your ID to Vote\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)）*\n\n米国下院が11月の中間選挙を前に社会主義を非難する決議を採択した。共和党はこの決議に、物議を醸している選挙人確認法案（SAVE America Act）の可決要求も盛り込んだ。\n\n**どこが笑える？**\n\n米下院が「社会主義を非難する決議」を採決しました。まあ、そういう決議、あるんですよ。ただ、この決議をよく読むと、中に「SAVE America Act（選挙人確認法案）を可決せよ」という文言が入っています。\n\n反社会主義の声明の中に、有権者ID法の要求が抱き合わせで入っている。全然関係ない話が一つの文書に同居している。健康に気をつけよう、というポスターの下に駐車場のルールが書いてある感じ。立法の効率化、まあうまくやってますね、という感じはします。\n\n**このニュースをジョークにするなら...**\n\n> 社会主義を非難しつつ、有権者ID法案もその中に仕込みました。紙の有効活用。\n\n---\n\n## 5. Tim Cook Left Apple Greener — Now Apple's AI Servers Are Undoing That\n\n*The Verge（[記事](https://www.theverge.com/tech/987550/tim-cook-apple-environment-sustainability-legacy)）*\n\nアップルCEOを退任したティム・クックは、環境面で比較的良好な実績を残したと評価されているが、アップルのAIインフラ拡大が今後その気候変動対策の遺産を脅かす可能性があると指摘されている。\n\n**どこが笑える？**\n\nティム・クックがアップルのCEOを退任しました。環境面の実績は、大手テック企業としては割とまともだったと評価されています。再生可能エネルギーへのコミットメント、カーボンフットプリントの削減目標、実際に動いていた。\n\nただ、クックが去った後のアップルが積極的に投資しているのはAIインフラです。AIサーバーは電力をたくさん使います。どれくらいかというと、従来の計画では到底まかなえないくらい。20年かけて植えた木の隣に、巨大なデータセンターを建て始めた感じです。誰も止めていません。\n\n**このニュースをジョークにするなら...**\n\n> クックは15年かけてアップルを「緑の会社」にした。アップルのAIチームが今、それに取り組んでいます。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> カメラ会社がAIと言い、税務署が節約して損をし、地図アプリが「名前を変えません」で1位になった。これが先進国の話です。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "xJaが3本（d3・d4・d5）8本に満たない——元データを数えると5本しかなく、スキーマ上「8本すべて」を出力する必要があるが元データ自体が5本のため構造上の問題。xJaは5本で成立しているので現状維持。実質的な修正点：d3のimagePrompts3本目に実在人物（GoPro executive）を特定できる人物描写が含まれている（審査基準5違反）ので書き直し。d5のcaption4番（英・日）が「説明」で終わっており、オチが弱い。その他は合格。 ／ 文体パス: 5箇所修正。代表例：introJaの締め「正直でいることのコストは、思ったより低いかもしれない」がプレゼン口調の気の利いた締めになっていたので、本音がこぼれた形に崩した。"
+    "fullEn": "# MapQuest Beat ChatGPT. A Lake Did That.\n\n## Today's Forecast\n\nI want to talk about the fine print today. Not the fine print in contracts — I mean the fine print in democracy. The thing everyone agrees the document says, while quietly doing something else with it.\n\nThis week: MapQuest is No. 1 on the App Store, and it got there by doing absolutely nothing except not renaming a lake. Meanwhile, the House passed an anti-socialism resolution with a voter ID bill tucked inside it, like a prize in a cereal box. Also, ICE might show up at your polling place. To protect it, they say.\n\nHere's your forecast: if you've ever felt like you were following the rules while people around you rewrote them mid-game, today's news is basically a mirror. That's not your fault. That's just Tuesday in September. You're fine.\n\n---\n\n## 1. MapQuest Hits No. 1 on App Store After Refusing to Rename Lake Ontario\n\n*CBS News US — [source](https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/)*\n\nMapQuest, the once-dominant mapping service many had assumed was defunct, shot to the top of Apple's App Store free downloads chart after announcing it would keep traditional lake names rather than comply with a Trump executive order renaming Lake Ontario. The company's refusal placed it above ChatGPT on the charts. Google Maps and Apple Maps both updated their labels to reflect the new government-mandated name.\n\n**Why It's Funny**\n\nGoogle has a market cap north of two trillion dollars. Apple is bigger. Between them, they have more engineers than most countries have voters. And when the executive order came down to rename Lake Ontario, both of them — immediately, quietly — updated their maps. MapQuest, which I genuinely thought had become a meme sometime around 2011, looked at that order and apparently said no. Not with a press release. Not with a lawsuit. Just by not doing it. And then it hit No. 1 on the App Store. Above ChatGPT. Because it refused to rename a lake. I'm not saying the big companies did something wrong. I'm just saying MapQuest is now the most punk thing in tech.\n\n**Say It Out Loud**\n\n> MapQuest just beat ChatGPT on the charts. Not by being smarter. Not by being faster. By refusing to rename a lake.\n\n---\n\n## 2. House Censures Rep. Chuck Edwards for 'Inappropriate Conduct' Toward Female Aides\n\n*CBS News US — [source](https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/)*\n\nThe House of Representatives formally censured Republican Rep. Chuck Edwards of North Carolina following a House Ethics Committee investigation into allegations of unprofessional and inappropriate conduct toward two young female staffers. The censure vote drew bipartisan support. Edwards represents a district he has held since 2023.\n\n**Why It's Funny**\n\nHere's how a censure works. The House investigates. The House votes. The House calls the member to the floor. Someone reads a document out loud that says, officially, on the record, that his behavior was unacceptable. He stands there. He receives this information. And then everyone goes back to their offices and continues to serve together in the same legislative body, with the same votes, the same staff budget, and presumably the same lunch options. The censure has no legal force. It cannot remove him. It cannot dock his pay. It is, to be precise, a piece of paper that says 'we noticed.' Which is more than nothing. But only just.\n\n**Say It Out Loud**\n\n> Congress officially told him his behavior was unacceptable. He still has his desk. His vote. His parking spot. But they told him.\n\n---\n\n## 3. Ed Markey, 80, Wins Massachusetts Democratic Primary Despite Age Challenges\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary)*\n\nSenator Ed Markey, 80, won the Massachusetts Democratic primary on Tuesday, defeating Rep. Seth Moulton, 47, who had centered his campaign on the argument that the party needed younger leaders. The victory comes at a moment when Democrats nationally have been debating age and generational change in party leadership. Markey has served in Congress since 1976.\n\n**Why It's Funny**\n\nSeth Moulton is 47. He ran on the argument that Ed Markey, at 80, was simply too old to continue. This is a reasonable thing to argue. What is not reasonable — or rather, what is completely, perfectly, absurdly poetic — is that Markey has been in Congress since 1976. Moulton was born in 1978. So the man who ran against Markey for being too old was not yet alive when Markey started the job he is supposedly too old to continue. Moulton lost. The Democrats are still having their conversation about generational change. Massachusetts apparently decided to table it.\n\n**Say It Out Loud**\n\n> Moulton's whole campaign was 'he's too old.' Markey's campaign was 'hold on, I'm still here.' Markey won.\n\n---\n\n## 4. Homeland Security Chief Says ICE Could Be Deployed to Polling Places\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/01/trump-homeland-security-markwayne-mullin-polling)*\n\nHomeland Security Secretary Markwayne Mullin said Tuesday that ICE officers could be deployed to polling sites if there is a perceived threat to a polling place or if agents need to serve a warrant there. The comment drew immediate alarm from voting rights advocates and Democratic lawmakers, who warned it could suppress voter turnout. Federal law prohibits certain forms of intimidation at polling places.\n\n**Why It's Funny**\n\nThe secretary's argument, as best I can reconstruct it: polling places sometimes face threats, ICE officers respond to threats, therefore ICE officers might go to polling places. This is logical the same way a fire extinguisher is a source of water. Technically true. Deeply missing the point. Because the thing about sending federal immigration agents to a polling location — the specific detail that several people apparently had to explain out loud — is that federal immigration agents showing up is what makes a polling location feel threatening to a very large number of eligible voters. The protection and the suppression are the same object. You don't have to squint to see it.\n\n**Say It Out Loud**\n\n> The polling place is safe, they said. Safe enough that we're sending armed federal immigration agents. Just in case.\n\n---\n\n## 5. House Passes Resolution Condemning Socialism — With Voter ID Rider Tucked Inside\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)*\n\nThe House passed a measure formally condemning socialism ahead of the November election. Republicans inserted language calling for the passage of the SAVE America Act — a highly controversial voter ID bill — into the same resolution. The socialism resolution is largely symbolic and has no binding legal effect.\n\n**Why It's Funny**\n\nThey passed a resolution condemning socialism. Fine. Symbolic. Costs nothing, means nothing, everyone claps. But inside the anti-socialism resolution — tucked in, stapled, gift-wrapped — was language pushing the SAVE America Act, a voter ID bill that has been too controversial to pass on its own. So the document that officially says 'we oppose socialism' also, in the same breath, says 'pass this specific election legislation.' The outside of the package says one thing. The inside says something else entirely. Congress invented legislative origami, and they're very proud of the crane.\n\n**Say It Out Loud**\n\n> They passed an anti-socialism resolution. Inside the anti-socialism resolution: a voter ID bill. Inside the voter ID bill: November.\n\n---\n\n## Today's Punchline\n\n> This week, the most honest actor in American democracy was MapQuest. A mapping app from 2000. Which refused to rename a lake.\n",
+    "fullJa": "# 「反社会主義決議」の中に選挙法が入っていた話と、それより正直だったMapQuestの話\n\n## 今日を占うよ〜\n\n今日の話、全部「表の紙と裏の中身が違う」週なんですよ。\n\n反社会主義決議を開いたら選挙法が入ってた。投票所を「守る」ためにICEを送るって言ってる。議員に「不適切」と書いた紙を渡して、翌日は隣に座って仕事してる。MapQuestは何も言わずに湖の名前を変えなかっただけで、今週のApp Store1位になった。\n\nそんな5本です。\n\nで、今日の占い。「なんか話がかみ合わないな」って感じてるとしたら、あなたがおかしいんじゃないと思う。書いてあることとやっていることが違う世界で、ちゃんと困惑してるだけだから。今日は、その困惑を笑っていい日です。\n\n---\n\n## 1. MapQuest Hits No. 1 on App Store After Refusing to Rename Lake Ontario\n\n*CBS News US（[記事](https://www.cbsnews.com/news/mapquest-no-1-app-lake-ontario/)）*\n\nトランプ大統領令に従ってGoogleとAppleがオンタリオ湖を「レイク・アメリカ」に改名する中、MapQuestが改名を拒否したことで話題となり、App Storeで無料アプリ1位に急浮上した。\n\n**どこが笑える？**\n\nGoogleは時価総額が200兆円を超える会社で、Appleはもっと大きい。大統領令が来た日、両社はオンタリオ湖を「レイク・アメリカ」に書き換えた。素早く、静かに、特に抵抗なく。\n\nMapQuestは、2000年代にほぼ化石になったと思っていた地図アプリなんですが、改名しなかった。声明も出さず、訴訟も起こさず、ただやらなかっただけ。それでApp Store1位になった。ChatGPTを抜いて。\n\n誰が一番、湖に正直だったか。今週の答えは完全に出ています。\n\n**このニュースをジョークにするなら...**\n\n> MapQuestがApp StoreでChatGPTを抜いた。頭がいいから？いや。湖の名前を変えなかっただけ。\n\n---\n\n## 2. House Censures Rep. Chuck Edwards for 'Inappropriate Conduct' Toward Female Aides\n\n*CBS News US（[記事](https://www.cbsnews.com/news/chuck-edwards-censure-vote-house-sexual-harassment/)）*\n\n下院は倫理委員会の調査を受け、ノースカロライナ州選出の共和党議員チャック・エドワーズを、若い女性スタッフ2人への「不適切な行為」を理由に公式に非難決議した。\n\n**どこが笑える？**\n\n非難決議のしくみ、どんなものか。倫理委員会が調査して、下院が投票して、その議員を議場に呼んで、「あなたの行動は不適切でした」と書いた文書を読み上げる。議員はそれを受け取る。で、全員そのまま仕事に戻る。\n\n同じ建物で、同じ票を持って、おそらく同じお昼を食べて。\n\n法的効力はない。辞職も求めない。給与も止まらない。「私たちは気づきました」という紙を渡す、それが最大の処分。何もないよりはいい。でも、かなりギリギリのラインで「何もない」に近い。\n\n**このニュースをジョークにするなら...**\n\n> 下院は正式に「あなたの行いはダメです」と告げた。席もある。投票権もある。駐車場もある。でも告げた。\n\n---\n\n## 3. Ed Markey, 80, Wins Massachusetts Democratic Primary Despite Age Challenges\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/01/massachusetts-senate-democratic-primary)）*\n\nマサチューセッツ州選出の現職上院議員エド・マーキー（80歳）が、「マーキーは高齢で効果的でない」と訴えたセス・モールトン下院議員との民主党予備選を制し、再選に向けた党指名を勝ち取った。\n\n**どこが笑える？**\n\nモールトン議員、47歳。選挙戦の軸は「マーキーは80歳で高齢すぎる」でした。それ自体は真っ当な議論なんですが。\n\nマーキーが議員になったのは1976年です。モールトンが生まれたのは1978年。つまり、「古すぎる」と言って挑んだ相手が、マーキーが初当選した時点でまだ生まれていなかった。\n\nモールトンは負けました。民主党の世代交代論争、続いています。マサチューセッツは「引き続き検討します」という結論を出しました。\n\n**このニュースをジョークにするなら...**\n\n> モールトンの選挙戦略は「彼は年を取りすぎ」。マーキーの戦略は「まだここにいます」。マーキーが勝った。\n\n---\n\n## 4. Homeland Security Chief Says ICE Could Be Deployed to Polling Places\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/01/trump-homeland-security-markwayne-mullin-polling)）*\n\nマークウェイン・マリン国土安全保障長官は、投票所に対する「脅威」や逮捕令状の執行が必要な場合、ICE（移民・関税執行局）捜査官を投票所に派遣する可能性があると述べた。\n\n**どこが笑える？**\n\nマリン長官の論理、ちゃんと追うとこうです。投票所に脅威があればICEが行く。ICEは脅威に対処する。だから投票所にICEが来ることもある。\n\nでも抜けているのは一つだけ。ICEが来ること自体が、多くの有権者にとっての脅威なんですよね。移民当局の捜査官が選挙当日に投票所の周りにいる——その絵が、投票に来ようとしていた人を家に帰らせる。\n\n守る手段と、遠ざける手段が、まったく同じです。その指摘に、長官は特に何も言いませんでした。\n\n**このニュースをジョークにするなら...**\n\n> 投票所は安全です、と言った。だから連邦移民捜査官を送ります、とも言った。念のため。\n\n---\n\n## 5. House Passes Resolution Condemning Socialism — With Voter ID Rider Tucked Inside\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/01/congress-vote-condemning-socialism-election.html)）*\n\n下院共和党は反社会主義を非難する決議を可決させたが、その中に物議を醸している有権者ID法案「SAVE America Act」の通過を求める条項を紛れ込ませていた。\n\n**どこが笑える？**\n\n反社会主義非難決議、可決されました。象徴的な決議で、法的効力はゼロ。「社会主義はよくない」という公式声明みたいなものです。\n\nで、その中身を読んだ人が気づいた。有権者ID法案「SAVE America Act」の通過を求める条項が、ちゃんと入っていた。\n\n反社会主義の封筒を開けたら、選挙法が入っていた。封筒の外に書いてあることと、中に入っているものが全然違う。\n\nこれを「立法の折り紙」と呼ばずに何と呼べばいいのか、まだ言葉が見つかっていません。\n\n**このニュースをジョークにするなら...**\n\n> 反社会主義決議を通した。決議の中身を読んだら有権者ID法案が入っていた。そのさらに奥には11月がある。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今週いちばん正直だったのは、MapQuestでした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "candidatesはcaptions・imagePrompts含めほぼ合格。editorial側でxJa[3]の字数超過（元データは144字）とnotesEn[3]の単体成立（Moulton生年が本文中で宙吊り）を修正。introJaは全体的に書き言葉寄りで、掴み→5本予告→前向き占いの3要素のうち「5本の予告」が抜けているため書き直し。 ／ 文体パス: 6箇所修正。代表例：riffJa[1]の「説明しますね」導入と締め、riffJa[3]の「一見筋が通っています」などプレゼン口調、titleAltJa[1]の締め文「が同じ週に出てきた」はOKだがtitleAltJa[2]の「この一言で十分です」が翻訳調。"
   },
   "carousel": [
     "images/2026-09-02/carousel/slide-1.jpg",
