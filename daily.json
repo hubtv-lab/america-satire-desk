@@ -1,354 +1,354 @@
 {
   "version": 1,
-  "date": "2026-09-03",
-  "generatedAt": "2026-09-02T21:53:21+00:00",
+  "date": "2026-09-04",
+  "generatedAt": "2026-09-03T21:47:09+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Apple Renames Lake Ontario 'Lake America' Because an Executive Order Said So",
-        "source": "The Guardian US",
-        "date": "2026-09-03",
-        "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-        "summary": "トランプ大統領の行政命令を受け、Appleはカナダとアメリカの国境にあるオンタリオ湖をアメリカ国内のMapsアプリ上で「レイク・アメリカ」に改名した。"
+        "headline": "Social Security Overpaid Her — Now It Wants $35,000 Back in 30 Days",
+        "source": "CBS News US",
+        "date": "2026-09-04",
+        "url": "https://www.cbsnews.com/news/social-security-overpayment-clawback-repayment-appeal/",
+        "summary": "社会保障局（SSA）が誤って過払いした女性に対し、30日以内に3万5000ドルを返還しなければ給付金を50%削減すると通告した。"
       },
       "commentary": [
-        "<b>矛盾:</b> カナダとの国境をまたぐ湖の名前をアメリカ側だけ変えても、湖そのものは1ミリも動かないんですよ。地図の上だけで「俺の湖」にした感じ。",
-        "<b>滑稽さ:</b> 行政命令一本で地形の名前が変わるなら、次は「大西洋はトランプ・オーシャン」になっても誰も驚けないじゃないですか。",
-        "<b>日本・海外から見ると:</b> カナダ側の地図には今でも「オンタリオ湖」と書いてある。国境のど真ん中にある湖が、岸によって別の名前を持つという、なかなかシュールな状況です。"
+        "<b>矛盾:</b> 払いすぎたのは政府の側なのに、気づかず受け取っていた市民が30日以内に3万5000ドルを用意しろと言われる。財布を間違えて渡しといて「返せ、今すぐ」っていうやつ。",
+        "<b>滑稽さ:</b> 払えなければ給付を半額カット——つまり「お金がない人から取る手段」が「さらにお金を減らす」なんですよ。取り立ての方法が取り立ての理由を作ってる。",
+        "<b>日本・海外から見ると:</b> 行政のミスで二重に損をするのは万国共通なんですけど、30日という期限の短さと金額の大きさの組み合わせが、罰ゲームとしてよくできすぎてる。"
       ],
       "imagePrompts": [
-        "A large lake viewed from above, split down the middle by a national border line. The left (US) side is labeled 'LAKE AMERICA' in bold official font. The right (Canadian) side is labeled 'LAKE ONTARIO' in the same font. A tiny Apple logo hovers over the US side with a paintbrush.",
-        "A cartographer at a massive wooden desk carefully crossing out 'Ontario' on an antique map and writing 'America' with a quill pen, while a framed executive order hangs on the wall behind him. The map still shows Canada surrounding the lake on three sides.",
-        "Two kayakers facing each other in the middle of a lake, one holding a sign reading 'LAKE ONTARIO,' the other holding one reading 'LAKE AMERICA.' A fish jumps between them, completely uninterested."
+        "A woman sitting at a kitchen table staring at an official government letter. On the table: a cup of coffee, a calculator showing $35,000, and a calendar with 30 days X'd out in red marker. The envelope is stamped 'Social Security Administration.'",
+        "A large government building with a sign reading 'Social Security Administration' and a drive-through window. A teller is handing a confused elderly woman a bill labeled '$35,000 — Due Immediately.' A sign above reads: 'Our mistake, your problem.'",
+        "A balance scale. On one side: a stack of government benefit checks labeled 'Overpayment — Our Bad.' On the other side: a woman's empty wallet, a rent notice, and a 30-day countdown clock. The scale tips heavily toward the government side."
       ],
       "captions": [
-        "Apple changed the name of a lake. Canada still has the lake.",
-        "MapQuest, which your parents stopped using in 2011, now has more downloads than ChatGPT — because it just didn't rename a lake. That's the whole story.",
-        "The executive order changed the map. It did not change the watershed, the fish population, or Canada's opinion of us.",
-        "You ever rename half a lake and wonder if the other half got the memo?",
-        "Somewhere in Cupertino, an engineer had to open a database, find 'Lake Ontario,' change it to 'Lake America,' close the laptop, and go home for the day. That was the job."
+        "The agency overpaid her for years without noticing. She has 30 days to notice back — with $35,000.",
+        "Their error. Her debt. Thirty days. The American dream, basically.",
+        "They cut her benefits by 50% to collect the money she'd need to avoid the 50% cut. Follow the logic if you can.",
+        "She didn't apply for $35,000. It just showed up. Apparently that's on her.",
+        "What's the SSA's repayment plan for the mistake? That's not really how this works."
       ],
       "captionsJa": [
-        "Appleが湖の名前を変えた。湖はカナダにまだある。",
-        "2011年に誰もが使うのをやめたMapQuestが、「湖の名前を変えなかっただけ」でChatGPTを抜いて1位になった。それが全部です。",
-        "行政命令は地図を変えた。集水域も、魚の数も、カナダの気持ちも、1ミリも変わっていない。",
-        "半分だけ名前を変えた湖、残り半分には連絡が届いてないんですけど。",
-        "どこかのエンジニアが「オンタリオ湖」を検索して「レイク・アメリカ」に直して、ノートパソコンを閉じて帰宅した。それが今日の仕事。"
+        "政府が何年も気づかずに払いすぎてた。気づくのは彼女の番で、期限は30日、金額は3万5000ドル。",
+        "ミスは向こう。請求は彼女。猶予は30日。アメリカンドリームってそういうことです。",
+        "給付を50%カットして取り立てる——つまり返済に必要なお金を、返済できない理由にしてる。ついてこれます？",
+        "彼女は3万5000ドルを申請してない。勝手に振り込まれただけ。どうやらそれが問題らしい。",
+        "SSA側のミスへの返済計画は？　そういう仕組みじゃないから。"
       ],
-      "newsEn": "Apple has renamed Lake Ontario as 'Lake America' for US users of its Maps app, following an executive order from President Trump issued amid his trade dispute with Canada. The lake sits on the border between the US and Canada and has been called Lake Ontario for centuries. The name change applies only to the US version of Apple Maps.",
+      "newsEn": "The Social Security Administration notified a woman that it had overpaid her benefits and is now demanding repayment of $35,000 within 30 days. If she fails to pay, SSA says it will garnish 50% of her monthly benefits until the debt is recovered. The woman says she had no indication the payments were in error at the time she received them.",
       "ironyEn": [
         {
-          "contradiction": "The lake hasn't moved an inch, but on the US side of Apple Maps it's now called 'Lake America' — a body of water that is, factually, half Canadian.",
-          "absurdity": "Apple, a company that once told users 'Think Different,' chose to quietly swap out a name that's been on maps since 1755 because a trade dispute happened.",
-          "outside": "Canadian users open the same app and still see 'Lake Ontario.' So the lake has two names depending on which shore you're standing on. The water does not care."
+          "contradiction": "The government made the mistake, but the woman has 30 days to fix it — with her own money.",
+          "absurdity": "The penalty for not repaying the overpayment is a 50% cut to the very benefits she needs to survive, which is also the money she'd need to repay the debt.",
+          "outside": "In most countries, when a government agency makes a clerical error, there's an appeals process. Here the timeline is 30 days and the fallback plan is 'good luck.'"
         },
         {
-          "contradiction": "An executive order about tariffs somehow also became an executive order about Great Lakes nomenclature. The logic connecting those two things has not been made public.",
-          "absurdity": "Meanwhile, MapQuest — a service most people assumed died in 2009 — shot to No. 1 on the App Store by simply not renaming the lake. Defiance has never required less effort.",
-          "outside": "From abroad, this reads as a country trying to win a trade war by editing its own map. Canada's exports remain unchanged. The lake's volume remains unchanged. Only the font is different."
+          "contradiction": "SSA exists to provide financial security. Its collections strategy is to threaten financial insecurity.",
+          "absurdity": "She didn't steal anything. The check just showed up. Now she owes the price of a used car.",
+          "outside": "Imagine your bank accidentally depositing extra cash, waiting years to notice, then sending you a letter saying 'pay it back by next month or we freeze half your account.' That's the system."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-03/candidate-1.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-03/candidate-1-punchy.jpg"
+      "image": "images/2026-09-04/candidate-1.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-04/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "IRS Fired Its Auditors. Turns Out, Auditors Were the Ones Collecting Taxes.",
-        "source": "NPR News",
-        "date": "2026-09-03",
-        "url": "https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions",
-        "summary": "監察総監のレポートにより、IRS（米国歳入庁）が監査スタッフを大幅削減した結果、税務執行による徴収額が急減していたことが明らかになった。"
+        "headline": "Trump Admin Moves to Strip Private Colleges of Tax-Exempt Status, Threatening Donor Breaks",
+        "source": "CNBC Top News",
+        "date": "2026-09-04",
+        "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
+        "summary": "トランプ政権の財務省が、数千の私立学校から免税資格を剥奪し、寄付金への税控除も廃止する規制案を提示した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「政府のムダを省く」という名目で税金を集める人員を削ったら、集まる税金が減った。節約しようとして収入を減らすという、家計でもやってはいけないやつ。",
-        "<b>滑稽さ:</b> 脱税を摘発する側の人間がいなくなったことで、得をしたのは脱税しようとしていた人たちです。「政府の効率化」の恩恵、これが一番わかりやすい受取人。",
-        "<b>日本・海外から見ると:</b> 税務調査官を解雇することで税収が増えると思っていたなら話は別ですが、普通に考えて、チェックする人がいなければ申告は緩くなりますよね。"
+        "<b>矛盾:</b> 寄付への税控除を廃止するということは、億万長者が大学に寄付しても節税できなくなる。「エリートへの優遇をやめる」政策が、富裕層の財布も直撃するという、ちょっと予想外の着地点。",
+        "<b>滑稽さ:</b> 大学の免税を剥がすと言いながら、その大学に寄付してた共和党支持者の富豪たちも道連れになる可能性がある。味方を巻き込む爆発の構図。",
+        "<b>日本・海外から見ると:</b> アメリカでは大学への寄付が「節税」と「社会貢献」を兼ねる文化なんですが、その前提を政府が壊しにいくという、アイビーリーグ以外の人間には「でしょうね」って感じの話。"
       ],
       "imagePrompts": [
-        "An empty government office with rows of vacant desks, audit folders scattered on the floor, and a large scoreboard on the wall showing 'TAX COLLECTED: $0' with a downward arrow. A single plant on one desk is also dead.",
-        "A person in a suit walking out of an IRS building carrying a box of belongings, while behind them through the glass doors a line of people with briefcases labeled 'UNPAID TAXES' quietly tiptoe away smiling.",
-        "A balance scale: on the left side, a small stack of coins labeled 'SALARY SAVED BY LAYOFFS.' On the right side, a massive pile of gold bars labeled 'TAXES NOW GOING UNCOLLECTED.' The scale is tipped dramatically to the right."
+        "A grand university building with ivy-covered walls. A Treasury Department official in a suit is using bolt cutters to remove a bronze plaque reading 'Tax-Exempt' from the gate. In the background, a line of wealthy donors in tuxedos look confused, checkbooks in hand.",
+        "A giant rubber stamp reading 'REVOKED' hovering over a row of private school buildings of wildly different sizes — from a gleaming Ivy League campus to a tiny rural schoolhouse — all labeled with the same status: 'Tax-Exempt (Pending).'",
+        "A political figure holding a large lever labeled 'Tax-Exempt Status.' On one side of the lever: a small sign saying 'Target: Elite Universities.' On the other side, a crowd of the figure's own campaign donors in golf shirts, looking nervous."
       ],
       "captions": [
-        "We fired the tax collectors to save money. We are now saving even more money by not collecting taxes.",
-        "The Inspector General wrote a report about this. The findings were: yes, if you fire the auditors, people get audited less.",
-        "Somewhere, someone who owed the IRS a lot of money just had the best year of their life — courtesy of federal workforce reform.",
-        "Government efficiency: achieved. Government revenue: less achieved.",
-        "It cost money to run the audit division. It cost more money to stop running it. Nobody put that in the press release."
+        "Nothing says 'drain the swamp' like threatening the tax break your biggest donors use to write off their stadium donations.",
+        "Harvard's in the crosshairs. So is the tiny Christian school in rural Ohio. Same rule. Different press releases.",
+        "They wanted to go after elite universities — and they found a regulation that doesn't really know the difference between Harvard and a homeschool co-op.",
+        "The donor who just named a library after himself is about to have a very uncomfortable conversation with his accountant.",
+        "Populism: when you accidentally hurt your own base and call it a feature."
       ],
       "captionsJa": [
-        "節税のために税金を集める人を解雇した。おかげで税金がさらに集まらなくなった。",
-        "監察総監がレポートを書いた。内容は「監査する人を解雇したら、監査が減った」。以上。",
-        "どこかで税金を大量に滞納していた人が、今年最高の年を過ごしています。連邦政府の効率化のおかげで。",
-        "政府の効率化：達成。政府の収入：それほど達成できず。",
-        "監査部門の運営にはお金がかかった。廃止するともっとお金がかかった。プレスリリースにはそう書かれていなかった。"
+        "「エリートを叩く」と言いながら、一番困るのは自分たちの最大スポンサーなんですよね。スタジアムに名前を刻んだ人たち、今ごろ焦ってる。",
+        "ハーバードが標的のはずが、規制文はオハイオの片田舎の小さなキリスト教学校も区別しない。同じルール、違うプレスリリース。",
+        "エリート大学を狙ったつもりが、ハーバードとホームスクールの組合を同じ尺度で裁く規制ができあがった。",
+        "図書館に自分の名前を刻んだ寄付者、今週末の税理士との面談、相当気まずくなりそう。",
+        "ポピュリズムとは：自分の支持者を道連れにして「これが改革だ」と言い張ること。"
       ],
-      "newsEn": "The IRS significantly cut its auditing staff last year as part of broader federal workforce reductions. An Inspector General report now shows that tax collections from enforcement efforts have plummeted as a direct result. Consumer and fiscal watchdog groups warn the shortfall could add substantially to the federal deficit.",
+      "newsEn": "The Treasury Department has proposed regulations that would strip thousands of private schools of their tax-exempt status under the Internal Revenue Code. The move would also eliminate a valuable tax deduction for donations made to those institutions. The proposal targets schools that allegedly maintain discriminatory policies, but critics say the criteria are vague and politically motivated.",
       "ironyEn": [
         {
-          "contradiction": "The government cut the people whose job is to collect money from people who aren't paying — and then collected less money. The Inspector General did not seem surprised.",
-          "absurdity": "In the effort to shrink government spending, the administration eliminated a division that was, by most accounts, generating more revenue than it cost to operate.",
-          "outside": "Tax authorities in other countries are watching this as a case study. Not a flattering one."
+          "contradiction": "The administration framing this as a populist blow against elite institutions — but the donors losing their tax breaks are mostly the administration's own donor class.",
+          "absurdity": "You can lose a seven-figure deduction because the Treasury decides your alma mater's student handbook is politically objectionable.",
+          "outside": "Most countries just fund universities directly. The U.S. built a system where billionaires get tax breaks for naming buildings, and now the government is threatening to dismantle it — one vague eligibility criterion at a time."
         },
         {
-          "contradiction": "Firing enforcement staff to save money is a bit like a restaurant laying off the waitstaff to cut costs and then noticing that revenue has dropped.",
-          "absurdity": "The people who were supposed to find unpaid taxes are now gone, which means the unpaid taxes are simply staying unpaid. The system is working exactly as gutted.",
-          "outside": "The Inspector General filed a report. The report found what you'd expect. The question now is what happens to the report."
+          "contradiction": "Stripping 'elite' schools of tax benefits sounds populist until you realize the people most affected are the wealthy donors who bankrolled the GOP.",
+          "absurdity": "The regulation is broad enough that a small religious academy in rural Ohio could lose its status alongside Harvard.",
+          "outside": "From the outside, this reads as: America funds its universities through a tax-code loophole, and the current administration has just discovered the loophole has a lever."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-03/candidate-2.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-03/candidate-2-punchy.jpg"
+      "image": "images/2026-09-04/candidate-2.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-04/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "US Mint Sells $1 Trump Coins for $1.55 Each, Which Is Not How a Dollar Works",
+        "headline": "California Official: Scanning Every Mail Ballot Under New USPS Rules Would Take 43 Years",
         "source": "CBS News US",
-        "date": "2026-09-03",
-        "url": "https://www.cbsnews.com/news/trump-1-dollar-coins-us-mint-sale/",
-        "summary": "米造幣局がトランプ大統領の肖像を刻んだ1ドル硬貨を発売。25枚セットで61ドル（1枚あたり約2.44ドル）から販売されており、額面の1.55倍以上の価格設定となっている。"
+        "date": "2026-09-04",
+        "url": "https://www.cbsnews.com/news/mail-voting-rules-usps-election-officials-midterms/",
+        "summary": "カリフォルニア州の選挙担当者が、郵便局の新ルールに従って州内の全有権者の郵便投票を個別にスキャンすると、約43年かかると警告した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 1ドルの価値しか持たない硬貨を、政府が1.55ドル以上で売っています。インフレを批判してきた政権が、自分の顔が入った硬貨でインフレを実演してる。",
-        "<b>滑稽さ:</b> 25枚買うと61ドル取られるんですが、それを全部使おうとすると25ドルにしかならない。36ドルは「トランプ硬貨プレミアム」として消えていくわけです。",
-        "<b>日本・海外から見ると:</b> 日本の造幣局も記念硬貨を額面より高く売ることはありますが、それは「コレクターアイテム」として売るんですよ。これは一応「1ドル硬貨」として売っている。"
+        "<b>矛盾:</b> 選挙の「完全性」を守るために導入するルールが、物理的に選挙を実施不能にする。セキュリティのために選挙を壊しにいくという、本末転倒の教科書みたいな事例。",
+        "<b>滑稽さ:</b> 43年。2026年の選挙に間に合わせるには、1983年にスタートしてないといけなかった。レーガン政権時代に走り出すべき手続きだった。",
+        "<b>日本・海外から見ると:</b> 郵便投票の手続き一つで「物理的に43年かかる」という見積もりが公式の場で出てくる国って、なかなかない。選挙制度の設計の話じゃなくて、算数の話になってる。"
       ],
       "imagePrompts": [
-        "A vending machine display case showing a single Trump $1 coin behind glass with a price tag reading '$2.44.' A hand reaches toward it holding a regular dollar bill looking confused.",
-        "A scale with a single coin labeled '$1 FACE VALUE' on one side and a price tag reading '$2.44' on the other side, with the price tag side sinking lower. A tiny US Mint logo is stamped on the scale.",
-        "A storefront window displaying Trump $1 coins in velvet boxes, with a handwritten sign: 'BUY 100 FOR $154.50 — SPEND THEM AND GET $100 BACK!' A small footnote reads: 'Net loss: $54.50.'"
+        "A massive warehouse filled floor to ceiling with stacks of mail ballots. A lone election worker in a reflective vest stands at a scanner, looking at a wall calendar showing the year 2069. A sign above reads: 'Estimated Completion Date.'",
+        "A split image: on the left, a clock and calendar showing November 2026 midterms; on the right, a USPS document with a timeline ending in 2069. An arrow labeled 'When We'd Finish Scanning' points far off the right edge of the frame.",
+        "A California election official at a podium in front of a banner reading 'Election Integrity.' Behind them, a whiteboard with the calculation '43 YEARS' circled in red, with a sticky note that says 'Should have started in 1983.'"
       ],
       "captions": [
-        "The US government is selling a dollar for $1.55. Inflation, but make it patriotic.",
-        "Buy 25 Trump dollars, spend them all, you're out $36. That's not a coin — that's a cover charge.",
-        "The face value says $1. The checkout page says $2.44. One of those is lying.",
-        "The government is selling money at a markup. The markup is $0.55. The explanation is a coin with a face on it.",
-        "For $154.50, you can own $100. The other $54.50 is apparently the cost of the face on the front."
+        "Great news: California can have fully compliant mail voting by 2069. Boomers might make it.",
+        "The rule kicks in weeks before the midterms. The compliance timeline is four decades. Someone's very confident in the post office's efficiency.",
+        "To finish scanning ballots for this November's election, they needed to start when 'Thriller' was still on the charts.",
+        "Election integrity, secured — just not for any election anyone alive today will vote in.",
+        "Forty-three years. I've seen software licenses shorter than that."
       ],
       "captionsJa": [
-        "政府が1ドルを1.55ドルで売っている。インフレ、愛国心でラッピング。",
-        "25枚買って全部使うと36ドル損する。これは硬貨じゃなくて入場料です。",
-        "額面は1ドル。購入ページには2.44ドル。どっちかが嘘をついてる。",
-        "政府がお金を割増価格で売っている。割増分は0.55ドル。理由は、顔の入った硬貨だから。",
-        "154.50ドル払えば100ドルもらえる。残りの54.50ドルは、表の顔の使用料らしい。"
+        "朗報：カリフォルニアは2069年までに完全準拠の郵便投票が実現できます。団塊の世代は生きてるかも。",
+        "ルールの施行は中間選挙の数週間前。準拠にかかる期間は40年。郵便局への信頼感が壮大すぎる。",
+        "今年11月の選挙のスキャンを終わらせるには、「スリラー」がヒットしてた頃に始めてないといけなかった。",
+        "選挙の完全性、確保されました——ただし現在生きている人が投票する選挙には間に合いません。",
+        "43年。ソフトウェアのライセンス期間より長いやつ、初めて見た。"
       ],
-      "newsEn": "The US Mint has begun selling President Donald J. Trump $1 coins, priced at $1.55 per coin at minimum. A package of 25 coins costs $61, while 100 coins cost $154.50, making the per-coin price range from $1.545 to $2.44 depending on quantity. The coins have a face value of one dollar.",
+      "newsEn": "A California election official warned that complying with new U.S. Postal Service requirements for mail ballots would be physically impossible given current timelines. Based on USPS's own estimates, scanning individual ballots for every voter in California would take approximately 43 years. Election officials across the country have raised alarms that the rules, proposed weeks before the November midterms, cannot be operationally implemented in time.",
       "ironyEn": [
         {
-          "contradiction": "A $1 coin is being sold for $1.55 — by the same government that has made lowering the cost of things a central policy message.",
-          "absurdity": "If you buy 25 of them and spend them all at a vending machine, you lose $36. The US Mint has found a way to make legal tender a bad investment.",
-          "outside": "Other countries sell commemorative coins above face value too, but they're usually sold as collectibles. These are officially '$1 coins.' The denomination is right there on the coin."
+          "contradiction": "The rules are designed to ensure election integrity. Election officials say following them would make holding an election impossible.",
+          "absurdity": "USPS's own numbers confirm the math: 43 years. The midterms are in November. Someone didn't check the calendar — or the calculator.",
+          "outside": "Most democracies treat 'can we physically do this before election day' as a minimum requirement for a rule. Here it's apparently optional."
         },
         {
-          "contradiction": "The coin is worth a dollar. The coin costs $2.44 if you buy the small pack. The gap between those two numbers is the entire joke.",
-          "absurdity": "For $154.50 you receive $100 in spendable currency, a net loss of $54.50, and a very large bag of coins featuring the same face on all of them.",
-          "outside": "Economists have a word for when the market price of money is higher than its stated value. It's called a 'premium.' Having it on a government-issued product is a choice."
+          "contradiction": "A rule meant to protect mail voting would functionally eliminate mail voting in the most populous state in the country.",
+          "absurdity": "To comply with USPS's timeline for the 2026 midterms, California would have needed to start scanning in 1983. Reagan was president. There were no smartphones.",
+          "outside": "Imagine a fire safety regulation that requires a sprinkler in every room — but installing them would take longer than the building's expected lifespan. That's the operational logic here."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-03/candidate-3.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-03/candidate-3-punchy.jpg"
+      "image": "images/2026-09-04/candidate-3.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-04/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Laid Off While on Maternity Leave. It's Legal. It Happens More Than You Think.",
+        "headline": "Trump-Promoted 'Freedom Fuel' Expands to Detroit — Amid Lawsuit Over Unpaid Bills",
         "source": "CNBC Top News",
-        "date": "2026-09-03",
-        "url": "https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html",
-        "summary": "育児休暇中にレイオフされた女性が複数おり、CNBCの報道によれば、こうした解雇は違法ではなく、実態として広く行われている可能性がある。"
+        "date": "2026-09-04",
+        "url": "https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html",
+        "summary": "トランプ前大統領が低価格ガソリンスタンドとして称賛した「Freedom Fuel」がデトロイトに拡大する一方、燃料の未払いをめぐる訴訟が進行中であることが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 産休という「会社の制度を正しく使っている期間」に、同じ会社が「お前はいらなくなった」と伝えられる。制度が制度を食う構図です。",
-        "<b>滑稽さ:</b> 「レイオフはビジネス上の判断」と言えば合法になる、というのがアメリカの雇用法のすごいところで、つまり理由の言い方さえ正しければ何でも通る。",
-        "<b>日本・海外から見ると:</b> 多くの国では産休・育休中の解雇は原則禁止なんですが、アメリカでは「合法かどうかは文脈次第」という話になる。文脈、重すぎませんか。"
+        "<b>矛盾:</b> 安いガソリンを売る会社として大統領が絶賛したわけですが、「なぜ安いのか」の答えが「燃料代を払ってないから」かもしれない訴訟が進行中。ビジネスモデルがシンプルすぎる。",
+        "<b>滑稽さ:</b> 大統領の口コミで全国区になって、デトロイトに進出して、その間ずっと仕入れ先に未払いが続いてるとしたら、これは「起業家の物語」か「詐欺の物語」かの境界線がかなり曖昧。",
+        "<b>日本・海外から見ると:</b> 大統領が特定のガソリンスタンドを名指しで推薦する、という時点で日本では考えにくいんですが、その店が仕入れ先への支払いで訴えられてるとなると、もう「推薦文」の意味が変わってくる。"
       ],
       "imagePrompts": [
-        "A hospital room seen from the doorway. On the bedside table: a bouquet of congratulatory flowers and a smartphone showing an email notification reading 'RE: Your Position Has Been Eliminated.' The room is empty of people — only the objects tell the story. A balloon in the corner reads 'IT'S A GIRL!'",
-        "A corporate HR office with a wall calendar. The weeks labeled 'MATERNITY LEAVE' are circled in red with a sticky note: 'Legally permissible if framed correctly.' The desk is otherwise bare and tidy.",
-        "An office desk with two items side by side: a framed photo of a newborn's footprint and a cardboard box labeled 'PERSONAL BELONGINGS.' A sticky note on the box reads: 'Business decision. Nothing personal.'"
+        "A gleaming gas station with a large banner reading 'FREEDOM FUEL — AS SEEN ON TV' and a presidential silhouette giving a thumbs up on the sign. In the background, a process server in a suit walks toward the front door holding a stack of legal documents.",
+        "A gas pump labeled 'Freedom Fuel' with a price sign showing suspiciously low numbers. A receipt coming out of the pump reads: 'Amount Paid to Supplier: $0.00.' A 'Grand Opening — Detroit' balloon floats nearby.",
+        "A map of the United States with a 'FREEDOM FUEL EXPANSION' route marked in red from the original location to Detroit. Along the route, small icons of unpaid invoices flutter in the wind like confetti."
       ],
       "captions": [
-        "Great news: you had a baby. Also: we've restructured. Unrelated.",
-        "The layoff is legal as long as nobody writes down the real reason. So they don't write down the real reason.",
-        "You're protected from being fired for being pregnant. You're not protected from being fired while being on leave for having been pregnant. There's a gap there.",
-        "HR calls it a restructuring. You call it from the maternity ward. The timing is, legally speaking, a coincidence.",
-        "The benefit is real. The job waiting for you when the benefit ends — that part's optional."
+        "The secret to low gas prices: allegedly, just don't pay for the gas. Disruptive.",
+        "Got a presidential endorsement in July. Got a lawsuit from the fuel supplier. Now expanding to Detroit. Classic American hustle — or something.",
+        "Nothing says 'model business' like a company the president loves and a supplier who disagrees.",
+        "Freedom Fuel: expanding nationally while the supplier checks if anyone's home.",
+        "The prices are low. The legal bills might not be."
       ],
       "captionsJa": [
-        "おめでとうございます、出産しました。あと、組織再編しました。無関係です。",
-        "本当の理由を書かなければ合法。なので書かない。",
-        "妊娠を理由に解雇するのは違法。妊娠で産休中に解雇するのは、状況次第で合法。そこにスキマがある。",
-        "会社は「組織再編」と呼ぶ。あなたは産院から電話を受ける。タイミングは、法的には偶然の一致。",
-        "産休という制度は本物。産休が終わったときに仕事があるかどうかは、オプション扱い。"
+        "安いガソリンの秘密：どうやら「ガソリン代を払わない」が有力仮説。革新的ビジネスモデル。",
+        "7月に大統領のお墨付き。仕入れ先から訴訟。デトロイトに進出。これを「起業家精神」と呼ぶのか何と呼ぶのか。",
+        "大統領が「模範企業」と言って、仕入れ先が「未払いだ」と言ってる。どっちかが間違ってる。",
+        "全国展開中のFreedom Fuel。仕入れ先は今ごろ連絡先を探してる。",
+        "ガソリンは安い。法廷費用はそうでもないかもしれない。"
       ],
-      "newsEn": "Several women have reported being laid off by their employers while on maternity leave. Legal experts note that in many US states, this practice is technically lawful as long as the layoff is framed as a business decision rather than a response to the pregnancy or leave itself. Employment attorneys say the line between legal restructuring and illegal discrimination can be difficult to prove in court.",
+      "newsEn": "Freedom Fuel, a gas station chain that received a presidential endorsement from Donald Trump in July after he praised its low prices and urged other retailers to follow suit, is now expanding to Detroit. However, the company is simultaneously facing a lawsuit from a fuel supplier over allegedly unpaid fuel costs. The expansion comes despite the ongoing legal dispute over whether Freedom Fuel has been paying for the gas it sells.",
       "ironyEn": [
         {
-          "contradiction": "Maternity leave exists so new mothers can keep their jobs while recovering from childbirth. It does not, as it turns out, guarantee that the job will still be there when they get back.",
-          "absurdity": "The layoff is legal as long as the employer calls it a business decision rather than a pregnancy-related decision. The outcome is identical. The paperwork is different.",
-          "outside": "In most of Europe, terminating someone during maternity leave requires navigating very specific legal exceptions. In the US, the question is more like: can you prove it was about the baby?"
+          "contradiction": "A presidential shoutout for low gas prices is a lot less impressive when the working theory is that the prices are low because nobody's paying for the gas.",
+          "absurdity": "Freedom Fuel is expanding to Detroit — a city defined by the auto industry — while being sued over allegedly not paying for the fuel that goes in the cars those workers built.",
+          "outside": "Most businesses get a presidential endorsement and ride the wave. Freedom Fuel got one and apparently used it to open more locations before the supplier lawsuit caught up."
         },
         {
-          "contradiction": "Companies offer maternity leave as a benefit. That benefit can be the period during which the company decides to eliminate the position receiving the benefit.",
-          "absurdity": "Legal experts describe the gap between 'illegal pregnancy discrimination' and 'legal restructuring during leave' as a line that exists mostly in how the HR memo is worded.",
-          "outside": "The US has no federally mandated paid maternity leave. It does have a law that allows unpaid leave, during which you can still be laid off. That's the system, fully assembled."
+          "contradiction": "Trump praised Freedom Fuel as a model for American retail. The supplier is in court arguing it might be a model for something else entirely.",
+          "absurdity": "The secret to cheap gas: possibly just... not paying the bill. Revolutionary.",
+          "outside": "Imagine a president recommending a restaurant and then a lawsuit surfaces alleging they hadn't been paying the food supplier. That's the vibe, but for gasoline."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-03/candidate-4.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-03/candidate-4-punchy.jpg"
+      "image": "images/2026-09-04/candidate-4.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-04/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Uber Cuts 10% of Staff to Move 'Simpler and Faster,' Starting With the Humans",
+        "headline": "Microsoft to Cap Xbox Cloud Gaming Hours as Costs Climb",
         "source": "CNBC Top News",
-        "date": "2026-09-03",
-        "url": "https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html",
-        "summary": "Uberが全従業員の約10%を削減すると発表。「よりシンプルかつ迅速に動く」ことを目的とするとしており、小規模チームはほぼ半減、リモートワーク継続を認められるのは全体の約1%にとどまる。"
+        "date": "2026-09-04",
+        "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
+        "summary": "マイクロソフトがXbox Game Passの加入者に対し、11月からクラウドゲームの利用時間に上限を設ける方針を発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 人を届けるサービスを提供している会社が、自分の社員を「効率化」という名目でリストラする。ライドシェアのドライバーは業務委託だから「従業員」ではない、というのも含めてなかなかの構図。",
-        "<b>滑稽さ:</b> 「シンプルで速い会社になる」という説明で10%カットを発表したんですが、残された人が同じ仕事を10%多くやることを「シンプル」と呼ぶのは、言葉の使い方として勇気がある。",
-        "<b>日本・海外から見ると:</b> リモートワーク継続を認めるのが全体の1%というのも地味に厳しくて、オフィス復帰を義務づけつつ同時にレイオフするという、2つのニュースが同時に起きている。"
+        "<b>矛盾:</b> 「ゲームを遊び放題」というのがサブスクの売りだったのに、「ただし時間制限あり」になる。「食べ放題」と書いてあるバイキングが途中で「もう食べすぎです」と言い始めるやつ。",
+        "<b>滑稽さ:</b> クラウドゲームはコストが上がってるからキャップをかける——つまりマイクロソフトは「使えば使うほど赤字になるサービス」を月額料金で売ってた、ということがこれで公式に確認されたわけで。",
+        "<b>日本・海外から見ると:</b> サブスクの「使い放題」は、みんながそこまで使わないという前提で成り立ってるんですよ。本当に使う人が増えたら制限が来る。Netflixのパスワードシェアのときもそうだったじゃないですか。"
       ],
       "imagePrompts": [
-        "A large office floor with half the desks empty and chairs stacked on them. Remaining employees sit at their desks with a banner overhead reading 'SIMPLER AND FASTER.' One employee is visibly doing the work of three people, each desk's worth of paperwork stacked in front of them.",
-        "An Uber app interface on a phone screen, but instead of requesting a ride it shows a notification: 'Your team has been streamlined. ETA to exit: 2 weeks.' A 4.8-star rating appears below.",
-        "A corporate meeting room with a whiteboard. On the whiteboard is written 'HOW TO BE SIMPLER AND FASTER' with a single bullet point: 'Fewer people.' A presenter points to it with a satisfied expression."
+        "A gamer sitting on a couch mid-session, controller in hand, staring at a TV screen showing a pop-up message: 'You've reached your monthly cloud gaming limit. Your account will reset in 23 days.' A Xbox subscription receipt on the coffee table reads: 'Unlimited Gaming — $14.99/month.'",
+        "A large cloud labeled 'Xbox Cloud Gaming' with a padlock and a timer attached to it. Below, a line of gamers with controllers look up at the locked cloud. A small sign on the padlock reads: 'Back in November. Maybe.'",
+        "A Microsoft corporate boardroom. Executives in suits sit around a table covered in spreadsheets. A presentation slide on the wall reads: 'Problem: Subscribers Are Using the Service.' One executive circles the word 'Using' in red marker."
       ],
       "captions": [
-        "Uber laid off 10% of staff to get 'simpler and faster.' The math on who does their work is still loading.",
-        "Small teams cut by nearly half. So your four-person team is now a two-person team with four people's tasks. That's not simpler. That's just fewer complaints.",
-        "1% of the workforce gets to keep working remotely. The other 99% get to come back to an office with noticeably fewer coworkers.",
-        "The drivers aren't employees, so they don't count in the layoff numbers. The people who got laid off were the employees. Uber contains multitudes.",
-        "'Simpler and faster' — the press release phrase that means 'we have fewer people now and we'd prefer not to discuss it further.'"
+        "Xbox Game Pass: unlimited gaming, subject to limits. The asterisk was always there — they just made it visible.",
+        "Microsoft has $3 trillion in market cap and is asking subscribers to please stop playing so much.",
+        "They sold 'play anything, anytime.' November's patch notes: 'anytime' has been nerfed.",
+        "The customer who actually uses the unlimited service: apparently, the problem.",
+        "Every 'unlimited' plan eventually finds its limit. For Xbox it's games. For Netflix it was your ex's password."
       ],
       "captionsJa": [
-        "「よりシンプルで速く」なるために10%カット。その10%の仕事が誰に行くかは、まだ計算中。",
-        "小規模チームがほぼ半減。4人チームが2人になって、仕事は4人分のまま。シンプルじゃなくて、文句を言う人が減っただけ。",
-        "リモート継続が認められるのは全体の1%。残りの99%はオフィスに戻る。ただし同僚は目に見えて減っている。",
-        "ドライバーは「従業員」じゃないので、レイオフの数には入らない。レイオフされたのは社員だけ。Uberという会社、いろいろ含んでいる。",
-        "「シンプルで速く」というプレスリリース用語の意味：人が減った。それ以上の質問はご遠慮ください。"
+        "Xbox Game Pass：無制限ゲーミング、ただし制限あり。アスタリスクはずっとそこにあった——見えるようになっただけ。",
+        "時価総額300兆円超のマイクロソフトが、加入者に「ゲームしすぎ」と言い始めた。",
+        "売り文句は「いつでも何でも遊び放題」。11月のアップデートで「いつでも」がナーフされました。",
+        "サービスを本当に使い倒す加入者：どうやら、それが問題。",
+        "「無制限」プランはいつか制限を見つける。Netflixは元カノのパスワードだった。Xboxはゲームそのものだった。"
       ],
-      "newsEn": "Uber announced it will cut approximately 10% of its global workforce as part of a company restructuring aimed at becoming 'simpler and faster.' The company said small teams will be reduced by nearly half, and only about 1% of the total workforce will be allowed to continue working fully remotely. No specific division or role was named as the primary target of cuts.",
+      "newsEn": "Microsoft will impose time limits on cloud gaming for Xbox Game Pass subscribers starting in November, the company announced. The decision comes as the cost of running cloud gaming infrastructure continues to rise. Subscribers who pay for the service will face usage caps, a significant change from the previously unlimited access model that helped sell the subscription in the first place.",
       "ironyEn": [
         {
-          "contradiction": "Uber's core business is connecting people who need to get somewhere with people who can take them there. The internal staff — the people designing and running that system — just got 10% smaller.",
-          "absurdity": "'Simpler and faster' is doing a lot of work in that press release. The company will be simpler in the sense that it now has fewer employees. Whether that makes it faster is a next-quarter problem.",
-          "outside": "Uber's drivers have never been classified as employees in most US jurisdictions, which means the people actually doing the rides aren't counted in the 10%. Only the people in offices are."
+          "contradiction": "Unlimited cloud gaming was a core selling point of Xbox Game Pass. The new plan is: unlimited, but with a limit.",
+          "absurdity": "Microsoft — one of the most profitable companies on the planet — is telling paying subscribers they're playing too much.",
+          "outside": "Every 'unlimited' subscription eventually finds the thing it actually limits. For Netflix it was passwords. For Xbox, apparently, it's actually playing games."
         },
         {
-          "contradiction": "The company that built a platform to help people avoid inconvenience is now requiring its remaining 99% of remote workers to come back to the office — on the same day it announced layoffs.",
-          "absurdity": "Small teams are being cut by nearly half. Which means if you were on a four-person team, there are now two of you. 'Simpler and faster' is one way to put it.",
-          "outside": "Tech industry layoffs in 2024 and 2025 were supposed to be a correction. In 2026, Uber is still correcting. At some point, the correction is just the shape of the company."
+          "contradiction": "Cloud gaming was supposed to democratize gaming — play anything, anywhere, anytime. 'Anytime' now has an asterisk.",
+          "absurdity": "The customer who uses the service exactly as advertised is now the problem.",
+          "outside": "In Japan, where internet cafes charge by the hour, this feels almost nostalgic. Except those places never called it 'unlimited' first."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-03/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-03/candidate-5-punchy.jpg"
+      "image": "images/2026-09-04/candidate-5.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-04/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「言葉と現実がもう離婚している」。湖の名前、1ドル硬貨、効率化、産休保護——どれも「言い方だけが正しい」話。",
-    "titleEn": "A Dollar Worth $1.55, a Lake With Two Names, and Other American Innovations",
-    "subtitleEn": "The US is streamlining. The results are something.",
-    "titleJa": "1ドル硬貨を1.55ドルで売る国の話",
+    "thread": "今日の5本を貫く糸は「約束の賞味期限」。政府の給付も、大学の免税も、投票のルールも、ガソリンの安さも、ゲームの「遊び放題」も——全部、細かい字を読むと別のことが書いてあった。",
+    "titleEn": "Fine Print Nation: Five American Promises That Came With Asterisks",
+    "subtitleEn": "From Social Security to Xbox, the asterisk was always there.",
+    "titleJa": "「約束」の裏に小さい字があった話を5本読んだ",
     "titleAltJa": [
-      "「レイク・アメリカ」に改名して、湖はカナダに半分残ったままだった話",
-      "「シンプルで速い会社になります」と言いながら10%を切った人たちに今日会った"
+      "社会保障が「30日で3万5000ドル返して」と言い、投票スキャンが43年かかる国の話",
+      "今日のアメリカニュースが出たとき、この一言を返せばいい：「細かい字、読みましたか?」"
     ],
-    "leadJa": "1ドル硬貨を1.55ドルで売る国があります。アメリカです。そして今日、その国では湖の名前を変えて、税金を集める人を解雇して、産休中の人にレイオフを伝えて、「シンプルになります」と言いながら社員を10%切りました。おかしいな〜。",
-    "introEn": "Five stories today. Each one involves someone saying a word and expecting reality to comply.\n\nA lake was renamed. The lake didn't move. A coin worth one dollar is being sold for $1.55. The dollar didn't get stronger. The IRS fired its auditors. Taxes got harder to collect. Uber wants to be \"simpler.\" Someone else will do the work.\n\nHere's your forecast: if you've ever felt like you said the right thing and the world still didn't cooperate — today's news proves you're not alone. The most powerful institutions on the planet are in the same situation. Call it a solidarity Wednesday. Whatever you're carrying, you're at least carrying it more honestly than the US Mint right now.",
-    "introJa": "今日、「1ドル」と書いてあるものを1.55ドルで売っているニュースを読みました。\n\nただの硬貨の話かと思ったら、続きがあった。オンタリオ湖が「レイク・アメリカ」になっていて、IRSが監査スタッフを削減したら税収が減って、育休中の女性がレイオフされていて、Uberが「シンプルで速くなります」と言いながら全体の10%を切っていた。\n\n今日の5本、全部「言葉と現実が別々に動いている」話なんです。名前を変えても湖は動かない。「ビジネス上の判断」と書けば違法にならない。「効率化」と呼べば10%減でも前向きに聞こえる。\n\nということで、今日の占いです。\n「正しいことしてるのに、なんか報われないな」って感じてる人、たぶんあなたが正しいんですよ。言葉だけ整えて現実を動かそうとしてる人が、今日だけでこんなにいる。そっちが多数派で、あなたは誠実な少数側にいる。\n少なくとも今日はね。",
-    "quipEn": "Today's theme: America keeps changing the label. The contents remain the same.",
-    "quipJa": "名前を変えても、湖はそこにある。額面を変えても、1ドルは1ドル。言い方だけ正しくなっても、現実はちゃんと残ってる。",
+    "leadJa": "「遊び放題」に時間制限。「安いガソリン」に未払い訴訟。「給付金」に30日の返還通告。\n\n今日の5本、全部「そう書いてあったのに」という話です。",
+    "introEn": "Every promise has an asterisk. I just didn't expect to find five of them before breakfast.\n\nToday's five: the government that overpaid a woman for years and now wants $35,000 back in thirty days. Private colleges losing tax breaks — and accidentally taking their richest donors down with them. California's election rule that would finish in 2069. A presidential gas station recommendation that may run on unpaid bills. And Microsoft, which sold \"unlimited\" gaming and is now defining the word \"unlimited.\"\n\nHere's your forecast: if something in your life has a hidden condition attached to it, you're in good company today. Very good company. The systems that were supposed to have it all figured out — the federal government, the post office, a trillion-dollar tech company — it turns out they were also reading the fine print for the first time. So whatever you're navigating right now, you're probably ahead of them.",
+    "introJa": "3万5000ドルを30日で。43年かかるスキャン。未払いで拡大するガソリンスタンド。「遊び放題」に時間制限。\n\n今日はそういう日です。\n\n5本を並べてみたら、全部「最初からそう書いてなかった」話だった。政府の給付も、私立大学の免税も、選挙のルールも、大統領のオススメのお店も、月額サブスクも——約束の下に、もうちょっと小さい字が書いてあった。\n\nあ、今日はDeep Stateとか陰謀論じゃなくて、シンプルに「事務処理と算数」の話です。ある意味もっとしんどい。\n\n今日の占いです。\nあなたの職場や生活で「話が違う」と感じていることがあるとしたら、今日は仲間が多い日です。社会保障局も、財務省も、郵便局も、みんなで同じ顔をしています。あなただけじゃない。少なくとも今日はね",
+    "quipEn": "The asterisk was always there. Today was just the day everyone read it.",
+    "quipJa": "細かい字は最初からあった。今日はみんなが同時に気づいた日、たぶん。",
     "notesEn": [
-      "Apple renamed Lake Ontario 'Lake America' for US users, following a Trump executive order. Canada still calls it Lake Ontario. The lake, for its part, has not commented.",
-      "The IRS cut its auditing staff to reduce government waste. An Inspector General report now shows tax enforcement collections dropped sharply as a result. Efficiency, achieved.",
-      "The US Mint is selling $1 Trump coins for $1.55 each. If you buy 25, you spend $61 and get $25 worth of spending money. The other $36 is apparently the patriotism surcharge.",
-      "Multiple women have reported being laid off while on maternity leave. Employment lawyers confirm it's often legal, as long as the employer calls it a business decision. The naming convention matters more than the timing.",
-      "Uber is cutting 10% of its workforce to become 'simpler and faster.' Small teams will be cut nearly in half. The remaining employees will move faster, presumably because they have to."
+      "The Social Security Administration overpaid a woman for years, noticed, and sent her a bill for $35,000 due in 30 days. If she can't pay, they cut her benefits by 50%. The way they plan to collect the money is to make sure she has less of it.",
+      "Treasury is moving to strip private colleges of their tax-exempt status — which also kills the charitable deduction for donors. The administration wanted to hit elite universities. The regulation doesn't appear to know the difference between Harvard and a five-person homeschool co-op.",
+      "A California election official calculated that scanning every mail ballot under the new USPS rules would take 43 years. The rules go into effect weeks before the midterms. To be compliant by November, they needed to start in 1983.",
+      "Trump endorsed Freedom Fuel in July for its low gas prices. Freedom Fuel is now expanding to Detroit. Freedom Fuel is also being sued by its fuel supplier over allegedly unpaid bills. The presidential endorsement did not mention the fuel supplier.",
+      "Microsoft announced that Xbox Game Pass — sold as unlimited cloud gaming — will have usage caps starting in November because the cloud costs too much. They've now officially confirmed that the business model was 'please don't actually use this very much.'"
     ],
     "xJa": [
-      "Appleがオンタリオ湖をアメリカ国内のMapsアプリで「レイク・アメリカ」に改名。カナダ側の地図には今日も「オンタリオ湖」と書いてある。湖は動いていない。",
-      "IRS（米国歳入庁）が監査スタッフを削減したら税収が激減していたことが判明。「税金を集める人を解雇したら税金が集まらなくなった」というレポートが今日出ました。",
-      "米造幣局がトランプ大統領の1ドル硬貨を1.55ドル以上で販売中。25枚買うと61ドル取られ、使うと25ドルにしかならない。差額36ドルが「愛国心」の値段らしい。",
-      "育休中にレイオフされた女性が複数。「ビジネス上の判断」と言えば合法というのがアメリカの雇用法で、つまり理由の書き方さえ正しければ通る。言葉、重すぎる。",
-      "Uberが「シンプルで速くなる」と言いながら従業員の10%を削減。小規模チームはほぼ半減、リモート継続は1%のみ。残り90%がシンプルに2倍働く。"
+      "社会保障局が誤って過払いして、気づいたら「30日で3万5000ドル返して、無理なら給付を半額にするから」と通告。払えない人から取る方法が「もっと払えなくする」なの、論理的ではある。",
+      "トランプ政権が私立大学の免税を剥奪する規制案を出したら、共和党の富豪支持者が大学にしてた節税寄付も道連れになりそうな展開。「エリート叩き」のはずが、味方も爆発に巻き込んでいる。",
+      "カリフォルニアの選挙担当者が計算したら、新しい郵便局ルールに従って全有権者の投票をスキャンすると43年かかると判明。2026年の選挙に間に合わせるには1983年にスタートする必要があった。",
+      "トランプが絶賛した低価格ガソリンスタンド「Freedom Fuel」がデトロイトに拡大中。同時に燃料の未払いで訴訟も進行中。安さの理由が「仕入れ代を払っていないから」の可能性、排除できていない。",
+      "マイクロソフトがXbox Game Passのクラウドゲームに時間制限を導入すると発表。「遊び放題」として売ったサービスに上限がついた。「みんながそこまで使わない前提」が崩れた瞬間のサブスクあるある。"
     ],
     "raidEn": [
-      "Apple changed the name. Canada did not change the lake. There's a lesson here about the limits of executive orders.",
-      "The Inspector General found that firing the auditors reduced auditing. I respect the commitment to documenting the obvious.",
-      "A dollar coin sold for $2.44. The government has found a way to make inflation feel premium.",
-      "\"It was a business decision, unrelated to the leave\" is doing a lot of heavy lifting in a lot of HR emails right now.",
-      "1% of staff gets to keep working remotely. Which means someone in leadership had a very good week and a very specific reason to come back to the office."
+      "The part that gets me is that her only 'error' was not knowing the government was making an error. That's a high bar for a 30-day repayment window.",
+      "The regulation is supposed to go after schools with discriminatory policies. It also applies to the small church school in rural Ohio. The rule doesn't really read resumes.",
+      "43 years is the estimate. The election is this November. Someone submitted this proposal with a straight face and I respect the commitment.",
+      "Presidential endorsement in July. Fuel supplier lawsuit ongoing. Detroit expansion announced. The timeline on this one is doing a lot of work.",
+      "The 'unlimited' was always load-bearing. They just waited until the infrastructure bill arrived to mention it."
     ],
     "raidJa": [
-      "「地図の名前を変えたら湖が変わる」と思っていたとしたら、なかなかロマンチックな行政命令ですよね。記事、すごく面白かったです。",
-      "「監査スタッフを解雇したら税収が減った」というレポートを読んで、しばらく動けなくなりました。この記事がまとめてくれて助かりました。",
-      "1ドル硬貨を1.55ドルで売る話、こんな丁寧に整理してくださってありがとうございます。「愛国心の値段」として考えるとまあ安いのかもしれない、とは思えませんでした。",
-      "「ビジネス上の判断」と書けば合法になる、という話の構造をここまで丁寧に説明していただけると、怒りの解像度が上がりますね。読んでよかったです。",
-      "Uberのリストラ、「シンプルで速く」という言葉の選び方が絶妙すぎて笑いました。この記事のおかげで今日のニュースが整理できました。"
+      "「気づかず受け取っていた」のが受給者の側なのに、返すのも受給者、という構造がすごい。行政のミスの後始末コストが全部こちらに来る設計になっているんですよね。",
+      "「差別的な方針を持つ学校を狙う」はずの規制が、基準が曖昧すぎてアイビーリーグにも地方の小さな学校にも同じように刺さる、という指摘が刺さりました。",
+      "43年という数字が公式の場で出てくること自体が、もう選挙制度の設計の話を超えて算数の話になっているという視点、すごく腑に落ちました。",
+      "「なぜ安いのか」の答えが訴訟の中にあるかもしれない、という構図がシンプルすぎて笑ってしまいました。大統領の推薦文の意味が変わってきますよね。",
+      "「使えば使うほど赤字」のサービスを月額定額で売っていたことがこれで公式確認された、という読み方が一番しっくりきました。NetflixのIDシェア規制のときも同じ構造でしたよね。"
     ],
     "riffEn": [
-      "Apple renamed Lake Ontario 'Lake America' for US users. The lake is on the border between the US and Canada. Canada still calls it Lake Ontario. The fish have not been informed of the change, and continue to swim through both jurisdictions without documentation. The executive order worked perfectly. The geography just didn't read it.",
-      "The IRS fired a significant portion of its auditing staff last year. An Inspector General then wrote a report explaining what happened to tax collections afterward. The report's conclusion — that collecting less taxes leads to collecting less taxes — is now officially documented, in writing, for anyone who needs that confirmed. The report runs several pages. The core finding did not.",
-      "The US Mint is selling $1 Trump coins for $1.55 each, minimum. At the 25-coin package price, you spend $61 and walk away with $25 of purchasing power. The remaining $36 is described nowhere on the product page. The coin says '$1' on its face. The checkout says '$2.44.' Somewhere between those two numbers is the most honest summary of 2026 I've seen all week.",
-      "Several women were laid off while on maternity leave. Employment lawyers explained that this is frequently legal, provided the employer frames it as a business decision rather than a response to the leave itself. So the protection exists. The gap between the protection and what actually happens — that also exists. Both are real. Only one of them shows up on the paperwork.",
-      "Uber announced it will cut 10% of its global workforce to become 'simpler and faster.' Small teams will be nearly halved. Fully remote work will be permitted for roughly 1% of employees. The press release described this as streamlining. The people whose work will now be done by fewer people may find a different word for it. Probably not in a press release."
+      "The Social Security Administration overpaid this woman — their error, their accounting — and then sent her a letter saying she has 30 days to return $35,000. If she can't manage that, they'll garnish 50% of her monthly benefits. So the punishment for not having $35,000 is receiving even less money per month. At some point you have to admire the geometry of it.",
+      "Treasury wants to strip private schools of their tax-exempt status, which also kills the charitable deduction for anyone donating to those schools. This was aimed at universities with allegedly discriminatory policies. It also applies to every small religious school in the country. The regulation went looking for Harvard and came home with everyone.",
+      "A California election official sat down with a calculator and the new USPS ballot-scanning requirements and arrived at 43 years. That is not a metaphor. That is the math. The rules go into effect weeks before the November midterms. For California to be compliant, the scanning would have needed to begin while 'Thriller' was still climbing the charts. Nobody blinked when they filed this proposal.",
+      "Freedom Fuel got a presidential shoutout in July — best gas prices in the country, go check it out. Now it's expanding to Detroit. Also currently being sued by a fuel supplier for allegedly not paying for the fuel it sells. The low prices are either brilliant logistics or a very interesting legal defense. Possibly both.",
+      "Microsoft announced that Xbox Game Pass, which was sold on the promise of unlimited cloud gaming, will have usage caps starting in November because cloud infrastructure is expensive. This is the official confirmation that the business model required subscribers to not actually subscribe too hard. 'Unlimited' was always a suggestion."
     ],
     "riffJa": [
-      "Appleがアメリカ国内のMapsアプリでオンタリオ湖を「レイク・アメリカ」に改名しました。カナダとアメリカの国境にある湖で、カナダ側では今日も「オンタリオ湖」と表示されています。湖の魚は、両方の名前のついた水の中を今日も普通に泳いでいる。\n\n行政命令で地形の名前が変わるなら、次は「大西洋はトランプ・オーシャン」でも誰も驚けないじゃないですか。驚けない自分に気づいた瞬間、ちょっと怖くなりました。",
-      "IRS（米国歳入庁）が監査スタッフを大幅に削減した。で、監察総監のレポートが出た。内容は「監査する人を減らしたら、監査される量が減った」。そのレポート、何ページあったんだろう。\n\nこれ、家計でやったら「節約しようと思って収入源を断った」ですよ。でも政府がやると「連邦政府の人員改革」という名前がつく。名前だけ見ると、すごくかっこいいんですよね。",
-      "米造幣局がトランプ大統領の1ドル硬貨を発売しました。値段は1枚1.55ドルから。25枚セットだと61ドル。使えるのは25ドル分。\n\n残りの36ドルは何かというと、商品ページには書いていません。硬貨には「1ドル」と刻んである。レジは「2.44ドル」と言う。どちらかが嘘をついている。たぶん、硬貨のほうです。",
-      "育休中にレイオフされた女性が複数いて、CNBCが報じました。雇用弁護士によると、「ビジネス上の判断」として処理すれば、多くの州で合法らしいです。\n\n産休という「会社の制度を正しく使っている期間」に、同じ会社が「あなたはいらなくなりました」と伝える。保護はある。ただその保護と現実のあいだに、書面には残らないすき間がある。そこに落ちた人の話が今日出ていた。",
-      "Uberが全従業員の約10%を削減すると発表。理由は「よりシンプルかつ迅速に動くため」。小規模チームはほぼ半減、リモートワーク継続は全体の1%のみ。\n\n「シンプルで速い」という言葉を選んだ人は、残された人が10%分の仕事を引き受けることを「シンプル」と呼んでいる。言葉の使い方として、かなり勇気がある。残された人の感想は、たぶんプレスリリースには載らない言葉で表現されると思います。"
+      "払いすぎたのは社会保障局の側なんです。受給者の女性は、届いたお金を普通に受け取っていた。それが数年後に「3万5000ドル、30日で返して」になる。払えなければ給付を半額に削る。取り立ての方法が「お金をさらに減らす」なの、論理として一周してはいるんですが、ちょっと待ってほしい。\n\n誰の財布を間違えたんでしたっけ、という話です。",
+      "私立大学の免税を剥奪する、という規制案です。目標は「差別的な方針を持つ学校」。ただし基準が曖昧なので、アイビーリーグにも、地方の小さなキリスト教スクールにも、同じルールが刺さる。\n\nあと、大学に寄付してた共和党系の富豪支持者の節税も、道連れになる可能性があります。「エリート叩き」のつもりが、味方ごと爆発している構図です。",
+      "43年。\n\nカリフォルニアの選挙担当者が出した数字です。新しい郵便局のルールに従って、州内の全有権者の郵便投票を個別にスキャンすると、43年かかる。今年の選挙に間に合わせるには、1983年にスタートしていないといけなかった。レーガン大統領の時代に走り出すべき手続きだった。\n\nこれが「選挙の安全を守るルール」として、中間選挙の数週間前に出てきています。計算、合ってますよね。",
+      "トランプが7月に名指しで絶賛した「Freedom Fuel」というガソリンスタンドがあります。安い、みんなここで入れろ、と。そのFreedom Fuelが今デトロイトに拡大中で、同時に燃料の仕入れ先から未払いで訴えられています。\n\n「なぜ安いのか」の答えが、訴訟の中にある可能性がある。大統領の推薦文は、その辺には触れていませんでした。",
+      "「ゲームし放題」が売り文句のXbox Game Passに、11月から時間制限がつきます。理由はクラウドのコストが上がっているから。\n\nつまりマイクロソフトは「みんながそこまで使わない前提」で「遊び放題」を売っていた、ということが、これで公式に確認されました。本当に使う人が増えたら制限が来る。NetflixのIDシェアのときも同じでしたよね。\n\n「放題」の細かい字、みんないつ読むんだろう。"
     ],
     "asideEn": [
-      "The fish don't know.",
-      "Pages written. Lesson: zero.",
-      "One of those numbers is lying.",
-      "The gap is real. The paperwork isn't.",
-      "Someone will do that work."
+      "Their mistake. Your thirty days.",
+      "They aimed at Harvard. They hit everyone.",
+      "Forty-three years. Someone filed this seriously.",
+      "Presidential endorsement. Unpaid supplier. Classic.",
+      "'Unlimited' has been nerfed."
     ],
     "asideJa": [
-      "湖は動いていない。",
-      "誰も驚いていないのが怖い。",
-      "どちらかが嘘をついている。",
-      "書面には残らないすき間。",
-      "残った人が10%分やる。"
+      "政府のミスで、あなたが30日以内に返す。",
+      "ハーバードを狙ったら全員に当たった。",
+      "43年。誰か止めなかったの？",
+      "推薦文と訴訟が同時進行。",
+      "「放題」に上限がついた日。"
     ],
-    "fullEn": "# A Dollar Worth $1.55, a Lake With Two Names, and Other American Innovations\n\n## Today's Forecast\n\nFive stories today. Each one involves someone saying a word and expecting reality to comply.\n\nA lake was renamed. The lake didn't move. A coin worth one dollar is being sold for $1.55. The dollar didn't get stronger. The IRS fired its auditors. Taxes got harder to collect. Uber wants to be \"simpler.\" Someone else will do the work.\n\nHere's your forecast: if you've ever felt like you said the right thing and the world still didn't cooperate — today's news proves you're not alone. The most powerful institutions on the planet are in the same situation. Call it a solidarity Wednesday. Whatever you're carrying, you're at least carrying it more honestly than the US Mint right now.\n\n---\n\n## 1. Apple Renames Lake Ontario 'Lake America' Because an Executive Order Said So\n\n*The Guardian US — [source](https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america)*\n\nApple has renamed Lake Ontario as 'Lake America' for US users of its Maps app, following an executive order from President Trump issued amid his trade dispute with Canada. The lake sits on the border between the US and Canada and has been called Lake Ontario for centuries. The name change applies only to the US version of Apple Maps.\n\n**Why It's Funny**\n\nApple renamed Lake Ontario 'Lake America' for US users. The lake is on the border between the US and Canada. Canada still calls it Lake Ontario. The fish have not been informed of the change, and continue to swim through both jurisdictions without documentation. The executive order worked perfectly. The geography just didn't read it.\n\n**Say It Out Loud**\n\n> Apple changed the name of a lake. Canada still has the lake.\n\n---\n\n## 2. IRS Fired Its Auditors. Turns Out, Auditors Were the Ones Collecting Taxes.\n\n*NPR News — [source](https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions)*\n\nThe IRS significantly cut its auditing staff last year as part of broader federal workforce reductions. An Inspector General report now shows that tax collections from enforcement efforts have plummeted as a direct result. Consumer and fiscal watchdog groups warn the shortfall could add substantially to the federal deficit.\n\n**Why It's Funny**\n\nThe IRS fired a significant portion of its auditing staff last year. An Inspector General then wrote a report explaining what happened to tax collections afterward. The report's conclusion — that collecting less taxes leads to collecting less taxes — is now officially documented, in writing, for anyone who needs that confirmed. The report runs several pages. The core finding did not.\n\n**Say It Out Loud**\n\n> We fired the tax collectors to save money. We are now saving even more money by not collecting taxes.\n\n---\n\n## 3. US Mint Sells $1 Trump Coins for $1.55 Each, Which Is Not How a Dollar Works\n\n*CBS News US — [source](https://www.cbsnews.com/news/trump-1-dollar-coins-us-mint-sale/)*\n\nThe US Mint has begun selling President Donald J. Trump $1 coins, priced at $1.55 per coin at minimum. A package of 25 coins costs $61, while 100 coins cost $154.50, making the per-coin price range from $1.545 to $2.44 depending on quantity. The coins have a face value of one dollar.\n\n**Why It's Funny**\n\nThe US Mint is selling $1 Trump coins for $1.55 each, minimum. At the 25-coin package price, you spend $61 and walk away with $25 of purchasing power. The remaining $36 is described nowhere on the product page. The coin says '$1' on its face. The checkout says '$2.44.' Somewhere between those two numbers is the most honest summary of 2026 I've seen all week.\n\n**Say It Out Loud**\n\n> The US government is selling a dollar for $1.55. Inflation, but make it patriotic.\n\n---\n\n## 4. Laid Off While on Maternity Leave. It's Legal. It Happens More Than You Think.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html)*\n\nSeveral women have reported being laid off by their employers while on maternity leave. Legal experts note that in many US states, this practice is technically lawful as long as the layoff is framed as a business decision rather than a response to the pregnancy or leave itself. Employment attorneys say the line between legal restructuring and illegal discrimination can be difficult to prove in court.\n\n**Why It's Funny**\n\nSeveral women were laid off while on maternity leave. Employment lawyers explained that this is frequently legal, provided the employer frames it as a business decision rather than a response to the leave itself. So the protection exists. The gap between the protection and what actually happens — that also exists. Both are real. Only one of them shows up on the paperwork.\n\n**Say It Out Loud**\n\n> Great news: you had a baby. Also: we've restructured. Unrelated.\n\n---\n\n## 5. Uber Cuts 10% of Staff to Move 'Simpler and Faster,' Starting With the Humans\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html)*\n\nUber announced it will cut approximately 10% of its global workforce as part of a company restructuring aimed at becoming 'simpler and faster.' The company said small teams will be reduced by nearly half, and only about 1% of the total workforce will be allowed to continue working fully remotely. No specific division or role was named as the primary target of cuts.\n\n**Why It's Funny**\n\nUber announced it will cut 10% of its global workforce to become 'simpler and faster.' Small teams will be nearly halved. Fully remote work will be permitted for roughly 1% of employees. The press release described this as streamlining. The people whose work will now be done by fewer people may find a different word for it. Probably not in a press release.\n\n**Say It Out Loud**\n\n> Uber laid off 10% of staff to get 'simpler and faster.' The math on who does their work is still loading.\n\n---\n\n## Today's Punchline\n\n> Today's theme: America keeps changing the label. The contents remain the same.\n",
-    "fullJa": "# 1ドル硬貨を1.55ドルで売る国の話\n\n## 今日を占うよ〜\n\n今日、「1ドル」と書いてあるものを1.55ドルで売っているニュースを読みました。\n\nただの硬貨の話かと思ったら、続きがあった。オンタリオ湖が「レイク・アメリカ」になっていて、IRSが監査スタッフを削減したら税収が減って、育休中の女性がレイオフされていて、Uberが「シンプルで速くなります」と言いながら全体の10%を切っていた。\n\n今日の5本、全部「言葉と現実が別々に動いている」話なんです。名前を変えても湖は動かない。「ビジネス上の判断」と書けば違法にならない。「効率化」と呼べば10%減でも前向きに聞こえる。\n\nということで、今日の占いです。\n「正しいことしてるのに、なんか報われないな」って感じてる人、たぶんあなたが正しいんですよ。言葉だけ整えて現実を動かそうとしてる人が、今日だけでこんなにいる。そっちが多数派で、あなたは誠実な少数側にいる。\n少なくとも今日はね。\n\n---\n\n## 1. Apple Renames Lake Ontario 'Lake America' Because an Executive Order Said So\n\n*The Guardian US（[記事](https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america)）*\n\nトランプ大統領の行政命令を受け、Appleはカナダとアメリカの国境にあるオンタリオ湖をアメリカ国内のMapsアプリ上で「レイク・アメリカ」に改名した。\n\n**どこが笑える？**\n\nAppleがアメリカ国内のMapsアプリでオンタリオ湖を「レイク・アメリカ」に改名しました。カナダとアメリカの国境にある湖で、カナダ側では今日も「オンタリオ湖」と表示されています。湖の魚は、両方の名前のついた水の中を今日も普通に泳いでいる。\n\n行政命令で地形の名前が変わるなら、次は「大西洋はトランプ・オーシャン」でも誰も驚けないじゃないですか。驚けない自分に気づいた瞬間、ちょっと怖くなりました。\n\n**このニュースをジョークにするなら...**\n\n> Appleが湖の名前を変えた。湖はカナダにまだある。\n\n---\n\n## 2. IRS Fired Its Auditors. Turns Out, Auditors Were the Ones Collecting Taxes.\n\n*NPR News（[記事](https://www.npr.org/2026/09/02/nx-s1-5954022/irs-tax-collection-job-reductions)）*\n\n監察総監のレポートにより、IRS（米国歳入庁）が監査スタッフを大幅削減した結果、税務執行による徴収額が急減していたことが明らかになった。\n\n**どこが笑える？**\n\nIRS（米国歳入庁）が監査スタッフを大幅に削減した。で、監察総監のレポートが出た。内容は「監査する人を減らしたら、監査される量が減った」。そのレポート、何ページあったんだろう。\n\nこれ、家計でやったら「節約しようと思って収入源を断った」ですよ。でも政府がやると「連邦政府の人員改革」という名前がつく。名前だけ見ると、すごくかっこいいんですよね。\n\n**このニュースをジョークにするなら...**\n\n> 節税のために税金を集める人を解雇した。おかげで税金がさらに集まらなくなった。\n\n---\n\n## 3. US Mint Sells $1 Trump Coins for $1.55 Each, Which Is Not How a Dollar Works\n\n*CBS News US（[記事](https://www.cbsnews.com/news/trump-1-dollar-coins-us-mint-sale/)）*\n\n米造幣局がトランプ大統領の肖像を刻んだ1ドル硬貨を発売。25枚セットで61ドル（1枚あたり約2.44ドル）から販売されており、額面の1.55倍以上の価格設定となっている。\n\n**どこが笑える？**\n\n米造幣局がトランプ大統領の1ドル硬貨を発売しました。値段は1枚1.55ドルから。25枚セットだと61ドル。使えるのは25ドル分。\n\n残りの36ドルは何かというと、商品ページには書いていません。硬貨には「1ドル」と刻んである。レジは「2.44ドル」と言う。どちらかが嘘をついている。たぶん、硬貨のほうです。\n\n**このニュースをジョークにするなら...**\n\n> 政府が1ドルを1.55ドルで売っている。インフレ、愛国心でラッピング。\n\n---\n\n## 4. Laid Off While on Maternity Leave. It's Legal. It Happens More Than You Think.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/02/getting-laid-off-on-maternity-leave.html)）*\n\n育児休暇中にレイオフされた女性が複数おり、CNBCの報道によれば、こうした解雇は違法ではなく、実態として広く行われている可能性がある。\n\n**どこが笑える？**\n\n育休中にレイオフされた女性が複数いて、CNBCが報じました。雇用弁護士によると、「ビジネス上の判断」として処理すれば、多くの州で合法らしいです。\n\n産休という「会社の制度を正しく使っている期間」に、同じ会社が「あなたはいらなくなりました」と伝える。保護はある。ただその保護と現実のあいだに、書面には残らないすき間がある。そこに落ちた人の話が今日出ていた。\n\n**このニュースをジョークにするなら...**\n\n> おめでとうございます、出産しました。あと、組織再編しました。無関係です。\n\n---\n\n## 5. Uber Cuts 10% of Staff to Move 'Simpler and Faster,' Starting With the Humans\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/02/uber-to-cut-10percent-of-workforce-in-bid-to-move-simpler-and-faster.html)）*\n\nUberが全従業員の約10%を削減すると発表。「よりシンプルかつ迅速に動く」ことを目的とするとしており、小規模チームはほぼ半減、リモートワーク継続を認められるのは全体の約1%にとどまる。\n\n**どこが笑える？**\n\nUberが全従業員の約10%を削減すると発表。理由は「よりシンプルかつ迅速に動くため」。小規模チームはほぼ半減、リモートワーク継続は全体の1%のみ。\n\n「シンプルで速い」という言葉を選んだ人は、残された人が10%分の仕事を引き受けることを「シンプル」と呼んでいる。言葉の使い方として、かなり勇気がある。残された人の感想は、たぶんプレスリリースには載らない言葉で表現されると思います。\n\n**このニュースをジョークにするなら...**\n\n> 「よりシンプルで速く」なるために10%カット。その10%の仕事が誰に行くかは、まだ計算中。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 名前を変えても、湖はそこにある。額面を変えても、1ドルは1ドル。言い方だけ正しくなっても、現実はちゃんと残ってる。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3のcaption4「I love when the government sells money at a markup. Really takes the guesswork out of where the money's going.」はオチが弱くパンチラインが散漫。d4のimagePrompt1が実在し得る特定個人（産院の母親＋赤ちゃん）の顔描写に近く、構図依存度が高い。xJa5本目が138字でオーバー。それ以外は合格。 ／ 文体パス: 全体的に人間の声に近いが、quipJaが「名言まとめ」的な整いすぎ、introJaの占いパートが「読者への説明・指示形」に滑っている箇所、riffJa[3]の末尾が論文的な締めになっている3箇所を修正。"
+    "fullEn": "# Fine Print Nation: Five American Promises That Came With Asterisks\n\n## Today's Forecast\n\nEvery promise has an asterisk. I just didn't expect to find five of them before breakfast.\n\nToday's five: the government that overpaid a woman for years and now wants $35,000 back in thirty days. Private colleges losing tax breaks — and accidentally taking their richest donors down with them. California's election rule that would finish in 2069. A presidential gas station recommendation that may run on unpaid bills. And Microsoft, which sold \"unlimited\" gaming and is now defining the word \"unlimited.\"\n\nHere's your forecast: if something in your life has a hidden condition attached to it, you're in good company today. Very good company. The systems that were supposed to have it all figured out — the federal government, the post office, a trillion-dollar tech company — it turns out they were also reading the fine print for the first time. So whatever you're navigating right now, you're probably ahead of them.\n\n---\n\n## 1. Social Security Overpaid Her — Now It Wants $35,000 Back in 30 Days\n\n*CBS News US — [source](https://www.cbsnews.com/news/social-security-overpayment-clawback-repayment-appeal/)*\n\nThe Social Security Administration notified a woman that it had overpaid her benefits and is now demanding repayment of $35,000 within 30 days. If she fails to pay, SSA says it will garnish 50% of her monthly benefits until the debt is recovered. The woman says she had no indication the payments were in error at the time she received them.\n\n**Why It's Funny**\n\nThe Social Security Administration overpaid this woman — their error, their accounting — and then sent her a letter saying she has 30 days to return $35,000. If she can't manage that, they'll garnish 50% of her monthly benefits. So the punishment for not having $35,000 is receiving even less money per month. At some point you have to admire the geometry of it.\n\n**Say It Out Loud**\n\n> The agency overpaid her for years without noticing. She has 30 days to notice back — with $35,000.\n\n---\n\n## 2. Trump Admin Moves to Strip Private Colleges of Tax-Exempt Status, Threatening Donor Breaks\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html)*\n\nThe Treasury Department has proposed regulations that would strip thousands of private schools of their tax-exempt status under the Internal Revenue Code. The move would also eliminate a valuable tax deduction for donations made to those institutions. The proposal targets schools that allegedly maintain discriminatory policies, but critics say the criteria are vague and politically motivated.\n\n**Why It's Funny**\n\nTreasury wants to strip private schools of their tax-exempt status, which also kills the charitable deduction for anyone donating to those schools. This was aimed at universities with allegedly discriminatory policies. It also applies to every small religious school in the country. The regulation went looking for Harvard and came home with everyone.\n\n**Say It Out Loud**\n\n> Nothing says 'drain the swamp' like threatening the tax break your biggest donors use to write off their stadium donations.\n\n---\n\n## 3. California Official: Scanning Every Mail Ballot Under New USPS Rules Would Take 43 Years\n\n*CBS News US — [source](https://www.cbsnews.com/news/mail-voting-rules-usps-election-officials-midterms/)*\n\nA California election official warned that complying with new U.S. Postal Service requirements for mail ballots would be physically impossible given current timelines. Based on USPS's own estimates, scanning individual ballots for every voter in California would take approximately 43 years. Election officials across the country have raised alarms that the rules, proposed weeks before the November midterms, cannot be operationally implemented in time.\n\n**Why It's Funny**\n\nA California election official sat down with a calculator and the new USPS ballot-scanning requirements and arrived at 43 years. That is not a metaphor. That is the math. The rules go into effect weeks before the November midterms. For California to be compliant, the scanning would have needed to begin while 'Thriller' was still climbing the charts. Nobody blinked when they filed this proposal.\n\n**Say It Out Loud**\n\n> Great news: California can have fully compliant mail voting by 2069. Boomers might make it.\n\n---\n\n## 4. Trump-Promoted 'Freedom Fuel' Expands to Detroit — Amid Lawsuit Over Unpaid Bills\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html)*\n\nFreedom Fuel, a gas station chain that received a presidential endorsement from Donald Trump in July after he praised its low prices and urged other retailers to follow suit, is now expanding to Detroit. However, the company is simultaneously facing a lawsuit from a fuel supplier over allegedly unpaid fuel costs. The expansion comes despite the ongoing legal dispute over whether Freedom Fuel has been paying for the gas it sells.\n\n**Why It's Funny**\n\nFreedom Fuel got a presidential shoutout in July — best gas prices in the country, go check it out. Now it's expanding to Detroit. Also currently being sued by a fuel supplier for allegedly not paying for the fuel it sells. The low prices are either brilliant logistics or a very interesting legal defense. Possibly both.\n\n**Say It Out Loud**\n\n> The secret to low gas prices: allegedly, just don't pay for the gas. Disruptive.\n\n---\n\n## 5. Microsoft to Cap Xbox Cloud Gaming Hours as Costs Climb\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html)*\n\nMicrosoft will impose time limits on cloud gaming for Xbox Game Pass subscribers starting in November, the company announced. The decision comes as the cost of running cloud gaming infrastructure continues to rise. Subscribers who pay for the service will face usage caps, a significant change from the previously unlimited access model that helped sell the subscription in the first place.\n\n**Why It's Funny**\n\nMicrosoft announced that Xbox Game Pass, which was sold on the promise of unlimited cloud gaming, will have usage caps starting in November because cloud infrastructure is expensive. This is the official confirmation that the business model required subscribers to not actually subscribe too hard. 'Unlimited' was always a suggestion.\n\n**Say It Out Loud**\n\n> Xbox Game Pass: unlimited gaming, subject to limits. The asterisk was always there — they just made it visible.\n\n---\n\n## Today's Punchline\n\n> The asterisk was always there. Today was just the day everyone read it.\n",
+    "fullJa": "# 「約束」の裏に小さい字があった話を5本読んだ\n\n## 今日を占うよ〜\n\n3万5000ドルを30日で。43年かかるスキャン。未払いで拡大するガソリンスタンド。「遊び放題」に時間制限。\n\n今日はそういう日です。\n\n5本を並べてみたら、全部「最初からそう書いてなかった」話だった。政府の給付も、私立大学の免税も、選挙のルールも、大統領のオススメのお店も、月額サブスクも——約束の下に、もうちょっと小さい字が書いてあった。\n\nあ、今日はDeep Stateとか陰謀論じゃなくて、シンプルに「事務処理と算数」の話です。ある意味もっとしんどい。\n\n今日の占いです。\nあなたの職場や生活で「話が違う」と感じていることがあるとしたら、今日は仲間が多い日です。社会保障局も、財務省も、郵便局も、みんなで同じ顔をしています。あなただけじゃない。少なくとも今日はね\n\n---\n\n## 1. Social Security Overpaid Her — Now It Wants $35,000 Back in 30 Days\n\n*CBS News US（[記事](https://www.cbsnews.com/news/social-security-overpayment-clawback-repayment-appeal/)）*\n\n社会保障局（SSA）が誤って過払いした女性に対し、30日以内に3万5000ドルを返還しなければ給付金を50%削減すると通告した。\n\n**どこが笑える？**\n\n払いすぎたのは社会保障局の側なんです。受給者の女性は、届いたお金を普通に受け取っていた。それが数年後に「3万5000ドル、30日で返して」になる。払えなければ給付を半額に削る。取り立ての方法が「お金をさらに減らす」なの、論理として一周してはいるんですが、ちょっと待ってほしい。\n\n誰の財布を間違えたんでしたっけ、という話です。\n\n**このニュースをジョークにするなら...**\n\n> 政府が何年も気づかずに払いすぎてた。気づくのは彼女の番で、期限は30日、金額は3万5000ドル。\n\n---\n\n## 2. Trump Admin Moves to Strip Private Colleges of Tax-Exempt Status, Threatening Donor Breaks\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html)）*\n\nトランプ政権の財務省が、数千の私立学校から免税資格を剥奪し、寄付金への税控除も廃止する規制案を提示した。\n\n**どこが笑える？**\n\n私立大学の免税を剥奪する、という規制案です。目標は「差別的な方針を持つ学校」。ただし基準が曖昧なので、アイビーリーグにも、地方の小さなキリスト教スクールにも、同じルールが刺さる。\n\nあと、大学に寄付してた共和党系の富豪支持者の節税も、道連れになる可能性があります。「エリート叩き」のつもりが、味方ごと爆発している構図です。\n\n**このニュースをジョークにするなら...**\n\n> 「エリートを叩く」と言いながら、一番困るのは自分たちの最大スポンサーなんですよね。スタジアムに名前を刻んだ人たち、今ごろ焦ってる。\n\n---\n\n## 3. California Official: Scanning Every Mail Ballot Under New USPS Rules Would Take 43 Years\n\n*CBS News US（[記事](https://www.cbsnews.com/news/mail-voting-rules-usps-election-officials-midterms/)）*\n\nカリフォルニア州の選挙担当者が、郵便局の新ルールに従って州内の全有権者の郵便投票を個別にスキャンすると、約43年かかると警告した。\n\n**どこが笑える？**\n\n43年。\n\nカリフォルニアの選挙担当者が出した数字です。新しい郵便局のルールに従って、州内の全有権者の郵便投票を個別にスキャンすると、43年かかる。今年の選挙に間に合わせるには、1983年にスタートしていないといけなかった。レーガン大統領の時代に走り出すべき手続きだった。\n\nこれが「選挙の安全を守るルール」として、中間選挙の数週間前に出てきています。計算、合ってますよね。\n\n**このニュースをジョークにするなら...**\n\n> 朗報：カリフォルニアは2069年までに完全準拠の郵便投票が実現できます。団塊の世代は生きてるかも。\n\n---\n\n## 4. Trump-Promoted 'Freedom Fuel' Expands to Detroit — Amid Lawsuit Over Unpaid Bills\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html)）*\n\nトランプ前大統領が低価格ガソリンスタンドとして称賛した「Freedom Fuel」がデトロイトに拡大する一方、燃料の未払いをめぐる訴訟が進行中であることが明らかになった。\n\n**どこが笑える？**\n\nトランプが7月に名指しで絶賛した「Freedom Fuel」というガソリンスタンドがあります。安い、みんなここで入れろ、と。そのFreedom Fuelが今デトロイトに拡大中で、同時に燃料の仕入れ先から未払いで訴えられています。\n\n「なぜ安いのか」の答えが、訴訟の中にある可能性がある。大統領の推薦文は、その辺には触れていませんでした。\n\n**このニュースをジョークにするなら...**\n\n> 安いガソリンの秘密：どうやら「ガソリン代を払わない」が有力仮説。革新的ビジネスモデル。\n\n---\n\n## 5. Microsoft to Cap Xbox Cloud Gaming Hours as Costs Climb\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html)）*\n\nマイクロソフトがXbox Game Passの加入者に対し、11月からクラウドゲームの利用時間に上限を設ける方針を発表した。\n\n**どこが笑える？**\n\n「ゲームし放題」が売り文句のXbox Game Passに、11月から時間制限がつきます。理由はクラウドのコストが上がっているから。\n\nつまりマイクロソフトは「みんながそこまで使わない前提」で「遊び放題」を売っていた、ということが、これで公式に確認されました。本当に使う人が増えたら制限が来る。NetflixのIDシェアのときも同じでしたよね。\n\n「放題」の細かい字、みんないつ読むんだろう。\n\n**このニュースをジョークにするなら...**\n\n> Xbox Game Pass：無制限ゲーミング、ただし制限あり。アスタリスクはずっとそこにあった——見えるようになっただけ。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 細かい字は最初からあった。今日はみんなが同時に気づいた日、たぶん。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3のcaption3（スリラー参照）は日本語版が説明過多で落ちが弱い。d5のcaptionsJa②の「300兆円超」は元データに数字がなく新事実の付加に当たるため削除。introJaの末尾が「ね」で書き言葉的に締まりすぎ、最後の一文に句点が抜けている軽微な問題もあるが文体は合格圏。xJa①が134字で合格、他も問題なし。imagePromptsはすべて後ろ姿・記号・シルエット中心で合格。全体的に水準は高く、直しは最小限。 ／ 文体パス: 2箇所修正。riffJa[2]の締め「算数の問題です。」がプレゼン口調で綺麗に着地しすぎ、riffJa[4]の「『放題』の細かい字を読む癖、そろそろつけたほうがいい。」が読者への指示形。それぞれ崩した。"
   },
   "carousel": [
-    "images/2026-09-03/carousel/slide-1.jpg",
-    "images/2026-09-03/carousel/slide-2.jpg",
-    "images/2026-09-03/carousel/slide-3.jpg",
-    "images/2026-09-03/carousel/slide-4.jpg",
-    "images/2026-09-03/carousel/slide-5.jpg",
-    "images/2026-09-03/carousel/slide-6.jpg",
-    "images/2026-09-03/carousel/slide-7.jpg"
+    "images/2026-09-04/carousel/slide-1.jpg",
+    "images/2026-09-04/carousel/slide-2.jpg",
+    "images/2026-09-04/carousel/slide-3.jpg",
+    "images/2026-09-04/carousel/slide-4.jpg",
+    "images/2026-09-04/carousel/slide-5.jpg",
+    "images/2026-09-04/carousel/slide-6.jpg",
+    "images/2026-09-04/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-03/note-header.jpg",
-    "substack": "images/2026-09-03/substack-cover.jpg"
+    "note": "images/2026-09-04/note-header.jpg",
+    "substack": "images/2026-09-04/substack-cover.jpg"
   },
-  "video": "videos/2026-09-03/daily-short.mp4",
-  "videoDuration": 105.6,
-  "videoJa": "videos/2026-09-03/daily-short-ja.mp4",
-  "videoJaDuration": 133.9
+  "video": "videos/2026-09-04/daily-short.mp4",
+  "videoDuration": 77.4,
+  "videoJa": "videos/2026-09-04/daily-short-ja.mp4",
+  "videoJaDuration": 93.5
 }
