@@ -1557,14 +1557,29 @@ def generate_carousel(candidates: list[dict], editorial: dict | None,
                 _paste_sprite(img, rr, 270, angle, CAROUSEL_W - 260, 96)
             dd.text((60, text_y), f"STORY {i}", font=_font(30), fill=C_CORAL)
             text_y += 54
-            # ニュース内容(見出し)を大きく
-            text_y = _draw_wrapped(dd, c["news"]["headline"], _font(42),
-                                   60, text_y, CAROUSEL_W - 120, C_NAVY, 10)
             _slide_footer(dd, f"{i + 1}/{total}", today)
 
-            # 動画用①: ジョーク無しの土台(この上にスタンプが押される)
+            # 動画用①: ジョーク無しの土台(この上にスタンプが押される)。
+            # キャプションが無い分だけ下が空くので、見出しを下の余白いっぱいまで
+            # 自動で大きくする(64→42で入るサイズを選ぶ)
             plain = img.copy()
+            pdd = ImageDraw.Draw(plain)
+            avail_h = (CAROUSEL_H - 130) - text_y
+            hf = _font(42)
+            for hs in (64, 58, 52, 46, 42):
+                f_try = _font(hs)
+                nl = len(_wrap_text(pdd, c["news"]["headline"], f_try,
+                                    CAROUSEL_W - 120))
+                if nl * (hs + 14) <= avail_h and nl <= 5:
+                    hf = f_try
+                    break
+            _draw_wrapped(pdd, c["news"]["headline"], hf,
+                          60, text_y, CAROUSEL_W - 120, C_NAVY, 14)
             plain.save(out_dir / f"slide-{i + 1}-plain.jpg", "JPEG", quality=88)
+
+            # カルーセル用: 見出しは従来サイズ(下にキャプションが入るため)
+            text_y = _draw_wrapped(dd, c["news"]["headline"], _font(42),
+                                   60, text_y, CAROUSEL_W - 120, C_NAVY, 10)
 
             # カルーセル用: ジョークを下部に(収まらなければ自動縮小)
             caption = (c.get("captions") or [""])[0]
