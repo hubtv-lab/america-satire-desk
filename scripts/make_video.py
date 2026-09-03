@@ -33,6 +33,8 @@ RATE = os.environ.get("VIDEO_RATE", "+22%" if LANG == "en" else "+14%")
 PITCH = os.environ.get("VIDEO_PITCH", "+2Hz" if LANG == "en" else "+0Hz")
 INTRO_RATE = os.environ.get("VIDEO_INTRO_RATE", "+28%" if LANG == "en" else "+20%")
 FAKE_TTS = os.environ.get("FAKE_TTS") == "1"
+# 動画に入れる本数(既定3本)。残りは記事へ誘導する「読みたい」ギャップにする
+STORIES = max(1, min(5, int(os.environ.get("VIDEO_STORIES", "3"))))
 MIN_TOTAL_SEC = 63.0
 MAX_SEG_PAD = 1.6
 KEEP_DAYS = 3
@@ -346,6 +348,51 @@ def build_intro_card(tmp: Path) -> Path:
     return out
 
 
+def build_cta_card(tmp: Path, remaining: int) -> Path:
+    """締めのお誘いカード(1080x1920)。Punchyがバウンドで乗る。"""
+    from PIL import Image, ImageDraw, ImageFont
+    W, H = 1080, 1920
+    img = Image.new("RGB", (W, H), CREAM)
+    d = ImageDraw.Draw(img)
+    d.rectangle([0, 0, W, 26], fill=TEAL)
+    d.rectangle([0, H - 26, W, H], fill=TEAL)
+
+    def font(paths, size):
+        for p in paths:
+            if Path(p).exists():
+                return ImageFont.truetype(p, size)
+        return ImageFont.load_default()
+
+    cjk = ["/usr/share/fonts/opentype/noto/NotoSansCJK-Black.ttc",
+           "/usr/share/fonts/opentype/noto/NotoSansCJK-Bold.ttc"]
+    latin = ["/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"]
+
+    if LANG == "ja":
+        lines = [(f"残りの{remaining}本は", font(cjk, 64), INK, 480),
+                 ("note で", font(cjk, 140), CORAL, 580),
+                 ("待ってるよ", font(cjk, 64), INK, 780),
+                 ("毎朝5本、ぜんぶ無料", font(cjk, 44), TEAL, 900)]
+    else:
+        lines = [(f"{remaining} MORE STORIES", font(latin, 76), INK, 460),
+                 ("ON SUBSTACK", font(latin, 96), CORAL, 570),
+                 ("— FREE —", font(latin, 60), TEAL, 710),
+                 ("jokesyoucanuse.substack.com", font(latin, 40), INK, 820)]
+    for text, f, color, y in lines:
+        w = d.textlength(text, font=f)
+        d.text(((W - w) / 2, y), text, font=f, fill=color)
+    out = tmp / "cta_card.png"
+    img.save(out)
+    return out
+
+
+def pick_punchy_cta() -> Path:
+    for name in ("mascot-cta.png", "mascot.png", "reaction-5.png"):
+        p = ROOT / "images" / name
+        if p.exists():
+            return p
+    return pick_punchy()
+
+
 def render_intro(card: Path, punchy: Path, audio: Path, out: Path, dur: float) -> None:
     """Punchyがバウンドしながら登場するイントロを描画。"""
     vf = (
@@ -444,7 +491,7 @@ def build_segments(d: dict, tmp: Path) -> list[dict]:
     except Exception:
         day_off = 0
     cues = JOKE_CUES_JA if ja else JOKE_CUES_EN
-    for i, c in enumerate(cands[:5]):
+    for i, c in enumerate(cands[:STORIES]):
         n = c.get("news") or {}
         idx = i + 1
         if idx >= len(slides):
@@ -481,18 +528,33 @@ def build_segments(d: dict, tmp: Path) -> list[dict]:
         segs.append({"kind": "slam", "img": slam_img, "text": joke_text,
                      "rate": RATE, "sfx": "stamp", "spos": spos})
 
-    # 3) 締め(パンチライン + CTA)
+    # 3) 締め(パンチライン)
     if ja:
         quip = clean_for_speech(ed.get("quipJa") or "今日もそういう日でした。")
-        outro = (f"今日のまとめ。{quip} "
-                 "詳しくはSubstackで待ってるよ。フォローよろしく！また明日！")
+        outro = f"今日のまとめ。{quip}"
     else:
         quip = clean_for_speech(ed.get("quipEn") or "That's the week. Somehow.")
-        outro = (f"Today's punchline. {quip} "
-                 "The full breakdown is waiting for you on Substack. "
-                 "Follow me — new stories every morning!")
+        outro = f"Today's punchline. {quip}"
     segs.append({"kind": "story", "img": slides[-1], "text": outro,
                  "rate": RATE, "sfx": "tada"})
+
+    # 4) キャラクターのお誘い(残りの本数を記事へ)。5本全部見せた日は従来の一言だけ
+    remaining = max(0, len(cands[:5]) - STORIES)
+    if remaining > 0:
+        if ja:
+            cta = (f"今日は{STORIES}本だけ。残りの{remaining}本は、noteで待ってるよ。"
+                   "ジョークが言えるくらい実用的にニュースを読みたいなら、おいで！また明日！")
+        else:
+            cta = (f"That was {STORIES} of today's 5 stories. "
+                   f"The other {remaining} are waiting on Substack — free. "
+                   "If you want news you can actually joke about... come join me! "
+                   "See you tomorrow!")
+    else:
+        cta = ("詳しくはnoteで待ってるよ。フォローよろしく！また明日！" if ja else
+               "The full breakdown is waiting on Substack. "
+               "Follow me — new stories every morning!")
+    segs.append({"kind": "cta", "text": cta, "rate": RATE, "sfx": "pop",
+                 "remaining": remaining})
     return segs
 
 
@@ -549,6 +611,10 @@ def main() -> None:
         if s["kind"] == "intro":
             render_intro(card, punchy, s["audio"], seg_mp4,
                          s["adur"] + intro_pad)
+        elif s["kind"] == "cta":
+            ccard = build_cta_card(tmp, max(1, s.get("remaining") or 2))
+            render_intro(ccard, pick_punchy_cta(), s["audio"], seg_mp4,
+                         s["adur"] + pad)
         else:
             p = Path(s["img"])
             img_path = p if p.is_absolute() else ROOT / p
