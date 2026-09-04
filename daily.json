@@ -1,354 +1,354 @@
 {
   "version": 1,
-  "date": "2026-09-04",
-  "generatedAt": "2026-09-03T21:47:09+00:00",
+  "date": "2026-09-05",
+  "generatedAt": "2026-09-04T21:30:49+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "news": {
-        "headline": "Social Security Overpaid Her — Now It Wants $35,000 Back in 30 Days",
-        "source": "CBS News US",
-        "date": "2026-09-04",
-        "url": "https://www.cbsnews.com/news/social-security-overpayment-clawback-repayment-appeal/",
-        "summary": "社会保障局（SSA）が誤って過払いした女性に対し、30日以内に3万5000ドルを返還しなければ給付金を50%削減すると通告した。"
+        "headline": "Trump Threatens to Cut Off Trade Unless the Fed Cuts Rates — the Fed Has Not Cut Rates",
+        "source": "CNBC Top News",
+        "date": "2026-09-05",
+        "url": "https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html",
+        "summary": "トランプ大統領は、連邦準備制度が利下げを行わなければ貿易赤字を抱える国々との取引を停止すると脅迫した。FRBは金利を据え置いたままだ。"
       },
       "commentary": [
-        "<b>矛盾:</b> 払いすぎたのは政府の側なのに、気づかず受け取っていた市民が30日以内に3万5000ドルを用意しろと言われる。財布を間違えて渡しといて「返せ、今すぐ」っていうやつ。",
-        "<b>滑稽さ:</b> 払えなければ給付を半額カット——つまり「お金がない人から取る手段」が「さらにお金を減らす」なんですよ。取り立ての方法が取り立ての理由を作ってる。",
-        "<b>日本・海外から見ると:</b> 行政のミスで二重に損をするのは万国共通なんですけど、30日という期限の短さと金額の大きさの組み合わせが、罰ゲームとしてよくできすぎてる。"
+        "<b>矛盾:</b> 連邦準備制度は法律上の独立機関なのに、大統領が「利下げしなければ貿易をやめる」と脅している。脅迫先は外国ではなく、自国の中央銀行なんですよ。",
+        "<b>滑稽さ:</b> 雇用統計が好調すぎて、FRBは逆に利上げを検討し始めた。「下げろ」と叫んだら「上げる話が出てきた」。",
+        "<b>日本・海外から見ると:</b> 外交上の脅しを国内の金融政策にも使い始めたのか、と各国の中央銀行関係者は静かに眉をひそめているはずです。"
       ],
       "imagePrompts": [
-        "A woman sitting at a kitchen table staring at an official government letter. On the table: a cup of coffee, a calculator showing $35,000, and a calendar with 30 days X'd out in red marker. The envelope is stamped 'Social Security Administration.'",
-        "A large government building with a sign reading 'Social Security Administration' and a drive-through window. A teller is handing a confused elderly woman a bill labeled '$35,000 — Due Immediately.' A sign above reads: 'Our mistake, your problem.'",
-        "A balance scale. On one side: a stack of government benefit checks labeled 'Overpayment — Our Bad.' On the other side: a woman's empty wallet, a rent notice, and a 30-day countdown clock. The scale tips heavily toward the government side."
+        "A president figure at a podium pointing an accusing finger at a large stone building labeled 'Federal Reserve,' while the building's windows show people inside simply drinking coffee and ignoring him",
+        "A split scoreboard: left side reads 'Trump: Cut Rates,' right side reads 'Jobs Report: Maybe Raise Rates,' with a bewildered referee in the middle",
+        "A man shouting into a phone labeled 'Trade Threat' while the call display reads 'Recipient: The Fed — Status: Unmoved'"
       ],
       "captions": [
-        "The agency overpaid her for years without noticing. She has 30 days to notice back — with $35,000.",
-        "Their error. Her debt. Thirty days. The American dream, basically.",
-        "They cut her benefits by 50% to collect the money she'd need to avoid the 50% cut. Follow the logic if you can.",
-        "She didn't apply for $35,000. It just showed up. Apparently that's on her.",
-        "What's the SSA's repayment plan for the mistake? That's not really how this works."
+        "He threatened foreign countries to pressure a domestic agency that is literally designed to be unpressurable. Bold strategy.",
+        "The jobs report came in hot, the Fed started eyeing rate hikes — and somewhere Trump is still posting about cuts.",
+        "You want the Fed to listen? They've got one job and 'listening to the president' isn't on the list.",
+        "Tariffs against Canada because the Fed won't budge. Canada's just standing there like, 'We don't set your interest rates?'",
+        "The Fed's response: silence. The jobs report's response: maybe a hike. The market's response: yields up. Sir, this is going great."
       ],
       "captionsJa": [
-        "政府が何年も気づかずに払いすぎてた。気づくのは彼女の番で、期限は30日、金額は3万5000ドル。",
-        "ミスは向こう。請求は彼女。猶予は30日。アメリカンドリームってそういうことです。",
-        "給付を50%カットして取り立てる——つまり返済に必要なお金を、返済できない理由にしてる。ついてこれます？",
-        "彼女は3万5000ドルを申請してない。勝手に振り込まれただけ。どうやらそれが問題らしい。",
-        "SSA側のミスへの返済計画は？　そういう仕組みじゃないから。"
+        "自国の独立機関を動かすために外国を脅す。すごい迂回路ですね。",
+        "雇用統計が強すぎて、FRBは利上げ方向。「下げろ」と叫んだ週に、これ。",
+        "FRBに一個だけ仕事がある。「大統領の言うことを聞く」は入ってないんですよ。",
+        "カナダへの関税でFRBを動かそうとしてる。カナダ「えっ、私たちアメリカの金利決めてないんですけど」。",
+        "FRBの反応：沈黙。雇用統計の反応：利上げ示唆。市場の反応：金利上昇。まあ順調じゃないですか。"
       ],
-      "newsEn": "The Social Security Administration notified a woman that it had overpaid her benefits and is now demanding repayment of $35,000 within 30 days. If she fails to pay, SSA says it will garnish 50% of her monthly benefits until the debt is recovered. The woman says she had no indication the payments were in error at the time she received them.",
+      "newsEn": "President Trump doubled down on threats to halt trade with countries where the U.S. runs deficits unless the Federal Reserve lowers interest rates. The Fed, which operates independently of the White House, has not indicated any plans to cut rates. Trump made the demands via social media posts on Friday. Treasury yields rose following a strong jobs report, suggesting the Fed may actually hike rates.",
       "ironyEn": [
         {
-          "contradiction": "The government made the mistake, but the woman has 30 days to fix it — with her own money.",
-          "absurdity": "The penalty for not repaying the overpayment is a 50% cut to the very benefits she needs to survive, which is also the money she'd need to repay the debt.",
-          "outside": "In most countries, when a government agency makes a clerical error, there's an appeals process. Here the timeline is 30 days and the fallback plan is 'good luck.'"
+          "contradiction": "The president threatened other countries to pressure an institution he legally cannot control. It's like leaving a strongly worded note for your landlord — addressed to your neighbor.",
+          "absurdity": "Trump demanded rate cuts the same week a blowout jobs report made rate hikes more likely. The economy trolled him back.",
+          "outside": "Central banks worldwide spent decades building independence from politicians. The U.S. president is now negotiating tariffs to undermine his own."
         },
         {
-          "contradiction": "SSA exists to provide financial security. Its collections strategy is to threaten financial insecurity.",
-          "absurdity": "She didn't steal anything. The check just showed up. Now she owes the price of a used car.",
-          "outside": "Imagine your bank accidentally depositing extra cash, waiting years to notice, then sending you a letter saying 'pay it back by next month or we freeze half your account.' That's the system."
+          "contradiction": "The Fed's whole job is to ignore exactly this kind of pressure. Trump found the one institution in Washington that is structurally required to not care what he says.",
+          "absurdity": "The threat is essentially: 'Cut rates or Canada suffers.' Canada has not yet weighed in on U.S. monetary policy.",
+          "outside": "Foreign finance ministers watching this are taking notes — not on how to negotiate, but on what not to do."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-04/candidate-1.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-04/candidate-1-punchy.jpg"
+      "image": "images/2026-09-05/candidate-1.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-05/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "news": {
-        "headline": "Trump Admin Moves to Strip Private Colleges of Tax-Exempt Status, Threatening Donor Breaks",
-        "source": "CNBC Top News",
-        "date": "2026-09-04",
-        "url": "https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html",
-        "summary": "トランプ政権の財務省が、数千の私立学校から免税資格を剥奪し、寄付金への税控除も廃止する規制案を提示した。"
+        "headline": "Federal Bureau of Prisons Signs Exclusive Deal to Sell Prisoners Unapproved Nicotine Pouches",
+        "source": "CBS News US",
+        "date": "2026-09-05",
+        "url": "https://www.cbsnews.com/news/bureau-prisons-nicotine-pouches-prisoners/",
+        "summary": "連邦刑務所局（BOP）が、FDA未承認のニコチンパウチを受刑者に独占販売するフロリダのスタートアップと排他的契約を締結していたことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 寄付への税控除を廃止するということは、億万長者が大学に寄付しても節税できなくなる。「エリートへの優遇をやめる」政策が、富裕層の財布も直撃するという、ちょっと予想外の着地点。",
-        "<b>滑稽さ:</b> 大学の免税を剥がすと言いながら、その大学に寄付してた共和党支持者の富豪たちも道連れになる可能性がある。味方を巻き込む爆発の構図。",
-        "<b>日本・海外から見ると:</b> アメリカでは大学への寄付が「節税」と「社会貢献」を兼ねる文化なんですが、その前提を政府が壊しにいくという、アイビーリーグ以外の人間には「でしょうね」って感じの話。"
+        "<b>矛盾:</b> 受刑者を「社会から隔離して保護する」はずの機関が、FDA未承認品の独占販売ルートを刑務所内に開いた。受刑者は消費者として断れない立場なんですよ。",
+        "<b>滑稽さ:</b> 「captive customer（囚われた顧客）」という言葉がこんなに字義通りに使われたことが、ビジネス史上あったでしょうか。",
+        "<b>日本・海外から見ると:</b> 民間企業が刑務所内で独占商売できる構造、日本では考えにくい。アメリカの「官民連携」の射程の広さに改めて驚く。"
       ],
       "imagePrompts": [
-        "A grand university building with ivy-covered walls. A Treasury Department official in a suit is using bolt cutters to remove a bronze plaque reading 'Tax-Exempt' from the gate. In the background, a line of wealthy donors in tuxedos look confused, checkbooks in hand.",
-        "A giant rubber stamp reading 'REVOKED' hovering over a row of private school buildings of wildly different sizes — from a gleaming Ivy League campus to a tiny rural schoolhouse — all labeled with the same status: 'Tax-Exempt (Pending).'",
-        "A political figure holding a large lever labeled 'Tax-Exempt Status.' On one side of the lever: a small sign saying 'Target: Elite Universities.' On the other side, a crowd of the figure's own campaign donors in golf shirts, looking nervous."
+        "A prison commissary window with a single brand of nicotine pouches prominently displayed, a long line of inmates in front of it, and a 'Exclusively Available Here' banner overhead",
+        "A startup founder in a business suit shaking hands with a prison warden in front of a building with iron bars, both grinning, a 'No FDA Approval Required' sticker on the product box between them",
+        "A flowchart showing: 'FDA Review' crossed out with a red X, arrow pointing to 'BOP Exclusive Contract,' arrow pointing to 'Captive Market,' arrow pointing to 'Profit'"
       ],
       "captions": [
-        "Nothing says 'drain the swamp' like threatening the tax break your biggest donors use to write off their stadium donations.",
-        "Harvard's in the crosshairs. So is the tiny Christian school in rural Ohio. Same rule. Different press releases.",
-        "They wanted to go after elite universities — and they found a regulation that doesn't really know the difference between Harvard and a homeschool co-op.",
-        "The donor who just named a library after himself is about to have a very uncomfortable conversation with his accountant.",
-        "Populism: when you accidentally hurt your own base and call it a feature."
+        "The feds found a customer base that literally can't walk out. Startup guys call this 'product-market fit.'",
+        "FDA approval? We've got a contract. Same thing, right?",
+        "A monopoly, an unapproved product, and zero exit options for the consumer — someone pitched this in a business school and got an A.",
+        "Most startups spend years searching for a captive audience. The BOP just handed one over.",
+        "The inmates can't leave, can't choose another brand, and can't return it. Five stars on the investor deck, though."
       ],
       "captionsJa": [
-        "「エリートを叩く」と言いながら、一番困るのは自分たちの最大スポンサーなんですよね。スタジアムに名前を刻んだ人たち、今ごろ焦ってる。",
-        "ハーバードが標的のはずが、規制文はオハイオの片田舎の小さなキリスト教学校も区別しない。同じルール、違うプレスリリース。",
-        "エリート大学を狙ったつもりが、ハーバードとホームスクールの組合を同じ尺度で裁く規制ができあがった。",
-        "図書館に自分の名前を刻んだ寄付者、今週末の税理士との面談、相当気まずくなりそう。",
-        "ポピュリズムとは：自分の支持者を道連れにして「これが改革だ」と言い張ること。"
+        "逃げられない顧客層。スタートアップ界隈ではこれを「完璧なPMF」と呼ぶ。",
+        "FDA承認？　契約書がある。同じようなものでしょ。",
+        "独占、未承認、購買者に選択肢なし。MBAの授業でケーススタディにしたらA評価案件。",
+        "普通のスタートアップはキャプティブな顧客を探すのに何年もかかる。BOPが一発で解決してくれた。",
+        "受刑者は逃げられないし、他のブランドも選べないし、返品もできない。投資家へのピッチデックには最高のスライドができた。"
       ],
-      "newsEn": "The Treasury Department has proposed regulations that would strip thousands of private schools of their tax-exempt status under the Internal Revenue Code. The move would also eliminate a valuable tax deduction for donations made to those institutions. The proposal targets schools that allegedly maintain discriminatory policies, but critics say the criteria are vague and politically motivated.",
+      "newsEn": "The Bureau of Prisons entered an exclusive arrangement in July with a Florida-based startup to sell nicotine pouches to federal prisoners. The pouches have not been authorized by the FDA. The deal gives a single company monopoly access to a captive customer base of federal inmates. The arrangement is now facing congressional scrutiny.",
       "ironyEn": [
         {
-          "contradiction": "The administration framing this as a populist blow against elite institutions — but the donors losing their tax breaks are mostly the administration's own donor class.",
-          "absurdity": "You can lose a seven-figure deduction because the Treasury decides your alma mater's student handbook is politically objectionable.",
-          "outside": "Most countries just fund universities directly. The U.S. built a system where billionaires get tax breaks for naming buildings, and now the government is threatening to dismantle it — one vague eligibility criterion at a time."
+          "contradiction": "The institution responsible for inmate welfare handed a monopoly on unregulated nicotine products to a startup — in a setting where customers literally cannot shop elsewhere.",
+          "absurdity": "The FDA exists to decide what goes into Americans' bodies. The BOP decided: not our problem, exclusive deal signed.",
+          "outside": "In most countries, a government agency selling unapproved substances to people in its own custody would be a scandal. Here it's a procurement contract."
         },
         {
-          "contradiction": "Stripping 'elite' schools of tax benefits sounds populist until you realize the people most affected are the wealthy donors who bankrolled the GOP.",
-          "absurdity": "The regulation is broad enough that a small religious academy in rural Ohio could lose its status alongside Harvard.",
-          "outside": "From the outside, this reads as: America funds its universities through a tax-code loophole, and the current administration has just discovered the loophole has a lever."
+          "contradiction": "Prisons restrict what inmates can consume for safety reasons, then carve out an exclusive lane for an unvetted product.",
+          "absurdity": "A Florida startup now has a monopoly customer base that cannot leave, complain to a competitor, or file a Yelp review.",
+          "outside": "This is the most literal example of a captive market in the history of capitalism."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-04/candidate-2.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-04/candidate-2-punchy.jpg"
+      "image": "images/2026-09-05/candidate-2.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-05/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "news": {
-        "headline": "California Official: Scanning Every Mail Ballot Under New USPS Rules Would Take 43 Years",
-        "source": "CBS News US",
-        "date": "2026-09-04",
-        "url": "https://www.cbsnews.com/news/mail-voting-rules-usps-election-officials-midterms/",
-        "summary": "カリフォルニア州の選挙担当者が、郵便局の新ルールに従って州内の全有権者の郵便投票を個別にスキャンすると、約43年かかると警告した。"
+        "headline": "The White House Released Arcade Games. Some Are Racist and Possibly Copyright Infringement.",
+        "source": "The Verge",
+        "date": "2026-09-05",
+        "url": "https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright",
+        "summary": "ホワイトハウスが政策PRのためのアーケードゲームシリーズを公開したが、一部は人種差別的な内容を含み、実在するゲームの著作権を侵害している可能性があると指摘されている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 選挙の「完全性」を守るために導入するルールが、物理的に選挙を実施不能にする。セキュリティのために選挙を壊しにいくという、本末転倒の教科書みたいな事例。",
-        "<b>滑稽さ:</b> 43年。2026年の選挙に間に合わせるには、1983年にスタートしてないといけなかった。レーガン政権時代に走り出すべき手続きだった。",
-        "<b>日本・海外から見ると:</b> 郵便投票の手続き一つで「物理的に43年かかる」という見積もりが公式の場で出てくる国って、なかなかない。選挙制度の設計の話じゃなくて、算数の話になってる。"
+        "<b>矛盾:</b> 「法の支配」を掲げる行政府が、他社の著作物を無断使用した可能性のあるゲームでPRをしている。知的財産保護は他国に要求するやつですよね。",
+        "<b>滑稽さ:</b> テトリスのブロックを国境の壁に見立てるという発想、ゲームデザイナーが思いついていたとしても普通は止める。誰も止めなかったのが今回。",
+        "<b>日本・海外から見ると:</b> 「ビルド・ザ・ウォール」テトリスに対してテトリス社が声明を出す2026年。テトリスの生みの親はソ連出身のパジトノフさんです、念のため。"
       ],
       "imagePrompts": [
-        "A massive warehouse filled floor to ceiling with stacks of mail ballots. A lone election worker in a reflective vest stands at a scanner, looking at a wall calendar showing the year 2069. A sign above reads: 'Estimated Completion Date.'",
-        "A split image: on the left, a clock and calendar showing November 2026 midterms; on the right, a USPS document with a timeline ending in 2069. An arrow labeled 'When We'd Finish Scanning' points far off the right edge of the frame.",
-        "A California election official at a podium in front of a banner reading 'Election Integrity.' Behind them, a whiteboard with the calculation '43 YEARS' circled in red, with a sticky note that says 'Should have started in 1983.'"
+        "An arcade cabinet in the White House lobby with the presidential seal on it, a politician in a suit playing it, and a lawyer from 'The Tetris Company' standing behind him holding a cease-and-desist letter",
+        "A row of retro arcade machines in a government hallway, each labeled with a policy name, with a copyright lawyer placing sticky notes on all of them",
+        "A Tetris-style game where the falling blocks are bricks labeled 'Wall' stacking up at a border, with a Soviet-era Tetris logo watermark visibly in the corner"
       ],
       "captions": [
-        "Great news: California can have fully compliant mail voting by 2069. Boomers might make it.",
-        "The rule kicks in weeks before the midterms. The compliance timeline is four decades. Someone's very confident in the post office's efficiency.",
-        "To finish scanning ballots for this November's election, they needed to start when 'Thriller' was still on the charts.",
-        "Election integrity, secured — just not for any election anyone alive today will vote in.",
-        "Forty-three years. I've seen software licenses shorter than that."
+        "The White House made arcade games. The Tetris Company made a phone call.",
+        "Nothing says 'rule of law' like an IP lawsuit from a game invented in the USSR.",
+        "They could've just done a press release. They chose racist Tetris. Respect the commitment.",
+        "An official government communication that also might be copyright infringement — name a more Washington combo.",
+        "The Tetris Company is now a political actor. We're in the timeline."
       ],
       "captionsJa": [
-        "朗報：カリフォルニアは2069年までに完全準拠の郵便投票が実現できます。団塊の世代は生きてるかも。",
-        "ルールの施行は中間選挙の数週間前。準拠にかかる期間は40年。郵便局への信頼感が壮大すぎる。",
-        "今年11月の選挙のスキャンを終わらせるには、「スリラー」がヒットしてた頃に始めてないといけなかった。",
-        "選挙の完全性、確保されました——ただし現在生きている人が投票する選挙には間に合いません。",
-        "43年。ソフトウェアのライセンス期間より長いやつ、初めて見た。"
+        "ホワイトハウスがアーケードゲームを作った。テトリス社が電話した。",
+        "「法の支配」を掲げる政権に対して、ソ連生まれのゲームの会社が著作権警告。筋がいい。",
+        "プレスリリースで済んだはずなのに、人種差別的テトリスを選んだ。その信念は評価する。",
+        "政府の公式広報が同時に著作権侵害の疑いあり。ワシントンらしいコンボ。",
+        "テトリス社が政治プレイヤーになる世界線に来てしまった。"
       ],
-      "newsEn": "A California election official warned that complying with new U.S. Postal Service requirements for mail ballots would be physically impossible given current timelines. Based on USPS's own estimates, scanning individual ballots for every voter in California would take approximately 43 years. Election officials across the country have raised alarms that the rules, proposed weeks before the November midterms, cannot be operationally implemented in time.",
+      "newsEn": "The White House released a series of policy-themed arcade games for public relations purposes. Several of the games have been criticized as racist, and some appear to be based on existing commercial games whose copyright holders have not given permission. The Tetris Company has already responded publicly to a game called 'Build the Wall,' which appears to mimic its product.",
       "ironyEn": [
         {
-          "contradiction": "The rules are designed to ensure election integrity. Election officials say following them would make holding an election impossible.",
-          "absurdity": "USPS's own numbers confirm the math: 43 years. The midterms are in November. Someone didn't check the calendar — or the calculator.",
-          "outside": "Most democracies treat 'can we physically do this before election day' as a minimum requirement for a rule. Here it's apparently optional."
+          "contradiction": "An administration that routinely threatens other countries over IP theft apparently didn't clear the rights on its own PR games.",
+          "absurdity": "Someone in the White House thought Tetris blocks stacking into a border wall was a good idea and then nobody in the room said 'wait.'",
+          "outside": "The Tetris Company — a game invented in the Soviet Union — is now issuing legal warnings to the U.S. government. The Cold War has entered its final form."
         },
         {
-          "contradiction": "A rule meant to protect mail voting would functionally eliminate mail voting in the most populous state in the country.",
-          "absurdity": "To comply with USPS's timeline for the 2026 midterms, California would have needed to start scanning in 1983. Reagan was president. There were no smartphones.",
-          "outside": "Imagine a fire safety regulation that requires a sprinkler in every room — but installing them would take longer than the building's expected lifespan. That's the operational logic here."
+          "contradiction": "The government that signs executive orders to protect American IP launched a campaign that may infringe on someone else's IP.",
+          "absurdity": "These are official White House communications. The official communications are racist arcade games. This sentence is real.",
+          "outside": "Foreign governments trying to understand U.S. policy now have the option of playing an arcade game. Diplomatic briefings have not historically included a joystick."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-04/candidate-3.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-04/candidate-3-punchy.jpg"
+      "image": "images/2026-09-05/candidate-3.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-05/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "news": {
-        "headline": "Trump-Promoted 'Freedom Fuel' Expands to Detroit — Amid Lawsuit Over Unpaid Bills",
-        "source": "CNBC Top News",
-        "date": "2026-09-04",
-        "url": "https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html",
-        "summary": "トランプ前大統領が低価格ガソリンスタンドとして称賛した「Freedom Fuel」がデトロイトに拡大する一方、燃料の未払いをめぐる訴訟が進行中であることが明らかになった。"
+        "headline": "Coroner Confirms Measles Killed a 6-Week-Old. RFK Jr. Had Disputed the Deaths.",
+        "source": "Ars Technica",
+        "date": "2026-09-05",
+        "url": "https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/",
+        "summary": "ペンシルベニア州ランカスター郡の検死官が、生後6週間の乳児の死因がはしかであると確認した。RFKジュニアはこれより前、同郡でのはしか関連死を公式に否定していた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 安いガソリンを売る会社として大統領が絶賛したわけですが、「なぜ安いのか」の答えが「燃料代を払ってないから」かもしれない訴訟が進行中。ビジネスモデルがシンプルすぎる。",
-        "<b>滑稽さ:</b> 大統領の口コミで全国区になって、デトロイトに進出して、その間ずっと仕入れ先に未払いが続いてるとしたら、これは「起業家の物語」か「詐欺の物語」かの境界線がかなり曖昧。",
-        "<b>日本・海外から見ると:</b> 大統領が特定のガソリンスタンドを名指しで推薦する、という時点で日本では考えにくいんですが、その店が仕入れ先への支払いで訴えられてるとなると、もう「推薦文」の意味が変わってくる。"
+        "<b>矛盾:</b> 国民の健康を守る省のトップが、自国の検死官が確認した死因を事前に否定していた。「信頼できる情報源」が省内にいるんですが。",
+        "<b>滑稽さ:</b> ワクチンで防げたはずの病気で乳児が亡くなった週に、保健長官はその死を「ゲーム」と表現された行為で疑っていた。",
+        "<b>日本・海外から見ると:</b> はしかは日本でも2019年に大流行が問題になった。ワクチンで封じ込められていたはずの感染症が、先進国で乳児の命を奪っている現実に、公衆衛生の専門家は言葉を失う。"
       ],
       "imagePrompts": [
-        "A gleaming gas station with a large banner reading 'FREEDOM FUEL — AS SEEN ON TV' and a presidential silhouette giving a thumbs up on the sign. In the background, a process server in a suit walks toward the front door holding a stack of legal documents.",
-        "A gas pump labeled 'Freedom Fuel' with a price sign showing suspiciously low numbers. A receipt coming out of the pump reads: 'Amount Paid to Supplier: $0.00.' A 'Grand Opening — Detroit' balloon floats nearby.",
-        "A map of the United States with a 'FREEDOM FUEL EXPANSION' route marked in red from the original location to Detroit. Along the route, small icons of unpaid invoices flutter in the wind like confetti."
+        "A government official standing at a podium labeled 'HHS' holding a sign reading 'I Dispute This,' while behind him a county coroner's office window displays an official death certificate marked 'Cause: Measles'",
+        "A timeline graphic on a wall: '2000 — Measles Eliminated in U.S.' with a celebratory stamp, then '2026 — Coroner Confirms Infant Death,' the second entry scrawled in red",
+        "An empty vaccination appointment card labeled 'MMR — Due at 12 Months' next to a newspaper headline about a 6-week-old measles death, on a hospital waiting room chair"
       ],
       "captions": [
-        "The secret to low gas prices: allegedly, just don't pay for the gas. Disruptive.",
-        "Got a presidential endorsement in July. Got a lawsuit from the fuel supplier. Now expanding to Detroit. Classic American hustle — or something.",
-        "Nothing says 'model business' like a company the president loves and a supplier who disagrees.",
-        "Freedom Fuel: expanding nationally while the supplier checks if anyone's home.",
-        "The prices are low. The legal bills might not be."
+        "The coroner confirmed the cause of death. The HHS secretary had already decided not to believe that kind of information.",
+        "Six weeks old. MMR doesn't start until 12 months. Do the math — then stop, because the math is terrible.",
+        "Measles was eliminated in the U.S. in 2000. 'Was' is doing a lot of work in that sentence.",
+        "The data was inside his own department. He disputed it anyway. Bold move from the head of public health.",
+        "Other countries spent decades earning 'measles-free' status. We're watching one country hand it back."
       ],
       "captionsJa": [
-        "安いガソリンの秘密：どうやら「ガソリン代を払わない」が有力仮説。革新的ビジネスモデル。",
-        "7月に大統領のお墨付き。仕入れ先から訴訟。デトロイトに進出。これを「起業家精神」と呼ぶのか何と呼ぶのか。",
-        "大統領が「模範企業」と言って、仕入れ先が「未払いだ」と言ってる。どっちかが間違ってる。",
-        "全国展開中のFreedom Fuel。仕入れ先は今ごろ連絡先を探してる。",
-        "ガソリンは安い。法廷費用はそうでもないかもしれない。"
+        "検死官が死因を確認した。保健長官はその種の情報を信じないと決めていた。",
+        "生後6週間。MMRワクチンは生後12ヶ月から。計算してみると、ひどい話になる。",
+        "はしかは2000年にアメリカで「根絶」された。「された」が重い。",
+        "データは自分の省の中にあった。それでも否定した。保健長官として大胆な選択。",
+        "他の国々が何十年もかけて「はしか排除」の認定を取った。返上している国をリアルタイムで見ている。"
       ],
-      "newsEn": "Freedom Fuel, a gas station chain that received a presidential endorsement from Donald Trump in July after he praised its low prices and urged other retailers to follow suit, is now expanding to Detroit. However, the company is simultaneously facing a lawsuit from a fuel supplier over allegedly unpaid fuel costs. The expansion comes despite the ongoing legal dispute over whether Freedom Fuel has been paying for the gas it sells.",
+      "newsEn": "The Lancaster County coroner in Pennsylvania confirmed that a 6-week-old infant died from measles. The death comes amid a growing outbreak in the county, which has already seen two measles-related deaths. Robert F. Kennedy Jr., who leads the Department of Health and Human Services, had publicly disputed measles-related death counts before the coroner's determination was announced.",
       "ironyEn": [
         {
-          "contradiction": "A presidential shoutout for low gas prices is a lot less impressive when the working theory is that the prices are low because nobody's paying for the gas.",
-          "absurdity": "Freedom Fuel is expanding to Detroit — a city defined by the auto industry — while being sued over allegedly not paying for the fuel that goes in the cars those workers built.",
-          "outside": "Most businesses get a presidential endorsement and ride the wave. Freedom Fuel got one and apparently used it to open more locations before the supplier lawsuit caught up."
+          "contradiction": "The head of the agency responsible for U.S. public health disputed measles deaths that a county coroner then officially confirmed. The coroner's job is literally to determine cause of death.",
+          "absurdity": "A 6-week-old can't be vaccinated — the MMR shot comes at 12 months. The only protection available to that infant was the immunity of the people around them.",
+          "outside": "Measles was declared eliminated in the U.S. in 2000. The word 'eliminated' is doing less work than it used to."
         },
         {
-          "contradiction": "Trump praised Freedom Fuel as a model for American retail. The supplier is in court arguing it might be a model for something else entirely.",
-          "absurdity": "The secret to cheap gas: possibly just... not paying the bill. Revolutionary.",
-          "outside": "Imagine a president recommending a restaurant and then a lawsuit surfaces alleging they hadn't been paying the food supplier. That's the vibe, but for gasoline."
+          "contradiction": "RFK Jr. disputed measles deaths while running the department that tracks measles deaths. The data was already inside the building.",
+          "absurdity": "The infant was too young for the vaccine. The disease won because enough adults around them weren't vaccinated. The HHS secretary disputes this chain of events.",
+          "outside": "Countries that fought hard to achieve measles elimination status are watching the U.S. lose it in real time."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-04/candidate-4.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-04/candidate-4-punchy.jpg"
+      "image": "images/2026-09-05/candidate-4.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-05/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "news": {
-        "headline": "Microsoft to Cap Xbox Cloud Gaming Hours as Costs Climb",
-        "source": "CNBC Top News",
-        "date": "2026-09-04",
-        "url": "https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html",
-        "summary": "マイクロソフトがXbox Game Passの加入者に対し、11月からクラウドゲームの利用時間に上限を設ける方針を発表した。"
+        "headline": "Trump Will Fly to Ireland on Qatar's Gifted Jet — Security Questions Unresolved",
+        "source": "The Guardian US",
+        "date": "2026-09-05",
+        "url": "https://www.theguardian.com/us-news/2026/sep/04/trump-qatar-jet-ireland",
+        "summary": "トランプ大統領が来週のアイルランド訪問に、カタールから贈与された航空機を使用する予定であることが明らかになった。7月の使用時にはイランの脅威情報が発覚し、大統領が別機に移送されるという事態が起きていた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「ゲームを遊び放題」というのがサブスクの売りだったのに、「ただし時間制限あり」になる。「食べ放題」と書いてあるバイキングが途中で「もう食べすぎです」と言い始めるやつ。",
-        "<b>滑稽さ:</b> クラウドゲームはコストが上がってるからキャップをかける——つまりマイクロソフトは「使えば使うほど赤字になるサービス」を月額料金で売ってた、ということがこれで公式に確認されたわけで。",
-        "<b>日本・海外から見ると:</b> サブスクの「使い放題」は、みんながそこまで使わないという前提で成り立ってるんですよ。本当に使う人が増えたら制限が来る。Netflixのパスワードシェアのときもそうだったじゃないですか。"
+        "<b>矛盾:</b> 前回使おうとしたらイランの脅威が発覚して乗り換えた飛行機を、セキュリティ問題が解決されないまま今度こそ国際便に使う。「学習」の概念はどこへ。",
+        "<b>滑稽さ:</b> アメリカ大統領専用機が外国から「もらいもの」で、しかし前回は脅威情報で降りることになったという事実。エアフォースワンのブランドイメージが泣いている。",
+        "<b>日本・海外から見ると:</b> 外国政府からの高額贈与品を大統領機にするという話、日本の公務員倫理規程的に考えると別次元の話。受け取れる金額の上限が「飛行機一機」ではない。"
       ],
       "imagePrompts": [
-        "A gamer sitting on a couch mid-session, controller in hand, staring at a TV screen showing a pop-up message: 'You've reached your monthly cloud gaming limit. Your account will reset in 23 days.' A Xbox subscription receipt on the coffee table reads: 'Unlimited Gaming — $14.99/month.'",
-        "A large cloud labeled 'Xbox Cloud Gaming' with a padlock and a timer attached to it. Below, a line of gamers with controllers look up at the locked cloud. A small sign on the padlock reads: 'Back in November. Maybe.'",
-        "A Microsoft corporate boardroom. Executives in suits sit around a table covered in spreadsheets. A presentation slide on the wall reads: 'Problem: Subscribers Are Using the Service.' One executive circles the word 'Using' in red marker."
+        "A large jet with a Qatar Airways-style livery partially repainted with American flag motifs, sitting on a tarmac with a security official holding a clipboard labeled 'Unresolved Questions' standing under the wing",
+        "A president figure boarding a plane while a security aide holds up a yellow sticky note reading 'Same jet as July — issue not fixed,' the president waving without looking back",
+        "A gift box the size of an airplane with a bow on top and a tag reading 'From: Qatar. To: USA. Note: security features TBD'"
       ],
       "captions": [
-        "Xbox Game Pass: unlimited gaming, subject to limits. The asterisk was always there — they just made it visible.",
-        "Microsoft has $3 trillion in market cap and is asking subscribers to please stop playing so much.",
-        "They sold 'play anything, anytime.' November's patch notes: 'anytime' has been nerfed.",
-        "The customer who actually uses the unlimited service: apparently, the problem.",
-        "Every 'unlimited' plan eventually finds its limit. For Xbox it's games. For Netflix it was your ex's password."
+        "They pulled him off this plane in July over a threat. September fix: fly it to Europe.",
+        "The American president's ride to Ireland is a loaner from Qatar. The handshake photo's going to be something.",
+        "Security questions: unresolved. Departure date: next week. Someone in the Secret Service is not sleeping.",
+        "Most world leaders fly their own country's plane. Most.",
+        "It was risky in July. Same plane. It's September now — fine, I guess?"
       ],
       "captionsJa": [
-        "Xbox Game Pass：無制限ゲーミング、ただし制限あり。アスタリスクはずっとそこにあった——見えるようになっただけ。",
-        "時価総額300兆円超のマイクロソフトが、加入者に「ゲームしすぎ」と言い始めた。",
-        "売り文句は「いつでも何でも遊び放題」。11月のアップデートで「いつでも」がナーフされました。",
-        "サービスを本当に使い倒す加入者：どうやら、それが問題。",
-        "「無制限」プランはいつか制限を見つける。Netflixは元カノのパスワードだった。Xboxはゲームそのものだった。"
+        "7月にこの飛行機から降ろされた。9月の解決策：ヨーロッパへ飛ぶ。",
+        "アイルランドへ向かうアメリカ大統領の乗り物は、カタールからの借り物。握手の写真が楽しみ。",
+        "安全上の懸念：未解決。出発日：来週。シークレットサービスの誰かは今夜眠れない。",
+        "自国の飛行機で飛ぶ首脳がほとんど。ほとんど、ね。",
+        "7月はリスクありと判断された。同じ飛行機。9月になったから——まあいいか、という論理。"
       ],
-      "newsEn": "Microsoft will impose time limits on cloud gaming for Xbox Game Pass subscribers starting in November, the company announced. The decision comes as the cost of running cloud gaming infrastructure continues to rise. Subscribers who pay for the service will face usage caps, a significant change from the previously unlimited access model that helped sell the subscription in the first place.",
+      "newsEn": "President Trump plans to use a Boeing jet gifted by Qatar for his upcoming trip to Ireland, the first time the aircraft will be flown overseas since a July incident in which Trump was moved to a separate plane after officials learned of a possible Iranian threat to the Qatari jet. Security questions about the aircraft's defenses remain unanswered. The trip marks the plane's first international use since that incident.",
       "ironyEn": [
         {
-          "contradiction": "Unlimited cloud gaming was a core selling point of Xbox Game Pass. The new plan is: unlimited, but with a limit.",
-          "absurdity": "Microsoft — one of the most profitable companies on the planet — is telling paying subscribers they're playing too much.",
-          "outside": "Every 'unlimited' subscription eventually finds the thing it actually limits. For Netflix it was passwords. For Xbox, apparently, it's actually playing games."
+          "contradiction": "The last time Trump tried to use this jet, they pulled him off it mid-situation due to a threat. The security questions are still open. Next stop: Ireland.",
+          "absurdity": "The presidential aircraft — symbol of American power — is a foreign gift with unresolved defensive capabilities. Air Force One is now an analogy.",
+          "outside": "Most countries' ethics laws set gift limits for public officials somewhere below 'a Boeing jet.' The U.S. is operating in uncharted territory."
         },
         {
-          "contradiction": "Cloud gaming was supposed to democratize gaming — play anything, anywhere, anytime. 'Anytime' now has an asterisk.",
-          "absurdity": "The customer who uses the service exactly as advertised is now the problem.",
-          "outside": "In Japan, where internet cafes charge by the hour, this feels almost nostalgic. Except those places never called it 'unlimited' first."
+          "contradiction": "The plane was deemed risky enough to evacuate the president from in July. The solution in September is to fly it to Europe.",
+          "absurdity": "Qatar gave the U.S. a plane. The plane had a threat incident. The president is taking it to Ireland. Nobody is explaining the gap between step two and step three.",
+          "outside": "Foreign leaders landing in their capital's airport to greet the American president will now be greeting a man who arrived on Qatar's plane. The optics of that handshake are doing a lot of work."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-04/candidate-5.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-04/candidate-5-punchy.jpg"
+      "image": "images/2026-09-05/candidate-5.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-05/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「約束の賞味期限」。政府の給付も、大学の免税も、投票のルールも、ガソリンの安さも、ゲームの「遊び放題」も——全部、細かい字を読むと別のことが書いてあった。",
-    "titleEn": "Fine Print Nation: Five American Promises That Came With Asterisks",
-    "subtitleEn": "From Social Security to Xbox, the asterisk was always there.",
-    "titleJa": "「約束」の裏に小さい字があった話を5本読んだ",
+    "thread": "今日の5本を貫く糸は「ルールを決める側がルールを守らない」。FRBの独立性、FDA承認、著作権、公衆衛生のデータ、外交贈賄——それぞれ違う棚にある話だけど、全部そこに戻ってくる。",
+    "titleEn": "The Rule-Makers Had a Very Busy Friday Breaking Rules",
+    "subtitleEn": "Five stories, one theme, zero irony detected from inside the building.",
+    "titleJa": "「ルールを守れ」と言う人たちが今週やったこと、全部読んだ",
     "titleAltJa": [
-      "社会保障が「30日で3万5000ドル返して」と言い、投票スキャンが43年かかる国の話",
-      "今日のアメリカニュースが出たとき、この一言を返せばいい：「細かい字、読みましたか?」"
+      "FRBを「脅す」、刑務所で未承認品を売る、著作権侵害ゲームを公開する——これが一週間の出来事です",
+      "『ビルド・ザ・ウォール』テトリスと生後6週間の話を、明日の飲み会で使える形にした"
     ],
-    "leadJa": "「遊び放題」に時間制限。「安いガソリン」に未払い訴訟。「給付金」に30日の返還通告。\n\n今日の5本、全部「そう書いてあったのに」という話です。",
-    "introEn": "Every promise has an asterisk. I just didn't expect to find five of them before breakfast.\n\nToday's five: the government that overpaid a woman for years and now wants $35,000 back in thirty days. Private colleges losing tax breaks — and accidentally taking their richest donors down with them. California's election rule that would finish in 2069. A presidential gas station recommendation that may run on unpaid bills. And Microsoft, which sold \"unlimited\" gaming and is now defining the word \"unlimited.\"\n\nHere's your forecast: if something in your life has a hidden condition attached to it, you're in good company today. Very good company. The systems that were supposed to have it all figured out — the federal government, the post office, a trillion-dollar tech company — it turns out they were also reading the fine print for the first time. So whatever you're navigating right now, you're probably ahead of them.",
-    "introJa": "3万5000ドルを30日で。43年かかるスキャン。未払いで拡大するガソリンスタンド。「遊び放題」に時間制限。\n\n今日はそういう日です。\n\n5本を並べてみたら、全部「最初からそう書いてなかった」話だった。政府の給付も、私立大学の免税も、選挙のルールも、大統領のオススメのお店も、月額サブスクも——約束の下に、もうちょっと小さい字が書いてあった。\n\nあ、今日はDeep Stateとか陰謀論じゃなくて、シンプルに「事務処理と算数」の話です。ある意味もっとしんどい。\n\n今日の占いです。\nあなたの職場や生活で「話が違う」と感じていることがあるとしたら、今日は仲間が多い日です。社会保障局も、財務省も、郵便局も、みんなで同じ顔をしています。あなただけじゃない。少なくとも今日はね",
-    "quipEn": "The asterisk was always there. Today was just the day everyone read it.",
-    "quipJa": "細かい字は最初からあった。今日はみんなが同時に気づいた日、たぶん。",
+    "leadJa": "今日のニュース5本、開く前から少し憂鬱でした。\n\nで、開いたら案の定でした。ただ、今日は「悪い話」というより「説明のつかない話」が多くて、それはそれで別の疲れ方をする。",
+    "introEn": "Five stories landed in my feed this morning and I had to put my phone down for a second.\n\nNot because they were shocking. Because they all had the same shape: someone who writes the rules decided the rules were for other people. The Fed's independent — so threaten it anyway. FDA approval exists — sell without it anyway. Copyright law is real — remix it anyway. A coroner confirmed a cause of death — dispute it anyway. One plane caused a security evacuation in July — fly it internationally in September.\n\nHere's your forecast: if you've ever followed a rule nobody else seemed to care about, today's news is your vindication. The system isn't broken because you failed to game it. It's just apparently optional at a certain altitude.\n\nYou've been playing fair. That turns out to be the interesting choice.",
+    "introJa": "「決める側が守らない」週があります。\n\n今日の5本、並べてみたらそういう週でした。\n\nFRBに「言うことを聞かなければ貿易をやめる」と脅した話。刑務所の中でFDA未承認のニコチンパウチを独占販売した話。ホワイトハウスが著作権侵害かもしれないゲームでPRをした話。7月にイランの脅威で降りた飛行機を、セキュリティ未解決のままアイルランドに飛ばす話。\n\nあと、はしかで生後6週間の赤ちゃんが亡くなった話があります。これだけ笑えない。でも今日どうしても外せなかった。\n\n今日の占いです。\n\n「ちゃんとやってるのに、なんで自分だけ」——そう思うことがあるとしたら。今日のニュースを読むと、少し気が楽になるかもしれない。守らなかった人たちが今週これだけ新聞に載った。\n\nあなたが守ってた分は、ちゃんとある。たぶん。",
+    "quipEn": "This week, the U.S. government threatened its own central bank, sold unapproved products to people who can't say no, plagiarized a Soviet-era puzzle game, disputed a coroner's report, and booked a security-flagged plane for round two. Rules, it turns out, are vibes.",
+    "quipJa": "今週のアメリカ、自国の中央銀行を脅して、刑務所でFDA未承認品を売って、ソ連生まれのパズルゲームをパクって、検死官の報告を否定して、7月に降ろされた飛行機をもう一回飛ばそうとしています。ルールは気分らしい。",
     "notesEn": [
-      "The Social Security Administration overpaid a woman for years, noticed, and sent her a bill for $35,000 due in 30 days. If she can't pay, they cut her benefits by 50%. The way they plan to collect the money is to make sure she has less of it.",
-      "Treasury is moving to strip private colleges of their tax-exempt status — which also kills the charitable deduction for donors. The administration wanted to hit elite universities. The regulation doesn't appear to know the difference between Harvard and a five-person homeschool co-op.",
-      "A California election official calculated that scanning every mail ballot under the new USPS rules would take 43 years. The rules go into effect weeks before the midterms. To be compliant by November, they needed to start in 1983.",
-      "Trump endorsed Freedom Fuel in July for its low gas prices. Freedom Fuel is now expanding to Detroit. Freedom Fuel is also being sued by its fuel supplier over allegedly unpaid bills. The presidential endorsement did not mention the fuel supplier.",
-      "Microsoft announced that Xbox Game Pass — sold as unlimited cloud gaming — will have usage caps starting in November because the cloud costs too much. They've now officially confirmed that the business model was 'please don't actually use this very much.'"
+      "Trump threatened to cut off trade with other countries unless the Federal Reserve cuts interest rates. The Fed is legally independent. Also, after a strong jobs report came in, the Fed started eyeing rate hikes. He asked for down, the data moved up, and the threat just kind of hangs there.",
+      "The Bureau of Prisons signed an exclusive deal to sell FDA-unapproved nicotine pouches inside federal prisons. The startup gets monopoly access. The customers are federally incarcerated and cannot leave. Business school calls this 'product-market fit.' I call it something else.",
+      "The White House released arcade games as a PR move. Some are racist. At least one appears to lift directly from Tetris — specifically a game called 'Build the Wall.' The Tetris Company, whose founder fled the Soviet Union, has responded. The irony is doing a lot of heavy lifting today.",
+      "A Lancaster County coroner confirmed a 6-week-old died from measles. Robert F. Kennedy Jr., who runs the Department of Health and Human Services, had publicly disputed measles death counts before this confirmation. The coroner didn't update his findings to match the secretary's opinion.",
+      "Trump is flying to Ireland on the Boeing jet gifted by Qatar — the same plane he was moved off of in July after officials learned of a possible Iranian threat. Security questions are still unresolved. The departure is next week. Someone is deciding this is fine."
     ],
     "xJa": [
-      "社会保障局が誤って過払いして、気づいたら「30日で3万5000ドル返して、無理なら給付を半額にするから」と通告。払えない人から取る方法が「もっと払えなくする」なの、論理的ではある。",
-      "トランプ政権が私立大学の免税を剥奪する規制案を出したら、共和党の富豪支持者が大学にしてた節税寄付も道連れになりそうな展開。「エリート叩き」のはずが、味方も爆発に巻き込んでいる。",
-      "カリフォルニアの選挙担当者が計算したら、新しい郵便局ルールに従って全有権者の投票をスキャンすると43年かかると判明。2026年の選挙に間に合わせるには1983年にスタートする必要があった。",
-      "トランプが絶賛した低価格ガソリンスタンド「Freedom Fuel」がデトロイトに拡大中。同時に燃料の未払いで訴訟も進行中。安さの理由が「仕入れ代を払っていないから」の可能性、排除できていない。",
-      "マイクロソフトがXbox Game Passのクラウドゲームに時間制限を導入すると発表。「遊び放題」として売ったサービスに上限がついた。「みんながそこまで使わない前提」が崩れた瞬間のサブスクあるある。"
+      "「FRBが利下げしなければ貿易を止める」とトランプ大統領が脅した。脅迫先は外国ではなく、自国の中央銀行です。で、その後に出た雇用統計が好調すぎて、FRBは逆に利上げを検討し始めた。「下げろ」と叫んだら「上がる話が出てきた」週。",
+      "連邦刑務所局が、FDA未承認のニコチンパウチをフロリダのスタートアップに独占販売させる契約を結んでいた。顧客は受刑者なので物理的に断れない。「キャプティブ（囚われた）顧客」という言葉がこれほど字義通りに使われた事例は少ないと思う。",
+      "ホワイトハウスがPR用のアーケードゲームを公開した。一部が人種差別的で、著作権侵害の疑いもある。「ビルド・ザ・ウォール」というテトリス風ゲームに対して、テトリス社がすでに反応した。テトリスの生みの親はソ連出身のパジトノフさんです。",
+      "ペンシルベニア州の検死官が、生後6週間の乳児の死因がはしかだったと確認した。RFKジュニアはこれより前、同地域のはしか関連死を公式に否定していた。検死官は長官の見解に合わせて報告書を変えなかった。",
+      "トランプ大統領が来週のアイルランド訪問に、カタールから贈られた飛行機を使う。7月にイランの脅威情報が発覚して大統領が別機に移送されたやつです。セキュリティ上の問題は未解決のまま。出発は来週。"
     ],
     "raidEn": [
-      "The part that gets me is that her only 'error' was not knowing the government was making an error. That's a high bar for a 30-day repayment window.",
-      "The regulation is supposed to go after schools with discriminatory policies. It also applies to the small church school in rural Ohio. The rule doesn't really read resumes.",
-      "43 years is the estimate. The election is this November. Someone submitted this proposal with a straight face and I respect the commitment.",
-      "Presidential endorsement in July. Fuel supplier lawsuit ongoing. Detroit expansion announced. The timeline on this one is doing a lot of work.",
-      "The 'unlimited' was always load-bearing. They just waited until the infrastructure bill arrived to mention it."
+      "The Fed was designed specifically to not respond to this kind of pressure. Someone knew that when they built it. Apparently that's the detail that keeps getting missed.",
+      "\"Captive customer base\" has never been more literal. Someone in that pitch meeting had to know exactly what they were saying.",
+      "The Tetris Company issuing a statement to the White House is a sentence I didn't have on my 2026 bingo card. The USSR angle makes it poetry.",
+      "Six weeks old. MMR doesn't start until 12 months. There's nothing funny in this one — just the math, sitting there.",
+      "The fact that this is the same plane, and the security questions are still open, and the departure is next week — someone is very calm about this and I'd love to know why."
     ],
     "raidJa": [
-      "「気づかず受け取っていた」のが受給者の側なのに、返すのも受給者、という構造がすごい。行政のミスの後始末コストが全部こちらに来る設計になっているんですよね。",
-      "「差別的な方針を持つ学校を狙う」はずの規制が、基準が曖昧すぎてアイビーリーグにも地方の小さな学校にも同じように刺さる、という指摘が刺さりました。",
-      "43年という数字が公式の場で出てくること自体が、もう選挙制度の設計の話を超えて算数の話になっているという視点、すごく腑に落ちました。",
-      "「なぜ安いのか」の答えが訴訟の中にあるかもしれない、という構図がシンプルすぎて笑ってしまいました。大統領の推薦文の意味が変わってきますよね。",
-      "「使えば使うほど赤字」のサービスを月額定額で売っていたことがこれで公式確認された、という読み方が一番しっくりきました。NetflixのIDシェア規制のときも同じ構造でしたよね。"
+      "「FRBを脅す」という発想がすごくて、FRBはそもそも大統領の指示を聞かないように設計された機関なんですよね。その設計の話を記事で読んで、なんか複雑な気持ちになりました。",
+      "「キャプティブ（囚われた）顧客」という言葉がこんなにそのまま使われたビジネス事例、なかなかないですよね……と思いながら読みました。記事、とても丁寧にまとめられていました。",
+      "テトリス社が声明を出した、という一文だけで今日を生き延びられる気がします。パジトノフさんの話まで拾っていただいていて、ありがとうございます。",
+      "これは笑えない話なのでコメントに迷ったんですが、丁寧に扱ってくださっている記事だったので。生後6週間、という事実がずっと頭に残っています。",
+      "「7月に降ろされた飛行機を9月に再使用」という時系列、よくまとめてくださいました。セキュリティ担当者の気持ちを考えると……いや、考えるのをやめます。"
     ],
     "riffEn": [
-      "The Social Security Administration overpaid this woman — their error, their accounting — and then sent her a letter saying she has 30 days to return $35,000. If she can't manage that, they'll garnish 50% of her monthly benefits. So the punishment for not having $35,000 is receiving even less money per month. At some point you have to admire the geometry of it.",
-      "Treasury wants to strip private schools of their tax-exempt status, which also kills the charitable deduction for anyone donating to those schools. This was aimed at universities with allegedly discriminatory policies. It also applies to every small religious school in the country. The regulation went looking for Harvard and came home with everyone.",
-      "A California election official sat down with a calculator and the new USPS ballot-scanning requirements and arrived at 43 years. That is not a metaphor. That is the math. The rules go into effect weeks before the November midterms. For California to be compliant, the scanning would have needed to begin while 'Thriller' was still climbing the charts. Nobody blinked when they filed this proposal.",
-      "Freedom Fuel got a presidential shoutout in July — best gas prices in the country, go check it out. Now it's expanding to Detroit. Also currently being sued by a fuel supplier for allegedly not paying for the fuel it sells. The low prices are either brilliant logistics or a very interesting legal defense. Possibly both.",
-      "Microsoft announced that Xbox Game Pass, which was sold on the promise of unlimited cloud gaming, will have usage caps starting in November because cloud infrastructure is expensive. This is the official confirmation that the business model required subscribers to not actually subscribe too hard. 'Unlimited' was always a suggestion."
+      "Trump threatened to cut trade with deficit countries unless the Fed cuts interest rates. Here's the thing: the Fed is legally independent. Threatening it is like yelling at a vending machine to give you a discount — it's technically directed at something, but the machine doesn't have feelings or congressional oversight. Then the jobs report dropped, strong, and the Fed started talking about hiking rates. He said down. The economy said up. The threat is still out there, kind of floating.",
+      "The Bureau of Prisons found a startup willing to sell nicotine pouches inside federal prisons exclusively — pouches the FDA hasn't approved. The customers are people who are federally incarcerated. They can't switch brands. They can't walk out. In venture capital this is called 'product-market fit.' In most other contexts it's called something that takes longer to say in polite company.",
+      "The White House launched arcade games for PR. Couple of problems: some are racist, and at least one appears to be a Tetris clone called 'Build the Wall.' The Tetris Company has issued a public response. Worth knowing: Tetris was invented by Alexey Pajitnov, a Soviet computer scientist. The White House used a game from the USSR to promote its border policy, without permission, and someone had to make a phone call about it.",
+      "A Pennsylvania coroner confirmed a 6-week-old infant died from measles. Robert F. Kennedy Jr. — the man currently running the Department of Health and Human Services — had disputed measles death counts in that county before the coroner's finding came out. The coroner did not revise the cause of death. Measles was declared eliminated in the U.S. in 2000. That word is doing a lot of work right now.",
+      "Trump is using the Qatar-gifted Boeing for his Ireland trip next week. This is the same plane he was pulled off of in July when officials learned of a possible Iranian threat. Security vulnerabilities: still unresolved, per reporting. Departure: next week. The logic here seems to be that if nothing bad happened last time — and something did happen last time — it probably won't happen this time."
     ],
     "riffJa": [
-      "払いすぎたのは社会保障局の側なんです。受給者の女性は、届いたお金を普通に受け取っていた。それが数年後に「3万5000ドル、30日で返して」になる。払えなければ給付を半額に削る。取り立ての方法が「お金をさらに減らす」なの、論理として一周してはいるんですが、ちょっと待ってほしい。\n\n誰の財布を間違えたんでしたっけ、という話です。",
-      "私立大学の免税を剥奪する、という規制案です。目標は「差別的な方針を持つ学校」。ただし基準が曖昧なので、アイビーリーグにも、地方の小さなキリスト教スクールにも、同じルールが刺さる。\n\nあと、大学に寄付してた共和党系の富豪支持者の節税も、道連れになる可能性があります。「エリート叩き」のつもりが、味方ごと爆発している構図です。",
-      "43年。\n\nカリフォルニアの選挙担当者が出した数字です。新しい郵便局のルールに従って、州内の全有権者の郵便投票を個別にスキャンすると、43年かかる。今年の選挙に間に合わせるには、1983年にスタートしていないといけなかった。レーガン大統領の時代に走り出すべき手続きだった。\n\nこれが「選挙の安全を守るルール」として、中間選挙の数週間前に出てきています。計算、合ってますよね。",
-      "トランプが7月に名指しで絶賛した「Freedom Fuel」というガソリンスタンドがあります。安い、みんなここで入れろ、と。そのFreedom Fuelが今デトロイトに拡大中で、同時に燃料の仕入れ先から未払いで訴えられています。\n\n「なぜ安いのか」の答えが、訴訟の中にある可能性がある。大統領の推薦文は、その辺には触れていませんでした。",
-      "「ゲームし放題」が売り文句のXbox Game Passに、11月から時間制限がつきます。理由はクラウドのコストが上がっているから。\n\nつまりマイクロソフトは「みんながそこまで使わない前提」で「遊び放題」を売っていた、ということが、これで公式に確認されました。本当に使う人が増えたら制限が来る。NetflixのIDシェアのときも同じでしたよね。\n\n「放題」の細かい字、みんないつ読むんだろう。"
+      "トランプ大統領が「FRBが利下げをしなければ赤字国との貿易を止める」と投稿した。ここで一点確認なんですが、FRBは法律上の独立機関です。大統領の指示に従わないように設計されている機関に向かって「言うことを聞け」と脅す。脅迫先を間違えている、というより、脅迫の概念を拡張している。で、その後に出た雇用統計が好調すぎて、FRBは逆に利上げを考え始めた。「下げろ」と言ったら「上げる話が出てきた」。\n\nこれを脅しと呼んでいいのか、ただのすれ違いなのか。",
+      "連邦刑務所局が、フロリダのスタートアップにFDA未承認のニコチンパウチを刑務所内で独占販売させる契約を結んでいた。顧客は受刑者なので、外に出て別の店で買うことができない。スタートアップ用語で「プロダクト・マーケット・フィット」という言葉があって、要は「その商品をどうしても必要とする人たちに売れている状態」のことなんですが。これがその言葉をいちばん文字通りに実現した事例かもしれない。\n\nあと、FDA未承認です。念のため。",
+      "ホワイトハウスが政策PRのためのアーケードゲームを公開した。一部が人種差別的で、著作権侵害の疑いもある。「ビルド・ザ・ウォール」というゲームはどう見てもテトリスで、テトリス社がすでに声明を出した。ここで補足ですが、テトリスの生みの親はソ連のコンピューター科学者アレクセイ・パジトノフさんです。アメリカの国境政策をPRするために、ソ連生まれのゲームを無断で使った。テトリス社から電話がかかってきた。\n\n止める人、いなかったのかな。",
+      "ペンシルベニア州ランカスター郡の検死官が、生後6週間の乳児の死因がはしかだったと確認した。アメリカで保健福祉省のトップを務めるRFKジュニアは、この発表より前に、同郡でのはしか関連死を公式に否定していた。検死官は見解を変えなかった。\n\nはしかは2000年にアメリカで「排除された」とされていた感染症です。生後6週間の赤ちゃんはMMRワクチンを接種できる月齢に達していない。ここで笑うところはないし、笑うつもりもない。ただ、事実として書いておきたかった。",
+      "トランプ大統領が来週のアイルランド訪問に、カタールから贈られたボーイングを使う予定だ。この飛行機、7月にイランの脅威情報が発覚して、大統領が急きょ別機に移された、あの飛行機です。セキュリティ上の問題は今も未解決、と報道されている。出発は来週。\n\n「前回は問題があったけど今回は大丈夫」という判断の根拠が何なのか、記事を読んでも分からなかった。もしかしたら根拠はないのかもしれない。"
     ],
     "asideEn": [
-      "Their mistake. Your thirty days.",
-      "They aimed at Harvard. They hit everyone.",
-      "Forty-three years. Someone filed this seriously.",
-      "Presidential endorsement. Unpaid supplier. Classic.",
-      "'Unlimited' has been nerfed."
+      "The machine didn't blink.",
+      "They found the one loophole nobody wanted to find.",
+      "The Tetris Company had to do this.",
+      "The coroner held the line.",
+      "Second flight. Same plane. Sure."
     ],
     "asideJa": [
-      "政府のミスで、あなたが30日以内に返す。",
-      "ハーバードを狙ったら全員に当たった。",
-      "43年。誰か止めなかったの？",
-      "推薦文と訴訟が同時進行。",
-      "「放題」に上限がついた日。"
+      "FRBは動じませんでした。",
+      "顧客は逃げられない。",
+      "テトリス社に電話させた。",
+      "検死官は変えなかった。",
+      "同じ飛行機、また乗る。"
     ],
-    "fullEn": "# Fine Print Nation: Five American Promises That Came With Asterisks\n\n## Today's Forecast\n\nEvery promise has an asterisk. I just didn't expect to find five of them before breakfast.\n\nToday's five: the government that overpaid a woman for years and now wants $35,000 back in thirty days. Private colleges losing tax breaks — and accidentally taking their richest donors down with them. California's election rule that would finish in 2069. A presidential gas station recommendation that may run on unpaid bills. And Microsoft, which sold \"unlimited\" gaming and is now defining the word \"unlimited.\"\n\nHere's your forecast: if something in your life has a hidden condition attached to it, you're in good company today. Very good company. The systems that were supposed to have it all figured out — the federal government, the post office, a trillion-dollar tech company — it turns out they were also reading the fine print for the first time. So whatever you're navigating right now, you're probably ahead of them.\n\n---\n\n## 1. Social Security Overpaid Her — Now It Wants $35,000 Back in 30 Days\n\n*CBS News US — [source](https://www.cbsnews.com/news/social-security-overpayment-clawback-repayment-appeal/)*\n\nThe Social Security Administration notified a woman that it had overpaid her benefits and is now demanding repayment of $35,000 within 30 days. If she fails to pay, SSA says it will garnish 50% of her monthly benefits until the debt is recovered. The woman says she had no indication the payments were in error at the time she received them.\n\n**Why It's Funny**\n\nThe Social Security Administration overpaid this woman — their error, their accounting — and then sent her a letter saying she has 30 days to return $35,000. If she can't manage that, they'll garnish 50% of her monthly benefits. So the punishment for not having $35,000 is receiving even less money per month. At some point you have to admire the geometry of it.\n\n**Say It Out Loud**\n\n> The agency overpaid her for years without noticing. She has 30 days to notice back — with $35,000.\n\n---\n\n## 2. Trump Admin Moves to Strip Private Colleges of Tax-Exempt Status, Threatening Donor Breaks\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html)*\n\nThe Treasury Department has proposed regulations that would strip thousands of private schools of their tax-exempt status under the Internal Revenue Code. The move would also eliminate a valuable tax deduction for donations made to those institutions. The proposal targets schools that allegedly maintain discriminatory policies, but critics say the criteria are vague and politically motivated.\n\n**Why It's Funny**\n\nTreasury wants to strip private schools of their tax-exempt status, which also kills the charitable deduction for anyone donating to those schools. This was aimed at universities with allegedly discriminatory policies. It also applies to every small religious school in the country. The regulation went looking for Harvard and came home with everyone.\n\n**Say It Out Loud**\n\n> Nothing says 'drain the swamp' like threatening the tax break your biggest donors use to write off their stadium donations.\n\n---\n\n## 3. California Official: Scanning Every Mail Ballot Under New USPS Rules Would Take 43 Years\n\n*CBS News US — [source](https://www.cbsnews.com/news/mail-voting-rules-usps-election-officials-midterms/)*\n\nA California election official warned that complying with new U.S. Postal Service requirements for mail ballots would be physically impossible given current timelines. Based on USPS's own estimates, scanning individual ballots for every voter in California would take approximately 43 years. Election officials across the country have raised alarms that the rules, proposed weeks before the November midterms, cannot be operationally implemented in time.\n\n**Why It's Funny**\n\nA California election official sat down with a calculator and the new USPS ballot-scanning requirements and arrived at 43 years. That is not a metaphor. That is the math. The rules go into effect weeks before the November midterms. For California to be compliant, the scanning would have needed to begin while 'Thriller' was still climbing the charts. Nobody blinked when they filed this proposal.\n\n**Say It Out Loud**\n\n> Great news: California can have fully compliant mail voting by 2069. Boomers might make it.\n\n---\n\n## 4. Trump-Promoted 'Freedom Fuel' Expands to Detroit — Amid Lawsuit Over Unpaid Bills\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html)*\n\nFreedom Fuel, a gas station chain that received a presidential endorsement from Donald Trump in July after he praised its low prices and urged other retailers to follow suit, is now expanding to Detroit. However, the company is simultaneously facing a lawsuit from a fuel supplier over allegedly unpaid fuel costs. The expansion comes despite the ongoing legal dispute over whether Freedom Fuel has been paying for the gas it sells.\n\n**Why It's Funny**\n\nFreedom Fuel got a presidential shoutout in July — best gas prices in the country, go check it out. Now it's expanding to Detroit. Also currently being sued by a fuel supplier for allegedly not paying for the fuel it sells. The low prices are either brilliant logistics or a very interesting legal defense. Possibly both.\n\n**Say It Out Loud**\n\n> The secret to low gas prices: allegedly, just don't pay for the gas. Disruptive.\n\n---\n\n## 5. Microsoft to Cap Xbox Cloud Gaming Hours as Costs Climb\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html)*\n\nMicrosoft will impose time limits on cloud gaming for Xbox Game Pass subscribers starting in November, the company announced. The decision comes as the cost of running cloud gaming infrastructure continues to rise. Subscribers who pay for the service will face usage caps, a significant change from the previously unlimited access model that helped sell the subscription in the first place.\n\n**Why It's Funny**\n\nMicrosoft announced that Xbox Game Pass, which was sold on the promise of unlimited cloud gaming, will have usage caps starting in November because cloud infrastructure is expensive. This is the official confirmation that the business model required subscribers to not actually subscribe too hard. 'Unlimited' was always a suggestion.\n\n**Say It Out Loud**\n\n> Xbox Game Pass: unlimited gaming, subject to limits. The asterisk was always there — they just made it visible.\n\n---\n\n## Today's Punchline\n\n> The asterisk was always there. Today was just the day everyone read it.\n",
-    "fullJa": "# 「約束」の裏に小さい字があった話を5本読んだ\n\n## 今日を占うよ〜\n\n3万5000ドルを30日で。43年かかるスキャン。未払いで拡大するガソリンスタンド。「遊び放題」に時間制限。\n\n今日はそういう日です。\n\n5本を並べてみたら、全部「最初からそう書いてなかった」話だった。政府の給付も、私立大学の免税も、選挙のルールも、大統領のオススメのお店も、月額サブスクも——約束の下に、もうちょっと小さい字が書いてあった。\n\nあ、今日はDeep Stateとか陰謀論じゃなくて、シンプルに「事務処理と算数」の話です。ある意味もっとしんどい。\n\n今日の占いです。\nあなたの職場や生活で「話が違う」と感じていることがあるとしたら、今日は仲間が多い日です。社会保障局も、財務省も、郵便局も、みんなで同じ顔をしています。あなただけじゃない。少なくとも今日はね\n\n---\n\n## 1. Social Security Overpaid Her — Now It Wants $35,000 Back in 30 Days\n\n*CBS News US（[記事](https://www.cbsnews.com/news/social-security-overpayment-clawback-repayment-appeal/)）*\n\n社会保障局（SSA）が誤って過払いした女性に対し、30日以内に3万5000ドルを返還しなければ給付金を50%削減すると通告した。\n\n**どこが笑える？**\n\n払いすぎたのは社会保障局の側なんです。受給者の女性は、届いたお金を普通に受け取っていた。それが数年後に「3万5000ドル、30日で返して」になる。払えなければ給付を半額に削る。取り立ての方法が「お金をさらに減らす」なの、論理として一周してはいるんですが、ちょっと待ってほしい。\n\n誰の財布を間違えたんでしたっけ、という話です。\n\n**このニュースをジョークにするなら...**\n\n> 政府が何年も気づかずに払いすぎてた。気づくのは彼女の番で、期限は30日、金額は3万5000ドル。\n\n---\n\n## 2. Trump Admin Moves to Strip Private Colleges of Tax-Exempt Status, Threatening Donor Breaks\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/03/treasury-irs-proposal-tax-exempt-schools-charitable-donations.html)）*\n\nトランプ政権の財務省が、数千の私立学校から免税資格を剥奪し、寄付金への税控除も廃止する規制案を提示した。\n\n**どこが笑える？**\n\n私立大学の免税を剥奪する、という規制案です。目標は「差別的な方針を持つ学校」。ただし基準が曖昧なので、アイビーリーグにも、地方の小さなキリスト教スクールにも、同じルールが刺さる。\n\nあと、大学に寄付してた共和党系の富豪支持者の節税も、道連れになる可能性があります。「エリート叩き」のつもりが、味方ごと爆発している構図です。\n\n**このニュースをジョークにするなら...**\n\n> 「エリートを叩く」と言いながら、一番困るのは自分たちの最大スポンサーなんですよね。スタジアムに名前を刻んだ人たち、今ごろ焦ってる。\n\n---\n\n## 3. California Official: Scanning Every Mail Ballot Under New USPS Rules Would Take 43 Years\n\n*CBS News US（[記事](https://www.cbsnews.com/news/mail-voting-rules-usps-election-officials-midterms/)）*\n\nカリフォルニア州の選挙担当者が、郵便局の新ルールに従って州内の全有権者の郵便投票を個別にスキャンすると、約43年かかると警告した。\n\n**どこが笑える？**\n\n43年。\n\nカリフォルニアの選挙担当者が出した数字です。新しい郵便局のルールに従って、州内の全有権者の郵便投票を個別にスキャンすると、43年かかる。今年の選挙に間に合わせるには、1983年にスタートしていないといけなかった。レーガン大統領の時代に走り出すべき手続きだった。\n\nこれが「選挙の安全を守るルール」として、中間選挙の数週間前に出てきています。計算、合ってますよね。\n\n**このニュースをジョークにするなら...**\n\n> 朗報：カリフォルニアは2069年までに完全準拠の郵便投票が実現できます。団塊の世代は生きてるかも。\n\n---\n\n## 4. Trump-Promoted 'Freedom Fuel' Expands to Detroit — Amid Lawsuit Over Unpaid Bills\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/03/freedom-fuel-trump-lawsuit-detroit.html)）*\n\nトランプ前大統領が低価格ガソリンスタンドとして称賛した「Freedom Fuel」がデトロイトに拡大する一方、燃料の未払いをめぐる訴訟が進行中であることが明らかになった。\n\n**どこが笑える？**\n\nトランプが7月に名指しで絶賛した「Freedom Fuel」というガソリンスタンドがあります。安い、みんなここで入れろ、と。そのFreedom Fuelが今デトロイトに拡大中で、同時に燃料の仕入れ先から未払いで訴えられています。\n\n「なぜ安いのか」の答えが、訴訟の中にある可能性がある。大統領の推薦文は、その辺には触れていませんでした。\n\n**このニュースをジョークにするなら...**\n\n> 安いガソリンの秘密：どうやら「ガソリン代を払わない」が有力仮説。革新的ビジネスモデル。\n\n---\n\n## 5. Microsoft to Cap Xbox Cloud Gaming Hours as Costs Climb\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/03/microsoft-xbox-game-pass-cloud-limits.html)）*\n\nマイクロソフトがXbox Game Passの加入者に対し、11月からクラウドゲームの利用時間に上限を設ける方針を発表した。\n\n**どこが笑える？**\n\n「ゲームし放題」が売り文句のXbox Game Passに、11月から時間制限がつきます。理由はクラウドのコストが上がっているから。\n\nつまりマイクロソフトは「みんながそこまで使わない前提」で「遊び放題」を売っていた、ということが、これで公式に確認されました。本当に使う人が増えたら制限が来る。NetflixのIDシェアのときも同じでしたよね。\n\n「放題」の細かい字、みんないつ読むんだろう。\n\n**このニュースをジョークにするなら...**\n\n> Xbox Game Pass：無制限ゲーミング、ただし制限あり。アスタリスクはずっとそこにあった——見えるようになっただけ。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 細かい字は最初からあった。今日はみんなが同時に気づいた日、たぶん。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3のcaption3（スリラー参照）は日本語版が説明過多で落ちが弱い。d5のcaptionsJa②の「300兆円超」は元データに数字がなく新事実の付加に当たるため削除。introJaの末尾が「ね」で書き言葉的に締まりすぎ、最後の一文に句点が抜けている軽微な問題もあるが文体は合格圏。xJa①が134字で合格、他も問題なし。imagePromptsはすべて後ろ姿・記号・シルエット中心で合格。全体的に水準は高く、直しは最小限。 ／ 文体パス: 2箇所修正。riffJa[2]の締め「算数の問題です。」がプレゼン口調で綺麗に着地しすぎ、riffJa[4]の「『放題』の細かい字を読む癖、そろそろつけたほうがいい。」が読者への指示形。それぞれ崩した。"
+    "fullEn": "# The Rule-Makers Had a Very Busy Friday Breaking Rules\n\n## Today's Forecast\n\nFive stories landed in my feed this morning and I had to put my phone down for a second.\n\nNot because they were shocking. Because they all had the same shape: someone who writes the rules decided the rules were for other people. The Fed's independent — so threaten it anyway. FDA approval exists — sell without it anyway. Copyright law is real — remix it anyway. A coroner confirmed a cause of death — dispute it anyway. One plane caused a security evacuation in July — fly it internationally in September.\n\nHere's your forecast: if you've ever followed a rule nobody else seemed to care about, today's news is your vindication. The system isn't broken because you failed to game it. It's just apparently optional at a certain altitude.\n\nYou've been playing fair. That turns out to be the interesting choice.\n\n---\n\n## 1. Trump Threatens to Cut Off Trade Unless the Fed Cuts Rates — the Fed Has Not Cut Rates\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html)*\n\nPresident Trump doubled down on threats to halt trade with countries where the U.S. runs deficits unless the Federal Reserve lowers interest rates. The Fed, which operates independently of the White House, has not indicated any plans to cut rates. Trump made the demands via social media posts on Friday. Treasury yields rose following a strong jobs report, suggesting the Fed may actually hike rates.\n\n**Why It's Funny**\n\nTrump threatened to cut trade with deficit countries unless the Fed cuts interest rates. Here's the thing: the Fed is legally independent. Threatening it is like yelling at a vending machine to give you a discount — it's technically directed at something, but the machine doesn't have feelings or congressional oversight. Then the jobs report dropped, strong, and the Fed started talking about hiking rates. He said down. The economy said up. The threat is still out there, kind of floating.\n\n**Say It Out Loud**\n\n> He threatened foreign countries to pressure a domestic agency that is literally designed to be unpressurable. Bold strategy.\n\n---\n\n## 2. Federal Bureau of Prisons Signs Exclusive Deal to Sell Prisoners Unapproved Nicotine Pouches\n\n*CBS News US — [source](https://www.cbsnews.com/news/bureau-prisons-nicotine-pouches-prisoners/)*\n\nThe Bureau of Prisons entered an exclusive arrangement in July with a Florida-based startup to sell nicotine pouches to federal prisoners. The pouches have not been authorized by the FDA. The deal gives a single company monopoly access to a captive customer base of federal inmates. The arrangement is now facing congressional scrutiny.\n\n**Why It's Funny**\n\nThe Bureau of Prisons found a startup willing to sell nicotine pouches inside federal prisons exclusively — pouches the FDA hasn't approved. The customers are people who are federally incarcerated. They can't switch brands. They can't walk out. In venture capital this is called 'product-market fit.' In most other contexts it's called something that takes longer to say in polite company.\n\n**Say It Out Loud**\n\n> The feds found a customer base that literally can't walk out. Startup guys call this 'product-market fit.'\n\n---\n\n## 3. The White House Released Arcade Games. Some Are Racist and Possibly Copyright Infringement.\n\n*The Verge — [source](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)*\n\nThe White House released a series of policy-themed arcade games for public relations purposes. Several of the games have been criticized as racist, and some appear to be based on existing commercial games whose copyright holders have not given permission. The Tetris Company has already responded publicly to a game called 'Build the Wall,' which appears to mimic its product.\n\n**Why It's Funny**\n\nThe White House launched arcade games for PR. Couple of problems: some are racist, and at least one appears to be a Tetris clone called 'Build the Wall.' The Tetris Company has issued a public response. Worth knowing: Tetris was invented by Alexey Pajitnov, a Soviet computer scientist. The White House used a game from the USSR to promote its border policy, without permission, and someone had to make a phone call about it.\n\n**Say It Out Loud**\n\n> The White House made arcade games. The Tetris Company made a phone call.\n\n---\n\n## 4. Coroner Confirms Measles Killed a 6-Week-Old. RFK Jr. Had Disputed the Deaths.\n\n*Ars Technica — [source](https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/)*\n\nThe Lancaster County coroner in Pennsylvania confirmed that a 6-week-old infant died from measles. The death comes amid a growing outbreak in the county, which has already seen two measles-related deaths. Robert F. Kennedy Jr., who leads the Department of Health and Human Services, had publicly disputed measles-related death counts before the coroner's determination was announced.\n\n**Why It's Funny**\n\nA Pennsylvania coroner confirmed a 6-week-old infant died from measles. Robert F. Kennedy Jr. — the man currently running the Department of Health and Human Services — had disputed measles death counts in that county before the coroner's finding came out. The coroner did not revise the cause of death. Measles was declared eliminated in the U.S. in 2000. That word is doing a lot of work right now.\n\n**Say It Out Loud**\n\n> The coroner confirmed the cause of death. The HHS secretary had already decided not to believe that kind of information.\n\n---\n\n## 5. Trump Will Fly to Ireland on Qatar's Gifted Jet — Security Questions Unresolved\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/04/trump-qatar-jet-ireland)*\n\nPresident Trump plans to use a Boeing jet gifted by Qatar for his upcoming trip to Ireland, the first time the aircraft will be flown overseas since a July incident in which Trump was moved to a separate plane after officials learned of a possible Iranian threat to the Qatari jet. Security questions about the aircraft's defenses remain unanswered. The trip marks the plane's first international use since that incident.\n\n**Why It's Funny**\n\nTrump is using the Qatar-gifted Boeing for his Ireland trip next week. This is the same plane he was pulled off of in July when officials learned of a possible Iranian threat. Security vulnerabilities: still unresolved, per reporting. Departure: next week. The logic here seems to be that if nothing bad happened last time — and something did happen last time — it probably won't happen this time.\n\n**Say It Out Loud**\n\n> They pulled him off this plane in July over a threat. September fix: fly it to Europe.\n\n---\n\n## Today's Punchline\n\n> This week, the U.S. government threatened its own central bank, sold unapproved products to people who can't say no, plagiarized a Soviet-era puzzle game, disputed a coroner's report, and booked a security-flagged plane for round two. Rules, it turns out, are vibes.\n",
+    "fullJa": "# 「ルールを守れ」と言う人たちが今週やったこと、全部読んだ\n\n## 今日を占うよ〜\n\n「決める側が守らない」週があります。\n\n今日の5本、並べてみたらそういう週でした。\n\nFRBに「言うことを聞かなければ貿易をやめる」と脅した話。刑務所の中でFDA未承認のニコチンパウチを独占販売した話。ホワイトハウスが著作権侵害かもしれないゲームでPRをした話。7月にイランの脅威で降りた飛行機を、セキュリティ未解決のままアイルランドに飛ばす話。\n\nあと、はしかで生後6週間の赤ちゃんが亡くなった話があります。これだけ笑えない。でも今日どうしても外せなかった。\n\n今日の占いです。\n\n「ちゃんとやってるのに、なんで自分だけ」——そう思うことがあるとしたら。今日のニュースを読むと、少し気が楽になるかもしれない。守らなかった人たちが今週これだけ新聞に載った。\n\nあなたが守ってた分は、ちゃんとある。たぶん。\n\n---\n\n## 1. Trump Threatens to Cut Off Trade Unless the Fed Cuts Rates — the Fed Has Not Cut Rates\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/04/trump-fed-rates-jobs-trade.html)）*\n\nトランプ大統領は、連邦準備制度が利下げを行わなければ貿易赤字を抱える国々との取引を停止すると脅迫した。FRBは金利を据え置いたままだ。\n\n**どこが笑える？**\n\nトランプ大統領が「FRBが利下げをしなければ赤字国との貿易を止める」と投稿した。ここで一点確認なんですが、FRBは法律上の独立機関です。大統領の指示に従わないように設計されている機関に向かって「言うことを聞け」と脅す。脅迫先を間違えている、というより、脅迫の概念を拡張している。で、その後に出た雇用統計が好調すぎて、FRBは逆に利上げを考え始めた。「下げろ」と言ったら「上げる話が出てきた」。\n\nこれを脅しと呼んでいいのか、ただのすれ違いなのか。\n\n**このニュースをジョークにするなら...**\n\n> 自国の独立機関を動かすために外国を脅す。すごい迂回路ですね。\n\n---\n\n## 2. Federal Bureau of Prisons Signs Exclusive Deal to Sell Prisoners Unapproved Nicotine Pouches\n\n*CBS News US（[記事](https://www.cbsnews.com/news/bureau-prisons-nicotine-pouches-prisoners/)）*\n\n連邦刑務所局（BOP）が、FDA未承認のニコチンパウチを受刑者に独占販売するフロリダのスタートアップと排他的契約を締結していたことが明らかになった。\n\n**どこが笑える？**\n\n連邦刑務所局が、フロリダのスタートアップにFDA未承認のニコチンパウチを刑務所内で独占販売させる契約を結んでいた。顧客は受刑者なので、外に出て別の店で買うことができない。スタートアップ用語で「プロダクト・マーケット・フィット」という言葉があって、要は「その商品をどうしても必要とする人たちに売れている状態」のことなんですが。これがその言葉をいちばん文字通りに実現した事例かもしれない。\n\nあと、FDA未承認です。念のため。\n\n**このニュースをジョークにするなら...**\n\n> 逃げられない顧客層。スタートアップ界隈ではこれを「完璧なPMF」と呼ぶ。\n\n---\n\n## 3. The White House Released Arcade Games. Some Are Racist and Possibly Copyright Infringement.\n\n*The Verge（[記事](https://www.theverge.com/policy/990520/trump-arcade-games-maga-copyright)）*\n\nホワイトハウスが政策PRのためのアーケードゲームシリーズを公開したが、一部は人種差別的な内容を含み、実在するゲームの著作権を侵害している可能性があると指摘されている。\n\n**どこが笑える？**\n\nホワイトハウスが政策PRのためのアーケードゲームを公開した。一部が人種差別的で、著作権侵害の疑いもある。「ビルド・ザ・ウォール」というゲームはどう見てもテトリスで、テトリス社がすでに声明を出した。ここで補足ですが、テトリスの生みの親はソ連のコンピューター科学者アレクセイ・パジトノフさんです。アメリカの国境政策をPRするために、ソ連生まれのゲームを無断で使った。テトリス社から電話がかかってきた。\n\n止める人、いなかったのかな。\n\n**このニュースをジョークにするなら...**\n\n> ホワイトハウスがアーケードゲームを作った。テトリス社が電話した。\n\n---\n\n## 4. Coroner Confirms Measles Killed a 6-Week-Old. RFK Jr. Had Disputed the Deaths.\n\n*Ars Technica（[記事](https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/)）*\n\nペンシルベニア州ランカスター郡の検死官が、生後6週間の乳児の死因がはしかであると確認した。RFKジュニアはこれより前、同郡でのはしか関連死を公式に否定していた。\n\n**どこが笑える？**\n\nペンシルベニア州ランカスター郡の検死官が、生後6週間の乳児の死因がはしかだったと確認した。アメリカで保健福祉省のトップを務めるRFKジュニアは、この発表より前に、同郡でのはしか関連死を公式に否定していた。検死官は見解を変えなかった。\n\nはしかは2000年にアメリカで「排除された」とされていた感染症です。生後6週間の赤ちゃんはMMRワクチンを接種できる月齢に達していない。ここで笑うところはないし、笑うつもりもない。ただ、事実として書いておきたかった。\n\n**このニュースをジョークにするなら...**\n\n> 検死官が死因を確認した。保健長官はその種の情報を信じないと決めていた。\n\n---\n\n## 5. Trump Will Fly to Ireland on Qatar's Gifted Jet — Security Questions Unresolved\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/04/trump-qatar-jet-ireland)）*\n\nトランプ大統領が来週のアイルランド訪問に、カタールから贈与された航空機を使用する予定であることが明らかになった。7月の使用時にはイランの脅威情報が発覚し、大統領が別機に移送されるという事態が起きていた。\n\n**どこが笑える？**\n\nトランプ大統領が来週のアイルランド訪問に、カタールから贈られたボーイングを使う予定だ。この飛行機、7月にイランの脅威情報が発覚して、大統領が急きょ別機に移された、あの飛行機です。セキュリティ上の問題は今も未解決、と報道されている。出発は来週。\n\n「前回は問題があったけど今回は大丈夫」という判断の根拠が何なのか、記事を読んでも分からなかった。もしかしたら根拠はないのかもしれない。\n\n**このニュースをジョークにするなら...**\n\n> 7月にこの飛行機から降ろされた。9月の解決策：ヨーロッパへ飛ぶ。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今週のアメリカ、自国の中央銀行を脅して、刑務所でFDA未承認品を売って、ソ連生まれのパズルゲームをパクって、検死官の報告を否定して、7月に降ろされた飛行機をもう一回飛ばそうとしています。ルールは気分らしい。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d4のcaption 2本（英語・日本語）とd5のcaption 1本にパンチラインの弱さ・蛇足を確認。introJaの導入部が「書き言葉」寄りで占いパートの接続が弱い。xJa3本目がやや説明過多で135字超え確認（テトリス社反応の一文が重複）。他は合格。 ／ 文体パス: 全体的に人間らしい声が出ていて合格箇所が多い。2箇所修正：introJaの締め「ルールを守らなかった側が〜ちゃんとそこにある」が説明口調でまとめすぎ、riffJa[2]の「誰か一人でも〜消えない」が感情を整理しすぎた締め。"
   },
   "carousel": [
-    "images/2026-09-04/carousel/slide-1.jpg",
-    "images/2026-09-04/carousel/slide-2.jpg",
-    "images/2026-09-04/carousel/slide-3.jpg",
-    "images/2026-09-04/carousel/slide-4.jpg",
-    "images/2026-09-04/carousel/slide-5.jpg",
-    "images/2026-09-04/carousel/slide-6.jpg",
-    "images/2026-09-04/carousel/slide-7.jpg"
+    "images/2026-09-05/carousel/slide-1.jpg",
+    "images/2026-09-05/carousel/slide-2.jpg",
+    "images/2026-09-05/carousel/slide-3.jpg",
+    "images/2026-09-05/carousel/slide-4.jpg",
+    "images/2026-09-05/carousel/slide-5.jpg",
+    "images/2026-09-05/carousel/slide-6.jpg",
+    "images/2026-09-05/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-04/note-header.jpg",
-    "substack": "images/2026-09-04/substack-cover.jpg"
+    "note": "images/2026-09-05/note-header.jpg",
+    "substack": "images/2026-09-05/substack-cover.jpg"
   },
-  "video": "videos/2026-09-04/daily-short.mp4",
-  "videoDuration": 77.4,
-  "videoJa": "videos/2026-09-04/daily-short-ja.mp4",
-  "videoJaDuration": 93.5
+  "video": "videos/2026-09-05/daily-short.mp4",
+  "videoDuration": 80.7,
+  "videoJa": "videos/2026-09-05/daily-short-ja.mp4",
+  "videoJaDuration": 92.8
 }
