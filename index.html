@@ -823,7 +823,8 @@ function normalizeEditorial(raw){
       raidEn:  (Array.isArray(raw.raidEn) ? raw.raidEn : []).map(String).filter(Boolean),
       raidJa:  (Array.isArray(raw.raidJa) ? raw.raidJa : []).map(String).filter(Boolean),
       riffEn:  (Array.isArray(raw.riffEn) ? raw.riffEn : []).map(String).filter(Boolean),
-      riffJa:  (Array.isArray(raw.riffJa) ? raw.riffJa : []).map(String).filter(Boolean)
+      riffJa:  (Array.isArray(raw.riffJa) ? raw.riffJa : []).map(String).filter(Boolean),
+      tagsEn:  (Array.isArray(raw.tagsEn) ? raw.tagsEn : []).map(String).filter(Boolean)
     };
     if (!norm.fullEn && !norm.fullJa && !norm.notesEn.length && !norm.xJa.length) return null;
     return norm;
@@ -1120,6 +1121,11 @@ function copyPack(kind, ev){
       + "\n\n" + joke
       + "\n\nThat's 1 of 5 from today's issue. The other 4 — and how to actually use them — are in the full post below. ⬇️";
     copyEdText(text, btn);
+  } else if (kind === "sub-tags"){
+    const tags = (EDITORIAL.tagsEn && EDITORIAL.tagsEn.length)
+      ? EDITORIAL.tagsEn
+      : ["Satire", "Humor", "US Politics", "News Commentary", "Current Events"];
+    copyEdText(tags.join(", "), btn);
   } else if (kind === "sub-title"){
     copyEdText(EDITORIAL.titleEn, btn);
   } else if (kind === "sub-subtitle"){
@@ -1270,6 +1276,7 @@ function renderEditorial(){
         <button class="btn" onclick="copyPack('sub-title', event)">📋 Title</button>
         <button class="btn" onclick="copyPack('sub-subtitle', event)">📋 Sub</button>
         <button class="btn primary" onclick="copyPack('sub-body', event)">📋 本文</button>
+        <button class="btn" onclick="copyPack('sub-tags', event)" title="投稿設定のTagsに1つずつ入力（カンマ区切りでコピーされます）">📋 タグ</button>
       </div>
 
       <div class="ed-item" style="align-items:center">
