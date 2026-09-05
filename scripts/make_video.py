@@ -491,7 +491,13 @@ def build_segments(d: dict, tmp: Path) -> list[dict]:
     except Exception:
         day_off = 0
     cues = JOKE_CUES_JA if ja else JOKE_CUES_EN
-    for i, c in enumerate(cands[:STORIES]):
+    # センシティブ記事(悲劇絡み)は動画に入れない。
+    # 陽気な効果音・スタンプ演出・早口ナレーションと悲劇は絶対に混ぜない。
+    pool = [(i, c) for i, c in enumerate(cands[:5])
+            if not c.get("sensitive")][:STORIES]
+    if not pool:
+        raise SystemExit("[skip] no non-sensitive stories — no video today")
+    for i, c in pool:
         n = c.get("news") or {}
         idx = i + 1
         if idx >= len(slides):
@@ -539,13 +545,14 @@ def build_segments(d: dict, tmp: Path) -> list[dict]:
                  "rate": RATE, "sfx": "tada"})
 
     # 4) キャラクターのお誘い(残りの本数を記事へ)。5本全部見せた日は従来の一言だけ
-    remaining = max(0, len(cands[:5]) - STORIES)
+    shown = len(pool)
+    remaining = max(0, len(cands[:5]) - shown)
     if remaining > 0:
         if ja:
-            cta = (f"今日は{STORIES}本だけ。残りの{remaining}本は、noteで待ってるよ。"
+            cta = (f"今日は{shown}本だけ。残りの{remaining}本は、noteで待ってるよ。"
                    "ジョークが言えるくらい実用的にニュースを読みたいなら、おいで！また明日！")
         else:
-            cta = (f"That was {STORIES} of today's 5 stories. "
+            cta = (f"That was {shown} of today's 5 stories. "
                    f"The other {remaining} are waiting on Substack — free. "
                    "If you want news you can actually joke about... come join me! "
                    "See you tomorrow!")
