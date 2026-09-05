@@ -538,6 +538,12 @@ E. 禁止と検品
 - 優先順位: 観察 > 言葉遊び > 引用・パロディ > ランダムな例え。
 - パンチライン・テスト: そのcaptionは、記事を見ていない部屋でその一言だけで笑いが取れるか。取れなければそれは「観察」であってまだジョークではない——1回書き直す。書き直した結果が事実として公正でなければ捨てて別の角度へ。
 
+【Substackタグ（tagsEn）】
+記事のSubstack投稿に付けるタグを5個。発見されやすさを最大化する配合にする:
+- 定番2〜3個: このジャンルで読者が実際に検索・購読している語（例: Satire, Humor, US Politics, News Commentary, Current Events から適切なもの）
+- その日の固有名詞2〜3個: 今日の5本に登場する検索されやすい固有名詞（企業名・機関名・人名・製品名。例: Federal Reserve, Apple）
+- 各タグは#なし・頭文字大文字の英語。ニッチすぎる造語や文章型タグは禁止。
+
 【SNS投稿候補】
 - notesEn: Substack Notes用の英語投稿。各1〜3文。その投稿だけ読んで意味が分かる自己完結型にする（必要なニュースの前提を投稿内に含める）。ハッシュタグ・絵文字・URLなし。ペルソナの声で。
 - xJa: X（旧Twitter）用の日本語投稿。各135字以内。自己完結型。ハッシュタグ・URLなし。ニュースを知らない日本の読者がそのまま笑える形にする。
@@ -596,7 +602,8 @@ JSONスキーマ:
   "riffEn": ["<英語の小咄・ニュース1>", "<ニュース2>", "<ニュース3>", "<ニュース4>", "<ニュース5>"],
   "riffJa": ["<日本語の小咄・ニュース1>", "<ニュース2>", "<ニュース3>", "<ニュース4>", "<ニュース5>"],
   "asideEn": ["<英語10語以内・ニュース1>", "<2>", "<3>", "<4>", "<5>"],
-  "asideJa": ["<日本語20字以内・ニュース1>", "<2>", "<3>", "<4>", "<5>"]
+  "asideJa": ["<日本語20字以内・ニュース1>", "<2>", "<3>", "<4>", "<5>"],
+  "tagsEn": ["<定番タグ>", "<定番タグ>", "<今日の固有名詞タグ>", "<固有名詞タグ>", "<タグ5>"]
 }"""
 
 
@@ -741,6 +748,12 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
                  if isinstance(a, str) and 2 <= len(a.strip()) <= 40][:5]
                 if isinstance(aside_ja, list) else [])
 
+    # Substackタグ（任意項目・無くても失敗にしない）
+    tags_en = data.get("tagsEn")
+    tags_en = ([t.strip().lstrip("#") for t in tags_en
+                if isinstance(t, str) and 2 <= len(t.strip().lstrip("#")) <= 40][:6]
+               if isinstance(tags_en, list) else [])
+
     # コメント弾（任意項目・無くても失敗にしない）
     raid_en = data.get("raidEn")
     raid_en = ([r.strip() for r in raid_en
@@ -770,6 +783,7 @@ def validate_editorial(data: dict, candidates: list[dict]) -> dict:
         "riffJa": riff_ja,
         "asideEn": aside_en,
         "asideJa": aside_ja,
+        "tagsEn": tags_en,
     }
 
 
