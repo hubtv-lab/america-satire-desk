@@ -1,366 +1,366 @@
 {
   "version": 1,
-  "date": "2026-09-07",
-  "generatedAt": "2026-09-06T21:23:41+00:00",
+  "date": "2026-09-08",
+  "generatedAt": "2026-09-07T22:05:56+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "GOP Conference Chair: 'I Support Anyone With an R Behind Their Name'",
-        "source": "CBS News US",
-        "date": "2026-09-07",
-        "url": "https://www.cbsnews.com/news/max-miller-house-republican-conference-chair-lisa-mcclain-face-the-nation-09-06-2026/",
-        "summary": "下院共和党コンファレンス議長のリサ・マクレイン議員は、不正疑惑を抱えるマックス・ミラー下院議員の再選を支持すると表明。理由は「名前の後ろにRが付いていれば誰でも支持する」というものだった。"
+        "headline": "Union Electricians Love Data Centers. Their Neighbors? Not So Much.",
+        "source": "NPR Business",
+        "date": "2026-09-08",
+        "url": "https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom",
+        "summary": "データセンター建設ラッシュにより、組合電気工が残業代込みで潤っている一方、建設を阻止しようとする地域住民との間で対立が深まっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 党の倫理よりアルファベット一文字への忠誠を優先する——それが党の「コンファレンス議長」の仕事なんですよ。",
-        "<b>滑稽さ:</b> 政策でも実績でも人格でもなく「R」。もはや採用基準がドアのノブより単純じゃないですか。",
-        "<b>日本・海外から見ると:</b> 「党名の頭文字があれば万事OK」という論理、これ政党政治というより部族の刺青文化に近い。"
+        "<b>矛盾:</b> 「労働者の味方」である組合が、地域住民の反対運動を実質的に無力化する側に立っている。労働運動と環境・住民運動が真っ向からぶつかる構図なんですよ。",
+        "<b>滑稽さ:</b> 「うちの町にデータセンターいらない」と署名活動してる隣人の家の電気工事を、同じ組合の仲間がニコニコしながらやってる可能性がある。",
+        "<b>日本・海外から見ると:</b> AIブームの恩恵が「AIの学習に使う電力を引く人たち」に一番わかりやすく流れているのが面白い。AI本人はまだ残業代もらってないのに。"
       ],
       "imagePrompts": [
-        "A formal congressional hearing room. On the witness stand, a large letter 'R' carved in wood sits upright in a chair. A panel of suited officials looks on approvingly, one giving a thumbs up.",
-        "A campaign poster plastered on a brick wall. The poster shows only a giant red letter 'R' with the tagline 'Qualifications: See Above.' Small print at the bottom reads 'Paid for by the Conference Chair.'",
-        "A hiring office. A desk with a sign reading 'Candidate Screening.' An HR officer holds a checklist with a single checkbox labeled 'Has an R.' The box is checked. A stack of blank resumes sits untouched in the trash."
+        "A union electrician in a hard hat and tool belt, smiling while running cables inside a massive data center, with a large protest sign reading 'NO DATA CENTER' visible through the window behind him, propped up by someone standing outside",
+        "A neighborhood meeting room packed with angry residents holding anti-data-center signs, while a lone electrician in the back quietly reviews an overtime pay stub with a subtle grin",
+        "An enormous data center under construction on a suburban street, union workers busy on scaffolding, while directly next door a house has a handmade banner reading 'SAVE OUR NEIGHBORHOOD' hanging from the porch"
       ],
       "captions": [
-        "She didn't mention his record, his policies, or his character. Just the letter. One letter. I've seen more rigorous criteria on a Chipotle job application.",
-        "To be fair, 'R' is a very good letter. It's in 'representative,' 'responsibility,' and apparently that's where the list ends.",
-        "So the Republican Conference Chair's vetting process is literally shorter than a Twitter bio. Respect the efficiency, I guess?",
-        "Somewhere out there a guy named Randy with zero political experience just got very excited.",
-        "She said 'anyone with an R behind their name'—which means the bar is now officially the same as getting into a Costco with a membership card."
+        "The neighborhood is furious about the new data center. The electrician wiring it just bought a boat.",
+        "Community organizers: 'We must stop this data center!' Union rep: 'We'll get back to you after the double-time shift.'",
+        "Turns out the real winners of the AI revolution don't know what a neural network is. They just know where the breaker box is.",
+        "Nothing unites a neighborhood like opposing a data center — except the paycheck that comes from building one.",
+        "His neighbor's petition has 200 signatures. His overtime check has four zeros. Guess which one he framed."
       ],
       "captionsJa": [
-        "実績も政策も人格も一切触れずに「R」一文字。チポトレのバイト面接より基準が低い。",
-        "「R」はいい文字ですよ。「責任(Responsibility)」にも入ってますし——まあそこで終わりなんですけど。",
-        "共和党コンファレンス議長の審査プロセスがTwitterプロフより短い。効率はすごい。",
-        "ランディという名の政治経験ゼロの男が今ものすごくワクワクしてると思う。",
-        "「Rが付いていれば誰でも」——つまりコストコの会員カードと同じ基準でアメリカ議会に入れるってこと。"
+        "近所の人たちはデータセンターに大激怒。工事してる電気工はボートを買いました。",
+        "住民組合「このデータセンターを止めるんだ！」　組合代表「残業終わったら折り返します」",
+        "AIブームの本当の勝ち組、ニューラルネットワークが何かは知らないけど、ブレーカーの場所は完璧に把握してる。",
+        "データセンター反対で地域がまとまった。工事代金でも同じくらいまとまれる。",
+        "隣人の署名200筆。自分の給与明細に並ぶゼロは4つ。どっちを額に入れて飾るかは言うまでもない。"
       ],
-      "newsEn": "House Republican Conference Chair Lisa McClain publicly endorsed Rep. Max Miller's bid for a third term despite ongoing allegations against him. Her stated reason: 'I will support anyone with an R behind their name.' McClain holds one of the top leadership positions in the House Republican caucus.",
+      "newsEn": "The ongoing data center construction boom is generating a surge of work and overtime pay for union electricians across the United States. However, many of the same communities where these facilities are being built are actively fighting to block new construction, citing noise, energy use, and neighborhood disruption. This puts union workers in an awkward position: their livelihoods now depend on projects their own neighbors are trying to kill.",
       "ironyEn": [
         {
-          "contradiction": "The House Republican Conference Chair—whose job is literally to shape the party's message and standards—says her endorsement standard is a single letter of the alphabet.",
-          "absurdity": "Somewhere, a stapler with a 'R' sticker on it is wondering if it can run for Congress.",
-          "outside": "In most countries, party leadership is expected to at least pretend the vetting process involves more than a keyboard character."
+          "contradiction": "Unions built their identity on standing with communities against corporate power. Now they're the ones showing up to wire the facilities those communities are trying to block.",
+          "absurdity": "A union electrician could finish a 12-hour overtime shift at a data center, drive home, and find a flyer from his neighbor asking him to sign a petition against that exact building.",
+          "outside": "From the outside, the AI boom looks like it's enriching tech giants. On the ground, it's actually the guy with the wire crimper who's cashing in — which is somehow both heartwarming and deeply weird."
         },
         {
-          "contradiction": "A top House leader is publicly announcing that allegations don't factor into her support calculus at all, which is a bold thing to say out loud on television.",
-          "absurdity": "She didn't say 'despite the allegations.' She said 'R.' That's the whole sentence. The whole sentence.",
-          "outside": "Foreign observers trying to understand American democracy are going to need a bigger flowchart."
+          "contradiction": "The same labor movement that fights for worker protections is now economically incentivized to override community opposition to corporate infrastructure.",
+          "absurdity": "The most concrete winners of the AI revolution so far aren't the AI companies or their investors — they're the electricians who never once had to explain what a large language model is.",
+          "outside": "In Japan, where data center expansion faces its own local resistance, workers and residents are usually on the same side. In America, the overtime check has a way of clarifying which side you're on."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-07/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-07/candidate-1-punchy.jpg"
+      "image": "images/2026-09-08/candidate-1.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-08/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Trump Asks Supreme Court to Restrict Mail-In Voting—After States Already Sent the Ballots",
+        "headline": "Trump Vowed to Champion Workers Every Labor Day. Workers Are Still Waiting.",
         "source": "The Guardian US",
         "date": "2026-09-07",
-        "url": "https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting",
-        "summary": "トランプ政権は郵便投票への新たな制限を求めて最高裁に再上訴したが、複数の州ではすでに有権者への投票用紙の発送が始まっている。連邦裁判所は以前この制限を差し止めていた。"
+        "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union",
+        "summary": "トランプ大統領は労働者の味方を繰り返し公言してきたが、労働専門家たちは、この1年間の政策が組合や労働者保護を実質的に弱体化させていると指摘している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「投票をやめさせたい」という申し立てを、投票用紙がすでにポストに入っているタイミングで出す——法廷戦術として間に合ってない、というか馬が逃げてから厩舎の扉を閉めようとしてる。",
-        "<b>滑稽さ:</b> 最高裁に「郵便を止めてくれ」と頼んでいる一方で、その郵便はもう地域の配達員が仕分けしてたりするんですよ。",
-        "<b>日本・海外から見ると:</b> 有権者が投票用紙を手にした後で「その投票は無効にしたい」と裁判所に走り込む——民主主義の手続きを守る側の行動に見えない。"
+        "<b>矛盾:</b> 「すべての政策は労働者のために」と宣言した大統領が、労働節のたびに同じ宣言を繰り返さないといけない状況自体が、何かを物語ってるんですよ。",
+        "<b>滑稽さ:</b> 毎年レイバーデーに「俺は労働者の味方だ」とスピーチして、翌日から組合を潰す政策を再開するのは、もはやひとつのお祭りになってる。",
+        "<b>日本・海外から見ると:</b> 日本でも「働き方改革」という言葉と実態のズレはあるけど、少なくともレイバーデーに真逆の政策の話をここまで堂々とはしない。"
       ],
       "imagePrompts": [
-        "A mail carrier mid-stride on a suburban street, dropping envelopes into mailboxes. Behind them, a suited figure in a hard hat holds up a 'STOP' sign, standing next to a stack of legal briefs labeled 'Emergency Appeal.'",
-        "A courtroom. A lawyer points urgently at a wall clock. Through the window behind the judge, a postal truck can be seen driving away. The judge looks at the clock, then at the lawyer, then back at the clock.",
-        "A large pile of sealed envelopes stamped 'OFFICIAL BALLOT' on a sorting conveyor belt. Next to the machine, a framed document reading 'Pending Supreme Court Review' leans against the wall, untouched."
+        "A grand Labor Day podium draped in red-white-and-blue bunting, with a politician giving a thumbs-up speech, while directly behind the curtain a pile of shredded union contracts is visible",
+        "A large trophy labeled 'CHAMPION OF WORKERS' sitting on an Oval Office desk, surrounded by executive order folders labeled with anti-union policy names, all neatly stacked",
+        "A split visual: a bright Labor Day parade banner reading 'EVERY POLICY IS FOR THE WORKER' on one side, and a plain government memo titled 'Union Membership Down Again' on the other, pinned to the same bulletin board"
       ],
       "captions": [
-        "Asking the Supreme Court to stop mail-in voting after the mail's already out is like calling the fire department to prevent a campfire—while roasting marshmallows.",
-        "The ballots are in transit. The lawyers are in court. The mail carrier has no idea he's part of a constitutional crisis right now.",
-        "Stage one: states send ballots. Stage two: administration sues to stop ballots. Stage three: someone explains to the court what 'already happened' means.",
-        "The legal challenge arrived after the ballots did. In the mail.",
-        "The administration filed an emergency appeal to restrict voting that is currently occurring. The word 'emergency' is doing a lot of work here."
+        "He's been the workers' champion so many times now they've had to print new championship belts.",
+        "Every Labor Day: 'I love the workers.' Every other day: 'The NLRB is what now?'",
+        "At some point 'pro-worker rhetoric' stops being a promise and starts being a seasonal menu item.",
+        "Labor experts say they're stunned. The workers say they stopped being stunned around year two.",
+        "The good news: he remembered Labor Day. The bad news: so did the labor experts."
       ],
       "captionsJa": [
-        "郵便投票を止めたいなら、郵便が届いた後に申し立てるのはちょっとどうかと——焚き火を消したいのにマシュマロ焼きながら消防署に電話してるようなもん。",
-        "投票用紙は輸送中。弁護士は法廷。郵便配達員は自分が憲法論争の真ん中にいることをまだ知らない。",
-        "第一段階: 州が投票用紙を発送。第二段階: 政権が差し止め申請。第三段階: 誰かが「もう終わってます」と裁判官に説明する。",
-        "上訴が届いたのは、投票用紙が届いた後だった。郵便で。",
-        "進行中の投票を止めるための「緊急」上訴。「緊急」という言葉がずいぶん頑張ってる。"
+        "何度も「労働者のチャンピオン」を名乗ってるせいで、ベルトの在庫が足りなくなってきた。",
+        "レイバーデーのたびに「労働者が大好き」。それ以外の364日は「全米労働関係委員会って何だっけ」。",
+        "「親労働者レトリック」って、ある時点から公約じゃなくて季節限定メニューになるんですよ。",
+        "労働専門家は「衝撃を受けた」と言う。労働者は2年目に衝撃を受けるのをやめた。",
+        "よかったこと：レイバーデーを覚えてた。悪かったこと：労働専門家も覚えてた。"
       ],
-      "newsEn": "The Trump administration renewed its appeal to the US Supreme Court on Sunday seeking to restrict mail-in voting, after a federal judge had blocked its new limits on such ballots. The legal challenge comes as states have already begun mailing out ballots to voters ahead of November's midterm elections. The administration is pushing to impose the restrictions even as the voting process is actively underway.",
+      "newsEn": "Labor experts are expressing shock at how aggressively anti-worker the Trump administration has been in the year since last Labor Day. Despite repeated pledges to champion American workers — including a statement that 'every policy of the Trump administration is designed to lift up the American worker' — the administration's actions have consistently undermined unions and worker protections. The disconnect between Trump's rhetoric and record is drawing renewed scrutiny on Labor Day 2026.",
       "ironyEn": [
         {
-          "contradiction": "The administration is asking the Supreme Court to stop a voting method that is already in motion—ballots are in the mail, which is roughly like calling the restaurant to cancel your order while eating the appetizer.",
-          "absurdity": "Somewhere a mail carrier is delivering a ballot that a federal lawyer is simultaneously arguing shouldn't exist. Both are doing their jobs.",
-          "outside": "Election observers from abroad have a word for governments that try to change voting rules mid-process. It's not a flattering one."
+          "contradiction": "A president who said every single policy was 'designed to lift up the American worker' spent the following year dismantling the mechanisms that workers actually use to lift themselves up.",
+          "absurdity": "The annual Labor Day speech praising workers has become so detached from the other 364 days that labor experts now treat it as a reliable leading indicator — of nothing.",
+          "outside": "Most countries celebrate Labor Day by reviewing labor protections. The U.S. celebrates it by fact-checking last year's Labor Day speech."
         },
         {
-          "contradiction": "A federal judge already blocked these restrictions once, so the administration's plan is to try the same argument again, faster, while voters are literally holding their ballots.",
-          "absurdity": "The timeline here is: 1) states send ballots, 2) administration asks court to stop ballots, 3) ???",
-          "outside": "Other democracies generally settle voting rules before voting starts. Wild concept."
+          "contradiction": "The gap between Trump's pro-worker branding and his anti-union policy record has gotten wide enough that experts are no longer surprised — they're just stunned at the scale.",
+          "absurdity": "Calling yourself the most pro-worker president while systematically weakening worker protections isn't hypocrisy anymore. At this point it's a content strategy.",
+          "outside": "From abroad, American Labor Day looks less like a celebration of workers and more like an annual performance review that workers keep failing despite being told they aced it."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-07/candidate-2.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-07/candidate-2-punchy.jpg"
+      "image": "images/2026-09-08/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-08/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Trump Signs Executive Order Letting Ranchers Sell Meat Directly—to Calm the Ranchers He Upset With His Beef Import Plan",
-        "source": "NPR Business",
-        "date": "2026-09-06",
-        "url": "https://www.npr.org/2026/09/06/nx-s1-5959146/trump-issues-new-executive-orders-on-beef-sales-to-pacify-american-cattle-ranchers",
-        "summary": "トランプ大統領は牧場主が消費者に直接肉を販売することを認める大統領令に署名した。これはトランプ自身が肉の価格を下げるために進めていた牛肉輸入拡大計画に反発した牧場主たちを宥めるための措置。"
+        "headline": "Man Turns 300 Job Rejections Into a One-Man Show. Casting Directors Yet to Respond.",
+        "source": "CNBC Top News",
+        "date": "2026-09-08",
+        "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
+        "summary": "45歳のティム・ミラード氏が、何ヶ月にもわたる就職活動の失敗を題材にした一人芝居を作り上げ、話題を集めている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「輸入牛肉で価格を下げる」という政策への怒りを「直接販売を解禁する」という別の政策で鎮める——問題の解決ではなく、自分で起こした火を自分で消してるだけなんですよ。",
-        "<b>滑稽さ:</b> 牧場主が怒ったのはトランプの輸入計画のせいで、その怒りをなだめるためにトランプが動く。ループの中心にいるのがずっと同じ人。",
-        "<b>日本・海外から見ると:</b> 「貿易戦争で地元産業を痛めつけてから、痛んだ産業を助ける補助策を発表して支持を集める」——このパターン、アメリカの農業政策では今や様式美になってきた。"
+        "<b>矛盾:</b> 仕事が見つからないから舞台を作ったら、その舞台の制作と宣伝で実質フルタイムで働いてる。就職活動、成功してたのかもしれない。",
+        "<b>滑稽さ:</b> 300回以上「お見送り」された経験がそのままコンテンツになる時代。採用担当者が「不採用メール」を送るたびに脚本の一行が増えてた。",
+        "<b>日本・海外から見ると:</b> 日本だと就活の失敗を笑いにするのはまだハードルが高いんですよ。でもアメリカでは「不採用を芸にする」が普通に成立するのが、ある意味文化の強さ。"
       ],
       "imagePrompts": [
-        "A split scene: on the left, a presidential desk with a pen signing a document labeled 'BEEF IMPORTS UP.' On the right, the same desk signing a document labeled 'RANCHERS: YOU'RE FINE ACTUALLY.' A confused rancher in a cowboy hat stands between the two.",
-        "A cattle rancher at a roadside stand labeled 'DIRECT SALES — EXECUTIVE ORDER APPROVED' selling steaks. Behind him, a cargo ship unloads crates marked 'IMPORTED BEEF' at a nearby port. Both signs are printed in the same font.",
-        "A circular flowchart diagram on a whiteboard. Arrow: 'Import policy hurts ranchers' → Arrow: 'Ranchers angry' → Arrow: 'New executive order' → Arrow: 'Back to import policy.' A suited figure stands next to it with a pointer, looking satisfied."
+        "A spotlight on a lone man standing center stage at a small theater, holding a thick stack of printed rejection emails like a script, performing to a full audience",
+        "A home office desk buried under printed job applications and rejection letters, with a single theatrical poster pinned above it reading 'REJECTED: A One-Man Show — SOLD OUT'",
+        "A job application website on a laptop screen showing 'Application Status: Rejected' next to a theater marquee billboard reading 'TIM MILLARD: ONE NIGHT ONLY'"
       ],
       "captions": [
-        "He hurt the ranchers with policy A, then helped them with policy B. Both policies were his. He's playing both teams and calling it leadership.",
-        "The executive order to let ranchers sell direct exists entirely because of the executive order that made ranchers angry. It's a self-generating bureaucracy.",
-        "Ranchers: 'Your import plan is killing us.' Trump: 'Great news—you can now sell at a farmers' market.' Ranchers: '...'",
-        "Some presidents solve crises. This one schedules them and then shows up with the solution already in his pocket.",
-        "Direct-to-consumer beef sales: coming soon, courtesy of the guy who created the problem in the first place. Check the label."
+        "300 rejections and a one-man show. The LinkedIn profile still says 'open to work.'",
+        "The companies that ghosted him are getting a credit in the program. 'Inspiration' section.",
+        "He's fully booked promoting a show about having no bookings. So technically the system worked.",
+        "Every rejection email he got was a line of dialogue. HR departments, his unpaid writing staff.",
+        "Sold-out run. Standing ovation. Still waiting to hear back from that marketing coordinator role he applied for in March."
       ],
       "captionsJa": [
-        "政策Aで牧場主を苦しめ、政策Bで助ける。両方とも自分の政策。両チームのユニフォームを着てリーダーシップと呼んでる。",
-        "直接販売を認める大統領令は、牧場主を怒らせた大統領令があってこそ存在する。自分で作った問題を自分で解決する永久機関。",
-        "牧場主「輸入計画で死にそうです」トランプ「朗報——ファーマーズマーケットで売れるようになります」牧場主「……」",
-        "危機をスケジュールして、あらかじめポケットに解決策を入れて颯爽と現れる——それが最近のスタイル。",
-        "直接販売解禁、そもそも問題を作った人からのお届けです。ラベルをよく確認してください。"
+        "300回不採用、一人芝居を完成。LinkedInのプロフィールはまだ「求職中」のまま。",
+        "彼を無視した企業、プログラムに載ります。「インスピレーション提供」のクレジットで。",
+        "不採用を題材にした公演で予定がパンパン。つまりシステムは正しく機能してた。",
+        "不採用メール一通ごとに台詞が一行増えた。人事部、無給のライティングスタッフ。",
+        "満員御礼、スタンディングオベーション。3月に応募したマーケティング職の返事はまだ来ない。"
       ],
-      "newsEn": "President Trump signed new executive orders allowing cattle ranchers to sell meat directly to consumers, bypassing traditional distribution channels. The move came in response to ranchers' anger over Trump's own plan to increase beef imports in an effort to lower consumer prices. The administration is effectively offering domestic producers a new sales channel to offset the pressure created by its own trade policy.",
+      "newsEn": "After spending months applying for jobs and facing repeated rejections, 45-year-old Tim Millard decided to channel his frustration into a one-man theatrical show about the experience. The performance, which dramatizes the demoralizing cycle of job hunting, has drawn attention for turning a widely shared modern misery into live comedy. Millard described the search as 'demoralizing' before finding an unexpected creative outlet.",
       "ironyEn": [
         {
-          "contradiction": "The administration hurt ranchers with its own import policy, then signed executive orders to help ranchers in response to ranchers being hurt by its own import policy.",
-          "absurdity": "It's a rescue mission for a crisis the rescuer created. The hero and the villain are filing paperwork from the same desk.",
-          "outside": "Trade policy observers call this 'creating the problem and selling the solution.' Economists have a shorter word for it."
+          "contradiction": "He couldn't get hired to do a job, so he created a job doing a show about not being able to get hired — and now people are paying to watch.",
+          "absurdity": "Every rejection email he received was technically a writing contribution. The companies that ghosted him are uncredited co-authors.",
+          "outside": "In most countries, a months-long job search is a private humiliation. In America, it's a development deal waiting to happen."
         },
         {
-          "contradiction": "Trump wanted cheaper beef for consumers via imports; ranchers objected; Trump's answer was not to reconsider the imports but to give ranchers a new sales route—so consumers still get cheaper imported beef and ranchers get a consolation prize.",
-          "absurdity": "Nobody asked 'wait, does this actually solve the price problem?' Apparently that's not the point.",
-          "outside": "In most trade disputes, the goal is to resolve the underlying tension. This one added a farmers' market."
+          "contradiction": "The very employers who deemed him unemployable have collectively produced his most compelling career material.",
+          "absurdity": "He's now employed full-time promoting a show about being unemployed, which means his schedule is completely full and he can't take any of those jobs he applied for.",
+          "outside": "From a Japanese perspective, turning job-hunting failure into public performance requires a level of self-disclosure that most applicants here would find unthinkable — which is probably why it works as comedy everywhere else."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-07/candidate-3.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-07/candidate-3-punchy.jpg"
+      "image": "images/2026-09-08/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-08/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "'Model Fatigue' Sets In as AI Labs Drop New Versions Every Other Week",
-        "source": "CNBC Top News",
-        "date": "2026-09-06",
-        "url": "https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html",
-        "summary": "Anthropic、OpenAI、Meta、Googleが同じ週に相次いでAIモデルの更新版をリリースし、業界では「モデル疲れ」と呼ばれる現象が顕在化している。また、NvidiaはオープンソースAIプラットフォームのHugging Faceを買収すると発表した。"
+        "headline": "Trump's Washington Makeover: Ballrooms, Arches, and the Quest for Architectural Immortality",
+        "source": "NPR Politics",
+        "date": "2026-09-08",
+        "url": "https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital",
+        "summary": "トランプ大統領がワシントンD.C.の公共空間に大型建築プロジェクトを進めており、評論家は「建築的な不死」を追求する試みだと分析している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「人類を変える技術」を週替わりのコンビニ新商品みたいに出し続けてる——「革命的」という言葉を使う頻度が上がるほど、その言葉の意味が薄くなってるじゃないですか。",
-        "<b>滑稽さ:</b> 「モデル疲れ」ってつまり、「すごいAIが多すぎて追いかけるのに疲れた」という、数年前には想像もしなかった贅沢な疲れですよ。",
-        "<b>日本・海外から見ると:</b> 各社が「史上最高のモデル」を週に一度ずつ発表し続けると、「史上最高」の定義が月曜日ごとに更新される——さすがに言葉が持たない。"
+        "<b>矛盾:</b> 「小さな政府」を掲げる共和党の大統領が、ローマ皇帝スタイルの凱旋門をワシントンに建てようとしているのは、イデオロギーと建築様式の見事なミスマッチなんですよ。",
+        "<b>滑稽さ:</b> 「建築的不死」という言葉が出てくる時点で、この話がもはや政治じゃなくてファラオの話と同じ構造になってる。",
+        "<b>日本・海外から見ると:</b> ヨーロッパの独裁者が好んだ「巨大建築による威信誇示」をアメリカの首都でやると、世界からどう見えるかを少し考えてほしい。"
       ],
       "imagePrompts": [
-        "A conveyor belt in a factory. Instead of products, it carries identical glowing AI logos labeled 'GPT-Next,' 'Claude 4.1,' 'Gemini Ultra 2,' 'Llama 5.' A lone worker at the end of the belt looks exhausted, holding a clipboard, unable to keep up.",
-        "A tech conference stage. Four separate presenters, each at their own podium labeled with a different company logo, all simultaneously yelling 'MOST POWERFUL MODEL EVER' into their microphones. The audience in the front row is asleep.",
-        "A calendar on a wall. Every single day has a sticky note that reads 'NEW AI MODEL TODAY.' One square near the bottom is blank. It's labeled 'User recovery day.'"
+        "A large triumphal arch under construction on the National Mall in Washington D.C., surrounded by cranes and scaffolding, with the Lincoln Memorial visible in the background, workers in hard hats looking up at it",
+        "An ornate gold-detailed ballroom being installed inside a classical government building, construction workers carrying chandeliers through marble hallways",
+        "A historical timeline on a wall showing ancient Roman triumphal arches next to a rendering of a modern arch in Washington D.C., with an architect's blueprint spread on a table in front"
       ],
       "captions": [
-        "Four AI companies dropped major model updates in one week. A developer somewhere is staring at a changelog from Tuesday that's already obsolete.",
-        "They call it 'model fatigue,' which is the tech industry's way of saying 'we broke our own hype cycle.'",
-        "Every company announced the most powerful AI ever—in the same week. At least one of them is lying. Possibly all four.",
-        "Nvidia buying Hugging Face while everyone else is releasing models: the AI gold rush, except Nvidia is selling the shovels and now also the mine.",
-        "We went from 'AI will change everything' to 'please stop changing everything for five minutes' in about eighteen months."
+        "A triumphal arch. In Washington. For a man who finds the existing monuments a little understated.",
+        "Historians say triumphal arches commemorate victories. Still waiting on the exact victory this one's for.",
+        "'Architectural immortality' is what you call it when you can't fit it on a résumé.",
+        "Small government, big arch. The ideology is consistent if you squint.",
+        "The pharaohs also wanted permanent structures. We now know them mostly from a documentary on the History Channel."
       ],
       "captionsJa": [
-        "同じ週にAI大手4社が「重大なモデル更新」を発表。火曜日のアップデートが木曜日にはもう古い、という現場の話。",
-        "「モデル疲れ」——テック業界が「自分たちで自分たちのハイプサイクルをぶち壊した」と言う時の言い方。",
-        "「史上最強のAI」を同じ週に4社が発表。少なくとも1社は嘘をついてる。たぶん全社。",
-        "みんながモデルを出す中でNvidiaがHugging Faceを買収——ゴールドラッシュでシャベルを売ってた会社が鉱山ごと買ったやつ。",
-        "「AIがすべてを変える」から「5分だけ変えるのをやめてくれ」まで18ヶ月くらいしかかからなかった。"
+        "凱旋門をワシントンに。今ある記念碑が少し物足りなかったらしい。",
+        "歴史家によると凱旋門は勝利を記念するものだそうです。何の勝利かはまだ確認中。",
+        "「建築的不死」って、履歴書に書けないサイズの実績のことを言うんですよ。",
+        "小さな政府、大きなアーチ。目を細めれば首尾一貫している。",
+        "ファラオたちも永遠の建物を望んだ。今ではHistoryチャンネルのドキュメンタリーで名前が出てくる。"
       ],
-      "newsEn": "Anthropic, OpenAI, Meta, and Google all released AI model updates within the same week, prompting industry observers to describe a phenomenon called 'model fatigue.' The constant pace of releases has made it difficult for users and developers to keep up with or meaningfully evaluate each new version. The week also saw Nvidia announce an acquisition of open-source AI platform Hugging Face.",
+      "newsEn": "President Trump is overseeing a series of construction projects that are physically reshaping Washington, D.C., including a ballroom and a planned triumphal arch. According to New York Magazine's Ben Terris, the projects reflect an attempt to achieve what he calls 'architectural immortality' — leaving a permanent physical mark on the nation's capital. The scale and style of the changes have drawn both attention and criticism.",
       "ironyEn": [
         {
-          "contradiction": "Four of the world's largest AI companies released 'significant' model updates in the same week, which rather undermines the significance of any individual update.",
-          "absurdity": "Users are now experiencing fatigue from too many breakthroughs. That's a sentence no one expected to write in 2024, let alone say out loud.",
-          "outside": "The rest of the world is still figuring out how to use the last version when the new one drops. It's like being handed a new IKEA manual before you've finished the bookshelf."
+          "contradiction": "The standard Republican pitch is limited government and minimal federal footprint. The architectural footprint in D.C. right now is a ballroom and a triumphal arch.",
+          "absurdity": "Triumphal arches have historically been built to commemorate military victories. This one is being built to commemorate being in charge of building it.",
+          "outside": "European tourists who've seen this aesthetic before — in Rome, in Paris, in certain 20th-century capitals — may find the vibe familiar in ways that aren't entirely flattering."
         },
         {
-          "contradiction": "These companies are racing to out-innovate each other so fast that their own customers can't tell the difference between versions anymore—which is exactly what 'winning' looks like, apparently.",
-          "absurdity": "Nvidia buying Hugging Face in the same week is the AI equivalent of the grocery store buying the farmers' market because it was getting too popular.",
-          "outside": "Tech analysts are now paid to explain why this week's model is different from last week's model. It's a full-time job. Several full-time jobs."
+          "contradiction": "A president elected on nostalgia for an imagined past is now building monuments to himself in a city full of monuments to other people.",
+          "absurdity": "'Architectural immortality' is a great concept until you remember that most pharaohs who pursued it are now primarily known as answers to trivia questions.",
+          "outside": "In Japan, prime ministers leave office and return to anonymity. In America, the exit strategy is apparently a 90-foot arch."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-07/candidate-4.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-07/candidate-4-punchy.jpg"
+      "image": "images/2026-09-08/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-08/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Public Turns Against Data Centers—and Politicians Are Scrambling to Catch Up",
-        "source": "NPR Politics",
-        "date": "2026-09-06",
-        "url": "https://www.npr.org/2026/09/06/nx-s1-5948148/public-backlash-against-data-centers-is-rising-politicians-are-playing-catchup",
-        "summary": "データセンターへの一般市民の反発が高まる中、選挙を直前に控えた政治家たちが各党を問わず対応に追われている。ペンシルベニア州ではこの動きが特に顕著だという。"
+        "headline": "Fetterman's Texts Show He'd Rather Not Do the Senator Thing, If That's Okay",
+        "source": "CBS News US",
+        "date": "2026-09-07",
+        "url": "https://www.cbsnews.com/news/john-fetterman-texts-reluctance-performing-basic-constituent-service-duties/",
+        "summary": "元スタッフの証言により、ジョン・フェターマン上院議員が有権者対応など上院議員職の中核的業務を日常的に拒否・無視してきたことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 政治家たちは数年間、AIとデータセンターを「雇用と未来」と売り込んできた。有権者が「いや、うるさくて水を使いすぎる」と言い始めると、急にキャッチアップが必要になる。",
-        "<b>滑稽さ:</b> テック企業は「AIが民主主義を強化する」と言い続けてきたのに、そのAIインフラへの反発が選挙の争点になるという皮肉——AIが民主主義に鍛えられる番。",
-        "<b>日本・海外から見ると:</b> 「デジタル化で豊かになる地域」という約束と「電気代と水道代が上がって騒音がひどい」という現実のギャップ、これはアメリカだけの話じゃないんですよ。"
+        "<b>矛盾:</b> 「庶民派」「労働者の味方」として当選した上院議員が、その庶民からの連絡を面倒くさがってテキストでシャットアウトしてたのは、ブランドと実態のギャップとして相当きつい。",
+        "<b>滑稽さ:</b> 有権者対応を断るテキストが証拠として残ってしまうの、「仕事をサボった証拠を本人が作った」という意味でかなりユニークな状況なんですよ。",
+        "<b>日本・海外から見ると:</b> 日本の議員が選挙区の陳情を「めんどくさい」とテキストで断ったら政治生命終わり。アメリカでは「でもキャラが立ってるからな」という謎の猶予がある。"
       ],
       "imagePrompts": [
-        "A suburban neighborhood. An enormous windowless data center looms over small houses, its industrial cooling units humming. A 'VOTE' sign is planted in the front yard of the nearest house. The homeowner stands on the porch looking at it.",
-        "A campaign rally. A politician at a podium holds two signs simultaneously: one reads 'TECH JOBS FOR OUR FUTURE' and the other reads 'STOP THE DATA CENTERS.' The crowd in front of the podium looks confused.",
-        "A map of Pennsylvania with data center locations marked as glowing dots. Around each dot, small cartoon speech bubbles from nearby towns read: 'noise,' 'water,' 'electricity bills.' A politician with a notepad stands at the edge of the map, writing furiously."
+        "A large official Senate office with an empty leather chair behind a mahogany desk, a phone on the desk with a text message bubble visible reading 'not doing that one either', constituent mail stacked untouched in the corner",
+        "A split screen: left side shows a campaign poster of a candidate in work boots and a Carhartt jacket with the slogan 'I SHOW UP'; right side shows a phone screen with a text thread of declined constituent requests",
+        "A Senate hearing room with a name placard reading 'SEN. FETTERMAN', the chair empty, a phone buzzing on the desk with multiple unread notification badges"
       ],
       "captions": [
-        "Politicians who called data centers 'the future' for five years are now discovering the future is loud, thirsty, and very unpopular in an election year.",
-        "Your neighborhood hosts the servers. Someone in San Francisco gets faster autocomplete. Totally even trade.",
-        "The infrastructure that runs AI cannot, it turns out, run a winning campaign platform in the towns where it's actually built.",
-        "Pennsylvania: swing state, battleground state, and now apparently 'please move that server farm' state.",
-        "They said data centers would bring prosperity. They brought cooling fans audible from the bedroom. Close enough?"
+        "He ran on showing up. The texts suggest a more nuanced interpretation of that promise.",
+        "Most senators hide the paper trail. He sent his via iMessage.",
+        "Constituent services: technically part of the job. Apparently that was the surprise.",
+        "The staffer confirmed it. The texts confirmed it. The only thing still pending is Fetterman's response to the story — and based on the pattern, could be a while.",
+        "Ran as the guy who gets it. Texted like the guy who'd rather not."
       ],
       "captionsJa": [
-        "5年間「データセンターは未来だ」と言い続けた政治家が、選挙の年にその未来がうるさくて水を大量消費することを発見した。",
-        "あなたの町がサーバーをホストして、サンフランシスコの誰かがオートコンプリートを速く使える。完全に公平な取引。",
-        "AIを動かすインフラは、それが建てられた街での選挙運動を動かせないことが判明した。",
-        "ペンシルベニア州：スウィングステート、激戦区、そしてついに「そのサーバー農場を移してくれ」ステート。",
-        "「繁栄をもたらす」と言ってたのに届いたのは寝室まで聞こえる冷却ファンの音——まあ、近いっちゃ近い。"
+        "「必ず現れる」を掲げて当選した。テキストを読むと、その約束の解釈が少し幅広かったようだ。",
+        "ほとんどの議員は証拠隠滅する。彼はiMessageで証拠を残した。",
+        "有権者対応って仕事の一部なんですよ。どうやらそれが想定外だったらしい。",
+        "元スタッフが確認、テキストも確認。唯一保留中なのがフェターマン本人のコメント。パターン的に、しばらくかかりそう。",
+        "「俺はわかってる側の人間だ」で当選した。テキストは「できればやりたくない側」を記録していた。"
       ],
-      "newsEn": "Public sentiment against data centers is running high heading into the November midterm elections, with residents raising concerns about water usage, energy consumption, noise, and land use. Politicians across party lines are scrambling to respond to constituents who see the facilities as more burden than benefit. Pennsylvania is emerging as a key battleground where the backlash is shaping campaign strategies.",
+      "newsEn": "A former staffer has confirmed that Senator John Fetterman of Pennsylvania has routinely dismissed and at times outright refused to perform core aspects of his job, including constituent services. Text messages reviewed as part of the reporting reveal a pattern of impatience with the basic duties of a sitting U.S. senator. The revelations add to existing scrutiny of Fetterman's conduct in office.",
       "ironyEn": [
         {
-          "contradiction": "Politicians spent years courting tech investment and data center construction as economic wins. Now the same politicians are 'scrambling' because their constituents hate the data centers.",
-          "absurdity": "The infrastructure powering AI—which companies say will solve every problem—has become a campaign problem that AI apparently can't solve.",
-          "outside": "Communities in Europe and Asia have had the same argument. The answer is usually 'we should have had this conversation before the concrete was poured.'"
+          "contradiction": "Fetterman built his entire political identity on being the working-class guy who actually shows up — and then apparently needed to be texted repeatedly before showing up to his own job.",
+          "absurdity": "Most politicians at least have the instinct to avoid putting their work avoidance in writing. These are texts. Sent from a phone. That he owns.",
+          "outside": "In most democracies, a politician who documents his own refusal to do his job would be described as having made a strategic error. In America, we wait to see if it becomes a brand."
         },
         {
-          "contradiction": "Data centers promise digital prosperity while consuming enormous amounts of local water and power—meaning the people living next to them get the noise and the electricity bill, not the cloud services.",
-          "absurdity": "Your town hosts a server farm so someone in another city can run an AI chatbot faster. You get to hear the cooling fans at 2 a.m.",
-          "outside": "Pennsylvania is now a swing state in two senses: electoral college and 'do we want this giant air-conditioned box next to the school.'"
+          "contradiction": "The senator known for blunt authenticity turned out to be authentically uninterested in the part of the job that involves the people who voted for him.",
+          "absurdity": "A former staffer had to confirm this, but the texts were right there. The man left receipts. Literally.",
+          "outside": "From abroad, the idea that a senator's job performance can be reconstructed from his own text message history is either a transparency triumph or an oversight failure — probably both."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-07/candidate-5.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-07/candidate-5-punchy.jpg"
+      "image": "images/2026-09-08/candidate-5.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-08/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本に流れる糸は「ラベルと中身の乖離」。Rという文字、「革命的」という言葉、「未来」という約束——どれもすでに中身より先に走っている。",
-    "titleEn": "R Is for Rubber Stamp: Today's American News, Graded on a Curve",
-    "subtitleEn": "One letter, one beef loop, and an internet that's too tired to care.",
-    "titleJa": "「Rが付いてれば誰でもいい」と党の幹部が言った日のアメリカ",
+    "thread": "今日の5本を貫く糸は「言葉と仕事がもう一致していない」。チャンピオンが選手を潰し、議員が有権者を無視し、失業者が最も忙しく働いている。",
+    "titleEn": "Everybody's Working Hard Except the People Paid To",
+    "subtitleEn": "Five stories about jobs, promises, and the gap between the two.",
+    "titleJa": "「労働者の味方」と言い続けて1年、何が変わったか数えてみた",
     "titleAltJa": [
-      "牛肉輸入で怒らせて、直売解禁で宥める——自分で起こした火を自分で消した話",
-      "『モデル疲れ』『データセンター嫌い』『R一文字』：今週のアメリカ、ラベルが中身を追い越した"
+      "300回落とされた男が一人芝居を作り、凱旋門を建てる大統領より忙しくなった話",
+      "フェターマン議員の「めんどくさい」テキストが、今日の5本をぜんぶ説明してしまった"
     ],
-    "leadJa": "共和党コンファレンス議長が「Rが付いてれば誰でも支持する」と言いました。党の幹部が。公の場で。\n\nで、他の4本も読んだら、今日はどうやらそういう日だった。",
-    "introEn": "The Republican Conference Chair endorsed a candidate today. Her criteria: one letter. Not record, not policy—just the letter R.\n\nThat set the tone. Because the rest of today's five stories are variations on the same theme: the label ships first, the contents catch up later. Or don't.\n\nMail-in ballot restrictions filed after the ballots are already in the mail. An executive order issued to fix the damage from a previous executive order. Four AI companies announcing the greatest model in history—in the same week. And politicians who sold data centers as 'the future' now scrambling because the future turned out to be loud and thirsty.\n\nHere's your forecast: if you've been outrunning your own promises lately, you're in good company. The entire American news cycle is doing it today. That's either deeply comforting or deeply alarming. Either way, you're not behind. You're exactly on schedule.",
-    "introJa": "「Rが付いてれば誰でも支持します」。\n\n共和党コンファレンス議長——下院の党幹部です——が、今日そう言いました。政策でも実績でも人格でもなく、アルファベット一文字。これが今日の1本目。\n\nで、残りを読んでいったら、今日はその話の繰り返しだった。\n\n投票用紙がもうポストに入ってから「郵便投票を止めたい」と最高裁に走り込む政権。自分の輸入計画で怒らせた牧場主を、別の自分の政策でなだめる大統領。同じ週に4社が「史上最高のAI」を発表して、業界に「モデル疲れ」が広がる。「AIで豊かになる未来」と売り込んできた政治家たちが、データセンターへの反発を前に選挙直前に慌てている。\n\nラベルが中身より先に走ってる、そういう一日でした。\n\n今日の占い。あなたが「約束したこと、まだ追いついてないな」と思っているなら——今日のアメリカを見てください。大統領も党幹部もAI各社も、全員同じ状態です。追いついてない同士、今日はそれでいいんじゃないかな。",
-    "quipEn": "Today's lesson: the letter R, the word 'revolutionary,' and the phrase 'the future' all stopped meaning anything at roughly the same time.",
-    "quipJa": "Rという文字と「革命的」と「未来」が、今日は全部同じ顔してた。",
+    "leadJa": "組合が隣人と戦い、大統領が凱旋門を建て、議員が有権者の連絡を無視している。\n\n今日の5本、全部「言ってることと、やってること」の話です。",
+    "introEn": "Five stories today, and they all smell like the same thing: the gap between the job title and the job.\n\nA union built to protect workers is now the reason the data center goes up. A president who says 'every policy is for the workers' has said it enough times that it's started to sound like a ringtone. A senator texted his way out of the senator parts of being a senator. And a man who couldn't get hired anywhere is now fully booked.\n\nHere's your forecast: if you feel like you're doing your actual job while the people above you are mostly doing press releases, today's news is going to validate that feeling extremely hard. Not a coincidence. Not your fault. The system is just running the same show it always runs, and today five different reporters caught it from five different angles.\n\nYou're paying attention. That already puts you ahead.",
+    "introJa": "組合電気工が残業代で潤っている。\nその現場の隣で、住民が「建設反対！」のプラカードを立てている。\n\nで、ホワイトハウスでは大統領が「俺は労働者の味方だ」と今年も言った。去年も言った。専門家によると組合は弱体化してるらしいです。\n\nペンシルベニアの上院議員は、有権者からの連絡を「めんどくさい」とテキストで断っていたことが判明。証拠を自分で作ってしまうタイプ。\n\nワシントンでは大統領が凱旋門を建設中で、どの勝利を記念するアーチかはまだ発表されていない。\n\nで、仕事が見つからなくて300回落とされた男が一人芝居を作ったら、今が一番忙しくなった。\n\n今日の5本を貫く糸は「肩書きとやってることが別の話になっている」、それだけです。\n\n今日の占いです。\nあなたが「なんで私がこんなに動いてるんだろう」と思っているなら、今日のニュースがちゃんと答えてくれます。上の人たちが言葉だけで仕事をしている分、あなたが実際に動いている。それは弱さじゃなくて、今日は一番まともな側にいるってこと。\n少なくとも今日はね。",
+    "quipEn": "Today's theme: the job description and the job have separated, and nobody filed the paperwork.",
+    "quipJa": "「仕事をしている」と「仕事の話をしている」が、静かに別の職種になってる。",
     "notesEn": [
-      "The House Republican Conference Chair endorsed a colleague today. Her vetting process: does the name end in 'R'? It does. Endorsed. I've seen longer ingredient lists on a pack of gum.",
-      "The Trump administration asked the Supreme Court to restrict mail-in voting this week. The states had already mailed the ballots. The mail carrier is out there right now, completely unaware he's a constitutional flashpoint.",
-      "Trump signed an executive order letting ranchers sell meat directly to consumers. The reason ranchers needed help? A different Trump executive order on beef imports. He broke it, then fixed it, then called both moves wins. Efficient, in a very specific way.",
-      "Anthropic, OpenAI, Meta, and Google all dropped major AI model updates in the same week. The industry coined a new term for the exhaustion this caused: 'model fatigue.' We have now invented a burnout category specifically for keeping up with breakthroughs.",
-      "Politicians spent years calling data centers 'the future of jobs and prosperity.' Residents near those data centers are now calling them loud, water-hungry, and a campaign liability. The future showed up. It just didn't come with noise-canceling."
+      "The neighborhood is circulating a petition to stop the data center. The union electrician wiring it just put a down payment on a boat. Both things are true. Neither person is wrong. That's the part that's hard to sit with.",
+      "Trump has now given the 'every policy is designed to lift up the American worker' speech on enough Labor Days that it qualifies as an annual tradition. Like fireworks. Except the fireworks don't dismantle the NLRB.",
+      "Tim Millard got rejected 300 times and turned it into a one-man show. He's now fully booked promoting a show about having no bookings. The casting directors who ghosted him are listed in the program under 'Inspiration.'",
+      "Trump is building a triumphal arch in Washington D.C. Historians note that triumphal arches commemorate victories. The specific victory this one is for has not yet been announced.",
+      "A former staffer confirmed that Senator Fetterman routinely refused to do constituent services. The evidence? His own texts. Most politicians at least make you file a FOIA request."
     ],
     "xJa": [
-      "「名前の後ろにRが付いてれば誰でも支持します」——共和党コンファレンス議長（党幹部）の言葉です。疑惑のある候補者の話。審査基準が1文字。",
-      "投票用紙がすでに有権者に届き始めてから「郵便投票を止めたい」と最高裁に上訴。郵便配達員は今日も何も知らずに仕事してます。",
-      "牧場主が怒った理由：トランプの牛肉輸入計画。牧場主が宥められた方法：トランプの直売解禁令。問題も解決策も同じ人が作った。",
-      "同じ週にAI大手4社が「史上最高のモデル」を発表。業界に「モデル疲れ」という言葉が生まれた。「すごいものが多すぎて疲れた」という、数年前にはなかった種類の疲れ。",
-      "「データセンターは地域の未来だ」と売り込んできた政治家たちが、選挙直前にデータセンター反対派の有権者を前に慌てている。未来は来た。うるさくて水をたくさん使う形で。"
+      "AIブームで一番潤っているのは、AIを作った人でも投資家でもなく、現場の電気工の人たちらしい。残業代込みで絶好調。その隣で住民が「データセンター反対」のプラカードを立てている。",
+      "トランプ大統領、今年のレイバーデーも「すべての政策は労働者のため」と言った。去年も言った。専門家によると、この1年で組合保護はかなり削られたらしい。言葉と実態が毎年レイバーデーだけ再会する。",
+      "300回以上落とされた45歳の男性が就活の失敗を一人芝居にしたら話題になって、今フル稼働で公演している。仕事が見つからないから芸を作ったら、芸で仕事が生まれた。就活、もしかして成功だったのでは。",
+      "「建築的な不死」という言葉が出てきた時点で、もうこれは政治の話じゃないとわかる。トランプ大統領がワシントンに凱旋門を建設中。誰かが「どの勝利を記念するアーチですか」と聞いてほしい。",
+      "フェターマン上院議員、有権者対応を断るテキストを自分のiMessageに残していたことが判明。情報漏洩でも内部告発でもなく、本人が自分の手で打ったやつ。サボりの証拠を自作してしまうの、なかなかのレベル。"
     ],
     "raidEn": [
-      "One letter. That's the entire platform. I keep thinking about how much simpler job interviews would be if we adopted this system.",
-      "The ballots were already sorted by zip code when the lawsuit was filed. The logistics of this constitutional crisis are genuinely impressive.",
-      "He created the problem, then created the solution, then took credit for the solution. That's not policy, that's a perpetual motion machine.",
-      "'Model fatigue' is my new favorite phrase. We have officially run out of superlatives and started naming the exhaustion instead.",
-      "The funniest part is that 'the future' showed up exactly where they put it. People just didn't love it as much in person."
+      "The funniest part is both sides are completely right. That's what makes it so hard to make a sign about.",
+      "He's delivered the pro-worker speech often enough that it's basically a seasonal menu item now. Pumpkin spice, but for labor rights.",
+      "He's fully booked promoting a show about having no bookings. Whatever the opposite of irony is, that's what this is.",
+      "'Architectural immortality' is what you call it when the legacy doesn't quite fit on a résumé.",
+      "Most politicians at least make you file a FOIA request to find the paper trail. He just... sent it."
     ],
     "raidJa": [
-      "審査基準が1文字というのは、ある意味すごくシンプルで、でもそれが党幹部の話というのが今日一番面白かったです。",
-      "投票用紙が届いてからの上訴、というタイミングの話が印象的で。法廷と現実の速度差を感じました。",
-      "自分で起こした問題を自分で解決して両方「自分の成果」になる構造、政策としてすごいなと思いながら読みました。",
-      "「モデル疲れ」という言葉が今週生まれたこと自体が、今の時代を一番よく表してると思って読んでいました。",
-      "「未来」と売り込んでいたものへの反発が選挙の争点になる展開、他人事に思えない部分もあってとても興味深かったです。"
+      "どちらも正しいのに、どちらも全力で戦っているの、これが一番整理しにくい構図ですよね。署名活動のスローガンを考えた人、大変だったと思う。",
+      "毎年レイバーデーに同じ宣言をするの、もはや季節の風物詩になってますよね。桜と同じで、来年も咲くと思う。",
+      "300回の不採用がそのまま脚本になるの、採用担当者が意図せず共同制作者になってた、ということなんですよね。",
+      "「建築的な不死」という言葉、政治家が使い始めると少し怖くなりますよね。歴史的に見ると大体そこから話が大きくなる。",
+      "証拠を自分のテキストで作ってしまうの、ある意味で一番正直な政治家かもしれないですね（褒めてはいない）。"
     ],
     "riffEn": [
-      "Lisa McClain is the House Republican Conference Chair—one of the top jobs in the caucus. Her job, in theory, involves some amount of judgment about who the party endorses. Today she explained her process. The candidate has an R next to his name. That's it. That's the process. She didn't say 'despite the allegations.' She didn't say 'I've reviewed the record.' She said: R. I've seen bouncers at dive bars apply more scrutiny. The letter R appears in the word 'responsibility,' which is probably a coincidence.",
-      "The administration filed an emergency appeal to the Supreme Court asking it to restrict mail-in voting. This would be a bold legal move, except the states had already mailed the ballots. Some of those ballots are en route right now. Your postal worker is somewhere between the sorting facility and your door, unknowingly carrying a constitutional crisis in a standard envelope. The lawyers are in court arguing about whether the thing that is currently happening should be allowed to happen.",
-      "Ranchers were angry because Trump's beef import plan threatened their livelihoods. So Trump signed an executive order giving ranchers new ways to sell meat directly to consumers. Problem solved, except the problem was caused by a different Trump executive order, which is still in effect. So the ranchers now have a new sales channel to help them survive the policy that's still hurting them. The loop is closed. Nobody leaves.",
-      "In one week: Anthropic released an update. OpenAI released an update. Meta released an update. Google released an update. Each one was, according to each company, the most capable model ever built. The industry's response was not excitement. It was a new clinical term: model fatigue. We have reached a point where the cure for not having enough AI is apparently more AI, and the side effect is exhaustion. Nvidia bought Hugging Face somewhere in there. I missed it. I was tired.",
-      "For a few years, politicians across the country called data centers the future—jobs, investment, growth. Residents near those facilities have started describing them differently: loud, hot, water-intensive, and close to their houses. Now it's an election year, and the politicians who sold the future are knocking on doors in Pennsylvania trying to explain why the future sounds like an industrial HVAC unit. The infrastructure that powers AI cannot, it turns out, power a campaign in the neighborhood where it actually lives."
+      "The data center goes up, and the union electricians are doing great — overtime, good wages, the works. The neighbors are furious. They're circulating petitions, going to zoning meetings, making signs. And there's a reasonable chance the guy rewiring the building's third floor lives two streets over from the person holding the sign. He's not a villain. She's not wrong. The AI boom found the one spot where 'labor wins' and 'community loses' are the exact same project. Nobody planned it that way. That's what makes it interesting.",
+      "Every Labor Day, the speech comes out: 'Every policy of this administration is designed to lift up the American worker.' Labor experts this year described the past twelve months as, and I'm paraphrasing, genuinely shocking in how anti-worker it's been. The thing about saying 'I'm for the workers' once is it's a promise. Saying it every Labor Day for years while the policy moves the other direction is something else. It's a format. At some point the promise becomes the decoration and the policy becomes the product.",
+      "Tim Millard applied for jobs for months, got rejected over 300 times, and turned the whole experience into a one-man theatrical show. He is now fully booked. The show is about having no bookings. The casting directors who never wrote back are credited in the program — under 'Inspiration.' Here's the part nobody's saying out loud: he is currently working harder than at any point during the job search. The job search, it turns out, was the audition.",
+      "Trump is building a triumphal arch in Washington D.C. A commentator calls it a pursuit of 'architectural immortality.' Triumphal arches, historically, commemorate specific victories. The Romans were pretty clear about that — you win a war, you get an arch. The specific victory this particular arch commemorates has not been announced. Maybe the announcement is also getting an arch.",
+      "A former staffer confirmed that Senator Fetterman regularly declined to perform core parts of his job. The evidence is his text messages. Not leaked documents, not anonymous sources — his own texts, sent from his own phone, declining, in writing, to do the constituent services part of being a senator. He ran on showing up. The texts suggest he had a more flexible definition of that in mind."
     ],
     "riffJa": [
-      "リサ・マクレインは下院共和党コンファレンス議長——党内の主要幹部のひとりです。不正疑惑のある議員の再選支持を表明し、その理由を聞かれて答えた。「名前の後ろにRが付いてれば誰でも支持します」と。\n\n政策でも、実績でも、人格でもなく。1文字。コンビニのバイト面接でも「名前を教えてください」くらいは聞く。党幹部の審査基準がそれより短い。",
-      "トランプ政権は郵便投票への制限を求めて最高裁に上訴しました。タイミングの話をすると——複数の州ではすでに有権者への投票用紙の発送が始まっていた。\n\nつまり、投票用紙が今まさに配達中のタイミングで「その投票を止めたい」と裁判所に走り込んでいる。郵便配達員は今日も淡々と仕分けしながら、自分が憲法問題の中心にいることを知らないんですよ。",
-      "牧場主たちが怒った。理由：トランプの牛肉輸入拡大計画。\n\nで、トランプが宥めるために動いた。方法：牧場主が消費者に直接肉を販売できる大統領令に署名。\n\n問題を起こしたのも解決したのも同じ人。輸入計画はまだ続いてる。新しい販売チャネルは、同じ政権が作った穴を埋めるための絆創膏。ループの中心にずっと同じ人がいる。",
-      "同じ週に、Anthropic、OpenAI、Meta、Googleが相次いでAIの新モデルをリリースしました。それぞれが「史上最高」と言った。\n\n業界で出てきた言葉が「モデル疲れ」。「すごいAIが多すぎて追いかけるのに疲れた」という、3年前には存在しなかった種類の疲れです。NvidiaがHugging Faceを買収したのも同じ週で、私はそのニュースを読んだ記憶がうっすらあります。疲れていたので。",
-      "「データセンターは雇用と未来をもたらす」——そう売り込んできた政治家たちが、選挙直前に困っています。データセンターの近くに住む住民が「うるさい」「水を使いすぎる」「電気代が上がった」と言い始めたから。\n\nペンシルベニア州ではこれが選挙の争点になりつつある。「未来」は届いた。ただ、騒音と熱と水道代という形で。"
+      "データセンターが建つたびに組合電気工は潤う。残業あり、給料よし、いい話だ。でも建設現場の隣では住民が「うちの町にいらない」と署名を集めている。で、ここが面白いんですけど、その現場で電気配線をやっている組合員が、反対運動をしている人の2軒隣に住んでいる可能性がある。悪者は誰もいない。でも利害が完璧にすれ違っている。AIブームが生んだ、解決策のない正しい対立。",
+      "レイバーデー(労働者の日)のたびに「すべての政策は労働者のために」という宣言が出てくる。今年も出た。去年も出た。労働専門家の評価は「この1年は驚くほど反労働者的だった」。\n\n毎年同じ宣言をしないといけない状況、それ自体が何かを教えてくれてる気がする。一回言えば約束になる。毎年言い続けると、もうそれは約束じゃなくて、季節の挨拶みたいなものです。",
+      "45歳のティム・ミラードさん、300回以上の不採用を一人芝居にしたら話題になって、今はその公演で多忙を極めている。不採用にした会社は、プログラムの「インスピレーション」欄にクレジットされている。\n\n誰も言わないけど、今が就活中より一番ちゃんと働いている。就職活動は、舞台のオーディションだったのかもしれない。",
+      "トランプ大統領がワシントンD.C.に凱旋門を建設中で、評論家が「建築的な不死」の追求だと言っている。凱旋門というのは、歴史的には「勝利を記念するもの」です。ローマ人はそこに厳格で、戦争に勝ったらアーチを建てた。\n\nこのアーチが記念する勝利が何なのか、まだ発表されていない。発表のためにまた別のアーチが必要にならないといいけど。",
+      "フェターマン上院議員、有権者対応など上院議員としての中核業務を「日常的に断っていた」と元スタッフが証言。証拠はテキストメッセージ。情報漏洩でも内部告発でもなく、本人が自分のスマホから自分の手で打った「やりたくない」のテキストが証拠になった。\n\n証拠を自作してしまったという意味で、これは相当独自の状況だと思う。"
     ],
     "asideEn": [
-      "One letter. That's the bar.",
-      "The mail is already out. Just saying.",
-      "He broke it. He fixed it. Applause.",
-      "We invented a burnout for breakthroughs.",
-      "The future is loud. Who knew."
+      "The boat doesn't care about the petition.",
+      "Year three of the same speech. Belt's getting tight.",
+      "So the rejection letters were the research.",
+      "Still waiting on the victory.",
+      "He cc'd history."
     ],
     "asideJa": [
-      "1文字が審査基準。",
-      "もう届いてるんですよね。",
-      "自分で壊して自分で直した。",
-      "革命に疲れた、という話。",
-      "未来、うるさかったね。"
+      "隣人の気持ちより残業代の方が現実だった。",
+      "3年連続同じ約束、記録更新中。",
+      "落選続きが、そのまま脚本になった。",
+      "どの勝利のアーチなのか、誰か聞いて。",
+      "証拠を自分で作るタイプ。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Current Events",
-      "Republican Party",
-      "Artificial Intelligence"
+      "Labor Day",
+      "Trump",
+      "John Fetterman"
     ],
-    "fullEn": "# R Is for Rubber Stamp: Today's American News, Graded on a Curve\n\n## Today's Forecast\n\nThe Republican Conference Chair endorsed a candidate today. Her criteria: one letter. Not record, not policy—just the letter R.\n\nThat set the tone. Because the rest of today's five stories are variations on the same theme: the label ships first, the contents catch up later. Or don't.\n\nMail-in ballot restrictions filed after the ballots are already in the mail. An executive order issued to fix the damage from a previous executive order. Four AI companies announcing the greatest model in history—in the same week. And politicians who sold data centers as 'the future' now scrambling because the future turned out to be loud and thirsty.\n\nHere's your forecast: if you've been outrunning your own promises lately, you're in good company. The entire American news cycle is doing it today. That's either deeply comforting or deeply alarming. Either way, you're not behind. You're exactly on schedule.\n\n---\n\n## 1. GOP Conference Chair: 'I Support Anyone With an R Behind Their Name'\n\n*CBS News US — [source](https://www.cbsnews.com/news/max-miller-house-republican-conference-chair-lisa-mcclain-face-the-nation-09-06-2026/)*\n\nHouse Republican Conference Chair Lisa McClain publicly endorsed Rep. Max Miller's bid for a third term despite ongoing allegations against him. Her stated reason: 'I will support anyone with an R behind their name.' McClain holds one of the top leadership positions in the House Republican caucus.\n\n**Why It's Funny**\n\nLisa McClain is the House Republican Conference Chair—one of the top jobs in the caucus. Her job, in theory, involves some amount of judgment about who the party endorses. Today she explained her process. The candidate has an R next to his name. That's it. That's the process. She didn't say 'despite the allegations.' She didn't say 'I've reviewed the record.' She said: R. I've seen bouncers at dive bars apply more scrutiny. The letter R appears in the word 'responsibility,' which is probably a coincidence.\n\n**Say It Out Loud**\n\n> She didn't mention his record, his policies, or his character. Just the letter. One letter. I've seen more rigorous criteria on a Chipotle job application.\n\n---\n\n## 2. Trump Asks Supreme Court to Restrict Mail-In Voting—After States Already Sent the Ballots\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting)*\n\nThe Trump administration renewed its appeal to the US Supreme Court on Sunday seeking to restrict mail-in voting, after a federal judge had blocked its new limits on such ballots. The legal challenge comes as states have already begun mailing out ballots to voters ahead of November's midterm elections. The administration is pushing to impose the restrictions even as the voting process is actively underway.\n\n**Why It's Funny**\n\nThe administration filed an emergency appeal to the Supreme Court asking it to restrict mail-in voting. This would be a bold legal move, except the states had already mailed the ballots. Some of those ballots are en route right now. Your postal worker is somewhere between the sorting facility and your door, unknowingly carrying a constitutional crisis in a standard envelope. The lawyers are in court arguing about whether the thing that is currently happening should be allowed to happen.\n\n**Say It Out Loud**\n\n> Asking the Supreme Court to stop mail-in voting after the mail's already out is like calling the fire department to prevent a campfire—while roasting marshmallows.\n\n---\n\n## 3. Trump Signs Executive Order Letting Ranchers Sell Meat Directly—to Calm the Ranchers He Upset With His Beef Import Plan\n\n*NPR Business — [source](https://www.npr.org/2026/09/06/nx-s1-5959146/trump-issues-new-executive-orders-on-beef-sales-to-pacify-american-cattle-ranchers)*\n\nPresident Trump signed new executive orders allowing cattle ranchers to sell meat directly to consumers, bypassing traditional distribution channels. The move came in response to ranchers' anger over Trump's own plan to increase beef imports in an effort to lower consumer prices. The administration is effectively offering domestic producers a new sales channel to offset the pressure created by its own trade policy.\n\n**Why It's Funny**\n\nRanchers were angry because Trump's beef import plan threatened their livelihoods. So Trump signed an executive order giving ranchers new ways to sell meat directly to consumers. Problem solved, except the problem was caused by a different Trump executive order, which is still in effect. So the ranchers now have a new sales channel to help them survive the policy that's still hurting them. The loop is closed. Nobody leaves.\n\n**Say It Out Loud**\n\n> He hurt the ranchers with policy A, then helped them with policy B. Both policies were his. He's playing both teams and calling it leadership.\n\n---\n\n## 4. 'Model Fatigue' Sets In as AI Labs Drop New Versions Every Other Week\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html)*\n\nAnthropic, OpenAI, Meta, and Google all released AI model updates within the same week, prompting industry observers to describe a phenomenon called 'model fatigue.' The constant pace of releases has made it difficult for users and developers to keep up with or meaningfully evaluate each new version. The week also saw Nvidia announce an acquisition of open-source AI platform Hugging Face.\n\n**Why It's Funny**\n\nIn one week: Anthropic released an update. OpenAI released an update. Meta released an update. Google released an update. Each one was, according to each company, the most capable model ever built. The industry's response was not excitement. It was a new clinical term: model fatigue. We have reached a point where the cure for not having enough AI is apparently more AI, and the side effect is exhaustion. Nvidia bought Hugging Face somewhere in there. I missed it. I was tired.\n\n**Say It Out Loud**\n\n> Four AI companies dropped major model updates in one week. A developer somewhere is staring at a changelog from Tuesday that's already obsolete.\n\n---\n\n## 5. Public Turns Against Data Centers—and Politicians Are Scrambling to Catch Up\n\n*NPR Politics — [source](https://www.npr.org/2026/09/06/nx-s1-5948148/public-backlash-against-data-centers-is-rising-politicians-are-playing-catchup)*\n\nPublic sentiment against data centers is running high heading into the November midterm elections, with residents raising concerns about water usage, energy consumption, noise, and land use. Politicians across party lines are scrambling to respond to constituents who see the facilities as more burden than benefit. Pennsylvania is emerging as a key battleground where the backlash is shaping campaign strategies.\n\n**Why It's Funny**\n\nFor a few years, politicians across the country called data centers the future—jobs, investment, growth. Residents near those facilities have started describing them differently: loud, hot, water-intensive, and close to their houses. Now it's an election year, and the politicians who sold the future are knocking on doors in Pennsylvania trying to explain why the future sounds like an industrial HVAC unit. The infrastructure that powers AI cannot, it turns out, power a campaign in the neighborhood where it actually lives.\n\n**Say It Out Loud**\n\n> Politicians who called data centers 'the future' for five years are now discovering the future is loud, thirsty, and very unpopular in an election year.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: the letter R, the word 'revolutionary,' and the phrase 'the future' all stopped meaning anything at roughly the same time.\n",
-    "fullJa": "# 「Rが付いてれば誰でもいい」と党の幹部が言った日のアメリカ\n\n## 今日を占うよ〜\n\n「Rが付いてれば誰でも支持します」。\n\n共和党コンファレンス議長——下院の党幹部です——が、今日そう言いました。政策でも実績でも人格でもなく、アルファベット一文字。これが今日の1本目。\n\nで、残りを読んでいったら、今日はその話の繰り返しだった。\n\n投票用紙がもうポストに入ってから「郵便投票を止めたい」と最高裁に走り込む政権。自分の輸入計画で怒らせた牧場主を、別の自分の政策でなだめる大統領。同じ週に4社が「史上最高のAI」を発表して、業界に「モデル疲れ」が広がる。「AIで豊かになる未来」と売り込んできた政治家たちが、データセンターへの反発を前に選挙直前に慌てている。\n\nラベルが中身より先に走ってる、そういう一日でした。\n\n今日の占い。あなたが「約束したこと、まだ追いついてないな」と思っているなら——今日のアメリカを見てください。大統領も党幹部もAI各社も、全員同じ状態です。追いついてない同士、今日はそれでいいんじゃないかな。\n\n---\n\n## 1. GOP Conference Chair: 'I Support Anyone With an R Behind Their Name'\n\n*CBS News US（[記事](https://www.cbsnews.com/news/max-miller-house-republican-conference-chair-lisa-mcclain-face-the-nation-09-06-2026/)）*\n\n下院共和党コンファレンス議長のリサ・マクレイン議員は、不正疑惑を抱えるマックス・ミラー下院議員の再選を支持すると表明。理由は「名前の後ろにRが付いていれば誰でも支持する」というものだった。\n\n**どこが笑える？**\n\nリサ・マクレインは下院共和党コンファレンス議長——党内の主要幹部のひとりです。不正疑惑のある議員の再選支持を表明し、その理由を聞かれて答えた。「名前の後ろにRが付いてれば誰でも支持します」と。\n\n政策でも、実績でも、人格でもなく。1文字。コンビニのバイト面接でも「名前を教えてください」くらいは聞く。党幹部の審査基準がそれより短い。\n\n**このニュースをジョークにするなら...**\n\n> 実績も政策も人格も一切触れずに「R」一文字。チポトレのバイト面接より基準が低い。\n\n---\n\n## 2. Trump Asks Supreme Court to Restrict Mail-In Voting—After States Already Sent the Ballots\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/06/trump-administration-supreme-court-mail-in-voting)）*\n\nトランプ政権は郵便投票への新たな制限を求めて最高裁に再上訴したが、複数の州ではすでに有権者への投票用紙の発送が始まっている。連邦裁判所は以前この制限を差し止めていた。\n\n**どこが笑える？**\n\nトランプ政権は郵便投票への制限を求めて最高裁に上訴しました。タイミングの話をすると——複数の州ではすでに有権者への投票用紙の発送が始まっていた。\n\nつまり、投票用紙が今まさに配達中のタイミングで「その投票を止めたい」と裁判所に走り込んでいる。郵便配達員は今日も淡々と仕分けしながら、自分が憲法問題の中心にいることを知らないんですよ。\n\n**このニュースをジョークにするなら...**\n\n> 郵便投票を止めたいなら、郵便が届いた後に申し立てるのはちょっとどうかと——焚き火を消したいのにマシュマロ焼きながら消防署に電話してるようなもん。\n\n---\n\n## 3. Trump Signs Executive Order Letting Ranchers Sell Meat Directly—to Calm the Ranchers He Upset With His Beef Import Plan\n\n*NPR Business（[記事](https://www.npr.org/2026/09/06/nx-s1-5959146/trump-issues-new-executive-orders-on-beef-sales-to-pacify-american-cattle-ranchers)）*\n\nトランプ大統領は牧場主が消費者に直接肉を販売することを認める大統領令に署名した。これはトランプ自身が肉の価格を下げるために進めていた牛肉輸入拡大計画に反発した牧場主たちを宥めるための措置。\n\n**どこが笑える？**\n\n牧場主たちが怒った。理由：トランプの牛肉輸入拡大計画。\n\nで、トランプが宥めるために動いた。方法：牧場主が消費者に直接肉を販売できる大統領令に署名。\n\n問題を起こしたのも解決したのも同じ人。輸入計画はまだ続いてる。新しい販売チャネルは、同じ政権が作った穴を埋めるための絆創膏。ループの中心にずっと同じ人がいる。\n\n**このニュースをジョークにするなら...**\n\n> 政策Aで牧場主を苦しめ、政策Bで助ける。両方とも自分の政策。両チームのユニフォームを着てリーダーシップと呼んでる。\n\n---\n\n## 4. 'Model Fatigue' Sets In as AI Labs Drop New Versions Every Other Week\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/06/meta-google-openai-anthropic-ai-model-fatigue.html)）*\n\nAnthropic、OpenAI、Meta、Googleが同じ週に相次いでAIモデルの更新版をリリースし、業界では「モデル疲れ」と呼ばれる現象が顕在化している。また、NvidiaはオープンソースAIプラットフォームのHugging Faceを買収すると発表した。\n\n**どこが笑える？**\n\n同じ週に、Anthropic、OpenAI、Meta、Googleが相次いでAIの新モデルをリリースしました。それぞれが「史上最高」と言った。\n\n業界で出てきた言葉が「モデル疲れ」。「すごいAIが多すぎて追いかけるのに疲れた」という、3年前には存在しなかった種類の疲れです。NvidiaがHugging Faceを買収したのも同じ週で、私はそのニュースを読んだ記憶がうっすらあります。疲れていたので。\n\n**このニュースをジョークにするなら...**\n\n> 同じ週にAI大手4社が「重大なモデル更新」を発表。火曜日のアップデートが木曜日にはもう古い、という現場の話。\n\n---\n\n## 5. Public Turns Against Data Centers—and Politicians Are Scrambling to Catch Up\n\n*NPR Politics（[記事](https://www.npr.org/2026/09/06/nx-s1-5948148/public-backlash-against-data-centers-is-rising-politicians-are-playing-catchup)）*\n\nデータセンターへの一般市民の反発が高まる中、選挙を直前に控えた政治家たちが各党を問わず対応に追われている。ペンシルベニア州ではこの動きが特に顕著だという。\n\n**どこが笑える？**\n\n「データセンターは雇用と未来をもたらす」——そう売り込んできた政治家たちが、選挙直前に困っています。データセンターの近くに住む住民が「うるさい」「水を使いすぎる」「電気代が上がった」と言い始めたから。\n\nペンシルベニア州ではこれが選挙の争点になりつつある。「未来」は届いた。ただ、騒音と熱と水道代という形で。\n\n**このニュースをジョークにするなら...**\n\n> 5年間「データセンターは未来だ」と言い続けた政治家が、選挙の年にその未来がうるさくて水を大量消費することを発見した。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> Rという文字と「革命的」と「未来」が、今日は全部同じ顔してた。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d2のcaptions[3]「Bold strategy」とcaptions[4]「Nothing says」は汎用AIジョーク型。d2のcaptionsJa[3][4]も対応修正。d4のcaptions[0]「Somewhere」型も汎用。xJa[3]が137字でオーバー。riffJa[3]の「うっすらあります」は話し言葉として良いが末尾「疲れていたので。」の短文切りが効いているので保持。introJaの文末散らしは合格。全体的にジョーク構造・事実一致・話し言葉の基準は満たしている。 ／ 文体パス: 2箇所直した。introJaの締め「追いついてない同士、今日はそれでいいんじゃないかな。」はギリギリ人間っぽいが、その直前の「たぶん今日の糸は〜ということです。」がプレゼン口調なので崩した。quipJaは「同じ顔をしていた」が整いすぎた締めなので捨て台詞に切り落とした。"
+    "fullEn": "# Everybody's Working Hard Except the People Paid To\n\n## Today's Forecast\n\nFive stories today, and they all smell like the same thing: the gap between the job title and the job.\n\nA union built to protect workers is now the reason the data center goes up. A president who says 'every policy is for the workers' has said it enough times that it's started to sound like a ringtone. A senator texted his way out of the senator parts of being a senator. And a man who couldn't get hired anywhere is now fully booked.\n\nHere's your forecast: if you feel like you're doing your actual job while the people above you are mostly doing press releases, today's news is going to validate that feeling extremely hard. Not a coincidence. Not your fault. The system is just running the same show it always runs, and today five different reporters caught it from five different angles.\n\nYou're paying attention. That already puts you ahead.\n\n---\n\n## 1. Union Electricians Love Data Centers. Their Neighbors? Not So Much.\n\n*NPR Business — [source](https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom)*\n\nThe ongoing data center construction boom is generating a surge of work and overtime pay for union electricians across the United States. However, many of the same communities where these facilities are being built are actively fighting to block new construction, citing noise, energy use, and neighborhood disruption. This puts union workers in an awkward position: their livelihoods now depend on projects their own neighbors are trying to kill.\n\n**Why It's Funny**\n\nThe data center goes up, and the union electricians are doing great — overtime, good wages, the works. The neighbors are furious. They're circulating petitions, going to zoning meetings, making signs. And there's a reasonable chance the guy rewiring the building's third floor lives two streets over from the person holding the sign. He's not a villain. She's not wrong. The AI boom found the one spot where 'labor wins' and 'community loses' are the exact same project. Nobody planned it that way. That's what makes it interesting.\n\n**Say It Out Loud**\n\n> The neighborhood is furious about the new data center. The electrician wiring it just bought a boat.\n\n---\n\n## 2. Trump Vowed to Champion Workers Every Labor Day. Workers Are Still Waiting.\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union)*\n\nLabor experts are expressing shock at how aggressively anti-worker the Trump administration has been in the year since last Labor Day. Despite repeated pledges to champion American workers — including a statement that 'every policy of the Trump administration is designed to lift up the American worker' — the administration's actions have consistently undermined unions and worker protections. The disconnect between Trump's rhetoric and record is drawing renewed scrutiny on Labor Day 2026.\n\n**Why It's Funny**\n\nEvery Labor Day, the speech comes out: 'Every policy of this administration is designed to lift up the American worker.' Labor experts this year described the past twelve months as, and I'm paraphrasing, genuinely shocking in how anti-worker it's been. The thing about saying 'I'm for the workers' once is it's a promise. Saying it every Labor Day for years while the policy moves the other direction is something else. It's a format. At some point the promise becomes the decoration and the policy becomes the product.\n\n**Say It Out Loud**\n\n> He's been the workers' champion so many times now they've had to print new championship belts.\n\n---\n\n## 3. Man Turns 300 Job Rejections Into a One-Man Show. Casting Directors Yet to Respond.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html)*\n\nAfter spending months applying for jobs and facing repeated rejections, 45-year-old Tim Millard decided to channel his frustration into a one-man theatrical show about the experience. The performance, which dramatizes the demoralizing cycle of job hunting, has drawn attention for turning a widely shared modern misery into live comedy. Millard described the search as 'demoralizing' before finding an unexpected creative outlet.\n\n**Why It's Funny**\n\nTim Millard applied for jobs for months, got rejected over 300 times, and turned the whole experience into a one-man theatrical show. He is now fully booked. The show is about having no bookings. The casting directors who never wrote back are credited in the program — under 'Inspiration.' Here's the part nobody's saying out loud: he is currently working harder than at any point during the job search. The job search, it turns out, was the audition.\n\n**Say It Out Loud**\n\n> 300 rejections and a one-man show. The LinkedIn profile still says 'open to work.'\n\n---\n\n## 4. Trump's Washington Makeover: Ballrooms, Arches, and the Quest for Architectural Immortality\n\n*NPR Politics — [source](https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital)*\n\nPresident Trump is overseeing a series of construction projects that are physically reshaping Washington, D.C., including a ballroom and a planned triumphal arch. According to New York Magazine's Ben Terris, the projects reflect an attempt to achieve what he calls 'architectural immortality' — leaving a permanent physical mark on the nation's capital. The scale and style of the changes have drawn both attention and criticism.\n\n**Why It's Funny**\n\nTrump is building a triumphal arch in Washington D.C. A commentator calls it a pursuit of 'architectural immortality.' Triumphal arches, historically, commemorate specific victories. The Romans were pretty clear about that — you win a war, you get an arch. The specific victory this particular arch commemorates has not been announced. Maybe the announcement is also getting an arch.\n\n**Say It Out Loud**\n\n> A triumphal arch. In Washington. For a man who finds the existing monuments a little understated.\n\n---\n\n## 5. Fetterman's Texts Show He'd Rather Not Do the Senator Thing, If That's Okay\n\n*CBS News US — [source](https://www.cbsnews.com/news/john-fetterman-texts-reluctance-performing-basic-constituent-service-duties/)*\n\nA former staffer has confirmed that Senator John Fetterman of Pennsylvania has routinely dismissed and at times outright refused to perform core aspects of his job, including constituent services. Text messages reviewed as part of the reporting reveal a pattern of impatience with the basic duties of a sitting U.S. senator. The revelations add to existing scrutiny of Fetterman's conduct in office.\n\n**Why It's Funny**\n\nA former staffer confirmed that Senator Fetterman regularly declined to perform core parts of his job. The evidence is his text messages. Not leaked documents, not anonymous sources — his own texts, sent from his own phone, declining, in writing, to do the constituent services part of being a senator. He ran on showing up. The texts suggest he had a more flexible definition of that in mind.\n\n**Say It Out Loud**\n\n> He ran on showing up. The texts suggest a more nuanced interpretation of that promise.\n\n---\n\n## Today's Punchline\n\n> Today's theme: the job description and the job have separated, and nobody filed the paperwork.\n",
+    "fullJa": "# 「労働者の味方」と言い続けて1年、何が変わったか数えてみた\n\n## 今日を占うよ〜\n\n組合電気工が残業代で潤っている。\nその現場の隣で、住民が「建設反対！」のプラカードを立てている。\n\nで、ホワイトハウスでは大統領が「俺は労働者の味方だ」と今年も言った。去年も言った。専門家によると組合は弱体化してるらしいです。\n\nペンシルベニアの上院議員は、有権者からの連絡を「めんどくさい」とテキストで断っていたことが判明。証拠を自分で作ってしまうタイプ。\n\nワシントンでは大統領が凱旋門を建設中で、どの勝利を記念するアーチかはまだ発表されていない。\n\nで、仕事が見つからなくて300回落とされた男が一人芝居を作ったら、今が一番忙しくなった。\n\n今日の5本を貫く糸は「肩書きとやってることが別の話になっている」、それだけです。\n\n今日の占いです。\nあなたが「なんで私がこんなに動いてるんだろう」と思っているなら、今日のニュースがちゃんと答えてくれます。上の人たちが言葉だけで仕事をしている分、あなたが実際に動いている。それは弱さじゃなくて、今日は一番まともな側にいるってこと。\n少なくとも今日はね。\n\n---\n\n## 1. Union Electricians Love Data Centers. Their Neighbors? Not So Much.\n\n*NPR Business（[記事](https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom)）*\n\nデータセンター建設ラッシュにより、組合電気工が残業代込みで潤っている一方、建設を阻止しようとする地域住民との間で対立が深まっている。\n\n**どこが笑える？**\n\nデータセンターが建つたびに組合電気工は潤う。残業あり、給料よし、いい話だ。でも建設現場の隣では住民が「うちの町にいらない」と署名を集めている。で、ここが面白いんですけど、その現場で電気配線をやっている組合員が、反対運動をしている人の2軒隣に住んでいる可能性がある。悪者は誰もいない。でも利害が完璧にすれ違っている。AIブームが生んだ、解決策のない正しい対立。\n\n**このニュースをジョークにするなら...**\n\n> 近所の人たちはデータセンターに大激怒。工事してる電気工はボートを買いました。\n\n---\n\n## 2. Trump Vowed to Champion Workers Every Labor Day. Workers Are Still Waiting.\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union)）*\n\nトランプ大統領は労働者の味方を繰り返し公言してきたが、労働専門家たちは、この1年間の政策が組合や労働者保護を実質的に弱体化させていると指摘している。\n\n**どこが笑える？**\n\nレイバーデー(労働者の日)のたびに「すべての政策は労働者のために」という宣言が出てくる。今年も出た。去年も出た。労働専門家の評価は「この1年は驚くほど反労働者的だった」。\n\n毎年同じ宣言をしないといけない状況、それ自体が何かを教えてくれてる気がする。一回言えば約束になる。毎年言い続けると、もうそれは約束じゃなくて、季節の挨拶みたいなものです。\n\n**このニュースをジョークにするなら...**\n\n> 何度も「労働者のチャンピオン」を名乗ってるせいで、ベルトの在庫が足りなくなってきた。\n\n---\n\n## 3. Man Turns 300 Job Rejections Into a One-Man Show. Casting Directors Yet to Respond.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html)）*\n\n45歳のティム・ミラード氏が、何ヶ月にもわたる就職活動の失敗を題材にした一人芝居を作り上げ、話題を集めている。\n\n**どこが笑える？**\n\n45歳のティム・ミラードさん、300回以上の不採用を一人芝居にしたら話題になって、今はその公演で多忙を極めている。不採用にした会社は、プログラムの「インスピレーション」欄にクレジットされている。\n\n誰も言わないけど、今が就活中より一番ちゃんと働いている。就職活動は、舞台のオーディションだったのかもしれない。\n\n**このニュースをジョークにするなら...**\n\n> 300回不採用、一人芝居を完成。LinkedInのプロフィールはまだ「求職中」のまま。\n\n---\n\n## 4. Trump's Washington Makeover: Ballrooms, Arches, and the Quest for Architectural Immortality\n\n*NPR Politics（[記事](https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital)）*\n\nトランプ大統領がワシントンD.C.の公共空間に大型建築プロジェクトを進めており、評論家は「建築的な不死」を追求する試みだと分析している。\n\n**どこが笑える？**\n\nトランプ大統領がワシントンD.C.に凱旋門を建設中で、評論家が「建築的な不死」の追求だと言っている。凱旋門というのは、歴史的には「勝利を記念するもの」です。ローマ人はそこに厳格で、戦争に勝ったらアーチを建てた。\n\nこのアーチが記念する勝利が何なのか、まだ発表されていない。発表のためにまた別のアーチが必要にならないといいけど。\n\n**このニュースをジョークにするなら...**\n\n> 凱旋門をワシントンに。今ある記念碑が少し物足りなかったらしい。\n\n---\n\n## 5. Fetterman's Texts Show He'd Rather Not Do the Senator Thing, If That's Okay\n\n*CBS News US（[記事](https://www.cbsnews.com/news/john-fetterman-texts-reluctance-performing-basic-constituent-service-duties/)）*\n\n元スタッフの証言により、ジョン・フェターマン上院議員が有権者対応など上院議員職の中核的業務を日常的に拒否・無視してきたことが明らかになった。\n\n**どこが笑える？**\n\nフェターマン上院議員、有権者対応など上院議員としての中核業務を「日常的に断っていた」と元スタッフが証言。証拠はテキストメッセージ。情報漏洩でも内部告発でもなく、本人が自分のスマホから自分の手で打った「やりたくない」のテキストが証拠になった。\n\n証拠を自作してしまったという意味で、これは相当独自の状況だと思う。\n\n**このニュースをジョークにするなら...**\n\n> 「必ず現れる」を掲げて当選した。テキストを読むと、その約束の解釈が少し幅広かったようだ。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「仕事をしている」と「仕事の話をしている」が、静かに別の職種になってる。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d5のcaption5本目に英語と日本語が混在した不合格ライン（'庶民派' senator, very impatient with actual庶民. Classic.）があり書き直し。xJa1本目が135字オーバーのため短縮。introJaの「占い」要素は前向きな励ましとして機能しているが、5本の予告が羅列されておらず3要素のうち「予告」が薄いため補強。他は強度・整合性ともに合格水準。 ／ 文体パス: 5箇所修正。代表例: riffJa[1]の締め「季節のコンテンツになる」前後が説明口調でまとめすぎていたので、ツッコミが漏れた形に崩した。"
   },
   "carousel": [
-    "images/2026-09-07/carousel/slide-1.jpg",
-    "images/2026-09-07/carousel/slide-2.jpg",
-    "images/2026-09-07/carousel/slide-3.jpg",
-    "images/2026-09-07/carousel/slide-4.jpg",
-    "images/2026-09-07/carousel/slide-5.jpg",
-    "images/2026-09-07/carousel/slide-6.jpg",
-    "images/2026-09-07/carousel/slide-7.jpg"
+    "images/2026-09-08/carousel/slide-1.jpg",
+    "images/2026-09-08/carousel/slide-2.jpg",
+    "images/2026-09-08/carousel/slide-3.jpg",
+    "images/2026-09-08/carousel/slide-4.jpg",
+    "images/2026-09-08/carousel/slide-5.jpg",
+    "images/2026-09-08/carousel/slide-6.jpg",
+    "images/2026-09-08/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-07/note-header.jpg",
-    "substack": "images/2026-09-07/substack-cover.jpg"
+    "note": "images/2026-09-08/note-header.jpg",
+    "substack": "images/2026-09-08/substack-cover.jpg"
   },
-  "video": "videos/2026-09-07/daily-short.mp4",
-  "videoDuration": 86.9,
-  "videoJa": "videos/2026-09-07/daily-short-ja.mp4",
-  "videoJaDuration": 99.9
+  "video": "videos/2026-09-08/daily-short.mp4",
+  "videoDuration": 73.3,
+  "videoJa": "videos/2026-09-08/daily-short-ja.mp4",
+  "videoJaDuration": 86.4
 }
