@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-08",
-  "generatedAt": "2026-09-07T22:05:56+00:00",
+  "date": "2026-09-09",
+  "generatedAt": "2026-09-08T21:54:56+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Union Electricians Love Data Centers. Their Neighbors? Not So Much.",
-        "source": "NPR Business",
-        "date": "2026-09-08",
-        "url": "https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom",
-        "summary": "データセンター建設ラッシュにより、組合電気工が残業代込みで潤っている一方、建設を阻止しようとする地域住民との間で対立が深まっている。"
+        "headline": "TSA Now Lets You Through Security Without a Ticket — Just to Hang Out at the Gate",
+        "source": "CBS News US",
+        "date": "2026-09-09",
+        "url": "https://www.cbsnews.com/news/tsa-gateside-program-security-without-ticket/",
+        "summary": "TSAが新プログラムを導入し、一部のTSA PreCheckメンバーは搭乗券なしで空港のセキュリティを通過し、ゲートエリアに入れるようになった。対象は13空港。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「労働者の味方」である組合が、地域住民の反対運動を実質的に無力化する側に立っている。労働運動と環境・住民運動が真っ向からぶつかる構図なんですよ。",
-        "<b>滑稽さ:</b> 「うちの町にデータセンターいらない」と署名活動してる隣人の家の電気工事を、同じ組合の仲間がニコニコしながらやってる可能性がある。",
-        "<b>日本・海外から見ると:</b> AIブームの恩恵が「AIの学習に使う電力を引く人たち」に一番わかりやすく流れているのが面白い。AI本人はまだ残業代もらってないのに。"
+        "<b>矛盾:</b> セキュリティチェックの存在意義は「飛行機に乗る人だけを通す」ことだったんですけど、もう飛行機に乗らなくてもいいらしいです。",
+        "<b>滑稽さ:</b> 年会費を払ってPreCheckに入れば、出発ロビーのフードコートに並ぶためだけに靴を脱がなくていい。進化してるのか退化してるのかわからない。",
+        "<b>日本・海外から見ると:</b> 日本では空港のゲートエリアに入るのに搭乗券は「必須」どころか大前提なんですが、アメリカは有料会員になれば「まあいっか」になるんですね。"
       ],
       "imagePrompts": [
-        "A union electrician in a hard hat and tool belt, smiling while running cables inside a massive data center, with a large protest sign reading 'NO DATA CENTER' visible through the window behind him, propped up by someone standing outside",
-        "A neighborhood meeting room packed with angry residents holding anti-data-center signs, while a lone electrician in the back quietly reviews an overtime pay stub with a subtle grin",
-        "An enormous data center under construction on a suburban street, union workers busy on scaffolding, while directly next door a house has a handmade banner reading 'SAVE OUR NEIGHBORHOOD' hanging from the porch"
+        "A TSA checkpoint with a large sign reading 'NO TICKET? NO PROBLEM.' An agent cheerfully waves through a man carrying a beach chair and a paperback novel, no luggage in sight.",
+        "A person sitting at an airport gate, watching a plane board, holding a cup of terminal coffee and a book — no boarding pass anywhere in sight. Other travelers look confused.",
+        "A TSA PreCheck membership card displayed like a VIP nightclub wristband, with a velvet rope and a bouncer at a gate entrance labeled 'GATE B7 — MEMBERS ONLY'"
       ],
       "captions": [
-        "The neighborhood is furious about the new data center. The electrician wiring it just bought a boat.",
-        "Community organizers: 'We must stop this data center!' Union rep: 'We'll get back to you after the double-time shift.'",
-        "Turns out the real winners of the AI revolution don't know what a neural network is. They just know where the breaker box is.",
-        "Nothing unites a neighborhood like opposing a data center — except the paycheck that comes from building one.",
-        "His neighbor's petition has 200 signatures. His overtime check has four zeros. Guess which one he framed."
+        "TSA finally cracked the code on airport security: just let everyone in and call it a premium experience.",
+        "They built the whole system to keep non-passengers out. Now they're charging non-passengers $85 a year to get in. Respect the hustle.",
+        "So I can go sit at Gate 14 and watch other people's flights leave. Is this… is this what we paid for?",
+        "Post-9/11 America spent 25 years building the world's most elaborate ticket-checking apparatus. PreCheck members: 'Cool, we're good though.'",
+        "The airport is now a mall you have to apply for."
       ],
       "captionsJa": [
-        "近所の人たちはデータセンターに大激怒。工事してる電気工はボートを買いました。",
-        "住民組合「このデータセンターを止めるんだ！」　組合代表「残業終わったら折り返します」",
-        "AIブームの本当の勝ち組、ニューラルネットワークが何かは知らないけど、ブレーカーの場所は完璧に把握してる。",
-        "データセンター反対で地域がまとまった。工事代金でも同じくらいまとまれる。",
-        "隣人の署名200筆。自分の給与明細に並ぶゼロは4つ。どっちを額に入れて飾るかは言うまでもない。"
+        "TSAはついに空港セキュリティの答えを出した。全員通して、プレミアム体験と呼ぶ。",
+        "搭乗券のない人を排除するために作った仕組みで、今度は搭乗券のない人から年8500円を取って中に入れてる。商才がある。",
+        "ゲート14に座って、他の人の飛行機が飛び立つのを眺める。これのために払ってたんですか。",
+        "同時多発テロから25年かけて作り上げた搭乗券確認システム。PreCheckメンバー「でも俺たちは別にいいっすよね」。",
+        "空港がもう、申請が必要なショッピングモールになってる。"
       ],
-      "newsEn": "The ongoing data center construction boom is generating a surge of work and overtime pay for union electricians across the United States. However, many of the same communities where these facilities are being built are actively fighting to block new construction, citing noise, energy use, and neighborhood disruption. This puts union workers in an awkward position: their livelihoods now depend on projects their own neighbors are trying to kill.",
+      "newsEn": "The Transportation Security Administration has launched a new program at 13 airports that allows eligible TSA PreCheck members to pass through security checkpoints without a plane ticket. The program lets these members enter the gate area even if they have no flight booked.",
       "ironyEn": [
         {
-          "contradiction": "Unions built their identity on standing with communities against corporate power. Now they're the ones showing up to wire the facilities those communities are trying to block.",
-          "absurdity": "A union electrician could finish a 12-hour overtime shift at a data center, drive home, and find a flyer from his neighbor asking him to sign a petition against that exact building.",
-          "outside": "From the outside, the AI boom looks like it's enriching tech giants. On the ground, it's actually the guy with the wire crimper who's cashing in — which is somehow both heartwarming and deeply weird."
+          "contradiction": "The entire post-9/11 security apparatus was built around the idea that only ticketed passengers get past the checkpoint. TSA just made that optional for the right members.",
+          "absurdity": "You can now pay for TSA PreCheck, skip taking off your shoes, and walk straight to a gate — for a flight you're not on, to a destination you're not going to.",
+          "outside": "In most countries, a boarding pass is the bare minimum to enter an airport gate area. In America it's now a perk you can opt out of."
         },
         {
-          "contradiction": "The same labor movement that fights for worker protections is now economically incentivized to override community opposition to corporate infrastructure.",
-          "absurdity": "The most concrete winners of the AI revolution so far aren't the AI companies or their investors — they're the electricians who never once had to explain what a large language model is.",
-          "outside": "In Japan, where data center expansion faces its own local resistance, workers and residents are usually on the same side. In America, the overtime check has a way of clarifying which side you're on."
+          "contradiction": "TSA exists to keep unauthorized people away from aircraft. It's now authorizing people with no aircraft to go to.",
+          "absurdity": "Gate A22 is now a lounge you can just… visit. Bring a book. Watch some strangers board. Go home.",
+          "outside": "Frequent flyer programs used to reward people who fly a lot. TSA PreCheck now rewards people who don't need to fly at all."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-08/candidate-1.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-08/candidate-1-punchy.jpg"
+      "image": "images/2026-09-09/candidate-1.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-09/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Trump Vowed to Champion Workers Every Labor Day. Workers Are Still Waiting.",
-        "source": "The Guardian US",
-        "date": "2026-09-07",
-        "url": "https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union",
-        "summary": "トランプ大統領は労働者の味方を繰り返し公言してきたが、労働専門家たちは、この1年間の政策が組合や労働者保護を実質的に弱体化させていると指摘している。"
+        "headline": "LIV Golf Files for Bankruptcy — Players to Become Majority Owners of the Wreckage",
+        "source": "CNBC Top News",
+        "date": "2026-09-09",
+        "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
+        "summary": "サウジアラビア資金が支援するLIVゴルフがチャプター11の破産申請を行った。再建計画では、プレーヤーたちが会社の過半数株主になる見込み。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「すべての政策は労働者のために」と宣言した大統領が、労働節のたびに同じ宣言を繰り返さないといけない状況自体が、何かを物語ってるんですよ。",
-        "<b>滑稽さ:</b> 毎年レイバーデーに「俺は労働者の味方だ」とスピーチして、翌日から組合を潰す政策を再開するのは、もはやひとつのお祭りになってる。",
-        "<b>日本・海外から見ると:</b> 日本でも「働き方改革」という言葉と実態のズレはあるけど、少なくともレイバーデーに真逆の政策の話をここまで堂々とはしない。"
+        "<b>矛盾:</b> サウジアラビアの石油マネーでPGAをぶっ壊しにきたリーグが、選手に「はい、あとはよろしく」って会社を押し付けて破産してるんですよ。",
+        "<b>滑稽さ:</b> 「億単位の契約金で来てください」と口説かれてきた選手たちが、気づいたら破綻したゴルフリーグのオーナーになってた。転職したら会社ごともらった。",
+        "<b>日本・海外から見ると:</b> スポーツウォッシングの教科書事例として語られてきたLIVゴルフが、「ウォッシュ」どころか泡ごと消えかけているのが、なんとも皮肉な結末です。"
       ],
       "imagePrompts": [
-        "A grand Labor Day podium draped in red-white-and-blue bunting, with a politician giving a thumbs-up speech, while directly behind the curtain a pile of shredded union contracts is visible",
-        "A large trophy labeled 'CHAMPION OF WORKERS' sitting on an Oval Office desk, surrounded by executive order folders labeled with anti-union policy names, all neatly stacked",
-        "A split visual: a bright Labor Day parade banner reading 'EVERY POLICY IS FOR THE WORKER' on one side, and a plain government memo titled 'Union Membership Down Again' on the other, pinned to the same bulletin board"
+        "A gleaming golf trophy with 'LIV GOLF' engraved on it, sitting on top of a stack of Chapter 11 bankruptcy filing papers, on a pristine golf course with an empty grandstand in the background.",
+        "A group of golfers in expensive polo shirts looking at a clipboard that reads 'CONGRATULATIONS — YOU NOW OWN THE COMPANY' with confused expressions, golf bags still on their shoulders.",
+        "An enormous oil derrick with a Saudi flag shrinking in the background, connected by a thin wire to a tiny golf cart labeled 'LIV GOLF' that is teetering over a cliff edge labeled 'CHAPTER 11'"
       ],
       "captions": [
-        "He's been the workers' champion so many times now they've had to print new championship belts.",
-        "Every Labor Day: 'I love the workers.' Every other day: 'The NLRB is what now?'",
-        "At some point 'pro-worker rhetoric' stops being a promise and starts being a seasonal menu item.",
-        "Labor experts say they're stunned. The workers say they stopped being stunned around year two.",
-        "The good news: he remembered Labor Day. The bad news: so did the labor experts."
+        "LIV Golf promised players guaranteed money and no cuts. Turns out the league didn't get the same deal.",
+        "They paid Mickelson $200 million to come over, and now the players own the bankrupt company. That's not a contract, that's a heist in reverse.",
+        "Saudi sovereign wealth fund, billions of dollars, the best lawyers money can buy — and they still couldn't make golf interesting enough to stay solvent.",
+        "The players were recruited. Now they're the owners. Of a bankruptcy. Nobody covered this in the orientation.",
+        "LIV said it was disrupting golf. It disrupted itself first."
       ],
       "captionsJa": [
-        "何度も「労働者のチャンピオン」を名乗ってるせいで、ベルトの在庫が足りなくなってきた。",
-        "レイバーデーのたびに「労働者が大好き」。それ以外の364日は「全米労働関係委員会って何だっけ」。",
-        "「親労働者レトリック」って、ある時点から公約じゃなくて季節限定メニューになるんですよ。",
-        "労働専門家は「衝撃を受けた」と言う。労働者は2年目に衝撃を受けるのをやめた。",
-        "よかったこと：レイバーデーを覚えてた。悪かったこと：労働専門家も覚えてた。"
+        "LIVゴルフは選手に「カットなし、全額保証」と約束した。リーグ自身はカットされた。",
+        "マイケルソンに200億円払って引き抜いて、今度はその選手たちに破綻した会社を渡してる。これ逆方向の詐欺じゃないですか。",
+        "サウジアラビアの国富ファンド、何千億円、一流の弁護士。それでもゴルフを黒字にできなかった。",
+        "「うちに来てください」と口説かれてきた選手たちが、気づいたら破産手続き中の会社のオーナーになってた。入社説明会になかったやつ。",
+        "LIVはゴルフを変えると言ってた。まず自分が変わった。破産という形で。"
       ],
-      "newsEn": "Labor experts are expressing shock at how aggressively anti-worker the Trump administration has been in the year since last Labor Day. Despite repeated pledges to champion American workers — including a statement that 'every policy of the Trump administration is designed to lift up the American worker' — the administration's actions have consistently undermined unions and worker protections. The disconnect between Trump's rhetoric and record is drawing renewed scrutiny on Labor Day 2026.",
+      "newsEn": "LIV Golf, the Saudi-backed breakaway golf league, has filed for Chapter 11 bankruptcy protection. Under the proposed restructuring deal, the players are expected to become majority owners of the venture they were recruited to join.",
       "ironyEn": [
         {
-          "contradiction": "A president who said every single policy was 'designed to lift up the American worker' spent the following year dismantling the mechanisms that workers actually use to lift themselves up.",
-          "absurdity": "The annual Labor Day speech praising workers has become so detached from the other 364 days that labor experts now treat it as a reliable leading indicator — of nothing.",
-          "outside": "Most countries celebrate Labor Day by reviewing labor protections. The U.S. celebrates it by fact-checking last year's Labor Day speech."
+          "contradiction": "LIV was created with essentially unlimited sovereign wealth to poach players from the PGA Tour. It's now asking those same players to please take ownership of the debt.",
+          "absurdity": "Phil Mickelson reportedly took $200 million to join. Now the players are set to become majority owners of a bankrupt league. That's one way to earn equity.",
+          "outside": "A league that positioned itself as a revolution in professional golf is ending with the players inheriting a Chapter 11 filing. Most revolutions don't come with that paperwork."
         },
         {
-          "contradiction": "The gap between Trump's pro-worker branding and his anti-union policy record has gotten wide enough that experts are no longer surprised — they're just stunned at the scale.",
-          "absurdity": "Calling yourself the most pro-worker president while systematically weakening worker protections isn't hypocrisy anymore. At this point it's a content strategy.",
-          "outside": "From abroad, American Labor Day looks less like a celebration of workers and more like an annual performance review that workers keep failing despite being told they aced it."
+          "contradiction": "Saudi Arabia poured billions into LIV to reshape global sports. The reshaping led to a bankruptcy court in America.",
+          "absurdity": "The players were sold on guaranteed contracts and no cuts. The league itself did not survive the cut.",
+          "outside": "From the outside, LIV was either a bold new sports model or a PR exercise for a government. Turns out it was neither — it was just a very expensive golf tournament that ran out of golf."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-08/candidate-2.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-08/candidate-2-punchy.jpg"
+      "image": "images/2026-09-09/candidate-2.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-09/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Man Turns 300 Job Rejections Into a One-Man Show. Casting Directors Yet to Respond.",
+        "headline": "Meta Launches Personal AI Agent — While Still Fighting Privacy and Safety Lawsuits",
         "source": "CNBC Top News",
-        "date": "2026-09-08",
-        "url": "https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html",
-        "summary": "45歳のティム・ミラード氏が、何ヶ月にもわたる就職活動の失敗を題材にした一人芝居を作り上げ、話題を集めている。"
+        "date": "2026-09-09",
+        "url": "https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html",
+        "summary": "メタが個人向けAIエージェントアプリ「Muse」を発表。無料プランと月額20〜100ドルの有料プランを提供するが、同社はプライバシーと安全性をめぐる批判に直面している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 仕事が見つからないから舞台を作ったら、その舞台の制作と宣伝で実質フルタイムで働いてる。就職活動、成功してたのかもしれない。",
-        "<b>滑稽さ:</b> 300回以上「お見送り」された経験がそのままコンテンツになる時代。採用担当者が「不採用メール」を送るたびに脚本の一行が増えてた。",
-        "<b>日本・海外から見ると:</b> 日本だと就活の失敗を笑いにするのはまだハードルが高いんですよ。でもアメリカでは「不採用を芸にする」が普通に成立するのが、ある意味文化の強さ。"
+        "<b>矛盾:</b> ユーザーのプライバシーと安全の扱いで批判を受けてる最中に、「もっとパーソナルなAIアシスタントを使いませんか」って売りに来てるんですよ。信頼の積み重ね方が独特すぎる。",
+        "<b>滑稽さ:</b> 月額100ドルのプランを出してくれた人のデータは、月額20ドルの人より丁寧に扱われるんでしょうか。聞いてみたい。",
+        "<b>日本・海外から見ると:</b> 個人情報の取り扱いで各国の規制当局ともめてる会社が、「あなたの個人的なことを何でも聞いてくれるエージェント」を出してくる。タイミングのセンスがすごい。"
       ],
       "imagePrompts": [
-        "A spotlight on a lone man standing center stage at a small theater, holding a thick stack of printed rejection emails like a script, performing to a full audience",
-        "A home office desk buried under printed job applications and rejection letters, with a single theatrical poster pinned above it reading 'REJECTED: A One-Man Show — SOLD OUT'",
-        "A job application website on a laptop screen showing 'Application Status: Rejected' next to a theater marquee billboard reading 'TIM MILLARD: ONE NIGHT ONLY'"
+        "A sleek smartphone displaying the 'Muse' app interface, while in the background a stack of legal documents labeled 'PRIVACY LAWSUIT' and 'SAFETY COMPLAINT' towers over a Meta logo.",
+        "A friendly robot assistant labeled 'MUSE' holding a clipboard asking 'Tell me everything about yourself!' while standing in front of a filing cabinet with a lock on it labeled 'YOUR PREVIOUS DATA — ALREADY IN HERE'.",
+        "A store display showing three tiers: FREE (small), $20/month (medium), $100/month (large), all showing a funnel pointing into a server rack labeled 'META INFRASTRUCTURE' with a small print note reading 'details in terms of service'"
       ],
       "captions": [
-        "300 rejections and a one-man show. The LinkedIn profile still says 'open to work.'",
-        "The companies that ghosted him are getting a credit in the program. 'Inspiration' section.",
-        "He's fully booked promoting a show about having no bookings. So technically the system worked.",
-        "Every rejection email he got was a line of dialogue. HR departments, his unpaid writing staff.",
-        "Sold-out run. Standing ovation. Still waiting to hear back from that marketing coordinator role he applied for in March."
+        "Meta's new AI wants to know everything about you. They're just asking this time.",
+        "The $100 tier is called 'premium.' The free tier is called 'the business model.'",
+        "Nothing says 'we've learned from our privacy mistakes' like launching a personal AI agent during the privacy lawsuit.",
+        "Muse will remember your preferences, your habits, your schedule. Meta will remember you signed the terms of service.",
+        "They're putting AI in the hands of virtually anyone. Your data was already there."
       ],
       "captionsJa": [
-        "300回不採用、一人芝居を完成。LinkedInのプロフィールはまだ「求職中」のまま。",
-        "彼を無視した企業、プログラムに載ります。「インスピレーション提供」のクレジットで。",
-        "不採用を題材にした公演で予定がパンパン。つまりシステムは正しく機能してた。",
-        "不採用メール一通ごとに台詞が一行増えた。人事部、無給のライティングスタッフ。",
-        "満員御礼、スタンディングオベーション。3月に応募したマーケティング職の返事はまだ来ない。"
+        "メタの新AIはあなたのことを全部知りたいと言ってる。今回は一応、聞いてくる。",
+        "月額100ドルのプランは「プレミアム」。無料プランの名前は「ビジネスモデル」。",
+        "プライバシー訴訟の真っ最中に個人AIエージェントを出す。これが「学んだ」会社のやることです。",
+        "Museはあなたの好み、習慣、スケジュールを覚えてくれる。メタは利用規約に同意したことを覚えてる。",
+        "AIをすべての人の手に届ける。あなたのデータはもうとっくに届いてた。"
       ],
-      "newsEn": "After spending months applying for jobs and facing repeated rejections, 45-year-old Tim Millard decided to channel his frustration into a one-man theatrical show about the experience. The performance, which dramatizes the demoralizing cycle of job hunting, has drawn attention for turning a widely shared modern misery into live comedy. Millard described the search as 'demoralizing' before finding an unexpected creative outlet.",
+      "newsEn": "Meta unveiled Muse, a personal AI agent app available in a free tier or monthly subscriptions of $20 or $100. The launch comes as Meta faces a public reckoning over its handling of user privacy and platform safety.",
       "ironyEn": [
         {
-          "contradiction": "He couldn't get hired to do a job, so he created a job doing a show about not being able to get hired — and now people are paying to watch.",
-          "absurdity": "Every rejection email he received was technically a writing contribution. The companies that ghosted him are uncredited co-authors.",
-          "outside": "In most countries, a months-long job search is a private humiliation. In America, it's a development deal waiting to happen."
+          "contradiction": "Meta is launching an app designed to know you personally and intimately — on the same news cycle as its ongoing reckoning over what it already does with personal data.",
+          "absurdity": "For $100 a month, Meta's AI will be your most attentive companion. For free, it will be attentive in a different direction.",
+          "outside": "Most companies wait until after the privacy scandal to launch the personal data product. Meta is doing both at the same time and calling it innovation."
         },
         {
-          "contradiction": "The very employers who deemed him unemployable have collectively produced his most compelling career material.",
-          "absurdity": "He's now employed full-time promoting a show about being unemployed, which means his schedule is completely full and he can't take any of those jobs he applied for.",
-          "outside": "From a Japanese perspective, turning job-hunting failure into public performance requires a level of self-disclosure that most applicants here would find unthinkable — which is probably why it works as comedy everywhere else."
+          "contradiction": "Muse is pitched as putting AI 'in the hands of virtually anyone' — which is also a reasonable description of what Meta already does with your information.",
+          "absurdity": "The premium tier costs $100 a month. The free tier costs nothing, except in the currency Meta has always preferred.",
+          "outside": "European regulators have spent years trying to limit what Meta knows about users. Muse is asking users to volunteer more, enthusiastically, and pay for the privilege."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-08/candidate-3.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-08/candidate-3-punchy.jpg"
+      "image": "images/2026-09-09/candidate-3.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-09/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Trump's Washington Makeover: Ballrooms, Arches, and the Quest for Architectural Immortality",
-        "source": "NPR Politics",
-        "date": "2026-09-08",
-        "url": "https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital",
-        "summary": "トランプ大統領がワシントンD.C.の公共空間に大型建築プロジェクトを進めており、評論家は「建築的な不死」を追求する試みだと分析している。"
+        "headline": "Supreme Court Rules TV Stations Must Sell Election Ads at a Steep Discount — Only to Political Parties",
+        "source": "Ars Technica",
+        "date": "2026-09-09",
+        "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
+        "summary": "連邦最高裁が、テレビ局は政党に対して最低価格で選挙広告枠を販売しなければならないという判決を下した。共和党の勝訴となる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「小さな政府」を掲げる共和党の大統領が、ローマ皇帝スタイルの凱旋門をワシントンに建てようとしているのは、イデオロギーと建築様式の見事なミスマッチなんですよ。",
-        "<b>滑稽さ:</b> 「建築的不死」という言葉が出てくる時点で、この話がもはや政治じゃなくてファラオの話と同じ構造になってる。",
-        "<b>日本・海外から見ると:</b> ヨーロッパの独裁者が好んだ「巨大建築による威信誇示」をアメリカの首都でやると、世界からどう見えるかを少し考えてほしい。"
+        "<b>矛盾:</b> 「放送局は民間企業で価格は自由」という建前のアメリカで、最高裁が「でも選挙広告だけは安くしろ」と命じてる。自由市場の原則は選挙になると急に例外が増える。",
+        "<b>滑稽さ:</b> 政治広告はすでにテレビ局にとって最大の収益源のひとつなんですよ。それを「もっと安くしろ」と命じる判決を、共和党が「勝訴」と喜んでる。テレビ局の怒り顔が目に浮かぶ。",
+        "<b>日本・海外から見ると:</b> 政治献金やロビー活動の規制がゆるいアメリカで、「政党への広告割引」だけが司法の手で守られてるというバランス感覚が独特です。"
       ],
       "imagePrompts": [
-        "A large triumphal arch under construction on the National Mall in Washington D.C., surrounded by cranes and scaffolding, with the Lincoln Memorial visible in the background, workers in hard hats looking up at it",
-        "An ornate gold-detailed ballroom being installed inside a classical government building, construction workers carrying chandeliers through marble hallways",
-        "A historical timeline on a wall showing ancient Roman triumphal arches next to a rendering of a modern arch in Washington D.C., with an architect's blueprint spread on a table in front"
+        "A television station's sales office with a large rate card on the wall showing standard ad prices, with a big red government stamp over the political ad section that reads 'MANDATORY DISCOUNT — SUPREME COURT ORDER', while a station manager stares at it.",
+        "A Supreme Court gavel slamming down on a TV remote control, with a price tag showing a crossed-out number replaced by a lower one, in a broadcast studio setting.",
+        "A split image: left side shows a luxury car dealership with 'MARKET RATE' pricing, right side shows the same dealership with a sign reading 'CONGRESS MEMBERS: LOWEST PRICE GUARANTEED — SCOTUS'"
       ],
       "captions": [
-        "A triumphal arch. In Washington. For a man who finds the existing monuments a little understated.",
-        "Historians say triumphal arches commemorate victories. Still waiting on the exact victory this one's for.",
-        "'Architectural immortality' is what you call it when you can't fit it on a résumé.",
-        "Small government, big arch. The ideology is consistent if you squint.",
-        "The pharaohs also wanted permanent structures. We now know them mostly from a documentary on the History Channel."
+        "The free market is sacred in America, unless you need a campaign ad — then it's a regulated utility.",
+        "TV stations spent decades getting rich off election ads. The Supreme Court said: keep getting rich, just slightly less.",
+        "Republicans won a price-control ruling. Let that one settle for a second.",
+        "They call it the 'lowest unit rate.' TV stations call it something less printable.",
+        "In other countries, governments fund campaigns. Here, the Supreme Court negotiates the media buy."
       ],
       "captionsJa": [
-        "凱旋門をワシントンに。今ある記念碑が少し物足りなかったらしい。",
-        "歴史家によると凱旋門は勝利を記念するものだそうです。何の勝利かはまだ確認中。",
-        "「建築的不死」って、履歴書に書けないサイズの実績のことを言うんですよ。",
-        "小さな政府、大きなアーチ。目を細めれば首尾一貫している。",
-        "ファラオたちも永遠の建物を望んだ。今ではHistoryチャンネルのドキュメンタリーで名前が出てくる。"
+        "アメリカでは自由市場は神聖なもの。ただし選挙広告だけは規制対象の公益事業扱い。",
+        "選挙広告で何十年も儲けてきたテレビ局に、最高裁が「儲けていい。ただし少し減らして」と言った。",
+        "価格統制に反対してきた共和党が、価格統制の訴訟に勝訴した。ちょっと飲み込む時間が必要。",
+        "業界では「最低単価」と呼ぶ。テレビ局の人たちは別の呼び方をしてると思う。",
+        "他の国は政府が選挙費用を出す。アメリカは最高裁がメディアの値段を交渉する。"
       ],
-      "newsEn": "President Trump is overseeing a series of construction projects that are physically reshaping Washington, D.C., including a ballroom and a planned triumphal arch. According to New York Magazine's Ben Terris, the projects reflect an attempt to achieve what he calls 'architectural immortality' — leaving a permanent physical mark on the nation's capital. The scale and style of the changes have drawn both attention and criticism.",
+      "newsEn": "The Supreme Court has ruled that television stations must offer their lowest available ad rates to political parties for election advertising. The decision represents a win for Republicans who pushed for the ruling.",
       "ironyEn": [
         {
-          "contradiction": "The standard Republican pitch is limited government and minimal federal footprint. The architectural footprint in D.C. right now is a ballroom and a triumphal arch.",
-          "absurdity": "Triumphal arches have historically been built to commemorate military victories. This one is being built to commemorate being in charge of building it.",
-          "outside": "European tourists who've seen this aesthetic before — in Rome, in Paris, in certain 20th-century capitals — may find the vibe familiar in ways that aren't entirely flattering."
+          "contradiction": "America's free market orthodoxy doesn't extend to election ads — the Supreme Court just mandated a government-set price floor for political speech on private networks.",
+          "absurdity": "Political ad spending has turned local TV stations into money-printing machines every two years. The Supreme Court just told those machines to print less.",
+          "outside": "Countries that publicly fund elections think this is quaint. Countries with no election ads at all think this entire argument is quaint."
         },
         {
-          "contradiction": "A president elected on nostalgia for an imagined past is now building monuments to himself in a city full of monuments to other people.",
-          "absurdity": "'Architectural immortality' is a great concept until you remember that most pharaohs who pursued it are now primarily known as answers to trivia questions.",
-          "outside": "In Japan, prime ministers leave office and return to anonymity. In America, the exit strategy is apparently a 90-foot arch."
+          "contradiction": "The party that typically argues against price controls just won a price-control case in its own favor.",
+          "absurdity": "TV stations that have been happily cashing election-year checks for decades now have a court order telling them to cash smaller ones.",
+          "outside": "In most democracies, the government funds elections and limits private ad spending. In America, the Supreme Court is involved so political parties can get a coupon."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-08/candidate-4.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-08/candidate-4-punchy.jpg"
+      "image": "images/2026-09-09/candidate-4.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-09/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Fetterman's Texts Show He'd Rather Not Do the Senator Thing, If That's Okay",
-        "source": "CBS News US",
-        "date": "2026-09-07",
-        "url": "https://www.cbsnews.com/news/john-fetterman-texts-reluctance-performing-basic-constituent-service-duties/",
-        "summary": "元スタッフの証言により、ジョン・フェターマン上院議員が有権者対応など上院議員職の中核的業務を日常的に拒否・無視してきたことが明らかになった。"
+        "headline": "ICE Raids Cost Chicago Over $1.26 Billion in Lost Revenue as Immigrants Stayed Home Out of Fear",
+        "source": "NPR News",
+        "date": "2026-09-09",
+        "url": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
+        "summary": "新たな調査で、2025年のシカゴでのICE摘発作戦が移民コミュニティに恐怖をもたらし、小売・飲食・売上税収入で12億6000万ドル超の損失が生じたと推計された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「庶民派」「労働者の味方」として当選した上院議員が、その庶民からの連絡を面倒くさがってテキストでシャットアウトしてたのは、ブランドと実態のギャップとして相当きつい。",
-        "<b>滑稽さ:</b> 有権者対応を断るテキストが証拠として残ってしまうの、「仕事をサボった証拠を本人が作った」という意味でかなりユニークな状況なんですよ。",
-        "<b>日本・海外から見ると:</b> 日本の議員が選挙区の陳情を「めんどくさい」とテキストで断ったら政治生命終わり。アメリカでは「でもキャラが立ってるからな」という謎の猶予がある。"
+        "<b>矛盾:</b> 「不法移民は経済の負担だ」という主張のもとで行われた摘発作戦が、12億ドル超の経済損失を出してる。数字が主張に反論してきてる。",
+        "<b>滑稽さ:</b> 誰かを怖がらせて家から出られなくするだけで、飲食店と小売店と税収が同時に消える。シカゴの経済にとって移民が「いる」ことが前提だったのがバレた。",
+        "<b>日本・海外から見ると:</b> 移民政策の是非とは別に、「怖がった人が外に出なかった」だけでこの規模の損失が出るという事実は、移民労働者と消費者なしに都市経済が回らないという現実を数字で示している。"
       ],
       "imagePrompts": [
-        "A large official Senate office with an empty leather chair behind a mahogany desk, a phone on the desk with a text message bubble visible reading 'not doing that one either', constituent mail stacked untouched in the corner",
-        "A split screen: left side shows a campaign poster of a candidate in work boots and a Carhartt jacket with the slogan 'I SHOW UP'; right side shows a phone screen with a text thread of declined constituent requests",
-        "A Senate hearing room with a name placard reading 'SEN. FETTERMAN', the chair empty, a phone buzzing on the desk with multiple unread notification badges"
+        "An empty Chicago restaurant on a busy street, chairs stacked on tables, a 'OPEN' sign still lit in the window, with an ICE enforcement vehicle reflected in the glass outside.",
+        "A large calculator displaying '$1,260,000,000' sitting on a government desk next to a stack of ICE raid operation documents and a city budget spreadsheet.",
+        "A split image: left half shows a vibrant Chicago neighborhood market full of people; right half shows the same market empty and quiet, with a shadow of a government enforcement badge on the pavement."
       ],
       "captions": [
-        "He ran on showing up. The texts suggest a more nuanced interpretation of that promise.",
-        "Most senators hide the paper trail. He sent his via iMessage.",
-        "Constituent services: technically part of the job. Apparently that was the surprise.",
-        "The staffer confirmed it. The texts confirmed it. The only thing still pending is Fetterman's response to the story — and based on the pattern, could be a while.",
-        "Ran as the guy who gets it. Texted like the guy who'd rather not."
+        "They didn't have to deport a billion dollars. They just had to scare it into staying home.",
+        "The economic burden argument is going to need some new math after this one.",
+        "Turned out the restaurants, the shops, the tax base — a lot of that was the people you were looking for.",
+        "Over a billion dollars, vanished. Nobody left the city. People just didn't leave their houses. Think about that.",
+        "Chicago ran an accidental economics experiment in 2025. The results are in, and they have a dollar sign."
       ],
       "captionsJa": [
-        "「必ず現れる」を掲げて当選した。テキストを読むと、その約束の解釈が少し幅広かったようだ。",
-        "ほとんどの議員は証拠隠滅する。彼はiMessageで証拠を残した。",
-        "有権者対応って仕事の一部なんですよ。どうやらそれが想定外だったらしい。",
-        "元スタッフが確認、テキストも確認。唯一保留中なのがフェターマン本人のコメント。パターン的に、しばらくかかりそう。",
-        "「俺はわかってる側の人間だ」で当選した。テキストは「できればやりたくない側」を記録していた。"
+        "12億ドルを強制送還する必要はなかった。怖がらせて家に閉じ込めるだけでよかった。",
+        "「移民は経済の負担」という論理、この数字を見た後は計算式を見直す必要があります。",
+        "飲食店も、小売も、税収も、実はずっと、探していた人たちに支えられていた。",
+        "12億ドルが消えた。誰も市外に出ていない。ただ、外に出なかっただけ。これ、ちょっと考えてほしい。",
+        "シカゴは2025年に偶然の経済実験を行った。結果が出た。ドル記号付きで。"
       ],
-      "newsEn": "A former staffer has confirmed that Senator John Fetterman of Pennsylvania has routinely dismissed and at times outright refused to perform core aspects of his job, including constituent services. Text messages reviewed as part of the reporting reveal a pattern of impatience with the basic duties of a sitting U.S. senator. The revelations add to existing scrutiny of Fetterman's conduct in office.",
+      "newsEn": "A new study has found that the 2025 ICE raids in Chicago led to widespread fear in immigrant communities, causing many to stay home and avoid public spaces. The resulting drop in economic activity cost the region more than $1.26 billion in lost retail, restaurant, and sales-tax revenue.",
       "ironyEn": [
         {
-          "contradiction": "Fetterman built his entire political identity on being the working-class guy who actually shows up — and then apparently needed to be texted repeatedly before showing up to his own job.",
-          "absurdity": "Most politicians at least have the instinct to avoid putting their work avoidance in writing. These are texts. Sent from a phone. That he owns.",
-          "outside": "In most democracies, a politician who documents his own refusal to do his job would be described as having made a strategic error. In America, we wait to see if it becomes a brand."
+          "contradiction": "The policy argument for aggressive immigration enforcement often centers on economic burden. Chicago's numbers suggest the enforcement itself created a $1.26 billion economic burden.",
+          "absurdity": "Nobody got deported to lose that money. People just didn't go to restaurants. That's how embedded immigrant communities are in urban economies.",
+          "outside": "From the outside, this looks like a city that didn't realize how much of its economic floor was built by the people it was trying to remove."
         },
         {
-          "contradiction": "The senator known for blunt authenticity turned out to be authentically uninterested in the part of the job that involves the people who voted for him.",
-          "absurdity": "A former staffer had to confirm this, but the texts were right there. The man left receipts. Literally.",
-          "outside": "From abroad, the idea that a senator's job performance can be reconstructed from his own text message history is either a transparency triumph or an oversight failure — probably both."
+          "contradiction": "The raids were meant to remove people from the economy. They succeeded at removing them from the economy — including the parts that pay taxes and buy things.",
+          "absurdity": "Over a billion dollars in lost revenue, and the mechanism was fear. No one had to leave for the damage to happen.",
+          "outside": "Economists have spent years estimating immigrant economic contributions. Chicago now has an unusually concrete data point: it ran the experiment and got the receipt."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-08/candidate-5.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-08/candidate-5-punchy.jpg"
+      "image": "images/2026-09-09/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-09/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「言葉と仕事がもう一致していない」。チャンピオンが選手を潰し、議員が有権者を無視し、失業者が最も忙しく働いている。",
-    "titleEn": "Everybody's Working Hard Except the People Paid To",
-    "subtitleEn": "Five stories about jobs, promises, and the gap between the two.",
-    "titleJa": "「労働者の味方」と言い続けて1年、何が変わったか数えてみた",
+    "thread": "今日の5本に共通するのは「ルールの番人が、自分でルールを書き換えている」という構図。TSAは侵入者を通し、最高裁は価格を統制し、メタは訴訟中に最もパーソナルなアプリを売り出し、LIVは選手を雇って破産し、ICEは経済を守ると言って12億ドルを消した。",
+    "titleEn": "The Gatekeepers Opened the Gate",
+    "subtitleEn": "Five stories about people who make the rules, breaking the rules.",
+    "titleJa": "「通してはいけない人」を通し、「守るはずの経済」を12億ドル消した週",
     "titleAltJa": [
-      "300回落とされた男が一人芝居を作り、凱旋門を建てる大統領より忙しくなった話",
-      "フェターマン議員の「めんどくさい」テキストが、今日の5本をぜんぶ説明してしまった"
+      "TSAが搭乗券なしでゲートに入れ始めたので、今日はその話をしてもいいですか",
+      "LIVゴルフが破産して選手に会社を渡した話：転職したら会社ごともらった人たち"
     ],
-    "leadJa": "組合が隣人と戦い、大統領が凱旋門を建て、議員が有権者の連絡を無視している。\n\n今日の5本、全部「言ってることと、やってること」の話です。",
-    "introEn": "Five stories today, and they all smell like the same thing: the gap between the job title and the job.\n\nA union built to protect workers is now the reason the data center goes up. A president who says 'every policy is for the workers' has said it enough times that it's started to sound like a ringtone. A senator texted his way out of the senator parts of being a senator. And a man who couldn't get hired anywhere is now fully booked.\n\nHere's your forecast: if you feel like you're doing your actual job while the people above you are mostly doing press releases, today's news is going to validate that feeling extremely hard. Not a coincidence. Not your fault. The system is just running the same show it always runs, and today five different reporters caught it from five different angles.\n\nYou're paying attention. That already puts you ahead.",
-    "introJa": "組合電気工が残業代で潤っている。\nその現場の隣で、住民が「建設反対！」のプラカードを立てている。\n\nで、ホワイトハウスでは大統領が「俺は労働者の味方だ」と今年も言った。去年も言った。専門家によると組合は弱体化してるらしいです。\n\nペンシルベニアの上院議員は、有権者からの連絡を「めんどくさい」とテキストで断っていたことが判明。証拠を自分で作ってしまうタイプ。\n\nワシントンでは大統領が凱旋門を建設中で、どの勝利を記念するアーチかはまだ発表されていない。\n\nで、仕事が見つからなくて300回落とされた男が一人芝居を作ったら、今が一番忙しくなった。\n\n今日の5本を貫く糸は「肩書きとやってることが別の話になっている」、それだけです。\n\n今日の占いです。\nあなたが「なんで私がこんなに動いてるんだろう」と思っているなら、今日のニュースがちゃんと答えてくれます。上の人たちが言葉だけで仕事をしている分、あなたが実際に動いている。それは弱さじゃなくて、今日は一番まともな側にいるってこと。\n少なくとも今日はね。",
-    "quipEn": "Today's theme: the job description and the job have separated, and nobody filed the paperwork.",
-    "quipJa": "「仕事をしている」と「仕事の話をしている」が、静かに別の職種になってる。",
+    "leadJa": "セキュリティのゲートを開けたのはTSA。12億ドルを蒸発させたのはICE。プライバシー訴訟の最中に「何でも話して」と言い始めたのはメタ。\n\n今日は「番人が一番やらかした日」の記録です。",
+    "introEn": "So there's a theme today.\n\nThe people who built the gates decided the gates are optional. TSA is now letting non-passengers through security — for a fee, naturally. The Supreme Court told private TV stations what to charge. Meta, currently in court over what it does with your data, released an app that wants to know everything about you. LIV Golf, funded by sovereign oil money, went bankrupt and handed the ruins to its players. And in Chicago, a crackdown meant to reduce an \"economic burden\" eliminated $1.26 billion from the local economy.\n\nHere's your forecast: if you've ever followed the rules only to watch the rule-maker quietly rewrite them, today's news is not going to surprise you. It might, however, make you feel significantly less alone. Carry that.",
+    "introJa": "搭乗券なしでゲートを通れる日が来ました。\n\nTSA(米運輸保安庁)が13空港で始めたのは、飛行機に乗る予定のない人を、有料会員なら空港のゲートエリアまで通すプログラム。「空港のセキュリティ」という概念が、会員特典になりました。\n\nで、他を見ると…\n最高裁がテレビ局に価格統制を命じ、プライバシー訴訟の最中にメタが「あなたのことを何でも聞くAI」を発売し、サウジマネーのゴルフリーグが破産して選手に廃墟を渡し、ICEが「経済の負担を排除する」と始めた作戦で12億ドルを消した。\n\n今日の5本を貫く糸は、たぶん「ルールを作った側が一番ルールを無視している」ということです。\n\nということで、今日の占い。\nルールを守ってるのに損している気がするなら、それはあなたのせいじゃないです。上の方で誰かが書き換えています。今日はそういう日なので、あなたが真面目にやっていること自体を疑わなくていいと思う。少なくとも今日はね。",
+    "quipEn": "Every system you've ever trusted was designed by someone who also designed the exception for themselves.",
+    "quipJa": "ルールを守る人と、ルールを書く人は、最初から別の人なんですよね。",
     "notesEn": [
-      "The neighborhood is circulating a petition to stop the data center. The union electrician wiring it just put a down payment on a boat. Both things are true. Neither person is wrong. That's the part that's hard to sit with.",
-      "Trump has now given the 'every policy is designed to lift up the American worker' speech on enough Labor Days that it qualifies as an annual tradition. Like fireworks. Except the fireworks don't dismantle the NLRB.",
-      "Tim Millard got rejected 300 times and turned it into a one-man show. He's now fully booked promoting a show about having no bookings. The casting directors who ghosted him are listed in the program under 'Inspiration.'",
-      "Trump is building a triumphal arch in Washington D.C. Historians note that triumphal arches commemorate victories. The specific victory this one is for has not yet been announced.",
-      "A former staffer confirmed that Senator Fetterman routinely refused to do constituent services. The evidence? His own texts. Most politicians at least make you file a FOIA request."
+      "TSA now lets PreCheck members enter the gate area without a ticket. The entire system was designed to keep non-passengers out. They've now made that a $85-a-year perk. Respect the hustle.",
+      "LIV Golf filed for bankruptcy. The players who were paid hundreds of millions to leave the PGA will now become majority owners of the bankrupt league. They came for a paycheck and left with a liability.",
+      "Meta launched a personal AI agent called Muse — $20 or $100 a month — while currently facing lawsuits over how it handles user privacy. The app wants to know everything about you. They're just asking nicely this time.",
+      "The Supreme Court ruled that TV stations must offer their lowest ad rates to political parties. Republicans called it a win. The free market, apparently, has an asterisk when it comes to campaign season.",
+      "A study found that 2025 ICE raids in Chicago cost the region $1.26 billion in lost retail, restaurant, and tax revenue — because immigrant communities stayed home out of fear. The 'economic burden' argument is going to need some new math."
     ],
     "xJa": [
-      "AIブームで一番潤っているのは、AIを作った人でも投資家でもなく、現場の電気工の人たちらしい。残業代込みで絶好調。その隣で住民が「データセンター反対」のプラカードを立てている。",
-      "トランプ大統領、今年のレイバーデーも「すべての政策は労働者のため」と言った。去年も言った。専門家によると、この1年で組合保護はかなり削られたらしい。言葉と実態が毎年レイバーデーだけ再会する。",
-      "300回以上落とされた45歳の男性が就活の失敗を一人芝居にしたら話題になって、今フル稼働で公演している。仕事が見つからないから芸を作ったら、芸で仕事が生まれた。就活、もしかして成功だったのでは。",
-      "「建築的な不死」という言葉が出てきた時点で、もうこれは政治の話じゃないとわかる。トランプ大統領がワシントンに凱旋門を建設中。誰かが「どの勝利を記念するアーチですか」と聞いてほしい。",
-      "フェターマン上院議員、有権者対応を断るテキストを自分のiMessageに残していたことが判明。情報漏洩でも内部告発でもなく、本人が自分の手で打ったやつ。サボりの証拠を自作してしまうの、なかなかのレベル。"
+      "TSAが搭乗券なしで空港ゲートに入れるプログラムを始めた。「飛行機に乗る人だけ通す」がセキュリティの唯一の仕事だったはずが、有料会員なら「まあいっか」になるらしい。進化か退化かわからない。",
+      "LIVゴルフが破産申請。サウジマネーで億超えの契約金を出して選手を集めておいて、経営が傾いたら「はい、会社はあなたたちのものです」。転職したら会社ごともらった人たちの話。",
+      "メタがプライバシー訴訟の真っ最中に「あなたのことを何でも聞いてくれるパーソナルAI」を発売した。月額100ドルのプランと無料プランがある。無料プランの正式名称は「ビジネスモデル」だと思う。",
+      "最高裁がテレビ局に「政党への選挙広告は最低価格で売れ」と命令。共和党が勝訴と喜んでいる。自由市場を一番好きな人たちが、価格統制の判決で「やった！」と言っている日。",
+      "シカゴでのICE摘発作戦で、移民コミュニティの人々が怖くて外出できなくなった結果、小売・飲食・税収で12億6000万ドル超の損失。「経済の負担を排除する」と始めた作戦で、経済が負担を受けた。"
     ],
     "raidEn": [
-      "The funniest part is both sides are completely right. That's what makes it so hard to make a sign about.",
-      "He's delivered the pro-worker speech often enough that it's basically a seasonal menu item now. Pumpkin spice, but for labor rights.",
-      "He's fully booked promoting a show about having no bookings. Whatever the opposite of irony is, that's what this is.",
-      "'Architectural immortality' is what you call it when the legacy doesn't quite fit on a résumé.",
-      "Most politicians at least make you file a FOIA request to find the paper trail. He just... sent it."
+      "The TSA spent 20 years explaining why you can't bring a water bottle past security. Now they'll let you through without a ticket if you pay the annual fee. Truly the loyalty program we didn't see coming.",
+      "They recruited the best golfers in the world with guarantees and no-cut contracts, then went bankrupt and handed them the company. That's not a restructuring plan, that's a reverse heist.",
+      "Meta asking for your personal data is nothing new. Meta asking you to pay $100 a month so it can ask more personally — that's the new part.",
+      "Republicans just won a price-control ruling and are celebrating. I keep reading that sentence and it keeps saying the same thing.",
+      "The study basically found that the raids didn't cost the immigrants — it cost the economy that depended on them. The math came back with notes."
     ],
     "raidJa": [
-      "どちらも正しいのに、どちらも全力で戦っているの、これが一番整理しにくい構図ですよね。署名活動のスローガンを考えた人、大変だったと思う。",
-      "毎年レイバーデーに同じ宣言をするの、もはや季節の風物詩になってますよね。桜と同じで、来年も咲くと思う。",
-      "300回の不採用がそのまま脚本になるの、採用担当者が意図せず共同制作者になってた、ということなんですよね。",
-      "「建築的な不死」という言葉、政治家が使い始めると少し怖くなりますよね。歴史的に見ると大体そこから話が大きくなる。",
-      "証拠を自分のテキストで作ってしまうの、ある意味で一番正直な政治家かもしれないですね（褒めてはいない）。"
+      "TSAが「搭乗券なしでゲートまで入れる」プログラムを始めたという記事を読んで、2度読みしました。空港セキュリティの前提がひっくり返った日の記録、ありがとうございます。",
+      "LIVゴルフの件、「転職したら会社ごともらった」という整理が一番しっくりきました。選手側の困惑がどうなるのか、気になります。",
+      "「訴訟中に最もパーソナルなアプリを出す」というタイミングのセンス、見事に整理されていました。メタのニュースはこの角度で読むと全然ちがって見えますね。",
+      "最高裁の判決を「共和党が価格統制で勝訴」と読むと確かに不思議な文章になる、というのが面白かったです。",
+      "「怖がらせて外に出られなくするだけで12億ドル消えた」という数字の重さ、丁寧に取り上げてくださってありがとうございます。"
     ],
     "riffEn": [
-      "The data center goes up, and the union electricians are doing great — overtime, good wages, the works. The neighbors are furious. They're circulating petitions, going to zoning meetings, making signs. And there's a reasonable chance the guy rewiring the building's third floor lives two streets over from the person holding the sign. He's not a villain. She's not wrong. The AI boom found the one spot where 'labor wins' and 'community loses' are the exact same project. Nobody planned it that way. That's what makes it interesting.",
-      "Every Labor Day, the speech comes out: 'Every policy of this administration is designed to lift up the American worker.' Labor experts this year described the past twelve months as, and I'm paraphrasing, genuinely shocking in how anti-worker it's been. The thing about saying 'I'm for the workers' once is it's a promise. Saying it every Labor Day for years while the policy moves the other direction is something else. It's a format. At some point the promise becomes the decoration and the policy becomes the product.",
-      "Tim Millard applied for jobs for months, got rejected over 300 times, and turned the whole experience into a one-man theatrical show. He is now fully booked. The show is about having no bookings. The casting directors who never wrote back are credited in the program — under 'Inspiration.' Here's the part nobody's saying out loud: he is currently working harder than at any point during the job search. The job search, it turns out, was the audition.",
-      "Trump is building a triumphal arch in Washington D.C. A commentator calls it a pursuit of 'architectural immortality.' Triumphal arches, historically, commemorate specific victories. The Romans were pretty clear about that — you win a war, you get an arch. The specific victory this particular arch commemorates has not been announced. Maybe the announcement is also getting an arch.",
-      "A former staffer confirmed that Senator Fetterman regularly declined to perform core parts of his job. The evidence is his text messages. Not leaked documents, not anonymous sources — his own texts, sent from his own phone, declining, in writing, to do the constituent services part of being a senator. He ran on showing up. The texts suggest he had a more flexible definition of that in mind."
+      "TSA's whole pitch, for 20-plus years, has been: you need a ticket to get past us. That's the job. That's the only job. And now, if you pay $85 a year for PreCheck, you can walk to the gate without one — just to sit there, watch flights leave, and eat a $19 sandwich. I genuinely don't know if this is the security theater getting more theatrical, or the airport finally admitting what it always was: a mall with planes attached. Either way, they built a gate, charged people to get through it, and now they're charging other people to hang around on the other side. Somewhere in there is a business model I've been staring at too long.",
+      "LIV Golf was Saudi Arabia's bet that enough money could buy its way into the sports calendar. And it sort of worked — they got the players, the cameras, the tee times. What they couldn't buy was the part where people actually watch golf for the sport. So now it's Chapter 11, and under the restructuring plan, the players become majority owners of the thing they were paid to join. Phil Mickelson reportedly got $200 million to make the switch. He may now own a controlling stake in a bankrupt golf league. That's not a career arc, that's a warning label.",
+      "Meta is in court. Multiple courts, actually, over what the company does with user data. This is the same week they launched Muse, a personal AI agent that wants to learn your habits, your preferences, your life — for $20 a month, or $100 if you want the premium version of that. The free tier also exists. The free tier is the one where you are the feature. I'm not saying anything Meta hasn't already said in a terms-of-service document nobody reads. I'm just saying the timing is a choice.",
+      "The Supreme Court ruled that TV stations must sell election ad slots to political parties at their lowest available rate. Republicans called it a win. This is the same political movement that treats any price floor, any rate regulation, any government interference in private contracts as the first step toward socialism — except, apparently, when the regulated price benefits the party. The free market, it turns out, has a carve-out for campaign season. File that one.",
+      "A study looked at what happened to Chicago's economy during the 2025 ICE raids. What they found was that immigrant communities — spooked, staying home, avoiding shops and restaurants — produced a $1.26 billion hole in local retail, restaurant, and sales-tax revenue. Nobody got deported to another country. The money just... left. The argument was that undocumented immigrants were a burden on the economy. The economy looked at that argument and submitted a counter-filing."
     ],
     "riffJa": [
-      "データセンターが建つたびに組合電気工は潤う。残業あり、給料よし、いい話だ。でも建設現場の隣では住民が「うちの町にいらない」と署名を集めている。で、ここが面白いんですけど、その現場で電気配線をやっている組合員が、反対運動をしている人の2軒隣に住んでいる可能性がある。悪者は誰もいない。でも利害が完璧にすれ違っている。AIブームが生んだ、解決策のない正しい対立。",
-      "レイバーデー(労働者の日)のたびに「すべての政策は労働者のために」という宣言が出てくる。今年も出た。去年も出た。労働専門家の評価は「この1年は驚くほど反労働者的だった」。\n\n毎年同じ宣言をしないといけない状況、それ自体が何かを教えてくれてる気がする。一回言えば約束になる。毎年言い続けると、もうそれは約束じゃなくて、季節の挨拶みたいなものです。",
-      "45歳のティム・ミラードさん、300回以上の不採用を一人芝居にしたら話題になって、今はその公演で多忙を極めている。不採用にした会社は、プログラムの「インスピレーション」欄にクレジットされている。\n\n誰も言わないけど、今が就活中より一番ちゃんと働いている。就職活動は、舞台のオーディションだったのかもしれない。",
-      "トランプ大統領がワシントンD.C.に凱旋門を建設中で、評論家が「建築的な不死」の追求だと言っている。凱旋門というのは、歴史的には「勝利を記念するもの」です。ローマ人はそこに厳格で、戦争に勝ったらアーチを建てた。\n\nこのアーチが記念する勝利が何なのか、まだ発表されていない。発表のためにまた別のアーチが必要にならないといいけど。",
-      "フェターマン上院議員、有権者対応など上院議員としての中核業務を「日常的に断っていた」と元スタッフが証言。証拠はテキストメッセージ。情報漏洩でも内部告発でもなく、本人が自分のスマホから自分の手で打った「やりたくない」のテキストが証拠になった。\n\n証拠を自作してしまったという意味で、これは相当独自の状況だと思う。"
+      "TSAの存在理由は「搭乗券を持っている人だけを通す」、たったそれだけです。シンプルでした。\n\nで、今週から「搭乗券がなくても年会費85ドルのPreCheck会員なら通します」になりました。ゲートエリアで座って、他の人の飛行機が飛ぶのを眺めるためだけに、靴を脱がずに中に入れる。これは進化なんでしょうか。\n\n空港セキュリティが会員特典になった。まあ、そういう週でした。",
+      "LIVゴルフの設計図はシンプルでした。サウジアラビアの石油マネーで世界中のトッププロを引き抜いて、PGAに対抗するリーグを作る。\n\nできたのは: 破産したゴルフリーグと、そのオーナーになってしまった元・引き抜かれた選手たちです。\n\n「億超えの保証金で来てください」と口説かれて入社したら、気づいたら廃墟のオーナーになっていた。転職したら会社ごともらった、という話。",
+      "メタは今、プライバシーと安全性をめぐる複数の訴訟を抱えています。\n\nその同じ週に出てきたのが「Muse」。あなたの習慣、好み、日常を何でも聞いてくれるパーソナルAIエージェント。月額20ドル、または100ドル。\n\n無料プランもあります。無料プランにおけるあなたの立ち位置については、利用規約の何ページ目かに書いてあります（誰も読んでいません）。\n\n「あなたのことをもっと知りたい」って、プロポーズなのか警告なのか。正直どっちでもあんまり変わらない気がしてきた。",
+      "最高裁が判決を出しました。テレビ局は政党に対して、最低価格で選挙広告枠を売らなければならない、と。\n\n共和党が「勝訴」と言っています。価格統制の判決で。\n\n自由市場と規制緩和を旗印にしてきた政党が、「民間企業に価格を命じる」判決で喝采している。まあ、そういうもんですよね。",
+      "2025年のシカゴでのICE摘発作戦のあと、移民コミュニティの人たちは外出を控えた。\n\n飲食店に行かなくなった。小売店に行かなくなった。とにかく、家にいた。\n\n結果として消えた経済活動は12億6000万ドル超。誰も国外に出ていません。ただ、怖くて外に出なかっただけです。それだけで、これだけ消えた。\n\n「移民は経済の負担だ」という主張のもとで始まった作戦で、経済が負担を受けた。数字が主張に反論を提出してきた、という話。"
     ],
     "asideEn": [
-      "The boat doesn't care about the petition.",
-      "Year three of the same speech. Belt's getting tight.",
-      "So the rejection letters were the research.",
-      "Still waiting on the victory.",
-      "He cc'd history."
+      "They called it security. Now it's a perk.",
+      "He left the PGA for $200 million and got a bankrupt company.",
+      "Nothing says 'trust us' like a lawsuit and a new subscription.",
+      "Price controls. Republican win. Same sentence.",
+      "They didn't deport a billion dollars. It just stayed home."
     ],
     "asideJa": [
-      "隣人の気持ちより残業代の方が現実だった。",
-      "3年連続同じ約束、記録更新中。",
-      "落選続きが、そのまま脚本になった。",
-      "どの勝利のアーチなのか、誰か聞いて。",
-      "証拠を自分で作るタイプ。"
+      "セキュリティが会員特典になった。",
+      "入社したら会社ごともらった。",
+      "訴訟中に「全部話して」は強い。",
+      "自由市場の人たちが価格統制で勝訴。",
+      "12億ドルは、ただ怖くて家にいた。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Labor Day",
-      "Trump",
-      "John Fetterman"
+      "News Commentary",
+      "TSA",
+      "ICE"
     ],
-    "fullEn": "# Everybody's Working Hard Except the People Paid To\n\n## Today's Forecast\n\nFive stories today, and they all smell like the same thing: the gap between the job title and the job.\n\nA union built to protect workers is now the reason the data center goes up. A president who says 'every policy is for the workers' has said it enough times that it's started to sound like a ringtone. A senator texted his way out of the senator parts of being a senator. And a man who couldn't get hired anywhere is now fully booked.\n\nHere's your forecast: if you feel like you're doing your actual job while the people above you are mostly doing press releases, today's news is going to validate that feeling extremely hard. Not a coincidence. Not your fault. The system is just running the same show it always runs, and today five different reporters caught it from five different angles.\n\nYou're paying attention. That already puts you ahead.\n\n---\n\n## 1. Union Electricians Love Data Centers. Their Neighbors? Not So Much.\n\n*NPR Business — [source](https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom)*\n\nThe ongoing data center construction boom is generating a surge of work and overtime pay for union electricians across the United States. However, many of the same communities where these facilities are being built are actively fighting to block new construction, citing noise, energy use, and neighborhood disruption. This puts union workers in an awkward position: their livelihoods now depend on projects their own neighbors are trying to kill.\n\n**Why It's Funny**\n\nThe data center goes up, and the union electricians are doing great — overtime, good wages, the works. The neighbors are furious. They're circulating petitions, going to zoning meetings, making signs. And there's a reasonable chance the guy rewiring the building's third floor lives two streets over from the person holding the sign. He's not a villain. She's not wrong. The AI boom found the one spot where 'labor wins' and 'community loses' are the exact same project. Nobody planned it that way. That's what makes it interesting.\n\n**Say It Out Loud**\n\n> The neighborhood is furious about the new data center. The electrician wiring it just bought a boat.\n\n---\n\n## 2. Trump Vowed to Champion Workers Every Labor Day. Workers Are Still Waiting.\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union)*\n\nLabor experts are expressing shock at how aggressively anti-worker the Trump administration has been in the year since last Labor Day. Despite repeated pledges to champion American workers — including a statement that 'every policy of the Trump administration is designed to lift up the American worker' — the administration's actions have consistently undermined unions and worker protections. The disconnect between Trump's rhetoric and record is drawing renewed scrutiny on Labor Day 2026.\n\n**Why It's Funny**\n\nEvery Labor Day, the speech comes out: 'Every policy of this administration is designed to lift up the American worker.' Labor experts this year described the past twelve months as, and I'm paraphrasing, genuinely shocking in how anti-worker it's been. The thing about saying 'I'm for the workers' once is it's a promise. Saying it every Labor Day for years while the policy moves the other direction is something else. It's a format. At some point the promise becomes the decoration and the policy becomes the product.\n\n**Say It Out Loud**\n\n> He's been the workers' champion so many times now they've had to print new championship belts.\n\n---\n\n## 3. Man Turns 300 Job Rejections Into a One-Man Show. Casting Directors Yet to Respond.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html)*\n\nAfter spending months applying for jobs and facing repeated rejections, 45-year-old Tim Millard decided to channel his frustration into a one-man theatrical show about the experience. The performance, which dramatizes the demoralizing cycle of job hunting, has drawn attention for turning a widely shared modern misery into live comedy. Millard described the search as 'demoralizing' before finding an unexpected creative outlet.\n\n**Why It's Funny**\n\nTim Millard applied for jobs for months, got rejected over 300 times, and turned the whole experience into a one-man theatrical show. He is now fully booked. The show is about having no bookings. The casting directors who never wrote back are credited in the program — under 'Inspiration.' Here's the part nobody's saying out loud: he is currently working harder than at any point during the job search. The job search, it turns out, was the audition.\n\n**Say It Out Loud**\n\n> 300 rejections and a one-man show. The LinkedIn profile still says 'open to work.'\n\n---\n\n## 4. Trump's Washington Makeover: Ballrooms, Arches, and the Quest for Architectural Immortality\n\n*NPR Politics — [source](https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital)*\n\nPresident Trump is overseeing a series of construction projects that are physically reshaping Washington, D.C., including a ballroom and a planned triumphal arch. According to New York Magazine's Ben Terris, the projects reflect an attempt to achieve what he calls 'architectural immortality' — leaving a permanent physical mark on the nation's capital. The scale and style of the changes have drawn both attention and criticism.\n\n**Why It's Funny**\n\nTrump is building a triumphal arch in Washington D.C. A commentator calls it a pursuit of 'architectural immortality.' Triumphal arches, historically, commemorate specific victories. The Romans were pretty clear about that — you win a war, you get an arch. The specific victory this particular arch commemorates has not been announced. Maybe the announcement is also getting an arch.\n\n**Say It Out Loud**\n\n> A triumphal arch. In Washington. For a man who finds the existing monuments a little understated.\n\n---\n\n## 5. Fetterman's Texts Show He'd Rather Not Do the Senator Thing, If That's Okay\n\n*CBS News US — [source](https://www.cbsnews.com/news/john-fetterman-texts-reluctance-performing-basic-constituent-service-duties/)*\n\nA former staffer has confirmed that Senator John Fetterman of Pennsylvania has routinely dismissed and at times outright refused to perform core aspects of his job, including constituent services. Text messages reviewed as part of the reporting reveal a pattern of impatience with the basic duties of a sitting U.S. senator. The revelations add to existing scrutiny of Fetterman's conduct in office.\n\n**Why It's Funny**\n\nA former staffer confirmed that Senator Fetterman regularly declined to perform core parts of his job. The evidence is his text messages. Not leaked documents, not anonymous sources — his own texts, sent from his own phone, declining, in writing, to do the constituent services part of being a senator. He ran on showing up. The texts suggest he had a more flexible definition of that in mind.\n\n**Say It Out Loud**\n\n> He ran on showing up. The texts suggest a more nuanced interpretation of that promise.\n\n---\n\n## Today's Punchline\n\n> Today's theme: the job description and the job have separated, and nobody filed the paperwork.\n",
-    "fullJa": "# 「労働者の味方」と言い続けて1年、何が変わったか数えてみた\n\n## 今日を占うよ〜\n\n組合電気工が残業代で潤っている。\nその現場の隣で、住民が「建設反対！」のプラカードを立てている。\n\nで、ホワイトハウスでは大統領が「俺は労働者の味方だ」と今年も言った。去年も言った。専門家によると組合は弱体化してるらしいです。\n\nペンシルベニアの上院議員は、有権者からの連絡を「めんどくさい」とテキストで断っていたことが判明。証拠を自分で作ってしまうタイプ。\n\nワシントンでは大統領が凱旋門を建設中で、どの勝利を記念するアーチかはまだ発表されていない。\n\nで、仕事が見つからなくて300回落とされた男が一人芝居を作ったら、今が一番忙しくなった。\n\n今日の5本を貫く糸は「肩書きとやってることが別の話になっている」、それだけです。\n\n今日の占いです。\nあなたが「なんで私がこんなに動いてるんだろう」と思っているなら、今日のニュースがちゃんと答えてくれます。上の人たちが言葉だけで仕事をしている分、あなたが実際に動いている。それは弱さじゃなくて、今日は一番まともな側にいるってこと。\n少なくとも今日はね。\n\n---\n\n## 1. Union Electricians Love Data Centers. Their Neighbors? Not So Much.\n\n*NPR Business（[記事](https://www.npr.org/2026/09/07/nx-s1-5947245/union-electricians-welcome-data-center-boom)）*\n\nデータセンター建設ラッシュにより、組合電気工が残業代込みで潤っている一方、建設を阻止しようとする地域住民との間で対立が深まっている。\n\n**どこが笑える？**\n\nデータセンターが建つたびに組合電気工は潤う。残業あり、給料よし、いい話だ。でも建設現場の隣では住民が「うちの町にいらない」と署名を集めている。で、ここが面白いんですけど、その現場で電気配線をやっている組合員が、反対運動をしている人の2軒隣に住んでいる可能性がある。悪者は誰もいない。でも利害が完璧にすれ違っている。AIブームが生んだ、解決策のない正しい対立。\n\n**このニュースをジョークにするなら...**\n\n> 近所の人たちはデータセンターに大激怒。工事してる電気工はボートを買いました。\n\n---\n\n## 2. Trump Vowed to Champion Workers Every Labor Day. Workers Are Still Waiting.\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/07/trump-workers-labor-union)）*\n\nトランプ大統領は労働者の味方を繰り返し公言してきたが、労働専門家たちは、この1年間の政策が組合や労働者保護を実質的に弱体化させていると指摘している。\n\n**どこが笑える？**\n\nレイバーデー(労働者の日)のたびに「すべての政策は労働者のために」という宣言が出てくる。今年も出た。去年も出た。労働専門家の評価は「この1年は驚くほど反労働者的だった」。\n\n毎年同じ宣言をしないといけない状況、それ自体が何かを教えてくれてる気がする。一回言えば約束になる。毎年言い続けると、もうそれは約束じゃなくて、季節の挨拶みたいなものです。\n\n**このニュースをジョークにするなら...**\n\n> 何度も「労働者のチャンピオン」を名乗ってるせいで、ベルトの在庫が足りなくなってきた。\n\n---\n\n## 3. Man Turns 300 Job Rejections Into a One-Man Show. Casting Directors Yet to Respond.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/07/45-year-old-turns-job-search-into-a-one-man-show.html)）*\n\n45歳のティム・ミラード氏が、何ヶ月にもわたる就職活動の失敗を題材にした一人芝居を作り上げ、話題を集めている。\n\n**どこが笑える？**\n\n45歳のティム・ミラードさん、300回以上の不採用を一人芝居にしたら話題になって、今はその公演で多忙を極めている。不採用にした会社は、プログラムの「インスピレーション」欄にクレジットされている。\n\n誰も言わないけど、今が就活中より一番ちゃんと働いている。就職活動は、舞台のオーディションだったのかもしれない。\n\n**このニュースをジョークにするなら...**\n\n> 300回不採用、一人芝居を完成。LinkedInのプロフィールはまだ「求職中」のまま。\n\n---\n\n## 4. Trump's Washington Makeover: Ballrooms, Arches, and the Quest for Architectural Immortality\n\n*NPR Politics（[記事](https://www.npr.org/2026/09/07/nx-s1-5958600/trumps-construction-projects-are-transforming-the-capital)）*\n\nトランプ大統領がワシントンD.C.の公共空間に大型建築プロジェクトを進めており、評論家は「建築的な不死」を追求する試みだと分析している。\n\n**どこが笑える？**\n\nトランプ大統領がワシントンD.C.に凱旋門を建設中で、評論家が「建築的な不死」の追求だと言っている。凱旋門というのは、歴史的には「勝利を記念するもの」です。ローマ人はそこに厳格で、戦争に勝ったらアーチを建てた。\n\nこのアーチが記念する勝利が何なのか、まだ発表されていない。発表のためにまた別のアーチが必要にならないといいけど。\n\n**このニュースをジョークにするなら...**\n\n> 凱旋門をワシントンに。今ある記念碑が少し物足りなかったらしい。\n\n---\n\n## 5. Fetterman's Texts Show He'd Rather Not Do the Senator Thing, If That's Okay\n\n*CBS News US（[記事](https://www.cbsnews.com/news/john-fetterman-texts-reluctance-performing-basic-constituent-service-duties/)）*\n\n元スタッフの証言により、ジョン・フェターマン上院議員が有権者対応など上院議員職の中核的業務を日常的に拒否・無視してきたことが明らかになった。\n\n**どこが笑える？**\n\nフェターマン上院議員、有権者対応など上院議員としての中核業務を「日常的に断っていた」と元スタッフが証言。証拠はテキストメッセージ。情報漏洩でも内部告発でもなく、本人が自分のスマホから自分の手で打った「やりたくない」のテキストが証拠になった。\n\n証拠を自作してしまったという意味で、これは相当独自の状況だと思う。\n\n**このニュースをジョークにするなら...**\n\n> 「必ず現れる」を掲げて当選した。テキストを読むと、その約束の解釈が少し幅広かったようだ。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「仕事をしている」と「仕事の話をしている」が、静かに別の職種になってる。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d5のcaption5本目に英語と日本語が混在した不合格ライン（'庶民派' senator, very impatient with actual庶民. Classic.）があり書き直し。xJa1本目が135字オーバーのため短縮。introJaの「占い」要素は前向きな励ましとして機能しているが、5本の予告が羅列されておらず3要素のうち「予告」が薄いため補強。他は強度・整合性ともに合格水準。 ／ 文体パス: 5箇所修正。代表例: riffJa[1]の締め「季節のコンテンツになる」前後が説明口調でまとめすぎていたので、ツッコミが漏れた形に崩した。"
+    "fullEn": "# The Gatekeepers Opened the Gate\n\n## Today's Forecast\n\nSo there's a theme today.\n\nThe people who built the gates decided the gates are optional. TSA is now letting non-passengers through security — for a fee, naturally. The Supreme Court told private TV stations what to charge. Meta, currently in court over what it does with your data, released an app that wants to know everything about you. LIV Golf, funded by sovereign oil money, went bankrupt and handed the ruins to its players. And in Chicago, a crackdown meant to reduce an \"economic burden\" eliminated $1.26 billion from the local economy.\n\nHere's your forecast: if you've ever followed the rules only to watch the rule-maker quietly rewrite them, today's news is not going to surprise you. It might, however, make you feel significantly less alone. Carry that.\n\n---\n\n## 1. TSA Now Lets You Through Security Without a Ticket — Just to Hang Out at the Gate\n\n*CBS News US — [source](https://www.cbsnews.com/news/tsa-gateside-program-security-without-ticket/)*\n\nThe Transportation Security Administration has launched a new program at 13 airports that allows eligible TSA PreCheck members to pass through security checkpoints without a plane ticket. The program lets these members enter the gate area even if they have no flight booked.\n\n**Why It's Funny**\n\nTSA's whole pitch, for 20-plus years, has been: you need a ticket to get past us. That's the job. That's the only job. And now, if you pay $85 a year for PreCheck, you can walk to the gate without one — just to sit there, watch flights leave, and eat a $19 sandwich. I genuinely don't know if this is the security theater getting more theatrical, or the airport finally admitting what it always was: a mall with planes attached. Either way, they built a gate, charged people to get through it, and now they're charging other people to hang around on the other side. Somewhere in there is a business model I've been staring at too long.\n\n**Say It Out Loud**\n\n> TSA finally cracked the code on airport security: just let everyone in and call it a premium experience.\n\n---\n\n## 2. LIV Golf Files for Bankruptcy — Players to Become Majority Owners of the Wreckage\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html)*\n\nLIV Golf, the Saudi-backed breakaway golf league, has filed for Chapter 11 bankruptcy protection. Under the proposed restructuring deal, the players are expected to become majority owners of the venture they were recruited to join.\n\n**Why It's Funny**\n\nLIV Golf was Saudi Arabia's bet that enough money could buy its way into the sports calendar. And it sort of worked — they got the players, the cameras, the tee times. What they couldn't buy was the part where people actually watch golf for the sport. So now it's Chapter 11, and under the restructuring plan, the players become majority owners of the thing they were paid to join. Phil Mickelson reportedly got $200 million to make the switch. He may now own a controlling stake in a bankrupt golf league. That's not a career arc, that's a warning label.\n\n**Say It Out Loud**\n\n> LIV Golf promised players guaranteed money and no cuts. Turns out the league didn't get the same deal.\n\n---\n\n## 3. Meta Launches Personal AI Agent — While Still Fighting Privacy and Safety Lawsuits\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html)*\n\nMeta unveiled Muse, a personal AI agent app available in a free tier or monthly subscriptions of $20 or $100. The launch comes as Meta faces a public reckoning over its handling of user privacy and platform safety.\n\n**Why It's Funny**\n\nMeta is in court. Multiple courts, actually, over what the company does with user data. This is the same week they launched Muse, a personal AI agent that wants to learn your habits, your preferences, your life — for $20 a month, or $100 if you want the premium version of that. The free tier also exists. The free tier is the one where you are the feature. I'm not saying anything Meta hasn't already said in a terms-of-service document nobody reads. I'm just saying the timing is a choice.\n\n**Say It Out Loud**\n\n> Meta's new AI wants to know everything about you. They're just asking this time.\n\n---\n\n## 4. Supreme Court Rules TV Stations Must Sell Election Ads at a Steep Discount — Only to Political Parties\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/)*\n\nThe Supreme Court has ruled that television stations must offer their lowest available ad rates to political parties for election advertising. The decision represents a win for Republicans who pushed for the ruling.\n\n**Why It's Funny**\n\nThe Supreme Court ruled that TV stations must sell election ad slots to political parties at their lowest available rate. Republicans called it a win. This is the same political movement that treats any price floor, any rate regulation, any government interference in private contracts as the first step toward socialism — except, apparently, when the regulated price benefits the party. The free market, it turns out, has a carve-out for campaign season. File that one.\n\n**Say It Out Loud**\n\n> The free market is sacred in America, unless you need a campaign ad — then it's a regulated utility.\n\n---\n\n## 5. ICE Raids Cost Chicago Over $1.26 Billion in Lost Revenue as Immigrants Stayed Home Out of Fear\n\n*NPR News — [source](https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids)*\n\nA new study has found that the 2025 ICE raids in Chicago led to widespread fear in immigrant communities, causing many to stay home and avoid public spaces. The resulting drop in economic activity cost the region more than $1.26 billion in lost retail, restaurant, and sales-tax revenue.\n\n**Why It's Funny**\n\nA study looked at what happened to Chicago's economy during the 2025 ICE raids. What they found was that immigrant communities — spooked, staying home, avoiding shops and restaurants — produced a $1.26 billion hole in local retail, restaurant, and sales-tax revenue. Nobody got deported to another country. The money just... left. The argument was that undocumented immigrants were a burden on the economy. The economy looked at that argument and submitted a counter-filing.\n\n**Say It Out Loud**\n\n> They didn't have to deport a billion dollars. They just had to scare it into staying home.\n\n---\n\n## Today's Punchline\n\n> Every system you've ever trusted was designed by someone who also designed the exception for themselves.\n",
+    "fullJa": "# 「通してはいけない人」を通し、「守るはずの経済」を12億ドル消した週\n\n## 今日を占うよ〜\n\n搭乗券なしでゲートを通れる日が来ました。\n\nTSA(米運輸保安庁)が13空港で始めたのは、飛行機に乗る予定のない人を、有料会員なら空港のゲートエリアまで通すプログラム。「空港のセキュリティ」という概念が、会員特典になりました。\n\nで、他を見ると…\n最高裁がテレビ局に価格統制を命じ、プライバシー訴訟の最中にメタが「あなたのことを何でも聞くAI」を発売し、サウジマネーのゴルフリーグが破産して選手に廃墟を渡し、ICEが「経済の負担を排除する」と始めた作戦で12億ドルを消した。\n\n今日の5本を貫く糸は、たぶん「ルールを作った側が一番ルールを無視している」ということです。\n\nということで、今日の占い。\nルールを守ってるのに損している気がするなら、それはあなたのせいじゃないです。上の方で誰かが書き換えています。今日はそういう日なので、あなたが真面目にやっていること自体を疑わなくていいと思う。少なくとも今日はね。\n\n---\n\n## 1. TSA Now Lets You Through Security Without a Ticket — Just to Hang Out at the Gate\n\n*CBS News US（[記事](https://www.cbsnews.com/news/tsa-gateside-program-security-without-ticket/)）*\n\nTSAが新プログラムを導入し、一部のTSA PreCheckメンバーは搭乗券なしで空港のセキュリティを通過し、ゲートエリアに入れるようになった。対象は13空港。\n\n**どこが笑える？**\n\nTSAの存在理由は「搭乗券を持っている人だけを通す」、たったそれだけです。シンプルでした。\n\nで、今週から「搭乗券がなくても年会費85ドルのPreCheck会員なら通します」になりました。ゲートエリアで座って、他の人の飛行機が飛ぶのを眺めるためだけに、靴を脱がずに中に入れる。これは進化なんでしょうか。\n\n空港セキュリティが会員特典になった。まあ、そういう週でした。\n\n**このニュースをジョークにするなら...**\n\n> TSAはついに空港セキュリティの答えを出した。全員通して、プレミアム体験と呼ぶ。\n\n---\n\n## 2. LIV Golf Files for Bankruptcy — Players to Become Majority Owners of the Wreckage\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html)）*\n\nサウジアラビア資金が支援するLIVゴルフがチャプター11の破産申請を行った。再建計画では、プレーヤーたちが会社の過半数株主になる見込み。\n\n**どこが笑える？**\n\nLIVゴルフの設計図はシンプルでした。サウジアラビアの石油マネーで世界中のトッププロを引き抜いて、PGAに対抗するリーグを作る。\n\nできたのは: 破産したゴルフリーグと、そのオーナーになってしまった元・引き抜かれた選手たちです。\n\n「億超えの保証金で来てください」と口説かれて入社したら、気づいたら廃墟のオーナーになっていた。転職したら会社ごともらった、という話。\n\n**このニュースをジョークにするなら...**\n\n> LIVゴルフは選手に「カットなし、全額保証」と約束した。リーグ自身はカットされた。\n\n---\n\n## 3. Meta Launches Personal AI Agent — While Still Fighting Privacy and Safety Lawsuits\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html)）*\n\nメタが個人向けAIエージェントアプリ「Muse」を発表。無料プランと月額20〜100ドルの有料プランを提供するが、同社はプライバシーと安全性をめぐる批判に直面している。\n\n**どこが笑える？**\n\nメタは今、プライバシーと安全性をめぐる複数の訴訟を抱えています。\n\nその同じ週に出てきたのが「Muse」。あなたの習慣、好み、日常を何でも聞いてくれるパーソナルAIエージェント。月額20ドル、または100ドル。\n\n無料プランもあります。無料プランにおけるあなたの立ち位置については、利用規約の何ページ目かに書いてあります（誰も読んでいません）。\n\n「あなたのことをもっと知りたい」って、プロポーズなのか警告なのか。正直どっちでもあんまり変わらない気がしてきた。\n\n**このニュースをジョークにするなら...**\n\n> メタの新AIはあなたのことを全部知りたいと言ってる。今回は一応、聞いてくる。\n\n---\n\n## 4. Supreme Court Rules TV Stations Must Sell Election Ads at a Steep Discount — Only to Political Parties\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/)）*\n\n連邦最高裁が、テレビ局は政党に対して最低価格で選挙広告枠を販売しなければならないという判決を下した。共和党の勝訴となる。\n\n**どこが笑える？**\n\n最高裁が判決を出しました。テレビ局は政党に対して、最低価格で選挙広告枠を売らなければならない、と。\n\n共和党が「勝訴」と言っています。価格統制の判決で。\n\n自由市場と規制緩和を旗印にしてきた政党が、「民間企業に価格を命じる」判決で喝采している。まあ、そういうもんですよね。\n\n**このニュースをジョークにするなら...**\n\n> アメリカでは自由市場は神聖なもの。ただし選挙広告だけは規制対象の公益事業扱い。\n\n---\n\n## 5. ICE Raids Cost Chicago Over $1.26 Billion in Lost Revenue as Immigrants Stayed Home Out of Fear\n\n*NPR News（[記事](https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids)）*\n\n新たな調査で、2025年のシカゴでのICE摘発作戦が移民コミュニティに恐怖をもたらし、小売・飲食・売上税収入で12億6000万ドル超の損失が生じたと推計された。\n\n**どこが笑える？**\n\n2025年のシカゴでのICE摘発作戦のあと、移民コミュニティの人たちは外出を控えた。\n\n飲食店に行かなくなった。小売店に行かなくなった。とにかく、家にいた。\n\n結果として消えた経済活動は12億6000万ドル超。誰も国外に出ていません。ただ、怖くて外に出なかっただけです。それだけで、これだけ消えた。\n\n「移民は経済の負担だ」という主張のもとで始まった作戦で、経済が負担を受けた。数字が主張に反論を提出してきた、という話。\n\n**このニュースをジョークにするなら...**\n\n> 12億ドルを強制送還する必要はなかった。怖がらせて家に閉じ込めるだけでよかった。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> ルールを守る人と、ルールを書く人は、最初から別の人なんですよね。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3のcaption3に汎用ジョーク定型句「Nothing says…」が残存していたため書き直し。d5のimagePrompts3にICE摘発との因果を示す記号（badge shadow）が入っているが実在人物・被害者を映さない構図なので許容。xJa1が137字でオーバーしていたため短縮。riffEnおよびriffJaは人間の呼吸で書かれており合格。introJa・leadJa・quipはペルソナ一致で合格。センシティブ候補：d5は移民コミュニティへの恐怖と経済的被害を扱うが、死・重傷・自殺等の直接的悲劇は含まず、sensitive指定は不要と判断。captionsJa d2-2の「200億円」は元データの「$200 million」から算出されており事実逸脱の可能性（レート依存）だが原文captions英語に「$200 million」とあり対応として許容。全体として直すべき箇所は最小限。 ／ 文体パス: 3箇所修正。riffJa[0]の締め「たぶん長く覚えていると思います」がAIらしい総括だったので崩した。riffJa[3]の「思想というのは状況によってずいぶん柔軟になるんだな、と学びます」が「うまくまとめた感」の典型だったので捨て台詞に切り落とした。riffJa[2]の「判断は読者に委ねます」も距離を感じる締めなので本音形に直した。"
   },
   "carousel": [
-    "images/2026-09-08/carousel/slide-1.jpg",
-    "images/2026-09-08/carousel/slide-2.jpg",
-    "images/2026-09-08/carousel/slide-3.jpg",
-    "images/2026-09-08/carousel/slide-4.jpg",
-    "images/2026-09-08/carousel/slide-5.jpg",
-    "images/2026-09-08/carousel/slide-6.jpg",
-    "images/2026-09-08/carousel/slide-7.jpg"
+    "images/2026-09-09/carousel/slide-1.jpg",
+    "images/2026-09-09/carousel/slide-2.jpg",
+    "images/2026-09-09/carousel/slide-3.jpg",
+    "images/2026-09-09/carousel/slide-4.jpg",
+    "images/2026-09-09/carousel/slide-5.jpg",
+    "images/2026-09-09/carousel/slide-6.jpg",
+    "images/2026-09-09/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-08/note-header.jpg",
-    "substack": "images/2026-09-08/substack-cover.jpg"
+    "note": "images/2026-09-09/note-header.jpg",
+    "substack": "images/2026-09-09/substack-cover.jpg"
   }
 };
