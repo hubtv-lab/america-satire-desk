@@ -1,366 +1,366 @@
 {
   "version": 1,
-  "date": "2026-09-09",
-  "generatedAt": "2026-09-08T21:54:56+00:00",
+  "date": "2026-09-10",
+  "generatedAt": "2026-09-09T21:45:49+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "TSA Now Lets You Through Security Without a Ticket — Just to Hang Out at the Gate",
-        "source": "CBS News US",
-        "date": "2026-09-09",
-        "url": "https://www.cbsnews.com/news/tsa-gateside-program-security-without-ticket/",
-        "summary": "TSAが新プログラムを導入し、一部のTSA PreCheckメンバーは搭乗券なしで空港のセキュリティを通過し、ゲートエリアに入れるようになった。対象は13空港。"
+        "headline": "Republicans to Tout Stock-Trading Ban at Convention — While Trump Logged 21,000 Trades Last Year",
+        "source": "CNBC Top News",
+        "date": "2026-09-10",
+        "url": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
+        "summary": "共和党は中間選挙の大会で議会議員の株取引禁止を売り物にする予定だが、同法案が適用されるのは議会のみで、2025年に2万1000件超の取引を開示したトランプ大統領本人には適用されない。"
       },
       "commentary": [
-        "<b>矛盾:</b> セキュリティチェックの存在意義は「飛行機に乗る人だけを通す」ことだったんですけど、もう飛行機に乗らなくてもいいらしいです。",
-        "<b>滑稽さ:</b> 年会費を払ってPreCheckに入れば、出発ロビーのフードコートに並ぶためだけに靴を脱がなくていい。進化してるのか退化してるのかわからない。",
-        "<b>日本・海外から見ると:</b> 日本では空港のゲートエリアに入るのに搭乗券は「必須」どころか大前提なんですが、アメリカは有料会員になれば「まあいっか」になるんですね。"
+        "<b>矛盾:</b> 「議員の株取引を禁止する」と叫びながら、2万1000回取引した大統領は適用外ですよ、という法案を誇らしげに掲げているんですよ。",
+        "<b>滑稽さ:</b> 2万1000回って、1日平均57件でしょ。寝る間もなく取引してたんですかね。大会のスピーチの間も携帯でやってたりして。",
+        "<b>日本・海外から見ると:</b> 「ザル法を盾に持って正義を語る」構図、世界共通ですけど、ここまで数字がはっきりしてる例もなかなかないですよね。"
       ],
       "imagePrompts": [
-        "A TSA checkpoint with a large sign reading 'NO TICKET? NO PROBLEM.' An agent cheerfully waves through a man carrying a beach chair and a paperback novel, no luggage in sight.",
-        "A person sitting at an airport gate, watching a plane board, holding a cup of terminal coffee and a book — no boarding pass anywhere in sight. Other travelers look confused.",
-        "A TSA PreCheck membership card displayed like a VIP nightclub wristband, with a velvet rope and a bouncer at a gate entrance labeled 'GATE B7 — MEMBERS ONLY'"
+        "A politician at a convention podium holding up a large banner reading 'STOCK TRADING BAN' while a giant ticker-tape display behind them scrolls thousands of stock trades",
+        "A loophole rendered literally: a metal fence labeled 'Congressional Stock Ban' with an enormous gap cut out, shaped like a president's silhouette, through which a river of trading slips flows freely",
+        "A scoreboard on a convention stage: 'Congress: 0 trades allowed' vs. 'Executive Branch: 21,000+' with confetti falling from the ceiling"
       ],
       "captions": [
-        "TSA finally cracked the code on airport security: just let everyone in and call it a premium experience.",
-        "They built the whole system to keep non-passengers out. Now they're charging non-passengers $85 a year to get in. Respect the hustle.",
-        "So I can go sit at Gate 14 and watch other people's flights leave. Is this… is this what we paid for?",
-        "Post-9/11 America spent 25 years building the world's most elaborate ticket-checking apparatus. PreCheck members: 'Cool, we're good though.'",
-        "The airport is now a mall you have to apply for."
+        "They passed a stock-trading ban that doesn't cover the guy with 21,000 trades. Solid loophole, guys. Very tight.",
+        "21,000 trades in a year. At some point that's not a portfolio — that's a personality disorder.",
+        "The convention theme is draining the swamp. The fine print says the drain skips the Oval Office.",
+        "Congress: banned. President: 57 trades a day. Totally different thing, don't worry about it.",
+        "You ever write a no-running rule at a pool and then immediately run? Republicans just did that. For the whole country."
       ],
       "captionsJa": [
-        "TSAはついに空港セキュリティの答えを出した。全員通して、プレミアム体験と呼ぶ。",
-        "搭乗券のない人を排除するために作った仕組みで、今度は搭乗券のない人から年8500円を取って中に入れてる。商才がある。",
-        "ゲート14に座って、他の人の飛行機が飛び立つのを眺める。これのために払ってたんですか。",
-        "同時多発テロから25年かけて作り上げた搭乗券確認システム。PreCheckメンバー「でも俺たちは別にいいっすよね」。",
-        "空港がもう、申請が必要なショッピングモールになってる。"
+        "2万1000件取引した人には適用されない株取引禁止法を誇らしげに掲げる大会。抜け穴の精度だけは一流ですね。",
+        "年2万1000回の取引。もうそれ投資じゃなくて、キャラクターですよ。",
+        "大会のテーマは「沼を干上がらせろ」。小さな文字で「ホワイトハウスの周りを除く」と書いてある。",
+        "議員はアウト。大統領は1日57回。「全然別の話ですから」って顔してる。",
+        "プールで「走るな」の貼り紙を自分で貼って即ダッシュする人いるじゃないですか。共和党が今、国家規模でやってますよ。"
       ],
-      "newsEn": "The Transportation Security Administration has launched a new program at 13 airports that allows eligible TSA PreCheck members to pass through security checkpoints without a plane ticket. The program lets these members enter the gate area even if they have no flight booked.",
+      "newsEn": "Republicans plan to promote a congressional stock-trading ban as a signature issue at their midterm convention in Dallas. The House-passed legislation applies only to members of Congress and their families. President Trump, meanwhile, disclosed more than 21,000 trades in 2025 — none of which would be restricted under the bill Republicans are celebrating.",
       "ironyEn": [
         {
-          "contradiction": "The entire post-9/11 security apparatus was built around the idea that only ticketed passengers get past the checkpoint. TSA just made that optional for the right members.",
-          "absurdity": "You can now pay for TSA PreCheck, skip taking off your shoes, and walk straight to a gate — for a flight you're not on, to a destination you're not going to.",
-          "outside": "In most countries, a boarding pass is the bare minimum to enter an airport gate area. In America it's now a perk you can opt out of."
+          "contradiction": "Republicans are campaigning on a stock-trading ban that, by design, doesn't apply to the guy at the top of the ticket.",
+          "absurdity": "Trump disclosed 21,000 trades in one year. That's not investing — that's a second job with better hours.",
+          "outside": "From abroad, this reads as a party proudly displaying a fire extinguisher with a hole in the bottom."
         },
         {
-          "contradiction": "TSA exists to keep unauthorized people away from aircraft. It's now authorizing people with no aircraft to go to.",
-          "absurdity": "Gate A22 is now a lounge you can just… visit. Bring a book. Watch some strangers board. Go home.",
-          "outside": "Frequent flyer programs used to reward people who fly a lot. TSA PreCheck now rewards people who don't need to fly at all."
+          "contradiction": "The bill they're cheering covers Congress. The person who most needs covering disclosed a trade roughly every 25 minutes of the business day.",
+          "absurdity": "They've managed to write anti-corruption legislation that functions as a personal carve-out for the most prominent trader in the room.",
+          "outside": "In most countries, the gap between the law and the lawmaker is considered a scandal. Here it's the convention keynote."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-09/candidate-1.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-09/candidate-1-punchy.jpg"
+      "image": "images/2026-09-10/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-10/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "LIV Golf Files for Bankruptcy — Players to Become Majority Owners of the Wreckage",
-        "source": "CNBC Top News",
-        "date": "2026-09-09",
-        "url": "https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html",
-        "summary": "サウジアラビア資金が支援するLIVゴルフがチャプター11の破産申請を行った。再建計画では、プレーヤーたちが会社の過半数株主になる見込み。"
+        "headline": "Trump's Departure Delayed After Emergency Slide Deploys Itself on New Air Force One",
+        "source": "CBS News US",
+        "date": "2026-09-10",
+        "url": "https://www.cbsnews.com/news/air-force-one-slide-trump-tarmac-joint-base-andrews/",
+        "summary": "トランプ大統領のテキサス出発が、新型エアフォースワンの緊急脱出用スライドが搭乗前に自動展開するトラブルにより遅延した。"
       },
       "commentary": [
-        "<b>矛盾:</b> サウジアラビアの石油マネーでPGAをぶっ壊しにきたリーグが、選手に「はい、あとはよろしく」って会社を押し付けて破産してるんですよ。",
-        "<b>滑稽さ:</b> 「億単位の契約金で来てください」と口説かれてきた選手たちが、気づいたら破綻したゴルフリーグのオーナーになってた。転職したら会社ごともらった。",
-        "<b>日本・海外から見ると:</b> スポーツウォッシングの教科書事例として語られてきたLIVゴルフが、「ウォッシュ」どころか泡ごと消えかけているのが、なんとも皮肉な結末です。"
+        "<b>矛盾:</b> 国家の威信を象徴するはずの新型大統領専用機が、乗る前から逃げ出してるんですよ。",
+        "<b>滑稽さ:</b> 緊急脱出スライドって「飛んでから使うもの」じゃないですか。地上で勝手に出てくるのは、単なる「早まり」ですよね。",
+        "<b>日本・海外から見ると:</b> 数十億ドルかけた専用機が出発前に自己崩壊するニュースは、アメリカのインフラ投資の縮図として世界に受け取られそうです。"
       ],
       "imagePrompts": [
-        "A gleaming golf trophy with 'LIV GOLF' engraved on it, sitting on top of a stack of Chapter 11 bankruptcy filing papers, on a pristine golf course with an empty grandstand in the background.",
-        "A group of golfers in expensive polo shirts looking at a clipboard that reads 'CONGRATULATIONS — YOU NOW OWN THE COMPANY' with confused expressions, golf bags still on their shoulders.",
-        "An enormous oil derrick with a Saudi flag shrinking in the background, connected by a thin wire to a tiny golf cart labeled 'LIV GOLF' that is teetering over a cliff edge labeled 'CHAPTER 11'"
+        "A gleaming presidential aircraft on a tarmac with a large inflatable emergency slide fully deployed at the door, a red carpet laid out below it, and an empty podium with an official seal nearby",
+        "Ground crew in yellow vests staring at an unexpectedly deployed yellow inflatable slide on a runway, clipboards in hand, with a very new-looking plane behind them",
+        "An official-looking checklist on a clipboard with items ticked off: 'Fuel — check,' 'Crew — check,' 'Emergency slide — deployed early by itself — uh'"
       ],
       "captions": [
-        "LIV Golf promised players guaranteed money and no cuts. Turns out the league didn't get the same deal.",
-        "They paid Mickelson $200 million to come over, and now the players own the bankrupt company. That's not a contract, that's a heist in reverse.",
-        "Saudi sovereign wealth fund, billions of dollars, the best lawyers money can buy — and they still couldn't make golf interesting enough to stay solvent.",
-        "The players were recruited. Now they're the owners. Of a bankruptcy. Nobody covered this in the orientation.",
-        "LIV said it was disrupting golf. It disrupted itself first."
+        "The emergency slide deployed before Trump boarded. Even the plane wanted out early.",
+        "It's called an emergency exit. The emergency was apparently: he was about to get on.",
+        "New plane, $5 billion, first trip. The slide said 'I'm good, actually.'",
+        "They spent years on that aircraft and it popped its own escape hatch. Relatable, honestly.",
+        "The most advanced presidential plane ever built — and it needed an exit strategy before he showed up."
       ],
       "captionsJa": [
-        "LIVゴルフは選手に「カットなし、全額保証」と約束した。リーグ自身はカットされた。",
-        "マイケルソンに200億円払って引き抜いて、今度はその選手たちに破綻した会社を渡してる。これ逆方向の詐欺じゃないですか。",
-        "サウジアラビアの国富ファンド、何千億円、一流の弁護士。それでもゴルフを黒字にできなかった。",
-        "「うちに来てください」と口説かれてきた選手たちが、気づいたら破産手続き中の会社のオーナーになってた。入社説明会になかったやつ。",
-        "LIVはゴルフを変えると言ってた。まず自分が変わった。破産という形で。"
+        "トランプが乗る前にスライドが展開。機体が一番早く「降ります」と言った。",
+        "緊急脱出スライドですよ。緊急事態は「これから乗ってくる」だったんでしょうか。",
+        "新型機に数十億ドル。初フライトで脱出装置が「先に行きます」。",
+        "自動で脱出ルートを開けた機体。わかる、という気持ちになってしまう。",
+        "史上最先端の大統領専用機、乗る前から出口戦略を実行。見事です。"
       ],
-      "newsEn": "LIV Golf, the Saudi-backed breakaway golf league, has filed for Chapter 11 bankruptcy protection. Under the proposed restructuring deal, the players are expected to become majority owners of the venture they were recruited to join.",
+      "newsEn": "President Trump's trip to Texas was delayed after an emergency evacuation slide on the new Air Force One deployed on the tarmac before he boarded the aircraft. The incident occurred with the president's new plane, which has been a point of pride for the administration. No injuries were reported.",
       "ironyEn": [
         {
-          "contradiction": "LIV was created with essentially unlimited sovereign wealth to poach players from the PGA Tour. It's now asking those same players to please take ownership of the debt.",
-          "absurdity": "Phil Mickelson reportedly took $200 million to join. Now the players are set to become majority owners of a bankrupt league. That's one way to earn equity.",
-          "outside": "A league that positioned itself as a revolution in professional golf is ending with the players inheriting a Chapter 11 filing. Most revolutions don't come with that paperwork."
+          "contradiction": "The president's new plane, built to project power and reliability, had its emergency slide deploy before a single passenger boarded.",
+          "absurdity": "The slide is designed to help people escape a plane. It deployed to escape the president.",
+          "outside": "Billions spent on a prestige aircraft, and it bailed before he got on. That's not a malfunction — that's a review."
         },
         {
-          "contradiction": "Saudi Arabia poured billions into LIV to reshape global sports. The reshaping led to a bankruptcy court in America.",
-          "absurdity": "The players were sold on guaranteed contracts and no cuts. The league itself did not survive the cut.",
-          "outside": "From the outside, LIV was either a bold new sports model or a PR exercise for a government. Turns out it was neither — it was just a very expensive golf tournament that ran out of golf."
+          "contradiction": "An emergency system activated with no emergency — except, perhaps, the general situation.",
+          "absurdity": "The escape slide popped out on the ground. If the plane itself is trying to exit the situation, that's a mood.",
+          "outside": "Foreign leaders watching the footage could be forgiven for wondering whether the plane knew something."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-09/candidate-2.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-09/candidate-2-punchy.jpg"
+      "image": "images/2026-09-10/candidate-2.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-10/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Meta Launches Personal AI Agent — While Still Fighting Privacy and Safety Lawsuits",
-        "source": "CNBC Top News",
-        "date": "2026-09-09",
-        "url": "https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html",
-        "summary": "メタが個人向けAIエージェントアプリ「Muse」を発表。無料プランと月額20〜100ドルの有料プランを提供するが、同社はプライバシーと安全性をめぐる批判に直面している。"
+        "headline": "Amazon Denied Pregnant Workers Bathroom Breaks and Chairs, Lawsuit Alleges",
+        "source": "Ars Technica",
+        "date": "2026-09-10",
+        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
+        "summary": "妊娠中の女性4人がAmazonを提訴。妊娠中の基本的な配慮（トイレ休憩や椅子）を拒否され、その後解雇されたと主張している。"
       },
       "commentary": [
-        "<b>矛盾:</b> ユーザーのプライバシーと安全の扱いで批判を受けてる最中に、「もっとパーソナルなAIアシスタントを使いませんか」って売りに来てるんですよ。信頼の積み重ね方が独特すぎる。",
-        "<b>滑稽さ:</b> 月額100ドルのプランを出してくれた人のデータは、月額20ドルの人より丁寧に扱われるんでしょうか。聞いてみたい。",
-        "<b>日本・海外から見ると:</b> 個人情報の取り扱いで各国の規制当局ともめてる会社が、「あなたの個人的なことを何でも聞いてくれるエージェント」を出してくる。タイミングのセンスがすごい。"
+        "<b>矛盾:</b> 翌日配達を人類に届ける会社が、自社の妊婦従業員には椅子一脚を届けられなかった、という訴えなんですよ。",
+        "<b>滑稽さ:</b> トイレ休憩を断る。椅子を断る。そして解雇。ロジスティクスの効率化の果てに、人間の基本が消えてる。",
+        "<b>日本・海外から見ると:</b> 「何でも翌日届く」サービスの裏で、妊婦が立ちっぱなしというのは、先進国の労働環境として国際的に相当ひどい話です。"
       ],
       "imagePrompts": [
-        "A sleek smartphone displaying the 'Muse' app interface, while in the background a stack of legal documents labeled 'PRIVACY LAWSUIT' and 'SAFETY COMPLAINT' towers over a Meta logo.",
-        "A friendly robot assistant labeled 'MUSE' holding a clipboard asking 'Tell me everything about yourself!' while standing in front of a filing cabinet with a lock on it labeled 'YOUR PREVIOUS DATA — ALREADY IN HERE'.",
-        "A store display showing three tiers: FREE (small), $20/month (medium), $100/month (large), all showing a funnel pointing into a server rack labeled 'META INFRASTRUCTURE' with a small print note reading 'details in terms of service'"
+        "A vast warehouse interior with rows of shelves stacked with packages, a single folding chair taped off with 'NOT FOR WORKERS' tape, and a 'Prime Delivery: Next Day' banner overhead",
+        "A split image: on one side, a smiling delivery driver handing a recliner chair to a suburban doorstep; on the other, a pregnant worker standing at a warehouse station with no chair in sight",
+        "An Amazon delivery box with a label reading 'Contents: 1x Chair — Destination: Customer' next to an empty spot on a warehouse floor labeled 'Pregnant Employee Workstation'"
       ],
       "captions": [
-        "Meta's new AI wants to know everything about you. They're just asking this time.",
-        "The $100 tier is called 'premium.' The free tier is called 'the business model.'",
-        "Nothing says 'we've learned from our privacy mistakes' like launching a personal AI agent during the privacy lawsuit.",
-        "Muse will remember your preferences, your habits, your schedule. Meta will remember you signed the terms of service.",
-        "They're putting AI in the hands of virtually anyone. Your data was already there."
+        "Amazon delivers chairs to your house overnight. To its pregnant workers: 'stand up, we're busy.'",
+        "No bathroom break, no chair, then fired. They really did optimize every inefficiency out of the system — including human dignity.",
+        "The company that tracks every package in real time apparently lost track of the pregnant woman who needed to sit down.",
+        "Two-day shipping for customers. Zero chairs for the person who packed the box. Math checks out.",
+        "Next Day Delivery — unless what you need delivered is basic decency to the warehouse floor."
       ],
       "captionsJa": [
-        "メタの新AIはあなたのことを全部知りたいと言ってる。今回は一応、聞いてくる。",
-        "月額100ドルのプランは「プレミアム」。無料プランの名前は「ビジネスモデル」。",
-        "プライバシー訴訟の真っ最中に個人AIエージェントを出す。これが「学んだ」会社のやることです。",
-        "Museはあなたの好み、習慣、スケジュールを覚えてくれる。メタは利用規約に同意したことを覚えてる。",
-        "AIをすべての人の手に届ける。あなたのデータはもうとっくに届いてた。"
+        "リクライニングチェアは翌日お届け。妊婦の従業員には「立ってて」。Amazonらしい優先順位ですね。",
+        "トイレ休憩なし、椅子なし、そして解雇。非効率を全部削ぎ落とした結果、人間の扱いも消えた。",
+        "すべての荷物をリアルタイム追跡する会社が、座りたい妊婦の所在は把握できなかった。",
+        "客への2日配送。箱を詰めた人への椅子はゼロ。計算合ってます。",
+        "翌日お届けします——倉庫の床に最低限の人間扱いを届ける日は来ませんでしたが。"
       ],
-      "newsEn": "Meta unveiled Muse, a personal AI agent app available in a free tier or monthly subscriptions of $20 or $100. The launch comes as Meta faces a public reckoning over its handling of user privacy and platform safety.",
+      "newsEn": "Four women have filed a lawsuit alleging that Amazon denied them basic pregnancy accommodations, including bathroom breaks and seating, and subsequently fired them. The plaintiffs say the company's warehouse policies effectively punished workers for being pregnant. Amazon has not publicly commented on the specifics of the lawsuit.",
       "ironyEn": [
         {
-          "contradiction": "Meta is launching an app designed to know you personally and intimately — on the same news cycle as its ongoing reckoning over what it already does with personal data.",
-          "absurdity": "For $100 a month, Meta's AI will be your most attentive companion. For free, it will be attentive in a different direction.",
-          "outside": "Most companies wait until after the privacy scandal to launch the personal data product. Meta is doing both at the same time and calling it innovation."
+          "contradiction": "Amazon can deliver a recliner to your door by tomorrow morning but allegedly couldn't provide one to a pregnant worker standing on its warehouse floor.",
+          "absurdity": "The company's whole brand is convenience — two-day, one-day, same-day. For its own pregnant employees: no chair, no break, no job.",
+          "outside": "Countries with strong labor protections look at this and see not just one company's failing, but a system that optimized the supply chain and forgot the humans inside it."
         },
         {
-          "contradiction": "Muse is pitched as putting AI 'in the hands of virtually anyone' — which is also a reasonable description of what Meta already does with your information.",
-          "absurdity": "The premium tier costs $100 a month. The free tier costs nothing, except in the currency Meta has always preferred.",
-          "outside": "European regulators have spent years trying to limit what Meta knows about users. Muse is asking users to volunteer more, enthusiastically, and pay for the privilege."
+          "contradiction": "A corporation that built its empire on logistics allegedly couldn't manage the logistics of letting someone use the bathroom.",
+          "absurdity": "They track every package in real time. Apparently pregnant workers didn't have the same tracking priority.",
+          "outside": "From outside the US, 'world's largest retailer denies chairs to pregnant staff' lands less as a corporate scandal and more as a dystopia pitch."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-09/candidate-3.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-09/candidate-3-punchy.jpg"
+      "image": "images/2026-09-10/candidate-3.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-10/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Supreme Court Rules TV Stations Must Sell Election Ads at a Steep Discount — Only to Political Parties",
-        "source": "Ars Technica",
-        "date": "2026-09-09",
-        "url": "https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/",
-        "summary": "連邦最高裁が、テレビ局は政党に対して最低価格で選挙広告枠を販売しなければならないという判決を下した。共和党の勝訴となる。"
+        "headline": "OpenAI Solved a Millennium Prize Problem — and Academia Is Not Thrilled",
+        "source": "The Verge",
+        "date": "2026-09-10",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
+        "summary": "OpenAIが数学の「ミレニアム懸賞問題」の一つを解いたと発表したが、正式な査読が完了する前にニュースが広まり、学術界に動揺が広がっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「放送局は民間企業で価格は自由」という建前のアメリカで、最高裁が「でも選挙広告だけは安くしろ」と命じてる。自由市場の原則は選挙になると急に例外が増える。",
-        "<b>滑稽さ:</b> 政治広告はすでにテレビ局にとって最大の収益源のひとつなんですよ。それを「もっと安くしろ」と命じる判決を、共和党が「勝訴」と喜んでる。テレビ局の怒り顔が目に浮かぶ。",
-        "<b>日本・海外から見ると:</b> 政治献金やロビー活動の規制がゆるいアメリカで、「政党への広告割引」だけが司法の手で守られてるというバランス感覚が独特です。"
+        "<b>矛盾:</b> 100万ドル懸賞付きの数学の難問を解いた、と言ったのはいいけど、査読がまだ終わってないから「本当に解いたか」は人間にもわからない、という状況なんですよ。",
+        "<b>滑稽さ:</b> AIが証明した問題を、人間の数学者が「これ正しいの？」と確かめようとしている図。先生が生徒の答案を採点できない時代。",
+        "<b>日本・海外から見ると:</b> 発表を先に打って検証を後回しにするのはシリコンバレーの「リリース後にデバッグ」文化の延長で、今度の製品は数学の真理ですよ、という話です。"
       ],
       "imagePrompts": [
-        "A television station's sales office with a large rate card on the wall showing standard ad prices, with a big red government stamp over the political ad section that reads 'MANDATORY DISCOUNT — SUPREME COURT ORDER', while a station manager stares at it.",
-        "A Supreme Court gavel slamming down on a TV remote control, with a price tag showing a crossed-out number replaced by a lower one, in a broadcast studio setting.",
-        "A split image: left side shows a luxury car dealership with 'MARKET RATE' pricing, right side shows the same dealership with a sign reading 'CONGRESS MEMBERS: LOWEST PRICE GUARANTEED — SCOTUS'"
+        "A giant chalkboard filled with dense mathematical equations, a ribbon labeled 'SOLVED — PRESS RELEASE ISSUED' stretched across it, while several professors in tweed jackets squint at the board with magnifying glasses",
+        "A podium labeled 'OpenAI' with a golden trophy for 'Millennium Prize,' while behind a velvet rope a long line of mathematicians wait with red pens and stacks of paper to begin the review",
+        "A massive proof printed on a scroll unrolling across an auditorium floor, with a single mathematician at one end holding the beginning and not being able to see the other end"
       ],
       "captions": [
-        "The free market is sacred in America, unless you need a campaign ad — then it's a regulated utility.",
-        "TV stations spent decades getting rich off election ads. The Supreme Court said: keep getting rich, just slightly less.",
-        "Republicans won a price-control ruling. Let that one settle for a second.",
-        "They call it the 'lowest unit rate.' TV stations call it something less printable.",
-        "In other countries, governments fund campaigns. Here, the Supreme Court negotiates the media buy."
+        "OpenAI solved a math problem no one's solved in decades. Announced it. Mathematicians are now checking if that's true. Normal.",
+        "The proof came out Tuesday. The peer review started Wednesday. The press release came out Monday.",
+        "Humanity's greatest unsolved math problem: cracked by AI, announced immediately, verified: TBD.",
+        "Mathematicians spent 25 years on this. OpenAI did it and issued a PR before anyone could read the work. Ship it.",
+        "They didn't just solve the problem — they skipped the part where anyone confirms it. That's not mathematics. That's a launch."
       ],
       "captionsJa": [
-        "アメリカでは自由市場は神聖なもの。ただし選挙広告だけは規制対象の公益事業扱い。",
-        "選挙広告で何十年も儲けてきたテレビ局に、最高裁が「儲けていい。ただし少し減らして」と言った。",
-        "価格統制に反対してきた共和党が、価格統制の訴訟に勝訴した。ちょっと飲み込む時間が必要。",
-        "業界では「最低単価」と呼ぶ。テレビ局の人たちは別の呼び方をしてると思う。",
-        "他の国は政府が選挙費用を出す。アメリカは最高裁がメディアの値段を交渉する。"
+        "数十年誰も解けなかった数学の難問をAIが解いた。発表した。数学者たちが今「本当に？」と確認中。正常な流れです。",
+        "証明の公開が火曜。査読開始が水曜。プレスリリースは月曜。",
+        "人類最大の未解決問題、AIが突破→即発表→検証は未定。",
+        "数学者が25年かけた問題。OpenAIは解いてプレスリリースを先に出した。リリースして後でデバッグ、の精神ですね。",
+        "問題を解いただけじゃなく、誰かが確認する前に発表した。それは数学じゃなくてローンチですよ。"
       ],
-      "newsEn": "The Supreme Court has ruled that television stations must offer their lowest available ad rates to political parties for election advertising. The decision represents a win for Republicans who pushed for the ruling.",
+      "newsEn": "OpenAI announced it has solved one of mathematics' seven Millennium Prize Problems, a feat that would represent one of the greatest achievements in modern mathematics. However, the result was publicized before formal peer review was completed, sending a chill through academic circles. Mathematicians are grappling with how to evaluate an AI-produced proof that no one has yet officially verified.",
       "ironyEn": [
         {
-          "contradiction": "America's free market orthodoxy doesn't extend to election ads — the Supreme Court just mandated a government-set price floor for political speech on private networks.",
-          "absurdity": "Political ad spending has turned local TV stations into money-printing machines every two years. The Supreme Court just told those machines to print less.",
-          "outside": "Countries that publicly fund elections think this is quaint. Countries with no election ads at all think this entire argument is quaint."
+          "contradiction": "OpenAI announced it solved one of the hardest problems in human intellectual history — before humans had finished checking whether it actually did.",
+          "absurdity": "Mathematicians spent decades failing to crack this problem. Now they're speed-reading an AI's proof to see if the AI is right. The homework is grading the teacher.",
+          "outside": "The 'move fast and break things' ethos has reached pure mathematics. The thing being broken is the peer-review process."
         },
         {
-          "contradiction": "The party that typically argues against price controls just won a price-control case in its own favor.",
-          "absurdity": "TV stations that have been happily cashing election-year checks for decades now have a court order telling them to cash smaller ones.",
-          "outside": "In most democracies, the government funds elections and limits private ad spending. In America, the Supreme Court is involved so political parties can get a coupon."
+          "contradiction": "A Millennium Prize Problem is supposed to be certified by experts over years. OpenAI apparently couldn't wait for the press cycle.",
+          "absurdity": "The AI solved it before the humans could verify it. The humans may be solving it still.",
+          "outside": "In academia, you spend three years writing a proof and another two getting it reviewed. OpenAI announced theirs and was trending by lunch."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-09/candidate-4.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-09/candidate-4-punchy.jpg"
+      "image": "images/2026-09-10/candidate-4.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-10/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "ICE Raids Cost Chicago Over $1.26 Billion in Lost Revenue as Immigrants Stayed Home Out of Fear",
-        "source": "NPR News",
-        "date": "2026-09-09",
-        "url": "https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids",
-        "summary": "新たな調査で、2025年のシカゴでのICE摘発作戦が移民コミュニティに恐怖をもたらし、小売・飲食・売上税収入で12億6000万ドル超の損失が生じたと推計された。"
+        "headline": "Apple's New Camera Feature Proves Your Photo Isn't AI — Using the AI Phone That Made It",
+        "source": "The Verge",
+        "date": "2026-09-10",
+        "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
+        "summary": "AppleはiPhone 18 Proに、撮影した写真がAIで加工されていないことを証明する「Reference Image」機能を搭載すると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「不法移民は経済の負担だ」という主張のもとで行われた摘発作戦が、12億ドル超の経済損失を出してる。数字が主張に反論してきてる。",
-        "<b>滑稽さ:</b> 誰かを怖がらせて家から出られなくするだけで、飲食店と小売店と税収が同時に消える。シカゴの経済にとって移民が「いる」ことが前提だったのがバレた。",
-        "<b>日本・海外から見ると:</b> 移民政策の是非とは別に、「怖がった人が外に出なかった」だけでこの規模の損失が出るという事実は、移民労働者と消費者なしに都市経済が回らないという現実を数字で示している。"
+        "<b>矛盾:</b> 「AIで加工してない証明」を、AIで写真を加工できる機能が盛りだくさんのスマホに入れる。同じ箱の中にアリバイと犯行ツールが入ってる構造ですよ。",
+        "<b>滑稽さ:</b> 「この写真は本物です」と証明するために、AIフィーチャーが満載の端末が必要、ということになりました。魚を新鮮に保つために塩水に浸けたら塩漬けになった、みたいな話。",
+        "<b>日本・海外から見ると:</b> 信頼の危機を生んだのがテクノロジーで、それを解決するのも同じテクノロジーの次のバージョン、という循環はシリコンバレーの古典的なビジネスモデルですね。"
       ],
       "imagePrompts": [
-        "An empty Chicago restaurant on a busy street, chairs stacked on tables, a 'OPEN' sign still lit in the window, with an ICE enforcement vehicle reflected in the glass outside.",
-        "A large calculator displaying '$1,260,000,000' sitting on a government desk next to a stack of ICE raid operation documents and a city budget spreadsheet.",
-        "A split image: left half shows a vibrant Chicago neighborhood market full of people; right half shows the same market empty and quiet, with a shadow of a government enforcement badge on the pavement."
+        "A smartphone product display with two features highlighted side by side: 'AI Photo Beautification' with a glowing wand icon, and 'Proof Your Photo Is Real' with a shield icon, both on the same device spec sheet",
+        "A sealed evidence bag labeled 'AUTHENTIC — Reference Image Certified' containing a smartphone with visible AI editing tools on the screen",
+        "A courtroom exhibit table with a phone on it, labeled Exhibit A: 'Original Photo,' and Exhibit B: 'AI-enhanced version from same phone,' with identical-looking images in both frames"
       ],
       "captions": [
-        "They didn't have to deport a billion dollars. They just had to scare it into staying home.",
-        "The economic burden argument is going to need some new math after this one.",
-        "Turned out the restaurants, the shops, the tax base — a lot of that was the people you were looking for.",
-        "Over a billion dollars, vanished. Nobody left the city. People just didn't leave their houses. Think about that.",
-        "Chicago ran an accidental economics experiment in 2025. The results are in, and they have a dollar sign."
+        "Apple made a feature to prove your photo isn't AI. It ships on the phone with five AI photo tools. Just so we're clear.",
+        "The authenticity certificate and the forgery kit are the same purchase. $1,199, your choice which one you use first.",
+        "iPhone 18 Pro: it can make you look incredible, and then swear in court that it didn't touch anything.",
+        "We've reached the point where you need a $1,200 device to prove your $1,200 device didn't lie.",
+        "Tech created the distrust of images, then sold us the cure. Same company. Same event. Same keynote slide."
       ],
       "captionsJa": [
-        "12億ドルを強制送還する必要はなかった。怖がらせて家に閉じ込めるだけでよかった。",
-        "「移民は経済の負担」という論理、この数字を見た後は計算式を見直す必要があります。",
-        "飲食店も、小売も、税収も、実はずっと、探していた人たちに支えられていた。",
-        "12億ドルが消えた。誰も市外に出ていない。ただ、外に出なかっただけ。これ、ちょっと考えてほしい。",
-        "シカゴは2025年に偶然の経済実験を行った。結果が出た。ドル記号付きで。"
+        "AI加工してない証明機能を、AI写真加工ツール5種入りのスマホに搭載。念のため確認しておきます。",
+        "「本物証明」と「加工ツール」が同じ1199ドルのパッケージです。どっちを先に使うかはあなた次第。",
+        "iPhone 18 Pro、あなたを最高にきれいに撮れます。そして法廷で「何も手を加えていません」と言えます。",
+        "1200ドルの端末で、1200ドルの端末が嘘をついていないことを証明する時代になりました。",
+        "画像への不信を作ったのもテクノロジー、解決策を売るのも同じテクノロジー。同じ会社、同じ発表会、同じスライド一枚。"
       ],
-      "newsEn": "A new study has found that the 2025 ICE raids in Chicago led to widespread fear in immigrant communities, causing many to stay home and avoid public spaces. The resulting drop in economic activity cost the region more than $1.26 billion in lost retail, restaurant, and sales-tax revenue.",
+      "newsEn": "Apple announced a new camera feature called 'Reference Image' for the iPhone 18 Pro lineup that cryptographically signs every pixel captured by the camera, allowing users to prove a photo has not been manipulated by AI. The feature arrives on a device that also ships with a suite of AI photo-editing tools. Apple pitched the feature as a solution to the growing distrust of digital images.",
       "ironyEn": [
         {
-          "contradiction": "The policy argument for aggressive immigration enforcement often centers on economic burden. Chicago's numbers suggest the enforcement itself created a $1.26 billion economic burden.",
-          "absurdity": "Nobody got deported to lose that money. People just didn't go to restaurants. That's how embedded immigrant communities are in urban economies.",
-          "outside": "From the outside, this looks like a city that didn't realize how much of its economic floor was built by the people it was trying to remove."
+          "contradiction": "Apple built a tool to prove photos aren't AI-manipulated — and shipped it on the same phone that manipulates photos with AI.",
+          "absurdity": "The authenticity certificate is sold by the same company selling the forgery kit. It's a lock and a lockpick in the same box.",
+          "outside": "The tech industry created the problem of image distrust, then monetized the solution, then sold both on the same device for $1,199. Efficient."
         },
         {
-          "contradiction": "The raids were meant to remove people from the economy. They succeeded at removing them from the economy — including the parts that pay taxes and buy things.",
-          "absurdity": "Over a billion dollars in lost revenue, and the mechanism was fear. No one had to leave for the damage to happen.",
-          "outside": "Economists have spent years estimating immigrant economic contributions. Chicago now has an unusually concrete data point: it ran the experiment and got the receipt."
+          "contradiction": "The 'prove it's real' feature is a selling point on a phone whose other selling points include making things look better than they are.",
+          "absurdity": "You now need a $1,200 device to prove that a photo from your $1,200 device hasn't been touched by your $1,200 device. The math is immaculate.",
+          "outside": "Globally, media organizations are fighting AI-generated misinformation. Apple's answer is a premium hardware feature. Thirteen hundred dollars — trust included."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-09/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-09/candidate-5-punchy.jpg"
+      "image": "images/2026-09-10/candidate-5.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-10/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本に共通するのは「ルールの番人が、自分でルールを書き換えている」という構図。TSAは侵入者を通し、最高裁は価格を統制し、メタは訴訟中に最もパーソナルなアプリを売り出し、LIVは選手を雇って破産し、ICEは経済を守ると言って12億ドルを消した。",
-    "titleEn": "The Gatekeepers Opened the Gate",
-    "subtitleEn": "Five stories about people who make the rules, breaking the rules.",
-    "titleJa": "「通してはいけない人」を通し、「守るはずの経済」を12億ドル消した週",
+    "thread": "今日の5本を貫く糸は「解決策と問題が同じ財布に入っている」。禁止法案を作った側が除外されており、証明ツールが偽造ツールを同梱しており、数学の答えが検証待ちのまま発表されている。今日は「本物かどうか」を問う一日。",
+    "titleEn": "The Ban Doesn't Cover Him, the Slide Bailed Early, and the Proof Is Unverified",
+    "subtitleEn": "Five stories about solutions that forgot to solve the problem.",
+    "titleJa": "「禁止します、ただし大統領は除く」——今日のアメリカ5本",
     "titleAltJa": [
-      "TSAが搭乗券なしでゲートに入れ始めたので、今日はその話をしてもいいですか",
-      "LIVゴルフが破産して選手に会社を渡した話：転職したら会社ごともらった人たち"
+      "2万1000回の取引と、展開した脱出スライドと、査読待ちの数学の真理が同じ1日にある話",
+      "「これで語れる」アメリカのニュース：解決策と問題が同じ箱に入ってる件について"
     ],
-    "leadJa": "セキュリティのゲートを開けたのはTSA。12億ドルを蒸発させたのはICE。プライバシー訴訟の最中に「何でも話して」と言い始めたのはメタ。\n\n今日は「番人が一番やらかした日」の記録です。",
-    "introEn": "So there's a theme today.\n\nThe people who built the gates decided the gates are optional. TSA is now letting non-passengers through security — for a fee, naturally. The Supreme Court told private TV stations what to charge. Meta, currently in court over what it does with your data, released an app that wants to know everything about you. LIV Golf, funded by sovereign oil money, went bankrupt and handed the ruins to its players. And in Chicago, a crackdown meant to reduce an \"economic burden\" eliminated $1.26 billion from the local economy.\n\nHere's your forecast: if you've ever followed the rules only to watch the rule-maker quietly rewrite them, today's news is not going to surprise you. It might, however, make you feel significantly less alone. Carry that.",
-    "introJa": "搭乗券なしでゲートを通れる日が来ました。\n\nTSA(米運輸保安庁)が13空港で始めたのは、飛行機に乗る予定のない人を、有料会員なら空港のゲートエリアまで通すプログラム。「空港のセキュリティ」という概念が、会員特典になりました。\n\nで、他を見ると…\n最高裁がテレビ局に価格統制を命じ、プライバシー訴訟の最中にメタが「あなたのことを何でも聞くAI」を発売し、サウジマネーのゴルフリーグが破産して選手に廃墟を渡し、ICEが「経済の負担を排除する」と始めた作戦で12億ドルを消した。\n\n今日の5本を貫く糸は、たぶん「ルールを作った側が一番ルールを無視している」ということです。\n\nということで、今日の占い。\nルールを守ってるのに損している気がするなら、それはあなたのせいじゃないです。上の方で誰かが書き換えています。今日はそういう日なので、あなたが真面目にやっていること自体を疑わなくていいと思う。少なくとも今日はね。",
-    "quipEn": "Every system you've ever trusted was designed by someone who also designed the exception for themselves.",
-    "quipJa": "ルールを守る人と、ルールを書く人は、最初から別の人なんですよね。",
+    "leadJa": "株取引を禁止する法案を、2万1000回取引した人の周囲が祝っています。脱出スライドは、まだ乗る前に開きました。証明機能と偽造ツールは、同じ端末に入っています。\n\nどこから突っ込めばいいのか、少し考えました。",
+    "introEn": "Five stories today, and they're all the same story.\n\nThe stock ban skips the guy with 21,000 trades. The proof-of-authenticity feature ships with the AI editing suite. The math breakthrough is awaiting peer review — after the press release. The emergency exit deployed before anyone boarded. Amazon figured out how to deliver a chair to your door in one day and couldn't find one for a pregnant employee.\n\nIf you've ever tried to fix something and accidentally made it worse, today's news cycle is your vindication. The people designing the solutions are also the problem. Which means whatever you're dealing with at work right now? Structurally, same energy. You're in good company. Probably.",
+    "introJa": "「禁止します」「証明できます」「解きました」「安全です」「届けます」——今日の5本、全部そう始まる。\n\nで、続きを読むと。\n\n禁止の対象に大統領は入っていない。証明する端末にAI加工ツールが入っている。解いた答えはまだ誰も確認していない。安全なはずの機体が出発前に脱出スライドを開けた。何でも届ける会社が、妊婦に椅子を届けなかった。\n\n今日の糸は「アリバイと凶器が同じ箱に入っている」。\n\nで、今日の占い。\n\n「自分だけ割を食ってる気がする」というあなた——今日のニュースを見ると、得してる側もだいぶバタバタしています。数十億ドルの機体が地上で脱出スライドを開ける。数学の世紀の難問、解いたかどうかをまだ誰も確認していない。うまくいかないのは、仕組みそのものが最初からちょっとずれてるから、かもしれない。\n\n少なくとも今日はそういう日。5本、いきます。",
+    "quipEn": "Today every solution came with the problem already inside. Buy the ban, get the loophole free.",
+    "quipJa": "解決策を開けたら、問題が同梱されていた。今日のアメリカはそういう日。",
     "notesEn": [
-      "TSA now lets PreCheck members enter the gate area without a ticket. The entire system was designed to keep non-passengers out. They've now made that a $85-a-year perk. Respect the hustle.",
-      "LIV Golf filed for bankruptcy. The players who were paid hundreds of millions to leave the PGA will now become majority owners of the bankrupt league. They came for a paycheck and left with a liability.",
-      "Meta launched a personal AI agent called Muse — $20 or $100 a month — while currently facing lawsuits over how it handles user privacy. The app wants to know everything about you. They're just asking nicely this time.",
-      "The Supreme Court ruled that TV stations must offer their lowest ad rates to political parties. Republicans called it a win. The free market, apparently, has an asterisk when it comes to campaign season.",
-      "A study found that 2025 ICE raids in Chicago cost the region $1.26 billion in lost retail, restaurant, and tax revenue — because immigrant communities stayed home out of fear. The 'economic burden' argument is going to need some new math."
+      "Republicans are promoting a congressional stock-trading ban at their convention in Dallas. It does not apply to President Trump, who filed over 21,000 trades last year. The convention theme is accountability. The fine print is doing a lot of work.",
+      "The emergency evacuation slide on Trump's new Air Force One deployed on the tarmac before he boarded. No injuries. The plane cost billions. The slide's job is to help people escape. It got a head start.",
+      "Four pregnant Amazon workers filed a lawsuit saying they were denied bathroom breaks and chairs, then fired. Amazon delivers chairs to your house overnight. For its warehouse workers who were pregnant: standing room only, apparently.",
+      "OpenAI says it solved one of mathematics' seven Millennium Prize Problems — the hardest unsolved puzzles in the field. The announcement went out before peer review finished. Mathematicians are now trying to check if that's true. The press release is already written either way.",
+      "Apple's iPhone 18 Pro will have a feature that cryptographically proves your photo hasn't been edited by AI. The phone also ships with multiple AI photo-editing tools. The alibi and the evidence-tampering kit are the same $1,199 purchase."
     ],
     "xJa": [
-      "TSAが搭乗券なしで空港ゲートに入れるプログラムを始めた。「飛行機に乗る人だけ通す」がセキュリティの唯一の仕事だったはずが、有料会員なら「まあいっか」になるらしい。進化か退化かわからない。",
-      "LIVゴルフが破産申請。サウジマネーで億超えの契約金を出して選手を集めておいて、経営が傾いたら「はい、会社はあなたたちのものです」。転職したら会社ごともらった人たちの話。",
-      "メタがプライバシー訴訟の真っ最中に「あなたのことを何でも聞いてくれるパーソナルAI」を発売した。月額100ドルのプランと無料プランがある。無料プランの正式名称は「ビジネスモデル」だと思う。",
-      "最高裁がテレビ局に「政党への選挙広告は最低価格で売れ」と命令。共和党が勝訴と喜んでいる。自由市場を一番好きな人たちが、価格統制の判決で「やった！」と言っている日。",
-      "シカゴでのICE摘発作戦で、移民コミュニティの人々が怖くて外出できなくなった結果、小売・飲食・税収で12億6000万ドル超の損失。「経済の負担を排除する」と始めた作戦で、経済が負担を受けた。"
+      "共和党が議員の株取引禁止法案を大会で掲げている。昨年2万1000回以上取引したトランプ大統領には適用されない。ザルの縁を持って「浄化した」と言っている構図。",
+      "新型エアフォースワンの緊急脱出スライドが、大統領が乗る前に地上で勝手に展開した。数十億ドルの機体。最初に逃げたのは飛行機だった。",
+      "Amazonが妊婦社員にトイレ休憩も椅子も拒否し、その後解雇したとして提訴された。翌日配達で椅子を届ける会社が、倉庫の妊婦には届けられなかった。",
+      "OpenAIがミレニアム懸賞問題を解いたと発表。査読はまだ終わっていない。世紀の難問が解けたかどうか、今まさに人間が確認しようとしている。プレスリリースは先週出た。",
+      "iPhone 18 Proに「写真がAI加工されていない証明」機能が搭載される。同じ端末にAI写真加工ツールも入っている。アリバイと凶器が同じ箱で発売。"
     ],
     "raidEn": [
-      "The TSA spent 20 years explaining why you can't bring a water bottle past security. Now they'll let you through without a ticket if you pay the annual fee. Truly the loyalty program we didn't see coming.",
-      "They recruited the best golfers in the world with guarantees and no-cut contracts, then went bankrupt and handed them the company. That's not a restructuring plan, that's a reverse heist.",
-      "Meta asking for your personal data is nothing new. Meta asking you to pay $100 a month so it can ask more personally — that's the new part.",
-      "Republicans just won a price-control ruling and are celebrating. I keep reading that sentence and it keeps saying the same thing.",
-      "The study basically found that the raids didn't cost the immigrants — it cost the economy that depended on them. The math came back with notes."
+      "The exemption is doing more work than the legislation. Someone in Dallas is going to give a very confident speech about that bill.",
+      "Emergency slides are rated for altitude. Ground level apparently caught it off guard.",
+      "The company that built two-day shipping somehow couldn't ship one chair to the warehouse. Priorities were clearly set somewhere.",
+      "The proof came before the verification. Somewhere a mathematician just closed their laptop and stared at the wall.",
+      "The certificate of authenticity and the AI editing tools are literally the same purchase. Apple really committed to the bit."
     ],
     "raidJa": [
-      "TSAが「搭乗券なしでゲートまで入れる」プログラムを始めたという記事を読んで、2度読みしました。空港セキュリティの前提がひっくり返った日の記録、ありがとうございます。",
-      "LIVゴルフの件、「転職したら会社ごともらった」という整理が一番しっくりきました。選手側の困惑がどうなるのか、気になります。",
-      "「訴訟中に最もパーソナルなアプリを出す」というタイミングのセンス、見事に整理されていました。メタのニュースはこの角度で読むと全然ちがって見えますね。",
-      "最高裁の判決を「共和党が価格統制で勝訴」と読むと確かに不思議な文章になる、というのが面白かったです。",
-      "「怖がらせて外に出られなくするだけで12億ドル消えた」という数字の重さ、丁寧に取り上げてくださってありがとうございます。"
+      "「禁止します、ただし大統領は除く」という構造、ここまで数字がはっきりしてる例もなかなか読めないですよね。素晴らしい記事でした。",
+      "緊急脱出スライドが地上で開く事案、「早まり」という言葉がこんなにぴったりくる例を初めて見た気がします。",
+      "椅子一脚の話なのに、読んでいてこんなに重くなる記事は久しぶりでした。丁寧に書いてくださってありがとうございます。",
+      "「答えが正しいかは確認中」のまま発表される世界、何かが根本的に変わってきている気がしてとても怖いです。よくまとめてくださいました。",
+      "証明ツールと偽造ツールが同梱される端末、この矛盾を言語化してくれる記事を探していました。ありがとうございます。"
     ],
     "riffEn": [
-      "TSA's whole pitch, for 20-plus years, has been: you need a ticket to get past us. That's the job. That's the only job. And now, if you pay $85 a year for PreCheck, you can walk to the gate without one — just to sit there, watch flights leave, and eat a $19 sandwich. I genuinely don't know if this is the security theater getting more theatrical, or the airport finally admitting what it always was: a mall with planes attached. Either way, they built a gate, charged people to get through it, and now they're charging other people to hang around on the other side. Somewhere in there is a business model I've been staring at too long.",
-      "LIV Golf was Saudi Arabia's bet that enough money could buy its way into the sports calendar. And it sort of worked — they got the players, the cameras, the tee times. What they couldn't buy was the part where people actually watch golf for the sport. So now it's Chapter 11, and under the restructuring plan, the players become majority owners of the thing they were paid to join. Phil Mickelson reportedly got $200 million to make the switch. He may now own a controlling stake in a bankrupt golf league. That's not a career arc, that's a warning label.",
-      "Meta is in court. Multiple courts, actually, over what the company does with user data. This is the same week they launched Muse, a personal AI agent that wants to learn your habits, your preferences, your life — for $20 a month, or $100 if you want the premium version of that. The free tier also exists. The free tier is the one where you are the feature. I'm not saying anything Meta hasn't already said in a terms-of-service document nobody reads. I'm just saying the timing is a choice.",
-      "The Supreme Court ruled that TV stations must sell election ad slots to political parties at their lowest available rate. Republicans called it a win. This is the same political movement that treats any price floor, any rate regulation, any government interference in private contracts as the first step toward socialism — except, apparently, when the regulated price benefits the party. The free market, it turns out, has a carve-out for campaign season. File that one.",
-      "A study looked at what happened to Chicago's economy during the 2025 ICE raids. What they found was that immigrant communities — spooked, staying home, avoiding shops and restaurants — produced a $1.26 billion hole in local retail, restaurant, and sales-tax revenue. Nobody got deported to another country. The money just... left. The argument was that undocumented immigrants were a burden on the economy. The economy looked at that argument and submitted a counter-filing."
+      "Republicans are going to stand at a podium in Dallas and celebrate a stock-trading ban. The ban covers members of Congress. It does not cover the president. The president filed over 21,000 trades last year — which works out to roughly 57 per day, including weekends. The convention theme is accountability. The text of the bill is apparently a separate document from the convention theme.",
+      "Trump's new Air Force One has an emergency evacuation slide. The slide's one job is to deploy when there's an emergency. On Tuesday, it looked at the tarmac, decided this counted, and opened. The president hadn't boarded yet. No emergency. No altitude. Just a slide that really wanted to be useful and jumped the gun by, conservatively, about 35,000 feet.",
+      "Four pregnant Amazon warehouse workers say they were denied bathroom breaks, denied chairs, then fired. Amazon's logistics network can locate a package to within six feet in real time. The company apparently lost track of the pregnant woman who needed to sit down. The lawsuit exists. Amazon has not commented on the specifics. The chairs are still available for next-day delivery, starting at $29.99.",
+      "OpenAI says it solved one of the seven Millennium Prize Problems — the hardest open questions in mathematics, each worth a million dollars, most unsolved for decades. The announcement went out. The peer review was not finished. Mathematicians are now doing what mathematicians do, which is check. It is entirely possible the greatest mathematical achievement of the century happened Tuesday, or it didn't, and either way the press release is identical.",
+      "iPhone 18 Pro will ship with a feature that cryptographically signs every pixel, so you can prove your photo hasn't been touched by AI. The phone also ships with Clean Up, Photo Styles, and a suite of AI tools that can touch your photos in various interesting ways. Apple's solution to the AI authenticity crisis is a phone that can commit the crime and then produce a signed affidavit that nothing happened. One device. Your call."
     ],
     "riffJa": [
-      "TSAの存在理由は「搭乗券を持っている人だけを通す」、たったそれだけです。シンプルでした。\n\nで、今週から「搭乗券がなくても年会費85ドルのPreCheck会員なら通します」になりました。ゲートエリアで座って、他の人の飛行機が飛ぶのを眺めるためだけに、靴を脱がずに中に入れる。これは進化なんでしょうか。\n\n空港セキュリティが会員特典になった。まあ、そういう週でした。",
-      "LIVゴルフの設計図はシンプルでした。サウジアラビアの石油マネーで世界中のトッププロを引き抜いて、PGAに対抗するリーグを作る。\n\nできたのは: 破産したゴルフリーグと、そのオーナーになってしまった元・引き抜かれた選手たちです。\n\n「億超えの保証金で来てください」と口説かれて入社したら、気づいたら廃墟のオーナーになっていた。転職したら会社ごともらった、という話。",
-      "メタは今、プライバシーと安全性をめぐる複数の訴訟を抱えています。\n\nその同じ週に出てきたのが「Muse」。あなたの習慣、好み、日常を何でも聞いてくれるパーソナルAIエージェント。月額20ドル、または100ドル。\n\n無料プランもあります。無料プランにおけるあなたの立ち位置については、利用規約の何ページ目かに書いてあります（誰も読んでいません）。\n\n「あなたのことをもっと知りたい」って、プロポーズなのか警告なのか。正直どっちでもあんまり変わらない気がしてきた。",
-      "最高裁が判決を出しました。テレビ局は政党に対して、最低価格で選挙広告枠を売らなければならない、と。\n\n共和党が「勝訴」と言っています。価格統制の判決で。\n\n自由市場と規制緩和を旗印にしてきた政党が、「民間企業に価格を命じる」判決で喝采している。まあ、そういうもんですよね。",
-      "2025年のシカゴでのICE摘発作戦のあと、移民コミュニティの人たちは外出を控えた。\n\n飲食店に行かなくなった。小売店に行かなくなった。とにかく、家にいた。\n\n結果として消えた経済活動は12億6000万ドル超。誰も国外に出ていません。ただ、怖くて外に出なかっただけです。それだけで、これだけ消えた。\n\n「移民は経済の負担だ」という主張のもとで始まった作戦で、経済が負担を受けた。数字が主張に反論を提出してきた、という話。"
+      "共和党がダラスの大会で株取引禁止法案を旗印にする予定です。この法案、議員とその家族が対象。大統領は対象外。2025年に2万1000件超の取引を開示したトランプ大統領は、この法案が誇らしげに掲げられている会場に着いて、スピーチを聞きながら、適用されない。\n\n2万1000件って、1日57件です。土日も含めて。起きている間ずっと取引していてもギリギリの数字。「ザルを盾に持って沼を語る」構造は世界共通ですが、ここまで数字がはっきりしてる例もなかなかない。",
+      "新型エアフォースワンの緊急脱出スライドが、大統領が乗る前に地上で自動展開しました。緊急脱出スライドの仕事は「緊急時に飛行機から人を逃がす」こと。地上で、誰も乗っていない状態で開くのは、仕事ではなく「早まり」です。数十億ドルかけた新型機の初回のニュースが、これ。ケガ人はいませんでした。機体のプライドは不明。",
+      "妊娠中のAmazon倉庫社員4人が、トイレ休憩を拒否され、椅子を拒否され、その後解雇されたとして提訴しました。Amazonは翌日配達で椅子を届けられる会社です。自社の倉庫で妊娠中の従業員に、届けられなかった。\n\nうまいこと言おうとする気になれない話です。届けられる会社が届けなかった、それだけ。",
+      "OpenAIが数学の「ミレニアム懸賞問題」のひとつを解いたと発表しました。100万ドルの懸賞付き、数十年未解決の問題です。発表はされた。査読はまだ終わっていない。数学者たちが今、「これ本当に正しい？」と確認しようとしている。先生が生徒の答案を採点できない時代が来た、というか、生徒が採点より先にプレスリリースを出した時代。",
+      "iPhone 18 Proに「撮影した写真がAI加工されていない証明」機能が入ります。同じ端末に、AI写真編集ツールも複数入っています。証明書と加工ツールが同じ箱に入って売られる。魚の鮮度証明書と塩が同じパッケージに入っているようなもので、まあ、どっちを先に開けるかはご自由に、という端末が119,800円から。"
     ],
     "asideEn": [
-      "They called it security. Now it's a perk.",
-      "He left the PGA for $200 million and got a bankrupt company.",
-      "Nothing says 'trust us' like a lawsuit and a new subscription.",
-      "Price controls. Republican win. Same sentence.",
-      "They didn't deport a billion dollars. It just stayed home."
+      "Great loophole. Really airtight.",
+      "The slide knew.",
+      "This one isn't funny.",
+      "Peer review: pending. Press release: sent.",
+      "The alibi ships in the box."
     ],
     "asideJa": [
-      "セキュリティが会員特典になった。",
-      "入社したら会社ごともらった。",
-      "訴訟中に「全部話して」は強い。",
-      "自由市場の人たちが価格統制で勝訴。",
-      "12億ドルは、ただ怖くて家にいた。"
+      "ザルの縁を持つ人が沼を語る。",
+      "機体も逃げたかった。",
+      "これは、笑えない。",
+      "発表済み。検証中。",
+      "証拠隠滅ツール同梱。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
       "News Commentary",
-      "TSA",
-      "ICE"
+      "OpenAI",
+      "Apple"
     ],
-    "fullEn": "# The Gatekeepers Opened the Gate\n\n## Today's Forecast\n\nSo there's a theme today.\n\nThe people who built the gates decided the gates are optional. TSA is now letting non-passengers through security — for a fee, naturally. The Supreme Court told private TV stations what to charge. Meta, currently in court over what it does with your data, released an app that wants to know everything about you. LIV Golf, funded by sovereign oil money, went bankrupt and handed the ruins to its players. And in Chicago, a crackdown meant to reduce an \"economic burden\" eliminated $1.26 billion from the local economy.\n\nHere's your forecast: if you've ever followed the rules only to watch the rule-maker quietly rewrite them, today's news is not going to surprise you. It might, however, make you feel significantly less alone. Carry that.\n\n---\n\n## 1. TSA Now Lets You Through Security Without a Ticket — Just to Hang Out at the Gate\n\n*CBS News US — [source](https://www.cbsnews.com/news/tsa-gateside-program-security-without-ticket/)*\n\nThe Transportation Security Administration has launched a new program at 13 airports that allows eligible TSA PreCheck members to pass through security checkpoints without a plane ticket. The program lets these members enter the gate area even if they have no flight booked.\n\n**Why It's Funny**\n\nTSA's whole pitch, for 20-plus years, has been: you need a ticket to get past us. That's the job. That's the only job. And now, if you pay $85 a year for PreCheck, you can walk to the gate without one — just to sit there, watch flights leave, and eat a $19 sandwich. I genuinely don't know if this is the security theater getting more theatrical, or the airport finally admitting what it always was: a mall with planes attached. Either way, they built a gate, charged people to get through it, and now they're charging other people to hang around on the other side. Somewhere in there is a business model I've been staring at too long.\n\n**Say It Out Loud**\n\n> TSA finally cracked the code on airport security: just let everyone in and call it a premium experience.\n\n---\n\n## 2. LIV Golf Files for Bankruptcy — Players to Become Majority Owners of the Wreckage\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html)*\n\nLIV Golf, the Saudi-backed breakaway golf league, has filed for Chapter 11 bankruptcy protection. Under the proposed restructuring deal, the players are expected to become majority owners of the venture they were recruited to join.\n\n**Why It's Funny**\n\nLIV Golf was Saudi Arabia's bet that enough money could buy its way into the sports calendar. And it sort of worked — they got the players, the cameras, the tee times. What they couldn't buy was the part where people actually watch golf for the sport. So now it's Chapter 11, and under the restructuring plan, the players become majority owners of the thing they were paid to join. Phil Mickelson reportedly got $200 million to make the switch. He may now own a controlling stake in a bankrupt golf league. That's not a career arc, that's a warning label.\n\n**Say It Out Loud**\n\n> LIV Golf promised players guaranteed money and no cuts. Turns out the league didn't get the same deal.\n\n---\n\n## 3. Meta Launches Personal AI Agent — While Still Fighting Privacy and Safety Lawsuits\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html)*\n\nMeta unveiled Muse, a personal AI agent app available in a free tier or monthly subscriptions of $20 or $100. The launch comes as Meta faces a public reckoning over its handling of user privacy and platform safety.\n\n**Why It's Funny**\n\nMeta is in court. Multiple courts, actually, over what the company does with user data. This is the same week they launched Muse, a personal AI agent that wants to learn your habits, your preferences, your life — for $20 a month, or $100 if you want the premium version of that. The free tier also exists. The free tier is the one where you are the feature. I'm not saying anything Meta hasn't already said in a terms-of-service document nobody reads. I'm just saying the timing is a choice.\n\n**Say It Out Loud**\n\n> Meta's new AI wants to know everything about you. They're just asking this time.\n\n---\n\n## 4. Supreme Court Rules TV Stations Must Sell Election Ads at a Steep Discount — Only to Political Parties\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/)*\n\nThe Supreme Court has ruled that television stations must offer their lowest available ad rates to political parties for election advertising. The decision represents a win for Republicans who pushed for the ruling.\n\n**Why It's Funny**\n\nThe Supreme Court ruled that TV stations must sell election ad slots to political parties at their lowest available rate. Republicans called it a win. This is the same political movement that treats any price floor, any rate regulation, any government interference in private contracts as the first step toward socialism — except, apparently, when the regulated price benefits the party. The free market, it turns out, has a carve-out for campaign season. File that one.\n\n**Say It Out Loud**\n\n> The free market is sacred in America, unless you need a campaign ad — then it's a regulated utility.\n\n---\n\n## 5. ICE Raids Cost Chicago Over $1.26 Billion in Lost Revenue as Immigrants Stayed Home Out of Fear\n\n*NPR News — [source](https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids)*\n\nA new study has found that the 2025 ICE raids in Chicago led to widespread fear in immigrant communities, causing many to stay home and avoid public spaces. The resulting drop in economic activity cost the region more than $1.26 billion in lost retail, restaurant, and sales-tax revenue.\n\n**Why It's Funny**\n\nA study looked at what happened to Chicago's economy during the 2025 ICE raids. What they found was that immigrant communities — spooked, staying home, avoiding shops and restaurants — produced a $1.26 billion hole in local retail, restaurant, and sales-tax revenue. Nobody got deported to another country. The money just... left. The argument was that undocumented immigrants were a burden on the economy. The economy looked at that argument and submitted a counter-filing.\n\n**Say It Out Loud**\n\n> They didn't have to deport a billion dollars. They just had to scare it into staying home.\n\n---\n\n## Today's Punchline\n\n> Every system you've ever trusted was designed by someone who also designed the exception for themselves.\n",
-    "fullJa": "# 「通してはいけない人」を通し、「守るはずの経済」を12億ドル消した週\n\n## 今日を占うよ〜\n\n搭乗券なしでゲートを通れる日が来ました。\n\nTSA(米運輸保安庁)が13空港で始めたのは、飛行機に乗る予定のない人を、有料会員なら空港のゲートエリアまで通すプログラム。「空港のセキュリティ」という概念が、会員特典になりました。\n\nで、他を見ると…\n最高裁がテレビ局に価格統制を命じ、プライバシー訴訟の最中にメタが「あなたのことを何でも聞くAI」を発売し、サウジマネーのゴルフリーグが破産して選手に廃墟を渡し、ICEが「経済の負担を排除する」と始めた作戦で12億ドルを消した。\n\n今日の5本を貫く糸は、たぶん「ルールを作った側が一番ルールを無視している」ということです。\n\nということで、今日の占い。\nルールを守ってるのに損している気がするなら、それはあなたのせいじゃないです。上の方で誰かが書き換えています。今日はそういう日なので、あなたが真面目にやっていること自体を疑わなくていいと思う。少なくとも今日はね。\n\n---\n\n## 1. TSA Now Lets You Through Security Without a Ticket — Just to Hang Out at the Gate\n\n*CBS News US（[記事](https://www.cbsnews.com/news/tsa-gateside-program-security-without-ticket/)）*\n\nTSAが新プログラムを導入し、一部のTSA PreCheckメンバーは搭乗券なしで空港のセキュリティを通過し、ゲートエリアに入れるようになった。対象は13空港。\n\n**どこが笑える？**\n\nTSAの存在理由は「搭乗券を持っている人だけを通す」、たったそれだけです。シンプルでした。\n\nで、今週から「搭乗券がなくても年会費85ドルのPreCheck会員なら通します」になりました。ゲートエリアで座って、他の人の飛行機が飛ぶのを眺めるためだけに、靴を脱がずに中に入れる。これは進化なんでしょうか。\n\n空港セキュリティが会員特典になった。まあ、そういう週でした。\n\n**このニュースをジョークにするなら...**\n\n> TSAはついに空港セキュリティの答えを出した。全員通して、プレミアム体験と呼ぶ。\n\n---\n\n## 2. LIV Golf Files for Bankruptcy — Players to Become Majority Owners of the Wreckage\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/08/liv-golf-chapter-11-bankruptcy.html)）*\n\nサウジアラビア資金が支援するLIVゴルフがチャプター11の破産申請を行った。再建計画では、プレーヤーたちが会社の過半数株主になる見込み。\n\n**どこが笑える？**\n\nLIVゴルフの設計図はシンプルでした。サウジアラビアの石油マネーで世界中のトッププロを引き抜いて、PGAに対抗するリーグを作る。\n\nできたのは: 破産したゴルフリーグと、そのオーナーになってしまった元・引き抜かれた選手たちです。\n\n「億超えの保証金で来てください」と口説かれて入社したら、気づいたら廃墟のオーナーになっていた。転職したら会社ごともらった、という話。\n\n**このニュースをジョークにするなら...**\n\n> LIVゴルフは選手に「カットなし、全額保証」と約束した。リーグ自身はカットされた。\n\n---\n\n## 3. Meta Launches Personal AI Agent — While Still Fighting Privacy and Safety Lawsuits\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/08/meta-personal-ai-agents-public-reckoning-privacy-safety.html)）*\n\nメタが個人向けAIエージェントアプリ「Muse」を発表。無料プランと月額20〜100ドルの有料プランを提供するが、同社はプライバシーと安全性をめぐる批判に直面している。\n\n**どこが笑える？**\n\nメタは今、プライバシーと安全性をめぐる複数の訴訟を抱えています。\n\nその同じ週に出てきたのが「Muse」。あなたの習慣、好み、日常を何でも聞いてくれるパーソナルAIエージェント。月額20ドル、または100ドル。\n\n無料プランもあります。無料プランにおけるあなたの立ち位置については、利用規約の何ページ目かに書いてあります（誰も読んでいません）。\n\n「あなたのことをもっと知りたい」って、プロポーズなのか警告なのか。正直どっちでもあんまり変わらない気がしてきた。\n\n**このニュースをジョークにするなら...**\n\n> メタの新AIはあなたのことを全部知りたいと言ってる。今回は一応、聞いてくる。\n\n---\n\n## 4. Supreme Court Rules TV Stations Must Sell Election Ads at a Steep Discount — Only to Political Parties\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/09/supreme-court-forces-tv-stations-to-sell-more-election-ads-at-steep-discounts/)）*\n\n連邦最高裁が、テレビ局は政党に対して最低価格で選挙広告枠を販売しなければならないという判決を下した。共和党の勝訴となる。\n\n**どこが笑える？**\n\n最高裁が判決を出しました。テレビ局は政党に対して、最低価格で選挙広告枠を売らなければならない、と。\n\n共和党が「勝訴」と言っています。価格統制の判決で。\n\n自由市場と規制緩和を旗印にしてきた政党が、「民間企業に価格を命じる」判決で喝采している。まあ、そういうもんですよね。\n\n**このニュースをジョークにするなら...**\n\n> アメリカでは自由市場は神聖なもの。ただし選挙広告だけは規制対象の公益事業扱い。\n\n---\n\n## 5. ICE Raids Cost Chicago Over $1.26 Billion in Lost Revenue as Immigrants Stayed Home Out of Fear\n\n*NPR News（[記事](https://www.npr.org/2026/09/08/nx-s1-5955787/new-report-shows-the-economic-toll-of-ice-raids)）*\n\n新たな調査で、2025年のシカゴでのICE摘発作戦が移民コミュニティに恐怖をもたらし、小売・飲食・売上税収入で12億6000万ドル超の損失が生じたと推計された。\n\n**どこが笑える？**\n\n2025年のシカゴでのICE摘発作戦のあと、移民コミュニティの人たちは外出を控えた。\n\n飲食店に行かなくなった。小売店に行かなくなった。とにかく、家にいた。\n\n結果として消えた経済活動は12億6000万ドル超。誰も国外に出ていません。ただ、怖くて外に出なかっただけです。それだけで、これだけ消えた。\n\n「移民は経済の負担だ」という主張のもとで始まった作戦で、経済が負担を受けた。数字が主張に反論を提出してきた、という話。\n\n**このニュースをジョークにするなら...**\n\n> 12億ドルを強制送還する必要はなかった。怖がらせて家に閉じ込めるだけでよかった。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> ルールを守る人と、ルールを書く人は、最初から別の人なんですよね。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3のcaption3に汎用ジョーク定型句「Nothing says…」が残存していたため書き直し。d5のimagePrompts3にICE摘発との因果を示す記号（badge shadow）が入っているが実在人物・被害者を映さない構図なので許容。xJa1が137字でオーバーしていたため短縮。riffEnおよびriffJaは人間の呼吸で書かれており合格。introJa・leadJa・quipはペルソナ一致で合格。センシティブ候補：d5は移民コミュニティへの恐怖と経済的被害を扱うが、死・重傷・自殺等の直接的悲劇は含まず、sensitive指定は不要と判断。captionsJa d2-2の「200億円」は元データの「$200 million」から算出されており事実逸脱の可能性（レート依存）だが原文captions英語に「$200 million」とあり対応として許容。全体として直すべき箇所は最小限。 ／ 文体パス: 3箇所修正。riffJa[0]の締め「たぶん長く覚えていると思います」がAIらしい総括だったので崩した。riffJa[3]の「思想というのは状況によってずいぶん柔軟になるんだな、と学びます」が「うまくまとめた感」の典型だったので捨て台詞に切り落とした。riffJa[2]の「判断は読者に委ねます」も距離を感じる締めなので本音形に直した。"
+    "fullEn": "# The Ban Doesn't Cover Him, the Slide Bailed Early, and the Proof Is Unverified\n\n## Today's Forecast\n\nFive stories today, and they're all the same story.\n\nThe stock ban skips the guy with 21,000 trades. The proof-of-authenticity feature ships with the AI editing suite. The math breakthrough is awaiting peer review — after the press release. The emergency exit deployed before anyone boarded. Amazon figured out how to deliver a chair to your door in one day and couldn't find one for a pregnant employee.\n\nIf you've ever tried to fix something and accidentally made it worse, today's news cycle is your vindication. The people designing the solutions are also the problem. Which means whatever you're dealing with at work right now? Structurally, same energy. You're in good company. Probably.\n\n---\n\n## 1. Republicans to Tout Stock-Trading Ban at Convention — While Trump Logged 21,000 Trades Last Year\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html)*\n\nRepublicans plan to promote a congressional stock-trading ban as a signature issue at their midterm convention in Dallas. The House-passed legislation applies only to members of Congress and their families. President Trump, meanwhile, disclosed more than 21,000 trades in 2025 — none of which would be restricted under the bill Republicans are celebrating.\n\n**Why It's Funny**\n\nRepublicans are going to stand at a podium in Dallas and celebrate a stock-trading ban. The ban covers members of Congress. It does not cover the president. The president filed over 21,000 trades last year — which works out to roughly 57 per day, including weekends. The convention theme is accountability. The text of the bill is apparently a separate document from the convention theme.\n\n**Say It Out Loud**\n\n> They passed a stock-trading ban that doesn't cover the guy with 21,000 trades. Solid loophole, guys. Very tight.\n\n---\n\n## 2. Trump's Departure Delayed After Emergency Slide Deploys Itself on New Air Force One\n\n*CBS News US — [source](https://www.cbsnews.com/news/air-force-one-slide-trump-tarmac-joint-base-andrews/)*\n\nPresident Trump's trip to Texas was delayed after an emergency evacuation slide on the new Air Force One deployed on the tarmac before he boarded the aircraft. The incident occurred with the president's new plane, which has been a point of pride for the administration. No injuries were reported.\n\n**Why It's Funny**\n\nTrump's new Air Force One has an emergency evacuation slide. The slide's one job is to deploy when there's an emergency. On Tuesday, it looked at the tarmac, decided this counted, and opened. The president hadn't boarded yet. No emergency. No altitude. Just a slide that really wanted to be useful and jumped the gun by, conservatively, about 35,000 feet.\n\n**Say It Out Loud**\n\n> The emergency slide deployed before Trump boarded. Even the plane wanted out early.\n\n---\n\n## 3. Amazon Denied Pregnant Workers Bathroom Breaks and Chairs, Lawsuit Alleges\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/)*\n\nFour women have filed a lawsuit alleging that Amazon denied them basic pregnancy accommodations, including bathroom breaks and seating, and subsequently fired them. The plaintiffs say the company's warehouse policies effectively punished workers for being pregnant. Amazon has not publicly commented on the specifics of the lawsuit.\n\n**Why It's Funny**\n\nFour pregnant Amazon warehouse workers say they were denied bathroom breaks, denied chairs, then fired. Amazon's logistics network can locate a package to within six feet in real time. The company apparently lost track of the pregnant woman who needed to sit down. The lawsuit exists. Amazon has not commented on the specifics. The chairs are still available for next-day delivery, starting at $29.99.\n\n**Say It Out Loud**\n\n> Amazon delivers chairs to your house overnight. To its pregnant workers: 'stand up, we're busy.'\n\n---\n\n## 4. OpenAI Solved a Millennium Prize Problem — and Academia Is Not Thrilled\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)*\n\nOpenAI announced it has solved one of mathematics' seven Millennium Prize Problems, a feat that would represent one of the greatest achievements in modern mathematics. However, the result was publicized before formal peer review was completed, sending a chill through academic circles. Mathematicians are grappling with how to evaluate an AI-produced proof that no one has yet officially verified.\n\n**Why It's Funny**\n\nOpenAI says it solved one of the seven Millennium Prize Problems — the hardest open questions in mathematics, each worth a million dollars, most unsolved for decades. The announcement went out. The peer review was not finished. Mathematicians are now doing what mathematicians do, which is check. It is entirely possible the greatest mathematical achievement of the century happened Tuesday, or it didn't, and either way the press release is identical.\n\n**Say It Out Loud**\n\n> OpenAI solved a math problem no one's solved in decades. Announced it. Mathematicians are now checking if that's true. Normal.\n\n---\n\n## 5. Apple's New Camera Feature Proves Your Photo Isn't AI — Using the AI Phone That Made It\n\n*The Verge — [source](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image)*\n\nApple announced a new camera feature called 'Reference Image' for the iPhone 18 Pro lineup that cryptographically signs every pixel captured by the camera, allowing users to prove a photo has not been manipulated by AI. The feature arrives on a device that also ships with a suite of AI photo-editing tools. Apple pitched the feature as a solution to the growing distrust of digital images.\n\n**Why It's Funny**\n\niPhone 18 Pro will ship with a feature that cryptographically signs every pixel, so you can prove your photo hasn't been touched by AI. The phone also ships with Clean Up, Photo Styles, and a suite of AI tools that can touch your photos in various interesting ways. Apple's solution to the AI authenticity crisis is a phone that can commit the crime and then produce a signed affidavit that nothing happened. One device. Your call.\n\n**Say It Out Loud**\n\n> Apple made a feature to prove your photo isn't AI. It ships on the phone with five AI photo tools. Just so we're clear.\n\n---\n\n## Today's Punchline\n\n> Today every solution came with the problem already inside. Buy the ban, get the loophole free.\n",
+    "fullJa": "# 「禁止します、ただし大統領は除く」——今日のアメリカ5本\n\n## 今日を占うよ〜\n\n「禁止します」「証明できます」「解きました」「安全です」「届けます」——今日の5本、全部そう始まる。\n\nで、続きを読むと。\n\n禁止の対象に大統領は入っていない。証明する端末にAI加工ツールが入っている。解いた答えはまだ誰も確認していない。安全なはずの機体が出発前に脱出スライドを開けた。何でも届ける会社が、妊婦に椅子を届けなかった。\n\n今日の糸は「アリバイと凶器が同じ箱に入っている」。\n\nで、今日の占い。\n\n「自分だけ割を食ってる気がする」というあなた——今日のニュースを見ると、得してる側もだいぶバタバタしています。数十億ドルの機体が地上で脱出スライドを開ける。数学の世紀の難問、解いたかどうかをまだ誰も確認していない。うまくいかないのは、仕組みそのものが最初からちょっとずれてるから、かもしれない。\n\n少なくとも今日はそういう日。5本、いきます。\n\n---\n\n## 1. Republicans to Tout Stock-Trading Ban at Convention — While Trump Logged 21,000 Trades Last Year\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html)）*\n\n共和党は中間選挙の大会で議会議員の株取引禁止を売り物にする予定だが、同法案が適用されるのは議会のみで、2025年に2万1000件超の取引を開示したトランプ大統領本人には適用されない。\n\n**どこが笑える？**\n\n共和党がダラスの大会で株取引禁止法案を旗印にする予定です。この法案、議員とその家族が対象。大統領は対象外。2025年に2万1000件超の取引を開示したトランプ大統領は、この法案が誇らしげに掲げられている会場に着いて、スピーチを聞きながら、適用されない。\n\n2万1000件って、1日57件です。土日も含めて。起きている間ずっと取引していてもギリギリの数字。「ザルを盾に持って沼を語る」構造は世界共通ですが、ここまで数字がはっきりしてる例もなかなかない。\n\n**このニュースをジョークにするなら...**\n\n> 2万1000件取引した人には適用されない株取引禁止法を誇らしげに掲げる大会。抜け穴の精度だけは一流ですね。\n\n---\n\n## 2. Trump's Departure Delayed After Emergency Slide Deploys Itself on New Air Force One\n\n*CBS News US（[記事](https://www.cbsnews.com/news/air-force-one-slide-trump-tarmac-joint-base-andrews/)）*\n\nトランプ大統領のテキサス出発が、新型エアフォースワンの緊急脱出用スライドが搭乗前に自動展開するトラブルにより遅延した。\n\n**どこが笑える？**\n\n新型エアフォースワンの緊急脱出スライドが、大統領が乗る前に地上で自動展開しました。緊急脱出スライドの仕事は「緊急時に飛行機から人を逃がす」こと。地上で、誰も乗っていない状態で開くのは、仕事ではなく「早まり」です。数十億ドルかけた新型機の初回のニュースが、これ。ケガ人はいませんでした。機体のプライドは不明。\n\n**このニュースをジョークにするなら...**\n\n> トランプが乗る前にスライドが展開。機体が一番早く「降ります」と言った。\n\n---\n\n## 3. Amazon Denied Pregnant Workers Bathroom Breaks and Chairs, Lawsuit Alleges\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/)）*\n\n妊娠中の女性4人がAmazonを提訴。妊娠中の基本的な配慮（トイレ休憩や椅子）を拒否され、その後解雇されたと主張している。\n\n**どこが笑える？**\n\n妊娠中のAmazon倉庫社員4人が、トイレ休憩を拒否され、椅子を拒否され、その後解雇されたとして提訴しました。Amazonは翌日配達で椅子を届けられる会社です。自社の倉庫で妊娠中の従業員に、届けられなかった。\n\nうまいこと言おうとする気になれない話です。届けられる会社が届けなかった、それだけ。\n\n**このニュースをジョークにするなら...**\n\n> リクライニングチェアは翌日お届け。妊婦の従業員には「立ってて」。Amazonらしい優先順位ですね。\n\n---\n\n## 4. OpenAI Solved a Millennium Prize Problem — and Academia Is Not Thrilled\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)）*\n\nOpenAIが数学の「ミレニアム懸賞問題」の一つを解いたと発表したが、正式な査読が完了する前にニュースが広まり、学術界に動揺が広がっている。\n\n**どこが笑える？**\n\nOpenAIが数学の「ミレニアム懸賞問題」のひとつを解いたと発表しました。100万ドルの懸賞付き、数十年未解決の問題です。発表はされた。査読はまだ終わっていない。数学者たちが今、「これ本当に正しい？」と確認しようとしている。先生が生徒の答案を採点できない時代が来た、というか、生徒が採点より先にプレスリリースを出した時代。\n\n**このニュースをジョークにするなら...**\n\n> 数十年誰も解けなかった数学の難問をAIが解いた。発表した。数学者たちが今「本当に？」と確認中。正常な流れです。\n\n---\n\n## 5. Apple's New Camera Feature Proves Your Photo Isn't AI — Using the AI Phone That Made It\n\n*The Verge（[記事](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image)）*\n\nAppleはiPhone 18 Proに、撮影した写真がAIで加工されていないことを証明する「Reference Image」機能を搭載すると発表した。\n\n**どこが笑える？**\n\niPhone 18 Proに「撮影した写真がAI加工されていない証明」機能が入ります。同じ端末に、AI写真編集ツールも複数入っています。証明書と加工ツールが同じ箱に入って売られる。魚の鮮度証明書と塩が同じパッケージに入っているようなもので、まあ、どっちを先に開けるかはご自由に、という端末が119,800円から。\n\n**このニュースをジョークにするなら...**\n\n> AI加工してない証明機能を、AI写真加工ツール5種入りのスマホに搭載。念のため確認しておきます。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 解決策を開けたら、問題が同梱されていた。今日のアメリカはそういう日。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3（Amazon）のriffJaに「笑えない。これは、笑えない。」という感情吐露があり、sensitiveフラグ漏れの可能性を検討したが、死亡・重傷等の悲劇ではなく労働権侵害の訴訟案件のため対象外と判断。ただし同箇所のriffJaがコメディの開発を途中放棄しており、権力批判の筆として弱い。d1 captionsJa[1]の「キャラクターですよ」がオチ後の蛇足。d4 captionsJa[1]の曜日列挙ジョークは英語版の「月曜→火曜→水曜」の逆順が意図の骨格なのにJa版が順列になっており笑いが死んでいる。introJaの「占い」パートが書き言葉寄りで、掴み→5本予告→前向きメッセージの流れが不明確。xJa[0]が135字超。これらを修正。 ／ 文体パス: 全体的に人間の声が出ていてよく書けている。2箇所だけ直した：riffJa[2]の「笑いを開発する話ではない」がプレゼン口調で浮いていたので本音の形に崩し、riffJa[4]の締め「どちらを先に使うかはあなた次第、という端末が」が几帳面すぎたので少し崩した。"
   },
   "carousel": [
-    "images/2026-09-09/carousel/slide-1.jpg",
-    "images/2026-09-09/carousel/slide-2.jpg",
-    "images/2026-09-09/carousel/slide-3.jpg",
-    "images/2026-09-09/carousel/slide-4.jpg",
-    "images/2026-09-09/carousel/slide-5.jpg",
-    "images/2026-09-09/carousel/slide-6.jpg",
-    "images/2026-09-09/carousel/slide-7.jpg"
+    "images/2026-09-10/carousel/slide-1.jpg",
+    "images/2026-09-10/carousel/slide-2.jpg",
+    "images/2026-09-10/carousel/slide-3.jpg",
+    "images/2026-09-10/carousel/slide-4.jpg",
+    "images/2026-09-10/carousel/slide-5.jpg",
+    "images/2026-09-10/carousel/slide-6.jpg",
+    "images/2026-09-10/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-09/note-header.jpg",
-    "substack": "images/2026-09-09/substack-cover.jpg"
+    "note": "images/2026-09-10/note-header.jpg",
+    "substack": "images/2026-09-10/substack-cover.jpg"
   },
-  "video": "videos/2026-09-09/daily-short.mp4",
-  "videoDuration": 80.3,
-  "videoJa": "videos/2026-09-09/daily-short-ja.mp4",
-  "videoJaDuration": 90.3
+  "video": "videos/2026-09-10/daily-short.mp4",
+  "videoDuration": 78.2,
+  "videoJa": "videos/2026-09-10/daily-short-ja.mp4",
+  "videoJaDuration": 88.1
 }
