@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-10",
-  "generatedAt": "2026-09-09T21:45:49+00:00",
+  "date": "2026-09-11",
+  "generatedAt": "2026-09-10T21:41:07+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Republicans to Tout Stock-Trading Ban at Convention — While Trump Logged 21,000 Trades Last Year",
-        "source": "CNBC Top News",
-        "date": "2026-09-10",
-        "url": "https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html",
-        "summary": "共和党は中間選挙の大会で議会議員の株取引禁止を売り物にする予定だが、同法案が適用されるのは議会のみで、2025年に2万1000件超の取引を開示したトランプ大統領本人には適用されない。"
+        "headline": "Trump's $5,000 'Dividend' Would Fan the Inflation It's Supposed to Fix",
+        "source": "CBS News US",
+        "date": "2026-09-11",
+        "url": "https://www.cbsnews.com/news/trump-5000-checks-inflation-deficit-economists/",
+        "summary": "トランプ大統領が公約した成人全員への5,000ドル給付について、経済学者らはインフレを再燃させ財政を悪化させると警告している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「議員の株取引を禁止する」と叫びながら、2万1000回取引した大統領は適用外ですよ、という法案を誇らしげに掲げているんですよ。",
-        "<b>滑稽さ:</b> 2万1000回って、1日平均57件でしょ。寝る間もなく取引してたんですかね。大会のスピーチの間も携帯でやってたりして。",
-        "<b>日本・海外から見ると:</b> 「ザル法を盾に持って正義を語る」構図、世界共通ですけど、ここまで数字がはっきりしてる例もなかなかないですよね。"
+        "<b>矛盾:</b> インフレを抑えるために戦ってきた政権が、経済学者いわく「インフレを再燃させる」5,000ドルをばらまこうとしてるんですよ。消火ホースで火に油を注ぐやつ。",
+        "<b>滑稽さ:</b> 「1兆ドル超かかる」「法的障壁あり」「選挙後じゃないと配らない」——3拍子そろった約束を、みんなもう財布に入れた気でいるんじゃないですか。",
+        "<b>日本・海外から見ると:</b> 日本でも給付金のたびに「財源は？」と突っ込まれるけど、アメリカは1兆ドル規模の話をしながら「まあ選挙が終わってから考えよう」という強さがある。"
       ],
       "imagePrompts": [
-        "A politician at a convention podium holding up a large banner reading 'STOCK TRADING BAN' while a giant ticker-tape display behind them scrolls thousands of stock trades",
-        "A loophole rendered literally: a metal fence labeled 'Congressional Stock Ban' with an enormous gap cut out, shaped like a president's silhouette, through which a river of trading slips flows freely",
-        "A scoreboard on a convention stage: 'Congress: 0 trades allowed' vs. 'Executive Branch: 21,000+' with confetti falling from the ceiling"
+        "A giant check for $5,000 signed 'Uncle Sam' sitting on top of a thermometer showing a dangerously high inflation reading, with economists in hard hats watching from a distance",
+        "A politician at a podium handing out oversized dollar bills with one hand while a price tag on a loaf of bread quietly doubles in the background",
+        "A vending machine labeled 'Election Promise Dispenser' with a slot that says 'Insert Vote Here' and a tray dispensing $5,000 IOUs printed on paper that reads 'Subject to conditions'"
       ],
       "captions": [
-        "They passed a stock-trading ban that doesn't cover the guy with 21,000 trades. Solid loophole, guys. Very tight.",
-        "21,000 trades in a year. At some point that's not a portfolio — that's a personality disorder.",
-        "The convention theme is draining the swamp. The fine print says the drain skips the Oval Office.",
-        "Congress: banned. President: 57 trades a day. Totally different thing, don't worry about it.",
-        "You ever write a no-running rule at a pool and then immediately run? Republicans just did that. For the whole country."
+        "We'll give you $5,000 to beat inflation — and according to every economist alive, that $5,000 will beat inflation right back.",
+        "The conditions: Republicans win, Congress agrees, courts don't object, and you're still alive. Good luck!",
+        "A trillion-dollar plan to solve a cost-of-living crisis. The cost of living was unavailable for comment.",
+        "It's not bribery, it's a dividend. Bribery is when you pay people before they vote.",
+        "The junior economists have a word for this. It starts with 'infla' and ends with 'tion.'"
       ],
       "captionsJa": [
-        "2万1000件取引した人には適用されない株取引禁止法を誇らしげに掲げる大会。抜け穴の精度だけは一流ですね。",
-        "年2万1000回の取引。もうそれ投資じゃなくて、キャラクターですよ。",
-        "大会のテーマは「沼を干上がらせろ」。小さな文字で「ホワイトハウスの周りを除く」と書いてある。",
-        "議員はアウト。大統領は1日57回。「全然別の話ですから」って顔してる。",
-        "プールで「走るな」の貼り紙を自分で貼って即ダッシュする人いるじゃないですか。共和党が今、国家規模でやってますよ。"
+        "インフレに勝つために5,000ドル配ります——経済学者によると、その5,000ドルがインフレに反撃するらしいですよ。",
+        "条件はこちら：共和党が勝つ、議会が同意する、裁判所が止めない、あなたがまだ生きてる。ご健闘を。",
+        "物価高を解決する1兆ドル計画。物価高はノーコメントだそうです。",
+        "賄賂じゃないですよ、配当金です。賄賂は投票前に払うやつ。",
+        "若い経済学者にはこれを表す言葉があります。「イン」で始まって「フレーション」で終わるやつ。"
       ],
-      "newsEn": "Republicans plan to promote a congressional stock-trading ban as a signature issue at their midterm convention in Dallas. The House-passed legislation applies only to members of Congress and their families. President Trump, meanwhile, disclosed more than 21,000 trades in 2025 — none of which would be restricted under the bill Republicans are celebrating.",
+      "newsEn": "President Trump pledged $5,000 payments to all American adults if Republicans retain control of Congress in November. Economists warn the plan could reignite inflation and add significantly to the national debt. The proposal has drawn bipartisan skepticism and is expected to face major legal and fiscal hurdles.",
       "ironyEn": [
         {
-          "contradiction": "Republicans are campaigning on a stock-trading ban that, by design, doesn't apply to the guy at the top of the ticket.",
-          "absurdity": "Trump disclosed 21,000 trades in one year. That's not investing — that's a second job with better hours.",
-          "outside": "From abroad, this reads as a party proudly displaying a fire extinguisher with a hole in the bottom."
+          "contradiction": "The administration spent years fighting inflation, and the cure is apparently handing out $5,000 checks that economists say will make inflation worse.",
+          "absurdity": "The fine print: you get paid after the midterms, if Republicans win, if Congress approves it, and if the courts don't block it. Totally cashable.",
+          "outside": "In most countries a trillion-dollar giveaway would prompt a budget crisis. In America it prompts a convention speech and a standing ovation."
         },
         {
-          "contradiction": "The bill they're cheering covers Congress. The person who most needs covering disclosed a trade roughly every 25 minutes of the business day.",
-          "absurdity": "They've managed to write anti-corruption legislation that functions as a personal carve-out for the most prominent trader in the room.",
-          "outside": "In most countries, the gap between the law and the lawmaker is considered a scandal. Here it's the convention keynote."
+          "contradiction": "Promising money to fix a cost-of-living crisis by injecting cash that raises the cost of living is a loop so tight it deserves its own economic term.",
+          "absurdity": "Five thousand dollars sounds great until economists point out it'll cost you six thousand in higher prices — but the check arrives first, so politically it's genius.",
+          "outside": "Foreign finance ministers watching this are either taking notes or calling their therapists."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-10/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-10/candidate-1-punchy.jpg"
+      "image": "images/2026-09-11/candidate-1.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-11/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Trump's Departure Delayed After Emergency Slide Deploys Itself on New Air Force One",
+        "headline": "White House Wrote Secret Rules for AI Safety — and Then Kept Them Secret",
         "source": "CBS News US",
-        "date": "2026-09-10",
-        "url": "https://www.cbsnews.com/news/air-force-one-slide-trump-tarmac-joint-base-andrews/",
-        "summary": "トランプ大統領のテキサス出発が、新型エアフォースワンの緊急脱出用スライドが搭乗前に自動展開するトラブルにより遅延した。"
+        "date": "2026-09-11",
+        "url": "https://www.cbsnews.com/news/ai-model-framework-white-house/",
+        "summary": "ホワイトハウスが8月に策定した最先端AIモデルのテストに関する自主的な枠組みが、懸念の高まりにもかかわらず一般公開されていないことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 国家の威信を象徴するはずの新型大統領専用機が、乗る前から逃げ出してるんですよ。",
-        "<b>滑稽さ:</b> 緊急脱出スライドって「飛んでから使うもの」じゃないですか。地上で勝手に出てくるのは、単なる「早まり」ですよね。",
-        "<b>日本・海外から見ると:</b> 数十億ドルかけた専用機が出発前に自己崩壊するニュースは、アメリカのインフラ投資の縮図として世界に受け取られそうです。"
+        "<b>矛盾:</b> AI安全基準を「自主的な枠組み」にしたうえで、その内容も非公開——つまり誰も守らなくていいし、何を守るべきかも誰も知らない、という完璧な透明性ゼロ体制。",
+        "<b>滑稽さ:</b> 「AI企業に自分たちを律してもらう」という計画の詳細を、AI企業以外の全員から隠しているんですよ。誰かに見せてもらいましたか？",
+        "<b>日本・海外から見ると:</b> EUはAI法を公開規制で何年もかけて議論してきた。アメリカの答えは「非公開の任意ルール」。どちらが先に後悔するかは、もう少し待てばわかる。"
       ],
       "imagePrompts": [
-        "A gleaming presidential aircraft on a tarmac with a large inflatable emergency slide fully deployed at the door, a red carpet laid out below it, and an empty podium with an official seal nearby",
-        "Ground crew in yellow vests staring at an unexpectedly deployed yellow inflatable slide on a runway, clipboards in hand, with a very new-looking plane behind them",
-        "An official-looking checklist on a clipboard with items ticked off: 'Fuel — check,' 'Crew — check,' 'Emergency slide — deployed early by itself — uh'"
+        "A government press conference podium with a large document labeled 'AI Safety Framework' entirely blacked out with redaction marks, officials smiling confidently behind it",
+        "A locked filing cabinet labeled 'Voluntary AI Rules — For Our Eyes Only' sitting in a room full of robots operating unsupervised",
+        "A referee holding up a rulebook that is completely blank on every page while tech executives shake hands on a court with no visible lines"
       ],
       "captions": [
-        "The emergency slide deployed before Trump boarded. Even the plane wanted out early.",
-        "It's called an emergency exit. The emergency was apparently: he was about to get on.",
-        "New plane, $5 billion, first trip. The slide said 'I'm good, actually.'",
-        "They spent years on that aircraft and it popped its own escape hatch. Relatable, honestly.",
-        "The most advanced presidential plane ever built — and it needed an exit strategy before he showed up."
+        "We made rules to keep AI safe. The rules are classified. You're welcome.",
+        "Voluntary guidelines that nobody outside the building can read — it's accountability if you squint.",
+        "The White House finished the AI safety framework in August. August of which year is anyone's guess.",
+        "Transparency in AI governance: a framework so transparent you can't see it at all.",
+        "They wrote the rulebook, locked it in a drawer, and asked the players to call their own fouls."
       ],
       "captionsJa": [
-        "トランプが乗る前にスライドが展開。機体が一番早く「降ります」と言った。",
-        "緊急脱出スライドですよ。緊急事態は「これから乗ってくる」だったんでしょうか。",
-        "新型機に数十億ドル。初フライトで脱出装置が「先に行きます」。",
-        "自動で脱出ルートを開けた機体。わかる、という気持ちになってしまう。",
-        "史上最先端の大統領専用機、乗る前から出口戦略を実行。見事です。"
+        "AI安全基準を作りました。内容は非公開です。どういたしまして。",
+        "誰も読めない自主的ガイドライン——目を細めると「説明責任」に見えなくもない。",
+        "ホワイトハウスはAI安全枠組みを8月に完成させた。何年の8月かは誰にもわからない。",
+        "AI政策の透明性：透明すぎて何も見えない。",
+        "ルールブックを書いて引き出しに鍵をかけ、プレイヤーに「自分でジャッジして」と頼んだ。"
       ],
-      "newsEn": "President Trump's trip to Texas was delayed after an emergency evacuation slide on the new Air Force One deployed on the tarmac before he boarded the aircraft. The incident occurred with the president's new plane, which has been a point of pride for the administration. No injuries were reported.",
+      "newsEn": "The White House finalized a voluntary framework in August for testing frontier AI models but has not publicly released it. Experts and advocates are raising concerns as AI capabilities expand rapidly. The lack of transparency contradicts the administration's stated commitment to responsible AI development.",
       "ironyEn": [
         {
-          "contradiction": "The president's new plane, built to project power and reliability, had its emergency slide deploy before a single passenger boarded.",
-          "absurdity": "The slide is designed to help people escape a plane. It deployed to escape the president.",
-          "outside": "Billions spent on a prestige aircraft, and it bailed before he got on. That's not a malfunction — that's a review."
+          "contradiction": "The administration created a framework to ensure transparent, responsible AI development — and immediately classified the framework.",
+          "absurdity": "It's a voluntary safety standard that no one outside the White House can read, enforce, or verify. Technically that's just a diary.",
+          "outside": "The EU spent years publishing, debating, and amending its AI Act in public. The US response is a secret pinky promise."
         },
         {
-          "contradiction": "An emergency system activated with no emergency — except, perhaps, the general situation.",
-          "absurdity": "The escape slide popped out on the ground. If the plane itself is trying to exit the situation, that's a mood.",
-          "outside": "Foreign leaders watching the footage could be forgiven for wondering whether the plane knew something."
+          "contradiction": "Hiding the AI accountability rules from the public is itself the kind of thing AI accountability rules are supposed to prevent.",
+          "absurdity": "If you can't see the safety net, are you sure there's a safety net?",
+          "outside": "From abroad, the message reads: 'Don't worry, we have standards. No, you can't see them. Yes, companies agreed to follow them. No, we won't say which companies.'"
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-10/candidate-2.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-10/candidate-2-punchy.jpg"
+      "image": "images/2026-09-11/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-11/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Amazon Denied Pregnant Workers Bathroom Breaks and Chairs, Lawsuit Alleges",
-        "source": "Ars Technica",
-        "date": "2026-09-10",
-        "url": "https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/",
-        "summary": "妊娠中の女性4人がAmazonを提訴。妊娠中の基本的な配慮（トイレ休憩や椅子）を拒否され、その後解雇されたと主張している。"
+        "headline": "AI Companies Are Generously Teaching Schools About AI — With Curriculum They Wrote Themselves",
+        "source": "The Verge",
+        "date": "2026-09-11",
+        "url": "https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids",
+        "summary": "AIテック企業が学校に対し、しばしば無償でAIの学習リソースやカリキュラムを提供しているが、批評家はその内容が企業側の利益に沿って設計されていると指摘している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 翌日配達を人類に届ける会社が、自社の妊婦従業員には椅子一脚を届けられなかった、という訴えなんですよ。",
-        "<b>滑稽さ:</b> トイレ休憩を断る。椅子を断る。そして解雇。ロジスティクスの効率化の果てに、人間の基本が消えてる。",
-        "<b>日本・海外から見ると:</b> 「何でも翌日届く」サービスの裏で、妊婦が立ちっぱなしというのは、先進国の労働環境として国際的に相当ひどい話です。"
+        "<b>矛盾:</b> AIリテラシーを教えるカリキュラムをAI企業が作る——タバコ会社が「健康的な喫煙」の授業を提供するようなものですよね、善意があったとしても。",
+        "<b>滑稽さ:</b> 「無償提供」なんですよ。タダより高いものはない、とはよく言うけど、これは将来の顧客を小学生のうちから育てるやつ。",
+        "<b>日本・海外から見ると:</b> 教科書の採択に「利害関係のある企業」が関与することへの警戒感は日本でも強いが、アメリカでは「競争と選択」の名のもとにもっとシームレスに入り込んでくる。"
       ],
       "imagePrompts": [
-        "A vast warehouse interior with rows of shelves stacked with packages, a single folding chair taped off with 'NOT FOR WORKERS' tape, and a 'Prime Delivery: Next Day' banner overhead",
-        "A split image: on one side, a smiling delivery driver handing a recliner chair to a suburban doorstep; on the other, a pregnant worker standing at a warehouse station with no chair in sight",
-        "An Amazon delivery box with a label reading 'Contents: 1x Chair — Destination: Customer' next to an empty spot on a warehouse floor labeled 'Pregnant Employee Workstation'"
+        "A cheerful tech company mascot standing at a classroom chalkboard writing 'AI is your friend' while handing branded notebooks to small children",
+        "A school hallway with lockers covered in tech company logos, a curriculum binder labeled 'Totally Unbiased AI Literacy — Brought to You by an AI Company'",
+        "A textbook open to a chapter titled 'How to Use AI Responsibly' with a small logo of an AI company watermarked on every page"
       ],
       "captions": [
-        "Amazon delivers chairs to your house overnight. To its pregnant workers: 'stand up, we're busy.'",
-        "No bathroom break, no chair, then fired. They really did optimize every inefficiency out of the system — including human dignity.",
-        "The company that tracks every package in real time apparently lost track of the pregnant woman who needed to sit down.",
-        "Two-day shipping for customers. Zero chairs for the person who packed the box. Math checks out.",
-        "Next Day Delivery — unless what you need delivered is basic decency to the warehouse floor."
+        "The company that wants to sell you AI is now teaching your kids what AI is. Totally normal curriculum stuff.",
+        "It's free! The curriculum, the tools, the carefully shaped worldview — all complimentary.",
+        "Big Tobacco had 'Frank.' Big Tech has 'free learning resources.' Same energy.",
+        "Nothing says 'unbiased education' like a lesson plan written by the company being studied.",
+        "They're not marketing to children. They're investing in the next generation of power users."
       ],
       "captionsJa": [
-        "リクライニングチェアは翌日お届け。妊婦の従業員には「立ってて」。Amazonらしい優先順位ですね。",
-        "トイレ休憩なし、椅子なし、そして解雇。非効率を全部削ぎ落とした結果、人間の扱いも消えた。",
-        "すべての荷物をリアルタイム追跡する会社が、座りたい妊婦の所在は把握できなかった。",
-        "客への2日配送。箱を詰めた人への椅子はゼロ。計算合ってます。",
-        "翌日お届けします——倉庫の床に最低限の人間扱いを届ける日は来ませんでしたが。"
+        "AIを売りたい会社が、子供たちにAIとは何かを教えてくれます。普通の授業ですよ。",
+        "全部タダ！カリキュラムも、ツールも、丁寧に設計された世界観も——全部無償提供。",
+        "かつてタバコ会社は「健康的な喫煙」を広めた。テック企業は「無償学習教材」を配る。同じ匂いがする。",
+        "研究対象の企業が書いた教材ほど「偏りのない教育」はない。",
+        "子供に売り込んでいるんじゃないですよ。次世代のヘビーユーザーを育てているんです。"
       ],
-      "newsEn": "Four women have filed a lawsuit alleging that Amazon denied them basic pregnancy accommodations, including bathroom breaks and seating, and subsequently fired them. The plaintiffs say the company's warehouse policies effectively punished workers for being pregnant. Amazon has not publicly commented on the specifics of the lawsuit.",
+      "newsEn": "AI companies are increasingly providing schools with free resources, curriculum, and tools to teach students about artificial intelligence. Critics argue this mirrors Big Tech's long-running playbook of embedding itself in education to shape future users and workers. The arrangement raises questions about who controls the narrative around AI literacy.",
       "ironyEn": [
         {
-          "contradiction": "Amazon can deliver a recliner to your door by tomorrow morning but allegedly couldn't provide one to a pregnant worker standing on its warehouse floor.",
-          "absurdity": "The company's whole brand is convenience — two-day, one-day, same-day. For its own pregnant employees: no chair, no break, no job.",
-          "outside": "Countries with strong labor protections look at this and see not just one company's failing, but a system that optimized the supply chain and forgot the humans inside it."
+          "contradiction": "Companies that profit from AI adoption are writing the lesson plans that teach children how — and how much — to trust AI.",
+          "absurdity": "It's pro bono, which sounds generous until you remember that graduating classes full of loyal users are worth billions.",
+          "outside": "In most countries this would trigger a conflict-of-interest review. In the U.S. it triggers a press release about 'investing in the next generation.'"
         },
         {
-          "contradiction": "A corporation that built its empire on logistics allegedly couldn't manage the logistics of letting someone use the bathroom.",
-          "absurdity": "They track every package in real time. Apparently pregnant workers didn't have the same tracking priority.",
-          "outside": "From outside the US, 'world's largest retailer denies chairs to pregnant staff' lands less as a corporate scandal and more as a dystopia pitch."
+          "contradiction": "Teaching critical thinking about technology using curriculum provided by the companies that don't want you to think too critically about their technology.",
+          "absurdity": "The fox isn't just guarding the henhouse — it's running the orientation program for the chicks.",
+          "outside": "From Japan, where textbook content is vetted by the government for bias, watching Silicon Valley write its own school curriculum must look like a different planet entirely."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-10/candidate-3.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-10/candidate-3-punchy.jpg"
+      "image": "images/2026-09-11/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-11/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "OpenAI Solved a Millennium Prize Problem — and Academia Is Not Thrilled",
-        "source": "The Verge",
-        "date": "2026-09-10",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes",
-        "summary": "OpenAIが数学の「ミレニアム懸賞問題」の一つを解いたと発表したが、正式な査読が完了する前にニュースが広まり、学術界に動揺が広がっている。"
+        "headline": "Trump Offers $500 Obamacare Refunds — for a Program He's Been Cutting",
+        "source": "CNBC Top News",
+        "date": "2026-09-11",
+        "url": "https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html",
+        "summary": "トランプ大統領はACA（オバマケア）加入者約100万人に対し500ドルの払い戻しを発表したが、専門家は補助金削減による保険料急騰の穴埋めには程遠いと指摘している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 100万ドル懸賞付きの数学の難問を解いた、と言ったのはいいけど、査読がまだ終わってないから「本当に解いたか」は人間にもわからない、という状況なんですよ。",
-        "<b>滑稽さ:</b> AIが証明した問題を、人間の数学者が「これ正しいの？」と確かめようとしている図。先生が生徒の答案を採点できない時代。",
-        "<b>日本・海外から見ると:</b> 発表を先に打って検証を後回しにするのはシリコンバレーの「リリース後にデバッグ」文化の延長で、今度の製品は数学の真理ですよ、という話です。"
+        "<b>矛盾:</b> ACA補助金を削って保険料を爆上げした政権が、その穴埋めとして500ドルを配る——家に火をつけてから消火器のクーポンを送るやつ。",
+        "<b>滑稽さ:</b> 「オバマケアへの払い戻し」なんですよ。言葉を選ぶセンスは認める。「私が燃やした建物の修繕費補助」とは書けないから。",
+        "<b>日本・海外から見ると:</b> 国民皆保険のある国から見ると、保険料が上がった分を現金でちょっと返すという仕組み自体がすでに謎だけど、それを自分で削った政権がやるのはもう次元が違う。"
       ],
       "imagePrompts": [
-        "A giant chalkboard filled with dense mathematical equations, a ribbon labeled 'SOLVED — PRESS RELEASE ISSUED' stretched across it, while several professors in tweed jackets squint at the board with magnifying glasses",
-        "A podium labeled 'OpenAI' with a golden trophy for 'Millennium Prize,' while behind a velvet rope a long line of mathematicians wait with red pens and stacks of paper to begin the review",
-        "A massive proof printed on a scroll unrolling across an auditorium floor, with a single mathematician at one end holding the beginning and not being able to see the other end"
+        "A politician handing over a $500 check in front of a health insurance premium bill showing a much larger amount owed, with a proud expression",
+        "A store window with a 'GOING OUT OF BUSINESS' sign next to a banner reading 'EXCLUSIVE $500 LOYALTY REFUND FOR VALUED CUSTOMERS'",
+        "A fire extinguisher labeled '$500 ACA Refund' being handed to a homeowner standing in front of a house with clearly visible smoke damage"
       ],
       "captions": [
-        "OpenAI solved a math problem no one's solved in decades. Announced it. Mathematicians are now checking if that's true. Normal.",
-        "The proof came out Tuesday. The peer review started Wednesday. The press release came out Monday.",
-        "Humanity's greatest unsolved math problem: cracked by AI, announced immediately, verified: TBD.",
-        "Mathematicians spent 25 years on this. OpenAI did it and issued a PR before anyone could read the work. Ship it.",
-        "They didn't just solve the problem — they skipped the part where anyone confirms it. That's not mathematics. That's a launch."
+        "Premium goes up $2,000. Refund arrives: $500. Press release: 'Historic relief for American families.'",
+        "They cut the subsidies, premiums spiked, and now there's a $500 refund. The arsonist's apology tour.",
+        "Calling it an 'Obamacare refund' while trying to kill Obamacare — that's commitment to the bit.",
+        "Half a grand doesn't cover the gap, but it does cover the press conference.",
+        "It's like charging someone for a broken window and then mailing them a coupon."
       ],
       "captionsJa": [
-        "数十年誰も解けなかった数学の難問をAIが解いた。発表した。数学者たちが今「本当に？」と確認中。正常な流れです。",
-        "証明の公開が火曜。査読開始が水曜。プレスリリースは月曜。",
-        "人類最大の未解決問題、AIが突破→即発表→検証は未定。",
-        "数学者が25年かけた問題。OpenAIは解いてプレスリリースを先に出した。リリースして後でデバッグ、の精神ですね。",
-        "問題を解いただけじゃなく、誰かが確認する前に発表した。それは数学じゃなくてローンチですよ。"
+        "保険料が2,000ドル上がりました。払い戻しは500ドルです。プレスリリース：「アメリカ国民への歴史的な救済。」",
+        "補助金を削って、保険料が跳ね上がって、500ドルを返す——放火犯の謝罪ツアー。",
+        "オバマケアを廃止しようとしている政権が「オバマケア払い戻し」を発表する。ブレないメンタル。",
+        "差額は埋まらないけど、記者会見は成立する。",
+        "窓を割っておいてクーポンを郵送するやつ。"
       ],
-      "newsEn": "OpenAI announced it has solved one of mathematics' seven Millennium Prize Problems, a feat that would represent one of the greatest achievements in modern mathematics. However, the result was publicized before formal peer review was completed, sending a chill through academic circles. Mathematicians are grappling with how to evaluate an AI-produced proof that no one has yet officially verified.",
+      "newsEn": "President Trump announced $500 refunds for nearly one million Americans enrolled in Affordable Care Act plans. Health policy experts say the payments are unlikely to offset the steep premium increases that followed the lapse of enhanced ACA subsidies. Critics note the administration's own policies contributed to those rising costs.",
       "ironyEn": [
         {
-          "contradiction": "OpenAI announced it solved one of the hardest problems in human intellectual history — before humans had finished checking whether it actually did.",
-          "absurdity": "Mathematicians spent decades failing to crack this problem. Now they're speed-reading an AI's proof to see if the AI is right. The homework is grading the teacher.",
-          "outside": "The 'move fast and break things' ethos has reached pure mathematics. The thing being broken is the peer-review process."
+          "contradiction": "The administration let enhanced ACA subsidies lapse — sending premiums up sharply — and is now announcing $500 refunds to soften the blow it created.",
+          "absurdity": "Experts say the $500 doesn't cover the premium hike. So it's a partial refund for a problem the government caused, delivered with a press release taking credit.",
+          "outside": "In countries with universal healthcare, this entire news cycle — subsidies lapse, premiums spike, refund announced, experts say it's not enough — would be incomprehensible."
         },
         {
-          "contradiction": "A Millennium Prize Problem is supposed to be certified by experts over years. OpenAI apparently couldn't wait for the press cycle.",
-          "absurdity": "The AI solved it before the humans could verify it. The humans may be solving it still.",
-          "outside": "In academia, you spend three years writing a proof and another two getting it reviewed. OpenAI announced theirs and was trending by lunch."
+          "contradiction": "Calling it an 'Obamacare refund' is a remarkable piece of branding from an administration that has spent years trying to eliminate Obamacare.",
+          "absurdity": "Five hundred dollars on an insurance premium that went up by more. The math isn't mathing, but the announcement still got a headline.",
+          "outside": "Watching from abroad: the U.S. government is issuing coupons for a store it's been trying to close for a decade."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-10/candidate-4.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-10/candidate-4-punchy.jpg"
+      "image": "images/2026-09-11/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-11/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Apple's New Camera Feature Proves Your Photo Isn't AI — Using the AI Phone That Made It",
-        "source": "The Verge",
-        "date": "2026-09-10",
-        "url": "https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image",
-        "summary": "AppleはiPhone 18 Proに、撮影した写真がAIで加工されていないことを証明する「Reference Image」機能を搭載すると発表した。"
+        "headline": "Ford Pledges $1 Billion for Kentucky Plant — Right After DOT Called Out Its China Ties",
+        "source": "CNBC Top News",
+        "date": "2026-09-11",
+        "url": "https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html",
+        "summary": "フォードは、交通省から中国との関係について批判を受けた直後に、ケンタッキー州のトラック工場に10億ドルを投資すると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「AIで加工してない証明」を、AIで写真を加工できる機能が盛りだくさんのスマホに入れる。同じ箱の中にアリバイと犯行ツールが入ってる構造ですよ。",
-        "<b>滑稽さ:</b> 「この写真は本物です」と証明するために、AIフィーチャーが満載の端末が必要、ということになりました。魚を新鮮に保つために塩水に浸けたら塩漬けになった、みたいな話。",
-        "<b>日本・海外から見ると:</b> 信頼の危機を生んだのがテクノロジーで、それを解決するのも同じテクノロジーの次のバージョン、という循環はシリコンバレーの古典的なビジネスモデルですね。"
+        "<b>矛盾:</b> 政府に「中国と近すぎる」と言われた翌日に10億ドルのアメリカ投資を発表する——「怒ってないですよ、見てください、アメリカ大好きです」のスピードが清々しい。",
+        "<b>滑稽さ:</b> 塗装工場なんですよ。10億ドルで。怒られた直後に作るのが「塗装」ってのが、なんか覆い隠したいものがあるみたいで絶妙な選択。",
+        "<b>日本・海外から見ると:</b> 日本の自動車メーカーも中国市場と深くつながっているが、政府批判への対応として「翌日に国内投資発表」という手法、これはアメリカ流の早業だなと感じる。"
       ],
       "imagePrompts": [
-        "A smartphone product display with two features highlighted side by side: 'AI Photo Beautification' with a glowing wand icon, and 'Proof Your Photo Is Real' with a shield icon, both on the same device spec sheet",
-        "A sealed evidence bag labeled 'AUTHENTIC — Reference Image Certified' containing a smartphone with visible AI editing tools on the screen",
-        "A courtroom exhibit table with a phone on it, labeled Exhibit A: 'Original Photo,' and Exhibit B: 'AI-enhanced version from same phone,' with identical-looking images in both frames"
+        "A large factory building with a fresh coat of red white and blue paint being applied, with a government official watching approvingly from outside",
+        "A corporate executive holding an oversized $1 billion check in front of a Kentucky plant while a government letter labeled 'China Concerns' sits unopened on a nearby table",
+        "A paint booth inside a car factory with an American flag banner stretched across it and a calendar on the wall showing the date just one day after a circled government announcement"
       ],
       "captions": [
-        "Apple made a feature to prove your photo isn't AI. It ships on the phone with five AI photo tools. Just so we're clear.",
-        "The authenticity certificate and the forgery kit are the same purchase. $1,199, your choice which one you use first.",
-        "iPhone 18 Pro: it can make you look incredible, and then swear in court that it didn't touch anything.",
-        "We've reached the point where you need a $1,200 device to prove your $1,200 device didn't lie.",
-        "Tech created the distrust of images, then sold us the cure. Same company. Same event. Same keynote slide."
+        "DOT says Ford's too close to China. Ford's response: a billion-dollar paint shop in Kentucky. Fast work.",
+        "Nothing clears your name like $1 billion and a fresh coat of patriot-grade paint.",
+        "The criticism was about national security. The answer was a paint shop. Seems fine.",
+        "Ford didn't release a statement addressing the China concerns. They released a zip code.",
+        "Forty-eight hours from 'you're too Chinese' to 'billion-dollar Kentucky investment announced.' That's a lap record."
       ],
       "captionsJa": [
-        "AI加工してない証明機能を、AI写真加工ツール5種入りのスマホに搭載。念のため確認しておきます。",
-        "「本物証明」と「加工ツール」が同じ1199ドルのパッケージです。どっちを先に使うかはあなた次第。",
-        "iPhone 18 Pro、あなたを最高にきれいに撮れます。そして法廷で「何も手を加えていません」と言えます。",
-        "1200ドルの端末で、1200ドルの端末が嘘をついていないことを証明する時代になりました。",
-        "画像への不信を作ったのもテクノロジー、解決策を売るのも同じテクノロジー。同じ会社、同じ発表会、同じスライド一枚。"
+        "交通省が「中国に近すぎる」と言った。フォードの答えはケンタッキーの10億ドル塗装工場。仕事が早い。",
+        "名誉回復には10億ドルと愛国塗料のひと塗りが効く。",
+        "批判は安全保障の話でした。答えは塗装工場でした。なるほど。",
+        "フォードは中国問題への声明を出しませんでした。出したのは郵便番号です。",
+        "「中国寄り」と言われて48時間で「10億ドル国内投資」を発表。これはラップタイムの記録じゃないですか。"
       ],
-      "newsEn": "Apple announced a new camera feature called 'Reference Image' for the iPhone 18 Pro lineup that cryptographically signs every pixel captured by the camera, allowing users to prove a photo has not been manipulated by AI. The feature arrives on a device that also ships with a suite of AI photo-editing tools. Apple pitched the feature as a solution to the growing distrust of digital images.",
+      "newsEn": "Ford Motor announced a $1 billion investment to build a new paint shop at its Kentucky truck plant on Thursday. The announcement came shortly after the Department of Transportation publicly criticized Ford over its ties to Chinese partners. Ford has denied the investments represent a national security risk.",
       "ironyEn": [
         {
-          "contradiction": "Apple built a tool to prove photos aren't AI-manipulated — and shipped it on the same phone that manipulates photos with AI.",
-          "absurdity": "The authenticity certificate is sold by the same company selling the forgery kit. It's a lock and a lockpick in the same box.",
-          "outside": "The tech industry created the problem of image distrust, then monetized the solution, then sold both on the same device for $1,199. Efficient."
+          "contradiction": "The government accuses Ford of being too cozy with China, and within days Ford announces a billion-dollar American investment. Coincidence is doing a lot of heavy lifting here.",
+          "absurdity": "The investment is a paint shop. A billion-dollar paint shop. When you need to look clean fast, you build something that makes things look clean.",
+          "outside": "Globally, this is a well-worn move: get called out by a regulator, announce a domestic jobs number, watch the story change. Ford just did it in under 48 hours."
         },
         {
-          "contradiction": "The 'prove it's real' feature is a selling point on a phone whose other selling points include making things look better than they are.",
-          "absurdity": "You now need a $1,200 device to prove that a photo from your $1,200 device hasn't been touched by your $1,200 device. The math is immaculate.",
-          "outside": "Globally, media organizations are fighting AI-generated misinformation. Apple's answer is a premium hardware feature. Thirteen hundred dollars — trust included."
+          "contradiction": "The DOT criticism was about strategic national security risks. Ford's answer was a paint shop in Kentucky.",
+          "absurdity": "Nothing says 'we're not a Chinese company' like building the thing that makes your trucks shiny in Louisville.",
+          "outside": "The press release probably took longer to write than the decision did."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-10/candidate-5.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-10/candidate-5-punchy.jpg"
+      "image": "images/2026-09-11/candidate-5.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-11/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「解決策と問題が同じ財布に入っている」。禁止法案を作った側が除外されており、証明ツールが偽造ツールを同梱しており、数学の答えが検証待ちのまま発表されている。今日は「本物かどうか」を問う一日。",
-    "titleEn": "The Ban Doesn't Cover Him, the Slide Bailed Early, and the Proof Is Unverified",
-    "subtitleEn": "Five stories about solutions that forgot to solve the problem.",
-    "titleJa": "「禁止します、ただし大統領は除く」——今日のアメリカ5本",
+    "thread": "今日の5本を貫く糸：「問題を自分で作った人が、解決策を売りに来る」。給付金、AI安全規則、教育カリキュラム、医療費、愛国心の演出——全部そう読める。",
+    "titleEn": "We Caused the Problem. Here's Our Solution. (It's $500.)",
+    "subtitleEn": "Five stories about people fixing fires they lit themselves.",
+    "titleJa": "火をつけた人が消火器のクーポンを送ってくる日",
     "titleAltJa": [
-      "2万1000回の取引と、展開した脱出スライドと、査読待ちの数学の真理が同じ1日にある話",
-      "「これで語れる」アメリカのニュース：解決策と問題が同じ箱に入ってる件について"
+      "5,000ドル配ったらインフレが悪化する、という話を5,000ドルもらう前に読んでおく",
+      "「私たちが燃やしました、500ドルどうぞ」——今日のアメリカを一言で言うとこれ"
     ],
-    "leadJa": "株取引を禁止する法案を、2万1000回取引した人の周囲が祝っています。脱出スライドは、まだ乗る前に開きました。証明機能と偽造ツールは、同じ端末に入っています。\n\nどこから突っ込めばいいのか、少し考えました。",
-    "introEn": "Five stories today, and they're all the same story.\n\nThe stock ban skips the guy with 21,000 trades. The proof-of-authenticity feature ships with the AI editing suite. The math breakthrough is awaiting peer review — after the press release. The emergency exit deployed before anyone boarded. Amazon figured out how to deliver a chair to your door in one day and couldn't find one for a pregnant employee.\n\nIf you've ever tried to fix something and accidentally made it worse, today's news cycle is your vindication. The people designing the solutions are also the problem. Which means whatever you're dealing with at work right now? Structurally, same energy. You're in good company. Probably.",
-    "introJa": "「禁止します」「証明できます」「解きました」「安全です」「届けます」——今日の5本、全部そう始まる。\n\nで、続きを読むと。\n\n禁止の対象に大統領は入っていない。証明する端末にAI加工ツールが入っている。解いた答えはまだ誰も確認していない。安全なはずの機体が出発前に脱出スライドを開けた。何でも届ける会社が、妊婦に椅子を届けなかった。\n\n今日の糸は「アリバイと凶器が同じ箱に入っている」。\n\nで、今日の占い。\n\n「自分だけ割を食ってる気がする」というあなた——今日のニュースを見ると、得してる側もだいぶバタバタしています。数十億ドルの機体が地上で脱出スライドを開ける。数学の世紀の難問、解いたかどうかをまだ誰も確認していない。うまくいかないのは、仕組みそのものが最初からちょっとずれてるから、かもしれない。\n\n少なくとも今日はそういう日。5本、いきます。",
-    "quipEn": "Today every solution came with the problem already inside. Buy the ban, get the loophole free.",
-    "quipJa": "解決策を開けたら、問題が同梱されていた。今日のアメリカはそういう日。",
+    "leadJa": "10億ドルの塗装工場。非公開のAI安全規則。自分で書いたカリキュラムを無償提供する授業。今日のアメリカは、全員が問題の作り手であり解決策の売り手でもある。\n\nこういう日に限って、話が面白い。",
+    "introEn": "Today's five stories have one thing in common: someone made a mess, and then showed up with a mop to sell you.\n\nTrump's promising $5,000 to fix inflation — economists say it'll do the opposite. AI companies are teaching your kids about AI using curricula they wrote themselves. A White House safety framework exists, apparently, but nobody outside the building has seen it.\n\nAnd Ford, one day after getting called out for its China ties, announced a billion-dollar paint job in Kentucky. As you do.\n\nHere's your forecast: if you've ever been blamed for something that was definitely someone else's fault, today's news is your vindication. The people running things are doing it too — just at a larger scale, with a press release. You're going to be fine. Probably.",
+    "introJa": "5,000ドル配ったらインフレが悪化する、という記事から始まりました。\n\n次を開くと、ホワイトハウスがAI安全規則を作ったけど非公開にしている。その次は、AI企業が学校に無償でカリキュラムを提供している、ただし中身は自分たちで書いた。オバマケアの補助金を削ってから、500ドルを払い戻す話もある。あと、中国と近すぎると怒られたフォードが翌日に10億ドルのアメリカ投資を発表した。\n\n今日の5本、全員やってるんですよ。「問題を自分で作ってから、解決策を売りに来る」を。\n\nということで今日の占いです。あなたが「なんか私のせいになってるけど、これ私が原因じゃなくない？」と思っていることがあるとしたら、今日は正しいと思う。アメリカを動かしている人たちが全員同じことをやっていて、しかもそれがニュースになっている。あなただけじゃない。少なくとも今日はね。",
+    "quipEn": "Five stories, one playbook: start the fire, show up with a bucket, hold a press conference about the bucket.",
+    "quipJa": "火をつけた、バケツを持ってきた、記者会見をした。今日の5本、全部これ。",
     "notesEn": [
-      "Republicans are promoting a congressional stock-trading ban at their convention in Dallas. It does not apply to President Trump, who filed over 21,000 trades last year. The convention theme is accountability. The fine print is doing a lot of work.",
-      "The emergency evacuation slide on Trump's new Air Force One deployed on the tarmac before he boarded. No injuries. The plane cost billions. The slide's job is to help people escape. It got a head start.",
-      "Four pregnant Amazon workers filed a lawsuit saying they were denied bathroom breaks and chairs, then fired. Amazon delivers chairs to your house overnight. For its warehouse workers who were pregnant: standing room only, apparently.",
-      "OpenAI says it solved one of mathematics' seven Millennium Prize Problems — the hardest unsolved puzzles in the field. The announcement went out before peer review finished. Mathematicians are now trying to check if that's true. The press release is already written either way.",
-      "Apple's iPhone 18 Pro will have a feature that cryptographically proves your photo hasn't been edited by AI. The phone also ships with multiple AI photo-editing tools. The alibi and the evidence-tampering kit are the same $1,199 purchase."
+      "Trump is promising $5,000 to every American adult to fight inflation. Economists say it'll make inflation worse. The plan also requires Republicans to win in November, Congress to agree, and courts to stay quiet. So: keep an eye on your mailbox.",
+      "The White House finalized an AI safety framework in August and has not released it publicly. Voluntary rules that only the regulated companies can read — that's one way to do accountability.",
+      "AI companies are giving schools free AI curriculum. They wrote it themselves. The company that wants to be your child's future employer is also writing the lesson plan about why that's a great idea.",
+      "Trump announced $500 refunds for Obamacare enrollees. Premiums rose by more than that after his administration let enhanced subsidies lapse. The press release called it 'historic relief.' Someone at a desk wrote that with a straight face.",
+      "The Department of Transportation criticized Ford over its China ties. The next day, Ford announced a $1 billion investment in a Kentucky paint shop. Nothing says 'I'm not thinking about China' like a very large, very American paint shop."
     ],
     "xJa": [
-      "共和党が議員の株取引禁止法案を大会で掲げている。昨年2万1000回以上取引したトランプ大統領には適用されない。ザルの縁を持って「浄化した」と言っている構図。",
-      "新型エアフォースワンの緊急脱出スライドが、大統領が乗る前に地上で勝手に展開した。数十億ドルの機体。最初に逃げたのは飛行機だった。",
-      "Amazonが妊婦社員にトイレ休憩も椅子も拒否し、その後解雇したとして提訴された。翌日配達で椅子を届ける会社が、倉庫の妊婦には届けられなかった。",
-      "OpenAIがミレニアム懸賞問題を解いたと発表。査読はまだ終わっていない。世紀の難問が解けたかどうか、今まさに人間が確認しようとしている。プレスリリースは先週出た。",
-      "iPhone 18 Proに「写真がAI加工されていない証明」機能が搭載される。同じ端末にAI写真加工ツールも入っている。アリバイと凶器が同じ箱で発売。"
+      "「全米国民に5000ドル給付」をトランプ大統領が公約。経済学者は「それがインフレを悪化させる」と言っています。消火ホースで火に油を注ぐやつ。",
+      "ホワイトハウスがAI安全規則を策定した。ただし非公開。自主的なルールを、AI企業以外の全員から隠している。透明性への取り組みとは何だったのか。",
+      "AI企業が学校に無償でAIカリキュラムを提供しています。書いたのはAI企業。将来の顧客を小学生から育てる計画、善意があっても構造が怖い。",
+      "トランプ政権がオバマケアの補助金を削って保険料が急騰。その後、500ドルの払い戻しを発表。家に火をつけてから消火器のクーポンを送ってきた。",
+      "交通省に「中国と近すぎる」と批判されたフォード、翌日に10億ドルのケンタッキー投資を発表。塗装工場。怒られた翌日に塗り直すのが絶妙すぎる。"
     ],
     "raidEn": [
-      "The exemption is doing more work than the legislation. Someone in Dallas is going to give a very confident speech about that bill.",
-      "Emergency slides are rated for altitude. Ground level apparently caught it off guard.",
-      "The company that built two-day shipping somehow couldn't ship one chair to the warehouse. Priorities were clearly set somewhere.",
-      "The proof came before the verification. Somewhere a mathematician just closed their laptop and stared at the wall.",
-      "The certificate of authenticity and the AI editing tools are literally the same purchase. Apple really committed to the bit."
+      "The plan to fix inflation costs over a trillion dollars and, per every economist quoted, makes inflation worse. The bucket is also on fire.",
+      "Voluntary AI safety rules that only the people being regulated have seen — this is either very trusting or very something else.",
+      "Free curriculum about AI, written by AI companies, for children who will one day be AI customers. 'Free' is doing a lot of work in that sentence.",
+      "Premium up two thousand, refund five hundred, press release says 'historic.' Someone ran those numbers and kept going.",
+      "Criticized for China ties on Thursday, billion-dollar American investment announced Friday. That turnaround belongs in a PR textbook."
     ],
     "raidJa": [
-      "「禁止します、ただし大統領は除く」という構造、ここまで数字がはっきりしてる例もなかなか読めないですよね。素晴らしい記事でした。",
-      "緊急脱出スライドが地上で開く事案、「早まり」という言葉がこんなにぴったりくる例を初めて見た気がします。",
-      "椅子一脚の話なのに、読んでいてこんなに重くなる記事は久しぶりでした。丁寧に書いてくださってありがとうございます。",
-      "「答えが正しいかは確認中」のまま発表される世界、何かが根本的に変わってきている気がしてとても怖いです。よくまとめてくださいました。",
-      "証明ツールと偽造ツールが同梱される端末、この矛盾を言語化してくれる記事を探していました。ありがとうございます。"
+      "インフレを止めるための給付金がインフレを悪化させる、という話を読んでここに来ました。バケツに穴が開いているやつですね。",
+      "非公開のAI安全規則、という言葉の組み合わせがすごい。この記事、読んでいてだんだん笑えてきました。",
+      "AI企業が書いたAIの授業、無償提供——「無償」の意味をちゃんと考えさせてくれる記事でした。すごく丁寧に怖い。",
+      "保険料2000ドル上げて500ドル返す、を「歴史的救済」と呼ぶ語感覚、記事で初めて知りました。言葉ってこうも使えるんですね。",
+      "批判の翌日に10億ドル投資発表、というスピード感を記事で初めて知りました。対応の早さだけは本物だと思います。"
     ],
     "riffEn": [
-      "Republicans are going to stand at a podium in Dallas and celebrate a stock-trading ban. The ban covers members of Congress. It does not cover the president. The president filed over 21,000 trades last year — which works out to roughly 57 per day, including weekends. The convention theme is accountability. The text of the bill is apparently a separate document from the convention theme.",
-      "Trump's new Air Force One has an emergency evacuation slide. The slide's one job is to deploy when there's an emergency. On Tuesday, it looked at the tarmac, decided this counted, and opened. The president hadn't boarded yet. No emergency. No altitude. Just a slide that really wanted to be useful and jumped the gun by, conservatively, about 35,000 feet.",
-      "Four pregnant Amazon warehouse workers say they were denied bathroom breaks, denied chairs, then fired. Amazon's logistics network can locate a package to within six feet in real time. The company apparently lost track of the pregnant woman who needed to sit down. The lawsuit exists. Amazon has not commented on the specifics. The chairs are still available for next-day delivery, starting at $29.99.",
-      "OpenAI says it solved one of the seven Millennium Prize Problems — the hardest open questions in mathematics, each worth a million dollars, most unsolved for decades. The announcement went out. The peer review was not finished. Mathematicians are now doing what mathematicians do, which is check. It is entirely possible the greatest mathematical achievement of the century happened Tuesday, or it didn't, and either way the press release is identical.",
-      "iPhone 18 Pro will ship with a feature that cryptographically signs every pixel, so you can prove your photo hasn't been touched by AI. The phone also ships with Clean Up, Photo Styles, and a suite of AI tools that can touch your photos in various interesting ways. Apple's solution to the AI authenticity crisis is a phone that can commit the crime and then produce a signed affidavit that nothing happened. One device. Your call."
+      "The pitch is simple: inflation is bad, so here's $5,000. Every economist interviewed says that money will make inflation worse — which is the thing we're trying to fix. The plan also requires a Republican Congress, court approval, and apparently a favorable alignment of stars. But the real tell is the timing: you'll get the check after the election. Which means the thing being purchased right now isn't groceries. It's votes. And those, at least, the economists haven't priced in yet.",
+      "The White House built a voluntary framework for AI safety. Built it, finished it in August, and then put it in a drawer. The logic being: AI companies agreed to follow rules that they can see and the public cannot, which is either a very efficient regulatory process or a very efficient non-regulatory process, depending on how you look at it. Voluntary. Secret. For the industry's own benefit. At some point 'framework' stops meaning what it sounds like it means.",
+      "AI companies are handing schools free curriculum about artificial intelligence. They wrote it. It's free. Your kid gets to learn what AI is, what it can do, and why it's useful — as explained by the people selling it. The word for this in other industries is 'advertising.' In education, it's called a 'partnership.' Same product, better shelf placement.",
+      "The Affordable Care Act subsidies lapsed. Premiums went up. The administration that let them lapse announced $500 refunds. The gap between what went up and what's coming back is over a thousand dollars per person, but the press release led with 'historic relief.' It's a masterclass in framing: the arsonist hands you a garden hose and calls it emergency services. The hose is real. The math isn't.",
+      "Ford gets called out by the Department of Transportation for being too cozy with Chinese partners. The next morning — not the next week, the next morning — Ford announces a billion-dollar investment in its Kentucky plant. A paint shop, specifically. The speed is impressive. The choice of facility is inspired. Nothing announces 'we are not painting over anything' quite like a brand-new paint shop."
     ],
     "riffJa": [
-      "共和党がダラスの大会で株取引禁止法案を旗印にする予定です。この法案、議員とその家族が対象。大統領は対象外。2025年に2万1000件超の取引を開示したトランプ大統領は、この法案が誇らしげに掲げられている会場に着いて、スピーチを聞きながら、適用されない。\n\n2万1000件って、1日57件です。土日も含めて。起きている間ずっと取引していてもギリギリの数字。「ザルを盾に持って沼を語る」構造は世界共通ですが、ここまで数字がはっきりしてる例もなかなかない。",
-      "新型エアフォースワンの緊急脱出スライドが、大統領が乗る前に地上で自動展開しました。緊急脱出スライドの仕事は「緊急時に飛行機から人を逃がす」こと。地上で、誰も乗っていない状態で開くのは、仕事ではなく「早まり」です。数十億ドルかけた新型機の初回のニュースが、これ。ケガ人はいませんでした。機体のプライドは不明。",
-      "妊娠中のAmazon倉庫社員4人が、トイレ休憩を拒否され、椅子を拒否され、その後解雇されたとして提訴しました。Amazonは翌日配達で椅子を届けられる会社です。自社の倉庫で妊娠中の従業員に、届けられなかった。\n\nうまいこと言おうとする気になれない話です。届けられる会社が届けなかった、それだけ。",
-      "OpenAIが数学の「ミレニアム懸賞問題」のひとつを解いたと発表しました。100万ドルの懸賞付き、数十年未解決の問題です。発表はされた。査読はまだ終わっていない。数学者たちが今、「これ本当に正しい？」と確認しようとしている。先生が生徒の答案を採点できない時代が来た、というか、生徒が採点より先にプレスリリースを出した時代。",
-      "iPhone 18 Proに「撮影した写真がAI加工されていない証明」機能が入ります。同じ端末に、AI写真編集ツールも複数入っています。証明書と加工ツールが同じ箱に入って売られる。魚の鮮度証明書と塩が同じパッケージに入っているようなもので、まあ、どっちを先に開けるかはご自由に、という端末が119,800円から。"
+      "インフレが酷いから5,000ドルを配る、というプランを経済学者に見せたら「それがインフレを悪化させる」と言われた。\n\nで、プランは続いている。しかも受け取れる条件が「共和党が選挙に勝つこと」「議会が同意すること」「裁判所が黙っていること」の三点セット。選挙前には配られない。つまりこれは給付金の約束ではなく、給付金の「約束の約束」で、今買えるのは期待だけ——経済学者が一番インフレと呼ぶやつです。",
+      "ホワイトハウスがAI安全の枠組みを作った。8月に完成した。誰も見ていない。\n\n「自主的な枠組み」なので守る義務はない。内容が非公開なので何を守るべきかも誰も知らない。監視される側の企業は見られたかもしれないけど、監視するはずの側は何を監視しているのか。\n\nこれを「AI安全への取り組み」と呼ぶ、その感覚だけAIに学ばせたくない。",
+      "AI企業が学校にカリキュラムを無償提供している。内容はAI企業が書いた。無償。\n\nタバコ会社が「健康的な喫煙の授業」を小学校に提供していた時代があって、さすがにそれは終わった。でもAIの場合は「リテラシー教育」と呼ばれているから、もう少し時間がかかりそうです。\n\n「無償」が一番高くつく、って話を、子どもたちは誰から習うんですかね。",
+      "オバマケアの補助金を削った。保険料が上がった。500ドルを払い戻した。\n\nプレスリリースは「歴史的救済」と書いた。保険料の上昇幅と払い戻し額の差はざっと1,500ドルで、その差分には言及がない。家に火をつけてから消火器のクーポンを送ってくる人のことを何と呼ぶか、英語にはきっといい言葉があると思うけど、日本語では今のところ「それ」としか言えない。",
+      "木曜日、交通省がフォードに「中国と近すぎる」と言った。金曜日の朝、フォードはケンタッキー州に10億ドルを投資すると発表した。\n\n塗装工場。怒られた翌日に建てるのが「塗装工場」。この選択の無自覚さが本物なのか、高度な確信犯なのか、どちらにしても10億ドル分の仕事は動く。ペンキは早く乾く。"
     ],
     "asideEn": [
-      "Great loophole. Really airtight.",
-      "The slide knew.",
-      "This one isn't funny.",
-      "Peer review: pending. Press release: sent.",
-      "The alibi ships in the box."
+      "The cure costs more than the disease.",
+      "Secret safety rules. Very safe.",
+      "They call it literacy. Coca-Cola called it sharing.",
+      "Five hundred dollars and a straight face.",
+      "Nothing to see here. Fresh coat of paint."
     ],
     "asideJa": [
-      "ザルの縁を持つ人が沼を語る。",
-      "機体も逃げたかった。",
-      "これは、笑えない。",
-      "発表済み。検証中。",
-      "証拠隠滅ツール同梱。"
+      "薬が毒、というやつ。",
+      "非公開の安全基準。すごい。",
+      "無償提供、一番高い。",
+      "500ドル、堂々と。",
+      "塗装で全部塗り直す作戦。"
     ],
     "tagsEn": [
-      "Satire",
       "US Politics",
-      "News Commentary",
-      "OpenAI",
-      "Apple"
+      "Satire",
+      "AI Policy",
+      "Trump",
+      "Ford"
     ],
-    "fullEn": "# The Ban Doesn't Cover Him, the Slide Bailed Early, and the Proof Is Unverified\n\n## Today's Forecast\n\nFive stories today, and they're all the same story.\n\nThe stock ban skips the guy with 21,000 trades. The proof-of-authenticity feature ships with the AI editing suite. The math breakthrough is awaiting peer review — after the press release. The emergency exit deployed before anyone boarded. Amazon figured out how to deliver a chair to your door in one day and couldn't find one for a pregnant employee.\n\nIf you've ever tried to fix something and accidentally made it worse, today's news cycle is your vindication. The people designing the solutions are also the problem. Which means whatever you're dealing with at work right now? Structurally, same energy. You're in good company. Probably.\n\n---\n\n## 1. Republicans to Tout Stock-Trading Ban at Convention — While Trump Logged 21,000 Trades Last Year\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html)*\n\nRepublicans plan to promote a congressional stock-trading ban as a signature issue at their midterm convention in Dallas. The House-passed legislation applies only to members of Congress and their families. President Trump, meanwhile, disclosed more than 21,000 trades in 2025 — none of which would be restricted under the bill Republicans are celebrating.\n\n**Why It's Funny**\n\nRepublicans are going to stand at a podium in Dallas and celebrate a stock-trading ban. The ban covers members of Congress. It does not cover the president. The president filed over 21,000 trades last year — which works out to roughly 57 per day, including weekends. The convention theme is accountability. The text of the bill is apparently a separate document from the convention theme.\n\n**Say It Out Loud**\n\n> They passed a stock-trading ban that doesn't cover the guy with 21,000 trades. Solid loophole, guys. Very tight.\n\n---\n\n## 2. Trump's Departure Delayed After Emergency Slide Deploys Itself on New Air Force One\n\n*CBS News US — [source](https://www.cbsnews.com/news/air-force-one-slide-trump-tarmac-joint-base-andrews/)*\n\nPresident Trump's trip to Texas was delayed after an emergency evacuation slide on the new Air Force One deployed on the tarmac before he boarded the aircraft. The incident occurred with the president's new plane, which has been a point of pride for the administration. No injuries were reported.\n\n**Why It's Funny**\n\nTrump's new Air Force One has an emergency evacuation slide. The slide's one job is to deploy when there's an emergency. On Tuesday, it looked at the tarmac, decided this counted, and opened. The president hadn't boarded yet. No emergency. No altitude. Just a slide that really wanted to be useful and jumped the gun by, conservatively, about 35,000 feet.\n\n**Say It Out Loud**\n\n> The emergency slide deployed before Trump boarded. Even the plane wanted out early.\n\n---\n\n## 3. Amazon Denied Pregnant Workers Bathroom Breaks and Chairs, Lawsuit Alleges\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/)*\n\nFour women have filed a lawsuit alleging that Amazon denied them basic pregnancy accommodations, including bathroom breaks and seating, and subsequently fired them. The plaintiffs say the company's warehouse policies effectively punished workers for being pregnant. Amazon has not publicly commented on the specifics of the lawsuit.\n\n**Why It's Funny**\n\nFour pregnant Amazon warehouse workers say they were denied bathroom breaks, denied chairs, then fired. Amazon's logistics network can locate a package to within six feet in real time. The company apparently lost track of the pregnant woman who needed to sit down. The lawsuit exists. Amazon has not commented on the specifics. The chairs are still available for next-day delivery, starting at $29.99.\n\n**Say It Out Loud**\n\n> Amazon delivers chairs to your house overnight. To its pregnant workers: 'stand up, we're busy.'\n\n---\n\n## 4. OpenAI Solved a Millennium Prize Problem — and Academia Is Not Thrilled\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)*\n\nOpenAI announced it has solved one of mathematics' seven Millennium Prize Problems, a feat that would represent one of the greatest achievements in modern mathematics. However, the result was publicized before formal peer review was completed, sending a chill through academic circles. Mathematicians are grappling with how to evaluate an AI-produced proof that no one has yet officially verified.\n\n**Why It's Funny**\n\nOpenAI says it solved one of the seven Millennium Prize Problems — the hardest open questions in mathematics, each worth a million dollars, most unsolved for decades. The announcement went out. The peer review was not finished. Mathematicians are now doing what mathematicians do, which is check. It is entirely possible the greatest mathematical achievement of the century happened Tuesday, or it didn't, and either way the press release is identical.\n\n**Say It Out Loud**\n\n> OpenAI solved a math problem no one's solved in decades. Announced it. Mathematicians are now checking if that's true. Normal.\n\n---\n\n## 5. Apple's New Camera Feature Proves Your Photo Isn't AI — Using the AI Phone That Made It\n\n*The Verge — [source](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image)*\n\nApple announced a new camera feature called 'Reference Image' for the iPhone 18 Pro lineup that cryptographically signs every pixel captured by the camera, allowing users to prove a photo has not been manipulated by AI. The feature arrives on a device that also ships with a suite of AI photo-editing tools. Apple pitched the feature as a solution to the growing distrust of digital images.\n\n**Why It's Funny**\n\niPhone 18 Pro will ship with a feature that cryptographically signs every pixel, so you can prove your photo hasn't been touched by AI. The phone also ships with Clean Up, Photo Styles, and a suite of AI tools that can touch your photos in various interesting ways. Apple's solution to the AI authenticity crisis is a phone that can commit the crime and then produce a signed affidavit that nothing happened. One device. Your call.\n\n**Say It Out Loud**\n\n> Apple made a feature to prove your photo isn't AI. It ships on the phone with five AI photo tools. Just so we're clear.\n\n---\n\n## Today's Punchline\n\n> Today every solution came with the problem already inside. Buy the ban, get the loophole free.\n",
-    "fullJa": "# 「禁止します、ただし大統領は除く」——今日のアメリカ5本\n\n## 今日を占うよ〜\n\n「禁止します」「証明できます」「解きました」「安全です」「届けます」——今日の5本、全部そう始まる。\n\nで、続きを読むと。\n\n禁止の対象に大統領は入っていない。証明する端末にAI加工ツールが入っている。解いた答えはまだ誰も確認していない。安全なはずの機体が出発前に脱出スライドを開けた。何でも届ける会社が、妊婦に椅子を届けなかった。\n\n今日の糸は「アリバイと凶器が同じ箱に入っている」。\n\nで、今日の占い。\n\n「自分だけ割を食ってる気がする」というあなた——今日のニュースを見ると、得してる側もだいぶバタバタしています。数十億ドルの機体が地上で脱出スライドを開ける。数学の世紀の難問、解いたかどうかをまだ誰も確認していない。うまくいかないのは、仕組みそのものが最初からちょっとずれてるから、かもしれない。\n\n少なくとも今日はそういう日。5本、いきます。\n\n---\n\n## 1. Republicans to Tout Stock-Trading Ban at Convention — While Trump Logged 21,000 Trades Last Year\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/09/trump-republicans-congress-stock-trading-ban-midterm-convention.html)）*\n\n共和党は中間選挙の大会で議会議員の株取引禁止を売り物にする予定だが、同法案が適用されるのは議会のみで、2025年に2万1000件超の取引を開示したトランプ大統領本人には適用されない。\n\n**どこが笑える？**\n\n共和党がダラスの大会で株取引禁止法案を旗印にする予定です。この法案、議員とその家族が対象。大統領は対象外。2025年に2万1000件超の取引を開示したトランプ大統領は、この法案が誇らしげに掲げられている会場に着いて、スピーチを聞きながら、適用されない。\n\n2万1000件って、1日57件です。土日も含めて。起きている間ずっと取引していてもギリギリの数字。「ザルを盾に持って沼を語る」構造は世界共通ですが、ここまで数字がはっきりしてる例もなかなかない。\n\n**このニュースをジョークにするなら...**\n\n> 2万1000件取引した人には適用されない株取引禁止法を誇らしげに掲げる大会。抜け穴の精度だけは一流ですね。\n\n---\n\n## 2. Trump's Departure Delayed After Emergency Slide Deploys Itself on New Air Force One\n\n*CBS News US（[記事](https://www.cbsnews.com/news/air-force-one-slide-trump-tarmac-joint-base-andrews/)）*\n\nトランプ大統領のテキサス出発が、新型エアフォースワンの緊急脱出用スライドが搭乗前に自動展開するトラブルにより遅延した。\n\n**どこが笑える？**\n\n新型エアフォースワンの緊急脱出スライドが、大統領が乗る前に地上で自動展開しました。緊急脱出スライドの仕事は「緊急時に飛行機から人を逃がす」こと。地上で、誰も乗っていない状態で開くのは、仕事ではなく「早まり」です。数十億ドルかけた新型機の初回のニュースが、これ。ケガ人はいませんでした。機体のプライドは不明。\n\n**このニュースをジョークにするなら...**\n\n> トランプが乗る前にスライドが展開。機体が一番早く「降ります」と言った。\n\n---\n\n## 3. Amazon Denied Pregnant Workers Bathroom Breaks and Chairs, Lawsuit Alleges\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/09/lawsuit-amazon-refused-to-give-pregnant-workers-bathroom-breaks-and-chairs/)）*\n\n妊娠中の女性4人がAmazonを提訴。妊娠中の基本的な配慮（トイレ休憩や椅子）を拒否され、その後解雇されたと主張している。\n\n**どこが笑える？**\n\n妊娠中のAmazon倉庫社員4人が、トイレ休憩を拒否され、椅子を拒否され、その後解雇されたとして提訴しました。Amazonは翌日配達で椅子を届けられる会社です。自社の倉庫で妊娠中の従業員に、届けられなかった。\n\nうまいこと言おうとする気になれない話です。届けられる会社が届けなかった、それだけ。\n\n**このニュースをジョークにするなら...**\n\n> リクライニングチェアは翌日お届け。妊婦の従業員には「立ってて」。Amazonらしい優先順位ですね。\n\n---\n\n## 4. OpenAI Solved a Millennium Prize Problem — and Academia Is Not Thrilled\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/992953/openai-math-millennium-prize-navier-stokes)）*\n\nOpenAIが数学の「ミレニアム懸賞問題」の一つを解いたと発表したが、正式な査読が完了する前にニュースが広まり、学術界に動揺が広がっている。\n\n**どこが笑える？**\n\nOpenAIが数学の「ミレニアム懸賞問題」のひとつを解いたと発表しました。100万ドルの懸賞付き、数十年未解決の問題です。発表はされた。査読はまだ終わっていない。数学者たちが今、「これ本当に正しい？」と確認しようとしている。先生が生徒の答案を採点できない時代が来た、というか、生徒が採点より先にプレスリリースを出した時代。\n\n**このニュースをジョークにするなら...**\n\n> 数十年誰も解けなかった数学の難問をAIが解いた。発表した。数学者たちが今「本当に？」と確認中。正常な流れです。\n\n---\n\n## 5. Apple's New Camera Feature Proves Your Photo Isn't AI — Using the AI Phone That Made It\n\n*The Verge（[記事](https://www.theverge.com/tech/992766/apple-iphone-18-pro-reference-image)）*\n\nAppleはiPhone 18 Proに、撮影した写真がAIで加工されていないことを証明する「Reference Image」機能を搭載すると発表した。\n\n**どこが笑える？**\n\niPhone 18 Proに「撮影した写真がAI加工されていない証明」機能が入ります。同じ端末に、AI写真編集ツールも複数入っています。証明書と加工ツールが同じ箱に入って売られる。魚の鮮度証明書と塩が同じパッケージに入っているようなもので、まあ、どっちを先に開けるかはご自由に、という端末が119,800円から。\n\n**このニュースをジョークにするなら...**\n\n> AI加工してない証明機能を、AI写真加工ツール5種入りのスマホに搭載。念のため確認しておきます。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 解決策を開けたら、問題が同梱されていた。今日のアメリカはそういう日。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3（Amazon）のriffJaに「笑えない。これは、笑えない。」という感情吐露があり、sensitiveフラグ漏れの可能性を検討したが、死亡・重傷等の悲劇ではなく労働権侵害の訴訟案件のため対象外と判断。ただし同箇所のriffJaがコメディの開発を途中放棄しており、権力批判の筆として弱い。d1 captionsJa[1]の「キャラクターですよ」がオチ後の蛇足。d4 captionsJa[1]の曜日列挙ジョークは英語版の「月曜→火曜→水曜」の逆順が意図の骨格なのにJa版が順列になっており笑いが死んでいる。introJaの「占い」パートが書き言葉寄りで、掴み→5本予告→前向きメッセージの流れが不明確。xJa[0]が135字超。これらを修正。 ／ 文体パス: 全体的に人間の声が出ていてよく書けている。2箇所だけ直した：riffJa[2]の「笑いを開発する話ではない」がプレゼン口調で浮いていたので本音の形に崩し、riffJa[4]の締め「どちらを先に使うかはあなた次第、という端末が」が几帳面すぎたので少し崩した。"
+    "fullEn": "# We Caused the Problem. Here's Our Solution. (It's $500.)\n\n## Today's Forecast\n\nToday's five stories have one thing in common: someone made a mess, and then showed up with a mop to sell you.\n\nTrump's promising $5,000 to fix inflation — economists say it'll do the opposite. AI companies are teaching your kids about AI using curricula they wrote themselves. A White House safety framework exists, apparently, but nobody outside the building has seen it.\n\nAnd Ford, one day after getting called out for its China ties, announced a billion-dollar paint job in Kentucky. As you do.\n\nHere's your forecast: if you've ever been blamed for something that was definitely someone else's fault, today's news is your vindication. The people running things are doing it too — just at a larger scale, with a press release. You're going to be fine. Probably.\n\n---\n\n## 1. Trump's $5,000 'Dividend' Would Fan the Inflation It's Supposed to Fix\n\n*CBS News US — [source](https://www.cbsnews.com/news/trump-5000-checks-inflation-deficit-economists/)*\n\nPresident Trump pledged $5,000 payments to all American adults if Republicans retain control of Congress in November. Economists warn the plan could reignite inflation and add significantly to the national debt. The proposal has drawn bipartisan skepticism and is expected to face major legal and fiscal hurdles.\n\n**Why It's Funny**\n\nThe pitch is simple: inflation is bad, so here's $5,000. Every economist interviewed says that money will make inflation worse — which is the thing we're trying to fix. The plan also requires a Republican Congress, court approval, and apparently a favorable alignment of stars. But the real tell is the timing: you'll get the check after the election. Which means the thing being purchased right now isn't groceries. It's votes. And those, at least, the economists haven't priced in yet.\n\n**Say It Out Loud**\n\n> We'll give you $5,000 to beat inflation — and according to every economist alive, that $5,000 will beat inflation right back.\n\n---\n\n## 2. White House Wrote Secret Rules for AI Safety — and Then Kept Them Secret\n\n*CBS News US — [source](https://www.cbsnews.com/news/ai-model-framework-white-house/)*\n\nThe White House finalized a voluntary framework in August for testing frontier AI models but has not publicly released it. Experts and advocates are raising concerns as AI capabilities expand rapidly. The lack of transparency contradicts the administration's stated commitment to responsible AI development.\n\n**Why It's Funny**\n\nThe White House built a voluntary framework for AI safety. Built it, finished it in August, and then put it in a drawer. The logic being: AI companies agreed to follow rules that they can see and the public cannot, which is either a very efficient regulatory process or a very efficient non-regulatory process, depending on how you look at it. Voluntary. Secret. For the industry's own benefit. At some point 'framework' stops meaning what it sounds like it means.\n\n**Say It Out Loud**\n\n> We made rules to keep AI safe. The rules are classified. You're welcome.\n\n---\n\n## 3. AI Companies Are Generously Teaching Schools About AI — With Curriculum They Wrote Themselves\n\n*The Verge — [source](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)*\n\nAI companies are increasingly providing schools with free resources, curriculum, and tools to teach students about artificial intelligence. Critics argue this mirrors Big Tech's long-running playbook of embedding itself in education to shape future users and workers. The arrangement raises questions about who controls the narrative around AI literacy.\n\n**Why It's Funny**\n\nAI companies are handing schools free curriculum about artificial intelligence. They wrote it. It's free. Your kid gets to learn what AI is, what it can do, and why it's useful — as explained by the people selling it. The word for this in other industries is 'advertising.' In education, it's called a 'partnership.' Same product, better shelf placement.\n\n**Say It Out Loud**\n\n> The company that wants to sell you AI is now teaching your kids what AI is. Totally normal curriculum stuff.\n\n---\n\n## 4. Trump Offers $500 Obamacare Refunds — for a Program He's Been Cutting\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html)*\n\nPresident Trump announced $500 refunds for nearly one million Americans enrolled in Affordable Care Act plans. Health policy experts say the payments are unlikely to offset the steep premium increases that followed the lapse of enhanced ACA subsidies. Critics note the administration's own policies contributed to those rising costs.\n\n**Why It's Funny**\n\nThe Affordable Care Act subsidies lapsed. Premiums went up. The administration that let them lapse announced $500 refunds. The gap between what went up and what's coming back is over a thousand dollars per person, but the press release led with 'historic relief.' It's a masterclass in framing: the arsonist hands you a garden hose and calls it emergency services. The hose is real. The math isn't.\n\n**Say It Out Loud**\n\n> Premium goes up $2,000. Refund arrives: $500. Press release: 'Historic relief for American families.'\n\n---\n\n## 5. Ford Pledges $1 Billion for Kentucky Plant — Right After DOT Called Out Its China Ties\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html)*\n\nFord Motor announced a $1 billion investment to build a new paint shop at its Kentucky truck plant on Thursday. The announcement came shortly after the Department of Transportation publicly criticized Ford over its ties to Chinese partners. Ford has denied the investments represent a national security risk.\n\n**Why It's Funny**\n\nFord gets called out by the Department of Transportation for being too cozy with Chinese partners. The next morning — not the next week, the next morning — Ford announces a billion-dollar investment in its Kentucky plant. A paint shop, specifically. The speed is impressive. The choice of facility is inspired. Nothing announces 'we are not painting over anything' quite like a brand-new paint shop.\n\n**Say It Out Loud**\n\n> DOT says Ford's too close to China. Ford's response: a billion-dollar paint shop in Kentucky. Fast work.\n\n---\n\n## Today's Punchline\n\n> Five stories, one playbook: start the fire, show up with a bucket, hold a press conference about the bucket.\n",
+    "fullJa": "# 火をつけた人が消火器のクーポンを送ってくる日\n\n## 今日を占うよ〜\n\n5,000ドル配ったらインフレが悪化する、という記事から始まりました。\n\n次を開くと、ホワイトハウスがAI安全規則を作ったけど非公開にしている。その次は、AI企業が学校に無償でカリキュラムを提供している、ただし中身は自分たちで書いた。オバマケアの補助金を削ってから、500ドルを払い戻す話もある。あと、中国と近すぎると怒られたフォードが翌日に10億ドルのアメリカ投資を発表した。\n\n今日の5本、全員やってるんですよ。「問題を自分で作ってから、解決策を売りに来る」を。\n\nということで今日の占いです。あなたが「なんか私のせいになってるけど、これ私が原因じゃなくない？」と思っていることがあるとしたら、今日は正しいと思う。アメリカを動かしている人たちが全員同じことをやっていて、しかもそれがニュースになっている。あなただけじゃない。少なくとも今日はね。\n\n---\n\n## 1. Trump's $5,000 'Dividend' Would Fan the Inflation It's Supposed to Fix\n\n*CBS News US（[記事](https://www.cbsnews.com/news/trump-5000-checks-inflation-deficit-economists/)）*\n\nトランプ大統領が公約した成人全員への5,000ドル給付について、経済学者らはインフレを再燃させ財政を悪化させると警告している。\n\n**どこが笑える？**\n\nインフレが酷いから5,000ドルを配る、というプランを経済学者に見せたら「それがインフレを悪化させる」と言われた。\n\nで、プランは続いている。しかも受け取れる条件が「共和党が選挙に勝つこと」「議会が同意すること」「裁判所が黙っていること」の三点セット。選挙前には配られない。つまりこれは給付金の約束ではなく、給付金の「約束の約束」で、今買えるのは期待だけ——経済学者が一番インフレと呼ぶやつです。\n\n**このニュースをジョークにするなら...**\n\n> インフレに勝つために5,000ドル配ります——経済学者によると、その5,000ドルがインフレに反撃するらしいですよ。\n\n---\n\n## 2. White House Wrote Secret Rules for AI Safety — and Then Kept Them Secret\n\n*CBS News US（[記事](https://www.cbsnews.com/news/ai-model-framework-white-house/)）*\n\nホワイトハウスが8月に策定した最先端AIモデルのテストに関する自主的な枠組みが、懸念の高まりにもかかわらず一般公開されていないことが明らかになった。\n\n**どこが笑える？**\n\nホワイトハウスがAI安全の枠組みを作った。8月に完成した。誰も見ていない。\n\n「自主的な枠組み」なので守る義務はない。内容が非公開なので何を守るべきかも誰も知らない。監視される側の企業は見られたかもしれないけど、監視するはずの側は何を監視しているのか。\n\nこれを「AI安全への取り組み」と呼ぶ、その感覚だけAIに学ばせたくない。\n\n**このニュースをジョークにするなら...**\n\n> AI安全基準を作りました。内容は非公開です。どういたしまして。\n\n---\n\n## 3. AI Companies Are Generously Teaching Schools About AI — With Curriculum They Wrote Themselves\n\n*The Verge（[記事](https://www.theverge.com/policy/993308/computer-science-ai-education-coding-kids)）*\n\nAIテック企業が学校に対し、しばしば無償でAIの学習リソースやカリキュラムを提供しているが、批評家はその内容が企業側の利益に沿って設計されていると指摘している。\n\n**どこが笑える？**\n\nAI企業が学校にカリキュラムを無償提供している。内容はAI企業が書いた。無償。\n\nタバコ会社が「健康的な喫煙の授業」を小学校に提供していた時代があって、さすがにそれは終わった。でもAIの場合は「リテラシー教育」と呼ばれているから、もう少し時間がかかりそうです。\n\n「無償」が一番高くつく、って話を、子どもたちは誰から習うんですかね。\n\n**このニュースをジョークにするなら...**\n\n> AIを売りたい会社が、子供たちにAIとは何かを教えてくれます。普通の授業ですよ。\n\n---\n\n## 4. Trump Offers $500 Obamacare Refunds — for a Program He's Been Cutting\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/10/trump-obamacare-refunds-aca.html)）*\n\nトランプ大統領はACA（オバマケア）加入者約100万人に対し500ドルの払い戻しを発表したが、専門家は補助金削減による保険料急騰の穴埋めには程遠いと指摘している。\n\n**どこが笑える？**\n\nオバマケアの補助金を削った。保険料が上がった。500ドルを払い戻した。\n\nプレスリリースは「歴史的救済」と書いた。保険料の上昇幅と払い戻し額の差はざっと1,500ドルで、その差分には言及がない。家に火をつけてから消火器のクーポンを送ってくる人のことを何と呼ぶか、英語にはきっといい言葉があると思うけど、日本語では今のところ「それ」としか言えない。\n\n**このニュースをジョークにするなら...**\n\n> 保険料が2,000ドル上がりました。払い戻しは500ドルです。プレスリリース：「アメリカ国民への歴史的な救済。」\n\n---\n\n## 5. Ford Pledges $1 Billion for Kentucky Plant — Right After DOT Called Out Its China Ties\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/10/ford-1-billion-investment-kentucky-plant.html)）*\n\nフォードは、交通省から中国との関係について批判を受けた直後に、ケンタッキー州のトラック工場に10億ドルを投資すると発表した。\n\n**どこが笑える？**\n\n木曜日、交通省がフォードに「中国と近すぎる」と言った。金曜日の朝、フォードはケンタッキー州に10億ドルを投資すると発表した。\n\n塗装工場。怒られた翌日に建てるのが「塗装工場」。この選択の無自覚さが本物なのか、高度な確信犯なのか、どちらにしても10億ドル分の仕事は動く。ペンキは早く乾く。\n\n**このニュースをジョークにするなら...**\n\n> 交通省が「中国に近すぎる」と言った。フォードの答えはケンタッキーの10億ドル塗装工場。仕事が早い。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 火をつけた、バケツを持ってきた、記者会見をした。今日の5本、全部これ。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d1のcaption5「Somewhere a junior economist…」が汎用ジョーク型（Somewhere, X is…）なので構築されたジョークに書き直し。d4のcaption2「The circle of life」がジョーク構造として弱く観察止まりなので書き直し。xJa全5本を字数確認——1本目が139字で超過しているため修正。それ以外は合格。 ／ 文体パス: 3箇所修正。leadJaの締め「こういう日に限って、話が面白い。」はそのまま。riffJa[1]の「語感覚、ちょっとAIに学ばせたい」前後とriffJa[2]の締め、riffJa[3]の締めに説明口調・まとめ口調が残っていたので崩した。"
   },
   "carousel": [
-    "images/2026-09-10/carousel/slide-1.jpg",
-    "images/2026-09-10/carousel/slide-2.jpg",
-    "images/2026-09-10/carousel/slide-3.jpg",
-    "images/2026-09-10/carousel/slide-4.jpg",
-    "images/2026-09-10/carousel/slide-5.jpg",
-    "images/2026-09-10/carousel/slide-6.jpg",
-    "images/2026-09-10/carousel/slide-7.jpg"
+    "images/2026-09-11/carousel/slide-1.jpg",
+    "images/2026-09-11/carousel/slide-2.jpg",
+    "images/2026-09-11/carousel/slide-3.jpg",
+    "images/2026-09-11/carousel/slide-4.jpg",
+    "images/2026-09-11/carousel/slide-5.jpg",
+    "images/2026-09-11/carousel/slide-6.jpg",
+    "images/2026-09-11/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-10/note-header.jpg",
-    "substack": "images/2026-09-10/substack-cover.jpg"
+    "note": "images/2026-09-11/note-header.jpg",
+    "substack": "images/2026-09-11/substack-cover.jpg"
   }
 };
