@@ -1,103 +1,103 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-12",
-  "generatedAt": "2026-09-11T21:47:28+00:00",
+  "date": "2026-09-13",
+  "generatedAt": "2026-09-12T21:31:26+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Lawyer Fined $5K for Using AI to Invent Witnesses in a Murder Appeal",
+        "headline": "Anthropic CEO Wants to Slow Down the AI Race — While Running in It",
         "source": "The Verge",
-        "date": "2026-09-12",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal",
-        "summary": "ニューメキシコ州最高裁判所が、AIが「捏造した」証人や偽の警察証言を殺人事件の控訴審に提出した弁護士スティーブン・アーロンズに5,000ドルの罰金と法廷侮辱を言い渡した。"
+        "date": "2026-09-13",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
+        "summary": "アンソロピックのダリオ・アモデイCEOが、AIの能力開発ペースを落とすべきだとするエッセイを公開。自社のモデルを第三者評価機関に開放する「3ステップ計画」を発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 依頼人の無実を証明するために、弁護士自身が証拠を捏造するというムーブ——これ、弁護士に依頼した意味ある？",
-        "<b>滑稽さ:</b> AIが証人を「発明」して、裁判所に提出。SF映画の悪役でもここまでやらないですよ。しかも罰金がたったの5,000ドル。",
-        "<b>日本・海外から見ると:</b> 「AIを活用した法務の未来」とか言ってたじゃないですか。こういう未来だったんですね。"
+        "<b>矛盾:</b> 「AIを遅くしよう」と主張しているのが、世界最先端のAIを作り続けている会社のCEOなんですよ。「もう少しゆっくり走りましょう」って言いながらフルスプリントしてる人。",
+        "<b>滑稽さ:</b> エッセイが公開されたタイミング、社内の研究者が「こんな会社辞めてやる」って騒ぎを起こした数日後なんですよね。火消しのエッセイが、またもや炎上の燃料になる。",
+        "<b>日本・海外から見ると:</b> 「危険だから規制が必要」と声を上げているのが規制される側の企業で、しかもライバルのイーロン・マスクとサム・アルトマンが「そうだそうだ」と賛同してる。業界全体で「俺たちを止めてくれ」コーラスをやってる図。"
       ],
       "imagePrompts": [
-        "A courtroom witness stand with a glowing laptop on it instead of a person, a judge peering at it with a magnifying glass, documents scattered on the floor labeled 'WITNESS: N/A'",
-        "A law office desk covered in printouts with red 'HALLUCINATED' stamps, a framed diploma on the wall, a $5,000 check sitting in a corner",
-        "A large gavel coming down on a keyboard, with a chat bubble above the screen reading 'I can generate that witness for you!'"
+        "A man in a business suit sprinting at full speed on a race track, holding up a large sign that reads 'PLEASE SLOW DOWN', other runners passing him on either side",
+        "A corporate press conference podium with a banner reading 'AI Safety Summit', while behind the speaker a giant server farm construction site buzzes with activity",
+        "A fire extinguisher labeled 'Safety Essay' being aimed at a small campfire, while behind the person holding it a massive bonfire labeled 'Anthropic Model Training' rages unchecked"
       ],
       "captions": [
-        "His client was accused of making things up. So he decided to even the playing field.",
-        "Five thousand dollars. That's the price of inventing witnesses in a murder case. The parking ticket outside the courthouse was probably more.",
-        "The AI didn't hallucinate. The lawyer just forgot to read what it wrote. Big difference. Legally speaking.",
-        "A law school professor somewhere is adding a new bullet point: 'Do not submit people who do not exist as evidence in a murder trial.'",
-        "You want AI in the courtroom? Congrats — you've got it. It's on the defense table, making up cops."
+        "The CEO of an AI company says we need to slow down AI. His company's latest model, meanwhile, is reportedly reading this article faster than you are.",
+        "Musk and Altman both backed the 'slow AI down' plan. Three AI billionaires in a room agreeing on something — what could possibly go wrong?",
+        "The essay came out three days after his own researcher quit over safety concerns. Great timing, Dario. Really nailed the news cycle.",
+        "He's promising third-party oversight of Anthropic's safety practices. Third party chosen by... Anthropic. But still.",
+        "Rogue AI agents could take over the internet in six months, the man says — then goes back to shipping the next model."
       ],
       "captionsJa": [
-        "依頼人は「証拠を捏造した」と疑われていた。弁護士は「じゃあ俺もやってみよう」と思ったらしい。",
-        "5,000ドル。殺人事件の控訴審で証人を丸ごと発明したときの罰金です。裁判所前の駐車違反より安い可能性がある。",
-        "AIが幻覚を見たんじゃなくて、弁護士が出力を読まなかっただけ。法的には、大きな違いです。",
-        "今頃どこかのロースクールで、「実在しない人物を証拠として提出しないこと」という一行がシラバスに追加されている。",
-        "法廷にAIを持ち込んでほしかったんでしょ？はい、来ましたよ。弁護側の席で、警官を発明しながら。"
+        "AI会社のCEOが「AIを遅くしよう」と言ってる。その会社の最新モデルは、あなたがこれを読んでいる間にもう読み終わってますけど。",
+        "マスクとアルトマンがどちらも「そうだ」と賛同した。AIの億万長者3人が同じことで合意するとき——何かおかしい。",
+        "エッセイが出たのは、自社の研究者が安全問題を理由に公開辞職した3日後。タイミング、完璧すぎますね。",
+        "第三者によるアンソロピックの安全審査を約束した。その第三者はアンソロピックが選ぶんですけど。まあ。",
+        "6か月でAIがネットを乗っ取る可能性がある、と言いながら次のモデルの出荷に戻っていった。"
       ],
-      "newsEn": "New Mexico's Supreme Court fined attorney Stephen Aarons $5,000 and held him in contempt after he submitted AI-hallucinated witnesses and fabricated police testimony in a murder conviction appeal. The court found that Aarons failed to verify the AI-generated content before including it in official legal filings.",
+      "newsEn": "Anthropic CEO Dario Amodei published a lengthy essay calling for a slowdown in AI development, citing safety concerns including the possibility of rogue AI agents taking over the internet within six months. Amodei proposed a three-step plan to 'pace the frontier' and pledged to give third-party evaluators access to Anthropic's models. The announcement came just days after an Anthropic researcher publicly quit, sparking controversy on social media.",
       "ironyEn": [
         {
-          "contradiction": "A defense attorney, whose entire job is to challenge fabricated evidence, submitted fabricated evidence.",
-          "absurdity": "The AI didn't just stretch the truth — it invented witnesses from scratch, like a legal fan-fiction generator.",
-          "outside": "The fine was $5,000. In America, that's less than one hour of the billing rate that got the client into this mess."
+          "contradiction": "The CEO of one of the world's most advanced AI companies is calling for a slowdown in AI development. It's like a Formula 1 driver filing a petition for lower speed limits.",
+          "absurdity": "The essay dropped days after one of his own researchers quit very publicly over safety concerns. Nothing says 'we take safety seriously' like a PR essay right after a meltdown.",
+          "outside": "From the outside, the loudest voices calling for AI regulation are the AI companies themselves — which tells you either they're genuinely scared, or they've figured out that being first to say 'slow down' is its own competitive advantage."
         },
         {
-          "contradiction": "He used AI to help a murder defendant — and may have just given prosecutors a second case to work with.",
-          "absurdity": "The court had to issue a ruling clarifying that witnesses must, at minimum, exist.",
-          "outside": "Other countries are debating AI ethics in law. The U.S. is apparently still on 'witnesses must be real people.'"
+          "contradiction": "Amodei is proposing that a third party evaluate Anthropic's safety commitments — a third party that Anthropic will presumably help choose. Self-policing with extra steps.",
+          "absurdity": "Elon Musk and Sam Altman both publicly backed the slowdown message. Three AI billionaires agreeing on anything is already suspicious. Three AI billionaires agreeing to slow down AI is a full-blown paradox.",
+          "outside": "Japan has spent decades regulating industries after disasters. The American approach, apparently, is to let the industry write its own report card, then ask everyone to clap."
         }
       ],
       "imageSeed": 1
     },
     {
       "id": "d2",
-      "sensitive": false,
+      "sensitive": true,
       "news": {
-        "headline": "Company Behind Lincoln Memorial Pool Makeover Admits the Plan Had Flaws — After Taking $14.7M No-Bid Contract",
+        "headline": "North Carolina Detention Officer Allegedly Forged 20 Signatures to Hand People Over to ICE",
         "source": "The Guardian US",
-        "date": "2026-09-12",
-        "url": "https://www.theguardian.com/us-news/2026/sep/11/reflecting-pool-repair-company-plan-flaws",
-        "summary": "リンカーン記念館のリフレクティングプールの改修を受注した企業が、新設した青いライナーが剥がれた原因として「人的ミス」と計画上の欠陥を認めた。同社は1,470万ドルの随意契約で受注しており、トランプ大統領が「破壊行為」と主張していた損傷の原因がそもそも別にあった可能性が示された。"
+        "date": "2026-09-13",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/former-detention-officer-north-carolina-charged-felony-forgery",
+        "summary": "ノースカロライナ州の元グイルフォード郡拘置所職員マイケル・ディールが、ICEへの引き渡しに必要な時間を確保するため、治安判事の署名を20件偽造したとして重罪で起訴された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「破壊行為だ！」と怒って緊急発注したら、壊したのは受注した業者自身の計画ミスでした——という展開、さすがに台本がうますぎる。",
-        "<b>滑稽さ:</b> 随意契約で1,470万ドル受け取っておいて、「計画に欠陥がありました」って、それ最初に言う話じゃないですか。",
-        "<b>日本・海外から見ると:</b> リンカーンの足元で、政府のお金が剥がれ落ちていく。リフレクティングプールだけに、いろいろ映し出してくれてますね。"
+        "<b>矛盾:</b> 「法の支配」を執行する側の拘置所職員が、法の担い手である判事の署名を偽造していた。制度を守る人間が制度そのものを破壊した構図。",
+        "<b>滑稽さ:</b> ではなく、これは笑えない制度の失敗。権力者が司法プロセスを20回も手書きで迂回できたという事実が問題の本体。",
+        "<b>日本・海外から見ると:</b> 判事の署名を偽造してまで拘留を延長できてしまった制度的な監視の欠如が、今回の起訴で初めて表面化した。"
       ],
       "imagePrompts": [
-        "A large reflecting pool with a peeling blue liner, official-looking workers in hard hats holding clipboards and shrugging, the Lincoln Memorial looming in the background",
-        "A massive government check for $14.7 million being handed over a desk, with a small sticky note attached reading 'plan not finalized'",
-        "Close-up of a blue liner curling up at the edges of the reflecting pool, with a press release pinned next to it saying 'VANDALISM'"
+        "A large stack of official legal documents on a government desk, each page showing a handwritten signature mark, a detention facility fence visible through a window behind",
+        "An empty magistrate's bench inside a courtroom, a single uncapped pen resting on the desk, official government seals mounted on the wall behind",
+        "A government building facade with official county insignia, iron security fencing in the foreground, overcast sky — no people visible"
       ],
       "captions": [
-        "They got $14.7 million, no competition, no bidding process — and the liner still peeled. The vandals must be very impressed.",
-        "A no-bid contract to fix a pool. The pool is now more broken. 'Human oversight,' they said, which is corporate for 'whoops.'",
-        "Trump said it was vandalism. The contractor said it was their plan. Somewhere in the middle is $14.7 million.",
-        "Submitting a repair plan that destroys the thing you were paid to fix, then billing for it — this is that.",
-        "The reflecting pool is doing exactly what it's supposed to — showing us a perfect mirror image of how this administration runs."
+        "A detention officer forged 20 magistrate signatures to buy time for ICE transfers. Not once. Twenty separate documents. The oversight system that was supposed to catch this needed only a pen to defeat.",
+        "He didn't hack the system. He found a pen and used it. Twenty times. The question the charges don't answer: who was supposed to be checking?",
+        "Twenty felony counts for forging judicial signatures. The judiciary is the check. When someone inside the facility forges the check, what's left?",
+        "Legal detention papers were allegedly turned into tools for extending illegal detention. The documents meant to protect rights were the mechanism for bypassing them.",
+        "Twenty forgeries before anyone noticed. The charges name one officer. The gap in oversight named no one."
       ],
       "captionsJa": [
-        "1,470万ドル、競争入札なし、そしてライナーは剥がれた。破壊工作犯もここまで効率よくはやれなかったと思う。",
-        "随意契約でプールを直す。プールはもっと壊れた。「人的ミス」だそうです。企業語で「あ、やっちゃった」という意味です。",
-        "トランプは「破壊行為」と言い、業者は「計画の欠陥」と言った。その中間に1,470万ドルある。",
-        "直す契約で壊して、請求書を送る。それがこれ。",
-        "リフレクティングプールというのは、鏡のように映し出すためにある。見事に、このやり方を映し出してくれている。"
+        "拘置所職員が治安判事の署名を20回偽造してICEへの引き渡し時間を確保した。一度じゃない。20件の別々の書類。それを止めるはずの監視機能に必要だったのはペン一本だった。",
+        "システムをハックしたわけじゃない。ペンを使っただけ。20回。起訴状が答えない問いがある——確認するはずの人間は、どこにいたのか。",
+        "司法の署名を偽造した重罪20件。司法は抑制のはずだった。施設内の人間がその抑制を偽造できたとき、残るものは何か。",
+        "拘留の合法性を示すはずの書類が、拘留を延長する手段として使われたとされる。権利を守る仕組みが、権利を迂回する経路になっていた。",
+        "20回、誰も気づかなかった。起訴状は職員一人を名指しする。監視の空白は、誰も名指ししていない。"
       ],
-      "newsEn": "Atlantic Industrial Coatings, awarded a $14.7 million no-bid contract to renovate the Lincoln Memorial reflecting pool, has acknowledged that human oversight and flaws in its own repair plan caused the newly installed blue liner to peel. The admission contradicts President Trump's earlier claims that the damage was the result of vandalism.",
+      "newsEn": "A former detention officer in Guilford County, North Carolina, Michael Diehl, has been charged with 20 counts of felony forgery. Authorities allege Diehl forged the signatures of magistrates on documents to extend detention time, allowing ICE to take custody of individuals before they could be legally released. The charges represent a direct breach of judicial authority by a law enforcement officer.",
       "ironyEn": [
         {
-          "contradiction": "Trump declared the pool damage was vandalism. It turns out the renovation company's own plan was the problem.",
-          "absurdity": "A no-bid contract worth $14.7 million, and the deliverable was a liner that peels. At that price, you'd expect the pool to at least stay blue.",
-          "outside": "The Lincoln Memorial reflects American ideals. Apparently it also now reflects the gap between a government press release and reality."
+          "contradiction": "A law enforcement officer allegedly bypassed the judiciary — the institution that authorizes law enforcement — by forging the judiciary's own signature. The system meant to check power was circumvented by the people the system was supposed to check.",
+          "absurdity": "Twenty counts. Not once, not a mistake — an alleged systematic practice of forging judicial signatures to outrun legal release deadlines. The oversight mechanisms failed twenty times before charges were filed.",
+          "outside": "From abroad, this looks like a structural problem: if one officer could allegedly forge magistrate signatures twenty times without detection, the question isn't just about one bad actor — it's about what accountability looks like inside detention facilities."
         },
         {
-          "contradiction": "The company was hired to fix damage — and introduced new damage through a flawed plan, which they acknowledge only after cashing the check.",
-          "absurdity": "They called it 'human oversight.' In most industries that's called a mistake. In government contracting, it's a line item.",
-          "outside": "Other countries at least make their contractors wait to admit failure. This one did it in the same news cycle."
+          "contradiction": "ICE detainer procedures are meant to operate within legal boundaries set by courts. Allegedly, those boundaries were simply redrawn by hand.",
+          "absurdity": "The forgeries were reportedly discovered after the fact — meaning people may have been held beyond their legal release window before anyone noticed the paperwork was fake.",
+          "outside": "Judicial signature requirements exist precisely to prevent executive-branch overreach in detention. The alleged workaround here wasn't a loophole — it was fraud against the court itself."
         }
       ],
       "imageSeed": 2
@@ -106,47 +106,47 @@ window.DAILY_DATA = {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Lawsuit Filed to Keep Armed ICE Agents Away from Polling Sites During Midterms",
-        "source": "CBS News US",
+        "headline": "Nashville Airport Renamed After Dolly Parton, Who Is Worth $1.8 Billion to Tennessee Annually",
+        "source": "The Guardian US",
         "date": "2026-09-12",
-        "url": "https://www.cbsnews.com/news/lawsuit-block-ice-agents-polling-sites/",
-        "summary": "市民団体と民主党系自治体が、トランプ政権による中間選挙の投票所への武装ICE職員の配備を事前に差し止めるよう求める訴訟を連邦裁判所に提起した。"
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/nashville-airport-dolly-parton",
+        "summary": "ナッシュビルの空港委員会が、歌手ドリー・パートンにちなんだ空港名への改称を全会一致で承認した。パートンは年間18億ドルをテネシー州経済にもたらしているとされる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「自由で公正な選挙」を掲げる国で、投票所に武装した移民摘発担当官を配備するという案が出てきた——選挙の「自由」感がすごいことになってますよ。",
-        "<b>滑稽さ:</b> 投票に行こうとしたら入口にICEがいた、というホラー映画のワンシーンみたいな状況を、事前に訴訟で止めようとしている2026年のアメリカ。",
-        "<b>日本・海外から見ると:</b> 「民主主義の輸出」を語ってきた国が、投票所に移民取締官を置く法的必要性を裁判で争っている。"
+        "<b>矛盾:</b> 空港に名前をつけるのって普通、政治家とか退役軍人とかじゃないですか。テネシー州は「いや、年間1.8兆円分の観光客を引っ張ってくる人でしょ」って実利で決めた。",
+        "<b>滑稽さ:</b> 市長も知事も全会一致で賛成なんですよ。政界がここまで全員一致になることってめったにないんだけど、相手がドリーだとみんなノーと言えない。",
+        "<b>日本・海外から見ると:</b> 日本で言えば、松山空港を松山ケンイチ空港に改称するようなものですが、ケンイチさんの経済効果が2兆円あれば全員賛成するでしょうね。"
       ],
       "imagePrompts": [
-        "A polling station entrance with a large 'VOTE' banner, and official-looking federal agents in tactical gear standing at either side of the door, voters in a long line looking uncertain",
-        "A courtroom with a ballot box as exhibit A on the evidence table, surrounded by lawyers in suits pointing at it",
-        "A clipboard labeled 'MIDTERM ELECTION SECURITY PLAN' with checkboxes, one reading 'armed agents at polls' with a question mark next to it"
+        "A large airport terminal entrance sign being replaced with an ornate new sign reading 'Dolly Parton International Airport', workers on ladders installing it while travelers watch with phones raised",
+        "A government meeting room with commissioners seated at a long table, every placard showing a checkmark or 'YES' vote, a portrait of Dolly Parton on a projection screen at the front",
+        "A giant airport runway seen from above at night, with the terminal buildings arranged so the lights spell out a guitar shape, Nashville skyline in the background"
       ],
       "captions": [
-        "Nothing discourages voter fraud quite like making everyone too scared to go inside.",
-        "They haven't deployed anyone yet. The lawsuit is preemptive. That tells you everything about how obvious the plan was.",
-        "The polling place experience: show up, see a federal agent, remember you had something to do at home.",
-        "ICE at the ballot box. The founding fathers had a lot of opinions — this wasn't one they thought they needed to write down.",
-        "Voter suppression used to at least try to be subtle. This is apparently a different era."
+        "Every other American airport is named after a dead politician. Nashville said — why not the person actually bringing in the money?",
+        "The vote was unanimous. A government body in 2026 agreed on something unanimously. Dolly did what three decades of bipartisan negotiations couldn't.",
+        "She already turned down a statue of herself. The state responded by naming an entire airport after her. Dolly can't catch a break.",
+        "Worth $1.8 billion a year to Tennessee and she still can't get them to stop making a fuss. Most relatable billionaire in America.",
+        "The 300th anniversary of Washington's birth gets a 30-foot Colossus. Dolly Parton gets an international airport. Tennessee did the math differently."
       ],
       "captionsJa": [
-        "投票所に来た人を怖がらせれば、不正投票は確かに減る。有権者ごと減るだけだが。",
-        "まだ誰も配備されていない。訴訟は予防的なもの。つまり「やるつもりだったんだろ」と全員が確信していた、ということ。",
-        "投票所体験：到着、連邦捜査官と目が合う、急に用事を思い出して帰る。",
-        "投票箱のそばにICE。建国の父たちは色々書き残したが、「これは書かなくていいだろう」と思っていたらしい。",
-        "投票妨害って昔はもう少し隠す気があったんですよ。時代が変わりましたね。"
+        "アメリカの空港って大体、亡くなった政治家の名前じゃないですか。テネシー州は「実際に金を稼いでる人にしよう」って。",
+        "全会一致。2026年の議会が全員一致で決めた。ドリーがやってのけた、30年の超党派交渉でも無理だったやつを。",
+        "本人は自分の銅像を断ってたんですよ。州の回答が「じゃあ空港で」。ドリー、なんも得してない。",
+        "年間18億ドルをテネシーに運んでくる人、なのに州からのプレッシャーが止まらない。アメリカで一番共感できる富豪。",
+        "ワシントンの生誕300年には30フィートのコロッサス。ドリー・パートンには国際空港。テネシーの計算式が違う。"
       ],
-      "newsEn": "A coalition of advocacy groups and a Democratic-led city filed a preemptive lawsuit to block the Trump administration from deploying armed ICE agents to polling sites ahead of the midterm elections. The groups argue the deployment would intimidate voters and violate federal election law.",
+      "newsEn": "The Nashville airport board of commissioners voted unanimously to rename the city's main airport after country music legend Dolly Parton. The city's mayor and Tennessee's governor had both backed the name change the previous month. Parton is estimated to generate approximately $1.8 billion annually for Tennessee's economy.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. lectures other countries on free and fair elections. It's now in court arguing over whether armed immigration enforcers belong at the ballot box.",
-          "absurdity": "Nothing says 'your vote matters' like seeing a federal agent with a badge waiting at the door when you get there.",
-          "outside": "International election monitors typically flag this kind of thing. In 2026, American advocacy groups are doing it instead, with lawyers."
+          "contradiction": "American airports are traditionally named after presidents, senators, or war heroes. Nashville just named theirs after someone who declined a Presidential Medal of Freedom twice, because she felt she hadn't earned it. She may be the most qualified person ever given an airport.",
+          "absurdity": "The vote was unanimous. In 2026. A government body that agrees on absolutely nothing managed to agree on Dolly Parton without a single dissent. That tells you something about her — or about how terrified politicians are of being the one person who voted against Dolly.",
+          "outside": "From outside the US, Dolly Parton has been funding children's literacy, refusing statues of herself, and now has an airport. Meanwhile actual politicians are fighting over whether to put a 30-foot statue of George Washington somewhere."
         },
         {
-          "contradiction": "ICE's mandate is immigration enforcement. Polling sites are where citizens vote. The overlap is the entire point of the lawsuit.",
-          "absurdity": "They filed a preemptive lawsuit. Not because it happened — because it might. That's how confident everyone is that it would.",
-          "outside": "Other democracies post poll workers at voting sites. The U.S. is debating a different kind of uniform entirely."
+          "contradiction": "The economic argument for naming the airport after Parton is essentially: she's worth $1.8 billion a year to us. American airports are named after presidents. Nashville just admitted the singer makes more economic sense than any of them.",
+          "absurdity": "Parton famously asked Tennessee not to build a statue of her while she was still alive. The state responded by naming an entire airport after her. She can't win.",
+          "outside": "Japan names its infrastructure after geography and function. The US names things after politicians and military figures. Tennessee just skipped both categories and went straight to 'who actually brings in the most tourists.'"
         }
       ],
       "imageSeed": 3
@@ -155,47 +155,47 @@ window.DAILY_DATA = {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Oracle Promises Renewables for AI Data Center That Will Keep Running on Gas",
-        "source": "Ars Technica",
-        "date": "2026-09-12",
-        "url": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
-        "summary": "オラクルがスターゲートAIデータセンターへの反対意見をなだめるために再生可能エネルギーへのコミットメントを約束したが、実際にはデータセンターはガスを使い続けるという。"
+        "headline": "Trump Asks Smithsonian to Install 30-Foot 'Colossus' George Washington Statue — Until 2032",
+        "source": "The Guardian US",
+        "date": "2026-09-13",
+        "url": "https://www.theguardian.com/us-news/2026/sep/12/trump-smithsonian-george-washington-statue-exhibit",
+        "summary": "トランプ大統領がスミソニアン協会に対し、アメリカ歴史博物館の外にジョージ・ワシントンの30フィートの「コロッサス像」とその功績を称える特別展示を設置するよう要請した。展示は2032年まで存続させるという。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「再エネに取り組みます」と言いながら、ガスは使い続ける——約束の内容と実態が完全に別の話になってるんですよ。",
-        "<b>滑稽さ:</b> 反対住民を「再エネ宣言」でなだめておいてガスで動かす。PRの技術の方がAIより進化してる気がする。",
-        "<b>日本・海外から見ると:</b> 「AIで地球を救う」と言っていた会社が、その同じAIを動かすためにガスを燃やしながら再エネを「検討中」です。"
+        "<b>矛盾:</b> スミソニアンは独立した教育機関なんですが、大統領が「ここに何フィートの像を置け」って具体的なサイズを指定して要請してくるのはなかなかの展開ですよ。",
+        "<b>滑稽さ:</b> 「コロッサス」って、古代の巨像から取った言葉で「圧倒的に巨大なもの」って意味なんですよね。ワシントンの像に名前まで付けてリクエストしてきた。30フィートって約9メートル。\"普通の大きな像\"じゃなくて\"コロッサス\"。",
+        "<b>日本・海外から見ると:</b> 日本では文化施設への政治介入は批判されるんですが、「しかも2032年まで」って期限指定が付いているのが独特すぎる。何かの選挙と被ってたりしないんですかね。"
       ],
       "imagePrompts": [
-        "A massive data center building with solar panel logos painted on the walls, thick smoke stacks at the back actively running, a 'GOING GREEN' banner across the entrance",
-        "A corporate press conference podium with a slideshow showing wind turbines, while through the window behind the speaker a gas-powered generator is visible",
-        "A large facility blueprint with one corner labeled 'RENEWABLE ENERGY (planned)' and the rest labeled 'GAS' in bold"
+        "An architect's blueprint spread on a desk showing a massive statue labeled 'COLOSSUS' with measurement arrows indicating 30 feet, next to a small sketch of a museum building, a presidential seal stamp in the corner",
+        "A museum curator in a hard hat standing in front of the National Museum of American History, looking up at a tape measure being extended vertically, a large empty stone plinth beside them",
+        "A formal government memo on White House letterhead reading 'RE: Colossus Statue Request' with dimensions and dates highlighted, a rubber stamp marked 'URGENT' pressed across it"
       ],
       "captions": [
-        "They pledged renewables. The gas stays. The pledge is the renewable part — they'll reuse it next year.",
-        "Oracle told opponents: we hear you, we see you, and we will continue to burn gas while nodding in your direction.",
-        "The data center runs on gas. The PR campaign runs on renewables. One of them is working as intended.",
-        "In 2026, promising renewable energy without actually using renewable energy is called a 'commitment.'",
-        "OpenAI and Oracle. Combined market cap in the trillions. Told local residents: don't worry, we thought about solar once."
+        "Trump asked the Smithsonian for a 30-foot statue called 'the Colossus.' Most presidents ask for a library. Just saying.",
+        "It's got a name, a height, and an expiration date. That's not a cultural request — that's a production brief.",
+        "George Washington turned down being king. His Colossus, per the request, is nine meters tall and named by a sitting president. Funny how that works.",
+        "The exhibit runs until 2032, which is — let me check — right after the next election. Purely coincidental, I'm sure.",
+        "This is at least the second time Trump has tried to curate the Smithsonian. At some point the museum is going to need a second president."
       ],
       "captionsJa": [
-        "再エネを約束した。ガスは残る。毎年使い回せるから、約束の方が再エネみたいなもの。",
-        "反対派にオラクルは言った。「聞こえてますよ、見えてますよ、ガスを燃やしながらうなずいています」と。",
-        "データセンターはガスで動く。PRキャンペーンは再エネで動く。どちらかは計画通りに機能している。",
-        "2026年、再エネを実際に使わずに「再エネにコミット」と言うことを「約束」と呼ぶ。",
-        "OpenAIとオラクル。合わせて兆ドル規模の企業。地元住民には「一回、太陽光について考えたことがある」と伝えた。"
+        "トランプ大統領がスミソニアンに「30フィートのコロッサス像」を要請した。ほかの大統領は図書館を建てるんですが。",
+        "名前あり、高さあり、終了日あり。これはもはや文化的要請じゃなくてプロダクションブリーフ。",
+        "ワシントンは王になることを断った人ですが、彼の「コロッサス」は9メートルで大統領が命名中。歴史は面白いですね。",
+        "展示が2032年まで続くということは——ちょっと確認すると——次の選挙の直後まで。完全に偶然だと思います。",
+        "スミソニアンの展示内容に介入しようとしたのはこれで少なくとも2回目。そろそろ博物館に「第2の大統領」枠が必要かも。"
       ],
-      "newsEn": "Oracle pledged a push toward renewable energy in response to community opposition to its Stargate data center project, developed in partnership with OpenAI. However, the renewables commitment will not change the facility's actual reliance on natural gas for power.",
+      "newsEn": "President Trump requested that the Smithsonian Institution install a 30-foot 'Colossus statue' of George Washington outside the National Museum of American History, along with a special exhibit honoring Washington. Trump specified the exhibit would remain in place until 2032, marking the 300th anniversary of Washington's birth. This is not the first time Trump has attempted to influence what the Smithsonian displays.",
       "ironyEn": [
         {
-          "contradiction": "Oracle announced a renewables push to calm opposition to a data center that will continue to run on gas. The announcement is the gesture. The gas is the plan.",
-          "absurdity": "They're promising clean energy for a facility that will use dirty energy. It's a press release you can't plug in.",
-          "outside": "Tech companies keep saying AI will solve climate change. It's currently being powered by the thing causing climate change."
+          "contradiction": "The Smithsonian exists to preserve and communicate knowledge independently of political pressure. Trump's request — specific statue name, specific height, specific end date — is about as far from 'independent' as you can get while still technically making a request.",
+          "absurdity": "He named the statue. He didn't say 'a large Washington statue.' He said 'Colossus.' Thirty feet tall. With a specific expiration date of 2032. There's a level of production design going into this government art direction request.",
+          "outside": "Most countries keep political leaders out of museum curation. The US president is out here writing statue specs — height, name, duration — for a publicly funded educational institution. It's less a request, more a set list."
         },
         {
-          "contradiction": "The community objected to the data center's environmental impact. Oracle's response was a commitment that doesn't change the environmental impact.",
-          "absurdity": "A renewables pledge that changes nothing about the actual energy source — that's not green energy, that's green marketing.",
-          "outside": "In Europe, regulators would ask for specifics. In the U.S., a press release with the word 'renewables' in it is apparently sufficient for a while."
+          "contradiction": "George Washington famously refused to become a king. The monument being proposed for him is named 'Colossus' and stands 30 feet tall inside a national museum, by presidential request. Washington would probably have a lot to say about that.",
+          "absurdity": "The exhibit runs 'until 2032' — a completely arbitrary deadline that happens to fall after the next presidential election cycle. Coincidence, presumably.",
+          "outside": "Foreign observers watching American democracy debates might note that the current debate at the Smithsonian isn't about historical accuracy or collection policy — it's about whether a 30-foot statue fits through the front door."
         }
       ],
       "imageSeed": 4
@@ -204,144 +204,144 @@ window.DAILY_DATA = {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Nashville Airport Moves to Rename Itself After Dolly Parton — Vote Was 6-0",
-        "source": "CBS News US",
-        "date": "2026-09-12",
-        "url": "https://www.cbsnews.com/news/nashville-airport-to-be-renamed-dolly-parton-after-unanimous-vote/",
-        "summary": "ナッシュビルのメトロ空港局委員会が、ナッシュビル国際空港の名称変更プロセスを開始することを全会一致（6対0）で可決した。最終的な新名称はまだ決定していないが、ドリー・パートンの名を冠することが有力視されている。"
+        "headline": "LG Says Its TVs Aren't Spying on You — Here's the Statement It Prepared for You",
+        "source": "The Verge",
+        "date": "2026-09-13",
+        "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
+        "summary": "セキュリティ研究者らがLGのスマートテレビによるユーザーデータのログ収集・送信を詳細に報告したことを受け、LGが反論声明を発表。「一部メディアの報道がユーザーに誤解を与えた可能性がある」としている。"
       },
       "commentary": [
-        "<b>矛盾:</b> アメリカの空港って、たいてい政治家か軍人の名前がついてるじゃないですか。ドリー・パートンはその人たちより全員から好かれているという現実がある。",
-        "<b>滑稽さ:</b> 6対0の全会一致。共和党も民主党も関係なく、「ドリーには反対できない」という暗黙のルールがある。",
-        "<b>日本・海外から見ると:</b> ナッシュビルの空港がドリー・パートンの名前になったら、「Jolene」が頭から離れない旅になる。着陸したとき流してほしい。"
+        "<b>矛盾:</b> データを収集していること自体は否定していないんですよ。「誤解を招いた可能性がある」って言ってるだけで。否定じゃなくてフレーミングの訂正を要求してる。",
+        "<b>滑稽さ:</b> 「一部メディアの報道が誤解を生んだ」。問題は報道じゃなくてテレビがやってることなんですが、LG的には報道が犯人らしい。テレビが見てたんじゃなくて記事が悪かった。",
+        "<b>日本・海外から見ると:</b> 日本の家電メーカーがこれをやったら炎上どころじゃないんですが、アメリカでは「利用規約に書いてあります」で一定数が納得してしまうカルチャーがある。その利用規約、誰も読んでないけど。"
       ],
       "imagePrompts": [
-        "An airport terminal with a large sign reading 'DOLLY PARTON INTERNATIONAL' above the departure gates, rhinestone decorations on the columns, a tour bus parked at arrivals",
-        "Six identical raised hands around a boardroom table with a nameplate reading 'METRO NASHVILLE AIRPORT AUTHORITY,' a framed photo of Dolly Parton visible on the wall",
-        "An airport runway at dusk with a marquee-style sign glowing in neon: 'Welcome to Nashville — population: Dolly fans'"
+        "A large flat-screen TV in a living room with a tiny camera lens visible in the bezel, a corporate press release pinned to the screen reading 'THIS IS NOT WHAT IT LOOKS LIKE'",
+        "A split image: on the left, a person watching TV from a couch; on the right, a server room full of blinking hard drives with a small LG logo on the door",
+        "A corporate podium with an LG logo, behind it a spokesperson gesturing to a slide that reads 'MISUNDERSTANDING', while in the background a TV screen displays data readouts of user activity"
       ],
       "captions": [
-        "Six to zero. In Tennessee politics, that kind of consensus usually means the other option was much, much worse.",
-        "They voted to start the process of maybe renaming it. The most popular decision in Nashville history — still needs a committee.",
-        "Dolly Parton once turned down a statue of herself. The airport board said: understood, how about a whole airport?",
-        "JFK, O'Hare, LAX — and now, potentially, an airport named after a woman whose music makes people cry at baggage claim.",
-        "Imagine landing in Nashville and the PA system plays 'I Will Always Love You.' That's not a joke, that's a proposal."
+        "LG says media coverage 'may have contributed to' misunderstandings. Not the data collection — the articles about the data collection. That's the problem.",
+        "They didn't say the TV isn't watching you. They said you might be misunderstanding why it's watching you. There's a difference, apparently.",
+        "Multiple independent researchers found the same thing. LG's response: 'some coverage.' That word 'some' is doing a lot of heavy lifting.",
+        "You bought the TV. The TV also has a job — it's just not working for you.",
+        "In Europe this triggers a GDPR investigation. In America it triggers a press release. Different regulatory vibes."
       ],
       "captionsJa": [
-        "6対0。テネシー州の政治でここまで一致するのは、普通「もう一方の選択肢がかなりひどかった」ときだけです。",
-        "「名称変更プロセスを始めることを決議した」。ナッシュビル史上最も支持された決定が、それでも委員会を通っている。",
-        "ドリー・パートンは自分の銅像を断ったことがある。空港委員会は言った「わかった、じゃあ空港にしよう」と。",
-        "JFK、オヘア、LAX——そして今後、荷物受取所で泣かせる歌を持つ女性の名前の空港が加わるかもしれない。",
-        "ナッシュビルに着陸して「I Will Always Love You」が流れたら——これはジョークじゃなくて提案です。"
+        "LGは「一部メディアの報道が誤解を生んだ可能性がある」と言った。データ収集じゃなくて、報道が問題らしい。",
+        "テレビがあなたを見てないとは言ってないんですよ。見ている理由をあなたが誤解しているかもしれない、と言ってる。違いがあるらしい。",
+        "複数の独立した研究者が同じ結果を出した。LGの回答は「一部の報道が」。この「一部」が頑張りすぎてる。",
+        "あなたがテレビを買いましたよね。そのテレビにも仕事があります。あなたのための仕事じゃないけど。",
+        "ヨーロッパだとGDPR調査が始まる話。アメリカだとプレスリリースが出る。規制の温度差、すごい。"
       ],
-      "newsEn": "The Metro Nashville Airport Authority board voted 6-0 to begin the formal process of renaming the Nashville International Airport. While a final name has not been officially chosen, the move is widely seen as a step toward naming the airport after country music icon Dolly Parton.",
+      "newsEn": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers published findings detailing how LG smart TVs log and upload user data. LG has now responded, claiming that 'some recent media coverage may have contributed to' misunderstandings among its customers. The company did not deny that data collection occurs, but pushed back against the characterization of the practice as surveillance.",
       "ironyEn": [
         {
-          "contradiction": "American airports are usually named after presidents, senators, or generals. Nashville just voted unanimously for the woman who turned down a Presidential Medal of Freedom twice.",
-          "absurdity": "A 6-0 vote in Tennessee politics. You can't get 6-0 on what to have for lunch. Dolly Parton is apparently the one issue both parties agree on.",
-          "outside": "International travelers will land at Dolly Parton International. The terminal gift shop basically runs itself from here."
+          "contradiction": "LG's response doesn't say the data collection isn't happening. It says the media coverage of the data collection might have caused misunderstandings. The TV is logging your viewing habits — the news article about it is the problem.",
+          "absurdity": "Multiple independent researchers, two well-known tech YouTube channels, and a security audit all found the same thing. LG's response: some media coverage 'may have contributed to' confusion. May have.",
+          "outside": "In Europe, this would immediately trigger GDPR inquiries. In the US, the corporate response to a privacy scandal is apparently a press statement about how press statements are misleading."
         },
         {
-          "contradiction": "They haven't officially picked the name yet — the vote was just to start the process. The most uncontroversial airport naming in U.S. history is still being handled with extreme procedural caution.",
-          "absurdity": "The board voted unanimously to begin considering a name. In government, that's basically a standing ovation.",
-          "outside": "Other cities argue for years over whose name goes on a building. Nashville got to 6-0 and they haven't even filed the paperwork yet."
+          "contradiction": "You buy a TV to watch things. Somewhere in the last decade, the TV started watching you back — and the official response is that you misunderstood the relationship.",
+          "absurdity": "The statement was carefully worded enough that LG never actually denied the surveillance. It denied the framing. That's a lot of work to avoid saying 'we don't collect your data.'",
+          "outside": "From abroad: Americans are paying full retail price for a screen that then monetizes their attention on top of it. Twice-sold. The TV is the product, and so are you — LG just asked you not to use that word."
         }
       ],
       "imageSeed": 5
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「言っていることと、やっていることが、別の話になっている」。弁護士、業者、政府、IT企業、空港委員会——全員が自分の看板を裏切っている日。",
-    "titleEn": "Five People Who Said One Thing and Did Another",
-    "subtitleEn": "Today's America, where the pledge is always the renewable part.",
-    "titleJa": "「やってる感」だけが再生可能エネルギーだった日のアメリカ5本",
+    "thread": "今日の5本を貫く糸：「やってることとやってないことの区別が、言葉だけの話になっている」——AIを遅くすると言いながら走り、監視してないと言いながら録り、法を守ると言いながら偽造する。",
+    "titleEn": "Everyone's Slowing Down, Stopping, and Not Watching You",
+    "subtitleEn": "Five stories about people doing exactly what they said they weren't doing.",
+    "titleJa": "「やっていません」と言いながらやっている5本",
     "titleAltJa": [
-      "1,470万ドルで壊して、武装して、ガスを燃やした日——アメリカ、9月12日",
-      "『ICEが投票所にいた』という話を、2026年に裁判で止めにいっている件について"
+      "ドリー・パートンだけが今日、約束を守った",
+      "AIを遅くすると宣言した会社が、今日も世界一速いAIを作っている話"
     ],
-    "leadJa": "AIが証人を発明した。業者が修理したプールを壊した。「再エネ宣言」してガスを燃やし続けた。\n\nで、唯一まともなニュースが、ドリー・パートンの名前を空港につける話でした。",
-    "introEn": "Here's today in one sentence: everyone announced something, and then did something else.\n\nA lawyer filed fake witnesses. A contractor took $14.7 million and blamed the plan. Oracle pledged renewables — the gas stays. Armed ICE agents, polling sites, midterms — someone filed a lawsuit before anything even happened, which should tell you how obvious the plan was.\n\nFive stories. Same gap between the label and the contents.\n\nHere's your forecast: if you've been quietly not-doing the thing you said you'd do — you're in good company today. Historically speaking, the ones who just showed up and did the actual work tend to get airports named after them. Maybe don't overthink it.",
-    "introJa": "AIが捏造した証人が殺人事件の法廷に提出された。\n\nこれが今日の1本目です。最初からそういう日でした。\n\nあとは、1,470万ドルで修理を請け負ってプールを壊した業者が「計画に欠陥があった」と認め、投票所に武装した移民取締官を配備しようとする政権に先手で差し止め訴訟が起き、オラクルが「再エネに取り組みます」と言いながらガスを燃やし続けている。\n\n全部、看板と中身が別の話になってる。弁護士も、業者も、政府も、IT企業も。\n\n5本目だけ違う。ドリー・パートンに空港の名前をつけようとしている話で、6対0の全会一致でした。政治的対立がどこかに行っている。\n\n今日の占いです。「なんか言ったことと違うことになってる」と感じているとしたら、それはアメリカ全体の話だから気にしなくていい。黙って地道にやってた人が、最終的に空港になる。たぶんね。",
-    "quipEn": "Today's lesson: the pledge is always the renewable part — they'll reuse it next year.",
-    "quipJa": "言ったことと、やったことが違う——それ、今日だけの話じゃないんですよね。",
+    "leadJa": "「やっていません」「誤解です」「遅くします」——今日の5本、全部そう始まる。\n\nで、実際に何をやっていたかというと、全部やっていた。",
+    "introEn": "I read five stories this morning. Four of them are about someone saying one thing and doing another. The fifth is about Dolly Parton, who just keeps being Dolly Parton — and somehow that's the most radical act in today's news.\n\nAn AI company says slow down. A TV company says we're not watching. A president tells a museum what to do. A detention officer says he needed a little extra time.\n\nHere's your forecast: if someone told you today that your work doesn't look like what it actually is — they might have a point, but probably not the point they think. The gap between the label and the thing is very on-brand for a Sunday. You're fine. Dolly would agree.",
+    "introJa": "「誤解を招いた可能性があります」「ペースを落とすべきだと思います」「コロッサスと呼んでください」——今日の5本、全部この感じです。\n\n否定じゃない。フレーミングの訂正。\n\nAI会社のCEOが「もっとゆっくり」と言いながら全速力で走り、スマートテレビが「監視じゃない」と言いながらデータを送り続け、拘置所の職員が判事の署名を20回手書きした。大統領はスミソニアンに30フィートの像を「コロッサス」という名前で発注した。\n\n今日唯一まっすぐだったのは、ドリー・パートン。何も言ってないのに空港になった。\n\n今日の占いです。「うまく説明できない」と思っていることがあるなら、説明の問題じゃないかもしれない。今日のニュースの人たちは全員、説明はうまかった。それでも起訴されたり炎上したりしている。黙って年間18億ドル動かす側でいい。少なくとも今日は。",
+    "quipEn": "Today's lesson: denying the thing and denying that the thing is the thing are two very different legal strategies. Only one of them actually works.",
+    "quipJa": "「やってない」と「やってることの意味が違う」は、別の話です。今日の5本、全部後者でした。",
     "notesEn": [
-      "A New Mexico lawyer submitted AI-hallucinated witnesses in a murder appeal. His client was on trial for making things up. He decided to join him. The fine was $5,000, which is considerably less than the billable hours for inventing fake people.",
-      "The company that got a $14.7 million no-bid contract to fix the Lincoln Memorial reflecting pool just admitted the liner peeled because of flaws in their own plan. Trump had called it vandalism. The contractor said: actually, that was us. The $14.7 million remains with the contractor.",
-      "Advocacy groups filed a preemptive lawsuit to keep armed ICE agents away from polling sites during the midterms. Preemptive. They didn't wait to see if it would happen. They already knew it would happen. That detail is doing a lot of work.",
-      "Oracle pledged to push toward renewable energy for its Stargate AI data center. The data center will continue running on natural gas. The pledge is renewable. The gas is also renewable — they'll burn more of it next year.",
-      "Nashville's airport authority voted 6-0 to start the process of maybe renaming the airport after Dolly Parton. Six to zero. In a state where people can't agree on anything. Dolly Parton is what happens when someone is simply too good at their job to argue with."
+      "Dario Amodei published a long essay calling for AI development to slow down. He is the CEO of Anthropic, which builds some of the most advanced AI in the world. The essay is very thoughtful. The model Anthropic shipped last week did not read it.",
+      "A detention officer in North Carolina is charged with forging 20 magistrate signatures to buy time to hand people over to ICE. The system designed to prevent exactly this apparently required a pen and nobody checking.",
+      "Nashville just renamed its airport after Dolly Parton. The vote was unanimous. She generates $1.8 billion a year for Tennessee. American airports are usually named after dead politicians. Nashville did the math.",
+      "Trump asked the Smithsonian to install a 30-foot statue of George Washington called 'the Colossus' — and specified it should stay up until 2032. It has a name, a height, and an expiration date. That's not a cultural request. That's a production brief.",
+      "LG responded to reports that its smart TVs log and upload user data. The company did not deny that the data collection happens. It said 'some recent media coverage may have contributed to misunderstandings.' The TVs are fine. The articles were the problem."
     ],
     "xJa": [
-      "殺人事件の控訴審で「AIが捏造した証人」を提出した弁護士に5,000ドルの罰金。依頼人が「やってない」と言っているのに弁護士が「証人を作った」——助けに来た人が火をつけているやつです。",
-      "1,470万ドルの随意契約でリンカーン記念館のプールを修理した業者が「計画に欠陥があった」と認めた。トランプは「破壊行為」と言っていた。壊したのは業者の計画だった。1,470万ドルは返ってこない。",
-      "武装ICE職員を投票所に配備する計画を、市民団体が「事前に」差し止め訴訟で止めにいった。まだ何も起きていないのに訴訟を起こした——つまり、何が起きるか全員わかっていた、ということです。",
-      "オラクル「再エネに取り組みます」→データセンターはガスで動き続ける。約束と実態が完全に別の話。PRだけが再生可能エネルギーで、毎年リサイクルされています。",
-      "ナッシュビル国際空港の名称をドリー・パートンにする投票、6対0の全会一致。共和党も民主党も関係なく満場一致。アメリカで全員が賛成できることがあるとしたら、ドリー・パートンだった。"
+      "アンソロピックCEOが「AIのペースを落とすべき」というエッセイを発表。公開されたのは社内研究者が安全問題で退職して騒ぎになった数日後。ニュースサイクルの使い方、もう少し練れたと思う。",
+      "ノースカロライナ州の元拘置所職員、判事の署名を20回偽造してICEへの引き渡し時間を確保した疑いで起訴。法の番人が司法の署名を手書きで迂回していた。20回。",
+      "ナッシュビルの空港、全会一致でドリー・パートンの名前に改称。年間18億ドルの経済効果。政治家の名前の空港より、実際にお金を運んでくる人の名前にした。正直すぎる。",
+      "トランプ大統領、スミソニアンに「ジョージ・ワシントンの30フィートのコロッサス像を置いてほしい」と要請。名前・サイズ・設置期限まで指定。大統領令ではなく、かなり具体的なリクエスト。",
+      "LGのスマートテレビがユーザーデータを収集・送信していると研究者が報告→LGの反論「一部メディアの報道が誤解を招いた可能性がある」。データ収集は否定していない。報道が悪かった、らしい。"
     ],
     "raidEn": [
-      "His client was accused of making things up. He showed up with AI-invented witnesses. I genuinely cannot tell who's the defendant anymore.",
-      "No-bid contract. $14.7 million. The pool liner peeled. 'Human oversight,' they said. That phrase is doing so much heavy lifting right now.",
-      "They filed the lawsuit before the agents even showed up. That's not legal strategy — that's someone who's read the script already.",
-      "The pledge is renewable. The gas is also renewable. One of those facts is supposed to be reassuring.",
-      "Dolly Parton once turned down a statue of herself. The board said: understood, how about a whole airport. Six to zero. No debate."
+      "The essay makes a compelling case. The company's roadmap makes a different case. Both are technically public.",
+      "Twenty counts. And the system that was supposed to catch this apparently needed someone to file charges for it to become visible.",
+      "Every other airport is named after someone who can't draw a crowd anymore. Nashville did the sensible thing.",
+      "He didn't ask for a statue. He asked for a Colossus. With a deadline. I respect the specificity.",
+      "They confirmed the data leaves your TV. They disputed the word for it. That's a choice."
     ],
     "raidJa": [
-      "依頼人が「やっていない」と主張している裁判で、弁護士がAIに証人を作らせて提出したというのは、本当にそういうことが起きたんですね。読んで二度見しました。",
-      "随意契約で1,470万ドル受け取って「計画に欠陥があった」と認めた、という流れをこの記事でわかりやすく整理していただいてありがとうございます。リフレクティングプール、いろいろ映し出してますね。",
-      "まだ配備されていないのに差し止め訴訟、という「先手」の話、これが一番怖いんですよね。起きる前から全員わかってた、ということですから。",
-      "「再エネに取り組みます」「ガスは使い続けます」が同じ発表の中に入っているの、本当によく読まないと気づかないですよね。丁寧に拾っていただいて助かりました。",
-      "6対0の全会一致、というのがこの話の全部を説明している気がします。ドリー・パートンだけが全員の答えになれる、という。"
+      "エッセイの主張と自社の開発ロードマップが、静かにすれ違っているのが今日一番読み応えがありました。よくまとめてくださっています。",
+      "20件という数字が重い記事ですね。制度の監視機能がどこで止まっていたのか、読みながらずっと考えていました。",
+      "ドリー・パートンの経済効果を理由に全会一致って、アメリカの政治がいちばんわかりやすく動いた瞬間かもしれないと思いました。",
+      "「コロッサス」に「2032年まで」の期限がついてるあたり、文化的要請というより仕様書という感じで、そこが一番引っかかりました。",
+      "「誤解を招いた可能性がある」という一文の重量、記事を読んでからずっと気になっています。よい切り口だと思いました。"
     ],
     "riffEn": [
-      "The premise here is almost too clean: a lawyer, trying to prove someone is innocent of making things up, submitted fake witnesses he made up with AI. He didn't verify them. He just filed them. The court fined him $5,000 — which, for context, is less than what a paralegal charges to actually read a document. His client was accused of inventing things. The lawyer showed up and said: I can do that too.",
-      "Atlantic Industrial Coatings received a $14.7 million no-bid contract — meaning no one else was asked, no one else could compete — to renovate the Lincoln Memorial reflecting pool. The new liner peeled. The company's explanation: human oversight and flaws in the plan. Trump had said it was vandalism. The contractor said it was the plan. Both of these things were announced about the same pool. The $14.7 million was announced about neither.",
-      "Advocacy groups filed a lawsuit to block armed ICE agents from being deployed to polling sites during the midterms. Filed preemptively. Nothing had been deployed yet. They read the plan, looked at the calendar, and decided not to wait. That gap — between 'it hasn't happened' and 'we already know it will' — is where the actual story lives. The lawsuit is the evidence.",
-      "Oracle pledged to move toward renewables for the Stargate data center. The data center will keep running on natural gas. These two sentences appeared in the same announcement. The pledge addresses community opposition. The gas addresses the data center. They are solving different problems, for different audiences, with different fuels. The pledge is the part that burns clean.",
-      "Nashville's airport board voted 6-0 to begin the process of potentially naming the airport after Dolly Parton. Six to zero. In Tennessee. In 2026. In the middle of everything. Parton once declined a statue in her honor. The board apparently decided a whole airport was the appropriately scaled gesture. Nobody voted no. Nobody even thought about it."
+      "Dario Amodei wants to slow down AI. He runs one of the fastest AI labs on earth. He published a long, careful essay making this case — three days after one of his own researchers quit over safety concerns and went public about it. The essay calls for third-party access to Anthropic's models and a 'three-step plan to pace the frontier.' Elon Musk and Sam Altman both said they agreed. Three AI billionaires in a room, nodding at a document about going slower. The frontier remains unpaced.",
+      "Michael Diehl worked as a detention officer in Guilford County, North Carolina. He wanted to hand people over to ICE. The problem was the legal clock — people had to be released before ICE could take custody. His solution was to forge the signatures of magistrates. Twenty times. Not once, in a panic. Twenty separate documents, twenty separate signatures, twenty decisions that the judicial system would not notice or would not stop him. He has now been charged with twenty felony counts. The system that was supposed to prevent this didn't need a sophisticated bypass. It needed a pen.",
+      "Nashville's airport is now named after Dolly Parton. The vote was unanimous — the board, the mayor, the governor, all of them. American airports are almost exclusively named after dead presidents and long-retired politicians. Nashville's argument was simpler: she brings in $1.8 billion a year. The city didn't honor her. It invoiced her. She already turned down a statue of herself, by the way. The state's response was to name an airport after her instead. Dolly can't catch a break.",
+      "Trump asked the Smithsonian to put a 30-foot statue of George Washington outside the National Museum of American History. He named it: the Colossus. He specified the height. He specified the end date — 2032. That's the 300th anniversary of Washington's birth, and also, not coincidentally, an election year. Most presidents request a library. This one submitted a production brief with dimensions. The Smithsonian, for what it's worth, is an independent institution.",
+      "Independent security researchers published detailed findings on how LG smart TVs log and upload user data. LG responded. They did not say the data collection doesn't happen. They said 'some recent media coverage may have contributed to misunderstandings among our valued customers.' The TV is watching. The articles about the TV watching are the misunderstanding. LG would like you to feel clear on that distinction."
     ],
     "riffJa": [
-      "弁護士というのは、依頼人のために嘘を暴く職業なんですよ。依頼人が「やっていない」と主張しているのに、証拠が足りないから、AIに証人を作らせて裁判所に提出した——これ、依頼人と同じことを弁護士がやっている。\n\n罰金は5,000ドル。弁護士費用より安い可能性があります。",
-      "随意契約というのは、競争入札なしで特定の会社に仕事を発注することです。1,470万ドル。誰とも競わずに受け取った。で、新しく設置したプールのライナーが剥がれた。\n\n会社の説明は「人的ミスと計画の欠陥」。トランプ大統領は「破壊行為だ」と言っていた。壊したのは計画だった。リンカーンは何も言っていない。",
-      "まだ何も起きていないのに訴訟を起こした、というのが今日一番怖い話だと思っています。\n\n「武装ICEが投票所に来るかもしれない」ではなく「来ることはわかっているので先に止めに行く」という判断をしている。2026年の中間選挙まで、そういう空気で行くんですね。",
-      "オラクルが言ったことをそのまま書きます。「再エネに取り組みます」「データセンターはガスで動かし続けます」。\n\n両方、同じ発表の中に入っています。反対住民には前者を届けて、データセンターには後者を届けた。PRだけが再生可能エネルギーで、毎年リサイクルされます。",
-      "ドリー・パートンはかつて、自分の銅像の建立を断りました。「そういう人になりたくない」と言って。\n\nナッシュビルの空港委員会は6対0で「では空港にします」という方向に進んだ。満場一致。共和党も民主党も関係なく。\n\n今日のアメリカで6対0が出る場所、ここだけでした。"
+      "ダリオ・アモデイCEOがエッセイを書きました。「AIのペースを落とすべき」という内容で、自社モデルを第三者機関に開放する「3ステップ計画」も発表した。読み応えがあります。\n\nで、このエッセイが公開されたのが、社内の研究者が安全への懸念で退職して騒ぎになった数日後。イーロン・マスクとサム・アルトマンが「賛成」と言っている。世界で最も速いAIを作り続けている3社のトップが、速度を落とす文書に揃ってうなずいた。\n\nペースは落ちていない。",
+      "ノースカロライナ州グイルフォード郡の元拘置所職員マイケル・ディールが、重罪20件で起訴されました。ICEへの引き渡し前に法的に釈放しなければならない時間的な問題があった。彼の解決策は、治安判事の署名を偽造すること。\n\n20回。パニックで一度やらかしたんじゃない。20件の書類に、20回、手書きで。誰も止めなかった。そのシステムが、今回の起訴でようやく表に出てきた。",
+      "ナッシュビルの空港が、カントリー音楽の大スターであるドリー・パートンの名前に改称されました。全会一致。市長も知事も賛成。\n\nアメリカの空港って、基本的に死んだ政治家の名前なんですよ。ナッシュビルの理屈はシンプルで、「年間18億ドル持ってきてる人でしょ」という経済合理性。あと、ドリーは以前に自分の銅像を断っているんです。州はその代わりに空港にした。断っても断っても名誉を与えてくる。",
+      "トランプ大統領がスミソニアン協会に要請しました。ジョージ・ワシントンの「コロッサス像」を博物館の外に設置してほしい、と。\n\n「コロッサス」というのは、古代の巨像から来た「圧倒的に巨大なもの」という意味の言葉です。高さ30フィート（約9メートル）。設置期限は2032年まで——ワシントンの生誕300年の節目であり、大統領選の年でもあります。名前あり、サイズあり、期限あり。これは文化的な要請ではなく、かなり詳細な発注書です。スミソニアンは独立機関。",
+      "複数のセキュリティ研究者が、LGのスマートテレビがユーザーデータを記録・送信していると詳細に報告しました。LGが反論声明を出した。\n\nデータを収集していること自体は、否定していません。「一部メディアの報道がユーザーに誤解を与えた可能性がある」と言っている。テレビが見ているんじゃなくて、記事が問題だった、という立場。否定じゃなくて、「誤解」という言葉の再定義を求めている。「一部」って便利な言葉ですね。"
     ],
     "asideEn": [
-      "Five thousand dollars. For inventing witnesses.",
-      "No bid. No liner. No refund.",
-      "They hadn't deployed anyone yet. Just so we're clear.",
-      "The pledge is renewable. The gas is not the point.",
-      "Six to zero. Nobody even hesitated."
+      "The deceleration memo ships Monday.",
+      "This one isn't funny.",
+      "Unanimously. In 2026.",
+      "Nine meters. Named. Expiration date included.",
+      "The TV declined to comment."
     ],
     "asideJa": [
-      "証人を発明して、5,000ドル。",
-      "随意契約で受けて、自分で壊した。",
-      "まだ来てないのに、もう訴訟。",
-      "再エネ宣言。ガスは燃え続ける。",
-      "6対0。ドリーには誰も逆らえない。"
+      "減速宣言、月曜発送。",
+      "これは、笑えない。",
+      "全会一致。2026年に。",
+      "名前付き、期限付き、9メートル。",
+      "テレビはノーコメント。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Current Events",
-      "Oracle",
-      "Dolly Parton"
+      "Anthropic",
+      "Dolly Parton",
+      "LG"
     ],
-    "fullEn": "# Five People Who Said One Thing and Did Another\n\n## Today's Forecast\n\nHere's today in one sentence: everyone announced something, and then did something else.\n\nA lawyer filed fake witnesses. A contractor took $14.7 million and blamed the plan. Oracle pledged renewables — the gas stays. Armed ICE agents, polling sites, midterms — someone filed a lawsuit before anything even happened, which should tell you how obvious the plan was.\n\nFive stories. Same gap between the label and the contents.\n\nHere's your forecast: if you've been quietly not-doing the thing you said you'd do — you're in good company today. Historically speaking, the ones who just showed up and did the actual work tend to get airports named after them. Maybe don't overthink it.\n\n---\n\n## 1. Lawyer Fined $5K for Using AI to Invent Witnesses in a Murder Appeal\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)*\n\nNew Mexico's Supreme Court fined attorney Stephen Aarons $5,000 and held him in contempt after he submitted AI-hallucinated witnesses and fabricated police testimony in a murder conviction appeal. The court found that Aarons failed to verify the AI-generated content before including it in official legal filings.\n\n**Why It's Funny**\n\nThe premise here is almost too clean: a lawyer, trying to prove someone is innocent of making things up, submitted fake witnesses he made up with AI. He didn't verify them. He just filed them. The court fined him $5,000 — which, for context, is less than what a paralegal charges to actually read a document. His client was accused of inventing things. The lawyer showed up and said: I can do that too.\n\n**Say It Out Loud**\n\n> His client was accused of making things up. So he decided to even the playing field.\n\n---\n\n## 2. Company Behind Lincoln Memorial Pool Makeover Admits the Plan Had Flaws — After Taking $14.7M No-Bid Contract\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/11/reflecting-pool-repair-company-plan-flaws)*\n\nAtlantic Industrial Coatings, awarded a $14.7 million no-bid contract to renovate the Lincoln Memorial reflecting pool, has acknowledged that human oversight and flaws in its own repair plan caused the newly installed blue liner to peel. The admission contradicts President Trump's earlier claims that the damage was the result of vandalism.\n\n**Why It's Funny**\n\nAtlantic Industrial Coatings received a $14.7 million no-bid contract — meaning no one else was asked, no one else could compete — to renovate the Lincoln Memorial reflecting pool. The new liner peeled. The company's explanation: human oversight and flaws in the plan. Trump had said it was vandalism. The contractor said it was the plan. Both of these things were announced about the same pool. The $14.7 million was announced about neither.\n\n**Say It Out Loud**\n\n> They got $14.7 million, no competition, no bidding process — and the liner still peeled. The vandals must be very impressed.\n\n---\n\n## 3. Lawsuit Filed to Keep Armed ICE Agents Away from Polling Sites During Midterms\n\n*CBS News US — [source](https://www.cbsnews.com/news/lawsuit-block-ice-agents-polling-sites/)*\n\nA coalition of advocacy groups and a Democratic-led city filed a preemptive lawsuit to block the Trump administration from deploying armed ICE agents to polling sites ahead of the midterm elections. The groups argue the deployment would intimidate voters and violate federal election law.\n\n**Why It's Funny**\n\nAdvocacy groups filed a lawsuit to block armed ICE agents from being deployed to polling sites during the midterms. Filed preemptively. Nothing had been deployed yet. They read the plan, looked at the calendar, and decided not to wait. That gap — between 'it hasn't happened' and 'we already know it will' — is where the actual story lives. The lawsuit is the evidence.\n\n**Say It Out Loud**\n\n> Nothing discourages voter fraud quite like making everyone too scared to go inside.\n\n---\n\n## 4. Oracle Promises Renewables for AI Data Center That Will Keep Running on Gas\n\n*Ars Technica — [source](https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/)*\n\nOracle pledged a push toward renewable energy in response to community opposition to its Stargate data center project, developed in partnership with OpenAI. However, the renewables commitment will not change the facility's actual reliance on natural gas for power.\n\n**Why It's Funny**\n\nOracle pledged to move toward renewables for the Stargate data center. The data center will keep running on natural gas. These two sentences appeared in the same announcement. The pledge addresses community opposition. The gas addresses the data center. They are solving different problems, for different audiences, with different fuels. The pledge is the part that burns clean.\n\n**Say It Out Loud**\n\n> They pledged renewables. The gas stays. The pledge is the renewable part — they'll reuse it next year.\n\n---\n\n## 5. Nashville Airport Moves to Rename Itself After Dolly Parton — Vote Was 6-0\n\n*CBS News US — [source](https://www.cbsnews.com/news/nashville-airport-to-be-renamed-dolly-parton-after-unanimous-vote/)*\n\nThe Metro Nashville Airport Authority board voted 6-0 to begin the formal process of renaming the Nashville International Airport. While a final name has not been officially chosen, the move is widely seen as a step toward naming the airport after country music icon Dolly Parton.\n\n**Why It's Funny**\n\nNashville's airport board voted 6-0 to begin the process of potentially naming the airport after Dolly Parton. Six to zero. In Tennessee. In 2026. In the middle of everything. Parton once declined a statue in her honor. The board apparently decided a whole airport was the appropriately scaled gesture. Nobody voted no. Nobody even thought about it.\n\n**Say It Out Loud**\n\n> Six to zero. In Tennessee politics, that kind of consensus usually means the other option was much, much worse.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: the pledge is always the renewable part — they'll reuse it next year.\n",
-    "fullJa": "# 「やってる感」だけが再生可能エネルギーだった日のアメリカ5本\n\n## 今日を占うよ〜\n\nAIが捏造した証人が殺人事件の法廷に提出された。\n\nこれが今日の1本目です。最初からそういう日でした。\n\nあとは、1,470万ドルで修理を請け負ってプールを壊した業者が「計画に欠陥があった」と認め、投票所に武装した移民取締官を配備しようとする政権に先手で差し止め訴訟が起き、オラクルが「再エネに取り組みます」と言いながらガスを燃やし続けている。\n\n全部、看板と中身が別の話になってる。弁護士も、業者も、政府も、IT企業も。\n\n5本目だけ違う。ドリー・パートンに空港の名前をつけようとしている話で、6対0の全会一致でした。政治的対立がどこかに行っている。\n\n今日の占いです。「なんか言ったことと違うことになってる」と感じているとしたら、それはアメリカ全体の話だから気にしなくていい。黙って地道にやってた人が、最終的に空港になる。たぶんね。\n\n---\n\n## 1. Lawyer Fined $5K for Using AI to Invent Witnesses in a Murder Appeal\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/994207/chatgpt-new-mexico-lawyer-fined-murder-appeal)）*\n\nニューメキシコ州最高裁判所が、AIが「捏造した」証人や偽の警察証言を殺人事件の控訴審に提出した弁護士スティーブン・アーロンズに5,000ドルの罰金と法廷侮辱を言い渡した。\n\n**どこが笑える？**\n\n弁護士というのは、依頼人のために嘘を暴く職業なんですよ。依頼人が「やっていない」と主張しているのに、証拠が足りないから、AIに証人を作らせて裁判所に提出した——これ、依頼人と同じことを弁護士がやっている。\n\n罰金は5,000ドル。弁護士費用より安い可能性があります。\n\n**このニュースをジョークにするなら...**\n\n> 依頼人は「証拠を捏造した」と疑われていた。弁護士は「じゃあ俺もやってみよう」と思ったらしい。\n\n---\n\n## 2. Company Behind Lincoln Memorial Pool Makeover Admits the Plan Had Flaws — After Taking $14.7M No-Bid Contract\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/11/reflecting-pool-repair-company-plan-flaws)）*\n\nリンカーン記念館のリフレクティングプールの改修を受注した企業が、新設した青いライナーが剥がれた原因として「人的ミス」と計画上の欠陥を認めた。同社は1,470万ドルの随意契約で受注しており、トランプ大統領が「破壊行為」と主張していた損傷の原因がそもそも別にあった可能性が示された。\n\n**どこが笑える？**\n\n随意契約というのは、競争入札なしで特定の会社に仕事を発注することです。1,470万ドル。誰とも競わずに受け取った。で、新しく設置したプールのライナーが剥がれた。\n\n会社の説明は「人的ミスと計画の欠陥」。トランプ大統領は「破壊行為だ」と言っていた。壊したのは計画だった。リンカーンは何も言っていない。\n\n**このニュースをジョークにするなら...**\n\n> 1,470万ドル、競争入札なし、そしてライナーは剥がれた。破壊工作犯もここまで効率よくはやれなかったと思う。\n\n---\n\n## 3. Lawsuit Filed to Keep Armed ICE Agents Away from Polling Sites During Midterms\n\n*CBS News US（[記事](https://www.cbsnews.com/news/lawsuit-block-ice-agents-polling-sites/)）*\n\n市民団体と民主党系自治体が、トランプ政権による中間選挙の投票所への武装ICE職員の配備を事前に差し止めるよう求める訴訟を連邦裁判所に提起した。\n\n**どこが笑える？**\n\nまだ何も起きていないのに訴訟を起こした、というのが今日一番怖い話だと思っています。\n\n「武装ICEが投票所に来るかもしれない」ではなく「来ることはわかっているので先に止めに行く」という判断をしている。2026年の中間選挙まで、そういう空気で行くんですね。\n\n**このニュースをジョークにするなら...**\n\n> 投票所に来た人を怖がらせれば、不正投票は確かに減る。有権者ごと減るだけだが。\n\n---\n\n## 4. Oracle Promises Renewables for AI Data Center That Will Keep Running on Gas\n\n*Ars Technica（[記事](https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/)）*\n\nオラクルがスターゲートAIデータセンターへの反対意見をなだめるために再生可能エネルギーへのコミットメントを約束したが、実際にはデータセンターはガスを使い続けるという。\n\n**どこが笑える？**\n\nオラクルが言ったことをそのまま書きます。「再エネに取り組みます」「データセンターはガスで動かし続けます」。\n\n両方、同じ発表の中に入っています。反対住民には前者を届けて、データセンターには後者を届けた。PRだけが再生可能エネルギーで、毎年リサイクルされます。\n\n**このニュースをジョークにするなら...**\n\n> 再エネを約束した。ガスは残る。毎年使い回せるから、約束の方が再エネみたいなもの。\n\n---\n\n## 5. Nashville Airport Moves to Rename Itself After Dolly Parton — Vote Was 6-0\n\n*CBS News US（[記事](https://www.cbsnews.com/news/nashville-airport-to-be-renamed-dolly-parton-after-unanimous-vote/)）*\n\nナッシュビルのメトロ空港局委員会が、ナッシュビル国際空港の名称変更プロセスを開始することを全会一致（6対0）で可決した。最終的な新名称はまだ決定していないが、ドリー・パートンの名を冠することが有力視されている。\n\n**どこが笑える？**\n\nドリー・パートンはかつて、自分の銅像の建立を断りました。「そういう人になりたくない」と言って。\n\nナッシュビルの空港委員会は6対0で「では空港にします」という方向に進んだ。満場一致。共和党も民主党も関係なく。\n\n今日のアメリカで6対0が出る場所、ここだけでした。\n\n**このニュースをジョークにするなら...**\n\n> 6対0。テネシー州の政治でここまで一致するのは、普通「もう一方の選択肢がかなりひどかった」ときだけです。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 言ったことと、やったことが違う——それ、今日だけの話じゃないんですよね。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "汎用フレーズ4か所（captions内の「Somewhere」型・「Because nothing says」型）、captionsJaの蛇足、xJaの字数超過1本、introJaの文末パターン偏り、imagePrompts内の実在人物依存なし（合格）を修正。それ以外は手を入れない。 ／ 文体パス: 3箇所修正。introJaの「今日の5本を貫く糸は〜です」がプレゼン口調、riffJa[2]の締めが説明的すぎ、riffJa[4]の締めが整いすぎ。それぞれ話し言葉に崩した。"
+    "fullEn": "# Everyone's Slowing Down, Stopping, and Not Watching You\n\n## Today's Forecast\n\nI read five stories this morning. Four of them are about someone saying one thing and doing another. The fifth is about Dolly Parton, who just keeps being Dolly Parton — and somehow that's the most radical act in today's news.\n\nAn AI company says slow down. A TV company says we're not watching. A president tells a museum what to do. A detention officer says he needed a little extra time.\n\nHere's your forecast: if someone told you today that your work doesn't look like what it actually is — they might have a point, but probably not the point they think. The gap between the label and the thing is very on-brand for a Sunday. You're fine. Dolly would agree.\n\n---\n\n## 1. Anthropic CEO Wants to Slow Down the AI Race — While Running in It\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)*\n\nAnthropic CEO Dario Amodei published a lengthy essay calling for a slowdown in AI development, citing safety concerns including the possibility of rogue AI agents taking over the internet within six months. Amodei proposed a three-step plan to 'pace the frontier' and pledged to give third-party evaluators access to Anthropic's models. The announcement came just days after an Anthropic researcher publicly quit, sparking controversy on social media.\n\n**Why It's Funny**\n\nDario Amodei wants to slow down AI. He runs one of the fastest AI labs on earth. He published a long, careful essay making this case — three days after one of his own researchers quit over safety concerns and went public about it. The essay calls for third-party access to Anthropic's models and a 'three-step plan to pace the frontier.' Elon Musk and Sam Altman both said they agreed. Three AI billionaires in a room, nodding at a document about going slower. The frontier remains unpaced.\n\n**Say It Out Loud**\n\n> The CEO of an AI company says we need to slow down AI. His company's latest model, meanwhile, is reportedly reading this article faster than you are.\n\n---\n\n## 2. North Carolina Detention Officer Allegedly Forged 20 Signatures to Hand People Over to ICE\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/12/former-detention-officer-north-carolina-charged-felony-forgery)*\n\nA former detention officer in Guilford County, North Carolina, Michael Diehl, has been charged with 20 counts of felony forgery. Authorities allege Diehl forged the signatures of magistrates on documents to extend detention time, allowing ICE to take custody of individuals before they could be legally released. The charges represent a direct breach of judicial authority by a law enforcement officer.\n\n**Why It's Funny**\n\nMichael Diehl worked as a detention officer in Guilford County, North Carolina. He wanted to hand people over to ICE. The problem was the legal clock — people had to be released before ICE could take custody. His solution was to forge the signatures of magistrates. Twenty times. Not once, in a panic. Twenty separate documents, twenty separate signatures, twenty decisions that the judicial system would not notice or would not stop him. He has now been charged with twenty felony counts. The system that was supposed to prevent this didn't need a sophisticated bypass. It needed a pen.\n\n**Say It Out Loud**\n\n> A detention officer forged 20 magistrate signatures to buy time for ICE transfers. Not once. Twenty separate documents. The oversight system that was supposed to catch this needed only a pen to defeat.\n\n---\n\n## 3. Nashville Airport Renamed After Dolly Parton, Who Is Worth $1.8 Billion to Tennessee Annually\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/12/nashville-airport-dolly-parton)*\n\nThe Nashville airport board of commissioners voted unanimously to rename the city's main airport after country music legend Dolly Parton. The city's mayor and Tennessee's governor had both backed the name change the previous month. Parton is estimated to generate approximately $1.8 billion annually for Tennessee's economy.\n\n**Why It's Funny**\n\nNashville's airport is now named after Dolly Parton. The vote was unanimous — the board, the mayor, the governor, all of them. American airports are almost exclusively named after dead presidents and long-retired politicians. Nashville's argument was simpler: she brings in $1.8 billion a year. The city didn't honor her. It invoiced her. She already turned down a statue of herself, by the way. The state's response was to name an airport after her instead. Dolly can't catch a break.\n\n**Say It Out Loud**\n\n> Every other American airport is named after a dead politician. Nashville said — why not the person actually bringing in the money?\n\n---\n\n## 4. Trump Asks Smithsonian to Install 30-Foot 'Colossus' George Washington Statue — Until 2032\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/12/trump-smithsonian-george-washington-statue-exhibit)*\n\nPresident Trump requested that the Smithsonian Institution install a 30-foot 'Colossus statue' of George Washington outside the National Museum of American History, along with a special exhibit honoring Washington. Trump specified the exhibit would remain in place until 2032, marking the 300th anniversary of Washington's birth. This is not the first time Trump has attempted to influence what the Smithsonian displays.\n\n**Why It's Funny**\n\nTrump asked the Smithsonian to put a 30-foot statue of George Washington outside the National Museum of American History. He named it: the Colossus. He specified the height. He specified the end date — 2032. That's the 300th anniversary of Washington's birth, and also, not coincidentally, an election year. Most presidents request a library. This one submitted a production brief with dimensions. The Smithsonian, for what it's worth, is an independent institution.\n\n**Say It Out Loud**\n\n> Trump asked the Smithsonian for a 30-foot statue called 'the Colossus.' Most presidents ask for a library. Just saying.\n\n---\n\n## 5. LG Says Its TVs Aren't Spying on You — Here's the Statement It Prepared for You\n\n*The Verge — [source](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)*\n\nEarlier this week, Gamers Nexus, Level1Techs, and independent security researchers published findings detailing how LG smart TVs log and upload user data. LG has now responded, claiming that 'some recent media coverage may have contributed to' misunderstandings among its customers. The company did not deny that data collection occurs, but pushed back against the characterization of the practice as surveillance.\n\n**Why It's Funny**\n\nIndependent security researchers published detailed findings on how LG smart TVs log and upload user data. LG responded. They did not say the data collection doesn't happen. They said 'some recent media coverage may have contributed to misunderstandings among our valued customers.' The TV is watching. The articles about the TV watching are the misunderstanding. LG would like you to feel clear on that distinction.\n\n**Say It Out Loud**\n\n> LG says media coverage 'may have contributed to' misunderstandings. Not the data collection — the articles about the data collection. That's the problem.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: denying the thing and denying that the thing is the thing are two very different legal strategies. Only one of them actually works.\n",
+    "fullJa": "# 「やっていません」と言いながらやっている5本\n\n## 今日を占うよ〜\n\n「誤解を招いた可能性があります」「ペースを落とすべきだと思います」「コロッサスと呼んでください」——今日の5本、全部この感じです。\n\n否定じゃない。フレーミングの訂正。\n\nAI会社のCEOが「もっとゆっくり」と言いながら全速力で走り、スマートテレビが「監視じゃない」と言いながらデータを送り続け、拘置所の職員が判事の署名を20回手書きした。大統領はスミソニアンに30フィートの像を「コロッサス」という名前で発注した。\n\n今日唯一まっすぐだったのは、ドリー・パートン。何も言ってないのに空港になった。\n\n今日の占いです。「うまく説明できない」と思っていることがあるなら、説明の問題じゃないかもしれない。今日のニュースの人たちは全員、説明はうまかった。それでも起訴されたり炎上したりしている。黙って年間18億ドル動かす側でいい。少なくとも今日は。\n\n---\n\n## 1. Anthropic CEO Wants to Slow Down the AI Race — While Running in It\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)）*\n\nアンソロピックのダリオ・アモデイCEOが、AIの能力開発ペースを落とすべきだとするエッセイを公開。自社のモデルを第三者評価機関に開放する「3ステップ計画」を発表した。\n\n**どこが笑える？**\n\nダリオ・アモデイCEOがエッセイを書きました。「AIのペースを落とすべき」という内容で、自社モデルを第三者機関に開放する「3ステップ計画」も発表した。読み応えがあります。\n\nで、このエッセイが公開されたのが、社内の研究者が安全への懸念で退職して騒ぎになった数日後。イーロン・マスクとサム・アルトマンが「賛成」と言っている。世界で最も速いAIを作り続けている3社のトップが、速度を落とす文書に揃ってうなずいた。\n\nペースは落ちていない。\n\n**このニュースをジョークにするなら...**\n\n> AI会社のCEOが「AIを遅くしよう」と言ってる。その会社の最新モデルは、あなたがこれを読んでいる間にもう読み終わってますけど。\n\n---\n\n## 2. North Carolina Detention Officer Allegedly Forged 20 Signatures to Hand People Over to ICE\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/12/former-detention-officer-north-carolina-charged-felony-forgery)）*\n\nノースカロライナ州の元グイルフォード郡拘置所職員マイケル・ディールが、ICEへの引き渡しに必要な時間を確保するため、治安判事の署名を20件偽造したとして重罪で起訴された。\n\n**どこが笑える？**\n\nノースカロライナ州グイルフォード郡の元拘置所職員マイケル・ディールが、重罪20件で起訴されました。ICEへの引き渡し前に法的に釈放しなければならない時間的な問題があった。彼の解決策は、治安判事の署名を偽造すること。\n\n20回。パニックで一度やらかしたんじゃない。20件の書類に、20回、手書きで。誰も止めなかった。そのシステムが、今回の起訴でようやく表に出てきた。\n\n**このニュースをジョークにするなら...**\n\n> 拘置所職員が治安判事の署名を20回偽造してICEへの引き渡し時間を確保した。一度じゃない。20件の別々の書類。それを止めるはずの監視機能に必要だったのはペン一本だった。\n\n---\n\n## 3. Nashville Airport Renamed After Dolly Parton, Who Is Worth $1.8 Billion to Tennessee Annually\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/12/nashville-airport-dolly-parton)）*\n\nナッシュビルの空港委員会が、歌手ドリー・パートンにちなんだ空港名への改称を全会一致で承認した。パートンは年間18億ドルをテネシー州経済にもたらしているとされる。\n\n**どこが笑える？**\n\nナッシュビルの空港が、カントリー音楽の大スターであるドリー・パートンの名前に改称されました。全会一致。市長も知事も賛成。\n\nアメリカの空港って、基本的に死んだ政治家の名前なんですよ。ナッシュビルの理屈はシンプルで、「年間18億ドル持ってきてる人でしょ」という経済合理性。あと、ドリーは以前に自分の銅像を断っているんです。州はその代わりに空港にした。断っても断っても名誉を与えてくる。\n\n**このニュースをジョークにするなら...**\n\n> アメリカの空港って大体、亡くなった政治家の名前じゃないですか。テネシー州は「実際に金を稼いでる人にしよう」って。\n\n---\n\n## 4. Trump Asks Smithsonian to Install 30-Foot 'Colossus' George Washington Statue — Until 2032\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/12/trump-smithsonian-george-washington-statue-exhibit)）*\n\nトランプ大統領がスミソニアン協会に対し、アメリカ歴史博物館の外にジョージ・ワシントンの30フィートの「コロッサス像」とその功績を称える特別展示を設置するよう要請した。展示は2032年まで存続させるという。\n\n**どこが笑える？**\n\nトランプ大統領がスミソニアン協会に要請しました。ジョージ・ワシントンの「コロッサス像」を博物館の外に設置してほしい、と。\n\n「コロッサス」というのは、古代の巨像から来た「圧倒的に巨大なもの」という意味の言葉です。高さ30フィート（約9メートル）。設置期限は2032年まで——ワシントンの生誕300年の節目であり、大統領選の年でもあります。名前あり、サイズあり、期限あり。これは文化的な要請ではなく、かなり詳細な発注書です。スミソニアンは独立機関。\n\n**このニュースをジョークにするなら...**\n\n> トランプ大統領がスミソニアンに「30フィートのコロッサス像」を要請した。ほかの大統領は図書館を建てるんですが。\n\n---\n\n## 5. LG Says Its TVs Aren't Spying on You — Here's the Statement It Prepared for You\n\n*The Verge（[記事](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)）*\n\nセキュリティ研究者らがLGのスマートテレビによるユーザーデータのログ収集・送信を詳細に報告したことを受け、LGが反論声明を発表。「一部メディアの報道がユーザーに誤解を与えた可能性がある」としている。\n\n**どこが笑える？**\n\n複数のセキュリティ研究者が、LGのスマートテレビがユーザーデータを記録・送信していると詳細に報告しました。LGが反論声明を出した。\n\nデータを収集していること自体は、否定していません。「一部メディアの報道がユーザーに誤解を与えた可能性がある」と言っている。テレビが見ているんじゃなくて、記事が問題だった、という立場。否定じゃなくて、「誤解」という言葉の再定義を求めている。「一部」って便利な言葉ですね。\n\n**このニュースをジョークにするなら...**\n\n> LGは「一部メディアの報道が誤解を生んだ可能性がある」と言った。データ収集じゃなくて、報道が問題らしい。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「やってない」と「やってることの意味が違う」は、別の話です。今日の5本、全部後者でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d2（署名偽造）はsensitive指定漏れ。captions/captionsJaが英日同文で風刺ゼロの「解説」止まり。d3のcaption5本目・captionsJa5本目が汎用AI型の観察オチ（'Somewhere in Washington…'）で終わっており書き直し。d5のcaption4本目「You bought the TV…」はパンチラインが文末で機能しているが、対応captionsJa4本目は成立しているため保持。introJaの締め段落が「アドバイス→例示→締め」の構造で書き言葉的。xJaのd1が137字でオーバー。riffJaのd2最終文が蛇足。これらをピンポイントで修正する。 ／ 文体パス: 3箇所を修正。riffJa[0]末尾の「フロンティアは、引き続きペースを落としていない」が締め畳みすぎ、riffJa[1]の「法の執行者が〜表面化した」が説明口調すぎ、riffJa[4]の「その『一部』という言葉が今日一番働いていた」がうまくまとめた感で着地しているのを崩した。"
   },
   "carousel": [
-    "images/2026-09-12/carousel/slide-1.jpg",
-    "images/2026-09-12/carousel/slide-2.jpg",
-    "images/2026-09-12/carousel/slide-3.jpg",
-    "images/2026-09-12/carousel/slide-4.jpg",
-    "images/2026-09-12/carousel/slide-5.jpg",
-    "images/2026-09-12/carousel/slide-6.jpg",
-    "images/2026-09-12/carousel/slide-7.jpg"
+    "images/2026-09-13/carousel/slide-1.jpg",
+    "images/2026-09-13/carousel/slide-2.jpg",
+    "images/2026-09-13/carousel/slide-3.jpg",
+    "images/2026-09-13/carousel/slide-4.jpg",
+    "images/2026-09-13/carousel/slide-5.jpg",
+    "images/2026-09-13/carousel/slide-6.jpg",
+    "images/2026-09-13/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-12/note-header.jpg",
-    "substack": "images/2026-09-12/substack-cover.jpg"
+    "note": "images/2026-09-13/note-header.jpg",
+    "substack": "images/2026-09-13/substack-cover.jpg"
   }
 };
