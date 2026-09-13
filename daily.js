@@ -1,347 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-13",
-  "generatedAt": "2026-09-12T21:31:26+00:00",
+  "date": "2026-09-14",
+  "generatedAt": "2026-09-13T21:31:22+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
-      "sensitive": false,
+      "sensitive": true,
       "news": {
-        "headline": "Anthropic CEO Wants to Slow Down the AI Race — While Running in It",
-        "source": "The Verge",
-        "date": "2026-09-13",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development",
-        "summary": "アンソロピックのダリオ・アモデイCEOが、AIの能力開発ペースを落とすべきだとするエッセイを公開。自社のモデルを第三者評価機関に開放する「3ステップ計画」を発表した。"
+        "headline": "San Jose Cop Used Police Surveillance Tech to Help Alleged Abuser Track His Victim",
+        "source": "The Guardian US",
+        "date": "2026-09-14",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse",
+        "summary": "サンノゼ市警の警察官が、部署のナンバープレート追跡システム「Flock」を悪用し、DVの被疑者に被害女性の居場所を通知していたとして解雇された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「AIを遅くしよう」と主張しているのが、世界最先端のAIを作り続けている会社のCEOなんですよ。「もう少しゆっくり走りましょう」って言いながらフルスプリントしてる人。",
-        "<b>滑稽さ:</b> エッセイが公開されたタイミング、社内の研究者が「こんな会社辞めてやる」って騒ぎを起こした数日後なんですよね。火消しのエッセイが、またもや炎上の燃料になる。",
-        "<b>日本・海外から見ると:</b> 「危険だから規制が必要」と声を上げているのが規制される側の企業で、しかもライバルのイーロン・マスクとサム・アルトマンが「そうだそうだ」と賛同してる。業界全体で「俺たちを止めてくれ」コーラスをやってる図。"
+        "<b>矛盾:</b> 市民を守るために導入した監視インフラが、加害者の追跡ツールとして機能した。制度の目的と実態が完全に逆転している。",
+        "<b>滑稽さ:</b> 「不正アクセス」でも「外部ハッキング」でもなく、正規の警察官が正規のログイン画面から堂々とやった、というのが問題の核心なんですよ。",
+        "<b>日本・海外から見ると:</b> 監視カメラや自動車追跡技術の「適正利用」を担保するのは結局、システムを使う人間の倫理だ、という話で、これはアメリカだけの問題じゃない。"
       ],
       "imagePrompts": [
-        "A man in a business suit sprinting at full speed on a race track, holding up a large sign that reads 'PLEASE SLOW DOWN', other runners passing him on either side",
-        "A corporate press conference podium with a banner reading 'AI Safety Summit', while behind the speaker a giant server farm construction site buzzes with activity",
-        "A fire extinguisher labeled 'Safety Essay' being aimed at a small campfire, while behind the person holding it a massive bonfire labeled 'Anthropic Model Training' rages unchecked"
+        "A government-issue computer monitor displaying a map with a location pin, a police badge resting on the keyboard beside it, fluorescent office lighting, viewed from slightly above",
+        "A large server rack labeled 'PUBLIC SAFETY SURVEILLANCE' in a sterile data center, with a single internal access terminal in the foreground showing a search history log",
+        "An official police department press conference podium with a blank statement on a lectern, empty chairs in front, institutional building facade behind"
       ],
       "captions": [
-        "The CEO of an AI company says we need to slow down AI. His company's latest model, meanwhile, is reportedly reading this article faster than you are.",
-        "Musk and Altman both backed the 'slow AI down' plan. Three AI billionaires in a room agreeing on something — what could possibly go wrong?",
-        "The essay came out three days after his own researcher quit over safety concerns. Great timing, Dario. Really nailed the news cycle.",
-        "He's promising third-party oversight of Anthropic's safety practices. Third party chosen by... Anthropic. But still.",
-        "Rogue AI agents could take over the internet in six months, the man says — then goes back to shipping the next model."
+        "The system worked exactly as designed. That's the problem.",
+        "They call it a 'misuse.' The manual apparently didn't have a chapter on 'don't help your relative stalk someone.'",
+        "High-tech license plate readers, cutting-edge database access, real-time location tracking — all deployed to do something a restraining order was supposed to prevent.",
+        "He got fired. The database is still there. Everyone still has a login.",
+        "When your city's public safety infrastructure has an 'insider threat' problem, and the insider is inside the precinct."
       ],
       "captionsJa": [
-        "AI会社のCEOが「AIを遅くしよう」と言ってる。その会社の最新モデルは、あなたがこれを読んでいる間にもう読み終わってますけど。",
-        "マスクとアルトマンがどちらも「そうだ」と賛同した。AIの億万長者3人が同じことで合意するとき——何かおかしい。",
-        "エッセイが出たのは、自社の研究者が安全問題を理由に公開辞職した3日後。タイミング、完璧すぎますね。",
-        "第三者によるアンソロピックの安全審査を約束した。その第三者はアンソロピックが選ぶんですけど。まあ。",
-        "6か月でAIがネットを乗っ取る可能性がある、と言いながら次のモデルの出荷に戻っていった。"
+        "システムは設計通りに動いた。それが問題なんですよ。",
+        "「不正利用」と呼ぶらしいけど、マニュアルに「親族の代わりに被害者を追跡するな」って章がなかったんですかね。",
+        "最新のナンバープレート読取装置、リアルタイム位置追跡、高精度データベース——全部、接近禁止命令が防ぐはずだったことに使われた。",
+        "当人は解雇された。データベースは残ってる。全員ログインできる状態のまま。",
+        "行政の公共安全インフラに「内部脅威」があって、その内部が警察署の中、というケース。"
       ],
-      "newsEn": "Anthropic CEO Dario Amodei published a lengthy essay calling for a slowdown in AI development, citing safety concerns including the possibility of rogue AI agents taking over the internet within six months. Amodei proposed a three-step plan to 'pace the frontier' and pledged to give third-party evaluators access to Anthropic's models. The announcement came just days after an Anthropic researcher publicly quit, sparking controversy on social media.",
+      "newsEn": "A San Jose police officer was fired after using the department's Flock license plate tracking system to locate a woman and share her whereabouts with a relative who was the suspect in her domestic abuse case. Police Chief Paul Joseph confirmed the firing to NBC Bay Area. The system, designed to aid law enforcement, was instead used against the very person it was meant to protect.",
       "ironyEn": [
         {
-          "contradiction": "The CEO of one of the world's most advanced AI companies is calling for a slowdown in AI development. It's like a Formula 1 driver filing a petition for lower speed limits.",
-          "absurdity": "The essay dropped days after one of his own researchers quit very publicly over safety concerns. Nothing says 'we take safety seriously' like a PR essay right after a meltdown.",
-          "outside": "From the outside, the loudest voices calling for AI regulation are the AI companies themselves — which tells you either they're genuinely scared, or they've figured out that being first to say 'slow down' is its own competitive advantage."
+          "contradiction": "The Flock system was purchased to help cops find criminals. It found one — but he was already on the payroll.",
+          "absurdity": "No hacking required. No data breach. Just a login and a favor for a relative.",
+          "outside": "Every city selling this tech to its police department is now quietly asking: 'Do we have a log of who's been looking up what?'"
         },
         {
-          "contradiction": "Amodei is proposing that a third party evaluate Anthropic's safety commitments — a third party that Anthropic will presumably help choose. Self-policing with extra steps.",
-          "absurdity": "Elon Musk and Sam Altman both publicly backed the slowdown message. Three AI billionaires agreeing on anything is already suspicious. Three AI billionaires agreeing to slow down AI is a full-blown paradox.",
-          "outside": "Japan has spent decades regulating industries after disasters. The American approach, apparently, is to let the industry write its own report card, then ask everyone to clap."
+          "contradiction": "A surveillance network built to protect the public was used as a private tracking service for an alleged abuser.",
+          "absurdity": "The biggest security vulnerability in the system wasn't the software. It was the badge.",
+          "outside": "The question isn't whether police should have this technology. It's who watches the people who do."
         }
       ],
-      "imageSeed": 1
+      "imageSeed": 1,
+      "image": "images/2026-09-14/candidate-1.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-14/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
-      "sensitive": true,
+      "sensitive": false,
       "news": {
-        "headline": "North Carolina Detention Officer Allegedly Forged 20 Signatures to Hand People Over to ICE",
-        "source": "The Guardian US",
-        "date": "2026-09-13",
-        "url": "https://www.theguardian.com/us-news/2026/sep/12/former-detention-officer-north-carolina-charged-felony-forgery",
-        "summary": "ノースカロライナ州の元グイルフォード郡拘置所職員マイケル・ディールが、ICEへの引き渡しに必要な時間を確保するため、治安判事の署名を20件偽造したとして重罪で起訴された。"
+        "headline": "AI Bosses Beg to Slow Down AI; Trump Says Keep Going",
+        "source": "The Verge",
+        "date": "2026-09-14",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting",
+        "summary": "Anthropic CEOのダリオ・アモダイがAI開発の「ペースダウン」を求める公開書簡を発表し、OpenAIやGoogleのトップも賛同を示す中、トランプ前大統領とマイク・ジョンソン下院議長は業界の過剰反応だと一蹴した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「法の支配」を執行する側の拘置所職員が、法の担い手である判事の署名を偽造していた。制度を守る人間が制度そのものを破壊した構図。",
-        "<b>滑稽さ:</b> ではなく、これは笑えない制度の失敗。権力者が司法プロセスを20回も手書きで迂回できたという事実が問題の本体。",
-        "<b>日本・海外から見ると:</b> 判事の署名を偽造してまで拘留を延長できてしまった制度的な監視の欠如が、今回の起訴で初めて表面化した。"
+        "<b>矛盾:</b> 「AIは危険かもしれない」と一番声高に訴えているのが、AIで一番儲けている人たちなんですよ。「速度を落とせ」と言う間も、開発は止まってない。",
+        "<b>滑稽さ:</b> 政治家が「AIの専門家たちは心配しすぎ」と言い切る一方、その専門家たちが「もう手に負えなくなるかも」と言ってる——誰を信じればいいんですかね、この構図。",
+        "<b>日本・海外から見ると:</b> 「中国に負けるから規制するな」という論法、日本でも半導体・AIで同じ議論が出てきてて、国家競争を理由に安全議論を封じるパターンが世界中で繰り返されている。"
       ],
       "imagePrompts": [
-        "A large stack of official legal documents on a government desk, each page showing a handwritten signature mark, a detention facility fence visible through a window behind",
-        "An empty magistrate's bench inside a courtroom, a single uncapped pen resting on the desk, official government seals mounted on the wall behind",
-        "A government building facade with official county insignia, iron security fencing in the foreground, overcast sky — no people visible"
+        "A massive AI server farm humming with activity, a giant neon 'PAUSE' button mounted on the wall that is clearly unplugged, wide-angle shot",
+        "A congressional hearing room, empty seats on the dais, a single overflowing inbox labeled 'AI REGULATION PROPOSALS' and an out-of-office sign on the door",
+        "Two podiums side by side: one with a stack of dense technical safety reports, one with a single index card reading 'seems fine,' soft overhead lighting"
       ],
       "captions": [
-        "A detention officer forged 20 magistrate signatures to buy time for ICE transfers. Not once. Twenty separate documents. The oversight system that was supposed to catch this needed only a pen to defeat.",
-        "He didn't hack the system. He found a pen and used it. Twenty times. The question the charges don't answer: who was supposed to be checking?",
-        "Twenty felony counts for forging judicial signatures. The judiciary is the check. When someone inside the facility forges the check, what's left?",
-        "Legal detention papers were allegedly turned into tools for extending illegal detention. The documents meant to protect rights were the mechanism for bypassing them.",
-        "Twenty forgeries before anyone noticed. The charges name one officer. The gap in oversight named no one."
+        "The CEOs who raced to build it are now asking everyone to please stop racing. Their servers remain at full capacity.",
+        "Trump says the AI guys are overreacting. The AI guys say the stakes are civilization. Somewhere in there is a Senate bill that won't pass.",
+        "Altman, Musk, and Hassabis all agreed: slow down. Then they went back to their offices and kept going.",
+        "We can't regulate AI, apparently — China's right there. We also can't not regulate AI, apparently — also China.",
+        "The tech industry holding a press conference to announce it should have fewer press conferences."
       ],
       "captionsJa": [
-        "拘置所職員が治安判事の署名を20回偽造してICEへの引き渡し時間を確保した。一度じゃない。20件の別々の書類。それを止めるはずの監視機能に必要だったのはペン一本だった。",
-        "システムをハックしたわけじゃない。ペンを使っただけ。20回。起訴状が答えない問いがある——確認するはずの人間は、どこにいたのか。",
-        "司法の署名を偽造した重罪20件。司法は抑制のはずだった。施設内の人間がその抑制を偽造できたとき、残るものは何か。",
-        "拘留の合法性を示すはずの書類が、拘留を延長する手段として使われたとされる。権利を守る仕組みが、権利を迂回する経路になっていた。",
-        "20回、誰も気づかなかった。起訴状は職員一人を名指しする。監視の空白は、誰も名指ししていない。"
+        "誰よりも速く作った人たちが「みんな速度落として」と言ってる。サーバーはフル稼働のまま。",
+        "トランプは「AI業界は過剰反応だ」と言う。AI業界は「文明が危ない」と言う。その間のどこかに、通過しない法案がある。",
+        "アルトマン、マスク、ハサビスが全員「スローダウンすべき」と言った。そしてオフィスに戻って続けた。",
+        "「中国がいるから規制できない」「中国がいるから規制しなきゃ」——どっちの文脈でも中国が出てくる。",
+        "「もっと発表を減らすべき」と発表するためにプレスカンファレンスを開く、テック業界。"
       ],
-      "newsEn": "A former detention officer in Guilford County, North Carolina, Michael Diehl, has been charged with 20 counts of felony forgery. Authorities allege Diehl forged the signatures of magistrates on documents to extend detention time, allowing ICE to take custody of individuals before they could be legally released. The charges represent a direct breach of judicial authority by a law enforcement officer.",
+      "newsEn": "Anthropic CEO Dario Amodei published an open letter calling on the AI industry to slow down frontier development. OpenAI's Sam Altman, Elon Musk, and Google DeepMind's Demis Hassabis all publicly expressed support. President Trump and House Speaker Mike Johnson pushed back, saying the industry was overreacting and that slowing down would cede ground to China.",
       "ironyEn": [
         {
-          "contradiction": "A law enforcement officer allegedly bypassed the judiciary — the institution that authorizes law enforcement — by forging the judiciary's own signature. The system meant to check power was circumvented by the people the system was supposed to check.",
-          "absurdity": "Twenty counts. Not once, not a mistake — an alleged systematic practice of forging judicial signatures to outrun legal release deadlines. The oversight mechanisms failed twenty times before charges were filed.",
-          "outside": "From abroad, this looks like a structural problem: if one officer could allegedly forge magistrate signatures twenty times without detection, the question isn't just about one bad actor — it's about what accountability looks like inside detention facilities."
+          "contradiction": "The people who built the thing that might be dangerous are now asking everyone to slow down — while their servers are still running.",
+          "absurdity": "Sam Altman agreed AI should slow down. Sam Altman has not slowed down.",
+          "outside": "In most industries, when the manufacturers publicly say their product might be a problem, regulators step in. In AI, the manufacturers are doing the regulating themselves, sort of, when they feel like it."
         },
         {
-          "contradiction": "ICE detainer procedures are meant to operate within legal boundaries set by courts. Allegedly, those boundaries were simply redrawn by hand.",
-          "absurdity": "The forgeries were reportedly discovered after the fact — meaning people may have been held beyond their legal release window before anyone noticed the paperwork was fake.",
-          "outside": "Judicial signature requirements exist precisely to prevent executive-branch overreach in detention. The alleged workaround here wasn't a loophole — it was fraud against the court itself."
+          "contradiction": "Trump says the AI industry is overreacting. The AI industry says civilization might be at stake. Somewhere between those two positions is probably a policy, but nobody's found it yet.",
+          "absurdity": "We've reached the point where 'should we maybe pause?' is the controversial take.",
+          "outside": "The 'we can't slow down or China wins' argument is doing a lot of heavy lifting globally right now — it's the geopolitical equivalent of 'I'll start the diet Monday.'"
         }
       ],
-      "imageSeed": 2
+      "imageSeed": 2,
+      "image": "images/2026-09-14/candidate-2.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-14/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Nashville Airport Renamed After Dolly Parton, Who Is Worth $1.8 Billion to Tennessee Annually",
+        "headline": "Trump Promises Every American $5,000 If Republicans Win Midterms",
         "source": "The Guardian US",
-        "date": "2026-09-12",
-        "url": "https://www.theguardian.com/us-news/2026/sep/12/nashville-airport-dolly-parton",
-        "summary": "ナッシュビルの空港委員会が、歌手ドリー・パートンにちなんだ空港名への改称を全会一致で承認した。パートンは年間18億ドルをテネシー州経済にもたらしているとされる。"
+        "date": "2026-09-14",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge",
+        "summary": "トランプ大統領は共和党が中間選挙で勝利した場合、全米成人に5000ドルの「配当金」を支給すると改めて公約した。この構想は共和・民主両党から疑問視されている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 空港に名前をつけるのって普通、政治家とか退役軍人とかじゃないですか。テネシー州は「いや、年間1.8兆円分の観光客を引っ張ってくる人でしょ」って実利で決めた。",
-        "<b>滑稽さ:</b> 市長も知事も全会一致で賛成なんですよ。政界がここまで全員一致になることってめったにないんだけど、相手がドリーだとみんなノーと言えない。",
-        "<b>日本・海外から見ると:</b> 日本で言えば、松山空港を松山ケンイチ空港に改称するようなものですが、ケンイチさんの経済効果が2兆円あれば全員賛成するでしょうね。"
+        "<b>矛盾:</b> 財政規律を旗印にしてきた共和党が、説明なしに全国民に5000ドル配ると言っている。財源の話は誰もしてないんですよ。",
+        "<b>滑稽さ:</b> 「選挙に勝ったら現金配ります」という約束、普通の国だと選挙法的にアウトになりかねない発想なんですけど、これが大統領経験者の公約として報道されてる。",
+        "<b>日本・海外から見ると:</b> コロナ禍の給付金を思い出す人も多いと思うけど、あれは緊急経済対策。今回の理由は「選挙に勝ったから」で、それが建前とどう違うのか誰も聞いてない。"
       ],
       "imagePrompts": [
-        "A large airport terminal entrance sign being replaced with an ornate new sign reading 'Dolly Parton International Airport', workers on ladders installing it while travelers watch with phones raised",
-        "A government meeting room with commissioners seated at a long table, every placard showing a checkmark or 'YES' vote, a portrait of Dolly Parton on a projection screen at the front",
-        "A giant airport runway seen from above at night, with the terminal buildings arranged so the lights spell out a guitar shape, Nashville skyline in the background"
+        "A campaign rally stage with a giant banner reading '$5,000 DIVIDEND' and a podium, confetti on the ground, empty space where the fine print would be",
+        "An enormous check made out to 'Every American Adult' with the memo line blank and the signature illegible, displayed on an easel at a press conference",
+        "A congressional budget office desk buried under stacks of papers, a lone calculator with question marks on the screen, fluorescent lighting overhead"
       ],
       "captions": [
-        "Every other American airport is named after a dead politician. Nashville said — why not the person actually bringing in the money?",
-        "The vote was unanimous. A government body in 2026 agreed on something unanimously. Dolly did what three decades of bipartisan negotiations couldn't.",
-        "She already turned down a statue of herself. The state responded by naming an entire airport after her. Dolly can't catch a break.",
-        "Worth $1.8 billion a year to Tennessee and she still can't get them to stop making a fuss. Most relatable billionaire in America.",
-        "The 300th anniversary of Washington's birth gets a 30-foot Colossus. Dolly Parton gets an international airport. Tennessee did the math differently."
+        "Five thousand dollars per adult American, no funding source mentioned, next question.",
+        "The party that ran on cutting the deficit would like to give you $1.3 trillion in gift cards. Conditionally.",
+        "'Dividend' is a great word. It implies there's a profit somewhere. Where's the profit?",
+        "Vote for us and get $5,000 — which, overseas, they have a different name for.",
+        "He announced it in one sentence. Economists are going to be writing rebuttals for six months."
       ],
       "captionsJa": [
-        "アメリカの空港って大体、亡くなった政治家の名前じゃないですか。テネシー州は「実際に金を稼いでる人にしよう」って。",
-        "全会一致。2026年の議会が全員一致で決めた。ドリーがやってのけた、30年の超党派交渉でも無理だったやつを。",
-        "本人は自分の銅像を断ってたんですよ。州の回答が「じゃあ空港で」。ドリー、なんも得してない。",
-        "年間18億ドルをテネシーに運んでくる人、なのに州からのプレッシャーが止まらない。アメリカで一番共感できる富豪。",
-        "ワシントンの生誕300年には30フィートのコロッサス。ドリー・パートンには国際空港。テネシーの計算式が違う。"
+        "全米成人に5000ドル。財源は言及なし。次の質問どうぞ。",
+        "財政赤字削減を掲げてきた党が、条件付きで1.3兆ドルのギフトカードを配ると言っています。",
+        "「配当金」ってすごくいい言葉なんですよ。どこかに利益があるって意味なんで。その利益、どこにあるんですかね。",
+        "「選挙に勝ったら5000ドル」——外国だと別の名前で呼ばれてることが多いやつ。",
+        "一文で発表した。経済学者は6ヶ月かけて反論を書くことになる。"
       ],
-      "newsEn": "The Nashville airport board of commissioners voted unanimously to rename the city's main airport after country music legend Dolly Parton. The city's mayor and Tennessee's governor had both backed the name change the previous month. Parton is estimated to generate approximately $1.8 billion annually for Tennessee's economy.",
+      "newsEn": "Donald Trump reiterated his pledge to distribute $5,000 to every American adult as a 'dividend' if Republicans maintain control of Congress after November's midterm elections. The proposal has been met with incredulity across the political spectrum. Trump did not specify the funding mechanism for the payment.",
       "ironyEn": [
         {
-          "contradiction": "American airports are traditionally named after presidents, senators, or war heroes. Nashville just named theirs after someone who declined a Presidential Medal of Freedom twice, because she felt she hadn't earned it. She may be the most qualified person ever given an airport.",
-          "absurdity": "The vote was unanimous. In 2026. A government body that agrees on absolutely nothing managed to agree on Dolly Parton without a single dissent. That tells you something about her — or about how terrified politicians are of being the one person who voted against Dolly.",
-          "outside": "From outside the US, Dolly Parton has been funding children's literacy, refusing statues of herself, and now has an airport. Meanwhile actual politicians are fighting over whether to put a 30-foot statue of George Washington somewhere."
+          "contradiction": "The party of fiscal responsibility is now promising to mail every adult American $5,000 with no stated funding source.",
+          "absurdity": "The pitch is essentially: vote for us in November and we'll Venmo you in December. Terms and conditions apply, probably.",
+          "outside": "Most countries would call this vote-buying. The U.S. calls it a 'dividend.' Same math, fancier word."
         },
         {
-          "contradiction": "The economic argument for naming the airport after Parton is essentially: she's worth $1.8 billion a year to us. American airports are named after presidents. Nashville just admitted the singer makes more economic sense than any of them.",
-          "absurdity": "Parton famously asked Tennessee not to build a statue of her while she was still alive. The state responded by naming an entire airport after her. She can't win.",
-          "outside": "Japan names its infrastructure after geography and function. The US names things after politicians and military figures. Tennessee just skipped both categories and went straight to 'who actually brings in the most tourists.'"
+          "contradiction": "Trump offered no mechanism for how $5,000 per adult American gets paid for, and the press conference moved on anyway.",
+          "absurdity": "At $5,000 per adult, you're looking at roughly $1.3 trillion. The announcement was one sentence.",
+          "outside": "Abroad, 'the government will give you money if the right party wins' is usually a punchline about a different kind of country."
         }
       ],
-      "imageSeed": 3
+      "imageSeed": 3,
+      "image": "images/2026-09-14/candidate-3.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-14/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Trump Asks Smithsonian to Install 30-Foot 'Colossus' George Washington Statue — Until 2032",
-        "source": "The Guardian US",
+        "headline": "Waymo Robotaxi Pulls Over, Calls Cops on Its Own Passengers",
+        "source": "The Verge",
         "date": "2026-09-13",
-        "url": "https://www.theguardian.com/us-news/2026/sep/12/trump-smithsonian-george-washington-statue-exhibit",
-        "summary": "トランプ大統領がスミソニアン協会に対し、アメリカ歴史博物館の外にジョージ・ワシントンの30フィートの「コロッサス像」とその功績を称える特別展示を設置するよう要請した。展示は2032年まで存続させるという。"
+        "url": "https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun",
+        "summary": "サンフランシスコで、Waymoのロボタクシーが乗客2人（未成年）を乗せた走行中に車を停車させ、警察に通報。2人はゴーストガン（自作銃）を所持していたとして逮捕された。"
       },
       "commentary": [
-        "<b>矛盾:</b> スミソニアンは独立した教育機関なんですが、大統領が「ここに何フィートの像を置け」って具体的なサイズを指定して要請してくるのはなかなかの展開ですよ。",
-        "<b>滑稽さ:</b> 「コロッサス」って、古代の巨像から取った言葉で「圧倒的に巨大なもの」って意味なんですよね。ワシントンの像に名前まで付けてリクエストしてきた。30フィートって約9メートル。\"普通の大きな像\"じゃなくて\"コロッサス\"。",
-        "<b>日本・海外から見ると:</b> 日本では文化施設への政治介入は批判されるんですが、「しかも2032年まで」って期限指定が付いているのが独特すぎる。何かの選挙と被ってたりしないんですかね。"
+        "<b>矛盾:</b> 「快適な移動体験」を売りにしているライドシェアサービスが、乗客を警察に引き渡す機能を持っているという事実——利用規約のどこかに書いてあるはずなんですよ、きっと。",
+        "<b>滑稽さ:</b> 運転手なし、融通なし、密告あり。これが配車サービスの進化の着地点なんですかね。",
+        "<b>日本・海外から見ると:</b> 日本でも自動運転の社会実装が議論されてますけど、「車が乗客を通報する」というシナリオ、誰も想定してなかったんじゃないですかね。"
       ],
       "imagePrompts": [
-        "An architect's blueprint spread on a desk showing a massive statue labeled 'COLOSSUS' with measurement arrows indicating 30 feet, next to a small sketch of a museum building, a presidential seal stamp in the corner",
-        "A museum curator in a hard hat standing in front of the National Museum of American History, looking up at a tape measure being extended vertically, a large empty stone plinth beside them",
-        "A formal government memo on White House letterhead reading 'RE: Colossus Statue Request' with dimensions and dates highlighted, a rubber stamp marked 'URGENT' pressed across it"
+        "A sleek autonomous vehicle pulled to the side of a city street at night, hazard lights on, police car approaching in the background, interior seats empty",
+        "The interior of a robotaxi, a touchscreen display with a neutral status message, no driver seat, city lights visible through windows",
+        "A Waymo vehicle exterior with a small camera array on the roof, parked under a streetlight, a 'terms of service' document taped to the window humorously small and dense"
       ],
       "captions": [
-        "Trump asked the Smithsonian for a 30-foot statue called 'the Colossus.' Most presidents ask for a library. Just saying.",
-        "It's got a name, a height, and an expiration date. That's not a cultural request — that's a production brief.",
-        "George Washington turned down being king. His Colossus, per the request, is nine meters tall and named by a sitting president. Funny how that works.",
-        "The exhibit runs until 2032, which is — let me check — right after the next election. Purely coincidental, I'm sure.",
-        "This is at least the second time Trump has tried to curate the Smithsonian. At some point the museum is going to need a second president."
+        "No driver, no negotiation, no tip — just a car that had already dialed.",
+        "They got into the one car in San Francisco with no human to talk to. Tactically, that's a miss.",
+        "Ride-sharing, disrupted again: it's just a taxi now, except the taxi can hold you there until the cops show up.",
+        "The ghost gun made it into the car. The car, it turns out, did not find that acceptable.",
+        "Somewhere a Lyft driver is watching this video and feeling very job-secure."
       ],
       "captionsJa": [
-        "トランプ大統領がスミソニアンに「30フィートのコロッサス像」を要請した。ほかの大統領は図書館を建てるんですが。",
-        "名前あり、高さあり、終了日あり。これはもはや文化的要請じゃなくてプロダクションブリーフ。",
-        "ワシントンは王になることを断った人ですが、彼の「コロッサス」は9メートルで大統領が命名中。歴史は面白いですね。",
-        "展示が2032年まで続くということは——ちょっと確認すると——次の選挙の直後まで。完全に偶然だと思います。",
-        "スミソニアンの展示内容に介入しようとしたのはこれで少なくとも2回目。そろそろ博物館に「第2の大統領」枠が必要かも。"
+        "運転手なし、交渉なし、チップなし——車はすでに通報してた。",
+        "サンフランシスコで唯一、話し相手がいない車を選んだわけですよ。作戦として、それは失敗だった。",
+        "ライドシェア、再定義。「乗客を警察が来るまで現場に留める」機能付きのタクシーになりました。",
+        "ゴーストガンは車に乗り込めた。車のほうは、それを容認しなかった。",
+        "どこかでLyftの運転手がこの動画を見て、雇用が守られてることに安堵している。"
       ],
-      "newsEn": "President Trump requested that the Smithsonian Institution install a 30-foot 'Colossus statue' of George Washington outside the National Museum of American History, along with a special exhibit honoring Washington. Trump specified the exhibit would remain in place until 2032, marking the 300th anniversary of Washington's birth. This is not the first time Trump has attempted to influence what the Smithsonian displays.",
+      "newsEn": "A Waymo robotaxi in San Francisco pulled over and alerted police during a ride, leading to the arrest of two juvenile passengers who were found in possession of a loaded AR-style ghost gun. The vehicle stopped on its own and law enforcement responded. The police report did not specify the exact mechanism by which Waymo flagged the situation.",
       "ironyEn": [
         {
-          "contradiction": "The Smithsonian exists to preserve and communicate knowledge independently of political pressure. Trump's request — specific statue name, specific height, specific end date — is about as far from 'independent' as you can get while still technically making a request.",
-          "absurdity": "He named the statue. He didn't say 'a large Washington statue.' He said 'Colossus.' Thirty feet tall. With a specific expiration date of 2032. There's a level of production design going into this government art direction request.",
-          "outside": "Most countries keep political leaders out of museum curation. The US president is out here writing statue specs — height, name, duration — for a publicly funded educational institution. It's less a request, more a set list."
+          "contradiction": "Ride-sharing was supposed to disrupt taxis. Waymo just reinvented the cab that rats you out.",
+          "absurdity": "There's no driver to bribe, no human to appeal to, no 'hey man, just let it go.' The car has already called.",
+          "outside": "In most places, the revolutionary pitch for self-driving cars was 'freedom of mobility.' San Francisco's version apparently includes a terms-of-service clause about ghost guns."
         },
         {
-          "contradiction": "George Washington famously refused to become a king. The monument being proposed for him is named 'Colossus' and stands 30 feet tall inside a national museum, by presidential request. Washington would probably have a lot to say about that.",
-          "absurdity": "The exhibit runs 'until 2032' — a completely arbitrary deadline that happens to fall after the next presidential election cycle. Coincidence, presumably.",
-          "outside": "Foreign observers watching American democracy debates might note that the current debate at the Smithsonian isn't about historical accuracy or collection policy — it's about whether a 30-foot statue fits through the front door."
+          "contradiction": "The passengers climbed into a car specifically because there was no human driver watching them. They were wrong about that.",
+          "absurdity": "The vehicle didn't argue, didn't negotiate, didn't accept a tip. It just pulled over and waited for the cops like it had somewhere better to be.",
+          "outside": "Every future Uber driver who thought automation would cost them their job is now watching this and feeling complicated about it."
         }
       ],
-      "imageSeed": 4
+      "imageSeed": 4,
+      "image": "images/2026-09-14/candidate-4.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-14/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "LG Says Its TVs Aren't Spying on You — Here's the Statement It Prepared for You",
-        "source": "The Verge",
-        "date": "2026-09-13",
-        "url": "https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations",
-        "summary": "セキュリティ研究者らがLGのスマートテレビによるユーザーデータのログ収集・送信を詳細に報告したことを受け、LGが反論声明を発表。「一部メディアの報道がユーザーに誤解を与えた可能性がある」としている。"
+        "headline": "'Cat in the Hat' Goes Dark: AI-Generated Dr. Seuss Threats Prompt School Warnings Nationwide",
+        "source": "The Guardian US",
+        "date": "2026-09-14",
+        "url": "https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings",
+        "summary": "アメリカ各地の学校や法執行機関が、AIで生成した「キャット・イン・ザ・ハット」の不気味な画像を使って学校を脅迫するSNSトレンドに対して警告を発し、複数の未成年者が逮捕されている。"
       },
       "commentary": [
-        "<b>矛盾:</b> データを収集していること自体は否定していないんですよ。「誤解を招いた可能性がある」って言ってるだけで。否定じゃなくてフレーミングの訂正を要求してる。",
-        "<b>滑稽さ:</b> 「一部メディアの報道が誤解を生んだ」。問題は報道じゃなくてテレビがやってることなんですが、LG的には報道が犯人らしい。テレビが見てたんじゃなくて記事が悪かった。",
-        "<b>日本・海外から見ると:</b> 日本の家電メーカーがこれをやったら炎上どころじゃないんですが、アメリカでは「利用規約に書いてあります」で一定数が納得してしまうカルチャーがある。その利用規約、誰も読んでないけど。"
+        "<b>矛盾:</b> 「子供に道徳を教える絵本」のキャラクターが、子供による学校脅迫のアイコンになってる。ドクター・スースが知ったら何と言うんですかね。",
+        "<b>滑稽さ:</b> 生成AIで一番最初に試すことがたくさんあるはずなのに、アメリカの十代が選んだのが「怖いキャット・イン・ザ・ハット」だった、というのが2026年のインターネットの現状なんですよ。",
+        "<b>日本・海外から見ると:</b> 学校への脅迫にキャラクター画像を使うトレンド、笑えない話なんですけど、「なぜそのキャラクター」という選択眼だけは誰も解説できてない。"
       ],
       "imagePrompts": [
-        "A large flat-screen TV in a living room with a tiny camera lens visible in the bezel, a corporate press release pinned to the screen reading 'THIS IS NOT WHAT IT LOOKS LIKE'",
-        "A split image: on the left, a person watching TV from a couch; on the right, a server room full of blinking hard drives with a small LG logo on the door",
-        "A corporate podium with an LG logo, behind it a spokesperson gesturing to a slide that reads 'MISUNDERSTANDING', while in the background a TV screen displays data readouts of user activity"
+        "An elementary school hallway notice board with an official-looking warning flyer pinned next to cheerful children's artwork, the flyer reads 'COMMUNITY ALERT' in bold letters",
+        "A police press conference podium with a blown-up printout of an abstract AI-generated image blurred out, officers in uniform behind the podium",
+        "A school administrator's desk with a stack of incident reports, a worn copy of a children's picture book visible underneath the paperwork"
       ],
       "captions": [
-        "LG says media coverage 'may have contributed to' misunderstandings. Not the data collection — the articles about the data collection. That's the problem.",
-        "They didn't say the TV isn't watching you. They said you might be misunderstanding why it's watching you. There's a difference, apparently.",
-        "Multiple independent researchers found the same thing. LG's response: 'some coverage.' That word 'some' is doing a lot of heavy lifting.",
-        "You bought the TV. The TV also has a job — it's just not working for you.",
-        "In Europe this triggers a GDPR investigation. In America it triggers a press release. Different regulatory vibes."
+        "Dr. Seuss taught a generation of kids that rules are meant to be bent. They remembered.",
+        "Law enforcement has issued formal guidance about a character whose original gimmick was showing up with a fish in a bowl.",
+        "The AI ethics board was not prepared for the Cat in the Hat use case. Nobody was.",
+        "School got a threat. The threat had a striped hat. The threat also rhymed, we assume.",
+        "Teens are getting arrested and the school notice looks like it came from a Seuss sequel nobody asked for."
       ],
       "captionsJa": [
-        "LGは「一部メディアの報道が誤解を生んだ可能性がある」と言った。データ収集じゃなくて、報道が問題らしい。",
-        "テレビがあなたを見てないとは言ってないんですよ。見ている理由をあなたが誤解しているかもしれない、と言ってる。違いがあるらしい。",
-        "複数の独立した研究者が同じ結果を出した。LGの回答は「一部の報道が」。この「一部」が頑張りすぎてる。",
-        "あなたがテレビを買いましたよね。そのテレビにも仕事があります。あなたのための仕事じゃないけど。",
-        "ヨーロッパだとGDPR調査が始まる話。アメリカだとプレスリリースが出る。規制の温度差、すごい。"
+        "ドクター・スースは「ルールは破るためにある」と一世代に教えた。しっかり覚えてたんですね。",
+        "「ボウルの中の魚を持ってくるキャラクター」に関する公式ガイダンスを、法執行機関が発表しました。2026年です。",
+        "AIの倫理委員会は、「キャット・イン・ザ・ハット」の悪用ケースを想定してなかった。誰も想定してなかった。",
+        "学校に脅迫が来た。縞模様の帽子付きで。おそらく韻も踏んでた。",
+        "未成年が逮捕されて、学校のお知らせは誰も頼んでないスースの続編みたいな見た目になってる。"
       ],
-      "newsEn": "Earlier this week, Gamers Nexus, Level1Techs, and independent security researchers published findings detailing how LG smart TVs log and upload user data. LG has now responded, claiming that 'some recent media coverage may have contributed to' misunderstandings among its customers. The company did not deny that data collection occurs, but pushed back against the characterization of the practice as surveillance.",
+      "newsEn": "Schools and law enforcement agencies across the United States are warning about a viral social media trend in which disturbing AI-generated versions of the Dr. Seuss character 'The Cat in the Hat' are being used to threaten schools and communities. Multiple teens have been arrested in connection with the threats. Authorities say the trend has spread rapidly across platforms.",
       "ironyEn": [
         {
-          "contradiction": "LG's response doesn't say the data collection isn't happening. It says the media coverage of the data collection might have caused misunderstandings. The TV is logging your viewing habits — the news article about it is the problem.",
-          "absurdity": "Multiple independent researchers, two well-known tech YouTube channels, and a security audit all found the same thing. LG's response: some media coverage 'may have contributed to' confusion. May have.",
-          "outside": "In Europe, this would immediately trigger GDPR inquiries. In the US, the corporate response to a privacy scandal is apparently a press statement about how press statements are misleading."
+          "contradiction": "Dr. Seuss spent a career teaching kids to be kind and curious. The AI spent an afternoon turning him into a school threat vector.",
+          "absurdity": "Law enforcement is now issuing formal guidance about a children's book character. That sentence exists in 2026.",
+          "outside": "Every AI ethics paper from the past five years listed 'misuse scenarios.' None of them listed this one."
         },
         {
-          "contradiction": "You buy a TV to watch things. Somewhere in the last decade, the TV started watching you back — and the official response is that you misunderstood the relationship.",
-          "absurdity": "The statement was carefully worded enough that LG never actually denied the surveillance. It denied the framing. That's a lot of work to avoid saying 'we don't collect your data.'",
-          "outside": "From abroad: Americans are paying full retail price for a screen that then monetizes their attention on top of it. Twice-sold. The TV is the product, and so are you — LG just asked you not to use that word."
+          "contradiction": "The Cat in the Hat's whole deal was showing up uninvited and causing chaos. The teens may have read more carefully than we thought.",
+          "absurdity": "Schools sent home safety notices featuring a character whose original job was to teach kids it's okay to have fun on a rainy day.",
+          "outside": "AI companies are explaining that their models are safe and aligned. Meanwhile, the output being used in court exhibits features a top hat."
         }
       ],
-      "imageSeed": 5
+      "imageSeed": 5,
+      "image": "images/2026-09-14/candidate-5.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-14/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸：「やってることとやってないことの区別が、言葉だけの話になっている」——AIを遅くすると言いながら走り、監視してないと言いながら録り、法を守ると言いながら偽造する。",
-    "titleEn": "Everyone's Slowing Down, Stopping, and Not Watching You",
-    "subtitleEn": "Five stories about people doing exactly what they said they weren't doing.",
-    "titleJa": "「やっていません」と言いながらやっている5本",
+    "thread": "今日の5本を貫く糸は「守るために作ったものが、守るふりをしながら別のことをしている」。警察の追跡システム、AIの安全宣言、選挙公約、自動運転車、子供向け絵本——全部、看板と中身が別の話。",
+    "titleEn": "Everything Is Working As Intended. That's the Problem.",
+    "subtitleEn": "Five stories about systems doing exactly what they were designed to do — just not for you.",
+    "titleJa": "「守ります」と言いながら通報してくる車と、5000ドルをくれる大統領の話",
     "titleAltJa": [
-      "ドリー・パートンだけが今日、約束を守った",
-      "AIを遅くすると宣言した会社が、今日も世界一速いAIを作っている話"
+      "DVの被害者を加害者に売った「防犯システム」と、今日のアメリカ4本",
+      "「ペースを落とせ」と言いながら開発を続けるCEOたちに、今日一言言える話"
     ],
-    "leadJa": "「やっていません」「誤解です」「遅くします」——今日の5本、全部そう始まる。\n\nで、実際に何をやっていたかというと、全部やっていた。",
-    "introEn": "I read five stories this morning. Four of them are about someone saying one thing and doing another. The fifth is about Dolly Parton, who just keeps being Dolly Parton — and somehow that's the most radical act in today's news.\n\nAn AI company says slow down. A TV company says we're not watching. A president tells a museum what to do. A detention officer says he needed a little extra time.\n\nHere's your forecast: if someone told you today that your work doesn't look like what it actually is — they might have a point, but probably not the point they think. The gap between the label and the thing is very on-brand for a Sunday. You're fine. Dolly would agree.",
-    "introJa": "「誤解を招いた可能性があります」「ペースを落とすべきだと思います」「コロッサスと呼んでください」——今日の5本、全部この感じです。\n\n否定じゃない。フレーミングの訂正。\n\nAI会社のCEOが「もっとゆっくり」と言いながら全速力で走り、スマートテレビが「監視じゃない」と言いながらデータを送り続け、拘置所の職員が判事の署名を20回手書きした。大統領はスミソニアンに30フィートの像を「コロッサス」という名前で発注した。\n\n今日唯一まっすぐだったのは、ドリー・パートン。何も言ってないのに空港になった。\n\n今日の占いです。「うまく説明できない」と思っていることがあるなら、説明の問題じゃないかもしれない。今日のニュースの人たちは全員、説明はうまかった。それでも起訴されたり炎上したりしている。黙って年間18億ドル動かす側でいい。少なくとも今日は。",
-    "quipEn": "Today's lesson: denying the thing and denying that the thing is the thing are two very different legal strategies. Only one of them actually works.",
-    "quipJa": "「やってない」と「やってることの意味が違う」は、別の話です。今日の5本、全部後者でした。",
+    "leadJa": "警察の追跡システムが、追跡してた。ロボタクシーが、乗客を通報した。AIの危険を訴えているのが、AIで一番儲けてる人たちだった。\n\n今日のアメリカ、全員が「守ります」と言ってる。",
+    "introEn": "I read five stories this morning. Every single one was about something designed to help, doing the opposite — quietly, efficiently, and in some cases, automatically.\n\nA cop used crime-fighting tech to help a domestic abuser. The CEOs building the most powerful AI are the ones asking for a slowdown. A self-driving car turned its passengers in. A president is offering $5,000 with no explanation of where it comes from. And the Cat in the Hat is now a threat vector.\n\nHere's your forecast: if you've been following the rules and wondering why nothing seems to be working in your favor, today's news is evidence that the rules were never written with you in mind. That's not pessimism. That's useful information. Go into today knowing the system wasn't broken. It was working on someone else's behalf. Now you know.",
+    "introJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n警察の追跡システムが、被疑者の代わりに被害者を追跡していた。ロボタクシーが、乗客を警察に引き渡した。AIの危険を一番大声で訴えているのが、AIで一番儲けている人たちだった。財源なしの5000ドル公約。「キャット・イン・ザ・ハット」が学校脅迫のアイコンになってた。\n\n今日の5本を貫く糸は、たぶんこれです。「守るために作りました」と書いてある看板の裏側で、別の仕事をしているものたちの話。\n\nということで、占いです。\nあなたが「ちゃんとやってるのに、なんか損してる気がする」と思っているとしたら、それはたぶんあなたのせいじゃない。今日の5本がそれを証明してる。システムは壊れてたんじゃなくて、最初から別の人のために動いてた。\n\nそれがわかっただけで、今日はもう十分だと思う。少なくとも、ロボタクシーには乗らないでおこう。",
+    "quipEn": "Every system today worked exactly as designed. The design just wasn't for us.",
+    "quipJa": "「正常に機能していました」——それが今日一番怖い言葉だったりする。",
     "notesEn": [
-      "Dario Amodei published a long essay calling for AI development to slow down. He is the CEO of Anthropic, which builds some of the most advanced AI in the world. The essay is very thoughtful. The model Anthropic shipped last week did not read it.",
-      "A detention officer in North Carolina is charged with forging 20 magistrate signatures to buy time to hand people over to ICE. The system designed to prevent exactly this apparently required a pen and nobody checking.",
-      "Nashville just renamed its airport after Dolly Parton. The vote was unanimous. She generates $1.8 billion a year for Tennessee. American airports are usually named after dead politicians. Nashville did the math.",
-      "Trump asked the Smithsonian to install a 30-foot statue of George Washington called 'the Colossus' — and specified it should stay up until 2032. It has a name, a height, and an expiration date. That's not a cultural request. That's a production brief.",
-      "LG responded to reports that its smart TVs log and upload user data. The company did not deny that the data collection happens. It said 'some recent media coverage may have contributed to misunderstandings.' The TVs are fine. The articles were the problem."
+      "A San Jose cop used the department's license plate tracking system to locate a domestic abuse victim — and hand her location to the suspect. Not a hack. Not a breach. Just a regular login, and a regular betrayal.",
+      "The CEOs building the most powerful AI in history published an open letter asking everyone to please slow down. Their servers did not get the memo.",
+      "Trump is promising every American adult $5,000 if Republicans win the midterms. No funding source mentioned. 'Dividend' is a great word. It implies there's a profit somewhere. He did not say where.",
+      "A Waymo robotaxi pulled over and called the cops on its own passengers. No driver to negotiate with, no tip to soften the mood. Just a car that had already dialed.",
+      "Schools across the US are issuing warnings about AI-generated Cat in the Hat images being used to threaten communities. Law enforcement has issued formal guidance about a character whose original gimmick was showing up with a fish in a bowl."
     ],
     "xJa": [
-      "アンソロピックCEOが「AIのペースを落とすべき」というエッセイを発表。公開されたのは社内研究者が安全問題で退職して騒ぎになった数日後。ニュースサイクルの使い方、もう少し練れたと思う。",
-      "ノースカロライナ州の元拘置所職員、判事の署名を20回偽造してICEへの引き渡し時間を確保した疑いで起訴。法の番人が司法の署名を手書きで迂回していた。20回。",
-      "ナッシュビルの空港、全会一致でドリー・パートンの名前に改称。年間18億ドルの経済効果。政治家の名前の空港より、実際にお金を運んでくる人の名前にした。正直すぎる。",
-      "トランプ大統領、スミソニアンに「ジョージ・ワシントンの30フィートのコロッサス像を置いてほしい」と要請。名前・サイズ・設置期限まで指定。大統領令ではなく、かなり具体的なリクエスト。",
-      "LGのスマートテレビがユーザーデータを収集・送信していると研究者が報告→LGの反論「一部メディアの報道が誤解を招いた可能性がある」。データ収集は否定していない。報道が悪かった、らしい。"
+      "サンノゼ市警の警官が、DV被害者の居場所を加害者に教えていた。「不正ハッキング」とかじゃなく、正規のログイン画面から普通にやった、というのが問題の核心なんですよ。防犯システムが一番怖い日。",
+      "AI開発の「ペースダウン」を求める公開書簡を出したのは、OpenAIとAnthropicとGoogleのトップたち。書簡を出した後、彼らは自分のオフィスに戻って開発を続けた。",
+      "「選挙に勝ったら全員に5000ドル配ります」——財源の説明は特にない。「配当金」という言葉を使っているけど、利益がどこにあるかは誰も聞いてない。",
+      "Waymoのロボタクシーが走行中に止まって乗客2人を警察に通報した。運転手なし、融通なし、密告あり。これが配車サービスの進化の着地点らしい。",
+      "アメリカの学校が「AIで生成したキャット・イン・ザ・ハットを使った脅迫トレンド」に警告を出している。生成AIで一番最初に試すことが他にもあったはずなのに、十代が選んだのがこれだった。"
     ],
     "raidEn": [
-      "The essay makes a compelling case. The company's roadmap makes a different case. Both are technically public.",
-      "Twenty counts. And the system that was supposed to catch this apparently needed someone to file charges for it to become visible.",
-      "Every other airport is named after someone who can't draw a crowd anymore. Nashville did the sensible thing.",
-      "He didn't ask for a statue. He asked for a Colossus. With a deadline. I respect the specificity.",
-      "They confirmed the data leaves your TV. They disputed the word for it. That's a choice."
+      "The system flagged the right location. It was just sending it to the wrong person. That sentence took me three reads.",
+      "My favorite part is that every executive who signed the letter runs a company that's currently at full capacity. 'Please, someone stop us' is a new genre of press release.",
+      "'Dividend' is doing a lot of work in that sentence. Usually implies there was a profit somewhere upstream. The math is left as an exercise for the voter.",
+      "They got into the one vehicle in San Francisco with no human to reason with. That's just tactically unfortunate.",
+      "The AI ethics community spent years on alignment research. Nobody put 'Dr. Seuss threat vector' on the threat model. Nobody."
     ],
     "raidJa": [
-      "エッセイの主張と自社の開発ロードマップが、静かにすれ違っているのが今日一番読み応えがありました。よくまとめてくださっています。",
-      "20件という数字が重い記事ですね。制度の監視機能がどこで止まっていたのか、読みながらずっと考えていました。",
-      "ドリー・パートンの経済効果を理由に全会一致って、アメリカの政治がいちばんわかりやすく動いた瞬間かもしれないと思いました。",
-      "「コロッサス」に「2032年まで」の期限がついてるあたり、文化的要請というより仕様書という感じで、そこが一番引っかかりました。",
-      "「誤解を招いた可能性がある」という一文の重量、記事を読んでからずっと気になっています。よい切り口だと思いました。"
+      "「システムは正常に動作していました」という文を3回読み直しました。そのたびに怖くなりました。丁寧な記事をありがとうございます。",
+      "「ペースを落とすべき」と言いながら開発を続けているという構図、記事を読んで整理されました。「誰か止めて」という声明のジャンル、初めて見ました。",
+      "「配当金」という言葉の使い方、利益がどこかにあることを前提にしてますよね。どこにあるんですかね、という疑問が残りました。",
+      "「運転手なし、融通なし、密告あり」という整理が刺さりました。利用規約のどこかに書いてあったはずですよね、きっと。",
+      "生成AIで最初に試すものが他にもあったはずなのに、という気持ち、記事を読んで改めて思いました。「なぜそのキャラクター」だけは誰も解説できてないというのも。"
     ],
     "riffEn": [
-      "Dario Amodei wants to slow down AI. He runs one of the fastest AI labs on earth. He published a long, careful essay making this case — three days after one of his own researchers quit over safety concerns and went public about it. The essay calls for third-party access to Anthropic's models and a 'three-step plan to pace the frontier.' Elon Musk and Sam Altman both said they agreed. Three AI billionaires in a room, nodding at a document about going slower. The frontier remains unpaced.",
-      "Michael Diehl worked as a detention officer in Guilford County, North Carolina. He wanted to hand people over to ICE. The problem was the legal clock — people had to be released before ICE could take custody. His solution was to forge the signatures of magistrates. Twenty times. Not once, in a panic. Twenty separate documents, twenty separate signatures, twenty decisions that the judicial system would not notice or would not stop him. He has now been charged with twenty felony counts. The system that was supposed to prevent this didn't need a sophisticated bypass. It needed a pen.",
-      "Nashville's airport is now named after Dolly Parton. The vote was unanimous — the board, the mayor, the governor, all of them. American airports are almost exclusively named after dead presidents and long-retired politicians. Nashville's argument was simpler: she brings in $1.8 billion a year. The city didn't honor her. It invoiced her. She already turned down a statue of herself, by the way. The state's response was to name an airport after her instead. Dolly can't catch a break.",
-      "Trump asked the Smithsonian to put a 30-foot statue of George Washington outside the National Museum of American History. He named it: the Colossus. He specified the height. He specified the end date — 2032. That's the 300th anniversary of Washington's birth, and also, not coincidentally, an election year. Most presidents request a library. This one submitted a production brief with dimensions. The Smithsonian, for what it's worth, is an independent institution.",
-      "Independent security researchers published detailed findings on how LG smart TVs log and upload user data. LG responded. They did not say the data collection doesn't happen. They said 'some recent media coverage may have contributed to misunderstandings among our valued customers.' The TV is watching. The articles about the TV watching are the misunderstanding. LG would like you to feel clear on that distinction."
+      "The San Jose Police Department had a license plate tracking system. The idea was: police use it to find bad guys. What actually happened: a police officer used it to find a victim, then forwarded her location to the suspect in her domestic abuse case. He was fired. The system is still running. Here's the part that keeps me up: this wasn't a hack. No one broke in. He just logged in, the way he did every other day, and the database handed over what he asked for. The entire design worked correctly. That's the problem.",
+      "The CEOs who built the thing are now asking everyone to please stop building the thing. Dario Amodei, Sam Altman, Demis Hassabis — they all signed on to the slowdown letter. Then they went back to their offices. Their companies remain, at this moment, at full capacity. Trump said the industry was overreacting. The industry said civilization might be at stake. Somewhere between those two positions is a Senate bill that will not pass. The servers did not weigh in.",
+      "Trump promised $5,000 to every American adult if Republicans win the midterms. He called it a 'dividend.' Dividend implies a profit somewhere upstream — a company does well, shareholders get a cut. The country is not a company, the budget is not a profit, and no one mentioned where the money comes from. Both parties are skeptical. The proposal has no funding mechanism. The word 'dividend' is still in the headline, doing its best.",
+      "A Waymo robotaxi was carrying two passengers in San Francisco when it pulled over and called the police. The passengers were juveniles. They had a loaded ghost gun. They were arrested. No human driver to read the room, no negotiation, no tip to soften the atmosphere. The car stopped, the car called, the cops came. The only thing missing from the ride was a five-star rating. Somewhere in the terms of service, this was always going to happen.",
+      "Schools across the United States are now issuing formal warnings about AI-generated images of the Cat in the Hat being used to threaten communities. Multiple teenagers have been arrested. Law enforcement agencies — actual law enforcement agencies — have published guidance about a character who first appeared in a 1957 picture book about what happens when you let a tall cat into your house. The original lesson was about chaos. The teenagers remembered."
     ],
     "riffJa": [
-      "ダリオ・アモデイCEOがエッセイを書きました。「AIのペースを落とすべき」という内容で、自社モデルを第三者機関に開放する「3ステップ計画」も発表した。読み応えがあります。\n\nで、このエッセイが公開されたのが、社内の研究者が安全への懸念で退職して騒ぎになった数日後。イーロン・マスクとサム・アルトマンが「賛成」と言っている。世界で最も速いAIを作り続けている3社のトップが、速度を落とす文書に揃ってうなずいた。\n\nペースは落ちていない。",
-      "ノースカロライナ州グイルフォード郡の元拘置所職員マイケル・ディールが、重罪20件で起訴されました。ICEへの引き渡し前に法的に釈放しなければならない時間的な問題があった。彼の解決策は、治安判事の署名を偽造すること。\n\n20回。パニックで一度やらかしたんじゃない。20件の書類に、20回、手書きで。誰も止めなかった。そのシステムが、今回の起訴でようやく表に出てきた。",
-      "ナッシュビルの空港が、カントリー音楽の大スターであるドリー・パートンの名前に改称されました。全会一致。市長も知事も賛成。\n\nアメリカの空港って、基本的に死んだ政治家の名前なんですよ。ナッシュビルの理屈はシンプルで、「年間18億ドル持ってきてる人でしょ」という経済合理性。あと、ドリーは以前に自分の銅像を断っているんです。州はその代わりに空港にした。断っても断っても名誉を与えてくる。",
-      "トランプ大統領がスミソニアン協会に要請しました。ジョージ・ワシントンの「コロッサス像」を博物館の外に設置してほしい、と。\n\n「コロッサス」というのは、古代の巨像から来た「圧倒的に巨大なもの」という意味の言葉です。高さ30フィート（約9メートル）。設置期限は2032年まで——ワシントンの生誕300年の節目であり、大統領選の年でもあります。名前あり、サイズあり、期限あり。これは文化的な要請ではなく、かなり詳細な発注書です。スミソニアンは独立機関。",
-      "複数のセキュリティ研究者が、LGのスマートテレビがユーザーデータを記録・送信していると詳細に報告しました。LGが反論声明を出した。\n\nデータを収集していること自体は、否定していません。「一部メディアの報道がユーザーに誤解を与えた可能性がある」と言っている。テレビが見ているんじゃなくて、記事が問題だった、という立場。否定じゃなくて、「誤解」という言葉の再定義を求めている。「一部」って便利な言葉ですね。"
+      "サンノゼ市警には「Flock」というナンバープレート追跡システムがあって、犯罪捜査のために使うことになっていました。実際に起きたのは、警察官がそのシステムでDV被害者の現在地を調べて、加害者の親族に教えた、ということです。解雇されました。システムは今も動いています。\n\n「不正アクセス」でも「外部からの侵入」でもない。正規のログインで、正規の画面から、正規の操作で。システムは完璧に機能していました。それが今日一番怖い言葉。",
+      "AI開発をペースダウンすべき、という公開書簡を出したのは、OpenAIのサム・アルトマン、AnthropicのダリオPC・アモダイ、GoogleのデミスPC・ハサビス。つまり現在のAI開発を一番速く走らせている人たちです。書簡を出した後、彼らはオフィスに戻った。開発は止まっていない。\n\nトランプは「専門家たちの過剰反応だ」と言い切った。専門家たちは「文明のレベルの話をしている」と言っている。止まってから言ってくれ、という気持ちはある。",
+      "「共和党が中間選挙に勝ったら、全米成人に5000ドルを配ります」。財源の説明は特にない。「配当金」という言葉を使っている。配当金というのは、どこかに利益があって、その分け前をもらうものです。どこに利益があるのか、誰も聞いていない。\n\n共和・民主両党から疑問視されている。それはそうだと思う。",
+      "Waymoのロボタクシーが、走行中に自分で止まって、警察に通報した。乗っていたのは未成年2人で、ゴーストガンを持っていた。2人は逮捕された。運転手はいない。交渉する相手もいない。車に頼んでも聞いてくれる気配もない。\n\n車が止まって、車が電話して、警察が来た。利用規約のどこかに書いてあったはずです、きっと。読んだ人はいないでしょうけど。",
+      "アメリカの学校が「AIで生成したキャット・イン・ザ・ハットを使った脅迫トレンド」に警告を出している。複数の未成年が逮捕されている。キャット・イン・ザ・ハットは1957年の絵本のキャラクターです。「退屈な雨の日に、背の高い猫が家にやってきてカオスを起こす」という話。\n\n子供たちはその教訓を覚えていた、ということかもしれない。笑えないけど。"
     ],
     "asideEn": [
-      "The deceleration memo ships Monday.",
-      "This one isn't funny.",
-      "Unanimously. In 2026.",
-      "Nine meters. Named. Expiration date included.",
-      "The TV declined to comment."
+      "The system worked perfectly.",
+      "Their inboxes remain at full capacity.",
+      "'Dividend.' Sure.",
+      "Read the terms of service.",
+      "Dr. Seuss did not see this coming."
     ],
     "asideJa": [
-      "減速宣言、月曜発送。",
-      "これは、笑えない。",
-      "全会一致。2026年に。",
-      "名前付き、期限付き、9メートル。",
-      "テレビはノーコメント。"
+      "正常に機能していました。",
+      "サーバーは止まってません。",
+      "財源は「ご想像にお任せします」。",
+      "規約に書いてあったはず。",
+      "スースも予測しなかった。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Anthropic",
-      "Dolly Parton",
-      "LG"
+      "Current Events",
+      "Waymo",
+      "Artificial Intelligence"
     ],
-    "fullEn": "# Everyone's Slowing Down, Stopping, and Not Watching You\n\n## Today's Forecast\n\nI read five stories this morning. Four of them are about someone saying one thing and doing another. The fifth is about Dolly Parton, who just keeps being Dolly Parton — and somehow that's the most radical act in today's news.\n\nAn AI company says slow down. A TV company says we're not watching. A president tells a museum what to do. A detention officer says he needed a little extra time.\n\nHere's your forecast: if someone told you today that your work doesn't look like what it actually is — they might have a point, but probably not the point they think. The gap between the label and the thing is very on-brand for a Sunday. You're fine. Dolly would agree.\n\n---\n\n## 1. Anthropic CEO Wants to Slow Down the AI Race — While Running in It\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)*\n\nAnthropic CEO Dario Amodei published a lengthy essay calling for a slowdown in AI development, citing safety concerns including the possibility of rogue AI agents taking over the internet within six months. Amodei proposed a three-step plan to 'pace the frontier' and pledged to give third-party evaluators access to Anthropic's models. The announcement came just days after an Anthropic researcher publicly quit, sparking controversy on social media.\n\n**Why It's Funny**\n\nDario Amodei wants to slow down AI. He runs one of the fastest AI labs on earth. He published a long, careful essay making this case — three days after one of his own researchers quit over safety concerns and went public about it. The essay calls for third-party access to Anthropic's models and a 'three-step plan to pace the frontier.' Elon Musk and Sam Altman both said they agreed. Three AI billionaires in a room, nodding at a document about going slower. The frontier remains unpaced.\n\n**Say It Out Loud**\n\n> The CEO of an AI company says we need to slow down AI. His company's latest model, meanwhile, is reportedly reading this article faster than you are.\n\n---\n\n## 2. North Carolina Detention Officer Allegedly Forged 20 Signatures to Hand People Over to ICE\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/12/former-detention-officer-north-carolina-charged-felony-forgery)*\n\nA former detention officer in Guilford County, North Carolina, Michael Diehl, has been charged with 20 counts of felony forgery. Authorities allege Diehl forged the signatures of magistrates on documents to extend detention time, allowing ICE to take custody of individuals before they could be legally released. The charges represent a direct breach of judicial authority by a law enforcement officer.\n\n**Why It's Funny**\n\nMichael Diehl worked as a detention officer in Guilford County, North Carolina. He wanted to hand people over to ICE. The problem was the legal clock — people had to be released before ICE could take custody. His solution was to forge the signatures of magistrates. Twenty times. Not once, in a panic. Twenty separate documents, twenty separate signatures, twenty decisions that the judicial system would not notice or would not stop him. He has now been charged with twenty felony counts. The system that was supposed to prevent this didn't need a sophisticated bypass. It needed a pen.\n\n**Say It Out Loud**\n\n> A detention officer forged 20 magistrate signatures to buy time for ICE transfers. Not once. Twenty separate documents. The oversight system that was supposed to catch this needed only a pen to defeat.\n\n---\n\n## 3. Nashville Airport Renamed After Dolly Parton, Who Is Worth $1.8 Billion to Tennessee Annually\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/12/nashville-airport-dolly-parton)*\n\nThe Nashville airport board of commissioners voted unanimously to rename the city's main airport after country music legend Dolly Parton. The city's mayor and Tennessee's governor had both backed the name change the previous month. Parton is estimated to generate approximately $1.8 billion annually for Tennessee's economy.\n\n**Why It's Funny**\n\nNashville's airport is now named after Dolly Parton. The vote was unanimous — the board, the mayor, the governor, all of them. American airports are almost exclusively named after dead presidents and long-retired politicians. Nashville's argument was simpler: she brings in $1.8 billion a year. The city didn't honor her. It invoiced her. She already turned down a statue of herself, by the way. The state's response was to name an airport after her instead. Dolly can't catch a break.\n\n**Say It Out Loud**\n\n> Every other American airport is named after a dead politician. Nashville said — why not the person actually bringing in the money?\n\n---\n\n## 4. Trump Asks Smithsonian to Install 30-Foot 'Colossus' George Washington Statue — Until 2032\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/12/trump-smithsonian-george-washington-statue-exhibit)*\n\nPresident Trump requested that the Smithsonian Institution install a 30-foot 'Colossus statue' of George Washington outside the National Museum of American History, along with a special exhibit honoring Washington. Trump specified the exhibit would remain in place until 2032, marking the 300th anniversary of Washington's birth. This is not the first time Trump has attempted to influence what the Smithsonian displays.\n\n**Why It's Funny**\n\nTrump asked the Smithsonian to put a 30-foot statue of George Washington outside the National Museum of American History. He named it: the Colossus. He specified the height. He specified the end date — 2032. That's the 300th anniversary of Washington's birth, and also, not coincidentally, an election year. Most presidents request a library. This one submitted a production brief with dimensions. The Smithsonian, for what it's worth, is an independent institution.\n\n**Say It Out Loud**\n\n> Trump asked the Smithsonian for a 30-foot statue called 'the Colossus.' Most presidents ask for a library. Just saying.\n\n---\n\n## 5. LG Says Its TVs Aren't Spying on You — Here's the Statement It Prepared for You\n\n*The Verge — [source](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)*\n\nEarlier this week, Gamers Nexus, Level1Techs, and independent security researchers published findings detailing how LG smart TVs log and upload user data. LG has now responded, claiming that 'some recent media coverage may have contributed to' misunderstandings among its customers. The company did not deny that data collection occurs, but pushed back against the characterization of the practice as surveillance.\n\n**Why It's Funny**\n\nIndependent security researchers published detailed findings on how LG smart TVs log and upload user data. LG responded. They did not say the data collection doesn't happen. They said 'some recent media coverage may have contributed to misunderstandings among our valued customers.' The TV is watching. The articles about the TV watching are the misunderstanding. LG would like you to feel clear on that distinction.\n\n**Say It Out Loud**\n\n> LG says media coverage 'may have contributed to' misunderstandings. Not the data collection — the articles about the data collection. That's the problem.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: denying the thing and denying that the thing is the thing are two very different legal strategies. Only one of them actually works.\n",
-    "fullJa": "# 「やっていません」と言いながらやっている5本\n\n## 今日を占うよ〜\n\n「誤解を招いた可能性があります」「ペースを落とすべきだと思います」「コロッサスと呼んでください」——今日の5本、全部この感じです。\n\n否定じゃない。フレーミングの訂正。\n\nAI会社のCEOが「もっとゆっくり」と言いながら全速力で走り、スマートテレビが「監視じゃない」と言いながらデータを送り続け、拘置所の職員が判事の署名を20回手書きした。大統領はスミソニアンに30フィートの像を「コロッサス」という名前で発注した。\n\n今日唯一まっすぐだったのは、ドリー・パートン。何も言ってないのに空港になった。\n\n今日の占いです。「うまく説明できない」と思っていることがあるなら、説明の問題じゃないかもしれない。今日のニュースの人たちは全員、説明はうまかった。それでも起訴されたり炎上したりしている。黙って年間18億ドル動かす側でいい。少なくとも今日は。\n\n---\n\n## 1. Anthropic CEO Wants to Slow Down the AI Race — While Running in It\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/994337/anthropic-ceo-slow-down-ai-development)）*\n\nアンソロピックのダリオ・アモデイCEOが、AIの能力開発ペースを落とすべきだとするエッセイを公開。自社のモデルを第三者評価機関に開放する「3ステップ計画」を発表した。\n\n**どこが笑える？**\n\nダリオ・アモデイCEOがエッセイを書きました。「AIのペースを落とすべき」という内容で、自社モデルを第三者機関に開放する「3ステップ計画」も発表した。読み応えがあります。\n\nで、このエッセイが公開されたのが、社内の研究者が安全への懸念で退職して騒ぎになった数日後。イーロン・マスクとサム・アルトマンが「賛成」と言っている。世界で最も速いAIを作り続けている3社のトップが、速度を落とす文書に揃ってうなずいた。\n\nペースは落ちていない。\n\n**このニュースをジョークにするなら...**\n\n> AI会社のCEOが「AIを遅くしよう」と言ってる。その会社の最新モデルは、あなたがこれを読んでいる間にもう読み終わってますけど。\n\n---\n\n## 2. North Carolina Detention Officer Allegedly Forged 20 Signatures to Hand People Over to ICE\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/12/former-detention-officer-north-carolina-charged-felony-forgery)）*\n\nノースカロライナ州の元グイルフォード郡拘置所職員マイケル・ディールが、ICEへの引き渡しに必要な時間を確保するため、治安判事の署名を20件偽造したとして重罪で起訴された。\n\n**どこが笑える？**\n\nノースカロライナ州グイルフォード郡の元拘置所職員マイケル・ディールが、重罪20件で起訴されました。ICEへの引き渡し前に法的に釈放しなければならない時間的な問題があった。彼の解決策は、治安判事の署名を偽造すること。\n\n20回。パニックで一度やらかしたんじゃない。20件の書類に、20回、手書きで。誰も止めなかった。そのシステムが、今回の起訴でようやく表に出てきた。\n\n**このニュースをジョークにするなら...**\n\n> 拘置所職員が治安判事の署名を20回偽造してICEへの引き渡し時間を確保した。一度じゃない。20件の別々の書類。それを止めるはずの監視機能に必要だったのはペン一本だった。\n\n---\n\n## 3. Nashville Airport Renamed After Dolly Parton, Who Is Worth $1.8 Billion to Tennessee Annually\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/12/nashville-airport-dolly-parton)）*\n\nナッシュビルの空港委員会が、歌手ドリー・パートンにちなんだ空港名への改称を全会一致で承認した。パートンは年間18億ドルをテネシー州経済にもたらしているとされる。\n\n**どこが笑える？**\n\nナッシュビルの空港が、カントリー音楽の大スターであるドリー・パートンの名前に改称されました。全会一致。市長も知事も賛成。\n\nアメリカの空港って、基本的に死んだ政治家の名前なんですよ。ナッシュビルの理屈はシンプルで、「年間18億ドル持ってきてる人でしょ」という経済合理性。あと、ドリーは以前に自分の銅像を断っているんです。州はその代わりに空港にした。断っても断っても名誉を与えてくる。\n\n**このニュースをジョークにするなら...**\n\n> アメリカの空港って大体、亡くなった政治家の名前じゃないですか。テネシー州は「実際に金を稼いでる人にしよう」って。\n\n---\n\n## 4. Trump Asks Smithsonian to Install 30-Foot 'Colossus' George Washington Statue — Until 2032\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/12/trump-smithsonian-george-washington-statue-exhibit)）*\n\nトランプ大統領がスミソニアン協会に対し、アメリカ歴史博物館の外にジョージ・ワシントンの30フィートの「コロッサス像」とその功績を称える特別展示を設置するよう要請した。展示は2032年まで存続させるという。\n\n**どこが笑える？**\n\nトランプ大統領がスミソニアン協会に要請しました。ジョージ・ワシントンの「コロッサス像」を博物館の外に設置してほしい、と。\n\n「コロッサス」というのは、古代の巨像から来た「圧倒的に巨大なもの」という意味の言葉です。高さ30フィート（約9メートル）。設置期限は2032年まで——ワシントンの生誕300年の節目であり、大統領選の年でもあります。名前あり、サイズあり、期限あり。これは文化的な要請ではなく、かなり詳細な発注書です。スミソニアンは独立機関。\n\n**このニュースをジョークにするなら...**\n\n> トランプ大統領がスミソニアンに「30フィートのコロッサス像」を要請した。ほかの大統領は図書館を建てるんですが。\n\n---\n\n## 5. LG Says Its TVs Aren't Spying on You — Here's the Statement It Prepared for You\n\n*The Verge（[記事](https://www.theverge.com/tech/994333/lg-responds-to-tv-spying-allegations)）*\n\nセキュリティ研究者らがLGのスマートテレビによるユーザーデータのログ収集・送信を詳細に報告したことを受け、LGが反論声明を発表。「一部メディアの報道がユーザーに誤解を与えた可能性がある」としている。\n\n**どこが笑える？**\n\n複数のセキュリティ研究者が、LGのスマートテレビがユーザーデータを記録・送信していると詳細に報告しました。LGが反論声明を出した。\n\nデータを収集していること自体は、否定していません。「一部メディアの報道がユーザーに誤解を与えた可能性がある」と言っている。テレビが見ているんじゃなくて、記事が問題だった、という立場。否定じゃなくて、「誤解」という言葉の再定義を求めている。「一部」って便利な言葉ですね。\n\n**このニュースをジョークにするなら...**\n\n> LGは「一部メディアの報道が誤解を生んだ可能性がある」と言った。データ収集じゃなくて、報道が問題らしい。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「やってない」と「やってることの意味が違う」は、別の話です。今日の5本、全部後者でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d2（署名偽造）はsensitive指定漏れ。captions/captionsJaが英日同文で風刺ゼロの「解説」止まり。d3のcaption5本目・captionsJa5本目が汎用AI型の観察オチ（'Somewhere in Washington…'）で終わっており書き直し。d5のcaption4本目「You bought the TV…」はパンチラインが文末で機能しているが、対応captionsJa4本目は成立しているため保持。introJaの締め段落が「アドバイス→例示→締め」の構造で書き言葉的。xJaのd1が137字でオーバー。riffJaのd2最終文が蛇足。これらをピンポイントで修正する。 ／ 文体パス: 3箇所を修正。riffJa[0]末尾の「フロンティアは、引き続きペースを落としていない」が締め畳みすぎ、riffJa[1]の「法の執行者が〜表面化した」が説明口調すぎ、riffJa[4]の「その『一部』という言葉が今日一番働いていた」がうまくまとめた感で着地しているのを崩した。"
+    "fullEn": "# Everything Is Working As Intended. That's the Problem.\n\n## Today's Forecast\n\nI read five stories this morning. Every single one was about something designed to help, doing the opposite — quietly, efficiently, and in some cases, automatically.\n\nA cop used crime-fighting tech to help a domestic abuser. The CEOs building the most powerful AI are the ones asking for a slowdown. A self-driving car turned its passengers in. A president is offering $5,000 with no explanation of where it comes from. And the Cat in the Hat is now a threat vector.\n\nHere's your forecast: if you've been following the rules and wondering why nothing seems to be working in your favor, today's news is evidence that the rules were never written with you in mind. That's not pessimism. That's useful information. Go into today knowing the system wasn't broken. It was working on someone else's behalf. Now you know.\n\n---\n\n## 1. San Jose Cop Used Police Surveillance Tech to Help Alleged Abuser Track His Victim\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse)*\n\nA San Jose police officer was fired after using the department's Flock license plate tracking system to locate a woman and share her whereabouts with a relative who was the suspect in her domestic abuse case. Police Chief Paul Joseph confirmed the firing to NBC Bay Area. The system, designed to aid law enforcement, was instead used against the very person it was meant to protect.\n\n**Why It's Funny**\n\nThe San Jose Police Department had a license plate tracking system. The idea was: police use it to find bad guys. What actually happened: a police officer used it to find a victim, then forwarded her location to the suspect in her domestic abuse case. He was fired. The system is still running. Here's the part that keeps me up: this wasn't a hack. No one broke in. He just logged in, the way he did every other day, and the database handed over what he asked for. The entire design worked correctly. That's the problem.\n\n**Say It Out Loud**\n\n> The system worked exactly as designed. That's the problem.\n\n---\n\n## 2. AI Bosses Beg to Slow Down AI; Trump Says Keep Going\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)*\n\nAnthropic CEO Dario Amodei published an open letter calling on the AI industry to slow down frontier development. OpenAI's Sam Altman, Elon Musk, and Google DeepMind's Demis Hassabis all publicly expressed support. President Trump and House Speaker Mike Johnson pushed back, saying the industry was overreacting and that slowing down would cede ground to China.\n\n**Why It's Funny**\n\nThe CEOs who built the thing are now asking everyone to please stop building the thing. Dario Amodei, Sam Altman, Demis Hassabis — they all signed on to the slowdown letter. Then they went back to their offices. Their companies remain, at this moment, at full capacity. Trump said the industry was overreacting. The industry said civilization might be at stake. Somewhere between those two positions is a Senate bill that will not pass. The servers did not weigh in.\n\n**Say It Out Loud**\n\n> The CEOs who raced to build it are now asking everyone to please stop racing. Their servers remain at full capacity.\n\n---\n\n## 3. Trump Promises Every American $5,000 If Republicans Win Midterms\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge)*\n\nDonald Trump reiterated his pledge to distribute $5,000 to every American adult as a 'dividend' if Republicans maintain control of Congress after November's midterm elections. The proposal has been met with incredulity across the political spectrum. Trump did not specify the funding mechanism for the payment.\n\n**Why It's Funny**\n\nTrump promised $5,000 to every American adult if Republicans win the midterms. He called it a 'dividend.' Dividend implies a profit somewhere upstream — a company does well, shareholders get a cut. The country is not a company, the budget is not a profit, and no one mentioned where the money comes from. Both parties are skeptical. The proposal has no funding mechanism. The word 'dividend' is still in the headline, doing its best.\n\n**Say It Out Loud**\n\n> Five thousand dollars per adult American, no funding source mentioned, next question.\n\n---\n\n## 4. Waymo Robotaxi Pulls Over, Calls Cops on Its Own Passengers\n\n*The Verge — [source](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)*\n\nA Waymo robotaxi in San Francisco pulled over and alerted police during a ride, leading to the arrest of two juvenile passengers who were found in possession of a loaded AR-style ghost gun. The vehicle stopped on its own and law enforcement responded. The police report did not specify the exact mechanism by which Waymo flagged the situation.\n\n**Why It's Funny**\n\nA Waymo robotaxi was carrying two passengers in San Francisco when it pulled over and called the police. The passengers were juveniles. They had a loaded ghost gun. They were arrested. No human driver to read the room, no negotiation, no tip to soften the atmosphere. The car stopped, the car called, the cops came. The only thing missing from the ride was a five-star rating. Somewhere in the terms of service, this was always going to happen.\n\n**Say It Out Loud**\n\n> No driver, no negotiation, no tip — just a car that had already dialed.\n\n---\n\n## 5. 'Cat in the Hat' Goes Dark: AI-Generated Dr. Seuss Threats Prompt School Warnings Nationwide\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings)*\n\nSchools and law enforcement agencies across the United States are warning about a viral social media trend in which disturbing AI-generated versions of the Dr. Seuss character 'The Cat in the Hat' are being used to threaten schools and communities. Multiple teens have been arrested in connection with the threats. Authorities say the trend has spread rapidly across platforms.\n\n**Why It's Funny**\n\nSchools across the United States are now issuing formal warnings about AI-generated images of the Cat in the Hat being used to threaten communities. Multiple teenagers have been arrested. Law enforcement agencies — actual law enforcement agencies — have published guidance about a character who first appeared in a 1957 picture book about what happens when you let a tall cat into your house. The original lesson was about chaos. The teenagers remembered.\n\n**Say It Out Loud**\n\n> Dr. Seuss taught a generation of kids that rules are meant to be bent. They remembered.\n\n---\n\n## Today's Punchline\n\n> Every system today worked exactly as designed. The design just wasn't for us.\n",
+    "fullJa": "# 「守ります」と言いながら通報してくる車と、5000ドルをくれる大統領の話\n\n## 今日を占うよ〜\n\n記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n警察の追跡システムが、被疑者の代わりに被害者を追跡していた。ロボタクシーが、乗客を警察に引き渡した。AIの危険を一番大声で訴えているのが、AIで一番儲けている人たちだった。財源なしの5000ドル公約。「キャット・イン・ザ・ハット」が学校脅迫のアイコンになってた。\n\n今日の5本を貫く糸は、たぶんこれです。「守るために作りました」と書いてある看板の裏側で、別の仕事をしているものたちの話。\n\nということで、占いです。\nあなたが「ちゃんとやってるのに、なんか損してる気がする」と思っているとしたら、それはたぶんあなたのせいじゃない。今日の5本がそれを証明してる。システムは壊れてたんじゃなくて、最初から別の人のために動いてた。\n\nそれがわかっただけで、今日はもう十分だと思う。少なくとも、ロボタクシーには乗らないでおこう。\n\n---\n\n## 1. San Jose Cop Used Police Surveillance Tech to Help Alleged Abuser Track His Victim\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/13/san-jose-officer-fired-flock-camera-misuse)）*\n\nサンノゼ市警の警察官が、部署のナンバープレート追跡システム「Flock」を悪用し、DVの被疑者に被害女性の居場所を通知していたとして解雇された。\n\n**どこが笑える？**\n\nサンノゼ市警には「Flock」というナンバープレート追跡システムがあって、犯罪捜査のために使うことになっていました。実際に起きたのは、警察官がそのシステムでDV被害者の現在地を調べて、加害者の親族に教えた、ということです。解雇されました。システムは今も動いています。\n\n「不正アクセス」でも「外部からの侵入」でもない。正規のログインで、正規の画面から、正規の操作で。システムは完璧に機能していました。それが今日一番怖い言葉。\n\n**このニュースをジョークにするなら...**\n\n> システムは設計通りに動いた。それが問題なんですよ。\n\n---\n\n## 2. AI Bosses Beg to Slow Down AI; Trump Says Keep Going\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/994441/trump-mike-johnson-ai-industry-overreacting)）*\n\nAnthropic CEOのダリオ・アモダイがAI開発の「ペースダウン」を求める公開書簡を発表し、OpenAIやGoogleのトップも賛同を示す中、トランプ前大統領とマイク・ジョンソン下院議長は業界の過剰反応だと一蹴した。\n\n**どこが笑える？**\n\nAI開発をペースダウンすべき、という公開書簡を出したのは、OpenAIのサム・アルトマン、AnthropicのダリオPC・アモダイ、GoogleのデミスPC・ハサビス。つまり現在のAI開発を一番速く走らせている人たちです。書簡を出した後、彼らはオフィスに戻った。開発は止まっていない。\n\nトランプは「専門家たちの過剰反応だ」と言い切った。専門家たちは「文明のレベルの話をしている」と言っている。止まってから言ってくれ、という気持ちはある。\n\n**このニュースをジョークにするなら...**\n\n> 誰よりも速く作った人たちが「みんな速度落として」と言ってる。サーバーはフル稼働のまま。\n\n---\n\n## 3. Trump Promises Every American $5,000 If Republicans Win Midterms\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/13/trump-5000-dividend-pledge)）*\n\nトランプ大統領は共和党が中間選挙で勝利した場合、全米成人に5000ドルの「配当金」を支給すると改めて公約した。この構想は共和・民主両党から疑問視されている。\n\n**どこが笑える？**\n\n「共和党が中間選挙に勝ったら、全米成人に5000ドルを配ります」。財源の説明は特にない。「配当金」という言葉を使っている。配当金というのは、どこかに利益があって、その分け前をもらうものです。どこに利益があるのか、誰も聞いていない。\n\n共和・民主両党から疑問視されている。それはそうだと思う。\n\n**このニュースをジョークにするなら...**\n\n> 全米成人に5000ドル。財源は言及なし。次の質問どうぞ。\n\n---\n\n## 4. Waymo Robotaxi Pulls Over, Calls Cops on Its Own Passengers\n\n*The Verge（[記事](https://www.theverge.com/transportation/994405/waymo-pulls-over-calls-cops-on-riders-with-a-ghost-gun)）*\n\nサンフランシスコで、Waymoのロボタクシーが乗客2人（未成年）を乗せた走行中に車を停車させ、警察に通報。2人はゴーストガン（自作銃）を所持していたとして逮捕された。\n\n**どこが笑える？**\n\nWaymoのロボタクシーが、走行中に自分で止まって、警察に通報した。乗っていたのは未成年2人で、ゴーストガンを持っていた。2人は逮捕された。運転手はいない。交渉する相手もいない。車に頼んでも聞いてくれる気配もない。\n\n車が止まって、車が電話して、警察が来た。利用規約のどこかに書いてあったはずです、きっと。読んだ人はいないでしょうけど。\n\n**このニュースをジョークにするなら...**\n\n> 運転手なし、交渉なし、チップなし——車はすでに通報してた。\n\n---\n\n## 5. 'Cat in the Hat' Goes Dark: AI-Generated Dr. Seuss Threats Prompt School Warnings Nationwide\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/13/cat-in-the-hat-social-media-trend-arrests-school-warnings)）*\n\nアメリカ各地の学校や法執行機関が、AIで生成した「キャット・イン・ザ・ハット」の不気味な画像を使って学校を脅迫するSNSトレンドに対して警告を発し、複数の未成年者が逮捕されている。\n\n**どこが笑える？**\n\nアメリカの学校が「AIで生成したキャット・イン・ザ・ハットを使った脅迫トレンド」に警告を出している。複数の未成年が逮捕されている。キャット・イン・ザ・ハットは1957年の絵本のキャラクターです。「退屈な雨の日に、背の高い猫が家にやってきてカオスを起こす」という話。\n\n子供たちはその教訓を覚えていた、ということかもしれない。笑えないけど。\n\n**このニュースをジョークにするなら...**\n\n> ドクター・スースは「ルールは破るためにある」と一世代に教えた。しっかり覚えてたんですね。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「正常に機能していました」——それが今日一番怖い言葉だったりする。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "文体パス: 3箇所修正。introJaの締め「今日は少しだけ身軽になれると思う」がプレゼン口調で着地しすぎ→本音がこぼれた形に崩した。riffJa[1]の「まず止まってから言ってほしい」は読者への指示形に近い説教口調→ツッコミに変えた。riffJa[3]の「利用規約のどこかに書いてあったはずです、きっと」は合格だが直前の「チップで雰囲気を和らげる余地もない」がやや整いすぎなので崩した。"
   },
   "carousel": [
-    "images/2026-09-13/carousel/slide-1.jpg",
-    "images/2026-09-13/carousel/slide-2.jpg",
-    "images/2026-09-13/carousel/slide-3.jpg",
-    "images/2026-09-13/carousel/slide-4.jpg",
-    "images/2026-09-13/carousel/slide-5.jpg",
-    "images/2026-09-13/carousel/slide-6.jpg",
-    "images/2026-09-13/carousel/slide-7.jpg"
+    "images/2026-09-14/carousel/slide-1.jpg",
+    "images/2026-09-14/carousel/slide-2.jpg",
+    "images/2026-09-14/carousel/slide-3.jpg",
+    "images/2026-09-14/carousel/slide-4.jpg",
+    "images/2026-09-14/carousel/slide-5.jpg",
+    "images/2026-09-14/carousel/slide-6.jpg",
+    "images/2026-09-14/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-13/note-header.jpg",
-    "substack": "images/2026-09-13/substack-cover.jpg"
+    "note": "images/2026-09-14/note-header.jpg",
+    "substack": "images/2026-09-14/substack-cover.jpg"
   }
 };
