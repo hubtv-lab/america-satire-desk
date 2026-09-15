@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-15",
-  "generatedAt": "2026-09-14T22:34:03+00:00",
+  "date": "2026-09-16",
+  "generatedAt": "2026-09-15T22:17:42+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Jensen Huang Takes Trump's Call Onstage, Lets Him Tell a Room Full of Tech Billionaires That Robots Are Fine",
-        "source": "The Verge",
-        "date": "2026-09-15",
-        "url": "https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit",
-        "summary": "NvidiaのCEOジェンセン・ファンが「All-In Summit」の壇上でトランプ大統領からの電話を受け、スピーカーフォンで会場に流した。トランプ大統領はデータセンター反対派を「デタラメ」と断じ、AIは脅威ではないと主張した。"
+        "headline": "Trump Threatens to Keep Kennedy Center Dark Unless His Name Goes on the Wall",
+        "source": "CNBC Top News",
+        "date": "2026-09-16",
+        "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
+        "summary": "トランプ大統領は、連邦判事がケネディセンターの外壁への大統領名の追加を再度差し止めたことを受け、改修工事を進めないと表明。大統領が送り込んだ理事会は直ちに閉館を議決した。"
       },
       "commentary": [
-        "<b>矛盾:</b> AIの安全性を心配するCEOたちの声が出てきたタイミングで、大統領がAI最大手の社長の舞台に電話をかけてきて「全部デタラメ」と言い切るわけですよ。規制当局が業界に呼ばれた感じ。",
-        "<b>滑稽さ:</b> 世界最先端のAI技術について語る場で、コミュニケーション手段がスピーカーフォンなんですよね。「ロボットは大丈夫」という発表が、固定電話並みの音質で届く。",
-        "<b>日本・海外から見ると:</b> 株主向け決算説明会でも大統領選挙でもなく、ポッドキャストのイベントで国家政策が決まっていく様子。これがアメリカのガバナンスです、2026年版。"
+        "<b>矛盾:</b> 「文化の殿堂を守るための改修」のはずが、名前を入れてもらえないなら閉めてやる、という人質交渉になってるんですよ。",
+        "<b>滑稽さ:</b> 裁判所が止めた翌日に理事会が即日閉館を決議。「自分たちで選んだ理事会」に閉めさせるっていうのが、また絶妙な構図じゃないですか。",
+        "<b>日本・海外から見ると:</b> 美術館や劇場の改修条件に「命名権」を持ち出す発想、企業スポンサーかよ、とは思いますよね。ジョン・F・ケネディの名前がついてる建物で。"
       ],
       "imagePrompts": [
-        "A man in a black blazer holding a smartphone face-out toward a massive auditorium audience, a presidential seal visible on the phone screen, the crowd frozen mid-applause",
-        "A giant stage screen displaying the words 'ROBOTS ARE FINE' while a tiny speakerphone sits at the center of an otherwise elaborate tech presentation podium",
-        "A flowchart on a whiteboard: box one reads 'Congressional Hearing,' box two reads 'Regulatory Comment Period,' box three reads 'Jensen's Pocket,' with an arrow going directly from box three to 'Policy Decided'"
+        "The Kennedy Center's neoclassical facade at night, fully dark with no lights on, a large blank rectangle where a marquee name might go, 'CLOSED' sign on the front door, padlock visible",
+        "A formal boardroom inside a grand government building, a dozen suits at a long table, one hand raised voting, the agenda paper on the table reads 'Item 1: Close immediately', ornate chandelier overhead",
+        "A construction crane sitting motionless beside the Kennedy Center, operator reading a newspaper, a judge's gavel monument in the foreground, the building name engraved in stone untouched"
       ],
       "captions": [
-        "The most powerful man in tech got a call from the president during his presentation. Most of us just get a text asking if we left the stove on.",
-        "Trump told a room of AI billionaires that AI danger is a hoax. The billionaires clapped. The robots were unavailable for comment.",
-        "Third row, squinting at a speakerphone, waiting to hear what a superpower decides to do about superintelligence. The audio quality was not great.",
-        "Jensen Huang put the President of the United States on speaker in front of thousands of people. His mom has been trying to do that for years.",
-        "Policy used to require a Senate hearing. Now it requires decent cell coverage and a guy willing to pick up."
+        "The Kennedy Center: dark, locked, and closed—because the judge wouldn't put someone's name on it. This is what a tantrum costs per square foot.",
+        "They appointed the board. The board closed the building. The president is shocked the arts venue isn't open. Somewhere in this chain of events is a logic.",
+        "Named after a president who was shot. Now closed because a living president wants the same wall space. Totally normal progression.",
+        "Fourth time visiting D.C. and the Kennedy Center's shut again? Sir, a judge and an ego are in a standoff and the ballet got caught in the middle.",
+        "The renovations are ready to go. The funding is there. The only missing piece is twelve letters and a federal judge who keeps saying no."
       ],
       "captionsJa": [
-        "テックの世界で最も力を持つ男が、プレゼン中に大統領から電話を受けた。ふつうの人はせいぜい「ガス消した？」ってLINEが来るくらいですよ。",
-        "トランプ氏はAI億万長者たちの前でAIの脅威はデタラメだと言った。億万長者たちは拍手した。ロボットはノーコメント。",
-        "3列目から、スピーカーフォンに耳を傾けて、超知性の未来を待つ。音質はよくなかった。",
-        "ジェンセン・ファンはアメリカ大統領をスピーカーにして何千人もの前で話させた。お母さんはずっとそれをやろうとしてたのに。",
-        "昔は政策を決めるのに公聴会が必要だった。今は電波が届いて、電話に出る気がある人がいれば十分。"
+        "ケネディセンター、暗闇の中でクローズ。理由：壁に名前を書いてもらえなかった。プライドって、1平方メートルいくらですか。",
+        "自分で選んだ理事会が閉館を決議して、大統領が驚いてる。この因果関係のどこかに「論理」があるはずなんですよ。",
+        "暗殺された大統領の名前がついてる建物。今度は生きてる大統領が同じ壁を欲しがってる。まったく自然な流れですね。",
+        "ワシントンDC、4度目の訪問でまたケネディセンターが閉まってる。裁判官とプライドがにらみ合って、バレエが巻き添えになってます。",
+        "改修の準備はできてる。予算もある。足りないのは12文字と、「ノー」と言い続ける連邦判事だけ。"
       ],
-      "newsEn": "Nvidia CEO Jensen Huang received a phone call from President Trump while presenting onstage at the All-In Summit on Monday and put him on speakerphone in front of a large crowd. Trump used the opportunity to dismiss concerns about data centers and call opposition to AI development a 'hoax.' It was not the first time Huang has taken a presidential call during a public appearance.",
+      "newsEn": "A federal judge blocked the Kennedy Center board from adding President Trump's name to the building's facade for the second time in four months. Following the ruling, the board—stacked with Trump's appointees—voted to close the venue immediately. Trump then publicly stated renovations would not proceed unless his name was restored to the building.",
       "ironyEn": [
         {
-          "contradiction": "A summit dedicated to cutting-edge AI featured the president delivering policy via speakerphone, a technology that peaked in 2003.",
-          "absurdity": "The message that 'AI is completely safe' was broadcast through the audio quality of a drive-through intercom to a room full of people whose net worth exceeds some nations.",
-          "outside": "In most countries, regulatory input involves written comments, hearings, or reports. Here it's a CEO picking up on the second ring, onstage."
+          "contradiction": "The Kennedy Center exists to celebrate American arts and culture—and it's now being held hostage over a branding dispute.",
+          "absurdity": "Trump's own hand-picked board voted to close it, meaning the president effectively locked out the public from a public institution to win a naming fight with a judge.",
+          "outside": "In most countries, getting your name on a national arts venue requires, at minimum, dying first. Preferably heroically."
         },
         {
-          "contradiction": "Trump called AI fears a hoax moments after tech CEOs spent days publicly warning that AI might be moving too fast—but the CEO of the most valuable AI chip company just nodded along.",
-          "absurdity": "The crowd who paid thousands to attend a summit about the future of intelligence sat quietly while that future was explained to them by a voice coming from a phone in a man's pocket.",
-          "outside": "From abroad, the scene looks less like tech policy and more like a surprise cameo at a company retreat."
+          "contradiction": "The stated reason for the renovations was the building's condition. The actual condition for the renovations is now a sign out front.",
+          "absurdity": "A federal judge has now blocked the same request twice in four months—so the response to losing in court was to close the building and blame the court.",
+          "outside": "The venue is named after a president who was assassinated. The current president wants equal billing. These are not equivalent résumé entries."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-15/candidate-1.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-15/candidate-1-punchy.jpg"
+      "image": "images/2026-09-16/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-16/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Kennedy Center Says It's Nearly Broke, Declares Only Trump Can Save It",
-        "source": "NPR Culture",
-        "date": "2026-09-15",
-        "url": "https://www.npr.org/2026/09/14/nx-s1-5968602/kennedy-center-says-its-close-to-bankruptcy-and-will-not-be-able-to-pay-staff-within-weeks",
-        "summary": "ケネディセンターが「数週間以内にスタッフへの給与支払いができなくなる」と公表し、財政危機からの救済にはトランプ大統領の介入が不可欠だとする決議文を公開した。"
+        "headline": "Americans Hit Record Income in 2025 — Up Just 2.5% Since 2019",
+        "source": "CBS News US",
+        "date": "2026-09-16",
+        "url": "https://www.cbsnews.com/news/census-income-data-pandemic-levels/",
+        "summary": "国勢調査局のデータによると、2025年の米国世帯の中央値所得は過去最高を記録したが、2019年比では実質2.5%増にとどまることが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 文化・芸術の独立性を体現するはずの機関が、公式文書で「大統領だけが救える」と書いちゃったんですよ。芸術の自律性、もう文書上では存在してない。",
-        "<b>滑稽さ:</b> アメリカを代表するオペラとバレエの殿堂が、事実上「助けてください」ってラブレターを特定の政治家に送っている。チャイコフスキーじゃなくてロビー活動ですよ。",
-        "<b>日本・海外から見ると:</b> 国立劇場が政権に「あなただけが頼りです」と公式声明を出す国。芸術の世界でも忖度が制度化されていくのを見ている感じがします。"
+        "<b>矛盾:</b> 「過去最高」と「6年で2.5%増」が同じデータから出てくるんですよ。見出しの角度次第で全然違う話になる。",
+        "<b>滑稽さ:</b> 国勢調査局が「史上最高！」って発表して、同じ資料の4ページ目に「ただし2019年比ではほぼ横ばい」って書いてある。プレスリリースって芸術だな。",
+        "<b>日本・海外から見ると:</b> 日本も「名目賃金過去最高」と「実質賃金マイナス」が同時に存在する国なんで、他人事じゃないんですよね、これ。"
       ],
       "imagePrompts": [
-        "The grand exterior of a monumental neoclassical arts center at dusk, a single 'CLOSED' sign on the front door, an oversized 'PLEASE HELP' banner draped beneath the architectural lettering",
-        "A formal boardroom table covered in stacked unpaid invoices, a single framed portrait on the wall, board members in formal attire staring at a locked door",
-        "An ornate concert hall stage with velvet curtains half-drawn, a lone spotlight illuminating a podium holding a single document labeled 'Emergency Resolution'"
+        "A large glittering trophy engraved 'RECORD HIGH INCOME 2025' on a pedestal, behind it a barely visible tiny graph line rising almost flat from 2019 to 2025, confetti falling",
+        "A Census Bureau press conference podium with balloons and a banner reading 'ALL-TIME HIGH', a reporter in the front row holding a calculator showing '+2.5% / 6 years'",
+        "A grocery store receipt stretching to the floor next to a single dollar bill in a frame labeled 'Real Wage Growth 2019–2025', spotlight on both"
       ],
       "captions": [
-        "The Kennedy Center says only Trump can save it. The irony wrote itself, but they can't afford to pay the person who would normally write it.",
-        "A board resolution is a fancy way of saying 'we have one phone number left to try.'",
-        "America's premier arts institution: now accepting applications for a single patron. Experience with symphony orchestras not required but appreciated.",
-        "They could perform a benefit concert to raise the money, but—and this is the problem—they can't pay the musicians.",
-        "When your emergency plan is a formal document that says 'only one man can help,' you've technically written a press release, not a rescue plan."
+        "Record income! Highest ever! Also up 2.5% since 2019. Both sentences are in the same document. One made the headline.",
+        "Six years, a pandemic, and roughly four 'historic' economic plans: your household is up about eight hundred bucks a year. Frame it.",
+        "The Census Bureau said 'record high.' Your landlord said 'rent's going up.' These two institutions have very different datasets.",
+        "What if 'all-time best' and 'barely moved' describe the same graph? Asking for the Census Bureau.",
+        "2019 called. It wants its purchasing power back. You can't afford to return it."
       ],
       "captionsJa": [
-        "ケネディセンターが「トランプ氏だけが救える」と言った。皮肉は自動的に書き上がったけど、それを書く人への給料が払えない。",
-        "「緊急決議」って要するに、「連絡先がもう一件しか残っていない」ってことですよね。",
-        "アメリカを代表する芸術の殿堂、ただいまスポンサー一名を募集中。オーケストラの経験は不問。",
-        "資金を集めるためにチャリティーコンサートを開けばいいじゃないかって？　そのミュージシャンへの支払いができないのが問題なんですよ。",
-        "緊急計画が「特定の一人だけが助けられる」という公式文書なら、それは救済計画じゃなくてプレスリリースです。"
+        "過去最高！史上初！あと2019年比2.5%増。全部同じ資料に書いてある。見出しになったのはどれでしょう。",
+        "6年間、パンデミックあり、「歴史的」経済対策が何回かあって、結果は年800ドルちょっとプラス。額縁に入れて飾っとけ。",
+        "国勢調査局は「過去最高」と言った。大家は「今月から値上げ」と言った。この二機関、使ってるデータが全然違う。",
+        "「史上最高」と「ほぼ横ばい」が同じグラフを指してる可能性、あるんですよ。国勢調査局に確認してみてください。",
+        "2019年が購買力を返せと言ってる。返す余裕はもうないけど。"
       ],
-      "newsEn": "The Kennedy Center released two board resolutions stating that the iconic Washington arts institution is facing imminent bankruptcy and will be unable to pay its staff within weeks. The resolutions explicitly state that only President Trump can 'rescue' the center from its dire financial and physical condition.",
+      "newsEn": "The U.S. Census Bureau reported that median household income reached a record high in 2025. However, when adjusted for inflation and compared to 2019 figures, the typical American household has seen earnings grow by only 2.5% over six years. The data arrives as the Federal Reserve weighs potential interest-rate increases.",
       "ironyEn": [
         {
-          "contradiction": "An institution built to celebrate American artistic freedom just issued an official document saying its survival depends entirely on one politician's goodwill.",
-          "absurdity": "The home of the National Symphony Orchestra is essentially passing a hat—except the hat is a formal board resolution and there's only one person they're allowed to ask.",
-          "outside": "Arts institutions in most democracies lobby governments for funding. The Kennedy Center skipped the lobbying and went straight to 'only you can save us,' which is a different genre entirely."
+          "contradiction": "A record high and a six-year gain of 2.5% are both true at the same time. One of those numbers gets the headline.",
+          "absurdity": "The Census Bureau issued what is essentially a press release that congratulates Americans for earning, after inflation, about $800 more per year than in 2019.",
+          "outside": "Other countries also celebrate 'record wages' while real purchasing power stagnates. It's a global genre of announcement now."
         },
         {
-          "contradiction": "A venue famous for honoring artistic independence now needs the approval of an administration that has spent years cutting arts funding to stay open.",
-          "absurdity": "Within weeks, the stage that hosted Yo-Yo Ma and Renée Fleming might go dark—not because of declining ticket sales, but because the board forgot to find a plan B.",
-          "outside": "From the outside, a legendary arts palace declaring emergency and naming one rescuer reads less like a funding crisis and more like a very expensive hostage situation."
+          "contradiction": "The government celebrates record income right as the Fed considers raising rates—which would slow the economy that produced the record.",
+          "absurdity": "Six years, a pandemic, two administrations, and several 'historic' economic packages later: plus 2.5%. The check cleared, eventually.",
+          "outside": "If your salary grew 2.5% in six years, your employer would call it 'competitive compensation.' Your landlord would call it 'not enough.'"
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-15/candidate-2.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-15/candidate-2-punchy.jpg"
+      "image": "images/2026-09-16/candidate-2.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-16/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
-      "sensitive": true,
+      "sensitive": false,
       "news": {
-        "headline": "CDC Changes How It Counts Measles Deaths During Active Pennsylvania Outbreak",
-        "source": "The Guardian US",
-        "date": "2026-09-15",
-        "url": "https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania",
-        "summary": "ペンシルベニア州でのはしかアウトブレイク中、3例目の死亡が報告されたのと同時期に、トランプ政権がCDCのはしか死亡者数の集計方法を変更したことが明らかになった。"
+        "headline": "Nvidia's CEO Says AI Safety Can Wait. The AI Safety CEOs Disagree.",
+        "source": "CNBC Top News",
+        "date": "2026-09-16",
+        "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
+        "summary": "NvidiaのジェンセンCEOは、OpenAIとAnthropicのCEOがAI開発の減速を訴える中、Dreamforceイベントで両者と異なる見解を示した。Anthropicのアモデイ氏が開発ペースを落とすよう訴える論文を発表した数日後の発言。"
       },
       "commentary": [
-        "<b>矛盾:</b> アウトブレイクが進行中のまさにそのタイミングで、死亡者数の数え方を変える。データが都合が悪くなったときに定義を変えるのは、問題を解決することとは全く別の行為です。",
-        "<b>滑稽さ:</b> 「数字が増えた」への対応が「数え方を変える」というのは、体重が増えたから体重計を捨てるのと同じ論理。",
-        "<b>日本・海外から見ると:</b> ワクチンで防げる病気の死者集計をアウトブレイク中に変更する。公衆衛生の信頼性というのは、こういう瞬間に静かに崩れていくんですよ。"
+        "<b>矛盾:</b> 「AIを止めろ」と言ってるのが、AIを売ってる会社の人たちで、「止めなくていい」と言ってるのが、AIチップを売ってる人なんですよ。立場の違いが透けて見えすぎる。",
+        "<b>滑稽さ:</b> AI安全性の議論が、チップメーカーのCEO vs. AIモデル会社のCEOの言い合いになってる時点で、もう「安全性」より「売上」の話でしょこれ。",
+        "<b>日本・海外から見ると:</b> 核兵器の安全管理を、ウラン鉱山の会社とミサイルメーカーが議論してるようなもんじゃないですか。誰も中立じゃない。"
       ],
       "imagePrompts": [
-        "A government official at a podium in front of a CDC logo, holding a document titled 'Revised Counting Methods,' a whiteboard behind showing a crossed-out number being replaced",
-        "A stack of official public health reports on a desk, the top one stamped 'METHODOLOGY UPDATE — EFFECTIVE IMMEDIATELY,' surrounded by pens and bureaucratic paperwork",
-        "A government building exterior with a sign reading 'Centers for Disease Control,' the entrance doors closed, official notices taped to the glass"
+        "Three tech executives at a conference panel, one holding a large glowing chip, two holding tablets showing AI model logos, all three pulling a 'speed limit' sign in different directions",
+        "A racetrack with an AI robot car at full speed, the tire manufacturer in the pit waving it forward, two other pit crew members waving red flags, all wearing branded company jackets",
+        "A boardroom table covered in safety reports and quarterly earnings charts, executives in suits on both sides, a large speedometer on the wall with the needle pointing to maximum"
       ],
       "captions": [
-        "Changing the definition is not the same as changing the outcome.",
-        "Pennsylvania's outbreak is still active. Three people are dead. The CDC's counting method changed the same weekend. Make of that what you will.",
-        "Data credibility takes decades to build. It can be revised in a single administrative notice.",
-        "'We changed how we count' and 'we changed how we respond' are not the same sentence.",
-        "When the answer to an outbreak is a methodology revision, it stops being a public health question and becomes a governance one."
+        "The chip guy says AI is fine. The AI guys say slow down. Nobody asked the AI.",
+        "Anthropic published an essay about slowing down AI. Then showed up at a conference to argue with the man whose hardware is the reason AI goes fast in the first place.",
+        "Jensen Huang on AI safety: we're good. Dario Amodei on AI safety: we are not good. Both are correct about their quarterly earnings.",
+        "Three CEOs walk into a safety summit. One sells the engine, two sell the car. They disagreed on speed limits. Shocked faces all around.",
+        "When the people most invested in AI going fast are the ones debating how fast AI should go—maybe the debate format needs a recheck."
       ],
       "captionsJa": [
-        "定義を変えることは、結果を変えることではない。",
-        "ペンシルベニア州で3人が亡くなった週末に、集計方法が変わった。それだけ書きます。",
-        "データへの信頼は何十年もかけて積まれる。行政通知一枚で改訂できる。",
-        "「数え方を変えた」と「対応を変えた」は、別の文です。",
-        "アウトブレイクへの答えが方法論の改訂なら、それはもう公衆衛生の問題ではなく、制度の問題になる。"
+        "チップ屋さんはAI大丈夫と言う。AI屋さんたちはスローダウンと言う。AIには誰も聞いてない。",
+        "AnthropicがAI開発を減速しろという論文を出して、その数日後にカンファレンスで、そのAIを速く走らせているチップを売るCEOと口論した。",
+        "ジェンセン・ファン：安全性は問題ない。ダリオ・アモデイ：問題ある。二人とも四半期決算については正しい。",
+        "CEOが3人、安全サミットに来た。一人はエンジンを売り、二人は車を売ってる。速度制限で意見が割れた。驚きの展開。",
+        "AI最速化に一番お金がかかってる人たちが、AIの速度を議論してる。まあ、会議の設計から見直したほうがいいかもしれない。"
       ],
-      "newsEn": "The Trump administration changed how the CDC reports measles deaths while an active outbreak continues in Pennsylvania. The change was announced on Sunday as the state confirmed a third apparent measles-related death. Pennsylvania's outbreak has been ongoing, and public health officials have been monitoring the spread closely.",
+      "newsEn": "At the Dreamforce conference, Nvidia CEO Jensen Huang diverged from the heads of Anthropic and OpenAI on the question of AI safety and development speed. The disagreement came days after Anthropic's Dario Amodei published an essay urging the industry to slow down AI model development. Huang's position contrasts sharply with the safety-focused posture of companies that sell AI models rather than the chips that power them.",
       "ironyEn": [
         {
-          "contradiction": "The administration updated the method for counting measles deaths not before, not after, but during an active outbreak—precisely when accurate public data matters most.",
-          "absurdity": "Changing how you count a problem while the problem is actively getting worse is not crisis management. It's a different relationship with numbers.",
-          "outside": "Public health agencies in other countries spend years building methodological consistency so data can be trusted in exactly these moments. Revising mid-outbreak is not standard practice."
+          "contradiction": "The companies warning about AI danger are the ones selling AI. The company saying it's fine makes the hardware that runs all of it.",
+          "absurdity": "Asking Jensen Huang whether AI development should slow down is like asking a Formula 1 tire manufacturer whether races should have a speed limit.",
+          "outside": "From the outside, this looks less like a safety debate and more like three vendors arguing over who controls the narrative before the regulations arrive."
         },
         {
-          "contradiction": "An agency whose entire value is providing reliable health data during emergencies revised its reporting framework while an emergency was underway.",
-          "absurdity": "The CDC didn't change its response to the outbreak. It changed its response to the numbers.",
-          "outside": "From a public health governance standpoint, this raises a straightforward question that has no good answer: if the methodology changes when cases rise, what exactly is being measured?"
+          "contradiction": "Anthropic published an essay urging the industry to slow down—days before its CEO argued against the one guy who actually could slow things down by not making the chips.",
+          "absurdity": "The AI safety summit featured the people most financially incentivized to keep going, debating how much to slow down. Nobody invited the people who didn't have a product to protect.",
+          "outside": "When the chip seller and the model sellers publicly disagree on safety, governments trying to write AI regulations must feel like they walked into a fight mid-sentence."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-15/candidate-3.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-15/candidate-3-punchy.jpg"
+      "image": "images/2026-09-16/candidate-3.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-16/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "'Alligator Alcatraz' Had Cramped Metal Enclosures, DHS Watchdog Confirms",
-        "source": "CBS News US",
-        "date": "2026-09-15",
-        "url": "https://www.cbsnews.com/news/florida-alligator-alcatraz-small-metal-enclosures-dhs-ice-watchdog/",
-        "summary": "DHSの内部監視機関が、「アリゲーター・アルカトラズ」と呼ばれたフロリダ州の移民収容施設について、被収容者が「窮屈な環境」と「小さな金属製の囲い」に置かれていたと厳しく批判する調査結果を公表した。"
+        "headline": "Bernie Sanders and Steve Bannon Agree on Something. It's AI.",
+        "source": "The Guardian US",
+        "date": "2026-09-16",
+        "url": "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
+        "summary": "進歩派のバーニー・サンダース上院議員と右派ストラテジストのスティーブ・バノンが、「プロヒューマン」サミットでAI規制の必要性で一致した。ただし、その理由と方向性はまったく異なる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 強硬な移民政策のシンボルとして宣伝された施設が、その省自身の内部監査機関から「問題あり」と指摘されるわけですよ。外向きのメッセージと内部調査が真逆になってる。",
-        "<b>滑稽さ:</b> 「アリゲーター・アルカトラズ」って名前、自分でつけてるんですよ。怖い名前で抑止力にしようとしたら、その名前のついた場所で人権問題が出てきた。ブランディングって難しい。",
-        "<b>日本・海外から見ると:</b> 施設の愛称を政府側が積極的に使って宣伝していたのに、同じ政府の監視機関が「実態はこうでした」と報告書を出す。制度のセルフツッコミとしては相当なレベル。"
+        "<b>矛盾:</b> 政治的に水と油のサンダースとバノンが同じ演壇に立って「AIを規制しろ」で一致するって、その「一致」の中身がまったく違うのに見出しだけ読むとすごく仲良さそうなんですよ。",
+        "<b>滑稽さ:</b> 「テック億万長者を倒せ」(サンダース)と「中国に負けるな」(バノン)が同じ結論「AI規制」に着地してる。登山口が2か所あって、山頂で出くわした感じ。",
+        "<b>日本・海外から見ると:</b> アメリカ政治の両極端が「AIだけは危ない」で合流してる。これ、日本の国会で山本太郎と百田尚樹が同じ法案に賛成するくらいの珍事ですよ。"
       ],
       "imagePrompts": [
-        "A roadside billboard reading 'ALLIGATOR ALCATRAZ' with an official government logo, surrounded by Florida swampland, a small 'CLOSED' sign taped over the corner",
-        "A government inspector in a hard hat and clipboard standing in front of rows of metal enclosures in a sparse warehouse-style facility, taking notes under fluorescent lighting",
-        "A press conference podium with a large banner bearing the facility's nickname, a stack of official DHS inspector general reports sitting unopened on the podium"
+        "Two men at a summit podium, one in rumpled suit with disheveled white hair, one in layers of shirts, both pointing at the same giant robot on a screen behind them, each pointing from opposite sides of the stage",
+        "A Venn diagram on a whiteboard: left circle labeled 'Tax the billionaires', right circle labeled 'Beat China', overlapping center reads 'AI bad', two coffee mugs on the table below",
+        "A summit stage with a large banner reading 'PRO-HUMAN', two figures seated in chairs as far apart as possible on the stage, a single microphone in the center, audience looking confused"
       ],
       "captions": [
-        "They named it 'Alligator Alcatraz' themselves. That's not a nickname the media gave it. They did that.",
-        "The watchdog report says conditions were cramped. The administration's own branding said 'Alcatraz.' So at least the vibe was accurate.",
-        "Usually you find out a place was bad and then someone gives it a scary name. They went in the other order here.",
-        "The facility is already closed, so the inspector general report is basically a Yelp review with subpoena power.",
-        "Small metal enclosures in a Florida swamp, named after a maximum-security island prison by the people running it. The scary name turned out to be the most accurate thing they produced."
+        "Bernie Sanders and Steve Bannon both said 'regulate AI' at the same event. They meant completely different things. Democracy is fine.",
+        "They agreed on the conclusion. The reasoning was a different document entirely.",
+        "A socialist senator and a far-right strategist walk into a pro-human summit. The robot in the room made more sense than the seating chart.",
+        "First time these two have agreed on anything. The AI clocked it before either of them finished the sentence.",
+        "Sanders: the billionaires can't have it. Bannon: China can't have it. Result: the one policy summit where everyone left angrier than they arrived."
       ],
       "captionsJa": [
-        "「アリゲーター・アルカトラズ」って名前、メディアがつけたんじゃないですよ。当局が自分でつけたんです。",
-        "監査報告書には「窮屈な環境」とある。当局のブランディングは「アルカトラズ」だった。少なくとも雰囲気は正確でした。",
-        "ふつうはひどい場所だとわかってから怖い名前がつくんですよ。ここは逆の順番でやった。",
-        "施設はもう閉鎖済みなので、この監査報告書は実質、捜査権のあるGoogleレビューです。",
-        "フロリダの沼地にある金属製の囲い、名前は運営側が自分で島の刑務所から拝借した。怖い名前だけが、結果的に一番正確だった。"
+        "バーニー・サンダースとスティーブ・バノンが同じイベントで「AIを規制しろ」と言った。意味は全然違う。民主主義は元気です。",
+        "結論は一致した。理由はまったく別の書類に書いてある。",
+        "社会主義上院議員と極右ストラテジストがプロヒューマンサミットに集合。会場にいたAIのほうが座席表より筋が通ってた。",
+        "この二人が同意したのは史上初。AIは二人が言い終わる前に気づいてた。",
+        "サンダース：億万長者に渡すな。バノン：中国に渡すな。結果：全員が来た時より怒って帰るサミット。"
       ],
-      "newsEn": "The Department of Homeland Security's internal watchdog released findings sharply critical of conditions at a now-closed Florida immigration detention facility nicknamed 'Alligator Alcatraz.' The report found detainees were held in cramped conditions in small metal enclosures. The facility had been publicly promoted by administration officials as a tough deterrent.",
+      "newsEn": "Senator Bernie Sanders and far-right strategist Steve Bannon both called for restrictions on artificial intelligence at a 'pro-human' summit, marking a rare point of rhetorical overlap between the two figures. However, the two offered competing visions—Sanders focused on tech oligarchs consolidating power, while Bannon framed the issue around a rivalry with China.",
       "ironyEn": [
         {
-          "contradiction": "The administration marketed this facility by its menacing nickname to project toughness, then its own internal watchdog produced a report describing what was actually inside.",
-          "absurdity": "'Alligator Alcatraz' was the brand. 'Small metal enclosures' was the product. Usually companies wait until after the watchdog report to rebrand.",
-          "outside": "In most oversight systems, an internal watchdog finding problems is the starting point for reform. Here the facility is already closed, so the report is less an intervention and more a receipt."
+          "contradiction": "Sanders wants to stop billionaires from hoarding AI power. Bannon wants to stop China from winning an AI cold war. They both voted for the same bumper sticker.",
+          "absurdity": "A 'pro-human' summit found its two most unlikely allies in a democratic socialist senator and a far-right strategist who have agreed on approximately nothing else in recorded history.",
+          "outside": "When the far left and the far right discover a shared enemy, the enemy is usually very rich, very fast, or very foreign. This time it managed to be all three."
         },
         {
-          "contradiction": "Officials promoted the facility's intimidating name as a feature. The DHS's own inspector general then described the conditions that name apparently referred to.",
-          "absurdity": "Naming a detention center after the island prison that held Al Capone sets a certain expectation. Finding out the conditions matched the name is less of a twist and more of a confirmation.",
-          "outside": "Foreign observers watching U.S. immigration enforcement note a recurring pattern: facilities are promoted with theatrical names, then documented by oversight bodies with clinical language."
+          "contradiction": "They called for the same policy—AI restrictions—and would presumably write completely different laws to implement it.",
+          "absurdity": "Sanders and Bannon sharing a stage is already the headline. The AI part is almost secondary at that point.",
+          "outside": "In an era of total political gridlock, bipartisanship finally arrived—and it's two guys who agree the robots are a problem, for entirely different reasons."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-15/candidate-4.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-15/candidate-4-punchy.jpg"
+      "image": "images/2026-09-16/candidate-4.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-16/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Valve's VR Headset Was Supposed to Be Affordable. Then Came the Global RAM Market.",
-        "source": "The Verge",
-        "date": "2026-09-15",
-        "url": "https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact",
-        "summary": "ValveのVRヘッドセット「Steam Frame」が1,059ドルを超える価格で登場した。同社は当初「はるかに手頃な価格」を目指していたと説明し、世界的なRAM・ストレージ市場の影響を値上がりの理由に挙げた。"
+        "headline": "Car Ownership Costs Up 50% Since 2020 — And Gas Is Just the Start",
+        "source": "CBS News US",
+        "date": "2026-09-16",
+        "url": "https://www.cbsnews.com/news/car-ownership-auto-repair-costs-inflation/",
+        "summary": "新たな経済データによると、自動車保有コストは2020年以降50%急騰しており、ガソリン代以外にも保険料、修理費、駐車場代など複数の費用が運転者を直撃している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「手頃な価格で出したかった」と言いながら1,059ドルを超えてくる。VRの世界でいう「アクセシブル」の定義、もう一度確認させてほしい。",
-        "<b>滑稽さ:</b> 「グローバルなRAM市場の影響」って、みんなが影響を受けてるのはそうなんですけど、1,000ドル超えが「手頃」の結果として出てきたのが、その説明の限界を教えてくれてる。",
-        "<b>日本・海外から見ると:</b> テクノロジー民主化の夢と、半導体サプライチェーンの現実のあいだに1,059ドルの請求書がある。VRが「みんなのもの」になる話は、もうしばらく続きそうです。"
+        "<b>矛盾:</b> アメリカは「車がないと生活できない」設計の都市が大半なのに、その車を持つコストが5年で50%上がってる。逃げ道のない値上げなんですよ。",
+        "<b>滑稽さ:</b> ガソリン代が上がって、その対策で電気自動車を検討したら車体価格が上がってて、保険も上がってて、修理も上がってる。どこを押さえても別のところが膨らむ。",
+        "<b>日本・海外から見ると:</b> 電車やバスで暮らせる都市に住んでる日本人からすると「じゃあ車やめれば？」って思うんですけど、多くのアメリカ人にはその選択肢がそもそもないんですよね。"
       ],
       "imagePrompts": [
-        "A VR headset on a display pedestal with a large price tag reading '$1,059+' and a small crossed-out tag beneath it reading 'AFFORDABLE,' inside a sleek tech showroom",
-        "A graph showing 'intended price' as a low flat line and 'actual price' as a steep upward curve, both labeled on a whiteboard in a sparse product development office",
-        "A shipping warehouse filled floor-to-ceiling with RAM chips, a single VR headset box sitting alone on a conveyor belt with a question mark sticker on the price label"
+        "A family sedan parked in a driveway surrounded by floating dollar signs, each labeled: 'insurance +40%', 'repairs +35%', 'parking +25%', 'gas +50%', the car itself has a price tag hanging from the mirror",
+        "A lone car on a wide American suburban road with no sidewalks, no bus stops, and no other buildings in sight, a price ticker running across the bottom of the scene like a stock market feed",
+        "A mechanic's garage with itemized invoice on the wall sized like a movie poster, line items covering every inch of the wall, a customer standing in front of it holding an empty wallet"
       ],
       "captions": [
-        "Valve wanted to make VR affordable. The global RAM market wanted something else, and RAM won.",
-        "Over a thousand dollars is the affordable version. I'd love to see the expensive version, but apparently that's what a GPU shortage looks like.",
-        "'We were impacted the same way everybody was.' Sure. But everybody isn't selling a headset that was supposed to cost less than this.",
-        "The dream: VR for everyone. The invoice: $1,059 plus whatever your face measures.",
-        "At some point 'we meant to charge less' stops being an explanation and starts being the product description."
+        "Car ownership is up 50% since 2020. Public transit in most of these cities: still the same one bus that comes every 90 minutes.",
+        "Insurance is up. Gas is up. Repairs are up. Congratulations, your car now costs more than your grandfather's mortgage.",
+        "They said drive less. The nearest grocery store is eleven miles away. These two facts are not having a conversation.",
+        "Fifty percent more expensive in five years—and you still need it to get to work, so. Good talk, economy.",
+        "Every part of owning a car costs more. The car itself is optional in Tokyo. In Houston, it's the infrastructure."
       ],
       "captionsJa": [
-        "ValveはVRをお手頃にしたかった。グローバルなRAM市場は別の意見を持っていて、RAMが勝った。",
-        "1,000ドル超えが「手頃な価格」バージョン。高い方はどんな値段なのか気になるけど、それがGPU不足の答えらしい。",
-        "「みんなと同じ影響を受けた」はそうなんですけど、みんなはこれを売ってないですよね。",
-        "夢：みんなのためのVR。請求書：1,059ドル。あとはお顔のサイズに合わせて。",
-        "「もっと安くするつもりだった」という説明、どこかのタイミングから商品説明になってきますよね。"
+        "自動車保有コストが2020年比50%増。で、これらの都市の公共交通機関は？90分に1本のバスがまだ走ってます。",
+        "保険も上がった。ガソリンも上がった。修理費も上がった。おめでとう、あなたの車はもうおじいちゃんの住宅ローンより高い。",
+        "「車を減らせ」って言われた。一番近いスーパーまで18キロある。この2文は対話していない。",
+        "5年で50%高くなった。でも仕事に行くのに必要だから。はい、経済のお話でした。",
+        "車を持つすべてのコストが上がってる。東京では車は選択肢。ヒューストンでは車がインフラ。"
       ],
-      "newsEn": "Valve's Steam Frame virtual reality headset launched at a price exceeding $1,059, despite the company's stated goal of making an affordable device. Valve attributed the higher-than-intended price to the global RAM and storage markets, saying those conditions 'impacted us the same way they've impacted everybody.' The headset was positioned as a more accessible entry point into VR.",
+      "newsEn": "New economic data shows that the total cost of owning a car in the United States has surged 50% since 2020. The increase goes well beyond gasoline prices and includes spikes in auto insurance premiums, repair and maintenance costs, and parking fees. The data illustrates how inflation has hit car-dependent Americans from multiple directions simultaneously.",
       "ironyEn": [
         {
-          "contradiction": "Valve set out to democratize VR with an affordable headset and arrived at a price that costs more than most Americans' monthly rent contribution.",
-          "absurdity": "The explanation was essentially 'RAM happened to us'—which is true for everyone, but 'we meant to charge less' is not usually considered a pricing strategy.",
-          "outside": "Consumer electronics companies in competitive markets launch affordable products all the time. Valve launched an explanation."
+          "contradiction": "The U.S. built an entire civilization around the car, and now the car costs 50% more to own than it did five years ago. The infrastructure didn't come with a price-adjustment clause.",
+          "absurdity": "Insurance is up. Repairs are up. Parking is up. Gas is up. The one thing that isn't up is the option to not have a car in most American cities.",
+          "outside": "In countries with functional public transit, this is a story about a luxury item getting more expensive. In the U.S., it's a story about a utility bill that also needs an oil change."
         },
         {
-          "contradiction": "The headset was marketed on the promise of accessibility. The price tag is exactly what VR has cost for years—just with a better excuse.",
-          "absurdity": "Blaming the global storage market for a $1,059 product is technically accurate and completely unsatisfying at the same time, which is actually impressive.",
-          "outside": "International buyers watching U.S. tech pricing post-tariff era are learning a new phrase: 'We wanted to do better, but the market.'"
+          "contradiction": "Americans are told to drive less to save money and help the environment—by cities that have no buses and one sidewalk.",
+          "absurdity": "A 50% increase since 2020 means if your car cost you $800 a month to own five years ago, you're now at $1,200—before you've gone anywhere.",
+          "outside": "The rest of the developed world looked at car dependency as a design flaw. The U.S. is now paying the maintenance fee on that flaw, monthly."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-15/candidate-5.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-15/candidate-5-punchy.jpg"
+      "image": "images/2026-09-16/candidate-5.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-16/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本の糸：「こう言った」と「こうなった」の間に、1,059ドルの請求書と公式文書と変更された定義がある。",
-    "titleEn": "We Said One Thing, Then Another Thing Happened",
-    "subtitleEn": "Five stories about the gap between the announcement and the reality.",
-    "titleJa": "「手頃な価格」で出てきた1,059ドルと、アウトブレイク中に変わった死者の数え方の話",
+    "thread": "今日の5本を貫く糸は「名前・数字・肩書きがどれも中身と乖離している」こと。ケネディセンターの壁、「過去最高」の賃金、「安全性」を語るチップ売り、「一致」しているように見える水と油、そして50%上がった「移動する自由」のコスト。",
+    "titleEn": "Your Name on the Wall or It Stays Dark",
+    "subtitleEn": "Five stories where the label and the contents stopped talking to each other.",
+    "titleJa": "「過去最高」と「2.5%増」が同じ資料に書いてある日",
     "titleAltJa": [
-      "「大統領だけが救える」と芸術の殿堂が公式文書に書いた日",
-      "今日のアメリカのニュースを読んだら、『言葉』と『現実』の距離感が全部おかしかった"
+      "ケネディセンターを閉めたのは誰でもなく、大統領が自分で選んだ理事会でした",
+      "サンダースとバノンが珍しく意見が合った。理由は全然ちがう話だったけど"
     ],
-    "leadJa": "「手頃な価格を目指していました」と言いながら1,059ドルで出てきたVRヘッドセットの話が今日あります。\n\nで、他の4本も同じ感じなんですよ。「芸術の独立」「公衆衛生の透明性」「抑止力」——どれも看板は立ってる。中身の話をしましょう。",
-    "introEn": "Five stories today. All of them start with a statement of intent and end somewhere else entirely.\n\nValve wanted affordable VR. The Kennedy Center wants artistic independence. The CDC tracks disease data. The administration runs humane facilities. Jensen Huang runs a tech conference, not a press briefing for the White House.\n\nAnd then things happened.\n\nIf you've ever explained why something didn't go the way you planned — to a boss, a partner, a group chat — today's forecast is for you. The global RAM market impacted us all. The president called during the presentation. The watchdog filed the report. These things happen to everyone.\n\nYour intentions were solid. The outcome is someone else's fault. Walk into today with that energy. It'll get you further than you think.",
-    "introJa": "「アリゲーター・アルカトラズ」という名前、政府が自分でつけたんですよ。\n\n怖い名前で抑止力にしようとしたら、同じ政府の監視機関が「中は金属製の囲いでした」と報告書を出した。\n\nで、今日の他の4本も同じ構造なんですよね。VRヘッドセットは「手頃な価格を目指していた」と言って1,059ドルで着地した。ケネディセンターは芸術の殿堂なんですけど、公式文書に「大統領だけが救える」と書いた。CDCははしかのアウトブレイクで3人目の死亡が出た週末に、死者の数え方を変えた。そしてAI技術の最前線を語る壇上で、コミュニケーション手段はスピーカーフォンでした。\n\n今日の占いです。\n\n「意図はよかったんですけど」と思っていることが何かあるなら、今日はその言い訳が一番通じる日かもしれない。根拠はValveです。グローバルなRAM市場のせいにして1,059ドルを「手頃」と呼んだ会社が今日ニュースになってる。あなたの説明は、たぶんそれより筋が通ってる。",
-    "quipEn": "Today's lesson: the gap between what you said and what happened is not a bug. It's a press release.",
-    "quipJa": "「意図はよかった」は今日一番使われた言葉だと思う。5本分。",
+    "leadJa": "ケネディセンター、閉館。理由は「名前を壁に入れさせてくれないから」。\n\n今日、これを最初に読んで、そのまま次のニュースに行けなかったです。",
+    "introEn": "The Kennedy Center is dark because a federal judge said no to a name on the wall. The board—appointed by the same person who wanted the name—voted to close the place. That's not governance, that's a negotiating tactic with a piano inside.\n\nToday's five stories are all running the same software: the label says one thing, the contents say another. Record income that's barely moved in six years. AI safety advice from the people selling the chips that make AI go fast. Sanders and Bannon agreeing on a conclusion while disagreeing on every single word that led there.\n\nHere's your forecast: if you've been feeling like you're working harder for returns that don't quite add up, today's data confirms you are not wrong. The gap between the headline and page four is real. Knowing that gap exists is already something most people skip. You didn't skip it.",
+    "introJa": "ケネディセンターが閉館しました。\n\n理由は「外壁に大統領の名前を入れるのを、裁判所が止めたから」。\n\n名前を入れられないなら開けない。そう言って、大統領自身が送り込んだ理事会が即日閉館を決議した。文化施設の改修が、命名権の人質交渉になった日です。\n\n今日はこの5本。\n\nケネディセンターの壁をめぐる仁義なき命名権交渉。「過去最高」の賃金データの4ページ目に書いてある2.5%という数字。AI安全性を訴えている人とそうじゃない人の、財布との一致度。サンダースとバノンが同じ結論に着地した理由がまったく別の話だった件。そして5年で50%上がった「逃げ場のない移動コスト」。\n\n今日の占い。\n\n「過去最高！」と「2.5%増」は同じ資料に書いてある。見出しで止まった人と、4ページ目まで読んだ人では、今日一日の解像度が変わる。あなたはここまで読んでる。まあ、損はしてないと思いますよ。",
+    "quipEn": "Today's lesson: 'record high' and 'barely moved' can live in the same sentence—it just depends on which page you stopped reading.",
+    "quipJa": "「過去最高」と「2.5%増」は同じ資料に書いてある。どこで止まるかだけの話。",
     "notesEn": [
-      "Jensen Huang was presenting onstage at a tech summit when the president called. He put it on speakerphone. Trump told the room that concerns about AI are a hoax. The room was full of AI billionaires. Nobody walked out. I keep thinking about the speakerphone part.",
-      "The Kennedy Center's board filed a resolution saying it faces imminent bankruptcy and only President Trump can save it. That sentence is in an official document. The board of America's premier arts institution wrote it. Voluntarily.",
-      "Pennsylvania has an active measles outbreak. A third person died. The same weekend, the CDC announced it was changing how it counts measles deaths. I'm not saying those two things are connected. I'm saying they happened at the same time.",
-      "The DHS Inspector General found that detainees at 'Alligator Alcatraz' were held in cramped metal enclosures. The administration named that facility themselves. They chose Alcatraz. They did the branding. Then their own watchdog filed this report.",
-      "Valve's new VR headset came out at over $1,059. They say they wanted it to be much more affordable, but the global RAM market had other plans. Over a thousand dollars is, apparently, what affordable looks like after market forces are done with it."
+      "A federal judge blocked Trump's name from going on the Kennedy Center's wall. The board—which Trump appointed—responded by immediately voting to close the building. The president then said renovations won't happen unless his name goes back on. The venue is currently dark. This is the most expensive ego-driven renovation stall in American history.",
+      "The Census Bureau announced that US median household income hit a record high in 2025. It's also up 2.5% since 2019. Both sentences appear in the same report. One made the headline. The other made rent.",
+      "At Dreamforce, Jensen Huang said AI is moving at the right speed. Dario Amodei of Anthropic published an essay days earlier saying the industry needs to slow down. Huang sells the chips. Amodei sells the models the chips run. I'm sure the disagreement is purely philosophical.",
+      "Bernie Sanders and Steve Bannon both spoke at a 'pro-human' AI summit and both called for AI regulation. Sanders wants to rein in tech oligarchs. Bannon wants to beat China. They arrived at the same destination from opposite directions and are definitely not taking the same cab home.",
+      "The total cost of owning a car in the US is up 50% since 2020. Not just gas—insurance, repairs, parking. And in most American cities, not owning a car means not being able to live there. It's a mandatory subscription you didn't sign up for."
     ],
     "xJa": [
-      "AI最大手の社長が壇上でプレゼン中に大統領から電話がかかってきて、スピーカーフォンで会場に流した。「AIの脅威はデタラメ」と大統領が言った。会場は拍手した。2026年のテック業界です。",
-      "ケネディセンターが公式文書に「大統領だけが私たちを救える」と書いた。下書きがあって弁護士が見て理事が投票した文書に。芸術の独立性を体現するはずの機関が、自分でその記録を消した。",
-      "ペンシルベニア州のはしかアウトブレイクで3人目の死亡が確認された週末に、CDCの死者カウント方法が変更された。体重が増えたから体重計を変えた、という話ではないと思いたい。",
-      "「アリゲーター・アルカトラズ」という名前は政府が自分でつけた。その施設を政府自身の監視機関が調査したら「狭い金属製の囲いに拘禁」と報告書が出た。怖い名前だけが正確だった。",
-      "ValveのVRヘッドセット、「手頃な価格を目指していた」と言って1,059ドル超で出てきた。グローバルなRAM市場のせいだそうです。「手頃」の定義を確認させてほしい。"
+      "ケネディセンターの外壁にトランプ大統領の名前を入れるのを裁判所が差し止めた。大統領が選んだ理事会が即日「閉館」を決議。理由は名前を入れられないから。ジョン・F・ケネディの名前がついてる建物で起きていることです。",
+      "米国の世帯中央値所得が「過去最高」を記録した、と国勢調査局が発表。同じ資料の中に「2019年比で実質2.5%増」とも書いてある。どちらも本当のこと。見出しになったのは片方だけ。",
+      "「AIが危ない」と訴えるのがAIモデルを売るCEOで、「問題ない」と言うのがAIチップを売るCEO。両者の立場と発言の向きが完全に一致している。安全性の議論と呼ぶのは、少し難しいと思う。",
+      "バーニー・サンダースとスティーブ・バノンが同じイベントで「AI規制が必要だ」と一致した。サンダースの理由は「テック億万長者の権力集中」、バノンの理由は「中国に負けるな」。結論が同じで根拠がまったく別の話、というやつ。",
+      "米国の自動車オーナーシップコストが2020年から50%上昇。ガソリンだけじゃなく保険・修理・駐車場まで。で、多くのアメリカの都市は車がないと生活できない設計になっている。逃げ道のない値上げというのはこういうことです。"
     ],
     "raidEn": [
-      "The speakerphone detail is doing so much work in this story. A presentation about the future of civilization, interrupted by a ringtone.",
-      "A board resolution is technically a legal document. They wrote 'only Trump can save us' in a legal document. About an opera house.",
-      "Changing how you count something during the thing you're counting — that's a bold data strategy.",
-      "They named it themselves. That's the part I keep coming back to. The administration chose Alcatraz.",
-      "Over a thousand dollars as the affordable outcome. The expensive version of this situation must be something else."
+      "The part that gets me is that the board is full of his own appointees. He set up the situation, triggered the outcome, and is now surprised the arts venue is closed. It's like changing the locks and then being upset you can't get in.",
+      "Both sentences are in the same Census Bureau document. 'Record high' and 'up 2.5% since 2019.' One made the headline and one made everyone's financial anxiety completely rational.",
+      "The chip company CEO says AI is fine. The AI model company CEOs say slow down. The thing they have in common is that neither answer is bad for their quarterly earnings. Great panel.",
+      "The part I keep coming back to is that they agreed on the conclusion and then explained why in completely different languages. That's not consensus, that's two people having separate arguments that rhyme.",
+      "The sentence 'not just gas' is doing heavy lifting here. Insurance, repairs, parking—it's a subscription model for existing in space, and the free trial ended in 2020."
     ],
     "raidJa": [
-      "スピーカーフォンで国家政策が語られる場面、なかなか読んだことがなかったです。丁寧な記事をありがとうございます。",
-      "「大統領だけが救える」を公式決議に書いた、という事実の重さをこの記事でちゃんと感じました。芸術施設がそれを書くということの意味を考えさせられます。",
-      "アウトブレイクの最中に集計方法が変わる、という事実をここまで丁寧に整理してくださっていてありがたいです。公衆衛生の話として非常に重要だと思います。",
-      "「アリゲーター・アルカトラズ」という名前を政府自身がつけていたという背景、この記事で初めてちゃんと理解しました。ブランディングと実態のズレが鮮明ですね。",
-      "「手頃な価格を目指していた」という言葉と1,059ドルの間にある距離感、この記事が一番わかりやすく説明していてくれました。"
+      "「自分で選んだ理事会が閉館を決議した」という構図に、読んでいて二度見しました。誰も外部から邪魔していないんですよね、これ。とても丁寧にまとめてくださっています。",
+      "「過去最高」と「2.5%増」が同じ資料にあるというの、日本の「名目賃金最高・実質賃金マイナス」と構造が全く同じで、他人事に読めなかったです。よく整理してくださいました。",
+      "「安全を訴える側」と「止めなくていいと言う側」の利害関係がこんなに透けているのに議論が続いているの、記事で整理してもらうまで自分はモヤっとしていました。",
+      "「結論は同じ、理由はまったく別」という構図、記事で図解してもらってやっと理解できました。登山口が2か所あって山頂で出くわした感じですよね。",
+      "「ガソリン代だけじゃない」という点、この記事で初めてちゃんと把握できました。保険・修理・駐車場まで全部上がっているとなると、これは逃げ場がないですよね。"
     ],
     "riffEn": [
-      "Jensen Huang is presenting at a tech summit — full room, billionaires in the audience — and his phone rings. It's the president. Instead of declining the call like a normal person at a conference, he puts it on speaker. Trump tells the room that fears about AI data centers are a hoax. The room, which is full of the people who built the AI, responds with applause. What I keep thinking about is this: they had every reason to push back. They had the technical knowledge, the platform, the moment. They had the guy on speakerphone. And they clapped.",
-      "The Kennedy Center is nearly broke. Can't pay staff within weeks. So the board filed a resolution — a formal legal document — explicitly stating that only President Trump can rescue the institution. I want to be careful here: a board resolution isn't a tweet. It's not a press release written in a panic. Someone drafted that sentence, lawyers looked at it, board members voted on it. 'Only Trump can save us' is now in the official record of America's premier arts institution. Voluntarily.",
-      "Pennsylvania's measles outbreak is ongoing. Three people have now died. On Sunday — same weekend as that third death — the Trump administration announced the CDC was changing how it counts measles fatalities. I'm going to leave the facts right there, because the proximity does the work. The number was going up. The method of counting changed. Those two things happened in the same news cycle.",
-      "The DHS Inspector General — the department's own internal watchdog — reviewed 'Alligator Alcatraz' and found detainees were held in cramped conditions in small metal enclosures. Here's the part worth sitting with: the administration named this facility themselves. They chose the word Alcatraz. They used that name in press briefings, in public statements, as a branding decision. And then their own watchdog filed a report about what was inside. Usually the scary nickname comes after the scandal. These folks ran it in the other order.",
-      "Valve's Steam Frame VR headset arrived at $1,059. The company said they'd aimed for something 'much more affordable.' They blame the global RAM and storage markets — and to be fair, those conditions are real. But here's the thing: everyone in consumer electronics is dealing with the same market. Valve's specific situation is that they promised accessible VR, absorbed the same market forces as everyone else, and the result landed at over a thousand dollars. The market impacted them the same way it impacted everybody. The headset, though, is not priced the same way as everybody."
+      "The Kennedy Center was supposed to get renovations. Then a federal judge blocked Trump's name from going on the building's facade—for the second time in four months—and the board voted to close the venue immediately. The same board Trump appointed. So the sequence is: appoint the board, lose in court, have the board shut the place down, then announce you won't fix it unless your name goes on the wall. Named after a president who was shot. Now dark because a living president wants the same wall space. Totally normal cultural policy.",
+      "The Census Bureau put out a press release celebrating record household income. Somewhere around page four of the same document, it mentions the number is up 2.5% since 2019, adjusted for inflation. Six years. A pandemic, several 'historic economic plans,' and a Federal Reserve that can't stop fiddling with rates. Two and a half percent. The record is real. So is the math. One of them made the headline.",
+      "Jensen Huang told a conference that AI development is moving at the right speed. Days before, Anthropic's Dario Amodei published a whole essay arguing the industry needs to slow down. Here's the thing: Huang sells chips. The faster AI runs, the more chips sell. Amodei sells AI models. The slower competitors develop, the longer Anthropic's lead holds. Both men have strong feelings about AI safety. Both men's feelings align precisely with their revenue model. I'm sure that's a coincidence.",
+      "Bernie Sanders and Steve Bannon both spoke at something called a 'pro-human' summit, and both called for restricting AI. Sanders wants to stop tech oligarchs from consolidating power. Bannon wants to beat China. They arrived at 'regulate AI' from completely different planets, shook hands on the conclusion, and then presumably did not have lunch together. The summit described this as a convergence. It's less a convergence and more two people who both dislike the weather for entirely different meteorological reasons.",
+      "Car ownership in the US is up 50% since 2020. Not just gas—insurance premiums, repair costs, parking fees, all climbing simultaneously. And in most American cities, not owning a car isn't really an option, because the nearest grocery store is eleven miles away and the bus runs twice a day if it runs at all. It's a mandatory expense with no exit. The market raised the price on the thing you're not allowed to stop buying."
     ],
     "riffJa": [
-      "ジェンセン・ファン（NvidiaのCEO）がテック系の大きなイベントで壇上に立っていたら、電話がかかってきた。トランプ大統領から。ふつう、プレゼン中の電話は切るか無視するじゃないですか。彼はスピーカーフォンで会場に流した。トランプ大統領は「AIへの懸念はデタラメだ」と言った。会場には、そのAIを実際に作っている人たちがいた。拍手が起きた。「デタラメ」と言われた懸念を一番よく知っているはずの人たちが、いる場所で。",
-      "ケネディセンターというのは、ワシントンにある米国を代表する芸術施設です。オペラ、バレエ、コンサート。そこが「数週間以内に給与が払えなくなる」と発表した。で、理事会が出した公式決議に何と書いてあったかというと、「トランプ大統領だけが救済できる」。決議というのは法的な文書ですよ。下書きがあって、弁護士が見て、理事が投票して、そういう手順を経た文書に「大統領だけが救える」と書いた。\n\n芸術の独立性。その言葉、今どこにあるんですかね。",
-      "ペンシルベニア州ではしかの感染拡大が続いていて、3人目の死亡が確認された。それと同じ週末に、CDCのはしか死亡者数の集計方法が変更された、というニュースです。\n\n体重計の話をします。体重が増えたとき、解決策は二つある。体重を減らすか、体重計を変えるか。どちらも「数字」には作用する。でも、体重には片方しか作用しない。",
-      "「アリゲーター・アルカトラズ」という名前は、政府が自分でつけました。メディアがつけたニックネームでも、批判側がつけたものでもない。政権が会見で使い、広報資料に書き、抑止力のシンボルとして宣伝した名前です。\n\nその施設をDHS（国土安全保障省）の内部監視機関が調査したら、被収容者が「狭い金属製の囲い」に置かれていたという報告書が出てきた。同じ省の中の話です。自分でつけた怖い名前の施設を、自分の監視機関が批判した。\n\nまあ、名前だけは正確でしたね。",
-      "ValveのVRヘッドセット「Steam Frame」が1,059ドル超で発売されました。同社は「当初はもっとはるかに手頃な価格を目指していた」と説明していて、値上がりの理由としてグローバルなRAMとストレージ市場の影響を挙げています。「私たちも他の全員と同じように影響を受けた」と。\n\nそうなんですよ。でも「他の全員」は、手頃な価格を約束したうえで1,059ドルを出してきたわけじゃない。市場の影響は共通で、その結果としての価格は、全員同じじゃなかった。"
+      "ケネディセンターは改修工事の予定でした。\n\nただ、連邦判事が外壁への大統領名の追加を4か月で2度差し止めた。で、大統領が任命した理事会が即日「閉館」を決議。大統領本人は「名前を入れさせてくれないなら改修しない」と表明。\n\n自分で選んだ理事会に建物を閉めさせて、自分で名前を出せないから工事しない、と言っている。ジョン・F・ケネディの名前がついている建物で起きている話です。",
+      "国勢調査局が「2025年の世帯中央値所得、過去最高を記録!」と発表しました。\n\n同じ資料の別のページに「ただし2019年比では実質2.5%増」と書いてあります。\n\n6年。パンデミックがあって、「歴史的な経済政策」が何本も走って、FRBが利上げ・利下げを繰り返して、2.5%。プレスリリースというのは本当に芸術だな、と思います。どこを切るかで全然ちがう話になる。",
+      "NvidiaのジェンセンCEOが「AIの開発ペースは問題ない」と言いました。その数日前、AnthropicのアモデイCEOが「ペースを落とすべき」という論文を出していました。\n\nジェンセンさんはAIチップを売っています。速く動くほど売れます。アモデイさんはAIモデルを売っています。競合が遅れるほど有利になります。\n\n二人は「AI安全性」について深く議論した、と報じられています。",
+      "バーニー・サンダースとスティーブ・バノンが、同じイベントで「AI規制が必要だ」と言いました。\n\nサンダースさんの理由は「テック億万長者が権力を集中させている」。バノンさんの理由は「中国に負けてはいけない」。\n\n登山口がまったく別の場所にあって、山頂で出くわした感じです。「一致」という見出しになってるけど、二人の地図は最初から別の山を指していた。",
+      "アメリカで車を持つコストが2020年から50%上がっています。\n\nガソリン代だけじゃない。保険料、修理費、駐車場代——全部同時に上がっている。で、多くのアメリカの都市は、車がないと食料品の買い物にも行けない設計になっています。\n\n「逃げ場のない値上げ」というのは比喩じゃなくて、文字通りそういう構造になっているんです。"
     ],
     "asideEn": [
-      "Nobody hung up.",
-      "They wrote it down. Officially.",
-      "This one isn't funny.",
-      "They named it themselves.",
-      "That's the affordable version."
+      "He appointed the board. The board closed the building.",
+      "Both numbers are real. One made the headline.",
+      "Funny how that lines up with the revenue model.",
+      "They agreed on the answer. The question was different.",
+      "Mandatory. No exit. Fifty percent."
     ],
     "asideJa": [
-      "誰も切らなかったんですよ。",
-      "公式文書に書きました。",
-      "これは、笑えない。",
-      "名前、自分でつけてます。",
-      "これが「手頃」の着地点。"
+      "自分で選んだ理事会が閉めた。",
+      "同じ資料です、これ。",
+      "立場が透けてますね。",
+      "結論は同じ、理由は別の話。",
+      "逃げ場なしの値上げ。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "News Commentary",
+      "Kennedy Center",
       "Nvidia",
-      "Kennedy Center"
+      "Current Events"
     ],
-    "fullEn": "# We Said One Thing, Then Another Thing Happened\n\n## Today's Forecast\n\nFive stories today. All of them start with a statement of intent and end somewhere else entirely.\n\nValve wanted affordable VR. The Kennedy Center wants artistic independence. The CDC tracks disease data. The administration runs humane facilities. Jensen Huang runs a tech conference, not a press briefing for the White House.\n\nAnd then things happened.\n\nIf you've ever explained why something didn't go the way you planned — to a boss, a partner, a group chat — today's forecast is for you. The global RAM market impacted us all. The president called during the presentation. The watchdog filed the report. These things happen to everyone.\n\nYour intentions were solid. The outcome is someone else's fault. Walk into today with that energy. It'll get you further than you think.\n\n---\n\n## 1. Jensen Huang Takes Trump's Call Onstage, Lets Him Tell a Room Full of Tech Billionaires That Robots Are Fine\n\n*The Verge — [source](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit)*\n\nNvidia CEO Jensen Huang received a phone call from President Trump while presenting onstage at the All-In Summit on Monday and put him on speakerphone in front of a large crowd. Trump used the opportunity to dismiss concerns about data centers and call opposition to AI development a 'hoax.' It was not the first time Huang has taken a presidential call during a public appearance.\n\n**Why It's Funny**\n\nJensen Huang is presenting at a tech summit — full room, billionaires in the audience — and his phone rings. It's the president. Instead of declining the call like a normal person at a conference, he puts it on speaker. Trump tells the room that fears about AI data centers are a hoax. The room, which is full of the people who built the AI, responds with applause. What I keep thinking about is this: they had every reason to push back. They had the technical knowledge, the platform, the moment. They had the guy on speakerphone. And they clapped.\n\n**Say It Out Loud**\n\n> The most powerful man in tech got a call from the president during his presentation. Most of us just get a text asking if we left the stove on.\n\n---\n\n## 2. Kennedy Center Says It's Nearly Broke, Declares Only Trump Can Save It\n\n*NPR Culture — [source](https://www.npr.org/2026/09/14/nx-s1-5968602/kennedy-center-says-its-close-to-bankruptcy-and-will-not-be-able-to-pay-staff-within-weeks)*\n\nThe Kennedy Center released two board resolutions stating that the iconic Washington arts institution is facing imminent bankruptcy and will be unable to pay its staff within weeks. The resolutions explicitly state that only President Trump can 'rescue' the center from its dire financial and physical condition.\n\n**Why It's Funny**\n\nThe Kennedy Center is nearly broke. Can't pay staff within weeks. So the board filed a resolution — a formal legal document — explicitly stating that only President Trump can rescue the institution. I want to be careful here: a board resolution isn't a tweet. It's not a press release written in a panic. Someone drafted that sentence, lawyers looked at it, board members voted on it. 'Only Trump can save us' is now in the official record of America's premier arts institution. Voluntarily.\n\n**Say It Out Loud**\n\n> The Kennedy Center says only Trump can save it. The irony wrote itself, but they can't afford to pay the person who would normally write it.\n\n---\n\n## 3. CDC Changes How It Counts Measles Deaths During Active Pennsylvania Outbreak\n\n*The Guardian US — [source](https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania)*\n\nThe Trump administration changed how the CDC reports measles deaths while an active outbreak continues in Pennsylvania. The change was announced on Sunday as the state confirmed a third apparent measles-related death. Pennsylvania's outbreak has been ongoing, and public health officials have been monitoring the spread closely.\n\n**Why It's Funny**\n\nPennsylvania's measles outbreak is ongoing. Three people have now died. On Sunday — same weekend as that third death — the Trump administration announced the CDC was changing how it counts measles fatalities. I'm going to leave the facts right there, because the proximity does the work. The number was going up. The method of counting changed. Those two things happened in the same news cycle.\n\n**Say It Out Loud**\n\n> Changing the definition is not the same as changing the outcome.\n\n---\n\n## 4. 'Alligator Alcatraz' Had Cramped Metal Enclosures, DHS Watchdog Confirms\n\n*CBS News US — [source](https://www.cbsnews.com/news/florida-alligator-alcatraz-small-metal-enclosures-dhs-ice-watchdog/)*\n\nThe Department of Homeland Security's internal watchdog released findings sharply critical of conditions at a now-closed Florida immigration detention facility nicknamed 'Alligator Alcatraz.' The report found detainees were held in cramped conditions in small metal enclosures. The facility had been publicly promoted by administration officials as a tough deterrent.\n\n**Why It's Funny**\n\nThe DHS Inspector General — the department's own internal watchdog — reviewed 'Alligator Alcatraz' and found detainees were held in cramped conditions in small metal enclosures. Here's the part worth sitting with: the administration named this facility themselves. They chose the word Alcatraz. They used that name in press briefings, in public statements, as a branding decision. And then their own watchdog filed a report about what was inside. Usually the scary nickname comes after the scandal. These folks ran it in the other order.\n\n**Say It Out Loud**\n\n> They named it 'Alligator Alcatraz' themselves. That's not a nickname the media gave it. They did that.\n\n---\n\n## 5. Valve's VR Headset Was Supposed to Be Affordable. Then Came the Global RAM Market.\n\n*The Verge — [source](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact)*\n\nValve's Steam Frame virtual reality headset launched at a price exceeding $1,059, despite the company's stated goal of making an affordable device. Valve attributed the higher-than-intended price to the global RAM and storage markets, saying those conditions 'impacted us the same way they've impacted everybody.' The headset was positioned as a more accessible entry point into VR.\n\n**Why It's Funny**\n\nValve's Steam Frame VR headset arrived at $1,059. The company said they'd aimed for something 'much more affordable.' They blame the global RAM and storage markets — and to be fair, those conditions are real. But here's the thing: everyone in consumer electronics is dealing with the same market. Valve's specific situation is that they promised accessible VR, absorbed the same market forces as everyone else, and the result landed at over a thousand dollars. The market impacted them the same way it impacted everybody. The headset, though, is not priced the same way as everybody.\n\n**Say It Out Loud**\n\n> Valve wanted to make VR affordable. The global RAM market wanted something else, and RAM won.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: the gap between what you said and what happened is not a bug. It's a press release.\n",
-    "fullJa": "# 「手頃な価格」で出てきた1,059ドルと、アウトブレイク中に変わった死者の数え方の話\n\n## 今日を占うよ〜\n\n「アリゲーター・アルカトラズ」という名前、政府が自分でつけたんですよ。\n\n怖い名前で抑止力にしようとしたら、同じ政府の監視機関が「中は金属製の囲いでした」と報告書を出した。\n\nで、今日の他の4本も同じ構造なんですよね。VRヘッドセットは「手頃な価格を目指していた」と言って1,059ドルで着地した。ケネディセンターは芸術の殿堂なんですけど、公式文書に「大統領だけが救える」と書いた。CDCははしかのアウトブレイクで3人目の死亡が出た週末に、死者の数え方を変えた。そしてAI技術の最前線を語る壇上で、コミュニケーション手段はスピーカーフォンでした。\n\n今日の占いです。\n\n「意図はよかったんですけど」と思っていることが何かあるなら、今日はその言い訳が一番通じる日かもしれない。根拠はValveです。グローバルなRAM市場のせいにして1,059ドルを「手頃」と呼んだ会社が今日ニュースになってる。あなたの説明は、たぶんそれより筋が通ってる。\n\n---\n\n## 1. Jensen Huang Takes Trump's Call Onstage, Lets Him Tell a Room Full of Tech Billionaires That Robots Are Fine\n\n*The Verge（[記事](https://www.theverge.com/tech/995079/president-donald-trump-calls-nvidia-ceo-jensen-huang-all-in-summit)）*\n\nNvidiaのCEOジェンセン・ファンが「All-In Summit」の壇上でトランプ大統領からの電話を受け、スピーカーフォンで会場に流した。トランプ大統領はデータセンター反対派を「デタラメ」と断じ、AIは脅威ではないと主張した。\n\n**どこが笑える？**\n\nジェンセン・ファン（NvidiaのCEO）がテック系の大きなイベントで壇上に立っていたら、電話がかかってきた。トランプ大統領から。ふつう、プレゼン中の電話は切るか無視するじゃないですか。彼はスピーカーフォンで会場に流した。トランプ大統領は「AIへの懸念はデタラメだ」と言った。会場には、そのAIを実際に作っている人たちがいた。拍手が起きた。「デタラメ」と言われた懸念を一番よく知っているはずの人たちが、いる場所で。\n\n**このニュースをジョークにするなら...**\n\n> テックの世界で最も力を持つ男が、プレゼン中に大統領から電話を受けた。ふつうの人はせいぜい「ガス消した？」ってLINEが来るくらいですよ。\n\n---\n\n## 2. Kennedy Center Says It's Nearly Broke, Declares Only Trump Can Save It\n\n*NPR Culture（[記事](https://www.npr.org/2026/09/14/nx-s1-5968602/kennedy-center-says-its-close-to-bankruptcy-and-will-not-be-able-to-pay-staff-within-weeks)）*\n\nケネディセンターが「数週間以内にスタッフへの給与支払いができなくなる」と公表し、財政危機からの救済にはトランプ大統領の介入が不可欠だとする決議文を公開した。\n\n**どこが笑える？**\n\nケネディセンターというのは、ワシントンにある米国を代表する芸術施設です。オペラ、バレエ、コンサート。そこが「数週間以内に給与が払えなくなる」と発表した。で、理事会が出した公式決議に何と書いてあったかというと、「トランプ大統領だけが救済できる」。決議というのは法的な文書ですよ。下書きがあって、弁護士が見て、理事が投票して、そういう手順を経た文書に「大統領だけが救える」と書いた。\n\n芸術の独立性。その言葉、今どこにあるんですかね。\n\n**このニュースをジョークにするなら...**\n\n> ケネディセンターが「トランプ氏だけが救える」と言った。皮肉は自動的に書き上がったけど、それを書く人への給料が払えない。\n\n---\n\n## 3. CDC Changes How It Counts Measles Deaths During Active Pennsylvania Outbreak\n\n*The Guardian US（[記事](https://www.theguardian.com/society/2026/sep/14/trump-administration-cdc-measles-deaths-pennsylvania)）*\n\nペンシルベニア州でのはしかアウトブレイク中、3例目の死亡が報告されたのと同時期に、トランプ政権がCDCのはしか死亡者数の集計方法を変更したことが明らかになった。\n\n**どこが笑える？**\n\nペンシルベニア州ではしかの感染拡大が続いていて、3人目の死亡が確認された。それと同じ週末に、CDCのはしか死亡者数の集計方法が変更された、というニュースです。\n\n体重計の話をします。体重が増えたとき、解決策は二つある。体重を減らすか、体重計を変えるか。どちらも「数字」には作用する。でも、体重には片方しか作用しない。\n\n**このニュースをジョークにするなら...**\n\n> 定義を変えることは、結果を変えることではない。\n\n---\n\n## 4. 'Alligator Alcatraz' Had Cramped Metal Enclosures, DHS Watchdog Confirms\n\n*CBS News US（[記事](https://www.cbsnews.com/news/florida-alligator-alcatraz-small-metal-enclosures-dhs-ice-watchdog/)）*\n\nDHSの内部監視機関が、「アリゲーター・アルカトラズ」と呼ばれたフロリダ州の移民収容施設について、被収容者が「窮屈な環境」と「小さな金属製の囲い」に置かれていたと厳しく批判する調査結果を公表した。\n\n**どこが笑える？**\n\n「アリゲーター・アルカトラズ」という名前は、政府が自分でつけました。メディアがつけたニックネームでも、批判側がつけたものでもない。政権が会見で使い、広報資料に書き、抑止力のシンボルとして宣伝した名前です。\n\nその施設をDHS（国土安全保障省）の内部監視機関が調査したら、被収容者が「狭い金属製の囲い」に置かれていたという報告書が出てきた。同じ省の中の話です。自分でつけた怖い名前の施設を、自分の監視機関が批判した。\n\nまあ、名前だけは正確でしたね。\n\n**このニュースをジョークにするなら...**\n\n> 「アリゲーター・アルカトラズ」って名前、メディアがつけたんじゃないですよ。当局が自分でつけたんです。\n\n---\n\n## 5. Valve's VR Headset Was Supposed to Be Affordable. Then Came the Global RAM Market.\n\n*The Verge（[記事](https://www.theverge.com/tech/995055/valve-steam-frame-price-ram-impact)）*\n\nValveのVRヘッドセット「Steam Frame」が1,059ドルを超える価格で登場した。同社は当初「はるかに手頃な価格」を目指していたと説明し、世界的なRAM・ストレージ市場の影響を値上がりの理由に挙げた。\n\n**どこが笑える？**\n\nValveのVRヘッドセット「Steam Frame」が1,059ドル超で発売されました。同社は「当初はもっとはるかに手頃な価格を目指していた」と説明していて、値上がりの理由としてグローバルなRAMとストレージ市場の影響を挙げています。「私たちも他の全員と同じように影響を受けた」と。\n\nそうなんですよ。でも「他の全員」は、手頃な価格を約束したうえで1,059ドルを出してきたわけじゃない。市場の影響は共通で、その結果としての価格は、全員同じじゃなかった。\n\n**このニュースをジョークにするなら...**\n\n> ValveはVRをお手頃にしたかった。グローバルなRAM市場は別の意見を持っていて、RAMが勝った。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「意図はよかった」は今日一番使われた言葉だと思う。5本分。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3（はしか死亡）がsensitive指定漏れ。captionsとcaptionsJaが英語の権力批判文をそのまま和訳した「書き言葉」で、笑いの開発も残っている。imagePromptsはCDCロゴ付き記者会見構図で問題なし。d4のcaption5に汎用ジョーク臭（'Somewhere a tourism board is taking notes'）があり書き直し。d1のcaption3が「観察」で終わっているため書き直し。introJaは占いパートが3要素を満たしているが「今日の5本」の羅列が書き言葉的に整いすぎているので人間の呼吸に直す。xJaのd3が135字を超えているので修正。 ／ 文体パス: 3箇所修正。introJaの締め「自信を持って今日に臨んでください」が読者への指示形+営業スマイル調だったのを崩した。riffJa[0]の末尾「いる場所で」は文として宙吊り感があり残したが、riffJa[1]の「芸術の独立性とはなんだったのか、という話を、その機関の公式記録が静かに消していった」がうまくまとめた感のある締めだったので短く落とした。riffJa[3]末尾「ブランディングの失敗というより、順序の問題だと思う」も気の利いた総括なので崩した。"
+    "fullEn": "# Your Name on the Wall or It Stays Dark\n\n## Today's Forecast\n\nThe Kennedy Center is dark because a federal judge said no to a name on the wall. The board—appointed by the same person who wanted the name—voted to close the place. That's not governance, that's a negotiating tactic with a piano inside.\n\nToday's five stories are all running the same software: the label says one thing, the contents say another. Record income that's barely moved in six years. AI safety advice from the people selling the chips that make AI go fast. Sanders and Bannon agreeing on a conclusion while disagreeing on every single word that led there.\n\nHere's your forecast: if you've been feeling like you're working harder for returns that don't quite add up, today's data confirms you are not wrong. The gap between the headline and page four is real. Knowing that gap exists is already something most people skip. You didn't skip it.\n\n---\n\n## 1. Trump Threatens to Keep Kennedy Center Dark Unless His Name Goes on the Wall\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html)*\n\nA federal judge blocked the Kennedy Center board from adding President Trump's name to the building's facade for the second time in four months. Following the ruling, the board—stacked with Trump's appointees—voted to close the venue immediately. Trump then publicly stated renovations would not proceed unless his name was restored to the building.\n\n**Why It's Funny**\n\nThe Kennedy Center was supposed to get renovations. Then a federal judge blocked Trump's name from going on the building's facade—for the second time in four months—and the board voted to close the venue immediately. The same board Trump appointed. So the sequence is: appoint the board, lose in court, have the board shut the place down, then announce you won't fix it unless your name goes on the wall. Named after a president who was shot. Now dark because a living president wants the same wall space. Totally normal cultural policy.\n\n**Say It Out Loud**\n\n> The Kennedy Center: dark, locked, and closed—because the judge wouldn't put someone's name on it. This is what a tantrum costs per square foot.\n\n---\n\n## 2. Americans Hit Record Income in 2025 — Up Just 2.5% Since 2019\n\n*CBS News US — [source](https://www.cbsnews.com/news/census-income-data-pandemic-levels/)*\n\nThe U.S. Census Bureau reported that median household income reached a record high in 2025. However, when adjusted for inflation and compared to 2019 figures, the typical American household has seen earnings grow by only 2.5% over six years. The data arrives as the Federal Reserve weighs potential interest-rate increases.\n\n**Why It's Funny**\n\nThe Census Bureau put out a press release celebrating record household income. Somewhere around page four of the same document, it mentions the number is up 2.5% since 2019, adjusted for inflation. Six years. A pandemic, several 'historic economic plans,' and a Federal Reserve that can't stop fiddling with rates. Two and a half percent. The record is real. So is the math. One of them made the headline.\n\n**Say It Out Loud**\n\n> Record income! Highest ever! Also up 2.5% since 2019. Both sentences are in the same document. One made the headline.\n\n---\n\n## 3. Nvidia's CEO Says AI Safety Can Wait. The AI Safety CEOs Disagree.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html)*\n\nAt the Dreamforce conference, Nvidia CEO Jensen Huang diverged from the heads of Anthropic and OpenAI on the question of AI safety and development speed. The disagreement came days after Anthropic's Dario Amodei published an essay urging the industry to slow down AI model development. Huang's position contrasts sharply with the safety-focused posture of companies that sell AI models rather than the chips that power them.\n\n**Why It's Funny**\n\nJensen Huang told a conference that AI development is moving at the right speed. Days before, Anthropic's Dario Amodei published a whole essay arguing the industry needs to slow down. Here's the thing: Huang sells chips. The faster AI runs, the more chips sell. Amodei sells AI models. The slower competitors develop, the longer Anthropic's lead holds. Both men have strong feelings about AI safety. Both men's feelings align precisely with their revenue model. I'm sure that's a coincidence.\n\n**Say It Out Loud**\n\n> The chip guy says AI is fine. The AI guys say slow down. Nobody asked the AI.\n\n---\n\n## 4. Bernie Sanders and Steve Bannon Agree on Something. It's AI.\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit)*\n\nSenator Bernie Sanders and far-right strategist Steve Bannon both called for restrictions on artificial intelligence at a 'pro-human' summit, marking a rare point of rhetorical overlap between the two figures. However, the two offered competing visions—Sanders focused on tech oligarchs consolidating power, while Bannon framed the issue around a rivalry with China.\n\n**Why It's Funny**\n\nBernie Sanders and Steve Bannon both spoke at something called a 'pro-human' summit, and both called for restricting AI. Sanders wants to stop tech oligarchs from consolidating power. Bannon wants to beat China. They arrived at 'regulate AI' from completely different planets, shook hands on the conclusion, and then presumably did not have lunch together. The summit described this as a convergence. It's less a convergence and more two people who both dislike the weather for entirely different meteorological reasons.\n\n**Say It Out Loud**\n\n> Bernie Sanders and Steve Bannon both said 'regulate AI' at the same event. They meant completely different things. Democracy is fine.\n\n---\n\n## 5. Car Ownership Costs Up 50% Since 2020 — And Gas Is Just the Start\n\n*CBS News US — [source](https://www.cbsnews.com/news/car-ownership-auto-repair-costs-inflation/)*\n\nNew economic data shows that the total cost of owning a car in the United States has surged 50% since 2020. The increase goes well beyond gasoline prices and includes spikes in auto insurance premiums, repair and maintenance costs, and parking fees. The data illustrates how inflation has hit car-dependent Americans from multiple directions simultaneously.\n\n**Why It's Funny**\n\nCar ownership in the US is up 50% since 2020. Not just gas—insurance premiums, repair costs, parking fees, all climbing simultaneously. And in most American cities, not owning a car isn't really an option, because the nearest grocery store is eleven miles away and the bus runs twice a day if it runs at all. It's a mandatory expense with no exit. The market raised the price on the thing you're not allowed to stop buying.\n\n**Say It Out Loud**\n\n> Car ownership is up 50% since 2020. Public transit in most of these cities: still the same one bus that comes every 90 minutes.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: 'record high' and 'barely moved' can live in the same sentence—it just depends on which page you stopped reading.\n",
+    "fullJa": "# 「過去最高」と「2.5%増」が同じ資料に書いてある日\n\n## 今日を占うよ〜\n\nケネディセンターが閉館しました。\n\n理由は「外壁に大統領の名前を入れるのを、裁判所が止めたから」。\n\n名前を入れられないなら開けない。そう言って、大統領自身が送り込んだ理事会が即日閉館を決議した。文化施設の改修が、命名権の人質交渉になった日です。\n\n今日はこの5本。\n\nケネディセンターの壁をめぐる仁義なき命名権交渉。「過去最高」の賃金データの4ページ目に書いてある2.5%という数字。AI安全性を訴えている人とそうじゃない人の、財布との一致度。サンダースとバノンが同じ結論に着地した理由がまったく別の話だった件。そして5年で50%上がった「逃げ場のない移動コスト」。\n\n今日の占い。\n\n「過去最高！」と「2.5%増」は同じ資料に書いてある。見出しで止まった人と、4ページ目まで読んだ人では、今日一日の解像度が変わる。あなたはここまで読んでる。まあ、損はしてないと思いますよ。\n\n---\n\n## 1. Trump Threatens to Keep Kennedy Center Dark Unless His Name Goes on the Wall\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html)）*\n\nトランプ大統領は、連邦判事がケネディセンターの外壁への大統領名の追加を再度差し止めたことを受け、改修工事を進めないと表明。大統領が送り込んだ理事会は直ちに閉館を議決した。\n\n**どこが笑える？**\n\nケネディセンターは改修工事の予定でした。\n\nただ、連邦判事が外壁への大統領名の追加を4か月で2度差し止めた。で、大統領が任命した理事会が即日「閉館」を決議。大統領本人は「名前を入れさせてくれないなら改修しない」と表明。\n\n自分で選んだ理事会に建物を閉めさせて、自分で名前を出せないから工事しない、と言っている。ジョン・F・ケネディの名前がついている建物で起きている話です。\n\n**このニュースをジョークにするなら...**\n\n> ケネディセンター、暗闇の中でクローズ。理由：壁に名前を書いてもらえなかった。プライドって、1平方メートルいくらですか。\n\n---\n\n## 2. Americans Hit Record Income in 2025 — Up Just 2.5% Since 2019\n\n*CBS News US（[記事](https://www.cbsnews.com/news/census-income-data-pandemic-levels/)）*\n\n国勢調査局のデータによると、2025年の米国世帯の中央値所得は過去最高を記録したが、2019年比では実質2.5%増にとどまることが明らかになった。\n\n**どこが笑える？**\n\n国勢調査局が「2025年の世帯中央値所得、過去最高を記録!」と発表しました。\n\n同じ資料の別のページに「ただし2019年比では実質2.5%増」と書いてあります。\n\n6年。パンデミックがあって、「歴史的な経済政策」が何本も走って、FRBが利上げ・利下げを繰り返して、2.5%。プレスリリースというのは本当に芸術だな、と思います。どこを切るかで全然ちがう話になる。\n\n**このニュースをジョークにするなら...**\n\n> 過去最高！史上初！あと2019年比2.5%増。全部同じ資料に書いてある。見出しになったのはどれでしょう。\n\n---\n\n## 3. Nvidia's CEO Says AI Safety Can Wait. The AI Safety CEOs Disagree.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html)）*\n\nNvidiaのジェンセンCEOは、OpenAIとAnthropicのCEOがAI開発の減速を訴える中、Dreamforceイベントで両者と異なる見解を示した。Anthropicのアモデイ氏が開発ペースを落とすよう訴える論文を発表した数日後の発言。\n\n**どこが笑える？**\n\nNvidiaのジェンセンCEOが「AIの開発ペースは問題ない」と言いました。その数日前、AnthropicのアモデイCEOが「ペースを落とすべき」という論文を出していました。\n\nジェンセンさんはAIチップを売っています。速く動くほど売れます。アモデイさんはAIモデルを売っています。競合が遅れるほど有利になります。\n\n二人は「AI安全性」について深く議論した、と報じられています。\n\n**このニュースをジョークにするなら...**\n\n> チップ屋さんはAI大丈夫と言う。AI屋さんたちはスローダウンと言う。AIには誰も聞いてない。\n\n---\n\n## 4. Bernie Sanders and Steve Bannon Agree on Something. It's AI.\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit)）*\n\n進歩派のバーニー・サンダース上院議員と右派ストラテジストのスティーブ・バノンが、「プロヒューマン」サミットでAI規制の必要性で一致した。ただし、その理由と方向性はまったく異なる。\n\n**どこが笑える？**\n\nバーニー・サンダースとスティーブ・バノンが、同じイベントで「AI規制が必要だ」と言いました。\n\nサンダースさんの理由は「テック億万長者が権力を集中させている」。バノンさんの理由は「中国に負けてはいけない」。\n\n登山口がまったく別の場所にあって、山頂で出くわした感じです。「一致」という見出しになってるけど、二人の地図は最初から別の山を指していた。\n\n**このニュースをジョークにするなら...**\n\n> バーニー・サンダースとスティーブ・バノンが同じイベントで「AIを規制しろ」と言った。意味は全然違う。民主主義は元気です。\n\n---\n\n## 5. Car Ownership Costs Up 50% Since 2020 — And Gas Is Just the Start\n\n*CBS News US（[記事](https://www.cbsnews.com/news/car-ownership-auto-repair-costs-inflation/)）*\n\n新たな経済データによると、自動車保有コストは2020年以降50%急騰しており、ガソリン代以外にも保険料、修理費、駐車場代など複数の費用が運転者を直撃している。\n\n**どこが笑える？**\n\nアメリカで車を持つコストが2020年から50%上がっています。\n\nガソリン代だけじゃない。保険料、修理費、駐車場代——全部同時に上がっている。で、多くのアメリカの都市は、車がないと食料品の買い物にも行けない設計になっています。\n\n「逃げ場のない値上げ」というのは比喩じゃなくて、文字通りそういう構造になっているんです。\n\n**このニュースをジョークにするなら...**\n\n> 自動車保有コストが2020年比50%増。で、これらの都市の公共交通機関は？90分に1本のバスがまだ走ってます。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「過去最高」と「2.5%増」は同じ資料に書いてある。どこで止まるかだけの話。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3キャプション2番に汎用フレーズ「Bold strategy.」が混入していたため構築されたジョークに差し替え。d4キャプション4番「The AI probably noticed.」が観察止まりで裏切りがなかったため書き直し。xJa3本目が136字を超えているため135字以内に圧縮。introJaの占いパートが「導入→5本予告→前向き占い」の構造を満たしておらず5本の予告が列挙されていないため書き直し。他は合格。 ／ 文体パス: 2箇所修正。introJaの締め「今日、一番損をしない側にいます」がプレゼン着地型だったのでぼやいた形に崩し、quipJaの「読む深さの問題です」が説明口調だったので口語に直した。"
   },
   "carousel": [
-    "images/2026-09-15/carousel/slide-1.jpg",
-    "images/2026-09-15/carousel/slide-2.jpg",
-    "images/2026-09-15/carousel/slide-3.jpg",
-    "images/2026-09-15/carousel/slide-4.jpg",
-    "images/2026-09-15/carousel/slide-5.jpg",
-    "images/2026-09-15/carousel/slide-6.jpg",
-    "images/2026-09-15/carousel/slide-7.jpg"
+    "images/2026-09-16/carousel/slide-1.jpg",
+    "images/2026-09-16/carousel/slide-2.jpg",
+    "images/2026-09-16/carousel/slide-3.jpg",
+    "images/2026-09-16/carousel/slide-4.jpg",
+    "images/2026-09-16/carousel/slide-5.jpg",
+    "images/2026-09-16/carousel/slide-6.jpg",
+    "images/2026-09-16/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-15/note-header.jpg",
-    "substack": "images/2026-09-15/substack-cover.jpg"
+    "note": "images/2026-09-16/note-header.jpg",
+    "substack": "images/2026-09-16/substack-cover.jpg"
   }
 };
