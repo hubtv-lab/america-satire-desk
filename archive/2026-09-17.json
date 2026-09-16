@@ -358,9 +358,5 @@
   "headers": {
     "note": "images/2026-09-17/note-header.jpg",
     "substack": "images/2026-09-17/substack-cover.jpg"
-  },
-  "video": "videos/2026-09-17/daily-short.mp4",
-  "videoDuration": 93.9,
-  "videoJa": "videos/2026-09-17/daily-short-ja.mp4",
-  "videoJaDuration": 86.1
+  }
 }

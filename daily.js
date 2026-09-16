@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-16",
-  "generatedAt": "2026-09-15T22:17:42+00:00",
+  "date": "2026-09-17",
+  "generatedAt": "2026-09-16T22:13:21+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump Threatens to Keep Kennedy Center Dark Unless His Name Goes on the Wall",
+        "headline": "Trump Demands 1% Interest Rate While Fed Hikes for First Time Since 2023",
         "source": "CNBC Top News",
-        "date": "2026-09-16",
-        "url": "https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html",
-        "summary": "トランプ大統領は、連邦判事がケネディセンターの外壁への大統領名の追加を再度差し止めたことを受け、改修工事を進めないと表明。大統領が送り込んだ理事会は直ちに閉館を議決した。"
+        "date": "2026-09-17",
+        "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
+        "summary": "連邦準備制度理事会が2023年以来初めて利上げを実施したにもかかわらず、トランプ大統領は金利を1%以下にするよう要求した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「文化の殿堂を守るための改修」のはずが、名前を入れてもらえないなら閉めてやる、という人質交渉になってるんですよ。",
-        "<b>滑稽さ:</b> 裁判所が止めた翌日に理事会が即日閉館を決議。「自分たちで選んだ理事会」に閉めさせるっていうのが、また絶妙な構図じゃないですか。",
-        "<b>日本・海外から見ると:</b> 美術館や劇場の改修条件に「命名権」を持ち出す発想、企業スポンサーかよ、とは思いますよね。ジョン・F・ケネディの名前がついてる建物で。"
+        "<b>矛盾:</b> インフレを抑えるための独立機関が利上げを決めた翌日に、大統領が「1%にしろ」と要求する。中央銀行の独立性って、そういう意味だったっけ。",
+        "<b>滑稽さ:</b> 「アメリカはうまくいってるから金利を下げろ」という論理、うまくいってないから下げろとも言えるし、どっちでも下げろになる仕組みになってるんですよ。",
+        "<b>日本・海外から見ると:</b> 日本は数十年ゼロ金利で苦しんだ。1%を「低すぎる」と言える立場の国が「1%にしろ」と叫んでいる。贅沢な悩みに見える。"
       ],
       "imagePrompts": [
-        "The Kennedy Center's neoclassical facade at night, fully dark with no lights on, a large blank rectangle where a marquee name might go, 'CLOSED' sign on the front door, padlock visible",
-        "A formal boardroom inside a grand government building, a dozen suits at a long table, one hand raised voting, the agenda paper on the table reads 'Item 1: Close immediately', ornate chandelier overhead",
-        "A construction crane sitting motionless beside the Kennedy Center, operator reading a newspaper, a judge's gavel monument in the foreground, the building name engraved in stone untouched"
+        "A large marble Federal Reserve building with a giant neon sign reading '1% OR ELSE' projected onto its facade from outside, surrounded by darkness",
+        "A formal boardroom where eleven identical 'YES' vote placards are arranged on a long table, and one empty chair at the head has a phone with a tweet visible on the screen",
+        "A gas station price sign where the numbers have been replaced with handwritten demands: 'RATES: 1% MAX. FINAL OFFER.'"
       ],
       "captions": [
-        "The Kennedy Center: dark, locked, and closed—because the judge wouldn't put someone's name on it. This is what a tantrum costs per square foot.",
-        "They appointed the board. The board closed the building. The president is shocked the arts venue isn't open. Somewhere in this chain of events is a logic.",
-        "Named after a president who was shot. Now closed because a living president wants the same wall space. Totally normal progression.",
-        "Fourth time visiting D.C. and the Kennedy Center's shut again? Sir, a judge and an ego are in a standoff and the ballet got caught in the middle.",
-        "The renovations are ready to go. The funding is there. The only missing piece is twelve letters and a federal judge who keeps saying no."
+        "The Fed voted unanimously. One guy didn't vote but he's got thoughts.",
+        "Economy's doing great, so rates should be 1%. By that logic, my car runs fine — pull the brakes.",
+        "He threatened to cut trade with entire countries if the Fed didn't listen. The Fed hiked. Ball's in your court, globe.",
+        "The institution designed to be immune to political pressure received the political pressure anyway. Via social media. At 7am.",
+        "Twelve economists in a room agreed. One guy outside the room also has a number. His number is smaller."
       ],
       "captionsJa": [
-        "ケネディセンター、暗闇の中でクローズ。理由：壁に名前を書いてもらえなかった。プライドって、1平方メートルいくらですか。",
-        "自分で選んだ理事会が閉館を決議して、大統領が驚いてる。この因果関係のどこかに「論理」があるはずなんですよ。",
-        "暗殺された大統領の名前がついてる建物。今度は生きてる大統領が同じ壁を欲しがってる。まったく自然な流れですね。",
-        "ワシントンDC、4度目の訪問でまたケネディセンターが閉まってる。裁判官とプライドがにらみ合って、バレエが巻き添えになってます。",
-        "改修の準備はできてる。予算もある。足りないのは12文字と、「ノー」と言い続ける連邦判事だけ。"
+        "全会一致で決まった。ただ一人、投票権のない人が「意見あります」って。",
+        "景気がいいから金利下げろ、という論法。車が絶好調だからブレーキを外す、と同じ理屈なんですよ。",
+        "従わないなら貿易を断つと脅した。Fedは上げた。あとはよろしく、地球。",
+        "政治圧力を受けない設計の機関が、政治圧力を受けた。SNS経由で。朝7時に。",
+        "12人の経済学者が部屋で合意した。部屋の外に一人、もっと小さい数字を持った人がいた。"
       ],
-      "newsEn": "A federal judge blocked the Kennedy Center board from adding President Trump's name to the building's facade for the second time in four months. Following the ruling, the board—stacked with Trump's appointees—voted to close the venue immediately. Trump then publicly stated renovations would not proceed unless his name was restored to the building.",
+      "newsEn": "The Federal Reserve raised its benchmark interest rate by 0.25 percentage points on Wednesday, the first hike since 2023, citing persistent inflation. President Trump immediately pushed back, insisting rates should be 1% or lower. Trump had previously threatened to cut off trade with countries running surpluses with the U.S. if the Fed failed to cut rates.",
       "ironyEn": [
         {
-          "contradiction": "The Kennedy Center exists to celebrate American arts and culture—and it's now being held hostage over a branding dispute.",
-          "absurdity": "Trump's own hand-picked board voted to close it, meaning the president effectively locked out the public from a public institution to win a naming fight with a judge.",
-          "outside": "In most countries, getting your name on a national arts venue requires, at minimum, dying first. Preferably heroically."
+          "contradiction": "The Fed exists specifically to set rates independent of political pressure. Trump responding to a rate hike with a number he prefers is basically submitting a customer review for monetary policy.",
+          "absurdity": "His argument: the economy is doing great, so rates should be near zero. That's the kind of logic that could justify anything — 'traffic's light today, let's remove the speed limits.'",
+          "outside": "Countries that spent decades begging for any economic growth at 0.1% rates are watching America demand 1% and calling it fiscal restraint."
         },
         {
-          "contradiction": "The stated reason for the renovations was the building's condition. The actual condition for the renovations is now a sign out front.",
-          "absurdity": "A federal judge has now blocked the same request twice in four months—so the response to losing in court was to close the building and blame the court.",
-          "outside": "The venue is named after a president who was assassinated. The current president wants equal billing. These are not equivalent résumé entries."
+          "contradiction": "The central bank voted unanimously to hike. One person disagreed: the one who doesn't vote.",
+          "absurdity": "Trump threatened to cut trade with surplus countries if the Fed didn't cut rates — the Fed hiked instead. So now the trade threat is apparently on a delay.",
+          "outside": "Most central banks fight to keep politicians out of rate decisions. The U.S. has a president live-posting his preferred number while the ink is still wet."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-16/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-16/candidate-1-punchy.jpg"
+      "image": "images/2026-09-17/candidate-1.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-17/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Americans Hit Record Income in 2025 — Up Just 2.5% Since 2019",
-        "source": "CBS News US",
-        "date": "2026-09-16",
-        "url": "https://www.cbsnews.com/news/census-income-data-pandemic-levels/",
-        "summary": "国勢調査局のデータによると、2025年の米国世帯の中央値所得は過去最高を記録したが、2019年比では実質2.5%増にとどまることが明らかになった。"
+        "headline": "Top Trump Military Adviser Says U.S. Troops Must Prepare to Fight Around the Moon",
+        "source": "The Guardian US",
+        "date": "2026-09-17",
+        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
+        "summary": "トランプ大統領の最高軍事顧問であるダン・ケイン将軍が、米軍は地球軌道だけでなく月周辺での戦闘にも備える必要があると述べた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「過去最高」と「6年で2.5%増」が同じデータから出てくるんですよ。見出しの角度次第で全然違う話になる。",
-        "<b>滑稽さ:</b> 国勢調査局が「史上最高！」って発表して、同じ資料の4ページ目に「ただし2019年比ではほぼ横ばい」って書いてある。プレスリリースって芸術だな。",
-        "<b>日本・海外から見ると:</b> 日本も「名目賃金過去最高」と「実質賃金マイナス」が同時に存在する国なんで、他人事じゃないんですよね、これ。"
+        "<b>矛盾:</b> 地球上の橋や道路の老朽化が問題になっているさなか、月の制空権を語り始めた。インフラより先に月面防衛線。",
+        "<b>滑稽さ:</b> 「月周辺での戦闘準備を」と言われた兵士の顔が見たい。徴兵通知に「勤務地: 月軌道（応相談）」と書かれる日が来るんですかね。",
+        "<b>日本・海外から見ると:</b> 宇宙条約では月の軍事利用は制限されているはずで、その発言自体がすでに国際的に「大丈夫か」と思われている。"
       ],
       "imagePrompts": [
-        "A large glittering trophy engraved 'RECORD HIGH INCOME 2025' on a pedestal, behind it a barely visible tiny graph line rising almost flat from 2019 to 2025, confetti falling",
-        "A Census Bureau press conference podium with balloons and a banner reading 'ALL-TIME HIGH', a reporter in the front row holding a calculator showing '+2.5% / 6 years'",
-        "A grocery store receipt stretching to the floor next to a single dollar bill in a frame labeled 'Real Wage Growth 2019–2025', spotlight on both"
+        "A Pentagon briefing room with a large tactical map on the wall showing the moon with red and blue zones marked, military officers pointing at lunar craters with laser pointers",
+        "A giant 'HELP WANTED' military recruitment poster showing a soldier in full combat gear floating near the moon's surface, with a disclaimer at the bottom in tiny print",
+        "A crumbling highway overpass with a pothole-filled road, and in the background a billboard reading 'LUNAR DEFENSE: YEAR ONE'"
       ],
       "captions": [
-        "Record income! Highest ever! Also up 2.5% since 2019. Both sentences are in the same document. One made the headline.",
-        "Six years, a pandemic, and roughly four 'historic' economic plans: your household is up about eight hundred bucks a year. Frame it.",
-        "The Census Bureau said 'record high.' Your landlord said 'rent's going up.' These two institutions have very different datasets.",
-        "What if 'all-time best' and 'barely moved' describe the same graph? Asking for the Census Bureau.",
-        "2019 called. It wants its purchasing power back. You can't afford to return it."
+        "We don't have a moon base. We don't have a moon road. We do have a moon combat strategy. That's the order we did things.",
+        "Soldiers preparing for lunar warfare — still waiting on the part where we figure out how to get there.",
+        "The Outer Space Treaty says no military on the moon. The general said it at a summit. With a microphone. In Washington.",
+        "Structurally deficient bridges: 42,000. Lunar battle plans: at least one. Guess which one got the press conference.",
+        "Imagine getting your deployment papers and the duty station just says 'near the moon (TBD).'"
       ],
       "captionsJa": [
-        "過去最高！史上初！あと2019年比2.5%増。全部同じ資料に書いてある。見出しになったのはどれでしょう。",
-        "6年間、パンデミックあり、「歴史的」経済対策が何回かあって、結果は年800ドルちょっとプラス。額縁に入れて飾っとけ。",
-        "国勢調査局は「過去最高」と言った。大家は「今月から値上げ」と言った。この二機関、使ってるデータが全然違う。",
-        "「史上最高」と「ほぼ横ばい」が同じグラフを指してる可能性、あるんですよ。国勢調査局に確認してみてください。",
-        "2019年が購買力を返せと言ってる。返す余裕はもうないけど。"
+        "月の基地もない。月への道もない。月の戦闘ドクトリンはある。この順番でやった。",
+        "月面戦争の準備をせよ、と言われた兵士たち。まず「どうやって行くか」から始める必要があるんですけど。",
+        "宇宙条約は月の軍事利用を制限してる。将軍はワシントンで、マイク持って、会議で言った。",
+        "老朽化した橋: 42,000本。月の防衛計画: 少なくとも1本。どっちが記者会見になったか。",
+        "辞令に「勤務地: 月軌道付近（詳細未定）」と書かれる日が来る。"
       ],
-      "newsEn": "The U.S. Census Bureau reported that median household income reached a record high in 2025. However, when adjusted for inflation and compared to 2019 figures, the typical American household has seen earnings grow by only 2.5% over six years. The data arrives as the Federal Reserve weighs potential interest-rate increases.",
+      "newsEn": "General Dan Caine, top military adviser to President Trump, said at a Washington summit that American troops need to prepare for combat not only in Earth's orbit but around the moon. The remarks came after the U.S. revealed it has deployed weapons in space, signaling a new frontier in military planning.",
       "ironyEn": [
         {
-          "contradiction": "A record high and a six-year gain of 2.5% are both true at the same time. One of those numbers gets the headline.",
-          "absurdity": "The Census Bureau issued what is essentially a press release that congratulates Americans for earning, after inflation, about $800 more per year than in 2019.",
-          "outside": "Other countries also celebrate 'record wages' while real purchasing power stagnates. It's a global genre of announcement now."
+          "contradiction": "The U.S. still has bridges rated 'structurally deficient' by the thousands. But the lunar perimeter — that's locked in.",
+          "absurdity": "Troops are being asked to prepare for combat 'around the moon.' The moon is 238,900 miles away. That's a long commute even by D.C. standards.",
+          "outside": "Most countries are still negotiating whether to put a weather satellite up. The U.S. general is already drawing battle lines around a celestial body."
         },
         {
-          "contradiction": "The government celebrates record income right as the Fed considers raising rates—which would slow the economy that produced the record.",
-          "absurdity": "Six years, a pandemic, two administrations, and several 'historic' economic packages later: plus 2.5%. The check cleared, eventually.",
-          "outside": "If your salary grew 2.5% in six years, your employer would call it 'competitive compensation.' Your landlord would call it 'not enough.'"
+          "contradiction": "The Outer Space Treaty technically limits military use of the moon. A top U.S. military adviser just publicly announced plans to ignore that at a conference.",
+          "absurdity": "We don't have a base on the moon. We don't have a road to the moon. But we do have a combat doctrine for the moon. Priorities.",
+          "outside": "Other nations competing in space are focused on mining and science. The Pentagon skipped straight to 'who controls the craters.'"
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-16/candidate-2.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-16/candidate-2-punchy.jpg"
+      "image": "images/2026-09-17/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-17/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Nvidia's CEO Says AI Safety Can Wait. The AI Safety CEOs Disagree.",
-        "source": "CNBC Top News",
-        "date": "2026-09-16",
-        "url": "https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html",
-        "summary": "NvidiaのジェンセンCEOは、OpenAIとAnthropicのCEOがAI開発の減速を訴える中、Dreamforceイベントで両者と異なる見解を示した。Anthropicのアモデイ氏が開発ペースを落とすよう訴える論文を発表した数日後の発言。"
+        "headline": "Trump Administration Plans Ideological Warning Labels for Smithsonian Museums",
+        "source": "NPR News",
+        "date": "2026-09-17",
+        "url": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
+        "summary": "トランプ政権の内務長官が、スミソニアン博物館に「イデオロギー的偏向」に対する警告表示を設置する計画を発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「AIを止めろ」と言ってるのが、AIを売ってる会社の人たちで、「止めなくていい」と言ってるのが、AIチップを売ってる人なんですよ。立場の違いが透けて見えすぎる。",
-        "<b>滑稽さ:</b> AI安全性の議論が、チップメーカーのCEO vs. AIモデル会社のCEOの言い合いになってる時点で、もう「安全性」より「売上」の話でしょこれ。",
-        "<b>日本・海外から見ると:</b> 核兵器の安全管理を、ウラン鉱山の会社とミサイルメーカーが議論してるようなもんじゃないですか。誰も中立じゃない。"
+        "<b>矛盾:</b> 国立博物館の展示に「これはイデオロギー的に偏っています」という警告を貼るのは、政府がイデオロギーで展示を管理するという、まさにその行為そのものじゃないですか。",
+        "<b>滑稽さ:</b> 恐竜の骨の前に「この展示には進化論が含まれます」という警告が貼られる未来。子供たちへの説明が大変なことになる。",
+        "<b>日本・海外から見ると:</b> 国が運営する博物館に「この館は偏っています」と国自身が警告を出す国、というのは外から見るとかなりシュールな自己申告になってる。"
       ],
       "imagePrompts": [
-        "Three tech executives at a conference panel, one holding a large glowing chip, two holding tablets showing AI model logos, all three pulling a 'speed limit' sign in different directions",
-        "A racetrack with an AI robot car at full speed, the tire manufacturer in the pit waving it forward, two other pit crew members waving red flags, all wearing branded company jackets",
-        "A boardroom table covered in safety reports and quarterly earnings charts, executives in suits on both sides, a large speedometer on the wall with the needle pointing to maximum"
+        "A grand museum hall with dinosaur skeleton on display, and a bright yellow warning placard on a stand in front of it reading 'IDEOLOGICAL CONTENT NOTICE' in bold text",
+        "An Interior Department official in a suit carefully affixing a warning sticker to a glass display case containing a moon rock, with a clipboard checklist in hand",
+        "A museum gift shop with a rack of postcards, each one now bearing a small 'BIAS WARNING' stamp in the corner"
       ],
       "captions": [
-        "The chip guy says AI is fine. The AI guys say slow down. Nobody asked the AI.",
-        "Anthropic published an essay about slowing down AI. Then showed up at a conference to argue with the man whose hardware is the reason AI goes fast in the first place.",
-        "Jensen Huang on AI safety: we're good. Dario Amodei on AI safety: we are not good. Both are correct about their quarterly earnings.",
-        "Three CEOs walk into a safety summit. One sells the engine, two sell the car. They disagreed on speed limits. Shocked faces all around.",
-        "When the people most invested in AI going fast are the ones debating how fast AI should go—maybe the debate format needs a recheck."
+        "The government museum is warning you about the government museum. Brought to you by the government.",
+        "Coming soon: 'This dinosaur exhibit contains material inconsistent with some viewers' beliefs.' Next to the actual dinosaur bones.",
+        "A bias warning — selected, designed, and installed by the administration — is not a warning. It's a review.",
+        "They're putting ideological disclaimers on the Smithsonian. The Smithsonian. The place with the ruby slippers and the Wright Brothers plane.",
+        "Other museums have audio guides. Ours now comes with a warning label. Progress."
       ],
       "captionsJa": [
-        "チップ屋さんはAI大丈夫と言う。AI屋さんたちはスローダウンと言う。AIには誰も聞いてない。",
-        "AnthropicがAI開発を減速しろという論文を出して、その数日後にカンファレンスで、そのAIを速く走らせているチップを売るCEOと口論した。",
-        "ジェンセン・ファン：安全性は問題ない。ダリオ・アモデイ：問題ある。二人とも四半期決算については正しい。",
-        "CEOが3人、安全サミットに来た。一人はエンジンを売り、二人は車を売ってる。速度制限で意見が割れた。驚きの展開。",
-        "AI最速化に一番お金がかかってる人たちが、AIの速度を議論してる。まあ、会議の設計から見直したほうがいいかもしれない。"
+        "政府の博物館が、政府の博物館について警告を出してる。提供: 政府。",
+        "近日公開:「この恐竜展示には、一部の方の信条と相容れない内容が含まれます」。本物の恐竜の骨の前に。",
+        "政権が選んで、政権が設置した「偏向警告」。それ、警告じゃなくて編集ですよね。",
+        "スミソニアンにイデオロギー警告を貼る。スミソニアン。ルビーの靴とライト兄弟の飛行機がある、あそこ。",
+        "他の博物館にはオーディオガイドがある。アメリカの博物館には注意書きが付いた。前進。"
       ],
-      "newsEn": "At the Dreamforce conference, Nvidia CEO Jensen Huang diverged from the heads of Anthropic and OpenAI on the question of AI safety and development speed. The disagreement came days after Anthropic's Dario Amodei published an essay urging the industry to slow down AI model development. Huang's position contrasts sharply with the safety-focused posture of companies that sell AI models rather than the chips that power them.",
+      "newsEn": "The Interior Secretary announced plans to place ideological warning signs inside Smithsonian Institution museums, stating the move is necessary to combat what the administration calls ideological bias in the exhibits. The Smithsonian is a federally funded institution that houses some of the nation's most prominent museums and research centers.",
       "ironyEn": [
         {
-          "contradiction": "The companies warning about AI danger are the ones selling AI. The company saying it's fine makes the hardware that runs all of it.",
-          "absurdity": "Asking Jensen Huang whether AI development should slow down is like asking a Formula 1 tire manufacturer whether races should have a speed limit.",
-          "outside": "From the outside, this looks less like a safety debate and more like three vendors arguing over who controls the narrative before the regulations arrive."
+          "contradiction": "The government is putting warning labels on a government museum to warn visitors about government influence on the government museum.",
+          "absurdity": "A sign that says 'this exhibit may contain bias' — placed there by the administration that chose which exhibits get the sign — is not a disclaimer. It's an edit.",
+          "outside": "Most countries put warning labels on cigarettes and extreme content. The U.S. is now putting them on natural history."
         },
         {
-          "contradiction": "Anthropic published an essay urging the industry to slow down—days before its CEO argued against the one guy who actually could slow things down by not making the chips.",
-          "absurdity": "The AI safety summit featured the people most financially incentivized to keep going, debating how much to slow down. Nobody invited the people who didn't have a product to protect.",
-          "outside": "When the chip seller and the model sellers publicly disagree on safety, governments trying to write AI regulations must feel like they walked into a fight mid-sentence."
+          "contradiction": "The Smithsonian's whole job is to present knowledge. The warning signs' whole job is to cast doubt on that knowledge. Both are now federally funded.",
+          "absurdity": "Imagine a museum about the history of propaganda — and then someone puts a propaganda label on it. That's the bit.",
+          "outside": "International museum associations have standards for curatorial independence. American tourists will now enter the Air and Space Museum past a sign saying 'viewer discretion advised.'"
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-16/candidate-3.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-16/candidate-3-punchy.jpg"
+      "image": "images/2026-09-17/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-17/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Bernie Sanders and Steve Bannon Agree on Something. It's AI.",
-        "source": "The Guardian US",
-        "date": "2026-09-16",
-        "url": "https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit",
-        "summary": "進歩派のバーニー・サンダース上院議員と右派ストラテジストのスティーブ・バノンが、「プロヒューマン」サミットでAI規制の必要性で一致した。ただし、その理由と方向性はまったく異なる。"
+        "headline": "AI Data Center E-Waste Could Fill 23 Million Shipping Containers by 2050, Report Warns",
+        "source": "The Verge",
+        "date": "2026-09-17",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
+        "summary": "新たな報告書によると、AIブームによる電子廃棄物は大幅に過小評価されており、2050年までに2300万個のコンテナを満たす量に達する可能性があるという。"
       },
       "commentary": [
-        "<b>矛盾:</b> 政治的に水と油のサンダースとバノンが同じ演壇に立って「AIを規制しろ」で一致するって、その「一致」の中身がまったく違うのに見出しだけ読むとすごく仲良さそうなんですよ。",
-        "<b>滑稽さ:</b> 「テック億万長者を倒せ」(サンダース)と「中国に負けるな」(バノン)が同じ結論「AI規制」に着地してる。登山口が2か所あって、山頂で出くわした感じ。",
-        "<b>日本・海外から見ると:</b> アメリカ政治の両極端が「AIだけは危ない」で合流してる。これ、日本の国会で山本太郎と百田尚樹が同じ法案に賛成するくらいの珍事ですよ。"
+        "<b>矛盾:</b> 地球環境を守るAIソリューションを動かすために、地球を6周するゴミの山を作っている。ソリューションの副作用がソリューション本体より大きくなりつつある。",
+        "<b>滑稽さ:</b> 「AIで効率化」と言いながら2050年に捨てられる部品の量が地球を6周。効率化の結果がこれなら、非効率な方がマシだったのでは。",
+        "<b>日本・海外から見ると:</b> 電子廃棄物の多くは途上国に流れる。AIで豊かになる国と、そのゴミを処理する国が違う、という構図はすでに始まっている。"
       ],
       "imagePrompts": [
-        "Two men at a summit podium, one in rumpled suit with disheveled white hair, one in layers of shirts, both pointing at the same giant robot on a screen behind them, each pointing from opposite sides of the stage",
-        "A Venn diagram on a whiteboard: left circle labeled 'Tax the billionaires', right circle labeled 'Beat China', overlapping center reads 'AI bad', two coffee mugs on the table below",
-        "A summit stage with a large banner reading 'PRO-HUMAN', two figures seated in chairs as far apart as possible on the stage, a single microphone in the center, audience looking confused"
+        "An aerial view of a massive data center campus surrounded by an ever-growing mountain of discarded server racks and circuit boards spilling into the surrounding fields",
+        "A glossy tech conference stage with a presenter pointing to a slide showing a clean-energy AI logo, while through the floor-to-ceiling windows behind him an enormous junkyard of electronic components is visible",
+        "A long line of shipping containers stretching to the horizon labeled 'AI PROGRESS 2050,' with a small Earth globe visible at the far end of the line"
       ],
       "captions": [
-        "Bernie Sanders and Steve Bannon both said 'regulate AI' at the same event. They meant completely different things. Democracy is fine.",
-        "They agreed on the conclusion. The reasoning was a different document entirely.",
-        "A socialist senator and a far-right strategist walk into a pro-human summit. The robot in the room made more sense than the seating chart.",
-        "First time these two have agreed on anything. The AI clocked it before either of them finished the sentence.",
-        "Sanders: the billionaires can't have it. Bannon: China can't have it. Result: the one policy summit where everyone left angrier than they arrived."
+        "AI will save the planet. The hardware doing the saving will generate enough waste to circle the planet six times. Details.",
+        "Twenty-three million shipping containers of e-waste. That's the number they published. They stopped there because it was already embarrassing.",
+        "The servers are in Virginia. The e-waste is going to Ghana. The press releases are calling it 'sustainable.'",
+        "We're solving climate change with machines that will produce more trash than any previous technology in human history. The word for that is 'efficiency.'",
+        "Efficiency gains from AI: measurable. Shipping containers of AI trash by 2050: also measurable. Someone measured the wrong thing first."
       ],
       "captionsJa": [
-        "バーニー・サンダースとスティーブ・バノンが同じイベントで「AIを規制しろ」と言った。意味は全然違う。民主主義は元気です。",
-        "結論は一致した。理由はまったく別の書類に書いてある。",
-        "社会主義上院議員と極右ストラテジストがプロヒューマンサミットに集合。会場にいたAIのほうが座席表より筋が通ってた。",
-        "この二人が同意したのは史上初。AIは二人が言い終わる前に気づいてた。",
-        "サンダース：億万長者に渡すな。バノン：中国に渡すな。結果：全員が来た時より怒って帰るサミット。"
+        "AIが地球を救う。その機械が出すゴミは地球を6周する量になる。細かい話ですが。",
+        "2300万個のコンテナ分のゴミ。それが公表された数字で、研究者たちはそこで止めた。もう十分恥ずかしかったから。",
+        "サーバーはバージニアにある。電子廃棄物はガーナに行く。プレスリリースは「サステナブル」と言っている。",
+        "気候変動を解決するための機械が、人類史上最大規模のゴミを出している。その言葉が「効率化」です。",
+        "AIの効率化: 測定済み。2050年のAIゴミのコンテナ数: こっちも測定済み。最初に測るものを間違えた。"
       ],
-      "newsEn": "Senator Bernie Sanders and far-right strategist Steve Bannon both called for restrictions on artificial intelligence at a 'pro-human' summit, marking a rare point of rhetorical overlap between the two figures. However, the two offered competing visions—Sanders focused on tech oligarchs consolidating power, while Bannon framed the issue around a rivalry with China.",
+      "newsEn": "A new report warns that e-waste generated by the AI industry has been vastly underestimated. By 2050, discarded hardware from AI data centers could fill approximately 23 million shipping containers — enough 40-foot containers to circle the Earth six times if lined up end to end. The figure represents a significantly higher estimate than previous projections.",
       "ironyEn": [
         {
-          "contradiction": "Sanders wants to stop billionaires from hoarding AI power. Bannon wants to stop China from winning an AI cold war. They both voted for the same bumper sticker.",
-          "absurdity": "A 'pro-human' summit found its two most unlikely allies in a democratic socialist senator and a far-right strategist who have agreed on approximately nothing else in recorded history.",
-          "outside": "When the far left and the far right discover a shared enemy, the enemy is usually very rich, very fast, or very foreign. This time it managed to be all three."
+          "contradiction": "AI is being sold as the solution to climate modeling, resource optimization, and environmental monitoring. The hardware running that AI will generate enough trash to circle the planet six times.",
+          "absurdity": "Twenty-three million shipping containers of discarded chips and servers — and that's the optimistic number. The pessimistic one wasn't published because the researchers ran out of metaphors.",
+          "outside": "The e-waste mostly ends up in countries that didn't build the AI and won't profit from it. The servers are American. The scrap heap is global."
         },
         {
-          "contradiction": "They called for the same policy—AI restrictions—and would presumably write completely different laws to implement it.",
-          "absurdity": "Sanders and Bannon sharing a stage is already the headline. The AI part is almost secondary at that point.",
-          "outside": "In an era of total political gridlock, bipartisanship finally arrived—and it's two guys who agree the robots are a problem, for entirely different reasons."
+          "contradiction": "Tech companies are racing to build 'sustainable AI.' The report says the waste from existing plans already blows past every sustainability target on the books.",
+          "absurdity": "Lining up the projected waste containers would circle the Earth six times. That is a worse environmental outcome than most of the problems AI claims it will fix.",
+          "outside": "European regulators are already asking hard questions about AI's carbon footprint. In the U.S., the answer so far has been to build more data centers."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-16/candidate-4.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-16/candidate-4-punchy.jpg"
+      "image": "images/2026-09-17/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-17/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Car Ownership Costs Up 50% Since 2020 — And Gas Is Just the Start",
+        "headline": "Virginia Fines Microsoft Data Center for Emissions Violations — Microsoft to Invest $2.4M in the Same County",
         "source": "CBS News US",
-        "date": "2026-09-16",
-        "url": "https://www.cbsnews.com/news/car-ownership-auto-repair-costs-inflation/",
-        "summary": "新たな経済データによると、自動車保有コストは2020年以降50%急騰しており、ガソリン代以外にも保険料、修理費、駐車場代など複数の費用が運転者を直撃している。"
+        "date": "2026-09-17",
+        "url": "https://www.cbsnews.com/news/virginia-data-centers-microsoft-fine-loudoun-county/",
+        "summary": "バージニア州がMicrosoftのデータセンターに排出規制違反で制裁金を科し、和解の一環としてMicrosoftは同じラウドン郡の環境プロジェクトに240万ドルを投資することに合意した。"
       },
       "commentary": [
-        "<b>矛盾:</b> アメリカは「車がないと生活できない」設計の都市が大半なのに、その車を持つコストが5年で50%上がってる。逃げ道のない値上げなんですよ。",
-        "<b>滑稽さ:</b> ガソリン代が上がって、その対策で電気自動車を検討したら車体価格が上がってて、保険も上がってて、修理も上がってる。どこを押さえても別のところが膨らむ。",
-        "<b>日本・海外から見ると:</b> 電車やバスで暮らせる都市に住んでる日本人からすると「じゃあ車やめれば？」って思うんですけど、多くのアメリカ人にはその選択肢がそもそもないんですよね。"
+        "<b>矛盾:</b> 違反した場所と同じ場所に「お詫びの環境投資」をする。汚した川で禊をするような話で、場所の選択が自白になっている。",
+        "<b>滑稽さ:</b> 罰金を払ったのか、PR費を払ったのか、もはや区別がつかない。240万ドルで「環境への貢献企業」に変わる速度が早すぎる。",
+        "<b>日本・海外から見ると:</b> 日本では規制違反の企業が「地域貢献」で印象を回復するのはよくある話。アメリカでも同じ構図が成立するという、グローバルスタンダードの確認。"
       ],
       "imagePrompts": [
-        "A family sedan parked in a driveway surrounded by floating dollar signs, each labeled: 'insurance +40%', 'repairs +35%', 'parking +25%', 'gas +50%', the car itself has a price tag hanging from the mirror",
-        "A lone car on a wide American suburban road with no sidewalks, no bus stops, and no other buildings in sight, a price ticker running across the bottom of the scene like a stock market feed",
-        "A mechanic's garage with itemized invoice on the wall sized like a movie poster, line items covering every inch of the wall, a customer standing in front of it holding an empty wallet"
+        "A large data center building with faint smoke rising from vents, and directly next to it a shiny new park bench with a plaque reading 'Gift from Microsoft' in the same frame",
+        "A formal signing ceremony at a county office desk, one official holding a violation notice and another holding an oversized novelty check, both smiling",
+        "A corporate sustainability report cover featuring a green leaf logo, with a small data center visible in the background partially obscured by the leaf"
       ],
       "captions": [
-        "Car ownership is up 50% since 2020. Public transit in most of these cities: still the same one bus that comes every 90 minutes.",
-        "Insurance is up. Gas is up. Repairs are up. Congratulations, your car now costs more than your grandfather's mortgage.",
-        "They said drive less. The nearest grocery store is eleven miles away. These two facts are not having a conversation.",
-        "Fifty percent more expensive in five years—and you still need it to get to work, so. Good talk, economy.",
-        "Every part of owning a car costs more. The car itself is optional in Tokyo. In Houston, it's the infrastructure."
+        "You violated emissions rules in Loudoun County. The fine is: give money to Loudoun County. The county is doing great.",
+        "Two-point-four million dollars. Microsoft makes that before the first coffee break on a Tuesday.",
+        "They went from 'emissions violator' to 'community environmental partner' in one settlement. One document. One morning.",
+        "The data center that broke the rules is still running. The penalty is a park bench somewhere nearby, probably.",
+        "Virginia fined Microsoft for polluting. Microsoft paid. Into the same zip code. Everyone called it a win."
       ],
       "captionsJa": [
-        "自動車保有コストが2020年比50%増。で、これらの都市の公共交通機関は？90分に1本のバスがまだ走ってます。",
-        "保険も上がった。ガソリンも上がった。修理費も上がった。おめでとう、あなたの車はもうおじいちゃんの住宅ローンより高い。",
-        "「車を減らせ」って言われた。一番近いスーパーまで18キロある。この2文は対話していない。",
-        "5年で50%高くなった。でも仕事に行くのに必要だから。はい、経済のお話でした。",
-        "車を持つすべてのコストが上がってる。東京では車は選択肢。ヒューストンでは車がインフラ。"
+        "ラウドン郡で排出規制を破った。罰金の使い道: ラウドン郡に渡す。郡は絶好調。",
+        "240万ドル。Microsoftが火曜日の最初のコーヒー休憩前に稼ぐ額です。",
+        "「違反企業」から「地域の環境パートナー」へ、和解一枚で完了。書類一枚。午前中の話。",
+        "規則を破ったデータセンターは稼働中。罰金でどこかに公園のベンチができる、たぶん。",
+        "バージニアがMicrosoftを罰金処分。Microsoftが払った。同じ郵便番号に。全員がこれを「成果」と呼んだ。"
       ],
-      "newsEn": "New economic data shows that the total cost of owning a car in the United States has surged 50% since 2020. The increase goes well beyond gasoline prices and includes spikes in auto insurance premiums, repair and maintenance costs, and parking fees. The data illustrates how inflation has hit car-dependent Americans from multiple directions simultaneously.",
+      "newsEn": "Virginia regulators fined a Microsoft data center for emissions violations. As part of the settlement, Microsoft agreed to invest $2.4 million toward an environmental project in Loudoun County — the same county where the offending data center is located. The settlement did not require Microsoft to shut down or relocate the facility.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. built an entire civilization around the car, and now the car costs 50% more to own than it did five years ago. The infrastructure didn't come with a price-adjustment clause.",
-          "absurdity": "Insurance is up. Repairs are up. Parking is up. Gas is up. The one thing that isn't up is the option to not have a car in most American cities.",
-          "outside": "In countries with functional public transit, this is a story about a luxury item getting more expensive. In the U.S., it's a story about a utility bill that also needs an oil change."
+          "contradiction": "Microsoft violated emissions rules at a data center in Loudoun County. The penalty is: give $2.4 million to Loudoun County. The location of the crime and the location of the goodwill project are identical.",
+          "absurdity": "The fine is smaller than Microsoft's rounding error on a quarterly earnings report. But the press release about the environmental investment is already written.",
+          "outside": "European regulators have been pushing for actual operational changes after emissions violations. Virginia's solution is a check written back to the neighborhood. Both are called 'settlement.'"
         },
         {
-          "contradiction": "Americans are told to drive less to save money and help the environment—by cities that have no buses and one sidewalk.",
-          "absurdity": "A 50% increase since 2020 means if your car cost you $800 a month to own five years ago, you're now at $1,200—before you've gone anywhere.",
-          "outside": "The rest of the developed world looked at car dependency as a design flaw. The U.S. is now paying the maintenance fee on that flaw, monthly."
+          "contradiction": "The data center that violated environmental rules will keep running. The 'penalty' is a local investment that Microsoft will likely tout in its next sustainability report.",
+          "absurdity": "$2.4 million sounds significant until you remember this is the company that spent $69 billion buying Activision. That's like paying for a parking ticket with a gift to the parking lot.",
+          "outside": "Countries with stricter environmental enforcement are watching the U.S. tech sector negotiate its way from 'violator' to 'community partner' in a single press release."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-16/candidate-5.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-16/candidate-5-punchy.jpg"
+      "image": "images/2026-09-17/candidate-5.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-17/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「名前・数字・肩書きがどれも中身と乖離している」こと。ケネディセンターの壁、「過去最高」の賃金、「安全性」を語るチップ売り、「一致」しているように見える水と油、そして50%上がった「移動する自由」のコスト。",
-    "titleEn": "Your Name on the Wall or It Stays Dark",
-    "subtitleEn": "Five stories where the label and the contents stopped talking to each other.",
-    "titleJa": "「過去最高」と「2.5%増」が同じ資料に書いてある日",
+    "thread": "今日の5本を貫く糸は「ルールを破った側が、そのルールの番人になっている」こと。FRBの独立性、宇宙条約、博物館の中立性、環境規制——どれも、守るはずの人間が一番楽しそうに踏み越えている。",
+    "titleEn": "Rules Are for People Who Can't Make New Rules",
+    "subtitleEn": "The Fed, the moon, a museum warning label, and Microsoft's world-record apology.",
+    "titleJa": "FRBに「1%にしろ」、月で戦争準備、博物館に警告ラベル——ルールって誰のためにあるんでしたっけ",
     "titleAltJa": [
-      "ケネディセンターを閉めたのは誰でもなく、大統領が自分で選んだ理事会でした",
-      "サンダースとバノンが珍しく意見が合った。理由は全然ちがう話だったけど"
+      "2050年にAIのゴミが地球を6周する話と、それより先に月で戦争する話",
+      "「違反した場所に240万ドル寄付しました」でお詫びが完了するアメリカの話"
     ],
-    "leadJa": "ケネディセンター、閉館。理由は「名前を壁に入れさせてくれないから」。\n\n今日、これを最初に読んで、そのまま次のニュースに行けなかったです。",
-    "introEn": "The Kennedy Center is dark because a federal judge said no to a name on the wall. The board—appointed by the same person who wanted the name—voted to close the place. That's not governance, that's a negotiating tactic with a piano inside.\n\nToday's five stories are all running the same software: the label says one thing, the contents say another. Record income that's barely moved in six years. AI safety advice from the people selling the chips that make AI go fast. Sanders and Bannon agreeing on a conclusion while disagreeing on every single word that led there.\n\nHere's your forecast: if you've been feeling like you're working harder for returns that don't quite add up, today's data confirms you are not wrong. The gap between the headline and page four is real. Knowing that gap exists is already something most people skip. You didn't skip it.",
-    "introJa": "ケネディセンターが閉館しました。\n\n理由は「外壁に大統領の名前を入れるのを、裁判所が止めたから」。\n\n名前を入れられないなら開けない。そう言って、大統領自身が送り込んだ理事会が即日閉館を決議した。文化施設の改修が、命名権の人質交渉になった日です。\n\n今日はこの5本。\n\nケネディセンターの壁をめぐる仁義なき命名権交渉。「過去最高」の賃金データの4ページ目に書いてある2.5%という数字。AI安全性を訴えている人とそうじゃない人の、財布との一致度。サンダースとバノンが同じ結論に着地した理由がまったく別の話だった件。そして5年で50%上がった「逃げ場のない移動コスト」。\n\n今日の占い。\n\n「過去最高！」と「2.5%増」は同じ資料に書いてある。見出しで止まった人と、4ページ目まで読んだ人では、今日一日の解像度が変わる。あなたはここまで読んでる。まあ、損はしてないと思いますよ。",
-    "quipEn": "Today's lesson: 'record high' and 'barely moved' can live in the same sentence—it just depends on which page you stopped reading.",
-    "quipJa": "「過去最高」と「2.5%増」は同じ資料に書いてある。どこで止まるかだけの話。",
+    "leadJa": "ルールを破った人が罰を決め、ゴミを出した人が環境賞をもらい、政府の博物館に「この博物館は偏っています（政府より）」という貼り紙がつく。\n\n今日はそういう5本です。",
+    "introEn": "Five stories today. One pattern.\n\nSomebody made a rule. Then the person who was supposed to follow it decided they'd rather write a new one. The Fed exists to be independent — so naturally there's a demand it isn't. The Outer Space Treaty limits military activity on the moon — so naturally there's a general at a microphone saying otherwise. A museum is accused of bias — so the government installs its own bias, as a correction.\n\nAlso: AI e-waste that will circle the Earth six times by 2050, and Microsoft turning an emissions fine into a PR opportunity before the ink dried.\n\nHere's your forecast. If you've been playing by rules that nobody else seems to follow, today's news confirms you're not imagining it. The rules are real. They just aren't distributed evenly. That's not on you. Go get your coffee.",
+    "introJa": "FRBが利上げしました。\nトランプ大統領が「1%にしろ」と言いました。\nその翌日の話です。\n\nで、他も見てみると——月周辺での戦闘準備が必要らしく、国立博物館に「偏ってます」という政府の貼り紙がつき、AIのゴミが2050年に地球を6周し、Microsoftは違反した場所に寄付して「環境貢献企業」になっていた。\n\n今日の5本を貫く糸は、たぶんこれです。ルールを作った側が、そのルールを一番楽しそうに踏み越えている。\n\n——今日の占いです。\n\n①「FRBが独立機関である日」が続く: あなたが粘り強く正論を言い続けている場所では、今日も正論が通ります。②月軌道あたりで異動の打診がある: でも給与交渉の余地があります。③博物館の恐竜の前で気づく: ルールが書いてあっても、読む人を選ぶらしい。④2050年より先を見る目が開ける: ゴミになる前に手放せるものがある。⑤240万ドルより安く、あなたの評判を回復する方法が見つかる: 少なくともMicrosoftよりはマシなやり方で。\n\n「なんで私だけルール守ってるんだろう」と思っていることがあるなら、それは気のせいじゃない。今日の5本が証拠です。ルールは実在する。ただ、全員に平等には配られていない。あなたのせいじゃないので。",
+    "quipEn": "The Fed is independent. The moon is neutral. The museum is unbiased. Microsoft is green. Anyway, none of that was true today.",
+    "quipJa": "FRBは独立、月は中立、博物館は公平、Microsoftは環境貢献。今日は全部、同じ日に崩れました。",
     "notesEn": [
-      "A federal judge blocked Trump's name from going on the Kennedy Center's wall. The board—which Trump appointed—responded by immediately voting to close the building. The president then said renovations won't happen unless his name goes back on. The venue is currently dark. This is the most expensive ego-driven renovation stall in American history.",
-      "The Census Bureau announced that US median household income hit a record high in 2025. It's also up 2.5% since 2019. Both sentences appear in the same report. One made the headline. The other made rent.",
-      "At Dreamforce, Jensen Huang said AI is moving at the right speed. Dario Amodei of Anthropic published an essay days earlier saying the industry needs to slow down. Huang sells the chips. Amodei sells the models the chips run. I'm sure the disagreement is purely philosophical.",
-      "Bernie Sanders and Steve Bannon both spoke at a 'pro-human' AI summit and both called for AI regulation. Sanders wants to rein in tech oligarchs. Bannon wants to beat China. They arrived at the same destination from opposite directions and are definitely not taking the same cab home.",
-      "The total cost of owning a car in the US is up 50% since 2020. Not just gas—insurance, repairs, parking. And in most American cities, not owning a car means not being able to live there. It's a mandatory subscription you didn't sign up for."
+      "The Federal Reserve raised rates to fight inflation. Trump immediately said rates should be 1%. His argument: the economy is doing great. Their argument: it isn't. Both sides concluded rates should move. Different directions.",
+      "A top U.S. general said troops need to prepare for combat around the moon. We don't have a moon base. We don't have a moon road. We do have a moon combat strategy. That's the sequence we chose.",
+      "The Interior Secretary announced ideological warning labels for Smithsonian museums — to combat bias in government-funded exhibits. The warnings will be selected, worded, and installed by the government. I see no issue.",
+      "New report: AI data center e-waste could fill 23 million shipping containers by 2050 — enough to circle the Earth six times. The press releases describing this technology as 'sustainable' have not been updated.",
+      "Virginia fined a Microsoft data center for emissions violations. Settlement terms: Microsoft invests $2.4 million in an environmental project in the same county. They went from violator to community partner in one document. Fastest rebrand since BP's sunflower logo."
     ],
     "xJa": [
-      "ケネディセンターの外壁にトランプ大統領の名前を入れるのを裁判所が差し止めた。大統領が選んだ理事会が即日「閉館」を決議。理由は名前を入れられないから。ジョン・F・ケネディの名前がついてる建物で起きていることです。",
-      "米国の世帯中央値所得が「過去最高」を記録した、と国勢調査局が発表。同じ資料の中に「2019年比で実質2.5%増」とも書いてある。どちらも本当のこと。見出しになったのは片方だけ。",
-      "「AIが危ない」と訴えるのがAIモデルを売るCEOで、「問題ない」と言うのがAIチップを売るCEO。両者の立場と発言の向きが完全に一致している。安全性の議論と呼ぶのは、少し難しいと思う。",
-      "バーニー・サンダースとスティーブ・バノンが同じイベントで「AI規制が必要だ」と一致した。サンダースの理由は「テック億万長者の権力集中」、バノンの理由は「中国に負けるな」。結論が同じで根拠がまったく別の話、というやつ。",
-      "米国の自動車オーナーシップコストが2020年から50%上昇。ガソリンだけじゃなく保険・修理・駐車場まで。で、多くのアメリカの都市は車がないと生活できない設計になっている。逃げ道のない値上げというのはこういうことです。"
+      "FRBが「インフレ対策で利上げします」と全会一致で決定。翌日トランプ氏が「1%にしろ」。うまくいってるから下げろ、うまくいってないから下げろ、どっちでも下げろになる仕組みになってる。",
+      "米軍トップ顧問「月周辺での戦闘に備えよ」。地球上の橋は老朽化してるけど、月の制空権は確保する方向で。徴兵通知の「勤務地」欄が楽しいことになりそう。",
+      "スミソニアン博物館に「イデオロギー的偏向の警告ラベル」を貼る計画、発表者は政府。政府が「この政府施設は偏ってます」と警告を出す。外から見るとかなりシュールな自己申告です。",
+      "AIデータセンターの電子廃棄物、2050年までに地球を6周分。「AIで地球を救う」と言いながら、地球を6回巻けるゴミを出す。ソリューションの副作用がソリューション本体を追い越した。",
+      "バージニア州がMicrosoftのデータセンターに排出規制違反で罰金。和解の内容：同じ郡に240万ドルを環境投資。汚した川で禊をして「地域貢献」になる速度、早すぎません?"
     ],
     "raidEn": [
-      "The part that gets me is that the board is full of his own appointees. He set up the situation, triggered the outcome, and is now surprised the arts venue is closed. It's like changing the locks and then being upset you can't get in.",
-      "Both sentences are in the same Census Bureau document. 'Record high' and 'up 2.5% since 2019.' One made the headline and one made everyone's financial anxiety completely rational.",
-      "The chip company CEO says AI is fine. The AI model company CEOs say slow down. The thing they have in common is that neither answer is bad for their quarterly earnings. Great panel.",
-      "The part I keep coming back to is that they agreed on the conclusion and then explained why in completely different languages. That's not consensus, that's two people having separate arguments that rhyme.",
-      "The sentence 'not just gas' is doing heavy lifting here. Insurance, repairs, parking—it's a subscription model for existing in space, and the free trial ended in 2020."
+      "The Fed voted unanimously for the hike. One person didn't vote but does have thoughts, apparently at volume.",
+      "Lunar combat strategy before a moon road. That's the order they went with.",
+      "A bias warning — chosen, written, and placed by the administration — is not a warning. It's an exhibit.",
+      "Twenty-three million shipping containers. They published that number and the press releases still say 'sustainable.'",
+      "From emissions violator to environmental community partner in one settlement. That's not a rebrand, that's a speed run."
     ],
     "raidJa": [
-      "「自分で選んだ理事会が閉館を決議した」という構図に、読んでいて二度見しました。誰も外部から邪魔していないんですよね、これ。とても丁寧にまとめてくださっています。",
-      "「過去最高」と「2.5%増」が同じ資料にあるというの、日本の「名目賃金最高・実質賃金マイナス」と構造が全く同じで、他人事に読めなかったです。よく整理してくださいました。",
-      "「安全を訴える側」と「止めなくていいと言う側」の利害関係がこんなに透けているのに議論が続いているの、記事で整理してもらうまで自分はモヤっとしていました。",
-      "「結論は同じ、理由はまったく別」という構図、記事で図解してもらってやっと理解できました。登山口が2か所あって山頂で出くわした感じですよね。",
-      "「ガソリン代だけじゃない」という点、この記事で初めてちゃんと把握できました。保険・修理・駐車場まで全部上がっているとなると、これは逃げ場がないですよね。"
+      "「経済がうまくいってるから金利を下げろ」という論理、うまくいってなくても下げろになるので、どっちでも同じ結論になるんですよね。この記事、そこが一番面白かったです。",
+      "「月周辺での戦闘準備」という言葉、将軍がマイクの前で言ったんですよね。宇宙条約との整合性を誰かが質問したかどうかが気になりました。",
+      "政府が「この政府の施設は偏ってます」と警告を貼る、という構造、記事を読んで二度見しました。よく書いてくださいました。",
+      "地球を6周分のゴミという数字、初めてちゃんと見たかもしれません。「過小評価されてきた」という部分が一番重くて、読後もずっと残ってます。",
+      "「違反した場所に投資して和解」という構図、日本でも似たことあるよなと思いながら読みました。グローバルスタンダードですね、良くない意味で。"
     ],
     "riffEn": [
-      "The Kennedy Center was supposed to get renovations. Then a federal judge blocked Trump's name from going on the building's facade—for the second time in four months—and the board voted to close the venue immediately. The same board Trump appointed. So the sequence is: appoint the board, lose in court, have the board shut the place down, then announce you won't fix it unless your name goes on the wall. Named after a president who was shot. Now dark because a living president wants the same wall space. Totally normal cultural policy.",
-      "The Census Bureau put out a press release celebrating record household income. Somewhere around page four of the same document, it mentions the number is up 2.5% since 2019, adjusted for inflation. Six years. A pandemic, several 'historic economic plans,' and a Federal Reserve that can't stop fiddling with rates. Two and a half percent. The record is real. So is the math. One of them made the headline.",
-      "Jensen Huang told a conference that AI development is moving at the right speed. Days before, Anthropic's Dario Amodei published a whole essay arguing the industry needs to slow down. Here's the thing: Huang sells chips. The faster AI runs, the more chips sell. Amodei sells AI models. The slower competitors develop, the longer Anthropic's lead holds. Both men have strong feelings about AI safety. Both men's feelings align precisely with their revenue model. I'm sure that's a coincidence.",
-      "Bernie Sanders and Steve Bannon both spoke at something called a 'pro-human' summit, and both called for restricting AI. Sanders wants to stop tech oligarchs from consolidating power. Bannon wants to beat China. They arrived at 'regulate AI' from completely different planets, shook hands on the conclusion, and then presumably did not have lunch together. The summit described this as a convergence. It's less a convergence and more two people who both dislike the weather for entirely different meteorological reasons.",
-      "Car ownership in the US is up 50% since 2020. Not just gas—insurance premiums, repair costs, parking fees, all climbing simultaneously. And in most American cities, not owning a car isn't really an option, because the nearest grocery store is eleven miles away and the bus runs twice a day if it runs at all. It's a mandatory expense with no exit. The market raised the price on the thing you're not allowed to stop buying."
+      "The Federal Reserve exists for one reason: to make monetary decisions without a president on the phone. That's the whole design. Wednesday they raised rates 0.25 points — unanimous vote, first hike since 2023, citing inflation. Thursday, Trump said rates should be 1% or lower. His reasoning: the economy is doing great. Which is an interesting argument, because the Fed raised rates specifically because the economy is running too hot. So the evidence for 'lower rates' and the evidence for 'raise rates' turned out to be the same economy. He also threatened to cut trade with countries that run surpluses with the U.S. if the Fed didn't listen. The Fed hiked. That's a lot of balls now in a lot of courts.",
+      "General Dan Caine, top military adviser to President Trump, told a Washington summit that U.S. troops need to prepare for combat around the moon. Not on Earth orbit — around the moon. The U.S. has also confirmed it has deployed weapons in space. Here's what I keep coming back to: there's no moon base. There's no regular transit to the moon. The last time humans were near the moon was 1972. But there is now a combat strategy for the area. We skipped several steps — the road, the base, the reason to be there — and went straight to the battle plan. The Outer Space Treaty restricts military use of the moon. The general said this at a summit. With a microphone. In Washington. Apparently that's fine.",
+      "Interior Secretary Doug Burgum announced that Smithsonian museums will receive ideological warning labels — signs alerting visitors to what the administration considers bias in the exhibits. The Smithsonian is federally funded, which means it is a government museum. The warning labels will be designed and installed by the government. To warn you about the government museum. The circularity is so clean I almost respect it. What gets me is the mechanism: if an exhibit is biased, the correction is a label chosen by people who disagree with the exhibit. That label then becomes the official government interpretation displayed inside the museum. It's not a warning. It's a replacement exhibit, mounted next to the original.",
+      "A new report says the AI industry's e-waste has been significantly underestimated. By 2050, discarded hardware from data centers could fill 23 million shipping containers — enough 40-foot containers, lined end to end, to circle the Earth six times. The previous estimates were lower. Meaning the industry knew there was a waste problem, estimated it, and was still off by a multiple. The servers doing the work are in places like Virginia and Texas. The report notes that e-waste tends to travel to different countries than the ones that generated it. The press materials for these data centers continue to use the word 'sustainable.' No corrections have been issued.",
+      "Virginia regulators fined a Microsoft data center for emissions violations. Under the settlement, Microsoft agreed to invest $2.4 million in an environmental project — in Loudoun County, Virginia, which is the same county where the offending data center operates. The facility does not have to close. The facility does not have to move. The county gets $2.4 million for an environmental project, and Microsoft gets to describe itself as an environmental contributor in Loudoun County. Microsoft's annual revenue is around $245 billion. Two-point-four million dollars is what they make before most people's first coffee break on a given Tuesday. They went from 'emissions violator' to 'environmental community partner' in one document. I've seen rebrands take longer."
     ],
     "riffJa": [
-      "ケネディセンターは改修工事の予定でした。\n\nただ、連邦判事が外壁への大統領名の追加を4か月で2度差し止めた。で、大統領が任命した理事会が即日「閉館」を決議。大統領本人は「名前を入れさせてくれないなら改修しない」と表明。\n\n自分で選んだ理事会に建物を閉めさせて、自分で名前を出せないから工事しない、と言っている。ジョン・F・ケネディの名前がついている建物で起きている話です。",
-      "国勢調査局が「2025年の世帯中央値所得、過去最高を記録!」と発表しました。\n\n同じ資料の別のページに「ただし2019年比では実質2.5%増」と書いてあります。\n\n6年。パンデミックがあって、「歴史的な経済政策」が何本も走って、FRBが利上げ・利下げを繰り返して、2.5%。プレスリリースというのは本当に芸術だな、と思います。どこを切るかで全然ちがう話になる。",
-      "NvidiaのジェンセンCEOが「AIの開発ペースは問題ない」と言いました。その数日前、AnthropicのアモデイCEOが「ペースを落とすべき」という論文を出していました。\n\nジェンセンさんはAIチップを売っています。速く動くほど売れます。アモデイさんはAIモデルを売っています。競合が遅れるほど有利になります。\n\n二人は「AI安全性」について深く議論した、と報じられています。",
-      "バーニー・サンダースとスティーブ・バノンが、同じイベントで「AI規制が必要だ」と言いました。\n\nサンダースさんの理由は「テック億万長者が権力を集中させている」。バノンさんの理由は「中国に負けてはいけない」。\n\n登山口がまったく別の場所にあって、山頂で出くわした感じです。「一致」という見出しになってるけど、二人の地図は最初から別の山を指していた。",
-      "アメリカで車を持つコストが2020年から50%上がっています。\n\nガソリン代だけじゃない。保険料、修理費、駐車場代——全部同時に上がっている。で、多くのアメリカの都市は、車がないと食料品の買い物にも行けない設計になっています。\n\n「逃げ場のない値上げ」というのは比喩じゃなくて、文字通りそういう構造になっているんです。"
+      "連邦準備制度理事会というのは、要するに「大統領が電話してきても金利を自分たちで決める」ために作られた機関です。それが設計の全部。水曜日、FRBは0.25ポイントの利上げを全会一致で決定した。2023年以来初、理由はインフレ持続。翌日、トランプ大統領は「1%以下にしろ」と要求しました。\n\n根拠は「経済がうまくいってるから」。ただ、FRBが利上げした理由も「経済が過熱しているから」です。つまり、「下げろ」の証拠と「上げろ」の証拠が同じ経済を指している。どっちに転んでも、結論は「1%」になる仕組みになってる。あと、FRBが言うことを聞かなければ対米黒字国との貿易を断つとも言っていました。FRBは利上げしました。",
+      "トランプ大統領の最高軍事顧問、ダン・ケイン将軍がワシントンのサミットで言いました。「米軍は月周辺での戦闘に備える必要がある」。地球軌道ではなく、月の周辺で、です。\n\n月に基地はない。月への定期便もない。人類が最後に月の近くにいたのは1972年です。でも戦闘計画はある。道も、拠点も、行く理由も飛ばして、戦略だけが先に完成しました。宇宙条約は月の軍事利用を制限しています。将軍はこれをサミットで、マイクを持って、ワシントンで言いました。それが今の状況です。",
+      "内務長官が発表しました。スミソニアン博物館の展示に「イデオロギー的偏向への警告ラベル」を設置する、と。スミソニアンは連邦政府の資金で運営される国立博物館です。警告ラベルを設計・設置するのも、政府です。\n\n「この政府施設には偏向があります」と、政府が警告する。なかなかの円環です。仕組みをよく見ると——展示が偏っていると判断した人たちが、その隣に「正解」を貼る。それは警告ではなく、もう一個の展示です。恐竜の骨の隣に、恐竜の骨についての政府見解が並ぶ未来が来ました。",
+      "新しい報告書が出て、AIデータセンターの電子廃棄物は「大幅に過小評価されてきた」とわかりました。2050年までに廃棄されるハードウェアは、40フィートコンテナ2300万個分。端から端まで並べると地球を6周します。\n\n「過小評価されてきた」という部分が重い。業界はゴミ問題を認識していて、試算していて、それでも実態より低かった。バージニアやテキサスのサーバーが処理の側で、廃棄物が届く先は別の国々です。これらのデータセンターのプレスリリースには「サステナブル」という言葉が引き続き使われています。訂正は出ていません。",
+      "バージニア州がMicrosoftのデータセンターに排出規制違反で罰金を科しました。和解の内容はこうです。Microsoftは240万ドルを環境プロジェクトに投資する。場所は、違反したデータセンターがあるラウドン郡。同じ郡です。施設は閉鎖しない。移転もしない。\n\nMicrosoftの年間売上は約2450億ドル。240万ドルは、火曜の朝一番のコーヒーが冷める前に稼ぐ金額です。それで「ラウドン郡の環境貢献企業」に変わりました。書類一枚で。BP がひまわりロゴに変えた速度より早い。"
     ],
     "asideEn": [
-      "He appointed the board. The board closed the building.",
-      "Both numbers are real. One made the headline.",
-      "Funny how that lines up with the revenue model.",
-      "They agreed on the answer. The question was different.",
-      "Mandatory. No exit. Fifty percent."
+      "The independent institution disagreed. Loudly.",
+      "We don't have a moon base. But we have a plan.",
+      "Brought to you by the government.",
+      "The word 'sustainable' remains in the press release.",
+      "Same county. Zero irony detected."
     ],
     "asideJa": [
-      "自分で選んだ理事会が閉めた。",
-      "同じ資料です、これ。",
-      "立場が透けてますね。",
-      "結論は同じ、理由は別の話。",
-      "逃げ場なしの値上げ。"
+      "独立機関、今日も元気です。",
+      "月に基地より先に戦略。",
+      "政府より、以上。",
+      "プレスリリースは「環境に優しい」のまま。",
+      "同じ郡。本人は気づいてない顔。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Kennedy Center",
-      "Nvidia",
-      "Current Events"
+      "Federal Reserve",
+      "Microsoft",
+      "Smithsonian"
     ],
-    "fullEn": "# Your Name on the Wall or It Stays Dark\n\n## Today's Forecast\n\nThe Kennedy Center is dark because a federal judge said no to a name on the wall. The board—appointed by the same person who wanted the name—voted to close the place. That's not governance, that's a negotiating tactic with a piano inside.\n\nToday's five stories are all running the same software: the label says one thing, the contents say another. Record income that's barely moved in six years. AI safety advice from the people selling the chips that make AI go fast. Sanders and Bannon agreeing on a conclusion while disagreeing on every single word that led there.\n\nHere's your forecast: if you've been feeling like you're working harder for returns that don't quite add up, today's data confirms you are not wrong. The gap between the headline and page four is real. Knowing that gap exists is already something most people skip. You didn't skip it.\n\n---\n\n## 1. Trump Threatens to Keep Kennedy Center Dark Unless His Name Goes on the Wall\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html)*\n\nA federal judge blocked the Kennedy Center board from adding President Trump's name to the building's facade for the second time in four months. Following the ruling, the board—stacked with Trump's appointees—voted to close the venue immediately. Trump then publicly stated renovations would not proceed unless his name was restored to the building.\n\n**Why It's Funny**\n\nThe Kennedy Center was supposed to get renovations. Then a federal judge blocked Trump's name from going on the building's facade—for the second time in four months—and the board voted to close the venue immediately. The same board Trump appointed. So the sequence is: appoint the board, lose in court, have the board shut the place down, then announce you won't fix it unless your name goes on the wall. Named after a president who was shot. Now dark because a living president wants the same wall space. Totally normal cultural policy.\n\n**Say It Out Loud**\n\n> The Kennedy Center: dark, locked, and closed—because the judge wouldn't put someone's name on it. This is what a tantrum costs per square foot.\n\n---\n\n## 2. Americans Hit Record Income in 2025 — Up Just 2.5% Since 2019\n\n*CBS News US — [source](https://www.cbsnews.com/news/census-income-data-pandemic-levels/)*\n\nThe U.S. Census Bureau reported that median household income reached a record high in 2025. However, when adjusted for inflation and compared to 2019 figures, the typical American household has seen earnings grow by only 2.5% over six years. The data arrives as the Federal Reserve weighs potential interest-rate increases.\n\n**Why It's Funny**\n\nThe Census Bureau put out a press release celebrating record household income. Somewhere around page four of the same document, it mentions the number is up 2.5% since 2019, adjusted for inflation. Six years. A pandemic, several 'historic economic plans,' and a Federal Reserve that can't stop fiddling with rates. Two and a half percent. The record is real. So is the math. One of them made the headline.\n\n**Say It Out Loud**\n\n> Record income! Highest ever! Also up 2.5% since 2019. Both sentences are in the same document. One made the headline.\n\n---\n\n## 3. Nvidia's CEO Says AI Safety Can Wait. The AI Safety CEOs Disagree.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html)*\n\nAt the Dreamforce conference, Nvidia CEO Jensen Huang diverged from the heads of Anthropic and OpenAI on the question of AI safety and development speed. The disagreement came days after Anthropic's Dario Amodei published an essay urging the industry to slow down AI model development. Huang's position contrasts sharply with the safety-focused posture of companies that sell AI models rather than the chips that power them.\n\n**Why It's Funny**\n\nJensen Huang told a conference that AI development is moving at the right speed. Days before, Anthropic's Dario Amodei published a whole essay arguing the industry needs to slow down. Here's the thing: Huang sells chips. The faster AI runs, the more chips sell. Amodei sells AI models. The slower competitors develop, the longer Anthropic's lead holds. Both men have strong feelings about AI safety. Both men's feelings align precisely with their revenue model. I'm sure that's a coincidence.\n\n**Say It Out Loud**\n\n> The chip guy says AI is fine. The AI guys say slow down. Nobody asked the AI.\n\n---\n\n## 4. Bernie Sanders and Steve Bannon Agree on Something. It's AI.\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit)*\n\nSenator Bernie Sanders and far-right strategist Steve Bannon both called for restrictions on artificial intelligence at a 'pro-human' summit, marking a rare point of rhetorical overlap between the two figures. However, the two offered competing visions—Sanders focused on tech oligarchs consolidating power, while Bannon framed the issue around a rivalry with China.\n\n**Why It's Funny**\n\nBernie Sanders and Steve Bannon both spoke at something called a 'pro-human' summit, and both called for restricting AI. Sanders wants to stop tech oligarchs from consolidating power. Bannon wants to beat China. They arrived at 'regulate AI' from completely different planets, shook hands on the conclusion, and then presumably did not have lunch together. The summit described this as a convergence. It's less a convergence and more two people who both dislike the weather for entirely different meteorological reasons.\n\n**Say It Out Loud**\n\n> Bernie Sanders and Steve Bannon both said 'regulate AI' at the same event. They meant completely different things. Democracy is fine.\n\n---\n\n## 5. Car Ownership Costs Up 50% Since 2020 — And Gas Is Just the Start\n\n*CBS News US — [source](https://www.cbsnews.com/news/car-ownership-auto-repair-costs-inflation/)*\n\nNew economic data shows that the total cost of owning a car in the United States has surged 50% since 2020. The increase goes well beyond gasoline prices and includes spikes in auto insurance premiums, repair and maintenance costs, and parking fees. The data illustrates how inflation has hit car-dependent Americans from multiple directions simultaneously.\n\n**Why It's Funny**\n\nCar ownership in the US is up 50% since 2020. Not just gas—insurance premiums, repair costs, parking fees, all climbing simultaneously. And in most American cities, not owning a car isn't really an option, because the nearest grocery store is eleven miles away and the bus runs twice a day if it runs at all. It's a mandatory expense with no exit. The market raised the price on the thing you're not allowed to stop buying.\n\n**Say It Out Loud**\n\n> Car ownership is up 50% since 2020. Public transit in most of these cities: still the same one bus that comes every 90 minutes.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: 'record high' and 'barely moved' can live in the same sentence—it just depends on which page you stopped reading.\n",
-    "fullJa": "# 「過去最高」と「2.5%増」が同じ資料に書いてある日\n\n## 今日を占うよ〜\n\nケネディセンターが閉館しました。\n\n理由は「外壁に大統領の名前を入れるのを、裁判所が止めたから」。\n\n名前を入れられないなら開けない。そう言って、大統領自身が送り込んだ理事会が即日閉館を決議した。文化施設の改修が、命名権の人質交渉になった日です。\n\n今日はこの5本。\n\nケネディセンターの壁をめぐる仁義なき命名権交渉。「過去最高」の賃金データの4ページ目に書いてある2.5%という数字。AI安全性を訴えている人とそうじゃない人の、財布との一致度。サンダースとバノンが同じ結論に着地した理由がまったく別の話だった件。そして5年で50%上がった「逃げ場のない移動コスト」。\n\n今日の占い。\n\n「過去最高！」と「2.5%増」は同じ資料に書いてある。見出しで止まった人と、4ページ目まで読んだ人では、今日一日の解像度が変わる。あなたはここまで読んでる。まあ、損はしてないと思いますよ。\n\n---\n\n## 1. Trump Threatens to Keep Kennedy Center Dark Unless His Name Goes on the Wall\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/15/trump-kennedy-center-name-ruling.html)）*\n\nトランプ大統領は、連邦判事がケネディセンターの外壁への大統領名の追加を再度差し止めたことを受け、改修工事を進めないと表明。大統領が送り込んだ理事会は直ちに閉館を議決した。\n\n**どこが笑える？**\n\nケネディセンターは改修工事の予定でした。\n\nただ、連邦判事が外壁への大統領名の追加を4か月で2度差し止めた。で、大統領が任命した理事会が即日「閉館」を決議。大統領本人は「名前を入れさせてくれないなら改修しない」と表明。\n\n自分で選んだ理事会に建物を閉めさせて、自分で名前を出せないから工事しない、と言っている。ジョン・F・ケネディの名前がついている建物で起きている話です。\n\n**このニュースをジョークにするなら...**\n\n> ケネディセンター、暗闇の中でクローズ。理由：壁に名前を書いてもらえなかった。プライドって、1平方メートルいくらですか。\n\n---\n\n## 2. Americans Hit Record Income in 2025 — Up Just 2.5% Since 2019\n\n*CBS News US（[記事](https://www.cbsnews.com/news/census-income-data-pandemic-levels/)）*\n\n国勢調査局のデータによると、2025年の米国世帯の中央値所得は過去最高を記録したが、2019年比では実質2.5%増にとどまることが明らかになった。\n\n**どこが笑える？**\n\n国勢調査局が「2025年の世帯中央値所得、過去最高を記録!」と発表しました。\n\n同じ資料の別のページに「ただし2019年比では実質2.5%増」と書いてあります。\n\n6年。パンデミックがあって、「歴史的な経済政策」が何本も走って、FRBが利上げ・利下げを繰り返して、2.5%。プレスリリースというのは本当に芸術だな、と思います。どこを切るかで全然ちがう話になる。\n\n**このニュースをジョークにするなら...**\n\n> 過去最高！史上初！あと2019年比2.5%増。全部同じ資料に書いてある。見出しになったのはどれでしょう。\n\n---\n\n## 3. Nvidia's CEO Says AI Safety Can Wait. The AI Safety CEOs Disagree.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html)）*\n\nNvidiaのジェンセンCEOは、OpenAIとAnthropicのCEOがAI開発の減速を訴える中、Dreamforceイベントで両者と異なる見解を示した。Anthropicのアモデイ氏が開発ペースを落とすよう訴える論文を発表した数日後の発言。\n\n**どこが笑える？**\n\nNvidiaのジェンセンCEOが「AIの開発ペースは問題ない」と言いました。その数日前、AnthropicのアモデイCEOが「ペースを落とすべき」という論文を出していました。\n\nジェンセンさんはAIチップを売っています。速く動くほど売れます。アモデイさんはAIモデルを売っています。競合が遅れるほど有利になります。\n\n二人は「AI安全性」について深く議論した、と報じられています。\n\n**このニュースをジョークにするなら...**\n\n> チップ屋さんはAI大丈夫と言う。AI屋さんたちはスローダウンと言う。AIには誰も聞いてない。\n\n---\n\n## 4. Bernie Sanders and Steve Bannon Agree on Something. It's AI.\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/15/bernie-sanders-steve-bannon-ai-summit)）*\n\n進歩派のバーニー・サンダース上院議員と右派ストラテジストのスティーブ・バノンが、「プロヒューマン」サミットでAI規制の必要性で一致した。ただし、その理由と方向性はまったく異なる。\n\n**どこが笑える？**\n\nバーニー・サンダースとスティーブ・バノンが、同じイベントで「AI規制が必要だ」と言いました。\n\nサンダースさんの理由は「テック億万長者が権力を集中させている」。バノンさんの理由は「中国に負けてはいけない」。\n\n登山口がまったく別の場所にあって、山頂で出くわした感じです。「一致」という見出しになってるけど、二人の地図は最初から別の山を指していた。\n\n**このニュースをジョークにするなら...**\n\n> バーニー・サンダースとスティーブ・バノンが同じイベントで「AIを規制しろ」と言った。意味は全然違う。民主主義は元気です。\n\n---\n\n## 5. Car Ownership Costs Up 50% Since 2020 — And Gas Is Just the Start\n\n*CBS News US（[記事](https://www.cbsnews.com/news/car-ownership-auto-repair-costs-inflation/)）*\n\n新たな経済データによると、自動車保有コストは2020年以降50%急騰しており、ガソリン代以外にも保険料、修理費、駐車場代など複数の費用が運転者を直撃している。\n\n**どこが笑える？**\n\nアメリカで車を持つコストが2020年から50%上がっています。\n\nガソリン代だけじゃない。保険料、修理費、駐車場代——全部同時に上がっている。で、多くのアメリカの都市は、車がないと食料品の買い物にも行けない設計になっています。\n\n「逃げ場のない値上げ」というのは比喩じゃなくて、文字通りそういう構造になっているんです。\n\n**このニュースをジョークにするなら...**\n\n> 自動車保有コストが2020年比50%増。で、これらの都市の公共交通機関は？90分に1本のバスがまだ走ってます。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「過去最高」と「2.5%増」は同じ資料に書いてある。どこで止まるかだけの話。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3キャプション2番に汎用フレーズ「Bold strategy.」が混入していたため構築されたジョークに差し替え。d4キャプション4番「The AI probably noticed.」が観察止まりで裏切りがなかったため書き直し。xJa3本目が136字を超えているため135字以内に圧縮。introJaの占いパートが「導入→5本予告→前向き占い」の構造を満たしておらず5本の予告が列挙されていないため書き直し。他は合格。 ／ 文体パス: 2箇所修正。introJaの締め「今日、一番損をしない側にいます」がプレゼン着地型だったのでぼやいた形に崩し、quipJaの「読む深さの問題です」が説明口調だったので口語に直した。"
+    "fullEn": "# Rules Are for People Who Can't Make New Rules\n\n## Today's Forecast\n\nFive stories today. One pattern.\n\nSomebody made a rule. Then the person who was supposed to follow it decided they'd rather write a new one. The Fed exists to be independent — so naturally there's a demand it isn't. The Outer Space Treaty limits military activity on the moon — so naturally there's a general at a microphone saying otherwise. A museum is accused of bias — so the government installs its own bias, as a correction.\n\nAlso: AI e-waste that will circle the Earth six times by 2050, and Microsoft turning an emissions fine into a PR opportunity before the ink dried.\n\nHere's your forecast. If you've been playing by rules that nobody else seems to follow, today's news confirms you're not imagining it. The rules are real. They just aren't distributed evenly. That's not on you. Go get your coffee.\n\n---\n\n## 1. Trump Demands 1% Interest Rate While Fed Hikes for First Time Since 2023\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html)*\n\nThe Federal Reserve raised its benchmark interest rate by 0.25 percentage points on Wednesday, the first hike since 2023, citing persistent inflation. President Trump immediately pushed back, insisting rates should be 1% or lower. Trump had previously threatened to cut off trade with countries running surpluses with the U.S. if the Fed failed to cut rates.\n\n**Why It's Funny**\n\nThe Federal Reserve exists for one reason: to make monetary decisions without a president on the phone. That's the whole design. Wednesday they raised rates 0.25 points — unanimous vote, first hike since 2023, citing inflation. Thursday, Trump said rates should be 1% or lower. His reasoning: the economy is doing great. Which is an interesting argument, because the Fed raised rates specifically because the economy is running too hot. So the evidence for 'lower rates' and the evidence for 'raise rates' turned out to be the same economy. He also threatened to cut trade with countries that run surpluses with the U.S. if the Fed didn't listen. The Fed hiked. That's a lot of balls now in a lot of courts.\n\n**Say It Out Loud**\n\n> The Fed voted unanimously. One guy didn't vote but he's got thoughts.\n\n---\n\n## 2. Top Trump Military Adviser Says U.S. Troops Must Prepare to Fight Around the Moon\n\n*The Guardian US — [source](https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt)*\n\nGeneral Dan Caine, top military adviser to President Trump, said at a Washington summit that American troops need to prepare for combat not only in Earth's orbit but around the moon. The remarks came after the U.S. revealed it has deployed weapons in space, signaling a new frontier in military planning.\n\n**Why It's Funny**\n\nGeneral Dan Caine, top military adviser to President Trump, told a Washington summit that U.S. troops need to prepare for combat around the moon. Not on Earth orbit — around the moon. The U.S. has also confirmed it has deployed weapons in space. Here's what I keep coming back to: there's no moon base. There's no regular transit to the moon. The last time humans were near the moon was 1972. But there is now a combat strategy for the area. We skipped several steps — the road, the base, the reason to be there — and went straight to the battle plan. The Outer Space Treaty restricts military use of the moon. The general said this at a summit. With a microphone. In Washington. Apparently that's fine.\n\n**Say It Out Loud**\n\n> We don't have a moon base. We don't have a moon road. We do have a moon combat strategy. That's the order we did things.\n\n---\n\n## 3. Trump Administration Plans Ideological Warning Labels for Smithsonian Museums\n\n*NPR News — [source](https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs)*\n\nThe Interior Secretary announced plans to place ideological warning signs inside Smithsonian Institution museums, stating the move is necessary to combat what the administration calls ideological bias in the exhibits. The Smithsonian is a federally funded institution that houses some of the nation's most prominent museums and research centers.\n\n**Why It's Funny**\n\nInterior Secretary Doug Burgum announced that Smithsonian museums will receive ideological warning labels — signs alerting visitors to what the administration considers bias in the exhibits. The Smithsonian is federally funded, which means it is a government museum. The warning labels will be designed and installed by the government. To warn you about the government museum. The circularity is so clean I almost respect it. What gets me is the mechanism: if an exhibit is biased, the correction is a label chosen by people who disagree with the exhibit. That label then becomes the official government interpretation displayed inside the museum. It's not a warning. It's a replacement exhibit, mounted next to the original.\n\n**Say It Out Loud**\n\n> The government museum is warning you about the government museum. Brought to you by the government.\n\n---\n\n## 4. AI Data Center E-Waste Could Fill 23 Million Shipping Containers by 2050, Report Warns\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)*\n\nA new report warns that e-waste generated by the AI industry has been vastly underestimated. By 2050, discarded hardware from AI data centers could fill approximately 23 million shipping containers — enough 40-foot containers to circle the Earth six times if lined up end to end. The figure represents a significantly higher estimate than previous projections.\n\n**Why It's Funny**\n\nA new report says the AI industry's e-waste has been significantly underestimated. By 2050, discarded hardware from data centers could fill 23 million shipping containers — enough 40-foot containers, lined end to end, to circle the Earth six times. The previous estimates were lower. Meaning the industry knew there was a waste problem, estimated it, and was still off by a multiple. The servers doing the work are in places like Virginia and Texas. The report notes that e-waste tends to travel to different countries than the ones that generated it. The press materials for these data centers continue to use the word 'sustainable.' No corrections have been issued.\n\n**Say It Out Loud**\n\n> AI will save the planet. The hardware doing the saving will generate enough waste to circle the planet six times. Details.\n\n---\n\n## 5. Virginia Fines Microsoft Data Center for Emissions Violations — Microsoft to Invest $2.4M in the Same County\n\n*CBS News US — [source](https://www.cbsnews.com/news/virginia-data-centers-microsoft-fine-loudoun-county/)*\n\nVirginia regulators fined a Microsoft data center for emissions violations. As part of the settlement, Microsoft agreed to invest $2.4 million toward an environmental project in Loudoun County — the same county where the offending data center is located. The settlement did not require Microsoft to shut down or relocate the facility.\n\n**Why It's Funny**\n\nVirginia regulators fined a Microsoft data center for emissions violations. Under the settlement, Microsoft agreed to invest $2.4 million in an environmental project — in Loudoun County, Virginia, which is the same county where the offending data center operates. The facility does not have to close. The facility does not have to move. The county gets $2.4 million for an environmental project, and Microsoft gets to describe itself as an environmental contributor in Loudoun County. Microsoft's annual revenue is around $245 billion. Two-point-four million dollars is what they make before most people's first coffee break on a given Tuesday. They went from 'emissions violator' to 'environmental community partner' in one document. I've seen rebrands take longer.\n\n**Say It Out Loud**\n\n> You violated emissions rules in Loudoun County. The fine is: give money to Loudoun County. The county is doing great.\n\n---\n\n## Today's Punchline\n\n> The Fed is independent. The moon is neutral. The museum is unbiased. Microsoft is green. Anyway, none of that was true today.\n",
+    "fullJa": "# FRBに「1%にしろ」、月で戦争準備、博物館に警告ラベル——ルールって誰のためにあるんでしたっけ\n\n## 今日を占うよ〜\n\nFRBが利上げしました。\nトランプ大統領が「1%にしろ」と言いました。\nその翌日の話です。\n\nで、他も見てみると——月周辺での戦闘準備が必要らしく、国立博物館に「偏ってます」という政府の貼り紙がつき、AIのゴミが2050年に地球を6周し、Microsoftは違反した場所に寄付して「環境貢献企業」になっていた。\n\n今日の5本を貫く糸は、たぶんこれです。ルールを作った側が、そのルールを一番楽しそうに踏み越えている。\n\n——今日の占いです。\n\n①「FRBが独立機関である日」が続く: あなたが粘り強く正論を言い続けている場所では、今日も正論が通ります。②月軌道あたりで異動の打診がある: でも給与交渉の余地があります。③博物館の恐竜の前で気づく: ルールが書いてあっても、読む人を選ぶらしい。④2050年より先を見る目が開ける: ゴミになる前に手放せるものがある。⑤240万ドルより安く、あなたの評判を回復する方法が見つかる: 少なくともMicrosoftよりはマシなやり方で。\n\n「なんで私だけルール守ってるんだろう」と思っていることがあるなら、それは気のせいじゃない。今日の5本が証拠です。ルールは実在する。ただ、全員に平等には配られていない。あなたのせいじゃないので。\n\n---\n\n## 1. Trump Demands 1% Interest Rate While Fed Hikes for First Time Since 2023\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html)）*\n\n連邦準備制度理事会が2023年以来初めて利上げを実施したにもかかわらず、トランプ大統領は金利を1%以下にするよう要求した。\n\n**どこが笑える？**\n\n連邦準備制度理事会というのは、要するに「大統領が電話してきても金利を自分たちで決める」ために作られた機関です。それが設計の全部。水曜日、FRBは0.25ポイントの利上げを全会一致で決定した。2023年以来初、理由はインフレ持続。翌日、トランプ大統領は「1%以下にしろ」と要求しました。\n\n根拠は「経済がうまくいってるから」。ただ、FRBが利上げした理由も「経済が過熱しているから」です。つまり、「下げろ」の証拠と「上げろ」の証拠が同じ経済を指している。どっちに転んでも、結論は「1%」になる仕組みになってる。あと、FRBが言うことを聞かなければ対米黒字国との貿易を断つとも言っていました。FRBは利上げしました。\n\n**このニュースをジョークにするなら...**\n\n> 全会一致で決まった。ただ一人、投票権のない人が「意見あります」って。\n\n---\n\n## 2. Top Trump Military Adviser Says U.S. Troops Must Prepare to Fight Around the Moon\n\n*The Guardian US（[記事](https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt)）*\n\nトランプ大統領の最高軍事顧問であるダン・ケイン将軍が、米軍は地球軌道だけでなく月周辺での戦闘にも備える必要があると述べた。\n\n**どこが笑える？**\n\nトランプ大統領の最高軍事顧問、ダン・ケイン将軍がワシントンのサミットで言いました。「米軍は月周辺での戦闘に備える必要がある」。地球軌道ではなく、月の周辺で、です。\n\n月に基地はない。月への定期便もない。人類が最後に月の近くにいたのは1972年です。でも戦闘計画はある。道も、拠点も、行く理由も飛ばして、戦略だけが先に完成しました。宇宙条約は月の軍事利用を制限しています。将軍はこれをサミットで、マイクを持って、ワシントンで言いました。それが今の状況です。\n\n**このニュースをジョークにするなら...**\n\n> 月の基地もない。月への道もない。月の戦闘ドクトリンはある。この順番でやった。\n\n---\n\n## 3. Trump Administration Plans Ideological Warning Labels for Smithsonian Museums\n\n*NPR News（[記事](https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs)）*\n\nトランプ政権の内務長官が、スミソニアン博物館に「イデオロギー的偏向」に対する警告表示を設置する計画を発表した。\n\n**どこが笑える？**\n\n内務長官が発表しました。スミソニアン博物館の展示に「イデオロギー的偏向への警告ラベル」を設置する、と。スミソニアンは連邦政府の資金で運営される国立博物館です。警告ラベルを設計・設置するのも、政府です。\n\n「この政府施設には偏向があります」と、政府が警告する。なかなかの円環です。仕組みをよく見ると——展示が偏っていると判断した人たちが、その隣に「正解」を貼る。それは警告ではなく、もう一個の展示です。恐竜の骨の隣に、恐竜の骨についての政府見解が並ぶ未来が来ました。\n\n**このニュースをジョークにするなら...**\n\n> 政府の博物館が、政府の博物館について警告を出してる。提供: 政府。\n\n---\n\n## 4. AI Data Center E-Waste Could Fill 23 Million Shipping Containers by 2050, Report Warns\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)）*\n\n新たな報告書によると、AIブームによる電子廃棄物は大幅に過小評価されており、2050年までに2300万個のコンテナを満たす量に達する可能性があるという。\n\n**どこが笑える？**\n\n新しい報告書が出て、AIデータセンターの電子廃棄物は「大幅に過小評価されてきた」とわかりました。2050年までに廃棄されるハードウェアは、40フィートコンテナ2300万個分。端から端まで並べると地球を6周します。\n\n「過小評価されてきた」という部分が重い。業界はゴミ問題を認識していて、試算していて、それでも実態より低かった。バージニアやテキサスのサーバーが処理の側で、廃棄物が届く先は別の国々です。これらのデータセンターのプレスリリースには「サステナブル」という言葉が引き続き使われています。訂正は出ていません。\n\n**このニュースをジョークにするなら...**\n\n> AIが地球を救う。その機械が出すゴミは地球を6周する量になる。細かい話ですが。\n\n---\n\n## 5. Virginia Fines Microsoft Data Center for Emissions Violations — Microsoft to Invest $2.4M in the Same County\n\n*CBS News US（[記事](https://www.cbsnews.com/news/virginia-data-centers-microsoft-fine-loudoun-county/)）*\n\nバージニア州がMicrosoftのデータセンターに排出規制違反で制裁金を科し、和解の一環としてMicrosoftは同じラウドン郡の環境プロジェクトに240万ドルを投資することに合意した。\n\n**どこが笑える？**\n\nバージニア州がMicrosoftのデータセンターに排出規制違反で罰金を科しました。和解の内容はこうです。Microsoftは240万ドルを環境プロジェクトに投資する。場所は、違反したデータセンターがあるラウドン郡。同じ郡です。施設は閉鎖しない。移転もしない。\n\nMicrosoftの年間売上は約2450億ドル。240万ドルは、火曜の朝一番のコーヒーが冷める前に稼ぐ金額です。それで「ラウドン郡の環境貢献企業」に変わりました。書類一枚で。BP がひまわりロゴに変えた速度より早い。\n\n**このニュースをジョークにするなら...**\n\n> ラウドン郡で排出規制を破った。罰金の使い道: ラウドン郡に渡す。郡は絶好調。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> FRBは独立、月は中立、博物館は公平、Microsoftは環境貢献。今日は全部、同じ日に崩れました。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d5のcaption3「BP のひまわりロゴ」がriffJa5にも同じ形で登場し二重使用になっている点、d4 caption4の「でもチャットボット、試した？」が汎用AI皮肉の型に近い点、xJa全8本要件に対し5本しかない点（元データが5本なので構造的問題ではないが審査基準10を適用）、introJaの「占い」セクションが書き言葉寄りで掴みと5本予告が弱い点を修正。d1 caption2Jaの「ブレーキいらない」はオチが手前で見えるため末尾を締め直す。d4 notesEn4とxJa4は事実と合致し単体成立しているため変更なし。センシティブ該当なし。 ／ 文体パス: 3箇所修正。introJaの締め「今日はそれだけ持って帰ってください」が読者への指示形かつ綺麗に畳みすぎ、riffJa[2]の「この円環の美しさに少し感心しました」がAI的な感心の述べ方、riffJa[0]の「ボールはたくさんのコートに同時に飛んでいる」が気の利いた総括で着地しようとしている。"
   },
   "carousel": [
-    "images/2026-09-16/carousel/slide-1.jpg",
-    "images/2026-09-16/carousel/slide-2.jpg",
-    "images/2026-09-16/carousel/slide-3.jpg",
-    "images/2026-09-16/carousel/slide-4.jpg",
-    "images/2026-09-16/carousel/slide-5.jpg",
-    "images/2026-09-16/carousel/slide-6.jpg",
-    "images/2026-09-16/carousel/slide-7.jpg"
+    "images/2026-09-17/carousel/slide-1.jpg",
+    "images/2026-09-17/carousel/slide-2.jpg",
+    "images/2026-09-17/carousel/slide-3.jpg",
+    "images/2026-09-17/carousel/slide-4.jpg",
+    "images/2026-09-17/carousel/slide-5.jpg",
+    "images/2026-09-17/carousel/slide-6.jpg",
+    "images/2026-09-17/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-16/note-header.jpg",
-    "substack": "images/2026-09-16/substack-cover.jpg"
+    "note": "images/2026-09-17/note-header.jpg",
+    "substack": "images/2026-09-17/substack-cover.jpg"
   }
 };
