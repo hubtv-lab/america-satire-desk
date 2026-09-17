@@ -1,366 +1,366 @@
 {
   "version": 1,
-  "date": "2026-09-17",
-  "generatedAt": "2026-09-16T22:13:21+00:00",
+  "date": "2026-09-18",
+  "generatedAt": "2026-09-17T22:13:03+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump Demands 1% Interest Rate While Fed Hikes for First Time Since 2023",
-        "source": "CNBC Top News",
-        "date": "2026-09-17",
-        "url": "https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html",
-        "summary": "連邦準備制度理事会が2023年以来初めて利上げを実施したにもかかわらず、トランプ大統領は金利を1%以下にするよう要求した。"
+        "headline": "Judge Orders 30-Day Warning Before Trump Can Demolish Kennedy Center He Can't Put His Name On",
+        "source": "The Guardian US",
+        "date": "2026-09-18",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice",
+        "summary": "連邦判事は、トランプ政権がケネディセンターを取り壊す前に少なくとも30日前の通知を義務付ける命令を出した。トランプ大統領は、自分の名前を施設に刻もうとして議会の承認が得られず、取り壊しを示唆していた。"
       },
       "commentary": [
-        "<b>矛盾:</b> インフレを抑えるための独立機関が利上げを決めた翌日に、大統領が「1%にしろ」と要求する。中央銀行の独立性って、そういう意味だったっけ。",
-        "<b>滑稽さ:</b> 「アメリカはうまくいってるから金利を下げろ」という論理、うまくいってないから下げろとも言えるし、どっちでも下げろになる仕組みになってるんですよ。",
-        "<b>日本・海外から見ると:</b> 日本は数十年ゼロ金利で苦しんだ。1%を「低すぎる」と言える立場の国が「1%にしろ」と叫んでいる。贅沢な悩みに見える。"
+        "<b>矛盾:</b> 自分の名前を建物に彫れないから建物ごと壊す、っていうのは大人の解決策じゃないんですよ。「俺のものにならないなら誰のものにもするな」って理論、砂場の5歳児と同じですよね。",
+        "<b>滑稽さ:</b> 判事が「壊すなら30日前に言え」って命令したわけで、アメリカの文化施設に今、取り壊し予告の猶予期間が生まれてるんですよ。カレンダーに「ケネディセンター存続期限」って書く係が誰かいる。",
+        "<b>日本・海外から見ると:</b> 海外メディアからすると、アメリカで今いちばんリアルタイムで危ない国家的文化財は、自国の大統領に狙われてる劇場、っていう話になってるんですよね。"
       ],
       "imagePrompts": [
-        "A large marble Federal Reserve building with a giant neon sign reading '1% OR ELSE' projected onto its facade from outside, surrounded by darkness",
-        "A formal boardroom where eleven identical 'YES' vote placards are arranged on a long table, and one empty chair at the head has a phone with a tweet visible on the screen",
-        "A gas station price sign where the numbers have been replaced with handwritten demands: 'RATES: 1% MAX. FINAL OFFER.'"
+        "The Kennedy Center exterior with a large countdown clock mounted above the entrance reading '30 DAYS', official government vehicles parked outside, caution tape strung between columns",
+        "A nameplate reading 'TRUMP' sitting on a government official's desk next to a thick stack of court documents stamped 'DENIED', a small model of the Kennedy Center in the background",
+        "A framed 'DEMOLITION NOTICE — 30 DAYS' certificate hanging on an office wall next to a portrait of JFK, a calendar on a desk with one date circled in red"
       ],
       "captions": [
-        "The Fed voted unanimously. One guy didn't vote but he's got thoughts.",
-        "Economy's doing great, so rates should be 1%. By that logic, my car runs fine — pull the brakes.",
-        "He threatened to cut trade with entire countries if the Fed didn't listen. The Fed hiked. Ball's in your court, globe.",
-        "The institution designed to be immune to political pressure received the political pressure anyway. Via social media. At 7am.",
-        "Twelve economists in a room agreed. One guy outside the room also has a number. His number is smaller."
+        "Can't put your name on it, so you demolish it — someone's been watching way too many mob movies.",
+        "The court said: sure, tear it down, just give us a month's notice. Thirty days to save a concert hall. Democracy!",
+        "A forklift hit the pillars before the demolition was even approved. This administration doesn't wait for paperwork.",
+        "Every other president left a legacy at the Kennedy Center. This one's leaving a crater.",
+        "JFK's memorial now has an active demolition countdown. Nobody put that in the dedication speech."
       ],
       "captionsJa": [
-        "全会一致で決まった。ただ一人、投票権のない人が「意見あります」って。",
-        "景気がいいから金利下げろ、という論法。車が絶好調だからブレーキを外す、と同じ理屈なんですよ。",
-        "従わないなら貿易を断つと脅した。Fedは上げた。あとはよろしく、地球。",
-        "政治圧力を受けない設計の機関が、政治圧力を受けた。SNS経由で。朝7時に。",
-        "12人の経済学者が部屋で合意した。部屋の外に一人、もっと小さい数字を持った人がいた。"
+        "名前を刻めないなら建物ごと壊す。誰かギャング映画の見すぎですよ。",
+        "判事が「壊すなら30日前に言え」。コンサートホールに猶予期間。これが民主主義！",
+        "取り壊し許可が出る前にフォークリフトが柱に突っ込んでる。この政権、書類を待たないんですよ。",
+        "歴代大統領はケネディセンターに遺産を残した。この人が残すのは更地。",
+        "JFKの記念施設に今、取り壊しのカウントダウンが走っている。献堂式のスピーチに書いてなかったやつ。"
       ],
-      "newsEn": "The Federal Reserve raised its benchmark interest rate by 0.25 percentage points on Wednesday, the first hike since 2023, citing persistent inflation. President Trump immediately pushed back, insisting rates should be 1% or lower. Trump had previously threatened to cut off trade with countries running surpluses with the U.S. if the Fed failed to cut rates.",
+      "newsEn": "A federal judge ordered the Trump administration to provide at least 30 days' notice before taking any action to demolish the John F. Kennedy Center for the Performing Arts. The order came after Trump threatened demolition following a court ruling that his name cannot be added to the building without congressional authorization. Court filings also included a witness account of a forklift striking the center's pillars.",
       "ironyEn": [
         {
-          "contradiction": "The Fed exists specifically to set rates independent of political pressure. Trump responding to a rate hike with a number he prefers is basically submitting a customer review for monetary policy.",
-          "absurdity": "His argument: the economy is doing great, so rates should be near zero. That's the kind of logic that could justify anything — 'traffic's light today, let's remove the speed limits.'",
-          "outside": "Countries that spent decades begging for any economic growth at 0.1% rates are watching America demand 1% and calling it fiscal restraint."
+          "contradiction": "Trump can't put his name on the Kennedy Center legally, so his next move is to make sure there's no Kennedy Center at all.",
+          "absurdity": "A federal court had to issue a court order specifically telling the White House: please give us 30 days before you demolish a national arts venue. That sentence exists.",
+          "outside": "From abroad, the most endangered landmark in America right now isn't threatened by weather or time — it's threatened by the sitting president who wanted a nameplate."
         },
         {
-          "contradiction": "The central bank voted unanimously to hike. One person disagreed: the one who doesn't vote.",
-          "absurdity": "Trump threatened to cut trade with surplus countries if the Fed didn't cut rates — the Fed hiked instead. So now the trade threat is apparently on a delay.",
-          "outside": "Most central banks fight to keep politicians out of rate decisions. The U.S. has a president live-posting his preferred number while the ink is still wet."
+          "contradiction": "The legal protection keeping the building standing is the same legal system that stopped him from branding it. The courts are doing double duty.",
+          "absurdity": "A forklift allegedly already hit the pillars. The building is being stress-tested before the demolition order even clears the courts.",
+          "outside": "In most countries, you protect a national arts center with landmark laws. In America, apparently you need a temporary restraining order."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-17/candidate-1.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-17/candidate-1-punchy.jpg"
+      "image": "images/2026-09-18/candidate-1.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-18/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Top Trump Military Adviser Says U.S. Troops Must Prepare to Fight Around the Moon",
-        "source": "The Guardian US",
-        "date": "2026-09-17",
-        "url": "https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt",
-        "summary": "トランプ大統領の最高軍事顧問であるダン・ケイン将軍が、米軍は地球軌道だけでなく月周辺での戦闘にも備える必要があると述べた。"
+        "headline": "Congress Declares AI an Urgent Crisis, Then Goes Home to Campaign",
+        "source": "CNBC Top News",
+        "date": "2026-09-18",
+        "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
+        "summary": "AIを巡る緊急立法の声が高まる中、下院議員たちは選挙運動のために議会を後にした。Anthropic、OpenAI、xAIが規制を強く求める一方、議会での具体的な立法行動は進んでいない。"
       },
       "commentary": [
-        "<b>矛盾:</b> 地球上の橋や道路の老朽化が問題になっているさなか、月の制空権を語り始めた。インフラより先に月面防衛線。",
-        "<b>滑稽さ:</b> 「月周辺での戦闘準備を」と言われた兵士の顔が見たい。徴兵通知に「勤務地: 月軌道（応相談）」と書かれる日が来るんですかね。",
-        "<b>日本・海外から見ると:</b> 宇宙条約では月の軍事利用は制限されているはずで、その発言自体がすでに国際的に「大丈夫か」と思われている。"
+        "<b>矛盾:</b> AI企業が「早く規制してくれ」って頼んでるのに議員たちが選挙運動で帰っちゃうって、規制される側が規制する側より仕事してるじゃないですか。",
+        "<b>滑稽さ:</b> OpenAIとAnthropicが「頼む、俺たちを縛ってくれ」って言ってる横で、議会が「ちょっと待って、まず票を集めてくる」って帰ってくわけですよ。自縄自縛できない企業、かわいそうですよね。",
+        "<b>日本・海外から見ると:</b> 「AI規制はアメリカが世界をリードする」って言ってた国が、AI企業に「お願いだから規制して」って哀願されてる。主客転倒どころか救急車が患者を呼んでる。"
       ],
       "imagePrompts": [
-        "A Pentagon briefing room with a large tactical map on the wall showing the moon with red and blue zones marked, military officers pointing at lunar craters with laser pointers",
-        "A giant 'HELP WANTED' military recruitment poster showing a soldier in full combat gear floating near the moon's surface, with a disclaimer at the bottom in tiny print",
-        "A crumbling highway overpass with a pothole-filled road, and in the background a billboard reading 'LUNAR DEFENSE: YEAR ONE'"
+        "An empty congressional chamber with 'URGENT: AI REGULATION' banners hanging from the ceiling, chairs all vacant, a tumbleweed rolling down the center aisle",
+        "A line of tech executives in suits holding 'PLEASE REGULATE US' signs outside the Capitol building, looking at a 'GONE CAMPAIGNING — BACK IN NOVEMBER' note taped to the locked door",
+        "A massive countdown clock labeled 'AI REGULATION DEADLINE' on the Capitol wall, with a congressional bus driving away in the foreground, luggage strapped to the roof"
       ],
       "captions": [
-        "We don't have a moon base. We don't have a moon road. We do have a moon combat strategy. That's the order we did things.",
-        "Soldiers preparing for lunar warfare — still waiting on the part where we figure out how to get there.",
-        "The Outer Space Treaty says no military on the moon. The general said it at a summit. With a microphone. In Washington.",
-        "Structurally deficient bridges: 42,000. Lunar battle plans: at least one. Guess which one got the press conference.",
-        "Imagine getting your deployment papers and the duty station just says 'near the moon (TBD).'"
+        "The AI companies are begging to be regulated and Congress said 'love the energy, we'll circle back after the election.'",
+        "OpenAI, Anthropic, xAI — all basically filed a formal request asking the government to tell them no. Congress didn't even do that.",
+        "Imagine showing up to your own intervention and the interventionist already left to go canvassing.",
+        "AI could end civilization as we know it, but the real deadline is the midterms.",
+        "They called it urgent. Then they called an Uber to the airport."
       ],
       "captionsJa": [
-        "月の基地もない。月への道もない。月の戦闘ドクトリンはある。この順番でやった。",
-        "月面戦争の準備をせよ、と言われた兵士たち。まず「どうやって行くか」から始める必要があるんですけど。",
-        "宇宙条約は月の軍事利用を制限してる。将軍はワシントンで、マイク持って、会議で言った。",
-        "老朽化した橋: 42,000本。月の防衛計画: 少なくとも1本。どっちが記者会見になったか。",
-        "辞令に「勤務地: 月軌道付近（詳細未定）」と書かれる日が来る。"
+        "AI企業が「規制してください」って頼んで、議会が「熱意は伝わった。選挙終わったら考える」。",
+        "OpenAI、Anthropic、xAIが政府に「ノーと言ってくれ」って正式に頼んでる。議会はそれすらしなかった。",
+        "自分の身を縛ってほしくて乗り込んだら、縛る係がもう帰ってたって話ですよ。",
+        "AIが文明を終わらせるかもしれない。でも本当の締め切りは中間選挙。",
+        "「緊急です」って言った。そのあとタクシーを呼んで空港に行った。"
       ],
-      "newsEn": "General Dan Caine, top military adviser to President Trump, said at a Washington summit that American troops need to prepare for combat not only in Earth's orbit but around the moon. The remarks came after the U.S. revealed it has deployed weapons in space, signaling a new frontier in military planning.",
+      "newsEn": "The U.S. House of Representatives recessed to allow members to return to their districts for midterm campaigning, even as AI companies including Anthropic, OpenAI, and xAI have been urgently lobbying for federal regulation. Despite the tech sector's unusually vocal calls for oversight, no significant AI legislation has advanced on Capitol Hill.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. still has bridges rated 'structurally deficient' by the thousands. But the lunar perimeter — that's locked in.",
-          "absurdity": "Troops are being asked to prepare for combat 'around the moon.' The moon is 238,900 miles away. That's a long commute even by D.C. standards.",
-          "outside": "Most countries are still negotiating whether to put a weather satellite up. The U.S. general is already drawing battle lines around a celestial body."
+          "contradiction": "The companies being asked to regulate themselves are the ones demanding Congress do it — and Congress is the one that left.",
+          "absurdity": "OpenAI and Anthropic lobbied for oversight so hard that 'please regulate us' became a tech industry talking point, and still nothing moved.",
+          "outside": "The world watches America declare AI an existential priority and then adjourn for campaign season. The robot apocalypse can wait until after November."
         },
         {
-          "contradiction": "The Outer Space Treaty technically limits military use of the moon. A top U.S. military adviser just publicly announced plans to ignore that at a conference.",
-          "absurdity": "We don't have a base on the moon. We don't have a road to the moon. But we do have a combat doctrine for the moon. Priorities.",
-          "outside": "Other nations competing in space are focused on mining and science. The Pentagon skipped straight to 'who controls the craters.'"
+          "contradiction": "Congress can't agree on AI rules, but it did agree that winning elections comes first.",
+          "absurdity": "The urgency was real enough for three major AI companies to beg for regulation — just not real enough for a vote.",
+          "outside": "In most policy debates, industries fight against regulation. Here they're chasing legislators down the hall asking for it, and the legislators are running away."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-17/candidate-2.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-17/candidate-2-punchy.jpg"
+      "image": "images/2026-09-18/candidate-2.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-18/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Trump Administration Plans Ideological Warning Labels for Smithsonian Museums",
-        "source": "NPR News",
-        "date": "2026-09-17",
-        "url": "https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs",
-        "summary": "トランプ政権の内務長官が、スミソニアン博物館に「イデオロギー的偏向」に対する警告表示を設置する計画を発表した。"
+        "headline": "Michigan High School Demands Girls Report Menstrual Cycles to Make Up Swim Class",
+        "source": "The Guardian US",
+        "date": "2026-09-18",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/michigan-school-period-policy",
+        "summary": "ミシガン州のある高校で、女子生徒が月経による水泳授業の欠席を補うには、月経周期の詳細を開示しなければならないという体育授業の方針が明らかになり、保護者から強い反発を受けている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 国立博物館の展示に「これはイデオロギー的に偏っています」という警告を貼るのは、政府がイデオロギーで展示を管理するという、まさにその行為そのものじゃないですか。",
-        "<b>滑稽さ:</b> 恐竜の骨の前に「この展示には進化論が含まれます」という警告が貼られる未来。子供たちへの説明が大変なことになる。",
-        "<b>日本・海外から見ると:</b> 国が運営する博物館に「この館は偏っています」と国自身が警告を出す国、というのは外から見るとかなりシュールな自己申告になってる。"
+        "<b>矛盾:</b> 「水泳できなかった理由を証明したければ身体の情報を出せ」って、補講の条件が医療プライバシーの開示なんですよ。授業を受ける権利を医療情報で買わせてる。",
+        "<b>滑稽さ:</b> 体育の先生が月経周期の記録係になってるわけじゃないですか。スイミングキャップより前に書類が要るって、どういう体育の授業ですか。",
+        "<b>日本・海外から見ると:</b> アメリカで「女性の身体の自律性」が政治の焦点になってるこのタイミングで、高校の体育が月経の申告制を導入してるのは、笑えない偶然ですよね。"
       ],
       "imagePrompts": [
-        "A grand museum hall with dinosaur skeleton on display, and a bright yellow warning placard on a stand in front of it reading 'IDEOLOGICAL CONTENT NOTICE' in bold text",
-        "An Interior Department official in a suit carefully affixing a warning sticker to a glass display case containing a moon rock, with a clipboard checklist in hand",
-        "A museum gift shop with a rack of postcards, each one now bearing a small 'BIAS WARNING' stamp in the corner"
+        "A school gymnasium pool with a sign reading 'MAKE-UP SWIM POLICY: MEDICAL DISCLOSURE REQUIRED', a stack of official-looking forms on a lifeguard chair",
+        "A gym teacher's desk covered in clipboards and charts labeled 'STUDENT HEALTH LOG', a lone swim cap sitting next to a tall pile of paperwork",
+        "A school hallway bulletin board with a 'GYM CLASS POLICY UPDATE' notice pinned next to a student privacy rights flyer, both printed on official school letterhead"
       ],
       "captions": [
-        "The government museum is warning you about the government museum. Brought to you by the government.",
-        "Coming soon: 'This dinosaur exhibit contains material inconsistent with some viewers' beliefs.' Next to the actual dinosaur bones.",
-        "A bias warning — selected, designed, and installed by the administration — is not a warning. It's a review.",
-        "They're putting ideological disclaimers on the Smithsonian. The Smithsonian. The place with the ruby slippers and the Wright Brothers plane.",
-        "Other museums have audio guides. Ours now comes with a warning label. Progress."
+        "You missed swim day, so just hand over your medical records. Very normal school policy.",
+        "Other schools send kids home with a permission slip. This one wants a menstrual report.",
+        "The make-up option technically exists. The make-up option also technically requires you to document your uterus.",
+        "Missing PE because of your period: fine. Proving it to a gym teacher with detailed cycle data: apparently the rule.",
+        "At this school, the swimming test is easy. It's the paperwork before the swimming test that'll drown you."
       ],
       "captionsJa": [
-        "政府の博物館が、政府の博物館について警告を出してる。提供: 政府。",
-        "近日公開:「この恐竜展示には、一部の方の信条と相容れない内容が含まれます」。本物の恐竜の骨の前に。",
-        "政権が選んで、政権が設置した「偏向警告」。それ、警告じゃなくて編集ですよね。",
-        "スミソニアンにイデオロギー警告を貼る。スミソニアン。ルビーの靴とライト兄弟の飛行機がある、あそこ。",
-        "他の博物館にはオーディオガイドがある。アメリカの博物館には注意書きが付いた。前進。"
+        "水泳を休んだら医療記録を提出してください。ごく普通の学校方針です。",
+        "他の学校は同意書を持って帰らせる。この学校は月経レポートを求める。",
+        "補講の選択肢はある。ただし子宮の情報を書類にする必要もある。",
+        "生理で体育を休む。それを体育教師に詳細なデータで証明する。それがルールらしいですよ。",
+        "水泳のテストは簡単。その前の書類提出で溺れる。"
       ],
-      "newsEn": "The Interior Secretary announced plans to place ideological warning signs inside Smithsonian Institution museums, stating the move is necessary to combat what the administration calls ideological bias in the exhibits. The Smithsonian is a federally funded institution that houses some of the nation's most prominent museums and research centers.",
+      "newsEn": "A Michigan high school is facing backlash after parents raised concerns about a gym class policy requiring female students to disclose details about their menstrual cycles in order to make up swimming days missed due to their periods. The policy has drawn scrutiny over student privacy and whether the requirement is appropriate or legal.",
       "ironyEn": [
         {
-          "contradiction": "The government is putting warning labels on a government museum to warn visitors about government influence on the government museum.",
-          "absurdity": "A sign that says 'this exhibit may contain bias' — placed there by the administration that chose which exhibits get the sign — is not a disclaimer. It's an edit.",
-          "outside": "Most countries put warning labels on cigarettes and extreme content. The U.S. is now putting them on natural history."
+          "contradiction": "The school created a make-up policy meant to accommodate students — and made the accommodation cost more than the absence.",
+          "absurdity": "Somewhere a gym teacher is now in possession of more menstrual cycle data than most gynecologists see in a week.",
+          "outside": "At a moment when American debates over bodily autonomy are at a peak, a high school PE department quietly built its own disclosure regime."
         },
         {
-          "contradiction": "The Smithsonian's whole job is to present knowledge. The warning signs' whole job is to cast doubt on that knowledge. Both are now federally funded.",
-          "absurdity": "Imagine a museum about the history of propaganda — and then someone puts a propaganda label on it. That's the bit.",
-          "outside": "International museum associations have standards for curatorial independence. American tourists will now enter the Air and Space Museum past a sign saying 'viewer discretion advised.'"
+          "contradiction": "Missing swim class because of your period is the problem. Reporting your period to fix it is apparently the solution.",
+          "absurdity": "The paperwork required to make up one swim class now involves medical details most adults wouldn't share with their boss.",
+          "outside": "In most schools, you bring a note from your parents to skip gym. Here you bring your cycle calendar."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-17/candidate-3.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-17/candidate-3-punchy.jpg"
+      "image": "images/2026-09-18/candidate-3.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-18/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "AI Data Center E-Waste Could Fill 23 Million Shipping Containers by 2050, Report Warns",
-        "source": "The Verge",
-        "date": "2026-09-17",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban",
-        "summary": "新たな報告書によると、AIブームによる電子廃棄物は大幅に過小評価されており、2050年までに2300万個のコンテナを満たす量に達する可能性があるという。"
+        "headline": "Trump Officials Redefine 'Harm' So Endangered Species Can Be Harmed Legally",
+        "source": "The Guardian US",
+        "date": "2026-09-18",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials",
+        "summary": "トランプ政権の魚類野生生物局が、絶滅危惧種法における「捕獲（take）」の定義を変更するメモを発行し、1,600種以上の危機的な動植物への連邦保護が弱まる可能性があると報じられている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 地球環境を守るAIソリューションを動かすために、地球を6周するゴミの山を作っている。ソリューションの副作用がソリューション本体より大きくなりつつある。",
-        "<b>滑稽さ:</b> 「AIで効率化」と言いながら2050年に捨てられる部品の量が地球を6周。効率化の結果がこれなら、非効率な方がマシだったのでは。",
-        "<b>日本・海外から見ると:</b> 電子廃棄物の多くは途上国に流れる。AIで豊かになる国と、そのゴミを処理する国が違う、という構図はすでに始まっている。"
+        "<b>矛盾:</b> 絶滅危惧種保護法の保護を弱めるのに「法律を変えず解釈を変える」手法を使ってるんですよ。守るための法律の「守る」の定義を変えて守らないようにする、って文章にすると頭が痛くなる。",
+        "<b>滑稽さ:</b> 「ハームの定義を書き換えれば、ハームしてないことになる」って、言葉遊びで1973年の法律を50年ぶりに無力化しようとしてるわけですよ。動物には弁護士いないから黙ってるしかない。",
+        "<b>日本・海外から見ると:</b> アメリカが50年前に世界に誇った環境法の看板を、解釈変更というガムテープで塞いでる。看板はまだある。法律もまだある。保護がなくなる。"
       ],
       "imagePrompts": [
-        "An aerial view of a massive data center campus surrounded by an ever-growing mountain of discarded server racks and circuit boards spilling into the surrounding fields",
-        "A glossy tech conference stage with a presenter pointing to a slide showing a clean-energy AI logo, while through the floor-to-ceiling windows behind him an enormous junkyard of electronic components is visible",
-        "A long line of shipping containers stretching to the horizon labeled 'AI PROGRESS 2050,' with a small Earth globe visible at the far end of the line"
+        "A Fish and Wildlife Service office desk with a thick government memo on top, a red pen crossing out the word 'harm' and replacing it with a smaller, lighter word, a list of 1,600 species names in the background",
+        "A 1973-dated Endangered Species Act document in a frame on a wall, with a sticky note attached reading 'DEFINITION UPDATE — see attached memo', a filing cabinet labeled 'REINTERPRETATIONS' open below it",
+        "An empty wildlife habitat with yellow survey stakes and industrial planning documents on a folding table, a framed copy of the Endangered Species Act propped up against the table leg"
       ],
       "captions": [
-        "AI will save the planet. The hardware doing the saving will generate enough waste to circle the planet six times. Details.",
-        "Twenty-three million shipping containers of e-waste. That's the number they published. They stopped there because it was already embarrassing.",
-        "The servers are in Virginia. The e-waste is going to Ghana. The press releases are calling it 'sustainable.'",
-        "We're solving climate change with machines that will produce more trash than any previous technology in human history. The word for that is 'efficiency.'",
-        "Efficiency gains from AI: measurable. Shipping containers of AI trash by 2050: also measurable. Someone measured the wrong thing first."
+        "The Endangered Species Act is intact. The definition of the word 'harm' inside it — not so much.",
+        "If you redefine 'harm,' technically you're not harming anything. Checkmate, 1,600 species.",
+        "The Fish and Wildlife Service issued a memo. The wildlife did not receive a copy.",
+        "Fifty years of environmental law, still standing. The definition of the word 'take' — gone.",
+        "The species are still protected. The agency just updated what 'protected' covers."
       ],
       "captionsJa": [
-        "AIが地球を救う。その機械が出すゴミは地球を6周する量になる。細かい話ですが。",
-        "2300万個のコンテナ分のゴミ。それが公表された数字で、研究者たちはそこで止めた。もう十分恥ずかしかったから。",
-        "サーバーはバージニアにある。電子廃棄物はガーナに行く。プレスリリースは「サステナブル」と言っている。",
-        "気候変動を解決するための機械が、人類史上最大規模のゴミを出している。その言葉が「効率化」です。",
-        "AIの効率化: 測定済み。2050年のAIゴミのコンテナ数: こっちも測定済み。最初に測るものを間違えた。"
+        "絶滅危惧種保護法は無傷。その中の「ハーム」という単語の定義だけ、きれいに抜けた。",
+        "「ハーム」を再定義すれば、技術的にはハームしてないことになる。チェックメイト、1600種。",
+        "魚類野生生物局がメモを出した。野生動物にはコピーが届かなかった。",
+        "50年の環境法、まだ生きてる。「捕獲」という単語の定義、消えた。",
+        "動物たちはまだ保護されています。「保護」が何を意味するかを更新しました。"
       ],
-      "newsEn": "A new report warns that e-waste generated by the AI industry has been vastly underestimated. By 2050, discarded hardware from AI data centers could fill approximately 23 million shipping containers — enough 40-foot containers to circle the Earth six times if lined up end to end. The figure represents a significantly higher estimate than previous projections.",
+      "newsEn": "The U.S. Fish and Wildlife Service issued an internal memo proposing to reinterpret the definition of 'take' under the Endangered Species Act of 1973, a change that could strip further federal protections from more than 1,600 critically imperiled species. The reinterpretation would narrow what counts as harm to a protected species, making it easier for development and industrial activity to proceed in their habitats.",
       "ironyEn": [
         {
-          "contradiction": "AI is being sold as the solution to climate modeling, resource optimization, and environmental monitoring. The hardware running that AI will generate enough trash to circle the planet six times.",
-          "absurdity": "Twenty-three million shipping containers of discarded chips and servers — and that's the optimistic number. The pessimistic one wasn't published because the researchers ran out of metaphors.",
-          "outside": "The e-waste mostly ends up in countries that didn't build the AI and won't profit from it. The servers are American. The scrap heap is global."
+          "contradiction": "The Endangered Species Act still exists on paper. The administration is just rewriting what the word 'harm' means so the act no longer does what it was designed to do.",
+          "absurdity": "Over 1,600 species are now protected by a law whose key definition is being edited by the agency responsible for enforcing it.",
+          "outside": "America passed the Endangered Species Act in 1973 and told the world it meant business. Fifty years later, it's still on the books — they just changed what the words mean."
         },
         {
-          "contradiction": "Tech companies are racing to build 'sustainable AI.' The report says the waste from existing plans already blows past every sustainability target on the books.",
-          "absurdity": "Lining up the projected waste containers would circle the Earth six times. That is a worse environmental outcome than most of the problems AI claims it will fix.",
-          "outside": "European regulators are already asking hard questions about AI's carbon footprint. In the U.S., the answer so far has been to build more data centers."
+          "contradiction": "The Fish and Wildlife Service is supposed to protect wildlife. It issued a memo making it easier to harm wildlife. That's the whole story.",
+          "absurdity": "The legal definition of 'take' in wildlife law is being narrowed so that more things you do to an endangered animal don't count as doing things to an endangered animal.",
+          "outside": "In international conservation circles, the U.S. used to be the model. Now the model is: keep the law, delete the protection, claim nothing changed."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-17/candidate-4.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-17/candidate-4-punchy.jpg"
+      "image": "images/2026-09-18/candidate-4.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-18/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Virginia Fines Microsoft Data Center for Emissions Violations — Microsoft to Invest $2.4M in the Same County",
-        "source": "CBS News US",
-        "date": "2026-09-17",
-        "url": "https://www.cbsnews.com/news/virginia-data-centers-microsoft-fine-loudoun-county/",
-        "summary": "バージニア州がMicrosoftのデータセンターに排出規制違反で制裁金を科し、和解の一環としてMicrosoftは同じラウドン郡の環境プロジェクトに240万ドルを投資することに合意した。"
+        "headline": "White House Withdraws Its Own ICE Nominee, Leaving Agency Leaderless — Again",
+        "source": "The Guardian US",
+        "date": "2026-09-18",
+        "url": "https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn",
+        "summary": "ホワイトハウスは、オクラホマ州の元州警察官ランス・シュロイアーのICE長官指名を取り下げた。ICEの経験がないとして批判を受けており、上院での承認も行き詰まっていた。これにより、トランプ政権の移民政策の最前線機関は引き続き上院承認の長官不在となる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 違反した場所と同じ場所に「お詫びの環境投資」をする。汚した川で禊をするような話で、場所の選択が自白になっている。",
-        "<b>滑稽さ:</b> 罰金を払ったのか、PR費を払ったのか、もはや区別がつかない。240万ドルで「環境への貢献企業」に変わる速度が早すぎる。",
-        "<b>日本・海外から見ると:</b> 日本では規制違反の企業が「地域貢献」で印象を回復するのはよくある話。アメリカでも同じ構図が成立するという、グローバルスタンダードの確認。"
+        "<b>矛盾:</b> 移民政策を「最優先」と言いながら、その執行機関のトップに上院承認を受けた人間がいない状態が続いてるんですよ。「俺がやる」と言って担当者を決めない上司、どこにでもいますよね。",
+        "<b>滑稽さ:</b> ICE未経験の元州警察官を指名して、批判されて取り下げて、またゼロから。これ採用活動じゃなくて「ICE長官候補の使い捨て」ですよ。",
+        "<b>日本・海外から見ると:</b> トランプ政権がいちばん声高に叫ぶ移民強硬路線の実行部隊が、ずっとトップ不在。看板だけでかい工事現場みたい。"
       ],
       "imagePrompts": [
-        "A large data center building with faint smoke rising from vents, and directly next to it a shiny new park bench with a plaque reading 'Gift from Microsoft' in the same frame",
-        "A formal signing ceremony at a county office desk, one official holding a violation notice and another holding an oversized novelty check, both smiling",
-        "A corporate sustainability report cover featuring a green leaf logo, with a small data center visible in the background partially obscured by the leaf"
+        "An ICE director's office with a large leather chair behind an empty desk, a name placard holder with no name in it, a stack of withdrawn nomination paperwork in the corner",
+        "A whiteboard labeled 'ICE DIRECTOR CANDIDATES' with a long list of names all crossed out with red marker, one blank line remaining at the bottom",
+        "A government organization chart with the top box labeled 'ICE DIRECTOR' filled in with a large question mark, all the boxes below it fully filled in with names and titles"
       ],
       "captions": [
-        "You violated emissions rules in Loudoun County. The fine is: give money to Loudoun County. The county is doing great.",
-        "Two-point-four million dollars. Microsoft makes that before the first coffee break on a Tuesday.",
-        "They went from 'emissions violator' to 'community environmental partner' in one settlement. One document. One morning.",
-        "The data center that broke the rules is still running. The penalty is a park bench somewhere nearby, probably.",
-        "Virginia fined Microsoft for polluting. Microsoft paid. Into the same zip code. Everyone called it a win."
+        "ICE is Trump's top enforcement priority. ICE has no confirmed director. Both things are true.",
+        "They nominated a state trooper from Oklahoma to run ICE. He'd never worked at ICE. It didn't work out.",
+        "The drawing board is still there. At this point it's just a board.",
+        "The agency enforcing America's toughest immigration crackdown has been running leaderless. Fine. Everything's fine.",
+        "Job posting: ICE Director. Requirements: law enforcement experience of some kind, probably. Apply within."
       ],
       "captionsJa": [
-        "ラウドン郡で排出規制を破った。罰金の使い道: ラウドン郡に渡す。郡は絶好調。",
-        "240万ドル。Microsoftが火曜日の最初のコーヒー休憩前に稼ぐ額です。",
-        "「違反企業」から「地域の環境パートナー」へ、和解一枚で完了。書類一枚。午前中の話。",
-        "規則を破ったデータセンターは稼働中。罰金でどこかに公園のベンチができる、たぶん。",
-        "バージニアがMicrosoftを罰金処分。Microsoftが払った。同じ郵便番号に。全員がこれを「成果」と呼んだ。"
+        "ICEはトランプ最優先の執行機関。ICEに承認された長官はいない。両方ほんとの話。",
+        "ICE未経験のオクラホマ州警察官をICE長官に指名した。うまくいかなかった。",
+        "また振り出しに戻る。この政権の振り出し、もう「戻る場所」というより「定位置」ですよ。",
+        "アメリカ最強の移民取締機関がずっとトップ不在で動いてる。大丈夫。全部大丈夫。",
+        "求人：ICE長官。必要条件：なんらかの法執行経験、たぶん。ご応募お待ちしています。"
       ],
-      "newsEn": "Virginia regulators fined a Microsoft data center for emissions violations. As part of the settlement, Microsoft agreed to invest $2.4 million toward an environmental project in Loudoun County — the same county where the offending data center is located. The settlement did not require Microsoft to shut down or relocate the facility.",
+      "newsEn": "The White House withdrew its nomination of Lance Schroyer, a former Oklahoma state trooper with no formal ICE experience, to lead Immigration and Customs Enforcement. Critics had questioned his qualifications for the role. The withdrawal ensures that ICE, the agency central to Trump's immigration agenda, will continue operating without a Senate-confirmed director.",
       "ironyEn": [
         {
-          "contradiction": "Microsoft violated emissions rules at a data center in Loudoun County. The penalty is: give $2.4 million to Loudoun County. The location of the crime and the location of the goodwill project are identical.",
-          "absurdity": "The fine is smaller than Microsoft's rounding error on a quarterly earnings report. But the press release about the environmental investment is already written.",
-          "outside": "European regulators have been pushing for actual operational changes after emissions violations. Virginia's solution is a check written back to the neighborhood. Both are called 'settlement.'"
+          "contradiction": "ICE is described as the frontline agency of Trump's top domestic priority. It doesn't have a confirmed director. These two facts coexist peacefully.",
+          "absurdity": "The nominee was a state trooper from Oklahoma with zero ICE experience. The White House nominated him anyway, got pushback, and now it's back to square one.",
+          "outside": "Watching from abroad, America's most high-profile enforcement agency operates without confirmed leadership while the president tweets about a border crisis. The crisis is real. The org chart is optional."
         },
         {
-          "contradiction": "The data center that violated environmental rules will keep running. The 'penalty' is a local investment that Microsoft will likely tout in its next sustainability report.",
-          "absurdity": "$2.4 million sounds significant until you remember this is the company that spent $69 billion buying Activision. That's like paying for a parking ticket with a gift to the parking lot.",
-          "outside": "Countries with stricter environmental enforcement are watching the U.S. tech sector negotiate its way from 'violator' to 'community partner' in a single press release."
+          "contradiction": "The administration that campaigns hardest on immigration enforcement can't staff the immigration enforcement agency.",
+          "absurdity": "A former state trooper was almost in charge of a federal agency he'd never worked at. Almost.",
+          "outside": "In most bureaucracies, you need relevant experience to run a major law enforcement agency. Here the job posting apparently just said 'law enforcement, any kind.'"
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-17/candidate-5.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-17/candidate-5-punchy.jpg"
+      "image": "images/2026-09-18/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-18/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「ルールを破った側が、そのルールの番人になっている」こと。FRBの独立性、宇宙条約、博物館の中立性、環境規制——どれも、守るはずの人間が一番楽しそうに踏み越えている。",
-    "titleEn": "Rules Are for People Who Can't Make New Rules",
-    "subtitleEn": "The Fed, the moon, a museum warning label, and Microsoft's world-record apology.",
-    "titleJa": "FRBに「1%にしろ」、月で戦争準備、博物館に警告ラベル——ルールって誰のためにあるんでしたっけ",
+    "thread": "今日の5本を貫く糸は「名前と実態のズレ」。建物に名前を刻めなければ壊す、規制を求める側が企業で求められる側が帰宅、法律はそのままで保護だけ消える——看板と中身が別物になった国の話が5本続く。",
+    "titleEn": "Rules Are for People Who Can't Redefine Rules",
+    "subtitleEn": "Five stories where the label stayed, the contents changed, and nobody warned the animals.",
+    "titleJa": "「ルールはそのまま」「保護だけなくなる」——アメリカ、今日も看板と中身が別々に生きている",
     "titleAltJa": [
-      "2050年にAIのゴミが地球を6周する話と、それより先に月で戦争する話",
-      "「違反した場所に240万ドル寄付しました」でお詫びが完了するアメリカの話"
+      "ケネディセンター解体30日前通知・AI規制なし・月経申告必須・絶滅危惧種の定義変更・ICE長官また不在——今日のアメリカ、全部ズレてた",
+      "「規制してください」とAI企業が頼んでいるのに議員は帰宅した話と、その他4本"
     ],
-    "leadJa": "ルールを破った人が罰を決め、ゴミを出した人が環境賞をもらい、政府の博物館に「この博物館は偏っています（政府より）」という貼り紙がつく。\n\n今日はそういう5本です。",
-    "introEn": "Five stories today. One pattern.\n\nSomebody made a rule. Then the person who was supposed to follow it decided they'd rather write a new one. The Fed exists to be independent — so naturally there's a demand it isn't. The Outer Space Treaty limits military activity on the moon — so naturally there's a general at a microphone saying otherwise. A museum is accused of bias — so the government installs its own bias, as a correction.\n\nAlso: AI e-waste that will circle the Earth six times by 2050, and Microsoft turning an emissions fine into a PR opportunity before the ink dried.\n\nHere's your forecast. If you've been playing by rules that nobody else seems to follow, today's news confirms you're not imagining it. The rules are real. They just aren't distributed evenly. That's not on you. Go get your coffee.",
-    "introJa": "FRBが利上げしました。\nトランプ大統領が「1%にしろ」と言いました。\nその翌日の話です。\n\nで、他も見てみると——月周辺での戦闘準備が必要らしく、国立博物館に「偏ってます」という政府の貼り紙がつき、AIのゴミが2050年に地球を6周し、Microsoftは違反した場所に寄付して「環境貢献企業」になっていた。\n\n今日の5本を貫く糸は、たぶんこれです。ルールを作った側が、そのルールを一番楽しそうに踏み越えている。\n\n——今日の占いです。\n\n①「FRBが独立機関である日」が続く: あなたが粘り強く正論を言い続けている場所では、今日も正論が通ります。②月軌道あたりで異動の打診がある: でも給与交渉の余地があります。③博物館の恐竜の前で気づく: ルールが書いてあっても、読む人を選ぶらしい。④2050年より先を見る目が開ける: ゴミになる前に手放せるものがある。⑤240万ドルより安く、あなたの評判を回復する方法が見つかる: 少なくともMicrosoftよりはマシなやり方で。\n\n「なんで私だけルール守ってるんだろう」と思っていることがあるなら、それは気のせいじゃない。今日の5本が証拠です。ルールは実在する。ただ、全員に平等には配られていない。あなたのせいじゃないので。",
-    "quipEn": "The Fed is independent. The moon is neutral. The museum is unbiased. Microsoft is green. Anyway, none of that was true today.",
-    "quipJa": "FRBは独立、月は中立、博物館は公平、Microsoftは環境貢献。今日は全部、同じ日に崩れました。",
+    "leadJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n「絶滅危惧種を保護する法律」はある。「保護の定義」を書き換えた、というニュースです。法律は生きてる。保護だけ死んだ。今日はそういう5本です。",
+    "introEn": "The law is still there. The protection just left the building.\n\nToday's five stories are all running the same trick: keep the sign, change what's inside. A concert hall has 30 days before it might be demolished — not because the government repealed anything, but because someone can't get his name on the wall. AI companies are begging Congress for rules, and Congress went home to campaign. A high school in Michigan found a creative way to make girls earn back swim class. A 1973 environmental law got quietly hollowed out by memo. And the agency that's supposed to run Trump's signature immigration policy still has no confirmed director.\n\nFive stories, one move: rename the box, remove the contents, act confused when someone notices.\n\nYour forecast: if you've ever felt like you're doing the right thing and somehow still getting it wrong — welcome. You're not the one redefining harm. That's already somebody else's job today.",
+    "introJa": "「絶滅危惧種保護法」はまだある。\n\n法律の名前も、条文も、1973年のままそこにある。ただ「ハームの定義」が変わった。だから保護されない、と。\n\n今日の5本、全部これと同じ構造をしていたんですよ。看板だけ残して、中身をそっと入れ替える。ケネディセンターには「取り壊し30日前通知」という謎の猶予が生まれ、AIを規制してほしいと頼んでいるのはAI企業で、頼まれている側の議員は選挙運動のために帰宅中です。\n\nあ、そういえば今日のラインナップ、「最優先政策の担当機関トップ不在」というのもある。\n\n今日の占いです。あなたが「なんかうまくいかないな」と思っていることがあるとしたら、定義を書き換えたのはあなたじゃない。それだけで、今日はだいぶまともな側にいますよ。",
+    "quipEn": "Today's theme: the rules stayed the same, someone just redefined 'rules.' Sleep tight.",
+    "quipJa": "法律はそのまま。「法律」の意味だけ変わってた。おやすみなさい。",
     "notesEn": [
-      "The Federal Reserve raised rates to fight inflation. Trump immediately said rates should be 1%. His argument: the economy is doing great. Their argument: it isn't. Both sides concluded rates should move. Different directions.",
-      "A top U.S. general said troops need to prepare for combat around the moon. We don't have a moon base. We don't have a moon road. We do have a moon combat strategy. That's the sequence we chose.",
-      "The Interior Secretary announced ideological warning labels for Smithsonian museums — to combat bias in government-funded exhibits. The warnings will be selected, worded, and installed by the government. I see no issue.",
-      "New report: AI data center e-waste could fill 23 million shipping containers by 2050 — enough to circle the Earth six times. The press releases describing this technology as 'sustainable' have not been updated.",
-      "Virginia fined a Microsoft data center for emissions violations. Settlement terms: Microsoft invests $2.4 million in an environmental project in the same county. They went from violator to community partner in one document. Fastest rebrand since BP's sunflower logo."
+      "A federal judge told the Trump administration: sure, you can threaten to demolish the Kennedy Center, but give us 30 days' notice first. Somewhere there's a government employee whose entire job is now counting down a concert hall's expiration date.",
+      "AI companies — Anthropic, OpenAI, xAI — are formally begging Congress to regulate them. Congress recessed to go campaign. The people asking to be told 'no' are more organized than the people who are supposed to say it.",
+      "A Michigan high school has a policy: if you missed swim class because of your period, you can make it up — you just need to document your menstrual cycle first. The make-up option exists. The make-up option has a medical records requirement.",
+      "The Fish and Wildlife Service issued a memo redefining what counts as 'harm' under the Endangered Species Act. The Act still exists. The 1,600 species it was protecting are still critically imperiled. The memo just changed the meaning of the word between them.",
+      "The White House withdrew its ICE director nominee — a former Oklahoma state trooper with no ICE experience — after it became clear the Senate wouldn't confirm him. ICE, Trump's top immigration enforcement tool, remains without a Senate-confirmed director. The 'top priority' label is still up."
     ],
     "xJa": [
-      "FRBが「インフレ対策で利上げします」と全会一致で決定。翌日トランプ氏が「1%にしろ」。うまくいってるから下げろ、うまくいってないから下げろ、どっちでも下げろになる仕組みになってる。",
-      "米軍トップ顧問「月周辺での戦闘に備えよ」。地球上の橋は老朽化してるけど、月の制空権は確保する方向で。徴兵通知の「勤務地」欄が楽しいことになりそう。",
-      "スミソニアン博物館に「イデオロギー的偏向の警告ラベル」を貼る計画、発表者は政府。政府が「この政府施設は偏ってます」と警告を出す。外から見るとかなりシュールな自己申告です。",
-      "AIデータセンターの電子廃棄物、2050年までに地球を6周分。「AIで地球を救う」と言いながら、地球を6回巻けるゴミを出す。ソリューションの副作用がソリューション本体を追い越した。",
-      "バージニア州がMicrosoftのデータセンターに排出規制違反で罰金。和解の内容：同じ郡に240万ドルを環境投資。汚した川で禊をして「地域貢献」になる速度、早すぎません?"
+      "「名前を建物に彫れないなら取り壊す」という判断をした人がいて、連邦判事が「壊すなら30日前に言いなさい」と命令した。ケネディセンター、今日から30日の猶予つきで存在している。",
+      "Anthropic・OpenAI・xAIが「規制してください」と議会にロビー中。議員は「選挙があるので」と帰宅した。規制される側のほうが本気で仕事してる。",
+      "ミシガンの高校、水泳の補講を受けるには月経周期の詳細開示が必要という方針が判明。授業を受ける権利の対価が医療プライバシーの開示だった。",
+      "絶滅危惧種保護法（1973年）はある。「ハームの定義」だけ変えた。法律が守るはずの1,600種は今も絶滅危機にある。変わったのは定義だけ。",
+      "ICEはトランプ政権の最重要執行機関。上院承認の長官はいない。今日また指名が撤回された。「最優先」と「トップ不在」が今日も並んで立っている。"
     ],
     "raidEn": [
-      "The Fed voted unanimously for the hike. One person didn't vote but does have thoughts, apparently at volume.",
-      "Lunar combat strategy before a moon road. That's the order they went with.",
-      "A bias warning — chosen, written, and placed by the administration — is not a warning. It's an exhibit.",
-      "Twenty-three million shipping containers. They published that number and the press releases still say 'sustainable.'",
-      "From emissions violator to environmental community partner in one settlement. That's not a rebrand, that's a speed run."
+      "The 30-day notice requirement is doing a lot of heavy lifting for American cultural preservation right now. Great breakdown of how we got here.",
+      "The 'regulated party lobbies harder for regulation than the regulator' angle is something I keep coming back to. You laid it out really clearly.",
+      "What gets me is that the make-up option technically exists — it's just priced at your medical privacy. Good on you for covering this one.",
+      "The memo kept the law, removed the protection, and left the sign. Your post made that crystal clear in a way the original reporting didn't quite land for me.",
+      "The part that stays with me: the agency central to the administration's biggest policy priority has no confirmed leader. You framed that perfectly."
     ],
     "raidJa": [
-      "「経済がうまくいってるから金利を下げろ」という論理、うまくいってなくても下げろになるので、どっちでも同じ結論になるんですよね。この記事、そこが一番面白かったです。",
-      "「月周辺での戦闘準備」という言葉、将軍がマイクの前で言ったんですよね。宇宙条約との整合性を誰かが質問したかどうかが気になりました。",
-      "政府が「この政府の施設は偏ってます」と警告を貼る、という構造、記事を読んで二度見しました。よく書いてくださいました。",
-      "地球を6周分のゴミという数字、初めてちゃんと見たかもしれません。「過小評価されてきた」という部分が一番重くて、読後もずっと残ってます。",
-      "「違反した場所に投資して和解」という構図、日本でも似たことあるよなと思いながら読みました。グローバルスタンダードですね、良くない意味で。"
+      "「名前を入れられないなら壊す」という発想の経路が怖くて、記事読み返してしまいました。わかりやすくまとめてくださってありがとうございます。",
+      "「規制してほしい側」と「規制する側」が入れ替わってる構図、この記事で初めてちゃんと理解できました。鋭い視点だと思います。",
+      "補講の条件が医療情報の開示、というところで止まってしまいました。取り上げてくださってよかったです。",
+      "法律はそのまま・定義だけ変える、という手法の怖さをこの記事で改めて実感しました。丁寧な解説に感謝です。",
+      "「最優先政策の執行機関にトップがいない」という事実、この記事で整理されてやっと頭に入りました。ありがとうございます。"
     ],
     "riffEn": [
-      "The Federal Reserve exists for one reason: to make monetary decisions without a president on the phone. That's the whole design. Wednesday they raised rates 0.25 points — unanimous vote, first hike since 2023, citing inflation. Thursday, Trump said rates should be 1% or lower. His reasoning: the economy is doing great. Which is an interesting argument, because the Fed raised rates specifically because the economy is running too hot. So the evidence for 'lower rates' and the evidence for 'raise rates' turned out to be the same economy. He also threatened to cut trade with countries that run surpluses with the U.S. if the Fed didn't listen. The Fed hiked. That's a lot of balls now in a lot of courts.",
-      "General Dan Caine, top military adviser to President Trump, told a Washington summit that U.S. troops need to prepare for combat around the moon. Not on Earth orbit — around the moon. The U.S. has also confirmed it has deployed weapons in space. Here's what I keep coming back to: there's no moon base. There's no regular transit to the moon. The last time humans were near the moon was 1972. But there is now a combat strategy for the area. We skipped several steps — the road, the base, the reason to be there — and went straight to the battle plan. The Outer Space Treaty restricts military use of the moon. The general said this at a summit. With a microphone. In Washington. Apparently that's fine.",
-      "Interior Secretary Doug Burgum announced that Smithsonian museums will receive ideological warning labels — signs alerting visitors to what the administration considers bias in the exhibits. The Smithsonian is federally funded, which means it is a government museum. The warning labels will be designed and installed by the government. To warn you about the government museum. The circularity is so clean I almost respect it. What gets me is the mechanism: if an exhibit is biased, the correction is a label chosen by people who disagree with the exhibit. That label then becomes the official government interpretation displayed inside the museum. It's not a warning. It's a replacement exhibit, mounted next to the original.",
-      "A new report says the AI industry's e-waste has been significantly underestimated. By 2050, discarded hardware from data centers could fill 23 million shipping containers — enough 40-foot containers, lined end to end, to circle the Earth six times. The previous estimates were lower. Meaning the industry knew there was a waste problem, estimated it, and was still off by a multiple. The servers doing the work are in places like Virginia and Texas. The report notes that e-waste tends to travel to different countries than the ones that generated it. The press materials for these data centers continue to use the word 'sustainable.' No corrections have been issued.",
-      "Virginia regulators fined a Microsoft data center for emissions violations. Under the settlement, Microsoft agreed to invest $2.4 million in an environmental project — in Loudoun County, Virginia, which is the same county where the offending data center operates. The facility does not have to close. The facility does not have to move. The county gets $2.4 million for an environmental project, and Microsoft gets to describe itself as an environmental contributor in Loudoun County. Microsoft's annual revenue is around $245 billion. Two-point-four million dollars is what they make before most people's first coffee break on a given Tuesday. They went from 'emissions violator' to 'environmental community partner' in one document. I've seen rebrands take longer."
+      "The Kennedy Center situation has reached a very specific phase: a federal judge has now issued an order requiring 30 days' notice before any demolition. Which means someone in Washington is maintaining an active countdown for a concert hall. The building's crime is that it won't take his name. The proposed sentence is demolition. A forklift already hit the pillars before any of this was authorized — because apparently this administration treats paperwork as optional. Thirty days. That's what stands between the Kennedy Center and a guy who couldn't get his name on the wall.",
+      "The tech companies most associated with AI — Anthropic, OpenAI, xAI — have been lobbying Congress for regulation. Not against it. For it. They showed up, made their case, and the House recessed so members could go campaign for midterms. The entities asking to be governed are better organized than the entity that is supposed to govern. I don't know what you call that. I don't think there's a civics term for it.",
+      "A Michigan high school has a policy for girls who miss swim class due to their period: you can make up the class, but you need to document your menstrual cycle. The option exists. The option has a price. Other schools send home a permission slip. This one wants a record of your uterus. The gym teacher is now, functionally, a medical records custodian. Nobody seems to have asked whether that's what gym teachers are for.",
+      "The Fish and Wildlife Service didn't repeal the Endangered Species Act. They issued a memo. The memo proposes a narrower reading of the word 'take' — what counts as harming a protected species. The law from 1973 is still on the books. The protections it was designed to provide are quietly leaving through the back. There are 1,600 critically imperiled species that did not receive a copy of the memo.",
+      "The White House nominated Lance Schroyer — former Oklahoma state trooper, no ICE experience — to lead Immigration and Customs Enforcement. Critics noted the experience gap. The Senate was not going to confirm him. The White House withdrew the nomination. ICE, which the administration calls its central immigration enforcement tool, continues without a Senate-confirmed director. This is not the first time. The 'top priority' label remains. The top position does not."
     ],
     "riffJa": [
-      "連邦準備制度理事会というのは、要するに「大統領が電話してきても金利を自分たちで決める」ために作られた機関です。それが設計の全部。水曜日、FRBは0.25ポイントの利上げを全会一致で決定した。2023年以来初、理由はインフレ持続。翌日、トランプ大統領は「1%以下にしろ」と要求しました。\n\n根拠は「経済がうまくいってるから」。ただ、FRBが利上げした理由も「経済が過熱しているから」です。つまり、「下げろ」の証拠と「上げろ」の証拠が同じ経済を指している。どっちに転んでも、結論は「1%」になる仕組みになってる。あと、FRBが言うことを聞かなければ対米黒字国との貿易を断つとも言っていました。FRBは利上げしました。",
-      "トランプ大統領の最高軍事顧問、ダン・ケイン将軍がワシントンのサミットで言いました。「米軍は月周辺での戦闘に備える必要がある」。地球軌道ではなく、月の周辺で、です。\n\n月に基地はない。月への定期便もない。人類が最後に月の近くにいたのは1972年です。でも戦闘計画はある。道も、拠点も、行く理由も飛ばして、戦略だけが先に完成しました。宇宙条約は月の軍事利用を制限しています。将軍はこれをサミットで、マイクを持って、ワシントンで言いました。それが今の状況です。",
-      "内務長官が発表しました。スミソニアン博物館の展示に「イデオロギー的偏向への警告ラベル」を設置する、と。スミソニアンは連邦政府の資金で運営される国立博物館です。警告ラベルを設計・設置するのも、政府です。\n\n「この政府施設には偏向があります」と、政府が警告する。なかなかの円環です。仕組みをよく見ると——展示が偏っていると判断した人たちが、その隣に「正解」を貼る。それは警告ではなく、もう一個の展示です。恐竜の骨の隣に、恐竜の骨についての政府見解が並ぶ未来が来ました。",
-      "新しい報告書が出て、AIデータセンターの電子廃棄物は「大幅に過小評価されてきた」とわかりました。2050年までに廃棄されるハードウェアは、40フィートコンテナ2300万個分。端から端まで並べると地球を6周します。\n\n「過小評価されてきた」という部分が重い。業界はゴミ問題を認識していて、試算していて、それでも実態より低かった。バージニアやテキサスのサーバーが処理の側で、廃棄物が届く先は別の国々です。これらのデータセンターのプレスリリースには「サステナブル」という言葉が引き続き使われています。訂正は出ていません。",
-      "バージニア州がMicrosoftのデータセンターに排出規制違反で罰金を科しました。和解の内容はこうです。Microsoftは240万ドルを環境プロジェクトに投資する。場所は、違反したデータセンターがあるラウドン郡。同じ郡です。施設は閉鎖しない。移転もしない。\n\nMicrosoftの年間売上は約2450億ドル。240万ドルは、火曜の朝一番のコーヒーが冷める前に稼ぐ金額です。それで「ラウドン郡の環境貢献企業」に変わりました。書類一枚で。BP がひまわりロゴに変えた速度より早い。"
+      "ケネディセンターの現状を整理すると、「自分の名前を入れられないから壊す」という判断に対して、連邦判事が「壊すなら30日前に言いなさい」と命令した段階にある。つまりアメリカの国家的文化施設に、今、取り壊し予告の猶予期間が設定されている。フォークリフトはすでに柱にぶつかっているらしい。承認前に。\n\n名前が刻めないから壊す。フォークリフトは書類を待たない。順番、いつもこれ。",
+      "Anthropic・OpenAI・xAIが議会に求めていたのは規制の撤廃ではなく、規制の導入です。「私たちを縛ってください」と言いに行ったわけですよ。で、議員たちは中間選挙の選挙運動のために帰宅した。縛られる側のほうが本気でロビー活動して、縛る側は不在。「救急車が患者に来てもらいに行った」話です。それだけ。",
+      "ミシガンの高校の話、構造だけ抜き出すとこうなります。女子生徒が月経で水泳を休む→補講を受けたければ月経周期の詳細を開示する→開示しなければ補講なし。授業を受ける権利の対価が医療情報の開示。体育の先生が月経の記録係になっている。スイミングキャップより先に書類が要る、って、どういう体育の授業ですか。",
+      "絶滅危惧種保護法（1973年）は廃止されていない。魚類野生生物局がメモを一枚出した。メモは「ハーム（害）の定義」を変更するというもので、開発行為が保護種の生息地に与える影響を「ハーム」と見なしにくくする方向に動く。法律はある。条文もある。「ハーム」という言葉の意味だけ変わった。\n\n1,600種の動植物はメモを受け取っていない。",
+      "ICE長官の指名が、また取り下げられました。今回の候補はオクラホマ州の元州警察官で、ICEでの勤務経験はゼロ。批判を受けて、上院での確認投票に進む前に撤回。これで、トランプ政権が「移民政策の最前線」と呼ぶ機関は引き続き上院承認の長官不在となった。\n\n「最優先」ね。そうですか。"
     ],
     "asideEn": [
-      "The independent institution disagreed. Loudly.",
-      "We don't have a moon base. But we have a plan.",
-      "Brought to you by the government.",
-      "The word 'sustainable' remains in the press release.",
-      "Same county. Zero irony detected."
+      "A forklift didn't wait for the paperwork either.",
+      "The regulated called. The regulator didn't pick up.",
+      "Other schools call it a sick note.",
+      "The wildlife did not get a memo.",
+      "Still the top priority. Still no director."
     ],
     "asideJa": [
-      "独立機関、今日も元気です。",
-      "月に基地より先に戦略。",
-      "政府より、以上。",
-      "プレスリリースは「環境に優しい」のまま。",
-      "同じ郡。本人は気づいてない顔。"
+      "フォークリフトは承認を待たなかった。",
+      "縛られる側だけが仕事してる。",
+      "他の学校では「欠席届」と言います。",
+      "動物にはメモが届かない。",
+      "最優先政策、トップ不在のまま。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Federal Reserve",
-      "Microsoft",
-      "Smithsonian"
+      "News Commentary",
+      "Kennedy Center",
+      "Endangered Species Act"
     ],
-    "fullEn": "# Rules Are for People Who Can't Make New Rules\n\n## Today's Forecast\n\nFive stories today. One pattern.\n\nSomebody made a rule. Then the person who was supposed to follow it decided they'd rather write a new one. The Fed exists to be independent — so naturally there's a demand it isn't. The Outer Space Treaty limits military activity on the moon — so naturally there's a general at a microphone saying otherwise. A museum is accused of bias — so the government installs its own bias, as a correction.\n\nAlso: AI e-waste that will circle the Earth six times by 2050, and Microsoft turning an emissions fine into a PR opportunity before the ink dried.\n\nHere's your forecast. If you've been playing by rules that nobody else seems to follow, today's news confirms you're not imagining it. The rules are real. They just aren't distributed evenly. That's not on you. Go get your coffee.\n\n---\n\n## 1. Trump Demands 1% Interest Rate While Fed Hikes for First Time Since 2023\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html)*\n\nThe Federal Reserve raised its benchmark interest rate by 0.25 percentage points on Wednesday, the first hike since 2023, citing persistent inflation. President Trump immediately pushed back, insisting rates should be 1% or lower. Trump had previously threatened to cut off trade with countries running surpluses with the U.S. if the Fed failed to cut rates.\n\n**Why It's Funny**\n\nThe Federal Reserve exists for one reason: to make monetary decisions without a president on the phone. That's the whole design. Wednesday they raised rates 0.25 points — unanimous vote, first hike since 2023, citing inflation. Thursday, Trump said rates should be 1% or lower. His reasoning: the economy is doing great. Which is an interesting argument, because the Fed raised rates specifically because the economy is running too hot. So the evidence for 'lower rates' and the evidence for 'raise rates' turned out to be the same economy. He also threatened to cut trade with countries that run surpluses with the U.S. if the Fed didn't listen. The Fed hiked. That's a lot of balls now in a lot of courts.\n\n**Say It Out Loud**\n\n> The Fed voted unanimously. One guy didn't vote but he's got thoughts.\n\n---\n\n## 2. Top Trump Military Adviser Says U.S. Troops Must Prepare to Fight Around the Moon\n\n*The Guardian US — [source](https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt)*\n\nGeneral Dan Caine, top military adviser to President Trump, said at a Washington summit that American troops need to prepare for combat not only in Earth's orbit but around the moon. The remarks came after the U.S. revealed it has deployed weapons in space, signaling a new frontier in military planning.\n\n**Why It's Funny**\n\nGeneral Dan Caine, top military adviser to President Trump, told a Washington summit that U.S. troops need to prepare for combat around the moon. Not on Earth orbit — around the moon. The U.S. has also confirmed it has deployed weapons in space. Here's what I keep coming back to: there's no moon base. There's no regular transit to the moon. The last time humans were near the moon was 1972. But there is now a combat strategy for the area. We skipped several steps — the road, the base, the reason to be there — and went straight to the battle plan. The Outer Space Treaty restricts military use of the moon. The general said this at a summit. With a microphone. In Washington. Apparently that's fine.\n\n**Say It Out Loud**\n\n> We don't have a moon base. We don't have a moon road. We do have a moon combat strategy. That's the order we did things.\n\n---\n\n## 3. Trump Administration Plans Ideological Warning Labels for Smithsonian Museums\n\n*NPR News — [source](https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs)*\n\nThe Interior Secretary announced plans to place ideological warning signs inside Smithsonian Institution museums, stating the move is necessary to combat what the administration calls ideological bias in the exhibits. The Smithsonian is a federally funded institution that houses some of the nation's most prominent museums and research centers.\n\n**Why It's Funny**\n\nInterior Secretary Doug Burgum announced that Smithsonian museums will receive ideological warning labels — signs alerting visitors to what the administration considers bias in the exhibits. The Smithsonian is federally funded, which means it is a government museum. The warning labels will be designed and installed by the government. To warn you about the government museum. The circularity is so clean I almost respect it. What gets me is the mechanism: if an exhibit is biased, the correction is a label chosen by people who disagree with the exhibit. That label then becomes the official government interpretation displayed inside the museum. It's not a warning. It's a replacement exhibit, mounted next to the original.\n\n**Say It Out Loud**\n\n> The government museum is warning you about the government museum. Brought to you by the government.\n\n---\n\n## 4. AI Data Center E-Waste Could Fill 23 Million Shipping Containers by 2050, Report Warns\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)*\n\nA new report warns that e-waste generated by the AI industry has been vastly underestimated. By 2050, discarded hardware from AI data centers could fill approximately 23 million shipping containers — enough 40-foot containers to circle the Earth six times if lined up end to end. The figure represents a significantly higher estimate than previous projections.\n\n**Why It's Funny**\n\nA new report says the AI industry's e-waste has been significantly underestimated. By 2050, discarded hardware from data centers could fill 23 million shipping containers — enough 40-foot containers, lined end to end, to circle the Earth six times. The previous estimates were lower. Meaning the industry knew there was a waste problem, estimated it, and was still off by a multiple. The servers doing the work are in places like Virginia and Texas. The report notes that e-waste tends to travel to different countries than the ones that generated it. The press materials for these data centers continue to use the word 'sustainable.' No corrections have been issued.\n\n**Say It Out Loud**\n\n> AI will save the planet. The hardware doing the saving will generate enough waste to circle the planet six times. Details.\n\n---\n\n## 5. Virginia Fines Microsoft Data Center for Emissions Violations — Microsoft to Invest $2.4M in the Same County\n\n*CBS News US — [source](https://www.cbsnews.com/news/virginia-data-centers-microsoft-fine-loudoun-county/)*\n\nVirginia regulators fined a Microsoft data center for emissions violations. As part of the settlement, Microsoft agreed to invest $2.4 million toward an environmental project in Loudoun County — the same county where the offending data center is located. The settlement did not require Microsoft to shut down or relocate the facility.\n\n**Why It's Funny**\n\nVirginia regulators fined a Microsoft data center for emissions violations. Under the settlement, Microsoft agreed to invest $2.4 million in an environmental project — in Loudoun County, Virginia, which is the same county where the offending data center operates. The facility does not have to close. The facility does not have to move. The county gets $2.4 million for an environmental project, and Microsoft gets to describe itself as an environmental contributor in Loudoun County. Microsoft's annual revenue is around $245 billion. Two-point-four million dollars is what they make before most people's first coffee break on a given Tuesday. They went from 'emissions violator' to 'environmental community partner' in one document. I've seen rebrands take longer.\n\n**Say It Out Loud**\n\n> You violated emissions rules in Loudoun County. The fine is: give money to Loudoun County. The county is doing great.\n\n---\n\n## Today's Punchline\n\n> The Fed is independent. The moon is neutral. The museum is unbiased. Microsoft is green. Anyway, none of that was true today.\n",
-    "fullJa": "# FRBに「1%にしろ」、月で戦争準備、博物館に警告ラベル——ルールって誰のためにあるんでしたっけ\n\n## 今日を占うよ〜\n\nFRBが利上げしました。\nトランプ大統領が「1%にしろ」と言いました。\nその翌日の話です。\n\nで、他も見てみると——月周辺での戦闘準備が必要らしく、国立博物館に「偏ってます」という政府の貼り紙がつき、AIのゴミが2050年に地球を6周し、Microsoftは違反した場所に寄付して「環境貢献企業」になっていた。\n\n今日の5本を貫く糸は、たぶんこれです。ルールを作った側が、そのルールを一番楽しそうに踏み越えている。\n\n——今日の占いです。\n\n①「FRBが独立機関である日」が続く: あなたが粘り強く正論を言い続けている場所では、今日も正論が通ります。②月軌道あたりで異動の打診がある: でも給与交渉の余地があります。③博物館の恐竜の前で気づく: ルールが書いてあっても、読む人を選ぶらしい。④2050年より先を見る目が開ける: ゴミになる前に手放せるものがある。⑤240万ドルより安く、あなたの評判を回復する方法が見つかる: 少なくともMicrosoftよりはマシなやり方で。\n\n「なんで私だけルール守ってるんだろう」と思っていることがあるなら、それは気のせいじゃない。今日の5本が証拠です。ルールは実在する。ただ、全員に平等には配られていない。あなたのせいじゃないので。\n\n---\n\n## 1. Trump Demands 1% Interest Rate While Fed Hikes for First Time Since 2023\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/16/trump-fed-interest-rate-warsh.html)）*\n\n連邦準備制度理事会が2023年以来初めて利上げを実施したにもかかわらず、トランプ大統領は金利を1%以下にするよう要求した。\n\n**どこが笑える？**\n\n連邦準備制度理事会というのは、要するに「大統領が電話してきても金利を自分たちで決める」ために作られた機関です。それが設計の全部。水曜日、FRBは0.25ポイントの利上げを全会一致で決定した。2023年以来初、理由はインフレ持続。翌日、トランプ大統領は「1%以下にしろ」と要求しました。\n\n根拠は「経済がうまくいってるから」。ただ、FRBが利上げした理由も「経済が過熱しているから」です。つまり、「下げろ」の証拠と「上げろ」の証拠が同じ経済を指している。どっちに転んでも、結論は「1%」になる仕組みになってる。あと、FRBが言うことを聞かなければ対米黒字国との貿易を断つとも言っていました。FRBは利上げしました。\n\n**このニュースをジョークにするなら...**\n\n> 全会一致で決まった。ただ一人、投票権のない人が「意見あります」って。\n\n---\n\n## 2. Top Trump Military Adviser Says U.S. Troops Must Prepare to Fight Around the Moon\n\n*The Guardian US（[記事](https://www.theguardian.com/science/2026/sep/16/us-space-moon-military-combagt)）*\n\nトランプ大統領の最高軍事顧問であるダン・ケイン将軍が、米軍は地球軌道だけでなく月周辺での戦闘にも備える必要があると述べた。\n\n**どこが笑える？**\n\nトランプ大統領の最高軍事顧問、ダン・ケイン将軍がワシントンのサミットで言いました。「米軍は月周辺での戦闘に備える必要がある」。地球軌道ではなく、月の周辺で、です。\n\n月に基地はない。月への定期便もない。人類が最後に月の近くにいたのは1972年です。でも戦闘計画はある。道も、拠点も、行く理由も飛ばして、戦略だけが先に完成しました。宇宙条約は月の軍事利用を制限しています。将軍はこれをサミットで、マイクを持って、ワシントンで言いました。それが今の状況です。\n\n**このニュースをジョークにするなら...**\n\n> 月の基地もない。月への道もない。月の戦闘ドクトリンはある。この順番でやった。\n\n---\n\n## 3. Trump Administration Plans Ideological Warning Labels for Smithsonian Museums\n\n*NPR News（[記事](https://www.npr.org/2026/09/16/nx-s1-5971420/trump-administration-smithsonian-warning-signs)）*\n\nトランプ政権の内務長官が、スミソニアン博物館に「イデオロギー的偏向」に対する警告表示を設置する計画を発表した。\n\n**どこが笑える？**\n\n内務長官が発表しました。スミソニアン博物館の展示に「イデオロギー的偏向への警告ラベル」を設置する、と。スミソニアンは連邦政府の資金で運営される国立博物館です。警告ラベルを設計・設置するのも、政府です。\n\n「この政府施設には偏向があります」と、政府が警告する。なかなかの円環です。仕組みをよく見ると——展示が偏っていると判断した人たちが、その隣に「正解」を貼る。それは警告ではなく、もう一個の展示です。恐竜の骨の隣に、恐竜の骨についての政府見解が並ぶ未来が来ました。\n\n**このニュースをジョークにするなら...**\n\n> 政府の博物館が、政府の博物館について警告を出してる。提供: 政府。\n\n---\n\n## 4. AI Data Center E-Waste Could Fill 23 Million Shipping Containers by 2050, Report Warns\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/996470/ai-data-center-e-waste-ban)）*\n\n新たな報告書によると、AIブームによる電子廃棄物は大幅に過小評価されており、2050年までに2300万個のコンテナを満たす量に達する可能性があるという。\n\n**どこが笑える？**\n\n新しい報告書が出て、AIデータセンターの電子廃棄物は「大幅に過小評価されてきた」とわかりました。2050年までに廃棄されるハードウェアは、40フィートコンテナ2300万個分。端から端まで並べると地球を6周します。\n\n「過小評価されてきた」という部分が重い。業界はゴミ問題を認識していて、試算していて、それでも実態より低かった。バージニアやテキサスのサーバーが処理の側で、廃棄物が届く先は別の国々です。これらのデータセンターのプレスリリースには「サステナブル」という言葉が引き続き使われています。訂正は出ていません。\n\n**このニュースをジョークにするなら...**\n\n> AIが地球を救う。その機械が出すゴミは地球を6周する量になる。細かい話ですが。\n\n---\n\n## 5. Virginia Fines Microsoft Data Center for Emissions Violations — Microsoft to Invest $2.4M in the Same County\n\n*CBS News US（[記事](https://www.cbsnews.com/news/virginia-data-centers-microsoft-fine-loudoun-county/)）*\n\nバージニア州がMicrosoftのデータセンターに排出規制違反で制裁金を科し、和解の一環としてMicrosoftは同じラウドン郡の環境プロジェクトに240万ドルを投資することに合意した。\n\n**どこが笑える？**\n\nバージニア州がMicrosoftのデータセンターに排出規制違反で罰金を科しました。和解の内容はこうです。Microsoftは240万ドルを環境プロジェクトに投資する。場所は、違反したデータセンターがあるラウドン郡。同じ郡です。施設は閉鎖しない。移転もしない。\n\nMicrosoftの年間売上は約2450億ドル。240万ドルは、火曜の朝一番のコーヒーが冷める前に稼ぐ金額です。それで「ラウドン郡の環境貢献企業」に変わりました。書類一枚で。BP がひまわりロゴに変えた速度より早い。\n\n**このニュースをジョークにするなら...**\n\n> ラウドン郡で排出規制を破った。罰金の使い道: ラウドン郡に渡す。郡は絶好調。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> FRBは独立、月は中立、博物館は公平、Microsoftは環境貢献。今日は全部、同じ日に崩れました。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d5のcaption3「BP のひまわりロゴ」がriffJa5にも同じ形で登場し二重使用になっている点、d4 caption4の「でもチャットボット、試した？」が汎用AI皮肉の型に近い点、xJa全8本要件に対し5本しかない点（元データが5本なので構造的問題ではないが審査基準10を適用）、introJaの「占い」セクションが書き言葉寄りで掴みと5本予告が弱い点を修正。d1 caption2Jaの「ブレーキいらない」はオチが手前で見えるため末尾を締め直す。d4 notesEn4とxJa4は事実と合致し単体成立しているため変更なし。センシティブ該当なし。 ／ 文体パス: 3箇所修正。introJaの締め「今日はそれだけ持って帰ってください」が読者への指示形かつ綺麗に畳みすぎ、riffJa[2]の「この円環の美しさに少し感心しました」がAI的な感心の述べ方、riffJa[0]の「ボールはたくさんのコートに同時に飛んでいる」が気の利いた総括で着地しようとしている。"
+    "fullEn": "# Rules Are for People Who Can't Redefine Rules\n\n## Today's Forecast\n\nThe law is still there. The protection just left the building.\n\nToday's five stories are all running the same trick: keep the sign, change what's inside. A concert hall has 30 days before it might be demolished — not because the government repealed anything, but because someone can't get his name on the wall. AI companies are begging Congress for rules, and Congress went home to campaign. A high school in Michigan found a creative way to make girls earn back swim class. A 1973 environmental law got quietly hollowed out by memo. And the agency that's supposed to run Trump's signature immigration policy still has no confirmed director.\n\nFive stories, one move: rename the box, remove the contents, act confused when someone notices.\n\nYour forecast: if you've ever felt like you're doing the right thing and somehow still getting it wrong — welcome. You're not the one redefining harm. That's already somebody else's job today.\n\n---\n\n## 1. Judge Orders 30-Day Warning Before Trump Can Demolish Kennedy Center He Can't Put His Name On\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice)*\n\nA federal judge ordered the Trump administration to provide at least 30 days' notice before taking any action to demolish the John F. Kennedy Center for the Performing Arts. The order came after Trump threatened demolition following a court ruling that his name cannot be added to the building without congressional authorization. Court filings also included a witness account of a forklift striking the center's pillars.\n\n**Why It's Funny**\n\nThe Kennedy Center situation has reached a very specific phase: a federal judge has now issued an order requiring 30 days' notice before any demolition. Which means someone in Washington is maintaining an active countdown for a concert hall. The building's crime is that it won't take his name. The proposed sentence is demolition. A forklift already hit the pillars before any of this was authorized — because apparently this administration treats paperwork as optional. Thirty days. That's what stands between the Kennedy Center and a guy who couldn't get his name on the wall.\n\n**Say It Out Loud**\n\n> Can't put your name on it, so you demolish it — someone's been watching way too many mob movies.\n\n---\n\n## 2. Congress Declares AI an Urgent Crisis, Then Goes Home to Campaign\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html)*\n\nThe U.S. House of Representatives recessed to allow members to return to their districts for midterm campaigning, even as AI companies including Anthropic, OpenAI, and xAI have been urgently lobbying for federal regulation. Despite the tech sector's unusually vocal calls for oversight, no significant AI legislation has advanced on Capitol Hill.\n\n**Why It's Funny**\n\nThe tech companies most associated with AI — Anthropic, OpenAI, xAI — have been lobbying Congress for regulation. Not against it. For it. They showed up, made their case, and the House recessed so members could go campaign for midterms. The entities asking to be governed are better organized than the entity that is supposed to govern. I don't know what you call that. I don't think there's a civics term for it.\n\n**Say It Out Loud**\n\n> The AI companies are begging to be regulated and Congress said 'love the energy, we'll circle back after the election.'\n\n---\n\n## 3. Michigan High School Demands Girls Report Menstrual Cycles to Make Up Swim Class\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/17/michigan-school-period-policy)*\n\nA Michigan high school is facing backlash after parents raised concerns about a gym class policy requiring female students to disclose details about their menstrual cycles in order to make up swimming days missed due to their periods. The policy has drawn scrutiny over student privacy and whether the requirement is appropriate or legal.\n\n**Why It's Funny**\n\nA Michigan high school has a policy for girls who miss swim class due to their period: you can make up the class, but you need to document your menstrual cycle. The option exists. The option has a price. Other schools send home a permission slip. This one wants a record of your uterus. The gym teacher is now, functionally, a medical records custodian. Nobody seems to have asked whether that's what gym teachers are for.\n\n**Say It Out Loud**\n\n> You missed swim day, so just hand over your medical records. Very normal school policy.\n\n---\n\n## 4. Trump Officials Redefine 'Harm' So Endangered Species Can Be Harmed Legally\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials)*\n\nThe U.S. Fish and Wildlife Service issued an internal memo proposing to reinterpret the definition of 'take' under the Endangered Species Act of 1973, a change that could strip further federal protections from more than 1,600 critically imperiled species. The reinterpretation would narrow what counts as harm to a protected species, making it easier for development and industrial activity to proceed in their habitats.\n\n**Why It's Funny**\n\nThe Fish and Wildlife Service didn't repeal the Endangered Species Act. They issued a memo. The memo proposes a narrower reading of the word 'take' — what counts as harming a protected species. The law from 1973 is still on the books. The protections it was designed to provide are quietly leaving through the back. There are 1,600 critically imperiled species that did not receive a copy of the memo.\n\n**Say It Out Loud**\n\n> The Endangered Species Act is intact. The definition of the word 'harm' inside it — not so much.\n\n---\n\n## 5. White House Withdraws Its Own ICE Nominee, Leaving Agency Leaderless — Again\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn)*\n\nThe White House withdrew its nomination of Lance Schroyer, a former Oklahoma state trooper with no formal ICE experience, to lead Immigration and Customs Enforcement. Critics had questioned his qualifications for the role. The withdrawal ensures that ICE, the agency central to Trump's immigration agenda, will continue operating without a Senate-confirmed director.\n\n**Why It's Funny**\n\nThe White House nominated Lance Schroyer — former Oklahoma state trooper, no ICE experience — to lead Immigration and Customs Enforcement. Critics noted the experience gap. The Senate was not going to confirm him. The White House withdrew the nomination. ICE, which the administration calls its central immigration enforcement tool, continues without a Senate-confirmed director. This is not the first time. The 'top priority' label remains. The top position does not.\n\n**Say It Out Loud**\n\n> ICE is Trump's top enforcement priority. ICE has no confirmed director. Both things are true.\n\n---\n\n## Today's Punchline\n\n> Today's theme: the rules stayed the same, someone just redefined 'rules.' Sleep tight.\n",
+    "fullJa": "# 「ルールはそのまま」「保護だけなくなる」——アメリカ、今日も看板と中身が別々に生きている\n\n## 今日を占うよ〜\n\n「絶滅危惧種保護法」はまだある。\n\n法律の名前も、条文も、1973年のままそこにある。ただ「ハームの定義」が変わった。だから保護されない、と。\n\n今日の5本、全部これと同じ構造をしていたんですよ。看板だけ残して、中身をそっと入れ替える。ケネディセンターには「取り壊し30日前通知」という謎の猶予が生まれ、AIを規制してほしいと頼んでいるのはAI企業で、頼まれている側の議員は選挙運動のために帰宅中です。\n\nあ、そういえば今日のラインナップ、「最優先政策の担当機関トップ不在」というのもある。\n\n今日の占いです。あなたが「なんかうまくいかないな」と思っていることがあるとしたら、定義を書き換えたのはあなたじゃない。それだけで、今日はだいぶまともな側にいますよ。\n\n---\n\n## 1. Judge Orders 30-Day Warning Before Trump Can Demolish Kennedy Center He Can't Put His Name On\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice)）*\n\n連邦判事は、トランプ政権がケネディセンターを取り壊す前に少なくとも30日前の通知を義務付ける命令を出した。トランプ大統領は、自分の名前を施設に刻もうとして議会の承認が得られず、取り壊しを示唆していた。\n\n**どこが笑える？**\n\nケネディセンターの現状を整理すると、「自分の名前を入れられないから壊す」という判断に対して、連邦判事が「壊すなら30日前に言いなさい」と命令した段階にある。つまりアメリカの国家的文化施設に、今、取り壊し予告の猶予期間が設定されている。フォークリフトはすでに柱にぶつかっているらしい。承認前に。\n\n名前が刻めないから壊す。フォークリフトは書類を待たない。順番、いつもこれ。\n\n**このニュースをジョークにするなら...**\n\n> 名前を刻めないなら建物ごと壊す。誰かギャング映画の見すぎですよ。\n\n---\n\n## 2. Congress Declares AI an Urgent Crisis, Then Goes Home to Campaign\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html)）*\n\nAIを巡る緊急立法の声が高まる中、下院議員たちは選挙運動のために議会を後にした。Anthropic、OpenAI、xAIが規制を強く求める一方、議会での具体的な立法行動は進んでいない。\n\n**どこが笑える？**\n\nAnthropic・OpenAI・xAIが議会に求めていたのは規制の撤廃ではなく、規制の導入です。「私たちを縛ってください」と言いに行ったわけですよ。で、議員たちは中間選挙の選挙運動のために帰宅した。縛られる側のほうが本気でロビー活動して、縛る側は不在。「救急車が患者に来てもらいに行った」話です。それだけ。\n\n**このニュースをジョークにするなら...**\n\n> AI企業が「規制してください」って頼んで、議会が「熱意は伝わった。選挙終わったら考える」。\n\n---\n\n## 3. Michigan High School Demands Girls Report Menstrual Cycles to Make Up Swim Class\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/17/michigan-school-period-policy)）*\n\nミシガン州のある高校で、女子生徒が月経による水泳授業の欠席を補うには、月経周期の詳細を開示しなければならないという体育授業の方針が明らかになり、保護者から強い反発を受けている。\n\n**どこが笑える？**\n\nミシガンの高校の話、構造だけ抜き出すとこうなります。女子生徒が月経で水泳を休む→補講を受けたければ月経周期の詳細を開示する→開示しなければ補講なし。授業を受ける権利の対価が医療情報の開示。体育の先生が月経の記録係になっている。スイミングキャップより先に書類が要る、って、どういう体育の授業ですか。\n\n**このニュースをジョークにするなら...**\n\n> 水泳を休んだら医療記録を提出してください。ごく普通の学校方針です。\n\n---\n\n## 4. Trump Officials Redefine 'Harm' So Endangered Species Can Be Harmed Legally\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials)）*\n\nトランプ政権の魚類野生生物局が、絶滅危惧種法における「捕獲（take）」の定義を変更するメモを発行し、1,600種以上の危機的な動植物への連邦保護が弱まる可能性があると報じられている。\n\n**どこが笑える？**\n\n絶滅危惧種保護法（1973年）は廃止されていない。魚類野生生物局がメモを一枚出した。メモは「ハーム（害）の定義」を変更するというもので、開発行為が保護種の生息地に与える影響を「ハーム」と見なしにくくする方向に動く。法律はある。条文もある。「ハーム」という言葉の意味だけ変わった。\n\n1,600種の動植物はメモを受け取っていない。\n\n**このニュースをジョークにするなら...**\n\n> 絶滅危惧種保護法は無傷。その中の「ハーム」という単語の定義だけ、きれいに抜けた。\n\n---\n\n## 5. White House Withdraws Its Own ICE Nominee, Leaving Agency Leaderless — Again\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn)）*\n\nホワイトハウスは、オクラホマ州の元州警察官ランス・シュロイアーのICE長官指名を取り下げた。ICEの経験がないとして批判を受けており、上院での承認も行き詰まっていた。これにより、トランプ政権の移民政策の最前線機関は引き続き上院承認の長官不在となる。\n\n**どこが笑える？**\n\nICE長官の指名が、また取り下げられました。今回の候補はオクラホマ州の元州警察官で、ICEでの勤務経験はゼロ。批判を受けて、上院での確認投票に進む前に撤回。これで、トランプ政権が「移民政策の最前線」と呼ぶ機関は引き続き上院承認の長官不在となった。\n\n「最優先」ね。そうですか。\n\n**このニュースをジョークにするなら...**\n\n> ICEはトランプ最優先の執行機関。ICEに承認された長官はいない。両方ほんとの話。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 法律はそのまま。「法律」の意味だけ変わってた。おやすみなさい。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "captions d1-5番・d4-1番・d5-3番に汎用型ジョーク／観察止まり／蛇足を確認。xJa3本が135字超過または書き言葉寄り。riffJa d1の「砂場で5歳児」はcommentaryの反復で新情報ゼロ。introJaの占いパートが講釈口調。これらをピンポイントで修正。 ／ 文体パス: 3箇所修正。riffJa[0]の締め「この政権の仕事の順番、常にそうですよね。」はプレゼン口調の総括なので崩し、riffJa[4]の末尾「今日も並んで立っている。」はxJa[4]と完全重複かつ綺麗に着地しすぎなので捨て台詞に切り落とし、riffJa[1]の「もう『規制のパラドックス』とか難しい言葉は要らなくて」は説明口調なので短く切る。"
   },
   "carousel": [
-    "images/2026-09-17/carousel/slide-1.jpg",
-    "images/2026-09-17/carousel/slide-2.jpg",
-    "images/2026-09-17/carousel/slide-3.jpg",
-    "images/2026-09-17/carousel/slide-4.jpg",
-    "images/2026-09-17/carousel/slide-5.jpg",
-    "images/2026-09-17/carousel/slide-6.jpg",
-    "images/2026-09-17/carousel/slide-7.jpg"
+    "images/2026-09-18/carousel/slide-1.jpg",
+    "images/2026-09-18/carousel/slide-2.jpg",
+    "images/2026-09-18/carousel/slide-3.jpg",
+    "images/2026-09-18/carousel/slide-4.jpg",
+    "images/2026-09-18/carousel/slide-5.jpg",
+    "images/2026-09-18/carousel/slide-6.jpg",
+    "images/2026-09-18/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-17/note-header.jpg",
-    "substack": "images/2026-09-17/substack-cover.jpg"
+    "note": "images/2026-09-18/note-header.jpg",
+    "substack": "images/2026-09-18/substack-cover.jpg"
   },
-  "video": "videos/2026-09-17/daily-short.mp4",
-  "videoDuration": 93.9,
-  "videoJa": "videos/2026-09-17/daily-short-ja.mp4",
-  "videoJaDuration": 86.1
+  "video": "videos/2026-09-18/daily-short.mp4",
+  "videoDuration": 80.7,
+  "videoJa": "videos/2026-09-18/daily-short-ja.mp4",
+  "videoJaDuration": 97.7
 }
