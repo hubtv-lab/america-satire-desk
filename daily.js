@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-18",
-  "generatedAt": "2026-09-17T22:13:03+00:00",
+  "date": "2026-09-19",
+  "generatedAt": "2026-09-18T21:44:17+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Judge Orders 30-Day Warning Before Trump Can Demolish Kennedy Center He Can't Put His Name On",
-        "source": "The Guardian US",
-        "date": "2026-09-18",
-        "url": "https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice",
-        "summary": "連邦判事は、トランプ政権がケネディセンターを取り壊す前に少なくとも30日前の通知を義務付ける命令を出した。トランプ大統領は、自分の名前を施設に刻もうとして議会の承認が得られず、取り壊しを示唆していた。"
+        "headline": "OpenAI and Microsoft Knew They Were Breaking the Web—And Wrote It Down",
+        "source": "The Verge",
+        "date": "2026-09-19",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero",
+        "summary": "ニューヨーク・タイムズ対OpenAI・マイクロソフト訴訟で開示された内部文書により、両社がウェブへの「ドゥームループ」を引き起こすと自ら認識しながらデータスクレイピングを続けていたことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 自分の名前を建物に彫れないから建物ごと壊す、っていうのは大人の解決策じゃないんですよ。「俺のものにならないなら誰のものにもするな」って理論、砂場の5歳児と同じですよね。",
-        "<b>滑稽さ:</b> 判事が「壊すなら30日前に言え」って命令したわけで、アメリカの文化施設に今、取り壊し予告の猶予期間が生まれてるんですよ。カレンダーに「ケネディセンター存続期限」って書く係が誰かいる。",
-        "<b>日本・海外から見ると:</b> 海外メディアからすると、アメリカで今いちばんリアルタイムで危ない国家的文化財は、自国の大統領に狙われてる劇場、っていう話になってるんですよね。"
+        "<b>矛盾:</b> 「AIで世界をよくする」と言いながら、社内文書には「ウェブをぶっ壊すかも」とちゃんと書いてあったんですよ。倫理の話、外向けだけ？",
+        "<b>滑稽さ:</b> 問題なのは悪事をやったことじゃなくて、悪事をやりながらメモを残したことなんですよね。証拠隠滅のAIツールは開発しなかったんですか。",
+        "<b>日本・海外から見ると:</b> 日本の企業なら稟議書に「これ、まずいかも」とは絶対書かない。アメリカのテック企業、正直すぎて自爆。"
       ],
       "imagePrompts": [
-        "The Kennedy Center exterior with a large countdown clock mounted above the entrance reading '30 DAYS', official government vehicles parked outside, caution tape strung between columns",
-        "A nameplate reading 'TRUMP' sitting on a government official's desk next to a thick stack of court documents stamped 'DENIED', a small model of the Kennedy Center in the background",
-        "A framed 'DEMOLITION NOTICE — 30 DAYS' certificate hanging on an office wall next to a portrait of JFK, a calendar on a desk with one date circled in red"
+        "A corporate boardroom with a giant presentation slide reading 'DOOM LOOP' in bold red letters, surrounded by executives in suits nodding and taking notes with pens",
+        "A filing cabinet labeled 'INTERNAL MEMOS: DO NOT SUBPOENA' overflowing with documents, each one stamped 'OOPS'",
+        "A courtroom exhibit board displaying a printed internal email with the phrase 'largest theft of labor in history' highlighted in yellow, with a lawyer pointing at it and grinning"
       ],
       "captions": [
-        "Can't put your name on it, so you demolish it — someone's been watching way too many mob movies.",
-        "The court said: sure, tear it down, just give us a month's notice. Thirty days to save a concert hall. Democracy!",
-        "A forklift hit the pillars before the demolition was even approved. This administration doesn't wait for paperwork.",
-        "Every other president left a legacy at the Kennedy Center. This one's leaving a crater.",
-        "JFK's memorial now has an active demolition countdown. Nobody put that in the dedication speech."
+        "They knew it was a doom loop. They wrote it down. They submitted it to a court. The intern who proofread that memo is somewhere living rent-free off the irony.",
+        "Most companies say 'we had no idea.' OpenAI said 'we had an idea, we documented the idea, and here's a PDF of the idea.'",
+        "The New York Times didn't need a star witness. They just needed a printer.",
+        "Imagine describing your own business model as 'the largest theft of labor in history' and then asking for a $157 billion valuation. Ballpark's still open, apparently.",
+        "The AI that summarizes articles was built by summarizing articles without permission—and somebody filed that fact in a folder labeled 'internal.'"
       ],
       "captionsJa": [
-        "名前を刻めないなら建物ごと壊す。誰かギャング映画の見すぎですよ。",
-        "判事が「壊すなら30日前に言え」。コンサートホールに猶予期間。これが民主主義！",
-        "取り壊し許可が出る前にフォークリフトが柱に突っ込んでる。この政権、書類を待たないんですよ。",
-        "歴代大統領はケネディセンターに遺産を残した。この人が残すのは更地。",
-        "JFKの記念施設に今、取り壊しのカウントダウンが走っている。献堂式のスピーチに書いてなかったやつ。"
+        "「ドゥームループ」になるって分かってた。書き残した。裁判所に提出した。そのメモを校正したインターン、今ごろ笑いが止まらないと思う。",
+        "普通の会社は「知りませんでした」と言う。OpenAIは「知ってました、資料作りました、PDFどうぞ」ってやつ。",
+        "ニューヨーク・タイムズ、証人いらなかった。プリンターだけあればよかった。",
+        "自分たちのビジネスを「史上最大の労働搾取」と社内で呼んでおいて、時価総額157億ドル要求してるの、強メンタルすぎないですか。",
+        "要約AIを作るために他人の文章を無断で要約した、という話を、自分たちで文書にまとめて「内部資料」フォルダに保存してたわけですよ。"
       ],
-      "newsEn": "A federal judge ordered the Trump administration to provide at least 30 days' notice before taking any action to demolish the John F. Kennedy Center for the Performing Arts. The order came after Trump threatened demolition following a court ruling that his name cannot be added to the building without congressional authorization. Court filings also included a witness account of a forklift striking the center's pillars.",
+      "newsEn": "Unsealed court documents in the New York Times' lawsuit against OpenAI and Microsoft reveal that both companies internally acknowledged their data scraping practices could create a 'doom loop' damaging the open web. Their own documentation described the scraping as the 'largest theft of labor in history.' The documents suggest the companies proceeded despite internal warnings about the potential consequences.",
       "ironyEn": [
         {
-          "contradiction": "Trump can't put his name on the Kennedy Center legally, so his next move is to make sure there's no Kennedy Center at all.",
-          "absurdity": "A federal court had to issue a court order specifically telling the White House: please give us 30 days before you demolish a national arts venue. That sentence exists.",
-          "outside": "From abroad, the most endangered landmark in America right now isn't threatened by weather or time — it's threatened by the sitting president who wanted a nameplate."
+          "contradiction": "OpenAI's entire pitch is that AI will save humanity. Their internal memo's pitch was: we might be destroying the web, but let's keep going.",
+          "absurdity": "The most damning evidence against them wasn't leaked by a whistleblower—it was written by their own employees, filed neatly in company documents.",
+          "outside": "Most corporations hide wrongdoing. These guys documented it with bullet points and presumably a cover page."
         },
         {
-          "contradiction": "The legal protection keeping the building standing is the same legal system that stopped him from branding it. The courts are doing double duty.",
-          "absurdity": "A forklift allegedly already hit the pillars. The building is being stress-tested before the demolition order even clears the courts.",
-          "outside": "In most countries, you protect a national arts center with landmark laws. In America, apparently you need a temporary restraining order."
+          "contradiction": "They built tools to summarize other people's writing, then apparently couldn't stop themselves from summarizing their own liability in writing.",
+          "absurdity": "The 'largest theft of labor in history'—their words, not the plaintiff's. The Times' lawyers must have read that and just... put down their pens.",
+          "outside": "In Japan, that memo would never exist. In Silicon Valley, it's Exhibit A."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-18/candidate-1.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-18/candidate-1-punchy.jpg"
+      "image": "images/2026-09-19/candidate-1.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-19/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Congress Declares AI an Urgent Crisis, Then Goes Home to Campaign",
-        "source": "CNBC Top News",
-        "date": "2026-09-18",
-        "url": "https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html",
-        "summary": "AIを巡る緊急立法の声が高まる中、下院議員たちは選挙運動のために議会を後にした。Anthropic、OpenAI、xAIが規制を強く求める一方、議会での具体的な立法行動は進んでいない。"
+        "headline": "U.S. Government Website Briefly Ran Chinese AI the FBI Called 'Malicious'",
+        "source": "Ars Technica",
+        "date": "2026-09-19",
+        "url": "https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/",
+        "summary": "米連邦政府の公式サイト「連邦官報」が、FBIが「悪意ある」と警告していたオープンソースの中国製AI検索ツールを一時的に使用していたことが判明した。"
       },
       "commentary": [
-        "<b>矛盾:</b> AI企業が「早く規制してくれ」って頼んでるのに議員たちが選挙運動で帰っちゃうって、規制される側が規制する側より仕事してるじゃないですか。",
-        "<b>滑稽さ:</b> OpenAIとAnthropicが「頼む、俺たちを縛ってくれ」って言ってる横で、議会が「ちょっと待って、まず票を集めてくる」って帰ってくわけですよ。自縄自縛できない企業、かわいそうですよね。",
-        "<b>日本・海外から見ると:</b> 「AI規制はアメリカが世界をリードする」って言ってた国が、AI企業に「お願いだから規制して」って哀願されてる。主客転倒どころか救急車が患者を呼んでる。"
+        "<b>矛盾:</b> FBIが「危険」と名指しした中国製AIを、アメリカ政府の公式サイトが使ってたんですよ。警告を出した部署と、使った部署、廊下でちゃんとすれ違ってる？",
+        "<b>滑稽さ:</b> TikTok禁止、ファーウェイ禁止、いろいろ禁止しといて、自分ちの玄関に普通に置いてたやつ。",
+        "<b>日本・海外から見ると:</b> 「中国テクノロジーは国家安全保障上の脅威だ」という声明を出している政府のウェブサイトを、その中国製ツールが検索していた可能性があるわけで。"
       ],
       "imagePrompts": [
-        "An empty congressional chamber with 'URGENT: AI REGULATION' banners hanging from the ceiling, chairs all vacant, a tumbleweed rolling down the center aisle",
-        "A line of tech executives in suits holding 'PLEASE REGULATE US' signs outside the Capitol building, looking at a 'GONE CAMPAIGNING — BACK IN NOVEMBER' note taped to the locked door",
-        "A massive countdown clock labeled 'AI REGULATION DEADLINE' on the Capitol wall, with a congressional bus driving away in the foreground, luggage strapped to the roof"
+        "A government office building with a large 'NO CHINESE TECH' sign on the front door, while a computer screen inside shows a Chinese AI tool running as the search bar on an official government website",
+        "A stack of official FBI warning memos labeled 'DO NOT USE' next to a government IT worker installing software from a package labeled in Chinese, both items on the same desk",
+        "The Federal Register website interface with a small fine-print disclaimer at the bottom reading 'Search powered by [REDACTED]' while official seals and American flags surround the page"
       ],
       "captions": [
-        "The AI companies are begging to be regulated and Congress said 'love the energy, we'll circle back after the election.'",
-        "OpenAI, Anthropic, xAI — all basically filed a formal request asking the government to tell them no. Congress didn't even do that.",
-        "Imagine showing up to your own intervention and the interventionist already left to go canvassing.",
-        "AI could end civilization as we know it, but the real deadline is the midterms.",
-        "They called it urgent. Then they called an Uber to the airport."
+        "The FBI called it malicious. The Federal Register called it 'the search button.' Somebody's definition is off.",
+        "America: bans TikTok for national security. Also America: runs Chinese AI on the website that publishes national security rules. Cool system.",
+        "The real question isn't how it got installed. It's how long everyone walked past it going, 'search works great lately.'",
+        "Open source means anyone can see the code. The one group that apparently didn't look? The government team that deployed it.",
+        "We published the regulation banning this. Using that tool. To publish the regulation."
       ],
       "captionsJa": [
-        "AI企業が「規制してください」って頼んで、議会が「熱意は伝わった。選挙終わったら考える」。",
-        "OpenAI、Anthropic、xAIが政府に「ノーと言ってくれ」って正式に頼んでる。議会はそれすらしなかった。",
-        "自分の身を縛ってほしくて乗り込んだら、縛る係がもう帰ってたって話ですよ。",
-        "AIが文明を終わらせるかもしれない。でも本当の締め切りは中間選挙。",
-        "「緊急です」って言った。そのあとタクシーを呼んで空港に行った。"
+        "FBIは「悪意あり」と言った。連邦官報は「検索ボタン」と言った。どっちかの定義がズレてる。",
+        "アメリカ：TikTokを安保上の理由で禁止。同じアメリカ：安保規則を掲載するサイトで中国製AIを稼働。完璧なシステム。",
+        "問題は「どうやって入れたか」じゃないんですよ。「検索、最近快適だな」って何ヶ月みんなスルーしてたか、ですよ。",
+        "オープンソースだからコード全部見えてるんですよ。唯一見てなかったのが、それを導入した政府チームだったと。",
+        "この規制を禁止する条文を公開したのが連邦官報で、その検索に使ってたのが……そのツールだったわけで。"
       ],
-      "newsEn": "The U.S. House of Representatives recessed to allow members to return to their districts for midterm campaigning, even as AI companies including Anthropic, OpenAI, and xAI have been urgently lobbying for federal regulation. Despite the tech sector's unusually vocal calls for oversight, no significant AI legislation has advanced on Capitol Hill.",
+      "newsEn": "The Federal Register website, an official U.S. government publication, was found to have briefly used an open source Chinese AI search tool that the FBI had previously characterized as 'malicious.' The tool was apparently integrated into the site before being removed. The incident highlights inconsistencies between official government warnings about Chinese technology and actual government procurement and deployment practices.",
       "ironyEn": [
         {
-          "contradiction": "The companies being asked to regulate themselves are the ones demanding Congress do it — and Congress is the one that left.",
-          "absurdity": "OpenAI and Anthropic lobbied for oversight so hard that 'please regulate us' became a tech industry talking point, and still nothing moved.",
-          "outside": "The world watches America declare AI an existential priority and then adjourn for campaign season. The robot apocalypse can wait until after November."
+          "contradiction": "The U.S. government has spent years warning agencies not to use Chinese software. One of those agencies then used Chinese software to run its official website.",
+          "absurdity": "The Federal Register publishes the rules everyone else has to follow. It apparently skipped the one about not using tools the FBI called malicious.",
+          "outside": "From the outside, this looks less like a security failure and more like nobody reads the memos—including the people who publish the memos."
         },
         {
-          "contradiction": "Congress can't agree on AI rules, but it did agree that winning elections comes first.",
-          "absurdity": "The urgency was real enough for three major AI companies to beg for regulation — just not real enough for a vote.",
-          "outside": "In most policy debates, industries fight against regulation. Here they're chasing legislators down the hall asking for it, and the legislators are running away."
+          "contradiction": "The FBI flagged the tool as malicious. The government's own website flagged it as 'the search bar.'",
+          "absurdity": "It was an open source tool, meaning anyone could see exactly what it was doing—except, apparently, the procurement team.",
+          "outside": "America banned TikTok over data fears, then ran a Chinese AI on the website where federal regulations are published. The irony is fully searchable now."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-18/candidate-2.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-18/candidate-2-punchy.jpg"
+      "image": "images/2026-09-19/candidate-2.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-19/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Michigan High School Demands Girls Report Menstrual Cycles to Make Up Swim Class",
-        "source": "The Guardian US",
-        "date": "2026-09-18",
-        "url": "https://www.theguardian.com/us-news/2026/sep/17/michigan-school-period-policy",
-        "summary": "ミシガン州のある高校で、女子生徒が月経による水泳授業の欠席を補うには、月経周期の詳細を開示しなければならないという体育授業の方針が明らかになり、保護者から強い反発を受けている。"
+        "headline": "FCC Approves Saudi Arabia, UAE and Qatar Buying Nearly Half of CBS's Parent Company",
+        "source": "Ars Technica",
+        "date": "2026-09-19",
+        "url": "https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/",
+        "summary": "FCCはパラマウント・グローバルの株式49.5%をサウジアラビア、UAE、カタールに売却する案を承認し、抑圧的な政府のメディア影響力取得への懸念を退けた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「水泳できなかった理由を証明したければ身体の情報を出せ」って、補講の条件が医療プライバシーの開示なんですよ。授業を受ける権利を医療情報で買わせてる。",
-        "<b>滑稽さ:</b> 体育の先生が月経周期の記録係になってるわけじゃないですか。スイミングキャップより前に書類が要るって、どういう体育の授業ですか。",
-        "<b>日本・海外から見ると:</b> アメリカで「女性の身体の自律性」が政治の焦点になってるこのタイミングで、高校の体育が月経の申告制を導入してるのは、笑えない偶然ですよね。"
+        "<b>矛盾:</b> FCCの存在意義のひとつが「外国の影響からアメリカのメディアを守る」ことなんですけど、49.5%売っちゃっていいって言ったのもFCCなんですよね。",
+        "<b>滑稽さ:</b> ちょうど過半数に届かない49.5%というラインを「問題ない」と判断したの、「大丈夫、ギリギリ制限速度です」みたいな言い訳と構造が一緒。",
+        "<b>日本・海外から見ると:</b> 中国企業によるTikTok運営はダメ、でもサウジ・UAE・カタールがCBSの株を半分近く持つのはOK、という基準、どこかにちゃんと書いてあるんですか。"
       ],
       "imagePrompts": [
-        "A school gymnasium pool with a sign reading 'MAKE-UP SWIM POLICY: MEDICAL DISCLOSURE REQUIRED', a stack of official-looking forms on a lifeguard chair",
-        "A gym teacher's desk covered in clipboards and charts labeled 'STUDENT HEALTH LOG', a lone swim cap sitting next to a tall pile of paperwork",
-        "A school hallway bulletin board with a 'GYM CLASS POLICY UPDATE' notice pinned next to a student privacy rights flyer, both printed on official school letterhead"
+        "A pie chart labeled 'CBS Ownership' with exactly 49.5% shaded and labeled 'Saudi Arabia, UAE, Qatar' and 50.5% labeled 'America, technically', displayed on an FCC official podium",
+        "A velvet rope outside a broadcasting studio with a sign reading 'Foreign Government Ownership: 49.5% MAX' and a clipboard-holding official waving through three figures in formal diplomatic attire",
+        "A game show stage with a large scoreboard showing '49.5% — APPROVED' in green and '50.0%' crossed out in red, with an FCC commissioner holding a gavel"
       ],
       "captions": [
-        "You missed swim day, so just hand over your medical records. Very normal school policy.",
-        "Other schools send kids home with a permission slip. This one wants a menstrual report.",
-        "The make-up option technically exists. The make-up option also technically requires you to document your uterus.",
-        "Missing PE because of your period: fine. Proving it to a gym teacher with detailed cycle data: apparently the rule.",
-        "At this school, the swimming test is easy. It's the paperwork before the swimming test that'll drown you."
+        "TikTok: banned. CBS, 49.5% owned by three Gulf governments: totally fine. The threshold for 'foreign influence' is apparently just a hair under half.",
+        "Qatar owns Al Jazeera. Qatar now part-owns CBS. Somewhere a journalism professor is lying on the floor, very still.",
+        "The FCC rejected concerns about repressive governments buying media influence. The concerns remain available for purchase at a 49.5% discount.",
+        "49.5%. Not 50. Somebody sat in a room, calculated that number, and went home feeling good about their work.",
+        "Protecting American airwaves from foreign influence is the FCC's job. So is approving this deal. The FCC is very busy."
       ],
       "captionsJa": [
-        "水泳を休んだら医療記録を提出してください。ごく普通の学校方針です。",
-        "他の学校は同意書を持って帰らせる。この学校は月経レポートを求める。",
-        "補講の選択肢はある。ただし子宮の情報を書類にする必要もある。",
-        "生理で体育を休む。それを体育教師に詳細なデータで証明する。それがルールらしいですよ。",
-        "水泳のテストは簡単。その前の書類提出で溺れる。"
+        "TikTok：禁止。CBS、湾岸3カ国が49.5%保有：全く問題なし。「外国の影響」の基準、ちょうど半分より下に引いてあるみたい。",
+        "カタールはアルジャジーラを持ってる。今度はCBSも持つ。どこかのジャーナリズムの教授が床に倒れてる。",
+        "FCCは「抑圧的な政府によるメディア影響力取得」への懸念を退けた。懸念は49.5%割引で引き続き受け付け中。",
+        "49.5%。50%じゃない。誰かが部屋でその数字を計算して、満足して帰ったわけですよ。",
+        "アメリカの電波を外国の影響から守るのがFCCの仕事。この取引を承認したのもFCCの仕事。FCCは今週、とても忙しかった。"
       ],
-      "newsEn": "A Michigan high school is facing backlash after parents raised concerns about a gym class policy requiring female students to disclose details about their menstrual cycles in order to make up swimming days missed due to their periods. The policy has drawn scrutiny over student privacy and whether the requirement is appropriate or legal.",
+      "newsEn": "The Federal Communications Commission approved a deal allowing Paramount Global, the parent company of CBS, to sell a 49.5% equity stake to investors from Saudi Arabia, the United Arab Emirates, and Qatar. The FCC rejected concerns raised about repressive foreign governments acquiring influence over a major American broadcaster. The deal marks a significant shift in foreign ownership of U.S. media.",
       "ironyEn": [
         {
-          "contradiction": "The school created a make-up policy meant to accommodate students — and made the accommodation cost more than the absence.",
-          "absurdity": "Somewhere a gym teacher is now in possession of more menstrual cycle data than most gynecologists see in a week.",
-          "outside": "At a moment when American debates over bodily autonomy are at a peak, a high school PE department quietly built its own disclosure regime."
+          "contradiction": "The U.S. forced TikTok to divest over foreign influence concerns. The FCC then approved three foreign governments buying half of CBS.",
+          "absurdity": "They stopped just short of 50%, which apparently is the magic number where 'foreign government ownership of a news network' becomes totally fine.",
+          "outside": "Qatar already owns Al Jazeera. Now it co-owns CBS. The global media landscape is getting very small and very awkward at dinner parties."
         },
         {
-          "contradiction": "Missing swim class because of your period is the problem. Reporting your period to fix it is apparently the solution.",
-          "absurdity": "The paperwork required to make up one swim class now involves medical details most adults wouldn't share with their boss.",
-          "outside": "In most schools, you bring a note from your parents to skip gym. Here you bring your cycle calendar."
+          "contradiction": "The FCC's job includes protecting American airwaves from foreign influence. This week it approved three foreign sovereign governments taking 49.5% of a major American broadcaster.",
+          "absurdity": "49.5%. Not 50. Someone really did the math on that one and said, 'That's the number. Print it.'",
+          "outside": "From abroad, the message is clear: if you want American media access, just stay under half. Apparently the line is very literally drawn there."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-18/candidate-3.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-18/candidate-3-punchy.jpg"
+      "image": "images/2026-09-19/candidate-3.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-19/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Trump Officials Redefine 'Harm' So Endangered Species Can Be Harmed Legally",
-        "source": "The Guardian US",
-        "date": "2026-09-18",
-        "url": "https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials",
-        "summary": "トランプ政権の魚類野生生物局が、絶滅危惧種法における「捕獲（take）」の定義を変更するメモを発行し、1,600種以上の危機的な動植物への連邦保護が弱まる可能性があると報じられている。"
+        "headline": "Expert Witness Uses ChatGPT to Build Court Report, Learns AI 'Has Biases'",
+        "source": "CBS News US",
+        "date": "2026-09-19",
+        "url": "https://www.cbsnews.com/news/ai-expert-witness-lawsuit-trial/",
+        "summary": "数百万ドル規模の訴訟で、専門家証人がChatGPTを使って報告書を作成していたことが発覚し、法廷でのAI利用に対する懸念が改めて注目を集めている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 絶滅危惧種保護法の保護を弱めるのに「法律を変えず解釈を変える」手法を使ってるんですよ。守るための法律の「守る」の定義を変えて守らないようにする、って文章にすると頭が痛くなる。",
-        "<b>滑稽さ:</b> 「ハームの定義を書き換えれば、ハームしてないことになる」って、言葉遊びで1973年の法律を50年ぶりに無力化しようとしてるわけですよ。動物には弁護士いないから黙ってるしかない。",
-        "<b>日本・海外から見ると:</b> アメリカが50年前に世界に誇った環境法の看板を、解釈変更というガムテープで塞いでる。看板はまだある。法律もまだある。保護がなくなる。"
+        "<b>矛盾:</b> 「専門家証人」というのは、その分野の専門知識があるから証言台に立つ人なんですよ。その専門家がChatGPTに代わりに考えてもらってたって、それはもう専門家ではなく「AIの代読者」では？",
+        "<b>滑稽さ:</b> 「AIには偏りがある」と証言したのが、AIで作った報告書を持ってきた専門家本人なんですよ。自分で自分の報告書を否定してる。",
+        "<b>日本・海外から見ると:</b> 宣誓した証人が、宣誓していないチャットボットに報告書を書かせていた、という構図、法制度の根幹への問いかけになってきてる。"
       ],
       "imagePrompts": [
-        "A Fish and Wildlife Service office desk with a thick government memo on top, a red pen crossing out the word 'harm' and replacing it with a smaller, lighter word, a list of 1,600 species names in the background",
-        "A 1973-dated Endangered Species Act document in a frame on a wall, with a sticky note attached reading 'DEFINITION UPDATE — see attached memo', a filing cabinet labeled 'REINTERPRETATIONS' open below it",
-        "An empty wildlife habitat with yellow survey stakes and industrial planning documents on a folding table, a framed copy of the Endangered Species Act propped up against the table leg"
+        "A formal courtroom witness stand with a laptop open to a ChatGPT conversation, a stack of printed AI responses in place of a prepared report, and a judge leaning forward with glasses lowered",
+        "An 'EXPERT WITNESS' name placard on a courtroom desk next to a coffee mug that reads 'I just work here' and a visible browser tab open to chat.openai.com",
+        "A legal document stamped 'EXPERT REPORT' with fine print at the bottom reading 'Prepared in collaboration with an AI that has biases,' surrounded by courtroom official seals"
       ],
       "captions": [
-        "The Endangered Species Act is intact. The definition of the word 'harm' inside it — not so much.",
-        "If you redefine 'harm,' technically you're not harming anything. Checkmate, 1,600 species.",
-        "The Fish and Wildlife Service issued a memo. The wildlife did not receive a copy.",
-        "Fifty years of environmental law, still standing. The definition of the word 'take' — gone.",
-        "The species are still protected. The agency just updated what 'protected' covers."
+        "The expert witness warned the court that AI has biases. Using the AI report. That he brought to court. Your Honor, I'd like to introduce Exhibit Irony.",
+        "An expert witness is someone the court calls because of their expertise. This one outsourced the expertise. The title stayed.",
+        "Lawyers got in trouble for AI-hallucinated citations in 2023. It's 2026. The expert witnesses found out.",
+        "He didn't lie under oath. He outsourced it. Technically different.",
+        "'They have biases'—said the man whose entire prepared report was written by them. Great opener, though."
       ],
       "captionsJa": [
-        "絶滅危惧種保護法は無傷。その中の「ハーム」という単語の定義だけ、きれいに抜けた。",
-        "「ハーム」を再定義すれば、技術的にはハームしてないことになる。チェックメイト、1600種。",
-        "魚類野生生物局がメモを出した。野生動物にはコピーが届かなかった。",
-        "50年の環境法、まだ生きてる。「捕獲」という単語の定義、消えた。",
-        "動物たちはまだ保護されています。「保護」が何を意味するかを更新しました。"
+        "専門家証人は「AIには偏りがある」と法廷で証言した。AI製の報告書を使って。証拠物件Aは矛盾そのものです。",
+        "専門家証人というのは、専門知識があるから呼ばれる人のこと。この人は専門知識を外注した。肩書だけ残った。",
+        "弁護士がAIの架空引用で問題になったのが2023年。2026年になって、ようやく専門家証人も追いついてきた。",
+        "宣誓の下での虚偽ではない。外注しただけ。法的には別の話。たぶん。",
+        "「AIには偏りがある」と言ったのが、そのAIに報告書を全部書かせた人。つかみとしては完璧だった。"
       ],
-      "newsEn": "The U.S. Fish and Wildlife Service issued an internal memo proposing to reinterpret the definition of 'take' under the Endangered Species Act of 1973, a change that could strip further federal protections from more than 1,600 critically imperiled species. The reinterpretation would narrow what counts as harm to a protected species, making it easier for development and industrial activity to proceed in their habitats.",
+      "newsEn": "An expert witness in a multimillion-dollar lawsuit used ChatGPT to help prepare their official court report, drawing fresh scrutiny to the use of AI in legal proceedings. The expert reportedly acknowledged that AI tools 'have biases.' The incident adds to a growing number of cases where AI-generated content has caused problems in courtroom settings, including previous instances of lawyers submitting AI-hallucinated citations.",
       "ironyEn": [
         {
-          "contradiction": "The Endangered Species Act still exists on paper. The administration is just rewriting what the word 'harm' means so the act no longer does what it was designed to do.",
-          "absurdity": "Over 1,600 species are now protected by a law whose key definition is being edited by the agency responsible for enforcing it.",
-          "outside": "America passed the Endangered Species Act in 1973 and told the world it meant business. Fifty years later, it's still on the books — they just changed what the words mean."
+          "contradiction": "The whole point of an expert witness is that they're the expert. If ChatGPT wrote the report, who exactly is testifying under oath?",
+          "absurdity": "The expert told the court that AI 'has biases.' The expert's report was written by AI. The court presumably had questions.",
+          "outside": "Legal systems run on sworn testimony. Turns out the witness was sworn in; the software that did the work was not."
         },
         {
-          "contradiction": "The Fish and Wildlife Service is supposed to protect wildlife. It issued a memo making it easier to harm wildlife. That's the whole story.",
-          "absurdity": "The legal definition of 'take' in wildlife law is being narrowed so that more things you do to an endangered animal don't count as doing things to an endangered animal.",
-          "outside": "In international conservation circles, the U.S. used to be the model. Now the model is: keep the law, delete the protection, claim nothing changed."
+          "contradiction": "Courts require expert witnesses to demonstrate firsthand expertise. This expert demonstrated firsthand expertise in prompting a chatbot.",
+          "absurdity": "He flagged the problem with AI in the same breath as submitting AI-generated evidence. That's not a conflict of interest—that's a conflict of sentences.",
+          "outside": "Lawyers have been sanctioned for submitting fake AI citations for two years now. Expert witnesses read the news, apparently not."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-18/candidate-4.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-18/candidate-4-punchy.jpg"
+      "image": "images/2026-09-19/candidate-4.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-19/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "White House Withdraws Its Own ICE Nominee, Leaving Agency Leaderless — Again",
-        "source": "The Guardian US",
-        "date": "2026-09-18",
-        "url": "https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn",
-        "summary": "ホワイトハウスは、オクラホマ州の元州警察官ランス・シュロイアーのICE長官指名を取り下げた。ICEの経験がないとして批判を受けており、上院での承認も行き詰まっていた。これにより、トランプ政権の移民政策の最前線機関は引き続き上院承認の長官不在となる。"
+        "headline": "FAA Clears Trump's Triumphal Arch Over the Potomac, Says It Won't Hit Any Planes",
+        "source": "CBS News US",
+        "date": "2026-09-19",
+        "url": "https://www.cbsnews.com/news/faa-trump-arch-d-c-national-airport-flight-path/",
+        "summary": "連邦航空局（FAA）が、ポトマック川をまたぐトランプ大統領の凱旋門建設計画を承認し、ワシントンD.C.のレーガン空港の飛行経路には影響しないと判断した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 移民政策を「最優先」と言いながら、その執行機関のトップに上院承認を受けた人間がいない状態が続いてるんですよ。「俺がやる」と言って担当者を決めない上司、どこにでもいますよね。",
-        "<b>滑稽さ:</b> ICE未経験の元州警察官を指名して、批判されて取り下げて、またゼロから。これ採用活動じゃなくて「ICE長官候補の使い捨て」ですよ。",
-        "<b>日本・海外から見ると:</b> トランプ政権がいちばん声高に叫ぶ移民強硬路線の実行部隊が、ずっとトップ不在。看板だけでかい工事現場みたい。"
+        "<b>矛盾:</b> FAA本来の仕事は飛行安全の確保なんですけど、大統領の自己記念碑建設について「飛行機には当たりません」と太鼓判を押す機関になってるのが、今週のFAA。",
+        "<b>滑稽さ:</b> 「ポトマック川に凱旋門」という構想自体がすでにシュールなのに、その審査をFAAがやってる、という行政の風景がまた別のシュールさ。",
+        "<b>日本・海外から見ると:</b> 欧州では凱旋門というのはナポレオンが戦争に勝ったあとに建てるものなんですけど、アメリカは大統領が在任中に自分で発注してFAAに安全審査させる。"
       ],
       "imagePrompts": [
-        "An ICE director's office with a large leather chair behind an empty desk, a name placard holder with no name in it, a stack of withdrawn nomination paperwork in the corner",
-        "A whiteboard labeled 'ICE DIRECTOR CANDIDATES' with a long list of names all crossed out with red marker, one blank line remaining at the bottom",
-        "A government organization chart with the top box labeled 'ICE DIRECTOR' filled in with a large question mark, all the boxes below it fully filled in with names and titles"
+        "An FAA air traffic control tower with a radar screen showing a large arch symbol plotted over the Potomac River flight path, with a controller giving a thumbs up",
+        "An official government approval document stamped 'CLEARED FOR CONSTRUCTION' next to architectural blueprints of a large decorative arch, with a ruler and a small model airplane placed next to it for scale",
+        "A view of the Potomac River with FAA measurement equipment, orange traffic cones, and official government vehicles surrounding the proposed arch site, with Reagan Airport visible in the background"
       ],
       "captions": [
-        "ICE is Trump's top enforcement priority. ICE has no confirmed director. Both things are true.",
-        "They nominated a state trooper from Oklahoma to run ICE. He'd never worked at ICE. It didn't work out.",
-        "The drawing board is still there. At this point it's just a board.",
-        "The agency enforcing America's toughest immigration crackdown has been running leaderless. Fine. Everything's fine.",
-        "Job posting: ICE Director. Requirements: law enforcement experience of some kind, probably. Apply within."
+        "The FAA's verdict on the presidential triumphal arch: planes won't hit it. The aesthetic verdict was outside their jurisdiction.",
+        "Most monuments get reviewed by historians. This one went through aviation regulators. Different era.",
+        "Reagan National already has the most restricted airspace in America. The arch fits. Technically.",
+        "Somewhere an air traffic controller is adding 'decorative arch' to their obstacle charts and not saying a word about it.",
+        "Napoleon built his after conquering Europe. This one just needed FAA paperwork. Streamlined process."
       ],
       "captionsJa": [
-        "ICEはトランプ最優先の執行機関。ICEに承認された長官はいない。両方ほんとの話。",
-        "ICE未経験のオクラホマ州警察官をICE長官に指名した。うまくいかなかった。",
-        "また振り出しに戻る。この政権の振り出し、もう「戻る場所」というより「定位置」ですよ。",
-        "アメリカ最強の移民取締機関がずっとトップ不在で動いてる。大丈夫。全部大丈夫。",
-        "求人：ICE長官。必要条件：なんらかの法執行経験、たぶん。ご応募お待ちしています。"
+        "FAAの凱旋門審査結果：飛行機には当たりません。美的センスの審査は管轄外でした。",
+        "普通のモニュメントは歴史家が審査する。これは航空当局が審査した。時代が違う。",
+        "レーガン空港はもともとアメリカで最も制限の厳しい空域。凱旋門も収まった。技術的には。",
+        "どこかのATCが障害物チャートに「装飾的アーチ」を追加して、何も言わずに仕事を続けてる。",
+        "ナポレオンはヨーロッパを征服してから建てた。今回はFAAの書類だけで済んだ。効率化が進んでいる。"
       ],
-      "newsEn": "The White House withdrew its nomination of Lance Schroyer, a former Oklahoma state trooper with no formal ICE experience, to lead Immigration and Customs Enforcement. Critics had questioned his qualifications for the role. The withdrawal ensures that ICE, the agency central to Trump's immigration agenda, will continue operating without a Senate-confirmed director.",
+      "newsEn": "The Federal Aviation Administration approved President Trump's plans for a large triumphal arch to be constructed across the Potomac River near Washington, D.C. The FAA determined that the structure would not interfere with flight paths at Reagan National Airport. The arch is part of broader beautification and monument plans put forward by the Trump administration for the Washington area.",
       "ironyEn": [
         {
-          "contradiction": "ICE is described as the frontline agency of Trump's top domestic priority. It doesn't have a confirmed director. These two facts coexist peacefully.",
-          "absurdity": "The nominee was a state trooper from Oklahoma with zero ICE experience. The White House nominated him anyway, got pushback, and now it's back to square one.",
-          "outside": "Watching from abroad, America's most high-profile enforcement agency operates without confirmed leadership while the president tweets about a border crisis. The crisis is real. The org chart is optional."
+          "contradiction": "The FAA exists to keep skies safe. This week it spent time officially determining that a presidential vanity arch won't clip any wings.",
+          "absurdity": "A triumphal arch across the Potomac—the main concern cleared by federal aviation regulators was: aircraft clearance. The aesthetic concerns were apparently not in their jurisdiction.",
+          "outside": "In Europe, triumphal arches commemorate military victories. In America, the approval process goes through the FAA and takes about a week."
         },
         {
-          "contradiction": "The administration that campaigns hardest on immigration enforcement can't staff the immigration enforcement agency.",
-          "absurdity": "A former state trooper was almost in charge of a federal agency he'd never worked at. Almost.",
-          "outside": "In most bureaucracies, you need relevant experience to run a major law enforcement agency. Here the job posting apparently just said 'law enforcement, any kind.'"
+          "contradiction": "Reagan National Airport already has among the most restricted airspace in the country. The FAA's conclusion: big decorative arch, no problem.",
+          "absurdity": "The arch isn't built yet. The FAA cleared it anyway. Somewhere, an air traffic controller is updating their charts with a monument.",
+          "outside": "Paris built the Arc de Triomphe after Napoleonic wars. Washington is getting one after an FAA safety review. Different vibe."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-18/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-18/candidate-5-punchy.jpg"
+      "image": "images/2026-09-19/candidate-5.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-19/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「名前と実態のズレ」。建物に名前を刻めなければ壊す、規制を求める側が企業で求められる側が帰宅、法律はそのままで保護だけ消える——看板と中身が別物になった国の話が5本続く。",
-    "titleEn": "Rules Are for People Who Can't Redefine Rules",
-    "subtitleEn": "Five stories where the label stayed, the contents changed, and nobody warned the animals.",
-    "titleJa": "「ルールはそのまま」「保護だけなくなる」——アメリカ、今日も看板と中身が別々に生きている",
+    "thread": "今日の5本を貫く糸は「知っていたのに、やった」。OpenAIは文書に残し、政府は警告を無視して使い、FCCは懸念を退け、専門家は「AIには偏りがある」とAIで書いた報告書で証言し、FAAは「飛行機には当たらない」と言った。全員が何かを知っていた。",
+    "titleEn": "They All Knew. They Just Kept Going.",
+    "subtitleEn": "Five stories, one pattern: the memo was written. Nobody stopped.",
+    "titleJa": "OpenAIは「ウェブをぶっ壊すかも」と社内文書に書いて、続けた話",
     "titleAltJa": [
-      "ケネディセンター解体30日前通知・AI規制なし・月経申告必須・絶滅危惧種の定義変更・ICE長官また不在——今日のアメリカ、全部ズレてた",
-      "「規制してください」とAI企業が頼んでいるのに議員は帰宅した話と、その他4本"
+      "「AIには偏りがある」とAIで作った報告書に書いてきた専門家証人の話",
+      "今日のアメリカのニュース、全部「知ってたけどやった」で説明できる"
     ],
-    "leadJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n「絶滅危惧種を保護する法律」はある。「保護の定義」を書き換えた、というニュースです。法律は生きてる。保護だけ死んだ。今日はそういう5本です。",
-    "introEn": "The law is still there. The protection just left the building.\n\nToday's five stories are all running the same trick: keep the sign, change what's inside. A concert hall has 30 days before it might be demolished — not because the government repealed anything, but because someone can't get his name on the wall. AI companies are begging Congress for rules, and Congress went home to campaign. A high school in Michigan found a creative way to make girls earn back swim class. A 1973 environmental law got quietly hollowed out by memo. And the agency that's supposed to run Trump's signature immigration policy still has no confirmed director.\n\nFive stories, one move: rename the box, remove the contents, act confused when someone notices.\n\nYour forecast: if you've ever felt like you're doing the right thing and somehow still getting it wrong — welcome. You're not the one redefining harm. That's already somebody else's job today.",
-    "introJa": "「絶滅危惧種保護法」はまだある。\n\n法律の名前も、条文も、1973年のままそこにある。ただ「ハームの定義」が変わった。だから保護されない、と。\n\n今日の5本、全部これと同じ構造をしていたんですよ。看板だけ残して、中身をそっと入れ替える。ケネディセンターには「取り壊し30日前通知」という謎の猶予が生まれ、AIを規制してほしいと頼んでいるのはAI企業で、頼まれている側の議員は選挙運動のために帰宅中です。\n\nあ、そういえば今日のラインナップ、「最優先政策の担当機関トップ不在」というのもある。\n\n今日の占いです。あなたが「なんかうまくいかないな」と思っていることがあるとしたら、定義を書き換えたのはあなたじゃない。それだけで、今日はだいぶまともな側にいますよ。",
-    "quipEn": "Today's theme: the rules stayed the same, someone just redefined 'rules.' Sleep tight.",
-    "quipJa": "法律はそのまま。「法律」の意味だけ変わってた。おやすみなさい。",
+    "leadJa": "OpenAIが「ドゥームループ」という単語を、自分たちの社内文書に書いていました。\n\nで、その文書が法廷で出てきた。",
+    "introEn": "OpenAI wrote down 'doom loop.' On purpose. In a document. That is now in court.\n\nToday's five stories share one uncomfortable quality: everyone involved had some version of a warning. The FBI said the tool was malicious. The FCC heard the concerns. The expert witness knew AI has biases—he put that in the AI report. The FAA weighed in on a triumphal arch the way the FAA weighs in on a triumphal arch.\n\nSo here's your forecast: if you've been second-guessing yourself because you 'should have known better,' today's evidence suggests that knowing better and doing better are two completely separate skills. The most powerful institutions on earth have been failing this test all week. You're in fine company. Go do the thing.",
+    "introJa": "OpenAIが「ドゥームループ」と書きました。\n\n自分たちの社内文書に。わざわざ。\n\nそのメモが今、法廷にあります。\n\nで、今日の残り4本を見ると…\nFBIが「悪意あり」と警告した中国製AIを政府公式サイトが使い、FCCが「懸念は退ける」と言ってサウジ・UAE・カタールにCBSの約半分を売り、専門家証人が「AIには偏りがある」とChatGPTに書かせた報告書を法廷に持ち込み、FAAが大統領の凱旋門に「飛行機には当たりません」と太鼓判を押した。\n\n今日の5本を貫く糸は、たぶん「知っていたのに、続けた」ということです。\n\nということで、占いです。\n\n「わかってはいるんだけど」と自分を責めているなら、今日だけは少し休んでいい。知ることと止まることの間の距離は、世界最大のテック企業にも、連邦政府にも、法廷の専門家にも、等しく遠かった。あなただけじゃないって、今日の5本がそう言ってます。\n\n少なくとも今日はね。",
+    "quipEn": "Today's theme: everyone had the memo. The memo didn't help.",
+    "quipJa": "「知っていた」と「止めた」の間には、太平洋より広い何かがある。",
     "notesEn": [
-      "A federal judge told the Trump administration: sure, you can threaten to demolish the Kennedy Center, but give us 30 days' notice first. Somewhere there's a government employee whose entire job is now counting down a concert hall's expiration date.",
-      "AI companies — Anthropic, OpenAI, xAI — are formally begging Congress to regulate them. Congress recessed to go campaign. The people asking to be told 'no' are more organized than the people who are supposed to say it.",
-      "A Michigan high school has a policy: if you missed swim class because of your period, you can make it up — you just need to document your menstrual cycle first. The make-up option exists. The make-up option has a medical records requirement.",
-      "The Fish and Wildlife Service issued a memo redefining what counts as 'harm' under the Endangered Species Act. The Act still exists. The 1,600 species it was protecting are still critically imperiled. The memo just changed the meaning of the word between them.",
-      "The White House withdrew its ICE director nominee — a former Oklahoma state trooper with no ICE experience — after it became clear the Senate wouldn't confirm him. ICE, Trump's top immigration enforcement tool, remains without a Senate-confirmed director. The 'top priority' label is still up."
+      "OpenAI's internal documents described their own data scraping as 'the largest theft of labor in history.' They wrote that down. The New York Times didn't need a star witness. They just needed a printer.",
+      "The FBI called the Chinese AI tool 'malicious.' The Federal Register—the official U.S. government publication—used it anyway as a search feature. The warning and the search button were apparently in different departments.",
+      "The FCC approved selling 49.5% of CBS's parent company to Saudi Arabia, UAE, and Qatar, rejecting concerns about foreign influence over American media. TikTok's still banned. The math on what counts as 'foreign influence' remains unpublished.",
+      "An expert witness used ChatGPT to write his court report, then told the court that AI has biases. Using the report. That he brought to court. Your Honor, I'd like to introduce Exhibit Irony.",
+      "The FAA approved Trump's triumphal arch over the Potomac River and confirmed it won't hit any planes. The aesthetic review was outside their jurisdiction. As were most of the other obvious questions."
     ],
     "xJa": [
-      "「名前を建物に彫れないなら取り壊す」という判断をした人がいて、連邦判事が「壊すなら30日前に言いなさい」と命令した。ケネディセンター、今日から30日の猶予つきで存在している。",
-      "Anthropic・OpenAI・xAIが「規制してください」と議会にロビー中。議員は「選挙があるので」と帰宅した。規制される側のほうが本気で仕事してる。",
-      "ミシガンの高校、水泳の補講を受けるには月経周期の詳細開示が必要という方針が判明。授業を受ける権利の対価が医療プライバシーの開示だった。",
-      "絶滅危惧種保護法（1973年）はある。「ハームの定義」だけ変えた。法律が守るはずの1,600種は今も絶滅危機にある。変わったのは定義だけ。",
-      "ICEはトランプ政権の最重要執行機関。上院承認の長官はいない。今日また指名が撤回された。「最優先」と「トップ不在」が今日も並んで立っている。"
+      "OpenAIの社内文書に「ウェブへのドゥームループ」「史上最大の労働窃盗」と書いてあって、その文書が法廷で出てきた。悪事をやることより、メモを残すことのほうが難しかった。",
+      "FBIが「悪意あり」と警告した中国製AIを、アメリカ政府の公式サイトが普通に検索機能として使っていた。警告部門と調達部門、廊下でちゃんとすれ違ってますか。",
+      "FCC、サウジ・UAE・カタールへのCBS親会社49.5%売却を承認。TikTokは禁止中。「外国の影響」の基準がちょうど49.5%のところにあるらしい。",
+      "「AIには偏りがある」と証言した専門家証人、その証言がChatGPTで作った報告書に書いてあった。自分で自分の報告書を否定している。法廷で。",
+      "FAAがポトマック川の凱旋門建設計画を承認。理由：飛行機には当たらないから。「それ以外の問題」は管轄外とのこと。"
     ],
     "raidEn": [
-      "The 30-day notice requirement is doing a lot of heavy lifting for American cultural preservation right now. Great breakdown of how we got here.",
-      "The 'regulated party lobbies harder for regulation than the regulator' angle is something I keep coming back to. You laid it out really clearly.",
-      "What gets me is that the make-up option technically exists — it's just priced at your medical privacy. Good on you for covering this one.",
-      "The memo kept the law, removed the protection, and left the sign. Your post made that crystal clear in a way the original reporting didn't quite land for me.",
-      "The part that stays with me: the agency central to the administration's biggest policy priority has no confirmed leader. You framed that perfectly."
+      "The real scandal isn't that they scraped the data. It's that they wrote 'doom loop' in the document and then filed the document with a court. Somewhere an intern is living rent-free off that irony.",
+      "The FBI called it malicious in the warning. The Federal Register called it 'the search button.' Somebody's definition is doing a lot of work here.",
+      "49.5% is a very specific number to land on and call 'not a problem.' That's like saying 'I only ate 49.5% of your lunch.'",
+      "The expert warned the court AI has biases—great point—using the AI report he brought to court. The case for a second opinion has never been stronger.",
+      "Most monuments get reviewed by historians or urban planners. This one went through aviation regulators. We are in a different era."
     ],
     "raidJa": [
-      "「名前を入れられないなら壊す」という発想の経路が怖くて、記事読み返してしまいました。わかりやすくまとめてくださってありがとうございます。",
-      "「規制してほしい側」と「規制する側」が入れ替わってる構図、この記事で初めてちゃんと理解できました。鋭い視点だと思います。",
-      "補講の条件が医療情報の開示、というところで止まってしまいました。取り上げてくださってよかったです。",
-      "法律はそのまま・定義だけ変える、という手法の怖さをこの記事で改めて実感しました。丁寧な解説に感謝です。",
-      "「最優先政策の執行機関にトップがいない」という事実、この記事で整理されてやっと頭に入りました。ありがとうございます。"
+      "「ドゥームループ」と自分で書いておいて、そのメモが法廷に出てくるの、悪事の問題より証拠管理の問題という気がしてきますよね。とても参考になる記事でした。",
+      "「悪意あり」と警告したものが検索ボタンになってた、というオチの構造がきれいすぎて笑えない。とても丁寧にまとめてくださっていてありがとうございます。",
+      "49.5%という数字の絶妙な具体性、よく気づきましたね。あのラインの「ちょうど過半数に届かない感」、記事で読んではっとしました。",
+      "「AIには偏りがある」と言いながらAIで作った報告書を出す専門家証人、矛盾がきれいすぎて記事読みながら二度見しました。面白い切り口でした。",
+      "飛行安全の機関が凱旋門を審査している風景、この記事で初めてちゃんと理解できました。FAAの守備範囲、思ったより広いというか、広くなっている。"
     ],
     "riffEn": [
-      "The Kennedy Center situation has reached a very specific phase: a federal judge has now issued an order requiring 30 days' notice before any demolition. Which means someone in Washington is maintaining an active countdown for a concert hall. The building's crime is that it won't take his name. The proposed sentence is demolition. A forklift already hit the pillars before any of this was authorized — because apparently this administration treats paperwork as optional. Thirty days. That's what stands between the Kennedy Center and a guy who couldn't get his name on the wall.",
-      "The tech companies most associated with AI — Anthropic, OpenAI, xAI — have been lobbying Congress for regulation. Not against it. For it. They showed up, made their case, and the House recessed so members could go campaign for midterms. The entities asking to be governed are better organized than the entity that is supposed to govern. I don't know what you call that. I don't think there's a civics term for it.",
-      "A Michigan high school has a policy for girls who miss swim class due to their period: you can make up the class, but you need to document your menstrual cycle. The option exists. The option has a price. Other schools send home a permission slip. This one wants a record of your uterus. The gym teacher is now, functionally, a medical records custodian. Nobody seems to have asked whether that's what gym teachers are for.",
-      "The Fish and Wildlife Service didn't repeal the Endangered Species Act. They issued a memo. The memo proposes a narrower reading of the word 'take' — what counts as harming a protected species. The law from 1973 is still on the books. The protections it was designed to provide are quietly leaving through the back. There are 1,600 critically imperiled species that did not receive a copy of the memo.",
-      "The White House nominated Lance Schroyer — former Oklahoma state trooper, no ICE experience — to lead Immigration and Customs Enforcement. Critics noted the experience gap. The Senate was not going to confirm him. The White House withdrew the nomination. ICE, which the administration calls its central immigration enforcement tool, continues without a Senate-confirmed director. This is not the first time. The 'top priority' label remains. The top position does not."
+      "OpenAI's internal documents described their scraping as 'the largest theft of labor in history.' That phrase didn't come from critics, or from The New York Times, or from a Senate hearing. It came from OpenAI. They wrote it down, filed it somewhere, and then it turned up in a federal lawsuit. Most companies, when caught doing something questionable, say they had no idea. OpenAI had an idea, documented the idea, and submitted the documentation to a court. The intern who proofread that memo is out there somewhere, absolutely beside themselves.",
+      "The Federal Register is the official daily journal of the U.S. government. It publishes executive orders, federal rules, and official notices—including, presumably, official warnings about foreign technology threats. For a period, its search function was powered by an open-source Chinese AI tool the FBI had characterized as malicious. The warning and the search button were in the same building, metaphorically speaking. Possibly the same browser tab. Nobody seems sure how long it was running, which is its own kind of answer.",
+      "The FCC's job, among other things, is to protect American broadcasting from undue foreign influence. This week the FCC approved selling 49.5% of CBS's parent company to investors from Saudi Arabia, the UAE, and Qatar, and rejected the concerns raised about it. TikTok is still banned. The threshold for what counts as 'foreign influence over American media' is apparently located at exactly 49.6%.",
+      "An expert witness—someone called to testify because of their professional expertise—used ChatGPT to help prepare their official court report. In that report, the expert noted that AI tools have biases. The court found out the report was AI-assisted. The expert confirmed the AI-bias observation in court, using the report. The phrase 'expert witness' is carrying a lot of weight in this sentence.",
+      "The FAA approved a triumphal arch over the Potomac River, near Reagan National Airport, and confirmed the structure won't interfere with flight paths. That's the FAA doing exactly what the FAA is supposed to do. The part that sits slightly sideways is that the Federal Aviation Administration is now the agency on record having reviewed a presidential monument for aeronautical clearance. Different agencies have reviewed different monuments throughout history. This is where we are now."
     ],
     "riffJa": [
-      "ケネディセンターの現状を整理すると、「自分の名前を入れられないから壊す」という判断に対して、連邦判事が「壊すなら30日前に言いなさい」と命令した段階にある。つまりアメリカの国家的文化施設に、今、取り壊し予告の猶予期間が設定されている。フォークリフトはすでに柱にぶつかっているらしい。承認前に。\n\n名前が刻めないから壊す。フォークリフトは書類を待たない。順番、いつもこれ。",
-      "Anthropic・OpenAI・xAIが議会に求めていたのは規制の撤廃ではなく、規制の導入です。「私たちを縛ってください」と言いに行ったわけですよ。で、議員たちは中間選挙の選挙運動のために帰宅した。縛られる側のほうが本気でロビー活動して、縛る側は不在。「救急車が患者に来てもらいに行った」話です。それだけ。",
-      "ミシガンの高校の話、構造だけ抜き出すとこうなります。女子生徒が月経で水泳を休む→補講を受けたければ月経周期の詳細を開示する→開示しなければ補講なし。授業を受ける権利の対価が医療情報の開示。体育の先生が月経の記録係になっている。スイミングキャップより先に書類が要る、って、どういう体育の授業ですか。",
-      "絶滅危惧種保護法（1973年）は廃止されていない。魚類野生生物局がメモを一枚出した。メモは「ハーム（害）の定義」を変更するというもので、開発行為が保護種の生息地に与える影響を「ハーム」と見なしにくくする方向に動く。法律はある。条文もある。「ハーム」という言葉の意味だけ変わった。\n\n1,600種の動植物はメモを受け取っていない。",
-      "ICE長官の指名が、また取り下げられました。今回の候補はオクラホマ州の元州警察官で、ICEでの勤務経験はゼロ。批判を受けて、上院での確認投票に進む前に撤回。これで、トランプ政権が「移民政策の最前線」と呼ぶ機関は引き続き上院承認の長官不在となった。\n\n「最優先」ね。そうですか。"
+      "OpenAIの社内文書に「史上最大の労働窃盗」と書いてあった。これ、批判側が言った言葉じゃないんですよ。OpenAI自身が書いた。メモとして。社内に。\n\nで、そのメモが法廷で出てきた。「知らなかった」と言えれば楽だったんでしょうけど、知っていたことをちゃんと文書化して、その文書を証拠として提出してしまった。悪事をやったことより、メモを残したことのほうが痛かった、という結末。",
+      "連邦官報というのは、アメリカ政府の公式日刊紙みたいなものです。大統領令や連邦規則が掲載される、要するに「国の正式なお知らせ」の場所。\n\nその検索機能に、FBIが「悪意あり」と警告していた中国製AIが使われていた。警告を出した部署と、使った部署、どこかですれ違っていたはずなんですが。いつから動いていたかは、まだよくわかっていないらしい。それ自体がひとつの答えな気がします。",
+      "FCCの役割のひとつが「外国の影響からアメリカのメディアを守ること」です。そのFCCが今週、パラマウント・グローバルの株式49.5%をサウジアラビア・UAE・カタールに売る案を承認して、懸念を退けた。\n\nTikTokはまだ禁止中です。「外国の影響」の定義が、ちょうど49.5%より上のところから始まるらしい。",
+      "「専門家証人」というのは、その分野に詳しいからこそ法廷に呼ばれる人のことですよね。\n\nその専門家が、ChatGPTで報告書を作って法廷に持ってきた。で、その報告書の中に「AIには偏りがある」と書いてあった。自分で書いた（というかAIに書かせた）報告書で、そのAIの問題点を証言している。法廷で。宣誓して。",
+      "FAAがポトマック川の凱旋門建設計画を承認しました。「飛行機には当たらない」という判断です。FAAとしては正しい仕事をしている。問題は、大統領の自己記念碑の審査を連邦航空局がやっている、という行政の風景のほうで。誰もおかしいと思わなかったのか、全員がおかしいと思って誰も言わなかったのか、どちらかです。"
     ],
     "asideEn": [
-      "A forklift didn't wait for the paperwork either.",
-      "The regulated called. The regulator didn't pick up.",
-      "Other schools call it a sick note.",
-      "The wildlife did not get a memo.",
-      "Still the top priority. Still no director."
+      "They documented it. Voluntarily.",
+      "The warning was on the same website.",
+      "49.5%. Not a problem. 49.6%: unknown.",
+      "Expert. Witness. Pick one.",
+      "Planes won't hit it. Noted."
     ],
     "asideJa": [
-      "フォークリフトは承認を待たなかった。",
-      "縛られる側だけが仕事してる。",
-      "他の学校では「欠席届」と言います。",
-      "動物にはメモが届かない。",
-      "最優先政策、トップ不在のまま。"
+      "自分でメモに残すことないのに。",
+      "同じサイトで警告出してたのに。",
+      "49.5%はギリセーフらしい。",
+      "専門家か、AIか。",
+      "飛行機には当たらないって。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "News Commentary",
-      "Kennedy Center",
-      "Endangered Species Act"
+      "OpenAI",
+      "Federal Aviation Administration",
+      "News Commentary"
     ],
-    "fullEn": "# Rules Are for People Who Can't Redefine Rules\n\n## Today's Forecast\n\nThe law is still there. The protection just left the building.\n\nToday's five stories are all running the same trick: keep the sign, change what's inside. A concert hall has 30 days before it might be demolished — not because the government repealed anything, but because someone can't get his name on the wall. AI companies are begging Congress for rules, and Congress went home to campaign. A high school in Michigan found a creative way to make girls earn back swim class. A 1973 environmental law got quietly hollowed out by memo. And the agency that's supposed to run Trump's signature immigration policy still has no confirmed director.\n\nFive stories, one move: rename the box, remove the contents, act confused when someone notices.\n\nYour forecast: if you've ever felt like you're doing the right thing and somehow still getting it wrong — welcome. You're not the one redefining harm. That's already somebody else's job today.\n\n---\n\n## 1. Judge Orders 30-Day Warning Before Trump Can Demolish Kennedy Center He Can't Put His Name On\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice)*\n\nA federal judge ordered the Trump administration to provide at least 30 days' notice before taking any action to demolish the John F. Kennedy Center for the Performing Arts. The order came after Trump threatened demolition following a court ruling that his name cannot be added to the building without congressional authorization. Court filings also included a witness account of a forklift striking the center's pillars.\n\n**Why It's Funny**\n\nThe Kennedy Center situation has reached a very specific phase: a federal judge has now issued an order requiring 30 days' notice before any demolition. Which means someone in Washington is maintaining an active countdown for a concert hall. The building's crime is that it won't take his name. The proposed sentence is demolition. A forklift already hit the pillars before any of this was authorized — because apparently this administration treats paperwork as optional. Thirty days. That's what stands between the Kennedy Center and a guy who couldn't get his name on the wall.\n\n**Say It Out Loud**\n\n> Can't put your name on it, so you demolish it — someone's been watching way too many mob movies.\n\n---\n\n## 2. Congress Declares AI an Urgent Crisis, Then Goes Home to Campaign\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html)*\n\nThe U.S. House of Representatives recessed to allow members to return to their districts for midterm campaigning, even as AI companies including Anthropic, OpenAI, and xAI have been urgently lobbying for federal regulation. Despite the tech sector's unusually vocal calls for oversight, no significant AI legislation has advanced on Capitol Hill.\n\n**Why It's Funny**\n\nThe tech companies most associated with AI — Anthropic, OpenAI, xAI — have been lobbying Congress for regulation. Not against it. For it. They showed up, made their case, and the House recessed so members could go campaign for midterms. The entities asking to be governed are better organized than the entity that is supposed to govern. I don't know what you call that. I don't think there's a civics term for it.\n\n**Say It Out Loud**\n\n> The AI companies are begging to be regulated and Congress said 'love the energy, we'll circle back after the election.'\n\n---\n\n## 3. Michigan High School Demands Girls Report Menstrual Cycles to Make Up Swim Class\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/17/michigan-school-period-policy)*\n\nA Michigan high school is facing backlash after parents raised concerns about a gym class policy requiring female students to disclose details about their menstrual cycles in order to make up swimming days missed due to their periods. The policy has drawn scrutiny over student privacy and whether the requirement is appropriate or legal.\n\n**Why It's Funny**\n\nA Michigan high school has a policy for girls who miss swim class due to their period: you can make up the class, but you need to document your menstrual cycle. The option exists. The option has a price. Other schools send home a permission slip. This one wants a record of your uterus. The gym teacher is now, functionally, a medical records custodian. Nobody seems to have asked whether that's what gym teachers are for.\n\n**Say It Out Loud**\n\n> You missed swim day, so just hand over your medical records. Very normal school policy.\n\n---\n\n## 4. Trump Officials Redefine 'Harm' So Endangered Species Can Be Harmed Legally\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials)*\n\nThe U.S. Fish and Wildlife Service issued an internal memo proposing to reinterpret the definition of 'take' under the Endangered Species Act of 1973, a change that could strip further federal protections from more than 1,600 critically imperiled species. The reinterpretation would narrow what counts as harm to a protected species, making it easier for development and industrial activity to proceed in their habitats.\n\n**Why It's Funny**\n\nThe Fish and Wildlife Service didn't repeal the Endangered Species Act. They issued a memo. The memo proposes a narrower reading of the word 'take' — what counts as harming a protected species. The law from 1973 is still on the books. The protections it was designed to provide are quietly leaving through the back. There are 1,600 critically imperiled species that did not receive a copy of the memo.\n\n**Say It Out Loud**\n\n> The Endangered Species Act is intact. The definition of the word 'harm' inside it — not so much.\n\n---\n\n## 5. White House Withdraws Its Own ICE Nominee, Leaving Agency Leaderless — Again\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn)*\n\nThe White House withdrew its nomination of Lance Schroyer, a former Oklahoma state trooper with no formal ICE experience, to lead Immigration and Customs Enforcement. Critics had questioned his qualifications for the role. The withdrawal ensures that ICE, the agency central to Trump's immigration agenda, will continue operating without a Senate-confirmed director.\n\n**Why It's Funny**\n\nThe White House nominated Lance Schroyer — former Oklahoma state trooper, no ICE experience — to lead Immigration and Customs Enforcement. Critics noted the experience gap. The Senate was not going to confirm him. The White House withdrew the nomination. ICE, which the administration calls its central immigration enforcement tool, continues without a Senate-confirmed director. This is not the first time. The 'top priority' label remains. The top position does not.\n\n**Say It Out Loud**\n\n> ICE is Trump's top enforcement priority. ICE has no confirmed director. Both things are true.\n\n---\n\n## Today's Punchline\n\n> Today's theme: the rules stayed the same, someone just redefined 'rules.' Sleep tight.\n",
-    "fullJa": "# 「ルールはそのまま」「保護だけなくなる」——アメリカ、今日も看板と中身が別々に生きている\n\n## 今日を占うよ〜\n\n「絶滅危惧種保護法」はまだある。\n\n法律の名前も、条文も、1973年のままそこにある。ただ「ハームの定義」が変わった。だから保護されない、と。\n\n今日の5本、全部これと同じ構造をしていたんですよ。看板だけ残して、中身をそっと入れ替える。ケネディセンターには「取り壊し30日前通知」という謎の猶予が生まれ、AIを規制してほしいと頼んでいるのはAI企業で、頼まれている側の議員は選挙運動のために帰宅中です。\n\nあ、そういえば今日のラインナップ、「最優先政策の担当機関トップ不在」というのもある。\n\n今日の占いです。あなたが「なんかうまくいかないな」と思っていることがあるとしたら、定義を書き換えたのはあなたじゃない。それだけで、今日はだいぶまともな側にいますよ。\n\n---\n\n## 1. Judge Orders 30-Day Warning Before Trump Can Demolish Kennedy Center He Can't Put His Name On\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/17/kennedy-center-changes-30-day-notice)）*\n\n連邦判事は、トランプ政権がケネディセンターを取り壊す前に少なくとも30日前の通知を義務付ける命令を出した。トランプ大統領は、自分の名前を施設に刻もうとして議会の承認が得られず、取り壊しを示唆していた。\n\n**どこが笑える？**\n\nケネディセンターの現状を整理すると、「自分の名前を入れられないから壊す」という判断に対して、連邦判事が「壊すなら30日前に言いなさい」と命令した段階にある。つまりアメリカの国家的文化施設に、今、取り壊し予告の猶予期間が設定されている。フォークリフトはすでに柱にぶつかっているらしい。承認前に。\n\n名前が刻めないから壊す。フォークリフトは書類を待たない。順番、いつもこれ。\n\n**このニュースをジョークにするなら...**\n\n> 名前を刻めないなら建物ごと壊す。誰かギャング映画の見すぎですよ。\n\n---\n\n## 2. Congress Declares AI an Urgent Crisis, Then Goes Home to Campaign\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/17/ai-crisis-congress-regulation.html)）*\n\nAIを巡る緊急立法の声が高まる中、下院議員たちは選挙運動のために議会を後にした。Anthropic、OpenAI、xAIが規制を強く求める一方、議会での具体的な立法行動は進んでいない。\n\n**どこが笑える？**\n\nAnthropic・OpenAI・xAIが議会に求めていたのは規制の撤廃ではなく、規制の導入です。「私たちを縛ってください」と言いに行ったわけですよ。で、議員たちは中間選挙の選挙運動のために帰宅した。縛られる側のほうが本気でロビー活動して、縛る側は不在。「救急車が患者に来てもらいに行った」話です。それだけ。\n\n**このニュースをジョークにするなら...**\n\n> AI企業が「規制してください」って頼んで、議会が「熱意は伝わった。選挙終わったら考える」。\n\n---\n\n## 3. Michigan High School Demands Girls Report Menstrual Cycles to Make Up Swim Class\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/17/michigan-school-period-policy)）*\n\nミシガン州のある高校で、女子生徒が月経による水泳授業の欠席を補うには、月経周期の詳細を開示しなければならないという体育授業の方針が明らかになり、保護者から強い反発を受けている。\n\n**どこが笑える？**\n\nミシガンの高校の話、構造だけ抜き出すとこうなります。女子生徒が月経で水泳を休む→補講を受けたければ月経周期の詳細を開示する→開示しなければ補講なし。授業を受ける権利の対価が医療情報の開示。体育の先生が月経の記録係になっている。スイミングキャップより先に書類が要る、って、どういう体育の授業ですか。\n\n**このニュースをジョークにするなら...**\n\n> 水泳を休んだら医療記録を提出してください。ごく普通の学校方針です。\n\n---\n\n## 4. Trump Officials Redefine 'Harm' So Endangered Species Can Be Harmed Legally\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/17/endangered-species-trump-officials)）*\n\nトランプ政権の魚類野生生物局が、絶滅危惧種法における「捕獲（take）」の定義を変更するメモを発行し、1,600種以上の危機的な動植物への連邦保護が弱まる可能性があると報じられている。\n\n**どこが笑える？**\n\n絶滅危惧種保護法（1973年）は廃止されていない。魚類野生生物局がメモを一枚出した。メモは「ハーム（害）の定義」を変更するというもので、開発行為が保護種の生息地に与える影響を「ハーム」と見なしにくくする方向に動く。法律はある。条文もある。「ハーム」という言葉の意味だけ変わった。\n\n1,600種の動植物はメモを受け取っていない。\n\n**このニュースをジョークにするなら...**\n\n> 絶滅危惧種保護法は無傷。その中の「ハーム」という単語の定義だけ、きれいに抜けた。\n\n---\n\n## 5. White House Withdraws Its Own ICE Nominee, Leaving Agency Leaderless — Again\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/17/lance-schroyer-ice-director-nomination-withdrawn)）*\n\nホワイトハウスは、オクラホマ州の元州警察官ランス・シュロイアーのICE長官指名を取り下げた。ICEの経験がないとして批判を受けており、上院での承認も行き詰まっていた。これにより、トランプ政権の移民政策の最前線機関は引き続き上院承認の長官不在となる。\n\n**どこが笑える？**\n\nICE長官の指名が、また取り下げられました。今回の候補はオクラホマ州の元州警察官で、ICEでの勤務経験はゼロ。批判を受けて、上院での確認投票に進む前に撤回。これで、トランプ政権が「移民政策の最前線」と呼ぶ機関は引き続き上院承認の長官不在となった。\n\n「最優先」ね。そうですか。\n\n**このニュースをジョークにするなら...**\n\n> ICEはトランプ最優先の執行機関。ICEに承認された長官はいない。両方ほんとの話。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 法律はそのまま。「法律」の意味だけ変わってた。おやすみなさい。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "captions d1-5番・d4-1番・d5-3番に汎用型ジョーク／観察止まり／蛇足を確認。xJa3本が135字超過または書き言葉寄り。riffJa d1の「砂場で5歳児」はcommentaryの反復で新情報ゼロ。introJaの占いパートが講釈口調。これらをピンポイントで修正。 ／ 文体パス: 3箇所修正。riffJa[0]の締め「この政権の仕事の順番、常にそうですよね。」はプレゼン口調の総括なので崩し、riffJa[4]の末尾「今日も並んで立っている。」はxJa[4]と完全重複かつ綺麗に着地しすぎなので捨て台詞に切り落とし、riffJa[1]の「もう『規制のパラドックス』とか難しい言葉は要らなくて」は説明口調なので短く切る。"
+    "fullEn": "# They All Knew. They Just Kept Going.\n\n## Today's Forecast\n\nOpenAI wrote down 'doom loop.' On purpose. In a document. That is now in court.\n\nToday's five stories share one uncomfortable quality: everyone involved had some version of a warning. The FBI said the tool was malicious. The FCC heard the concerns. The expert witness knew AI has biases—he put that in the AI report. The FAA weighed in on a triumphal arch the way the FAA weighs in on a triumphal arch.\n\nSo here's your forecast: if you've been second-guessing yourself because you 'should have known better,' today's evidence suggests that knowing better and doing better are two completely separate skills. The most powerful institutions on earth have been failing this test all week. You're in fine company. Go do the thing.\n\n---\n\n## 1. OpenAI and Microsoft Knew They Were Breaking the Web—And Wrote It Down\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)*\n\nUnsealed court documents in the New York Times' lawsuit against OpenAI and Microsoft reveal that both companies internally acknowledged their data scraping practices could create a 'doom loop' damaging the open web. Their own documentation described the scraping as the 'largest theft of labor in history.' The documents suggest the companies proceeded despite internal warnings about the potential consequences.\n\n**Why It's Funny**\n\nOpenAI's internal documents described their scraping as 'the largest theft of labor in history.' That phrase didn't come from critics, or from The New York Times, or from a Senate hearing. It came from OpenAI. They wrote it down, filed it somewhere, and then it turned up in a federal lawsuit. Most companies, when caught doing something questionable, say they had no idea. OpenAI had an idea, documented the idea, and submitted the documentation to a court. The intern who proofread that memo is out there somewhere, absolutely beside themselves.\n\n**Say It Out Loud**\n\n> They knew it was a doom loop. They wrote it down. They submitted it to a court. The intern who proofread that memo is somewhere living rent-free off the irony.\n\n---\n\n## 2. U.S. Government Website Briefly Ran Chinese AI the FBI Called 'Malicious'\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/)*\n\nThe Federal Register website, an official U.S. government publication, was found to have briefly used an open source Chinese AI search tool that the FBI had previously characterized as 'malicious.' The tool was apparently integrated into the site before being removed. The incident highlights inconsistencies between official government warnings about Chinese technology and actual government procurement and deployment practices.\n\n**Why It's Funny**\n\nThe Federal Register is the official daily journal of the U.S. government. It publishes executive orders, federal rules, and official notices—including, presumably, official warnings about foreign technology threats. For a period, its search function was powered by an open-source Chinese AI tool the FBI had characterized as malicious. The warning and the search button were in the same building, metaphorically speaking. Possibly the same browser tab. Nobody seems sure how long it was running, which is its own kind of answer.\n\n**Say It Out Loud**\n\n> The FBI called it malicious. The Federal Register called it 'the search button.' Somebody's definition is off.\n\n---\n\n## 3. FCC Approves Saudi Arabia, UAE and Qatar Buying Nearly Half of CBS's Parent Company\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/)*\n\nThe Federal Communications Commission approved a deal allowing Paramount Global, the parent company of CBS, to sell a 49.5% equity stake to investors from Saudi Arabia, the United Arab Emirates, and Qatar. The FCC rejected concerns raised about repressive foreign governments acquiring influence over a major American broadcaster. The deal marks a significant shift in foreign ownership of U.S. media.\n\n**Why It's Funny**\n\nThe FCC's job, among other things, is to protect American broadcasting from undue foreign influence. This week the FCC approved selling 49.5% of CBS's parent company to investors from Saudi Arabia, the UAE, and Qatar, and rejected the concerns raised about it. TikTok is still banned. The threshold for what counts as 'foreign influence over American media' is apparently located at exactly 49.6%.\n\n**Say It Out Loud**\n\n> TikTok: banned. CBS, 49.5% owned by three Gulf governments: totally fine. The threshold for 'foreign influence' is apparently just a hair under half.\n\n---\n\n## 4. Expert Witness Uses ChatGPT to Build Court Report, Learns AI 'Has Biases'\n\n*CBS News US — [source](https://www.cbsnews.com/news/ai-expert-witness-lawsuit-trial/)*\n\nAn expert witness in a multimillion-dollar lawsuit used ChatGPT to help prepare their official court report, drawing fresh scrutiny to the use of AI in legal proceedings. The expert reportedly acknowledged that AI tools 'have biases.' The incident adds to a growing number of cases where AI-generated content has caused problems in courtroom settings, including previous instances of lawyers submitting AI-hallucinated citations.\n\n**Why It's Funny**\n\nAn expert witness—someone called to testify because of their professional expertise—used ChatGPT to help prepare their official court report. In that report, the expert noted that AI tools have biases. The court found out the report was AI-assisted. The expert confirmed the AI-bias observation in court, using the report. The phrase 'expert witness' is carrying a lot of weight in this sentence.\n\n**Say It Out Loud**\n\n> The expert witness warned the court that AI has biases. Using the AI report. That he brought to court. Your Honor, I'd like to introduce Exhibit Irony.\n\n---\n\n## 5. FAA Clears Trump's Triumphal Arch Over the Potomac, Says It Won't Hit Any Planes\n\n*CBS News US — [source](https://www.cbsnews.com/news/faa-trump-arch-d-c-national-airport-flight-path/)*\n\nThe Federal Aviation Administration approved President Trump's plans for a large triumphal arch to be constructed across the Potomac River near Washington, D.C. The FAA determined that the structure would not interfere with flight paths at Reagan National Airport. The arch is part of broader beautification and monument plans put forward by the Trump administration for the Washington area.\n\n**Why It's Funny**\n\nThe FAA approved a triumphal arch over the Potomac River, near Reagan National Airport, and confirmed the structure won't interfere with flight paths. That's the FAA doing exactly what the FAA is supposed to do. The part that sits slightly sideways is that the Federal Aviation Administration is now the agency on record having reviewed a presidential monument for aeronautical clearance. Different agencies have reviewed different monuments throughout history. This is where we are now.\n\n**Say It Out Loud**\n\n> The FAA's verdict on the presidential triumphal arch: planes won't hit it. The aesthetic verdict was outside their jurisdiction.\n\n---\n\n## Today's Punchline\n\n> Today's theme: everyone had the memo. The memo didn't help.\n",
+    "fullJa": "# OpenAIは「ウェブをぶっ壊すかも」と社内文書に書いて、続けた話\n\n## 今日を占うよ〜\n\nOpenAIが「ドゥームループ」と書きました。\n\n自分たちの社内文書に。わざわざ。\n\nそのメモが今、法廷にあります。\n\nで、今日の残り4本を見ると…\nFBIが「悪意あり」と警告した中国製AIを政府公式サイトが使い、FCCが「懸念は退ける」と言ってサウジ・UAE・カタールにCBSの約半分を売り、専門家証人が「AIには偏りがある」とChatGPTに書かせた報告書を法廷に持ち込み、FAAが大統領の凱旋門に「飛行機には当たりません」と太鼓判を押した。\n\n今日の5本を貫く糸は、たぶん「知っていたのに、続けた」ということです。\n\nということで、占いです。\n\n「わかってはいるんだけど」と自分を責めているなら、今日だけは少し休んでいい。知ることと止まることの間の距離は、世界最大のテック企業にも、連邦政府にも、法廷の専門家にも、等しく遠かった。あなただけじゃないって、今日の5本がそう言ってます。\n\n少なくとも今日はね。\n\n---\n\n## 1. OpenAI and Microsoft Knew They Were Breaking the Web—And Wrote It Down\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/997633/openai-microsoft-chatgpt-ai-new-york-times-doom-loop-theft-google-zero)）*\n\nニューヨーク・タイムズ対OpenAI・マイクロソフト訴訟で開示された内部文書により、両社がウェブへの「ドゥームループ」を引き起こすと自ら認識しながらデータスクレイピングを続けていたことが明らかになった。\n\n**どこが笑える？**\n\nOpenAIの社内文書に「史上最大の労働窃盗」と書いてあった。これ、批判側が言った言葉じゃないんですよ。OpenAI自身が書いた。メモとして。社内に。\n\nで、そのメモが法廷で出てきた。「知らなかった」と言えれば楽だったんでしょうけど、知っていたことをちゃんと文書化して、その文書を証拠として提出してしまった。悪事をやったことより、メモを残したことのほうが痛かった、という結末。\n\n**このニュースをジョークにするなら...**\n\n> 「ドゥームループ」になるって分かってた。書き残した。裁判所に提出した。そのメモを校正したインターン、今ごろ笑いが止まらないと思う。\n\n---\n\n## 2. U.S. Government Website Briefly Ran Chinese AI the FBI Called 'Malicious'\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/09/us-government-website-used-chinese-model-the-fbi-called-malicious/)）*\n\n米連邦政府の公式サイト「連邦官報」が、FBIが「悪意ある」と警告していたオープンソースの中国製AI検索ツールを一時的に使用していたことが判明した。\n\n**どこが笑える？**\n\n連邦官報というのは、アメリカ政府の公式日刊紙みたいなものです。大統領令や連邦規則が掲載される、要するに「国の正式なお知らせ」の場所。\n\nその検索機能に、FBIが「悪意あり」と警告していた中国製AIが使われていた。警告を出した部署と、使った部署、どこかですれ違っていたはずなんですが。いつから動いていたかは、まだよくわかっていないらしい。それ自体がひとつの答えな気がします。\n\n**このニュースをジョークにするなら...**\n\n> FBIは「悪意あり」と言った。連邦官報は「検索ボタン」と言った。どっちかの定義がズレてる。\n\n---\n\n## 3. FCC Approves Saudi Arabia, UAE and Qatar Buying Nearly Half of CBS's Parent Company\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/)）*\n\nFCCはパラマウント・グローバルの株式49.5%をサウジアラビア、UAE、カタールに売却する案を承認し、抑圧的な政府のメディア影響力取得への懸念を退けた。\n\n**どこが笑える？**\n\nFCCの役割のひとつが「外国の影響からアメリカのメディアを守ること」です。そのFCCが今週、パラマウント・グローバルの株式49.5%をサウジアラビア・UAE・カタールに売る案を承認して、懸念を退けた。\n\nTikTokはまだ禁止中です。「外国の影響」の定義が、ちょうど49.5%より上のところから始まるらしい。\n\n**このニュースをジョークにするなら...**\n\n> TikTok：禁止。CBS、湾岸3カ国が49.5%保有：全く問題なし。「外国の影響」の基準、ちょうど半分より下に引いてあるみたい。\n\n---\n\n## 4. Expert Witness Uses ChatGPT to Build Court Report, Learns AI 'Has Biases'\n\n*CBS News US（[記事](https://www.cbsnews.com/news/ai-expert-witness-lawsuit-trial/)）*\n\n数百万ドル規模の訴訟で、専門家証人がChatGPTを使って報告書を作成していたことが発覚し、法廷でのAI利用に対する懸念が改めて注目を集めている。\n\n**どこが笑える？**\n\n「専門家証人」というのは、その分野に詳しいからこそ法廷に呼ばれる人のことですよね。\n\nその専門家が、ChatGPTで報告書を作って法廷に持ってきた。で、その報告書の中に「AIには偏りがある」と書いてあった。自分で書いた（というかAIに書かせた）報告書で、そのAIの問題点を証言している。法廷で。宣誓して。\n\n**このニュースをジョークにするなら...**\n\n> 専門家証人は「AIには偏りがある」と法廷で証言した。AI製の報告書を使って。証拠物件Aは矛盾そのものです。\n\n---\n\n## 5. FAA Clears Trump's Triumphal Arch Over the Potomac, Says It Won't Hit Any Planes\n\n*CBS News US（[記事](https://www.cbsnews.com/news/faa-trump-arch-d-c-national-airport-flight-path/)）*\n\n連邦航空局（FAA）が、ポトマック川をまたぐトランプ大統領の凱旋門建設計画を承認し、ワシントンD.C.のレーガン空港の飛行経路には影響しないと判断した。\n\n**どこが笑える？**\n\nFAAがポトマック川の凱旋門建設計画を承認しました。「飛行機には当たらない」という判断です。FAAとしては正しい仕事をしている。問題は、大統領の自己記念碑の審査を連邦航空局がやっている、という行政の風景のほうで。誰もおかしいと思わなかったのか、全員がおかしいと思って誰も言わなかったのか、どちらかです。\n\n**このニュースをジョークにするなら...**\n\n> FAAの凱旋門審査結果：飛行機には当たりません。美的センスの審査は管轄外でした。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「知っていた」と「止めた」の間には、太平洋より広い何かがある。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "①d1-captions[4]の「Bold strategy.」を構築されたジョークに書き直し。②d3-captions[4]「Great system, no notes.」を解体。③d4-captions[1]の日本語訳が崩壊しているので修正。④xJa[3]がやや長く135字ギリギリを確認→問題なし。⑤introJaは話し言葉として合格。⑥imagePromptsはシルエット・記号中心で合格。センシティブ案件なし。 ／ 文体パス: 2箇所直した。introJaの占いパラグラフが「等しく遠かった」「あなただけじゃない」と綺麗にまとめすぎていたので崩した。riffJa[2]の最終行「ちょうど49.6%のところから始まるらしい」は元稿のxJaと数字がずれていたため49.5%に統一しつつ、締めのキレを維持した。"
   },
   "carousel": [
-    "images/2026-09-18/carousel/slide-1.jpg",
-    "images/2026-09-18/carousel/slide-2.jpg",
-    "images/2026-09-18/carousel/slide-3.jpg",
-    "images/2026-09-18/carousel/slide-4.jpg",
-    "images/2026-09-18/carousel/slide-5.jpg",
-    "images/2026-09-18/carousel/slide-6.jpg",
-    "images/2026-09-18/carousel/slide-7.jpg"
+    "images/2026-09-19/carousel/slide-1.jpg",
+    "images/2026-09-19/carousel/slide-2.jpg",
+    "images/2026-09-19/carousel/slide-3.jpg",
+    "images/2026-09-19/carousel/slide-4.jpg",
+    "images/2026-09-19/carousel/slide-5.jpg",
+    "images/2026-09-19/carousel/slide-6.jpg",
+    "images/2026-09-19/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-18/note-header.jpg",
-    "substack": "images/2026-09-18/substack-cover.jpg"
+    "note": "images/2026-09-19/note-header.jpg",
+    "substack": "images/2026-09-19/substack-cover.jpg"
   }
 };
