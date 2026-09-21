@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-21",
-  "generatedAt": "2026-09-20T21:35:55+00:00",
+  "date": "2026-09-22",
+  "generatedAt": "2026-09-21T22:40:25+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump's Triumphal Arch Now Also a Sniper Nest, Drone Depot, and 'Military Complex'",
-        "source": "NPR News",
-        "date": "2026-09-21",
-        "url": "https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones",
-        "summary": "トランプ大統領がSNSで、ワシントンD.C.に建設予定の250フィートの凱旋門について、屋上や広場にスナイパーと大量のドローンを配備する「最高水準の軍事複合施設」として使用すると表明した。連邦裁判所は現在、この建造物の合法性を審査中。"
+        "headline": "Trump's Truth Social Posts Now Have a $100K Price Tag — Before He Even Posts Them",
+        "source": "CBS News US",
+        "date": "2026-09-22",
+        "url": "https://www.cbsnews.com/news/ex-federal-prosecutors-trump-media-early-access-truth-social-posts/",
+        "summary": "トランプ・メディア社がTruth SocialのAPIデータフィードを提供開始し、大統領本人を含む上位アカウントへの「リアルタイムアクセス」に10万ドルを請求していることが判明。元検察官らは、現職大統領の発言を先行販売することはインサイダー取引に相当する可能性があると指摘している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「凱旋門」は本来、戦勝と平和を祝う建造物なんですよ。そこにスナイパーを置いたら、何を祝ってるのか完全にわからなくなりますよね。",
-        "<b>滑稽さ:</b> 裁判所に「これ建てていいですか」って聞かれてる最中に「ちなみに武器庫にもします」って投稿するの、交渉術として斬新すぎる。",
-        "<b>日本・海外から見ると:</b> 凱旋門といえばパリ。パリのあれにドローンとスナイパー配置したら何て言われるか、一回想像してほしいんですよ。"
+        "<b>矛盾:</b> 「フェイクニュースを排除して真実を届ける」がキャッチフレーズのプラットフォームが、真実に10万ドルの値札をつけてる。",
+        "<b>滑稽さ:</b> 大統領のツイートを〝先着順〟で買う時代ですよ。金融情報サービスかと思ったら、ただの大統領のつぶやきなんですよ。",
+        "<b>日本・海外から見ると:</b> 他国なら「国家機密の売買」と呼ぶところを、アメリカではサブスクリプションプランと呼んでる。"
       ],
       "imagePrompts": [
-        "A massive triumphal arch in Washington D.C. with military drones hovering around its top, a sniper silhouette visible on the roof parapet, tourists looking up from below with confused expressions, architectural blueprints scattered in the foreground",
-        "A split architectural blueprint: left half shows ornate triumphal arch with decorative carvings, right half shows the same arch labeled with drone storage bays, sniper positions, and ammunition rooms",
-        "A formal press podium in front of a half-built arch structure, stacks of legal documents piled beside it, a single drone hovering above as if waiting for approval"
+        "A vending machine in the shape of a smartphone labeled 'TRUTH SOCIAL PREMIUM FEED', with a slot that reads '$100,000 — INSERT CARD', dispensing a single paper with a presidential tweet on it, set in a Wall Street lobby",
+        "A velvet rope in front of a podium labeled 'PRESIDENTIAL STATEMENTS', with a ticket booth to the side showing the price '$100,000 / year', and a line of people in business suits holding briefcases",
+        "A stock ticker board in a trading floor showing 'TRUTH ACCESS: $100K' scrolling across it, with traders looking confused, next to a sign reading 'FOR INFORMATIONAL PURPOSES ONLY'"
       ],
       "captions": [
-        "Nothing says 'we come in peace' like a monument that's also a sniper nest.",
-        "The arch is still in court. The drones already have a move-in date.",
-        "Other cities build landmarks so people visit. This one's so people don't.",
-        "Rome's Colosseum took decades to repurpose. Trump did it in a Truth Social post before breakfast.",
-        "Somewhere a tourism brochure writer is staring at their screen, not typing."
+        "Truth Social is charging $100,000 for real-time access to Trump's posts. So democracy is now a subscription service, and you're still on the free tier.",
+        "They're selling early access to the president's thoughts. Bold move for a product that's famously unpredictable and occasionally market-moving.",
+        "A hundred thousand dollars to read tweets in real time. The guy who promised to drain the swamp just put a turnstile on it.",
+        "Former prosecutors say it might be insider trading. Trump says it's just business. The line between those two things is doing a lot of work right now.",
+        "Imagine paying six figures to get a presidential post at the exact same moment as everyone else. That's not a subscription — that's a protection racket."
       ],
       "captionsJa": [
-        "「平和の象徴」の屋上にスナイパーを置くの、なかなか強気のメッセージですよね。",
-        "門の建設許可はまだ裁判中なのに、ドローンはもう引っ越し日を抑えてる。",
-        "普通の観光名所は「来てください」って作るじゃないですか。これは違う方向に振り切ってる。",
-        "ローマのコロッセオを再利用するのに何百年かかったと思ってるんですか。トランプは朝の投稿一本でやった。",
-        "観光パンフレットのライター、今ごろ画面の前で固まってると思う。"
+        "Truth Socialが大統領のポストに10万ドルの値段をつけた。民主主義がサブスク化してるんですけど、あなたはまだ無料プランですよ。",
+        "大統領の思考をリアルタイム購入できます。予測不能で市場を動かすこともある、というコンテンツとしては攻めたビジネスモデル。",
+        "10万ドル払えばトランプのツイートが読める。「沼を干上がらせる」と言ってた人が、沼に有料改札をつけた。",
+        "元検察官は「インサイダー取引かも」と言ってる。トランプは「ただのビジネスだ」と言ってる。その二つの距離感、もう少し教えてほしい。",
+        "6桁の金を払って、誰でも見られるポストを誰でも見られるタイミングで受け取る。これはサブスクじゃなくて、みかじめ料では。"
       ],
-      "newsEn": "President Trump announced on Truth Social that his proposed 250-foot triumphal arch near Arlington National Cemetery will double as a military complex, complete with snipers and drones on its roof and plaza. He claimed the military use was requested by the U.S. military itself. A federal court is currently reviewing the arch's legal standing.",
+      "newsEn": "Trump Media & Technology Group launched a paid API feed for Truth Social, charging $100,000 for real-time access to posts from top accounts — including, presumably, the president himself. Former federal prosecutors have said this arrangement could constitute illegal insider trading, since presidential statements can move markets. The service was introduced without public announcement.",
       "ironyEn": [
         {
-          "contradiction": "A triumphal arch is one of history's oldest symbols of peace after war. Adding snipers sort of undercuts the 'triumph' part.",
-          "absurdity": "He announced his arch would store ammunition and drones — while a court is still deciding if the arch can exist at all.",
-          "outside": "Paris has had the Arc de Triomphe for 200 years without putting a weapons cache in it. Just putting that out there."
+          "contradiction": "A platform named 'Truth' Social is selling access to the truth for $100,000 a year. Apparently truth isn't free — it's on a tiered pricing model.",
+          "absurdity": "The president's public statements, which are supposed to inform citizens, are being packaged as a premium financial data product. Democracy as a Bloomberg terminal.",
+          "outside": "Most countries have laws against officials profiting from nonpublic information. The U.S. apparently just needed to clarify whether a tweet counts."
         },
         {
-          "contradiction": "The monument meant to celebrate American greatness now needs armed guards to protect itself from Americans.",
-          "absurdity": "Most people add a gift shop when they build a landmark. Trump's adding a sniper nest.",
-          "outside": "Tourists planning D.C. trips now have to decide if they want to stand under a 250-foot arch that's also, technically, a military installation."
+          "contradiction": "Trump built his brand railing against elites who rig the system. The system now costs $100K to access in real time.",
+          "absurdity": "You don't even get the posts early — just at the same speed as everyone else, but with an invoice attached. It's a velvet rope with no VIP room behind it.",
+          "outside": "Wall Street traders are essentially being asked to pay a toll to hear the president think out loud. At that price, they might want a refund."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-21/candidate-1.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-21/candidate-1-punchy.jpg"
+      "image": "images/2026-09-22/candidate-1.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-22/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
-      "sensitive": false,
+      "sensitive": true,
       "news": {
-        "headline": "Nvidia's Jensen Huang Says AI Extinction Risk Is 0% — Nvidia Stock Remains Bullish",
-        "source": "The Verge",
-        "date": "2026-09-21",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown",
-        "summary": "NvidiaのジェンセンCEOがCBSのインタビューで、AIが人類を滅亡させる確率は「0%」と断言し、AIの脅威論を「無責任なドゥームズデイナラティブ」と一蹴した。"
+        "headline": "ICE Quietly Stops Disclosing Where It's Holding Thousands of Detainees Facing Deportation",
+        "source": "The Guardian US",
+        "date": "2026-09-22",
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations",
+        "summary": "米移民税関執行局（ICE）が、最終送還命令を受けた収容者数千人の居場所を公開するのをひそかに停止したことが明らかになった。弁護士や家族が収容者を探すことを困難にするこの措置は、公式発表なく実施された。"
       },
       "commentary": [
-        "<b>矛盾:</b> AIバブルの最大の受益者が「AIは全然危なくないですよ」って言ってるわけですよ。タバコ会社の社長が「タバコは体にいい」って言ってた時代を思い出しませんか。",
-        "<b>滑稽さ:</b> 「0%」って断言するのが研究者じゃなくて株価に一番直結してる人というのが、もう風刺にならないくらいそのまんまなんですよね。",
-        "<b>日本・海外から見ると:</b> 数十年AI研究してきた科学者たちが「慎重に」と言ってる横で、AIチップ売ってる人が「大丈夫です」と言う。どちらを信じるかはご自由に。"
+        "<b>矛盾:</b> 「法の支配」を掲げる行政機関が、弁護士が依頼人を探せないような運用を、告知すらせずに始めた。これは制度の失敗ではなく、制度の選択。",
+        "<b>滑稽さ:</b> ここで笑える部分はない。問題の本質は「正式な手続きを踏んでいるように見せながら、適正手続きの前提条件を静かに取り除いている」こと。",
+        "<b>日本・海外から見ると:</b> 弁護士が依頼人の居場所を知れない制度は、法的代理という概念そのものを形骸化させる。手続きの外形だけ残して中身を空にする手法として、国際的な人権基準から見れば看過できない。"
       ],
       "imagePrompts": [
-        "A man in a suit standing next to a gigantic upward-trending stock chart, confidently gesturing at a large sign reading '0%' while a crowd of scientists in lab coats hold up papers with question marks",
-        "A carnival barker at a booth labeled 'AI IS FINE' surrounded by stacks of semiconductor chips, megaphone in hand, while researchers in the background hold warning signs",
-        "A scales-of-justice image: one side holds a pile of Nvidia GPUs and dollar bills, the other side holds a single scientific research paper — the scale tips heavily toward the GPUs"
+        "A large government filing cabinet labeled 'DETAINEE LOCATIONS' with all the drawers locked and a small handwritten note taped to it reading 'NO LONGER PUBLIC', set inside a fluorescent-lit federal office",
+        "An official government website on a monitor with a database search field for detainee locations, showing a blank results page with an error message: 'INFORMATION NOT AVAILABLE', a government seal visible in the corner",
+        "A federal building exterior with a sign reading 'ICE DETENTION RECORDS OFFICE', front door closed, with a plain notice posted reading 'Location data discontinued — no further details'"
       ],
       "captions": [
-        "The guy who profits most from AI has done the math and it turns out AI is completely safe. Great news.",
-        "Decades of AI research on one side. Jensen Huang's stock portfolio on the other. He checked both. The portfolio won.",
-        "Zero percent chance of extinction, he says. His Nvidia shares agreed immediately.",
-        "You know who else was confident there was nothing to worry about? Every disaster movie character in the first ten minutes.",
-        "Scientists: 'We should study this carefully.' Jensen: 'Studied it. Fine. Next question.'"
+        "ICE stopped telling anyone where detainees are held. The rights still exist. The people, technically, are somewhere.",
+        "Due process requires a lawyer. A lawyer requires a client. A client requires a location. ICE quietly removed that last step.",
+        "No press release. No rulemaking. One day the database just... stopped.",
+        "They didn't eliminate the right to counsel. They just made it impossible to find the person who has that right.",
+        "The procedure is still on the books. The location is not. One of those things matters more."
       ],
       "captionsJa": [
-        "AIで一番儲かってる人が計算したら、AIのリスクはちょうど0%でした。よかったですね。",
-        "数十年のAI研究と、ジェンセンの株式ポートフォリオ。両方確認した。ポートフォリオが勝った。",
-        "「絶滅リスクゼロ」と彼が言った瞬間、Nvidia株が小さく頷いたらしいですよ。",
-        "「大丈夫」って最初に言う人、ディザスタームービーだと大体10分以内に退場するんですよ。",
-        "研究者たち「慎重に検討しましょう」。ジェンセン「検討した。問題なし。以上」。"
+        "ICEは収容者の居場所を教えるのをやめた。権利は存在する。人も、どこかにいる。",
+        "適正手続きには弁護士が必要。弁護士には依頼人が必要。依頼人には居場所が必要。ICEは最後の一つを静かに消した。",
+        "プレスリリースなし。規則改正なし。ある日、データベースが止まっただけ。",
+        "弁護士を頼む権利は消してない。その人を弁護士が探せないようにしただけ。",
+        "手続きの外形は残っている。居場所は残っていない。どちらが重要かは自明だ。"
       ],
-      "newsEn": "Nvidia co-founder and CEO Jensen Huang told CBS Sunday Morning that predictions of AI destroying humanity are irresponsible and not grounded in science, calling them 'doomsday narratives.' He placed the probability of an AI-caused human extinction at zero percent. Huang stands to benefit enormously from continued AI investment and development.",
+      "newsEn": "U.S. Immigration and Customs Enforcement has stopped publicly disclosing the locations of thousands of detainees who have received final deportation orders. The move, made without announcement, makes it significantly harder for lawyers and family members to locate those being held. Legal advocates say the policy undermines due process protections and access to counsel.",
       "ironyEn": [
         {
-          "contradiction": "The person with the most financial stake in AI not being regulated is also the most confident it poses zero risk. Funny how that works.",
-          "absurdity": "AI researchers who've spent careers studying this give it more than 0%. Jensen gives it exactly 0%. One of these groups sells AI chips.",
-          "outside": "Asking Jensen Huang if AI is dangerous is like asking a mattress salesman if you need more sleep."
+          "contradiction": "The U.S. system requires legal representation and due process for detainees — but ICE quietly removed the step that makes those rights usable: telling anyone where the person is being held.",
+          "absurdity": "This isn't satire material. The actual issue is that a government agency changed a transparency policy with no announcement, making it structurally harder to exercise rights that formally still exist.",
+          "outside": "International human rights standards require that detainees' locations be accessible to family and counsel. Removing that access while keeping the formal language of due process intact is the policy contradiction worth examining."
         },
         {
-          "contradiction": "Nvidia's valuation depends almost entirely on AI growth, and its CEO thinks concerns about AI are 'not based in science.' The conflict of interest is doing a lot of heavy lifting here.",
-          "absurdity": "He didn't say 'low risk' or 'manageable risk.' He said zero. As in, the same probability as rolling a zero on a six-sided die.",
-          "outside": "In Japan, there's a word — 'tatemae' — for what you say publicly versus what you actually think. Jensen's 0% is giving strong tatemae energy."
+          "contradiction": "Rights that cannot be located are rights that cannot be exercised. The procedure still exists on paper.",
+          "absurdity": "No comedy here. The accountability gap is the story: a major change in detention transparency was implemented without public notice, press release, or rulemaking.",
+          "outside": "When lawyers can't find their clients inside a government system, the oversight function of the legal profession disappears — which may be precisely the point."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-21/candidate-2.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-21/candidate-2-punchy.jpg"
+      "image": "images/2026-09-22/candidate-2.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-22/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Trump Calls for 'AI Force' and 'AI Czar' While Pushing to Block All AI Regulation",
-        "source": "The Verge",
-        "date": "2026-09-21",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar",
-        "summary": "トランプ大統領がTruth Socialで「AIチャー（統括官）」を任命し新たな「AIフォース」を創設すると表明する一方、政権はAI規制を一切行わない方針を維持している。"
+        "headline": "Texas Gov. Abbott Halts Data Center Permits Weeks After Welcoming the Same Boom He's Now Pausing",
+        "source": "CNBC Top News",
+        "date": "2026-09-22",
+        "url": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
+        "summary": "テキサス州のグレッグ・アボット知事が、データセンターの建設許可を停止する命令を出した。これは同知事が数週間前に同州のデータセンター建設ブームを歓迎するモラトリアムを発令した直後のことで、中間選挙の争点となっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「規制は一切しない」と言いながら「統括官を置いてフォースを作る」って、組織だけ作ってルールは作らない、という謎の体制なんですよ。",
-        "<b>滑稽さ:</b> 与野党もAI業界の中からも「少し落ち着いて」という声が出てるタイミングで、「AIフォース、創設！」って投稿するの、空気の読まなさがもはや芸術。",
-        "<b>日本・海外から見ると:</b> 日本でも「AIをどう規制するか」が議論になってるんですが、アメリカの答えは「規制しない。でも軍みたいな組織は作る」でした。"
+        "<b>矛盾:</b> テキサスの電力網を「自立した成功モデル」と宣伝してきた知事が、その電力網を爆食いするデータセンターを誘致し、選挙直前になって「やっぱり待って」と言ってる。",
+        "<b>滑稽さ:</b> モラトリアムのモラトリアムですよ。「いったん止める」をいったん止めたんじゃなくて、歓迎したものをいったん止めたんですよ。政策の向きが選挙カレンダーと完全に連動してる。",
+        "<b>日本・海外から見ると:</b> エネルギー自立を誇る州が、AIブームの電力消費に対応できず許可を凍結するというのは、「テック産業の成長」と「既存インフラ」のギャップを象徴する話として世界中で起きてる構図。"
       ],
       "imagePrompts": [
-        "A military recruitment poster styled visual showing a robot soldier silhouette under the words 'AI FORCE' with a 'NO REGULATIONS' badge stamped across the bottom corner",
-        "An empty corner office with a large nameplate reading 'AI CZAR,' an inbox tray labeled 'Rules to Enforce' that is completely empty, and a window view of servers and data centers",
-        "A government organizational chart showing 'AI Force' at the top with arrows pointing to boxes that all say 'No Restrictions Apply,' posted on a bulletin board in a government hallway"
+        "A large welcome banner reading 'TEXAS LOVES DATA CENTERS' hanging on a building, with a state official below holding a sign reading 'PERMIT HALT EFFECTIVE IMMEDIATELY', power lines sagging in the background",
+        "A governor's desk with two stamped documents side by side: one reading 'DATA CENTER BOOM: APPROVED' dated several months ago, and one reading 'DATA CENTER PERMITS: HALTED' dated last week, both with official seals",
+        "A massive server farm building under construction in a Texas landscape, with a 'GRAND OPENING SOON' sign half-covered by a new notice reading 'PERMIT FROZEN — SEE STATE OFFICE', electrical pylons visible in the distance"
       ],
       "captions": [
-        "We're not regulating AI, but we are making it its own branch of the military. Totally normal governance.",
-        "Republicans, Democrats, and AI companies all said 'slow down.' Trump heard 'stand up an AI Force.' Close enough.",
-        "An AI czar with no regulatory power is just a guy who gets to watch.",
-        "The EU wrote a law. The UK opened a safety institute. America named a vibe.",
-        "At this rate the Space Force is going to start feeling crowded."
+        "Abbott welcomed data centers, then froze permits for data centers. The grid is the same grid he said was fine.",
+        "Texas told Big Tech: 'Y'all come.' Then, six weeks before the election: 'Actually, hold on.'",
+        "A moratorium on a moratorium. At some point the policy is just a mood.",
+        "He promoted Texas's grid as a model of independence. The data centers agreed — they're consuming it independently.",
+        "Every state is doing this: recruit the tech boom, then panic when the lights flicker. Texas just moves faster than everyone."
       ],
       "captionsJa": [
-        "AIは規制しない。でもAI専用の軍みたいな組織は作る。普通の統治ですね。",
-        "共和党も民主党もAI企業も「落ち着いて」と言った。トランプには「AIフォース創設！」に聞こえた。惜しい。",
-        "規制権限のないAIチャーって、ただ見てるだけの人じゃないですか。",
-        "EUは法律を作った。イギリスは安全機関を作った。アメリカはムードに名前をつけた。",
-        "このペースだと宇宙軍がちょっと手狭になってきますね。"
+        "アボット知事はデータセンターを歓迎し、次にデータセンターの許可を凍結した。電力網は同じ電力網。「大丈夫」と言ってたやつ。",
+        "テキサスはビッグテックに「ようこそ」と言った。選挙6週間前に「ちょっと待って」と言い直した。",
+        "モラトリアムのモラトリアム。ある段階から政策じゃなくて、気分なんですよ。",
+        "「テキサスの電力網は自立の象徴」と言ってた。データセンターも同意した。独立して消費してる。",
+        "どの州も同じことやってる。テック産業を誘致して、電気が揺れたら慌てる。テキサスはただ全部が速い。"
       ],
-      "newsEn": "President Trump posted on Truth Social that he wants to create an 'AI Force' led by a newly appointed 'AI czar.' The announcement came as bipartisan calls for AI regulation have grown louder, including from within the industry. His administration has stated it will not impose any restrictions on AI development.",
+      "newsEn": "Texas Governor Greg Abbott ordered a halt to data center permits just weeks after his administration had issued a moratorium that was itself a reversal of earlier policies welcoming the data center boom. The issue has become a flashpoint in the 2026 midterm elections, including Abbott's own reelection race against Democratic challenger Gina Hinojosa. Critics noted that data centers strain the Texas power grid, which Abbott had previously touted as an energy independence success story.",
       "ironyEn": [
         {
-          "contradiction": "The administration refuses to regulate AI but is creating a government agency to oversee it. An overseer with no power to oversee anything is just a guy with a title.",
-          "absurdity": "Bipartisan agreement in today's Congress is basically a miracle. They agreed on AI caution. Trump responded with 'AI Force.'",
-          "outside": "Most countries are debating what rules AI needs. The U.S. is debating what to name its new AI military branch."
+          "contradiction": "Abbott spent years promoting Texas's independent power grid as a symbol of the state's self-reliance. Then he welcomed data centers that gulp that grid dry. Now he's pausing permits — six weeks before Election Day.",
+          "absurdity": "A moratorium on a moratorium. He welcomed the boom, then froze it, and the timing of both moves aligns almost exactly with campaign season.",
+          "outside": "Texas pitched itself as America's tech-friendly, low-regulation alternative. The state is now issuing emergency brakes on the very industry it recruited. California must be taking notes."
         },
         {
-          "contradiction": "An 'AI czar' who can't regulate AI is like a fire marshal who's not allowed to tell anyone to stop smoking.",
-          "absurdity": "The announcement came at exactly the moment when even AI companies were asking for a pause. The timing was either oblivious or very, very deliberate.",
-          "outside": "The EU has the AI Act. The UK has an AI Safety Institute. America's getting an AI Force. These are three very different sentences."
+          "contradiction": "The governor who said Texas's grid was a model for the nation is now halting the permits for the buildings that exposed the grid's limits.",
+          "absurdity": "You don't usually reverse-court an industry this fast. Normally there's at least a full budget cycle between the welcoming ceremony and the restraining order.",
+          "outside": "Every state told data centers to come. Texas just got there faster — both on the invitation and the regret."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-21/candidate-3.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-21/candidate-3-punchy.jpg"
+      "image": "images/2026-09-22/candidate-3.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-22/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "GOP Senator Urges Trump to Be 'Radically Honest' About Vaccines During Worst Measles Outbreak in 30 Years",
-        "source": "CBS News US",
-        "date": "2026-09-21",
-        "url": "https://www.cbsnews.com/news/bill-cassidy-trump-vaccines-measles/",
-        "summary": "共和党のビル・キャシディ上院議員（ルイジアナ州）が、アメリカで30年以上ぶりの麻疹感染者数を記録するなか、トランプ大統領にワクチンについて「徹底的に正直」に語るよう求めた。"
+        "headline": "Man Pepper-Sprays Movie Theatergoer for Using Phone During Film — Gets Arrested, Obviously",
+        "source": "The Guardian US",
+        "date": "2026-09-22",
+        "url": "https://www.theguardian.com/us-news/2026/sep/21/person-pepper-sprayed-phone-use-amc-movie-la",
+        "summary": "カリフォルニア州バーバンクの映画館で、上映中に携帯電話を使っていた観客に対し34歳の男性が唐辛子スプレーを噴射。3人が病院に搬送され、男性は軽犯罪の暴行罪で逮捕された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「政治家に正直に話してほしい」というお願いが、もうそれ自体がニュースになってるんですよ。ハードルがどこにあるんだって話。",
-        "<b>滑稽さ:</b> 「徹底的に正直に」というフレーズ、要するに「普通に正直でいい」が高望みになってる現実を、上品に言い換えてるだけなんですよね。",
-        "<b>日本・海外から見ると:</b> 先進国で30年ぶり最多の麻疹感染者。ワクチンはとっくにある。「大統領に正直に話してもらえますか」が対策になってる、というのが現状です。"
+        "<b>矛盾:</b> 映画館のマナー違反は誰でもイライラするけど、解決策として「化学兵器」を選んだ結果、被害者が3人に増えて自分も逮捕されてる。問題を解決するどころか3倍にした。",
+        "<b>滑稽さ:</b> ネットでは「気持ちはわかる」という声が出てきてて、それ自体がもう社会の終わり感があるんですよ。映画館の携帯マナーへの怒りがついに臨界点を超えた。",
+        "<b>日本・海外から見ると:</b> 日本の映画館では開演前に「携帯はマナーモードで」と10回くらいアナウンスが流れる。アメリカではアナウンスを飛ばして唐辛子スプレーに進化した。"
       ],
       "imagePrompts": [
-        "A doctor in a white coat standing at a podium holding a large sign reading 'VACCINES WORK,' facing an empty press briefing room with a single microphone and vacant chairs",
-        "A graph showing measles cases spiking dramatically upward over three decades, with a small 'ELIMINATED 2000' label at the bottom of the valley, and a large peak labeled 'NOW'",
-        "A pharmacy shelf stocked with measles vaccine vials, fully stocked and untouched, a thin layer of dust on the front row, a 'AVAILABLE' sign clearly posted"
+        "The interior of a dark movie theater with a bright phone screen glowing in the middle of the audience, and a cartoon cloud of pepper spray spreading across three rows of seats, all facing away from the screen",
+        "A movie theater lobby with a 'NOW PLAYING' sign board listing 'PEPPER SPRAY INCIDENT — RATED R' as a feature film, with police tape across the entrance",
+        "A courtroom sketch-style image showing a man in a defendant's chair holding a can of pepper spray labeled 'CINEMA ENFORCEMENT DEVICE', with a judge looking unimpressed"
       ],
       "captions": [
-        "A senator had to ask the president to be 'radically honest' about vaccines. The word 'radically' is doing a lot of heavy lifting there.",
-        "Measles was eliminated in 2000. It's back. The vaccine wasn't recalled.",
-        "Thirty-year record for measles cases, and the proposed fix is 'can we get some honesty up here?'",
-        "We have the shot. We've had the shot. The shot has not changed. Something else changed.",
-        "A doctor-senator asking the president to tell the truth about medicine — that's the sentence. That's where we are."
+        "He couldn't stand someone using a phone during a movie, so he created a situation where nobody got to watch the movie. Problem solved.",
+        "The phone ruined it for one guy. The pepper spray ruined it for three people and a criminal record. Proportional response.",
+        "Misdemeanor battery for defending the movie experience. The phone user walked out fine. Justice, sort of.",
+        "There's a corner of the internet that says 'I get it, though.' That corner is the most alarming part of this story.",
+        "Japan: five pre-show announcements about phone courtesy. America: we figured it out differently."
       ],
       "captionsJa": [
-        "上院議員が大統領に「ワクチンについて徹底的に正直に話してください」とお願いしてる。「徹底的に」が仕事しすぎてる。",
-        "麻疹は2000年に撲滅されました。戻ってきました。ワクチンは変わっていません。",
-        "30年で最多の麻疹感染者数、提案された対策は「正直に話してもらえますか」。",
-        "注射はあります。ずっとありました。変わったのは別のものです。",
-        "医師でもある上院議員が大統領に「医学について本当のことを言ってください」と頼む。現状です。"
+        "映画中の携帯が我慢できなくて、結果として誰も映画を見られない状況を作った。解決しました。",
+        "携帯は一人の体験を台無しにした。唐辛子スプレーは3人を病院送りにした上に前科もついた。比例的対応。",
+        "映画体験を守った結果、軽犯罪の暴行罪。携帯を使ってた人は普通に帰った。なんとなく正義。",
+        "「気持ちはわかる」と言ってるネットの一角が、この話で一番やばい部分なんですよ。",
+        "日本：上映前に携帯マナーのアナウンスが5回流れる。アメリカ：別のアプローチを採用した。"
       ],
-      "newsEn": "Republican Senator Bill Cassidy of Louisiana called on President Trump to be 'radically honest' when speaking about vaccines, as the U.S. has recorded its highest measles case count in more than three decades this year. Cassidy, a physician, made the remarks as public health officials have raised concerns about vaccine hesitancy.",
+      "newsEn": "A 34-year-old California man was arrested after allegedly pepper-spraying a moviegoer who was using a cellphone during a film at a theater in Burbank. Three patrons were sent to the hospital following the incident. The man was charged with misdemeanor battery. The incident has reignited the long-running debate over phone etiquette in movie theaters, with some observers noting a degree of sympathy for the frustration, if not the method.",
       "ironyEn": [
         {
-          "contradiction": "Measles was essentially eliminated in the U.S. in 2000. It's back because of vaccine hesitancy that political messaging helped create.",
-          "absurdity": "A senator has to publicly beg the president to just tell the truth about vaccines. The bar.",
-          "outside": "In most developed countries, a measles outbreak at this scale would be a scandal. Here it comes with a request to please, maybe, be honest."
+          "contradiction": "He went to a movie to enjoy a shared, immersive experience in peace. He left in handcuffs having created a significantly less peaceful shared experience for three strangers.",
+          "absurdity": "The phone user reportedly ruined the movie for one person. The pepper spray ruined it for the whole theater and sent people to the hospital. Escalation-to-outcome ratio is not great.",
+          "outside": "In Japan, they play a five-minute pre-show courtesy announcement about phones. America skipped straight to chemical deterrents."
         },
         {
-          "contradiction": "The tools to prevent this outbreak already exist, have existed for decades, and are freely available. The obstacle isn't medicine — it's messaging.",
-          "absurdity": "'Radically honest' is doing a lot of work in that sentence. It implies the baseline is something other than honest.",
-          "outside": "Japan eradicated measles in 2015. The U.S. is logging its worst numbers in thirty years and the ask is 'could you be honest about it.' Different timelines."
+          "contradiction": "His complaint was that someone else was being inconsiderate. The jury on whether pepper spray is a considerate response is still, apparently, deliberating.",
+          "absurdity": "Charged with misdemeanor battery for defending the sanctity of cinema. Somewhere a film school professor is writing a thesis.",
+          "outside": "Every country has the phone-at-the-movies debate. Most of them conclude with passive-aggressive sighing. This one concluded with an ambulance."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-21/candidate-4.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-21/candidate-4-punchy.jpg"
+      "image": "images/2026-09-22/candidate-4.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-22/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "'Robot Relations' Is Becoming a Real Job Title, and Nobody's Sure If That's Reassuring",
-        "source": "CNBC Top News",
-        "date": "2026-09-20",
-        "url": "https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html",
-        "summary": "企業がAIチャットボット・ヒューマノイドロボット・自動管理システムを職場に導入するなか、労働者の待遇や自律性への影響が拡大し、「ロボット関係」担当部署の設置が現実味を帯びてきたと報じられた。"
+        "headline": "California Passes Laws to Stop AI Data Centers From Charging Their Electric Bills to Regular Residents",
+        "source": "The Verge",
+        "date": "2026-09-22",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
+        "summary": "カリフォルニア州のギャビン・ニューサム知事が、AIデータセンターの光熱費を一般住民に転嫁することを防ぐための7つの法案に署名した。データセンターに独自の料金区分を設け、エネルギーと水の使用に新たな規制を課す内容。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「人事部」はHuman Resourcesで、人間を「資源」と呼んでた。今度は人間がロボットと関係を管理する部署ができる。どっちが資源なのか、もうわかんないですよ。",
-        "<b>滑稽さ:</b> 上司がアルゴリズムになって、その上司との関係を調整する部署ができる。つまり給料交渉の相手がソフトウェアのアップデート担当になるわけですよ。",
-        "<b>日本・海外から見ると:</b> 日本でも「AIに仕事を奪われる」議論はずっとある。でも「AIと良好な関係を築く部署を作る」という発想は、また別のステージに来てるなと。"
+        "<b>矛盾:</b> AIブームを最も熱心に推進してきた州が、AIの電気代が自分たちの請求書に載ってくると気づいた瞬間に規制を作った。応援してたチームのツケが来た感じ。",
+        "<b>滑稽さ:</b> 「AIが世界を変える」という話をしてる企業のサーバーの電気代を、AIとは無関係なカリフォルニア市民が払いそうになってたんですよ。未来への投資を知らないうちにさせられてた。",
+        "<b>日本・海外から見ると:</b> 「テックフレンドリーな州」が電力コストの分担問題でブレーキを踏む構図は、日本でも半導体工場や大規模施設の立地問題と重なる部分がある。インフラの恩恵と負担が別々の人に行く問題。"
       ],
       "imagePrompts": [
-        "A corporate office hallway with a door labeled 'ROBOT RELATIONS DEPT.' next to doors for 'HUMAN RESOURCES' and 'IT,' a humanoid robot in business casual attire waiting outside with a manila folder",
-        "An org chart on a whiteboard where a smiling robot icon sits in the 'Manager' box, human employees appear below it, and a new box labeled 'Robot Relations' floats awkwardly to the side connected by a dotted line",
-        "A negotiating table with a human employee on one side and a laptop displaying an AI interface on the other, a third person sitting between them with a name tag reading 'Robot Relations Specialist'"
+        "A residential California home with an enormous electricity bill on the doorstep, and in the background a massive data center with glowing servers visible through floor-to-ceiling windows, labeled 'AI COMPUTE FACILITY'",
+        "A split image: left side shows an oversized household electricity bill taped to a refrigerator; right side shows rows of servers running at full capacity with a small sign reading 'TRAINING THE FUTURE'",
+        "California Governor signing a stack of seven documents at a desk, while behind him a wall display shows electricity cost charts with a steep line labeled 'DATA CENTERS' and a flat line labeled 'RESIDENTS (AFTER THIS)'"
       ],
       "captions": [
-        "'Robot Relations Specialist' is a real job title now. Update your five-year plan accordingly.",
-        "Companies cut staff with AI, then hired people to handle the fallout from the AI. Efficiency.",
-        "HR stands for Human Resources. The new department is for when the resource files a complaint about the human.",
-        "Your algorithmic manager doesn't have feelings. That's fine. There's a whole department for that now.",
-        "Philosophers asked what separates humans from machines for centuries. Turns out it's a middle manager with a very specific job description."
+        "California loves AI. California also just passed seven laws saying AI's electricity bill is not California's problem.",
+        "Turns out 'the future of intelligence' draws a lot of power, and it was quietly headed for your monthly statement.",
+        "Seven bills at once. That's the gubernatorial equivalent of checking your credit card statement and immediately calling your bank.",
+        "The state that invented the AI boom needed new laws to avoid personally funding it. That's the plot twist.",
+        "Texas is still putting up welcome signs. California is on bill seven. They're just at different points in the same story."
       ],
       "captionsJa": [
-        "「ロボット関係担当スペシャリスト」が実際の職種になりつつあります。5年後のキャリアプランを更新してください。",
-        "AIで人員削減して、そのAIの後処理のために人を雇う。効率的ですね。",
-        "人事部はHuman Resources。新しい部署はロボットが人間に苦情を言ったとき用です。",
-        "アルゴリズムの上司に感情はない。大丈夫。それを担当する部署が新設されます。",
-        "「人間と機械の違いは何か」を哲学者が何世紀も考えてきた。答えは職務記述書の非常に細かい一行でした。"
+        "カリフォルニアはAIが大好き。でもAIの電気代はカリフォルニアの問題ではない、という法律を7本同時に通した。",
+        "「知性の未来」はすごく電力を食う。そしてその請求書は静かに市民の月次明細に向かっていた。",
+        "7本一気に署名。知事としての「クレジットカードの明細を見て即カード会社に電話する」的な動き。",
+        "AIブームを発明した州が、知らぬ間にそれを自腹で支援しそうになってたんですよ。これが今回のどんでん返し。",
+        "テキサスはまだ歓迎の看板を立てている。カリフォルニアは法案7本目。同じ話の別のシーン。"
       ],
-      "newsEn": "As corporations increasingly deploy AI chatbots, humanoid robots, and automated management systems, researchers and workplace analysts say a 'robot relations' department may become a standard feature of future workplaces. The growing use of AI in management has raised significant concerns about worker pay, autonomy, and the power dynamics between employees and algorithmic supervisors.",
+      "newsEn": "California Governor Gavin Newsom signed seven bills aimed at preventing AI data centers from passing their massive utility costs onto ordinary ratepayers. The legislation requires the California Public Utilities Commission to create a new rate classification specifically for data centers, and includes new restrictions on energy and water usage. The move comes as AI infrastructure buildout has accelerated sharply across the state.",
       "ironyEn": [
         {
-          "contradiction": "HR was created to manage humans as resources. Now we need a separate department to manage relations with the machines that replaced some of those humans.",
-          "absurdity": "Your boss is an algorithm, your algorithm has a liaison, and that liaison reports to a VP. The org chart is a short story about the future.",
-          "outside": "In Japan, the debate is 'will AI take our jobs?' In American corporate America, the next question is already 'who handles the AI's HR complaints?'"
+          "contradiction": "California spent years positioning itself as the home of the AI revolution. The revolution, it turns out, has a very large electricity bill — and it was about to arrive in regular people's mailboxes.",
+          "absurdity": "You can be genuinely excited about AI and still not want to personally subsidize a server farm in Kern County on your utility bill. Those are both reasonable positions.",
+          "outside": "Every country chasing the AI boom is quietly discovering the same math: the compute needs power, the power needs infrastructure, and infrastructure costs someone. California just decided who."
         },
         {
-          "contradiction": "Companies deployed AI to cut labor costs, then discovered they need to hire humans to manage the AI's relationship with the remaining humans.",
-          "absurdity": "Imagine updating your LinkedIn to 'Robot Relations Specialist.' Now imagine explaining that to your parents at Thanksgiving.",
-          "outside": "Philosophers have asked for centuries what separates humans from machines. Apparently the answer is: a dedicated liaison department."
+          "contradiction": "The state that hosts OpenAI, Google DeepMind, and Anthropic almost let its residents pay the power bills for buildings they'll never enter.",
+          "absurdity": "Seven bills. Signed at once. That's how fast 'we love tech' becomes 'not on our utility statements, we don't.'",
+          "outside": "Texas is still in the welcoming phase. Give it a few months."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-21/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-21/candidate-5-punchy.jpg"
+      "image": "images/2026-09-22/candidate-5.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-22/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「組織は作るが、誰も責任を取らない」。凱旋門に軍、AIフォースに規制なし、ロボット関係部署に権限なし——ポジションは増えるのに、問題は解決されない。",
-    "titleEn": "America Builds Five New Departments and Fixes Absolutely Nothing",
-    "subtitleEn": "Snipers on monuments, AI czars with no rules, and measles is back.",
-    "titleJa": "「AIフォース」を作ったのに規制はゼロ、凱旋門にスナイパー——アメリカが今日も組織だけ増やした話",
+    "thread": "今日の5本を貫く糸は「コストを誰が払うか」。権力・インフラ・怒り、どれも最終的なツケは一番声の小さい人のところに来ている。",
+    "titleEn": "Democracy Is a Subscription Service (And You're on the Free Tier)",
+    "subtitleEn": "Five stories about who picks up the tab.",
+    "titleJa": "大統領のつぶやきに10万ドル、収容者の居場所は非公開。ツケは全部こっち持ち。",
     "titleAltJa": [
-      "30年ぶりの麻疹大流行で出た対策が『大統領、正直に話してください』だった件",
-      "ロボットが上司になったので『ロボット関係部署』ができた。誰のための部署なのかは不明"
+      "「AIの電気代はあなたが払ってください」と言いそうになったカリフォルニアの話",
+      "今日のアメリカ、5本読んだら『誰が払うの』しか残らなかった"
     ],
-    "leadJa": "凱旋門にスナイパー。AIフォース、規制なし。麻疹が過去最多で、対策は「お願い」。今日のアメリカ、ポジションだけがどんどん増えています。",
-    "introEn": "Today's five stories have one thing in common: someone built an org chart and called it a solution.\n\nA monument that's now also a military base. An AI Force with no rules to enforce. A senator politely asking for honesty during the worst measles outbreak in thirty years. And somewhere in a conference room, someone is drafting the job description for 'Robot Relations Specialist.'\n\nHere's your forecast. If you've ever been given a title but no actual authority, today the entire United States government sees you. The people running things have constructed elaborate structures around every problem without touching the problem itself. Your instinct to just... do the actual thing? Turns out that's radical. Today, that's the move.",
-    "introJa": "凱旋門にスナイパー配置。AIフォースを創設、規制はゼロ。30年ぶりの麻疹大流行に対して「大統領、正直にお願いします」。ロボットが管理職になったので、ロボット担当の部署ができる。\n\n今日は、そういう日です。\n\n5本を貫く糸は、たぶんこれ。「ポジションは作るのに、問題には触らない」。組織図だけが豪華になっていく。\n\nで、今日の占い。\n\n「やるべきことをやってるのに、なぜか評価されない」と思ってる人、今日は正解です。問題そのものに手を伸ばす人が、今一番少ない。あなたがそっちに手を伸ばしてるなら、それはもう今日の最先端だと思う。少なくとも今日はね。",
-    "quipEn": "Today, America announced four new departments, appointed three new titles, and the measles kept spreading.",
-    "quipJa": "肩書きは増えた。問題は増えた。担当者は誰もいない。",
+    "leadJa": "大統領のツイートに10万ドル。収容者の居場所は非公開。テキサスは歓迎した直後に止めた。\n\nコストが誰かに着地している。誰かはだいたい最初から決まってる。",
+    "introEn": "Trump's posts now have a sticker price. ICE quietly hid thousands of detainees. Texas welcomed the data center boom, then banned it, then — look, I lost count.\n\nAlso: a guy pepper-sprayed a movie theater, and California passed seven laws to stop Big Tech from quietly adding a line to your electricity bill.\n\nToday's five stories are all the same story. Someone runs up a tab and someone else gets handed the check. The president's thoughts, the missing detainees, the overstrained power grid — the cost lands somewhere. Always on whoever has the least say in the matter.\n\nSo here's your forecast: if you've been feeling like you're paying for something you never agreed to, you're not imagining it. That instinct? Completely correct. Today's news confirms it. Hold onto it.",
+    "introJa": "大統領の「つぶやき」に10万ドルの値札。\n\n読んで、二度見しました。「Truth Social」、つまり「真実のソーシャル」という名前のプラットフォームが、真実を有料で先行販売してる。名前と中身の距離が地球一周くらいある。\n\nで、他を見ると——\n\nICEが収容者数千人の居場所を黙って非公開にした。テキサスは誘致したデータセンターをその数週間後に止めた。カリフォルニアはAIサーバーの電気代が自分たちの請求書に混入しそうになって慌てて7本の法案に署名した。あと映画館で唐辛子スプレーが飛んだ。\n\n今日の5本を貫く糸は「ツケが一番声の小さい人に着地する」ということです。大統領のツイート代も、電力コストも、適正手続きの費用も——払わされるのは、決定に関わっていない人たち。\n\n今日の占い。「なんで私が払ってるんだろう」と思ってることがあるなら、それ、気のせいじゃないです。今日の5本がぜんぶそれを言ってる。",
+    "quipEn": "Today's theme: someone always pays. Today's twist: it's never the person who made the decision.",
+    "quipJa": "決めた人は払わない。それが今日の5本のまとめです。",
     "notesEn": [
-      "Trump announced his triumphal arch near Arlington Cemetery will also serve as a military complex, complete with snipers and drones on the roof. The arch is still being reviewed by a federal court. The drones apparently didn't check.",
-      "Jensen Huang, the man whose company makes the chips that power AI, says the probability of AI causing human extinction is exactly zero percent. He ran the numbers. The numbers live on the same spreadsheet as quarterly earnings.",
-      "Trump wants to create an 'AI Force' led by an 'AI czar.' His administration has also confirmed it will impose zero regulations on AI. An AI czar with nothing to regulate is just a guy with a lanyard.",
-      "A Republican senator asked Trump to be 'radically honest' about vaccines during the worst measles outbreak in thirty years. The word 'radically' is the most alarming part of that sentence.",
-      "Companies are now considering creating a 'Robot Relations' department to manage the relationship between workers and their AI supervisors. HR was already Human Resources. Now it's just... resources all the way down."
+      "Trump Media is charging $100,000 for real-time access to the president's posts. 'Truth Social' is now a financial product. The truth is still technically free — you just can't get it first.",
+      "ICE stopped telling lawyers and families where detainees are being held. No announcement. No rule change. The database just... stopped. Due process is still on the website, though.",
+      "Texas Governor Abbott spent months welcoming the data center boom, then froze new permits weeks before his reelection. The grid is the same grid he said was fine. The election date did not move.",
+      "A man pepper-sprayed a movie theater because someone was on their phone. Three people went to the hospital. The phone user walked out. I don't think he solved the problem.",
+      "California just passed seven laws to stop AI data centers from charging their electricity bills to regular residents. Turns out the state that loves AI most draws the line at paying for its electricity."
     ],
     "xJa": [
-      "トランプ大統領が凱旋門の屋上にスナイパーとドローンを置くと発表した。その凱旋門、いま合法かどうかを裁判所が審査中。",
-      "NvidiaのジェンセンCEOが「AIで人類が滅ぶ確率は0%」と断言した。AIチップを売って世界一儲かっている人の計算です。",
-      "「規制は一切しない」と言いながら「AIフォース」と「AI統括官」を作ると表明。ルールのない組織は、ただの集合写真です。",
-      "米国の麻疹感染者が30年ぶり最多。ワクチンはある。共和党議員が出した提言は「大統領、正直に話してください」。「徹底的に」正直に、というのがポイント。",
-      "ロボットが管理職になったので「ロボット関係部署」の設置が現実的になってきた。給料交渉の相手がソフトウェアになる日が近い。"
+      "「Truth Social（真実のソーシャル）」が大統領のツイートを10万ドルで先行販売し始めた。真実、高い。",
+      "ICEが収容者数千人の居場所の公開をひそかに止めた。弁護士が依頼人を探せない制度。手続きの外形だけ残して中身を空にするやつ。",
+      "テキサス州知事、データセンターを歓迎→数週間後に許可停止。政策の向きが選挙カレンダーと完全に一致している。偶然とは思えない。",
+      "映画中に携帯を使っていた観客に唐辛子スプレーを噴射した男が逮捕。問題が3倍になった。ネットで「気持ちはわかる」という声が出てて、それも怖い。",
+      "カリフォルニア、AIデータセンターの電気代を一般住民に転嫁することを禁止する法律を7本同時に成立させた。請求書を見てから7本。速い。"
     ],
     "raidEn": [
-      "Other monuments warn visitors not to touch the exhibits. This one will have snipers do it for them.",
-      "Love that he checked both the science AND his Nvidia shares and somehow only one of them showed risk.",
-      "An AI czar who can't regulate AI is basically a hall monitor with no hall.",
-      "'Radically honest' is just 'please be honest' for people who've stopped expecting it.",
-      "HR used to stand for Human Resources. At this rate, the humans are the ones filing the paperwork."
+      "Charging $100K for early access to presidential posts is a bold move for a platform named after a concept that's supposed to be free.",
+      "The part that gets me is there was no announcement. They didn't change the rule — they just quietly changed what the rule meant in practice.",
+      "A moratorium on a moratorium. At some point the policy is just a mood, and the election date is the calendar.",
+      "He fixed one annoyance and created three hospitalized strangers and a criminal record. Efficiency is debatable.",
+      "Seven bills at once. That's the speed you move at when you open your electricity bill and find someone else's server farm on it."
     ],
     "raidJa": [
-      "他の国の凱旋門は観光客が来る場所ですが、こちらは観光客を来させない設計になってきましたね。非常に参考になりました。",
-      "AIの危険性について、AIチップの売上が世界一の方と数十年研究してきた科学者の意見が割れているのが、なんとも味わい深い記事でした。",
-      "規制のないAI統括官、という概念についてここまで丁寧に考察されていて、読みながら「それってただの肩書きでは」と声が出ました。",
-      "「徹底的に正直に」というフレーズの重さをこれほど丁寧に拾った記事、はじめて読みました。言葉の裏側を見せてもらった気がします。",
-      "「ロボット関係部署」という単語を初めて見たとき二度読みしたんですが、この記事を読んでもう一度二度読みしました。丁寧な取材、ありがとうございます。"
+      "「真実を届ける」プラットフォームが真実に10万ドルの値段をつけてる、という文章を読んで少し遠い目になりました。この記事、読み応えありました。",
+      "「公式発表なし」というのが一番怖いですよね。ルールを変えたんじゃなくて、運用を変えた。この記事、丁寧に追ってくれてありがとうございます。",
+      "「モラトリアムのモラトリアム」という言葉が浮かびました。政策の向きが選挙カレンダーと連動してる構図、こういう形で見ると本当によくわかります。",
+      "「気持ちはわかる」という声が出てることじたいが、もう一個のニュースですよね。この記事のコメント欄もそうなってて興味深かったです。",
+      "「未来への投資を知らないうちにさせられていた」というのが全てだと思いました。ここまで整理してくれる記事、なかなかないです。"
     ],
     "riffEn": [
-      "A triumphal arch is, by definition, a structure built to celebrate peace after war. Paris has one. Rome has one. Washington is building one that will have snipers on the roof. The court reviewing whether the arch is even legal hasn't ruled yet. The snipers, apparently, have already been assigned. Nothing about this changes what the arch is called. It will still be called a triumphal arch. Triumph.",
-      "Jensen Huang has thought very carefully about whether AI will destroy humanity and concluded: no, zero percent, not happening, the doomsday people are being irresponsible. He arrived at this conclusion while running the company that sells the chips used to build the AI. I'm not saying there's a conflict of interest. I'm saying the number is zero and the math was done on the same spreadsheet as the quarterly earnings.",
-      "The Trump administration will not regulate AI in any way. It will, however, create an AI Force and appoint an AI czar to lead it. The czar has no regulatory power. The Force has no rules to enforce. Both the Republican and Democratic parties, along with major AI companies, had asked for some guardrails. The administration heard that, processed it, and announced a military-style AI command structure with nothing to command. The org chart looks great.",
-      "Measles was officially eliminated in the United States in the year 2000. This year, the case count hit a thirty-year high. The vaccine still works. It has not been recalled, reformulated, or discontinued. Senator Bill Cassidy, a physician, looked at all of this and determined that the most useful thing he could do was ask the president to be 'radically honest' about vaccines. The word 'radically' is in there because 'normally honest' had already become too much to hope for.",
-      "Human Resources is a department where the 'resources' are humans. Workplaces now want a 'Robot Relations' department, which is a department where one of the parties in the relationship is a robot. The robot sets your schedule, tracks your performance, and determines your pay. The Robot Relations specialist mediates between you and the software. Your five-year career plan now includes negotiating with an algorithm. Update your LinkedIn accordingly."
+      "Trump Media is selling real-time access to the president's posts for $100,000 a year. The platform is called Truth Social — which is a name that implies truth is the product, not a premium feature. Former federal prosecutors say this could be illegal insider trading, because presidential statements move markets. So the arrangement is: you pay a hundred grand, you get the president's words first, and if those words move a stock, well, that's just good timing. The service launched without a public announcement. The swamp didn't get drained. It got a subscription tier.",
+      "ICE stopped publicly disclosing where it's holding thousands of detainees. No press release. No rule change. The database just quietly stopped updating. Here's the mechanical problem: due process requires a lawyer, a lawyer requires a client, and a client requires a location. Remove the location and the rest of the sentence still sounds intact — due process, lawyer, client — but it doesn't connect to anything. That's the move. Keep the vocabulary, remove the referent.",
+      "Greg Abbott spent the better part of this year welcoming data centers to Texas, citing the state's energy independence as proof the grid could handle it. Then, weeks before the midterms, he issued a moratorium. On the data centers he'd just welcomed. The grid is the same grid. The election date is not the same. I'm not saying those two facts are related. I'm saying they're the only two things that changed.",
+      "A man in Burbank couldn't stand someone using their phone during a movie, so he pepper-sprayed them. Three people were hospitalized. He was arrested. The phone user left the theater. I've tried to find the version of this story where the problem got smaller, and I can't find it. He walked in frustrated by one stranger's phone and left having created three hospital visits and a criminal record. The phone, as far as I can tell, was fine.",
+      "California passed seven bills to stop AI data centers from quietly routing their electricity costs onto regular utility customers. Seven. At once. The backstory is that as data centers multiplied across the state, their power usage was being absorbed into general ratepayer costs — meaning people with no AI servers, no cloud computing interest, and no stake in the infrastructure were subsidizing it through their monthly bills. California loves the AI industry. It just decided it doesn't love it that much."
     ],
     "riffJa": [
-      "凱旋門というのはもともと、戦争が終わって平和が来たことを祝う建造物なんです。パリにある、あれです。ローマにもある、あれです。ワシントンが作ろうとしているのも、あれです。屋上にスナイパーがいる、あれ。裁判所がいま「これ建てていいですか」を審査してる最中に「ちなみに軍事施設にもします」と投稿するの、もう凱旋門の意味を問い直すレベルですよ。",
-      "「AIで人類は滅びますか」という問いに「0%」と断言した人がいます。ジェンセン・ファンさん、NvidiaのCEO、AIチップ市場の最大手です。研究者ではなく、AIが普及するほど儲かる会社のトップが、AIは全然危なくないと言っている。\n\nタバコ会社の話をするつもりはないですが、みなさんはおわかりだと思います。",
-      "規制は一切しない、という方針があります。でも「AIフォース」は作る。「AI統括官」も置く。与野党もAI業界も「少し落ち着いて」と言ってる中での発表です。ルールのない統括官って、何なんですかね。見張り台に立ってるけど、何も見張らない人。組織図だけがすごくきれいです。",
-      "アメリカの麻疹は2000年に「排除」されました。今年、30年以上ぶりの最多感染者数を記録しています。ワクチンはある。昔からある。共和党のキャシディ上院議員（医師でもあります）がこの状況を見て出した提言が、「大統領、ワクチンについて徹底的に正直に話してください」でした。「徹底的に」という言葉が要ります。普通に正直でいいはずなんですが、今はそれが難しい。",
-      "「人事部」は英語でHuman Resources、人間が資源です。次にくる部署の名前は「Robot Relations」、ロボット関係部門です。あなたの上司がアルゴリズムになって、そのアルゴリズムとあなたの関係を調整する専門家が生まれる。給料の交渉相手がソフトウェアのバージョンアップ担当になっていく。どっちが資源なのか、もうわからなくなってきましたよ。"
+      "Truth Social（真実のソーシャル）というサービスが、大統領のツイートへのリアルタイムアクセスを年間10万ドルで売り始めました。\n\n名前、もう一回言いますよ。「真実のソーシャル」。真実に10万ドルの値札がついてる。元連邦検察官は「これ、インサイダー取引じゃないか」と言ってる。大統領の発言は市場を動かすから、先に読めれば先に動ける。公式発表はなかった。沼を干すと言っていた人が、沼に改札を設けた。",
+      "ICEが、最終送還命令を受けた収容者数千人の居場所の公開をひそかに停止した。お知らせなし。ルール変更の告知なし。ある日からデータベースが更新されなくなった。\n\n仕組みを確認すると、適正手続きには弁護士が要る。弁護士には依頼人が要る。依頼人には居場所が要る。ICEはその最後の一個を静かに消した。「適正手続き」という言葉はまだある。言葉だけが残っている。\n\n何なんですかね、これ。",
+      "グレッグ・アボット・テキサス州知事がデータセンターの建設許可を停止した。数週間前に「来てください」と言っていた、あのデータセンターです。\n\n電力網は変わっていない。変わったのは選挙まであと数週間という事実だけ。政策の向きが選挙カレンダーと一致している。「モラトリアムのモラトリアム」という言葉が頭の中で出てきて、自分でも止められなかった。",
+      "バーバンクの映画館で、携帯を使っていた観客に唐辛子スプレーを噴射した男が逮捕されました。3人が病院に搬送。携帯を使っていた人は歩いて帰った。\n\n問題の人数が1人から3人になって、自分も逮捕されてる。解決したものが一つもない。ネットで「気持ちはわかる」という声が出ていて、それはそれで社会の別のニュースだと思う。",
+      "カリフォルニア州が、AIデータセンターの電気代を一般住民に転嫁することを禁止する法案を7本、同時に成立させた。\n\n背景はこうです。州内でデータセンターが急増するなか、その膨大な電力使用量が一般の光熱費に混入しようとしていた。AIと無関係なカリフォルニア市民が、知らないうちにAIサーバーの電気代を払わされそうになっていた。カリフォルニアはAIが好き。でも、電気代まで好きじゃなかった。7本、同時。請求書を見てからの速さ。"
     ],
     "asideEn": [
-      "Peace monument. Snipers included.",
-      "Checked the data. The data has a ticker symbol.",
-      "No rules. Great logo, though.",
-      "'Radically honest.' Just let that word work.",
-      "Your new boss runs on electricity."
+      "Truth, apparently, has a price point.",
+      "This one isn't funny.",
+      "Same grid, different election cycle.",
+      "The phone survived.",
+      "Seven bills. One electricity statement."
     ],
     "asideJa": [
-      "平和の象徴、屋上に武装。",
-      "株価が0%と言っています。",
-      "組織だけ立派。",
-      "「徹底的に」が要る時代。",
-      "上司はアップデート待ちです。"
+      "真実、有料です。",
+      "これは、笑えない。",
+      "電力網は変わってない。",
+      "携帯は無事でした。",
+      "請求書を見てからの7本。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Humor",
-      "Nvidia",
-      "Artificial Intelligence"
+      "News Commentary",
+      "Truth Social",
+      "California"
     ],
-    "fullEn": "# America Builds Five New Departments and Fixes Absolutely Nothing\n\n## Today's Forecast\n\nToday's five stories have one thing in common: someone built an org chart and called it a solution.\n\nA monument that's now also a military base. An AI Force with no rules to enforce. A senator politely asking for honesty during the worst measles outbreak in thirty years. And somewhere in a conference room, someone is drafting the job description for 'Robot Relations Specialist.'\n\nHere's your forecast. If you've ever been given a title but no actual authority, today the entire United States government sees you. The people running things have constructed elaborate structures around every problem without touching the problem itself. Your instinct to just... do the actual thing? Turns out that's radical. Today, that's the move.\n\n---\n\n## 1. Trump's Triumphal Arch Now Also a Sniper Nest, Drone Depot, and 'Military Complex'\n\n*NPR News — [source](https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones)*\n\nPresident Trump announced on Truth Social that his proposed 250-foot triumphal arch near Arlington National Cemetery will double as a military complex, complete with snipers and drones on its roof and plaza. He claimed the military use was requested by the U.S. military itself. A federal court is currently reviewing the arch's legal standing.\n\n**Why It's Funny**\n\nA triumphal arch is, by definition, a structure built to celebrate peace after war. Paris has one. Rome has one. Washington is building one that will have snipers on the roof. The court reviewing whether the arch is even legal hasn't ruled yet. The snipers, apparently, have already been assigned. Nothing about this changes what the arch is called. It will still be called a triumphal arch. Triumph.\n\n**Say It Out Loud**\n\n> Nothing says 'we come in peace' like a monument that's also a sniper nest.\n\n---\n\n## 2. Nvidia's Jensen Huang Says AI Extinction Risk Is 0% — Nvidia Stock Remains Bullish\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)*\n\nNvidia co-founder and CEO Jensen Huang told CBS Sunday Morning that predictions of AI destroying humanity are irresponsible and not grounded in science, calling them 'doomsday narratives.' He placed the probability of an AI-caused human extinction at zero percent. Huang stands to benefit enormously from continued AI investment and development.\n\n**Why It's Funny**\n\nJensen Huang has thought very carefully about whether AI will destroy humanity and concluded: no, zero percent, not happening, the doomsday people are being irresponsible. He arrived at this conclusion while running the company that sells the chips used to build the AI. I'm not saying there's a conflict of interest. I'm saying the number is zero and the math was done on the same spreadsheet as the quarterly earnings.\n\n**Say It Out Loud**\n\n> The guy who profits most from AI has done the math and it turns out AI is completely safe. Great news.\n\n---\n\n## 3. Trump Calls for 'AI Force' and 'AI Czar' While Pushing to Block All AI Regulation\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)*\n\nPresident Trump posted on Truth Social that he wants to create an 'AI Force' led by a newly appointed 'AI czar.' The announcement came as bipartisan calls for AI regulation have grown louder, including from within the industry. His administration has stated it will not impose any restrictions on AI development.\n\n**Why It's Funny**\n\nThe Trump administration will not regulate AI in any way. It will, however, create an AI Force and appoint an AI czar to lead it. The czar has no regulatory power. The Force has no rules to enforce. Both the Republican and Democratic parties, along with major AI companies, had asked for some guardrails. The administration heard that, processed it, and announced a military-style AI command structure with nothing to command. The org chart looks great.\n\n**Say It Out Loud**\n\n> We're not regulating AI, but we are making it its own branch of the military. Totally normal governance.\n\n---\n\n## 4. GOP Senator Urges Trump to Be 'Radically Honest' About Vaccines During Worst Measles Outbreak in 30 Years\n\n*CBS News US — [source](https://www.cbsnews.com/news/bill-cassidy-trump-vaccines-measles/)*\n\nRepublican Senator Bill Cassidy of Louisiana called on President Trump to be 'radically honest' when speaking about vaccines, as the U.S. has recorded its highest measles case count in more than three decades this year. Cassidy, a physician, made the remarks as public health officials have raised concerns about vaccine hesitancy.\n\n**Why It's Funny**\n\nMeasles was officially eliminated in the United States in the year 2000. This year, the case count hit a thirty-year high. The vaccine still works. It has not been recalled, reformulated, or discontinued. Senator Bill Cassidy, a physician, looked at all of this and determined that the most useful thing he could do was ask the president to be 'radically honest' about vaccines. The word 'radically' is in there because 'normally honest' had already become too much to hope for.\n\n**Say It Out Loud**\n\n> A senator had to ask the president to be 'radically honest' about vaccines. The word 'radically' is doing a lot of heavy lifting there.\n\n---\n\n## 5. 'Robot Relations' Is Becoming a Real Job Title, and Nobody's Sure If That's Reassuring\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html)*\n\nAs corporations increasingly deploy AI chatbots, humanoid robots, and automated management systems, researchers and workplace analysts say a 'robot relations' department may become a standard feature of future workplaces. The growing use of AI in management has raised significant concerns about worker pay, autonomy, and the power dynamics between employees and algorithmic supervisors.\n\n**Why It's Funny**\n\nHuman Resources is a department where the 'resources' are humans. Workplaces now want a 'Robot Relations' department, which is a department where one of the parties in the relationship is a robot. The robot sets your schedule, tracks your performance, and determines your pay. The Robot Relations specialist mediates between you and the software. Your five-year career plan now includes negotiating with an algorithm. Update your LinkedIn accordingly.\n\n**Say It Out Loud**\n\n> 'Robot Relations Specialist' is a real job title now. Update your five-year plan accordingly.\n\n---\n\n## Today's Punchline\n\n> Today, America announced four new departments, appointed three new titles, and the measles kept spreading.\n",
-    "fullJa": "# 「AIフォース」を作ったのに規制はゼロ、凱旋門にスナイパー——アメリカが今日も組織だけ増やした話\n\n## 今日を占うよ〜\n\n凱旋門にスナイパー配置。AIフォースを創設、規制はゼロ。30年ぶりの麻疹大流行に対して「大統領、正直にお願いします」。ロボットが管理職になったので、ロボット担当の部署ができる。\n\n今日は、そういう日です。\n\n5本を貫く糸は、たぶんこれ。「ポジションは作るのに、問題には触らない」。組織図だけが豪華になっていく。\n\nで、今日の占い。\n\n「やるべきことをやってるのに、なぜか評価されない」と思ってる人、今日は正解です。問題そのものに手を伸ばす人が、今一番少ない。あなたがそっちに手を伸ばしてるなら、それはもう今日の最先端だと思う。少なくとも今日はね。\n\n---\n\n## 1. Trump's Triumphal Arch Now Also a Sniper Nest, Drone Depot, and 'Military Complex'\n\n*NPR News（[記事](https://www.npr.org/2026/09/20/nx-s1-5975449/trump-washington-dc-arch-military-complex-snipers-drones)）*\n\nトランプ大統領がSNSで、ワシントンD.C.に建設予定の250フィートの凱旋門について、屋上や広場にスナイパーと大量のドローンを配備する「最高水準の軍事複合施設」として使用すると表明した。連邦裁判所は現在、この建造物の合法性を審査中。\n\n**どこが笑える？**\n\n凱旋門というのはもともと、戦争が終わって平和が来たことを祝う建造物なんです。パリにある、あれです。ローマにもある、あれです。ワシントンが作ろうとしているのも、あれです。屋上にスナイパーがいる、あれ。裁判所がいま「これ建てていいですか」を審査してる最中に「ちなみに軍事施設にもします」と投稿するの、もう凱旋門の意味を問い直すレベルですよ。\n\n**このニュースをジョークにするなら...**\n\n> 「平和の象徴」の屋上にスナイパーを置くの、なかなか強気のメッセージですよね。\n\n---\n\n## 2. Nvidia's Jensen Huang Says AI Extinction Risk Is 0% — Nvidia Stock Remains Bullish\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/997936/nvidia-jensen-huang-ai-fears-overblown)）*\n\nNvidiaのジェンセンCEOがCBSのインタビューで、AIが人類を滅亡させる確率は「0%」と断言し、AIの脅威論を「無責任なドゥームズデイナラティブ」と一蹴した。\n\n**どこが笑える？**\n\n「AIで人類は滅びますか」という問いに「0%」と断言した人がいます。ジェンセン・ファンさん、NvidiaのCEO、AIチップ市場の最大手です。研究者ではなく、AIが普及するほど儲かる会社のトップが、AIは全然危なくないと言っている。\n\nタバコ会社の話をするつもりはないですが、みなさんはおわかりだと思います。\n\n**このニュースをジョークにするなら...**\n\n> AIで一番儲かってる人が計算したら、AIのリスクはちょうど0%でした。よかったですね。\n\n---\n\n## 3. Trump Calls for 'AI Force' and 'AI Czar' While Pushing to Block All AI Regulation\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/997867/trump-ai-force-ai-czar)）*\n\nトランプ大統領がTruth Socialで「AIチャー（統括官）」を任命し新たな「AIフォース」を創設すると表明する一方、政権はAI規制を一切行わない方針を維持している。\n\n**どこが笑える？**\n\n規制は一切しない、という方針があります。でも「AIフォース」は作る。「AI統括官」も置く。与野党もAI業界も「少し落ち着いて」と言ってる中での発表です。ルールのない統括官って、何なんですかね。見張り台に立ってるけど、何も見張らない人。組織図だけがすごくきれいです。\n\n**このニュースをジョークにするなら...**\n\n> AIは規制しない。でもAI専用の軍みたいな組織は作る。普通の統治ですね。\n\n---\n\n## 4. GOP Senator Urges Trump to Be 'Radically Honest' About Vaccines During Worst Measles Outbreak in 30 Years\n\n*CBS News US（[記事](https://www.cbsnews.com/news/bill-cassidy-trump-vaccines-measles/)）*\n\n共和党のビル・キャシディ上院議員（ルイジアナ州）が、アメリカで30年以上ぶりの麻疹感染者数を記録するなか、トランプ大統領にワクチンについて「徹底的に正直」に語るよう求めた。\n\n**どこが笑える？**\n\nアメリカの麻疹は2000年に「排除」されました。今年、30年以上ぶりの最多感染者数を記録しています。ワクチンはある。昔からある。共和党のキャシディ上院議員（医師でもあります）がこの状況を見て出した提言が、「大統領、ワクチンについて徹底的に正直に話してください」でした。「徹底的に」という言葉が要ります。普通に正直でいいはずなんですが、今はそれが難しい。\n\n**このニュースをジョークにするなら...**\n\n> 上院議員が大統領に「ワクチンについて徹底的に正直に話してください」とお願いしてる。「徹底的に」が仕事しすぎてる。\n\n---\n\n## 5. 'Robot Relations' Is Becoming a Real Job Title, and Nobody's Sure If That's Reassuring\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/20/ai-jobs-worker-fears.html)）*\n\n企業がAIチャットボット・ヒューマノイドロボット・自動管理システムを職場に導入するなか、労働者の待遇や自律性への影響が拡大し、「ロボット関係」担当部署の設置が現実味を帯びてきたと報じられた。\n\n**どこが笑える？**\n\n「人事部」は英語でHuman Resources、人間が資源です。次にくる部署の名前は「Robot Relations」、ロボット関係部門です。あなたの上司がアルゴリズムになって、そのアルゴリズムとあなたの関係を調整する専門家が生まれる。給料の交渉相手がソフトウェアのバージョンアップ担当になっていく。どっちが資源なのか、もうわからなくなってきましたよ。\n\n**このニュースをジョークにするなら...**\n\n> 「ロボット関係担当スペシャリスト」が実際の職種になりつつあります。5年後のキャリアプランを更新してください。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 肩書きは増えた。問題は増えた。担当者は誰もいない。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "captions d1-5番・d2-3番・d4-1番で文末が最強語でない／説明の蛇足あり／観察止まりを修正。xJa2本が字数オーバーおよび単体成立に問題あり。notesEn2番がポートフォリオジョークの蛇足を継続しており文末が弱い。introJaの「ということで、今日の占い。」が唐突で接続が弱い。他は合格。 ／ 文体パス: 2箇所修正。riffJa[2]の「ということでいいんでしょうか」前後がプレゼン口調で整いすぎていたので崩した。riffJa[3]の「変わっていません」が説明口調だったので話し言葉に直した。"
+    "fullEn": "# Democracy Is a Subscription Service (And You're on the Free Tier)\n\n## Today's Forecast\n\nTrump's posts now have a sticker price. ICE quietly hid thousands of detainees. Texas welcomed the data center boom, then banned it, then — look, I lost count.\n\nAlso: a guy pepper-sprayed a movie theater, and California passed seven laws to stop Big Tech from quietly adding a line to your electricity bill.\n\nToday's five stories are all the same story. Someone runs up a tab and someone else gets handed the check. The president's thoughts, the missing detainees, the overstrained power grid — the cost lands somewhere. Always on whoever has the least say in the matter.\n\nSo here's your forecast: if you've been feeling like you're paying for something you never agreed to, you're not imagining it. That instinct? Completely correct. Today's news confirms it. Hold onto it.\n\n---\n\n## 1. Trump's Truth Social Posts Now Have a $100K Price Tag — Before He Even Posts Them\n\n*CBS News US — [source](https://www.cbsnews.com/news/ex-federal-prosecutors-trump-media-early-access-truth-social-posts/)*\n\nTrump Media & Technology Group launched a paid API feed for Truth Social, charging $100,000 for real-time access to posts from top accounts — including, presumably, the president himself. Former federal prosecutors have said this arrangement could constitute illegal insider trading, since presidential statements can move markets. The service was introduced without public announcement.\n\n**Why It's Funny**\n\nTrump Media is selling real-time access to the president's posts for $100,000 a year. The platform is called Truth Social — which is a name that implies truth is the product, not a premium feature. Former federal prosecutors say this could be illegal insider trading, because presidential statements move markets. So the arrangement is: you pay a hundred grand, you get the president's words first, and if those words move a stock, well, that's just good timing. The service launched without a public announcement. The swamp didn't get drained. It got a subscription tier.\n\n**Say It Out Loud**\n\n> Truth Social is charging $100,000 for real-time access to Trump's posts. So democracy is now a subscription service, and you're still on the free tier.\n\n---\n\n## 2. ICE Quietly Stops Disclosing Where It's Holding Thousands of Detainees Facing Deportation\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations)*\n\nU.S. Immigration and Customs Enforcement has stopped publicly disclosing the locations of thousands of detainees who have received final deportation orders. The move, made without announcement, makes it significantly harder for lawyers and family members to locate those being held. Legal advocates say the policy undermines due process protections and access to counsel.\n\n**Why It's Funny**\n\nICE stopped publicly disclosing where it's holding thousands of detainees. No press release. No rule change. The database just quietly stopped updating. Here's the mechanical problem: due process requires a lawyer, a lawyer requires a client, and a client requires a location. Remove the location and the rest of the sentence still sounds intact — due process, lawyer, client — but it doesn't connect to anything. That's the move. Keep the vocabulary, remove the referent.\n\n**Say It Out Loud**\n\n> ICE stopped telling anyone where detainees are held. The rights still exist. The people, technically, are somewhere.\n\n---\n\n## 3. Texas Gov. Abbott Halts Data Center Permits Weeks After Welcoming the Same Boom He's Now Pausing\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html)*\n\nTexas Governor Greg Abbott ordered a halt to data center permits just weeks after his administration had issued a moratorium that was itself a reversal of earlier policies welcoming the data center boom. The issue has become a flashpoint in the 2026 midterm elections, including Abbott's own reelection race against Democratic challenger Gina Hinojosa. Critics noted that data centers strain the Texas power grid, which Abbott had previously touted as an energy independence success story.\n\n**Why It's Funny**\n\nGreg Abbott spent the better part of this year welcoming data centers to Texas, citing the state's energy independence as proof the grid could handle it. Then, weeks before the midterms, he issued a moratorium. On the data centers he'd just welcomed. The grid is the same grid. The election date is not the same. I'm not saying those two facts are related. I'm saying they're the only two things that changed.\n\n**Say It Out Loud**\n\n> Abbott welcomed data centers, then froze permits for data centers. The grid is the same grid he said was fine.\n\n---\n\n## 4. Man Pepper-Sprays Movie Theatergoer for Using Phone During Film — Gets Arrested, Obviously\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/21/person-pepper-sprayed-phone-use-amc-movie-la)*\n\nA 34-year-old California man was arrested after allegedly pepper-spraying a moviegoer who was using a cellphone during a film at a theater in Burbank. Three patrons were sent to the hospital following the incident. The man was charged with misdemeanor battery. The incident has reignited the long-running debate over phone etiquette in movie theaters, with some observers noting a degree of sympathy for the frustration, if not the method.\n\n**Why It's Funny**\n\nA man in Burbank couldn't stand someone using their phone during a movie, so he pepper-sprayed them. Three people were hospitalized. He was arrested. The phone user left the theater. I've tried to find the version of this story where the problem got smaller, and I can't find it. He walked in frustrated by one stranger's phone and left having created three hospital visits and a criminal record. The phone, as far as I can tell, was fine.\n\n**Say It Out Loud**\n\n> He couldn't stand someone using a phone during a movie, so he created a situation where nobody got to watch the movie. Problem solved.\n\n---\n\n## 5. California Passes Laws to Stop AI Data Centers From Charging Their Electric Bills to Regular Residents\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)*\n\nCalifornia Governor Gavin Newsom signed seven bills aimed at preventing AI data centers from passing their massive utility costs onto ordinary ratepayers. The legislation requires the California Public Utilities Commission to create a new rate classification specifically for data centers, and includes new restrictions on energy and water usage. The move comes as AI infrastructure buildout has accelerated sharply across the state.\n\n**Why It's Funny**\n\nCalifornia passed seven bills to stop AI data centers from quietly routing their electricity costs onto regular utility customers. Seven. At once. The backstory is that as data centers multiplied across the state, their power usage was being absorbed into general ratepayer costs — meaning people with no AI servers, no cloud computing interest, and no stake in the infrastructure were subsidizing it through their monthly bills. California loves the AI industry. It just decided it doesn't love it that much.\n\n**Say It Out Loud**\n\n> California loves AI. California also just passed seven laws saying AI's electricity bill is not California's problem.\n\n---\n\n## Today's Punchline\n\n> Today's theme: someone always pays. Today's twist: it's never the person who made the decision.\n",
+    "fullJa": "# 大統領のつぶやきに10万ドル、収容者の居場所は非公開。ツケは全部こっち持ち。\n\n## 今日を占うよ〜\n\n大統領の「つぶやき」に10万ドルの値札。\n\n読んで、二度見しました。「Truth Social」、つまり「真実のソーシャル」という名前のプラットフォームが、真実を有料で先行販売してる。名前と中身の距離が地球一周くらいある。\n\nで、他を見ると——\n\nICEが収容者数千人の居場所を黙って非公開にした。テキサスは誘致したデータセンターをその数週間後に止めた。カリフォルニアはAIサーバーの電気代が自分たちの請求書に混入しそうになって慌てて7本の法案に署名した。あと映画館で唐辛子スプレーが飛んだ。\n\n今日の5本を貫く糸は「ツケが一番声の小さい人に着地する」ということです。大統領のツイート代も、電力コストも、適正手続きの費用も——払わされるのは、決定に関わっていない人たち。\n\n今日の占い。「なんで私が払ってるんだろう」と思ってることがあるなら、それ、気のせいじゃないです。今日の5本がぜんぶそれを言ってる。\n\n---\n\n## 1. Trump's Truth Social Posts Now Have a $100K Price Tag — Before He Even Posts Them\n\n*CBS News US（[記事](https://www.cbsnews.com/news/ex-federal-prosecutors-trump-media-early-access-truth-social-posts/)）*\n\nトランプ・メディア社がTruth SocialのAPIデータフィードを提供開始し、大統領本人を含む上位アカウントへの「リアルタイムアクセス」に10万ドルを請求していることが判明。元検察官らは、現職大統領の発言を先行販売することはインサイダー取引に相当する可能性があると指摘している。\n\n**どこが笑える？**\n\nTruth Social（真実のソーシャル）というサービスが、大統領のツイートへのリアルタイムアクセスを年間10万ドルで売り始めました。\n\n名前、もう一回言いますよ。「真実のソーシャル」。真実に10万ドルの値札がついてる。元連邦検察官は「これ、インサイダー取引じゃないか」と言ってる。大統領の発言は市場を動かすから、先に読めれば先に動ける。公式発表はなかった。沼を干すと言っていた人が、沼に改札を設けた。\n\n**このニュースをジョークにするなら...**\n\n> Truth Socialが大統領のポストに10万ドルの値段をつけた。民主主義がサブスク化してるんですけど、あなたはまだ無料プランですよ。\n\n---\n\n## 2. ICE Quietly Stops Disclosing Where It's Holding Thousands of Detainees Facing Deportation\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations)）*\n\n米移民税関執行局（ICE）が、最終送還命令を受けた収容者数千人の居場所を公開するのをひそかに停止したことが明らかになった。弁護士や家族が収容者を探すことを困難にするこの措置は、公式発表なく実施された。\n\n**どこが笑える？**\n\nICEが、最終送還命令を受けた収容者数千人の居場所の公開をひそかに停止した。お知らせなし。ルール変更の告知なし。ある日からデータベースが更新されなくなった。\n\n仕組みを確認すると、適正手続きには弁護士が要る。弁護士には依頼人が要る。依頼人には居場所が要る。ICEはその最後の一個を静かに消した。「適正手続き」という言葉はまだある。言葉だけが残っている。\n\n何なんですかね、これ。\n\n**このニュースをジョークにするなら...**\n\n> ICEは収容者の居場所を教えるのをやめた。権利は存在する。人も、どこかにいる。\n\n---\n\n## 3. Texas Gov. Abbott Halts Data Center Permits Weeks After Welcoming the Same Boom He's Now Pausing\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html)）*\n\nテキサス州のグレッグ・アボット知事が、データセンターの建設許可を停止する命令を出した。これは同知事が数週間前に同州のデータセンター建設ブームを歓迎するモラトリアムを発令した直後のことで、中間選挙の争点となっている。\n\n**どこが笑える？**\n\nグレッグ・アボット・テキサス州知事がデータセンターの建設許可を停止した。数週間前に「来てください」と言っていた、あのデータセンターです。\n\n電力網は変わっていない。変わったのは選挙まであと数週間という事実だけ。政策の向きが選挙カレンダーと一致している。「モラトリアムのモラトリアム」という言葉が頭の中で出てきて、自分でも止められなかった。\n\n**このニュースをジョークにするなら...**\n\n> アボット知事はデータセンターを歓迎し、次にデータセンターの許可を凍結した。電力網は同じ電力網。「大丈夫」と言ってたやつ。\n\n---\n\n## 4. Man Pepper-Sprays Movie Theatergoer for Using Phone During Film — Gets Arrested, Obviously\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/21/person-pepper-sprayed-phone-use-amc-movie-la)）*\n\nカリフォルニア州バーバンクの映画館で、上映中に携帯電話を使っていた観客に対し34歳の男性が唐辛子スプレーを噴射。3人が病院に搬送され、男性は軽犯罪の暴行罪で逮捕された。\n\n**どこが笑える？**\n\nバーバンクの映画館で、携帯を使っていた観客に唐辛子スプレーを噴射した男が逮捕されました。3人が病院に搬送。携帯を使っていた人は歩いて帰った。\n\n問題の人数が1人から3人になって、自分も逮捕されてる。解決したものが一つもない。ネットで「気持ちはわかる」という声が出ていて、それはそれで社会の別のニュースだと思う。\n\n**このニュースをジョークにするなら...**\n\n> 映画中の携帯が我慢できなくて、結果として誰も映画を見られない状況を作った。解決しました。\n\n---\n\n## 5. California Passes Laws to Stop AI Data Centers From Charging Their Electric Bills to Regular Residents\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)）*\n\nカリフォルニア州のギャビン・ニューサム知事が、AIデータセンターの光熱費を一般住民に転嫁することを防ぐための7つの法案に署名した。データセンターに独自の料金区分を設け、エネルギーと水の使用に新たな規制を課す内容。\n\n**どこが笑える？**\n\nカリフォルニア州が、AIデータセンターの電気代を一般住民に転嫁することを禁止する法案を7本、同時に成立させた。\n\n背景はこうです。州内でデータセンターが急増するなか、その膨大な電力使用量が一般の光熱費に混入しようとしていた。AIと無関係なカリフォルニア市民が、知らないうちにAIサーバーの電気代を払わされそうになっていた。カリフォルニアはAIが好き。でも、電気代まで好きじゃなかった。7本、同時。請求書を見てからの速さ。\n\n**このニュースをジョークにするなら...**\n\n> カリフォルニアはAIが大好き。でもAIの電気代はカリフォルニアの問題ではない、という法律を7本同時に通した。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 決めた人は払わない。それが今日の5本のまとめです。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d2のsensitive漏れを補完。captions d1-2本・d4-1本に観察止まりまたは予測可能なオチあり、書き直し。imagePromptsのd5-2枚目に顔の判別できる家族の描写あり、書き直し。xJa d1が136字超、修正。introJaの文末パターン（「いる」「ある」連続）を散らす。riffEn d2の末尾蛇足を削除。 ／ 文体パス: 5箇所修正。代表例: introJa末尾「その直感、今日は信じていい」→説教調を捨て台詞に崩した。riffJa[1]の「これは笑えない」は辛うじて残したが締めの畳みすぎを複数箇所カット。"
   },
   "carousel": [
-    "images/2026-09-21/carousel/slide-1.jpg",
-    "images/2026-09-21/carousel/slide-2.jpg",
-    "images/2026-09-21/carousel/slide-3.jpg",
-    "images/2026-09-21/carousel/slide-4.jpg",
-    "images/2026-09-21/carousel/slide-5.jpg",
-    "images/2026-09-21/carousel/slide-6.jpg",
-    "images/2026-09-21/carousel/slide-7.jpg"
+    "images/2026-09-22/carousel/slide-1.jpg",
+    "images/2026-09-22/carousel/slide-2.jpg",
+    "images/2026-09-22/carousel/slide-3.jpg",
+    "images/2026-09-22/carousel/slide-4.jpg",
+    "images/2026-09-22/carousel/slide-5.jpg",
+    "images/2026-09-22/carousel/slide-6.jpg",
+    "images/2026-09-22/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-21/note-header.jpg",
-    "substack": "images/2026-09-21/substack-cover.jpg"
+    "note": "images/2026-09-22/note-header.jpg",
+    "substack": "images/2026-09-22/substack-cover.jpg"
   }
 };
