@@ -1,366 +1,366 @@
 {
   "version": 1,
-  "date": "2026-09-22",
-  "generatedAt": "2026-09-21T22:40:25+00:00",
+  "date": "2026-09-23",
+  "generatedAt": "2026-09-22T22:09:38+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump's Truth Social Posts Now Have a $100K Price Tag — Before He Even Posts Them",
-        "source": "CBS News US",
-        "date": "2026-09-22",
-        "url": "https://www.cbsnews.com/news/ex-federal-prosecutors-trump-media-early-access-truth-social-posts/",
-        "summary": "トランプ・メディア社がTruth SocialのAPIデータフィードを提供開始し、大統領本人を含む上位アカウントへの「リアルタイムアクセス」に10万ドルを請求していることが判明。元検察官らは、現職大統領の発言を先行販売することはインサイダー取引に相当する可能性があると指摘している。"
+        "headline": "Trump Filed 1,100+ Stock Trades in July — While Voters Seethed Over Elected Officials Trading Stocks",
+        "source": "The Guardian US",
+        "date": "2026-09-23",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing",
+        "summary": "トランプ大統領が7月に1,000件以上の株取引（総額最大2億7,000万ドル）を行っていたことが最新の財務開示で判明した。議員の株取引に対する有権者の怒りが高まる中での出来事。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「フェイクニュースを排除して真実を届ける」がキャッチフレーズのプラットフォームが、真実に10万ドルの値札をつけてる。",
-        "<b>滑稽さ:</b> 大統領のツイートを〝先着順〟で買う時代ですよ。金融情報サービスかと思ったら、ただの大統領のつぶやきなんですよ。",
-        "<b>日本・海外から見ると:</b> 他国なら「国家機密の売買」と呼ぶところを、アメリカではサブスクリプションプランと呼んでる。"
+        "<b>矛盾:</b> 議員の株取引に対する有権者の怒りが過去最高潮に達しているまさにそのタイミングで、大統領本人が1日で700件売ってたんですよ。",
+        "<b>滑稽さ:</b> Mag 7が急騰した当日にアマゾンとマイクロソフトを最大2,500万ドルずつ売り抜けてる。タイミングが良すぎて逆に何も言えない。",
+        "<b>日本・海外から見ると:</b> インサイダー取引規制の話をしている国の大統領が、月に1,100件株を売買している。「ガラス張りの政治」の透明度が高すぎて目が痛い。"
       ],
       "imagePrompts": [
-        "A vending machine in the shape of a smartphone labeled 'TRUTH SOCIAL PREMIUM FEED', with a slot that reads '$100,000 — INSERT CARD', dispensing a single paper with a presidential tweet on it, set in a Wall Street lobby",
-        "A velvet rope in front of a podium labeled 'PRESIDENTIAL STATEMENTS', with a ticket booth to the side showing the price '$100,000 / year', and a line of people in business suits holding briefcases",
-        "A stock ticker board in a trading floor showing 'TRUTH ACCESS: $100K' scrolling across it, with traders looking confused, next to a sign reading 'FOR INFORMATIONAL PURPOSES ONLY'"
+        "A giant paper financial disclosure form spilling off a government desk, thousands of line items visible, a single 'JULY' calendar page pinned to the wall behind it",
+        "A stock ticker board showing a massive single-day green surge, with a rubber stamp reading 'SOLD' slamming down on it",
+        "A scale of justice with 'PUBLIC OUTRAGE OVER POLITICIAN TRADING' on one side and a towering stack of trade confirmation slips on the other, completely unbalanced"
       ],
       "captions": [
-        "Truth Social is charging $100,000 for real-time access to Trump's posts. So democracy is now a subscription service, and you're still on the free tier.",
-        "They're selling early access to the president's thoughts. Bold move for a product that's famously unpredictable and occasionally market-moving.",
-        "A hundred thousand dollars to read tweets in real time. The guy who promised to drain the swamp just put a turnstile on it.",
-        "Former prosecutors say it might be insider trading. Trump says it's just business. The line between those two things is doing a lot of work right now.",
-        "Imagine paying six figures to get a presidential post at the exact same moment as everyone else. That's not a subscription — that's a protection racket."
+        "The president filed over 1,100 stock trades for July. His financial disclosure is basically a day-trader's dream journal.",
+        "He sold Amazon and Microsoft on the exact day they spiked. Incredible timing. Truly. Just incredible timing.",
+        "Voters are furious about politicians trading stocks, so naturally the president responded by making 23 trades a day.",
+        "At this point the presidential financial disclosure is longer than most terms of service agreements — and nobody's reading either one.",
+        "The Mag 7 pops $291 billion in one day, and someone sold up to $25 million of Microsoft that afternoon. Funny how that works."
       ],
       "captionsJa": [
-        "Truth Socialが大統領のポストに10万ドルの値段をつけた。民主主義がサブスク化してるんですけど、あなたはまだ無料プランですよ。",
-        "大統領の思考をリアルタイム購入できます。予測不能で市場を動かすこともある、というコンテンツとしては攻めたビジネスモデル。",
-        "10万ドル払えばトランプのツイートが読める。「沼を干上がらせる」と言ってた人が、沼に有料改札をつけた。",
-        "元検察官は「インサイダー取引かも」と言ってる。トランプは「ただのビジネスだ」と言ってる。その二つの距離感、もう少し教えてほしい。",
-        "6桁の金を払って、誰でも見られるポストを誰でも見られるタイミングで受け取る。これはサブスクじゃなくて、みかじめ料では。"
+        "大統領が7月の株取引を1,100件以上開示しました。財務報告書というより、デイトレーダーの日記なんですよ。",
+        "アマゾンとマイクロソフトを急騰した当日に売り抜けてる。すごいタイミングですね。本当に、すごいタイミング。",
+        "議員の株取引に怒り心頭の有権者に対し、大統領は1日23件の取引で応えたわけです。",
+        "もはや大統領の財務開示書は利用規約より長い。どちらも誰も読まないけど。",
+        "Mag 7が1日で2,910億ドル上がったその午後、誰かがマイクロソフトを最大2,500万ドル売ってた。不思議ですねえ。"
       ],
-      "newsEn": "Trump Media & Technology Group launched a paid API feed for Truth Social, charging $100,000 for real-time access to posts from top accounts — including, presumably, the president himself. Former federal prosecutors have said this arrangement could constitute illegal insider trading, since presidential statements can move markets. The service was introduced without public announcement.",
+      "newsEn": "Financial disclosures released Tuesday reveal President Trump made more than 440 purchases and 700 sales of stocks in July alone, with total value estimated between $79 million and $270 million. The trades included sales of up to $25 million each in Microsoft and Amazon on a single day when the Mag 7 stocks surged 5%, adding $291 billion in collective market cap. The disclosures come amid growing public anger over elected officials trading individual stocks.",
       "ironyEn": [
         {
-          "contradiction": "A platform named 'Truth' Social is selling access to the truth for $100,000 a year. Apparently truth isn't free — it's on a tiered pricing model.",
-          "absurdity": "The president's public statements, which are supposed to inform citizens, are being packaged as a premium financial data product. Democracy as a Bloomberg terminal.",
-          "outside": "Most countries have laws against officials profiting from nonpublic information. The U.S. apparently just needed to clarify whether a tweet counts."
+          "contradiction": "Voters are angrier than ever about politicians trading stocks. The president's response was apparently to make 1,100 trades in a single month.",
+          "absurdity": "He sold up to $25 million of Amazon on the exact day it popped. Not before. Not after. That day.",
+          "outside": "From abroad, this looks less like a financial disclosure and more like a brokerage statement accidentally filed with the wrong agency."
         },
         {
-          "contradiction": "Trump built his brand railing against elites who rig the system. The system now costs $100K to access in real time.",
-          "absurdity": "You don't even get the posts early — just at the same speed as everyone else, but with an invoice attached. It's a velvet rope with no VIP room behind it.",
-          "outside": "Wall Street traders are essentially being asked to pay a toll to hear the president think out loud. At that price, they might want a refund."
+          "contradiction": "The administration that ran on draining the swamp disclosed a swamp that trades equities at the pace of a hedge fund.",
+          "absurdity": "Over 700 sales in July alone — that's roughly 23 trades a day, which means someone in the White House was very busy between press briefings.",
+          "outside": "Countries with strict conflict-of-interest laws are looking at this filing and just slowly closing the tab."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-22/candidate-1.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-22/candidate-1-punchy.jpg"
+      "image": "images/2026-09-23/candidate-1.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-23/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
-      "sensitive": true,
+      "sensitive": false,
       "news": {
-        "headline": "ICE Quietly Stops Disclosing Where It's Holding Thousands of Detainees Facing Deportation",
-        "source": "The Guardian US",
-        "date": "2026-09-22",
-        "url": "https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations",
-        "summary": "米移民税関執行局（ICE）が、最終送還命令を受けた収容者数千人の居場所を公開するのをひそかに停止したことが明らかになった。弁護士や家族が収容者を探すことを困難にするこの措置は、公式発表なく実施された。"
+        "headline": "'Trump TV' Launches on YouTube Days After White House Bans Major News Outlets",
+        "source": "NPR News",
+        "date": "2026-09-23",
+        "url": "https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house",
+        "summary": "トランプ政権がCNN・MSNOWなど主要メディアを記者団から排除してから数日後、ホワイトハウスが独自の24時間YouTubeチャンネル「Trump TV」を立ち上げた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「法の支配」を掲げる行政機関が、弁護士が依頼人を探せないような運用を、告知すらせずに始めた。これは制度の失敗ではなく、制度の選択。",
-        "<b>滑稽さ:</b> ここで笑える部分はない。問題の本質は「正式な手続きを踏んでいるように見せながら、適正手続きの前提条件を静かに取り除いている」こと。",
-        "<b>日本・海外から見ると:</b> 弁護士が依頼人の居場所を知れない制度は、法的代理という概念そのものを形骸化させる。手続きの外形だけ残して中身を空にする手法として、国際的な人権基準から見れば看過できない。"
+        "<b>矛盾:</b> 「報道の自由を守る」と言いながら主要メディアを締め出し、その代わりに自分たちが編集権を握ったチャンネルを「ニュース」として差し出してる。",
+        "<b>滑稽さ:</b> YouTubeチャンネルの説明文が「一番大事な瞬間を一箇所に」。編集者は政権本人です。",
+        "<b>日本・海外から見ると:</b> 国営放送を持つ権威主義国家がだいたい同じロジックでメディアを運営している。そちらはYouTubeじゃなかっただけで。"
       ],
       "imagePrompts": [
-        "A large government filing cabinet labeled 'DETAINEE LOCATIONS' with all the drawers locked and a small handwritten note taped to it reading 'NO LONGER PUBLIC', set inside a fluorescent-lit federal office",
-        "An official government website on a monitor with a database search field for detainee locations, showing a blank results page with an error message: 'INFORMATION NOT AVAILABLE', a government seal visible in the corner",
-        "A federal building exterior with a sign reading 'ICE DETENTION RECORDS OFFICE', front door closed, with a plain notice posted reading 'Location data discontinued — no further details'"
+        "A television studio set built inside a government press briefing room, with an empty podium surrounded by ring lights and a YouTube logo on the backdrop where reporter seats used to be",
+        "A velvet rope blocking a crowd of journalists with press badges outside a door labeled 'PRESS ROOM,' while a single camera operator walks through unchallenged toward a lit studio set",
+        "A YouTube channel page on a laptop screen titled 'Trump TV,' subscribe button prominent, listed under the category 'News' with the channel owner displayed as 'The White House'"
       ],
       "captions": [
-        "ICE stopped telling anyone where detainees are held. The rights still exist. The people, technically, are somewhere.",
-        "Due process requires a lawyer. A lawyer requires a client. A client requires a location. ICE quietly removed that last step.",
-        "No press release. No rulemaking. One day the database just... stopped.",
-        "They didn't eliminate the right to counsel. They just made it impossible to find the person who has that right.",
-        "The procedure is still on the books. The location is not. One of those things matters more."
+        "They banned the press and launched their own channel. The reviews are great — the reviewer is also the White House.",
+        "Trump TV promises 'biggest moments all in one place.' Editor-in-chief: the administration. Executive producer: also the administration.",
+        "CNN gets banned on Monday. Trump TV launches on Thursday. The gap between those two events is where the irony lives.",
+        "No reporters, no questions, no editors — just a 24-hour channel run by the people who used to complain about bias.",
+        "No reporters, no questions, no problem — just 'biggest moments' curated by the people having the moments."
       ],
       "captionsJa": [
-        "ICEは収容者の居場所を教えるのをやめた。権利は存在する。人も、どこかにいる。",
-        "適正手続きには弁護士が必要。弁護士には依頼人が必要。依頼人には居場所が必要。ICEは最後の一つを静かに消した。",
-        "プレスリリースなし。規則改正なし。ある日、データベースが止まっただけ。",
-        "弁護士を頼む権利は消してない。その人を弁護士が探せないようにしただけ。",
-        "手続きの外形は残っている。居場所は残っていない。どちらが重要かは自明だ。"
+        "メディアを締め出して自分たちのチャンネルを立ち上げた。評価は最高です——評価者もホワイトハウスですが。",
+        "「最大の瞬間を一箇所に」と約束するTrump TV。編集長は政権。プロデューサーも政権。",
+        "月曜日にCNNを追放して、木曜日にTrump TVを開設。その間の数日間に風刺の全てが詰まってる。",
+        "記者なし、質問なし、編集者なし——メディアの偏向を訴えていた人たちが24時間チャンネルを回してる。",
+        "記者なし、質問なし、問題なし——「最大の瞬間」は当事者が選びます。"
       ],
-      "newsEn": "U.S. Immigration and Customs Enforcement has stopped publicly disclosing the locations of thousands of detainees who have received final deportation orders. The move, made without announcement, makes it significantly harder for lawyers and family members to locate those being held. Legal advocates say the policy undermines due process protections and access to counsel.",
+      "newsEn": "The Trump White House launched a 24/7 YouTube channel it's calling 'Trump TV' just days after barring reporters from CNN, MS NOW, and Politico from the White House press pool. The channel promises to put the administration's 'biggest moments all in one place.' The move marks a significant escalation in the administration's long-running conflict with mainstream media.",
       "ironyEn": [
         {
-          "contradiction": "The U.S. system requires legal representation and due process for detainees — but ICE quietly removed the step that makes those rights usable: telling anyone where the person is being held.",
-          "absurdity": "This isn't satire material. The actual issue is that a government agency changed a transparency policy with no announcement, making it structurally harder to exercise rights that formally still exist.",
-          "outside": "International human rights standards require that detainees' locations be accessible to family and counsel. Removing that access while keeping the formal language of due process intact is the policy contradiction worth examining."
+          "contradiction": "The White House banned journalists to stop 'biased' coverage, then immediately launched its own channel where all the coverage is produced by the White House.",
+          "absurdity": "It's called 'Trump TV.' They did not try to make it sound like a news organization. Points for honesty, maybe.",
+          "outside": "State-run media in authoritarian countries use almost identical justifications. The main difference is the thumbnail quality."
         },
         {
-          "contradiction": "Rights that cannot be located are rights that cannot be exercised. The procedure still exists on paper.",
-          "absurdity": "No comedy here. The accountability gap is the story: a major change in detention transparency was implemented without public notice, press release, or rulemaking.",
-          "outside": "When lawyers can't find their clients inside a government system, the oversight function of the legal profession disappears — which may be precisely the point."
+          "contradiction": "Kicking out reporters for 'fake news' while promising 'real' news — produced, edited, and distributed by the subject of the news.",
+          "absurdity": "A 24/7 YouTube channel staffed by the administration covering the administration. The comments section is probably disabled.",
+          "outside": "Foreign press freedom indexes are going to need a new category: 'the country that turned the press briefing room into a studio set.'"
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-22/candidate-2.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-22/candidate-2-punchy.jpg"
+      "image": "images/2026-09-23/candidate-2.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-23/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Texas Gov. Abbott Halts Data Center Permits Weeks After Welcoming the Same Boom He's Now Pausing",
-        "source": "CNBC Top News",
-        "date": "2026-09-22",
-        "url": "https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html",
-        "summary": "テキサス州のグレッグ・アボット知事が、データセンターの建設許可を停止する命令を出した。これは同知事が数週間前に同州のデータセンター建設ブームを歓迎するモラトリアムを発令した直後のことで、中間選挙の争点となっている。"
+        "headline": "Andreessen Horowitz Opens AI School as 'College Alternative' — Tuition TBD, Disruption Guaranteed",
+        "source": "CBS News US",
+        "date": "2026-09-23",
+        "url": "https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/",
+        "summary": "シリコンバレーの著名ベンチャーキャピタルAndreessen Horowitzが、AIに特化した大学の代替となるテックアカデミーを設立した。起業志望者を対象としている。"
       },
       "commentary": [
-        "<b>矛盾:</b> テキサスの電力網を「自立した成功モデル」と宣伝してきた知事が、その電力網を爆食いするデータセンターを誘致し、選挙直前になって「やっぱり待って」と言ってる。",
-        "<b>滑稽さ:</b> モラトリアムのモラトリアムですよ。「いったん止める」をいったん止めたんじゃなくて、歓迎したものをいったん止めたんですよ。政策の向きが選挙カレンダーと完全に連動してる。",
-        "<b>日本・海外から見ると:</b> エネルギー自立を誇る州が、AIブームの電力消費に対応できず許可を凍結するというのは、「テック産業の成長」と「既存インフラ」のギャップを象徴する話として世界中で起きてる構図。"
+        "<b>矛盾:</b> 大学を「時代遅れの高コスト機関」と批判してきたVCが、自分たちの価値観と投資先企業に都合のいい人材を育てる学校を作ってる。これ、カリキュラムが「うちのポートフォリオに投資してもらう方法」にならないか。",
+        "<b>滑稽さ:</b> 「大学の代替」を作ったのが、スタンフォードとプリンストンの卒業生が仕切るVCというのは、なかなかのオチ。",
+        "<b>日本・海外から見ると:</b> 日本だと文科省の認可なしに「大学の代替」を名乗るのは難しいが、アメリカではVCがアカデミーを開ける。教育の「破壊的イノベーション」が起業家精神で包まれて届く。"
       ],
       "imagePrompts": [
-        "A large welcome banner reading 'TEXAS LOVES DATA CENTERS' hanging on a building, with a state official below holding a sign reading 'PERMIT HALT EFFECTIVE IMMEDIATELY', power lines sagging in the background",
-        "A governor's desk with two stamped documents side by side: one reading 'DATA CENTER BOOM: APPROVED' dated several months ago, and one reading 'DATA CENTER PERMITS: HALTED' dated last week, both with official seals",
-        "A massive server farm building under construction in a Texas landscape, with a 'GRAND OPENING SOON' sign half-covered by a new notice reading 'PERMIT FROZEN — SEE STATE OFFICE', electrical pylons visible in the distance"
+        "A classroom with a whiteboard reading 'COLLEGE IS BROKEN' crossed out, replaced by 'ENROLL IN OUR SCHOOL,' with a venture capital logo on the chalkboard eraser",
+        "A diploma-style certificate with 'ANDREESSEN HOROWITZ ACADEMY' at the top and a small asterisk leading to fine print at the bottom, framed on a sleek office wall",
+        "A conveyor belt moving graduates in hoodies from a classroom labeled 'a16z School' directly into a room full of desks labeled 'Portfolio Company Offices'"
       ],
       "captions": [
-        "Abbott welcomed data centers, then froze permits for data centers. The grid is the same grid he said was fine.",
-        "Texas told Big Tech: 'Y'all come.' Then, six weeks before the election: 'Actually, hold on.'",
-        "A moratorium on a moratorium. At some point the policy is just a mood.",
-        "He promoted Texas's grid as a model of independence. The data centers agreed — they're consuming it independently.",
-        "Every state is doing this: recruit the tech boom, then panic when the lights flicker. Texas just moves faster than everyone."
+        "a16z says college is broken and opened their own school. The application fee is probably a pitch deck.",
+        "The curriculum teaches you to build AI companies. The school is run by people who invest in AI companies. Nothing to see here.",
+        "Silicon Valley spent 20 years saying college doesn't work, then got very quiet and opened a college.",
+        "Aspiring entrepreneurs will learn to build AI startups — and the faculty already knows which ones they'd like to fund.",
+        "A 'college alternative' founded by people with Ivy League degrees. The irony has a 2% carried interest."
       ],
       "captionsJa": [
-        "アボット知事はデータセンターを歓迎し、次にデータセンターの許可を凍結した。電力網は同じ電力網。「大丈夫」と言ってたやつ。",
-        "テキサスはビッグテックに「ようこそ」と言った。選挙6週間前に「ちょっと待って」と言い直した。",
-        "モラトリアムのモラトリアム。ある段階から政策じゃなくて、気分なんですよ。",
-        "「テキサスの電力網は自立の象徴」と言ってた。データセンターも同意した。独立して消費してる。",
-        "どの州も同じことやってる。テック産業を誘致して、電気が揺れたら慌てる。テキサスはただ全部が速い。"
+        "a16zは「大学は壊れてる」と言って自分たちの学校を開いた。入学審査はたぶんピッチデッキ提出です。",
+        "カリキュラムはAI企業の作り方。学校の運営者はAI企業に投資する人たち。何も問題ありません。",
+        "シリコンバレーは20年間「大学は機能しない」と言い続け、そして静かに大学を作った。",
+        "起業志望者はAIスタートアップの作り方を学ぶ——そして教員陣はどれに投資するかすでに決めてる。",
+        "アイビーリーグ卒業生が作った「大学の代替」。この皮肉には2%のキャリード・インタレストが付いてる。"
       ],
-      "newsEn": "Texas Governor Greg Abbott ordered a halt to data center permits just weeks after his administration had issued a moratorium that was itself a reversal of earlier policies welcoming the data center boom. The issue has become a flashpoint in the 2026 midterm elections, including Abbott's own reelection race against Democratic challenger Gina Hinojosa. Critics noted that data centers strain the Texas power grid, which Abbott had previously touted as an energy independence success story.",
+      "newsEn": "Venture capital firm Andreessen Horowitz has launched a new tech academy positioned as an alternative to traditional college, targeting aspiring entrepreneurs who want to build AI companies. The firm, known as a16z, is one of Silicon Valley's most prominent investors. The school is geared specifically toward AI-focused founders rather than general computer science education.",
       "ironyEn": [
         {
-          "contradiction": "Abbott spent years promoting Texas's independent power grid as a symbol of the state's self-reliance. Then he welcomed data centers that gulp that grid dry. Now he's pausing permits — six weeks before Election Day.",
-          "absurdity": "A moratorium on a moratorium. He welcomed the boom, then froze it, and the timing of both moves aligns almost exactly with campaign season.",
-          "outside": "Texas pitched itself as America's tech-friendly, low-regulation alternative. The state is now issuing emergency brakes on the very industry it recruited. California must be taking notes."
+          "contradiction": "A VC firm that profits from the college-educated founders it funds is now selling a school that skips college — but not necessarily skipping the part where a16z takes equity.",
+          "absurdity": "The curriculum is focused on 'building AI.' The school is run by people whose entire business model depends on AI startups succeeding. Totally unbiased education.",
+          "outside": "In most countries, opening a 'college alternative' requires government oversight. In the US, you just need a term sheet and a press release."
         },
         {
-          "contradiction": "The governor who said Texas's grid was a model for the nation is now halting the permits for the buildings that exposed the grid's limits.",
-          "absurdity": "You don't usually reverse-court an industry this fast. Normally there's at least a full budget cycle between the welcoming ceremony and the restraining order.",
-          "outside": "Every state told data centers to come. Texas just got there faster — both on the invitation and the regret."
+          "contradiction": "Silicon Valley has spent 20 years saying college is broken. Now it's making its own college, presumably also perfect.",
+          "absurdity": "The school's target student is an 'aspiring entrepreneur focused on AI.' The school's investors want AI companies to fund. Coincidence.",
+          "outside": "A school run by investors, teaching students to build companies that investors will fund. Some countries call that a pipeline. a16z calls it disruption."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-22/candidate-3.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-22/candidate-3-punchy.jpg"
+      "image": "images/2026-09-23/candidate-3.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-23/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Man Pepper-Sprays Movie Theatergoer for Using Phone During Film — Gets Arrested, Obviously",
-        "source": "The Guardian US",
-        "date": "2026-09-22",
-        "url": "https://www.theguardian.com/us-news/2026/sep/21/person-pepper-sprayed-phone-use-amc-movie-la",
-        "summary": "カリフォルニア州バーバンクの映画館で、上映中に携帯電話を使っていた観客に対し34歳の男性が唐辛子スプレーを噴射。3人が病院に搬送され、男性は軽犯罪の暴行罪で逮捕された。"
+        "headline": "Trump Administration Removes 760,000 Obamacare Enrollments — Calling It Fraud",
+        "source": "CNBC Top News",
+        "date": "2026-09-23",
+        "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
+        "summary": "トランプ政権がオバマケアの加入者約76万人分を「詐欺」として削除したと発表した。JDバンス副大統領のタスクフォースは、この措置で約22億ドルの補助金を節約できると主張している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 映画館のマナー違反は誰でもイライラするけど、解決策として「化学兵器」を選んだ結果、被害者が3人に増えて自分も逮捕されてる。問題を解決するどころか3倍にした。",
-        "<b>滑稽さ:</b> ネットでは「気持ちはわかる」という声が出てきてて、それ自体がもう社会の終わり感があるんですよ。映画館の携帯マナーへの怒りがついに臨界点を超えた。",
-        "<b>日本・海外から見ると:</b> 日本の映画館では開演前に「携帯はマナーモードで」と10回くらいアナウンスが流れる。アメリカではアナウンスを飛ばして唐辛子スプレーに進化した。"
+        "<b>矛盾:</b> 「詐欺を排除する」という大義名分で76万件を削除したのに、どうやって詐欺と判定したかの基準を公表していない。削除された側からすれば「いつの間にか保険を失った」だけ。",
+        "<b>滑稽さ:</b> 「詐欺対策タスクフォース」の成果発表が「76万人削除」。削除した件数が多いほど成果に見える仕組みなんですよ、これ。",
+        "<b>日本・海外から見ると:</b> 国民健康保険的な制度を「詐欺師が使っている」という理由で大量解約できる国は珍しい。外から見ると「健康保険のアカウント停止」の話に聞こえる。"
       ],
       "imagePrompts": [
-        "The interior of a dark movie theater with a bright phone screen glowing in the middle of the audience, and a cartoon cloud of pepper spray spreading across three rows of seats, all facing away from the screen",
-        "A movie theater lobby with a 'NOW PLAYING' sign board listing 'PEPPER SPRAY INCIDENT — RATED R' as a feature film, with police tape across the entrance",
-        "A courtroom sketch-style image showing a man in a defendant's chair holding a can of pepper spray labeled 'CINEMA ENFORCEMENT DEVICE', with a judge looking unimpressed"
+        "A large government form labeled 'HEALTH INSURANCE ENROLLMENT' with a giant red 'CANCELLED' stamp across it, stacked 760,000 high, in a bureaucratic office setting",
+        "A scoreboard in a government office showing 'ENROLLMENTS ELIMINATED: 760,000' with a gold star sticker, next to an empty column labeled 'FRAUD PROVEN'",
+        "A press conference podium in front of a banner reading 'TASK FORCE TO ELIMINATE FRAUD,' with a single large graph showing a declining coverage line labeled as a success metric"
       ],
       "captions": [
-        "He couldn't stand someone using a phone during a movie, so he created a situation where nobody got to watch the movie. Problem solved.",
-        "The phone ruined it for one guy. The pepper spray ruined it for three people and a criminal record. Proportional response.",
-        "Misdemeanor battery for defending the movie experience. The phone user walked out fine. Justice, sort of.",
-        "There's a corner of the internet that says 'I get it, though.' That corner is the most alarming part of this story.",
-        "Japan: five pre-show announcements about phone courtesy. America: we figured it out differently."
+        "The fraud task force removed 760,000 Obamacare enrollments. How they identified the fraud? Details pending. Coverage? Also pending.",
+        "Saving $2.2 billion by canceling insurance for 760,000 people — roughly $2,900 a head. One ER visit will fix that math.",
+        "They didn't say what counted as fraud. They didn't say who was notified. They did say '760,000' very proudly.",
+        "The task force's success metric is the number of people removed from health insurance. The fraud metric is still loading.",
+        "Other countries celebrate when enrollment goes up. This administration is celebrating enrollment going down. Same scoreboard, different sport."
       ],
       "captionsJa": [
-        "映画中の携帯が我慢できなくて、結果として誰も映画を見られない状況を作った。解決しました。",
-        "携帯は一人の体験を台無しにした。唐辛子スプレーは3人を病院送りにした上に前科もついた。比例的対応。",
-        "映画体験を守った結果、軽犯罪の暴行罪。携帯を使ってた人は普通に帰った。なんとなく正義。",
-        "「気持ちはわかる」と言ってるネットの一角が、この話で一番やばい部分なんですよ。",
-        "日本：上映前に携帯マナーのアナウンスが5回流れる。アメリカ：別のアプローチを採用した。"
+        "詐欺対策タスクフォースが76万件のオバマケア加入を削除しました。詐欺の判定基準は？追って発表します。保険は？それも追って。",
+        "76万人の保険を解約して22億ドル節約——1人あたり約2,900ドル。救急外来1回でこの計算は崩れます。",
+        "何が詐欺かは言わなかった。誰に通知したかも言わなかった。「76万件」だけは誇らしげに言った。",
+        "タスクフォースの成果指標は「削除した保険の件数」。詐欺の件数はまだ集計中です。",
+        "他の国は加入者数が増えると喜ぶ。この政権は減ると喜ぶ。同じスコアボード、違うスポーツ。"
       ],
-      "newsEn": "A 34-year-old California man was arrested after allegedly pepper-spraying a moviegoer who was using a cellphone during a film at a theater in Burbank. Three patrons were sent to the hospital following the incident. The man was charged with misdemeanor battery. The incident has reignited the long-running debate over phone etiquette in movie theaters, with some observers noting a degree of sympathy for the frustration, if not the method.",
+      "newsEn": "The Trump administration announced it has removed approximately 760,000 Obamacare enrollments, alleging the registrations were fraudulent. The action was carried out by Vice President JD Vance's White House Task Force to Eliminate Fraud, which claims the move will save roughly $2.2 billion in taxpayer-funded subsidies. The administration did not specify what evidence was used to identify the allegedly fraudulent enrollments.",
       "ironyEn": [
         {
-          "contradiction": "He went to a movie to enjoy a shared, immersive experience in peace. He left in handcuffs having created a significantly less peaceful shared experience for three strangers.",
-          "absurdity": "The phone user reportedly ruined the movie for one person. The pepper spray ruined it for the whole theater and sent people to the hospital. Escalation-to-outcome ratio is not great.",
-          "outside": "In Japan, they play a five-minute pre-show courtesy announcement about phones. America skipped straight to chemical deterrents."
+          "contradiction": "A task force created to protect taxpayer money removed 760,000 health insurance enrollments without publicly explaining how it identified fraud — saving money by leaving people uninsured.",
+          "absurdity": "The metric for success here is literally 'how many people we removed.' A higher number is a bigger win. That's the whole system.",
+          "outside": "Most developed countries measure healthcare success by coverage rates. The US apparently now tracks 'enrollments eliminated' as a performance indicator."
         },
         {
-          "contradiction": "His complaint was that someone else was being inconsiderate. The jury on whether pepper spray is a considerate response is still, apparently, deliberating.",
-          "absurdity": "Charged with misdemeanor battery for defending the sanctity of cinema. Somewhere a film school professor is writing a thesis.",
-          "outside": "Every country has the phone-at-the-movies debate. Most of them conclude with passive-aggressive sighing. This one concluded with an ambulance."
+          "contradiction": "The administration says it's fighting fraud. It has not said what counts as fraud, who was flagged, or whether anyone was notified before losing coverage.",
+          "absurdity": "JD Vance's fraud task force found $2.2 billion in savings. The math works out to about $2,900 per person — which is roughly what it costs to treat one emergency room visit without insurance.",
+          "outside": "Foreign observers watching the US healthcare debate are confused why the victory lap is about insurance cancellations. Most countries do victory laps about enrollment numbers going up."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-22/candidate-4.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-22/candidate-4-punchy.jpg"
+      "image": "images/2026-09-23/candidate-4.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-23/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "California Passes Laws to Stop AI Data Centers From Charging Their Electric Bills to Regular Residents",
-        "source": "The Verge",
-        "date": "2026-09-22",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills",
-        "summary": "カリフォルニア州のギャビン・ニューサム知事が、AIデータセンターの光熱費を一般住民に転嫁することを防ぐための7つの法案に署名した。データセンターに独自の料金区分を設け、エネルギーと水の使用に新たな規制を課す内容。"
+        "headline": "Yellowstone Staff Pull Record 20,000 Pieces of Trash from Hot Springs — Hats, Pencils, Baby Pacifiers",
+        "source": "The Guardian US",
+        "date": "2026-09-23",
+        "url": "https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record",
+        "summary": "イエローストーン国立公園のスタッフが、今年これまでに間欠泉周辺の熱水エリアから過去最多の約2万100個のゴミを回収したことが明らかになった。帽子・鉛筆・乳児用おしゃぶりなどが含まれる。"
       },
       "commentary": [
-        "<b>矛盾:</b> AIブームを最も熱心に推進してきた州が、AIの電気代が自分たちの請求書に載ってくると気づいた瞬間に規制を作った。応援してたチームのツケが来た感じ。",
-        "<b>滑稽さ:</b> 「AIが世界を変える」という話をしてる企業のサーバーの電気代を、AIとは無関係なカリフォルニア市民が払いそうになってたんですよ。未来への投資を知らないうちにさせられてた。",
-        "<b>日本・海外から見ると:</b> 「テックフレンドリーな州」が電力コストの分担問題でブレーキを踏む構図は、日本でも半導体工場や大規模施設の立地問題と重なる部分がある。インフラの恩恵と負担が別々の人に行く問題。"
+        "<b>矛盾:</b> 「自然を守るために来た」観光客が、自然の中に帽子と赤ちゃんのおしゃぶりを落としていく。国立公園の理念と現実の距離が約2万個。",
+        "<b>滑稽さ:</b> 熱水プールから回収されたものリストに「赤ちゃん用おしゃぶり」が入ってる。間欠泉の前で赤ちゃんに何が起きてたんですか。",
+        "<b>日本・海外から見ると:</b> 日本の観光地でも外来ゴミは問題だが、温泉から鉛筆とおしゃぶりが出てくるのはさすがに聞いたことない。「自然との共存」の解釈が広い。"
       ],
       "imagePrompts": [
-        "A residential California home with an enormous electricity bill on the doorstep, and in the background a massive data center with glowing servers visible through floor-to-ceiling windows, labeled 'AI COMPUTE FACILITY'",
-        "A split image: left side shows an oversized household electricity bill taped to a refrigerator; right side shows rows of servers running at full capacity with a small sign reading 'TRAINING THE FUTURE'",
-        "California Governor signing a stack of seven documents at a desk, while behind him a wall display shows electricity cost charts with a steep line labeled 'DATA CENTERS' and a flat line labeled 'RESIDENTS (AFTER THIS)'"
+        "A park ranger in uniform using a long-handled net to fish a baby pacifier out of a steaming, vivid blue hot spring, with a growing pile of hats and small objects beside them",
+        "A collection table outside Yellowstone's geothermal zone displaying 20,000 small items sorted into bins: hats, pencils, pacifiers, sunglasses, with a hand-painted sign reading 'RECORD 2026'",
+        "A tourist family posing for a selfie at the edge of a hot spring, a hat visibly mid-air in the background, caught in a gust heading toward the thermal pool"
       ],
       "captions": [
-        "California loves AI. California also just passed seven laws saying AI's electricity bill is not California's problem.",
-        "Turns out 'the future of intelligence' draws a lot of power, and it was quietly headed for your monthly statement.",
-        "Seven bills at once. That's the gubernatorial equivalent of checking your credit card statement and immediately calling your bank.",
-        "The state that invented the AI boom needed new laws to avoid personally funding it. That's the plot twist.",
-        "Texas is still putting up welcome signs. California is on bill seven. They're just at different points in the same story."
+        "Yellowstone pulled 20,100 pieces of trash from its hot springs this year. Among them: a baby pacifier. The volcano was not consulted.",
+        "Strong winds blow hats into the geysers, they say. The pacifier, though — that one's on you.",
+        "A record 20,000 items removed from Yellowstone's thermal pools. It's basically the world's most expensive lost-and-found.",
+        "Someone let their baby near a volcanic hot spring and lost the pacifier. The spring kept it. Finders keepers.",
+        "The most-visited national park in America is also, apparently, its most popular thermal trash receptacle."
       ],
       "captionsJa": [
-        "カリフォルニアはAIが大好き。でもAIの電気代はカリフォルニアの問題ではない、という法律を7本同時に通した。",
-        "「知性の未来」はすごく電力を食う。そしてその請求書は静かに市民の月次明細に向かっていた。",
-        "7本一気に署名。知事としての「クレジットカードの明細を見て即カード会社に電話する」的な動き。",
-        "AIブームを発明した州が、知らぬ間にそれを自腹で支援しそうになってたんですよ。これが今回のどんでん返し。",
-        "テキサスはまだ歓迎の看板を立てている。カリフォルニアは法案7本目。同じ話の別のシーン。"
+        "イエローストーンは今年、熱水プールから2万100個のゴミを回収しました。その中に赤ちゃんのおしゃぶり。火山に相談はしていません。",
+        "強風で帽子が間欠泉に飛ばされるのはわかる。でもおしゃぶりは——それはあなたのせいです。",
+        "2万個を回収した国立公園。実質、世界一高級な落とし物センター。",
+        "誰かが火山性温泉の前で赤ちゃんのおしゃぶりをなくしました。温泉が持ってる。拾った者勝ち。",
+        "アメリカで最も来場者が多い国立公園は、どうやら最も人気の高い熱水ゴミ箱でもあったようです。"
       ],
-      "newsEn": "California Governor Gavin Newsom signed seven bills aimed at preventing AI data centers from passing their massive utility costs onto ordinary ratepayers. The legislation requires the California Public Utilities Commission to create a new rate classification specifically for data centers, and includes new restrictions on energy and water usage. The move comes as AI infrastructure buildout has accelerated sharply across the state.",
+      "newsEn": "Yellowstone National Park staff have removed a record-setting 20,100 pieces of trash from hydrothermal areas — including hot springs and geyser zones — so far this year. Items retrieved include hats, pencils, and baby pacifiers. Park officials attribute the surge to record-high visitor numbers and strong winds that blow loose items into the thermal pools. The park is the most-visited national park in the United States.",
       "ironyEn": [
         {
-          "contradiction": "California spent years positioning itself as the home of the AI revolution. The revolution, it turns out, has a very large electricity bill — and it was about to arrive in regular people's mailboxes.",
-          "absurdity": "You can be genuinely excited about AI and still not want to personally subsidize a server farm in Kern County on your utility bill. Those are both reasonable positions.",
-          "outside": "Every country chasing the AI boom is quietly discovering the same math: the compute needs power, the power needs infrastructure, and infrastructure costs someone. California just decided who."
+          "contradiction": "People travel hundreds of miles to experience pristine wilderness and then leave a pacifier in a volcanic hot spring.",
+          "absurdity": "A baby pacifier. In a thermal pool. At a national park. Someone looked at the geological wonder before them and thought, 'this is a good place to lose a pacifier.'",
+          "outside": "Japan's national parks have a 'carry in, carry out' culture so strict that visitors apologize for their footprints. Yellowstone's thermal pools are apparently a catch-all."
         },
         {
-          "contradiction": "The state that hosts OpenAI, Google DeepMind, and Anthropic almost let its residents pay the power bills for buildings they'll never enter.",
-          "absurdity": "Seven bills. Signed at once. That's how fast 'we love tech' becomes 'not on our utility statements, we don't.'",
-          "outside": "Texas is still in the welcoming phase. Give it a few months."
+          "contradiction": "The park that symbolizes American natural preservation just set a record — for trash recovery from its most sacred geological features.",
+          "absurdity": "The wind blows hats in. Sure, that's the wind. The pacifier also walked itself into the hot spring, presumably.",
+          "outside": "Foreign visitors who came to see Old Faithful are going to go home and tell people they also saw staff fishing a pencil out of a volcano. Both are accurate Yellowstone experiences now."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-22/candidate-5.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-22/candidate-5-punchy.jpg"
+      "image": "images/2026-09-23/candidate-5.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-23/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「コストを誰が払うか」。権力・インフラ・怒り、どれも最終的なツケは一番声の小さい人のところに来ている。",
-    "titleEn": "Democracy Is a Subscription Service (And You're on the Free Tier)",
-    "subtitleEn": "Five stories about who picks up the tab.",
-    "titleJa": "大統領のつぶやきに10万ドル、収容者の居場所は非公開。ツケは全部こっち持ち。",
+    "thread": "今日の5本の糸：「証拠を出さずに結論だけ大きい声で言う」——株取引も、メディア排除も、保険削除も、学校設立も、ゴミの量も、全部そのパターン。",
+    "titleEn": "1,100 Trades, Zero Press, 760,000 Uninsured: Just Another Tuesday",
+    "subtitleEn": "The week America outsourced accountability to vibes.",
+    "titleJa": "月に1,100件の株取引、メディア締め出し、76万人の保険削除——全部「証拠は後で」の国の話",
     "titleAltJa": [
-      "「AIの電気代はあなたが払ってください」と言いそうになったカリフォルニアの話",
-      "今日のアメリカ、5本読んだら『誰が払うの』しか残らなかった"
+      "「詐欺対策」で76万人の保険を消し、株を1,100件売り、自前のテレビ局を作った国のニュースを今朝読みました",
+      "トランプの株取引が月1,100件だったので、今日の飲み会でこの話題になったらこう返してください"
     ],
-    "leadJa": "大統領のツイートに10万ドル。収容者の居場所は非公開。テキサスは歓迎した直後に止めた。\n\nコストが誰かに着地している。誰かはだいたい最初から決まってる。",
-    "introEn": "Trump's posts now have a sticker price. ICE quietly hid thousands of detainees. Texas welcomed the data center boom, then banned it, then — look, I lost count.\n\nAlso: a guy pepper-sprayed a movie theater, and California passed seven laws to stop Big Tech from quietly adding a line to your electricity bill.\n\nToday's five stories are all the same story. Someone runs up a tab and someone else gets handed the check. The president's thoughts, the missing detainees, the overstrained power grid — the cost lands somewhere. Always on whoever has the least say in the matter.\n\nSo here's your forecast: if you've been feeling like you're paying for something you never agreed to, you're not imagining it. That instinct? Completely correct. Today's news confirms it. Hold onto it.",
-    "introJa": "大統領の「つぶやき」に10万ドルの値札。\n\n読んで、二度見しました。「Truth Social」、つまり「真実のソーシャル」という名前のプラットフォームが、真実を有料で先行販売してる。名前と中身の距離が地球一周くらいある。\n\nで、他を見ると——\n\nICEが収容者数千人の居場所を黙って非公開にした。テキサスは誘致したデータセンターをその数週間後に止めた。カリフォルニアはAIサーバーの電気代が自分たちの請求書に混入しそうになって慌てて7本の法案に署名した。あと映画館で唐辛子スプレーが飛んだ。\n\n今日の5本を貫く糸は「ツケが一番声の小さい人に着地する」ということです。大統領のツイート代も、電力コストも、適正手続きの費用も——払わされるのは、決定に関わっていない人たち。\n\n今日の占い。「なんで私が払ってるんだろう」と思ってることがあるなら、それ、気のせいじゃないです。今日の5本がぜんぶそれを言ってる。",
-    "quipEn": "Today's theme: someone always pays. Today's twist: it's never the person who made the decision.",
-    "quipJa": "決めた人は払わない。それが今日の5本のまとめです。",
+    "leadJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n月1,100件の株取引。メディア排除から3日でYouTube開局。76万人の保険削除、根拠は非公表。間欠泉からおしゃぶり回収2万個。\n\n今日のアメリカは「大きい声で言えば証拠になる」の応用編です。",
+    "introEn": "Five stories today, and they all rhyme.\n\nA president filed 1,100 stock trades in one month while voters were busy being furious about politicians trading stocks. A White House that banned the press launched its own 24-hour channel three days later. A task force deleted 760,000 health insurance enrollments and declined to explain how they found the fraud. A venture capital firm said college is broken and quietly opened a school.\n\nAnd Yellowstone pulled a baby pacifier out of a volcanic hot spring.\n\nThe throughline: confident conclusions, evidence optional.\n\nWhich means your instinct to ask 'wait, how exactly did you figure that out?' is not negativity. It's the right question. Ask it today. Possibly out loud.",
+    "introJa": "1,100件。\n\n7月、トランプ大統領が取引した株の件数です。1日平均にすると23件。朝起きて、昼寝して、夕ご飯食べながら株を売ってる計算。\n\nで、他を見ると…\nメディアを締め出した3日後に自前のYouTubeチャンネルを開設し、76万人の保険を「詐欺」として削除し（根拠は非公表）、大学を「時代遅れ」と言い続けたVCが学校を作り、イエローストーンの間欠泉からおしゃぶりが2万個のゴミとともに回収されている。\n\n今日を貫く糸は、たぶんこれ。「大きい声で言えば根拠になる」。\n\nということで、今日の占いです。\n「証拠出して」って言いたいのに言えない場面、ありませんか。それ、正しい感覚です。「この結論、どうやって出したの?」って一回立ち止まれるだけで、今日はだいぶ違う。たぶん。",
+    "quipEn": "This week, the administration canceled 760,000 insurance plans, launched its own news channel, and filed 1,100 stock trades — and in every case, the receipts are 'forthcoming.'",
+    "quipJa": "証拠は後で、成果は今。今週のアメリカはそういう週でした。",
     "notesEn": [
-      "Trump Media is charging $100,000 for real-time access to the president's posts. 'Truth Social' is now a financial product. The truth is still technically free — you just can't get it first.",
-      "ICE stopped telling lawyers and families where detainees are being held. No announcement. No rule change. The database just... stopped. Due process is still on the website, though.",
-      "Texas Governor Abbott spent months welcoming the data center boom, then froze new permits weeks before his reelection. The grid is the same grid he said was fine. The election date did not move.",
-      "A man pepper-sprayed a movie theater because someone was on their phone. Three people went to the hospital. The phone user walked out. I don't think he solved the problem.",
-      "California just passed seven laws to stop AI data centers from charging their electricity bills to regular residents. Turns out the state that loves AI most draws the line at paying for its electricity."
+      "Trump filed over 1,100 stock trades in July — including selling up to $25 million each in Amazon and Microsoft on the exact day those stocks spiked. His financial disclosure reads like a day-trading screenshot account. Very transparent. Very.",
+      "The White House banned CNN and Politico from the press pool. Three days later, it launched 'Trump TV' on YouTube. The new channel promises 'biggest moments all in one place.' The editor is the administration. The fact-checker is also the administration.",
+      "Andreessen Horowitz — the VC firm run by Stanford and Princeton graduates — launched a school this week to tell you college is a waste of time. The curriculum focuses on building AI companies. The school is run by people who invest in AI companies. Great.",
+      "The Trump administration removed 760,000 Obamacare enrollments, calling them fraudulent. The task force did not say what counted as fraud, who was notified, or how the determination was made. They did say '760,000' with considerable confidence.",
+      "Yellowstone pulled a record 20,100 pieces of trash from its hot springs this year. Hats. Pencils. A baby pacifier. I have questions about the pacifier specifically, and I don't think I'll get answers."
     ],
     "xJa": [
-      "「Truth Social（真実のソーシャル）」が大統領のツイートを10万ドルで先行販売し始めた。真実、高い。",
-      "ICEが収容者数千人の居場所の公開をひそかに止めた。弁護士が依頼人を探せない制度。手続きの外形だけ残して中身を空にするやつ。",
-      "テキサス州知事、データセンターを歓迎→数週間後に許可停止。政策の向きが選挙カレンダーと完全に一致している。偶然とは思えない。",
-      "映画中に携帯を使っていた観客に唐辛子スプレーを噴射した男が逮捕。問題が3倍になった。ネットで「気持ちはわかる」という声が出てて、それも怖い。",
-      "カリフォルニア、AIデータセンターの電気代を一般住民に転嫁することを禁止する法律を7本同時に成立させた。請求書を見てから7本。速い。"
+      "トランプ大統領の7月の株取引が財務開示で判明。1,100件超、株価急騰日にアマゾンとマイクロソフトを最大2,500万ドルずつ売り抜けてる。タイミングが良すぎて、逆に何も言えない。",
+      "ホワイトハウスがCNNなど主要メディアを記者団から締め出した3日後に、独自の24時間YouTubeチャンネル「Trump TV」を開設した。「一番大事な瞬間を一箇所に」。編集者は政権本人です。",
+      "シリコンバレーの大手VC「a16z」が「大学の代替」となるAIアカデミーを開設。創設者たちの出身校はスタンフォードとプリンストン。20年かけて「大学は時代遅れ」と言い続けた着地点がこれ。",
+      "トランプ政権が「詐欺」を理由にオバマケア加入者76万人分を削除したと発表。詐欺の判定基準は非公表、削除された当人への通知も不明。「76万」だけが大きい声で発表された。",
+      "イエローストーン国立公園が今年、間欠泉周辺から過去最多の2万100個のゴミを回収した。帽子、鉛筆、そして赤ちゃんのおしゃぶり。おしゃぶりについては問い合わせ中です。"
     ],
     "raidEn": [
-      "Charging $100K for early access to presidential posts is a bold move for a platform named after a concept that's supposed to be free.",
-      "The part that gets me is there was no announcement. They didn't change the rule — they just quietly changed what the rule meant in practice.",
-      "A moratorium on a moratorium. At some point the policy is just a mood, and the election date is the calendar.",
-      "He fixed one annoyance and created three hospitalized strangers and a criminal record. Efficiency is debatable.",
-      "Seven bills at once. That's the speed you move at when you open your electricity bill and find someone else's server farm on it."
+      "The man filed 23 trades a day and the disclosure is called 'transparency.' Incredible use of the word.",
+      "CNN gets banned Monday, Trump TV launches Thursday. The gap between those two events is doing a lot of heavy lifting.",
+      "The application to this school is probably just a pitch deck with a cover letter that says 'college is broken.'",
+      "They announced the number confidently. The method, the notification, the evidence — those are apparently a separate announcement.",
+      "The pacifier is the one I keep thinking about. Someone at Yellowstone is writing an incident report that starts with 'infant-related thermal event.'"
     ],
     "raidJa": [
-      "「真実を届ける」プラットフォームが真実に10万ドルの値段をつけてる、という文章を読んで少し遠い目になりました。この記事、読み応えありました。",
-      "「公式発表なし」というのが一番怖いですよね。ルールを変えたんじゃなくて、運用を変えた。この記事、丁寧に追ってくれてありがとうございます。",
-      "「モラトリアムのモラトリアム」という言葉が浮かびました。政策の向きが選挙カレンダーと連動してる構図、こういう形で見ると本当によくわかります。",
-      "「気持ちはわかる」という声が出てることじたいが、もう一個のニュースですよね。この記事のコメント欄もそうなってて興味深かったです。",
-      "「未来への投資を知らないうちにさせられていた」というのが全てだと思いました。ここまで整理してくれる記事、なかなかないです。"
+      "「透明性の確保」の結果が月1,100件の取引開示というのは、透明すぎて目が痛いですね。この記事、読んでいて二度見しました。",
+      "メディアを締め出した翌週に自前のチャンネルを開くのは、「報道の自由」の解釈として斬新だなと思いました。読んでいて笑うべきか迷いました。",
+      "「大学は時代遅れ」と言ってきた人たちが学校を作る、というオチを誰も予告しなかったのが惜しいですね。いい記事でした。",
+      "成果の数字だけ発表して根拠は非公表、という発表の形式が今日の一番の読みどころでした。76万という数字の重さを考えると、笑えない部分もありますが。",
+      "おしゃぶりが回収リストに入っているの、この記事で一番気になったところです。間欠泉の前で何があったのか、想像するだけで。"
     ],
     "riffEn": [
-      "Trump Media is selling real-time access to the president's posts for $100,000 a year. The platform is called Truth Social — which is a name that implies truth is the product, not a premium feature. Former federal prosecutors say this could be illegal insider trading, because presidential statements move markets. So the arrangement is: you pay a hundred grand, you get the president's words first, and if those words move a stock, well, that's just good timing. The service launched without a public announcement. The swamp didn't get drained. It got a subscription tier.",
-      "ICE stopped publicly disclosing where it's holding thousands of detainees. No press release. No rule change. The database just quietly stopped updating. Here's the mechanical problem: due process requires a lawyer, a lawyer requires a client, and a client requires a location. Remove the location and the rest of the sentence still sounds intact — due process, lawyer, client — but it doesn't connect to anything. That's the move. Keep the vocabulary, remove the referent.",
-      "Greg Abbott spent the better part of this year welcoming data centers to Texas, citing the state's energy independence as proof the grid could handle it. Then, weeks before the midterms, he issued a moratorium. On the data centers he'd just welcomed. The grid is the same grid. The election date is not the same. I'm not saying those two facts are related. I'm saying they're the only two things that changed.",
-      "A man in Burbank couldn't stand someone using their phone during a movie, so he pepper-sprayed them. Three people were hospitalized. He was arrested. The phone user left the theater. I've tried to find the version of this story where the problem got smaller, and I can't find it. He walked in frustrated by one stranger's phone and left having created three hospital visits and a criminal record. The phone, as far as I can tell, was fine.",
-      "California passed seven bills to stop AI data centers from quietly routing their electricity costs onto regular utility customers. Seven. At once. The backstory is that as data centers multiplied across the state, their power usage was being absorbed into general ratepayer costs — meaning people with no AI servers, no cloud computing interest, and no stake in the infrastructure were subsidizing it through their monthly bills. California loves the AI industry. It just decided it doesn't love it that much."
+      "Trump filed 1,100 stock trades in July. Over 440 buys, 700 sells — roughly 23 transactions a day, every day, including weekends. On the specific afternoon that Amazon and Microsoft spiked 5% along with the rest of the Mag 7, he sold up to $25 million in each. The financial disclosure that revealed all this is technically called a transparency document. Voters have been furious for months about politicians trading stocks. The president's response, apparently, was to step on the gas. I've read the paragraph twice. Still reads the same.",
+      "The White House banned CNN, MSNOW, and Politico from the press pool. Three days later it launched a 24-hour YouTube channel called Trump TV, promising 'biggest moments all in one place.' The editor-in-chief is the administration. The fact-checker is the administration. The camera operator is presumably not CNN. This is what you get when the people who are supposed to be covered by the press decide to become the press instead — a channel where the only review policy is self-approval.",
+      "Andreessen Horowitz — a16z, the VC firm whose founders attended Stanford and Princeton — has opened a school. An alternative to college, they say. The school teaches you to build AI companies. The school is run by people who invest in AI companies. They have spent approximately two decades explaining in podcast interviews why college is a broken, overpriced institution that doesn't prepare people for the real world. The school's tuition is to be determined. Silicon Valley got very quiet and opened a college.",
+      "The Trump administration's task force removed 760,000 Obamacare enrollments, calling them fraudulent. The task force says this saves $2.2 billion. The task force did not publish the criteria used to identify fraud. Did not say who was notified. Did not say what the appeals process looks like. They said '760,000' and '2.2 billion' very loudly and then stopped talking. For the 760,000 people involved, the experience is simpler: one day you had health insurance, and then you didn't.",
+      "Yellowstone staff have pulled 20,100 pieces of trash from the park's hydrothermal areas this year — a record. The list includes hats, pencils, and a baby pacifier. Officials blame record visitor numbers and strong winds for the hats and pencils. The pacifier, though. Wind doesn't really explain the pacifier. Someone was at one of the most thermally active places on Earth, holding a baby, and lost the pacifier. The volcano didn't ask for it. But here it is."
     ],
     "riffJa": [
-      "Truth Social（真実のソーシャル）というサービスが、大統領のツイートへのリアルタイムアクセスを年間10万ドルで売り始めました。\n\n名前、もう一回言いますよ。「真実のソーシャル」。真実に10万ドルの値札がついてる。元連邦検察官は「これ、インサイダー取引じゃないか」と言ってる。大統領の発言は市場を動かすから、先に読めれば先に動ける。公式発表はなかった。沼を干すと言っていた人が、沼に改札を設けた。",
-      "ICEが、最終送還命令を受けた収容者数千人の居場所の公開をひそかに停止した。お知らせなし。ルール変更の告知なし。ある日からデータベースが更新されなくなった。\n\n仕組みを確認すると、適正手続きには弁護士が要る。弁護士には依頼人が要る。依頼人には居場所が要る。ICEはその最後の一個を静かに消した。「適正手続き」という言葉はまだある。言葉だけが残っている。\n\n何なんですかね、これ。",
-      "グレッグ・アボット・テキサス州知事がデータセンターの建設許可を停止した。数週間前に「来てください」と言っていた、あのデータセンターです。\n\n電力網は変わっていない。変わったのは選挙まであと数週間という事実だけ。政策の向きが選挙カレンダーと一致している。「モラトリアムのモラトリアム」という言葉が頭の中で出てきて、自分でも止められなかった。",
-      "バーバンクの映画館で、携帯を使っていた観客に唐辛子スプレーを噴射した男が逮捕されました。3人が病院に搬送。携帯を使っていた人は歩いて帰った。\n\n問題の人数が1人から3人になって、自分も逮捕されてる。解決したものが一つもない。ネットで「気持ちはわかる」という声が出ていて、それはそれで社会の別のニュースだと思う。",
-      "カリフォルニア州が、AIデータセンターの電気代を一般住民に転嫁することを禁止する法案を7本、同時に成立させた。\n\n背景はこうです。州内でデータセンターが急増するなか、その膨大な電力使用量が一般の光熱費に混入しようとしていた。AIと無関係なカリフォルニア市民が、知らないうちにAIサーバーの電気代を払わされそうになっていた。カリフォルニアはAIが好き。でも、電気代まで好きじゃなかった。7本、同時。請求書を見てからの速さ。"
+      "7月、トランプ大統領は株を1,100件以上取引した。買いが440件超、売りが700件超。1日にすると23件。土日も含めて毎日です。しかもMag 7の株価が5%急騰したその日に、アマゾンとマイクロソフトをそれぞれ最大2,500万ドル分売り抜けている。\n\nこれが「財務開示」という透明性のための書類で判明した。有権者が議員の株取引に怒り続けている、まさにそのタイミングで。\n\nアクセルを踏んだのは、止めようとしていた側の人でした。",
+      "ホワイトハウスがCNN・MSNOW・Politicoを記者団から排除した。その3日後、「Trump TV」という24時間YouTubeチャンネルが開設された。\n\n説明文には「一番大事な瞬間を一箇所に」。編集者は政権本人。ファクトチェックも政権本人。\n\n報道の自由、大事にしてますね〜。",
+      "a16z（Andreessen Horowitz）はシリコンバレーの超有名VCで、創業者はスタンフォードとプリンストンの卒業生です。そのa16zが「大学の代替」となるAIアカデミーを開設した。\n\nカリキュラムはAI企業の立ち上げ方。学校を運営するのはAI企業に投資している人たち。\n\n「大学は時代遅れで、コストが高く、実社会の役に立たない」と20年言い続けた帰着点が、自分たちの学校を作ることだった。授業料は未定。",
+      "JDバンス副大統領の「詐欺排除タスクフォース」が、オバマケアの加入者76万人分を削除したと発表した。節約額は約22億ドル、と。\n\n詐欺の判定基準は? 非公表。削除された本人への通知は? 不明。異議申し立ての方法は? それも不明。\n\n「76万人」と「22億ドル」という数字だけが、自信満々に発表された。削除された側の体験を一言で言うと、「ある日保険がなくなっていた」です。",
+      "イエローストーンで今年、間欠泉周辺から2万100個のゴミが回収された。過去最多。帽子、鉛筆、そして赤ちゃんのおしゃぶり。\n\n帽子と鉛筆は「強風で飛ばされた」で説明できます。\n\nおしゃぶりは説明できません。地球上でも有数の熱水地帯に赤ちゃんを連れてきて、おしゃぶりを間欠泉に落とした人が今年いた。間欠泉は何も求めていなかったのに。"
     ],
     "asideEn": [
-      "Truth, apparently, has a price point.",
-      "This one isn't funny.",
-      "Same grid, different election cycle.",
-      "The phone survived.",
-      "Seven bills. One electricity statement."
+      "Twenty-three trades a day. Very chill.",
+      "The press is banned. Long live the press.",
+      "They opened a college to explain why college is bad.",
+      "Seven hundred and sixty thousand. Method: vibes.",
+      "The pacifier, though. That one's on you."
     ],
     "asideJa": [
-      "真実、有料です。",
-      "これは、笑えない。",
-      "電力網は変わってない。",
-      "携帯は無事でした。",
-      "請求書を見てからの7本。"
+      "1日23件。趣味が多い。",
+      "メディアを締め出して、自分がメディアになった。",
+      "大学は時代遅れ、と言いながら学校を作った。",
+      "根拠は後で。76万人は先に。",
+      "おしゃぶりだけは説明できない。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
       "News Commentary",
-      "Truth Social",
-      "California"
+      "Trump",
+      "Obamacare"
     ],
-    "fullEn": "# Democracy Is a Subscription Service (And You're on the Free Tier)\n\n## Today's Forecast\n\nTrump's posts now have a sticker price. ICE quietly hid thousands of detainees. Texas welcomed the data center boom, then banned it, then — look, I lost count.\n\nAlso: a guy pepper-sprayed a movie theater, and California passed seven laws to stop Big Tech from quietly adding a line to your electricity bill.\n\nToday's five stories are all the same story. Someone runs up a tab and someone else gets handed the check. The president's thoughts, the missing detainees, the overstrained power grid — the cost lands somewhere. Always on whoever has the least say in the matter.\n\nSo here's your forecast: if you've been feeling like you're paying for something you never agreed to, you're not imagining it. That instinct? Completely correct. Today's news confirms it. Hold onto it.\n\n---\n\n## 1. Trump's Truth Social Posts Now Have a $100K Price Tag — Before He Even Posts Them\n\n*CBS News US — [source](https://www.cbsnews.com/news/ex-federal-prosecutors-trump-media-early-access-truth-social-posts/)*\n\nTrump Media & Technology Group launched a paid API feed for Truth Social, charging $100,000 for real-time access to posts from top accounts — including, presumably, the president himself. Former federal prosecutors have said this arrangement could constitute illegal insider trading, since presidential statements can move markets. The service was introduced without public announcement.\n\n**Why It's Funny**\n\nTrump Media is selling real-time access to the president's posts for $100,000 a year. The platform is called Truth Social — which is a name that implies truth is the product, not a premium feature. Former federal prosecutors say this could be illegal insider trading, because presidential statements move markets. So the arrangement is: you pay a hundred grand, you get the president's words first, and if those words move a stock, well, that's just good timing. The service launched without a public announcement. The swamp didn't get drained. It got a subscription tier.\n\n**Say It Out Loud**\n\n> Truth Social is charging $100,000 for real-time access to Trump's posts. So democracy is now a subscription service, and you're still on the free tier.\n\n---\n\n## 2. ICE Quietly Stops Disclosing Where It's Holding Thousands of Detainees Facing Deportation\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations)*\n\nU.S. Immigration and Customs Enforcement has stopped publicly disclosing the locations of thousands of detainees who have received final deportation orders. The move, made without announcement, makes it significantly harder for lawyers and family members to locate those being held. Legal advocates say the policy undermines due process protections and access to counsel.\n\n**Why It's Funny**\n\nICE stopped publicly disclosing where it's holding thousands of detainees. No press release. No rule change. The database just quietly stopped updating. Here's the mechanical problem: due process requires a lawyer, a lawyer requires a client, and a client requires a location. Remove the location and the rest of the sentence still sounds intact — due process, lawyer, client — but it doesn't connect to anything. That's the move. Keep the vocabulary, remove the referent.\n\n**Say It Out Loud**\n\n> ICE stopped telling anyone where detainees are held. The rights still exist. The people, technically, are somewhere.\n\n---\n\n## 3. Texas Gov. Abbott Halts Data Center Permits Weeks After Welcoming the Same Boom He's Now Pausing\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html)*\n\nTexas Governor Greg Abbott ordered a halt to data center permits just weeks after his administration had issued a moratorium that was itself a reversal of earlier policies welcoming the data center boom. The issue has become a flashpoint in the 2026 midterm elections, including Abbott's own reelection race against Democratic challenger Gina Hinojosa. Critics noted that data centers strain the Texas power grid, which Abbott had previously touted as an energy independence success story.\n\n**Why It's Funny**\n\nGreg Abbott spent the better part of this year welcoming data centers to Texas, citing the state's energy independence as proof the grid could handle it. Then, weeks before the midterms, he issued a moratorium. On the data centers he'd just welcomed. The grid is the same grid. The election date is not the same. I'm not saying those two facts are related. I'm saying they're the only two things that changed.\n\n**Say It Out Loud**\n\n> Abbott welcomed data centers, then froze permits for data centers. The grid is the same grid he said was fine.\n\n---\n\n## 4. Man Pepper-Sprays Movie Theatergoer for Using Phone During Film — Gets Arrested, Obviously\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/21/person-pepper-sprayed-phone-use-amc-movie-la)*\n\nA 34-year-old California man was arrested after allegedly pepper-spraying a moviegoer who was using a cellphone during a film at a theater in Burbank. Three patrons were sent to the hospital following the incident. The man was charged with misdemeanor battery. The incident has reignited the long-running debate over phone etiquette in movie theaters, with some observers noting a degree of sympathy for the frustration, if not the method.\n\n**Why It's Funny**\n\nA man in Burbank couldn't stand someone using their phone during a movie, so he pepper-sprayed them. Three people were hospitalized. He was arrested. The phone user left the theater. I've tried to find the version of this story where the problem got smaller, and I can't find it. He walked in frustrated by one stranger's phone and left having created three hospital visits and a criminal record. The phone, as far as I can tell, was fine.\n\n**Say It Out Loud**\n\n> He couldn't stand someone using a phone during a movie, so he created a situation where nobody got to watch the movie. Problem solved.\n\n---\n\n## 5. California Passes Laws to Stop AI Data Centers From Charging Their Electric Bills to Regular Residents\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)*\n\nCalifornia Governor Gavin Newsom signed seven bills aimed at preventing AI data centers from passing their massive utility costs onto ordinary ratepayers. The legislation requires the California Public Utilities Commission to create a new rate classification specifically for data centers, and includes new restrictions on energy and water usage. The move comes as AI infrastructure buildout has accelerated sharply across the state.\n\n**Why It's Funny**\n\nCalifornia passed seven bills to stop AI data centers from quietly routing their electricity costs onto regular utility customers. Seven. At once. The backstory is that as data centers multiplied across the state, their power usage was being absorbed into general ratepayer costs — meaning people with no AI servers, no cloud computing interest, and no stake in the infrastructure were subsidizing it through their monthly bills. California loves the AI industry. It just decided it doesn't love it that much.\n\n**Say It Out Loud**\n\n> California loves AI. California also just passed seven laws saying AI's electricity bill is not California's problem.\n\n---\n\n## Today's Punchline\n\n> Today's theme: someone always pays. Today's twist: it's never the person who made the decision.\n",
-    "fullJa": "# 大統領のつぶやきに10万ドル、収容者の居場所は非公開。ツケは全部こっち持ち。\n\n## 今日を占うよ〜\n\n大統領の「つぶやき」に10万ドルの値札。\n\n読んで、二度見しました。「Truth Social」、つまり「真実のソーシャル」という名前のプラットフォームが、真実を有料で先行販売してる。名前と中身の距離が地球一周くらいある。\n\nで、他を見ると——\n\nICEが収容者数千人の居場所を黙って非公開にした。テキサスは誘致したデータセンターをその数週間後に止めた。カリフォルニアはAIサーバーの電気代が自分たちの請求書に混入しそうになって慌てて7本の法案に署名した。あと映画館で唐辛子スプレーが飛んだ。\n\n今日の5本を貫く糸は「ツケが一番声の小さい人に着地する」ということです。大統領のツイート代も、電力コストも、適正手続きの費用も——払わされるのは、決定に関わっていない人たち。\n\n今日の占い。「なんで私が払ってるんだろう」と思ってることがあるなら、それ、気のせいじゃないです。今日の5本がぜんぶそれを言ってる。\n\n---\n\n## 1. Trump's Truth Social Posts Now Have a $100K Price Tag — Before He Even Posts Them\n\n*CBS News US（[記事](https://www.cbsnews.com/news/ex-federal-prosecutors-trump-media-early-access-truth-social-posts/)）*\n\nトランプ・メディア社がTruth SocialのAPIデータフィードを提供開始し、大統領本人を含む上位アカウントへの「リアルタイムアクセス」に10万ドルを請求していることが判明。元検察官らは、現職大統領の発言を先行販売することはインサイダー取引に相当する可能性があると指摘している。\n\n**どこが笑える？**\n\nTruth Social（真実のソーシャル）というサービスが、大統領のツイートへのリアルタイムアクセスを年間10万ドルで売り始めました。\n\n名前、もう一回言いますよ。「真実のソーシャル」。真実に10万ドルの値札がついてる。元連邦検察官は「これ、インサイダー取引じゃないか」と言ってる。大統領の発言は市場を動かすから、先に読めれば先に動ける。公式発表はなかった。沼を干すと言っていた人が、沼に改札を設けた。\n\n**このニュースをジョークにするなら...**\n\n> Truth Socialが大統領のポストに10万ドルの値段をつけた。民主主義がサブスク化してるんですけど、あなたはまだ無料プランですよ。\n\n---\n\n## 2. ICE Quietly Stops Disclosing Where It's Holding Thousands of Detainees Facing Deportation\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/21/ice-hides-detainee-locations)）*\n\n米移民税関執行局（ICE）が、最終送還命令を受けた収容者数千人の居場所を公開するのをひそかに停止したことが明らかになった。弁護士や家族が収容者を探すことを困難にするこの措置は、公式発表なく実施された。\n\n**どこが笑える？**\n\nICEが、最終送還命令を受けた収容者数千人の居場所の公開をひそかに停止した。お知らせなし。ルール変更の告知なし。ある日からデータベースが更新されなくなった。\n\n仕組みを確認すると、適正手続きには弁護士が要る。弁護士には依頼人が要る。依頼人には居場所が要る。ICEはその最後の一個を静かに消した。「適正手続き」という言葉はまだある。言葉だけが残っている。\n\n何なんですかね、これ。\n\n**このニュースをジョークにするなら...**\n\n> ICEは収容者の居場所を教えるのをやめた。権利は存在する。人も、どこかにいる。\n\n---\n\n## 3. Texas Gov. Abbott Halts Data Center Permits Weeks After Welcoming the Same Boom He's Now Pausing\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/21/texas-governor-abbott-ai-data-center-permits.html)）*\n\nテキサス州のグレッグ・アボット知事が、データセンターの建設許可を停止する命令を出した。これは同知事が数週間前に同州のデータセンター建設ブームを歓迎するモラトリアムを発令した直後のことで、中間選挙の争点となっている。\n\n**どこが笑える？**\n\nグレッグ・アボット・テキサス州知事がデータセンターの建設許可を停止した。数週間前に「来てください」と言っていた、あのデータセンターです。\n\n電力網は変わっていない。変わったのは選挙まであと数週間という事実だけ。政策の向きが選挙カレンダーと一致している。「モラトリアムのモラトリアム」という言葉が頭の中で出てきて、自分でも止められなかった。\n\n**このニュースをジョークにするなら...**\n\n> アボット知事はデータセンターを歓迎し、次にデータセンターの許可を凍結した。電力網は同じ電力網。「大丈夫」と言ってたやつ。\n\n---\n\n## 4. Man Pepper-Sprays Movie Theatergoer for Using Phone During Film — Gets Arrested, Obviously\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/21/person-pepper-sprayed-phone-use-amc-movie-la)）*\n\nカリフォルニア州バーバンクの映画館で、上映中に携帯電話を使っていた観客に対し34歳の男性が唐辛子スプレーを噴射。3人が病院に搬送され、男性は軽犯罪の暴行罪で逮捕された。\n\n**どこが笑える？**\n\nバーバンクの映画館で、携帯を使っていた観客に唐辛子スプレーを噴射した男が逮捕されました。3人が病院に搬送。携帯を使っていた人は歩いて帰った。\n\n問題の人数が1人から3人になって、自分も逮捕されてる。解決したものが一つもない。ネットで「気持ちはわかる」という声が出ていて、それはそれで社会の別のニュースだと思う。\n\n**このニュースをジョークにするなら...**\n\n> 映画中の携帯が我慢できなくて、結果として誰も映画を見られない状況を作った。解決しました。\n\n---\n\n## 5. California Passes Laws to Stop AI Data Centers From Charging Their Electric Bills to Regular Residents\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)）*\n\nカリフォルニア州のギャビン・ニューサム知事が、AIデータセンターの光熱費を一般住民に転嫁することを防ぐための7つの法案に署名した。データセンターに独自の料金区分を設け、エネルギーと水の使用に新たな規制を課す内容。\n\n**どこが笑える？**\n\nカリフォルニア州が、AIデータセンターの電気代を一般住民に転嫁することを禁止する法案を7本、同時に成立させた。\n\n背景はこうです。州内でデータセンターが急増するなか、その膨大な電力使用量が一般の光熱費に混入しようとしていた。AIと無関係なカリフォルニア市民が、知らないうちにAIサーバーの電気代を払わされそうになっていた。カリフォルニアはAIが好き。でも、電気代まで好きじゃなかった。7本、同時。請求書を見てからの速さ。\n\n**このニュースをジョークにするなら...**\n\n> カリフォルニアはAIが大好き。でもAIの電気代はカリフォルニアの問題ではない、という法律を7本同時に通した。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 決めた人は払わない。それが今日の5本のまとめです。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d2のsensitive漏れを補完。captions d1-2本・d4-1本に観察止まりまたは予測可能なオチあり、書き直し。imagePromptsのd5-2枚目に顔の判別できる家族の描写あり、書き直し。xJa d1が136字超、修正。introJaの文末パターン（「いる」「ある」連続）を散らす。riffEn d2の末尾蛇足を削除。 ／ 文体パス: 5箇所修正。代表例: introJa末尾「その直感、今日は信じていい」→説教調を捨て台詞に崩した。riffJa[1]の「これは笑えない」は辛うじて残したが締めの畳みすぎを複数箇所カット。"
+    "fullEn": "# 1,100 Trades, Zero Press, 760,000 Uninsured: Just Another Tuesday\n\n## Today's Forecast\n\nFive stories today, and they all rhyme.\n\nA president filed 1,100 stock trades in one month while voters were busy being furious about politicians trading stocks. A White House that banned the press launched its own 24-hour channel three days later. A task force deleted 760,000 health insurance enrollments and declined to explain how they found the fraud. A venture capital firm said college is broken and quietly opened a school.\n\nAnd Yellowstone pulled a baby pacifier out of a volcanic hot spring.\n\nThe throughline: confident conclusions, evidence optional.\n\nWhich means your instinct to ask 'wait, how exactly did you figure that out?' is not negativity. It's the right question. Ask it today. Possibly out loud.\n\n---\n\n## 1. Trump Filed 1,100+ Stock Trades in July — While Voters Seethed Over Elected Officials Trading Stocks\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing)*\n\nFinancial disclosures released Tuesday reveal President Trump made more than 440 purchases and 700 sales of stocks in July alone, with total value estimated between $79 million and $270 million. The trades included sales of up to $25 million each in Microsoft and Amazon on a single day when the Mag 7 stocks surged 5%, adding $291 billion in collective market cap. The disclosures come amid growing public anger over elected officials trading individual stocks.\n\n**Why It's Funny**\n\nTrump filed 1,100 stock trades in July. Over 440 buys, 700 sells — roughly 23 transactions a day, every day, including weekends. On the specific afternoon that Amazon and Microsoft spiked 5% along with the rest of the Mag 7, he sold up to $25 million in each. The financial disclosure that revealed all this is technically called a transparency document. Voters have been furious for months about politicians trading stocks. The president's response, apparently, was to step on the gas. I've read the paragraph twice. Still reads the same.\n\n**Say It Out Loud**\n\n> The president filed over 1,100 stock trades for July. His financial disclosure is basically a day-trader's dream journal.\n\n---\n\n## 2. 'Trump TV' Launches on YouTube Days After White House Bans Major News Outlets\n\n*NPR News — [source](https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house)*\n\nThe Trump White House launched a 24/7 YouTube channel it's calling 'Trump TV' just days after barring reporters from CNN, MS NOW, and Politico from the White House press pool. The channel promises to put the administration's 'biggest moments all in one place.' The move marks a significant escalation in the administration's long-running conflict with mainstream media.\n\n**Why It's Funny**\n\nThe White House banned CNN, MSNOW, and Politico from the press pool. Three days later it launched a 24-hour YouTube channel called Trump TV, promising 'biggest moments all in one place.' The editor-in-chief is the administration. The fact-checker is the administration. The camera operator is presumably not CNN. This is what you get when the people who are supposed to be covered by the press decide to become the press instead — a channel where the only review policy is self-approval.\n\n**Say It Out Loud**\n\n> They banned the press and launched their own channel. The reviews are great — the reviewer is also the White House.\n\n---\n\n## 3. Andreessen Horowitz Opens AI School as 'College Alternative' — Tuition TBD, Disruption Guaranteed\n\n*CBS News US — [source](https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/)*\n\nVenture capital firm Andreessen Horowitz has launched a new tech academy positioned as an alternative to traditional college, targeting aspiring entrepreneurs who want to build AI companies. The firm, known as a16z, is one of Silicon Valley's most prominent investors. The school is geared specifically toward AI-focused founders rather than general computer science education.\n\n**Why It's Funny**\n\nAndreessen Horowitz — a16z, the VC firm whose founders attended Stanford and Princeton — has opened a school. An alternative to college, they say. The school teaches you to build AI companies. The school is run by people who invest in AI companies. They have spent approximately two decades explaining in podcast interviews why college is a broken, overpriced institution that doesn't prepare people for the real world. The school's tuition is to be determined. Silicon Valley got very quiet and opened a college.\n\n**Say It Out Loud**\n\n> a16z says college is broken and opened their own school. The application fee is probably a pitch deck.\n\n---\n\n## 4. Trump Administration Removes 760,000 Obamacare Enrollments — Calling It Fraud\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html)*\n\nThe Trump administration announced it has removed approximately 760,000 Obamacare enrollments, alleging the registrations were fraudulent. The action was carried out by Vice President JD Vance's White House Task Force to Eliminate Fraud, which claims the move will save roughly $2.2 billion in taxpayer-funded subsidies. The administration did not specify what evidence was used to identify the allegedly fraudulent enrollments.\n\n**Why It's Funny**\n\nThe Trump administration's task force removed 760,000 Obamacare enrollments, calling them fraudulent. The task force says this saves $2.2 billion. The task force did not publish the criteria used to identify fraud. Did not say who was notified. Did not say what the appeals process looks like. They said '760,000' and '2.2 billion' very loudly and then stopped talking. For the 760,000 people involved, the experience is simpler: one day you had health insurance, and then you didn't.\n\n**Say It Out Loud**\n\n> The fraud task force removed 760,000 Obamacare enrollments. How they identified the fraud? Details pending. Coverage? Also pending.\n\n---\n\n## 5. Yellowstone Staff Pull Record 20,000 Pieces of Trash from Hot Springs — Hats, Pencils, Baby Pacifiers\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record)*\n\nYellowstone National Park staff have removed a record-setting 20,100 pieces of trash from hydrothermal areas — including hot springs and geyser zones — so far this year. Items retrieved include hats, pencils, and baby pacifiers. Park officials attribute the surge to record-high visitor numbers and strong winds that blow loose items into the thermal pools. The park is the most-visited national park in the United States.\n\n**Why It's Funny**\n\nYellowstone staff have pulled 20,100 pieces of trash from the park's hydrothermal areas this year — a record. The list includes hats, pencils, and a baby pacifier. Officials blame record visitor numbers and strong winds for the hats and pencils. The pacifier, though. Wind doesn't really explain the pacifier. Someone was at one of the most thermally active places on Earth, holding a baby, and lost the pacifier. The volcano didn't ask for it. But here it is.\n\n**Say It Out Loud**\n\n> Yellowstone pulled 20,100 pieces of trash from its hot springs this year. Among them: a baby pacifier. The volcano was not consulted.\n\n---\n\n## Today's Punchline\n\n> This week, the administration canceled 760,000 insurance plans, launched its own news channel, and filed 1,100 stock trades — and in every case, the receipts are 'forthcoming.'\n",
+    "fullJa": "# 月に1,100件の株取引、メディア締め出し、76万人の保険削除——全部「証拠は後で」の国の話\n\n## 今日を占うよ〜\n\n1,100件。\n\n7月、トランプ大統領が取引した株の件数です。1日平均にすると23件。朝起きて、昼寝して、夕ご飯食べながら株を売ってる計算。\n\nで、他を見ると…\nメディアを締め出した3日後に自前のYouTubeチャンネルを開設し、76万人の保険を「詐欺」として削除し（根拠は非公表）、大学を「時代遅れ」と言い続けたVCが学校を作り、イエローストーンの間欠泉からおしゃぶりが2万個のゴミとともに回収されている。\n\n今日を貫く糸は、たぶんこれ。「大きい声で言えば根拠になる」。\n\nということで、今日の占いです。\n「証拠出して」って言いたいのに言えない場面、ありませんか。それ、正しい感覚です。「この結論、どうやって出したの?」って一回立ち止まれるだけで、今日はだいぶ違う。たぶん。\n\n---\n\n## 1. Trump Filed 1,100+ Stock Trades in July — While Voters Seethed Over Elected Officials Trading Stocks\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing)）*\n\nトランプ大統領が7月に1,000件以上の株取引（総額最大2億7,000万ドル）を行っていたことが最新の財務開示で判明した。議員の株取引に対する有権者の怒りが高まる中での出来事。\n\n**どこが笑える？**\n\n7月、トランプ大統領は株を1,100件以上取引した。買いが440件超、売りが700件超。1日にすると23件。土日も含めて毎日です。しかもMag 7の株価が5%急騰したその日に、アマゾンとマイクロソフトをそれぞれ最大2,500万ドル分売り抜けている。\n\nこれが「財務開示」という透明性のための書類で判明した。有権者が議員の株取引に怒り続けている、まさにそのタイミングで。\n\nアクセルを踏んだのは、止めようとしていた側の人でした。\n\n**このニュースをジョークにするなら...**\n\n> 大統領が7月の株取引を1,100件以上開示しました。財務報告書というより、デイトレーダーの日記なんですよ。\n\n---\n\n## 2. 'Trump TV' Launches on YouTube Days After White House Bans Major News Outlets\n\n*NPR News（[記事](https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house)）*\n\nトランプ政権がCNN・MSNOWなど主要メディアを記者団から排除してから数日後、ホワイトハウスが独自の24時間YouTubeチャンネル「Trump TV」を立ち上げた。\n\n**どこが笑える？**\n\nホワイトハウスがCNN・MSNOW・Politicoを記者団から排除した。その3日後、「Trump TV」という24時間YouTubeチャンネルが開設された。\n\n説明文には「一番大事な瞬間を一箇所に」。編集者は政権本人。ファクトチェックも政権本人。\n\n報道の自由、大事にしてますね〜。\n\n**このニュースをジョークにするなら...**\n\n> メディアを締め出して自分たちのチャンネルを立ち上げた。評価は最高です——評価者もホワイトハウスですが。\n\n---\n\n## 3. Andreessen Horowitz Opens AI School as 'College Alternative' — Tuition TBD, Disruption Guaranteed\n\n*CBS News US（[記事](https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/)）*\n\nシリコンバレーの著名ベンチャーキャピタルAndreessen Horowitzが、AIに特化した大学の代替となるテックアカデミーを設立した。起業志望者を対象としている。\n\n**どこが笑える？**\n\na16z（Andreessen Horowitz）はシリコンバレーの超有名VCで、創業者はスタンフォードとプリンストンの卒業生です。そのa16zが「大学の代替」となるAIアカデミーを開設した。\n\nカリキュラムはAI企業の立ち上げ方。学校を運営するのはAI企業に投資している人たち。\n\n「大学は時代遅れで、コストが高く、実社会の役に立たない」と20年言い続けた帰着点が、自分たちの学校を作ることだった。授業料は未定。\n\n**このニュースをジョークにするなら...**\n\n> a16zは「大学は壊れてる」と言って自分たちの学校を開いた。入学審査はたぶんピッチデッキ提出です。\n\n---\n\n## 4. Trump Administration Removes 760,000 Obamacare Enrollments — Calling It Fraud\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html)）*\n\nトランプ政権がオバマケアの加入者約76万人分を「詐欺」として削除したと発表した。JDバンス副大統領のタスクフォースは、この措置で約22億ドルの補助金を節約できると主張している。\n\n**どこが笑える？**\n\nJDバンス副大統領の「詐欺排除タスクフォース」が、オバマケアの加入者76万人分を削除したと発表した。節約額は約22億ドル、と。\n\n詐欺の判定基準は? 非公表。削除された本人への通知は? 不明。異議申し立ての方法は? それも不明。\n\n「76万人」と「22億ドル」という数字だけが、自信満々に発表された。削除された側の体験を一言で言うと、「ある日保険がなくなっていた」です。\n\n**このニュースをジョークにするなら...**\n\n> 詐欺対策タスクフォースが76万件のオバマケア加入を削除しました。詐欺の判定基準は？追って発表します。保険は？それも追って。\n\n---\n\n## 5. Yellowstone Staff Pull Record 20,000 Pieces of Trash from Hot Springs — Hats, Pencils, Baby Pacifiers\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record)）*\n\nイエローストーン国立公園のスタッフが、今年これまでに間欠泉周辺の熱水エリアから過去最多の約2万100個のゴミを回収したことが明らかになった。帽子・鉛筆・乳児用おしゃぶりなどが含まれる。\n\n**どこが笑える？**\n\nイエローストーンで今年、間欠泉周辺から2万100個のゴミが回収された。過去最多。帽子、鉛筆、そして赤ちゃんのおしゃぶり。\n\n帽子と鉛筆は「強風で飛ばされた」で説明できます。\n\nおしゃぶりは説明できません。地球上でも有数の熱水地帯に赤ちゃんを連れてきて、おしゃぶりを間欠泉に落とした人が今年いた。間欠泉は何も求めていなかったのに。\n\n**このニュースをジョークにするなら...**\n\n> イエローストーンは今年、熱水プールから2万100個のゴミを回収しました。その中に赤ちゃんのおしゃぶり。火山に相談はしていません。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 証拠は後で、成果は今。今週のアメリカはそういう週でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d4のcaption4「A task force where the success metric is…America.」が観察で終わっており裏切りがない。xJa1本目が136字でオーバー。d2のcaption4が「Imagine calling that…」という汎用型の逃げで終わっている。これら3点を修正する。他は合格。 ／ 文体パス: 3箇所修正。introJaの締め「それだけで今日はだいぶ強い」周辺が説明口調でまとまりすぎ、riffJa[1]の「かなり独創的です」がプレゼン締め、riffJa[2]の「なかなか静かなオチです」が「うまくまとめた感」。"
   },
   "carousel": [
-    "images/2026-09-22/carousel/slide-1.jpg",
-    "images/2026-09-22/carousel/slide-2.jpg",
-    "images/2026-09-22/carousel/slide-3.jpg",
-    "images/2026-09-22/carousel/slide-4.jpg",
-    "images/2026-09-22/carousel/slide-5.jpg",
-    "images/2026-09-22/carousel/slide-6.jpg",
-    "images/2026-09-22/carousel/slide-7.jpg"
+    "images/2026-09-23/carousel/slide-1.jpg",
+    "images/2026-09-23/carousel/slide-2.jpg",
+    "images/2026-09-23/carousel/slide-3.jpg",
+    "images/2026-09-23/carousel/slide-4.jpg",
+    "images/2026-09-23/carousel/slide-5.jpg",
+    "images/2026-09-23/carousel/slide-6.jpg",
+    "images/2026-09-23/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-22/note-header.jpg",
-    "substack": "images/2026-09-22/substack-cover.jpg"
+    "note": "images/2026-09-23/note-header.jpg",
+    "substack": "images/2026-09-23/substack-cover.jpg"
   },
-  "video": "videos/2026-09-22/daily-short.mp4",
-  "videoDuration": 86.7,
-  "videoJa": "videos/2026-09-22/daily-short-ja.mp4",
-  "videoJaDuration": 98.0
+  "video": "videos/2026-09-23/daily-short.mp4",
+  "videoDuration": 89.4,
+  "videoJa": "videos/2026-09-23/daily-short-ja.mp4",
+  "videoJaDuration": 95.6
 }
