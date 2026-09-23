@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-23",
-  "generatedAt": "2026-09-22T22:09:38+00:00",
+  "date": "2026-09-24",
+  "generatedAt": "2026-09-23T22:22:46+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump Filed 1,100+ Stock Trades in July — While Voters Seethed Over Elected Officials Trading Stocks",
-        "source": "The Guardian US",
-        "date": "2026-09-23",
-        "url": "https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing",
-        "summary": "トランプ大統領が7月に1,000件以上の株取引（総額最大2億7,000万ドル）を行っていたことが最新の財務開示で判明した。議員の株取引に対する有権者の怒りが高まる中での出来事。"
+        "headline": "Fat Bear Week 2026 Crashes Servers — Democracy Works After All",
+        "source": "CBS News US",
+        "date": "2026-09-24",
+        "url": "https://www.cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai/",
+        "summary": "アラスカ州カトマイ国立公園の「デブ熊週間2026」が開幕し、16頭の熊への投票が殺到してサイトがダウン寸前になった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 議員の株取引に対する有権者の怒りが過去最高潮に達しているまさにそのタイミングで、大統領本人が1日で700件売ってたんですよ。",
-        "<b>滑稽さ:</b> Mag 7が急騰した当日にアマゾンとマイクロソフトを最大2,500万ドルずつ売り抜けてる。タイミングが良すぎて逆に何も言えない。",
-        "<b>日本・海外から見ると:</b> インサイダー取引規制の話をしている国の大統領が、月に1,100件株を売買している。「ガラス張りの政治」の透明度が高すぎて目が痛い。"
+        "<b>矛盾:</b> 本物の選挙では投票率が上がらなくて四苦八苦してるのに、熊のデブ選手権は「サイトが落ちた」ほど人が殺到するんですよ。",
+        "<b>滑稽さ:</b> 候補者が全員冬眠前に食いまくった熊で、争点は「どれだけ丸いか」だけ。公約なし、スキャンダルなし、討論なし。",
+        "<b>日本・海外から見ると:</b> 海外メディアが毎年これを大まじめに速報するの、アメリカの民主主義の優先順位が透けて見えてちょっと羨ましいんですよね。"
       ],
       "imagePrompts": [
-        "A giant paper financial disclosure form spilling off a government desk, thousands of line items visible, a single 'JULY' calendar page pinned to the wall behind it",
-        "A stock ticker board showing a massive single-day green surge, with a rubber stamp reading 'SOLD' slamming down on it",
-        "A scale of justice with 'PUBLIC OUTRAGE OVER POLITICIAN TRADING' on one side and a towering stack of trade confirmation slips on the other, completely unbalanced"
+        "An official-looking polling station with voting booths, each booth featuring a large photo of a very fat brown bear instead of a candidate portrait, 'I Voted' stickers on the floor",
+        "A server room with overheating racks and a blinking 'SYSTEM OVERLOAD' warning light, a small bear paw print stamped on the main monitor screen",
+        "A TV news desk with two anchors in suits, a chyron reading 'BREAKING: BEAR ELECTION CRASHES INTERNET,' giant pie chart behind them showing slices labeled with bear names"
       ],
       "captions": [
-        "The president filed over 1,100 stock trades for July. His financial disclosure is basically a day-trader's dream journal.",
-        "He sold Amazon and Microsoft on the exact day they spiked. Incredible timing. Truly. Just incredible timing.",
-        "Voters are furious about politicians trading stocks, so naturally the president responded by making 23 trades a day.",
-        "At this point the presidential financial disclosure is longer than most terms of service agreements — and nobody's reading either one.",
-        "The Mag 7 pops $291 billion in one day, and someone sold up to $25 million of Microsoft that afternoon. Funny how that works."
+        "America couldn't build a working healthcare website but Fat Bear Week took down the servers in under an hour. The bears didn't even try.",
+        "Sixteen candidates, zero policy positions, and a turnout crisis that does not exist. Maybe Congress should just get fatter.",
+        "The voting site crashed. For bears. I need someone to explain to me why this doesn't happen in November.",
+        "Each bear's entire campaign platform is 'I ate a lot of salmon.' Honestly? Relatable. I'd vote for that.",
+        "They call it 'broke the internet' like it's a bad thing. Sir, that is the healthiest our democracy has looked all year."
       ],
       "captionsJa": [
-        "大統領が7月の株取引を1,100件以上開示しました。財務報告書というより、デイトレーダーの日記なんですよ。",
-        "アマゾンとマイクロソフトを急騰した当日に売り抜けてる。すごいタイミングですね。本当に、すごいタイミング。",
-        "議員の株取引に怒り心頭の有権者に対し、大統領は1日23件の取引で応えたわけです。",
-        "もはや大統領の財務開示書は利用規約より長い。どちらも誰も読まないけど。",
-        "Mag 7が1日で2,910億ドル上がったその午後、誰かがマイクロソフトを最大2,500万ドル売ってた。不思議ですねえ。"
+        "医療保険サイトはまともに動かないのに、デブ熊選挙は1時間でサーバーを落とした。熊は何もしてないのに。",
+        "候補16頭、公約ゼロ、投票率の低迷一切なし。議員も太ればいいんじゃないですか。",
+        "投票サイトが落ちたんですよ。熊のために。誰か、なぜ11月にこうならないのか説明してくれませんか。",
+        "各熊の選挙公約が「サーモンをたくさん食べた」だけ。正直……わかる。投票したい。",
+        "「インターネットを壊した」って言い方、まるで悪いことみたいじゃないですか。今年の民主主義、一番元気だったのここですよ。"
       ],
-      "newsEn": "Financial disclosures released Tuesday reveal President Trump made more than 440 purchases and 700 sales of stocks in July alone, with total value estimated between $79 million and $270 million. The trades included sales of up to $25 million each in Microsoft and Amazon on a single day when the Mag 7 stocks surged 5%, adding $291 billion in collective market cap. The disclosures come amid growing public anger over elected officials trading individual stocks.",
+      "newsEn": "Fat Bear Week 2026 has returned to Katmai National Park and Preserve in Alaska, featuring 16 bears competing for the title of chubbiest bear. Voting surged so dramatically that it reportedly 'broke the internet,' crashing or straining the voting platform. The annual contest has become a significant cultural moment, drawing millions of participants each fall.",
       "ironyEn": [
         {
-          "contradiction": "Voters are angrier than ever about politicians trading stocks. The president's response was apparently to make 1,100 trades in a single month.",
-          "absurdity": "He sold up to $25 million of Amazon on the exact day it popped. Not before. Not after. That day.",
-          "outside": "From abroad, this looks less like a financial disclosure and more like a brokerage statement accidentally filed with the wrong agency."
+          "contradiction": "American voter turnout has been a perpetual crisis, yet millions show up instantly to vote for the roundest bear in Alaska.",
+          "absurdity": "The platform buckled under the traffic. A bear-shaped pile of fat nearly broke national digital infrastructure.",
+          "outside": "From outside the U.S., it reads like a country that finally found an election it can get excited about — no ads, no debates, just blubber."
         },
         {
-          "contradiction": "The administration that ran on draining the swamp disclosed a swamp that trades equities at the pace of a hedge fund.",
-          "absurdity": "Over 700 sales in July alone — that's roughly 23 trades a day, which means someone in the White House was very busy between press briefings.",
-          "outside": "Countries with strict conflict-of-interest laws are looking at this filing and just slowly closing the tab."
+          "contradiction": "Officials spend years designing systems to make human voting easier. Fat Bear Week got there by just posting sixteen very large animals.",
+          "absurdity": "Every candidate's platform is identical: eat salmon, get round, repeat. And somehow that's more compelling than most primaries.",
+          "outside": "Japan has mascot elections, Germany has Carnival queens — but none of them crash servers. America's bears are in a different league."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-23/candidate-1.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-23/candidate-1-punchy.jpg"
+      "image": "images/2026-09-24/candidate-1.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-24/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "'Trump TV' Launches on YouTube Days After White House Bans Major News Outlets",
-        "source": "NPR News",
-        "date": "2026-09-23",
-        "url": "https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house",
-        "summary": "トランプ政権がCNN・MSNOWなど主要メディアを記者団から排除してから数日後、ホワイトハウスが独自の24時間YouTubeチャンネル「Trump TV」を立ち上げた。"
+        "headline": "White House Bans Press, Cites 'National Security' — Judge Not Convinced",
+        "source": "CNBC Top News",
+        "date": "2026-09-24",
+        "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
+        "summary": "トランプ政権がCNN・MS NOW・ポリティコのホワイトハウス取材を禁止した件について、連邦裁判所が審理を行い、判事は近日中に判断を示す見通し。政府側は「安全保障上の懸念」を理由に挙げた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「報道の自由を守る」と言いながら主要メディアを締め出し、その代わりに自分たちが編集権を握ったチャンネルを「ニュース」として差し出してる。",
-        "<b>滑稽さ:</b> YouTubeチャンネルの説明文が「一番大事な瞬間を一箇所に」。編集者は政権本人です。",
-        "<b>日本・海外から見ると:</b> 国営放送を持つ権威主義国家がだいたい同じロジックでメディアを運営している。そちらはYouTubeじゃなかっただけで。"
+        "<b>矛盾:</b> 「国家安全保障」を理由に記者を追い出す、でも具体的にどう危険なのかは説明しない——「言えない理由がある」を理由にするのがもう答えになってますよね。",
+        "<b>滑稽さ:</b> 政府が自ら「報道の自由への禁止措置」と呼んでるんですよ。普通、「これが検閲だ」と指摘されるのを避けようとするでしょ。堂々と言っちゃってる。",
+        "<b>日本・海外から見ると:</b> 「報道機関を会見から締め出して安全保障」って説明、権威主義国がよく使うやつなんですが、それをアメリカがやってるの、世界の民主主義指数がまたランクを落とす音がします。"
       ],
       "imagePrompts": [
-        "A television studio set built inside a government press briefing room, with an empty podium surrounded by ring lights and a YouTube logo on the backdrop where reporter seats used to be",
-        "A velvet rope blocking a crowd of journalists with press badges outside a door labeled 'PRESS ROOM,' while a single camera operator walks through unchallenged toward a lit studio set",
-        "A YouTube channel page on a laptop screen titled 'Trump TV,' subscribe button prominent, listed under the category 'News' with the channel owner displayed as 'The White House'"
+        "A White House entrance gate with a velvet rope and a sign reading 'PRESS: NOT TODAY,' a security guard holding a clipboard with three outlet logos crossed out",
+        "A courtroom with a judge peering skeptically over reading glasses at a stack of documents labeled 'NATIONAL SECURITY JUSTIFICATION,' surrounded by question marks",
+        "A press briefing room podium completely surrounded by empty chairs with name cards for CNN, Politico, and MS NOW, a single microphone stand in front of the vacant seats"
       ],
       "captions": [
-        "They banned the press and launched their own channel. The reviews are great — the reviewer is also the White House.",
-        "Trump TV promises 'biggest moments all in one place.' Editor-in-chief: the administration. Executive producer: also the administration.",
-        "CNN gets banned on Monday. Trump TV launches on Thursday. The gap between those two events is where the irony lives.",
-        "No reporters, no questions, no editors — just a 24-hour channel run by the people who used to complain about bias.",
-        "No reporters, no questions, no problem — just 'biggest moments' curated by the people having the moments."
+        "The government called it a 'ban on the free press.' Their words. Then they went to court and said it was fine. Legally speaking, that's a choice.",
+        "National security threat: three reporters with press badges. Totally fine: everyone else. The DOJ filed this at night, which tells you how proud they were.",
+        "They banned the journalists. Then the journalists sued. Then a judge raised an eyebrow so high it filed its own amicus brief.",
+        "CNN is a national security risk? The network that spent three years covering itself? Bold theory.",
+        "First Amendment, White House lawn, federal judge — we're one School House Rock episode away from this being a civics lesson."
       ],
       "captionsJa": [
-        "メディアを締め出して自分たちのチャンネルを立ち上げた。評価は最高です——評価者もホワイトハウスですが。",
-        "「最大の瞬間を一箇所に」と約束するTrump TV。編集長は政権。プロデューサーも政権。",
-        "月曜日にCNNを追放して、木曜日にTrump TVを開設。その間の数日間に風刺の全てが詰まってる。",
-        "記者なし、質問なし、編集者なし——メディアの偏向を訴えていた人たちが24時間チャンネルを回してる。",
-        "記者なし、質問なし、問題なし——「最大の瞬間」は当事者が選びます。"
+        "政府が自分で「報道の自由への禁止措置」って言ったんですよ。そしてそのまま法廷で「これは問題ない」と主張した。法的にはそういう作戦もあるんですね。",
+        "安全保障上の脅威：プレスパスを持った記者3人。それ以外：全員OK。この文書、夜中に提出してるのがもう全部語ってますよ。",
+        "記者が禁止された。記者が訴えた。判事が眉を上げた。その眉、意見書を単独で提出できるレベルだった。",
+        "CNNが国家安全保障のリスク？3年間ずっと自分たちのことを報道してたあのCNNが？なかなか大胆な説ですね。",
+        "修正第1条、ホワイトハウスの芝生、連邦裁判所——あともう一歩でこれ、小学校の社会科の授業になるやつですよ。"
       ],
-      "newsEn": "The Trump White House launched a 24/7 YouTube channel it's calling 'Trump TV' just days after barring reporters from CNN, MS NOW, and Politico from the White House press pool. The channel promises to put the administration's 'biggest moments all in one place.' The move marks a significant escalation in the administration's long-running conflict with mainstream media.",
+      "newsEn": "The Trump administration banned CNN, MS NOW, and Politico reporters from White House grounds, with the Department of Justice citing national security concerns in a late-night filing. A federal judge heard arguments from the outlets, who challenged the ban as an unconstitutional restriction on press freedom. Judge Timothy Kelly indicated skepticism toward the government's position and promised to rule soon.",
       "ironyEn": [
         {
-          "contradiction": "The White House banned journalists to stop 'biased' coverage, then immediately launched its own channel where all the coverage is produced by the White House.",
-          "absurdity": "It's called 'Trump TV.' They did not try to make it sound like a news organization. Points for honesty, maybe.",
-          "outside": "State-run media in authoritarian countries use almost identical justifications. The main difference is the thumbnail quality."
+          "contradiction": "The administration described its own action as a 'ban on the free press' and then asked the court to consider that totally fine.",
+          "absurdity": "The DOJ filed its national-security justification at night, which is either very urgent or very embarrassed. Probably both.",
+          "outside": "Governments that ban journalists usually at least pretend they're not banning journalists. This one labeled it accurately and kept going."
         },
         {
-          "contradiction": "Kicking out reporters for 'fake news' while promising 'real' news — produced, edited, and distributed by the subject of the news.",
-          "absurdity": "A 24/7 YouTube channel staffed by the administration covering the administration. The comments section is probably disabled.",
-          "outside": "Foreign press freedom indexes are going to need a new category: 'the country that turned the press briefing room into a studio set.'"
+          "contradiction": "Claiming press access is a national security threat is a bold move in the country that invented the First Amendment.",
+          "absurdity": "CNN, Politico, and MS NOW — outlets that publish everything publicly — are apparently too dangerous to stand in a hallway.",
+          "outside": "Other democracies are watching and taking notes. Some of them are not democracies anymore, and they're nodding along."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-23/candidate-2.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-23/candidate-2-punchy.jpg"
+      "image": "images/2026-09-24/candidate-2.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-24/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Andreessen Horowitz Opens AI School as 'College Alternative' — Tuition TBD, Disruption Guaranteed",
-        "source": "CBS News US",
-        "date": "2026-09-23",
-        "url": "https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/",
-        "summary": "シリコンバレーの著名ベンチャーキャピタルAndreessen Horowitzが、AIに特化した大学の代替となるテックアカデミーを設立した。起業志望者を対象としている。"
+        "headline": "Meta's New AI Shopping Agent Hits Amazon — Amazon Says No Thanks",
+        "source": "CNBC Top News",
+        "date": "2026-09-24",
+        "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
+        "summary": "メタが発表した新AI個人エージェント「Muse」が注目を集めているが、Amazonは同アプリを自社サイトで販売拒否し、両社の対立が鮮明になった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 大学を「時代遅れの高コスト機関」と批判してきたVCが、自分たちの価値観と投資先企業に都合のいい人材を育てる学校を作ってる。これ、カリキュラムが「うちのポートフォリオに投資してもらう方法」にならないか。",
-        "<b>滑稽さ:</b> 「大学の代替」を作ったのが、スタンフォードとプリンストンの卒業生が仕切るVCというのは、なかなかのオチ。",
-        "<b>日本・海外から見ると:</b> 日本だと文科省の認可なしに「大学の代替」を名乗るのは難しいが、アメリカではVCがアカデミーを開ける。教育の「破壊的イノベーション」が起業家精神で包まれて届く。"
+        "<b>矛盾:</b> 「あなたの代わりに何でも買ってあげる」AIを、「何でも売ります」のプラットフォームが追い出した。お互いに「買わせたい側」なのに、ここで喧嘩する。",
+        "<b>滑稽さ:</b> つまりAmazonは、ユーザーが「自分のために考えてくれるAI」より「Amazonのために考えてくれるユーザー」が欲しいってことなんですよね。正直すぎてむしろ清々しい。",
+        "<b>日本・海外から見ると:</b> 「AIが買い物を自動化する」と「プラットフォームが客を囲い込む」、どちらの未来も消費者には選択肢が減っていく方向なのが絶妙に皮肉です。"
       ],
       "imagePrompts": [
-        "A classroom with a whiteboard reading 'COLLEGE IS BROKEN' crossed out, replaced by 'ENROLL IN OUR SCHOOL,' with a venture capital logo on the chalkboard eraser",
-        "A diploma-style certificate with 'ANDREESSEN HOROWITZ ACADEMY' at the top and a small asterisk leading to fine print at the bottom, framed on a sleek office wall",
-        "A conveyor belt moving graduates in hoodies from a classroom labeled 'a16z School' directly into a room full of desks labeled 'Portfolio Company Offices'"
+        "A sleek AI robot assistant holding a shopping cart, standing in front of a large 'ENTRY REFUSED' sign at the door of a giant online store warehouse",
+        "Two enormous corporate headquarters buildings facing each other across a narrow street, one with a Meta logo, one with an Amazon logo, both with 'CLOSED TO YOU' signs in the windows",
+        "A customer sitting at a laptop looking confused while two robotic arms labeled 'META' and 'AMAZON' fight each other directly in front of the checkout button"
       ],
       "captions": [
-        "a16z says college is broken and opened their own school. The application fee is probably a pitch deck.",
-        "The curriculum teaches you to build AI companies. The school is run by people who invest in AI companies. Nothing to see here.",
-        "Silicon Valley spent 20 years saying college doesn't work, then got very quiet and opened a college.",
-        "Aspiring entrepreneurs will learn to build AI startups — and the faculty already knows which ones they'd like to fund.",
-        "A 'college alternative' founded by people with Ivy League degrees. The irony has a 2% carried interest."
+        "Meta made an AI to do your shopping. Amazon blocked it. We've now got two trillion-dollar companies arguing over who gets to max out your credit card.",
+        "Amazon sells everything — except the app that would buy everything from Amazon. That's not a policy, that's a personality.",
+        "Muse was designed to make purchases easier. Amazon's position is: easier for who, exactly?",
+        "The AI got kicked off the platform it was built to shop on. It's fine. It'll just pivot to something else and raise its valuation.",
+        "Meta wants to spend your money. Amazon wants to spend your money. You're in the middle wondering if anyone asked you."
       ],
       "captionsJa": [
-        "a16zは「大学は壊れてる」と言って自分たちの学校を開いた。入学審査はたぶんピッチデッキ提出です。",
-        "カリキュラムはAI企業の作り方。学校の運営者はAI企業に投資する人たち。何も問題ありません。",
-        "シリコンバレーは20年間「大学は機能しない」と言い続け、そして静かに大学を作った。",
-        "起業志望者はAIスタートアップの作り方を学ぶ——そして教員陣はどれに投資するかすでに決めてる。",
-        "アイビーリーグ卒業生が作った「大学の代替」。この皮肉には2%のキャリード・インタレストが付いてる。"
+        "メタが買い物をしてくれるAIを作った。Amazonがそれを追い出した。2兆ドル企業2社が、あなたのクレジットカードをどっちが使うかで喧嘩してます。",
+        "Amazonは何でも売る——そのAmazonで何でも買うアプリだけは売らない。ポリシーというより、性格の問題ですね。",
+        "Museは購入を楽にするために作られた。Amazonの主張は「誰にとって楽にするんですか」。",
+        "使うために作られたプラットフォームから追い出されたAI。まあ大丈夫でしょ。ピボットして評価額を上げるだけなので。",
+        "メタもあなたのお金を使いたい。Amazonもあなたのお金を使いたい。あなたは「誰も聞いてくれない」と思いながら真ん中に座ってる。"
       ],
-      "newsEn": "Venture capital firm Andreessen Horowitz has launched a new tech academy positioned as an alternative to traditional college, targeting aspiring entrepreneurs who want to build AI companies. The firm, known as a16z, is one of Silicon Valley's most prominent investors. The school is geared specifically toward AI-focused founders rather than general computer science education.",
+      "newsEn": "Meta unveiled Muse, an AI personal agent designed to handle tasks including online shopping, and it quickly generated significant consumer buzz. However, Amazon blocked the Muse app from appearing on its platform, refusing to host a product that could redirect purchases away from Amazon's own shopping ecosystem. The standoff highlights growing tension between AI agent developers and the retailers those agents are designed to shop on.",
       "ironyEn": [
         {
-          "contradiction": "A VC firm that profits from the college-educated founders it funds is now selling a school that skips college — but not necessarily skipping the part where a16z takes equity.",
-          "absurdity": "The curriculum is focused on 'building AI.' The school is run by people whose entire business model depends on AI startups succeeding. Totally unbiased education.",
-          "outside": "In most countries, opening a 'college alternative' requires government oversight. In the US, you just need a term sheet and a press release."
+          "contradiction": "Amazon, a store that sells everything, refuses to sell an app whose entire job is to buy things — specifically because it's too good at buying things from Amazon.",
+          "absurdity": "Meta built a shopping agent. Amazon blocked it. Two of the most powerful companies on earth are fighting over who gets to spend your money for you.",
+          "outside": "From the outside this looks like two waiters arguing over which one gets to take your order, while you sit there increasingly hungry."
         },
         {
-          "contradiction": "Silicon Valley has spent 20 years saying college is broken. Now it's making its own college, presumably also perfect.",
-          "absurdity": "The school's target student is an 'aspiring entrepreneur focused on AI.' The school's investors want AI companies to fund. Coincidence.",
-          "outside": "A school run by investors, teaching students to build companies that investors will fund. Some countries call that a pipeline. a16z calls it disruption."
+          "contradiction": "Muse promises to make your life easier by handling purchases. Amazon's rebuttal is that your life is easier without Muse. Convenient.",
+          "absurdity": "An AI agent got rejected by a marketplace. The AI probably just added 'find a new store' to its to-do list and moved on.",
+          "outside": "The tech press calls this 'a sign of things to come.' Consumers would call it two landlords arguing over who collects the rent."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-23/candidate-3.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-23/candidate-3-punchy.jpg"
+      "image": "images/2026-09-24/candidate-3.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-24/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Trump Administration Removes 760,000 Obamacare Enrollments — Calling It Fraud",
+        "headline": "McDonald's CEO: High Prices and Empty Tables Are the New Normal",
         "source": "CNBC Top News",
-        "date": "2026-09-23",
-        "url": "https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html",
-        "summary": "トランプ政権がオバマケアの加入者約76万人分を「詐欺」として削除したと発表した。JDバンス副大統領のタスクフォースは、この措置で約22億ドルの補助金を節約できると主張している。"
+        "date": "2026-09-24",
+        "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
+        "summary": "マクドナルドのCEOが、高インフレと客足の伸び悩みがレストラン業界に当面続くとの見通しを示した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「詐欺を排除する」という大義名分で76万件を削除したのに、どうやって詐欺と判定したかの基準を公表していない。削除された側からすれば「いつの間にか保険を失った」だけ。",
-        "<b>滑稽さ:</b> 「詐欺対策タスクフォース」の成果発表が「76万人削除」。削除した件数が多いほど成果に見える仕組みなんですよ、これ。",
-        "<b>日本・海外から見ると:</b> 国民健康保険的な制度を「詐欺師が使っている」という理由で大量解約できる国は珍しい。外から見ると「健康保険のアカウント停止」の話に聞こえる。"
+        "<b>矛盾:</b> 「値上げで客が来なくなった」と分析してるCEOが、「値上げは続く」と言ってるんですよ。解決策と問題が同じ人の口から同時に出てくるの、なかなかの技術。",
+        "<b>滑稽さ:</b> 「バリューセールで客を取り戻す」戦略を打ちながら「高インフレは続く」と宣言してる。バーゲンセールで損を取り戻そうとする感じ。",
+        "<b>日本・海外から見ると:</b> 「マックが高すぎて行けない」ってアメリカ人が言う時代が来たの、「安さの象徴」というブランドのアイデンティティ危機として、海外から見るとちょっと別の怖さがあります。"
       ],
       "imagePrompts": [
-        "A large government form labeled 'HEALTH INSURANCE ENROLLMENT' with a giant red 'CANCELLED' stamp across it, stacked 760,000 high, in a bureaucratic office setting",
-        "A scoreboard in a government office showing 'ENROLLMENTS ELIMINATED: 760,000' with a gold star sticker, next to an empty column labeled 'FRAUD PROVEN'",
-        "A press conference podium in front of a banner reading 'TASK FORCE TO ELIMINATE FRAUD,' with a single large graph showing a declining coverage line labeled as a success metric"
+        "A McDonald's dining room with rows of empty plastic chairs and tables, a single tray of food sitting alone, 'NOW AFFORDABLE*' banner hanging above with a tiny asterisk",
+        "A CEO at a corporate podium in front of a giant chart showing traffic declining and prices rising simultaneously, both lines going in opposite directions in a V shape",
+        "A drive-through menu board with prices so large they dwarf the food photos, a car in the lane with a driver doing mental math on a calculator"
       ],
       "captions": [
-        "The fraud task force removed 760,000 Obamacare enrollments. How they identified the fraud? Details pending. Coverage? Also pending.",
-        "Saving $2.2 billion by canceling insurance for 760,000 people — roughly $2,900 a head. One ER visit will fix that math.",
-        "They didn't say what counted as fraud. They didn't say who was notified. They did say '760,000' very proudly.",
-        "The task force's success metric is the number of people removed from health insurance. The fraud metric is still loading.",
-        "Other countries celebrate when enrollment goes up. This administration is celebrating enrollment going down. Same scoreboard, different sport."
+        "McDonald's CEO says high prices and low traffic are here to stay. Bold admission from the guy who set the prices.",
+        "They raised prices, people stopped coming, and the solution announced was: more of the same. Somewhere Ronald McDonald is staring at a wall.",
+        "The home of the Dollar Menu just told investors the dollar isn't coming back. Pour one out for the Happy Meal.",
+        "McDonald's ran a 'value promotion' to fix the traffic problem caused by not having value. I think they've found the hole. They're still in it.",
+        "When Americans can't afford McDonald's, economists don't call it a recession. They should probably start."
       ],
       "captionsJa": [
-        "詐欺対策タスクフォースが76万件のオバマケア加入を削除しました。詐欺の判定基準は？追って発表します。保険は？それも追って。",
-        "76万人の保険を解約して22億ドル節約——1人あたり約2,900ドル。救急外来1回でこの計算は崩れます。",
-        "何が詐欺かは言わなかった。誰に通知したかも言わなかった。「76万件」だけは誇らしげに言った。",
-        "タスクフォースの成果指標は「削除した保険の件数」。詐欺の件数はまだ集計中です。",
-        "他の国は加入者数が増えると喜ぶ。この政権は減ると喜ぶ。同じスコアボード、違うスポーツ。"
+        "マクドナルドのCEOが「高い価格と客足の減少は当面続く」と発言した。価格を決めた本人が言ってます。",
+        "値上げした、客が来なくなった、対策は「同じ方向でもう少し」。どこかでロナルド・マクドナルドが壁を見つめてますよ。",
+        "「ドルメニュー」の会社が「ドルは戻らない」と投資家に伝えた。ハッピーセットのために黙とうを。",
+        "客足を取り戻すためにバリューセールをやった。客が来なくなった理由は「バリューがないから」。穴は見つかってます。まだ穴の中にいますけど。",
+        "アメリカ人がマックに行けなくなった時、エコノミストは不況とは呼ばない。そろそろ呼んだほうがいい気がします。"
       ],
-      "newsEn": "The Trump administration announced it has removed approximately 760,000 Obamacare enrollments, alleging the registrations were fraudulent. The action was carried out by Vice President JD Vance's White House Task Force to Eliminate Fraud, which claims the move will save roughly $2.2 billion in taxpayer-funded subsidies. The administration did not specify what evidence was used to identify the allegedly fraudulent enrollments.",
+      "newsEn": "McDonald's CEO Chris Kempczinski stated that persistently high inflation and flat customer traffic are expected to continue weighing on the restaurant industry for the foreseeable future. His comments come as McDonald's and other fast-food chains have faced consumer pushback over rising menu prices. The chain has attempted various value promotions to lure back price-sensitive customers.",
       "ironyEn": [
         {
-          "contradiction": "A task force created to protect taxpayer money removed 760,000 health insurance enrollments without publicly explaining how it identified fraud — saving money by leaving people uninsured.",
-          "absurdity": "The metric for success here is literally 'how many people we removed.' A higher number is a bigger win. That's the whole system.",
-          "outside": "Most developed countries measure healthcare success by coverage rates. The US apparently now tracks 'enrollments eliminated' as a performance indicator."
+          "contradiction": "McDonald's raised prices to protect margins, watched traffic fall, then announced that high prices and low traffic are now permanent features of the landscape. Problem identified. Also: not fixing it.",
+          "absurdity": "The world's largest fast food chain — famous for making food affordable — is now a place that price-sensitive customers are skipping. The clown shoe is on the other foot.",
+          "outside": "Outside America, McDonald's is still a treat. Inside America, it's apparently a financial decision. The McFlation arc continues."
         },
         {
-          "contradiction": "The administration says it's fighting fraud. It has not said what counts as fraud, who was flagged, or whether anyone was notified before losing coverage.",
-          "absurdity": "JD Vance's fraud task force found $2.2 billion in savings. The math works out to about $2,900 per person — which is roughly what it costs to treat one emergency room visit without insurance.",
-          "outside": "Foreign observers watching the US healthcare debate are confused why the victory lap is about insurance cancellations. Most countries do victory laps about enrollment numbers going up."
+          "contradiction": "Kempczinski diagnosed the problem as prices being too high and then forecast that prices will stay high. That's not a strategy, that's a weather report.",
+          "absurdity": "McDonald's responded to empty tables with a value meal promotion, which is roughly like raising your rent and then hosting a coupon day.",
+          "outside": "Japan's McDonald's sells 100-yen items and has lines out the door. The U.S. version just told you the lines aren't coming back."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-23/candidate-4.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-23/candidate-4-punchy.jpg"
+      "image": "images/2026-09-24/candidate-4.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-24/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Yellowstone Staff Pull Record 20,000 Pieces of Trash from Hot Springs — Hats, Pencils, Baby Pacifiers",
-        "source": "The Guardian US",
-        "date": "2026-09-23",
-        "url": "https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record",
-        "summary": "イエローストーン国立公園のスタッフが、今年これまでに間欠泉周辺の熱水エリアから過去最多の約2万100個のゴミを回収したことが明らかになった。帽子・鉛筆・乳児用おしゃぶりなどが含まれる。"
+        "headline": "Disney+ and Hulu Prices Go Up Again, Effective Immediately If You're New, Next Month If You're Loyal",
+        "source": "CBS News US",
+        "date": "2026-09-24",
+        "url": "https://www.cbsnews.com/news/disney-plus-hulu-price-increase/",
+        "summary": "ディズニーがDisney+とHuluの料金を値上げすると発表。新規加入者はただちに、既存加入者は来月から新価格が適用される。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「自然を守るために来た」観光客が、自然の中に帽子と赤ちゃんのおしゃぶりを落としていく。国立公園の理念と現実の距離が約2万個。",
-        "<b>滑稽さ:</b> 熱水プールから回収されたものリストに「赤ちゃん用おしゃぶり」が入ってる。間欠泉の前で赤ちゃんに何が起きてたんですか。",
-        "<b>日本・海外から見ると:</b> 日本の観光地でも外来ゴミは問題だが、温泉から鉛筆とおしゃぶりが出てくるのはさすがに聞いたことない。「自然との共存」の解釈が広い。"
+        "<b>矛盾:</b> 「魔法の王国」が毎年値上げするの、「魔法」って本来タダに見えるはずじゃないですか。夢を売る会社が、夢の請求書を毎月送ってくる。",
+        "<b>滑稽さ:</b> 新規は即日、既存は来月——「長年のファンへのご褒美は1ヶ月の猶予」なんですよ。義理の期間、ちゃんと計測されてますよ。31日分。",
+        "<b>日本・海外から見ると:</b> 「ケーブルテレビが高すぎるから」とサブスクに移った人たちが、気づいたら複数のサブスクでケーブルテレビより高い請求書を受け取ってるの、逃げ場なし感がすごいですよね。"
       ],
       "imagePrompts": [
-        "A park ranger in uniform using a long-handled net to fish a baby pacifier out of a steaming, vivid blue hot spring, with a growing pile of hats and small objects beside them",
-        "A collection table outside Yellowstone's geothermal zone displaying 20,000 small items sorted into bins: hats, pencils, pacifiers, sunglasses, with a hand-painted sign reading 'RECORD 2026'",
-        "A tourist family posing for a selfie at the edge of a hot spring, a hat visibly mid-air in the background, caught in a gust heading toward the thermal pool"
+        "A theme park castle with a large glowing '$' symbol on top instead of a flag, a smiling mouse silhouette holding a price increase notice",
+        "A TV remote on a couch with multiple streaming app icons visible on screen, each one showing a small upward arrow and a dollar sign, the remote's batteries also labeled with a price",
+        "A family sitting in front of a television looking at a subscription renewal notice, a cartoon mouse on the screen waving cheerfully while pointing to a chart of rising prices"
       ],
       "captions": [
-        "Yellowstone pulled 20,100 pieces of trash from its hot springs this year. Among them: a baby pacifier. The volcano was not consulted.",
-        "Strong winds blow hats into the geysers, they say. The pacifier, though — that one's on you.",
-        "A record 20,000 items removed from Yellowstone's thermal pools. It's basically the world's most expensive lost-and-found.",
-        "Someone let their baby near a volcanic hot spring and lost the pacifier. The spring kept it. Finders keepers.",
-        "The most-visited national park in America is also, apparently, its most popular thermal trash receptacle."
+        "Disney raised prices again. New members pay now. Existing members pay next month. They call the extra 30 days 'loyalty.' Sure.",
+        "You left cable because it was too expensive. You now pay for Netflix, Disney+, Hulu, Max, and Peacock. Congratulations on the savings.",
+        "Disney, the company that charges $7 for a churro, has decided your monthly bill also needs to dream bigger.",
+        "New subscribers: pay more starting today. Long-time subscribers: you get 31 days. Disney has calculated exactly what your loyalty is worth. It's one month.",
+        "The streaming revolution was supposed to free us from cable. It did. We're free. We just pay the same amount to different mouse-shaped corporations now."
       ],
       "captionsJa": [
-        "イエローストーンは今年、熱水プールから2万100個のゴミを回収しました。その中に赤ちゃんのおしゃぶり。火山に相談はしていません。",
-        "強風で帽子が間欠泉に飛ばされるのはわかる。でもおしゃぶりは——それはあなたのせいです。",
-        "2万個を回収した国立公園。実質、世界一高級な落とし物センター。",
-        "誰かが火山性温泉の前で赤ちゃんのおしゃぶりをなくしました。温泉が持ってる。拾った者勝ち。",
-        "アメリカで最も来場者が多い国立公園は、どうやら最も人気の高い熱水ゴミ箱でもあったようです。"
+        "ディズニーがまた値上げ。新規は今日から、既存は来月から。その30日間の差を「ロイヤルティ」と呼んでいます。そうですね。",
+        "ケーブルテレビが高すぎるから解約した。今はNetflix、Disney+、Hulu、Max、Peacockを契約してる。おめでとうございます、節約できてますね。",
+        "チュロスを1本900円で売る会社が、月額料金ももっと大きく夢を見ることにしました。",
+        "新規加入者は今日から高い。長年のファンは31日間の猶予。ディズニーはあなたへの義理の価値をちゃんと計算してます。1ヶ月分です。",
+        "ストリーミング革命はケーブルテレビから解放してくれるはずだった。解放されました。今は耳の丸い別々の会社に同じ金額を払ってます。"
       ],
-      "newsEn": "Yellowstone National Park staff have removed a record-setting 20,100 pieces of trash from hydrothermal areas — including hot springs and geyser zones — so far this year. Items retrieved include hats, pencils, and baby pacifiers. Park officials attribute the surge to record-high visitor numbers and strong winds that blow loose items into the thermal pools. The park is the most-visited national park in the United States.",
+      "newsEn": "Disney announced price increases for both Disney+ and Hulu streaming services. New subscribers face the higher rates immediately, while existing subscribers will see their plans increase starting next month. The move is part of a broader industry trend of streaming services raising prices as they shift focus from subscriber growth to profitability.",
       "ironyEn": [
         {
-          "contradiction": "People travel hundreds of miles to experience pristine wilderness and then leave a pacifier in a volcanic hot spring.",
-          "absurdity": "A baby pacifier. In a thermal pool. At a national park. Someone looked at the geological wonder before them and thought, 'this is a good place to lose a pacifier.'",
-          "outside": "Japan's national parks have a 'carry in, carry out' culture so strict that visitors apologize for their footprints. Yellowstone's thermal pools are apparently a catch-all."
+          "contradiction": "People cut cable because it was too expensive and switched to streaming. Streaming is now raising prices faster than cable ever did. The circle is complete.",
+          "absurdity": "Disney rewards loyalty with a 30-day warning before taking more money. That's not gratitude — that's a countdown clock with mouse ears.",
+          "outside": "Japan's Disney+ is already priced separately, and people grumble. Americans are on their fourth price hike in three years and have nowhere left to run."
         },
         {
-          "contradiction": "The park that symbolizes American natural preservation just set a record — for trash recovery from its most sacred geological features.",
-          "absurdity": "The wind blows hats in. Sure, that's the wind. The pacifier also walked itself into the hot spring, presumably.",
-          "outside": "Foreign visitors who came to see Old Faithful are going to go home and tell people they also saw staff fishing a pencil out of a volcano. Both are accurate Yellowstone experiences now."
+          "contradiction": "Disney sells the idea of magic and wonder. The fine print of that magic is a recurring charge that goes up every year whether the magic improves or not.",
+          "absurdity": "New subscribers pay more immediately. Existing subscribers get one extra month at the old price as a 'thank you.' Disney has quantified customer loyalty: 31 days.",
+          "outside": "From outside the U.S., the streaming wars look like a hostage situation where the hostages keep paying more and describing it as 'content.'"
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-23/candidate-5.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-23/candidate-5-punchy.jpg"
+      "image": "images/2026-09-24/candidate-5.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-24/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本の糸：「証拠を出さずに結論だけ大きい声で言う」——株取引も、メディア排除も、保険削除も、学校設立も、ゴミの量も、全部そのパターン。",
-    "titleEn": "1,100 Trades, Zero Press, 760,000 Uninsured: Just Another Tuesday",
-    "subtitleEn": "The week America outsourced accountability to vibes.",
-    "titleJa": "月に1,100件の株取引、メディア締め出し、76万人の保険削除——全部「証拠は後で」の国の話",
+    "thread": "今日の5本は全部「お金を取る側」の話。熊だけが例外で、あいつらは無料で1位になった。",
+    "titleEn": "Fat Bears and Empty Tables: America Charges More for Everything Except Democracy",
+    "subtitleEn": "Five stories, one bill, and the bears didn't even try.",
+    "titleJa": "熊のデブ選手権はサイトを落とし、マックは客を失い、ディズニーは夢の請求書を値上げした",
     "titleAltJa": [
-      "「詐欺対策」で76万人の保険を消し、株を1,100件売り、自前のテレビ局を作った国のニュースを今朝読みました",
-      "トランプの株取引が月1,100件だったので、今日の飲み会でこの話題になったらこう返してください"
+      "『国家安全保障上の懸念』と言えば記者を追い出せる時代に、熊だけが公正な選挙をやっていた話",
+      "今日のアメリカ5本：値上げ・報道禁止・AI同士の喧嘩。熊が一番まともだった"
     ],
-    "leadJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n月1,100件の株取引。メディア排除から3日でYouTube開局。76万人の保険削除、根拠は非公表。間欠泉からおしゃぶり回収2万個。\n\n今日のアメリカは「大きい声で言えば証拠になる」の応用編です。",
-    "introEn": "Five stories today, and they all rhyme.\n\nA president filed 1,100 stock trades in one month while voters were busy being furious about politicians trading stocks. A White House that banned the press launched its own 24-hour channel three days later. A task force deleted 760,000 health insurance enrollments and declined to explain how they found the fraud. A venture capital firm said college is broken and quietly opened a school.\n\nAnd Yellowstone pulled a baby pacifier out of a volcanic hot spring.\n\nThe throughline: confident conclusions, evidence optional.\n\nWhich means your instinct to ask 'wait, how exactly did you figure that out?' is not negativity. It's the right question. Ask it today. Possibly out loud.",
-    "introJa": "1,100件。\n\n7月、トランプ大統領が取引した株の件数です。1日平均にすると23件。朝起きて、昼寝して、夕ご飯食べながら株を売ってる計算。\n\nで、他を見ると…\nメディアを締め出した3日後に自前のYouTubeチャンネルを開設し、76万人の保険を「詐欺」として削除し（根拠は非公表）、大学を「時代遅れ」と言い続けたVCが学校を作り、イエローストーンの間欠泉からおしゃぶりが2万個のゴミとともに回収されている。\n\n今日を貫く糸は、たぶんこれ。「大きい声で言えば根拠になる」。\n\nということで、今日の占いです。\n「証拠出して」って言いたいのに言えない場面、ありませんか。それ、正しい感覚です。「この結論、どうやって出したの?」って一回立ち止まれるだけで、今日はだいぶ違う。たぶん。",
-    "quipEn": "This week, the administration canceled 760,000 insurance plans, launched its own news channel, and filed 1,100 stock trades — and in every case, the receipts are 'forthcoming.'",
-    "quipJa": "証拠は後で、成果は今。今週のアメリカはそういう週でした。",
+    "leadJa": "熊のデブ選手権が、投票サイトをクラッシュさせました。本物の選挙では起きないことが、アラスカの国立公園では起きた。今日はそういう日です。",
+    "introEn": "Five stories landed in my inbox this morning, and I had to sit with them for a minute.\n\nA bear election crashed the internet. The White House banned three newsrooms and called it a security issue. Meta and Amazon had a trillion-dollar argument about who gets to spend your money. McDonald's CEO explained that high prices will continue — he set the prices — and Disney raised its rates again, with a special 30-day grace period it's calling 'loyalty.'\n\nThe thread running through all of it: the institutions we built to serve us have quietly renegotiated the deal. Every one of them, except the bears.\n\nSo here's your forecast. If you've been told your effort isn't enough, your budget isn't enough, your access isn't enough — today's news confirms the problem isn't you. The system is literally announcing this out loud. That's almost helpful. Go into today knowing you spotted it.",
+    "introJa": "デブ熊の投票がサーバーをダウンさせた、という文章を読んで、しばらく画面を見つめていました。\n\nで、他を見ると。ホワイトハウスが記者3社を「安全保障上の懸念」で追い出し、メタとアマゾンが「お前の金をどっちが使わせるか」で喧嘩し、マックのCEOが「値上げは続きます」と言い、ディズニーが夢の月額を静かに引き上げた。\n\n今日の5本を貫く糸は、たぶん「サービスする側が、もうサービスのふりをやめた」ということです。みんな正直になってきた。マックは「安くなりません」と言い、ディズニーは「長年のご愛顧の猶予は31日」と計算し、アマゾンは「あなたより私の都合が先」と言った。権力のある側が理由を説明しなくなってきている。\n\n熊だけが例外で、あいつらは何も言わずに食べて、1位になった。\n\n今日の占いです。あなたが「なんか損してる気がする」と感じているとしたら、それはたぶん正しい。今日の5本がぜんぶそれを証明しています。気づいてる側にいる方が、今日は得だよ。たぶんね。",
+    "quipEn": "Bears crashed a server by being fat and honest. The rest of today's news couldn't manage either.",
+    "quipJa": "デブ熊は何も言わずに食べて1位になった。他の全員は、たくさん言って客を失った。",
     "notesEn": [
-      "Trump filed over 1,100 stock trades in July — including selling up to $25 million each in Amazon and Microsoft on the exact day those stocks spiked. His financial disclosure reads like a day-trading screenshot account. Very transparent. Very.",
-      "The White House banned CNN and Politico from the press pool. Three days later, it launched 'Trump TV' on YouTube. The new channel promises 'biggest moments all in one place.' The editor is the administration. The fact-checker is also the administration.",
-      "Andreessen Horowitz — the VC firm run by Stanford and Princeton graduates — launched a school this week to tell you college is a waste of time. The curriculum focuses on building AI companies. The school is run by people who invest in AI companies. Great.",
-      "The Trump administration removed 760,000 Obamacare enrollments, calling them fraudulent. The task force did not say what counted as fraud, who was notified, or how the determination was made. They did say '760,000' with considerable confidence.",
-      "Yellowstone pulled a record 20,100 pieces of trash from its hot springs this year. Hats. Pencils. A baby pacifier. I have questions about the pacifier specifically, and I don't think I'll get answers."
+      "Fat Bear Week 2026 crashed the voting servers. The contest has 16 candidates, zero policy positions, and a turnout problem that does not exist. I've been following American elections for years and this is the first one where I understand the enthusiasm.",
+      "The Trump administration banned CNN, Politico, and MS NOW from White House grounds, citing national security. The judge hearing the case looked skeptical. When your own filing uses the phrase 'ban on the free press,' you've done most of the opposing counsel's job for them.",
+      "Meta built an AI called Muse to do your shopping. Amazon refused to carry it. Two of the largest companies in the world are now in a standoff over who gets to be in charge of your credit card. The consumer is not represented at this negotiation.",
+      "McDonald's CEO said high inflation and empty tables are here to stay — and then did not announce he was lowering prices. The chain that invented the Dollar Menu just told investors the dollar isn't coming back. Moment of silence.",
+      "Disney raised prices on Disney+ and Hulu. New subscribers pay immediately. Existing subscribers get one extra month, which Disney is calling loyalty. Thirty-one days. That's the measurement of loyalty in 2026."
     ],
     "xJa": [
-      "トランプ大統領の7月の株取引が財務開示で判明。1,100件超、株価急騰日にアマゾンとマイクロソフトを最大2,500万ドルずつ売り抜けてる。タイミングが良すぎて、逆に何も言えない。",
-      "ホワイトハウスがCNNなど主要メディアを記者団から締め出した3日後に、独自の24時間YouTubeチャンネル「Trump TV」を開設した。「一番大事な瞬間を一箇所に」。編集者は政権本人です。",
-      "シリコンバレーの大手VC「a16z」が「大学の代替」となるAIアカデミーを開設。創設者たちの出身校はスタンフォードとプリンストン。20年かけて「大学は時代遅れ」と言い続けた着地点がこれ。",
-      "トランプ政権が「詐欺」を理由にオバマケア加入者76万人分を削除したと発表。詐欺の判定基準は非公表、削除された当人への通知も不明。「76万」だけが大きい声で発表された。",
-      "イエローストーン国立公園が今年、間欠泉周辺から過去最多の2万100個のゴミを回収した。帽子、鉛筆、そして赤ちゃんのおしゃぶり。おしゃぶりについては問い合わせ中です。"
+      "デブ熊週間の投票サイトがクラッシュしました。候補者16頭。公約なし。スキャンダルなし。でも投票率は「サイトが落ちる」レベル。本物の選挙に足りないのは政策じゃなくて、たぶん熊です。",
+      "ホワイトハウスがCNNとポリティコを「国家安全保障上の懸念」で追い出した。どう危険なのかは言わない。「言えない理由がある」を理由にするの、それ自体がもう答えなんですよね。",
+      "メタが「あなたの代わりに買い物するAI」を発表→アマゾンが即ブロック。「何でも売ります」の会社が「それだけは売りません」と言ったのは、ユーザーに自分で考えてほしくないからです。正直すぎる。",
+      "マクドナルドのCEOが「高インフレと客足の鈍化は当面続く」と発言。値上げした人が「値上げのせいで来ない」と分析して「値上げは続く」と締めた。問題と解決策が同一人物の口から出てくる技術、なかなか。",
+      "ディズニーがDisney+とHuluを値上げ。新規は即日、既存は来月から。「長年のご愛顧への特典」が31日の猶予。夢を売る会社が、夢の賞味期限を日割り計算しています。"
     ],
     "raidEn": [
-      "The man filed 23 trades a day and the disclosure is called 'transparency.' Incredible use of the word.",
-      "CNN gets banned Monday, Trump TV launches Thursday. The gap between those two events is doing a lot of heavy lifting.",
-      "The application to this school is probably just a pitch deck with a cover letter that says 'college is broken.'",
-      "They announced the number confidently. The method, the notification, the evidence — those are apparently a separate announcement.",
-      "The pacifier is the one I keep thinking about. Someone at Yellowstone is writing an incident report that starts with 'infant-related thermal event.'"
+      "The part that gets me is that the voting infrastructure for bears held up better than it did for actual elections in 2000. Progress, I guess.",
+      "'National security concerns' with zero specifics in the filing — that's not a legal argument, that's a vibe. The judge's eyebrow did a lot of work in that courtroom.",
+      "Amazon blocking the app that would buy things from Amazon is genuinely one of the most honest corporate statements of 2026. They'd rather have your attention than your convenience.",
+      "The CEO diagnosed the problem (prices too high, traffic down) and then prescribed more of the same. Somewhere in a business school, a professor is using this as a case study in something.",
+      "The 30-day grace period framed as 'loyalty' is doing so much heavy lifting. Disney really looked at one calendar month and called it a relationship."
     ],
     "raidJa": [
-      "「透明性の確保」の結果が月1,100件の取引開示というのは、透明すぎて目が痛いですね。この記事、読んでいて二度見しました。",
-      "メディアを締め出した翌週に自前のチャンネルを開くのは、「報道の自由」の解釈として斬新だなと思いました。読んでいて笑うべきか迷いました。",
-      "「大学は時代遅れ」と言ってきた人たちが学校を作る、というオチを誰も予告しなかったのが惜しいですね。いい記事でした。",
-      "成果の数字だけ発表して根拠は非公表、という発表の形式が今日の一番の読みどころでした。76万という数字の重さを考えると、笑えない部分もありますが。",
-      "おしゃぶりが回収リストに入っているの、この記事で一番気になったところです。間欠泉の前で何があったのか、想像するだけで。"
+      "熊の投票システムの方が、本物の選挙インフラより頑丈だったというのが地味にいちばん気になりました。すごい記事でした。",
+      "「安全保障上の懸念」と言いながら具体的な内容を出せない、という構造、この記事で整理していただいて助かりました。判事が懐疑的なのも納得です。",
+      "「何でも買わせてあげる」AIを「何でも売る」サイトが拒否する、という構図をここまで明快に書いてくださって、もやっとしていたものがすっきりしました。",
+      "「値上げした本人が値上げを問題と分析して値上げ継続を宣言」という流れ、文字にするとこんなに不思議なんですね。記事を読んで気づきました。",
+      "31日を「ロイヤルティ」と名付けるセンス、この記事で指摘されて初めて笑いました。ディズニー、正直ですよね。"
     ],
     "riffEn": [
-      "Trump filed 1,100 stock trades in July. Over 440 buys, 700 sells — roughly 23 transactions a day, every day, including weekends. On the specific afternoon that Amazon and Microsoft spiked 5% along with the rest of the Mag 7, he sold up to $25 million in each. The financial disclosure that revealed all this is technically called a transparency document. Voters have been furious for months about politicians trading stocks. The president's response, apparently, was to step on the gas. I've read the paragraph twice. Still reads the same.",
-      "The White House banned CNN, MSNOW, and Politico from the press pool. Three days later it launched a 24-hour YouTube channel called Trump TV, promising 'biggest moments all in one place.' The editor-in-chief is the administration. The fact-checker is the administration. The camera operator is presumably not CNN. This is what you get when the people who are supposed to be covered by the press decide to become the press instead — a channel where the only review policy is self-approval.",
-      "Andreessen Horowitz — a16z, the VC firm whose founders attended Stanford and Princeton — has opened a school. An alternative to college, they say. The school teaches you to build AI companies. The school is run by people who invest in AI companies. They have spent approximately two decades explaining in podcast interviews why college is a broken, overpriced institution that doesn't prepare people for the real world. The school's tuition is to be determined. Silicon Valley got very quiet and opened a college.",
-      "The Trump administration's task force removed 760,000 Obamacare enrollments, calling them fraudulent. The task force says this saves $2.2 billion. The task force did not publish the criteria used to identify fraud. Did not say who was notified. Did not say what the appeals process looks like. They said '760,000' and '2.2 billion' very loudly and then stopped talking. For the 760,000 people involved, the experience is simpler: one day you had health insurance, and then you didn't.",
-      "Yellowstone staff have pulled 20,100 pieces of trash from the park's hydrothermal areas this year — a record. The list includes hats, pencils, and a baby pacifier. Officials blame record visitor numbers and strong winds for the hats and pencils. The pacifier, though. Wind doesn't really explain the pacifier. Someone was at one of the most thermally active places on Earth, holding a baby, and lost the pacifier. The volcano didn't ask for it. But here it is."
+      "Fat Bear Week crashed the voting servers. Sixteen candidates, all of them bears, all of them doing the exact same thing — eating as much as possible before winter — and the public showed up in numbers that would make any election commissioner cry. No debates. No attack ads. No one claimed the other bear was actually born in Canada. Just bears, being bears, and millions of humans who apparently needed exactly that. The voting site went down. For a bear. I've now accepted that this is the most functional democratic exercise in the country.",
+      "The White House banned three news organizations and cited national security. The Department of Justice filed the explanation at night — which, as a filing strategy, is either very confident or very aware. A federal judge heard the arguments and indicated he was not buying it. Here's the part that stays with me: the government's own filing described the action as a 'ban on the free press.' They wrote that. They submitted it. In a court. The judge raised an eyebrow and promised to rule soon, which in judge language means he's already ruled.",
+      "Meta built Muse, an AI personal agent designed to do your shopping. Amazon blocked it from their platform. So we now have the company that wants to buy things for you in a standoff with the company that wants to sell things to you, and neither of them consulted the person whose money is involved. Amazon's objection makes perfect sense once you understand that what they're really selling isn't products — it's the experience of deciding. Muse skips that part. Amazon is not going to let that go.",
+      "McDonald's CEO said high prices and low customer traffic are the new normal for restaurants. He also runs McDonald's, where the prices are high and the traffic is low. The chain has been running value promotions to win back customers while simultaneously forecasting that affordability won't improve. I'm not a business strategist, but I've watched enough people lose at cards to recognize when someone is explaining why they keep losing while continuing to play the same hand.",
+      "Disney raised prices on Disney+ and Hulu. New customers pay the higher rate right now. Existing subscribers — people who've been paying every month, some of them for years — get one extra month before the new price kicks in. Disney is calling this a loyalty consideration. Thirty-one days. The math on that loyalty is very easy to do, and Disney did it, and they still went with thirty-one days."
     ],
     "riffJa": [
-      "7月、トランプ大統領は株を1,100件以上取引した。買いが440件超、売りが700件超。1日にすると23件。土日も含めて毎日です。しかもMag 7の株価が5%急騰したその日に、アマゾンとマイクロソフトをそれぞれ最大2,500万ドル分売り抜けている。\n\nこれが「財務開示」という透明性のための書類で判明した。有権者が議員の株取引に怒り続けている、まさにそのタイミングで。\n\nアクセルを踏んだのは、止めようとしていた側の人でした。",
-      "ホワイトハウスがCNN・MSNOW・Politicoを記者団から排除した。その3日後、「Trump TV」という24時間YouTubeチャンネルが開設された。\n\n説明文には「一番大事な瞬間を一箇所に」。編集者は政権本人。ファクトチェックも政権本人。\n\n報道の自由、大事にしてますね〜。",
-      "a16z（Andreessen Horowitz）はシリコンバレーの超有名VCで、創業者はスタンフォードとプリンストンの卒業生です。そのa16zが「大学の代替」となるAIアカデミーを開設した。\n\nカリキュラムはAI企業の立ち上げ方。学校を運営するのはAI企業に投資している人たち。\n\n「大学は時代遅れで、コストが高く、実社会の役に立たない」と20年言い続けた帰着点が、自分たちの学校を作ることだった。授業料は未定。",
-      "JDバンス副大統領の「詐欺排除タスクフォース」が、オバマケアの加入者76万人分を削除したと発表した。節約額は約22億ドル、と。\n\n詐欺の判定基準は? 非公表。削除された本人への通知は? 不明。異議申し立ての方法は? それも不明。\n\n「76万人」と「22億ドル」という数字だけが、自信満々に発表された。削除された側の体験を一言で言うと、「ある日保険がなくなっていた」です。",
-      "イエローストーンで今年、間欠泉周辺から2万100個のゴミが回収された。過去最多。帽子、鉛筆、そして赤ちゃんのおしゃぶり。\n\n帽子と鉛筆は「強風で飛ばされた」で説明できます。\n\nおしゃぶりは説明できません。地球上でも有数の熱水地帯に赤ちゃんを連れてきて、おしゃぶりを間欠泉に落とした人が今年いた。間欠泉は何も求めていなかったのに。"
+      "デブ熊週間の投票サイトがダウンした、という事実をしばらく噛みしめていました。候補は16頭。全員が冬眠前にひたすら食べた熊で、争点は「どれだけ丸いか」だけ。公約なし、討論なし、スキャンダルなし。それなのに投票が殺到してサーバーが落ちた。本物の選挙で「投票率をどう上げるか」を研究している人たちは、たぶんアラスカに行って熊を観察した方がいいと思います。",
+      "ホワイトハウスがCNN・ポリティコ・MS NOWの取材を禁止した理由が「安全保障上の懸念」で、その懸念が具体的に何なのかは深夜に提出された書類にも書かれていない。\n\nで、政府側の書類に「報道の自由への禁止措置」という言葉が自ら書かれていたんですよ。普通、「これは検閲ではない」と言いたいときに、自分で「禁止です」と書くか。連邦判事は懐疑的な様子で「近日中に判断する」と言った。「近日中」って言うとき、もう決まってる感じがする。",
+      "メタが「あなたの代わりに買い物するAI」を発表して、アマゾンが即座にブロックした。\n\n「何でも売ります」のプラットフォームが、「何でも買ってあげるAI」を「売りません」と言っている。両者とも目標はあなたのお金のはずなのに、ここで喧嘩している。アマゾンの本音はたぶんこうです。「自分で選ばせないなら、うちに来る意味がない」。ユーザーの利便性より、ユーザーが選ぶ体験の方が大事。正直すぎてちょっと好き。",
+      "マクドナルドのCEOが「高インフレと客足の鈍化はしばらく続く」と言いました。それを言ったのが、値上げの決定を下した本人です。\n\n値上げしたら客が来なくなった、と分析している人が、「値上げは続く」と締めた。問題と解決策が同じ口から同時に出てくるの、なかなか見ない光景です。バーゲンセールで赤字を補填しようとしながら「赤字は続きます」と言っている。いや、そこはもう少し考えてほしい。",
+      "ディズニーがDisney+とHuluを値上げしました。新規加入者はただちに。既存加入者は来月から。\n\nその「来月から」を、ディズニーは「ロイヤルティへの配慮」と表現しています。31日。長年毎月お金を払ってきたファンへのご褒美が、31日の猶予。夢を売る会社が、夢の有効期限を日数で計算してきた。ケーブルテレビが高いからサブスクに乗り換えた人が、今ごろ複数のサブスクでケーブルより高い請求書を受け取っているの、逃げ場がなさすぎてもはや清々しい。"
     ],
     "asideEn": [
-      "Twenty-three trades a day. Very chill.",
-      "The press is banned. Long live the press.",
-      "They opened a college to explain why college is bad.",
-      "Seven hundred and sixty thousand. Method: vibes.",
-      "The pacifier, though. That one's on you."
+      "Bears have better turnout. Just saying.",
+      "They filed that at midnight. Proud moment.",
+      "The consumer is not at this table.",
+      "He set the prices. Bold diagnosis.",
+      "Thirty-one days. They counted."
     ],
     "asideJa": [
-      "1日23件。趣味が多い。",
-      "メディアを締め出して、自分がメディアになった。",
-      "大学は時代遅れ、と言いながら学校を作った。",
-      "根拠は後で。76万人は先に。",
-      "おしゃぶりだけは説明できない。"
+      "熊の方が民主主義してる。",
+      "深夜提出、正直すぎる。",
+      "消費者、この会議にいない。",
+      "値上げした本人が言ってます。",
+      "31日、ちゃんと数えたんだ。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
       "News Commentary",
-      "Trump",
-      "Obamacare"
+      "Fat Bear Week",
+      "Disney"
     ],
-    "fullEn": "# 1,100 Trades, Zero Press, 760,000 Uninsured: Just Another Tuesday\n\n## Today's Forecast\n\nFive stories today, and they all rhyme.\n\nA president filed 1,100 stock trades in one month while voters were busy being furious about politicians trading stocks. A White House that banned the press launched its own 24-hour channel three days later. A task force deleted 760,000 health insurance enrollments and declined to explain how they found the fraud. A venture capital firm said college is broken and quietly opened a school.\n\nAnd Yellowstone pulled a baby pacifier out of a volcanic hot spring.\n\nThe throughline: confident conclusions, evidence optional.\n\nWhich means your instinct to ask 'wait, how exactly did you figure that out?' is not negativity. It's the right question. Ask it today. Possibly out loud.\n\n---\n\n## 1. Trump Filed 1,100+ Stock Trades in July — While Voters Seethed Over Elected Officials Trading Stocks\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing)*\n\nFinancial disclosures released Tuesday reveal President Trump made more than 440 purchases and 700 sales of stocks in July alone, with total value estimated between $79 million and $270 million. The trades included sales of up to $25 million each in Microsoft and Amazon on a single day when the Mag 7 stocks surged 5%, adding $291 billion in collective market cap. The disclosures come amid growing public anger over elected officials trading individual stocks.\n\n**Why It's Funny**\n\nTrump filed 1,100 stock trades in July. Over 440 buys, 700 sells — roughly 23 transactions a day, every day, including weekends. On the specific afternoon that Amazon and Microsoft spiked 5% along with the rest of the Mag 7, he sold up to $25 million in each. The financial disclosure that revealed all this is technically called a transparency document. Voters have been furious for months about politicians trading stocks. The president's response, apparently, was to step on the gas. I've read the paragraph twice. Still reads the same.\n\n**Say It Out Loud**\n\n> The president filed over 1,100 stock trades for July. His financial disclosure is basically a day-trader's dream journal.\n\n---\n\n## 2. 'Trump TV' Launches on YouTube Days After White House Bans Major News Outlets\n\n*NPR News — [source](https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house)*\n\nThe Trump White House launched a 24/7 YouTube channel it's calling 'Trump TV' just days after barring reporters from CNN, MS NOW, and Politico from the White House press pool. The channel promises to put the administration's 'biggest moments all in one place.' The move marks a significant escalation in the administration's long-running conflict with mainstream media.\n\n**Why It's Funny**\n\nThe White House banned CNN, MSNOW, and Politico from the press pool. Three days later it launched a 24-hour YouTube channel called Trump TV, promising 'biggest moments all in one place.' The editor-in-chief is the administration. The fact-checker is the administration. The camera operator is presumably not CNN. This is what you get when the people who are supposed to be covered by the press decide to become the press instead — a channel where the only review policy is self-approval.\n\n**Say It Out Loud**\n\n> They banned the press and launched their own channel. The reviews are great — the reviewer is also the White House.\n\n---\n\n## 3. Andreessen Horowitz Opens AI School as 'College Alternative' — Tuition TBD, Disruption Guaranteed\n\n*CBS News US — [source](https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/)*\n\nVenture capital firm Andreessen Horowitz has launched a new tech academy positioned as an alternative to traditional college, targeting aspiring entrepreneurs who want to build AI companies. The firm, known as a16z, is one of Silicon Valley's most prominent investors. The school is geared specifically toward AI-focused founders rather than general computer science education.\n\n**Why It's Funny**\n\nAndreessen Horowitz — a16z, the VC firm whose founders attended Stanford and Princeton — has opened a school. An alternative to college, they say. The school teaches you to build AI companies. The school is run by people who invest in AI companies. They have spent approximately two decades explaining in podcast interviews why college is a broken, overpriced institution that doesn't prepare people for the real world. The school's tuition is to be determined. Silicon Valley got very quiet and opened a college.\n\n**Say It Out Loud**\n\n> a16z says college is broken and opened their own school. The application fee is probably a pitch deck.\n\n---\n\n## 4. Trump Administration Removes 760,000 Obamacare Enrollments — Calling It Fraud\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html)*\n\nThe Trump administration announced it has removed approximately 760,000 Obamacare enrollments, alleging the registrations were fraudulent. The action was carried out by Vice President JD Vance's White House Task Force to Eliminate Fraud, which claims the move will save roughly $2.2 billion in taxpayer-funded subsidies. The administration did not specify what evidence was used to identify the allegedly fraudulent enrollments.\n\n**Why It's Funny**\n\nThe Trump administration's task force removed 760,000 Obamacare enrollments, calling them fraudulent. The task force says this saves $2.2 billion. The task force did not publish the criteria used to identify fraud. Did not say who was notified. Did not say what the appeals process looks like. They said '760,000' and '2.2 billion' very loudly and then stopped talking. For the 760,000 people involved, the experience is simpler: one day you had health insurance, and then you didn't.\n\n**Say It Out Loud**\n\n> The fraud task force removed 760,000 Obamacare enrollments. How they identified the fraud? Details pending. Coverage? Also pending.\n\n---\n\n## 5. Yellowstone Staff Pull Record 20,000 Pieces of Trash from Hot Springs — Hats, Pencils, Baby Pacifiers\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record)*\n\nYellowstone National Park staff have removed a record-setting 20,100 pieces of trash from hydrothermal areas — including hot springs and geyser zones — so far this year. Items retrieved include hats, pencils, and baby pacifiers. Park officials attribute the surge to record-high visitor numbers and strong winds that blow loose items into the thermal pools. The park is the most-visited national park in the United States.\n\n**Why It's Funny**\n\nYellowstone staff have pulled 20,100 pieces of trash from the park's hydrothermal areas this year — a record. The list includes hats, pencils, and a baby pacifier. Officials blame record visitor numbers and strong winds for the hats and pencils. The pacifier, though. Wind doesn't really explain the pacifier. Someone was at one of the most thermally active places on Earth, holding a baby, and lost the pacifier. The volcano didn't ask for it. But here it is.\n\n**Say It Out Loud**\n\n> Yellowstone pulled 20,100 pieces of trash from its hot springs this year. Among them: a baby pacifier. The volcano was not consulted.\n\n---\n\n## Today's Punchline\n\n> This week, the administration canceled 760,000 insurance plans, launched its own news channel, and filed 1,100 stock trades — and in every case, the receipts are 'forthcoming.'\n",
-    "fullJa": "# 月に1,100件の株取引、メディア締め出し、76万人の保険削除——全部「証拠は後で」の国の話\n\n## 今日を占うよ〜\n\n1,100件。\n\n7月、トランプ大統領が取引した株の件数です。1日平均にすると23件。朝起きて、昼寝して、夕ご飯食べながら株を売ってる計算。\n\nで、他を見ると…\nメディアを締め出した3日後に自前のYouTubeチャンネルを開設し、76万人の保険を「詐欺」として削除し（根拠は非公表）、大学を「時代遅れ」と言い続けたVCが学校を作り、イエローストーンの間欠泉からおしゃぶりが2万個のゴミとともに回収されている。\n\n今日を貫く糸は、たぶんこれ。「大きい声で言えば根拠になる」。\n\nということで、今日の占いです。\n「証拠出して」って言いたいのに言えない場面、ありませんか。それ、正しい感覚です。「この結論、どうやって出したの?」って一回立ち止まれるだけで、今日はだいぶ違う。たぶん。\n\n---\n\n## 1. Trump Filed 1,100+ Stock Trades in July — While Voters Seethed Over Elected Officials Trading Stocks\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/22/trump-stock-trades-july-filing)）*\n\nトランプ大統領が7月に1,000件以上の株取引（総額最大2億7,000万ドル）を行っていたことが最新の財務開示で判明した。議員の株取引に対する有権者の怒りが高まる中での出来事。\n\n**どこが笑える？**\n\n7月、トランプ大統領は株を1,100件以上取引した。買いが440件超、売りが700件超。1日にすると23件。土日も含めて毎日です。しかもMag 7の株価が5%急騰したその日に、アマゾンとマイクロソフトをそれぞれ最大2,500万ドル分売り抜けている。\n\nこれが「財務開示」という透明性のための書類で判明した。有権者が議員の株取引に怒り続けている、まさにそのタイミングで。\n\nアクセルを踏んだのは、止めようとしていた側の人でした。\n\n**このニュースをジョークにするなら...**\n\n> 大統領が7月の株取引を1,100件以上開示しました。財務報告書というより、デイトレーダーの日記なんですよ。\n\n---\n\n## 2. 'Trump TV' Launches on YouTube Days After White House Bans Major News Outlets\n\n*NPR News（[記事](https://www.npr.org/2026/09/22/nx-s1-5977768/trump-tv-media-ban-white-house)）*\n\nトランプ政権がCNN・MSNOWなど主要メディアを記者団から排除してから数日後、ホワイトハウスが独自の24時間YouTubeチャンネル「Trump TV」を立ち上げた。\n\n**どこが笑える？**\n\nホワイトハウスがCNN・MSNOW・Politicoを記者団から排除した。その3日後、「Trump TV」という24時間YouTubeチャンネルが開設された。\n\n説明文には「一番大事な瞬間を一箇所に」。編集者は政権本人。ファクトチェックも政権本人。\n\n報道の自由、大事にしてますね〜。\n\n**このニュースをジョークにするなら...**\n\n> メディアを締め出して自分たちのチャンネルを立ち上げた。評価は最高です——評価者もホワイトハウスですが。\n\n---\n\n## 3. Andreessen Horowitz Opens AI School as 'College Alternative' — Tuition TBD, Disruption Guaranteed\n\n*CBS News US（[記事](https://www.cbsnews.com/news/andreessen-horowitz-ai-school-college-alternative/)）*\n\nシリコンバレーの著名ベンチャーキャピタルAndreessen Horowitzが、AIに特化した大学の代替となるテックアカデミーを設立した。起業志望者を対象としている。\n\n**どこが笑える？**\n\na16z（Andreessen Horowitz）はシリコンバレーの超有名VCで、創業者はスタンフォードとプリンストンの卒業生です。そのa16zが「大学の代替」となるAIアカデミーを開設した。\n\nカリキュラムはAI企業の立ち上げ方。学校を運営するのはAI企業に投資している人たち。\n\n「大学は時代遅れで、コストが高く、実社会の役に立たない」と20年言い続けた帰着点が、自分たちの学校を作ることだった。授業料は未定。\n\n**このニュースをジョークにするなら...**\n\n> a16zは「大学は壊れてる」と言って自分たちの学校を開いた。入学審査はたぶんピッチデッキ提出です。\n\n---\n\n## 4. Trump Administration Removes 760,000 Obamacare Enrollments — Calling It Fraud\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/22/trump-administration-removes-around-760000-obamacare-enrollments.html)）*\n\nトランプ政権がオバマケアの加入者約76万人分を「詐欺」として削除したと発表した。JDバンス副大統領のタスクフォースは、この措置で約22億ドルの補助金を節約できると主張している。\n\n**どこが笑える？**\n\nJDバンス副大統領の「詐欺排除タスクフォース」が、オバマケアの加入者76万人分を削除したと発表した。節約額は約22億ドル、と。\n\n詐欺の判定基準は? 非公表。削除された本人への通知は? 不明。異議申し立ての方法は? それも不明。\n\n「76万人」と「22億ドル」という数字だけが、自信満々に発表された。削除された側の体験を一言で言うと、「ある日保険がなくなっていた」です。\n\n**このニュースをジョークにするなら...**\n\n> 詐欺対策タスクフォースが76万件のオバマケア加入を削除しました。詐欺の判定基準は？追って発表します。保険は？それも追って。\n\n---\n\n## 5. Yellowstone Staff Pull Record 20,000 Pieces of Trash from Hot Springs — Hats, Pencils, Baby Pacifiers\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/22/yellowstone-trash-record)）*\n\nイエローストーン国立公園のスタッフが、今年これまでに間欠泉周辺の熱水エリアから過去最多の約2万100個のゴミを回収したことが明らかになった。帽子・鉛筆・乳児用おしゃぶりなどが含まれる。\n\n**どこが笑える？**\n\nイエローストーンで今年、間欠泉周辺から2万100個のゴミが回収された。過去最多。帽子、鉛筆、そして赤ちゃんのおしゃぶり。\n\n帽子と鉛筆は「強風で飛ばされた」で説明できます。\n\nおしゃぶりは説明できません。地球上でも有数の熱水地帯に赤ちゃんを連れてきて、おしゃぶりを間欠泉に落とした人が今年いた。間欠泉は何も求めていなかったのに。\n\n**このニュースをジョークにするなら...**\n\n> イエローストーンは今年、熱水プールから2万100個のゴミを回収しました。その中に赤ちゃんのおしゃぶり。火山に相談はしていません。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 証拠は後で、成果は今。今週のアメリカはそういう週でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d4のcaption4「A task force where the success metric is…America.」が観察で終わっており裏切りがない。xJa1本目が136字でオーバー。d2のcaption4が「Imagine calling that…」という汎用型の逃げで終わっている。これら3点を修正する。他は合格。 ／ 文体パス: 3箇所修正。introJaの締め「それだけで今日はだいぶ強い」周辺が説明口調でまとまりすぎ、riffJa[1]の「かなり独創的です」がプレゼン締め、riffJa[2]の「なかなか静かなオチです」が「うまくまとめた感」。"
+    "fullEn": "# Fat Bears and Empty Tables: America Charges More for Everything Except Democracy\n\n## Today's Forecast\n\nFive stories landed in my inbox this morning, and I had to sit with them for a minute.\n\nA bear election crashed the internet. The White House banned three newsrooms and called it a security issue. Meta and Amazon had a trillion-dollar argument about who gets to spend your money. McDonald's CEO explained that high prices will continue — he set the prices — and Disney raised its rates again, with a special 30-day grace period it's calling 'loyalty.'\n\nThe thread running through all of it: the institutions we built to serve us have quietly renegotiated the deal. Every one of them, except the bears.\n\nSo here's your forecast. If you've been told your effort isn't enough, your budget isn't enough, your access isn't enough — today's news confirms the problem isn't you. The system is literally announcing this out loud. That's almost helpful. Go into today knowing you spotted it.\n\n---\n\n## 1. Fat Bear Week 2026 Crashes Servers — Democracy Works After All\n\n*CBS News US — [source](https://www.cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai/)*\n\nFat Bear Week 2026 has returned to Katmai National Park and Preserve in Alaska, featuring 16 bears competing for the title of chubbiest bear. Voting surged so dramatically that it reportedly 'broke the internet,' crashing or straining the voting platform. The annual contest has become a significant cultural moment, drawing millions of participants each fall.\n\n**Why It's Funny**\n\nFat Bear Week crashed the voting servers. Sixteen candidates, all of them bears, all of them doing the exact same thing — eating as much as possible before winter — and the public showed up in numbers that would make any election commissioner cry. No debates. No attack ads. No one claimed the other bear was actually born in Canada. Just bears, being bears, and millions of humans who apparently needed exactly that. The voting site went down. For a bear. I've now accepted that this is the most functional democratic exercise in the country.\n\n**Say It Out Loud**\n\n> America couldn't build a working healthcare website but Fat Bear Week took down the servers in under an hour. The bears didn't even try.\n\n---\n\n## 2. White House Bans Press, Cites 'National Security' — Judge Not Convinced\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html)*\n\nThe Trump administration banned CNN, MS NOW, and Politico reporters from White House grounds, with the Department of Justice citing national security concerns in a late-night filing. A federal judge heard arguments from the outlets, who challenged the ban as an unconstitutional restriction on press freedom. Judge Timothy Kelly indicated skepticism toward the government's position and promised to rule soon.\n\n**Why It's Funny**\n\nThe White House banned three news organizations and cited national security. The Department of Justice filed the explanation at night — which, as a filing strategy, is either very confident or very aware. A federal judge heard the arguments and indicated he was not buying it. Here's the part that stays with me: the government's own filing described the action as a 'ban on the free press.' They wrote that. They submitted it. In a court. The judge raised an eyebrow and promised to rule soon, which in judge language means he's already ruled.\n\n**Say It Out Loud**\n\n> The government called it a 'ban on the free press.' Their words. Then they went to court and said it was fine. Legally speaking, that's a choice.\n\n---\n\n## 3. Meta's New AI Shopping Agent Hits Amazon — Amazon Says No Thanks\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html)*\n\nMeta unveiled Muse, an AI personal agent designed to handle tasks including online shopping, and it quickly generated significant consumer buzz. However, Amazon blocked the Muse app from appearing on its platform, refusing to host a product that could redirect purchases away from Amazon's own shopping ecosystem. The standoff highlights growing tension between AI agent developers and the retailers those agents are designed to shop on.\n\n**Why It's Funny**\n\nMeta built Muse, an AI personal agent designed to do your shopping. Amazon blocked it from their platform. So we now have the company that wants to buy things for you in a standoff with the company that wants to sell things to you, and neither of them consulted the person whose money is involved. Amazon's objection makes perfect sense once you understand that what they're really selling isn't products — it's the experience of deciding. Muse skips that part. Amazon is not going to let that go.\n\n**Say It Out Loud**\n\n> Meta made an AI to do your shopping. Amazon blocked it. We've now got two trillion-dollar companies arguing over who gets to max out your credit card.\n\n---\n\n## 4. McDonald's CEO: High Prices and Empty Tables Are the New Normal\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html)*\n\nMcDonald's CEO Chris Kempczinski stated that persistently high inflation and flat customer traffic are expected to continue weighing on the restaurant industry for the foreseeable future. His comments come as McDonald's and other fast-food chains have faced consumer pushback over rising menu prices. The chain has attempted various value promotions to lure back price-sensitive customers.\n\n**Why It's Funny**\n\nMcDonald's CEO said high prices and low customer traffic are the new normal for restaurants. He also runs McDonald's, where the prices are high and the traffic is low. The chain has been running value promotions to win back customers while simultaneously forecasting that affordability won't improve. I'm not a business strategist, but I've watched enough people lose at cards to recognize when someone is explaining why they keep losing while continuing to play the same hand.\n\n**Say It Out Loud**\n\n> McDonald's CEO says high prices and low traffic are here to stay. Bold admission from the guy who set the prices.\n\n---\n\n## 5. Disney+ and Hulu Prices Go Up Again, Effective Immediately If You're New, Next Month If You're Loyal\n\n*CBS News US — [source](https://www.cbsnews.com/news/disney-plus-hulu-price-increase/)*\n\nDisney announced price increases for both Disney+ and Hulu streaming services. New subscribers face the higher rates immediately, while existing subscribers will see their plans increase starting next month. The move is part of a broader industry trend of streaming services raising prices as they shift focus from subscriber growth to profitability.\n\n**Why It's Funny**\n\nDisney raised prices on Disney+ and Hulu. New customers pay the higher rate right now. Existing subscribers — people who've been paying every month, some of them for years — get one extra month before the new price kicks in. Disney is calling this a loyalty consideration. Thirty-one days. The math on that loyalty is very easy to do, and Disney did it, and they still went with thirty-one days.\n\n**Say It Out Loud**\n\n> Disney raised prices again. New members pay now. Existing members pay next month. They call the extra 30 days 'loyalty.' Sure.\n\n---\n\n## Today's Punchline\n\n> Bears crashed a server by being fat and honest. The rest of today's news couldn't manage either.\n",
+    "fullJa": "# 熊のデブ選手権はサイトを落とし、マックは客を失い、ディズニーは夢の請求書を値上げした\n\n## 今日を占うよ〜\n\nデブ熊の投票がサーバーをダウンさせた、という文章を読んで、しばらく画面を見つめていました。\n\nで、他を見ると。ホワイトハウスが記者3社を「安全保障上の懸念」で追い出し、メタとアマゾンが「お前の金をどっちが使わせるか」で喧嘩し、マックのCEOが「値上げは続きます」と言い、ディズニーが夢の月額を静かに引き上げた。\n\n今日の5本を貫く糸は、たぶん「サービスする側が、もうサービスのふりをやめた」ということです。みんな正直になってきた。マックは「安くなりません」と言い、ディズニーは「長年のご愛顧の猶予は31日」と計算し、アマゾンは「あなたより私の都合が先」と言った。権力のある側が理由を説明しなくなってきている。\n\n熊だけが例外で、あいつらは何も言わずに食べて、1位になった。\n\n今日の占いです。あなたが「なんか損してる気がする」と感じているとしたら、それはたぶん正しい。今日の5本がぜんぶそれを証明しています。気づいてる側にいる方が、今日は得だよ。たぶんね。\n\n---\n\n## 1. Fat Bear Week 2026 Crashes Servers — Democracy Works After All\n\n*CBS News US（[記事](https://www.cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai/)）*\n\nアラスカ州カトマイ国立公園の「デブ熊週間2026」が開幕し、16頭の熊への投票が殺到してサイトがダウン寸前になった。\n\n**どこが笑える？**\n\nデブ熊週間の投票サイトがダウンした、という事実をしばらく噛みしめていました。候補は16頭。全員が冬眠前にひたすら食べた熊で、争点は「どれだけ丸いか」だけ。公約なし、討論なし、スキャンダルなし。それなのに投票が殺到してサーバーが落ちた。本物の選挙で「投票率をどう上げるか」を研究している人たちは、たぶんアラスカに行って熊を観察した方がいいと思います。\n\n**このニュースをジョークにするなら...**\n\n> 医療保険サイトはまともに動かないのに、デブ熊選挙は1時間でサーバーを落とした。熊は何もしてないのに。\n\n---\n\n## 2. White House Bans Press, Cites 'National Security' — Judge Not Convinced\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html)）*\n\nトランプ政権がCNN・MS NOW・ポリティコのホワイトハウス取材を禁止した件について、連邦裁判所が審理を行い、判事は近日中に判断を示す見通し。政府側は「安全保障上の懸念」を理由に挙げた。\n\n**どこが笑える？**\n\nホワイトハウスがCNN・ポリティコ・MS NOWの取材を禁止した理由が「安全保障上の懸念」で、その懸念が具体的に何なのかは深夜に提出された書類にも書かれていない。\n\nで、政府側の書類に「報道の自由への禁止措置」という言葉が自ら書かれていたんですよ。普通、「これは検閲ではない」と言いたいときに、自分で「禁止です」と書くか。連邦判事は懐疑的な様子で「近日中に判断する」と言った。「近日中」って言うとき、もう決まってる感じがする。\n\n**このニュースをジョークにするなら...**\n\n> 政府が自分で「報道の自由への禁止措置」って言ったんですよ。そしてそのまま法廷で「これは問題ない」と主張した。法的にはそういう作戦もあるんですね。\n\n---\n\n## 3. Meta's New AI Shopping Agent Hits Amazon — Amazon Says No Thanks\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html)）*\n\nメタが発表した新AI個人エージェント「Muse」が注目を集めているが、Amazonは同アプリを自社サイトで販売拒否し、両社の対立が鮮明になった。\n\n**どこが笑える？**\n\nメタが「あなたの代わりに買い物するAI」を発表して、アマゾンが即座にブロックした。\n\n「何でも売ります」のプラットフォームが、「何でも買ってあげるAI」を「売りません」と言っている。両者とも目標はあなたのお金のはずなのに、ここで喧嘩している。アマゾンの本音はたぶんこうです。「自分で選ばせないなら、うちに来る意味がない」。ユーザーの利便性より、ユーザーが選ぶ体験の方が大事。正直すぎてちょっと好き。\n\n**このニュースをジョークにするなら...**\n\n> メタが買い物をしてくれるAIを作った。Amazonがそれを追い出した。2兆ドル企業2社が、あなたのクレジットカードをどっちが使うかで喧嘩してます。\n\n---\n\n## 4. McDonald's CEO: High Prices and Empty Tables Are the New Normal\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html)）*\n\nマクドナルドのCEOが、高インフレと客足の伸び悩みがレストラン業界に当面続くとの見通しを示した。\n\n**どこが笑える？**\n\nマクドナルドのCEOが「高インフレと客足の鈍化はしばらく続く」と言いました。それを言ったのが、値上げの決定を下した本人です。\n\n値上げしたら客が来なくなった、と分析している人が、「値上げは続く」と締めた。問題と解決策が同じ口から同時に出てくるの、なかなか見ない光景です。バーゲンセールで赤字を補填しようとしながら「赤字は続きます」と言っている。いや、そこはもう少し考えてほしい。\n\n**このニュースをジョークにするなら...**\n\n> マクドナルドのCEOが「高い価格と客足の減少は当面続く」と発言した。価格を決めた本人が言ってます。\n\n---\n\n## 5. Disney+ and Hulu Prices Go Up Again, Effective Immediately If You're New, Next Month If You're Loyal\n\n*CBS News US（[記事](https://www.cbsnews.com/news/disney-plus-hulu-price-increase/)）*\n\nディズニーがDisney+とHuluの料金を値上げすると発表。新規加入者はただちに、既存加入者は来月から新価格が適用される。\n\n**どこが笑える？**\n\nディズニーがDisney+とHuluを値上げしました。新規加入者はただちに。既存加入者は来月から。\n\nその「来月から」を、ディズニーは「ロイヤルティへの配慮」と表現しています。31日。長年毎月お金を払ってきたファンへのご褒美が、31日の猶予。夢を売る会社が、夢の有効期限を日数で計算してきた。ケーブルテレビが高いからサブスクに乗り換えた人が、今ごろ複数のサブスクでケーブルより高い請求書を受け取っているの、逃げ場がなさすぎてもはや清々しい。\n\n**このニュースをジョークにするなら...**\n\n> ディズニーがまた値上げ。新規は今日から、既存は来月から。その30日間の差を「ロイヤルティ」と呼んでいます。そうですね。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> デブ熊は何も言わずに食べて1位になった。他の全員は、たくさん言って客を失った。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "文体パス: 2箇所修正。introJaの「気づいてる側にいる、というのは、今日は割とアドバンテージだと思うよ」という締めがきれいにまとまりすぎていたので崩した。riffJa[1]の「たいてい気持ちはもう決まっています」もプレゼン口調だったので本音がこぼれた形に切り落とした。"
   },
   "carousel": [
-    "images/2026-09-23/carousel/slide-1.jpg",
-    "images/2026-09-23/carousel/slide-2.jpg",
-    "images/2026-09-23/carousel/slide-3.jpg",
-    "images/2026-09-23/carousel/slide-4.jpg",
-    "images/2026-09-23/carousel/slide-5.jpg",
-    "images/2026-09-23/carousel/slide-6.jpg",
-    "images/2026-09-23/carousel/slide-7.jpg"
+    "images/2026-09-24/carousel/slide-1.jpg",
+    "images/2026-09-24/carousel/slide-2.jpg",
+    "images/2026-09-24/carousel/slide-3.jpg",
+    "images/2026-09-24/carousel/slide-4.jpg",
+    "images/2026-09-24/carousel/slide-5.jpg",
+    "images/2026-09-24/carousel/slide-6.jpg",
+    "images/2026-09-24/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-23/note-header.jpg",
-    "substack": "images/2026-09-23/substack-cover.jpg"
+    "note": "images/2026-09-24/note-header.jpg",
+    "substack": "images/2026-09-24/substack-cover.jpg"
   }
 };
