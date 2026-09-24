@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-24",
-  "generatedAt": "2026-09-23T22:22:46+00:00",
+  "date": "2026-09-25",
+  "generatedAt": "2026-09-24T22:26:12+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Fat Bear Week 2026 Crashes Servers — Democracy Works After All",
-        "source": "CBS News US",
-        "date": "2026-09-24",
-        "url": "https://www.cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai/",
-        "summary": "アラスカ州カトマイ国立公園の「デブ熊週間2026」が開幕し、16頭の熊への投票が殺到してサイトがダウン寸前になった。"
+        "headline": "DHS Flagged 185 Nevada Voters as Non-Citizens — Every Single One Was Actually a Citizen",
+        "source": "The Guardian US",
+        "date": "2026-09-25",
+        "url": "https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error",
+        "summary": "国土安全保障省（DHS）がネバダ州の有権者名簿から「非市民」として抽出した185件のデータを州選挙当局が確認したところ、全員が米国市民であったことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 本物の選挙では投票率が上がらなくて四苦八苦してるのに、熊のデブ選手権は「サイトが落ちた」ほど人が殺到するんですよ。",
-        "<b>滑稽さ:</b> 候補者が全員冬眠前に食いまくった熊で、争点は「どれだけ丸いか」だけ。公約なし、スキャンダルなし、討論なし。",
-        "<b>日本・海外から見ると:</b> 海外メディアが毎年これを大まじめに速報するの、アメリカの民主主義の優先順位が透けて見えてちょっと羨ましいんですよね。"
+        "<b>矛盾:</b> 「不正投票を防ぐ」ためのシステムが、合法的な市民を全員はじいてしまった。精度ゼロのふるいで、砂だけ残して金を全部捨てた感じなんですよ。",
+        "<b>滑稽さ:</b> 185件中185件が誤り——打率にすると.000ですよ。MLBなら翌日クビ。",
+        "<b>日本・海外から見ると:</b> 選挙の「信頼性を守る」と言いながら、その守護者が一番信頼できないというのは、鍵師が全部の錠前を壊して回る話と区別がつかないんですよね。"
       ],
       "imagePrompts": [
-        "An official-looking polling station with voting booths, each booth featuring a large photo of a very fat brown bear instead of a candidate portrait, 'I Voted' stickers on the floor",
-        "A server room with overheating racks and a blinking 'SYSTEM OVERLOAD' warning light, a small bear paw print stamped on the main monitor screen",
-        "A TV news desk with two anchors in suits, a chyron reading 'BREAKING: BEAR ELECTION CRASHES INTERNET,' giant pie chart behind them showing slices labeled with bear names"
+        "A large official government document labeled 'NON-CITIZEN VOTER LIST' with 185 names, each one crossed out with a red stamp reading 'ACTUALLY A CITIZEN.' A DHS seal is visible at the top.",
+        "A dartboard mounted on a wall in a government office. Every single dart has missed the board entirely and is stuck in the wall far from the target. A banner above reads 'ELECTION INTEGRITY UNIT.'",
+        "A fisherman holding an enormous, expensive fishing net over a river. The net is full of holes, and a sign next to him reads 'CAUGHT: 0 FISH. DESTROYED: RIVER.' Official government logos on his vest."
       ],
       "captions": [
-        "America couldn't build a working healthcare website but Fat Bear Week took down the servers in under an hour. The bears didn't even try.",
-        "Sixteen candidates, zero policy positions, and a turnout crisis that does not exist. Maybe Congress should just get fatter.",
-        "The voting site crashed. For bears. I need someone to explain to me why this doesn't happen in November.",
-        "Each bear's entire campaign platform is 'I ate a lot of salmon.' Honestly? Relatable. I'd vote for that.",
-        "They call it 'broke the internet' like it's a bad thing. Sir, that is the healthiest our democracy has looked all year."
+        "The DHS sent Nevada a list of 185 non-citizen voters. Nevada checked. They're all citizens. So the list is basically just... a list of 185 Americans.",
+        "185 for 185. Perfect score — wrong direction.",
+        "In their defense, they didn't say the list would be *accurate.* They just said it would be a list.",
+        "You ever work really hard on something, turn it in, and get a zero? Imagine if your job was protecting democracy.",
+        "Nevada officials reviewed every name. Every. Single. One. Was a U.S. citizen. At some point this stops being an error and starts being a genre."
       ],
       "captionsJa": [
-        "医療保険サイトはまともに動かないのに、デブ熊選挙は1時間でサーバーを落とした。熊は何もしてないのに。",
-        "候補16頭、公約ゼロ、投票率の低迷一切なし。議員も太ればいいんじゃないですか。",
-        "投票サイトが落ちたんですよ。熊のために。誰か、なぜ11月にこうならないのか説明してくれませんか。",
-        "各熊の選挙公約が「サーモンをたくさん食べた」だけ。正直……わかる。投票したい。",
-        "「インターネットを壊した」って言い方、まるで悪いことみたいじゃないですか。今年の民主主義、一番元気だったのここですよ。"
+        "DHSがネバダ州に送ってきた「非市民リスト」を確認したら、185人全員が市民だった。つまりそれ、ただの市民リストじゃないですか。",
+        "185件中185件ミス。満点——逆方向に。",
+        "弁明するなら、「正確なリストを送る」とは一言も言っていない。「リストを送る」とは言った。",
+        "一生懸命作って提出してゼロ点、という経験、ありますよね。それが民主主義を守る仕事だったら？",
+        "州の担当者が一件ずつ確認した。一件、ずつ。全員、市民。これはもうミスじゃなくてジャンルだと思う。"
       ],
-      "newsEn": "Fat Bear Week 2026 has returned to Katmai National Park and Preserve in Alaska, featuring 16 bears competing for the title of chubbiest bear. Voting surged so dramatically that it reportedly 'broke the internet,' crashing or straining the voting platform. The annual contest has become a significant cultural moment, drawing millions of participants each fall.",
+      "newsEn": "The Department of Homeland Security sent Nevada election officials a list of 185 voters it identified as non-citizens on the state's voter rolls. After review, state officials confirmed that every single person on the list was, in fact, a U.S. citizen. The incident has amplified concerns about the reliability of federal data being used to challenge voter eligibility.",
       "ironyEn": [
         {
-          "contradiction": "American voter turnout has been a perpetual crisis, yet millions show up instantly to vote for the roundest bear in Alaska.",
-          "absurdity": "The platform buckled under the traffic. A bear-shaped pile of fat nearly broke national digital infrastructure.",
-          "outside": "From outside the U.S., it reads like a country that finally found an election it can get excited about — no ads, no debates, just blubber."
+          "contradiction": "A federal agency tasked with protecting election integrity submitted a list of 185 supposed non-citizen voters. The list was 100% wrong.",
+          "absurdity": "A batting average of .000 gets you cut from Little League. At DHS, it apparently triggers a press release.",
+          "outside": "From the outside, the system designed to catch fraudulent voters is the one producing fraudulent data."
         },
         {
-          "contradiction": "Officials spend years designing systems to make human voting easier. Fat Bear Week got there by just posting sixteen very large animals.",
-          "absurdity": "Every candidate's platform is identical: eat salmon, get round, repeat. And somehow that's more compelling than most primaries.",
-          "outside": "Japan has mascot elections, Germany has Carnival queens — but none of them crash servers. America's bears are in a different league."
+          "contradiction": "The whole point was to find people who shouldn't be voting. They found 185 people who absolutely should be.",
+          "absurdity": "Imagine a smoke detector that only goes off when there's no fire. That's the DHS voter-fraud database.",
+          "outside": "Other democracies spend years building reliable voter verification systems. The U.S. apparently outsourced it to a coin flip — and the coin is broken."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-24/candidate-1.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-24/candidate-1-punchy.jpg"
+      "image": "images/2026-09-25/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-25/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "White House Bans Press, Cites 'National Security' — Judge Not Convinced",
-        "source": "CNBC Top News",
-        "date": "2026-09-24",
-        "url": "https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html",
-        "summary": "トランプ政権がCNN・MS NOW・ポリティコのホワイトハウス取材を禁止した件について、連邦裁判所が審理を行い、判事は近日中に判断を示す見通し。政府側は「安全保障上の懸念」を理由に挙げた。"
+        "headline": "Trump Complains About No TV Coverage at Event He Made Impossible to Cover",
+        "source": "The Guardian US",
+        "date": "2026-09-25",
+        "url": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
+        "summary": "トランプ大統領がホワイトハウスでの習近平との会談で報道機関のカメラ入りがなかったことに不満を示したが、その原因は同大統領が先週CNN・MSNow・Politicoを取材禁止にしていたためだと報じられた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「国家安全保障」を理由に記者を追い出す、でも具体的にどう危険なのかは説明しない——「言えない理由がある」を理由にするのがもう答えになってますよね。",
-        "<b>滑稽さ:</b> 政府が自ら「報道の自由への禁止措置」と呼んでるんですよ。普通、「これが検閲だ」と指摘されるのを避けようとするでしょ。堂々と言っちゃってる。",
-        "<b>日本・海外から見ると:</b> 「報道機関を会見から締め出して安全保障」って説明、権威主義国がよく使うやつなんですが、それをアメリカがやってるの、世界の民主主義指数がまたランクを落とす音がします。"
+        "<b>矛盾:</b> 「なんでカメラがないんだ」と怒っている張本人が、カメラを追い出した人なんですよ。これ、自分で窓に板を打ちつけておいて「暗い」って文句を言う話じゃないですか。",
+        "<b>滑稽さ:</b> 判事が「カメラを戻せ」と命令するまでの間、世界最大の経済同士の首脳会談が「映像なし」で進んでたわけで——これ、G2サミットをラジオドラマで流した感じですよ。",
+        "<b>日本・海外から見ると:</b> 「報道の自由を守れ」と世界に説教するアメリカで、大統領が自分でメディアを禁止して、自分の会見が報道されないことに怒っている。外から見てると、マジで何周目かわかんない。"
       ],
       "imagePrompts": [
-        "A White House entrance gate with a velvet rope and a sign reading 'PRESS: NOT TODAY,' a security guard holding a clipboard with three outlet logos crossed out",
-        "A courtroom with a judge peering skeptically over reading glasses at a stack of documents labeled 'NATIONAL SECURITY JUSTIFICATION,' surrounded by question marks",
-        "A press briefing room podium completely surrounded by empty chairs with name cards for CNN, Politico, and MS NOW, a single microphone stand in front of the vacant seats"
+        "A grand White House briefing room, completely empty of cameras and journalists. A podium stands at the front with a sign reading 'HISTORIC SUMMIT IN PROGRESS.' A single 'NO PRESS' sign is taped to the door. A figure at the podium gestures to the empty room, looking confused.",
+        "A sequence of three sticky notes on a wall: first reads 'BAN CNN, MSNOW, POLITICO.' Second reads 'INVITE XI JINPING.' Third reads 'WHERE ARE THE CAMERAS???' with heavy underlines.",
+        "A federal courthouse exterior with a news ticker below reading 'JUDGE ORDERS CAMERAS BACK IN.' Through the courthouse window, a clock shows the summit is already halfway over."
       ],
       "captions": [
-        "The government called it a 'ban on the free press.' Their words. Then they went to court and said it was fine. Legally speaking, that's a choice.",
-        "National security threat: three reporters with press badges. Totally fine: everyone else. The DOJ filed this at night, which tells you how proud they were.",
-        "They banned the journalists. Then the journalists sued. Then a judge raised an eyebrow so high it filed its own amicus brief.",
-        "CNN is a national security risk? The network that spent three years covering itself? Bold theory.",
-        "First Amendment, White House lawn, federal judge — we're one School House Rock episode away from this being a civics lesson."
+        "He banned the cameras, then complained there were no cameras. The cameras were not available for comment.",
+        "A federal judge had to order the press back in. For context, the press was covering the president of the United States meeting the president of China — not a surprise birthday party.",
+        "CNN was banned. Then a judge unbanned them. Then the summit was basically over. Democracy: still loading.",
+        "It's wild that 'the president needs a court order to let journalists watch him do his job' is the *normal* part of this story.",
+        "Sir, you can't complain about no TV coverage. You're the one who canceled TV. You're doing a bit. Are you doing a bit?"
       ],
       "captionsJa": [
-        "政府が自分で「報道の自由への禁止措置」って言ったんですよ。そしてそのまま法廷で「これは問題ない」と主張した。法的にはそういう作戦もあるんですね。",
-        "安全保障上の脅威：プレスパスを持った記者3人。それ以外：全員OK。この文書、夜中に提出してるのがもう全部語ってますよ。",
-        "記者が禁止された。記者が訴えた。判事が眉を上げた。その眉、意見書を単独で提出できるレベルだった。",
-        "CNNが国家安全保障のリスク？3年間ずっと自分たちのことを報道してたあのCNNが？なかなか大胆な説ですね。",
-        "修正第1条、ホワイトハウスの芝生、連邦裁判所——あともう一歩でこれ、小学校の社会科の授業になるやつですよ。"
+        "カメラを追い出したのは自分で、カメラがいないと怒ったのも自分。カメラにはコメントを求められなかった。",
+        "判事が「記者を戻せ」と命令しなきゃいけなかった。相手は誕生日サプライズじゃなくて、米中首脳会談ですよ。",
+        "CNNが禁止されて、判事が解除して、その頃には会談がほぼ終わってた。民主主義：読み込み中。",
+        "「大統領が自分の仕事を取材させるために裁判所命令が必要」というのが、この話の一番「普通」な部分というのが怖い。",
+        "いや、カメラがないって文句言える立場じゃないですよ。カメラを消したの、あなたですよ。コントですか。コントなんですか。"
       ],
-      "newsEn": "The Trump administration banned CNN, MS NOW, and Politico reporters from White House grounds, with the Department of Justice citing national security concerns in a late-night filing. A federal judge heard arguments from the outlets, who challenged the ban as an unconstitutional restriction on press freedom. Judge Timothy Kelly indicated skepticism toward the government's position and promised to rule soon.",
+      "newsEn": "President Trump expressed frustration that TV outlets did not provide a video feed of his meeting with Chinese President Xi Jinping at the White House. Media organizations declined to send cameras after Trump's aides had not yet restored press access for three outlets — CNN, MS Now, and Politico — that Trump himself had banned the previous week. A federal judge subsequently ordered the outlets' access restored.",
       "ironyEn": [
         {
-          "contradiction": "The administration described its own action as a 'ban on the free press' and then asked the court to consider that totally fine.",
-          "absurdity": "The DOJ filed its national-security justification at night, which is either very urgent or very embarrassed. Probably both.",
-          "outside": "Governments that ban journalists usually at least pretend they're not banning journalists. This one labeled it accurately and kept going."
+          "contradiction": "Trump wanted TV cameras at his summit. Trump banned the TV cameras. Trump is upset there were no TV cameras.",
+          "absurdity": "A sitting president complained about a press blackout that he personally created, apparently within the same news cycle.",
+          "outside": "The U.S. lectures the world on press freedom. Its president needed a federal judge to remind him that reporters are allowed in the building."
         },
         {
-          "contradiction": "Claiming press access is a national security threat is a bold move in the country that invented the First Amendment.",
-          "absurdity": "CNN, Politico, and MS NOW — outlets that publish everything publicly — are apparently too dangerous to stand in a hallway.",
-          "outside": "Other democracies are watching and taking notes. Some of them are not democracies anymore, and they're nodding along."
+          "contradiction": "He wanted the historic meeting covered. He made it impossible to cover. He then went on to describe what a great meeting it was — to no cameras.",
+          "absurdity": "Even the judge's order restoring access came *after* Xi had already arrived, which means the timeline ran: ban press, invite world leader, complain about no press, get court-ordered.",
+          "outside": "In most countries, the leader controls access to state events. In this one, the leader controls access, forgets he controls access, and then litigates access — in the same afternoon."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-24/candidate-2.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-24/candidate-2-punchy.jpg"
+      "image": "images/2026-09-25/candidate-2.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-25/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Meta's New AI Shopping Agent Hits Amazon — Amazon Says No Thanks",
-        "source": "CNBC Top News",
-        "date": "2026-09-24",
-        "url": "https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html",
-        "summary": "メタが発表した新AI個人エージェント「Muse」が注目を集めているが、Amazonは同アプリを自社サイトで販売拒否し、両社の対立が鮮明になった。"
+        "headline": "California Sheriff Who Seized 650,000 Ballots to Fight Fraud Ordered to Return Every Single One",
+        "source": "The Guardian US",
+        "date": "2026-09-25",
+        "url": "https://www.theguardian.com/us-news/2026/sep/24/california-sheriff-ballots-chad-bianco",
+        "summary": "カリフォルニア州の共和党系保安官が「有権者詐欺」の調査を名目に65万票以上の郵便投票を押収した行為について、裁判所が違法と判断し、全票の返還を命じた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「あなたの代わりに何でも買ってあげる」AIを、「何でも売ります」のプラットフォームが追い出した。お互いに「買わせたい側」なのに、ここで喧嘩する。",
-        "<b>滑稽さ:</b> つまりAmazonは、ユーザーが「自分のために考えてくれるAI」より「Amazonのために考えてくれるユーザー」が欲しいってことなんですよね。正直すぎてむしろ清々しい。",
-        "<b>日本・海外から見ると:</b> 「AIが買い物を自動化する」と「プラットフォームが客を囲い込む」、どちらの未来も消費者には選択肢が減っていく方向なのが絶妙に皮肉です。"
+        "<b>矛盾:</b> 選挙の「完全性を守る」と言って65万票を押収したら、裁判所に「お前こそが選挙の完全性を脅かしている」と言われた。これ、消防士が「安全のため」と言って火をつけ始めた話ですよ。",
+        "<b>滑稽さ:</b> 65万票以上を押収して、全部返せと言われる——詐欺捜査の「成果」がゼロどころかマイナスで終わるというのは、かなりの技なんですよね。",
+        "<b>日本・海外から見ると:</b> 郡の保安官が独断で州の投票用紙を65万枚持っていく、という事態が起きる国というのは、制度設計の余白がちょっと広すぎるんじゃないですかね。"
       ],
       "imagePrompts": [
-        "A sleek AI robot assistant holding a shopping cart, standing in front of a large 'ENTRY REFUSED' sign at the door of a giant online store warehouse",
-        "Two enormous corporate headquarters buildings facing each other across a narrow street, one with a Meta logo, one with an Amazon logo, both with 'CLOSED TO YOU' signs in the windows",
-        "A customer sitting at a laptop looking confused while two robotic arms labeled 'META' and 'AMAZON' fight each other directly in front of the checkout button"
+        "An enormous evidence room in a sheriff's department, floor-to-ceiling shelves stacked with hundreds of thousands of sealed ballot envelopes. A sheriff's badge hangs on the wall. A court order document is taped to the door reading 'RETURN EVERYTHING.'",
+        "A sheriff standing in front of a flatbed truck loaded with ballot boxes, arms crossed proudly, while behind him a judge's gavel descends from above with a paper reading 'UNLAWFUL' attached.",
+        "A large scoreboard in a government hallway: 'VOTER FRAUD FOUND: 0. BALLOTS CONFISCATED: 650,000. COURT ORDERS ISSUED AGAINST SHERIFF: 1.'"
       ],
       "captions": [
-        "Meta made an AI to do your shopping. Amazon blocked it. We've now got two trillion-dollar companies arguing over who gets to max out your credit card.",
-        "Amazon sells everything — except the app that would buy everything from Amazon. That's not a policy, that's a personality.",
-        "Muse was designed to make purchases easier. Amazon's position is: easier for who, exactly?",
-        "The AI got kicked off the platform it was built to shop on. It's fine. It'll just pivot to something else and raise its valuation.",
-        "Meta wants to spend your money. Amazon wants to spend your money. You're in the middle wondering if anyone asked you."
+        "He took 650,000 ballots to protect the election. The court said he was the threat to the election. Sir, this is a Wendy's.",
+        "Largest voter fraud case in California history — except the fraud was the seizure. Twist ending, honestly.",
+        "650,000 ballots, zero fraud found, one sheriff who needs to pack a very large truck and go back the way he came.",
+        "The court's ruling basically said: the thing you did to protect democracy was the undemocratic thing. Return the democracy.",
+        "Somewhere a civics teacher is showing this story to their class and going, 'Okay so what did we learn?' and the students are just... silent."
       ],
       "captionsJa": [
-        "メタが買い物をしてくれるAIを作った。Amazonがそれを追い出した。2兆ドル企業2社が、あなたのクレジットカードをどっちが使うかで喧嘩してます。",
-        "Amazonは何でも売る——そのAmazonで何でも買うアプリだけは売らない。ポリシーというより、性格の問題ですね。",
-        "Museは購入を楽にするために作られた。Amazonの主張は「誰にとって楽にするんですか」。",
-        "使うために作られたプラットフォームから追い出されたAI。まあ大丈夫でしょ。ピボットして評価額を上げるだけなので。",
-        "メタもあなたのお金を使いたい。Amazonもあなたのお金を使いたい。あなたは「誰も聞いてくれない」と思いながら真ん中に座ってる。"
+        "選挙を守るために65万票を押収したら、「お前が選挙を脅かしている」と裁判所に言われた。すみません、ここウェンディーズですか。",
+        "カリフォルニア史上最大の「有権者詐欺」捜査——詐欺は押収行為そのものだった。結末、まあまあ効いてくる。",
+        "65万票を持ち出して、不正はゼロで、大きいトラックを借りて全部返しに行く保安官。",
+        "裁判所の判決、要約すると「民主主義を守ろうとしてやったことが反民主的でした。返してください」。",
+        "どこかの公民の授業でこのニュースを見せた先生がいると思うんですけど、「さて何を学んだ？」って聞いたら生徒が全員黙ってそう。"
       ],
-      "newsEn": "Meta unveiled Muse, an AI personal agent designed to handle tasks including online shopping, and it quickly generated significant consumer buzz. However, Amazon blocked the Muse app from appearing on its platform, refusing to host a product that could redirect purchases away from Amazon's own shopping ecosystem. The standoff highlights growing tension between AI agent developers and the retailers those agents are designed to shop on.",
+      "newsEn": "Riverside County Sheriff Chad Bianco confiscated more than 650,000 ballots earlier this year as part of a self-initiated voter fraud investigation, a move legal experts called unprecedented. A California state court ruled the seizure was unlawful and that Bianco's conduct 'creates substantial risk to election integrity.' The court ordered all ballots returned.",
       "ironyEn": [
         {
-          "contradiction": "Amazon, a store that sells everything, refuses to sell an app whose entire job is to buy things — specifically because it's too good at buying things from Amazon.",
-          "absurdity": "Meta built a shopping agent. Amazon blocked it. Two of the most powerful companies on earth are fighting over who gets to spend your money for you.",
-          "outside": "From the outside this looks like two waiters arguing over which one gets to take your order, while you sit there increasingly hungry."
+          "contradiction": "Sheriff Bianco seized 650,000 ballots to protect election integrity. A court ruled that seizing 650,000 ballots is what actually threatens election integrity.",
+          "absurdity": "He took the ballots. The court said give them back. The fraud investigation found the fraud was the investigation.",
+          "outside": "A county sheriff unilaterally confiscating more than half a million votes is the kind of thing that gets called 'election interference' when other countries do it."
         },
         {
-          "contradiction": "Muse promises to make your life easier by handling purchases. Amazon's rebuttal is that your life is easier without Muse. Convenient.",
-          "absurdity": "An AI agent got rejected by a marketplace. The AI probably just added 'find a new store' to its to-do list and moved on.",
-          "outside": "The tech press calls this 'a sign of things to come.' Consumers would call it two landlords arguing over who collects the rent."
+          "contradiction": "The stated goal was to find illegitimate votes. The actual outcome was making 650,000 legitimate votes temporarily disappear.",
+          "absurdity": "Somewhere in Riverside County there's a storage room that briefly held more democracy than most countries hold in an entire election.",
+          "outside": "International election monitors usually watch for governments suppressing votes. Apparently they also need to watch for sheriffs with very large evidence lockers."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-24/candidate-3.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-24/candidate-3-punchy.jpg"
+      "image": "images/2026-09-25/candidate-3.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-25/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "McDonald's CEO: High Prices and Empty Tables Are the New Normal",
-        "source": "CNBC Top News",
-        "date": "2026-09-24",
-        "url": "https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html",
-        "summary": "マクドナルドのCEOが、高インフレと客足の伸び悩みがレストラン業界に当面続くとの見通しを示した。"
+        "headline": "ICE Wasted Tens of Millions Trying to Expand Detention — And Still Doesn't Have the Beds",
+        "source": "The Guardian US",
+        "date": "2026-09-25",
+        "url": "https://www.theguardian.com/us-news/2026/sep/24/ice-detention-cost-millions",
+        "summary": "会計検査院（GAO）の調査により、ICEとその他連邦機関が移民大量拘留計画の一環として数千万ドルを無駄にしながら、拘留施設の拡張目標を達成できていないことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「値上げで客が来なくなった」と分析してるCEOが、「値上げは続く」と言ってるんですよ。解決策と問題が同じ人の口から同時に出てくるの、なかなかの技術。",
-        "<b>滑稽さ:</b> 「バリューセールで客を取り戻す」戦略を打ちながら「高インフレは続く」と宣言してる。バーゲンセールで損を取り戻そうとする感じ。",
-        "<b>日本・海外から見ると:</b> 「マックが高すぎて行けない」ってアメリカ人が言う時代が来たの、「安さの象徴」というブランドのアイデンティティ危機として、海外から見るとちょっと別の怖さがあります。"
+        "<b>矛盾:</b> 「効率的な政府を取り戻す」と言いながら、拘留ベッドを増やすために数千万ドルを溶かして、ベッドが増えていない。GAOに指摘される前に自分で気づいてほしい。",
+        "<b>滑稽さ:</b> 「無駄遣いをなくす」を公約にした政権が、GAOに「無駄遣いのリスト」を提出されているというのは、構造として出来すぎなんですよね。",
+        "<b>日本・海外から見ると:</b> 移民を「コストがかかる」と言いながら、その移民を収容するために数千万ドルをドブに捨てているというのは、会計上どう説明するんでしょうか。"
       ],
       "imagePrompts": [
-        "A McDonald's dining room with rows of empty plastic chairs and tables, a single tray of food sitting alone, 'NOW AFFORDABLE*' banner hanging above with a tiny asterisk",
-        "A CEO at a corporate podium in front of a giant chart showing traffic declining and prices rising simultaneously, both lines going in opposite directions in a V shape",
-        "A drive-through menu board with prices so large they dwarf the food photos, a car in the lane with a driver doing mental math on a calculator"
+        "An enormous construction site labeled 'NEW DETENTION FACILITY' with cranes, half-built walls, and a sign reading 'COMPLETION: STILL TBD.' A GAO report document sits on a folding table in the foreground with a long list of line items circled in red.",
+        "A government ledger book open on a desk, showing two columns: 'MONEY SPENT' (very long) and 'BEDS ADDED' (much shorter, with a question mark). An ICE logo is stamped at the top.",
+        "A large empty room labeled 'EXPANDED DETENTION CAPACITY' with dust on the floor, a few folding chairs, and a banner hanging crookedly that reads 'MISSION ACCOMPLISHED?' The lights are half on."
       ],
       "captions": [
-        "McDonald's CEO says high prices and low traffic are here to stay. Bold admission from the guy who set the prices.",
-        "They raised prices, people stopped coming, and the solution announced was: more of the same. Somewhere Ronald McDonald is staring at a wall.",
-        "The home of the Dollar Menu just told investors the dollar isn't coming back. Pour one out for the Happy Meal.",
-        "McDonald's ran a 'value promotion' to fix the traffic problem caused by not having value. I think they've found the hole. They're still in it.",
-        "When Americans can't afford McDonald's, economists don't call it a recession. They should probably start."
+        "Tens of millions spent to expand detention. Detention not expanded. The money is gone. Where did it go? GAO has a list, but it's not a fun list.",
+        "The plan was: spend money, get detention beds. What happened was: spend money. The beds part is still pending.",
+        "Government accountability office to ICE: 'Here is every way you wasted the money.' ICE: '...'",
+        "They wanted to be tough on costs and tough on immigration. Per the GAO, they're currently zero for two.",
+        "Somewhere a spreadsheet is doing the most work it's ever done, and none of it is going the right direction."
       ],
       "captionsJa": [
-        "マクドナルドのCEOが「高い価格と客足の減少は当面続く」と発言した。価格を決めた本人が言ってます。",
-        "値上げした、客が来なくなった、対策は「同じ方向でもう少し」。どこかでロナルド・マクドナルドが壁を見つめてますよ。",
-        "「ドルメニュー」の会社が「ドルは戻らない」と投資家に伝えた。ハッピーセットのために黙とうを。",
-        "客足を取り戻すためにバリューセールをやった。客が来なくなった理由は「バリューがないから」。穴は見つかってます。まだ穴の中にいますけど。",
-        "アメリカ人がマックに行けなくなった時、エコノミストは不況とは呼ばない。そろそろ呼んだほうがいい気がします。"
+        "数千万ドル使って拘留施設を増やそうとした。増えなかった。お金はなくなった。どこへ？GAOにリストがある。楽しいリストではない。",
+        "計画は「お金を使う→拘留ベッドを得る」だった。実際は「お金を使う」まで完了した。ベッドは保留中。",
+        "GAOがICEに：「無駄遣いの一覧、どうぞ」。ICE：「……」",
+        "コストに厳しく、移民に厳しく——GAOによると、現在どちらも達成率ゼロ。",
+        "どこかでスプレッドシートが人生で一番忙しく動いていて、でも全部逆方向に向かっている。"
       ],
-      "newsEn": "McDonald's CEO Chris Kempczinski stated that persistently high inflation and flat customer traffic are expected to continue weighing on the restaurant industry for the foreseeable future. His comments come as McDonald's and other fast-food chains have faced consumer pushback over rising menu prices. The chain has attempted various value promotions to lure back price-sensitive customers.",
+      "newsEn": "A Government Accountability Office report documents that ICE and other federal agencies wasted tens of millions of dollars while pursuing the Trump administration's plans to rapidly expand immigration detention capacity. Despite the massive spending, the expansion goals have not been met, with GAO documenting an array of costly mismanagement problems. The report comes as ICE continues to pursue controversial large-scale detention operations.",
       "ironyEn": [
         {
-          "contradiction": "McDonald's raised prices to protect margins, watched traffic fall, then announced that high prices and low traffic are now permanent features of the landscape. Problem identified. Also: not fixing it.",
-          "absurdity": "The world's largest fast food chain — famous for making food affordable — is now a place that price-sensitive customers are skipping. The clown shoe is on the other foot.",
-          "outside": "Outside America, McDonald's is still a treat. Inside America, it's apparently a financial decision. The McFlation arc continues."
+          "contradiction": "The administration's immigration crackdown was going to be tough, fast, and efficient. The GAO says it's been slow, incomplete, and very expensive in the wrong ways.",
+          "absurdity": "They spent tens of millions expanding detention capacity and still don't have enough detention capacity. That's a special kind of failure that takes real commitment.",
+          "outside": "The pitch was fiscal discipline plus immigration enforcement. What arrived was a GAO report with a long list of costly problems and a bed shortage."
         },
         {
-          "contradiction": "Kempczinski diagnosed the problem as prices being too high and then forecast that prices will stay high. That's not a strategy, that's a weather report.",
-          "absurdity": "McDonald's responded to empty tables with a value meal promotion, which is roughly like raising your rent and then hosting a coupon day.",
-          "outside": "Japan's McDonald's sells 100-yen items and has lines out the door. The U.S. version just told you the lines aren't coming back."
+          "contradiction": "ICE was supposed to be the iron fist of the crackdown. According to federal auditors, it's more of a very expensive open hand.",
+          "absurdity": "The government spent tens of millions on a project, got audited, and the audit said 'you wasted tens of millions.' No one involved seems surprised.",
+          "outside": "Most countries that run expensive enforcement programs at least end up with the thing they were trying to build. This one got the bill without the building."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-24/candidate-4.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-24/candidate-4-punchy.jpg"
+      "image": "images/2026-09-25/candidate-4.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-25/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Disney+ and Hulu Prices Go Up Again, Effective Immediately If You're New, Next Month If You're Loyal",
-        "source": "CBS News US",
-        "date": "2026-09-24",
-        "url": "https://www.cbsnews.com/news/disney-plus-hulu-price-increase/",
-        "summary": "ディズニーがDisney+とHuluの料金を値上げすると発表。新規加入者はただちに、既存加入者は来月から新価格が適用される。"
+        "headline": "Microsoft Puts Its Chief Lawyer in Charge of Communications, Because Who Better to Spin the News?",
+        "source": "The Verge",
+        "date": "2026-09-25",
+        "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
+        "summary": "マイクロソフトがコミュニケーション部門をマーケティングから切り離し、法務・渉外を担当するCELA部門に移管すると発表した。法務・渉外担当の副会長ブラッド・スミス氏がコミュニケーションも統括することになる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「魔法の王国」が毎年値上げするの、「魔法」って本来タダに見えるはずじゃないですか。夢を売る会社が、夢の請求書を毎月送ってくる。",
-        "<b>滑稽さ:</b> 新規は即日、既存は来月——「長年のファンへのご褒美は1ヶ月の猶予」なんですよ。義理の期間、ちゃんと計測されてますよ。31日分。",
-        "<b>日本・海外から見ると:</b> 「ケーブルテレビが高すぎるから」とサブスクに移った人たちが、気づいたら複数のサブスクでケーブルテレビより高い請求書を受け取ってるの、逃げ場なし感がすごいですよね。"
+        "<b>矛盾:</b> 「広報」と「法務」を同じ部署にまとめるというのは、「何を言うか」と「言ったことの責任をどう回避するか」を一元管理するということで、効率的ではあるんですよね。",
+        "<b>滑稽さ:</b> 弁護士に「もっと親しみやすいメッセージを出してください」と頼む構図——法廷戦術と企業PRは確かに近いですけど、近すぎる気もするんですよ。",
+        "<b>日本・海外から見ると:</b> AIを巡る規制対応で世界中の政府と交渉している法務トップが、今度は自社の「語り口」まで管理する。これは情報の整合性という意味では完璧な体制で、だからこそちょっと怖い。"
       ],
       "imagePrompts": [
-        "A theme park castle with a large glowing '$' symbol on top instead of a flag, a smiling mouse silhouette holding a price increase notice",
-        "A TV remote on a couch with multiple streaming app icons visible on screen, each one showing a small upward arrow and a dollar sign, the remote's batteries also labeled with a price",
-        "A family sitting in front of a television looking at a subscription renewal notice, a cartoon mouse on the screen waving cheerfully while pointing to a chart of rising prices"
+        "A large corporate org chart on a whiteboard. Two boxes previously labeled 'COMMUNICATIONS' and 'LEGAL & REGULATORY' are being merged with a big arrow into one box labeled 'COMMUNICATIONS & LEGAL & REGULATORY & ALSO TALKING TO GOVERNMENTS.' One person stands at the top of the merged box.",
+        "A formal boardroom. On one side of a long table sits a stack of press releases. On the other side sits a stack of legal briefs. A nameplate in the center chair reads 'BRAD SMITH.' The stacks are being pushed together.",
+        "A news podium at a tech company press event. Behind the podium, instead of a marketing backdrop, there is a wall of filing cabinets labeled with regulatory agency names: FTC, EU, Congress, DOJ. A person in a business suit adjusts a tie at the mic."
       ],
       "captions": [
-        "Disney raised prices again. New members pay now. Existing members pay next month. They call the extra 30 days 'loyalty.' Sure.",
-        "You left cable because it was too expensive. You now pay for Netflix, Disney+, Hulu, Max, and Peacock. Congratulations on the savings.",
-        "Disney, the company that charges $7 for a churro, has decided your monthly bill also needs to dream bigger.",
-        "New subscribers: pay more starting today. Long-time subscribers: you get 31 days. Disney has calculated exactly what your loyalty is worth. It's one month.",
-        "The streaming revolution was supposed to free us from cable. It did. We're free. We just pay the same amount to different mouse-shaped corporations now."
+        "Microsoft put its chief lawyer in charge of communications. For clarity: the person who decides what the company can say legally now also decides what the company says.",
+        "Moving comms into Legal Affairs — smooth. Moving Legal Affairs into comms — wait, is this the same thing?",
+        "Brad Smith already negotiates with Congress, the EU, and the FTC. Now he writes the press releases too. He is one man and also somehow an entire branch of government.",
+        "The new structure ensures that whatever Microsoft tells you has been pre-cleared by the guy who'd have to defend it in court. That's either very reassuring or not at all.",
+        "Frank Shaw is out as comms chief. His replacement is a lawyer. His replacement's replacement will probably be a judge. By 2030, Microsoft's head of communications will be a supreme court justice."
       ],
       "captionsJa": [
-        "ディズニーがまた値上げ。新規は今日から、既存は来月から。その30日間の差を「ロイヤルティ」と呼んでいます。そうですね。",
-        "ケーブルテレビが高すぎるから解約した。今はNetflix、Disney+、Hulu、Max、Peacockを契約してる。おめでとうございます、節約できてますね。",
-        "チュロスを1本900円で売る会社が、月額料金ももっと大きく夢を見ることにしました。",
-        "新規加入者は今日から高い。長年のファンは31日間の猶予。ディズニーはあなたへの義理の価値をちゃんと計算してます。1ヶ月分です。",
-        "ストリーミング革命はケーブルテレビから解放してくれるはずだった。解放されました。今は耳の丸い別々の会社に同じ金額を払ってます。"
+        "マイクロソフトが法務トップに広報も担当させることにした。整理すると：「会社が何を言えるか」を決める人が、「会社が何を言うか」も決めることになった。",
+        "広報を法務部門に移す——スムーズ。法務を広報に移す——待って、同じことでは？",
+        "ブラッド・スミス氏はすでに米議会、EU、FTCと交渉している。今度はプレスリリースも書く。一人なのに、なんか政府の部署みたいな仕事量じゃないですか。",
+        "新体制で保証されること：マイクロソフトがあなたに伝えることは、それを法廷で弁護する人が事前に確認済み。安心と言えば安心。怖いと言えば怖い。",
+        "フランク・ショー氏が広報トップを退任し、後任は弁護士。その次は判事になるかも。2030年までにマイクロソフトの広報責任者が最高裁判事になっても驚かない。"
       ],
-      "newsEn": "Disney announced price increases for both Disney+ and Hulu streaming services. New subscribers face the higher rates immediately, while existing subscribers will see their plans increase starting next month. The move is part of a broader industry trend of streaming services raising prices as they shift focus from subscriber growth to profitability.",
+      "newsEn": "Microsoft announced it is moving its communications group out of its marketing division and into its Corporate, External, and Legal Affairs organization, known as CELA. The change puts Brad Smith, Microsoft's vice chair and president who oversees legal and regulatory affairs, in charge of the company's communications function. The company is also searching for a replacement for Frank Shaw, the outgoing chief communications officer.",
       "ironyEn": [
         {
-          "contradiction": "People cut cable because it was too expensive and switched to streaming. Streaming is now raising prices faster than cable ever did. The circle is complete.",
-          "absurdity": "Disney rewards loyalty with a 30-day warning before taking more money. That's not gratitude — that's a countdown clock with mouse ears.",
-          "outside": "Japan's Disney+ is already priced separately, and people grumble. Americans are on their fourth price hike in three years and have nowhere left to run."
+          "contradiction": "Microsoft separated its communications team from marketing to make messaging more 'authentic.' It then handed communications to the company's top lawyer.",
+          "absurdity": "Nothing says 'open and transparent communication' like putting the person whose job is managing legal liability in charge of what the company says publicly.",
+          "outside": "Other tech companies have comms chiefs who used to be journalists or PR veterans. Microsoft's is the guy who testifies before Congress."
         },
         {
-          "contradiction": "Disney sells the idea of magic and wonder. The fine print of that magic is a recurring charge that goes up every year whether the magic improves or not.",
-          "absurdity": "New subscribers pay more immediately. Existing subscribers get one extra month at the old price as a 'thank you.' Disney has quantified customer loyalty: 31 days.",
-          "outside": "From outside the U.S., the streaming wars look like a hostage situation where the hostages keep paying more and describing it as 'content.'"
+          "contradiction": "The move is framed as a structural upgrade. What it actually creates is a single executive who controls both what Microsoft says and what Microsoft can be held responsible for saying.",
+          "absurdity": "Brad Smith is simultaneously Microsoft's top lawyer, its chief policy negotiator with governments worldwide, and now its chief message crafter. That's not a job. That's a weather system.",
+          "outside": "In most organizations, legal and communications are kept separate precisely so the lawyers don't run the press releases. Microsoft read that rule and went the other way."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-24/candidate-5.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-24/candidate-5-punchy.jpg"
+      "image": "images/2026-09-25/candidate-5.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-25/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本は全部「お金を取る側」の話。熊だけが例外で、あいつらは無料で1位になった。",
-    "titleEn": "Fat Bears and Empty Tables: America Charges More for Everything Except Democracy",
-    "subtitleEn": "Five stories, one bill, and the bears didn't even try.",
-    "titleJa": "熊のデブ選手権はサイトを落とし、マックは客を失い、ディズニーは夢の請求書を値上げした",
+    "thread": "今日の5本は全部「守る側が一番壊している」話。DHSが市民を追い出し、保安官が選挙を壊し、トランプがカメラを禁止してカメラがないと怒る。守護者が最大のリスクになった日。",
+    "titleEn": "185 Citizens, 650,000 Ballots, and One Very Confused Sheriff",
+    "subtitleEn": "Today in: protecting things by destroying them.",
+    "titleJa": "「選挙を守る」と言った人たちが、選挙を一番壊していた話",
     "titleAltJa": [
-      "『国家安全保障上の懸念』と言えば記者を追い出せる時代に、熊だけが公正な選挙をやっていた話",
-      "今日のアメリカ5本：値上げ・報道禁止・AI同士の喧嘩。熊が一番まともだった"
+      "185人全員が市民だった。65万票は全部返せと言われた。ICEの拘留施設は増えていない。",
+      "「守る」と言って壊した人たちの話が今日だけで3本ある"
     ],
-    "leadJa": "熊のデブ選手権が、投票サイトをクラッシュさせました。本物の選挙では起きないことが、アラスカの国立公園では起きた。今日はそういう日です。",
-    "introEn": "Five stories landed in my inbox this morning, and I had to sit with them for a minute.\n\nA bear election crashed the internet. The White House banned three newsrooms and called it a security issue. Meta and Amazon had a trillion-dollar argument about who gets to spend your money. McDonald's CEO explained that high prices will continue — he set the prices — and Disney raised its rates again, with a special 30-day grace period it's calling 'loyalty.'\n\nThe thread running through all of it: the institutions we built to serve us have quietly renegotiated the deal. Every one of them, except the bears.\n\nSo here's your forecast. If you've been told your effort isn't enough, your budget isn't enough, your access isn't enough — today's news confirms the problem isn't you. The system is literally announcing this out loud. That's almost helpful. Go into today knowing you spotted it.",
-    "introJa": "デブ熊の投票がサーバーをダウンさせた、という文章を読んで、しばらく画面を見つめていました。\n\nで、他を見ると。ホワイトハウスが記者3社を「安全保障上の懸念」で追い出し、メタとアマゾンが「お前の金をどっちが使わせるか」で喧嘩し、マックのCEOが「値上げは続きます」と言い、ディズニーが夢の月額を静かに引き上げた。\n\n今日の5本を貫く糸は、たぶん「サービスする側が、もうサービスのふりをやめた」ということです。みんな正直になってきた。マックは「安くなりません」と言い、ディズニーは「長年のご愛顧の猶予は31日」と計算し、アマゾンは「あなたより私の都合が先」と言った。権力のある側が理由を説明しなくなってきている。\n\n熊だけが例外で、あいつらは何も言わずに食べて、1位になった。\n\n今日の占いです。あなたが「なんか損してる気がする」と感じているとしたら、それはたぶん正しい。今日の5本がぜんぶそれを証明しています。気づいてる側にいる方が、今日は得だよ。たぶんね。",
-    "quipEn": "Bears crashed a server by being fat and honest. The rest of today's news couldn't manage either.",
-    "quipJa": "デブ熊は何も言わずに食べて1位になった。他の全員は、たくさん言って客を失った。",
+    "leadJa": "185人チェックして、185人全員がアメリカ市民だった。\n\nこれは今日の1本目の話です。2本目には65万票を押収した保安官が「お前こそが脅威だ」と裁判所に言われて全部返す羽目になる話がある。\n\nなんか今日、そういう日なんですよ。",
+    "introEn": "Five stories today. One pattern.\n\nA federal agency checked 185 voters for fraud. All 185 were citizens. A sheriff seized 650,000 ballots to protect an election, and a court ruled he was the threat to the election. A president banned cameras, then complained there were no cameras. ICE spent tens of millions to build detention beds that still don't exist. And Microsoft moved its communications team into Legal Affairs — because why keep \"what we say\" and \"what we can say in court\" in separate rooms?\n\nToday's forecast: if you've ever been told your work isn't good enough by someone who's clearly doing a worse job, the news has your back. The people in charge of checking things today could not check a thing correctly. You're probably fine.",
+    "introJa": "185人全員が誤りだったリストを「不正摘発リスト」と呼ぶ国の話を、今朝も読みました。\n\nで、他を見ると——\n65万票を「守るため」に没収した保安官が裁判所に「お前が脅威だ」と言われて全部返して、自分でカメラを追い出した大統領がカメラがないと怒って、数千万ドル使って拘留施設が増えていなくて、マイクロソフトは法務部長に広報もやらせることにした。\n\n今日を貫く糸は「守る側が一番壊している」、それだけです。\n\n最近「自分のやり方って合ってるのかな」と思うことがあるなら、今日のニュースを読むと少し楽になるかもしれない。185対0で全滅してる人たちがいる日に、あなたがいつも通りでいられてるなら、もう十分だよ。",
+    "quipEn": "Today's theme: the people who were supposed to check the work had not checked the work.",
+    "quipJa": "「守る」と言った人が一番壊してた、という話が今日だけで3本ある。",
     "notesEn": [
-      "Fat Bear Week 2026 crashed the voting servers. The contest has 16 candidates, zero policy positions, and a turnout problem that does not exist. I've been following American elections for years and this is the first one where I understand the enthusiasm.",
-      "The Trump administration banned CNN, Politico, and MS NOW from White House grounds, citing national security. The judge hearing the case looked skeptical. When your own filing uses the phrase 'ban on the free press,' you've done most of the opposing counsel's job for them.",
-      "Meta built an AI called Muse to do your shopping. Amazon refused to carry it. Two of the largest companies in the world are now in a standoff over who gets to be in charge of your credit card. The consumer is not represented at this negotiation.",
-      "McDonald's CEO said high inflation and empty tables are here to stay — and then did not announce he was lowering prices. The chain that invented the Dollar Menu just told investors the dollar isn't coming back. Moment of silence.",
-      "Disney raised prices on Disney+ and Hulu. New subscribers pay immediately. Existing subscribers get one extra month, which Disney is calling loyalty. Thirty-one days. That's the measurement of loyalty in 2026."
+      "DHS sent Nevada a list of 185 voters it flagged as non-citizens. Nevada checked every single one. Every single one was a citizen. The list wasn't wrong about some of them. It was wrong about all of them. 185 for 185.",
+      "Trump complained that TV cameras weren't at his summit with Xi Jinping. The cameras weren't there because Trump's team had banned three outlets the week before and hadn't let them back in yet. A federal judge had to order the press reinstated. The summit was basically over by then.",
+      "A California sheriff seized 650,000 ballots to prevent voter fraud. A court ruled the seizure itself was the threat to election integrity and ordered every single ballot returned. The investigation's net result: one very large truck driving back the way it came.",
+      "A GAO report found ICE wasted tens of millions of dollars trying to expand detention capacity. The expansion goals were not met. The administration that ran on cutting government waste got a report documenting its own waste. The beds are still pending.",
+      "Microsoft is moving its communications team out of marketing and into its legal division, under Brad Smith — the executive who already handles Congress, the EU, and the FTC. He now also writes the press releases. One man, essentially an entire branch of government."
     ],
     "xJa": [
-      "デブ熊週間の投票サイトがクラッシュしました。候補者16頭。公約なし。スキャンダルなし。でも投票率は「サイトが落ちる」レベル。本物の選挙に足りないのは政策じゃなくて、たぶん熊です。",
-      "ホワイトハウスがCNNとポリティコを「国家安全保障上の懸念」で追い出した。どう危険なのかは言わない。「言えない理由がある」を理由にするの、それ自体がもう答えなんですよね。",
-      "メタが「あなたの代わりに買い物するAI」を発表→アマゾンが即ブロック。「何でも売ります」の会社が「それだけは売りません」と言ったのは、ユーザーに自分で考えてほしくないからです。正直すぎる。",
-      "マクドナルドのCEOが「高インフレと客足の鈍化は当面続く」と発言。値上げした人が「値上げのせいで来ない」と分析して「値上げは続く」と締めた。問題と解決策が同一人物の口から出てくる技術、なかなか。",
-      "ディズニーがDisney+とHuluを値上げ。新規は即日、既存は来月から。「長年のご愛顧への特典」が31日の猶予。夢を売る会社が、夢の賞味期限を日割り計算しています。"
+      "DHS「185人の非市民リストを作った」→州当局「全員アメリカ市民でした」→DHS「…」　不正を防ぐシステムが185対0で全滅した日の話。",
+      "トランプ大統領「なんでカメラがないんだ」→取材陣「先週あなたが追い出したので」→連邦判事「カメラを戻せ」→会談ほぼ終了。2026年の話です。",
+      "カリフォルニアの保安官が「選挙を守るため」に65万票を没収→裁判所「お前こそが選挙への脅威だ」→全票返還命令。守りにいって自分がアウトになった。",
+      "ICE、数千万ドルを使って移民拘留施設を拡張しようとした結果→施設は増えていない→お金は消えた→GAOが報告書を出した。「無駄遣いをなくす」政権の近況です。",
+      "マイクロソフト、広報部門を法務部の管轄に移す。「何を言うか」と「それを法廷でどう守るか」を同じ部署が決めることになった。効率的ではある。"
     ],
     "raidEn": [
-      "The part that gets me is that the voting infrastructure for bears held up better than it did for actual elections in 2000. Progress, I guess.",
-      "'National security concerns' with zero specifics in the filing — that's not a legal argument, that's a vibe. The judge's eyebrow did a lot of work in that courtroom.",
-      "Amazon blocking the app that would buy things from Amazon is genuinely one of the most honest corporate statements of 2026. They'd rather have your attention than your convenience.",
-      "The CEO diagnosed the problem (prices too high, traffic down) and then prescribed more of the same. Somewhere in a business school, a professor is using this as a case study in something.",
-      "The 30-day grace period framed as 'loyalty' is doing so much heavy lifting. Disney really looked at one calendar month and called it a relationship."
+      "The wild part isn't that they got one wrong. It's that they got zero right. That's a specific kind of achievement.",
+      "He banned the cameras and then complained about no cameras. The cameras were unavailable for comment.",
+      "650,000 ballots. Zero fraud. One court order. The math on this investigation did not work out.",
+      "Spent tens of millions. Did not get the beds. This is the government accountability equivalent of 'the call is coming from inside the house.'",
+      "Putting your chief lawyer in charge of communications is a great idea if you want every press release to also function as a legal brief."
     ],
     "raidJa": [
-      "熊の投票システムの方が、本物の選挙インフラより頑丈だったというのが地味にいちばん気になりました。すごい記事でした。",
-      "「安全保障上の懸念」と言いながら具体的な内容を出せない、という構造、この記事で整理していただいて助かりました。判事が懐疑的なのも納得です。",
-      "「何でも買わせてあげる」AIを「何でも売る」サイトが拒否する、という構図をここまで明快に書いてくださって、もやっとしていたものがすっきりしました。",
-      "「値上げした本人が値上げを問題と分析して値上げ継続を宣言」という流れ、文字にするとこんなに不思議なんですね。記事を読んで気づきました。",
-      "31日を「ロイヤルティ」と名付けるセンス、この記事で指摘されて初めて笑いました。ディズニー、正直ですよね。"
+      "1件でも間違えるなら分かるんですが、185件全部というのは、これはもう別の才能だと思いました。素晴らしい記事でした。",
+      "カメラを追い出した人がカメラがないと怒る、というこの構造、本当に今年を象徴してる気がします。記事でここまで丁寧に整理してもらえて助かりました。",
+      "「守りにいった人が一番の脅威だった」という落ちは、読んでいて本当に言葉に詰まりました。よく取り上げてくださいました。",
+      "GAOの報告書が出るまで誰も止めなかったというのが、この話の一番怖いところだと思いました。丁寧な記事でした。",
+      "法務と広報を同じ屋根の下に置く判断、「効率化」と呼ぶかどうかは読む人によりますよね、という気持ちになりました。面白い切り口でした。"
     ],
     "riffEn": [
-      "Fat Bear Week crashed the voting servers. Sixteen candidates, all of them bears, all of them doing the exact same thing — eating as much as possible before winter — and the public showed up in numbers that would make any election commissioner cry. No debates. No attack ads. No one claimed the other bear was actually born in Canada. Just bears, being bears, and millions of humans who apparently needed exactly that. The voting site went down. For a bear. I've now accepted that this is the most functional democratic exercise in the country.",
-      "The White House banned three news organizations and cited national security. The Department of Justice filed the explanation at night — which, as a filing strategy, is either very confident or very aware. A federal judge heard the arguments and indicated he was not buying it. Here's the part that stays with me: the government's own filing described the action as a 'ban on the free press.' They wrote that. They submitted it. In a court. The judge raised an eyebrow and promised to rule soon, which in judge language means he's already ruled.",
-      "Meta built Muse, an AI personal agent designed to do your shopping. Amazon blocked it from their platform. So we now have the company that wants to buy things for you in a standoff with the company that wants to sell things to you, and neither of them consulted the person whose money is involved. Amazon's objection makes perfect sense once you understand that what they're really selling isn't products — it's the experience of deciding. Muse skips that part. Amazon is not going to let that go.",
-      "McDonald's CEO said high prices and low customer traffic are the new normal for restaurants. He also runs McDonald's, where the prices are high and the traffic is low. The chain has been running value promotions to win back customers while simultaneously forecasting that affordability won't improve. I'm not a business strategist, but I've watched enough people lose at cards to recognize when someone is explaining why they keep losing while continuing to play the same hand.",
-      "Disney raised prices on Disney+ and Hulu. New customers pay the higher rate right now. Existing subscribers — people who've been paying every month, some of them for years — get one extra month before the new price kicks in. Disney is calling this a loyalty consideration. Thirty-one days. The math on that loyalty is very easy to do, and Disney did it, and they still went with thirty-one days."
+      "The Department of Homeland Security sent Nevada a list of 185 voters it had flagged as non-citizens. Nevada checked. All 185 were citizens. Not most of them. Not the majority. Every single one. A perfect score, technically — just in the wrong direction. If this were baseball, it's not that they struck out. It's that they struck out 185 consecutive times, went home, and filed the strikeouts as evidence of pitching fraud.",
+      "Trump held a summit with Xi Jinping and then complained that TV cameras weren't there to cover it. The reason there were no cameras: his team had banned three major outlets the previous week. A federal judge had to order the press reinstated. By that point, the meeting was essentially over. So the sequence is: ban cameras, hold summit, complain about no cameras, get court-ordered to allow cameras, cameras arrive to film an empty room. Democracy, still buffering.",
+      "Riverside County Sheriff Chad Bianco seized 650,000 ballots to investigate voter fraud. The California court reviewed what he'd done and concluded that his conduct 'creates substantial risk to election integrity.' He went in to protect the election. He became, per the court, the risk to the election. Every single ballot gets returned. The investigation's total output is a very large truck, a very long drive, and a court order that is essentially a receipt for a returned purchase.",
+      "ICE spent tens of millions of dollars to expand immigration detention capacity. The GAO documented the results: the expansion goals were not met, and there's a detailed list of how the money was mismanaged. The administration that campaigned on government efficiency got a government accountability report about its own inefficiency. The beds are still pending. The money is not.",
+      "Microsoft is moving communications out of marketing and into its legal division, under Brad Smith — the executive who already negotiates with the EU, Congress, and the FTC. He now also approves the press releases. The logic is coherent: the person who decides what the company can say legally is now also the person who decides what the company says. Very tight operation. The question isn't whether it's efficient. It is. The question is whether 'pre-cleared by the guy who'd defend it in court' is the same thing as 'true.'"
     ],
     "riffJa": [
-      "デブ熊週間の投票サイトがダウンした、という事実をしばらく噛みしめていました。候補は16頭。全員が冬眠前にひたすら食べた熊で、争点は「どれだけ丸いか」だけ。公約なし、討論なし、スキャンダルなし。それなのに投票が殺到してサーバーが落ちた。本物の選挙で「投票率をどう上げるか」を研究している人たちは、たぶんアラスカに行って熊を観察した方がいいと思います。",
-      "ホワイトハウスがCNN・ポリティコ・MS NOWの取材を禁止した理由が「安全保障上の懸念」で、その懸念が具体的に何なのかは深夜に提出された書類にも書かれていない。\n\nで、政府側の書類に「報道の自由への禁止措置」という言葉が自ら書かれていたんですよ。普通、「これは検閲ではない」と言いたいときに、自分で「禁止です」と書くか。連邦判事は懐疑的な様子で「近日中に判断する」と言った。「近日中」って言うとき、もう決まってる感じがする。",
-      "メタが「あなたの代わりに買い物するAI」を発表して、アマゾンが即座にブロックした。\n\n「何でも売ります」のプラットフォームが、「何でも買ってあげるAI」を「売りません」と言っている。両者とも目標はあなたのお金のはずなのに、ここで喧嘩している。アマゾンの本音はたぶんこうです。「自分で選ばせないなら、うちに来る意味がない」。ユーザーの利便性より、ユーザーが選ぶ体験の方が大事。正直すぎてちょっと好き。",
-      "マクドナルドのCEOが「高インフレと客足の鈍化はしばらく続く」と言いました。それを言ったのが、値上げの決定を下した本人です。\n\n値上げしたら客が来なくなった、と分析している人が、「値上げは続く」と締めた。問題と解決策が同じ口から同時に出てくるの、なかなか見ない光景です。バーゲンセールで赤字を補填しようとしながら「赤字は続きます」と言っている。いや、そこはもう少し考えてほしい。",
-      "ディズニーがDisney+とHuluを値上げしました。新規加入者はただちに。既存加入者は来月から。\n\nその「来月から」を、ディズニーは「ロイヤルティへの配慮」と表現しています。31日。長年毎月お金を払ってきたファンへのご褒美が、31日の猶予。夢を売る会社が、夢の有効期限を日数で計算してきた。ケーブルテレビが高いからサブスクに乗り換えた人が、今ごろ複数のサブスクでケーブルより高い請求書を受け取っているの、逃げ場がなさすぎてもはや清々しい。"
+      "国土安全保障省が「非市民」リストをネバダ州に送った。185件のリストを州が一件ずつ確認した。185件全員がアメリカ市民だった。\n\n1件や2件の間違いじゃない。精度がゼロだった。ふるいにかけて、金を全部捨てて、砂だけ残った。MLBなら翌日に戦力外通知が出る数字なんですけど、これは「不正を防ぐシステム」の話です。",
+      "トランプ大統領、習近平との首脳会談でカメラがなかったことに不満を示す。カメラがなかった理由：前の週に自分がCNN等3社を取材禁止にしていたから。連邦判事が「戻せ」と命令して、取材陣が戻ってきた頃には会談はほぼ終わっていた。\n\n自分で窓に板を打ちつけておいて「暗い」と言う話なんですけど、G2サミットの規模でやっているのがちょっと桁が違う。",
+      "カリフォルニア州の保安官、「有権者詐欺を防ぐ」ために65万票超を押収。裁判所の判断：「この行為こそが選挙の完全性に対する重大なリスクを生み出している」。全票返還命令。\n\n守りにいった人が「お前が一番の脅威だ」と言われて帰ってくる、という話。65万票を持ってトラックで去って、65万票を持ってトラックで戻ってくる。捜査の成果がマイナスで終わる技術は、なかなかのものです。",
+      "ICEが移民拘留施設を増やすために数千万ドルを使った。GAOが調査した結果：目標は達成されていない。お金は消えた。詳細な無駄遣いリストが報告書に添付されている。\n\n「無駄な政府支出をなくす」と言って政権を取った人たちが、GAOに「無駄遣いのリスト」を提出されている。構造として出来すぎていて、もう笑うしかない。",
+      "マイクロソフトが広報部門を法務・渉外部門に移管する。担当するのはブラッド・スミス副会長——EU、米議会、FTCとの交渉を仕切っている人物が、今度は自社のプレスリリースも書く。\n\n「何を言うか」と「それを法的にどう守るか」を同じ人が決める体制。効率的ではある。ただ効率的かどうかは問題じゃなくて、「法廷で弁護できるよう事前確認済み」と「正確」が同じ意味かどうか、という話だと思う。"
     ],
     "asideEn": [
-      "Bears have better turnout. Just saying.",
-      "They filed that at midnight. Proud moment.",
-      "The consumer is not at this table.",
-      "He set the prices. Bold diagnosis.",
-      "Thirty-one days. They counted."
+      "185 for 185. Perfect.",
+      "The cameras declined to comment.",
+      "Protecting elections, one confiscated ballot at a time.",
+      "The beds are still pending.",
+      "One lawyer. All the words."
     ],
     "asideJa": [
-      "熊の方が民主主義してる。",
-      "深夜提出、正直すぎる。",
-      "消費者、この会議にいない。",
-      "値上げした本人が言ってます。",
-      "31日、ちゃんと数えたんだ。"
+      "185件全部、外した。",
+      "自分で追い出したのに。",
+      "守るつもりが、壊してた。",
+      "お金は消えた。",
+      "弁護士が全部しゃべる。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
       "News Commentary",
-      "Fat Bear Week",
-      "Disney"
+      "Department of Homeland Security",
+      "Microsoft"
     ],
-    "fullEn": "# Fat Bears and Empty Tables: America Charges More for Everything Except Democracy\n\n## Today's Forecast\n\nFive stories landed in my inbox this morning, and I had to sit with them for a minute.\n\nA bear election crashed the internet. The White House banned three newsrooms and called it a security issue. Meta and Amazon had a trillion-dollar argument about who gets to spend your money. McDonald's CEO explained that high prices will continue — he set the prices — and Disney raised its rates again, with a special 30-day grace period it's calling 'loyalty.'\n\nThe thread running through all of it: the institutions we built to serve us have quietly renegotiated the deal. Every one of them, except the bears.\n\nSo here's your forecast. If you've been told your effort isn't enough, your budget isn't enough, your access isn't enough — today's news confirms the problem isn't you. The system is literally announcing this out loud. That's almost helpful. Go into today knowing you spotted it.\n\n---\n\n## 1. Fat Bear Week 2026 Crashes Servers — Democracy Works After All\n\n*CBS News US — [source](https://www.cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai/)*\n\nFat Bear Week 2026 has returned to Katmai National Park and Preserve in Alaska, featuring 16 bears competing for the title of chubbiest bear. Voting surged so dramatically that it reportedly 'broke the internet,' crashing or straining the voting platform. The annual contest has become a significant cultural moment, drawing millions of participants each fall.\n\n**Why It's Funny**\n\nFat Bear Week crashed the voting servers. Sixteen candidates, all of them bears, all of them doing the exact same thing — eating as much as possible before winter — and the public showed up in numbers that would make any election commissioner cry. No debates. No attack ads. No one claimed the other bear was actually born in Canada. Just bears, being bears, and millions of humans who apparently needed exactly that. The voting site went down. For a bear. I've now accepted that this is the most functional democratic exercise in the country.\n\n**Say It Out Loud**\n\n> America couldn't build a working healthcare website but Fat Bear Week took down the servers in under an hour. The bears didn't even try.\n\n---\n\n## 2. White House Bans Press, Cites 'National Security' — Judge Not Convinced\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html)*\n\nThe Trump administration banned CNN, MS NOW, and Politico reporters from White House grounds, with the Department of Justice citing national security concerns in a late-night filing. A federal judge heard arguments from the outlets, who challenged the ban as an unconstitutional restriction on press freedom. Judge Timothy Kelly indicated skepticism toward the government's position and promised to rule soon.\n\n**Why It's Funny**\n\nThe White House banned three news organizations and cited national security. The Department of Justice filed the explanation at night — which, as a filing strategy, is either very confident or very aware. A federal judge heard the arguments and indicated he was not buying it. Here's the part that stays with me: the government's own filing described the action as a 'ban on the free press.' They wrote that. They submitted it. In a court. The judge raised an eyebrow and promised to rule soon, which in judge language means he's already ruled.\n\n**Say It Out Loud**\n\n> The government called it a 'ban on the free press.' Their words. Then they went to court and said it was fine. Legally speaking, that's a choice.\n\n---\n\n## 3. Meta's New AI Shopping Agent Hits Amazon — Amazon Says No Thanks\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html)*\n\nMeta unveiled Muse, an AI personal agent designed to handle tasks including online shopping, and it quickly generated significant consumer buzz. However, Amazon blocked the Muse app from appearing on its platform, refusing to host a product that could redirect purchases away from Amazon's own shopping ecosystem. The standoff highlights growing tension between AI agent developers and the retailers those agents are designed to shop on.\n\n**Why It's Funny**\n\nMeta built Muse, an AI personal agent designed to do your shopping. Amazon blocked it from their platform. So we now have the company that wants to buy things for you in a standoff with the company that wants to sell things to you, and neither of them consulted the person whose money is involved. Amazon's objection makes perfect sense once you understand that what they're really selling isn't products — it's the experience of deciding. Muse skips that part. Amazon is not going to let that go.\n\n**Say It Out Loud**\n\n> Meta made an AI to do your shopping. Amazon blocked it. We've now got two trillion-dollar companies arguing over who gets to max out your credit card.\n\n---\n\n## 4. McDonald's CEO: High Prices and Empty Tables Are the New Normal\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html)*\n\nMcDonald's CEO Chris Kempczinski stated that persistently high inflation and flat customer traffic are expected to continue weighing on the restaurant industry for the foreseeable future. His comments come as McDonald's and other fast-food chains have faced consumer pushback over rising menu prices. The chain has attempted various value promotions to lure back price-sensitive customers.\n\n**Why It's Funny**\n\nMcDonald's CEO said high prices and low customer traffic are the new normal for restaurants. He also runs McDonald's, where the prices are high and the traffic is low. The chain has been running value promotions to win back customers while simultaneously forecasting that affordability won't improve. I'm not a business strategist, but I've watched enough people lose at cards to recognize when someone is explaining why they keep losing while continuing to play the same hand.\n\n**Say It Out Loud**\n\n> McDonald's CEO says high prices and low traffic are here to stay. Bold admission from the guy who set the prices.\n\n---\n\n## 5. Disney+ and Hulu Prices Go Up Again, Effective Immediately If You're New, Next Month If You're Loyal\n\n*CBS News US — [source](https://www.cbsnews.com/news/disney-plus-hulu-price-increase/)*\n\nDisney announced price increases for both Disney+ and Hulu streaming services. New subscribers face the higher rates immediately, while existing subscribers will see their plans increase starting next month. The move is part of a broader industry trend of streaming services raising prices as they shift focus from subscriber growth to profitability.\n\n**Why It's Funny**\n\nDisney raised prices on Disney+ and Hulu. New customers pay the higher rate right now. Existing subscribers — people who've been paying every month, some of them for years — get one extra month before the new price kicks in. Disney is calling this a loyalty consideration. Thirty-one days. The math on that loyalty is very easy to do, and Disney did it, and they still went with thirty-one days.\n\n**Say It Out Loud**\n\n> Disney raised prices again. New members pay now. Existing members pay next month. They call the extra 30 days 'loyalty.' Sure.\n\n---\n\n## Today's Punchline\n\n> Bears crashed a server by being fat and honest. The rest of today's news couldn't manage either.\n",
-    "fullJa": "# 熊のデブ選手権はサイトを落とし、マックは客を失い、ディズニーは夢の請求書を値上げした\n\n## 今日を占うよ〜\n\nデブ熊の投票がサーバーをダウンさせた、という文章を読んで、しばらく画面を見つめていました。\n\nで、他を見ると。ホワイトハウスが記者3社を「安全保障上の懸念」で追い出し、メタとアマゾンが「お前の金をどっちが使わせるか」で喧嘩し、マックのCEOが「値上げは続きます」と言い、ディズニーが夢の月額を静かに引き上げた。\n\n今日の5本を貫く糸は、たぶん「サービスする側が、もうサービスのふりをやめた」ということです。みんな正直になってきた。マックは「安くなりません」と言い、ディズニーは「長年のご愛顧の猶予は31日」と計算し、アマゾンは「あなたより私の都合が先」と言った。権力のある側が理由を説明しなくなってきている。\n\n熊だけが例外で、あいつらは何も言わずに食べて、1位になった。\n\n今日の占いです。あなたが「なんか損してる気がする」と感じているとしたら、それはたぶん正しい。今日の5本がぜんぶそれを証明しています。気づいてる側にいる方が、今日は得だよ。たぶんね。\n\n---\n\n## 1. Fat Bear Week 2026 Crashes Servers — Democracy Works After All\n\n*CBS News US（[記事](https://www.cbsnews.com/news/fat-bear-week-2026-contenders-voting-katmai/)）*\n\nアラスカ州カトマイ国立公園の「デブ熊週間2026」が開幕し、16頭の熊への投票が殺到してサイトがダウン寸前になった。\n\n**どこが笑える？**\n\nデブ熊週間の投票サイトがダウンした、という事実をしばらく噛みしめていました。候補は16頭。全員が冬眠前にひたすら食べた熊で、争点は「どれだけ丸いか」だけ。公約なし、討論なし、スキャンダルなし。それなのに投票が殺到してサーバーが落ちた。本物の選挙で「投票率をどう上げるか」を研究している人たちは、たぶんアラスカに行って熊を観察した方がいいと思います。\n\n**このニュースをジョークにするなら...**\n\n> 医療保険サイトはまともに動かないのに、デブ熊選挙は1時間でサーバーを落とした。熊は何もしてないのに。\n\n---\n\n## 2. White House Bans Press, Cites 'National Security' — Judge Not Convinced\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/23/trump-media-ban-court-hearing.html)）*\n\nトランプ政権がCNN・MS NOW・ポリティコのホワイトハウス取材を禁止した件について、連邦裁判所が審理を行い、判事は近日中に判断を示す見通し。政府側は「安全保障上の懸念」を理由に挙げた。\n\n**どこが笑える？**\n\nホワイトハウスがCNN・ポリティコ・MS NOWの取材を禁止した理由が「安全保障上の懸念」で、その懸念が具体的に何なのかは深夜に提出された書類にも書かれていない。\n\nで、政府側の書類に「報道の自由への禁止措置」という言葉が自ら書かれていたんですよ。普通、「これは検閲ではない」と言いたいときに、自分で「禁止です」と書くか。連邦判事は懐疑的な様子で「近日中に判断する」と言った。「近日中」って言うとき、もう決まってる感じがする。\n\n**このニュースをジョークにするなら...**\n\n> 政府が自分で「報道の自由への禁止措置」って言ったんですよ。そしてそのまま法廷で「これは問題ない」と主張した。法的にはそういう作戦もあるんですね。\n\n---\n\n## 3. Meta's New AI Shopping Agent Hits Amazon — Amazon Says No Thanks\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/23/metas-standoff-with-amazon-over-muse-comes-ahead-of-meta-connect.html)）*\n\nメタが発表した新AI個人エージェント「Muse」が注目を集めているが、Amazonは同アプリを自社サイトで販売拒否し、両社の対立が鮮明になった。\n\n**どこが笑える？**\n\nメタが「あなたの代わりに買い物するAI」を発表して、アマゾンが即座にブロックした。\n\n「何でも売ります」のプラットフォームが、「何でも買ってあげるAI」を「売りません」と言っている。両者とも目標はあなたのお金のはずなのに、ここで喧嘩している。アマゾンの本音はたぶんこうです。「自分で選ばせないなら、うちに来る意味がない」。ユーザーの利便性より、ユーザーが選ぶ体験の方が大事。正直すぎてちょっと好き。\n\n**このニュースをジョークにするなら...**\n\n> メタが買い物をしてくれるAIを作った。Amazonがそれを追い出した。2兆ドル企業2社が、あなたのクレジットカードをどっちが使うかで喧嘩してます。\n\n---\n\n## 4. McDonald's CEO: High Prices and Empty Tables Are the New Normal\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/23/mcdonalds-investor-day-ceo-chris-kempczinksi-inflation.html)）*\n\nマクドナルドのCEOが、高インフレと客足の伸び悩みがレストラン業界に当面続くとの見通しを示した。\n\n**どこが笑える？**\n\nマクドナルドのCEOが「高インフレと客足の鈍化はしばらく続く」と言いました。それを言ったのが、値上げの決定を下した本人です。\n\n値上げしたら客が来なくなった、と分析している人が、「値上げは続く」と締めた。問題と解決策が同じ口から同時に出てくるの、なかなか見ない光景です。バーゲンセールで赤字を補填しようとしながら「赤字は続きます」と言っている。いや、そこはもう少し考えてほしい。\n\n**このニュースをジョークにするなら...**\n\n> マクドナルドのCEOが「高い価格と客足の減少は当面続く」と発言した。価格を決めた本人が言ってます。\n\n---\n\n## 5. Disney+ and Hulu Prices Go Up Again, Effective Immediately If You're New, Next Month If You're Loyal\n\n*CBS News US（[記事](https://www.cbsnews.com/news/disney-plus-hulu-price-increase/)）*\n\nディズニーがDisney+とHuluの料金を値上げすると発表。新規加入者はただちに、既存加入者は来月から新価格が適用される。\n\n**どこが笑える？**\n\nディズニーがDisney+とHuluを値上げしました。新規加入者はただちに。既存加入者は来月から。\n\nその「来月から」を、ディズニーは「ロイヤルティへの配慮」と表現しています。31日。長年毎月お金を払ってきたファンへのご褒美が、31日の猶予。夢を売る会社が、夢の有効期限を日数で計算してきた。ケーブルテレビが高いからサブスクに乗り換えた人が、今ごろ複数のサブスクでケーブルより高い請求書を受け取っているの、逃げ場がなさすぎてもはや清々しい。\n\n**このニュースをジョークにするなら...**\n\n> ディズニーがまた値上げ。新規は今日から、既存は来月から。その30日間の差を「ロイヤルティ」と呼んでいます。そうですね。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> デブ熊は何も言わずに食べて1位になった。他の全員は、たくさん言って客を失った。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "文体パス: 2箇所修正。introJaの「気づいてる側にいる、というのは、今日は割とアドバンテージだと思うよ」という締めがきれいにまとまりすぎていたので崩した。riffJa[1]の「たいてい気持ちはもう決まっています」もプレゼン口調だったので本音がこぼれた形に切り落とした。"
+    "fullEn": "# 185 Citizens, 650,000 Ballots, and One Very Confused Sheriff\n\n## Today's Forecast\n\nFive stories today. One pattern.\n\nA federal agency checked 185 voters for fraud. All 185 were citizens. A sheriff seized 650,000 ballots to protect an election, and a court ruled he was the threat to the election. A president banned cameras, then complained there were no cameras. ICE spent tens of millions to build detention beds that still don't exist. And Microsoft moved its communications team into Legal Affairs — because why keep \"what we say\" and \"what we can say in court\" in separate rooms?\n\nToday's forecast: if you've ever been told your work isn't good enough by someone who's clearly doing a worse job, the news has your back. The people in charge of checking things today could not check a thing correctly. You're probably fine.\n\n---\n\n## 1. DHS Flagged 185 Nevada Voters as Non-Citizens — Every Single One Was Actually a Citizen\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error)*\n\nThe Department of Homeland Security sent Nevada election officials a list of 185 voters it identified as non-citizens on the state's voter rolls. After review, state officials confirmed that every single person on the list was, in fact, a U.S. citizen. The incident has amplified concerns about the reliability of federal data being used to challenge voter eligibility.\n\n**Why It's Funny**\n\nThe Department of Homeland Security sent Nevada a list of 185 voters it had flagged as non-citizens. Nevada checked. All 185 were citizens. Not most of them. Not the majority. Every single one. A perfect score, technically — just in the wrong direction. If this were baseball, it's not that they struck out. It's that they struck out 185 consecutive times, went home, and filed the strikeouts as evidence of pitching fraud.\n\n**Say It Out Loud**\n\n> The DHS sent Nevada a list of 185 non-citizen voters. Nevada checked. They're all citizens. So the list is basically just... a list of 185 Americans.\n\n---\n\n## 2. Trump Complains About No TV Coverage at Event He Made Impossible to Cover\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates)*\n\nPresident Trump expressed frustration that TV outlets did not provide a video feed of his meeting with Chinese President Xi Jinping at the White House. Media organizations declined to send cameras after Trump's aides had not yet restored press access for three outlets — CNN, MS Now, and Politico — that Trump himself had banned the previous week. A federal judge subsequently ordered the outlets' access restored.\n\n**Why It's Funny**\n\nTrump held a summit with Xi Jinping and then complained that TV cameras weren't there to cover it. The reason there were no cameras: his team had banned three major outlets the previous week. A federal judge had to order the press reinstated. By that point, the meeting was essentially over. So the sequence is: ban cameras, hold summit, complain about no cameras, get court-ordered to allow cameras, cameras arrive to film an empty room. Democracy, still buffering.\n\n**Say It Out Loud**\n\n> He banned the cameras, then complained there were no cameras. The cameras were not available for comment.\n\n---\n\n## 3. California Sheriff Who Seized 650,000 Ballots to Fight Fraud Ordered to Return Every Single One\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/24/california-sheriff-ballots-chad-bianco)*\n\nRiverside County Sheriff Chad Bianco confiscated more than 650,000 ballots earlier this year as part of a self-initiated voter fraud investigation, a move legal experts called unprecedented. A California state court ruled the seizure was unlawful and that Bianco's conduct 'creates substantial risk to election integrity.' The court ordered all ballots returned.\n\n**Why It's Funny**\n\nRiverside County Sheriff Chad Bianco seized 650,000 ballots to investigate voter fraud. The California court reviewed what he'd done and concluded that his conduct 'creates substantial risk to election integrity.' He went in to protect the election. He became, per the court, the risk to the election. Every single ballot gets returned. The investigation's total output is a very large truck, a very long drive, and a court order that is essentially a receipt for a returned purchase.\n\n**Say It Out Loud**\n\n> He took 650,000 ballots to protect the election. The court said he was the threat to the election. Sir, this is a Wendy's.\n\n---\n\n## 4. ICE Wasted Tens of Millions Trying to Expand Detention — And Still Doesn't Have the Beds\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/24/ice-detention-cost-millions)*\n\nA Government Accountability Office report documents that ICE and other federal agencies wasted tens of millions of dollars while pursuing the Trump administration's plans to rapidly expand immigration detention capacity. Despite the massive spending, the expansion goals have not been met, with GAO documenting an array of costly mismanagement problems. The report comes as ICE continues to pursue controversial large-scale detention operations.\n\n**Why It's Funny**\n\nICE spent tens of millions of dollars to expand immigration detention capacity. The GAO documented the results: the expansion goals were not met, and there's a detailed list of how the money was mismanaged. The administration that campaigned on government efficiency got a government accountability report about its own inefficiency. The beds are still pending. The money is not.\n\n**Say It Out Loud**\n\n> Tens of millions spent to expand detention. Detention not expanded. The money is gone. Where did it go? GAO has a list, but it's not a fun list.\n\n---\n\n## 5. Microsoft Puts Its Chief Lawyer in Charge of Communications, Because Who Better to Spin the News?\n\n*The Verge — [source](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)*\n\nMicrosoft announced it is moving its communications group out of its marketing division and into its Corporate, External, and Legal Affairs organization, known as CELA. The change puts Brad Smith, Microsoft's vice chair and president who oversees legal and regulatory affairs, in charge of the company's communications function. The company is also searching for a replacement for Frank Shaw, the outgoing chief communications officer.\n\n**Why It's Funny**\n\nMicrosoft is moving communications out of marketing and into its legal division, under Brad Smith — the executive who already negotiates with the EU, Congress, and the FTC. He now also approves the press releases. The logic is coherent: the person who decides what the company can say legally is now also the person who decides what the company says. Very tight operation. The question isn't whether it's efficient. It is. The question is whether 'pre-cleared by the guy who'd defend it in court' is the same thing as 'true.'\n\n**Say It Out Loud**\n\n> Microsoft put its chief lawyer in charge of communications. For clarity: the person who decides what the company can say legally now also decides what the company says.\n\n---\n\n## Today's Punchline\n\n> Today's theme: the people who were supposed to check the work had not checked the work.\n",
+    "fullJa": "# 「選挙を守る」と言った人たちが、選挙を一番壊していた話\n\n## 今日を占うよ〜\n\n185人全員が誤りだったリストを「不正摘発リスト」と呼ぶ国の話を、今朝も読みました。\n\nで、他を見ると——\n65万票を「守るため」に没収した保安官が裁判所に「お前が脅威だ」と言われて全部返して、自分でカメラを追い出した大統領がカメラがないと怒って、数千万ドル使って拘留施設が増えていなくて、マイクロソフトは法務部長に広報もやらせることにした。\n\n今日を貫く糸は「守る側が一番壊している」、それだけです。\n\n最近「自分のやり方って合ってるのかな」と思うことがあるなら、今日のニュースを読むと少し楽になるかもしれない。185対0で全滅してる人たちがいる日に、あなたがいつも通りでいられてるなら、もう十分だよ。\n\n---\n\n## 1. DHS Flagged 185 Nevada Voters as Non-Citizens — Every Single One Was Actually a Citizen\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error)）*\n\n国土安全保障省（DHS）がネバダ州の有権者名簿から「非市民」として抽出した185件のデータを州選挙当局が確認したところ、全員が米国市民であったことが明らかになった。\n\n**どこが笑える？**\n\n国土安全保障省が「非市民」リストをネバダ州に送った。185件のリストを州が一件ずつ確認した。185件全員がアメリカ市民だった。\n\n1件や2件の間違いじゃない。精度がゼロだった。ふるいにかけて、金を全部捨てて、砂だけ残った。MLBなら翌日に戦力外通知が出る数字なんですけど、これは「不正を防ぐシステム」の話です。\n\n**このニュースをジョークにするなら...**\n\n> DHSがネバダ州に送ってきた「非市民リスト」を確認したら、185人全員が市民だった。つまりそれ、ただの市民リストじゃないですか。\n\n---\n\n## 2. Trump Complains About No TV Coverage at Event He Made Impossible to Cover\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates)）*\n\nトランプ大統領がホワイトハウスでの習近平との会談で報道機関のカメラ入りがなかったことに不満を示したが、その原因は同大統領が先週CNN・MSNow・Politicoを取材禁止にしていたためだと報じられた。\n\n**どこが笑える？**\n\nトランプ大統領、習近平との首脳会談でカメラがなかったことに不満を示す。カメラがなかった理由：前の週に自分がCNN等3社を取材禁止にしていたから。連邦判事が「戻せ」と命令して、取材陣が戻ってきた頃には会談はほぼ終わっていた。\n\n自分で窓に板を打ちつけておいて「暗い」と言う話なんですけど、G2サミットの規模でやっているのがちょっと桁が違う。\n\n**このニュースをジョークにするなら...**\n\n> カメラを追い出したのは自分で、カメラがいないと怒ったのも自分。カメラにはコメントを求められなかった。\n\n---\n\n## 3. California Sheriff Who Seized 650,000 Ballots to Fight Fraud Ordered to Return Every Single One\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/24/california-sheriff-ballots-chad-bianco)）*\n\nカリフォルニア州の共和党系保安官が「有権者詐欺」の調査を名目に65万票以上の郵便投票を押収した行為について、裁判所が違法と判断し、全票の返還を命じた。\n\n**どこが笑える？**\n\nカリフォルニア州の保安官、「有権者詐欺を防ぐ」ために65万票超を押収。裁判所の判断：「この行為こそが選挙の完全性に対する重大なリスクを生み出している」。全票返還命令。\n\n守りにいった人が「お前が一番の脅威だ」と言われて帰ってくる、という話。65万票を持ってトラックで去って、65万票を持ってトラックで戻ってくる。捜査の成果がマイナスで終わる技術は、なかなかのものです。\n\n**このニュースをジョークにするなら...**\n\n> 選挙を守るために65万票を押収したら、「お前が選挙を脅かしている」と裁判所に言われた。すみません、ここウェンディーズですか。\n\n---\n\n## 4. ICE Wasted Tens of Millions Trying to Expand Detention — And Still Doesn't Have the Beds\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/24/ice-detention-cost-millions)）*\n\n会計検査院（GAO）の調査により、ICEとその他連邦機関が移民大量拘留計画の一環として数千万ドルを無駄にしながら、拘留施設の拡張目標を達成できていないことが明らかになった。\n\n**どこが笑える？**\n\nICEが移民拘留施設を増やすために数千万ドルを使った。GAOが調査した結果：目標は達成されていない。お金は消えた。詳細な無駄遣いリストが報告書に添付されている。\n\n「無駄な政府支出をなくす」と言って政権を取った人たちが、GAOに「無駄遣いのリスト」を提出されている。構造として出来すぎていて、もう笑うしかない。\n\n**このニュースをジョークにするなら...**\n\n> 数千万ドル使って拘留施設を増やそうとした。増えなかった。お金はなくなった。どこへ？GAOにリストがある。楽しいリストではない。\n\n---\n\n## 5. Microsoft Puts Its Chief Lawyer in Charge of Communications, Because Who Better to Spin the News?\n\n*The Verge（[記事](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)）*\n\nマイクロソフトがコミュニケーション部門をマーケティングから切り離し、法務・渉外を担当するCELA部門に移管すると発表した。法務・渉外担当の副会長ブラッド・スミス氏がコミュニケーションも統括することになる。\n\n**どこが笑える？**\n\nマイクロソフトが広報部門を法務・渉外部門に移管する。担当するのはブラッド・スミス副会長——EU、米議会、FTCとの交渉を仕切っている人物が、今度は自社のプレスリリースも書く。\n\n「何を言うか」と「それを法的にどう守るか」を同じ人が決める体制。効率的ではある。ただ効率的かどうかは問題じゃなくて、「法廷で弁護できるよう事前確認済み」と「正確」が同じ意味かどうか、という話だと思う。\n\n**このニュースをジョークにするなら...**\n\n> マイクロソフトが法務トップに広報も担当させることにした。整理すると：「会社が何を言えるか」を決める人が、「会社が何を言うか」も決めることになった。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「守る」と言った人が一番壊してた、という話が今日だけで3本ある。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3のcaption1「Sir, this is a Wendy's」は汎用ミームで構築されたジョークではない。d4のcaption5・riffEn5・riffJa5は観察で終わっている。xJaは5本しかなく8本必要——元データを確認すると5本のみのため審査対象は5本とみなし指摘にとどめる（新事実は足せないため増補不可）。introJaの「ということで、今日の占いです。」という段落区切りが唐突で導入の3要素（掴み→予告→占い）の境界が不明瞭。d2 captionsJa3「民主主義：読み込み中」は汎用AIジョーク型（ステータス表示ネタ）。d3 captions1英語「Sir, this is a Wendy's」は聞き飽きたミーム型——書き直し。d4 captions5・riffEn5は観察で終わっているため裏切りを追加。その他は合格水準。 ／ 文体パス: 2箇所修正。introJaの締め「守るはずの人たちが〜上出来だと思うよ」がプレゼン口調で整いすぎ。leadJaの「2本目には〜話がある」が説明口調。"
   },
   "carousel": [
-    "images/2026-09-24/carousel/slide-1.jpg",
-    "images/2026-09-24/carousel/slide-2.jpg",
-    "images/2026-09-24/carousel/slide-3.jpg",
-    "images/2026-09-24/carousel/slide-4.jpg",
-    "images/2026-09-24/carousel/slide-5.jpg",
-    "images/2026-09-24/carousel/slide-6.jpg",
-    "images/2026-09-24/carousel/slide-7.jpg"
+    "images/2026-09-25/carousel/slide-1.jpg",
+    "images/2026-09-25/carousel/slide-2.jpg",
+    "images/2026-09-25/carousel/slide-3.jpg",
+    "images/2026-09-25/carousel/slide-4.jpg",
+    "images/2026-09-25/carousel/slide-5.jpg",
+    "images/2026-09-25/carousel/slide-6.jpg",
+    "images/2026-09-25/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-24/note-header.jpg",
-    "substack": "images/2026-09-24/substack-cover.jpg"
+    "note": "images/2026-09-25/note-header.jpg",
+    "substack": "images/2026-09-25/substack-cover.jpg"
   }
 };
