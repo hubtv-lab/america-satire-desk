@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-25",
-  "generatedAt": "2026-09-24T22:26:12+00:00",
+  "date": "2026-09-26",
+  "generatedAt": "2026-09-25T22:22:52+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "DHS Flagged 185 Nevada Voters as Non-Citizens — Every Single One Was Actually a Citizen",
+        "headline": "DHS Flags 185 Nevada Voters as Non-Citizens — All 185 Are Citizens",
         "source": "The Guardian US",
-        "date": "2026-09-25",
+        "date": "2026-09-26",
         "url": "https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error",
-        "summary": "国土安全保障省（DHS）がネバダ州の有権者名簿から「非市民」として抽出した185件のデータを州選挙当局が確認したところ、全員が米国市民であったことが明らかになった。"
+        "summary": "国土安全保障省（DHS）がネバダ州の選挙人名簿に掲載された185人を非市民として誤って特定した。州当局が確認したところ、185人全員が米国市民であることが判明した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「不正投票を防ぐ」ためのシステムが、合法的な市民を全員はじいてしまった。精度ゼロのふるいで、砂だけ残して金を全部捨てた感じなんですよ。",
-        "<b>滑稽さ:</b> 185件中185件が誤り——打率にすると.000ですよ。MLBなら翌日クビ。",
-        "<b>日本・海外から見ると:</b> 選挙の「信頼性を守る」と言いながら、その守護者が一番信頼できないというのは、鍵師が全部の錠前を壊して回る話と区別がつかないんですよね。"
+        "<b>矛盾:</b> 「不正な有権者を排除する」と称してDHSが送ってきたリストが、正真正銘100パーセントハズレ。精度ゼロ。",
+        "<b>滑稽さ:</b> 185人中185人が市民だったんですよ。サンプルの一人くらい当たると思うじゃないですか。統計的にも奇跡に近い外しっぷり。",
+        "<b>日本・海外から見ると:</b> 「選挙の信頼性を守る」と言いながら、守ろうとした機関そのものが信頼性を崩してる。外から見るとどっちが選挙を脅かしてるのか分からなくなってくる。"
       ],
       "imagePrompts": [
-        "A large official government document labeled 'NON-CITIZEN VOTER LIST' with 185 names, each one crossed out with a red stamp reading 'ACTUALLY A CITIZEN.' A DHS seal is visible at the top.",
-        "A dartboard mounted on a wall in a government office. Every single dart has missed the board entirely and is stuck in the wall far from the target. A banner above reads 'ELECTION INTEGRITY UNIT.'",
-        "A fisherman holding an enormous, expensive fishing net over a river. The net is full of holes, and a sign next to him reads 'CAUGHT: 0 FISH. DESTROYED: RIVER.' Official government logos on his vest."
+        "A large official government binder labeled 'NON-CITIZENS' on the cover, with all 185 entries crossed out in red pen and replaced with the word 'CITIZEN' — a federal seal visible in the corner",
+        "A DHS official at a podium presenting a pie chart that shows '100% Error Rate' in bold, with a second smaller chart labeled 'Confidence Level' also showing 100%",
+        "A stack of 185 identical official letters, each stamped 'FLAGGED AS NON-CITIZEN', next to a rubber stamp that reads 'Actually a Citizen' being pressed repeatedly by a state election worker"
       ],
       "captions": [
-        "The DHS sent Nevada a list of 185 non-citizen voters. Nevada checked. They're all citizens. So the list is basically just... a list of 185 Americans.",
-        "185 for 185. Perfect score — wrong direction.",
-        "In their defense, they didn't say the list would be *accurate.* They just said it would be a list.",
-        "You ever work really hard on something, turn it in, and get a zero? Imagine if your job was protecting democracy.",
-        "Nevada officials reviewed every name. Every. Single. One. Was a U.S. citizen. At some point this stops being an error and starts being a genre."
+        "DHS sent Nevada a list of 185 non-citizens on the voter rolls. Nevada checked. They're all citizens. The list does have great font, though.",
+        "185 for 185. A perfect score — just not in the direction they were going for.",
+        "In their defense, it's a really hard test. You have to look up whether someone is American... in America.",
+        "So the agency protecting election integrity sent a list that was wrong every single time. Sure. Fine. Everything's fine.",
+        "Nevada election officials reviewed all 185 names. At some point, did nobody stop and think, 'wait, what if we're just bad at this'?"
       ],
       "captionsJa": [
-        "DHSがネバダ州に送ってきた「非市民リスト」を確認したら、185人全員が市民だった。つまりそれ、ただの市民リストじゃないですか。",
-        "185件中185件ミス。満点——逆方向に。",
-        "弁明するなら、「正確なリストを送る」とは一言も言っていない。「リストを送る」とは言った。",
-        "一生懸命作って提出してゼロ点、という経験、ありますよね。それが民主主義を守る仕事だったら？",
-        "州の担当者が一件ずつ確認した。一件、ずつ。全員、市民。これはもうミスじゃなくてジャンルだと思う。"
+        "DHSがネバダに「非市民」リストを185人分送ってきた。州が確認したら全員市民だった。フォントはきれいだったらしい。",
+        "185人中185人ハズレ。パーフェクトゲームって、こういう意味じゃないですよね。",
+        "一応弁護しておくと、難しいテストなんです。アメリカ国内で、その人がアメリカ人かどうか調べるという。",
+        "選挙の信頼性を守る機関が、全件間違えたリストを送ってきた。そう。大丈夫。全部大丈夫。",
+        "185件目を確認してる途中で、誰か一度くらい『ちょっと待って、俺らただただ下手くそなだけじゃ？』って思わなかったのかな。"
       ],
-      "newsEn": "The Department of Homeland Security sent Nevada election officials a list of 185 voters it identified as non-citizens on the state's voter rolls. After review, state officials confirmed that every single person on the list was, in fact, a U.S. citizen. The incident has amplified concerns about the reliability of federal data being used to challenge voter eligibility.",
+      "newsEn": "The Department of Homeland Security sent Nevada election officials a list of 185 registered voters it flagged as potential non-citizens. State officials reviewed all 185 records and confirmed every single one of them is a U.S. citizen. The error has raised concerns about the reliability of federal data being used to scrub voter rolls.",
       "ironyEn": [
         {
-          "contradiction": "A federal agency tasked with protecting election integrity submitted a list of 185 supposed non-citizen voters. The list was 100% wrong.",
-          "absurdity": "A batting average of .000 gets you cut from Little League. At DHS, it apparently triggers a press release.",
-          "outside": "From the outside, the system designed to catch fraudulent voters is the one producing fraudulent data."
+          "contradiction": "A federal agency tasked with protecting the integrity of U.S. elections sent a list of fraudulent voters — and got every single one wrong.",
+          "absurdity": "A 0% accuracy rate on 185 flagged voters. If you tried to be that wrong, you'd probably accidentally get one right.",
+          "outside": "From the outside, it's genuinely hard to tell which entity poses a greater threat to election security: the alleged fraudsters, or the agency hunting them."
         },
         {
-          "contradiction": "The whole point was to find people who shouldn't be voting. They found 185 people who absolutely should be.",
-          "absurdity": "Imagine a smoke detector that only goes off when there's no fire. That's the DHS voter-fraud database.",
-          "outside": "Other democracies spend years building reliable voter verification systems. The U.S. apparently outsourced it to a coin flip — and the coin is broken."
+          "contradiction": "The system designed to catch non-citizens voting couldn't identify an actual citizen correctly 185 times in a row.",
+          "absurdity": "Statistically, pure random guessing would have done better. DHS managed to limbo under that bar.",
+          "outside": "Countries that lecture others about democratic norms might want to fix the part where the feds can't tell their own citizens from foreigners."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-25/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-25/candidate-1-punchy.jpg"
+      "image": "images/2026-09-26/candidate-1.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-09-26/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Trump Complains About No TV Coverage at Event He Made Impossible to Cover",
-        "source": "The Guardian US",
-        "date": "2026-09-25",
-        "url": "https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates",
-        "summary": "トランプ大統領がホワイトハウスでの習近平との会談で報道機関のカメラ入りがなかったことに不満を示したが、その原因は同大統領が先週CNN・MSNow・Politicoを取材禁止にしていたためだと報じられた。"
+        "headline": "Facebook Found Liable for Deceiving Users in Cambridge Analytica Case",
+        "source": "CBS News US",
+        "date": "2026-09-26",
+        "url": "https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/",
+        "summary": "ニューメキシコ州の裁判所は、Facebookがケンブリッジ・アナリティカによるデータ流出についてユーザーを欺いたとして、Metaに責任があると判断した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「なんでカメラがないんだ」と怒っている張本人が、カメラを追い出した人なんですよ。これ、自分で窓に板を打ちつけておいて「暗い」って文句を言う話じゃないですか。",
-        "<b>滑稽さ:</b> 判事が「カメラを戻せ」と命令するまでの間、世界最大の経済同士の首脳会談が「映像なし」で進んでたわけで——これ、G2サミットをラジオドラマで流した感じですよ。",
-        "<b>日本・海外から見ると:</b> 「報道の自由を守れ」と世界に説教するアメリカで、大統領が自分でメディアを禁止して、自分の会見が報道されないことに怒っている。外から見てると、マジで何周目かわかんない。"
+        "<b>矛盾:</b> 「つながりを大切に」がコンセプトのSNSが、ユーザーのデータを勝手につないで、しかもそれを隠してたと裁判所に認定されたんですよ。",
+        "<b>滑稽さ:</b> ケンブリッジ・アナリティカのスキャンダルが最初に報じられたのは2018年。8年越しで「やっぱり嘘ついてました」の判決。Metaのタイムラインで言うと何世代前のスキャンダルですか。",
+        "<b>日本・海外から見ると:</b> 8年かけて「欺いた」と認定される会社が、その間もずっと世界最大のSNSであり続けてたという事実の方が風刺として強い気がしてくる。"
       ],
       "imagePrompts": [
-        "A grand White House briefing room, completely empty of cameras and journalists. A podium stands at the front with a sign reading 'HISTORIC SUMMIT IN PROGRESS.' A single 'NO PRESS' sign is taped to the door. A figure at the podium gestures to the empty room, looking confused.",
-        "A sequence of three sticky notes on a wall: first reads 'BAN CNN, MSNOW, POLITICO.' Second reads 'INVITE XI JINPING.' Third reads 'WHERE ARE THE CAMERAS???' with heavy underlines.",
-        "A federal courthouse exterior with a news ticker below reading 'JUDGE ORDERS CAMERAS BACK IN.' Through the courthouse window, a clock shows the summit is already halfway over."
+        "A giant thumbs-up 'Like' button icon with a gavel smashing down on it in a courtroom setting, legal papers scattered underneath, a Meta logo visible on the wall",
+        "A timeline on a courtroom display board starting at '2018: Scandal Breaks' and ending at '2026: Liable' with a long empty space in between labeled 'Eight Years of Normal Business Operations'",
+        "A corporate boardroom with a large screen showing 'DECEIVED USERS: LIABLE' in bold court font, while executives stare at laptops labeled with the Meta logo"
       ],
       "captions": [
-        "He banned the cameras, then complained there were no cameras. The cameras were not available for comment.",
-        "A federal judge had to order the press back in. For context, the press was covering the president of the United States meeting the president of China — not a surprise birthday party.",
-        "CNN was banned. Then a judge unbanned them. Then the summit was basically over. Democracy: still loading.",
-        "It's wild that 'the president needs a court order to let journalists watch him do his job' is the *normal* part of this story.",
-        "Sir, you can't complain about no TV coverage. You're the one who canceled TV. You're doing a bit. Are you doing a bit?"
+        "Facebook was found liable for deceiving users about Cambridge Analytica. The verdict came in 2026, which means it only took eight years to legally confirm what your group chat figured out in a weekend.",
+        "Meta's defense strategy: change the name, wait eight years, hope everyone forgets. Two out of three isn't bad.",
+        "They rebranded to Meta specifically to move on from this. The court said: not yet.",
+        "The case wrapped after two weeks of trial. The scandal itself has now been running for eight years. Still more episodes than most Netflix shows.",
+        "Liable for deception — a ruling that surprises absolutely nobody except, apparently, the people who needed a court to tell them."
       ],
       "captionsJa": [
-        "カメラを追い出したのは自分で、カメラがいないと怒ったのも自分。カメラにはコメントを求められなかった。",
-        "判事が「記者を戻せ」と命令しなきゃいけなかった。相手は誕生日サプライズじゃなくて、米中首脳会談ですよ。",
-        "CNNが禁止されて、判事が解除して、その頃には会談がほぼ終わってた。民主主義：読み込み中。",
-        "「大統領が自分の仕事を取材させるために裁判所命令が必要」というのが、この話の一番「普通」な部分というのが怖い。",
-        "いや、カメラがないって文句言える立場じゃないですよ。カメラを消したの、あなたですよ。コントですか。コントなんですか。"
+        "Facebookがケンブリッジ・アナリティカ問題でユーザーを欺いたと認定された。判決は2026年。週末にグループLINEで結論が出てたやつ、8年かけて法廷で確認されました。",
+        "Metaの戦略：名前を変えて、8年待って、みんなが忘れるのを期待する。三つ中二つは成功した。",
+        "この件から逃げるためにMetaに改名したのに、裁判所は「まだ早い」と言った。",
+        "裁判は2週間。スキャンダル自体は8年間続いてる。Netflixのシリーズよりエピソード数が多い。",
+        "「欺いた」と認定。驚いた人は誰もいない。裁判所に言われるまで気づかなかった人たち以外は。"
       ],
-      "newsEn": "President Trump expressed frustration that TV outlets did not provide a video feed of his meeting with Chinese President Xi Jinping at the White House. Media organizations declined to send cameras after Trump's aides had not yet restored press access for three outlets — CNN, MS Now, and Politico — that Trump himself had banned the previous week. A federal judge subsequently ordered the outlets' access restored.",
+      "newsEn": "A New Mexico court found Meta liable for deceiving users about the Cambridge Analytica data breach following a two-week trial. The case centered on accusations that Facebook misled users about how their personal data was accessed and shared. The verdict adds to the long legal and reputational fallout from the scandal that first broke publicly in 2018.",
       "ironyEn": [
         {
-          "contradiction": "Trump wanted TV cameras at his summit. Trump banned the TV cameras. Trump is upset there were no TV cameras.",
-          "absurdity": "A sitting president complained about a press blackout that he personally created, apparently within the same news cycle.",
-          "outside": "The U.S. lectures the world on press freedom. Its president needed a federal judge to remind him that reporters are allowed in the building."
+          "contradiction": "A platform whose entire business model is 'connecting people' was found liable for hiding exactly how it was connecting their data to political operatives.",
+          "absurdity": "The Cambridge Analytica story broke in 2018. It's now 2026. The verdict arrived eight years later, which in Facebook years is roughly four rebrandings ago.",
+          "outside": "The company that changed its name to escape a scandal is now being held legally accountable for the scandal it tried to rename itself away from."
         },
         {
-          "contradiction": "He wanted the historic meeting covered. He made it impossible to cover. He then went on to describe what a great meeting it was — to no cameras.",
-          "absurdity": "Even the judge's order restoring access came *after* Xi had already arrived, which means the timeline ran: ban press, invite world leader, complain about no press, get court-ordered.",
-          "outside": "In most countries, the leader controls access to state events. In this one, the leader controls access, forgets he controls access, and then litigates access — in the same afternoon."
+          "contradiction": "Facebook told users their data was safe. The court just confirmed what everyone suspected: it wasn't, and Facebook knew.",
+          "absurdity": "Eight years is a long time to wait for a court to say 'yeah, you were right to be mad about that.' Most Facebook users have forgotten three passwords and two exes since then.",
+          "outside": "Europe handed out fines for this years ago. America got a two-week trial and a verdict in 2026. Better late than never is a phrase, technically."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-25/candidate-2.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-25/candidate-2-punchy.jpg"
+      "image": "images/2026-09-26/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-26/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "California Sheriff Who Seized 650,000 Ballots to Fight Fraud Ordered to Return Every Single One",
-        "source": "The Guardian US",
-        "date": "2026-09-25",
-        "url": "https://www.theguardian.com/us-news/2026/sep/24/california-sheriff-ballots-chad-bianco",
-        "summary": "カリフォルニア州の共和党系保安官が「有権者詐欺」の調査を名目に65万票以上の郵便投票を押収した行為について、裁判所が違法と判断し、全票の返還を命じた。"
+        "headline": "GLP-1 Weight-Loss Drugs Are Reshaping Fast-Food Menus — McDonald's Is Adapting",
+        "source": "CBS News US",
+        "date": "2026-09-26",
+        "url": "https://www.cbsnews.com/news/fast-food-menus-glp-1-users/",
+        "summary": "チポトレ、マクドナルド、シェイクシャックなど大手ファストフードチェーンが、GLP-1系肥満治療薬の普及に伴い消費者の食欲が変化していることを受け、メニューを刷新している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 選挙の「完全性を守る」と言って65万票を押収したら、裁判所に「お前こそが選挙の完全性を脅かしている」と言われた。これ、消防士が「安全のため」と言って火をつけ始めた話ですよ。",
-        "<b>滑稽さ:</b> 65万票以上を押収して、全部返せと言われる——詐欺捜査の「成果」がゼロどころかマイナスで終わるというのは、かなりの技なんですよね。",
-        "<b>日本・海外から見ると:</b> 郡の保安官が独断で州の投票用紙を65万枚持っていく、という事態が起きる国というのは、制度設計の余白がちょっと広すぎるんじゃないですかね。"
+        "<b>矛盾:</b> 何十年も「もっと大きく、もっと多く」で成長してきた業界が、「食欲をなくす薬」に合わせてメニューを小さくし始めてる。ビジネスモデルの根っこを自分で掘り崩してる。",
+        "<b>滑稽さ:</b> マクドナルドが「ヘルシー志向のお客様に」って言い出してますけど、その志向を作ったのが注射器だったというのが面白いじゃないですか。",
+        "<b>日本・海外から見ると:</b> 日本は昔から小盛りがあって、欧米から「なんであんなに少ないの」って言われてきたんですよ。今その欧米が薬を使って日本に追いついてる。"
       ],
       "imagePrompts": [
-        "An enormous evidence room in a sheriff's department, floor-to-ceiling shelves stacked with hundreds of thousands of sealed ballot envelopes. A sheriff's badge hangs on the wall. A court order document is taped to the door reading 'RETURN EVERYTHING.'",
-        "A sheriff standing in front of a flatbed truck loaded with ballot boxes, arms crossed proudly, while behind him a judge's gavel descends from above with a paper reading 'UNLAWFUL' attached.",
-        "A large scoreboard in a government hallway: 'VOTER FRAUD FOUND: 0. BALLOTS CONFISCATED: 650,000. COURT ORDERS ISSUED AGAINST SHERIFF: 1.'"
+        "A massive supersized fast food meal on the left of a scale, and a tiny portion on the right labeled 'GLP-1 Edition', with the scale tipping sharply toward the tiny side — a golden arches logo visible in the background",
+        "A McDonald's menu board with all the large options crossed out and replaced with words like 'Micro Burger', 'Quarter Quarter Pounder', and 'Small Mac', a pharmacist's prescription pad pinned to the corner",
+        "A fast food restaurant executive in a suit staring at a chart showing plummeting burger sales, with a giant syringe labeled 'Ozempic' casting a shadow over the graph"
       ],
       "captions": [
-        "He took 650,000 ballots to protect the election. The court said he was the threat to the election. Sir, this is a Wendy's.",
-        "Largest voter fraud case in California history — except the fraud was the seizure. Twist ending, honestly.",
-        "650,000 ballots, zero fraud found, one sheriff who needs to pack a very large truck and go back the way he came.",
-        "The court's ruling basically said: the thing you did to protect democracy was the undemocratic thing. Return the democracy.",
-        "Somewhere a civics teacher is showing this story to their class and going, 'Okay so what did we learn?' and the students are just... silent."
+        "McDonald's is creating smaller portions for customers on appetite-suppressing drugs. Decades of supersizing, undone by a weekly injection. The Hamburglar finally won.",
+        "The fast food industry spent fifty years engineering food to make you eat more than you wanted. Ozempic took about eighteen months to break that streak.",
+        "Chipotle's new GLP-1 menu: same burrito, just half of it, and you're weirdly full. Welcome to the future.",
+        "Public health experts begged Americans to eat less for forty years. Nothing happened. Then a drug came along. The chains pivoted within months. Noted.",
+        "Shake Shack is redesigning its menu around people who feel sick after three bites. This is not a crisis. This is just Tuesday now."
       ],
       "captionsJa": [
-        "選挙を守るために65万票を押収したら、「お前が選挙を脅かしている」と裁判所に言われた。すみません、ここウェンディーズですか。",
-        "カリフォルニア史上最大の「有権者詐欺」捜査——詐欺は押収行為そのものだった。結末、まあまあ効いてくる。",
-        "65万票を持ち出して、不正はゼロで、大きいトラックを借りて全部返しに行く保安官。",
-        "裁判所の判決、要約すると「民主主義を守ろうとしてやったことが反民主的でした。返してください」。",
-        "どこかの公民の授業でこのニュースを見せた先生がいると思うんですけど、「さて何を学んだ？」って聞いたら生徒が全員黙ってそう。"
+        "マクドナルドが食欲抑制薬ユーザー向けに小盛りを開発中。50年かけて作ったスーパーサイズ文化、注射一本で終わった。ハンバーグラーの勝利。",
+        "ファストフード業界が50年かけて「もっと食べさせる」食を作り上げた。オゼンピックが18ヶ月でそれを壊した。",
+        "チポトレの新メニュー：同じブリトー、ただし半分。そして謎に満腹。これが未来です。",
+        "公衆衛生の専門家が40年「もっと食べるな」と言い続けた。何も変わらなかった。薬が出たら業界が数ヶ月で動いた。メモしておきます。",
+        "シェイクシャックが「3口で気持ち悪くなる人向け」メニューを開発中。危機じゃないんですよ。ただの火曜日です、もう。"
       ],
-      "newsEn": "Riverside County Sheriff Chad Bianco confiscated more than 650,000 ballots earlier this year as part of a self-initiated voter fraud investigation, a move legal experts called unprecedented. A California state court ruled the seizure was unlawful and that Bianco's conduct 'creates substantial risk to election integrity.' The court ordered all ballots returned.",
+      "newsEn": "Major fast-food chains including Chipotle, McDonald's, and Shake Shack are revamping their menus in response to growing numbers of consumers using GLP-1 weight-loss drugs like Ozempic and Wegovy. The drugs suppress appetite, causing users to eat significantly less and shift toward smaller portions. Chains are developing lower-calorie options and smaller serving sizes to retain customers who no longer want — or can physically stomach — a large combo meal.",
       "ironyEn": [
         {
-          "contradiction": "Sheriff Bianco seized 650,000 ballots to protect election integrity. A court ruled that seizing 650,000 ballots is what actually threatens election integrity.",
-          "absurdity": "He took the ballots. The court said give them back. The fraud investigation found the fraud was the investigation.",
-          "outside": "A county sheriff unilaterally confiscating more than half a million votes is the kind of thing that gets called 'election interference' when other countries do it."
+          "contradiction": "The industry that spent decades supersizing everything is now shrinking its portions — not out of health consciousness, but because its customers are on appetite-suppressing injections.",
+          "absurdity": "McDonald's is developing smaller meals for people who physically cannot finish a regular one. The market has spoken, and it said 'I'm nauseous.'",
+          "outside": "Japan has sold small portions at fast food chains for decades and got called weird for it. America needed a $1,000-a-month injection to reach the same conclusion."
         },
         {
-          "contradiction": "The stated goal was to find illegitimate votes. The actual outcome was making 650,000 legitimate votes temporarily disappear.",
-          "absurdity": "Somewhere in Riverside County there's a storage room that briefly held more democracy than most countries hold in an entire election.",
-          "outside": "International election monitors usually watch for governments suppressing votes. Apparently they also need to watch for sheriffs with very large evidence lockers."
+          "contradiction": "Fast food chains built empires on making people eat more than they intended. Now a pharmaceutical product is undoing that, and the chains are chasing it.",
+          "absurdity": "Shake Shack is reimagining its menu around people who no longer want to shake or shack. The drug is doing what decades of nutritional guidelines couldn't.",
+          "outside": "Public health campaigns, calorie labels, and First Lady fitness initiatives moved the needle slightly. One injection and suddenly the entire industry pivots in a year."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-25/candidate-3.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-25/candidate-3-punchy.jpg"
+      "image": "images/2026-09-26/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-26/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "ICE Wasted Tens of Millions Trying to Expand Detention — And Still Doesn't Have the Beds",
-        "source": "The Guardian US",
-        "date": "2026-09-25",
-        "url": "https://www.theguardian.com/us-news/2026/sep/24/ice-detention-cost-millions",
-        "summary": "会計検査院（GAO）の調査により、ICEとその他連邦機関が移民大量拘留計画の一環として数千万ドルを無駄にしながら、拘留施設の拡張目標を達成できていないことが明らかになった。"
+        "headline": "AI Was Supposed to Wipe Out Entry-Level Jobs. Unemployment Data Says: Not Yet.",
+        "source": "Ars Technica",
+        "date": "2026-09-26",
+        "url": "https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/",
+        "summary": "AIが新卒者の雇用を大幅に奪うと予測されていたが、現時点での失業データには「大規模な雇用喪失や採用減少の証拠はない」とする分析が明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「効率的な政府を取り戻す」と言いながら、拘留ベッドを増やすために数千万ドルを溶かして、ベッドが増えていない。GAOに指摘される前に自分で気づいてほしい。",
-        "<b>滑稽さ:</b> 「無駄遣いをなくす」を公約にした政権が、GAOに「無駄遣いのリスト」を提出されているというのは、構造として出来すぎなんですよね。",
-        "<b>日本・海外から見ると:</b> 移民を「コストがかかる」と言いながら、その移民を収容するために数千万ドルをドブに捨てているというのは、会計上どう説明するんでしょうか。"
+        "<b>矛盾:</b> 「AIに仕事を奪われる」という恐怖でAIスキルの習得に何兆円もの市場が生まれてるのに、今のところ実際に奪われてる雇用はデータ上では確認できてないんですよ。",
+        "<b>滑稽さ:</b> 大学が慌ててAIカリキュラムを作り直して、企業がAIスキルを必須にして、就活生がポートフォリオにChatGPT歴を書いてる、その騒ぎの真っ最中に「で、失業率への影響はまだないです」ってデータが出てくる間の抜けっぷり。",
+        "<b>日本・海外から見ると:</b> 「AIで雇用が消える」パニックは世界共通なのに、実データが「まだ大丈夫」って言ってる。パニックの輸出だけは先行してた。"
       ],
       "imagePrompts": [
-        "An enormous construction site labeled 'NEW DETENTION FACILITY' with cranes, half-built walls, and a sign reading 'COMPLETION: STILL TBD.' A GAO report document sits on a folding table in the foreground with a long list of line items circled in red.",
-        "A government ledger book open on a desk, showing two columns: 'MONEY SPENT' (very long) and 'BEDS ADDED' (much shorter, with a question mark). An ICE logo is stamped at the top.",
-        "A large empty room labeled 'EXPANDED DETENTION CAPACITY' with dust on the floor, a few folding chairs, and a banner hanging crookedly that reads 'MISSION ACCOMPLISHED?' The lights are half on."
+        "A new college graduate in cap and gown shaking hands with a robot, while a large graph behind them labeled 'Expected Job Losses' shows a massive red arrow going down — and a second graph labeled 'Actual Data' shows a flat line",
+        "A university administrator frantically replacing a sign reading 'Computer Science Department' with one reading 'AI & Prompt Engineering Institute', while a bored-looking recent grad stands nearby holding a normal employment contract",
+        "A bookstore shelf overflowing with titles like 'Survive the AI Takeover', 'AI-Proof Your Career', and 'ChatGPT or Unemployment' — next to a small hand-lettered sign reading 'Labor market still fine, per latest data'"
       ],
       "captions": [
-        "Tens of millions spent to expand detention. Detention not expanded. The money is gone. Where did it go? GAO has a list, but it's not a fun list.",
-        "The plan was: spend money, get detention beds. What happened was: spend money. The beds part is still pending.",
-        "Government accountability office to ICE: 'Here is every way you wasted the money.' ICE: '...'",
-        "They wanted to be tough on costs and tough on immigration. Per the GAO, they're currently zero for two.",
-        "Somewhere a spreadsheet is doing the most work it's ever done, and none of it is going the right direction."
+        "AI was going to eliminate entry-level jobs. The data says it hasn't. The anxiety industry built around that prediction is doing great, though.",
+        "Colleges rebuilt their entire programs around AI. Companies made it a hiring requirement. Turns out the jobs are still there. The stress is also still there. Both are thriving.",
+        "So we all spent three years updating our resumes, panicking, and doing prompt engineering bootcamps — for a crisis the unemployment numbers haven't found yet. Cool.",
+        "The AI takeover of the job market has been postponed. Please continue updating your LinkedIn with AI skills to prepare for its eventual arrival, or whatever.",
+        "There is no evidence of widespread displacement, researchers say. There is, however, overwhelming evidence of widespread newsletter subscriptions about widespread displacement."
       ],
       "captionsJa": [
-        "数千万ドル使って拘留施設を増やそうとした。増えなかった。お金はなくなった。どこへ？GAOにリストがある。楽しいリストではない。",
-        "計画は「お金を使う→拘留ベッドを得る」だった。実際は「お金を使う」まで完了した。ベッドは保留中。",
-        "GAOがICEに：「無駄遣いの一覧、どうぞ」。ICE：「……」",
-        "コストに厳しく、移民に厳しく——GAOによると、現在どちらも達成率ゼロ。",
-        "どこかでスプレッドシートが人生で一番忙しく動いていて、でも全部逆方向に向かっている。"
+        "AIが新卒の仕事を奪うはずだった。データによると奪ってない。その恐怖を商品にした不安産業は絶好調だけど。",
+        "大学がカリキュラムを作り直して、企業がAIスキルを必須にして、就活生が履歴書を書き直した。仕事はまだあった。ストレスもまだある。両方元気です。",
+        "3年間かけてポートフォリオ更新して、パニックになって、プロンプトエンジニアリング講座を受けた。そのクライシス、失業率には今のところ見当たらないらしい。そうか。",
+        "AIによる雇用市場の乗っ取りは延期されました。到来に備えてLinkedInのAIスキル欄は引き続き更新してください。たぶん。",
+        "大規模な雇用喪失の証拠はない、と研究者は言う。大規模な雇用喪失についてのニュースレター購読の証拠は圧倒的にある。"
       ],
-      "newsEn": "A Government Accountability Office report documents that ICE and other federal agencies wasted tens of millions of dollars while pursuing the Trump administration's plans to rapidly expand immigration detention capacity. Despite the massive spending, the expansion goals have not been met, with GAO documenting an array of costly mismanagement problems. The report comes as ICE continues to pursue controversial large-scale detention operations.",
+      "newsEn": "Despite widespread predictions that AI would significantly displace recent college graduates and entry-level workers, unemployment data so far shows no evidence of widespread displacement or major reduction in hiring. Researchers analyzing current labor market trends found that the feared mass disruption has not materialized in the numbers — at least not yet. The findings complicate the narrative that has driven enormous anxiety among students, new grads, and universities rushing to retrofit their curricula around AI skills.",
       "ironyEn": [
         {
-          "contradiction": "The administration's immigration crackdown was going to be tough, fast, and efficient. The GAO says it's been slow, incomplete, and very expensive in the wrong ways.",
-          "absurdity": "They spent tens of millions expanding detention capacity and still don't have enough detention capacity. That's a special kind of failure that takes real commitment.",
-          "outside": "The pitch was fiscal discipline plus immigration enforcement. What arrived was a GAO report with a long list of costly problems and a bed shortage."
+          "contradiction": "Universities overhauled curricula, companies made AI a job requirement, and graduates rewrote their resumes around it — all to survive a displacement that the data says hasn't really happened.",
+          "absurdity": "The AI apocalypse for entry-level workers generated a massive industry of AI training courses, bootcamps, and career coaches. The threat created more jobs than it apparently destroyed.",
+          "outside": "Countries worldwide restructured education policy around a labor market collapse that, so far, exists mainly in earnings calls and conference keynotes."
         },
         {
-          "contradiction": "ICE was supposed to be the iron fist of the crackdown. According to federal auditors, it's more of a very expensive open hand.",
-          "absurdity": "The government spent tens of millions on a project, got audited, and the audit said 'you wasted tens of millions.' No one involved seems surprised.",
-          "outside": "Most countries that run expensive enforcement programs at least end up with the thing they were trying to build. This one got the bill without the building."
+          "contradiction": "The technology that was going to make human workers obsolete has so far mostly made humans anxious, busy adding 'AI proficiency' to their LinkedIn, and slightly worse at writing their own emails.",
+          "absurdity": "Every major tech company announced AI would transform the workforce. The workforce is still there, just more stressed about AI than about actual unemployment.",
+          "outside": "From abroad, watching America simultaneously panic about AI job loss and produce record numbers of AI hype articles looks a lot like someone running from a shadow."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-25/candidate-4.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-25/candidate-4-punchy.jpg"
+      "image": "images/2026-09-26/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-26/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Microsoft Puts Its Chief Lawyer in Charge of Communications, Because Who Better to Spin the News?",
-        "source": "The Verge",
-        "date": "2026-09-25",
-        "url": "https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela",
-        "summary": "マイクロソフトがコミュニケーション部門をマーケティングから切り離し、法務・渉外を担当するCELA部門に移管すると発表した。法務・渉外担当の副会長ブラッド・スミス氏がコミュニケーションも統括することになる。"
+        "headline": "Trump-Xi Summit: Two Days of Ceremony, Zero Deliverables, One Panda Mention",
+        "source": "CNBC Top News",
+        "date": "2026-09-26",
+        "url": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+        "summary": "トランプ大統領と中国の習近平国家主席による2日間の首脳会談は、台湾やイランなどの核心的な問題では具体的な成果が得られないまま、式典と演出に終始したと報じられている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「広報」と「法務」を同じ部署にまとめるというのは、「何を言うか」と「言ったことの責任をどう回避するか」を一元管理するということで、効率的ではあるんですよね。",
-        "<b>滑稽さ:</b> 弁護士に「もっと親しみやすいメッセージを出してください」と頼む構図——法廷戦術と企業PRは確かに近いですけど、近すぎる気もするんですよ。",
-        "<b>日本・海外から見ると:</b> AIを巡る規制対応で世界中の政府と交渉している法務トップが、今度は自社の「語り口」まで管理する。これは情報の整合性という意味では完璧な体制で、だからこそちょっと怖い。"
+        "<b>矛盾:</b> 世界最大の二大国が2日間かけて会って、残ったのが「式典の記録映像」だけというのは、国際外交の会議費用対効果として史上最悪クラスじゃないですか。",
+        "<b>滑稽さ:</b> 台湾もイランも「ダンスのように避けた」って表現されてるんですよ。テーマを避けるのにワルツを踊るって、外交の作法なのか、ただの2時間の無駄なのか。",
+        "<b>日本・海外から見ると:</b> 隣国として台湾問題を固唾をのんで見てた国々からすると、「何も決まりませんでした、でもいい写真が撮れました」という結果報告は笑えないタイプの風刺。"
       ],
       "imagePrompts": [
-        "A large corporate org chart on a whiteboard. Two boxes previously labeled 'COMMUNICATIONS' and 'LEGAL & REGULATORY' are being merged with a big arrow into one box labeled 'COMMUNICATIONS & LEGAL & REGULATORY & ALSO TALKING TO GOVERNMENTS.' One person stands at the top of the merged box.",
-        "A formal boardroom. On one side of a long table sits a stack of press releases. On the other side sits a stack of legal briefs. A nameplate in the center chair reads 'BRAD SMITH.' The stacks are being pushed together.",
-        "A news podium at a tech company press event. Behind the podium, instead of a marketing backdrop, there is a wall of filing cabinets labeled with regulatory agency names: FTC, EU, Congress, DOJ. A person in a business suit adjusts a tie at the mic."
+        "Two large podiums facing each other across an empty table in a grand ceremonial hall, with a banner reading 'HISTORIC SUMMIT' overhead and a whiteboard behind each podium completely blank",
+        "A diplomatic summit agenda document with every line item reading 'Discussed (no outcome)' — Taiwan, Iran, trade all listed, all checked off with no resolution column filled in",
+        "A grand state dinner table with elaborate floral centerpieces, fine china, and candelabras — a single sticky note in the center reading 'Nothing agreed upon. Great photos though.'"
       ],
       "captions": [
-        "Microsoft put its chief lawyer in charge of communications. For clarity: the person who decides what the company can say legally now also decides what the company says.",
-        "Moving comms into Legal Affairs — smooth. Moving Legal Affairs into comms — wait, is this the same thing?",
-        "Brad Smith already negotiates with Congress, the EU, and the FTC. Now he writes the press releases too. He is one man and also somehow an entire branch of government.",
-        "The new structure ensures that whatever Microsoft tells you has been pre-cleared by the guy who'd have to defend it in court. That's either very reassuring or not at all.",
-        "Frank Shaw is out as comms chief. His replacement is a lawyer. His replacement's replacement will probably be a judge. By 2030, Microsoft's head of communications will be a supreme court justice."
+        "Two days, two world leaders, Taiwan and Iran both avoided like a weird uncle at Thanksgiving. The flowers were reportedly stunning.",
+        "They 'danced around' the major issues. Two days of dancing around Taiwan and Iran. That's not a summit, that's a very expensive waltz.",
+        "The official readout mentioned pageantry, pandas, and a state dinner. The word 'agreement' did not make the final cut.",
+        "Historic summit. Great optics. Zero deliverables. The guy who arranged the centerpieces got the most done.",
+        "World watching for Taiwan clarity. Got two days of ceremony and a photo where both men are smiling. Make of that what you will."
       ],
       "captionsJa": [
-        "マイクロソフトが法務トップに広報も担当させることにした。整理すると：「会社が何を言えるか」を決める人が、「会社が何を言うか」も決めることになった。",
-        "広報を法務部門に移す——スムーズ。法務を広報に移す——待って、同じことでは？",
-        "ブラッド・スミス氏はすでに米議会、EU、FTCと交渉している。今度はプレスリリースも書く。一人なのに、なんか政府の部署みたいな仕事量じゃないですか。",
-        "新体制で保証されること：マイクロソフトがあなたに伝えることは、それを法廷で弁護する人が事前に確認済み。安心と言えば安心。怖いと言えば怖い。",
-        "フランク・ショー氏が広報トップを退任し、後任は弁護士。その次は判事になるかも。2030年までにマイクロソフトの広報責任者が最高裁判事になっても驚かない。"
+        "2日間、二大国のトップが揃って、台湾もイランも感謝祭の厄介な親戚みたいに避けた。花の装飾は素晴らしかったらしい。",
+        "主要議題を「ダンスのように回避」。台湾とイランを2日間ダンスで避けるって、それはサミットじゃなくてただの高額なワルツです。",
+        "公式声明に出てきた言葉：式典、パンダ、晩餐会。「合意」は最終稿に入らなかった。",
+        "歴史的首脳会談。絵的には最高。成果はゼロ。センターピースを並べたスタッフが一番仕事した。",
+        "台湾の行方を固唾をのんで待っていた世界が手にしたもの：2日分の式典映像と、二人が笑顔の写真。あとは各自ご解釈ください。"
       ],
-      "newsEn": "Microsoft announced it is moving its communications group out of its marketing division and into its Corporate, External, and Legal Affairs organization, known as CELA. The change puts Brad Smith, Microsoft's vice chair and president who oversees legal and regulatory affairs, in charge of the company's communications function. The company is also searching for a replacement for Frank Shaw, the outgoing chief communications officer.",
+      "newsEn": "President Trump and Chinese President Xi Jinping concluded a two-day state visit in Washington that was heavy on pageantry and light on substantive policy outcomes. The two leaders reportedly danced around the key issues of Taiwan and Iran without reaching concrete agreements. Observers noted the summit was centered more on the spectacle of the meeting itself than on any measurable diplomatic progress.",
       "ironyEn": [
         {
-          "contradiction": "Microsoft separated its communications team from marketing to make messaging more 'authentic.' It then handed communications to the company's top lawyer.",
-          "absurdity": "Nothing says 'open and transparent communication' like putting the person whose job is managing legal liability in charge of what the company says publicly.",
-          "outside": "Other tech companies have comms chiefs who used to be journalists or PR veterans. Microsoft's is the guy who testifies before Congress."
+          "contradiction": "The leaders of the two largest economies in the world spent two full days together and produced no concrete agreements on any of the issues that actually matter.",
+          "absurdity": "Taiwan, Iran, trade — all gracefully avoided. Two days, two world leaders, approximately zero resolved problems. The flowers at the state dinner probably cost more than the policy output.",
+          "outside": "For countries in Asia watching to see if their futures were being discussed, 'pageantry and pandas' is less a summary and more a punchline they didn't ask for."
         },
         {
-          "contradiction": "The move is framed as a structural upgrade. What it actually creates is a single executive who controls both what Microsoft says and what Microsoft can be held responsible for saying.",
-          "absurdity": "Brad Smith is simultaneously Microsoft's top lawyer, its chief policy negotiator with governments worldwide, and now its chief message crafter. That's not a job. That's a weather system.",
-          "outside": "In most organizations, legal and communications are kept separate precisely so the lawyers don't run the press releases. Microsoft read that rule and went the other way."
+          "contradiction": "A summit billed as historically significant delivered outcomes best measured in photo opportunities and handshakes rather than any signed document.",
+          "absurdity": "They 'danced around Taiwan.' They 'danced around Iran.' At some point this stops being a diplomatic summit and starts being Dancing with the World's Unresolved Conflicts.",
+          "outside": "Other nations waiting on Taiwan or Iran clarity got two days of state dinner footage and a recap that uses the word 'spectacle' four times without irony."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-25/candidate-5.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-25/candidate-5-punchy.jpg"
+      "image": "images/2026-09-26/candidate-5.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-26/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本は全部「守る側が一番壊している」話。DHSが市民を追い出し、保安官が選挙を壊し、トランプがカメラを禁止してカメラがないと怒る。守護者が最大のリスクになった日。",
-    "titleEn": "185 Citizens, 650,000 Ballots, and One Very Confused Sheriff",
-    "subtitleEn": "Today in: protecting things by destroying them.",
-    "titleJa": "「選挙を守る」と言った人たちが、選挙を一番壊していた話",
+    "thread": "今日の5本を貫く糸は「やってる感と実態のズレ」。DHSのリスト、Metaの判決、マクドナルドの小盛り、AI失業の不在、そしてパンダ会談——全部、中身より形が先に走った話。",
+    "titleEn": "The List Was Wrong. The Verdict Took Eight Years. The Jobs Are Still There.",
+    "subtitleEn": "Five stories about doing a lot and achieving nothing.",
+    "titleJa": "185人チェックして0人当たり、判決に8年かかり、AI失業はまだ来ていない日の話",
     "titleAltJa": [
-      "185人全員が市民だった。65万票は全部返せと言われた。ICEの拘留施設は増えていない。",
-      "「守る」と言って壊した人たちの話が今日だけで3本ある"
+      "「やってます」と言うための2日間——トランプ×習の首脳会談に学ぶ、成果ゼロの作り方",
+      "AIに仕事を奪われる前に、DHSに市民権を奪われそうになった人が185人いた"
     ],
-    "leadJa": "185人チェックして、185人全員がアメリカ市民だった。\n\nこれは今日の1本目の話です。2本目には65万票を押収した保安官が「お前こそが脅威だ」と裁判所に言われて全部返す羽目になる話がある。\n\nなんか今日、そういう日なんですよ。",
-    "introEn": "Five stories today. One pattern.\n\nA federal agency checked 185 voters for fraud. All 185 were citizens. A sheriff seized 650,000 ballots to protect an election, and a court ruled he was the threat to the election. A president banned cameras, then complained there were no cameras. ICE spent tens of millions to build detention beds that still don't exist. And Microsoft moved its communications team into Legal Affairs — because why keep \"what we say\" and \"what we can say in court\" in separate rooms?\n\nToday's forecast: if you've ever been told your work isn't good enough by someone who's clearly doing a worse job, the news has your back. The people in charge of checking things today could not check a thing correctly. You're probably fine.",
-    "introJa": "185人全員が誤りだったリストを「不正摘発リスト」と呼ぶ国の話を、今朝も読みました。\n\nで、他を見ると——\n65万票を「守るため」に没収した保安官が裁判所に「お前が脅威だ」と言われて全部返して、自分でカメラを追い出した大統領がカメラがないと怒って、数千万ドル使って拘留施設が増えていなくて、マイクロソフトは法務部長に広報もやらせることにした。\n\n今日を貫く糸は「守る側が一番壊している」、それだけです。\n\n最近「自分のやり方って合ってるのかな」と思うことがあるなら、今日のニュースを読むと少し楽になるかもしれない。185対0で全滅してる人たちがいる日に、あなたがいつも通りでいられてるなら、もう十分だよ。",
-    "quipEn": "Today's theme: the people who were supposed to check the work had not checked the work.",
-    "quipJa": "「守る」と言った人が一番壊してた、という話が今日だけで3本ある。",
+    "leadJa": "国土安全保障省が送ってきたリストを、ネバダ州が全部チェックしました。185人、全員アメリカ市民でした。\n\n精度ゼロ。完璧な外しっぷり。今日は、そういう話が5本あります。",
+    "introEn": "The Department of Homeland Security sent Nevada a list of 185 suspected non-citizens on the voter rolls. Nevada checked every single one. All 185: U.S. citizens. Zero for 185.\n\nI stared at that number for a while this morning.\n\nToday's five stories are all variations on the same joke: someone announcing, loudly, that they are protecting something — the vote, your data, the global order, the job market, their market share — and the results quietly suggesting otherwise. Meta's Cambridge Analytica liability took eight years to arrive. The Trump-Xi summit produced ceremonies and a panda mention. McDonald's is going small to survive Ozempic. And the AI jobs apocalypse? The unemployment numbers still haven't found it.\n\nIf you've been quietly doing your job without making a lot of noise about it, today's forecast says you're doing better than most institutions on this list. That's not nothing.",
+    "introJa": "数字から入ります。185。\n\nDHS（国土安全保障省）がネバダ州に送ってきた「非市民の有権者リスト」の人数です。州当局が全員確認しました。結果、185人全員がアメリカ市民でした。\n\n0勝185敗。\n\nこんなの読んで、どうしろというんだ。\n\nで、他を見ると…今日はこれが5本ぜんぶ同じ匂いなんですよ。「守ってます」「対応してます」「会いました」「変えます」——と言いながら、実態がついてきていない話。Metaが8年越しで「やっぱり嘘ついてた」と認定され、マクドナルドがオゼンピックに合わせてひっそり小盛りを作り始め、AI失業の波はデータにまだ現れておらず、トランプと習近平は2日間かけて台湾もイランも話題にせずに帰っていった。\n\n今日の占いです。\n\n「やってる感」より「やってない感」の方が今日は正直だったりします。声が大きい機関がことごとく空振りしている日に、あなたがこっそり普通に仕事をしているなら、それはたぶん上出来。\n\nDHSより正確に生きてれば、もうそれでいい",
+    "quipEn": "DHS went zero for 185, Meta needed eight years to admit it, and the U.S.-China summit's biggest deliverable was a panda mention. The institutions are fine. Everything is fine.",
+    "quipJa": "「守ってます」「対応してます」「会いました」——で、全部空振り。今日だけは、何もしていないあなたが一番まともだったかもしれない。",
     "notesEn": [
-      "DHS sent Nevada a list of 185 voters it flagged as non-citizens. Nevada checked every single one. Every single one was a citizen. The list wasn't wrong about some of them. It was wrong about all of them. 185 for 185.",
-      "Trump complained that TV cameras weren't at his summit with Xi Jinping. The cameras weren't there because Trump's team had banned three outlets the week before and hadn't let them back in yet. A federal judge had to order the press reinstated. The summit was basically over by then.",
-      "A California sheriff seized 650,000 ballots to prevent voter fraud. A court ruled the seizure itself was the threat to election integrity and ordered every single ballot returned. The investigation's net result: one very large truck driving back the way it came.",
-      "A GAO report found ICE wasted tens of millions of dollars trying to expand detention capacity. The expansion goals were not met. The administration that ran on cutting government waste got a report documenting its own waste. The beds are still pending.",
-      "Microsoft is moving its communications team out of marketing and into its legal division, under Brad Smith — the executive who already handles Congress, the EU, and the FTC. He now also writes the press releases. One man, essentially an entire branch of government."
+      "DHS sent Nevada a list of 185 suspected non-citizens on the voter rolls. Nevada checked. All 185 are U.S. citizens. Zero for 185. The agency tasked with protecting election integrity sent a list with a perfect record — just in the wrong direction.",
+      "A New Mexico court just found Meta liable for deceiving users about Cambridge Analytica. The scandal broke in 2018. Your group chat figured it out that same weekend. The court needed eight years.",
+      "McDonald's is developing smaller portions for customers on GLP-1 weight-loss drugs like Ozempic. The chain spent decades engineering food to make you eat more than you needed. One weekly injection broke that streak in about eighteen months.",
+      "AI was supposed to eliminate entry-level jobs. The unemployment data says it hasn't happened yet. The anxiety industry built around that prediction, however, is doing extremely well.",
+      "Trump and Xi just wrapped a two-day state visit. Taiwan: danced around. Iran: danced around. The official readout mentioned pageantry and a panda. The word 'agreement' did not make the final cut."
     ],
     "xJa": [
-      "DHS「185人の非市民リストを作った」→州当局「全員アメリカ市民でした」→DHS「…」　不正を防ぐシステムが185対0で全滅した日の話。",
-      "トランプ大統領「なんでカメラがないんだ」→取材陣「先週あなたが追い出したので」→連邦判事「カメラを戻せ」→会談ほぼ終了。2026年の話です。",
-      "カリフォルニアの保安官が「選挙を守るため」に65万票を没収→裁判所「お前こそが選挙への脅威だ」→全票返還命令。守りにいって自分がアウトになった。",
-      "ICE、数千万ドルを使って移民拘留施設を拡張しようとした結果→施設は増えていない→お金は消えた→GAOが報告書を出した。「無駄遣いをなくす」政権の近況です。",
-      "マイクロソフト、広報部門を法務部の管轄に移す。「何を言うか」と「それを法廷でどう守るか」を同じ部署が決めることになった。効率的ではある。"
+      "DHSがネバダ州に「非市民の有権者リスト」を送ってきた。州当局が全員確認した。185人全員がアメリカ市民でした。0勝185敗。「選挙を守る」機関が選挙の信頼性を一番削ってるという話。",
+      "ケンブリッジ・アナリティカのスキャンダルでMetaに「欺いた」と裁判所が認定。スキャンダルが最初に報じられたのは2018年。8年後の判決。みなさんのグループLINEはたぶん2018年の週末に気づいてた。",
+      "マクドナルドがオゼンピック利用者向けの小盛りメニューを開発中。何十年も「もっと大きく、もっと多く」で成長してきた業界が、注射器一本で路線変更。ハンバーガーより薬の方が強かった。",
+      "「AIが新卒の仕事を奪う」と言われ、大学はカリキュラムを作り直し、就活生はプロンプト術を学び、企業はAIスキルを必須にした。で、失業データへの影響はまだ確認されていません。パニックだけが先行した。",
+      "トランプ×習近平、2日間の首脳会談終了。台湾：回避。イラン：回避。公式声明に書かれていたこと：式典、晩餐、パンダ。「合意」という単語は最終稿に残りませんでした。"
     ],
     "raidEn": [
-      "The wild part isn't that they got one wrong. It's that they got zero right. That's a specific kind of achievement.",
-      "He banned the cameras and then complained about no cameras. The cameras were unavailable for comment.",
-      "650,000 ballots. Zero fraud. One court order. The math on this investigation did not work out.",
-      "Spent tens of millions. Did not get the beds. This is the government accountability equivalent of 'the call is coming from inside the house.'",
-      "Putting your chief lawyer in charge of communications is a great idea if you want every press release to also function as a legal brief."
+      "The part that gets me is that zero for 185 isn't a near-miss. That's a result you'd have to work at.",
+      "Eight years is a long time to wait for a court to confirm what the timeline already knew. Still, better late than Meta.",
+      "Fifty years of supersize engineering, undone by a weekly injection. The Hamburglar finally had help.",
+      "The stress about AI taking all the jobs is still very much there. The jobs are also still there. Both thriving simultaneously.",
+      "They danced around Taiwan and Iran for two full days and the panda made the readout. That's not diplomacy, that's a very expensive waltz with great catering."
     ],
     "raidJa": [
-      "1件でも間違えるなら分かるんですが、185件全部というのは、これはもう別の才能だと思いました。素晴らしい記事でした。",
-      "カメラを追い出した人がカメラがないと怒る、というこの構造、本当に今年を象徴してる気がします。記事でここまで丁寧に整理してもらえて助かりました。",
-      "「守りにいった人が一番の脅威だった」という落ちは、読んでいて本当に言葉に詰まりました。よく取り上げてくださいました。",
-      "GAOの報告書が出るまで誰も止めなかったというのが、この話の一番怖いところだと思いました。丁寧な記事でした。",
-      "法務と広報を同じ屋根の下に置く判断、「効率化」と呼ぶかどうかは読む人によりますよね、という気持ちになりました。面白い切り口でした。"
+      "185人チェックして185人ハズレ、という結果を読んで、統計的にこれはむしろ難しいのでは、と思ってしまいました。丁寧な記事をありがとうございます。",
+      "2018年に誰もが「そうだよね」と思っていたことに、裁判所が8年かけて追いついた、という読み方をしてしまいました。記事を読んでそのことを改めて実感しました。",
+      "「薬で食欲が変わった結果、業界のビジネスモデルが変わる」という話、日本にいると少し遠い話のようで、実はかなり興味深いと思って読みました。",
+      "AIパニックと実データのズレという視点、もやっとしていたものが言語化されてスッキリしました。「不安だけが先行した」という整理が刺さります。",
+      "「合意」という単語が最終声明に入らなかった、という一点で今回の会談の中身がほぼ伝わってくる気がしました。台湾問題を気にしている立場からは、笑えない風刺です。"
     ],
     "riffEn": [
-      "The Department of Homeland Security sent Nevada a list of 185 voters it had flagged as non-citizens. Nevada checked. All 185 were citizens. Not most of them. Not the majority. Every single one. A perfect score, technically — just in the wrong direction. If this were baseball, it's not that they struck out. It's that they struck out 185 consecutive times, went home, and filed the strikeouts as evidence of pitching fraud.",
-      "Trump held a summit with Xi Jinping and then complained that TV cameras weren't there to cover it. The reason there were no cameras: his team had banned three major outlets the previous week. A federal judge had to order the press reinstated. By that point, the meeting was essentially over. So the sequence is: ban cameras, hold summit, complain about no cameras, get court-ordered to allow cameras, cameras arrive to film an empty room. Democracy, still buffering.",
-      "Riverside County Sheriff Chad Bianco seized 650,000 ballots to investigate voter fraud. The California court reviewed what he'd done and concluded that his conduct 'creates substantial risk to election integrity.' He went in to protect the election. He became, per the court, the risk to the election. Every single ballot gets returned. The investigation's total output is a very large truck, a very long drive, and a court order that is essentially a receipt for a returned purchase.",
-      "ICE spent tens of millions of dollars to expand immigration detention capacity. The GAO documented the results: the expansion goals were not met, and there's a detailed list of how the money was mismanaged. The administration that campaigned on government efficiency got a government accountability report about its own inefficiency. The beds are still pending. The money is not.",
-      "Microsoft is moving communications out of marketing and into its legal division, under Brad Smith — the executive who already negotiates with the EU, Congress, and the FTC. He now also approves the press releases. The logic is coherent: the person who decides what the company can say legally is now also the person who decides what the company says. Very tight operation. The question isn't whether it's efficient. It is. The question is whether 'pre-cleared by the guy who'd defend it in court' is the same thing as 'true.'"
+      "The Department of Homeland Security sent Nevada a list of 185 voter registrants it suspected were non-citizens. Nevada — the state, with actual records — checked every name. All 185: American citizens. Not 184. Not most of them. Every single one. The agency designed to catch fraud in federal programs sent a fraud-catching list with a 0% accuracy rate. That's not a margin of error. That's the whole error. The most generous interpretation is that DHS was really, really sure about 185 people and happened to be wrong about all of them.",
+      "A New Mexico court has found Meta liable for deceiving users about Cambridge Analytica. This is the scandal where Facebook let a political data firm harvest personal information from tens of millions of users and then, according to the court, told users it hadn't. The initial reporting came out in 2018. Eight years later, a court is confirming what the news confirmed eight years ago. In the meantime, Meta changed its name, launched the metaverse, abandoned the metaverse, and became an AI company. The Cambridge Analytica chapter: still open.",
+      "Chipotle, McDonald's, and Shake Shack are redesigning their menus for customers taking GLP-1 weight-loss drugs. Ozempic and Wegovy suppress appetite enough that a regular fast-food portion becomes, physically, too much food. So the industry that spent half a century perfecting the science of making you eat past the point of wanting to stop is now engineering menus for people who genuinely can't. The drugs did in eighteen months what decades of public health campaigns couldn't. McDonald's is adapting. The burrito is getting smaller. The injection won.",
+      "Researchers looked at the unemployment data expecting to find evidence that AI had started displacing entry-level workers. They didn't find it. The jobs are still there. Which means every student who switched their major, every college that rewrote its curriculum, every hiring manager who added 'prompt engineering' to the job requirements — all of that happened in anticipation of a disruption the numbers haven't confirmed yet. The anxiety was real. The labor market data, for now, is calm. Both things are happening at the same time.",
+      "Trump and Xi just finished a two-day state visit. Two days is enough time to fly to Tokyo, visit three cities, and fly back. Or, apparently, to hold formal meetings, a state dinner, pageantry — the readout mentioned a panda — and return home without reaching a concrete agreement on Taiwan, Iran, or anything the region was watching for. They reportedly 'danced around' the major issues. Which is a diplomatic way of saying two of the most powerful people on earth spent forty-eight hours carefully not talking about the things that matter."
     ],
     "riffJa": [
-      "国土安全保障省が「非市民」リストをネバダ州に送った。185件のリストを州が一件ずつ確認した。185件全員がアメリカ市民だった。\n\n1件や2件の間違いじゃない。精度がゼロだった。ふるいにかけて、金を全部捨てて、砂だけ残った。MLBなら翌日に戦力外通知が出る数字なんですけど、これは「不正を防ぐシステム」の話です。",
-      "トランプ大統領、習近平との首脳会談でカメラがなかったことに不満を示す。カメラがなかった理由：前の週に自分がCNN等3社を取材禁止にしていたから。連邦判事が「戻せ」と命令して、取材陣が戻ってきた頃には会談はほぼ終わっていた。\n\n自分で窓に板を打ちつけておいて「暗い」と言う話なんですけど、G2サミットの規模でやっているのがちょっと桁が違う。",
-      "カリフォルニア州の保安官、「有権者詐欺を防ぐ」ために65万票超を押収。裁判所の判断：「この行為こそが選挙の完全性に対する重大なリスクを生み出している」。全票返還命令。\n\n守りにいった人が「お前が一番の脅威だ」と言われて帰ってくる、という話。65万票を持ってトラックで去って、65万票を持ってトラックで戻ってくる。捜査の成果がマイナスで終わる技術は、なかなかのものです。",
-      "ICEが移民拘留施設を増やすために数千万ドルを使った。GAOが調査した結果：目標は達成されていない。お金は消えた。詳細な無駄遣いリストが報告書に添付されている。\n\n「無駄な政府支出をなくす」と言って政権を取った人たちが、GAOに「無駄遣いのリスト」を提出されている。構造として出来すぎていて、もう笑うしかない。",
-      "マイクロソフトが広報部門を法務・渉外部門に移管する。担当するのはブラッド・スミス副会長——EU、米議会、FTCとの交渉を仕切っている人物が、今度は自社のプレスリリースも書く。\n\n「何を言うか」と「それを法的にどう守るか」を同じ人が決める体制。効率的ではある。ただ効率的かどうかは問題じゃなくて、「法廷で弁護できるよう事前確認済み」と「正確」が同じ意味かどうか、という話だと思う。"
+      "DHSがネバダ州に送ってきたリストは「非市民の可能性がある有権者」185人分でした。州当局が全員確認しました。185人全員、アメリカ市民。1人も外れていない。いや、「外れていない」というのは逆で、1人も当たっていない。「選挙の不正を摘発する」ために作られた機関が送ってきた不正摘発リストが、摘発精度ゼロ。一番気になるのは、誰かが「このリスト、送っていいですか」と確認したはずなんですよ。そのやりとりが見たい。",
+      "ケンブリッジ・アナリティカのデータ流出スキャンダルで、Metaに責任ありという判決がニューメキシコ州で出ました。このスキャンダル、最初に報道されたのは2018年です。8年前。スマホの機種で言うと何世代前ですか。その間もFacebookは世界最大のSNSであり続け、Metaに社名を変え、メタバースを作って捨て、AIと名乗り始めた。で、2026年になって「やっぱり欺いてました」が確定した。タイムラインの動きより判決の方が遅い、という稀なケース。",
+      "マクドナルドとチポトレが、GLP-1系の肥満治療薬を使っている人向けのメニューを作り始めています。オゼンピックやウェゴビーという薬は食欲を強力に抑えるので、普通のサイズのバーガーセットがもう食べきれなくなる。ここが面白いのは、この業界がこの50年でやってきたことが「食欲の限界を超えて食べさせる仕組みの開発」だったんですよ。その技術の集大成に対して、注射器が18ヶ月で勝った。マクドナルドは今、自分が大きくしたものを小さくしている。",
+      "「AIが新卒・エントリーレベルの仕事を奪う」という予測のもと、大学はカリキュラムを作り直し、就活生はAIスキルをポートフォリオに書き、企業は採用要件にプロンプト能力を加えました。で、労働市場のデータを調べた研究者が言うには、今のところ大規模な雇用喪失は確認されていません。パニックと対策だけが走って、危機本体がまだ来ていない。不安を売る商売だけが、着々と儲かってる。",
+      "トランプ大統領と習近平国家主席の2日間の首脳会談が終わりました。台湾：議題を回避。イラン：議題を回避。公式声明に残ったもの：式典の様子、晩餐会、そしてパンダへの言及。「合意」という単語は最終稿に入りませんでした。2日間あったんですよ。2日間。この2日で「重要な問題をワルツのように避けた」と報じられている。国際外交として、これをなんと呼べばいいのか、私にはまだわかりません。"
     ],
     "asideEn": [
-      "185 for 185. Perfect.",
-      "The cameras declined to comment.",
-      "Protecting elections, one confiscated ballot at a time.",
-      "The beds are still pending.",
-      "One lawyer. All the words."
+      "Zero for 185. Impressive, actually.",
+      "Eight years. The metaverse came and went faster.",
+      "The injection beat the industry.",
+      "The jobs are fine. The panic is also fine.",
+      "The panda made the readout."
     ],
     "asideJa": [
-      "185件全部、外した。",
-      "自分で追い出したのに。",
-      "守るつもりが、壊してた。",
-      "お金は消えた。",
-      "弁護士が全部しゃべる。"
+      "0勝185敗は、ある意味すごい。",
+      "8年。早くない？　いや、遅い。",
+      "注射が業界に勝った。",
+      "仕事もある。不安もある。両立。",
+      "パンダは声明に残った。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
       "News Commentary",
-      "Department of Homeland Security",
-      "Microsoft"
+      "Meta",
+      "Ozempic"
     ],
-    "fullEn": "# 185 Citizens, 650,000 Ballots, and One Very Confused Sheriff\n\n## Today's Forecast\n\nFive stories today. One pattern.\n\nA federal agency checked 185 voters for fraud. All 185 were citizens. A sheriff seized 650,000 ballots to protect an election, and a court ruled he was the threat to the election. A president banned cameras, then complained there were no cameras. ICE spent tens of millions to build detention beds that still don't exist. And Microsoft moved its communications team into Legal Affairs — because why keep \"what we say\" and \"what we can say in court\" in separate rooms?\n\nToday's forecast: if you've ever been told your work isn't good enough by someone who's clearly doing a worse job, the news has your back. The people in charge of checking things today could not check a thing correctly. You're probably fine.\n\n---\n\n## 1. DHS Flagged 185 Nevada Voters as Non-Citizens — Every Single One Was Actually a Citizen\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error)*\n\nThe Department of Homeland Security sent Nevada election officials a list of 185 voters it identified as non-citizens on the state's voter rolls. After review, state officials confirmed that every single person on the list was, in fact, a U.S. citizen. The incident has amplified concerns about the reliability of federal data being used to challenge voter eligibility.\n\n**Why It's Funny**\n\nThe Department of Homeland Security sent Nevada a list of 185 voters it had flagged as non-citizens. Nevada checked. All 185 were citizens. Not most of them. Not the majority. Every single one. A perfect score, technically — just in the wrong direction. If this were baseball, it's not that they struck out. It's that they struck out 185 consecutive times, went home, and filed the strikeouts as evidence of pitching fraud.\n\n**Say It Out Loud**\n\n> The DHS sent Nevada a list of 185 non-citizen voters. Nevada checked. They're all citizens. So the list is basically just... a list of 185 Americans.\n\n---\n\n## 2. Trump Complains About No TV Coverage at Event He Made Impossible to Cover\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates)*\n\nPresident Trump expressed frustration that TV outlets did not provide a video feed of his meeting with Chinese President Xi Jinping at the White House. Media organizations declined to send cameras after Trump's aides had not yet restored press access for three outlets — CNN, MS Now, and Politico — that Trump himself had banned the previous week. A federal judge subsequently ordered the outlets' access restored.\n\n**Why It's Funny**\n\nTrump held a summit with Xi Jinping and then complained that TV cameras weren't there to cover it. The reason there were no cameras: his team had banned three major outlets the previous week. A federal judge had to order the press reinstated. By that point, the meeting was essentially over. So the sequence is: ban cameras, hold summit, complain about no cameras, get court-ordered to allow cameras, cameras arrive to film an empty room. Democracy, still buffering.\n\n**Say It Out Loud**\n\n> He banned the cameras, then complained there were no cameras. The cameras were not available for comment.\n\n---\n\n## 3. California Sheriff Who Seized 650,000 Ballots to Fight Fraud Ordered to Return Every Single One\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/24/california-sheriff-ballots-chad-bianco)*\n\nRiverside County Sheriff Chad Bianco confiscated more than 650,000 ballots earlier this year as part of a self-initiated voter fraud investigation, a move legal experts called unprecedented. A California state court ruled the seizure was unlawful and that Bianco's conduct 'creates substantial risk to election integrity.' The court ordered all ballots returned.\n\n**Why It's Funny**\n\nRiverside County Sheriff Chad Bianco seized 650,000 ballots to investigate voter fraud. The California court reviewed what he'd done and concluded that his conduct 'creates substantial risk to election integrity.' He went in to protect the election. He became, per the court, the risk to the election. Every single ballot gets returned. The investigation's total output is a very large truck, a very long drive, and a court order that is essentially a receipt for a returned purchase.\n\n**Say It Out Loud**\n\n> He took 650,000 ballots to protect the election. The court said he was the threat to the election. Sir, this is a Wendy's.\n\n---\n\n## 4. ICE Wasted Tens of Millions Trying to Expand Detention — And Still Doesn't Have the Beds\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/24/ice-detention-cost-millions)*\n\nA Government Accountability Office report documents that ICE and other federal agencies wasted tens of millions of dollars while pursuing the Trump administration's plans to rapidly expand immigration detention capacity. Despite the massive spending, the expansion goals have not been met, with GAO documenting an array of costly mismanagement problems. The report comes as ICE continues to pursue controversial large-scale detention operations.\n\n**Why It's Funny**\n\nICE spent tens of millions of dollars to expand immigration detention capacity. The GAO documented the results: the expansion goals were not met, and there's a detailed list of how the money was mismanaged. The administration that campaigned on government efficiency got a government accountability report about its own inefficiency. The beds are still pending. The money is not.\n\n**Say It Out Loud**\n\n> Tens of millions spent to expand detention. Detention not expanded. The money is gone. Where did it go? GAO has a list, but it's not a fun list.\n\n---\n\n## 5. Microsoft Puts Its Chief Lawyer in Charge of Communications, Because Who Better to Spin the News?\n\n*The Verge — [source](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)*\n\nMicrosoft announced it is moving its communications group out of its marketing division and into its Corporate, External, and Legal Affairs organization, known as CELA. The change puts Brad Smith, Microsoft's vice chair and president who oversees legal and regulatory affairs, in charge of the company's communications function. The company is also searching for a replacement for Frank Shaw, the outgoing chief communications officer.\n\n**Why It's Funny**\n\nMicrosoft is moving communications out of marketing and into its legal division, under Brad Smith — the executive who already negotiates with the EU, Congress, and the FTC. He now also approves the press releases. The logic is coherent: the person who decides what the company can say legally is now also the person who decides what the company says. Very tight operation. The question isn't whether it's efficient. It is. The question is whether 'pre-cleared by the guy who'd defend it in court' is the same thing as 'true.'\n\n**Say It Out Loud**\n\n> Microsoft put its chief lawyer in charge of communications. For clarity: the person who decides what the company can say legally now also decides what the company says.\n\n---\n\n## Today's Punchline\n\n> Today's theme: the people who were supposed to check the work had not checked the work.\n",
-    "fullJa": "# 「選挙を守る」と言った人たちが、選挙を一番壊していた話\n\n## 今日を占うよ〜\n\n185人全員が誤りだったリストを「不正摘発リスト」と呼ぶ国の話を、今朝も読みました。\n\nで、他を見ると——\n65万票を「守るため」に没収した保安官が裁判所に「お前が脅威だ」と言われて全部返して、自分でカメラを追い出した大統領がカメラがないと怒って、数千万ドル使って拘留施設が増えていなくて、マイクロソフトは法務部長に広報もやらせることにした。\n\n今日を貫く糸は「守る側が一番壊している」、それだけです。\n\n最近「自分のやり方って合ってるのかな」と思うことがあるなら、今日のニュースを読むと少し楽になるかもしれない。185対0で全滅してる人たちがいる日に、あなたがいつも通りでいられてるなら、もう十分だよ。\n\n---\n\n## 1. DHS Flagged 185 Nevada Voters as Non-Citizens — Every Single One Was Actually a Citizen\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error)）*\n\n国土安全保障省（DHS）がネバダ州の有権者名簿から「非市民」として抽出した185件のデータを州選挙当局が確認したところ、全員が米国市民であったことが明らかになった。\n\n**どこが笑える？**\n\n国土安全保障省が「非市民」リストをネバダ州に送った。185件のリストを州が一件ずつ確認した。185件全員がアメリカ市民だった。\n\n1件や2件の間違いじゃない。精度がゼロだった。ふるいにかけて、金を全部捨てて、砂だけ残った。MLBなら翌日に戦力外通知が出る数字なんですけど、これは「不正を防ぐシステム」の話です。\n\n**このニュースをジョークにするなら...**\n\n> DHSがネバダ州に送ってきた「非市民リスト」を確認したら、185人全員が市民だった。つまりそれ、ただの市民リストじゃないですか。\n\n---\n\n## 2. Trump Complains About No TV Coverage at Event He Made Impossible to Cover\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/live/2026/sep/24/white-house-press-xi-jinping-netanyahu-trump-latest-news-updates)）*\n\nトランプ大統領がホワイトハウスでの習近平との会談で報道機関のカメラ入りがなかったことに不満を示したが、その原因は同大統領が先週CNN・MSNow・Politicoを取材禁止にしていたためだと報じられた。\n\n**どこが笑える？**\n\nトランプ大統領、習近平との首脳会談でカメラがなかったことに不満を示す。カメラがなかった理由：前の週に自分がCNN等3社を取材禁止にしていたから。連邦判事が「戻せ」と命令して、取材陣が戻ってきた頃には会談はほぼ終わっていた。\n\n自分で窓に板を打ちつけておいて「暗い」と言う話なんですけど、G2サミットの規模でやっているのがちょっと桁が違う。\n\n**このニュースをジョークにするなら...**\n\n> カメラを追い出したのは自分で、カメラがいないと怒ったのも自分。カメラにはコメントを求められなかった。\n\n---\n\n## 3. California Sheriff Who Seized 650,000 Ballots to Fight Fraud Ordered to Return Every Single One\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/24/california-sheriff-ballots-chad-bianco)）*\n\nカリフォルニア州の共和党系保安官が「有権者詐欺」の調査を名目に65万票以上の郵便投票を押収した行為について、裁判所が違法と判断し、全票の返還を命じた。\n\n**どこが笑える？**\n\nカリフォルニア州の保安官、「有権者詐欺を防ぐ」ために65万票超を押収。裁判所の判断：「この行為こそが選挙の完全性に対する重大なリスクを生み出している」。全票返還命令。\n\n守りにいった人が「お前が一番の脅威だ」と言われて帰ってくる、という話。65万票を持ってトラックで去って、65万票を持ってトラックで戻ってくる。捜査の成果がマイナスで終わる技術は、なかなかのものです。\n\n**このニュースをジョークにするなら...**\n\n> 選挙を守るために65万票を押収したら、「お前が選挙を脅かしている」と裁判所に言われた。すみません、ここウェンディーズですか。\n\n---\n\n## 4. ICE Wasted Tens of Millions Trying to Expand Detention — And Still Doesn't Have the Beds\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/24/ice-detention-cost-millions)）*\n\n会計検査院（GAO）の調査により、ICEとその他連邦機関が移民大量拘留計画の一環として数千万ドルを無駄にしながら、拘留施設の拡張目標を達成できていないことが明らかになった。\n\n**どこが笑える？**\n\nICEが移民拘留施設を増やすために数千万ドルを使った。GAOが調査した結果：目標は達成されていない。お金は消えた。詳細な無駄遣いリストが報告書に添付されている。\n\n「無駄な政府支出をなくす」と言って政権を取った人たちが、GAOに「無駄遣いのリスト」を提出されている。構造として出来すぎていて、もう笑うしかない。\n\n**このニュースをジョークにするなら...**\n\n> 数千万ドル使って拘留施設を増やそうとした。増えなかった。お金はなくなった。どこへ？GAOにリストがある。楽しいリストではない。\n\n---\n\n## 5. Microsoft Puts Its Chief Lawyer in Charge of Communications, Because Who Better to Spin the News?\n\n*The Verge（[記事](https://www.theverge.com/news/1000374/microsoft-comms-pr-brad-smith-cela)）*\n\nマイクロソフトがコミュニケーション部門をマーケティングから切り離し、法務・渉外を担当するCELA部門に移管すると発表した。法務・渉外担当の副会長ブラッド・スミス氏がコミュニケーションも統括することになる。\n\n**どこが笑える？**\n\nマイクロソフトが広報部門を法務・渉外部門に移管する。担当するのはブラッド・スミス副会長——EU、米議会、FTCとの交渉を仕切っている人物が、今度は自社のプレスリリースも書く。\n\n「何を言うか」と「それを法的にどう守るか」を同じ人が決める体制。効率的ではある。ただ効率的かどうかは問題じゃなくて、「法廷で弁護できるよう事前確認済み」と「正確」が同じ意味かどうか、という話だと思う。\n\n**このニュースをジョークにするなら...**\n\n> マイクロソフトが法務トップに広報も担当させることにした。整理すると：「会社が何を言えるか」を決める人が、「会社が何を言うか」も決めることになった。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「守る」と言った人が一番壊してた、という話が今日だけで3本ある。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3のcaption1「Sir, this is a Wendy's」は汎用ミームで構築されたジョークではない。d4のcaption5・riffEn5・riffJa5は観察で終わっている。xJaは5本しかなく8本必要——元データを確認すると5本のみのため審査対象は5本とみなし指摘にとどめる（新事実は足せないため増補不可）。introJaの「ということで、今日の占いです。」という段落区切りが唐突で導入の3要素（掴み→予告→占い）の境界が不明瞭。d2 captionsJa3「民主主義：読み込み中」は汎用AIジョーク型（ステータス表示ネタ）。d3 captions1英語「Sir, this is a Wendy's」は聞き飽きたミーム型——書き直し。d4 captions5・riffEn5は観察で終わっているため裏切りを追加。その他は合格水準。 ／ 文体パス: 2箇所修正。introJaの締め「守るはずの人たちが〜上出来だと思うよ」がプレゼン口調で整いすぎ。leadJaの「2本目には〜話がある」が説明口調。"
+    "fullEn": "# The List Was Wrong. The Verdict Took Eight Years. The Jobs Are Still There.\n\n## Today's Forecast\n\nThe Department of Homeland Security sent Nevada a list of 185 suspected non-citizens on the voter rolls. Nevada checked every single one. All 185: U.S. citizens. Zero for 185.\n\nI stared at that number for a while this morning.\n\nToday's five stories are all variations on the same joke: someone announcing, loudly, that they are protecting something — the vote, your data, the global order, the job market, their market share — and the results quietly suggesting otherwise. Meta's Cambridge Analytica liability took eight years to arrive. The Trump-Xi summit produced ceremonies and a panda mention. McDonald's is going small to survive Ozempic. And the AI jobs apocalypse? The unemployment numbers still haven't found it.\n\nIf you've been quietly doing your job without making a lot of noise about it, today's forecast says you're doing better than most institutions on this list. That's not nothing.\n\n---\n\n## 1. DHS Flags 185 Nevada Voters as Non-Citizens — All 185 Are Citizens\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error)*\n\nThe Department of Homeland Security sent Nevada election officials a list of 185 registered voters it flagged as potential non-citizens. State officials reviewed all 185 records and confirmed every single one of them is a U.S. citizen. The error has raised concerns about the reliability of federal data being used to scrub voter rolls.\n\n**Why It's Funny**\n\nThe Department of Homeland Security sent Nevada a list of 185 voter registrants it suspected were non-citizens. Nevada — the state, with actual records — checked every name. All 185: American citizens. Not 184. Not most of them. Every single one. The agency designed to catch fraud in federal programs sent a fraud-catching list with a 0% accuracy rate. That's not a margin of error. That's the whole error. The most generous interpretation is that DHS was really, really sure about 185 people and happened to be wrong about all of them.\n\n**Say It Out Loud**\n\n> DHS sent Nevada a list of 185 non-citizens on the voter rolls. Nevada checked. They're all citizens. The list does have great font, though.\n\n---\n\n## 2. Facebook Found Liable for Deceiving Users in Cambridge Analytica Case\n\n*CBS News US — [source](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)*\n\nA New Mexico court found Meta liable for deceiving users about the Cambridge Analytica data breach following a two-week trial. The case centered on accusations that Facebook misled users about how their personal data was accessed and shared. The verdict adds to the long legal and reputational fallout from the scandal that first broke publicly in 2018.\n\n**Why It's Funny**\n\nA New Mexico court has found Meta liable for deceiving users about Cambridge Analytica. This is the scandal where Facebook let a political data firm harvest personal information from tens of millions of users and then, according to the court, told users it hadn't. The initial reporting came out in 2018. Eight years later, a court is confirming what the news confirmed eight years ago. In the meantime, Meta changed its name, launched the metaverse, abandoned the metaverse, and became an AI company. The Cambridge Analytica chapter: still open.\n\n**Say It Out Loud**\n\n> Facebook was found liable for deceiving users about Cambridge Analytica. The verdict came in 2026, which means it only took eight years to legally confirm what your group chat figured out in a weekend.\n\n---\n\n## 3. GLP-1 Weight-Loss Drugs Are Reshaping Fast-Food Menus — McDonald's Is Adapting\n\n*CBS News US — [source](https://www.cbsnews.com/news/fast-food-menus-glp-1-users/)*\n\nMajor fast-food chains including Chipotle, McDonald's, and Shake Shack are revamping their menus in response to growing numbers of consumers using GLP-1 weight-loss drugs like Ozempic and Wegovy. The drugs suppress appetite, causing users to eat significantly less and shift toward smaller portions. Chains are developing lower-calorie options and smaller serving sizes to retain customers who no longer want — or can physically stomach — a large combo meal.\n\n**Why It's Funny**\n\nChipotle, McDonald's, and Shake Shack are redesigning their menus for customers taking GLP-1 weight-loss drugs. Ozempic and Wegovy suppress appetite enough that a regular fast-food portion becomes, physically, too much food. So the industry that spent half a century perfecting the science of making you eat past the point of wanting to stop is now engineering menus for people who genuinely can't. The drugs did in eighteen months what decades of public health campaigns couldn't. McDonald's is adapting. The burrito is getting smaller. The injection won.\n\n**Say It Out Loud**\n\n> McDonald's is creating smaller portions for customers on appetite-suppressing drugs. Decades of supersizing, undone by a weekly injection. The Hamburglar finally won.\n\n---\n\n## 4. AI Was Supposed to Wipe Out Entry-Level Jobs. Unemployment Data Says: Not Yet.\n\n*Ars Technica — [source](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/)*\n\nDespite widespread predictions that AI would significantly displace recent college graduates and entry-level workers, unemployment data so far shows no evidence of widespread displacement or major reduction in hiring. Researchers analyzing current labor market trends found that the feared mass disruption has not materialized in the numbers — at least not yet. The findings complicate the narrative that has driven enormous anxiety among students, new grads, and universities rushing to retrofit their curricula around AI skills.\n\n**Why It's Funny**\n\nResearchers looked at the unemployment data expecting to find evidence that AI had started displacing entry-level workers. They didn't find it. The jobs are still there. Which means every student who switched their major, every college that rewrote its curriculum, every hiring manager who added 'prompt engineering' to the job requirements — all of that happened in anticipation of a disruption the numbers haven't confirmed yet. The anxiety was real. The labor market data, for now, is calm. Both things are happening at the same time.\n\n**Say It Out Loud**\n\n> AI was going to eliminate entry-level jobs. The data says it hasn't. The anxiety industry built around that prediction is doing great, though.\n\n---\n\n## 5. Trump-Xi Summit: Two Days of Ceremony, Zero Deliverables, One Panda Mention\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html)*\n\nPresident Trump and Chinese President Xi Jinping concluded a two-day state visit in Washington that was heavy on pageantry and light on substantive policy outcomes. The two leaders reportedly danced around the key issues of Taiwan and Iran without reaching concrete agreements. Observers noted the summit was centered more on the spectacle of the meeting itself than on any measurable diplomatic progress.\n\n**Why It's Funny**\n\nTrump and Xi just finished a two-day state visit. Two days is enough time to fly to Tokyo, visit three cities, and fly back. Or, apparently, to hold formal meetings, a state dinner, pageantry — the readout mentioned a panda — and return home without reaching a concrete agreement on Taiwan, Iran, or anything the region was watching for. They reportedly 'danced around' the major issues. Which is a diplomatic way of saying two of the most powerful people on earth spent forty-eight hours carefully not talking about the things that matter.\n\n**Say It Out Loud**\n\n> Two days, two world leaders, Taiwan and Iran both avoided like a weird uncle at Thanksgiving. The flowers were reportedly stunning.\n\n---\n\n## Today's Punchline\n\n> DHS went zero for 185, Meta needed eight years to admit it, and the U.S.-China summit's biggest deliverable was a panda mention. The institutions are fine. Everything is fine.\n",
+    "fullJa": "# 185人チェックして0人当たり、判決に8年かかり、AI失業はまだ来ていない日の話\n\n## 今日を占うよ〜\n\n数字から入ります。185。\n\nDHS（国土安全保障省）がネバダ州に送ってきた「非市民の有権者リスト」の人数です。州当局が全員確認しました。結果、185人全員がアメリカ市民でした。\n\n0勝185敗。\n\nこんなの読んで、どうしろというんだ。\n\nで、他を見ると…今日はこれが5本ぜんぶ同じ匂いなんですよ。「守ってます」「対応してます」「会いました」「変えます」——と言いながら、実態がついてきていない話。Metaが8年越しで「やっぱり嘘ついてた」と認定され、マクドナルドがオゼンピックに合わせてひっそり小盛りを作り始め、AI失業の波はデータにまだ現れておらず、トランプと習近平は2日間かけて台湾もイランも話題にせずに帰っていった。\n\n今日の占いです。\n\n「やってる感」より「やってない感」の方が今日は正直だったりします。声が大きい機関がことごとく空振りしている日に、あなたがこっそり普通に仕事をしているなら、それはたぶん上出来。\n\nDHSより正確に生きてれば、もうそれでいい\n\n---\n\n## 1. DHS Flags 185 Nevada Voters as Non-Citizens — All 185 Are Citizens\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/24/dhs-nevada-voter-non-citizens-error)）*\n\n国土安全保障省（DHS）がネバダ州の選挙人名簿に掲載された185人を非市民として誤って特定した。州当局が確認したところ、185人全員が米国市民であることが判明した。\n\n**どこが笑える？**\n\nDHSがネバダ州に送ってきたリストは「非市民の可能性がある有権者」185人分でした。州当局が全員確認しました。185人全員、アメリカ市民。1人も外れていない。いや、「外れていない」というのは逆で、1人も当たっていない。「選挙の不正を摘発する」ために作られた機関が送ってきた不正摘発リストが、摘発精度ゼロ。一番気になるのは、誰かが「このリスト、送っていいですか」と確認したはずなんですよ。そのやりとりが見たい。\n\n**このニュースをジョークにするなら...**\n\n> DHSがネバダに「非市民」リストを185人分送ってきた。州が確認したら全員市民だった。フォントはきれいだったらしい。\n\n---\n\n## 2. Facebook Found Liable for Deceiving Users in Cambridge Analytica Case\n\n*CBS News US（[記事](https://www.cbsnews.com/news/facebook-liable-deceiving-users-cambridge-analytica/)）*\n\nニューメキシコ州の裁判所は、Facebookがケンブリッジ・アナリティカによるデータ流出についてユーザーを欺いたとして、Metaに責任があると判断した。\n\n**どこが笑える？**\n\nケンブリッジ・アナリティカのデータ流出スキャンダルで、Metaに責任ありという判決がニューメキシコ州で出ました。このスキャンダル、最初に報道されたのは2018年です。8年前。スマホの機種で言うと何世代前ですか。その間もFacebookは世界最大のSNSであり続け、Metaに社名を変え、メタバースを作って捨て、AIと名乗り始めた。で、2026年になって「やっぱり欺いてました」が確定した。タイムラインの動きより判決の方が遅い、という稀なケース。\n\n**このニュースをジョークにするなら...**\n\n> Facebookがケンブリッジ・アナリティカ問題でユーザーを欺いたと認定された。判決は2026年。週末にグループLINEで結論が出てたやつ、8年かけて法廷で確認されました。\n\n---\n\n## 3. GLP-1 Weight-Loss Drugs Are Reshaping Fast-Food Menus — McDonald's Is Adapting\n\n*CBS News US（[記事](https://www.cbsnews.com/news/fast-food-menus-glp-1-users/)）*\n\nチポトレ、マクドナルド、シェイクシャックなど大手ファストフードチェーンが、GLP-1系肥満治療薬の普及に伴い消費者の食欲が変化していることを受け、メニューを刷新している。\n\n**どこが笑える？**\n\nマクドナルドとチポトレが、GLP-1系の肥満治療薬を使っている人向けのメニューを作り始めています。オゼンピックやウェゴビーという薬は食欲を強力に抑えるので、普通のサイズのバーガーセットがもう食べきれなくなる。ここが面白いのは、この業界がこの50年でやってきたことが「食欲の限界を超えて食べさせる仕組みの開発」だったんですよ。その技術の集大成に対して、注射器が18ヶ月で勝った。マクドナルドは今、自分が大きくしたものを小さくしている。\n\n**このニュースをジョークにするなら...**\n\n> マクドナルドが食欲抑制薬ユーザー向けに小盛りを開発中。50年かけて作ったスーパーサイズ文化、注射一本で終わった。ハンバーグラーの勝利。\n\n---\n\n## 4. AI Was Supposed to Wipe Out Entry-Level Jobs. Unemployment Data Says: Not Yet.\n\n*Ars Technica（[記事](https://arstechnica.com/ai/2026/09/ai-was-supposed-to-hit-new-grads-hard-so-far-unemployment-data-says-otherwise/)）*\n\nAIが新卒者の雇用を大幅に奪うと予測されていたが、現時点での失業データには「大規模な雇用喪失や採用減少の証拠はない」とする分析が明らかになった。\n\n**どこが笑える？**\n\n「AIが新卒・エントリーレベルの仕事を奪う」という予測のもと、大学はカリキュラムを作り直し、就活生はAIスキルをポートフォリオに書き、企業は採用要件にプロンプト能力を加えました。で、労働市場のデータを調べた研究者が言うには、今のところ大規模な雇用喪失は確認されていません。パニックと対策だけが走って、危機本体がまだ来ていない。不安を売る商売だけが、着々と儲かってる。\n\n**このニュースをジョークにするなら...**\n\n> AIが新卒の仕事を奪うはずだった。データによると奪ってない。その恐怖を商品にした不安産業は絶好調だけど。\n\n---\n\n## 5. Trump-Xi Summit: Two Days of Ceremony, Zero Deliverables, One Panda Mention\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html)）*\n\nトランプ大統領と中国の習近平国家主席による2日間の首脳会談は、台湾やイランなどの核心的な問題では具体的な成果が得られないまま、式典と演出に終始したと報じられている。\n\n**どこが笑える？**\n\nトランプ大統領と習近平国家主席の2日間の首脳会談が終わりました。台湾：議題を回避。イラン：議題を回避。公式声明に残ったもの：式典の様子、晩餐会、そしてパンダへの言及。「合意」という単語は最終稿に入りませんでした。2日間あったんですよ。2日間。この2日で「重要な問題をワルツのように避けた」と報じられている。国際外交として、これをなんと呼べばいいのか、私にはまだわかりません。\n\n**このニュースをジョークにするなら...**\n\n> 2日間、二大国のトップが揃って、台湾もイランも感謝祭の厄介な親戚みたいに避けた。花の装飾は素晴らしかったらしい。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「守ってます」「対応してます」「会いました」——で、全部空振り。今日だけは、何もしていないあなたが一番まともだったかもしれない。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "文体パス: 3箇所修正。quipJaの「可能性があります」という翻訳調、introJaの締め文「DHSより正確に〜」の整いすぎた総括、riffJa[3]の「不安産業だけが着実に成長している」という綺麗にまとめすぎた締めを崩した。"
   },
   "carousel": [
-    "images/2026-09-25/carousel/slide-1.jpg",
-    "images/2026-09-25/carousel/slide-2.jpg",
-    "images/2026-09-25/carousel/slide-3.jpg",
-    "images/2026-09-25/carousel/slide-4.jpg",
-    "images/2026-09-25/carousel/slide-5.jpg",
-    "images/2026-09-25/carousel/slide-6.jpg",
-    "images/2026-09-25/carousel/slide-7.jpg"
+    "images/2026-09-26/carousel/slide-1.jpg",
+    "images/2026-09-26/carousel/slide-2.jpg",
+    "images/2026-09-26/carousel/slide-3.jpg",
+    "images/2026-09-26/carousel/slide-4.jpg",
+    "images/2026-09-26/carousel/slide-5.jpg",
+    "images/2026-09-26/carousel/slide-6.jpg",
+    "images/2026-09-26/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-25/note-header.jpg",
-    "substack": "images/2026-09-25/substack-cover.jpg"
+    "note": "images/2026-09-26/note-header.jpg",
+    "substack": "images/2026-09-26/substack-cover.jpg"
   }
 };
