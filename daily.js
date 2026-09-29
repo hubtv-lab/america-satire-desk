@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-09-29",
-  "generatedAt": "2026-09-28T23:54:46+00:00",
+  "date": "2026-09-30",
+  "generatedAt": "2026-09-29T23:02:53+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Supreme Court Justice Alito Recuses Himself From Oil Case — After Owning Oil Stocks",
-        "source": "The Guardian US",
-        "date": "2026-09-29",
-        "url": "https://www.theguardian.com/us-news/2026/sep/28/samuel-alito-supreme-court-oil-climate-case",
-        "summary": "連邦最高裁判事サミュエル・アリトが、石油会社の欺瞞的行為をめぐる重要な気候変動訴訟から回避を表明した。同判事が石油株を保有していることへの批判が高まっていたためで、回避は事実上「自分で認めた」格好となった。"
+        "headline": "Trump Orders US Government to Stop Saying 'AI,' Insist on 'Super Intelligence' Instead",
+        "source": "The Verge",
+        "date": "2026-09-30",
+        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
+        "summary": "トランプ大統領が署名した大統領令により、米国行政府はAIを「人工知能（Artificial Intelligence）」ではなく「スーパーインテリジェンス」と公式に呼称することが義務づけられた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 利益相反の指摘を「問題ない」と言い続けた判事が、いざ本番の訴訟が始まる直前に静かに回避するんですよ。「問題ない」って何だったの、という。",
-        "<b>滑稽さ:</b> 石油会社が「嘘をついていたか」を裁く裁判から、石油株を持っている判事が降りた。その構図だけで週刊誌の一面が埋まる。",
-        "<b>日本・海外から見ると:</b> 日本でも裁判官の利益相反は忌避申立の対象になりますが、それを本人が「自分で気づいて」訴訟直前に退場するのは、制度が機能したのか、機能しなかったのか、正直どっちとも言えないんですよね。"
+        "<b>矛盾:</b> 政策の中身を変えるより先に名前を変えた——「問題を解決するのではなく、問題に別の名前をつける」という高度なテクノロジー戦略ですね。",
+        "<b>滑稽さ:</b> 政府のウェブ担当者が今ごろ全ドキュメントのCtrl+Hを総動員してるわけで、それ自体がまあまあ知的な作業じゃないですか。",
+        "<b>日本・海外から見ると:</b> アメリカが中国のAI覇権に対抗する手段として選んだのが「リブランディング」だとしたら、日本の経産省も「AI」を「超知性」と呼び直せば予算が倍になるんですかね。"
       ],
       "imagePrompts": [
-        "A judge's bench with a gavel, an empty leather chair, and a small framed stock certificate from an oil company left behind on the seat, courthouse interior",
-        "A balance-of-justice scale, one side holding a stack of legal documents labeled 'climate case', the other side holding a oil barrel with a price tag, tilting awkwardly",
-        "An official Supreme Court recusal letter pinned to a corkboard next to a printed brokerage statement, fluorescent office lighting, bureaucratic setting"
+        "A large government printing press stamping 'SUPER INTELLIGENCE' in bold red ink over stacks of documents that previously said 'Artificial Intelligence,' with a bureaucrat watching proudly, arms crossed",
+        "A federal office whiteboard with 'AI' crossed out in thick marker and 'SUPER INTELLIGENCE' written next to it with a gold star sticker, surrounded by confused-looking officials in suits",
+        "An enormous glossy podium sign reading 'SUPER INTELLIGENCE SUMMIT' in all caps, flanked by American flags, with a tiny footnote at the bottom that reads 'formerly known as AI'"
       ],
       "captions": [
-        "He said owning oil stocks while judging oil cases was fine — right up until the oil case showed up.",
-        "The justice insisted there was no conflict. The conflict walked into court, and he walked out.",
-        "The justice who policed everyone else's ethics just needed a little... personal deadline.",
-        "Somewhere a petroleum ETF is wondering why its most loyal customer suddenly got quiet.",
-        "Sir, that's not a recusal. That's a confession with extra steps."
+        "The US can't out-build China on AI, but we can absolutely out-capitalize it.",
+        "Fun fact: 'Super Intelligence' has four more syllables than 'AI,' which experts say represents a 400% improvement.",
+        "Every federal agency just got the same homework: Ctrl+H, 'artificial intelligence,' 'Super Intelligence,' save. Democracy secured.",
+        "You ever rebrand something instead of fixing it? The US government would like to speak with you.",
+        "Sir, the robots don't care what we call them."
       ],
       "captionsJa": [
-        "石油株を持ったまま石油訴訟を裁くのは問題ない、ずっとそう言ってたんですよ。石油訴訟が来るまでは。",
-        "「利益相反ではない」と言い続けてた。利益相反の案件が来た週に退場した。それが答えじゃないですか。",
-        "他の誰かの倫理を問い続けた判事、自分の番になったら締め切りが必要だった。",
-        "どこかの石油ETFが、一番の応援団がなぜか急に静かになったことを不思議がってる。",
-        "これ回避じゃなくて、手続きを踏んだ自白じゃないですか。"
+        "中国にAIで勝てないなら、せめて名前で勝てばいい——これがアメリカの最終兵器です。",
+        "「スーパーインテリジェンス」は「AI」より音節が多い。専門家によると、それだけで400%の改善だそうです。",
+        "全省庁の担当者に今日の宿題: Ctrl+H、「人工知能」→「スーパーインテリジェンス」、上書き保存。民主主義、守られました。",
+        "解決できないなら名前を変えればいい——そういうの、ありますよね。連邦政府がやると「大統領令」って呼ばれるんですよ。",
+        "AIに聞いてみたんですが、自分が何て呼ばれようと別に気にしないって言ってました。"
       ],
-      "newsEn": "Supreme Court Justice Samuel Alito recused himself Monday from a major climate-change case examining whether fossil-fuel companies deceived the public about the risks of their products. The decision came after Alito faced mounting calls to step aside due to personal stock holdings in oil companies. Alito posted a letter explaining his recusal shortly before the Court was set to take up the matter.",
+      "newsEn": "President Trump signed an executive order mandating that all US government websites, policy documents, and press releases replace the term 'artificial intelligence' with 'Super Intelligence.' The order instructs federal agencies to update their official materials accordingly. Trump has argued the word 'super' better reflects American ambitions in the technology race.",
       "ironyEn": [
         {
-          "contradiction": "Alito spent months insisting his stock holdings posed no conflict of interest. Then the oil case landed on the docket and he quietly walked out the door.",
-          "absurdity": "The man who would help decide whether oil companies lied to the public owned a piece of those same companies. You can't write a better screenplay than that.",
-          "outside": "From abroad, this looks less like a justice following ethics rules and more like a referee who bet on the game finally agreeing to sit in the stands."
+          "contradiction": "The US government's strategy to win the global AI race is apparently to rename it — no new funding, no new research, just new words.",
+          "absurdity": "Somewhere in a federal basement, a contractor is billing $400 an hour to run Find & Replace on 10,000 PDFs.",
+          "outside": "China is reportedly unbothered, because their engineers can't hear the press release over the sound of training models."
         },
         {
-          "contradiction": "The recusal technically means the system worked — except the system required a public uproar to make it work, which suggests it wasn't working.",
-          "absurdity": "He recused himself from a case about corporate deception while holding corporate stock. At some point the punchline writes itself and everyone just stands there.",
-          "outside": "In countries where judicial ethics disclosures are automatic and mandatory, the question isn't 'will he step aside?' It's 'why did he have the stock in the first place?'"
+          "contradiction": "The same administration worried about AI taking American jobs just ordered thousands of federal employees to manually update every document that says 'AI.'",
+          "absurdity": "Technically, 'Super Intelligence' is two words, which means the government is now using MORE words to describe something it doesn't fully understand.",
+          "outside": "Silicon Valley startups are already A/B testing whether 'Super Intelligence' on a pitch deck gets more VC money. Early results: yes."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-29/candidate-1.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-29/candidate-1-punchy.jpg"
+      "image": "images/2026-09-30/candidate-1.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-09-30/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Judge Rules Feds Can't Hold Terror Funds Hostage to Force Election Rule Changes",
+        "headline": "Treasury to Auto-Enroll 60 Million Children in 'Trump Accounts' Whether Families Ask or Not",
         "source": "CNBC Top News",
-        "date": "2026-09-29",
-        "url": "https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html",
-        "summary": "連邦判事が、政府が対テロ補助金を「人質」にして州に選挙管理の変更を強いることはできないとの判断を下した。FEMAが選挙変更とテロ対策の関連性を一切説明できなかったためだ。"
+        "date": "2026-09-30",
+        "url": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
+        "summary": "米財務省は、子ども向け投資口座「トランプ口座」への自動加入を開始すると発表した。対象となる子どもは最大6000万人に上る見込み。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「テロ対策費」を選挙ルール変更の交渉カードに使おうとしたんですよ。テロと選挙の関係を説明できなかったのは、そもそも関係がないからじゃないですかね。",
-        "<b>滑稽さ:</b> FEMAが裁判所に「どう繋がるか」を聞かれて答えられなかった。霞を掴もうとして、裁判官に「霞ですね」と言われた感じ。",
-        "<b>日本・海外から見ると:</b> 補助金を「政策従わせるためのテコ」として使う手法はどの国にもありますが、テロ対策費で選挙ルールを動かそうとするのは、さすがに論理の飛躍が大きすぎて裁判所も止めに入った、という話です。"
+        "<b>矛盾:</b> 「小さな政府」を掲げる政党が、子どもが何も言う前に政府名義の口座を自動で作る——産声を上げた瞬間から「トランプ口座ホルダー」ですよ。",
+        "<b>滑稽さ:</b> オプトアウトしようとしたら書類が7枚必要で、処理に6〜8週間かかる、っていうのがアメリカの確率100%のシナリオじゃないですか。",
+        "<b>日本・海外から見ると:</b> 日本でも「こども基金」みたいな議論はあるんですけど、口座に大統領の名前を冠するっていう発想は、さすがに出てこないですよね。"
       ],
       "imagePrompts": [
-        "A government official holding a giant check labeled 'Counterterrorism Funds' with a sticky note attached reading 'change your election rules first', standing in front of a state capitol building",
-        "A courtroom whiteboard with an arrow drawn from 'ballot box' to 'terrorist threat' with a large question mark in between, a judge peering at it skeptically",
-        "A FEMA office desk piled with disaster response paperwork, with a single folder labeled 'election administration demands' sitting awkwardly on top"
+        "A hospital newborn nursery with rows of babies in cribs, each crib labeled with a small sign reading 'Trump Account: Enrolled,' while a Treasury official in a suit holds a rubber stamp",
+        "A towering stack of enrollment paperwork labeled 'Trump Account Auto-Enrollment' next to a single tiny slip of paper labeled 'Opt-Out Form' with the fine print 'allow 6-8 weeks'",
+        "A government building with a giant banner reading 'TRUMP ACCOUNTS: YOUR CHILD IS ALREADY ENROLLED' while a stork carrying a baby flies past, the baby holding a tiny account statement"
       ],
       "captions": [
-        "The feds said election rules and terrorism are connected. The judge said: show your work. They couldn't.",
-        "FEMA: we handle floods, wildfires, and apparently now… voter registration forms?",
-        "Counterterrorism funds, election-rule ultimatums, zero explanation. The judge read the brief and called it what it was.",
-        "The logic chain was: terrorism → therefore, elections. The judge read it and put it down like a bad novel.",
-        "They had the leverage. They just forgot to have the argument."
+        "Congrats on the new baby! It's a girl. Seven pounds, three ounces. Already has a government account she didn't ask for.",
+        "The 'small government' party just gave 60 million children their first piece of unsolicited mail.",
+        "You can opt out, technically. The form's only nine pages. Processing takes eight weeks. The baby will be crawling by then.",
+        "Sixty million accounts. Zero of them requested. That's not a savings program — that's a subscription you can't cancel.",
+        "Other countries name funds after 'the future.' We named ours after the guy who signed the paper. Posterity sorted."
       ],
       "captionsJa": [
-        "テロ対策費と選挙ルールは繋がってると言った。裁判所に「説明して」と言われて、できなかった。",
-        "FEMAってハリケーンとか洪水を担当する機関じゃなかったっけ。いつから選挙管理局になったの。",
-        "テロ対策費、選挙ルール変更の要求、説明ゼロ。裁判官はそれを読んで、名前をつけた。",
-        "論理の流れが「テロ→だから選挙」だった。裁判官が読んで、そっと置いた。",
-        "お金は持ってた。理屈を持ってくるのを忘れた。"
+        "おめでとうございます! 女の子です。3.3キロ。すでに政府口座に加入済みです。",
+        "「小さな政府」の党が、6000万人の子どもに頼まれてもいない口座の開設通知を送りつけている。",
+        "オプトアウトできますよ、一応。書類は9枚で、処理に8週間。その頃には赤ちゃん、ハイハイしてますよ。",
+        "6000万口座、申込ゼロ件。これ、保険か何かのダークパターンだったら議会公聴会が開かれますよね。",
+        "他の国は「未来基金」とか「子ども基金」って名前にするんですよ。アメリカは署名した人の名前にした。18年間、名前が残り続ける。"
       ],
-      "newsEn": "A federal judge ruled Monday that the federal government cannot withhold counterterrorism funds from states as leverage to force changes in election administration. The judge found that FEMA had failed to explain how the demanded election-related changes were connected to preventing terrorist attacks. The ruling blocks an effort that critics said weaponized homeland security money for political purposes.",
+      "newsEn": "The US Treasury Department announced it will automatically enroll eligible children in 'Trump Accounts,' a new federally backed investment account program. Up to 60 million accounts could be created through the opt-out enrollment system. The accounts are intended to give children a financial head start, with initial government seed funding.",
       "ironyEn": [
         {
-          "contradiction": "The government framed election administration demands as counterterrorism — then couldn't name a single terrorist threat that better ballot rules would stop.",
-          "absurdity": "FEMA, the agency that handles floods and hurricanes, was apparently also in the business of redesigning election rules. Busy agency.",
-          "outside": "Using disaster and security funding as political leverage is a well-worn playbook globally, but usually governments at least write down an explanation. This one skipped that part."
+          "contradiction": "The party that campaigns on government staying out of your life just signed 60 million babies up for a government account before they can talk, walk, or object.",
+          "absurdity": "The opt-out form reportedly requires a parent's signature, two forms of ID, and six to eight weeks — which is longer than the maternity leave most of these families don't have.",
+          "outside": "Other countries name public savings programs after concepts like 'futures' or 'children.' The US went with the sitting president. Bold archival choice."
         },
         {
-          "contradiction": "Homeland security money was supposed to protect against threats. The judge decided the only thing being threatened here was states that disagreed with Washington.",
-          "absurdity": "The feds walked into federal court to argue that election paperwork is terrorism infrastructure, and walked out having not made that case.",
-          "outside": "From outside the U.S., the question isn't whether this was legal — clearly it wasn't. The question is how it got approved internally before anyone said 'wait, what's the connection?'"
+          "contradiction": "Auto-enrollment without consent is the kind of corporate dark pattern Congress usually holds hearings about — unless the product is named after the president.",
+          "absurdity": "Sixty million kids now have an account they didn't open, at a bank they didn't choose, named after a man they definitely didn't vote for.",
+          "outside": "Political scientists call this 'legacy building.' Financial advisors call it 'a great way to make sure the name stays in the news for 18 years per child.'"
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-29/candidate-2.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-29/candidate-2-punchy.jpg"
+      "image": "images/2026-09-30/candidate-2.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-09-30/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Boeing Is 'Incredibly Excited' to Be America's Only Astronaut Taxi — Just Don't Ask What It Costs",
+        "headline": "Trump Ads Paid for by US Taxpayers May Violate Anti-Propaganda Laws — FCC Probably Won't Do Anything",
         "source": "Ars Technica",
-        "date": "2026-09-29",
-        "url": "https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/",
-        "summary": "ボーイングが、自社の宇宙船スターライナーが次世代宇宙ステーション向けの宇宙飛行士輸送で独占的な位置にあると意欲を示す一方、価格の詳細は開示できないと明かした。"
+        "date": "2026-09-30",
+        "url": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
+        "summary": "トランプ政権が税金で制作・配信した広告が、米国の反プロパガンダ法に違反している可能性があるとArs Technicaが報じた。FCCが介入する可能性は低いとみられている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 宇宙飛行士を宇宙ステーションに閉じ込めたあの会社が、「我々しかいない」と胸を張ってるんですよ。競争相手がいないことを強みとして語る豪胆さ、ある意味すごい。",
-        "<b>滑稽さ:</b> 値段は教えられない、でも独占なので問題ない、という営業トーク。これ地上の業者がやったら「じゃあいいです」ってなるやつ。",
-        "<b>日本・海外から見ると:</b> NASAが民間宇宙輸送の競争を促進しようとしてきた文脈で、「唯一の選択肢」になったボーイングが値段を言わない、というのは、競争原理がどこかで壊れていることを静かに示しています。"
+        "<b>矛盾:</b> 自分のCMのために国民の税金を使う行為を規制する法律があって、その法律を執行する機関は現政権が任命した委員で構成されている——チェックアンドバランスのお手本みたいな構図ですね、逆方向に。",
+        "<b>滑稽さ:</b> 「違法の可能性があるが、取り締まる側がたぶん動かない」という一文で記事が終わるの、もうニュースというより天気予報ですよ。「雨が降るかも、でも傘は配りません」みたいな。",
+        "<b>日本・海外から見ると:</b> 日本の政府広報も「PR」と「政治宣伝」の境界線がよく問われますが、少なくとも番組の途中に総理の顔写真付きCMは流れないですよね、まだ。"
       ],
       "imagePrompts": [
-        "A spacecraft labeled 'Starliner' docked at a space station with a large 'ONLY OPTION' banner draped across it, an empty parking spot next to it",
-        "A corporate boardroom presentation slide reading 'Incredibly Excited' with a pricing slide that just says 'TBD' in large font, executives nodding",
-        "A vending machine in space labeled 'Astronaut Transport' with only one button, the price display showing question marks"
+        "A TV screen showing a government-branded advertisement with an American flag background and official seal, while a large transparent overlay reads 'PAID FOR BY YOU,' with a small FCC logo in the corner showing a sleeping figure",
+        "A courtroom-style setting where a law book labeled 'Anti-Propaganda Act' sits open on a desk, completely unattended, while officials in suits walk past it looking at their phones",
+        "A government printing office producing glossy promotional materials, with a giant banner overhead reading 'YOUR TAX DOLLARS AT WORK — LITERALLY'"
       ],
       "captions": [
-        "Boeing left astronauts stuck in space and their pitch for the next contract is: 'we're the only one, so.'",
-        "Can't tell you the price. Can tell you there's no one else. Sleep well.",
-        "'Incredibly excited' is doing a lot of heavy lifting for a company that couldn't get its capsule home.",
-        "NASA built a competitive market for human spaceflight. Boeing showed up and said: 'cute concept.'",
-        "When your main selling point is the absence of competitors, that's not a pitch — that's a shrug."
+        "It's illegal. The people who enforce it work for the guy in the ad. Moving on.",
+        "Your tax dollars are funding a commercial about your tax dollars funding things. Meta enough for you?",
+        "Anti-propaganda law, meet the administration that's really into self-promotion. You two should talk. You won't, but you should.",
+        "The FCC is 'unlikely to act,' which is government speak for 'we saw it, we read the law, we're going to lunch.'",
+        "Technically illegal. Practically fine. The American dream, but make it a 30-second spot."
       ],
       "captionsJa": [
-        "宇宙飛行士を宇宙に閉じ込めた会社の次の営業トークが「うちしかないので」なんですよ。",
-        "値段は言えない。でも他に選択肢はない。ぐっすり眠れますね。",
-        "「信じられないほどワクワクしている」、カプセルを地球に戻せなかった会社がそれを言う。",
-        "NASAが競争市場を作ろうとした。ボーイングが来て「かわいい発想ですね」って言った。",
-        "「競合がいない」が最大のウリになってる時点で、それ営業じゃなくて降参じゃないですか。"
+        "違法の可能性があります。取り締まる人は広告に出てる人の部下です。以上。",
+        "あなたの税金が、あなたの税金の使い方を宣伝するCMに使われています。メタすぎてついていけない。",
+        "反プロパガンダ法くん、自己PRが大好きな政権に会わせてあげますよ。話し合ってほしいんですが——まあ、無理ですね。",
+        "FCCは「対応しない見込み」。お役所の言葉に翻訳すると「見た、法律も読んだ、お昼行ってきます」です。",
+        "厳密には違法。実際には無問題。30秒スポットにするには完璧な素材。"
       ],
-      "newsEn": "Boeing expressed enthusiasm about being positioned as the nation's sole astronaut transportation provider for NASA's next-generation commercial space station program. However, company representatives acknowledged they 'couldn't provide detailed pricing' to the competing station suppliers evaluating the contract. The statement comes after Starliner's high-profile struggles, including astronauts being stranded at the International Space Station.",
+      "newsEn": "Reports allege that advertisements promoting President Trump and his administration have been funded by US taxpayer money, potentially running afoul of federal laws prohibiting government-funded domestic propaganda. The Federal Communications Commission, which would ordinarily have jurisdiction over broadcast compliance, is considered unlikely to take action given the current political environment.",
       "ironyEn": [
         {
-          "contradiction": "Boeing left astronauts stranded in space and is now pitching itself as the only company you'd want to trust with astronauts in space.",
-          "absurdity": "They're 'incredibly excited' to be the sole provider — which is a lot easier to say when there's nobody to compare your prices against.",
-          "outside": "NASA spent years building a competitive commercial spaceflight market. Boeing's pitch is essentially: 'competition's great, and we'd like to opt out of it.'"
+          "contradiction": "There are laws against exactly this. The agency that enforces those laws answers to the administration running the ads. It's a perfect closed loop.",
+          "absurdity": "The article's actual conclusion is 'this might be illegal and nothing will happen' — which at this point is its own genre of American journalism.",
+          "outside": "In most democracies, 'the government bought ads about itself with your money' leads to a parliamentary inquiry. In the US, it leads to a Friday news dump."
         },
         {
-          "contradiction": "The company that couldn't price its own contract is the one positioning itself as the indispensable backbone of American human spaceflight.",
-          "absurdity": "'We're excited to be your only option' is not a sales pitch. It's a hostage situation with better branding.",
-          "outside": "From a procurement standpoint, a supplier saying 'we can't give you pricing' usually ends the meeting. In aerospace contracting, apparently it starts one."
+          "contradiction": "Anti-propaganda law exists specifically to prevent governments from using public funds to promote themselves to their own citizens. It's doing great.",
+          "absurdity": "The FCC is 'unlikely to stop' the ads, which means the enforcement mechanism for this particular law is 'hoping someone feels embarrassed.'",
+          "outside": "Foreign observers studying American democratic institutions should probably skip the chapter on checks and balances for now."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-29/candidate-3.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-29/candidate-3-punchy.jpg"
+      "image": "images/2026-09-30/candidate-3.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-09-30/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "NYC Subpoenas Elon Musk's AI Company Over AI Safety — Yes, That AI Safety",
-        "source": "CNBC Top News",
-        "date": "2026-09-29",
-        "url": "https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html",
-        "summary": "ニューヨーク市議会がイーロン・マスク氏のAI企業「SpaceXAI」にAI安全性に関する調査への出頭を求める召喚状を発行した。マスク氏本人または代理人が証言するよう求めている。"
+        "headline": "LA's 550-Pound Celebrity Bear Evicted Again, Immediately Finds Another Crawlspace",
+        "source": "The Guardian US",
+        "date": "2026-09-30",
+        "url": "https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace",
+        "summary": "ロサンゼルス・アルタデナ地区の民家の床下に居座ることで有名な体重250キロの熊「イエロー2120」が、再び別の家の床下に侵入していることが確認された。"
       },
       "commentary": [
-        "<b>矛盾:</b> AIの安全性を最も声高に「他社のせいで危険だ」と言ってきたマスク氏の会社が、AI安全調査の召喚対象になるんですよ。批判の矛先が自分に向いた瞬間。",
-        "<b>滑稽さ:</b> ニューヨーク市議会がイーロン・マスクに「来て話してください」と言っている。市議会が宇宙人を呼び出してる映画みたいな絵面じゃないですか。",
-        "<b>日本・海外から見ると:</b> AI規制の議論でずっと「政府に規制されるべきでない」と主張してきた人物が、市議会の法的手続きで呼び出される、という構図は、規制論争の皮肉な縮図として世界から見ても面白い。"
+        "<b>矛盾:</b> LAは家賃が高すぎて人間が出ていくのに、熊は無断で入ってきて追い出されても追い出されても戻ってくる——住宅市場の勝者がクマとは誰も予想してなかったですよね。",
+        "<b>滑稽さ:</b> 「かわいいけど耐えられない」って、これLA在住の人間についての記事かと思ったじゃないですか。",
+        "<b>日本・海外から見ると:</b> 日本だと市街地にクマが出たら大ニュースで即捕獲されますが、LAでは「また来た、まあいいか」みたいなトーンなの、さすが多様性の街ですね。"
       ],
       "imagePrompts": [
-        "A city council chamber with a single empty witness chair, a subpoena document on the table, and a large projected slide reading 'SpaceXAI Safety Investigation', official municipal setting",
-        "An official legal subpoena envelope addressed to 'E. Musk' sitting in a mailbox next to a rocket blueprint and a Tesla key fob",
-        "A government hearing room with name placards, one reading 'SpaceXAI Representative', the chair behind it conspicuously empty, council members waiting"
+        "A large bear sitting comfortably in a suburban crawlspace surrounded by pipes and insulation, looking directly at the camera with a completely unbothered expression, as a 'EVICTION NOTICE' paper lies crumpled in the corner",
+        "A neighborhood map of Altadena with several houses marked with small bear footprint icons, showing a trail from one crawlspace to the next, like a very slow real estate tour",
+        "A 'NEIGHBORHOOD WATCH' sign on a residential street, but the silhouette on the sign is replaced with a bear silhouette, with a smaller text underneath reading 'He's back'"
       ],
       "captions": [
-        "Musk spent years warning the world about dangerous AI. NYC just asked him to explain his own.",
-        "He doesn't trust government to regulate AI. The government just made showing up to talk about it legally required.",
-        "Subpoenaing Elon Musk on AI safety is like asking the guy who sold the flamethrower to testify about fire codes.",
-        "NYC City Council vs. the man who owns a rocket, a social network, and an AI lab. This is either oversight or a crossover episode.",
-        "He'll tell you AI is an existential threat — just not, apparently, voluntarily, in a room with elected officials."
+        "This bear has been evicted more times than he has a social security number, and he's doing fine.",
+        "The city of LA has a housing crisis. The bear is not participating in it.",
+        "'Cute but unbearable' — sir, that is every Airbnb review I have ever written.",
+        "He doesn't have a lease. He doesn't have a deposit. He has, apparently, tenure.",
+        "Wildlife officials say he keeps coming back. Yeah. That's what LA does to you."
       ],
       "captionsJa": [
-        "AIの危険性をずっと訴えてきたマスク氏、今度は自分のAIの安全性を説明しに来てくださいと言われてる。",
-        "政府の規制は嫌いだと言ってた。政府が「じゃあ来ることを法的に義務付けます」と返した。",
-        "マスク氏にAI安全性を聞くのは、火炎放射器売った人に防火基準の証言を求めるようなもの。",
-        "ニューヨーク市議会 対 ロケットとSNSとAIを持つ男。これ議会の調査なのかクロスオーバー映画なのか。",
-        "AIは人類最大の脅威だと言い続けてきた。ただ、それを議員の前で自発的には話さないらしい。"
+        "この熊、社会保険番号もないのに強制退去の経験だけは誰より豊富ですよ。",
+        "LAには住宅危機があります。クマには関係ない話です。",
+        "「かわいいけど耐えられない」——これ、Airbnbのレビューで100回くらい読んだやつですよ。",
+        "賃貸契約なし、敷金なし、でも居座り続けてる。実質テニュア取得です。",
+        "当局は「戻ってくる」と言ってます。そうですよ、LAってそういう街ですから。"
       ],
-      "newsEn": "The New York City Council issued a subpoena to Elon Musk and his AI company SpaceXAI, requiring Musk or a company representative to testify as part of an investigation into AI safety. The subpoena is part of a broader effort by the city council to examine how AI technologies are being developed and deployed. SpaceXAI has not yet commented publicly on the subpoena.",
+      "newsEn": "Yellow 2120, a 550-pound black bear who gained notoriety last November by taking up residence under an Altadena home, has been evicted from multiple crawlspaces in the LA neighborhood — and keeps returning. Despite repeated removals, the bear has moved into yet another resident's crawlspace. Local wildlife officials describe him as persistent.",
       "ironyEn": [
         {
-          "contradiction": "Musk has warned repeatedly that AI is humanity's greatest existential risk — now a city council wants to ask him about AI safety at his own company and he needs a subpoena to get him there.",
-          "absurdity": "The man who said other AI labs were moving too recklessly is being summoned to explain his own AI lab's safety practices. The irony is load-bearing.",
-          "outside": "Outside the U.S., Musk is frequently cited as a voice for AI caution. The subpoena suggests 'caution' and 'applies to me' were two separate conversations."
+          "contradiction": "Los Angeles has a housing crisis where humans get pushed out and can't come back — this bear gets pushed out and just picks the next address on the block.",
+          "absurdity": "Wildlife officials used the phrase 'cute but unbearable,' which means someone in a government office wrote that sentence, read it back, and kept it.",
+          "outside": "In most cities a 550-pound animal moving into your basement is an emergency. In Altadena it's a recurring storyline with a nickname and a fan base."
         },
         {
-          "contradiction": "He wants less government in tech. The government responded by scheduling a meeting and making it mandatory.",
-          "absurdity": "New York City Council subpoenaed a man who owns a rocket company, an EV company, a social media platform, and now an AI lab. At what point does a city council just elect him as a borough president and call it done.",
-          "outside": "In most democracies, legislative oversight of powerful tech firms is considered basic. In the U.S., getting a billionaire to show up apparently requires a legal document."
+          "contradiction": "The bear has no lease, no deposit, and no social media presence, yet he's generated more local news coverage than most paying tenants.",
+          "absurdity": "He's been removed multiple times from multiple homes and just… keeps finding new ones. At this point Yellow 2120 has a better handle on LA real estate than most first-time buyers.",
+          "outside": "Japan evacuates entire neighborhoods when a bear appears on a residential street. LA named theirs and gave him a number."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-29/candidate-4.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-09-29/candidate-4-punchy.jpg"
+      "image": "images/2026-09-30/candidate-4.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-09-30/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Holiday Airfares Hit 10-Year High — Up 31% — As Airlines Perfect the Art of Festive Gouging",
-        "source": "CBS News US",
-        "date": "2026-09-29",
-        "url": "https://www.cbsnews.com/news/holiday-airfares-10-year-high-jet-fuel-costs/",
-        "summary": "今年のホリデーシーズンの米国内線往復航空運賃が昨年同期比31%上昇し、10年間で最高水準に達したという分析結果が明らかになった。"
+        "headline": "Small Businesses Swamped by Disability Access Lawsuits — Often From Lawyers They've Never Met",
+        "source": "The Guardian US",
+        "date": "2026-09-30",
+        "url": "https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses",
+        "summary": "米国でADA（障害者法）に基づくアクセシビリティ違反を訴える訴訟が急増しており、小規模店舗やカフェのオーナーが、実際に来店したことのない弁護士からの突然の訴状に頭を抱えている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「旅行需要が回復している」と航空会社は言うんですが、31%値上がりした運賃で需要が旺盛なのか、他に選択肢がないから買うしかないのか、その二つは全然違う話じゃないですか。",
-        "<b>滑稽さ:</b> 10年ぶりの高値、というのが「記録更新」として語られているのが面白くて。消費者にとっては単に「去年より高い」なんですよ、それ。",
-        "<b>日本・海外から見ると:</b> 日本でも年末年始の新幹線・飛行機は高くなりますが、31%という上昇幅は別次元で、アメリカのホリデーシーズンに「家族に会う」コストがここまで上がったのは、感謝祭の七面鳥を注文するより先にチケットを買えという話です。"
+        "<b>矛盾:</b> 障害者が実際にアクセスしやすい社会を作るための法律が、障害者が行ったことすらない店に対する訴訟ビジネスの道具になってるんですよ——法律の目的と使われ方がここまで乖離するのも珍しいですね。",
+        "<b>滑稽さ:</b> 「あなたの店のスロープの傾斜が1度足りない」って手紙が突然来て、次に来るのが弁護士費用の請求書——実際に困ってる人がいるとしたら弁護士の銀行口座ですよ。",
+        "<b>日本・海外から見ると:</b> 日本でもバリアフリー法の整備は課題ですが、「来たことない人の代理弁護士から訴えられる」という訴訟経済学は、アメリカ特有のジャンルじゃないですかね。"
       ],
       "imagePrompts": [
-        "An airport departure board showing all flights labeled 'HOLIDAY SPECIAL' with prices crossed out and replaced with higher numbers in red marker",
-        "A family gathered around a Thanksgiving table with an empty chair, a printed flight itinerary on the empty plate reading '$847 one way'",
-        "A bar chart showing airfare prices from 2016 to the present, with this year's bar dramatically taller than all others, drawn in the style of an airline's own promotional brochure"
+        "A tiny neighborhood cafe with a handwritten menu and mismatched chairs, with an enormous stack of legal documents towering over it, tied with a ribbon labeled 'ADA Complaint,' while the storefront shows no customers inside",
+        "A law office with a large whiteboard listing hundreds of business names under the header 'Current Cases,' with a lawyer in a suit pointing at them with a laser pointer, looking satisfied",
+        "A small ramp outside a corner store with a surveyor's measuring tape wrapped around it and multiple sticky notes with calculations, while the store owner watches with a confused expression"
       ],
       "captions": [
-        "Fares are up 31% but don't worry — the article has tips on how to save. The tips are 'book early' and 'be flexible.' You're welcome.",
-        "A 10-year high in holiday airfares. The airlines call it 'strong demand.' The passengers call it something else.",
-        "Family is priceless, they say. Delta has a different number in mind.",
-        "31% more expensive than last year. The good news: driving 900 miles to grandma's has never looked better.",
-        "The airlines recovered. Beautifully. Fantastically. At your expense, but still."
+        "Your ramp is two degrees off. A lawyer who's never been to your neighborhood would like $30,000.",
+        "The ADA is an important civil rights law. It is also, apparently, a subscription service.",
+        "No disabled person visited the restaurant. The lawsuit still arrived. The mail doesn't discriminate.",
+        "Accessibility enforcement in America: one part moral imperative, one part business model you didn't opt into.",
+        "Other countries send an inspector. We send a demand letter. Same outcome? Not really. But the legal fees are great."
       ],
       "captionsJa": [
-        "運賃31%上昇、でも安くする方法があるって記事に書いてある。そのコツは「早めに買う」と「柔軟に」。役に立った？",
-        "10年ぶりの高値を航空会社は「需要が旺盛」と言う。乗客は別の言葉を使う。",
-        "家族との時間はプライスレス、とは言いますが、デルタ航空は具体的な数字を持ってる。",
-        "昨年より31%高い。好材料: 祖母の家まで車で15時間という選択肢が急に輝き始めた。",
-        "航空業界は回復した。見事に。華々しく。あなたのお金で、でも。"
+        "スロープの角度が2度ずれてます。来たことない弁護士から300万円請求がきます。",
+        "ADAは重要な公民権法です。あと、どうやら月額課金サービスでもあるらしいです。",
+        "障害のある方は来店していません。訴状は届きました。郵便は平等ですから。",
+        "アメリカのバリアフリー執行: 道徳的使命50%、誰も加入した覚えのないビジネスモデル50%。",
+        "他の国は行政が検査に来ます。アメリカは請求書が来ます。同じ結果? まあ、違いますね。弁護士費用だけは確実ですけど。"
       ],
-      "newsEn": "Airfares for round-trip domestic U.S. flights during the holiday season have jumped 31 percent compared to the same period last year, reaching a 10-year high according to a new analysis. Analysts warn that prices are likely to climb further as the holidays approach. The surge comes as travelers are already managing higher costs across most areas of holiday spending.",
+      "newsEn": "Small business owners across the US are facing a surge of lawsuits alleging violations of the Americans with Disabilities Act, with some suits filed by law firms whose clients have never visited the establishments named. Shop and cafe owners say the cases feel like legal shakedowns, while disability advocates argue the violations are real and enforcement is necessary. The lawsuits often target technical non-compliance issues rather than obvious barriers.",
       "ironyEn": [
         {
-          "contradiction": "Airlines reported record profits last year and are now charging record prices this holiday, framing both as evidence the industry is 'recovering well.'",
-          "absurdity": "A 31% fare increase in one year is being described as a market condition. In any other industry you'd call it a menu rewrite.",
-          "outside": "From countries with robust rail networks, watching Americans pay 31% more to fly home for the holidays looks less like a travel story and more like a hostage negotiation with an airport."
+          "contradiction": "The ADA was written to make spaces accessible to disabled people. A growing industry now uses it to generate legal fees from businesses that disabled people have never actually tried to enter.",
+          "absurdity": "The plaintiff's lawyer sometimes can't name which specific barrier their client encountered, because their client wasn't there. That's not a lawsuit — that's a mail merge.",
+          "outside": "From abroad, America's commitment to disability rights looks impressive until you learn that the primary beneficiary of some of these cases is a law firm in a fully accessible office building."
         },
         {
-          "contradiction": "The article helpfully offers tips on how to save on flights that cost 31% more than last year. Spoiler: the tips don't add up to 31%.",
-          "absurdity": "Hitting a 10-year price high is presented as a data point. For the person buying the ticket it's just the number that made them consider driving 14 hours instead.",
-          "outside": "The holiday season in the U.S. is built on the idea that family connection is priceless. The airlines took that literally."
+          "contradiction": "Small business owners who can't afford $50,000 in renovations are being sued by attorneys who charge $400 an hour to defend the rights of people who never walked through the door.",
+          "absurdity": "One owner got a summons before he'd even finished reading what 'ADA compliant grab bar height' means.",
+          "outside": "Other countries enforce accessibility standards through government inspections with fines. The US outsourced it to contingency-fee lawyers. Outcomes vary."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-29/candidate-5.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-29/candidate-5-punchy.jpg"
+      "image": "images/2026-09-30/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-09-30/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本に共通する糸は「立場と行動が逆になっている人たち」。石油株を持つ判事、テロ費で選挙を動かす政府、宇宙飛行士を閉じ込めた会社が独占を誇り、AI安全を叫んだ男が召喚され、航空会社が「需要回復」と呼ぶものに消費者は別の名前をつけている。",
-    "titleEn": "Oil Stocks, Terror Funds, and 31% Airfares: A Day of People Doing the Opposite of What They Said",
-    "subtitleEn": "Five stories, one pattern: the gap between the label and what's inside.",
-    "titleJa": "石油株を持つ判事が「問題ない」と言い続けて、訴訟の前日に退場した話",
+    "thread": "今日の5本は全部「名前・制度・法律が本来の目的から切り離されて独り歩きしている」という話。AIは「スーパーインテリジェンス」になり、クマは床下に居座り続け、反プロパガンダ法は執行されない。",
+    "titleEn": "The Rebrand Is the Policy",
+    "subtitleEn": "Five stories about systems that forgot what they were for.",
+    "titleJa": "「AI」を「スーパーインテリジェンス」と呼び直したら、強くなるらしい",
     "titleAltJa": [
-      "「テロ対策費」で選挙ルールを動かそうとして、裁判官に「霞ですね」と言われた話",
-      "今日の5本、全員が「自分が言ってたこと」と逆のことをやっていた"
+      "税金で自分のCMを作った政権を取り締まる機関を、その政権が任命している件",
+      "今日のアメリカ5本：名前だけ変えて、中身はそのまま"
     ],
-    "leadJa": "石油株を持つ判事が「利益相反ではない」と言い続けて、石油訴訟の直前に静かに退場しました。制度が機能したのか、機能しなかったのか、正直わからない。でも今日はそういう話が5本あります。",
-    "introEn": "Five stories today. Different topics, same shape.\n\nA Supreme Court justice who said owning oil stocks was fine stepped aside the week an oil case arrived. The feds tried to use terrorism money to pressure states on elections — and couldn't explain the connection in court. Boeing is \"incredibly excited\" to be NASA's only astronaut option and can't tell you what it costs. Elon Musk, who spent years warning about dangerous AI, just got subpoenaed to answer for his own. And holiday airfares hit a 10-year high — the airlines are calling it strong demand.\n\nToday's forecast: if you've ever said one thing and quietly done another — welcome, you're in excellent company. The gap between the label and what's inside is basically a career path right now. Your instinct to notice that gap? That's the whole game. Trust it today.",
-    "introJa": "アリト判事が石油訴訟から退場しました。石油株を持ったまま「問題ない」と言い続けていた人が、いざ本番の訴訟が始まる直前に。\n\nで、他を見ると…\n\nテロ対策費を使って州に選挙ルール変更を迫った政府が裁判所に止められ、宇宙飛行士を宇宙に閉じ込めたボーイングが「私たちしかいません」と胸を張り、AI安全を世界中に向かって叫んでいたイーロン・マスクがニューヨーク市議会に召喚され、航空会社が31%の値上げを「旅行需要の回復」と呼んでいる。\n\n今日の5本、全員が「自分の言葉と逆のことをやっていた」んですよね。毎朝ニュースを読んでると、だんだん目が慣れてきて、ラベルと中身が合っていない瞬間がわかるようになってくる。その目、合ってます。少なくとも今日の5本は、全部そっちでした。",
-    "quipEn": "Everybody had a very good reason for doing the exact opposite of what they stood for. Today was just the day it showed.",
-    "quipJa": "「自分の言葉と逆のことをする」が、今日は全員のデフォルトでした。",
+    "leadJa": "Ctrl+H、「artificial intelligence」→「Super Intelligence」、保存完了。\n\nこれで中国に勝てるらしいです。",
+    "introEn": "The US government had a big week for rebranding.\n\nAI is now 'Super Intelligence.' Children who haven't learned to walk yet have government investment accounts they didn't ask for. Taxpayer money is running ads for the guy who spends taxpayer money. And somewhere in Los Angeles, a 550-pound bear just moved into someone's crawlspace for the third time and genuinely does not care.\n\nFive stories today. They all have the same problem: the name, the law, the institution — none of them are doing the thing they were built to do anymore. Somebody just forgot to update that part.\n\nHere's your forecast. If you've been doing the right thing and not getting credit for it, you're in good company. The bear gets evicted repeatedly and keeps finding shelter. Your persistence is not the problem. The system is just running a different version of itself today.",
+    "introJa": "「スーパーインテリジェンス」という単語を、今朝5時に読みました。\n\n大統領令です。冗談ではありません。米国政府は今日から、AIを「AI」と呼んではいけないことになりました。「スーパーインテリジェンス」と呼ぶことになりました。強そうだから、らしいです。\n\nで、他を見ると…\n生まれたばかりの子どもに自動でトランプ口座が開設され、税金で作った政権のCMを取り締まる機関はたぶん動かず、LAでは250キロの熊が何度追い出されても別の床下に引越し、実際に来店したことのない弁護士が障害者法の訴状を送りつけてくる。\n\n今日の5本を貫く糸は、たぶんこれです。「名前と制度は残っているのに、目的だけがどこかへ行った」という話。\n\nということで、今日の占いです。\nあなたがいまやっていることに、ちゃんと名前がついていないとしても。誰にも気づかれていないとしても。名前を変えただけで勝った気になっている人たちの話を、今日は5本読んでください。熊みたいに、戻り続けることにします。少なくとも今日はね",
+    "quipEn": "It's illegal. The people who enforce it work for the guy in the ad. The ad continues.",
+    "quipJa": "中身はそのままで、名前だけ強くした。まあ、そういう手もある。",
     "notesEn": [
-      "Samuel Alito spent years insisting his oil stocks weren't a conflict of interest. Then an oil case showed up at the Supreme Court. He recused himself the same week. 'No conflict' apparently has an expiration date.",
-      "The federal government tried to withhold terrorism funds unless states changed their election rules. A judge asked FEMA to explain the connection between election procedures and preventing terrorist attacks. FEMA could not. Case closed — literally.",
-      "Boeing's pitch for NASA's next astronaut contract: we're the only option, we're incredibly excited, and no, we can't tell you the price. This from the company whose last capsule left two astronauts stranded at the ISS for months.",
-      "NYC just subpoenaed Elon Musk's AI company over AI safety. The same Musk who spent years telling governments they were too dangerous to be trusted with regulating AI. The subpoena is legally binding. The irony is not.",
-      "Holiday airfares are up 31% — a 10-year high. Airlines are calling it 'strong demand.' Passengers are calling it something shorter and louder. The tips to save money are 'book early' and 'be flexible.' You're welcome."
+      "Trump signed an executive order replacing 'artificial intelligence' with 'Super Intelligence' in all federal documents. Every government website now needs a find-and-replace. The compute clusters were not renamed.",
+      "The US Treasury is auto-enrolling up to 60 million children in 'Trump Accounts' — investment accounts with government seed money. The children were not consulted. Opting out requires paperwork. The baby will be crawling before it's processed.",
+      "Ads promoting Trump, paid for by US taxpayers, may violate anti-propaganda laws. The agency that enforces broadcast rules is run by people appointed by the same administration. The article notes it will probably not do anything. And then the article ends.",
+      "Yellow 2120 is a 550-pound black bear in Los Angeles who has been evicted from multiple crawlspaces and keeps finding new ones. The city has a housing crisis. The bear is not participating in it.",
+      "Small business owners across the US are getting sued for ADA violations by law firms whose clients have never visited their shops. The Americans with Disabilities Act is an important civil rights law. It is also, apparently, a business model."
     ],
     "xJa": [
-      "石油株を持ちながら「利益相反ではない」と言い続けた最高裁判事が、石油訴訟の直前に静かに回避を表明。「問題ない」には有効期限があるらしい。",
-      "テロ対策費で選挙ルール変更を迫った政府が、裁判所に「テロと選挙の関係を説明して」と言われて沈黙。霞を掴もうとして、霞ですねと言われた。",
-      "宇宙飛行士を宇宙ステーションに閉じ込めたボーイングの次の営業トーク：「私たちしかいません。値段は言えません。でも大丈夫です」。",
-      "AI安全を世界中に向かって叫び続けたイーロン・マスクが、ニューヨーク市議会から召喚状。「あなたのAI会社のことを話してください」。批判の矛先が自分に向く瞬間。",
-      "米国内線のホリデー運賃が昨年比31%増、10年ぶりの高値。航空会社は「旅行需要の回復」と呼んでいる。乗客は別の言葉で呼んでいる。"
+      "トランプ大統領が大統領令でAIの呼称を禁止。連邦政府は今後「スーパーインテリジェンス」と書くことが義務付けられた。コンピューターには通知が届いていない。",
+      "米財務省、生まれた子ども最大6000万人に自動で「トランプ口座」を開設へ。本人の同意は不要。オプトアウトの書類は9ページ。赤ちゃんが処理を終える頃にはハイハイしています。",
+      "税金でトランプ政権のCMを作るのは反プロパガンダ法に違反する可能性がある。取り締まるFCCは現政権の任命者で構成されている。記事の最後に「たぶん何もしない」と書いてある。",
+      "LA名物の体重250キロの熊「イエロー2120」、また別の家の床下に引越し完了。何度追い出されても戻ってくる。LAは住宅危機の街ですが、熊は関係ないようです。",
+      "アメリカで、来店したことのない弁護士から「スロープの角度が違う」と障害者法違反で訴えられる小規模店舗が急増中。誰も来ていない。訴状だけ来た。"
     ],
     "raidEn": [
-      "The fun part is he had years to recuse himself quietly. He waited for the one week it would look the worst.",
-      "FEMA had one job in court: connect election rules to terrorism. One job.",
-      "The confidence of a company whose last project left astronauts stranded, pitching a no-competition contract without a price — respect, honestly.",
-      "He warned governments couldn't be trusted with AI oversight. Now a government body is making him show up and explain himself. Poetic.",
-      "'Book early and be flexible' is doing a lot of work as travel advice for a 31% price jump."
+      "Four more syllables than 'AI,' zero additional capabilities. Boldest tech strategy of the decade.",
+      "The baby has a government investment account, a name on federal paperwork, and no opinion yet. Technically ahead of most adults.",
+      "Anti-propaganda law, meet the one situation it was literally designed for. You two should really talk.",
+      "Evicted three times, currently in a new crawlspace, not on any waitlist. This bear has cracked the LA housing market.",
+      "No disabled person visited the store. The lawsuit arrived anyway. The law has very efficient delivery."
     ],
     "raidJa": [
-      "何年でも静かに退くタイミングがあったのに、一番目立つ週に退いたのは何かの才能だと思います。この記事、すごく大事なところを突いていますね。",
-      "「テロ対策費と選挙の関係を説明してください」と裁判所に言われて答えられなかった、というのがすべてを語っていますよね。読んでいてスッとしました。",
-      "宇宙飛行士を閉じ込めた翌年に「私たちしかいません、値段は言えません」と言えるのは、ある意味すごい胆力だと思います。記事の着眼点が鋭くて読み応えありました。",
-      "「AI規制は政府に任せられない」と言ってきた人が市議会の召喚状を受け取る、という構図、これ以上の皮肉はないですよね。記事の整理が分かりやすかったです。",
-      "「早めに予約して、柔軟に」というアドバイスを、31%値上がりのニュース記事の中に入れる強さ、笑いました。大事な視点の記事でした。"
+      "「AI」より音節が4つ多い分、強くなった、という理解でよろしいでしょうか。すごい戦略ですね。",
+      "生まれた瞬間に政府の口座ができているのに、オプトアウトに8週間かかる、というのがアメリカですよね。読んでいて笑いました。",
+      "「違法の可能性あり、でも取り締まる機関はたぶん動かない」という一文で終わる記事、もうジャンルとして確立されていますね。",
+      "何度追い出されても戻ってきて、今また別の床下にいる。LA在住の人間には到底できない芸当ですよ。",
+      "来店ゼロ、訴状あり。法律の目的と使われ方がここまで乖離した話、滅多に読めないですよね。"
     ],
     "riffEn": [
-      "Alito's position for years was that owning oil stocks while deciding oil cases was fine. No conflict. He said this clearly, and repeatedly. Then the specific oil case arrived — the one asking whether fossil-fuel companies deceived the public — and Alito posted a letter saying he'd be stepping aside. Not years ago when the criticism started. The week the case showed up. The phrase 'no conflict of interest' apparently comes with terms and conditions nobody saw.",
-      "The federal government's plan: withhold terrorism funds from states unless they change how they run elections. The judge's question: how exactly does changing election administration prevent terrorist attacks? FEMA's answer: silence, essentially. This is a case where the government walked into court, was asked to explain the logic, and discovered there wasn't one. The judge ruled accordingly. The terrorism budget remains, theoretically, for terrorism.",
-      "Boeing's Starliner left two astronauts at the International Space Station — not for a quick visit, for months. That's the context. Now Boeing is pitching itself as NASA's sole astronaut transport provider for the next generation commercial station, and when asked about pricing, they said they couldn't provide details. The full pitch was: we're the only option, we're excited about it, and the number is not available at this time. On Earth, that's called a hostage situation.",
-      "Elon Musk has spent years as one of the loudest voices warning governments that AI is too dangerous to leave unregulated — by governments. He argued, publicly and often, that bureaucrats couldn't be trusted with AI oversight. New York City's response to that argument was a subpoena. Musk or a company representative must now appear before the city council to answer questions about AI safety at SpaceXAI. The regulation he didn't want just made attendance legally mandatory.",
-      "Holiday airfares are up 31 percent over last year, which analysts describe as a 10-year high, and which airlines describe as strong demand. These are both technically accurate descriptions of the same number. One of them is written from the window seat, and one of them is written from the executive floor. The advice for travelers who want to save money: book early, be flexible. The fares will still be a 10-year high. But you'll have booked early."
+      "The US government's plan to beat China in AI is, officially, to stop calling it AI. Trump signed an executive order: federal agencies must now say 'Super Intelligence' in all official documents. Every website, every press release, every policy brief. The technology itself was not renamed. The compute clusters are the same. The training runs are the same. What changed is that a roomful of federal web developers is now doing the most expensive find-and-replace in government history. The race for technological dominance, secured by Ctrl+H.",
+      "The Treasury Department is auto-enrolling up to 60 million children in investment accounts named after the current president. The children did not apply. Their parents did not apply. The accounts just arrive, like a magazine subscription nobody signed up for, except it's the federal government and the magazine has the president's name on the cover. You can opt out. The form is nine pages. Processing takes eight weeks. The baby will have opinions about college by then.",
+      "There's a law against the US government funding domestic propaganda. There's an agency that enforces broadcast rules. That agency is staffed by people appointed by the administration currently running ads about itself, funded by taxpayers, that may violate the law. The article reporting all of this ends with: the FCC probably won't act. That's not a news story. That's a weather forecast with no umbrella attached.",
+      "Yellow 2120 weighs 550 pounds and has been evicted from crawlspaces in Altadena multiple times. Each time, he finds another one. Wildlife officials describe him as persistent. Los Angeles, meanwhile, has a housing crisis so severe that people are leaving the city. The bear has not left. The bear has not paid rent. The bear is, by any reasonable measure, winning.",
+      "A small business owner gets a letter. It's from a law firm. The firm's client has never been to the shop — never walked through the door, never tried the coffee, never attempted the ramp in question. The ramp is apparently two degrees off the required angle. The letter would like $30,000 to discuss it. The Americans with Disabilities Act was written to make the world more accessible. It is doing that. It is also doing this."
     ],
     "riffJa": [
-      "アリト判事のスタンスはずっと「石油株を持っていても問題ない」でした。批判が出ても、繰り返し「問題ない」と言っていた。で、石油会社が消費者を欺いていたかを問う訴訟が実際に来た週に、回避の手紙を出した。批判が始まったときじゃなく、訴訟が来た週に。「利益相反ではない」には、有効期限がついてたみたいです。",
-      "政府がやろうとしたこと：テロ対策費を止めて、州に選挙管理の変更を迫る。裁判所が聞いたこと：選挙ルールの変更とテロ対策は、どう繋がりますか？　FEMAが答えられたこと：何も。霞を掴もうとして、裁判官に「霞ですね」と言われた。判決は「やってはいけない」。テロ対策費は、とりあえずテロ対策に使われることになりました。",
-      "スターライナーが宇宙飛行士をISSに数ヶ月閉じ込めた、あのボーイングです。その会社が次世代宇宙ステーション向けの宇宙飛行士輸送で「独占的な位置にある」と意欲を語り、値段を聞かれると「詳細は開示できない」と答えた。\n\n競争相手なし、値段なし、でも興奮しています、という営業トーク。地上でやったら「じゃあいいです」ってなるやつ。宇宙だとそうはならないのが問題なんですよね。",
-      "「AIを政府に規制させてはいけない」とずっと言い続けてきたのはマスク氏です。政府は信用できない、官僚にAIの何がわかる、と。ニューヨーク市議会の返答が召喚状でした。出頭しないと法的な問題になります。規制を拒んできた人が、規制の手続きで呼び出される。これを皮肉と呼ばずに何と呼ぶのか。",
-      "ホリデーシーズンの国内線往復が31%上昇。10年ぶりの高値。航空会社はこれを「旅行需要の回復」と呼んでいます。乗る側は別の言葉で呼んでいる。節約のアドバイスは「早めに予約」と「日程を柔軟に」。31%高いままですが、早めに高い値段で買えます。ありがとうございます。"
+      "中国のAI開発に対抗するため、アメリカ政府が選んだ手段は「名前を変えること」でした。大統領令。公式文書全部。「AI」は今日から「スーパーインテリジェンス」です。\n\nコンピューターは変わっていません。データセンターも変わっていません。変わったのは、連邦政府のウェブ担当者が今ごろ全ドキュメントを開いてCtrl+Hを押しているということです。覇権争い、保存完了。",
+      "生まれた瞬間から、子どもには「トランプ口座」が自動で開設されます。本人は何も言っていません。親も申し込んでいません。ただ、口座がある。\n\n「小さな政府」を掲げてきた党が、産声を上げた赤ちゃんの名前を政府のデータベースに登録する仕組みを作った。オプトアウトしたければ9ページの書類を提出してください。処理に8週間かかります。その頃、赤ちゃんはハイハイしています。",
+      "税金で政権のCMを作るのは、連邦法に違反する可能性があります。それを取り締まるFCCは、そのCMに映っている人が任命した委員で構成されています。記事の最後の一文は「たぶん何もしない」。\n\nこれはニュース記事です。天気予報ではありません。でも「雨が降るかもしれないが、傘は配られない」。まあ、同じか。",
+      "体重250キロの熊が、何度追い出されても別の家の床下に引越しています。LAではこれが3回目です。地元の担当者は「しつこい」と言っています。\n\nLA在住の人間は家賃が払えなくて出ていく。熊は無断で入ってきて追い出されても戻ってくる。どちらが住宅市場に強いか、今日の時点では熊です。",
+      "突然、訴状が届きます。障害者法違反。弁護士の依頼人は、その店に一度も来たことがありません。スロープの角度が規定より少し足りない、という話です。\n\nADA（障害者法）はアクセシビリティを守るための大切な法律です。ただ、その法律が「来店ゼロの依頼人のために訴状を送るビジネス」の根拠になっているとき、守られているのは誰なんですかね。"
     ],
     "asideEn": [
-      "He waited for the worst possible week.",
-      "They couldn't explain it. In court.",
-      "No price, no competition, no problem — apparently.",
-      "Made legally mandatory. By a city council.",
-      "'Strong demand.' Sure."
+      "The word changed. Nothing else did.",
+      "Opt out at your earliest convenience. The baby cannot.",
+      "The law exists. So does the loophole.",
+      "Persistent is one word for it.",
+      "The ramp was two degrees off. The bill was not."
     ],
     "asideJa": [
-      "有効期限、切れてました。",
-      "裁判所で説明できなかった。",
-      "競合なし、値段なし、強気あり。",
-      "召喚状って効くんですね。",
-      "需要の回復、とのことです。"
+      "名前だけ強くなりました。",
+      "赤ちゃんは書類が書けません。",
+      "法律はある。執行する気がない。",
+      "クマ、強い。",
+      "来店ゼロ。請求書だけ来た。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Supreme Court",
-      "Elon Musk",
-      "Boeing"
+      "News Commentary",
+      "Trump",
+      "Americans with Disabilities Act"
     ],
-    "fullEn": "# Oil Stocks, Terror Funds, and 31% Airfares: A Day of People Doing the Opposite of What They Said\n\n## Today's Forecast\n\nFive stories today. Different topics, same shape.\n\nA Supreme Court justice who said owning oil stocks was fine stepped aside the week an oil case arrived. The feds tried to use terrorism money to pressure states on elections — and couldn't explain the connection in court. Boeing is \"incredibly excited\" to be NASA's only astronaut option and can't tell you what it costs. Elon Musk, who spent years warning about dangerous AI, just got subpoenaed to answer for his own. And holiday airfares hit a 10-year high — the airlines are calling it strong demand.\n\nToday's forecast: if you've ever said one thing and quietly done another — welcome, you're in excellent company. The gap between the label and what's inside is basically a career path right now. Your instinct to notice that gap? That's the whole game. Trust it today.\n\n---\n\n## 1. Supreme Court Justice Alito Recuses Himself From Oil Case — After Owning Oil Stocks\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/28/samuel-alito-supreme-court-oil-climate-case)*\n\nSupreme Court Justice Samuel Alito recused himself Monday from a major climate-change case examining whether fossil-fuel companies deceived the public about the risks of their products. The decision came after Alito faced mounting calls to step aside due to personal stock holdings in oil companies. Alito posted a letter explaining his recusal shortly before the Court was set to take up the matter.\n\n**Why It's Funny**\n\nAlito's position for years was that owning oil stocks while deciding oil cases was fine. No conflict. He said this clearly, and repeatedly. Then the specific oil case arrived — the one asking whether fossil-fuel companies deceived the public — and Alito posted a letter saying he'd be stepping aside. Not years ago when the criticism started. The week the case showed up. The phrase 'no conflict of interest' apparently comes with terms and conditions nobody saw.\n\n**Say It Out Loud**\n\n> He said owning oil stocks while judging oil cases was fine — right up until the oil case showed up.\n\n---\n\n## 2. Judge Rules Feds Can't Hold Terror Funds Hostage to Force Election Rule Changes\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html)*\n\nA federal judge ruled Monday that the federal government cannot withhold counterterrorism funds from states as leverage to force changes in election administration. The judge found that FEMA had failed to explain how the demanded election-related changes were connected to preventing terrorist attacks. The ruling blocks an effort that critics said weaponized homeland security money for political purposes.\n\n**Why It's Funny**\n\nThe federal government's plan: withhold terrorism funds from states unless they change how they run elections. The judge's question: how exactly does changing election administration prevent terrorist attacks? FEMA's answer: silence, essentially. This is a case where the government walked into court, was asked to explain the logic, and discovered there wasn't one. The judge ruled accordingly. The terrorism budget remains, theoretically, for terrorism.\n\n**Say It Out Loud**\n\n> The feds said election rules and terrorism are connected. The judge said: show your work. They couldn't.\n\n---\n\n## 3. Boeing Is 'Incredibly Excited' to Be America's Only Astronaut Taxi — Just Don't Ask What It Costs\n\n*Ars Technica — [source](https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/)*\n\nBoeing expressed enthusiasm about being positioned as the nation's sole astronaut transportation provider for NASA's next-generation commercial space station program. However, company representatives acknowledged they 'couldn't provide detailed pricing' to the competing station suppliers evaluating the contract. The statement comes after Starliner's high-profile struggles, including astronauts being stranded at the International Space Station.\n\n**Why It's Funny**\n\nBoeing's Starliner left two astronauts at the International Space Station — not for a quick visit, for months. That's the context. Now Boeing is pitching itself as NASA's sole astronaut transport provider for the next generation commercial station, and when asked about pricing, they said they couldn't provide details. The full pitch was: we're the only option, we're excited about it, and the number is not available at this time. On Earth, that's called a hostage situation.\n\n**Say It Out Loud**\n\n> Boeing left astronauts stuck in space and their pitch for the next contract is: 'we're the only one, so.'\n\n---\n\n## 4. NYC Subpoenas Elon Musk's AI Company Over AI Safety — Yes, That AI Safety\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html)*\n\nThe New York City Council issued a subpoena to Elon Musk and his AI company SpaceXAI, requiring Musk or a company representative to testify as part of an investigation into AI safety. The subpoena is part of a broader effort by the city council to examine how AI technologies are being developed and deployed. SpaceXAI has not yet commented publicly on the subpoena.\n\n**Why It's Funny**\n\nElon Musk has spent years as one of the loudest voices warning governments that AI is too dangerous to leave unregulated — by governments. He argued, publicly and often, that bureaucrats couldn't be trusted with AI oversight. New York City's response to that argument was a subpoena. Musk or a company representative must now appear before the city council to answer questions about AI safety at SpaceXAI. The regulation he didn't want just made attendance legally mandatory.\n\n**Say It Out Loud**\n\n> Musk spent years warning the world about dangerous AI. NYC just asked him to explain his own.\n\n---\n\n## 5. Holiday Airfares Hit 10-Year High — Up 31% — As Airlines Perfect the Art of Festive Gouging\n\n*CBS News US — [source](https://www.cbsnews.com/news/holiday-airfares-10-year-high-jet-fuel-costs/)*\n\nAirfares for round-trip domestic U.S. flights during the holiday season have jumped 31 percent compared to the same period last year, reaching a 10-year high according to a new analysis. Analysts warn that prices are likely to climb further as the holidays approach. The surge comes as travelers are already managing higher costs across most areas of holiday spending.\n\n**Why It's Funny**\n\nHoliday airfares are up 31 percent over last year, which analysts describe as a 10-year high, and which airlines describe as strong demand. These are both technically accurate descriptions of the same number. One of them is written from the window seat, and one of them is written from the executive floor. The advice for travelers who want to save money: book early, be flexible. The fares will still be a 10-year high. But you'll have booked early.\n\n**Say It Out Loud**\n\n> Fares are up 31% but don't worry — the article has tips on how to save. The tips are 'book early' and 'be flexible.' You're welcome.\n\n---\n\n## Today's Punchline\n\n> Everybody had a very good reason for doing the exact opposite of what they stood for. Today was just the day it showed.\n",
-    "fullJa": "# 石油株を持つ判事が「問題ない」と言い続けて、訴訟の前日に退場した話\n\n## 今日を占うよ〜\n\nアリト判事が石油訴訟から退場しました。石油株を持ったまま「問題ない」と言い続けていた人が、いざ本番の訴訟が始まる直前に。\n\nで、他を見ると…\n\nテロ対策費を使って州に選挙ルール変更を迫った政府が裁判所に止められ、宇宙飛行士を宇宙に閉じ込めたボーイングが「私たちしかいません」と胸を張り、AI安全を世界中に向かって叫んでいたイーロン・マスクがニューヨーク市議会に召喚され、航空会社が31%の値上げを「旅行需要の回復」と呼んでいる。\n\n今日の5本、全員が「自分の言葉と逆のことをやっていた」んですよね。毎朝ニュースを読んでると、だんだん目が慣れてきて、ラベルと中身が合っていない瞬間がわかるようになってくる。その目、合ってます。少なくとも今日の5本は、全部そっちでした。\n\n---\n\n## 1. Supreme Court Justice Alito Recuses Himself From Oil Case — After Owning Oil Stocks\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/28/samuel-alito-supreme-court-oil-climate-case)）*\n\n連邦最高裁判事サミュエル・アリトが、石油会社の欺瞞的行為をめぐる重要な気候変動訴訟から回避を表明した。同判事が石油株を保有していることへの批判が高まっていたためで、回避は事実上「自分で認めた」格好となった。\n\n**どこが笑える？**\n\nアリト判事のスタンスはずっと「石油株を持っていても問題ない」でした。批判が出ても、繰り返し「問題ない」と言っていた。で、石油会社が消費者を欺いていたかを問う訴訟が実際に来た週に、回避の手紙を出した。批判が始まったときじゃなく、訴訟が来た週に。「利益相反ではない」には、有効期限がついてたみたいです。\n\n**このニュースをジョークにするなら...**\n\n> 石油株を持ったまま石油訴訟を裁くのは問題ない、ずっとそう言ってたんですよ。石油訴訟が来るまでは。\n\n---\n\n## 2. Judge Rules Feds Can't Hold Terror Funds Hostage to Force Election Rule Changes\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/28/elections-dhs-counterterrorism.html)）*\n\n連邦判事が、政府が対テロ補助金を「人質」にして州に選挙管理の変更を強いることはできないとの判断を下した。FEMAが選挙変更とテロ対策の関連性を一切説明できなかったためだ。\n\n**どこが笑える？**\n\n政府がやろうとしたこと：テロ対策費を止めて、州に選挙管理の変更を迫る。裁判所が聞いたこと：選挙ルールの変更とテロ対策は、どう繋がりますか？　FEMAが答えられたこと：何も。霞を掴もうとして、裁判官に「霞ですね」と言われた。判決は「やってはいけない」。テロ対策費は、とりあえずテロ対策に使われることになりました。\n\n**このニュースをジョークにするなら...**\n\n> テロ対策費と選挙ルールは繋がってると言った。裁判所に「説明して」と言われて、できなかった。\n\n---\n\n## 3. Boeing Is 'Incredibly Excited' to Be America's Only Astronaut Taxi — Just Don't Ask What It Costs\n\n*Ars Technica（[記事](https://arstechnica.com/space/2026/09/boeing-incredibly-excited-to-serve-as-nations-only-astronaut-transportation/)）*\n\nボーイングが、自社の宇宙船スターライナーが次世代宇宙ステーション向けの宇宙飛行士輸送で独占的な位置にあると意欲を示す一方、価格の詳細は開示できないと明かした。\n\n**どこが笑える？**\n\nスターライナーが宇宙飛行士をISSに数ヶ月閉じ込めた、あのボーイングです。その会社が次世代宇宙ステーション向けの宇宙飛行士輸送で「独占的な位置にある」と意欲を語り、値段を聞かれると「詳細は開示できない」と答えた。\n\n競争相手なし、値段なし、でも興奮しています、という営業トーク。地上でやったら「じゃあいいです」ってなるやつ。宇宙だとそうはならないのが問題なんですよね。\n\n**このニュースをジョークにするなら...**\n\n> 宇宙飛行士を宇宙に閉じ込めた会社の次の営業トークが「うちしかないので」なんですよ。\n\n---\n\n## 4. NYC Subpoenas Elon Musk's AI Company Over AI Safety — Yes, That AI Safety\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/28/elon-musk-spacexai-subpoenaed-by-nyc-in-ai-safety-investigation.html)）*\n\nニューヨーク市議会がイーロン・マスク氏のAI企業「SpaceXAI」にAI安全性に関する調査への出頭を求める召喚状を発行した。マスク氏本人または代理人が証言するよう求めている。\n\n**どこが笑える？**\n\n「AIを政府に規制させてはいけない」とずっと言い続けてきたのはマスク氏です。政府は信用できない、官僚にAIの何がわかる、と。ニューヨーク市議会の返答が召喚状でした。出頭しないと法的な問題になります。規制を拒んできた人が、規制の手続きで呼び出される。これを皮肉と呼ばずに何と呼ぶのか。\n\n**このニュースをジョークにするなら...**\n\n> AIの危険性をずっと訴えてきたマスク氏、今度は自分のAIの安全性を説明しに来てくださいと言われてる。\n\n---\n\n## 5. Holiday Airfares Hit 10-Year High — Up 31% — As Airlines Perfect the Art of Festive Gouging\n\n*CBS News US（[記事](https://www.cbsnews.com/news/holiday-airfares-10-year-high-jet-fuel-costs/)）*\n\n今年のホリデーシーズンの米国内線往復航空運賃が昨年同期比31%上昇し、10年間で最高水準に達したという分析結果が明らかになった。\n\n**どこが笑える？**\n\nホリデーシーズンの国内線往復が31%上昇。10年ぶりの高値。航空会社はこれを「旅行需要の回復」と呼んでいます。乗る側は別の言葉で呼んでいる。節約のアドバイスは「早めに予約」と「日程を柔軟に」。31%高いままですが、早めに高い値段で買えます。ありがとうございます。\n\n**このニュースをジョークにするなら...**\n\n> 運賃31%上昇、でも安くする方法があるって記事に書いてある。そのコツは「早めに買う」と「柔軟に」。役に立った？\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「自分の言葉と逆のことをする」が、今日は全員のデフォルトでした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d1のcaptions[1]に禁句「Nothing says」、d2のcaptions[2]に同じく「Nothing screams」が残存。d4のnewsEn/summaryに「SpaceXAI」という出典不明の社名が含まれているが元データの事実扱いで据え置き（編集不可領域）。xJa[1]が138字でオーバー。introJaの「今日の占い」ブロックが講釈口調でペルソナ不一致。d3 captions[3]の「cute concept」は汎用ジョーク臭があるが構造は成立しているため据え置き。修正箇所：d1 captions[1]・d2 captions[2]の禁句ジョーク書き直し、xJa[1]の字数修正、introJa末尾の「占い」段を話し言葉・当事者性に修正。 ／ 文体パス: 2箇所直した。introJaの締め「その目、正しいです」がプレゼン口調で丁寧すぎたのと、riffJa[0]の「どうやら有効期限がついていたようです」が翻訳調だったので、どちらも話し言葉に落とした。"
+    "fullEn": "# The Rebrand Is the Policy\n\n## Today's Forecast\n\nThe US government had a big week for rebranding.\n\nAI is now 'Super Intelligence.' Children who haven't learned to walk yet have government investment accounts they didn't ask for. Taxpayer money is running ads for the guy who spends taxpayer money. And somewhere in Los Angeles, a 550-pound bear just moved into someone's crawlspace for the third time and genuinely does not care.\n\nFive stories today. They all have the same problem: the name, the law, the institution — none of them are doing the thing they were built to do anymore. Somebody just forgot to update that part.\n\nHere's your forecast. If you've been doing the right thing and not getting credit for it, you're in good company. The bear gets evicted repeatedly and keeps finding shelter. Your persistence is not the problem. The system is just running a different version of itself today.\n\n---\n\n## 1. Trump Orders US Government to Stop Saying 'AI,' Insist on 'Super Intelligence' Instead\n\n*The Verge — [source](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)*\n\nPresident Trump signed an executive order mandating that all US government websites, policy documents, and press releases replace the term 'artificial intelligence' with 'Super Intelligence.' The order instructs federal agencies to update their official materials accordingly. Trump has argued the word 'super' better reflects American ambitions in the technology race.\n\n**Why It's Funny**\n\nThe US government's plan to beat China in AI is, officially, to stop calling it AI. Trump signed an executive order: federal agencies must now say 'Super Intelligence' in all official documents. Every website, every press release, every policy brief. The technology itself was not renamed. The compute clusters are the same. The training runs are the same. What changed is that a roomful of federal web developers is now doing the most expensive find-and-replace in government history. The race for technological dominance, secured by Ctrl+H.\n\n**Say It Out Loud**\n\n> The US can't out-build China on AI, but we can absolutely out-capitalize it.\n\n---\n\n## 2. Treasury to Auto-Enroll 60 Million Children in 'Trump Accounts' Whether Families Ask or Not\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html)*\n\nThe US Treasury Department announced it will automatically enroll eligible children in 'Trump Accounts,' a new federally backed investment account program. Up to 60 million accounts could be created through the opt-out enrollment system. The accounts are intended to give children a financial head start, with initial government seed funding.\n\n**Why It's Funny**\n\nThe Treasury Department is auto-enrolling up to 60 million children in investment accounts named after the current president. The children did not apply. Their parents did not apply. The accounts just arrive, like a magazine subscription nobody signed up for, except it's the federal government and the magazine has the president's name on the cover. You can opt out. The form is nine pages. Processing takes eight weeks. The baby will have opinions about college by then.\n\n**Say It Out Loud**\n\n> Congrats on the new baby! It's a girl. Seven pounds, three ounces. Already has a government account she didn't ask for.\n\n---\n\n## 3. Trump Ads Paid for by US Taxpayers May Violate Anti-Propaganda Laws — FCC Probably Won't Do Anything\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/)*\n\nReports allege that advertisements promoting President Trump and his administration have been funded by US taxpayer money, potentially running afoul of federal laws prohibiting government-funded domestic propaganda. The Federal Communications Commission, which would ordinarily have jurisdiction over broadcast compliance, is considered unlikely to take action given the current political environment.\n\n**Why It's Funny**\n\nThere's a law against the US government funding domestic propaganda. There's an agency that enforces broadcast rules. That agency is staffed by people appointed by the administration currently running ads about itself, funded by taxpayers, that may violate the law. The article reporting all of this ends with: the FCC probably won't act. That's not a news story. That's a weather forecast with no umbrella attached.\n\n**Say It Out Loud**\n\n> It's illegal. The people who enforce it work for the guy in the ad. Moving on.\n\n---\n\n## 4. LA's 550-Pound Celebrity Bear Evicted Again, Immediately Finds Another Crawlspace\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace)*\n\nYellow 2120, a 550-pound black bear who gained notoriety last November by taking up residence under an Altadena home, has been evicted from multiple crawlspaces in the LA neighborhood — and keeps returning. Despite repeated removals, the bear has moved into yet another resident's crawlspace. Local wildlife officials describe him as persistent.\n\n**Why It's Funny**\n\nYellow 2120 weighs 550 pounds and has been evicted from crawlspaces in Altadena multiple times. Each time, he finds another one. Wildlife officials describe him as persistent. Los Angeles, meanwhile, has a housing crisis so severe that people are leaving the city. The bear has not left. The bear has not paid rent. The bear is, by any reasonable measure, winning.\n\n**Say It Out Loud**\n\n> This bear has been evicted more times than he has a social security number, and he's doing fine.\n\n---\n\n## 5. Small Businesses Swamped by Disability Access Lawsuits — Often From Lawyers They've Never Met\n\n*The Guardian US — [source](https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses)*\n\nSmall business owners across the US are facing a surge of lawsuits alleging violations of the Americans with Disabilities Act, with some suits filed by law firms whose clients have never visited the establishments named. Shop and cafe owners say the cases feel like legal shakedowns, while disability advocates argue the violations are real and enforcement is necessary. The lawsuits often target technical non-compliance issues rather than obvious barriers.\n\n**Why It's Funny**\n\nA small business owner gets a letter. It's from a law firm. The firm's client has never been to the shop — never walked through the door, never tried the coffee, never attempted the ramp in question. The ramp is apparently two degrees off the required angle. The letter would like $30,000 to discuss it. The Americans with Disabilities Act was written to make the world more accessible. It is doing that. It is also doing this.\n\n**Say It Out Loud**\n\n> Your ramp is two degrees off. A lawyer who's never been to your neighborhood would like $30,000.\n\n---\n\n## Today's Punchline\n\n> It's illegal. The people who enforce it work for the guy in the ad. The ad continues.\n",
+    "fullJa": "# 「AI」を「スーパーインテリジェンス」と呼び直したら、強くなるらしい\n\n## 今日を占うよ〜\n\n「スーパーインテリジェンス」という単語を、今朝5時に読みました。\n\n大統領令です。冗談ではありません。米国政府は今日から、AIを「AI」と呼んではいけないことになりました。「スーパーインテリジェンス」と呼ぶことになりました。強そうだから、らしいです。\n\nで、他を見ると…\n生まれたばかりの子どもに自動でトランプ口座が開設され、税金で作った政権のCMを取り締まる機関はたぶん動かず、LAでは250キロの熊が何度追い出されても別の床下に引越し、実際に来店したことのない弁護士が障害者法の訴状を送りつけてくる。\n\n今日の5本を貫く糸は、たぶんこれです。「名前と制度は残っているのに、目的だけがどこかへ行った」という話。\n\nということで、今日の占いです。\nあなたがいまやっていることに、ちゃんと名前がついていないとしても。誰にも気づかれていないとしても。名前を変えただけで勝った気になっている人たちの話を、今日は5本読んでください。熊みたいに、戻り続けることにします。少なくとも今日はね\n\n---\n\n## 1. Trump Orders US Government to Stop Saying 'AI,' Insist on 'Super Intelligence' Instead\n\n*The Verge（[記事](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)）*\n\nトランプ大統領が署名した大統領令により、米国行政府はAIを「人工知能（Artificial Intelligence）」ではなく「スーパーインテリジェンス」と公式に呼称することが義務づけられた。\n\n**どこが笑える？**\n\n中国のAI開発に対抗するため、アメリカ政府が選んだ手段は「名前を変えること」でした。大統領令。公式文書全部。「AI」は今日から「スーパーインテリジェンス」です。\n\nコンピューターは変わっていません。データセンターも変わっていません。変わったのは、連邦政府のウェブ担当者が今ごろ全ドキュメントを開いてCtrl+Hを押しているということです。覇権争い、保存完了。\n\n**このニュースをジョークにするなら...**\n\n> 中国にAIで勝てないなら、せめて名前で勝てばいい——これがアメリカの最終兵器です。\n\n---\n\n## 2. Treasury to Auto-Enroll 60 Million Children in 'Trump Accounts' Whether Families Ask or Not\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html)）*\n\n米財務省は、子ども向け投資口座「トランプ口座」への自動加入を開始すると発表した。対象となる子どもは最大6000万人に上る見込み。\n\n**どこが笑える？**\n\n生まれた瞬間から、子どもには「トランプ口座」が自動で開設されます。本人は何も言っていません。親も申し込んでいません。ただ、口座がある。\n\n「小さな政府」を掲げてきた党が、産声を上げた赤ちゃんの名前を政府のデータベースに登録する仕組みを作った。オプトアウトしたければ9ページの書類を提出してください。処理に8週間かかります。その頃、赤ちゃんはハイハイしています。\n\n**このニュースをジョークにするなら...**\n\n> おめでとうございます! 女の子です。3.3キロ。すでに政府口座に加入済みです。\n\n---\n\n## 3. Trump Ads Paid for by US Taxpayers May Violate Anti-Propaganda Laws — FCC Probably Won't Do Anything\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/)）*\n\nトランプ政権が税金で制作・配信した広告が、米国の反プロパガンダ法に違反している可能性があるとArs Technicaが報じた。FCCが介入する可能性は低いとみられている。\n\n**どこが笑える？**\n\n税金で政権のCMを作るのは、連邦法に違反する可能性があります。それを取り締まるFCCは、そのCMに映っている人が任命した委員で構成されています。記事の最後の一文は「たぶん何もしない」。\n\nこれはニュース記事です。天気予報ではありません。でも「雨が降るかもしれないが、傘は配られない」。まあ、同じか。\n\n**このニュースをジョークにするなら...**\n\n> 違法の可能性があります。取り締まる人は広告に出てる人の部下です。以上。\n\n---\n\n## 4. LA's 550-Pound Celebrity Bear Evicted Again, Immediately Finds Another Crawlspace\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace)）*\n\nロサンゼルス・アルタデナ地区の民家の床下に居座ることで有名な体重250キロの熊「イエロー2120」が、再び別の家の床下に侵入していることが確認された。\n\n**どこが笑える？**\n\n体重250キロの熊が、何度追い出されても別の家の床下に引越しています。LAではこれが3回目です。地元の担当者は「しつこい」と言っています。\n\nLA在住の人間は家賃が払えなくて出ていく。熊は無断で入ってきて追い出されても戻ってくる。どちらが住宅市場に強いか、今日の時点では熊です。\n\n**このニュースをジョークにするなら...**\n\n> この熊、社会保険番号もないのに強制退去の経験だけは誰より豊富ですよ。\n\n---\n\n## 5. Small Businesses Swamped by Disability Access Lawsuits — Often From Lawyers They've Never Met\n\n*The Guardian US（[記事](https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses)）*\n\n米国でADA（障害者法）に基づくアクセシビリティ違反を訴える訴訟が急増しており、小規模店舗やカフェのオーナーが、実際に来店したことのない弁護士からの突然の訴状に頭を抱えている。\n\n**どこが笑える？**\n\n突然、訴状が届きます。障害者法違反。弁護士の依頼人は、その店に一度も来たことがありません。スロープの角度が規定より少し足りない、という話です。\n\nADA（障害者法）はアクセシビリティを守るための大切な法律です。ただ、その法律が「来店ゼロの依頼人のために訴状を送るビジネス」の根拠になっているとき、守られているのは誰なんですかね。\n\n**このニュースをジョークにするなら...**\n\n> スロープの角度が2度ずれてます。来たことない弁護士から300万円請求がきます。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 中身はそのままで、名前だけ強くした。まあ、そういう手もある。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d1のcaption2・captionJa2（「400%」ジョーク）はセットアップで完全にオチが見えてしまう型。d3のcaption3は汎用「you two should talk」型で構築されたジョークに差し替え。xJa1が135字を超過しているため短縮。introJaの「少なくとも今日はね」が宙吊りなので締め直し。それ以外は合格。 ／ 文体パス: 3箇所修正。riffJa[2]の締め「構造は同じです」が説明口調、riffJa[4]の「少し考える必要があります」が典型的AI締め、introJaの最後の一文が整いすぎの総括になっていた。"
   },
   "carousel": [
-    "images/2026-09-29/carousel/slide-1.jpg",
-    "images/2026-09-29/carousel/slide-2.jpg",
-    "images/2026-09-29/carousel/slide-3.jpg",
-    "images/2026-09-29/carousel/slide-4.jpg",
-    "images/2026-09-29/carousel/slide-5.jpg",
-    "images/2026-09-29/carousel/slide-6.jpg",
-    "images/2026-09-29/carousel/slide-7.jpg"
+    "images/2026-09-30/carousel/slide-1.jpg",
+    "images/2026-09-30/carousel/slide-2.jpg",
+    "images/2026-09-30/carousel/slide-3.jpg",
+    "images/2026-09-30/carousel/slide-4.jpg",
+    "images/2026-09-30/carousel/slide-5.jpg",
+    "images/2026-09-30/carousel/slide-6.jpg",
+    "images/2026-09-30/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-29/note-header.jpg",
-    "substack": "images/2026-09-29/substack-cover.jpg"
+    "note": "images/2026-09-30/note-header.jpg",
+    "substack": "images/2026-09-30/substack-cover.jpg"
   }
 };
