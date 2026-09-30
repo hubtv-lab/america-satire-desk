@@ -1,366 +1,366 @@
 {
   "version": 1,
-  "date": "2026-09-30",
-  "generatedAt": "2026-09-29T23:02:53+00:00",
+  "date": "2026-10-01",
+  "generatedAt": "2026-09-30T23:05:14+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump Orders US Government to Stop Saying 'AI,' Insist on 'Super Intelligence' Instead",
-        "source": "The Verge",
-        "date": "2026-09-30",
-        "url": "https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai",
-        "summary": "トランプ大統領が署名した大統領令により、米国行政府はAIを「人工知能（Artificial Intelligence）」ではなく「スーパーインテリジェンス」と公式に呼称することが義務づけられた。"
+        "headline": "Treasury Opens Student Loan 'Support Center' as 9.3 Million Borrowers Are Already in Default",
+        "source": "CNBC Top News",
+        "date": "2026-10-01",
+        "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
+        "summary": "トランプ政権は、学生ローンの延滞・債務不履行に陥った借り手向けに「デフォルト・ローン・サポートセンター」を開設すると発表した。現在930万人以上が債務不履行状態にある。"
       },
       "commentary": [
-        "<b>矛盾:</b> 政策の中身を変えるより先に名前を変えた——「問題を解決するのではなく、問題に別の名前をつける」という高度なテクノロジー戦略ですね。",
-        "<b>滑稽さ:</b> 政府のウェブ担当者が今ごろ全ドキュメントのCtrl+Hを総動員してるわけで、それ自体がまあまあ知的な作業じゃないですか。",
-        "<b>日本・海外から見ると:</b> アメリカが中国のAI覇権に対抗する手段として選んだのが「リブランディング」だとしたら、日本の経産省も「AI」を「超知性」と呼び直せば予算が倍になるんですかね。"
+        "<b>矛盾:</b> 制度によって930万人を債務不履行に追い込んだ政権が、その930万人を助けるための窓口を「成果」として発表してるんですよ。消防署が放火して、翌日「新しい消防車を導入しました」って言ってる感じ。",
+        "<b>滑稽さ:</b> センター名が「デフォルト・ローン・サポートセンター」、つまり「あなたはもう詰んでます窓口」なんですよね。ネーミングだけで現状を全部白状してる。",
+        "<b>日本・海外から見ると:</b> 「930万人が同時に借金踏み倒してる国」が「センターを作りました」で解決しようとしてるのを見て、海外のエコノミストたちは今ごろ額に手を当ててると思いますよ。"
       ],
       "imagePrompts": [
-        "A large government printing press stamping 'SUPER INTELLIGENCE' in bold red ink over stacks of documents that previously said 'Artificial Intelligence,' with a bureaucrat watching proudly, arms crossed",
-        "A federal office whiteboard with 'AI' crossed out in thick marker and 'SUPER INTELLIGENCE' written next to it with a gold star sticker, surrounded by confused-looking officials in suits",
-        "An enormous glossy podium sign reading 'SUPER INTELLIGENCE SUMMIT' in all caps, flanked by American flags, with a tiny footnote at the bottom that reads 'formerly known as AI'"
+        "A grand government building with a freshly installed sign reading 'Default Loans Support Center' over the entrance, while an enormous crowd stretches around the block. A single clerk visible through the window.",
+        "A fire department press conference where officials proudly display a new fire truck, while smoke rises from buildings in the background.",
+        "An official podium with Treasury Department seals, a cheerful ribbon-cutting ceremony in front of a door labeled 'You Are Already In Default — Welcome.'"
       ],
       "captions": [
-        "The US can't out-build China on AI, but we can absolutely out-capitalize it.",
-        "Fun fact: 'Super Intelligence' has four more syllables than 'AI,' which experts say represents a 400% improvement.",
-        "Every federal agency just got the same homework: Ctrl+H, 'artificial intelligence,' 'Super Intelligence,' save. Democracy secured.",
-        "You ever rebrand something instead of fixing it? The US government would like to speak with you.",
-        "Sir, the robots don't care what we call them."
+        "Nine-point-three million people in default, and the fix is... a center. Not a policy. A center. With, presumably, hold music.",
+        "They named it the Default Loans Support Center. I respect the honesty. Most branding tries to hide the disaster in the name.",
+        "Think about the staff meeting where someone said 'we need to help the people we just put in default' and everyone nodded like that was the logical next step.",
+        "Switzerland has 8.7 million people. The U.S. just opened a help desk for more humans than that.",
+        "The ribbon-cutting was lovely. The 9.3 million people who needed a ribbon-cutting two years ago were not available for comment."
       ],
       "captionsJa": [
-        "中国にAIで勝てないなら、せめて名前で勝てばいい——これがアメリカの最終兵器です。",
-        "「スーパーインテリジェンス」は「AI」より音節が多い。専門家によると、それだけで400%の改善だそうです。",
-        "全省庁の担当者に今日の宿題: Ctrl+H、「人工知能」→「スーパーインテリジェンス」、上書き保存。民主主義、守られました。",
-        "解決できないなら名前を変えればいい——そういうの、ありますよね。連邦政府がやると「大統領令」って呼ばれるんですよ。",
-        "AIに聞いてみたんですが、自分が何て呼ばれようと別に気にしないって言ってました。"
+        "930万人が債務不履行で、解決策が「センター」。政策じゃなく。センター。たぶん保留音付きで。",
+        "名前が「デフォルト・ローン・サポートセンター」ですよ。名称で全部バラしてる。ふつうはブランディングで惨状を隠すじゃないですか。",
+        "「自分たちが追い込んだ人たちを助けよう」って誰かが会議で言い出して、全員うなずいてたその場面を想像してしまう。",
+        "スイスの人口が870万人。アメリカはそれより多い人数のために窓口を作った。",
+        "テープカットは華やかでした。2年前に窓口が必要だった930万人は、コメントを取れる状況じゃありませんでした。"
       ],
-      "newsEn": "President Trump signed an executive order mandating that all US government websites, policy documents, and press releases replace the term 'artificial intelligence' with 'Super Intelligence.' The order instructs federal agencies to update their official materials accordingly. Trump has argued the word 'super' better reflects American ambitions in the technology race.",
+      "newsEn": "The U.S. Treasury Department announced the launch of a 'Default Loans Support Center' aimed at helping student loan borrowers who have fallen behind on payments. The announcement came the same day new data revealed that 9.3 million borrowers are currently in default. The Trump administration had previously ended pandemic-era repayment protections and resumed collections.",
       "ironyEn": [
         {
-          "contradiction": "The US government's strategy to win the global AI race is apparently to rename it — no new funding, no new research, just new words.",
-          "absurdity": "Somewhere in a federal basement, a contractor is billing $400 an hour to run Find & Replace on 10,000 PDFs.",
-          "outside": "China is reportedly unbothered, because their engineers can't hear the press release over the sound of training models."
+          "contradiction": "The administration that ended repayment protections and restarted collections is now proudly announcing a 'support center' for the resulting 9.3 million defaulters.",
+          "absurdity": "The center is literally called the 'Default Loans Support Center.' They named the help desk after the crisis they created.",
+          "outside": "Watching the U.S. celebrate opening a hotline for 9.3 million simultaneous financial emergencies is like a hospital bragging about its waiting room renovations."
         },
         {
-          "contradiction": "The same administration worried about AI taking American jobs just ordered thousands of federal employees to manually update every document that says 'AI.'",
-          "absurdity": "Technically, 'Super Intelligence' is two words, which means the government is now using MORE words to describe something it doesn't fully understand.",
-          "outside": "Silicon Valley startups are already A/B testing whether 'Super Intelligence' on a pitch deck gets more VC money. Early results: yes."
+          "contradiction": "Policy caused the flood. The press release announced a bucket.",
+          "absurdity": "Nine-point-three million people. That's more than the entire population of Switzerland in default — and the solution is a phone number.",
+          "outside": "In most countries, 9.3 million people defaulting on the same loan type at the same time would be called a policy failure. Here it got a ribbon-cutting."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-09-30/candidate-1.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-09-30/candidate-1-punchy.jpg"
+      "image": "images/2026-10-01/candidate-1.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-01/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Treasury to Auto-Enroll 60 Million Children in 'Trump Accounts' Whether Families Ask or Not",
+        "headline": "Trump Sends $500 Obamacare Refund Checks — Weeks Before Midterms",
         "source": "CNBC Top News",
-        "date": "2026-09-30",
-        "url": "https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html",
-        "summary": "米財務省は、子ども向け投資口座「トランプ口座」への自動加入を開始すると発表した。対象となる子どもは最大6000万人に上る見込み。"
+        "date": "2026-10-01",
+        "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
+        "summary": "トランプ政権は、保険料補助金の廃止によって医療保険を失った数百万人のアメリカ人に対し、500ドルの払い戻し小切手を送付し始めた。中間選挙直前のタイミングとなっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「小さな政府」を掲げる政党が、子どもが何も言う前に政府名義の口座を自動で作る——産声を上げた瞬間から「トランプ口座ホルダー」ですよ。",
-        "<b>滑稽さ:</b> オプトアウトしようとしたら書類が7枚必要で、処理に6〜8週間かかる、っていうのがアメリカの確率100%のシナリオじゃないですか。",
-        "<b>日本・海外から見ると:</b> 日本でも「こども基金」みたいな議論はあるんですけど、口座に大統領の名前を冠するっていう発想は、さすがに出てこないですよね。"
+        "<b>矛盾:</b> 補助金を廃止して保険を失わせた政権が、その500ドルを「払い戻し」として送ってくるんですよ。元の補助金は年間で数千ドル規模の話なのに。",
+        "<b>滑稽さ:</b> 中間選挙の「数週間前」というタイミング、誰も偶然だと思ってないですよね。500ドル小切手を封筒に入れてる人たち、選挙カレンダー見ながら作業してたはず。",
+        "<b>日本・海外から見ると:</b> 「医療保険を取り上げてから小切手を送る」という順番、日本で真似したら翌日の国会が大変なことになりますよね。"
       ],
       "imagePrompts": [
-        "A hospital newborn nursery with rows of babies in cribs, each crib labeled with a small sign reading 'Trump Account: Enrolled,' while a Treasury official in a suit holds a rubber stamp",
-        "A towering stack of enrollment paperwork labeled 'Trump Account Auto-Enrollment' next to a single tiny slip of paper labeled 'Opt-Out Form' with the fine print 'allow 6-8 weeks'",
-        "A government building with a giant banner reading 'TRUMP ACCOUNTS: YOUR CHILD IS ALREADY ENROLLED' while a stork carrying a baby flies past, the baby holding a tiny account statement"
+        "A government envelope containing a $500 check, sitting next to an opened letter that reads 'Your health insurance subsidy has been discontinued.' A calendar on the wall shows Election Day circled in red.",
+        "A conveyor belt in a government facility, workers stuffing $500 checks into envelopes while a large wall calendar showing 'ELECTION: 6 WEEKS' looms behind them.",
+        "A mailbox overflowing with $500 government checks, with a 'Healthcare: CLOSED' sign visible on a building in the background."
       ],
       "captions": [
-        "Congrats on the new baby! It's a girl. Seven pounds, three ounces. Already has a government account she didn't ask for.",
-        "The 'small government' party just gave 60 million children their first piece of unsolicited mail.",
-        "You can opt out, technically. The form's only nine pages. Processing takes eight weeks. The baby will be crawling by then.",
-        "Sixty million accounts. Zero of them requested. That's not a savings program — that's a subscription you can't cancel.",
-        "Other countries name funds after 'the future.' We named ours after the guy who signed the paper. Posterity sorted."
+        "They took away your insurance and mailed you $500. That's not a refund — that's a Yelp apology.",
+        "The checks go out in October. The midterms are in November. I'm not saying it's cynical. I'm saying someone owns a calendar.",
+        "Five hundred dollars for losing your health coverage. For context, one month of unsubsidized premiums starts around $450. So... you're basically covered for 30 days. Good luck with the other eleven months.",
+        "It's called a 'refund.' For a subsidy that was cut. Which is a word that means the opposite of refund.",
+        "Nearly a million Americans are getting $500 checks right now. They lost their health insurance. But hey — that's like, six months of Netflix."
       ],
       "captionsJa": [
-        "おめでとうございます! 女の子です。3.3キロ。すでに政府口座に加入済みです。",
-        "「小さな政府」の党が、6000万人の子どもに頼まれてもいない口座の開設通知を送りつけている。",
-        "オプトアウトできますよ、一応。書類は9枚で、処理に8週間。その頃には赤ちゃん、ハイハイしてますよ。",
-        "6000万口座、申込ゼロ件。これ、保険か何かのダークパターンだったら議会公聴会が開かれますよね。",
-        "他の国は「未来基金」とか「子ども基金」って名前にするんですよ。アメリカは署名した人の名前にした。18年間、名前が残り続ける。"
+        "保険を取り上げて500ドルを郵送してきた。払い戻しじゃないですよ、Yelpの謝罪レビューですよ。",
+        "小切手は10月に届いて、中間選挙は11月。冷笑的だとは言いません。ただカレンダーを持ってる人がいる、それだけ。",
+        "500ドルで医療保険を失う。補助なしの保険料は月4万5千円から。つまり30日分。残り11ヶ月はご自分で。",
+        "「払い戻し」という名前なんですよ。廃止した補助金への。「払い戻し」は戻ってくる側の言葉なんですけどね。",
+        "100万人近くが今500ドル受け取ってる。医療保険は失ってるけど。まあ、Netflixなら半年いけますね。"
       ],
-      "newsEn": "The US Treasury Department announced it will automatically enroll eligible children in 'Trump Accounts,' a new federally backed investment account program. Up to 60 million accounts could be created through the opt-out enrollment system. The accounts are intended to give children a financial head start, with initial government seed funding.",
+      "newsEn": "The Trump administration has begun mailing $500 refund checks to Americans who lost Affordable Care Act premium subsidies after those subsidies were cut. The checks are going out to nearly one million people, with some multi-member households receiving multiple payments. The timing comes just weeks before the midterm elections.",
       "ironyEn": [
         {
-          "contradiction": "The party that campaigns on government staying out of your life just signed 60 million babies up for a government account before they can talk, walk, or object.",
-          "absurdity": "The opt-out form reportedly requires a parent's signature, two forms of ID, and six to eight weeks — which is longer than the maternity leave most of these families don't have.",
-          "outside": "Other countries name public savings programs after concepts like 'futures' or 'children.' The US went with the sitting president. Bold archival choice."
+          "contradiction": "The administration cut the subsidies that kept people insured, then sent them $500 — which is roughly one month of the premiums they can no longer afford.",
+          "absurdity": "It's technically a refund for money the government never owed them, for insurance they no longer have, arriving conveniently in October of an election year.",
+          "outside": "Most countries call it 'healthcare.' The U.S. calls it '$500 six weeks before voting.'"
         },
         {
-          "contradiction": "Auto-enrollment without consent is the kind of corporate dark pattern Congress usually holds hearings about — unless the product is named after the president.",
-          "absurdity": "Sixty million kids now have an account they didn't open, at a bank they didn't choose, named after a man they definitely didn't vote for.",
-          "outside": "Political scientists call this 'legacy building.' Financial advisors call it 'a great way to make sure the name stays in the news for 18 years per child.'"
+          "contradiction": "You lose your health coverage. You get a check. The check is smaller than one month of unsubsidized premiums. This is called 'relief.'",
+          "absurdity": "Someone in the Treasury had to write 'refund' on a check for something that was never a refund. That's a special kind of paperwork.",
+          "outside": "Abroad, the headline 'government reimburses people it uninsured' reads as satire. Here it's a press release."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-09-30/candidate-2.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-09-30/candidate-2-punchy.jpg"
+      "image": "images/2026-10-01/candidate-2.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-10-01/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Trump Ads Paid for by US Taxpayers May Violate Anti-Propaganda Laws — FCC Probably Won't Do Anything",
-        "source": "Ars Technica",
-        "date": "2026-09-30",
-        "url": "https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/",
-        "summary": "トランプ政権が税金で制作・配信した広告が、米国の反プロパガンダ法に違反している可能性があるとArs Technicaが報じた。FCCが介入する可能性は低いとみられている。"
+        "headline": "Senate Blocks Stock Trading Restrictions for Congress — Because of a 'Poison Pill' Voter ID Add-On",
+        "source": "The Guardian US",
+        "date": "2026-10-01",
+        "url": "https://www.theguardian.com/us-news/2026/sep/30/us-senate-stock-trades-bill",
+        "summary": "米上院は、議員による株取引を制限する共和党の法案を否決した。民主党は、この法案には有権者ID規定という「毒薬条項」が付け加えられており、株取引制限としても不十分だとして反対した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 自分のCMのために国民の税金を使う行為を規制する法律があって、その法律を執行する機関は現政権が任命した委員で構成されている——チェックアンドバランスのお手本みたいな構図ですね、逆方向に。",
-        "<b>滑稽さ:</b> 「違法の可能性があるが、取り締まる側がたぶん動かない」という一文で記事が終わるの、もうニュースというより天気予報ですよ。「雨が降るかも、でも傘は配りません」みたいな。",
-        "<b>日本・海外から見ると:</b> 日本の政府広報も「PR」と「政治宣伝」の境界線がよく問われますが、少なくとも番組の途中に総理の顔写真付きCMは流れないですよね、まだ。"
+        "<b>矛盾:</b> 「議員が株で儲けすぎ」という問題に対処する法案に、なぜか有権者ID条項がセットになってた。法案に毒を盛ったのは誰か、というのが本当のニュースですよ。",
+        "<b>滑稽さ:</b> 「株取引を制限しましょう」「わかった、その代わり選挙規定も一緒に入れよう」「じゃあ反対します」「ほら、民主党が株制限を阻止した」——この流れ、全員知ってやってますよね。",
+        "<b>日本・海外から見ると:</b> 「利益相反を規制しようとしたら別の議題にすり替えて潰す」、これは日本の永田町でも普通に見られる技ですけど、アメリカはその手口を「ポイズンピル」って名前付けて堂々と呼んでますからね。"
       ],
       "imagePrompts": [
-        "A TV screen showing a government-branded advertisement with an American flag background and official seal, while a large transparent overlay reads 'PAID FOR BY YOU,' with a small FCC logo in the corner showing a sleeping figure",
-        "A courtroom-style setting where a law book labeled 'Anti-Propaganda Act' sits open on a desk, completely unattended, while officials in suits walk past it looking at their phones",
-        "A government printing office producing glossy promotional materials, with a giant banner overhead reading 'YOUR TAX DOLLARS AT WORK — LITERALLY'"
+        "A Senate chamber with a large bill labeled 'Stock Trading Restrictions' on the floor, visibly stapled to a separate document labeled 'Voter ID Rules.' Senators walk past without touching it.",
+        "A bottle labeled 'POISON PILL — Voter ID Clause' being dropped into a glass of water labeled 'Congressional Stock Trading Reform.'",
+        "A stock ticker screen inside the U.S. Capitol building showing congressional stock portfolios, with a 'BILL FAILED' notification banner across the bottom."
       ],
       "captions": [
-        "It's illegal. The people who enforce it work for the guy in the ad. Moving on.",
-        "Your tax dollars are funding a commercial about your tax dollars funding things. Meta enough for you?",
-        "Anti-propaganda law, meet the administration that's really into self-promotion. You two should talk. You won't, but you should.",
-        "The FCC is 'unlikely to act,' which is government speak for 'we saw it, we read the law, we're going to lunch.'",
-        "Technically illegal. Practically fine. The American dream, but make it a 30-second spot."
+        "Congress had a chance to stop trading stocks on insider knowledge. They attached a voter ID bill to it first, just to make sure nobody could vote yes.",
+        "The metaphor 'poison pill' usually refers to corporate defense tactics. Congress just used it to defend themselves from... accountability. So yeah, it fits.",
+        "Democrats said it didn't go far enough. Republicans said they tried. The stock portfolios of 535 legislators said nothing and just kept growing.",
+        "You want to restrict congressional stock trades? Fine. But first, take this completely unrelated election rule and staple it to the front. That's called governance.",
+        "The bill is dead. The stock accounts are alive and well. This has been Wednesday in Washington."
       ],
       "captionsJa": [
-        "違法の可能性があります。取り締まる人は広告に出てる人の部下です。以上。",
-        "あなたの税金が、あなたの税金の使い方を宣伝するCMに使われています。メタすぎてついていけない。",
-        "反プロパガンダ法くん、自己PRが大好きな政権に会わせてあげますよ。話し合ってほしいんですが——まあ、無理ですね。",
-        "FCCは「対応しない見込み」。お役所の言葉に翻訳すると「見た、法律も読んだ、お昼行ってきます」です。",
-        "厳密には違法。実際には無問題。30秒スポットにするには完璧な素材。"
+        "議会が株取引を規制するチャンスがあった。事前に有権者ID条項を貼り付けて、誰も賛成票を投じられないようにしておいた。",
+        "「ポイズンピル」は普通、企業買収対策に使う言葉なんですよ。議会が自分たちへの監視対策に使った。まあ、言葉の意味的には合ってる。",
+        "民主党は「不十分だ」と言った。共和党は「努力した」と言った。535人の株ポートフォリオは何も言わず成長し続けた。",
+        "議員の株取引を制限したい？いいですよ。その代わり無関係な選挙規定を前に貼り付けてどうぞ。これが「立法」です。",
+        "法案は死んだ。株口座は元気です。以上、水曜日のワシントンでした。"
       ],
-      "newsEn": "Reports allege that advertisements promoting President Trump and his administration have been funded by US taxpayer money, potentially running afoul of federal laws prohibiting government-funded domestic propaganda. The Federal Communications Commission, which would ordinarily have jurisdiction over broadcast compliance, is considered unlikely to take action given the current political environment.",
+      "newsEn": "The U.S. Senate blocked a Republican bill that would have restricted stock trading by members of Congress. Democrats voted against advancing the measure, arguing it did not go far enough in closing trading loopholes and was bundled with unrelated voter ID provisions they characterized as a 'poison pill.' The bill's failure means Congress members retain broad latitude to trade stocks in areas they legislate.",
       "ironyEn": [
         {
-          "contradiction": "There are laws against exactly this. The agency that enforces those laws answers to the administration running the ads. It's a perfect closed loop.",
-          "absurdity": "The article's actual conclusion is 'this might be illegal and nothing will happen' — which at this point is its own genre of American journalism.",
-          "outside": "In most democracies, 'the government bought ads about itself with your money' leads to a parliamentary inquiry. In the US, it leads to a Friday news dump."
+          "contradiction": "A bill to stop lawmakers from profiting off their own legislative decisions was killed by the lawmakers those rules would have applied to.",
+          "absurdity": "Someone attached voter ID requirements to a stock trading bill. That's not legislating — that's a trap with a nice label on it.",
+          "outside": "In most democracies, 'legislators blocking rules on their own stock trades' is a scandal. In Washington it's a Wednesday."
         },
         {
-          "contradiction": "Anti-propaganda law exists specifically to prevent governments from using public funds to promote themselves to their own citizens. It's doing great.",
-          "absurdity": "The FCC is 'unlikely to stop' the ads, which means the enforcement mechanism for this particular law is 'hoping someone feels embarrassed.'",
-          "outside": "Foreign observers studying American democratic institutions should probably skip the chapter on checks and balances for now."
+          "contradiction": "The bill was meant to address conflicts of interest. It was sunk by a deliberate procedural conflict of interest.",
+          "absurdity": "The move is called a 'poison pill,' which is also what investors use when they don't want to be taken over. Congress used it to avoid being regulated. The metaphor is doing heavy lifting.",
+          "outside": "Abroad, investors watching American political theater note that U.S. legislators have managed to defeat stock trading rules using stock market vocabulary."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-09-30/candidate-3.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-09-30/candidate-3-punchy.jpg"
+      "image": "images/2026-10-01/candidate-3.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-01/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "LA's 550-Pound Celebrity Bear Evicted Again, Immediately Finds Another Crawlspace",
-        "source": "The Guardian US",
-        "date": "2026-09-30",
-        "url": "https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace",
-        "summary": "ロサンゼルス・アルタデナ地区の民家の床下に居座ることで有名な体重250キロの熊「イエロー2120」が、再び別の家の床下に侵入していることが確認された。"
+        "headline": "Google's Most Powerful AI Is Too Dangerous for You — Only 'Trusted Cyber Defenders' Can Have It",
+        "source": "The Verge",
+        "date": "2026-10-01",
+        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
+        "summary": "Googleは最新のAIモデル「Gemini 4 Argon」を発表したが、能力が高すぎるとして一般公開はせず、当面は「信頼できるサイバー防衛者」のみに提供するとした。"
       },
       "commentary": [
-        "<b>矛盾:</b> LAは家賃が高すぎて人間が出ていくのに、熊は無断で入ってきて追い出されても追い出されても戻ってくる——住宅市場の勝者がクマとは誰も予想してなかったですよね。",
-        "<b>滑稽さ:</b> 「かわいいけど耐えられない」って、これLA在住の人間についての記事かと思ったじゃないですか。",
-        "<b>日本・海外から見ると:</b> 日本だと市街地にクマが出たら大ニュースで即捕獲されますが、LAでは「また来た、まあいいか」みたいなトーンなの、さすが多様性の街ですね。"
+        "<b>矛盾:</b> 「すごいAIを作りました、でも危なすぎて公開できません」という発表って、自社の安全管理能力への不信任表明でもあるんですよね。作れるけど制御できるか分からない、と言ってる。",
+        "<b>滑稽さ:</b> 「信頼できるサイバー防衛者だけに」って言ってますけど、それを判断するのもGoogleなんですよ。「うちの製品は危険です、でもうちが安全と判断した人にだけ売ります」——自分で首絞めてますよね。",
+        "<b>日本・海外から見ると:</b> 「最新モデルを作りました」「買えません」という発表が定期的に繰り返されてるの、テック業界ではもはや恒例行事になってますよね。発表した瞬間が一番インパクト大きいから。"
       ],
       "imagePrompts": [
-        "A large bear sitting comfortably in a suburban crawlspace surrounded by pipes and insulation, looking directly at the camera with a completely unbothered expression, as a 'EVICTION NOTICE' paper lies crumpled in the corner",
-        "A neighborhood map of Altadena with several houses marked with small bear footprint icons, showing a trail from one crawlspace to the next, like a very slow real estate tour",
-        "A 'NEIGHBORHOOD WATCH' sign on a residential street, but the silhouette on the sign is replaced with a bear silhouette, with a smaller text underneath reading 'He's back'"
+        "A grand product reveal stage with dramatic lighting, a giant screen showing 'GEMINI 4 ARGON — OUR MOST POWERFUL AI EVER,' and a velvet rope blocking the audience from a single computer terminal on stage.",
+        "A restaurant menu with every item listed as 'CLASSIFIED — Trusted Defenders Only,' except a small section at the bottom labeled 'Previous Models — Ask Your Server.'",
+        "A Google office lobby with a glass case containing a glowing AI terminal, a sign reading 'For Trusted Cyber Defenders Only,' and a long line of people with badges being turned away by a security guard."
       ],
       "captions": [
-        "This bear has been evicted more times than he has a social security number, and he's doing fine.",
-        "The city of LA has a housing crisis. The bear is not participating in it.",
-        "'Cute but unbearable' — sir, that is every Airbnb review I have ever written.",
-        "He doesn't have a lease. He doesn't have a deposit. He has, apparently, tenure.",
-        "Wildlife officials say he keeps coming back. Yeah. That's what LA does to you."
+        "Google built the most powerful AI they've ever made and immediately hid it. That's not a product launch — that's a hostage situation with better branding.",
+        "Only 'trusted cyber defenders' can access it. Who decides who's trusted? Google. Who built the thing that needs defending against? Also Google.",
+        "Every few months a tech company announces an AI too dangerous for civilians. We never ask what that implies about the last ten AIs we already gave to civilians.",
+        "The most advanced AI model in the world is currently available to — checks notes — not you. Sleep well.",
+        "You know your product reveal went different than planned when the key feature is 'you can't have it.'"
       ],
       "captionsJa": [
-        "この熊、社会保険番号もないのに強制退去の経験だけは誰より豊富ですよ。",
-        "LAには住宅危機があります。クマには関係ない話です。",
-        "「かわいいけど耐えられない」——これ、Airbnbのレビューで100回くらい読んだやつですよ。",
-        "賃貸契約なし、敷金なし、でも居座り続けてる。実質テニュア取得です。",
-        "当局は「戻ってくる」と言ってます。そうですよ、LAってそういう街ですから。"
+        "史上最強のAIを作って即座に隠した。これは製品発表じゃなく、ブランディングが上手い人質交渉ですよ。",
+        "「信頼できるサイバー防衛者」だけに公開。誰が「信頼できる」か決めるのはGoogle。危険なものを作ったのもGoogle。",
+        "数ヶ月おきに「一般人には危険すぎるAI」が発表されるんですよ。すでに一般人に渡した過去10個のAIについては誰も問わない。",
+        "世界最先端のAIモデル、アクセスできるのは——メモを確認——あなたじゃありません。よく眠れますか。",
+        "製品発表の主な特徴が「あなたには買えません」だったとき、何かが違う方向に進んでるんですよ。"
       ],
-      "newsEn": "Yellow 2120, a 550-pound black bear who gained notoriety last November by taking up residence under an Altadena home, has been evicted from multiple crawlspaces in the LA neighborhood — and keeps returning. Despite repeated removals, the bear has moved into yet another resident's crawlspace. Local wildlife officials describe him as persistent.",
+      "newsEn": "Google announced Gemini 4 Argon, its most advanced AI model, describing it as capable of complex software engineering, legal and financial knowledge work, and cybersecurity defense. However, the company said the model will not be available to the general public due to its capabilities, and will be restricted to 'trusted cyber defenders' for the time being. Google's chief AI architect cited its power as the reason for limited access.",
       "ironyEn": [
         {
-          "contradiction": "Los Angeles has a housing crisis where humans get pushed out and can't come back — this bear gets pushed out and just picks the next address on the block.",
-          "absurdity": "Wildlife officials used the phrase 'cute but unbearable,' which means someone in a government office wrote that sentence, read it back, and kept it.",
-          "outside": "In most cities a 550-pound animal moving into your basement is an emergency. In Altadena it's a recurring storyline with a nickname and a fan base."
+          "contradiction": "Google built an AI so capable it decided the public can't be trusted with it — while also trusting itself to have built it responsibly.",
+          "absurdity": "'Trusted cyber defenders only' is doing a lot of work as a safety policy for a product a company just announced to the entire internet.",
+          "outside": "The product reveal that sells nothing is now a standard tech industry format. You announce the thing, the world watches, nobody gets the thing."
         },
         {
-          "contradiction": "The bear has no lease, no deposit, and no social media presence, yet he's generated more local news coverage than most paying tenants.",
-          "absurdity": "He's been removed multiple times from multiple homes and just… keeps finding new ones. At this point Yellow 2120 has a better handle on LA real estate than most first-time buyers.",
-          "outside": "Japan evacuates entire neighborhoods when a bear appears on a residential street. LA named theirs and gave him a number."
+          "contradiction": "The safest version of this AI is apparently the one Google hasn't shipped yet. Which raises questions about the ones it already has.",
+          "absurdity": "Google told the world 'this is our most powerful model' and then said 'so you can't have it.' That's a menu that ends with 'sorry, we're out of everything good.'",
+          "outside": "Tech companies have discovered that 'too powerful to release' is actually a great marketing strategy. The product you can't buy is always impressive."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-09-30/candidate-4.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-09-30/candidate-4-punchy.jpg"
+      "image": "images/2026-10-01/candidate-4.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-01/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Small Businesses Swamped by Disability Access Lawsuits — Often From Lawyers They've Never Met",
-        "source": "The Guardian US",
-        "date": "2026-09-30",
-        "url": "https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses",
-        "summary": "米国でADA（障害者法）に基づくアクセシビリティ違反を訴える訴訟が急増しており、小規模店舗やカフェのオーナーが、実際に来店したことのない弁護士からの突然の訴状に頭を抱えている。"
+        "headline": "Reddit Restricts Old Reddit, Citing 'Automated Abuse' — Users Note the Abuse Was Always Reddit Itself",
+        "source": "Ars Technica",
+        "date": "2026-10-01",
+        "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
+        "summary": "Redditはクラシックインターフェース「Old Reddit」に新たな利用制限を加えると発表した。同社は「自動化による不正利用への対策」を理由としているが、ユーザーからは反発の声が上がっている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 障害者が実際にアクセスしやすい社会を作るための法律が、障害者が行ったことすらない店に対する訴訟ビジネスの道具になってるんですよ——法律の目的と使われ方がここまで乖離するのも珍しいですね。",
-        "<b>滑稽さ:</b> 「あなたの店のスロープの傾斜が1度足りない」って手紙が突然来て、次に来るのが弁護士費用の請求書——実際に困ってる人がいるとしたら弁護士の銀行口座ですよ。",
-        "<b>日本・海外から見ると:</b> 日本でもバリアフリー法の整備は課題ですが、「来たことない人の代理弁護士から訴えられる」という訴訟経済学は、アメリカ特有のジャンルじゃないですかね。"
+        "<b>矛盾:</b> 「自動化による不正利用への対策」という名目で、人間のユーザーが一番使ってるインターフェースを制限するんですよ。ボット対策で人間を締め出してる。",
+        "<b>滑稽さ:</b> Old Redditを使い続けてる人たちって、「新しいUIが嫌すぎて10年以上古い画面を使い続けてきた人たち」なんですよ。その人たちが今「不正利用の懸念がある」と言われてる。一番執着してるファンに向かって。",
+        "<b>日本・海外から見ると:</b> SNS企業が「古いインターフェースを潰して新UIに誘導する」のはもはや業界の伝統行事ですよね。Twitterも、Tumblrも、Diggも全部やった。全部うまくいかなかった。"
       ],
       "imagePrompts": [
-        "A tiny neighborhood cafe with a handwritten menu and mismatched chairs, with an enormous stack of legal documents towering over it, tied with a ribbon labeled 'ADA Complaint,' while the storefront shows no customers inside",
-        "A law office with a large whiteboard listing hundreds of business names under the header 'Current Cases,' with a lawyer in a suit pointing at them with a laser pointer, looking satisfied",
-        "A small ramp outside a corner store with a surveyor's measuring tape wrapped around it and multiple sticky notes with calculations, while the store owner watches with a confused expression"
+        "A bare-bones, text-heavy old website interface with a 'RESTRICTED ACCESS' banner over it, while a bright, cluttered modern redesign glows invitingly next door with a 'PLEASE USE THIS ONE' sign.",
+        "A bouncer at a velvet rope turning away a person holding a 'I Just Want the Old Layout' sign, while robots in trench coats are waved through on the other side.",
+        "A courtroom where a judge points at a group of people labeled 'Users Who Preferred Classic Interface' under a sign reading 'AUTOMATED ABUSE SUSPECTS.'"
       ],
       "captions": [
-        "Your ramp is two degrees off. A lawyer who's never been to your neighborhood would like $30,000.",
-        "The ADA is an important civil rights law. It is also, apparently, a subscription service.",
-        "No disabled person visited the restaurant. The lawsuit still arrived. The mail doesn't discriminate.",
-        "Accessibility enforcement in America: one part moral imperative, one part business model you didn't opt into.",
-        "Other countries send an inspector. We send a demand letter. Same outcome? Not really. But the legal fees are great."
+        "Reddit says Old Reddit attracts 'automated abuse.' Old Reddit users say they've been manually avoiding Reddit's redesign for fifteen years, which is the opposite of automated.",
+        "They're restricting the version of the site that the most stubborn, loyal users refuse to leave. Digg tried this once. You know how that sentence ends.",
+        "The bots are apparently on Old Reddit. The humans who switched to Old Reddit to escape the new Reddit are collateral damage. Security is complicated.",
+        "Old Reddit users: survived the 2010 redesign, the 2012 redesign, the 2016 redesign, the 2018 redesign, the API shutdown. Now officially a threat.",
+        "If you ever wondered what happens when a platform decides its most loyal users are the problem — Reddit just answered that. October 2026."
       ],
       "captionsJa": [
-        "スロープの角度が2度ずれてます。来たことない弁護士から300万円請求がきます。",
-        "ADAは重要な公民権法です。あと、どうやら月額課金サービスでもあるらしいです。",
-        "障害のある方は来店していません。訴状は届きました。郵便は平等ですから。",
-        "アメリカのバリアフリー執行: 道徳的使命50%、誰も加入した覚えのないビジネスモデル50%。",
-        "他の国は行政が検査に来ます。アメリカは請求書が来ます。同じ結果? まあ、違いますね。弁護士費用だけは確実ですけど。"
+        "Redditは「Old Redditが自動化された不正利用を引き起こす」と言ってる。Old Redditのユーザーたちは15年間、手動でリデザインを回避してきた人たちですよ。これが一番「手動」な行動じゃないですか。",
+        "一番頑固で忠実なユーザーが使ってる画面を制限した。Diggも一度同じことをやった。その後Diggの話はあまり聞かないですよね。",
+        "ボットがOld Redditにいるらしい。新しいUIを嫌ってOld Redditに来た人間ユーザーは巻き添え。セキュリティというのは難しい。",
+        "Old Redditユーザー：2010年のリデザインを生き延び、2012年も、2016年も、2018年も、API廃止も乗り越えた。今日、公式に「脅威」に認定。",
+        "プラットフォームが「最も忠実なユーザーこそが問題だ」と判断したらどうなるか——Redditが答えた。2026年10月。"
       ],
-      "newsEn": "Small business owners across the US are facing a surge of lawsuits alleging violations of the Americans with Disabilities Act, with some suits filed by law firms whose clients have never visited the establishments named. Shop and cafe owners say the cases feel like legal shakedowns, while disability advocates argue the violations are real and enforcement is necessary. The lawsuits often target technical non-compliance issues rather than obvious barriers.",
+      "newsEn": "Reddit announced it is placing additional restrictions on Old Reddit, the legacy interface that many long-time users prefer over the redesigned site. The company stated the move is aimed at combating 'automated abuse.' Old Reddit has long been the refuge for users who dislike Reddit's modern redesign, and the restrictions are seen by many as further pressure to migrate to the new interface.",
       "ironyEn": [
         {
-          "contradiction": "The ADA was written to make spaces accessible to disabled people. A growing industry now uses it to generate legal fees from businesses that disabled people have never actually tried to enter.",
-          "absurdity": "The plaintiff's lawyer sometimes can't name which specific barrier their client encountered, because their client wasn't there. That's not a lawsuit — that's a mail merge.",
-          "outside": "From abroad, America's commitment to disability rights looks impressive until you learn that the primary beneficiary of some of these cases is a law firm in a fully accessible office building."
+          "contradiction": "Reddit restricted the version of Reddit that users actually chose to keep using, calling it an 'automated abuse' problem. The humans using it aren't the bots.",
+          "absurdity": "Old Reddit users are by definition people who manually navigated away from Reddit's official redesign for years. They are the least automated users on the platform.",
+          "outside": "Every major platform has tried to kill its own legacy interface to force migration to the new one. The scoreboard currently reads: Users 0, Worse UIs 0, Abandoned Platforms 6."
         },
         {
-          "contradiction": "Small business owners who can't afford $50,000 in renovations are being sued by attorneys who charge $400 an hour to defend the rights of people who never walked through the door.",
-          "absurdity": "One owner got a summons before he'd even finished reading what 'ADA compliant grab bar height' means.",
-          "outside": "Other countries enforce accessibility standards through government inspections with fines. The US outsourced it to contingency-fee lawyers. Outcomes vary."
+          "contradiction": "The site is fighting 'automated abuse' by inconveniencing the humans. The bots are presumably fine.",
+          "absurdity": "Old Reddit is basically a support group for people who survived every Reddit redesign since 2010. Now Reddit is making them the problem.",
+          "outside": "Internationally, tech observers note that 'we're doing this for security' is now the universal explanation for 'we're doing this to you.'"
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-09-30/candidate-5.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-09-30/candidate-5-punchy.jpg"
+      "image": "images/2026-10-01/candidate-5.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-01/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本は全部「名前・制度・法律が本来の目的から切り離されて独り歩きしている」という話。AIは「スーパーインテリジェンス」になり、クマは床下に居座り続け、反プロパガンダ法は執行されない。",
-    "titleEn": "The Rebrand Is the Policy",
-    "subtitleEn": "Five stories about systems that forgot what they were for.",
-    "titleJa": "「AI」を「スーパーインテリジェンス」と呼び直したら、強くなるらしい",
+    "thread": "今日の5本を貫く糸は「解決策が問題の一部になっている」。窓口、小切手、委員会、AI、UI制限——どれも「直します」という顔をしながら、直してない。",
+    "titleEn": "Help Is on the Way (The Help Made It Worse)",
+    "subtitleEn": "Five stories about fixes that aren't fixing anything.",
+    "titleJa": "「解決しました」と言われた日に限って、何も解決していない話",
     "titleAltJa": [
-      "税金で自分のCMを作った政権を取り締まる機関を、その政権が任命している件",
-      "今日のアメリカ5本：名前だけ変えて、中身はそのまま"
+      "930万人を詰ませた政権が「サポートセンターを開設しました」と言っている",
+      "今日の5本を読んだら、『助けます』という言葉の裏の読み方がわかった"
     ],
-    "leadJa": "Ctrl+H、「artificial intelligence」→「Super Intelligence」、保存完了。\n\nこれで中国に勝てるらしいです。",
-    "introEn": "The US government had a big week for rebranding.\n\nAI is now 'Super Intelligence.' Children who haven't learned to walk yet have government investment accounts they didn't ask for. Taxpayer money is running ads for the guy who spends taxpayer money. And somewhere in Los Angeles, a 550-pound bear just moved into someone's crawlspace for the third time and genuinely does not care.\n\nFive stories today. They all have the same problem: the name, the law, the institution — none of them are doing the thing they were built to do anymore. Somebody just forgot to update that part.\n\nHere's your forecast. If you've been doing the right thing and not getting credit for it, you're in good company. The bear gets evicted repeatedly and keeps finding shelter. Your persistence is not the problem. The system is just running a different version of itself today.",
-    "introJa": "「スーパーインテリジェンス」という単語を、今朝5時に読みました。\n\n大統領令です。冗談ではありません。米国政府は今日から、AIを「AI」と呼んではいけないことになりました。「スーパーインテリジェンス」と呼ぶことになりました。強そうだから、らしいです。\n\nで、他を見ると…\n生まれたばかりの子どもに自動でトランプ口座が開設され、税金で作った政権のCMを取り締まる機関はたぶん動かず、LAでは250キロの熊が何度追い出されても別の床下に引越し、実際に来店したことのない弁護士が障害者法の訴状を送りつけてくる。\n\n今日の5本を貫く糸は、たぶんこれです。「名前と制度は残っているのに、目的だけがどこかへ行った」という話。\n\nということで、今日の占いです。\nあなたがいまやっていることに、ちゃんと名前がついていないとしても。誰にも気づかれていないとしても。名前を変えただけで勝った気になっている人たちの話を、今日は5本読んでください。熊みたいに、戻り続けることにします。少なくとも今日はね",
-    "quipEn": "It's illegal. The people who enforce it work for the guy in the ad. The ad continues.",
-    "quipJa": "中身はそのままで、名前だけ強くした。まあ、そういう手もある。",
+    "leadJa": "「デフォルト・ローン・サポートセンター」。この名前、一回ゆっくり読んでみてください。\n\nつまり「あなたはもう詰んでます窓口」ですよ。開設した側も詰んでますと思いますけど、今日はそういう一日です。",
+    "introEn": "Five stories today. All five feature someone announcing a solution.\n\nA support center for nine million people already underwater. A $500 check for the health coverage that got taken away. A stock-trading reform bill that got quietly poisoned before the vote. An AI too powerful to release, released as an announcement. And a platform cracking down on its most loyal users in the name of safety.\n\nThe thread isn't incompetence. It's timing. Every one of these moves was announced with a straight face, right when it would do the least actual good.\n\nWhich means your forecast for today is this: if something in your life isn't working despite everyone insisting it's fine, you're not missing something. The gap between the announcement and the reality is the whole story. You've been reading it correctly all along.",
+    "introJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n930万人が学生ローンで詰んでいる日に「サポートセンター開設」。医療保険を取り上げてから「500ドル返します」。株取引規制法案に選挙条項を混ぜて否決。「危なすぎるAI」を発表だけする。一番のファンを「不正利用の恐れ」で締め出す。\n\n今日の5本、全部「解決しています」という顔をしています。\n\nで、たぶん今日の糸は「発表と現実のあいだにある距離」です。\n\n今日の占いです。「これ、私のせいじゃないよな」と思っていることがあったら、今日はその直感を信じていい。窓口を作っても、小切手を送っても、委員会を開いても変わらない話が今日5本並んでいるので。あなたが「おかしくない?」と思ったこと、おかしいです。少なくとも今日は。",
+    "quipEn": "They opened a center, mailed a check, blocked the bill, hid the AI, and locked out the users — all in the same week they said things were improving.",
+    "quipJa": "「改善しています」と言った週に、センター、小切手、否決、非公開、締め出し、が全部揃った。",
     "notesEn": [
-      "Trump signed an executive order replacing 'artificial intelligence' with 'Super Intelligence' in all federal documents. Every government website now needs a find-and-replace. The compute clusters were not renamed.",
-      "The US Treasury is auto-enrolling up to 60 million children in 'Trump Accounts' — investment accounts with government seed money. The children were not consulted. Opting out requires paperwork. The baby will be crawling before it's processed.",
-      "Ads promoting Trump, paid for by US taxpayers, may violate anti-propaganda laws. The agency that enforces broadcast rules is run by people appointed by the same administration. The article notes it will probably not do anything. And then the article ends.",
-      "Yellow 2120 is a 550-pound black bear in Los Angeles who has been evicted from multiple crawlspaces and keeps finding new ones. The city has a housing crisis. The bear is not participating in it.",
-      "Small business owners across the US are getting sued for ADA violations by law firms whose clients have never visited their shops. The Americans with Disabilities Act is an important civil rights law. It is also, apparently, a business model."
+      "The Treasury opened a 'Default Loans Support Center' on the same day data showed 9.3 million borrowers are already in default. They didn't announce a new policy. They announced a center. With, presumably, hold music.",
+      "The Trump administration mailed $500 to people who lost their Obamacare subsidies — subsidies worth thousands of dollars a year. The checks went out in October. The midterms are in November. Someone owns a calendar.",
+      "The Senate blocked a bill to restrict Congress members from trading stocks. The bill had a voter ID provision stapled to it. Democrats voted no. Stock portfolios of 535 legislators said nothing and kept growing.",
+      "Google announced its most powerful AI ever and immediately said you can't have it. Only 'trusted cyber defenders' get access. Who decides who's trusted? Google. Who built the thing you need defending against? Also Google.",
+      "Reddit is restricting Old Reddit, citing 'automated abuse.' Old Reddit users have been manually refusing to switch interfaces for fifteen years. Apparently that kind of dedication is now a red flag."
     ],
     "xJa": [
-      "トランプ大統領が大統領令でAIの呼称を禁止。連邦政府は今後「スーパーインテリジェンス」と書くことが義務付けられた。コンピューターには通知が届いていない。",
-      "米財務省、生まれた子ども最大6000万人に自動で「トランプ口座」を開設へ。本人の同意は不要。オプトアウトの書類は9ページ。赤ちゃんが処理を終える頃にはハイハイしています。",
-      "税金でトランプ政権のCMを作るのは反プロパガンダ法に違反する可能性がある。取り締まるFCCは現政権の任命者で構成されている。記事の最後に「たぶん何もしない」と書いてある。",
-      "LA名物の体重250キロの熊「イエロー2120」、また別の家の床下に引越し完了。何度追い出されても戻ってくる。LAは住宅危機の街ですが、熊は関係ないようです。",
-      "アメリカで、来店したことのない弁護士から「スロープの角度が違う」と障害者法違反で訴えられる小規模店舗が急増中。誰も来ていない。訴状だけ来た。"
+      "930万人が学生ローンで詰んでいる日に、政府が「サポートセンターを開設しました」と発表した。政策じゃなくて窓口。保留音つき、たぶん。",
+      "医療保険の補助金を廃止して、500ドルの小切手を送る。中間選挙の数週間前に。誰も偶然だとは思っていない。封筒に詰めながら選挙カレンダーを見ていたはず。",
+      "議員の株取引を規制する法案に、なぜか有権者ID条項が混入していた。民主党が反対して否決。「民主党が株規制を阻止した」という見出しができた。全員わかってやってる。",
+      "Googleが「史上最強のAI」を発表して、即日「一般公開しません」と言った。危なすぎるから。それを判断するのもGoogle。作ったのもGoogle。",
+      "Redditが「自動化による不正利用」を理由にOld Redditを制限した。15年間手動で新UIを拒否してきた人たちへ向けて。一番執着してるファンが不審者扱いされた。"
     ],
     "raidEn": [
-      "Four more syllables than 'AI,' zero additional capabilities. Boldest tech strategy of the decade.",
-      "The baby has a government investment account, a name on federal paperwork, and no opinion yet. Technically ahead of most adults.",
-      "Anti-propaganda law, meet the one situation it was literally designed for. You two should really talk.",
-      "Evicted three times, currently in a new crawlspace, not on any waitlist. This bear has cracked the LA housing market.",
-      "No disabled person visited the store. The lawsuit arrived anyway. The law has very efficient delivery."
+      "The branding is doing a lot of work here. 'Support Center' sounds like help. 'Default Loans Support Center' sounds like they named it after the problem it was built too late to fix.",
+      "Five hundred dollars for lost health coverage. One month of unsubsidized premiums runs around $450, so technically you're covered until roughly Thanksgiving. After that it's vibes.",
+      "The poison pill metaphor usually describes a corporate defense tactic against hostile takeovers. Congress just used it to defend themselves from accountability. Honestly, points for consistency.",
+      "Every few months a tech company announces an AI too dangerous for the public. Nobody ever follows up on what that implies about the ten AIs they already handed to the public.",
+      "Digg tried something similar once. That sentence is doing a lot of work and I'll leave it there."
     ],
     "raidJa": [
-      "「AI」より音節が4つ多い分、強くなった、という理解でよろしいでしょうか。すごい戦略ですね。",
-      "生まれた瞬間に政府の口座ができているのに、オプトアウトに8週間かかる、というのがアメリカですよね。読んでいて笑いました。",
-      "「違法の可能性あり、でも取り締まる機関はたぶん動かない」という一文で終わる記事、もうジャンルとして確立されていますね。",
-      "何度追い出されても戻ってきて、今また別の床下にいる。LA在住の人間には到底できない芸当ですよ。",
-      "来店ゼロ、訴状あり。法律の目的と使われ方がここまで乖離した話、滅多に読めないですよね。"
+      "「デフォルト・ローン・サポートセンター」という名前、ネーミングだけで現状を全部説明してしまっていますよね。解決策の名前に「デフォルト」が入っている稀有な事例だと思います。",
+      "補助金廃止→小切手送付→中間選挙直前、という順番を記事でわかりやすく整理してくださって、ありがとうございます。カレンダーを見ながら封筒に詰めたんだろうなと思いました。",
+      "「毒薬条項」という言葉、普通はM&Aの防衛策として使われるのに、今回は議員が自分自身への説明責任を回避するために使ったんですね。用語の守備範囲が広い。",
+      "「危なすぎて公開できないAIを作りました」という発表が定期的に出るようになって久しいですが、こうして丁寧にまとめていただくと改めて構造がよく見えます。",
+      "DiggsとTumblrとTwitterの件も踏まえてのご指摘、まさにそうですよね。「古いUIを潰す」は業界の伝統行事で、成功例をほぼ見たことがないのが面白いところです。"
     ],
     "riffEn": [
-      "The US government's plan to beat China in AI is, officially, to stop calling it AI. Trump signed an executive order: federal agencies must now say 'Super Intelligence' in all official documents. Every website, every press release, every policy brief. The technology itself was not renamed. The compute clusters are the same. The training runs are the same. What changed is that a roomful of federal web developers is now doing the most expensive find-and-replace in government history. The race for technological dominance, secured by Ctrl+H.",
-      "The Treasury Department is auto-enrolling up to 60 million children in investment accounts named after the current president. The children did not apply. Their parents did not apply. The accounts just arrive, like a magazine subscription nobody signed up for, except it's the federal government and the magazine has the president's name on the cover. You can opt out. The form is nine pages. Processing takes eight weeks. The baby will have opinions about college by then.",
-      "There's a law against the US government funding domestic propaganda. There's an agency that enforces broadcast rules. That agency is staffed by people appointed by the administration currently running ads about itself, funded by taxpayers, that may violate the law. The article reporting all of this ends with: the FCC probably won't act. That's not a news story. That's a weather forecast with no umbrella attached.",
-      "Yellow 2120 weighs 550 pounds and has been evicted from crawlspaces in Altadena multiple times. Each time, he finds another one. Wildlife officials describe him as persistent. Los Angeles, meanwhile, has a housing crisis so severe that people are leaving the city. The bear has not left. The bear has not paid rent. The bear is, by any reasonable measure, winning.",
-      "A small business owner gets a letter. It's from a law firm. The firm's client has never been to the shop — never walked through the door, never tried the coffee, never attempted the ramp in question. The ramp is apparently two degrees off the required angle. The letter would like $30,000 to discuss it. The Americans with Disabilities Act was written to make the world more accessible. It is doing that. It is also doing this."
+      "The Treasury's new Default Loans Support Center opened on the exact same day 9.3 million borrowers were reported to be in default. Think about the staff meeting where someone said, 'we should help the people we just put in default,' and everyone nodded like that was the logical next step. Not a new policy. Not forgiveness. A center. The name alone is an accidental confession — they called it the Default Loans Support Center, which is a very polite way of saying the situation has already defaulted. Presumably there's hold music.",
+      "The administration cut Obamacare subsidies worth thousands of dollars a year, and now they're mailing $500 checks to the people who lost coverage. That's not a refund. That's a Yelp apology after a two-star review. The checks went out in October. The midterms are in November. I'm not saying someone was looking at a calendar while stuffing envelopes — I'm saying the calendar was definitely visible from where they were sitting.",
+      "Congress had a bill to stop its members from trading stocks in the industries they regulate. Good idea, broadly popular. So someone attached an unrelated voter ID provision to it, Democrats voted no, and now the headline reads 'Democrats block stock trading reform.' The stock portfolios of 535 legislators said nothing and just kept growing. The maneuver has an official name in politics — poison pill — which is usually a corporate defense tactic. Congress used it to defend themselves from accountability. The metaphor fits better than they'd like.",
+      "Google announced Gemini 4 Argon, the most powerful AI model they've ever built, and immediately said the public can't have it. Only 'trusted cyber defenders' for now. Who decides who's trusted? Google. Who built the system that requires defending against? Also Google. It's not a product launch so much as an announcement that a very powerful thing exists and you should feel something about that. Every few months a tech company does this — declares an AI too dangerous for civilians — and nobody stops to ask what that implies about the last ten AIs they already handed to civilians.",
+      "Reddit says Old Reddit is being restricted due to 'automated abuse.' Old Reddit users have been manually, painstakingly, deliberately refusing to switch to the new interface for fifteen years. That's the opposite of automated. These are the people who found the CSS workarounds, who filed the support tickets, who stayed when everyone else left. Reddit's most stubborn loyalists just got flagged as a security concern. Digg tried something like this once. That sentence ends there."
     ],
     "riffJa": [
-      "中国のAI開発に対抗するため、アメリカ政府が選んだ手段は「名前を変えること」でした。大統領令。公式文書全部。「AI」は今日から「スーパーインテリジェンス」です。\n\nコンピューターは変わっていません。データセンターも変わっていません。変わったのは、連邦政府のウェブ担当者が今ごろ全ドキュメントを開いてCtrl+Hを押しているということです。覇権争い、保存完了。",
-      "生まれた瞬間から、子どもには「トランプ口座」が自動で開設されます。本人は何も言っていません。親も申し込んでいません。ただ、口座がある。\n\n「小さな政府」を掲げてきた党が、産声を上げた赤ちゃんの名前を政府のデータベースに登録する仕組みを作った。オプトアウトしたければ9ページの書類を提出してください。処理に8週間かかります。その頃、赤ちゃんはハイハイしています。",
-      "税金で政権のCMを作るのは、連邦法に違反する可能性があります。それを取り締まるFCCは、そのCMに映っている人が任命した委員で構成されています。記事の最後の一文は「たぶん何もしない」。\n\nこれはニュース記事です。天気予報ではありません。でも「雨が降るかもしれないが、傘は配られない」。まあ、同じか。",
-      "体重250キロの熊が、何度追い出されても別の家の床下に引越しています。LAではこれが3回目です。地元の担当者は「しつこい」と言っています。\n\nLA在住の人間は家賃が払えなくて出ていく。熊は無断で入ってきて追い出されても戻ってくる。どちらが住宅市場に強いか、今日の時点では熊です。",
-      "突然、訴状が届きます。障害者法違反。弁護士の依頼人は、その店に一度も来たことがありません。スロープの角度が規定より少し足りない、という話です。\n\nADA（障害者法）はアクセシビリティを守るための大切な法律です。ただ、その法律が「来店ゼロの依頼人のために訴状を送るビジネス」の根拠になっているとき、守られているのは誰なんですかね。"
+      "「デフォルト・ローン・サポートセンター」を開設した日、同じ日に930万人が債務不履行状態にあると発表されました。センター名にすでに「デフォルト」が入っている。解決策の名前が問題の名前になっている。政策でもなく、免除でもなく、窓口。\n\nスタッフが集まって「詰ませた人たちを助けよう」と言って全員うなずいた会議、想像するとかなりしんどい。",
+      "補助金を廃止して医療保険を失わせてから、500ドルを郵送する。年間で数千ドル規模の補助金を取り上げておいて、500ドルを「払い戻し」と呼んでいる。\n\n封筒を詰めていた時期が10月で、中間選挙は11月です。誰かがカレンダーを見ながら作業していたはず。いや、カレンダーが目の前にあったはずです。",
+      "議員の株取引を制限する法案に、なぜか有権者ID条項が混入していた。民主党が「不十分だし毒が入ってる」と言って反対、否決。そして翌朝の見出しは「民主党、株取引規制を阻止」。\n\nこの流れ、全員知ってやってますよね。「ポイズンピル」って自分たちで名前をつけて、堂々と使った。535人の株ポートフォリオ、今日も元気です。",
+      "Googleが「史上最強のAI」を発表して、即日「一般には公開しません」と言いました。「信頼できるサイバー防衛者」だけが使える。その「信頼できる」を判断するのもGoogle。そのAIから守る必要があるシステムを作ったのもGoogle。\n\n数ヶ月に一度、テック企業が「危なすぎて公開できないAI」を発表するんですが、誰も「じゃあ去年公開した十個のAIは何だったの」と聞かないのが面白いところです。",
+      "RedditがOld Redditを制限した理由が「自動化による不正利用」。Old Redditを使い続けてきた人たちは、15年間、手動で、意地で、意識的に新しいUIを拒否し続けてきた人たちです。\n\n自動化と一番縁遠い人たちが「自動化が怖い」と言われた。一番熱心なファンが不審者扱い。Diggも同じことをやって、それ以降Diggの話はあまり出てこないですよね。"
     ],
     "asideEn": [
-      "The word changed. Nothing else did.",
-      "Opt out at your earliest convenience. The baby cannot.",
-      "The law exists. So does the loophole.",
-      "Persistent is one word for it.",
-      "The ramp was two degrees off. The bill was not."
+      "They named it after the problem.",
+      "Someone owns a calendar.",
+      "The portfolios are fine, though.",
+      "Who watches the watchers? Google.",
+      "Digg tried this once."
     ],
     "asideJa": [
-      "名前だけ強くなりました。",
-      "赤ちゃんは書類が書けません。",
-      "法律はある。執行する気がない。",
-      "クマ、強い。",
-      "来店ゼロ。請求書だけ来た。"
+      "解決策の名前に問題が入ってる。",
+      "カレンダー、見えてたはず。",
+      "株は今日も育っています。",
+      "監視する側が作った監視ツール。",
+      "Diggも似たことやってたね。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "News Commentary",
-      "Trump",
-      "Americans with Disabilities Act"
+      "Student Loans",
+      "Google",
+      "Reddit"
     ],
-    "fullEn": "# The Rebrand Is the Policy\n\n## Today's Forecast\n\nThe US government had a big week for rebranding.\n\nAI is now 'Super Intelligence.' Children who haven't learned to walk yet have government investment accounts they didn't ask for. Taxpayer money is running ads for the guy who spends taxpayer money. And somewhere in Los Angeles, a 550-pound bear just moved into someone's crawlspace for the third time and genuinely does not care.\n\nFive stories today. They all have the same problem: the name, the law, the institution — none of them are doing the thing they were built to do anymore. Somebody just forgot to update that part.\n\nHere's your forecast. If you've been doing the right thing and not getting credit for it, you're in good company. The bear gets evicted repeatedly and keeps finding shelter. Your persistence is not the problem. The system is just running a different version of itself today.\n\n---\n\n## 1. Trump Orders US Government to Stop Saying 'AI,' Insist on 'Super Intelligence' Instead\n\n*The Verge — [source](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)*\n\nPresident Trump signed an executive order mandating that all US government websites, policy documents, and press releases replace the term 'artificial intelligence' with 'Super Intelligence.' The order instructs federal agencies to update their official materials accordingly. Trump has argued the word 'super' better reflects American ambitions in the technology race.\n\n**Why It's Funny**\n\nThe US government's plan to beat China in AI is, officially, to stop calling it AI. Trump signed an executive order: federal agencies must now say 'Super Intelligence' in all official documents. Every website, every press release, every policy brief. The technology itself was not renamed. The compute clusters are the same. The training runs are the same. What changed is that a roomful of federal web developers is now doing the most expensive find-and-replace in government history. The race for technological dominance, secured by Ctrl+H.\n\n**Say It Out Loud**\n\n> The US can't out-build China on AI, but we can absolutely out-capitalize it.\n\n---\n\n## 2. Treasury to Auto-Enroll 60 Million Children in 'Trump Accounts' Whether Families Ask or Not\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html)*\n\nThe US Treasury Department announced it will automatically enroll eligible children in 'Trump Accounts,' a new federally backed investment account program. Up to 60 million accounts could be created through the opt-out enrollment system. The accounts are intended to give children a financial head start, with initial government seed funding.\n\n**Why It's Funny**\n\nThe Treasury Department is auto-enrolling up to 60 million children in investment accounts named after the current president. The children did not apply. Their parents did not apply. The accounts just arrive, like a magazine subscription nobody signed up for, except it's the federal government and the magazine has the president's name on the cover. You can opt out. The form is nine pages. Processing takes eight weeks. The baby will have opinions about college by then.\n\n**Say It Out Loud**\n\n> Congrats on the new baby! It's a girl. Seven pounds, three ounces. Already has a government account she didn't ask for.\n\n---\n\n## 3. Trump Ads Paid for by US Taxpayers May Violate Anti-Propaganda Laws — FCC Probably Won't Do Anything\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/)*\n\nReports allege that advertisements promoting President Trump and his administration have been funded by US taxpayer money, potentially running afoul of federal laws prohibiting government-funded domestic propaganda. The Federal Communications Commission, which would ordinarily have jurisdiction over broadcast compliance, is considered unlikely to take action given the current political environment.\n\n**Why It's Funny**\n\nThere's a law against the US government funding domestic propaganda. There's an agency that enforces broadcast rules. That agency is staffed by people appointed by the administration currently running ads about itself, funded by taxpayers, that may violate the law. The article reporting all of this ends with: the FCC probably won't act. That's not a news story. That's a weather forecast with no umbrella attached.\n\n**Say It Out Loud**\n\n> It's illegal. The people who enforce it work for the guy in the ad. Moving on.\n\n---\n\n## 4. LA's 550-Pound Celebrity Bear Evicted Again, Immediately Finds Another Crawlspace\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace)*\n\nYellow 2120, a 550-pound black bear who gained notoriety last November by taking up residence under an Altadena home, has been evicted from multiple crawlspaces in the LA neighborhood — and keeps returning. Despite repeated removals, the bear has moved into yet another resident's crawlspace. Local wildlife officials describe him as persistent.\n\n**Why It's Funny**\n\nYellow 2120 weighs 550 pounds and has been evicted from crawlspaces in Altadena multiple times. Each time, he finds another one. Wildlife officials describe him as persistent. Los Angeles, meanwhile, has a housing crisis so severe that people are leaving the city. The bear has not left. The bear has not paid rent. The bear is, by any reasonable measure, winning.\n\n**Say It Out Loud**\n\n> This bear has been evicted more times than he has a social security number, and he's doing fine.\n\n---\n\n## 5. Small Businesses Swamped by Disability Access Lawsuits — Often From Lawyers They've Never Met\n\n*The Guardian US — [source](https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses)*\n\nSmall business owners across the US are facing a surge of lawsuits alleging violations of the Americans with Disabilities Act, with some suits filed by law firms whose clients have never visited the establishments named. Shop and cafe owners say the cases feel like legal shakedowns, while disability advocates argue the violations are real and enforcement is necessary. The lawsuits often target technical non-compliance issues rather than obvious barriers.\n\n**Why It's Funny**\n\nA small business owner gets a letter. It's from a law firm. The firm's client has never been to the shop — never walked through the door, never tried the coffee, never attempted the ramp in question. The ramp is apparently two degrees off the required angle. The letter would like $30,000 to discuss it. The Americans with Disabilities Act was written to make the world more accessible. It is doing that. It is also doing this.\n\n**Say It Out Loud**\n\n> Your ramp is two degrees off. A lawyer who's never been to your neighborhood would like $30,000.\n\n---\n\n## Today's Punchline\n\n> It's illegal. The people who enforce it work for the guy in the ad. The ad continues.\n",
-    "fullJa": "# 「AI」を「スーパーインテリジェンス」と呼び直したら、強くなるらしい\n\n## 今日を占うよ〜\n\n「スーパーインテリジェンス」という単語を、今朝5時に読みました。\n\n大統領令です。冗談ではありません。米国政府は今日から、AIを「AI」と呼んではいけないことになりました。「スーパーインテリジェンス」と呼ぶことになりました。強そうだから、らしいです。\n\nで、他を見ると…\n生まれたばかりの子どもに自動でトランプ口座が開設され、税金で作った政権のCMを取り締まる機関はたぶん動かず、LAでは250キロの熊が何度追い出されても別の床下に引越し、実際に来店したことのない弁護士が障害者法の訴状を送りつけてくる。\n\n今日の5本を貫く糸は、たぶんこれです。「名前と制度は残っているのに、目的だけがどこかへ行った」という話。\n\nということで、今日の占いです。\nあなたがいまやっていることに、ちゃんと名前がついていないとしても。誰にも気づかれていないとしても。名前を変えただけで勝った気になっている人たちの話を、今日は5本読んでください。熊みたいに、戻り続けることにします。少なくとも今日はね\n\n---\n\n## 1. Trump Orders US Government to Stop Saying 'AI,' Insist on 'Super Intelligence' Instead\n\n*The Verge（[記事](https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai)）*\n\nトランプ大統領が署名した大統領令により、米国行政府はAIを「人工知能（Artificial Intelligence）」ではなく「スーパーインテリジェンス」と公式に呼称することが義務づけられた。\n\n**どこが笑える？**\n\n中国のAI開発に対抗するため、アメリカ政府が選んだ手段は「名前を変えること」でした。大統領令。公式文書全部。「AI」は今日から「スーパーインテリジェンス」です。\n\nコンピューターは変わっていません。データセンターも変わっていません。変わったのは、連邦政府のウェブ担当者が今ごろ全ドキュメントを開いてCtrl+Hを押しているということです。覇権争い、保存完了。\n\n**このニュースをジョークにするなら...**\n\n> 中国にAIで勝てないなら、せめて名前で勝てばいい——これがアメリカの最終兵器です。\n\n---\n\n## 2. Treasury to Auto-Enroll 60 Million Children in 'Trump Accounts' Whether Families Ask or Not\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/29/trump-accounts-auto-enroll.html)）*\n\n米財務省は、子ども向け投資口座「トランプ口座」への自動加入を開始すると発表した。対象となる子どもは最大6000万人に上る見込み。\n\n**どこが笑える？**\n\n生まれた瞬間から、子どもには「トランプ口座」が自動で開設されます。本人は何も言っていません。親も申し込んでいません。ただ、口座がある。\n\n「小さな政府」を掲げてきた党が、産声を上げた赤ちゃんの名前を政府のデータベースに登録する仕組みを作った。オプトアウトしたければ9ページの書類を提出してください。処理に8週間かかります。その頃、赤ちゃんはハイハイしています。\n\n**このニュースをジョークにするなら...**\n\n> おめでとうございます! 女の子です。3.3キロ。すでに政府口座に加入済みです。\n\n---\n\n## 3. Trump Ads Paid for by US Taxpayers May Violate Anti-Propaganda Laws — FCC Probably Won't Do Anything\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/09/trump-ads-paid-for-by-us-government-allegedly-violate-anti-propaganda-laws/)）*\n\nトランプ政権が税金で制作・配信した広告が、米国の反プロパガンダ法に違反している可能性があるとArs Technicaが報じた。FCCが介入する可能性は低いとみられている。\n\n**どこが笑える？**\n\n税金で政権のCMを作るのは、連邦法に違反する可能性があります。それを取り締まるFCCは、そのCMに映っている人が任命した委員で構成されています。記事の最後の一文は「たぶん何もしない」。\n\nこれはニュース記事です。天気予報ではありません。でも「雨が降るかもしれないが、傘は配られない」。まあ、同じか。\n\n**このニュースをジョークにするなら...**\n\n> 違法の可能性があります。取り締まる人は広告に出てる人の部下です。以上。\n\n---\n\n## 4. LA's 550-Pound Celebrity Bear Evicted Again, Immediately Finds Another Crawlspace\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/29/los-angeles-bear-crawlspace)）*\n\nロサンゼルス・アルタデナ地区の民家の床下に居座ることで有名な体重250キロの熊「イエロー2120」が、再び別の家の床下に侵入していることが確認された。\n\n**どこが笑える？**\n\n体重250キロの熊が、何度追い出されても別の家の床下に引越しています。LAではこれが3回目です。地元の担当者は「しつこい」と言っています。\n\nLA在住の人間は家賃が払えなくて出ていく。熊は無断で入ってきて追い出されても戻ってくる。どちらが住宅市場に強いか、今日の時点では熊です。\n\n**このニュースをジョークにするなら...**\n\n> この熊、社会保険番号もないのに強制退去の経験だけは誰より豊富ですよ。\n\n---\n\n## 5. Small Businesses Swamped by Disability Access Lawsuits — Often From Lawyers They've Never Met\n\n*The Guardian US（[記事](https://www.theguardian.com/business/2026/jul/11/disability-ada-lawsuits-small-businesses)）*\n\n米国でADA（障害者法）に基づくアクセシビリティ違反を訴える訴訟が急増しており、小規模店舗やカフェのオーナーが、実際に来店したことのない弁護士からの突然の訴状に頭を抱えている。\n\n**どこが笑える？**\n\n突然、訴状が届きます。障害者法違反。弁護士の依頼人は、その店に一度も来たことがありません。スロープの角度が規定より少し足りない、という話です。\n\nADA（障害者法）はアクセシビリティを守るための大切な法律です。ただ、その法律が「来店ゼロの依頼人のために訴状を送るビジネス」の根拠になっているとき、守られているのは誰なんですかね。\n\n**このニュースをジョークにするなら...**\n\n> スロープの角度が2度ずれてます。来たことない弁護士から300万円請求がきます。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 中身はそのままで、名前だけ強くした。まあ、そういう手もある。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d1のcaption2・captionJa2（「400%」ジョーク）はセットアップで完全にオチが見えてしまう型。d3のcaption3は汎用「you two should talk」型で構築されたジョークに差し替え。xJa1が135字を超過しているため短縮。introJaの「少なくとも今日はね」が宙吊りなので締め直し。それ以外は合格。 ／ 文体パス: 3箇所修正。riffJa[2]の締め「構造は同じです」が説明口調、riffJa[4]の「少し考える必要があります」が典型的AI締め、introJaの最後の一文が整いすぎの総括になっていた。"
+    "fullEn": "# Help Is on the Way (The Help Made It Worse)\n\n## Today's Forecast\n\nFive stories today. All five feature someone announcing a solution.\n\nA support center for nine million people already underwater. A $500 check for the health coverage that got taken away. A stock-trading reform bill that got quietly poisoned before the vote. An AI too powerful to release, released as an announcement. And a platform cracking down on its most loyal users in the name of safety.\n\nThe thread isn't incompetence. It's timing. Every one of these moves was announced with a straight face, right when it would do the least actual good.\n\nWhich means your forecast for today is this: if something in your life isn't working despite everyone insisting it's fine, you're not missing something. The gap between the announcement and the reality is the whole story. You've been reading it correctly all along.\n\n---\n\n## 1. Treasury Opens Student Loan 'Support Center' as 9.3 Million Borrowers Are Already in Default\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html)*\n\nThe U.S. Treasury Department announced the launch of a 'Default Loans Support Center' aimed at helping student loan borrowers who have fallen behind on payments. The announcement came the same day new data revealed that 9.3 million borrowers are currently in default. The Trump administration had previously ended pandemic-era repayment protections and resumed collections.\n\n**Why It's Funny**\n\nThe Treasury's new Default Loans Support Center opened on the exact same day 9.3 million borrowers were reported to be in default. Think about the staff meeting where someone said, 'we should help the people we just put in default,' and everyone nodded like that was the logical next step. Not a new policy. Not forgiveness. A center. The name alone is an accidental confession — they called it the Default Loans Support Center, which is a very polite way of saying the situation has already defaulted. Presumably there's hold music.\n\n**Say It Out Loud**\n\n> Nine-point-three million people in default, and the fix is... a center. Not a policy. A center. With, presumably, hold music.\n\n---\n\n## 2. Trump Sends $500 Obamacare Refund Checks — Weeks Before Midterms\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html)*\n\nThe Trump administration has begun mailing $500 refund checks to Americans who lost Affordable Care Act premium subsidies after those subsidies were cut. The checks are going out to nearly one million people, with some multi-member households receiving multiple payments. The timing comes just weeks before the midterm elections.\n\n**Why It's Funny**\n\nThe administration cut Obamacare subsidies worth thousands of dollars a year, and now they're mailing $500 checks to the people who lost coverage. That's not a refund. That's a Yelp apology after a two-star review. The checks went out in October. The midterms are in November. I'm not saying someone was looking at a calendar while stuffing envelopes — I'm saying the calendar was definitely visible from where they were sitting.\n\n**Say It Out Loud**\n\n> They took away your insurance and mailed you $500. That's not a refund — that's a Yelp apology.\n\n---\n\n## 3. Senate Blocks Stock Trading Restrictions for Congress — Because of a 'Poison Pill' Voter ID Add-On\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/30/us-senate-stock-trades-bill)*\n\nThe U.S. Senate blocked a Republican bill that would have restricted stock trading by members of Congress. Democrats voted against advancing the measure, arguing it did not go far enough in closing trading loopholes and was bundled with unrelated voter ID provisions they characterized as a 'poison pill.' The bill's failure means Congress members retain broad latitude to trade stocks in areas they legislate.\n\n**Why It's Funny**\n\nCongress had a bill to stop its members from trading stocks in the industries they regulate. Good idea, broadly popular. So someone attached an unrelated voter ID provision to it, Democrats voted no, and now the headline reads 'Democrats block stock trading reform.' The stock portfolios of 535 legislators said nothing and just kept growing. The maneuver has an official name in politics — poison pill — which is usually a corporate defense tactic. Congress used it to defend themselves from accountability. The metaphor fits better than they'd like.\n\n**Say It Out Loud**\n\n> Congress had a chance to stop trading stocks on insider knowledge. They attached a voter ID bill to it first, just to make sure nobody could vote yes.\n\n---\n\n## 4. Google's Most Powerful AI Is Too Dangerous for You — Only 'Trusted Cyber Defenders' Can Have It\n\n*The Verge — [source](https://www.theverge.com/tech/1002980/google-gemini-4-argon)*\n\nGoogle announced Gemini 4 Argon, its most advanced AI model, describing it as capable of complex software engineering, legal and financial knowledge work, and cybersecurity defense. However, the company said the model will not be available to the general public due to its capabilities, and will be restricted to 'trusted cyber defenders' for the time being. Google's chief AI architect cited its power as the reason for limited access.\n\n**Why It's Funny**\n\nGoogle announced Gemini 4 Argon, the most powerful AI model they've ever built, and immediately said the public can't have it. Only 'trusted cyber defenders' for now. Who decides who's trusted? Google. Who built the system that requires defending against? Also Google. It's not a product launch so much as an announcement that a very powerful thing exists and you should feel something about that. Every few months a tech company does this — declares an AI too dangerous for civilians — and nobody stops to ask what that implies about the last ten AIs they already handed to civilians.\n\n**Say It Out Loud**\n\n> Google built the most powerful AI they've ever made and immediately hid it. That's not a product launch — that's a hostage situation with better branding.\n\n---\n\n## 5. Reddit Restricts Old Reddit, Citing 'Automated Abuse' — Users Note the Abuse Was Always Reddit Itself\n\n*Ars Technica — [source](https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/)*\n\nReddit announced it is placing additional restrictions on Old Reddit, the legacy interface that many long-time users prefer over the redesigned site. The company stated the move is aimed at combating 'automated abuse.' Old Reddit has long been the refuge for users who dislike Reddit's modern redesign, and the restrictions are seen by many as further pressure to migrate to the new interface.\n\n**Why It's Funny**\n\nReddit says Old Reddit is being restricted due to 'automated abuse.' Old Reddit users have been manually, painstakingly, deliberately refusing to switch to the new interface for fifteen years. That's the opposite of automated. These are the people who found the CSS workarounds, who filed the support tickets, who stayed when everyone else left. Reddit's most stubborn loyalists just got flagged as a security concern. Digg tried something like this once. That sentence ends there.\n\n**Say It Out Loud**\n\n> Reddit says Old Reddit attracts 'automated abuse.' Old Reddit users say they've been manually avoiding Reddit's redesign for fifteen years, which is the opposite of automated.\n\n---\n\n## Today's Punchline\n\n> They opened a center, mailed a check, blocked the bill, hid the AI, and locked out the users — all in the same week they said things were improving.\n",
+    "fullJa": "# 「解決しました」と言われた日に限って、何も解決していない話\n\n## 今日を占うよ〜\n\n記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n930万人が学生ローンで詰んでいる日に「サポートセンター開設」。医療保険を取り上げてから「500ドル返します」。株取引規制法案に選挙条項を混ぜて否決。「危なすぎるAI」を発表だけする。一番のファンを「不正利用の恐れ」で締め出す。\n\n今日の5本、全部「解決しています」という顔をしています。\n\nで、たぶん今日の糸は「発表と現実のあいだにある距離」です。\n\n今日の占いです。「これ、私のせいじゃないよな」と思っていることがあったら、今日はその直感を信じていい。窓口を作っても、小切手を送っても、委員会を開いても変わらない話が今日5本並んでいるので。あなたが「おかしくない?」と思ったこと、おかしいです。少なくとも今日は。\n\n---\n\n## 1. Treasury Opens Student Loan 'Support Center' as 9.3 Million Borrowers Are Already in Default\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html)）*\n\nトランプ政権は、学生ローンの延滞・債務不履行に陥った借り手向けに「デフォルト・ローン・サポートセンター」を開設すると発表した。現在930万人以上が債務不履行状態にある。\n\n**どこが笑える？**\n\n「デフォルト・ローン・サポートセンター」を開設した日、同じ日に930万人が債務不履行状態にあると発表されました。センター名にすでに「デフォルト」が入っている。解決策の名前が問題の名前になっている。政策でもなく、免除でもなく、窓口。\n\nスタッフが集まって「詰ませた人たちを助けよう」と言って全員うなずいた会議、想像するとかなりしんどい。\n\n**このニュースをジョークにするなら...**\n\n> 930万人が債務不履行で、解決策が「センター」。政策じゃなく。センター。たぶん保留音付きで。\n\n---\n\n## 2. Trump Sends $500 Obamacare Refund Checks — Weeks Before Midterms\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html)）*\n\nトランプ政権は、保険料補助金の廃止によって医療保険を失った数百万人のアメリカ人に対し、500ドルの払い戻し小切手を送付し始めた。中間選挙直前のタイミングとなっている。\n\n**どこが笑える？**\n\n補助金を廃止して医療保険を失わせてから、500ドルを郵送する。年間で数千ドル規模の補助金を取り上げておいて、500ドルを「払い戻し」と呼んでいる。\n\n封筒を詰めていた時期が10月で、中間選挙は11月です。誰かがカレンダーを見ながら作業していたはず。いや、カレンダーが目の前にあったはずです。\n\n**このニュースをジョークにするなら...**\n\n> 保険を取り上げて500ドルを郵送してきた。払い戻しじゃないですよ、Yelpの謝罪レビューですよ。\n\n---\n\n## 3. Senate Blocks Stock Trading Restrictions for Congress — Because of a 'Poison Pill' Voter ID Add-On\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/30/us-senate-stock-trades-bill)）*\n\n米上院は、議員による株取引を制限する共和党の法案を否決した。民主党は、この法案には有権者ID規定という「毒薬条項」が付け加えられており、株取引制限としても不十分だとして反対した。\n\n**どこが笑える？**\n\n議員の株取引を制限する法案に、なぜか有権者ID条項が混入していた。民主党が「不十分だし毒が入ってる」と言って反対、否決。そして翌朝の見出しは「民主党、株取引規制を阻止」。\n\nこの流れ、全員知ってやってますよね。「ポイズンピル」って自分たちで名前をつけて、堂々と使った。535人の株ポートフォリオ、今日も元気です。\n\n**このニュースをジョークにするなら...**\n\n> 議会が株取引を規制するチャンスがあった。事前に有権者ID条項を貼り付けて、誰も賛成票を投じられないようにしておいた。\n\n---\n\n## 4. Google's Most Powerful AI Is Too Dangerous for You — Only 'Trusted Cyber Defenders' Can Have It\n\n*The Verge（[記事](https://www.theverge.com/tech/1002980/google-gemini-4-argon)）*\n\nGoogleは最新のAIモデル「Gemini 4 Argon」を発表したが、能力が高すぎるとして一般公開はせず、当面は「信頼できるサイバー防衛者」のみに提供するとした。\n\n**どこが笑える？**\n\nGoogleが「史上最強のAI」を発表して、即日「一般には公開しません」と言いました。「信頼できるサイバー防衛者」だけが使える。その「信頼できる」を判断するのもGoogle。そのAIから守る必要があるシステムを作ったのもGoogle。\n\n数ヶ月に一度、テック企業が「危なすぎて公開できないAI」を発表するんですが、誰も「じゃあ去年公開した十個のAIは何だったの」と聞かないのが面白いところです。\n\n**このニュースをジョークにするなら...**\n\n> 史上最強のAIを作って即座に隠した。これは製品発表じゃなく、ブランディングが上手い人質交渉ですよ。\n\n---\n\n## 5. Reddit Restricts Old Reddit, Citing 'Automated Abuse' — Users Note the Abuse Was Always Reddit Itself\n\n*Ars Technica（[記事](https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/)）*\n\nRedditはクラシックインターフェース「Old Reddit」に新たな利用制限を加えると発表した。同社は「自動化による不正利用への対策」を理由としているが、ユーザーからは反発の声が上がっている。\n\n**どこが笑える？**\n\nRedditがOld Redditを制限した理由が「自動化による不正利用」。Old Redditを使い続けてきた人たちは、15年間、手動で、意地で、意識的に新しいUIを拒否し続けてきた人たちです。\n\n自動化と一番縁遠い人たちが「自動化が怖い」と言われた。一番熱心なファンが不審者扱い。Diggも同じことをやって、それ以降Diggの話はあまり出てこないですよね。\n\n**このニュースをジョークにするなら...**\n\n> Redditは「Old Redditが自動化された不正利用を引き起こす」と言ってる。Old Redditのユーザーたちは15年間、手動でリデザインを回避してきた人たちですよ。これが一番「手動」な行動じゃないですか。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「改善しています」と言った週に、センター、小切手、否決、非公開、締め出し、が全部揃った。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d5のcaptions[1]に汎用AI構文「Bold strategy.」が混入しており書き直し。同xJa[1]が135字を微妙に超えるリスクがあるため確認・調整。captionsJa[1]も対応修正。d5のimagePrompts[1]に「Digg tried something similar once.」の情報が構図に反映されておらず弱い（ただし修正要件を満たさないため据え置き）。introJaの末尾「少なくとも今日はね」が唐突に体言止め崩しになっており読点が欠落、修正。riffEn/riffJaは合格。notesEn・xJaは全体合格だがd5のxJa字数を安全域に調整。 ／ 文体パス: 2箇所修正。riffJa[0]の「想像するとかなりしんどい」前の文が説明口調で整いすぎていたため崩した。riffJa[2]の締め「議員535人の株ポートフォリオは何も言わず、今日も育ち続けています」が「うまくまとめた感」のある締めだったため捨て台詞に切り落とした。"
   },
   "carousel": [
-    "images/2026-09-30/carousel/slide-1.jpg",
-    "images/2026-09-30/carousel/slide-2.jpg",
-    "images/2026-09-30/carousel/slide-3.jpg",
-    "images/2026-09-30/carousel/slide-4.jpg",
-    "images/2026-09-30/carousel/slide-5.jpg",
-    "images/2026-09-30/carousel/slide-6.jpg",
-    "images/2026-09-30/carousel/slide-7.jpg"
+    "images/2026-10-01/carousel/slide-1.jpg",
+    "images/2026-10-01/carousel/slide-2.jpg",
+    "images/2026-10-01/carousel/slide-3.jpg",
+    "images/2026-10-01/carousel/slide-4.jpg",
+    "images/2026-10-01/carousel/slide-5.jpg",
+    "images/2026-10-01/carousel/slide-6.jpg",
+    "images/2026-10-01/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-09-30/note-header.jpg",
-    "substack": "images/2026-09-30/substack-cover.jpg"
+    "note": "images/2026-10-01/note-header.jpg",
+    "substack": "images/2026-10-01/substack-cover.jpg"
   },
-  "video": "videos/2026-09-30/daily-short.mp4",
-  "videoDuration": 83.4,
-  "videoJa": "videos/2026-09-30/daily-short-ja.mp4",
-  "videoJaDuration": 89.3
+  "video": "videos/2026-10-01/daily-short.mp4",
+  "videoDuration": 77.4,
+  "videoJa": "videos/2026-10-01/daily-short-ja.mp4",
+  "videoJaDuration": 101.3
 }
