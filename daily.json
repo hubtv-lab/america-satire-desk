@@ -1,366 +1,366 @@
 {
   "version": 1,
-  "date": "2026-10-01",
-  "generatedAt": "2026-09-30T23:05:14+00:00",
+  "date": "2026-10-02",
+  "generatedAt": "2026-10-01T23:15:09+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Treasury Opens Student Loan 'Support Center' as 9.3 Million Borrowers Are Already in Default",
-        "source": "CNBC Top News",
-        "date": "2026-10-01",
-        "url": "https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html",
-        "summary": "トランプ政権は、学生ローンの延滞・債務不履行に陥った借り手向けに「デフォルト・ローン・サポートセンター」を開設すると発表した。現在930万人以上が債務不履行状態にある。"
+        "headline": "Judge Blocks Trump's Firing of Seattle Prosecutor Who Lasted Less Than an Hour on the Job",
+        "source": "CBS News US",
+        "date": "2026-10-02",
+        "url": "https://www.cbsnews.com/news/judge-blocks-trump-firing-top-federal-prosecutor-seattle-roger-rogoff/",
+        "summary": "トランプ大統領がシアトルの連邦検察官ロジャー・ロゴフ氏を就任からわずか1時間以内に解雇したと司法長官が発表したが、連邦判事がその解雇を差し止めた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 制度によって930万人を債務不履行に追い込んだ政権が、その930万人を助けるための窓口を「成果」として発表してるんですよ。消防署が放火して、翌日「新しい消防車を導入しました」って言ってる感じ。",
-        "<b>滑稽さ:</b> センター名が「デフォルト・ローン・サポートセンター」、つまり「あなたはもう詰んでます窓口」なんですよね。ネーミングだけで現状を全部白状してる。",
-        "<b>日本・海外から見ると:</b> 「930万人が同時に借金踏み倒してる国」が「センターを作りました」で解決しようとしてるのを見て、海外のエコノミストたちは今ごろ額に手を当ててると思いますよ。"
+        "<b>矛盾:</b> 就任式を終えた直後に解雇通知が届く。「スピード採用」ならぬ「スピード解雇」の記録更新なんですよ。",
+        "<b>滑稽さ:</b> 宣誓してから1時間で首になるって、研修期間どころか名刺を配る時間すらない。ロゴフ氏、まだ駐車場の精算もしてないんじゃないですか。",
+        "<b>日本・海外から見ると:</b> 「試用期間3ヶ月」が一般的な国から見ると、1時間未満というのはもはや採用プロセスの誤作動。人事システムの速度だけは世界トップクラス。"
       ],
       "imagePrompts": [
-        "A grand government building with a freshly installed sign reading 'Default Loans Support Center' over the entrance, while an enormous crowd stretches around the block. A single clerk visible through the window.",
-        "A fire department press conference where officials proudly display a new fire truck, while smoke rises from buildings in the background.",
-        "An official podium with Treasury Department seals, a cheerful ribbon-cutting ceremony in front of a door labeled 'You Are Already In Default — Welcome.'"
+        "A freshly sworn-in official in a suit still holding a Bible, receiving a pink slip from a hand off-frame, confetti still falling from the swearing-in ceremony around him, courthouse interior",
+        "An oversized stopwatch showing '58 minutes' mounted on a government office wall, a nameplate being installed on a door on the left, a removal truck pulling away on the right",
+        "A judge's gavel slamming down on a large red BLOCKED stamp hovering over a firing notice, federal courthouse setting, stacks of legal briefs in background"
       ],
       "captions": [
-        "Nine-point-three million people in default, and the fix is... a center. Not a policy. A center. With, presumably, hold music.",
-        "They named it the Default Loans Support Center. I respect the honesty. Most branding tries to hide the disaster in the name.",
-        "Think about the staff meeting where someone said 'we need to help the people we just put in default' and everyone nodded like that was the logical next step.",
-        "Switzerland has 8.7 million people. The U.S. just opened a help desk for more humans than that.",
-        "The ribbon-cutting was lovely. The 9.3 million people who needed a ribbon-cutting two years ago were not available for comment."
+        "He was sworn in, fired, and legally reinstated — all before most federal employees finish their morning badge orientation.",
+        "The administration's vetting process: thorough enough to hire him, fast enough to unhire him in under an hour.",
+        "Roger Rogoff's LinkedIn update must've been a nightmare. 'U.S. Attorney, Seattle — duration: negligible.'",
+        "A judge said the firing was unlawful. The firing itself said, 'We'll see about the law part.'",
+        "Somewhere out there is a government HR form for 'termination reason' that just says: 'He showed up.'"
       ],
       "captionsJa": [
-        "930万人が債務不履行で、解決策が「センター」。政策じゃなく。センター。たぶん保留音付きで。",
-        "名前が「デフォルト・ローン・サポートセンター」ですよ。名称で全部バラしてる。ふつうはブランディングで惨状を隠すじゃないですか。",
-        "「自分たちが追い込んだ人たちを助けよう」って誰かが会議で言い出して、全員うなずいてたその場面を想像してしまう。",
-        "スイスの人口が870万人。アメリカはそれより多い人数のために窓口を作った。",
-        "テープカットは華やかでした。2年前に窓口が必要だった930万人は、コメントを取れる状況じゃありませんでした。"
+        "宣誓して、解雇されて、裁判所に差し止められて——連邦職員のほとんどがIDバッジの申請を終える前の話なんですよ。",
+        "採用プロセスは念入りで、解雇プロセスは1時間以内。どちらが本気か、もはや逆じゃないですか。",
+        "ロゴフ氏のLinkedIn、職歴欄の在籍期間に「計測不能」って書くしかない。",
+        "判事は「違法」と言った。解雇した側は「法律はあとで考える」という姿勢だったわけで。",
+        "どこかの人事書類に「解雇理由」欄があって、そこに書いてあるのはたぶん「出勤した」。"
       ],
-      "newsEn": "The U.S. Treasury Department announced the launch of a 'Default Loans Support Center' aimed at helping student loan borrowers who have fallen behind on payments. The announcement came the same day new data revealed that 9.3 million borrowers are currently in default. The Trump administration had previously ended pandemic-era repayment protections and resumed collections.",
+      "newsEn": "Attorney General Todd Blanche announced in July that President Trump had fired Roger Rogoff as the U.S. attorney in Seattle less than an hour after he was sworn into the post. A federal judge has since blocked the firing, ruling that the removal was unlawful. The case adds to a growing list of legal challenges against the administration's personnel decisions.",
       "ironyEn": [
         {
-          "contradiction": "The administration that ended repayment protections and restarted collections is now proudly announcing a 'support center' for the resulting 9.3 million defaulters.",
-          "absurdity": "The center is literally called the 'Default Loans Support Center.' They named the help desk after the crisis they created.",
-          "outside": "Watching the U.S. celebrate opening a hotline for 9.3 million simultaneous financial emergencies is like a hospital bragging about its waiting room renovations."
+          "contradiction": "The Trump administration fired a federal prosecutor before he even had time to hang up his coat — then seemed surprised a court called it unlawful.",
+          "absurdity": "Rogoff's tenure was so short the government probably still owes him a coffee reimbursement.",
+          "outside": "In countries where civil service protections are considered boring bureaucracy, firing someone in under 60 minutes reads like a world record attempt, not a policy."
         },
         {
-          "contradiction": "Policy caused the flood. The press release announced a bucket.",
-          "absurdity": "Nine-point-three million people. That's more than the entire population of Switzerland in default — and the solution is a phone number.",
-          "outside": "In most countries, 9.3 million people defaulting on the same loan type at the same time would be called a policy failure. Here it got a ribbon-cutting."
+          "contradiction": "The whole point of a Senate-confirmed U.S. attorney is independence from the White House — the speed of the firing suggests someone didn't get that memo.",
+          "absurdity": "He was sworn in. He was fired. Somewhere in between, he may have briefly been a federal prosecutor.",
+          "outside": "Most countries' bureaucratic dismissal paperwork takes longer to process than this man's entire career in the role."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-10-01/candidate-1.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-10-01/candidate-1-punchy.jpg"
+      "image": "images/2026-10-02/candidate-1.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-10-02/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Trump Sends $500 Obamacare Refund Checks — Weeks Before Midterms",
-        "source": "CNBC Top News",
-        "date": "2026-10-01",
-        "url": "https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html",
-        "summary": "トランプ政権は、保険料補助金の廃止によって医療保険を失った数百万人のアメリカ人に対し、500ドルの払い戻し小切手を送付し始めた。中間選挙直前のタイミングとなっている。"
+        "headline": "MLB Eyes Grand Teton for a Game, Nature Responds With Unanimous Opposition",
+        "source": "The Guardian US",
+        "date": "2026-10-02",
+        "url": "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park",
+        "summary": "MLBがワイオミング州のグランドティトン国立公園内で野球の試合を開催する提案を検討しており、地元住民や環境保護団体から強い反発を受けている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 補助金を廃止して保険を失わせた政権が、その500ドルを「払い戻し」として送ってくるんですよ。元の補助金は年間で数千ドル規模の話なのに。",
-        "<b>滑稽さ:</b> 中間選挙の「数週間前」というタイミング、誰も偶然だと思ってないですよね。500ドル小切手を封筒に入れてる人たち、選挙カレンダー見ながら作業してたはず。",
-        "<b>日本・海外から見ると:</b> 「医療保険を取り上げてから小切手を送る」という順番、日本で真似したら翌日の国会が大変なことになりますよね。"
+        "<b>矛盾:</b> 「国立公園」とは自然を永続的に保護するために作られた場所なんですよ。そこにスポンサー看板とホットドッグの屋台を持ち込むのは、定義と戦う行為じゃないですか。",
+        "<b>滑稽さ:</b> 外野フライを追いかけるセンターフィールダーの背後にグランドティトンの峰が広がる絵面、確かに映えはするんですけど、それってつまり「背景として使う」ということで。",
+        "<b>日本・海外から見ると:</b> 富士山の五合目でプロ野球の試合をやろうとしたら即却下されるやつ。アメリカだけが「まあ話し合いましょう」で止まっている。"
       ],
       "imagePrompts": [
-        "A government envelope containing a $500 check, sitting next to an opened letter that reads 'Your health insurance subsidy has been discontinued.' A calendar on the wall shows Election Day circled in red.",
-        "A conveyor belt in a government facility, workers stuffing $500 checks into envelopes while a large wall calendar showing 'ELECTION: 6 WEEKS' looms behind them.",
-        "A mailbox overflowing with $500 government checks, with a 'Healthcare: CLOSED' sign visible on a building in the background."
+        "A baseball diamond with white chalk lines freshly drawn on alpine meadow grass, Grand Teton mountain peaks looming directly behind the outfield, a 'NO COMMERCIAL USE' national park sign half-buried under a base bag",
+        "A park ranger in uniform holding a clipboard, standing at home plate, a suited MLB executive gesturing toward the mountain scenery with a promotional brochure, confused tourists watching from the stands",
+        "An overhead view of a national park map with a stadium seating chart overlaid on top, red arrows pointing to 'proposed concession stands' near labeled wildlife corridors"
       ],
       "captions": [
-        "They took away your insurance and mailed you $500. That's not a refund — that's a Yelp apology.",
-        "The checks go out in October. The midterms are in November. I'm not saying it's cynical. I'm saying someone owns a calendar.",
-        "Five hundred dollars for losing your health coverage. For context, one month of unsubsidized premiums starts around $450. So... you're basically covered for 30 days. Good luck with the other eleven months.",
-        "It's called a 'refund.' For a subsidy that was cut. Which is a word that means the opposite of refund.",
-        "Nearly a million Americans are getting $500 checks right now. They lost their health insurance. But hey — that's like, six months of Netflix."
+        "MLB couldn't fill the stadium, so they're trying the entire Rocky Mountains.",
+        "Grand Teton: established 1929 to protect pristine wilderness. 2026: someone's asking if they can fit a bullpen in there.",
+        "The conservationists said no. The locals said no. The moose near second base has not yet commented.",
+        "Nothing says 'we respect nature' like putting a Jumbotron in a federally protected ecosystem.",
+        "Other leagues pick host cities. MLB apparently picks host biomes."
       ],
       "captionsJa": [
-        "保険を取り上げて500ドルを郵送してきた。払い戻しじゃないですよ、Yelpの謝罪レビューですよ。",
-        "小切手は10月に届いて、中間選挙は11月。冷笑的だとは言いません。ただカレンダーを持ってる人がいる、それだけ。",
-        "500ドルで医療保険を失う。補助なしの保険料は月4万5千円から。つまり30日分。残り11ヶ月はご自分で。",
-        "「払い戻し」という名前なんですよ。廃止した補助金への。「払い戻し」は戻ってくる側の言葉なんですけどね。",
-        "100万人近くが今500ドル受け取ってる。医療保険は失ってるけど。まあ、Netflixなら半年いけますね。"
+        "スタジアムが埋まらないから、次はロッキー山脈で試合をやろうとしてるわけですよ。",
+        "グランドティトン国立公園、1929年設立。自然保護のため。2026年、ブルペンが入るか検討中。",
+        "環境団体はノー。地元住民もノー。セカンドベース付近のヘラジカはまだ返答していない。",
+        "「自然を大切に」って言いながら、連邦保護区にジャンボトロンを置こうとするの、なかなかのムーブじゃないですか。",
+        "他のリーグは開催都市を選ぶんですよ。MLBは生態系を選んだ。"
       ],
-      "newsEn": "The Trump administration has begun mailing $500 refund checks to Americans who lost Affordable Care Act premium subsidies after those subsidies were cut. The checks are going out to nearly one million people, with some multi-member households receiving multiple payments. The timing comes just weeks before the midterm elections.",
+      "newsEn": "Major League Baseball reportedly contacted the White House about staging a game inside Grand Teton National Park in Wyoming. The proposal has drawn significant backlash from local residents and conservation groups who say the event would damage a protected natural area. The idea follows a broader trend of staging spectacle sporting events in unusual locations.",
       "ironyEn": [
         {
-          "contradiction": "The administration cut the subsidies that kept people insured, then sent them $500 — which is roughly one month of the premiums they can no longer afford.",
-          "absurdity": "It's technically a refund for money the government never owed them, for insurance they no longer have, arriving conveniently in October of an election year.",
-          "outside": "Most countries call it 'healthcare.' The U.S. calls it '$500 six weeks before voting.'"
+          "contradiction": "National parks exist specifically to keep commercial entertainment out — so naturally, someone called the White House to ask about putting a ballpark in one.",
+          "absurdity": "The outfield wall sponsorships write themselves: 'This pristine wilderness brought to you by a regional insurance company.'",
+          "outside": "Most countries treat their equivalent of a national park as off-limits to commercial spectacle. The U.S. is currently in the 'let's check with the White House' phase."
         },
         {
-          "contradiction": "You lose your health coverage. You get a check. The check is smaller than one month of unsubsidized premiums. This is called 'relief.'",
-          "absurdity": "Someone in the Treasury had to write 'refund' on a check for something that was never a refund. That's a special kind of paperwork.",
-          "outside": "Abroad, the headline 'government reimburses people it uninsured' reads as satire. Here it's a press release."
+          "contradiction": "The league that can't reliably fill seats in actual stadiums wants to borrow one of America's most protected landscapes as a backdrop.",
+          "absurdity": "Imagine a grounds crew dragging the infield dirt while a moose walks across second base — and nobody's quite sure whose call that is.",
+          "outside": "UNESCO World Heritage sites have strict rules about this. Grand Teton is not a UNESCO site, which may be the only reason this is still a conversation."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-10-01/candidate-2.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-10-01/candidate-2-punchy.jpg"
+      "image": "images/2026-10-02/candidate-2.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-02/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Senate Blocks Stock Trading Restrictions for Congress — Because of a 'Poison Pill' Voter ID Add-On",
-        "source": "The Guardian US",
-        "date": "2026-10-01",
-        "url": "https://www.theguardian.com/us-news/2026/sep/30/us-senate-stock-trades-bill",
-        "summary": "米上院は、議員による株取引を制限する共和党の法案を否決した。民主党は、この法案には有権者ID規定という「毒薬条項」が付け加えられており、株取引制限としても不十分だとして反対した。"
+        "headline": "New York City Now Requires 'Click to Cancel' — The Same Ease You Never Got to Sign Up",
+        "source": "CNBC Top News",
+        "date": "2026-10-02",
+        "url": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
+        "summary": "ニューヨーク市でサブスクリプションサービスの解約を申込みと同等の手順で完了できることを義務づける「クリック・トゥ・キャンセル」規則が施行された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「議員が株で儲けすぎ」という問題に対処する法案に、なぜか有権者ID条項がセットになってた。法案に毒を盛ったのは誰か、というのが本当のニュースですよ。",
-        "<b>滑稽さ:</b> 「株取引を制限しましょう」「わかった、その代わり選挙規定も一緒に入れよう」「じゃあ反対します」「ほら、民主党が株制限を阻止した」——この流れ、全員知ってやってますよね。",
-        "<b>日本・海外から見ると:</b> 「利益相反を規制しようとしたら別の議題にすり替えて潰す」、これは日本の永田町でも普通に見られる技ですけど、アメリカはその手口を「ポイズンピル」って名前付けて堂々と呼んでますからね。"
+        "<b>矛盾:</b> 法律で義務づけなければ「解約ボタン」が機能しないという事実そのものが、最大の告白なんですよ。企業は自発的にやる気がゼロだったということを、法律が証明してる。",
+        "<b>滑稽さ:</b> 「登録は1クリック、解約は5ステップ・本人確認・アンケート・最後の引き留めトーク」という構造が、これで初めて違法になる。今まで合法だったことの方がびっくり。",
+        "<b>日本・海外から見ると:</b> 日本でも解約導線をわざと複雑にするサービスは問題になってるんですが、「法律で禁止」まで至ったニューヨークを見て、「ああ、そこまでやらないと変わらないのか」という気持ちになる。"
       ],
       "imagePrompts": [
-        "A Senate chamber with a large bill labeled 'Stock Trading Restrictions' on the floor, visibly stapled to a separate document labeled 'Voter ID Rules.' Senators walk past without touching it.",
-        "A bottle labeled 'POISON PILL — Voter ID Clause' being dropped into a glass of water labeled 'Congressional Stock Trading Reform.'",
-        "A stock ticker screen inside the U.S. Capitol building showing congressional stock portfolios, with a 'BILL FAILED' notification banner across the bottom."
+        "A giant glowing 'SIGN UP' button taking up the entire left side of a screen, and a tiny barely-visible 'cancel' link hidden at the bottom right, surrounded by popup warnings and retention messages, NYC skyline reflected in the monitor",
+        "A customer at a desk drowning in printed forms and chat windows, a simple 'CANCEL' button mounted on the wall behind them like emergency equipment behind glass, New York City Hall building visible through the window",
+        "A 'before and after' split image: left side shows a confusing twelve-step cancellation maze diagram, right side shows a single large red CANCEL button with a checkmark, NYC legal seal stamped in the corner"
       ],
       "captions": [
-        "Congress had a chance to stop trading stocks on insider knowledge. They attached a voter ID bill to it first, just to make sure nobody could vote yes.",
-        "The metaphor 'poison pill' usually refers to corporate defense tactics. Congress just used it to defend themselves from... accountability. So yeah, it fits.",
-        "Democrats said it didn't go far enough. Republicans said they tried. The stock portfolios of 535 legislators said nothing and just kept growing.",
-        "You want to restrict congressional stock trades? Fine. But first, take this completely unrelated election rule and staple it to the front. That's called governance.",
-        "The bill is dead. The stock accounts are alive and well. This has been Wednesday in Washington."
+        "Companies spent years perfecting the dark pattern. New York spent one law undoing it. The companies are not happy.",
+        "You could sign up in eight seconds. Canceling took a phone call, a survey, and a conversation with 'Mike from Retention.' That was legal until today.",
+        "The law says cancellation must be 'as easy as sign-up.' Someone in a boardroom is currently asking legal how gray that area is.",
+        "'Cancel anytime,' they said. NYC just asked them to prove it.",
+        "Somewhere a UX designer is staring at their cancel-flow wireframe, and for the first time in their career, they're a little nervous."
       ],
       "captionsJa": [
-        "議会が株取引を規制するチャンスがあった。事前に有権者ID条項を貼り付けて、誰も賛成票を投じられないようにしておいた。",
-        "「ポイズンピル」は普通、企業買収対策に使う言葉なんですよ。議会が自分たちへの監視対策に使った。まあ、言葉の意味的には合ってる。",
-        "民主党は「不十分だ」と言った。共和党は「努力した」と言った。535人の株ポートフォリオは何も言わず成長し続けた。",
-        "議員の株取引を制限したい？いいですよ。その代わり無関係な選挙規定を前に貼り付けてどうぞ。これが「立法」です。",
-        "法案は死んだ。株口座は元気です。以上、水曜日のワシントンでした。"
+        "企業は何年もかけてダークパターンを完成させた。ニューヨークは法律一本でそれをひっくり返した。企業側はご立腹。",
+        "登録は8秒。解約は電話とアンケートと「マイクからの引き留めトーク」。それが今日まで合法だったんですよ。",
+        "「解約は登録と同じ手順で」という法律が出た瞬間、どこかの会議室で「グレーゾーンの範囲は？」と聞く人がいる。",
+        "「いつでも解約できます」って言ってたじゃないですか。ニューヨークが「じゃあ証明して」と言ったわけで。",
+        "UXデザイナーがキャンセルフローのワイヤーフレームを眺めて、キャリアで初めて少し緊張している。"
       ],
-      "newsEn": "The U.S. Senate blocked a Republican bill that would have restricted stock trading by members of Congress. Democrats voted against advancing the measure, arguing it did not go far enough in closing trading loopholes and was bundled with unrelated voter ID provisions they characterized as a 'poison pill.' The bill's failure means Congress members retain broad latitude to trade stocks in areas they legislate.",
+      "newsEn": "New York City's 'click to cancel' rule has taken effect, requiring subscription services to make cancellation as easy as the original sign-up process. The city joins a growing number of states and jurisdictions adopting similar consumer protection laws. A federal standard remains in legal limbo, leaving a patchwork of local rules across the country.",
       "ironyEn": [
         {
-          "contradiction": "A bill to stop lawmakers from profiting off their own legislative decisions was killed by the lawmakers those rules would have applied to.",
-          "absurdity": "Someone attached voter ID requirements to a stock trading bill. That's not legislating — that's a trap with a nice label on it.",
-          "outside": "In most democracies, 'legislators blocking rules on their own stock trades' is a scandal. In Washington it's a Wednesday."
+          "contradiction": "Companies designed sign-up flows to take ten seconds and cancellation flows to take twenty minutes — and somehow needed a law to understand why that felt unfair.",
+          "absurdity": "The city had to legally define 'same ease' because the industry's definition apparently involved a phone call, a retention specialist, and a six-question survey.",
+          "outside": "Consumer protection bodies in the EU have been fighting this for years. New York just made it local law, which means it still doesn't apply to the rest of the country, or the internet."
         },
         {
-          "contradiction": "The bill was meant to address conflicts of interest. It was sunk by a deliberate procedural conflict of interest.",
-          "absurdity": "The move is called a 'poison pill,' which is also what investors use when they don't want to be taken over. Congress used it to avoid being regulated. The metaphor is doing heavy lifting.",
-          "outside": "Abroad, investors watching American political theater note that U.S. legislators have managed to defeat stock trading rules using stock market vocabulary."
+          "contradiction": "The whole pitch of the subscription economy was 'cancel anytime' — they just forgot to mention 'anytime' required forty-five minutes and two chat windows.",
+          "absurdity": "Somewhere a UX team is currently redesigning their cancel flow to technically comply while still asking if you're really, truly sure.",
+          "outside": "In countries with stronger consumer law, this was never legal to begin with. The U.S. is celebrating closing a loophole other markets never had."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-10-01/candidate-3.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-10-01/candidate-3-punchy.jpg"
+      "image": "images/2026-10-02/candidate-3.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-02/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Google's Most Powerful AI Is Too Dangerous for You — Only 'Trusted Cyber Defenders' Can Have It",
-        "source": "The Verge",
-        "date": "2026-10-01",
-        "url": "https://www.theverge.com/tech/1002980/google-gemini-4-argon",
-        "summary": "Googleは最新のAIモデル「Gemini 4 Argon」を発表したが、能力が高すぎるとして一般公開はせず、当面は「信頼できるサイバー防衛者」のみに提供するとした。"
+        "headline": "GM's EV Sales Are Down While Toyota Rides Hybrids to Growth — Detroit's Bet Is Not Paying Off",
+        "source": "CNBC Top News",
+        "date": "2026-10-02",
+        "url": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
+        "summary": "GMの第3四半期販売台数は全体で5.5%減少し、同社の電気自動車販売も全面的に落ち込んだ一方、トヨタはEVとハイブリッド車の好調に支えられ増収となった。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「すごいAIを作りました、でも危なすぎて公開できません」という発表って、自社の安全管理能力への不信任表明でもあるんですよね。作れるけど制御できるか分からない、と言ってる。",
-        "<b>滑稽さ:</b> 「信頼できるサイバー防衛者だけに」って言ってますけど、それを判断するのもGoogleなんですよ。「うちの製品は危険です、でもうちが安全と判断した人にだけ売ります」——自分で首絞めてますよね。",
-        "<b>日本・海外から見ると:</b> 「最新モデルを作りました」「買えません」という発表が定期的に繰り返されてるの、テック業界ではもはや恒例行事になってますよね。発表した瞬間が一番インパクト大きいから。"
+        "<b>矛盾:</b> GMは「EVシフトで未来を取る」と大々的に宣言して工場まで建て替えたのに、消費者の熱が冷めたタイミングで販売減。宣言の方が現実より5年早かった。",
+        "<b>滑稽さ:</b> 「ハイブリッドは過渡期の技術」と言い続けたアメリカ勢を横目に、トヨタが「過渡期の技術」でしっかり利益を出している。過渡期、長くないですか。",
+        "<b>日本・海外から見ると:</b> 日本のトヨタが「ちょっと待って、ハイブリッドも残そう」と言ったら世界から批判された。その同じ戦略が今、アメリカ市場で正解になっている。"
       ],
       "imagePrompts": [
-        "A grand product reveal stage with dramatic lighting, a giant screen showing 'GEMINI 4 ARGON — OUR MOST POWERFUL AI EVER,' and a velvet rope blocking the audience from a single computer terminal on stage.",
-        "A restaurant menu with every item listed as 'CLASSIFIED — Trusted Defenders Only,' except a small section at the bottom labeled 'Previous Models — Ask Your Server.'",
-        "A Google office lobby with a glass case containing a glowing AI terminal, a sign reading 'For Trusted Cyber Defenders Only,' and a long line of people with badges being turned away by a security guard."
+        "A shiny GM electric concept car on a showroom pedestal with dramatic lighting, a large red downward sales arrow overlaid, a Toyota hybrid sedan quietly parked outside the window with a green upward arrow next to it",
+        "A construction site of a half-finished EV charging station with an 'OPENING SOON' sign dated two years ago, a gas station fully operational next door with a long line of cars, American highway landscape",
+        "A bar chart showing GM EV sales going down and Toyota hybrid sales going up, both bars wearing name tags, the Toyota bar is slightly smug, boardroom presentation setting"
       ],
       "captions": [
-        "Google built the most powerful AI they've ever made and immediately hid it. That's not a product launch — that's a hostage situation with better branding.",
-        "Only 'trusted cyber defenders' can access it. Who decides who's trusted? Google. Who built the thing that needs defending against? Also Google.",
-        "Every few months a tech company announces an AI too dangerous for civilians. We never ask what that implies about the last ten AIs we already gave to civilians.",
-        "The most advanced AI model in the world is currently available to — checks notes — not you. Sleep well.",
-        "You know your product reveal went different than planned when the key feature is 'you can't have it.'"
+        "GM went all-in on electric. Toyota hedged with hybrids. One of them is having a good quarter, and it's not the one that had the Super Bowl ad.",
+        "They called the hybrid 'a bridge to nowhere.' Toyota's bridge is apparently doing great traffic numbers.",
+        "Consumer enthusiasm for EVs 'waning' — which is corporate speak for 'the charging station still isn't open.'",
+        "GM announced the future of transportation. The future RSVP'd but hasn't shown up yet.",
+        "Toyota: still selling the thing everyone said was obsolete. GM: reporting the numbers everyone said were coming."
       ],
       "captionsJa": [
-        "史上最強のAIを作って即座に隠した。これは製品発表じゃなく、ブランディングが上手い人質交渉ですよ。",
-        "「信頼できるサイバー防衛者」だけに公開。誰が「信頼できる」か決めるのはGoogle。危険なものを作ったのもGoogle。",
-        "数ヶ月おきに「一般人には危険すぎるAI」が発表されるんですよ。すでに一般人に渡した過去10個のAIについては誰も問わない。",
-        "世界最先端のAIモデル、アクセスできるのは——メモを確認——あなたじゃありません。よく眠れますか。",
-        "製品発表の主な特徴が「あなたには買えません」だったとき、何かが違う方向に進んでるんですよ。"
+        "GMはEVに全振り。トヨタはハイブリッドで保険をかけた。どちらが今期好調かというと、スーパーボウル広告を出した方じゃないんですよ。",
+        "「ハイブリッドは過渡期の橋」って言ってたじゃないですか。その橋、交通量すごいことになってますけど。",
+        "EV需要が「鈍化」——コーポレートスピークで「充電スタンドがまだ開いてない」という意味。",
+        "GMは「交通の未来」を宣言した。未来は返事したけど、まだ来ていない。",
+        "トヨタは「時代遅れ」と言われたものを売り続けている。GMは「来るはず」と言っていた数字を報告している。"
       ],
-      "newsEn": "Google announced Gemini 4 Argon, its most advanced AI model, describing it as capable of complex software engineering, legal and financial knowledge work, and cybersecurity defense. However, the company said the model will not be available to the general public due to its capabilities, and will be restricted to 'trusted cyber defenders' for the time being. Google's chief AI architect cited its power as the reason for limited access.",
+      "newsEn": "General Motors reported a 5.5% drop in third-quarter sales, with electric vehicle sales declining across all models as consumer enthusiasm for EVs cools. Meanwhile, Toyota posted gains, buoyed by strong demand for both its electric and hybrid vehicles. The contrast highlights the diverging fortunes of automakers that went all-in on pure EVs versus those that maintained a hybrid strategy.",
       "ironyEn": [
         {
-          "contradiction": "Google built an AI so capable it decided the public can't be trusted with it — while also trusting itself to have built it responsibly.",
-          "absurdity": "'Trusted cyber defenders only' is doing a lot of work as a safety policy for a product a company just announced to the entire internet.",
-          "outside": "The product reveal that sells nothing is now a standard tech industry format. You announce the thing, the world watches, nobody gets the thing."
+          "contradiction": "GM announced its electric future loudly and expensively, then watched the future arrive slightly later than the press release suggested.",
+          "absurdity": "Toyota got called backward for keeping hybrids. It is now winning the U.S. sales quarter. The scolds have gone quiet.",
+          "outside": "Europe pushed hard for EV mandates. America announced EV ambitions. Toyota just sold cars. Guess which strategy has the better Q3."
         },
         {
-          "contradiction": "The safest version of this AI is apparently the one Google hasn't shipped yet. Which raises questions about the ones it already has.",
-          "absurdity": "Google told the world 'this is our most powerful model' and then said 'so you can't have it.' That's a menu that ends with 'sorry, we're out of everything good.'",
-          "outside": "Tech companies have discovered that 'too powerful to release' is actually a great marketing strategy. The product you can't buy is always impressive."
+          "contradiction": "The company that retooled factories and ran Super Bowl ads about its electric transformation is posting declining EV numbers while a Japanese automaker's 'transitional technology' keeps growing.",
+          "absurdity": "EV enthusiasm 'waning' is the polite way of saying consumers looked at charging infrastructure and did the math.",
+          "outside": "In Norway, where charging infrastructure is actually built out, EV adoption is fine. In the U.S., the plan was to sell the cars first and figure out the plugs later."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-10-01/candidate-4.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-10-01/candidate-4-punchy.jpg"
+      "image": "images/2026-10-02/candidate-4.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-02/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Reddit Restricts Old Reddit, Citing 'Automated Abuse' — Users Note the Abuse Was Always Reddit Itself",
-        "source": "Ars Technica",
-        "date": "2026-10-01",
-        "url": "https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/",
-        "summary": "Redditはクラシックインターフェース「Old Reddit」に新たな利用制限を加えると発表した。同社は「自動化による不正利用への対策」を理由としているが、ユーザーからは反発の声が上がっている。"
+        "headline": "United Airlines Offers Delta and American's Best Customers a Better Deal — Please, Just Look at Us",
+        "source": "CNBC Top News",
+        "date": "2026-10-02",
+        "url": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
+        "summary": "ユナイテッド航空がデルタ航空とアメリカン航空の上位会員向けに積極的なステータスマッチプログラムを開始し、ライバル社のエリート会員の獲得を狙っている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「自動化による不正利用への対策」という名目で、人間のユーザーが一番使ってるインターフェースを制限するんですよ。ボット対策で人間を締め出してる。",
-        "<b>滑稽さ:</b> Old Redditを使い続けてる人たちって、「新しいUIが嫌すぎて10年以上古い画面を使い続けてきた人たち」なんですよ。その人たちが今「不正利用の懸念がある」と言われてる。一番執着してるファンに向かって。",
-        "<b>日本・海外から見ると:</b> SNS企業が「古いインターフェースを潰して新UIに誘導する」のはもはや業界の伝統行事ですよね。Twitterも、Tumblrも、Diggも全部やった。全部うまくいかなかった。"
+        "<b>矛盾:</b> ロイヤルティプログラムの本来の目的は「自社への愛着を育てる」こと。それを「ライバル社の会員を丸ごと引っこ抜く」ために使い始めると、もう「ロイヤルティ」の意味がないじゃないですか。",
+        "<b>滑稽さ:</b> デルタのプラチナ会員がユナイテッドのプラチナになって、来月アメリカンからオファーが来て、再来月またユナイテッドに戻る——これ、旅客機版の引き抜き合戦で、忠誠心ゼロの消費者を量産している。",
+        "<b>日本・海外から見ると:</b> 航空会社のマイレージって「長年の顧客への恩返し」という建前のはずが、アメリカの場合は「今すぐ来てくれれば過去はいらない」という即席プログラムになってる。"
       ],
       "imagePrompts": [
-        "A bare-bones, text-heavy old website interface with a 'RESTRICTED ACCESS' banner over it, while a bright, cluttered modern redesign glows invitingly next door with a 'PLEASE USE THIS ONE' sign.",
-        "A bouncer at a velvet rope turning away a person holding a 'I Just Want the Old Layout' sign, while robots in trench coats are waved through on the other side.",
-        "A courtroom where a judge points at a group of people labeled 'Users Who Preferred Classic Interface' under a sign reading 'AUTOMATED ABUSE SUSPECTS.'"
+        "Three airline boarding gate counters labeled DELTA, UNITED, and AMERICAN, a frequent flyer in a suit with an oversized elite status card being tugged toward each gate by uniformed staff, overhead departure board showing all three airlines",
+        "A United Airlines representative at a kiosk holding a sign that reads 'DELTA PLATINUM? WE'LL MATCH THAT,' positioned directly outside a Delta terminal, rolling suitcase crowd passing by",
+        "A large scoreboard-style display showing 'ELITE MEMBERS POACHED' tallied between United, Delta, and American like a sports game, airport concourse setting with gate numbers visible"
       ],
       "captions": [
-        "Reddit says Old Reddit attracts 'automated abuse.' Old Reddit users say they've been manually avoiding Reddit's redesign for fifteen years, which is the opposite of automated.",
-        "They're restricting the version of the site that the most stubborn, loyal users refuse to leave. Digg tried this once. You know how that sentence ends.",
-        "The bots are apparently on Old Reddit. The humans who switched to Old Reddit to escape the new Reddit are collateral damage. Security is complicated.",
-        "Old Reddit users: survived the 2010 redesign, the 2012 redesign, the 2016 redesign, the 2018 redesign, the API shutdown. Now officially a threat.",
-        "If you ever wondered what happens when a platform decides its most loyal users are the problem — Reddit just answered that. October 2026."
+        "United's message to Delta's best customers: 'Everything you earned over there? We'll honor it. Starting now. No questions. Please.'",
+        "Loyalty program, redefined: you don't have to be loyal, we just have to be desperate first.",
+        "Someone flew 125,000 miles to get Delta Diamond status. United just offered the same thing for filling out a web form. That person is going to need a minute.",
+        "United is running a loyalty program to poach customers who already proved they'll leave for a better deal. The word 'loyalty' is in there somewhere.",
+        "Delta spent years earning those customers. United is spending this quarter un-earning them."
       ],
       "captionsJa": [
-        "Redditは「Old Redditが自動化された不正利用を引き起こす」と言ってる。Old Redditのユーザーたちは15年間、手動でリデザインを回避してきた人たちですよ。これが一番「手動」な行動じゃないですか。",
-        "一番頑固で忠実なユーザーが使ってる画面を制限した。Diggも一度同じことをやった。その後Diggの話はあまり聞かないですよね。",
-        "ボットがOld Redditにいるらしい。新しいUIを嫌ってOld Redditに来た人間ユーザーは巻き添え。セキュリティというのは難しい。",
-        "Old Redditユーザー：2010年のリデザインを生き延び、2012年も、2016年も、2018年も、API廃止も乗り越えた。今日、公式に「脅威」に認定。",
-        "プラットフォームが「最も忠実なユーザーこそが問題だ」と判断したらどうなるか——Redditが答えた。2026年10月。"
+        "ユナイテッドのデルタ上位会員へのメッセージ：「向こうで積み上げたもの全部、こっちで認めます。今すぐ。なんでもするので。」",
+        "ロイヤルティプログラム、再定義。あなたが忠誠心を持つ必要はない。こっちが先に必死になればいい。",
+        "12万5千マイル飛んでデルタのダイヤモンドになった人に、ユナイテッドがウェブフォーム一枚で同じ資格を出した。その人は少し複雑な気持ちになっていい。",
+        "「いい条件があれば動く」と証明済みの客を、ロイヤルティプログラムで奪い合っている。「ロイヤルティ」という単語がかろうじて残っている。",
+        "デルタは何年もかけて顧客を育てた。ユナイテッドは今期かけてそれを引っこ抜いている。"
       ],
-      "newsEn": "Reddit announced it is placing additional restrictions on Old Reddit, the legacy interface that many long-time users prefer over the redesigned site. The company stated the move is aimed at combating 'automated abuse.' Old Reddit has long been the refuge for users who dislike Reddit's modern redesign, and the restrictions are seen by many as further pressure to migrate to the new interface.",
+      "newsEn": "United Airlines launched an aggressive status match program targeting the top-tier frequent flyers of Delta Air Lines and American Airlines. The move is a direct attempt to poach loyal customers from rival carriers by offering them equivalent or better elite status without the usual requirements. The airline industry's loyalty program arms race is escalating.",
       "ironyEn": [
         {
-          "contradiction": "Reddit restricted the version of Reddit that users actually chose to keep using, calling it an 'automated abuse' problem. The humans using it aren't the bots.",
-          "absurdity": "Old Reddit users are by definition people who manually navigated away from Reddit's official redesign for years. They are the least automated users on the platform.",
-          "outside": "Every major platform has tried to kill its own legacy interface to force migration to the new one. The scoreboard currently reads: Users 0, Worse UIs 0, Abandoned Platforms 6."
+          "contradiction": "Loyalty programs are designed to build loyalty. United is now using its loyalty program to buy other airlines' loyal customers — which is less 'loyalty' and more 'recruitment.'",
+          "absurdity": "The program's target audience is travelers who have already proven they'll go wherever the perks are best. Offering them better perks to switch seems optimistic about what happens next.",
+          "outside": "In markets where airlines compete less aggressively, frequent flyer programs function as intended. In the U.S., they've become a currency airlines use to fight each other."
         },
         {
-          "contradiction": "The site is fighting 'automated abuse' by inconveniencing the humans. The bots are presumably fine.",
-          "absurdity": "Old Reddit is basically a support group for people who survived every Reddit redesign since 2010. Now Reddit is making them the problem.",
-          "outside": "Internationally, tech observers note that 'we're doing this for security' is now the universal explanation for 'we're doing this to you.'"
+          "contradiction": "Delta and American spent years and billions building elite customer relationships. United is offering to replicate the status badge in exchange for a transfer.",
+          "absurdity": "Someone achieved Delta Diamond status through 125 nights in middle seats and three missed connections. United just offered them the same thing for switching. The 125 nights feel different now.",
+          "outside": "European regulators have been scrutinizing airline loyalty programs as anti-competitive. Meanwhile, in the U.S., airlines are just openly running ads at each other's best customers."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-10-01/candidate-5.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-10-01/candidate-5-punchy.jpg"
+      "image": "images/2026-10-02/candidate-5.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-02/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「解決策が問題の一部になっている」。窓口、小切手、委員会、AI、UI制限——どれも「直します」という顔をしながら、直してない。",
-    "titleEn": "Help Is on the Way (The Help Made It Worse)",
-    "subtitleEn": "Five stories about fixes that aren't fixing anything.",
-    "titleJa": "「解決しました」と言われた日に限って、何も解決していない話",
+    "thread": "今日の5本を貫く糸は「ルールの建前と、その建前を誰も信じていないという事実」。採用、自然保護、解約、EV、ロイヤルティ——どの話も、制度の名前と中身がもう別物になっている。",
+    "titleEn": "Hired, Fired, and Rehired Before Lunch",
+    "subtitleEn": "Five stories about systems that work exactly as badly as designed.",
+    "titleJa": "就任から1時間で首になった連邦検察官が、裁判所に呼び戻された話",
     "titleAltJa": [
-      "930万人を詰ませた政権が「サポートセンターを開設しました」と言っている",
-      "今日の5本を読んだら、『助けます』という言葉の裏の読み方がわかった"
+      "「ロイヤルティプログラム」の「ロイヤルティ」がもう意味をなしていない件について",
+      "今日アメリカで起きた5つのこと、全部「名前と中身が違う」だった"
     ],
-    "leadJa": "「デフォルト・ローン・サポートセンター」。この名前、一回ゆっくり読んでみてください。\n\nつまり「あなたはもう詰んでます窓口」ですよ。開設した側も詰んでますと思いますけど、今日はそういう一日です。",
-    "introEn": "Five stories today. All five feature someone announcing a solution.\n\nA support center for nine million people already underwater. A $500 check for the health coverage that got taken away. A stock-trading reform bill that got quietly poisoned before the vote. An AI too powerful to release, released as an announcement. And a platform cracking down on its most loyal users in the name of safety.\n\nThe thread isn't incompetence. It's timing. Every one of these moves was announced with a straight face, right when it would do the least actual good.\n\nWhich means your forecast for today is this: if something in your life isn't working despite everyone insisting it's fine, you're not missing something. The gap between the announcement and the reality is the whole story. You've been reading it correctly all along.",
-    "introJa": "記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n930万人が学生ローンで詰んでいる日に「サポートセンター開設」。医療保険を取り上げてから「500ドル返します」。株取引規制法案に選挙条項を混ぜて否決。「危なすぎるAI」を発表だけする。一番のファンを「不正利用の恐れ」で締め出す。\n\n今日の5本、全部「解決しています」という顔をしています。\n\nで、たぶん今日の糸は「発表と現実のあいだにある距離」です。\n\n今日の占いです。「これ、私のせいじゃないよな」と思っていることがあったら、今日はその直感を信じていい。窓口を作っても、小切手を送っても、委員会を開いても変わらない話が今日5本並んでいるので。あなたが「おかしくない?」と思ったこと、おかしいです。少なくとも今日は。",
-    "quipEn": "They opened a center, mailed a check, blocked the bill, hid the AI, and locked out the users — all in the same week they said things were improving.",
-    "quipJa": "「改善しています」と言った週に、センター、小切手、否決、非公開、締め出し、が全部揃った。",
+    "leadJa": "就任して1時間以内に解雇通知。それを裁判所が差し止め。ロジャー・ロゴフ氏、まだ駐車場の精算もしてないと思う。\n\nそんな話から始まる今日の5本です。",
+    "introEn": "Roger Rogoff was sworn in as a U.S. attorney in Seattle. Then, less than an hour later, he was fired. Then a judge blocked the firing.\n\nAll of that happened before most federal employees finish filling out their desk request forms.\n\nToday's five stories are all running on the same engine: a system that says one thing, does another, and then acts surprised when someone notices. MLB wants to play baseball inside a national park. New York had to pass a law to make a cancel button work. GM bet everything on EVs while Toyota quietly kept the hybrids. And United Airlines is now poaching Delta's most loyal customers — with loyalty points.\n\nHere's your forecast: if you've ever followed the rules and still lost, today's news is basically a support group for that. The systems aren't broken. They were just never about what they said they were about. Which means you were right all along. Go ahead and take that one into the weekend.",
+    "introJa": "ロジャー・ロゴフ氏が連邦検察官に就任しました。宣誓しました。1時間以内に解雇されました。裁判所が「それは違法」と差し止めました。\n\nこれ、全部同じ日の午前中の話です。\n\nで、今日はあと4本あって——MLBが国立公園に野球場を持ち込もうとして全員に止められた話、ニューヨーク市が解約ボタンを法律で義務づけた話、GMのEVが沈んでトヨタのハイブリッドが浮いた話、そしてユナイテッドが他社の常連客を「あなたのステータス、うちでそのまま使えます」で引き抜こうとしている話。\n\n全部に共通しているのは、制度の名前と中身がもうズレている、ということ。ロイヤルティプログラムに忠誠心はなく、解約ボタンは強制しないと機能しない。\n\n今日の占いはこれです。「ちゃんとやってるのになんで？」と思っていることがあったとしたら、それはあなたのせいじゃないかもしれない。ルールを守っていた検察官が今日、裁判所に呼び戻されました。\n\n少なくとも今日は、あなたの方が正しかった",
+    "quipEn": "Loyalty programs with no loyalty. National parks open to proposals. A cancel button that required a law. Today's theme: the label stopped matching the contents a while ago, and we're all just now reading the fine print.",
+    "quipJa": "採用も、解約も、ロイヤルティも、全部「名前だけ」だった。そういう日でした。",
     "notesEn": [
-      "The Treasury opened a 'Default Loans Support Center' on the same day data showed 9.3 million borrowers are already in default. They didn't announce a new policy. They announced a center. With, presumably, hold music.",
-      "The Trump administration mailed $500 to people who lost their Obamacare subsidies — subsidies worth thousands of dollars a year. The checks went out in October. The midterms are in November. Someone owns a calendar.",
-      "The Senate blocked a bill to restrict Congress members from trading stocks. The bill had a voter ID provision stapled to it. Democrats voted no. Stock portfolios of 535 legislators said nothing and kept growing.",
-      "Google announced its most powerful AI ever and immediately said you can't have it. Only 'trusted cyber defenders' get access. Who decides who's trusted? Google. Who built the thing you need defending against? Also Google.",
-      "Reddit is restricting Old Reddit, citing 'automated abuse.' Old Reddit users have been manually refusing to switch interfaces for fifteen years. Apparently that kind of dedication is now a red flag."
+      "Roger Rogoff was sworn in as a U.S. attorney in Seattle. Fired within the hour. Then a federal judge blocked the firing and reinstated him. His first day technically isn't over.",
+      "MLB reached out to the White House about staging a game inside Grand Teton National Park. Residents said no. Conservation groups said no. The moose near second base has not commented.",
+      "New York City now requires subscription services to make cancellation as easy as sign-up. This is a new law. That it had to be a law tells you everything about why it had to be a law.",
+      "GM's EV sales dropped across all models this quarter. Toyota, which everyone spent years criticizing for keeping hybrids around, is having a great quarter. The bridge to nowhere has excellent traffic.",
+      "United Airlines just offered Delta and American's top-tier frequent flyers equivalent elite status — no requirements, just come over. Someone flew 125,000 miles for that status. United is offering it for a web form."
     ],
     "xJa": [
-      "930万人が学生ローンで詰んでいる日に、政府が「サポートセンターを開設しました」と発表した。政策じゃなくて窓口。保留音つき、たぶん。",
-      "医療保険の補助金を廃止して、500ドルの小切手を送る。中間選挙の数週間前に。誰も偶然だとは思っていない。封筒に詰めながら選挙カレンダーを見ていたはず。",
-      "議員の株取引を規制する法案に、なぜか有権者ID条項が混入していた。民主党が反対して否決。「民主党が株規制を阻止した」という見出しができた。全員わかってやってる。",
-      "Googleが「史上最強のAI」を発表して、即日「一般公開しません」と言った。危なすぎるから。それを判断するのもGoogle。作ったのもGoogle。",
-      "Redditが「自動化による不正利用」を理由にOld Redditを制限した。15年間手動で新UIを拒否してきた人たちへ向けて。一番執着してるファンが不審者扱いされた。"
+      "シアトルの連邦検察官、就任から1時間以内に解雇されて、裁判所に呼び戻される。名刺を配る時間すらなかった。いや、そもそも名刺、刷ってたのかな。",
+      "MLBがグランドティトン国立公園で試合をやろうとして地元も環境団体も全員に反対された。「外野の背後に山脈」は映えるけど、それ公園を背景として使うってことだよね。",
+      "ニューヨーク市が「解約ボタンは申し込みと同じ手順にしなさい」を法律にした。今まで合法だったことの方がびっくりする。",
+      "GMのEV販売が全面落ち込み、トヨタのハイブリッドが絶好調。「ハイブリッドは過渡期の技術」と言っていた人たち、過渡期がだいぶ長くなってきた。",
+      "ユナイテッド航空が「デルタのプラチナ会員の方、うちでそのままプラチナにします」と言い出した。ロイヤルティプログラムの「ロイヤルティ」、もう意味ないじゃないですか。"
     ],
     "raidEn": [
-      "The branding is doing a lot of work here. 'Support Center' sounds like help. 'Default Loans Support Center' sounds like they named it after the problem it was built too late to fix.",
-      "Five hundred dollars for lost health coverage. One month of unsubsidized premiums runs around $450, so technically you're covered until roughly Thanksgiving. After that it's vibes.",
-      "The poison pill metaphor usually describes a corporate defense tactic against hostile takeovers. Congress just used it to defend themselves from accountability. Honestly, points for consistency.",
-      "Every few months a tech company announces an AI too dangerous for the public. Nobody ever follows up on what that implies about the ten AIs they already handed to the public.",
-      "Digg tried something similar once. That sentence is doing a lot of work and I'll leave it there."
+      "He was sworn in, fired, and legally reinstated — and the morning wasn't even over. First day to remember, for all the wrong reasons.",
+      "Grand Teton: established 1929 to protect pristine wilderness. 2026: someone's asking if they can fit a bullpen in there. The park has been very patient.",
+      "You could sign up in eight seconds. Canceling took a phone call, a survey, and a conversation with Mike from Retention. That was all legal until today.",
+      "They called the hybrid 'a bridge to nowhere.' Toyota's bridge is apparently doing great traffic numbers this quarter.",
+      "Someone flew 125,000 miles to earn that status. United is offering the same thing for filling out a web form. That person deserves a moment."
     ],
     "raidJa": [
-      "「デフォルト・ローン・サポートセンター」という名前、ネーミングだけで現状を全部説明してしまっていますよね。解決策の名前に「デフォルト」が入っている稀有な事例だと思います。",
-      "補助金廃止→小切手送付→中間選挙直前、という順番を記事でわかりやすく整理してくださって、ありがとうございます。カレンダーを見ながら封筒に詰めたんだろうなと思いました。",
-      "「毒薬条項」という言葉、普通はM&Aの防衛策として使われるのに、今回は議員が自分自身への説明責任を回避するために使ったんですね。用語の守備範囲が広い。",
-      "「危なすぎて公開できないAIを作りました」という発表が定期的に出るようになって久しいですが、こうして丁寧にまとめていただくと改めて構造がよく見えます。",
-      "DiggsとTumblrとTwitterの件も踏まえてのご指摘、まさにそうですよね。「古いUIを潰す」は業界の伝統行事で、成功例をほぼ見たことがないのが面白いところです。"
+      "宣誓して、解雇されて、裁判所に呼び戻される——これが全部午前中に終わっているの、記録的だと思います。すごい記事を紹介いただきました。",
+      "「国立公園」と「ホットドッグの屋台」が同じ文章に入る提案、2026年にやっと来ましたね。この記事で初めて知りました、ありがとうございます。",
+      "法律で義務づけないと解約ボタンが機能しない、という事実が一番のオチですよね。今まで合法だったことの方が怖い。",
+      "「ハイブリッドは過渡期」と言い続けた人たちを横目に、その過渡期でトヨタが利益を出している構図、この記事でよくわかりました。",
+      "125,000マイル飛んで獲得したステータスを、フォームの入力で渡す側の話、笑うしかないですね。丁寧にまとめていただいて助かりました。"
     ],
     "riffEn": [
-      "The Treasury's new Default Loans Support Center opened on the exact same day 9.3 million borrowers were reported to be in default. Think about the staff meeting where someone said, 'we should help the people we just put in default,' and everyone nodded like that was the logical next step. Not a new policy. Not forgiveness. A center. The name alone is an accidental confession — they called it the Default Loans Support Center, which is a very polite way of saying the situation has already defaulted. Presumably there's hold music.",
-      "The administration cut Obamacare subsidies worth thousands of dollars a year, and now they're mailing $500 checks to the people who lost coverage. That's not a refund. That's a Yelp apology after a two-star review. The checks went out in October. The midterms are in November. I'm not saying someone was looking at a calendar while stuffing envelopes — I'm saying the calendar was definitely visible from where they were sitting.",
-      "Congress had a bill to stop its members from trading stocks in the industries they regulate. Good idea, broadly popular. So someone attached an unrelated voter ID provision to it, Democrats voted no, and now the headline reads 'Democrats block stock trading reform.' The stock portfolios of 535 legislators said nothing and just kept growing. The maneuver has an official name in politics — poison pill — which is usually a corporate defense tactic. Congress used it to defend themselves from accountability. The metaphor fits better than they'd like.",
-      "Google announced Gemini 4 Argon, the most powerful AI model they've ever built, and immediately said the public can't have it. Only 'trusted cyber defenders' for now. Who decides who's trusted? Google. Who built the system that requires defending against? Also Google. It's not a product launch so much as an announcement that a very powerful thing exists and you should feel something about that. Every few months a tech company does this — declares an AI too dangerous for civilians — and nobody stops to ask what that implies about the last ten AIs they already handed to civilians.",
-      "Reddit says Old Reddit is being restricted due to 'automated abuse.' Old Reddit users have been manually, painstakingly, deliberately refusing to switch to the new interface for fifteen years. That's the opposite of automated. These are the people who found the CSS workarounds, who filed the support tickets, who stayed when everyone else left. Reddit's most stubborn loyalists just got flagged as a security concern. Digg tried something like this once. That sentence ends there."
+      "The administration fired Roger Rogoff as U.S. attorney in Seattle less than an hour after he was sworn in. Not a day. Not a week. Under an hour. The man had time to take the oath, shake some hands, maybe find the bathroom — and then get the call. A federal judge has since blocked the firing as unlawful, which means Rogoff now holds the distinction of being both fired and not-fired at the same time, by the same government, on the same day. The vetting process was thorough enough to get him in the door. Just not thorough enough to keep him there past the badge orientation.",
+      "MLB reportedly contacted the White House about staging a game inside Grand Teton National Park. The park was established in 1929 specifically to protect one of the most striking landscapes in North America. Local residents opposed it. Conservation groups opposed it. The proposal is, at its core, an argument that the right TV backdrop is worth negotiating a few exceptions to the entire concept of protected wilderness. The center fielder tracking a fly ball with a 13,000-foot peak behind him would look incredible. It would also be, in the most literal sense, using the mountain as a prop.",
+      "New York City's 'click to cancel' rule is now in effect, requiring subscription services to make cancellation as easy as signing up. The interesting part isn't the rule. It's that the rule was necessary. Companies had years to make a cancel button that worked. They spent those years making it not work — phone trees, retention surveys, a final chat with someone named Mike whose entire job was to change your mind. All of that was legal. Today it isn't. The law didn't change what companies wanted to do. It just changed what they're allowed to get away with.",
+      "GM reported a 5.5% drop in third-quarter sales, with its EV lineup down across every model. Toyota, meanwhile, posted gains on the strength of hybrid demand — the same hybrid strategy that American automakers spent years dismissing as a half-measure for companies too timid to commit. The argument was: hybrids are a bridge technology, and the bridge leads nowhere. Toyota kept building the bridge. Turns out the bridge has a lot of people on it, and some of them are buying cars.",
+      "United Airlines has launched a status match program targeting the top-tier members of Delta and American — meaning if you've spent years and tens of thousands of miles earning elite status with a competitor, United will now hand you the equivalent, immediately, for switching over. The loyalty program was originally designed to reward loyalty. United has repurposed it to reward disloyalty to someone else. Delta built that customer over years. United is offering to undo it with a form. The word 'loyalty' is doing a lot of heavy lifting in a sentence where it no longer applies."
     ],
     "riffJa": [
-      "「デフォルト・ローン・サポートセンター」を開設した日、同じ日に930万人が債務不履行状態にあると発表されました。センター名にすでに「デフォルト」が入っている。解決策の名前が問題の名前になっている。政策でもなく、免除でもなく、窓口。\n\nスタッフが集まって「詰ませた人たちを助けよう」と言って全員うなずいた会議、想像するとかなりしんどい。",
-      "補助金を廃止して医療保険を失わせてから、500ドルを郵送する。年間で数千ドル規模の補助金を取り上げておいて、500ドルを「払い戻し」と呼んでいる。\n\n封筒を詰めていた時期が10月で、中間選挙は11月です。誰かがカレンダーを見ながら作業していたはず。いや、カレンダーが目の前にあったはずです。",
-      "議員の株取引を制限する法案に、なぜか有権者ID条項が混入していた。民主党が「不十分だし毒が入ってる」と言って反対、否決。そして翌朝の見出しは「民主党、株取引規制を阻止」。\n\nこの流れ、全員知ってやってますよね。「ポイズンピル」って自分たちで名前をつけて、堂々と使った。535人の株ポートフォリオ、今日も元気です。",
-      "Googleが「史上最強のAI」を発表して、即日「一般には公開しません」と言いました。「信頼できるサイバー防衛者」だけが使える。その「信頼できる」を判断するのもGoogle。そのAIから守る必要があるシステムを作ったのもGoogle。\n\n数ヶ月に一度、テック企業が「危なすぎて公開できないAI」を発表するんですが、誰も「じゃあ去年公開した十個のAIは何だったの」と聞かないのが面白いところです。",
-      "RedditがOld Redditを制限した理由が「自動化による不正利用」。Old Redditを使い続けてきた人たちは、15年間、手動で、意地で、意識的に新しいUIを拒否し続けてきた人たちです。\n\n自動化と一番縁遠い人たちが「自動化が怖い」と言われた。一番熱心なファンが不審者扱い。Diggも同じことをやって、それ以降Diggの話はあまり出てこないですよね。"
+      "ロジャー・ロゴフ氏がシアトルの連邦検察官に就任した。宣誓した。1時間以内に解雇の連絡が来た。\n\n研修期間どころか、名刺を配る時間もなかったと思う。その後、連邦判事が「その解雇は違法」と差し止めた。つまりロゴフ氏は現在、「解雇されている」かつ「解雇されていない」という状態で同じポストに存在している。政府の採用プロセスはここまで来た。\n\nまあ、速いのは認める。",
+      "MLBがグランドティトン国立公園の中で野球の試合を開催する提案を検討しているらしい。グランドティトンは1929年に「この景観を永続的に保護する」という明確な目的で作られた場所です。\n\n地元住民が反対した。環境保護団体が反対した。で、この提案を押し進めようとしている側の論理を想像すると、「センターフィールドの背後に山脈が映えるから」以上の説明が思い当たらない。背景として使う、ということ。公園を。",
+      "ニューヨーク市で「クリック・トゥ・キャンセル」規則が施行された。サブスクの解約を、申し込みと同じ手順で完了できることを義務づけるルールです。\n\n「登録は1クリック、解約は電話・アンケート・最後の引き留めトーク」という構造が、今日から違法になった。違法に、なった。今まで合法だったこと自体が一番の告白で、企業がその気になれば最初からできたことを、法律が来るまでやらなかったという話です。ボタンは元からあった。機能させたくなかっただけで。",
+      "GMの第3四半期は全体5.5%減、EVは全モデルで落ち込んだ。一方トヨタはEVとハイブリッドの好調で増収。\n\nアメリカの自動車業界がトヨタのハイブリッド戦略を「過渡期の逃げ」と呼んでいたのは、そんなに昔の話じゃない。「橋は渡りきらないと意味がない」という論法だった。トヨタはその橋を作り続けた。今、その橋がいちばん混んでいる。",
+      "ユナイテッド航空がデルタとアメリカン航空の上位会員に向けて、「あなたのエリートステータス、うちでそのまま使えます」と呼びかけ始めた。\n\nロイヤルティプログラムの本来の目的は、長年の顧客への恩返し。それが今、他社の顧客を即座に引き抜くツールになっている。デルタが何年もかけて育てた会員を、フォーム1枚で回収しようとしている。\n\n「ロイヤルティ」、もう誰も信じてないんだよな、たぶん。"
     ],
     "asideEn": [
-      "They named it after the problem.",
-      "Someone owns a calendar.",
-      "The portfolios are fine, though.",
-      "Who watches the watchers? Google.",
-      "Digg tried this once."
+      "One hour. Federal record, probably.",
+      "The park said no. Nature said no. MLB is still thinking.",
+      "It had to be a law.",
+      "They called it a bridge to nowhere. It's fine.",
+      "Loyalty, optional."
     ],
     "asideJa": [
-      "解決策の名前に問題が入ってる。",
-      "カレンダー、見えてたはず。",
-      "株は今日も育っています。",
-      "監視する側が作った監視ツール。",
-      "Diggも似たことやってたね。"
+      "1時間。新記録かもしれない。",
+      "山が背景になった。",
+      "今まで合法だったのが怖い。",
+      "橋、めちゃ混んでます。",
+      "ロイヤルティ、任意です。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Student Loans",
-      "Google",
-      "Reddit"
+      "News Commentary",
+      "General Motors",
+      "United Airlines"
     ],
-    "fullEn": "# Help Is on the Way (The Help Made It Worse)\n\n## Today's Forecast\n\nFive stories today. All five feature someone announcing a solution.\n\nA support center for nine million people already underwater. A $500 check for the health coverage that got taken away. A stock-trading reform bill that got quietly poisoned before the vote. An AI too powerful to release, released as an announcement. And a platform cracking down on its most loyal users in the name of safety.\n\nThe thread isn't incompetence. It's timing. Every one of these moves was announced with a straight face, right when it would do the least actual good.\n\nWhich means your forecast for today is this: if something in your life isn't working despite everyone insisting it's fine, you're not missing something. The gap between the announcement and the reality is the whole story. You've been reading it correctly all along.\n\n---\n\n## 1. Treasury Opens Student Loan 'Support Center' as 9.3 Million Borrowers Are Already in Default\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html)*\n\nThe U.S. Treasury Department announced the launch of a 'Default Loans Support Center' aimed at helping student loan borrowers who have fallen behind on payments. The announcement came the same day new data revealed that 9.3 million borrowers are currently in default. The Trump administration had previously ended pandemic-era repayment protections and resumed collections.\n\n**Why It's Funny**\n\nThe Treasury's new Default Loans Support Center opened on the exact same day 9.3 million borrowers were reported to be in default. Think about the staff meeting where someone said, 'we should help the people we just put in default,' and everyone nodded like that was the logical next step. Not a new policy. Not forgiveness. A center. The name alone is an accidental confession — they called it the Default Loans Support Center, which is a very polite way of saying the situation has already defaulted. Presumably there's hold music.\n\n**Say It Out Loud**\n\n> Nine-point-three million people in default, and the fix is... a center. Not a policy. A center. With, presumably, hold music.\n\n---\n\n## 2. Trump Sends $500 Obamacare Refund Checks — Weeks Before Midterms\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html)*\n\nThe Trump administration has begun mailing $500 refund checks to Americans who lost Affordable Care Act premium subsidies after those subsidies were cut. The checks are going out to nearly one million people, with some multi-member households receiving multiple payments. The timing comes just weeks before the midterm elections.\n\n**Why It's Funny**\n\nThe administration cut Obamacare subsidies worth thousands of dollars a year, and now they're mailing $500 checks to the people who lost coverage. That's not a refund. That's a Yelp apology after a two-star review. The checks went out in October. The midterms are in November. I'm not saying someone was looking at a calendar while stuffing envelopes — I'm saying the calendar was definitely visible from where they were sitting.\n\n**Say It Out Loud**\n\n> They took away your insurance and mailed you $500. That's not a refund — that's a Yelp apology.\n\n---\n\n## 3. Senate Blocks Stock Trading Restrictions for Congress — Because of a 'Poison Pill' Voter ID Add-On\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/sep/30/us-senate-stock-trades-bill)*\n\nThe U.S. Senate blocked a Republican bill that would have restricted stock trading by members of Congress. Democrats voted against advancing the measure, arguing it did not go far enough in closing trading loopholes and was bundled with unrelated voter ID provisions they characterized as a 'poison pill.' The bill's failure means Congress members retain broad latitude to trade stocks in areas they legislate.\n\n**Why It's Funny**\n\nCongress had a bill to stop its members from trading stocks in the industries they regulate. Good idea, broadly popular. So someone attached an unrelated voter ID provision to it, Democrats voted no, and now the headline reads 'Democrats block stock trading reform.' The stock portfolios of 535 legislators said nothing and just kept growing. The maneuver has an official name in politics — poison pill — which is usually a corporate defense tactic. Congress used it to defend themselves from accountability. The metaphor fits better than they'd like.\n\n**Say It Out Loud**\n\n> Congress had a chance to stop trading stocks on insider knowledge. They attached a voter ID bill to it first, just to make sure nobody could vote yes.\n\n---\n\n## 4. Google's Most Powerful AI Is Too Dangerous for You — Only 'Trusted Cyber Defenders' Can Have It\n\n*The Verge — [source](https://www.theverge.com/tech/1002980/google-gemini-4-argon)*\n\nGoogle announced Gemini 4 Argon, its most advanced AI model, describing it as capable of complex software engineering, legal and financial knowledge work, and cybersecurity defense. However, the company said the model will not be available to the general public due to its capabilities, and will be restricted to 'trusted cyber defenders' for the time being. Google's chief AI architect cited its power as the reason for limited access.\n\n**Why It's Funny**\n\nGoogle announced Gemini 4 Argon, the most powerful AI model they've ever built, and immediately said the public can't have it. Only 'trusted cyber defenders' for now. Who decides who's trusted? Google. Who built the system that requires defending against? Also Google. It's not a product launch so much as an announcement that a very powerful thing exists and you should feel something about that. Every few months a tech company does this — declares an AI too dangerous for civilians — and nobody stops to ask what that implies about the last ten AIs they already handed to civilians.\n\n**Say It Out Loud**\n\n> Google built the most powerful AI they've ever made and immediately hid it. That's not a product launch — that's a hostage situation with better branding.\n\n---\n\n## 5. Reddit Restricts Old Reddit, Citing 'Automated Abuse' — Users Note the Abuse Was Always Reddit Itself\n\n*Ars Technica — [source](https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/)*\n\nReddit announced it is placing additional restrictions on Old Reddit, the legacy interface that many long-time users prefer over the redesigned site. The company stated the move is aimed at combating 'automated abuse.' Old Reddit has long been the refuge for users who dislike Reddit's modern redesign, and the restrictions are seen by many as further pressure to migrate to the new interface.\n\n**Why It's Funny**\n\nReddit says Old Reddit is being restricted due to 'automated abuse.' Old Reddit users have been manually, painstakingly, deliberately refusing to switch to the new interface for fifteen years. That's the opposite of automated. These are the people who found the CSS workarounds, who filed the support tickets, who stayed when everyone else left. Reddit's most stubborn loyalists just got flagged as a security concern. Digg tried something like this once. That sentence ends there.\n\n**Say It Out Loud**\n\n> Reddit says Old Reddit attracts 'automated abuse.' Old Reddit users say they've been manually avoiding Reddit's redesign for fifteen years, which is the opposite of automated.\n\n---\n\n## Today's Punchline\n\n> They opened a center, mailed a check, blocked the bill, hid the AI, and locked out the users — all in the same week they said things were improving.\n",
-    "fullJa": "# 「解決しました」と言われた日に限って、何も解決していない話\n\n## 今日を占うよ〜\n\n記事を閉じて、もう一度開きました。同じことが書いてありました。\n\n930万人が学生ローンで詰んでいる日に「サポートセンター開設」。医療保険を取り上げてから「500ドル返します」。株取引規制法案に選挙条項を混ぜて否決。「危なすぎるAI」を発表だけする。一番のファンを「不正利用の恐れ」で締め出す。\n\n今日の5本、全部「解決しています」という顔をしています。\n\nで、たぶん今日の糸は「発表と現実のあいだにある距離」です。\n\n今日の占いです。「これ、私のせいじゃないよな」と思っていることがあったら、今日はその直感を信じていい。窓口を作っても、小切手を送っても、委員会を開いても変わらない話が今日5本並んでいるので。あなたが「おかしくない?」と思ったこと、おかしいです。少なくとも今日は。\n\n---\n\n## 1. Treasury Opens Student Loan 'Support Center' as 9.3 Million Borrowers Are Already in Default\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/30/student-loan-default-support-center.html)）*\n\nトランプ政権は、学生ローンの延滞・債務不履行に陥った借り手向けに「デフォルト・ローン・サポートセンター」を開設すると発表した。現在930万人以上が債務不履行状態にある。\n\n**どこが笑える？**\n\n「デフォルト・ローン・サポートセンター」を開設した日、同じ日に930万人が債務不履行状態にあると発表されました。センター名にすでに「デフォルト」が入っている。解決策の名前が問題の名前になっている。政策でもなく、免除でもなく、窓口。\n\nスタッフが集まって「詰ませた人たちを助けよう」と言って全員うなずいた会議、想像するとかなりしんどい。\n\n**このニュースをジョークにするなら...**\n\n> 930万人が債務不履行で、解決策が「センター」。政策じゃなく。センター。たぶん保留音付きで。\n\n---\n\n## 2. Trump Sends $500 Obamacare Refund Checks — Weeks Before Midterms\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/09/30/obamacare-aca-refund-checks.html)）*\n\nトランプ政権は、保険料補助金の廃止によって医療保険を失った数百万人のアメリカ人に対し、500ドルの払い戻し小切手を送付し始めた。中間選挙直前のタイミングとなっている。\n\n**どこが笑える？**\n\n補助金を廃止して医療保険を失わせてから、500ドルを郵送する。年間で数千ドル規模の補助金を取り上げておいて、500ドルを「払い戻し」と呼んでいる。\n\n封筒を詰めていた時期が10月で、中間選挙は11月です。誰かがカレンダーを見ながら作業していたはず。いや、カレンダーが目の前にあったはずです。\n\n**このニュースをジョークにするなら...**\n\n> 保険を取り上げて500ドルを郵送してきた。払い戻しじゃないですよ、Yelpの謝罪レビューですよ。\n\n---\n\n## 3. Senate Blocks Stock Trading Restrictions for Congress — Because of a 'Poison Pill' Voter ID Add-On\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/sep/30/us-senate-stock-trades-bill)）*\n\n米上院は、議員による株取引を制限する共和党の法案を否決した。民主党は、この法案には有権者ID規定という「毒薬条項」が付け加えられており、株取引制限としても不十分だとして反対した。\n\n**どこが笑える？**\n\n議員の株取引を制限する法案に、なぜか有権者ID条項が混入していた。民主党が「不十分だし毒が入ってる」と言って反対、否決。そして翌朝の見出しは「民主党、株取引規制を阻止」。\n\nこの流れ、全員知ってやってますよね。「ポイズンピル」って自分たちで名前をつけて、堂々と使った。535人の株ポートフォリオ、今日も元気です。\n\n**このニュースをジョークにするなら...**\n\n> 議会が株取引を規制するチャンスがあった。事前に有権者ID条項を貼り付けて、誰も賛成票を投じられないようにしておいた。\n\n---\n\n## 4. Google's Most Powerful AI Is Too Dangerous for You — Only 'Trusted Cyber Defenders' Can Have It\n\n*The Verge（[記事](https://www.theverge.com/tech/1002980/google-gemini-4-argon)）*\n\nGoogleは最新のAIモデル「Gemini 4 Argon」を発表したが、能力が高すぎるとして一般公開はせず、当面は「信頼できるサイバー防衛者」のみに提供するとした。\n\n**どこが笑える？**\n\nGoogleが「史上最強のAI」を発表して、即日「一般には公開しません」と言いました。「信頼できるサイバー防衛者」だけが使える。その「信頼できる」を判断するのもGoogle。そのAIから守る必要があるシステムを作ったのもGoogle。\n\n数ヶ月に一度、テック企業が「危なすぎて公開できないAI」を発表するんですが、誰も「じゃあ去年公開した十個のAIは何だったの」と聞かないのが面白いところです。\n\n**このニュースをジョークにするなら...**\n\n> 史上最強のAIを作って即座に隠した。これは製品発表じゃなく、ブランディングが上手い人質交渉ですよ。\n\n---\n\n## 5. Reddit Restricts Old Reddit, Citing 'Automated Abuse' — Users Note the Abuse Was Always Reddit Itself\n\n*Ars Technica（[記事](https://arstechnica.com/gadgets/2026/09/reddit-will-block-old-reddit-com-from-people-who-havent-used-it-in-6-months/)）*\n\nRedditはクラシックインターフェース「Old Reddit」に新たな利用制限を加えると発表した。同社は「自動化による不正利用への対策」を理由としているが、ユーザーからは反発の声が上がっている。\n\n**どこが笑える？**\n\nRedditがOld Redditを制限した理由が「自動化による不正利用」。Old Redditを使い続けてきた人たちは、15年間、手動で、意地で、意識的に新しいUIを拒否し続けてきた人たちです。\n\n自動化と一番縁遠い人たちが「自動化が怖い」と言われた。一番熱心なファンが不審者扱い。Diggも同じことをやって、それ以降Diggの話はあまり出てこないですよね。\n\n**このニュースをジョークにするなら...**\n\n> Redditは「Old Redditが自動化された不正利用を引き起こす」と言ってる。Old Redditのユーザーたちは15年間、手動でリデザインを回避してきた人たちですよ。これが一番「手動」な行動じゃないですか。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「改善しています」と言った週に、センター、小切手、否決、非公開、締め出し、が全部揃った。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d5のcaptions[1]に汎用AI構文「Bold strategy.」が混入しており書き直し。同xJa[1]が135字を微妙に超えるリスクがあるため確認・調整。captionsJa[1]も対応修正。d5のimagePrompts[1]に「Digg tried something similar once.」の情報が構図に反映されておらず弱い（ただし修正要件を満たさないため据え置き）。introJaの末尾「少なくとも今日はね」が唐突に体言止め崩しになっており読点が欠落、修正。riffEn/riffJaは合格。notesEn・xJaは全体合格だがd5のxJa字数を安全域に調整。 ／ 文体パス: 2箇所修正。riffJa[0]の「想像するとかなりしんどい」前の文が説明口調で整いすぎていたため崩した。riffJa[2]の締め「議員535人の株ポートフォリオは何も言わず、今日も育ち続けています」が「うまくまとめた感」のある締めだったため捨て台詞に切り落とした。"
+    "fullEn": "# Hired, Fired, and Rehired Before Lunch\n\n## Today's Forecast\n\nRoger Rogoff was sworn in as a U.S. attorney in Seattle. Then, less than an hour later, he was fired. Then a judge blocked the firing.\n\nAll of that happened before most federal employees finish filling out their desk request forms.\n\nToday's five stories are all running on the same engine: a system that says one thing, does another, and then acts surprised when someone notices. MLB wants to play baseball inside a national park. New York had to pass a law to make a cancel button work. GM bet everything on EVs while Toyota quietly kept the hybrids. And United Airlines is now poaching Delta's most loyal customers — with loyalty points.\n\nHere's your forecast: if you've ever followed the rules and still lost, today's news is basically a support group for that. The systems aren't broken. They were just never about what they said they were about. Which means you were right all along. Go ahead and take that one into the weekend.\n\n---\n\n## 1. Judge Blocks Trump's Firing of Seattle Prosecutor Who Lasted Less Than an Hour on the Job\n\n*CBS News US — [source](https://www.cbsnews.com/news/judge-blocks-trump-firing-top-federal-prosecutor-seattle-roger-rogoff/)*\n\nAttorney General Todd Blanche announced in July that President Trump had fired Roger Rogoff as the U.S. attorney in Seattle less than an hour after he was sworn into the post. A federal judge has since blocked the firing, ruling that the removal was unlawful. The case adds to a growing list of legal challenges against the administration's personnel decisions.\n\n**Why It's Funny**\n\nThe administration fired Roger Rogoff as U.S. attorney in Seattle less than an hour after he was sworn in. Not a day. Not a week. Under an hour. The man had time to take the oath, shake some hands, maybe find the bathroom — and then get the call. A federal judge has since blocked the firing as unlawful, which means Rogoff now holds the distinction of being both fired and not-fired at the same time, by the same government, on the same day. The vetting process was thorough enough to get him in the door. Just not thorough enough to keep him there past the badge orientation.\n\n**Say It Out Loud**\n\n> He was sworn in, fired, and legally reinstated — all before most federal employees finish their morning badge orientation.\n\n---\n\n## 2. MLB Eyes Grand Teton for a Game, Nature Responds With Unanimous Opposition\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park)*\n\nMajor League Baseball reportedly contacted the White House about staging a game inside Grand Teton National Park in Wyoming. The proposal has drawn significant backlash from local residents and conservation groups who say the event would damage a protected natural area. The idea follows a broader trend of staging spectacle sporting events in unusual locations.\n\n**Why It's Funny**\n\nMLB reportedly contacted the White House about staging a game inside Grand Teton National Park. The park was established in 1929 specifically to protect one of the most striking landscapes in North America. Local residents opposed it. Conservation groups opposed it. The proposal is, at its core, an argument that the right TV backdrop is worth negotiating a few exceptions to the entire concept of protected wilderness. The center fielder tracking a fly ball with a 13,000-foot peak behind him would look incredible. It would also be, in the most literal sense, using the mountain as a prop.\n\n**Say It Out Loud**\n\n> MLB couldn't fill the stadium, so they're trying the entire Rocky Mountains.\n\n---\n\n## 3. New York City Now Requires 'Click to Cancel' — The Same Ease You Never Got to Sign Up\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html)*\n\nNew York City's 'click to cancel' rule has taken effect, requiring subscription services to make cancellation as easy as the original sign-up process. The city joins a growing number of states and jurisdictions adopting similar consumer protection laws. A federal standard remains in legal limbo, leaving a patchwork of local rules across the country.\n\n**Why It's Funny**\n\nNew York City's 'click to cancel' rule is now in effect, requiring subscription services to make cancellation as easy as signing up. The interesting part isn't the rule. It's that the rule was necessary. Companies had years to make a cancel button that worked. They spent those years making it not work — phone trees, retention surveys, a final chat with someone named Mike whose entire job was to change your mind. All of that was legal. Today it isn't. The law didn't change what companies wanted to do. It just changed what they're allowed to get away with.\n\n**Say It Out Loud**\n\n> Companies spent years perfecting the dark pattern. New York spent one law undoing it. The companies are not happy.\n\n---\n\n## 4. GM's EV Sales Are Down While Toyota Rides Hybrids to Growth — Detroit's Bet Is Not Paying Off\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html)*\n\nGeneral Motors reported a 5.5% drop in third-quarter sales, with electric vehicle sales declining across all models as consumer enthusiasm for EVs cools. Meanwhile, Toyota posted gains, buoyed by strong demand for both its electric and hybrid vehicles. The contrast highlights the diverging fortunes of automakers that went all-in on pure EVs versus those that maintained a hybrid strategy.\n\n**Why It's Funny**\n\nGM reported a 5.5% drop in third-quarter sales, with its EV lineup down across every model. Toyota, meanwhile, posted gains on the strength of hybrid demand — the same hybrid strategy that American automakers spent years dismissing as a half-measure for companies too timid to commit. The argument was: hybrids are a bridge technology, and the bridge leads nowhere. Toyota kept building the bridge. Turns out the bridge has a lot of people on it, and some of them are buying cars.\n\n**Say It Out Loud**\n\n> GM went all-in on electric. Toyota hedged with hybrids. One of them is having a good quarter, and it's not the one that had the Super Bowl ad.\n\n---\n\n## 5. United Airlines Offers Delta and American's Best Customers a Better Deal — Please, Just Look at Us\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html)*\n\nUnited Airlines launched an aggressive status match program targeting the top-tier frequent flyers of Delta Air Lines and American Airlines. The move is a direct attempt to poach loyal customers from rival carriers by offering them equivalent or better elite status without the usual requirements. The airline industry's loyalty program arms race is escalating.\n\n**Why It's Funny**\n\nUnited Airlines has launched a status match program targeting the top-tier members of Delta and American — meaning if you've spent years and tens of thousands of miles earning elite status with a competitor, United will now hand you the equivalent, immediately, for switching over. The loyalty program was originally designed to reward loyalty. United has repurposed it to reward disloyalty to someone else. Delta built that customer over years. United is offering to undo it with a form. The word 'loyalty' is doing a lot of heavy lifting in a sentence where it no longer applies.\n\n**Say It Out Loud**\n\n> United's message to Delta's best customers: 'Everything you earned over there? We'll honor it. Starting now. No questions. Please.'\n\n---\n\n## Today's Punchline\n\n> Loyalty programs with no loyalty. National parks open to proposals. A cancel button that required a law. Today's theme: the label stopped matching the contents a while ago, and we're all just now reading the fine print.\n",
+    "fullJa": "# 就任から1時間で首になった連邦検察官が、裁判所に呼び戻された話\n\n## 今日を占うよ〜\n\nロジャー・ロゴフ氏が連邦検察官に就任しました。宣誓しました。1時間以内に解雇されました。裁判所が「それは違法」と差し止めました。\n\nこれ、全部同じ日の午前中の話です。\n\nで、今日はあと4本あって——MLBが国立公園に野球場を持ち込もうとして全員に止められた話、ニューヨーク市が解約ボタンを法律で義務づけた話、GMのEVが沈んでトヨタのハイブリッドが浮いた話、そしてユナイテッドが他社の常連客を「あなたのステータス、うちでそのまま使えます」で引き抜こうとしている話。\n\n全部に共通しているのは、制度の名前と中身がもうズレている、ということ。ロイヤルティプログラムに忠誠心はなく、解約ボタンは強制しないと機能しない。\n\n今日の占いはこれです。「ちゃんとやってるのになんで？」と思っていることがあったとしたら、それはあなたのせいじゃないかもしれない。ルールを守っていた検察官が今日、裁判所に呼び戻されました。\n\n少なくとも今日は、あなたの方が正しかった\n\n---\n\n## 1. Judge Blocks Trump's Firing of Seattle Prosecutor Who Lasted Less Than an Hour on the Job\n\n*CBS News US（[記事](https://www.cbsnews.com/news/judge-blocks-trump-firing-top-federal-prosecutor-seattle-roger-rogoff/)）*\n\nトランプ大統領がシアトルの連邦検察官ロジャー・ロゴフ氏を就任からわずか1時間以内に解雇したと司法長官が発表したが、連邦判事がその解雇を差し止めた。\n\n**どこが笑える？**\n\nロジャー・ロゴフ氏がシアトルの連邦検察官に就任した。宣誓した。1時間以内に解雇の連絡が来た。\n\n研修期間どころか、名刺を配る時間もなかったと思う。その後、連邦判事が「その解雇は違法」と差し止めた。つまりロゴフ氏は現在、「解雇されている」かつ「解雇されていない」という状態で同じポストに存在している。政府の採用プロセスはここまで来た。\n\nまあ、速いのは認める。\n\n**このニュースをジョークにするなら...**\n\n> 宣誓して、解雇されて、裁判所に差し止められて——連邦職員のほとんどがIDバッジの申請を終える前の話なんですよ。\n\n---\n\n## 2. MLB Eyes Grand Teton for a Game, Nature Responds With Unanimous Opposition\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park)）*\n\nMLBがワイオミング州のグランドティトン国立公園内で野球の試合を開催する提案を検討しており、地元住民や環境保護団体から強い反発を受けている。\n\n**どこが笑える？**\n\nMLBがグランドティトン国立公園の中で野球の試合を開催する提案を検討しているらしい。グランドティトンは1929年に「この景観を永続的に保護する」という明確な目的で作られた場所です。\n\n地元住民が反対した。環境保護団体が反対した。で、この提案を押し進めようとしている側の論理を想像すると、「センターフィールドの背後に山脈が映えるから」以上の説明が思い当たらない。背景として使う、ということ。公園を。\n\n**このニュースをジョークにするなら...**\n\n> スタジアムが埋まらないから、次はロッキー山脈で試合をやろうとしてるわけですよ。\n\n---\n\n## 3. New York City Now Requires 'Click to Cancel' — The Same Ease You Never Got to Sign Up\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html)）*\n\nニューヨーク市でサブスクリプションサービスの解約を申込みと同等の手順で完了できることを義務づける「クリック・トゥ・キャンセル」規則が施行された。\n\n**どこが笑える？**\n\nニューヨーク市で「クリック・トゥ・キャンセル」規則が施行された。サブスクの解約を、申し込みと同じ手順で完了できることを義務づけるルールです。\n\n「登録は1クリック、解約は電話・アンケート・最後の引き留めトーク」という構造が、今日から違法になった。違法に、なった。今まで合法だったこと自体が一番の告白で、企業がその気になれば最初からできたことを、法律が来るまでやらなかったという話です。ボタンは元からあった。機能させたくなかっただけで。\n\n**このニュースをジョークにするなら...**\n\n> 企業は何年もかけてダークパターンを完成させた。ニューヨークは法律一本でそれをひっくり返した。企業側はご立腹。\n\n---\n\n## 4. GM's EV Sales Are Down While Toyota Rides Hybrids to Growth — Detroit's Bet Is Not Paying Off\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html)）*\n\nGMの第3四半期販売台数は全体で5.5%減少し、同社の電気自動車販売も全面的に落ち込んだ一方、トヨタはEVとハイブリッド車の好調に支えられ増収となった。\n\n**どこが笑える？**\n\nGMの第3四半期は全体5.5%減、EVは全モデルで落ち込んだ。一方トヨタはEVとハイブリッドの好調で増収。\n\nアメリカの自動車業界がトヨタのハイブリッド戦略を「過渡期の逃げ」と呼んでいたのは、そんなに昔の話じゃない。「橋は渡りきらないと意味がない」という論法だった。トヨタはその橋を作り続けた。今、その橋がいちばん混んでいる。\n\n**このニュースをジョークにするなら...**\n\n> GMはEVに全振り。トヨタはハイブリッドで保険をかけた。どちらが今期好調かというと、スーパーボウル広告を出した方じゃないんですよ。\n\n---\n\n## 5. United Airlines Offers Delta and American's Best Customers a Better Deal — Please, Just Look at Us\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html)）*\n\nユナイテッド航空がデルタ航空とアメリカン航空の上位会員向けに積極的なステータスマッチプログラムを開始し、ライバル社のエリート会員の獲得を狙っている。\n\n**どこが笑える？**\n\nユナイテッド航空がデルタとアメリカン航空の上位会員に向けて、「あなたのエリートステータス、うちでそのまま使えます」と呼びかけ始めた。\n\nロイヤルティプログラムの本来の目的は、長年の顧客への恩返し。それが今、他社の顧客を即座に引き抜くツールになっている。デルタが何年もかけて育てた会員を、フォーム1枚で回収しようとしている。\n\n「ロイヤルティ」、もう誰も信じてないんだよな、たぶん。\n\n**このニュースをジョークにするなら...**\n\n> ユナイテッドのデルタ上位会員へのメッセージ：「向こうで積み上げたもの全部、こっちで認めます。今すぐ。なんでもするので。」\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 採用も、解約も、ロイヤルティも、全部「名前だけ」だった。そういう日でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d5のcaptions[3]に汎用ジョーク「Bold strategy.」が混入していたため構築されたジョークに書き直し。introJaの5本予告部分が箇条書き的な「説明の羅列」になっており占い（前向き締め）も説教調だったため書き直し。xJa[1]が135字超えだったため圧縮。他は合格。 ／ 文体パス: 3箇所修正。introJaの締め「正しかったのはあなたの方です。今日の5本、どうぞ。」がプレゼン着地になっていたので崩した。riffJa[0]の「スピードだけは世界トップクラスです。」がまとめすぎ、riffJa[4]の「『ロイヤルティ』という言葉が、もうその文章の中で機能していない。」が講評口調なので本音がこぼれた形に直した。"
   },
   "carousel": [
-    "images/2026-10-01/carousel/slide-1.jpg",
-    "images/2026-10-01/carousel/slide-2.jpg",
-    "images/2026-10-01/carousel/slide-3.jpg",
-    "images/2026-10-01/carousel/slide-4.jpg",
-    "images/2026-10-01/carousel/slide-5.jpg",
-    "images/2026-10-01/carousel/slide-6.jpg",
-    "images/2026-10-01/carousel/slide-7.jpg"
+    "images/2026-10-02/carousel/slide-1.jpg",
+    "images/2026-10-02/carousel/slide-2.jpg",
+    "images/2026-10-02/carousel/slide-3.jpg",
+    "images/2026-10-02/carousel/slide-4.jpg",
+    "images/2026-10-02/carousel/slide-5.jpg",
+    "images/2026-10-02/carousel/slide-6.jpg",
+    "images/2026-10-02/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-10-01/note-header.jpg",
-    "substack": "images/2026-10-01/substack-cover.jpg"
+    "note": "images/2026-10-02/note-header.jpg",
+    "substack": "images/2026-10-02/substack-cover.jpg"
   },
-  "video": "videos/2026-10-01/daily-short.mp4",
-  "videoDuration": 77.4,
-  "videoJa": "videos/2026-10-01/daily-short-ja.mp4",
-  "videoJaDuration": 101.3
+  "video": "videos/2026-10-02/daily-short.mp4",
+  "videoDuration": 83.9,
+  "videoJa": "videos/2026-10-02/daily-short-ja.mp4",
+  "videoJaDuration": 87.5
 }
