@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-10-02",
-  "generatedAt": "2026-10-01T23:15:09+00:00",
+  "date": "2026-10-03",
+  "generatedAt": "2026-10-02T23:03:31+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
-      "sensitive": false,
+      "sensitive": true,
       "news": {
-        "headline": "Judge Blocks Trump's Firing of Seattle Prosecutor Who Lasted Less Than an Hour on the Job",
-        "source": "CBS News US",
-        "date": "2026-10-02",
-        "url": "https://www.cbsnews.com/news/judge-blocks-trump-firing-top-federal-prosecutor-seattle-roger-rogoff/",
-        "summary": "トランプ大統領がシアトルの連邦検察官ロジャー・ロゴフ氏を就任からわずか1時間以内に解雇したと司法長官が発表したが、連邦判事がその解雇を差し止めた。"
+        "headline": "Larry Nassar Quietly Removed from Michigan Sex Offender Registry Along with 20,000 Others",
+        "source": "The Guardian US",
+        "date": "2026-10-03",
+        "url": "https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed",
+        "summary": "ミシガン州最高裁の判決を受け、性的虐待で有罪判決を受けた元体操医ラリー・ナサルを含む約2万人が州の性犯罪者登録リストから削除された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 就任式を終えた直後に解雇通知が届く。「スピード採用」ならぬ「スピード解雇」の記録更新なんですよ。",
-        "<b>滑稽さ:</b> 宣誓してから1時間で首になるって、研修期間どころか名刺を配る時間すらない。ロゴフ氏、まだ駐車場の精算もしてないんじゃないですか。",
-        "<b>日本・海外から見ると:</b> 「試用期間3ヶ月」が一般的な国から見ると、1時間未満というのはもはや採用プロセスの誤作動。人事システムの速度だけは世界トップクラス。"
+        "<b>矛盾:</b> 被害者を100年以上かけて守るための登録制度が、手続き上の瑕疵を理由に最大級の加害者を名簿から消した。制度が自分の存在意義を自分で否定した格好。",
+        "<b>滑稽さ:</b> ナサルはどこにも行けない——100年以上の刑期が残っているから。それでも「登録抹消」という書類上の「前進」は着々と処理された。",
+        "<b>日本・海外から見ると:</b> 被害者が法廷で証言し、制度改革を求めてロビー活動を続けてきた結果がこれ。「司法の手続き的整合性」が「被害者保護」より優先される構図は、アメリカ固有の問題ではないが、今回の規模と象徴性は際立っている。"
       ],
       "imagePrompts": [
-        "A freshly sworn-in official in a suit still holding a Bible, receiving a pink slip from a hand off-frame, confetti still falling from the swearing-in ceremony around him, courthouse interior",
-        "An oversized stopwatch showing '58 minutes' mounted on a government office wall, a nameplate being installed on a door on the left, a removal truck pulling away on the right",
-        "A judge's gavel slamming down on a large red BLOCKED stamp hovering over a firing notice, federal courthouse setting, stacks of legal briefs in background"
+        "A large government filing cabinet labeled 'Sex Offender Registry' with a clerk's gloved hand pulling out a thick folder. A rubber stamp reading 'REMOVED' hovers above a stack of 20,000 identical files. No faces visible.",
+        "A Michigan state courthouse exterior, stone facade, with a small placard near the entrance reading 'Procedural Update Complete' pinned to an official bulletin board. No people visible.",
+        "A close-up of a government form with 20,000 names in tiny print, one name circled near the top, and a red 'DELISTED' stamp across the entire page, surrounded by legal code citations."
       ],
       "captions": [
-        "He was sworn in, fired, and legally reinstated — all before most federal employees finish their morning badge orientation.",
-        "The administration's vetting process: thorough enough to hire him, fast enough to unhire him in under an hour.",
-        "Roger Rogoff's LinkedIn update must've been a nightmare. 'U.S. Attorney, Seattle — duration: negligible.'",
-        "A judge said the firing was unlawful. The firing itself said, 'We'll see about the law part.'",
-        "Somewhere out there is a government HR form for 'termination reason' that just says: 'He showed up.'"
+        "Michigan removed him from the registry this week. He still has over a hundred years left in prison. The institution designed to remember chose, on procedural grounds, to forget.",
+        "Twenty thousand people off the list in one ruling — efficiency the DMV will never achieve.",
+        "He's got 100-plus years left in prison, but his paperwork is clean. America: where the bureaucracy moves faster than justice.",
+        "Survivors spent years reforming institutions. The institution's response was a bulk delete.",
+        "The registry exists to warn the public. The public now has to check if the registry itself is still working."
       ],
       "captionsJa": [
-        "宣誓して、解雇されて、裁判所に差し止められて——連邦職員のほとんどがIDバッジの申請を終える前の話なんですよ。",
-        "採用プロセスは念入りで、解雇プロセスは1時間以内。どちらが本気か、もはや逆じゃないですか。",
-        "ロゴフ氏のLinkedIn、職歴欄の在籍期間に「計測不能」って書くしかない。",
-        "判事は「違法」と言った。解雇した側は「法律はあとで考える」という姿勢だったわけで。",
-        "どこかの人事書類に「解雇理由」欄があって、そこに書いてあるのはたぶん「出勤した」。"
+        "ミシガン州は今週、登録リストから彼の名前を消した。刑期は100年以上残っている。「こういう人を記録するため」に作られた制度が、手続き上の理由で、記録をやめた。",
+        "一度の判決で2万人を一括削除——DMVが絶対に実現できない効率性。",
+        "刑務所には100年以上いる。でも書類の上ではクリーンになった。手続きが正義より速い国、アメリカ。",
+        "被害者たちは何年もかけて制度を変えようとした。制度側の返答は「一括削除」だった。",
+        "登録制度は市民に警告するために存在する。今や市民は、その登録制度が機能しているかどうかも確認しなきゃならない。"
       ],
-      "newsEn": "Attorney General Todd Blanche announced in July that President Trump had fired Roger Rogoff as the U.S. attorney in Seattle less than an hour after he was sworn into the post. A federal judge has since blocked the firing, ruling that the removal was unlawful. The case adds to a growing list of legal challenges against the administration's personnel decisions.",
+      "newsEn": "Following a Michigan Supreme Court ruling on sex offender registration law, Larry Nassar — the former USA Gymnastics and Michigan State University physician convicted of sexually abusing hundreds of athletes over decades — was among approximately 20,000 individuals removed from the state's sex offender registry. The ruling found issues with how the state's registration law was applied retroactively. Nassar remains incarcerated on federal and state sentences totaling more than 100 years.",
       "ironyEn": [
         {
-          "contradiction": "The Trump administration fired a federal prosecutor before he even had time to hang up his coat — then seemed surprised a court called it unlawful.",
-          "absurdity": "Rogoff's tenure was so short the government probably still owes him a coffee reimbursement.",
-          "outside": "In countries where civil service protections are considered boring bureaucracy, firing someone in under 60 minutes reads like a world record attempt, not a policy."
+          "contradiction": "Michigan's sex offender registry — designed to protect the public — just quietly erased its most high-profile name due to a procedural technicality.",
+          "absurdity": "Nassar isn't going anywhere. He has over 100 years left on his sentences. But the paperwork says he's off the list, and paperwork is apparently the whole point.",
+          "outside": "Survivors testified in open court, pushed for systemic reform, and won convictions. The system's response: a clerical update that removed 20,000 names at once, including his."
         },
         {
-          "contradiction": "The whole point of a Senate-confirmed U.S. attorney is independence from the White House — the speed of the firing suggests someone didn't get that memo.",
-          "absurdity": "He was sworn in. He was fired. Somewhere in between, he may have briefly been a federal prosecutor.",
-          "outside": "Most countries' bureaucratic dismissal paperwork takes longer to process than this man's entire career in the role."
+          "contradiction": "The state created a registry to hold serial abusers accountable long-term, then the courts ruled the long-term part was unconstitutional.",
+          "absurdity": "Twenty thousand people were delisted in one ruling — which means Nassar's removal wasn't even a decision. It was a side effect.",
+          "outside": "For survivors who spent years demanding institutional accountability, watching a supreme court ruling silently undo a cornerstone of that accountability is a particular kind of institutional failure."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-10-02/candidate-1.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-10-02/candidate-1-punchy.jpg"
+      "image": "images/2026-10-03/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-03/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "MLB Eyes Grand Teton for a Game, Nature Responds With Unanimous Opposition",
-        "source": "The Guardian US",
-        "date": "2026-10-02",
-        "url": "https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park",
-        "summary": "MLBがワイオミング州のグランドティトン国立公園内で野球の試合を開催する提案を検討しており、地元住民や環境保護団体から強い反発を受けている。"
+        "headline": "Lyft Settles Driver Misclassification Suit for $272.5M — Critics Say Workers Are Still Owed More",
+        "source": "Ars Technica",
+        "date": "2026-10-03",
+        "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
+        "summary": "Lyftはドライバーの雇用形態誤分類をめぐる訴訟で2億7250万ドルの和解に合意したが、批評家はドライバーへの支払いはまだ不十分だと主張している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「国立公園」とは自然を永続的に保護するために作られた場所なんですよ。そこにスポンサー看板とホットドッグの屋台を持ち込むのは、定義と戦う行為じゃないですか。",
-        "<b>滑稽さ:</b> 外野フライを追いかけるセンターフィールダーの背後にグランドティトンの峰が広がる絵面、確かに映えはするんですけど、それってつまり「背景として使う」ということで。",
-        "<b>日本・海外から見ると:</b> 富士山の五合目でプロ野球の試合をやろうとしたら即却下されるやつ。アメリカだけが「まあ話し合いましょう」で止まっている。"
+        "<b>矛盾:</b> 「あなたは従業員ではなく自由な個人事業主です」と言い続けた会社が、$272.5Mを払って「でも訴訟は解決しましょう」とまとめた。誤分類でなければ、なぜ払う？",
+        "<b>滑稽さ:</b> 批評家によれば「それでも足りない」。つまり2億7千万ドルが『端数』扱いされてる和解額。ドライバーの取り分は一人あたり数百ドル程度と見られている。",
+        "<b>日本・海外から見ると:</b> 日本でもギグワーカーの労働者性が議論されているが、アメリカでは$272.5Mという天文学的な金額でケリをつけても「まだ足りない」と言われる。規模感が違いすぎて笑えない。"
       ],
       "imagePrompts": [
-        "A baseball diamond with white chalk lines freshly drawn on alpine meadow grass, Grand Teton mountain peaks looming directly behind the outfield, a 'NO COMMERCIAL USE' national park sign half-buried under a base bag",
-        "A park ranger in uniform holding a clipboard, standing at home plate, a suited MLB executive gesturing toward the mountain scenery with a promotional brochure, confused tourists watching from the stands",
-        "An overhead view of a national park map with a stadium seating chart overlaid on top, red arrows pointing to 'proposed concession stands' near labeled wildlife corridors"
+        "A giant novelty check made out to 'Lyft Drivers' for $272,500,000 being handed over by a corporate executive in a suit, while hundreds of tiny driver figures reach up toward it from below, each receiving a small coin.",
+        "A courtroom with two massive scales: one side holds a stack of papers labeled 'Independent Contractor Agreements,' the other holds a single bag labeled '$272.5M Settlement.' Both sides are exactly level.",
+        "A rideshare app interface on a phone screen showing a fare breakdown: 'Base fare: $272,500,000 / Lyft cut: (redacted) / Your earnings: $347.00 / Tip not included.'"
       ],
       "captions": [
-        "MLB couldn't fill the stadium, so they're trying the entire Rocky Mountains.",
-        "Grand Teton: established 1929 to protect pristine wilderness. 2026: someone's asking if they can fit a bullpen in there.",
-        "The conservationists said no. The locals said no. The moose near second base has not yet commented.",
-        "Nothing says 'we respect nature' like putting a Jumbotron in a federally protected ecosystem.",
-        "Other leagues pick host cities. MLB apparently picks host biomes."
+        "Lyft: 'You're not an employee.' Also Lyft: 'Here's $272 million, please stop talking about it.'",
+        "Quarter billion dollars, and the workers' advocates immediately said it wasn't enough. At some point 'landmark settlement' and 'insufficient' shouldn't fit in the same sentence.",
+        "Each driver is expected to get a few hundred bucks. The word 'misclassification' won't appear in the settlement docs. Everyone involved has agreed on these two facts.",
+        "They called it a 'landmark' settlement. Landmarks usually mean you've arrived somewhere. The drivers are still on the road.",
+        "Independent contractors, allegedly. Two hundred seventy-two million dollars, definitely."
       ],
       "captionsJa": [
-        "スタジアムが埋まらないから、次はロッキー山脈で試合をやろうとしてるわけですよ。",
-        "グランドティトン国立公園、1929年設立。自然保護のため。2026年、ブルペンが入るか検討中。",
-        "環境団体はノー。地元住民もノー。セカンドベース付近のヘラジカはまだ返答していない。",
-        "「自然を大切に」って言いながら、連邦保護区にジャンボトロンを置こうとするの、なかなかのムーブじゃないですか。",
-        "他のリーグは開催都市を選ぶんですよ。MLBは生態系を選んだ。"
+        "Lyft曰く「あなたは従業員じゃない」。同じLyft曰く「2億7千万ドル払うから黙ってて」。",
+        "2億7千万ドルの和解額を聞いた労働者側の第一声が「足りない」。「ランドマーク和解」と「不十分」が同じ文に入る日が来るとは。",
+        "ドライバー一人あたり数百ドルの見込み。和解文書に「誤分類」という言葉は登場しない。関係者全員がこの二つの事実に合意している。",
+        "「ランドマーク（歴史的な）」和解と呼ばれてる。ランドマークって本来、どこかに「着いた」ことを示すもの。ドライバーたちはまだ道の上にいる。",
+        "「独立した個人事業主」という建前。2億7250万ドルという現実。"
       ],
-      "newsEn": "Major League Baseball reportedly contacted the White House about staging a game inside Grand Teton National Park in Wyoming. The proposal has drawn significant backlash from local residents and conservation groups who say the event would damage a protected natural area. The idea follows a broader trend of staging spectacle sporting events in unusual locations.",
+      "newsEn": "Lyft has agreed to a $272.5 million settlement in a landmark lawsuit over driver misclassification, resolving claims that the company improperly classified its drivers as independent contractors rather than employees, denying them benefits and labor protections. Critics and worker advocates say the amount falls far short of what drivers are actually owed in back pay, benefits, and expenses. The settlement follows years of legal battles over gig worker classification in the U.S.",
       "ironyEn": [
         {
-          "contradiction": "National parks exist specifically to keep commercial entertainment out — so naturally, someone called the White House to ask about putting a ballpark in one.",
-          "absurdity": "The outfield wall sponsorships write themselves: 'This pristine wilderness brought to you by a regional insurance company.'",
-          "outside": "Most countries treat their equivalent of a national park as off-limits to commercial spectacle. The U.S. is currently in the 'let's check with the White House' phase."
+          "contradiction": "Lyft spent years insisting its drivers were independent contractors — autonomous, free, their own bosses. Then paid $272.5 million in a settlement that exists specifically because they were treated like employees without the employee part.",
+          "absurdity": "Critics say it's not enough, which means the lawyers just negotiated down from 'what workers actually deserve' to 'a number that sounds huge in a press release.'",
+          "outside": "Each affected driver is expected to receive a few hundred dollars. The attorneys' fees have not been announced yet."
         },
         {
-          "contradiction": "The league that can't reliably fill seats in actual stadiums wants to borrow one of America's most protected landscapes as a backdrop.",
-          "absurdity": "Imagine a grounds crew dragging the infield dirt while a moose walks across second base — and nobody's quite sure whose call that is.",
-          "outside": "UNESCO World Heritage sites have strict rules about this. Grand Teton is not a UNESCO site, which may be the only reason this is still a conversation."
+          "contradiction": "The whole business model rests on not calling drivers employees. The settlement doesn't call it misclassification either. Everybody agrees not to use the word, and $272.5 million changes hands.",
+          "absurdity": "A quarter billion dollars is the cost of resolving a lawsuit that, officially, admitted nothing.",
+          "outside": "Gig worker classification fights are playing out across the world. The American version apparently ends with a nine-figure number and worker advocates immediately calling it inadequate."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-10-02/candidate-2.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-10-02/candidate-2-punchy.jpg"
+      "image": "images/2026-10-03/candidate-2.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-03/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "New York City Now Requires 'Click to Cancel' — The Same Ease You Never Got to Sign Up",
+        "headline": "FAA Says Boeing 737 Max Software Glitch Is Not a Safety Issue — The Glitch Affects Landing",
         "source": "CNBC Top News",
-        "date": "2026-10-02",
-        "url": "https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html",
-        "summary": "ニューヨーク市でサブスクリプションサービスの解約を申込みと同等の手順で完了できることを義務づける「クリック・トゥ・キャンセル」規則が施行された。"
+        "date": "2026-10-03",
+        "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+        "summary": "米連邦航空局（FAA）は、ボーイング737 Maxで発見されたソフトウェアの不具合について、特定の着陸手順に影響する可能性があるものの、飛行安全上の問題はないとの見解を示した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 法律で義務づけなければ「解約ボタン」が機能しないという事実そのものが、最大の告白なんですよ。企業は自発的にやる気がゼロだったということを、法律が証明してる。",
-        "<b>滑稽さ:</b> 「登録は1クリック、解約は5ステップ・本人確認・アンケート・最後の引き留めトーク」という構造が、これで初めて違法になる。今まで合法だったことの方がびっくり。",
-        "<b>日本・海外から見ると:</b> 日本でも解約導線をわざと複雑にするサービスは問題になってるんですが、「法律で禁止」まで至ったニューヨークを見て、「ああ、そこまでやらないと変わらないのか」という気持ちになる。"
+        "<b>矛盾:</b> 「着陸手順に影響する可能性がある」ソフトウェアの不具合を、「飛行安全上の問題ではない」と分類できる——この文章の両立を可能にしている定義体系が怖い。",
+        "<b>滑稽さ:</b> ボーイング737 Maxのソフトウェアに新たな不具合、というニュースで「でも安全です」と言われても、もはや「安全」の基準値がどこにあるのか分からなくなってきた。",
+        "<b>日本・海外から見ると:</b> 346人が亡くなった機体のメーカーが「新しいソフトウェア問題は安全に影響しない」と言い、規制当局がそれを確認する構図——信頼回復のプロセスとしては、最悪のタイミングで最悪のニュースが出続けている。"
       ],
       "imagePrompts": [
-        "A giant glowing 'SIGN UP' button taking up the entire left side of a screen, and a tiny barely-visible 'cancel' link hidden at the bottom right, surrounded by popup warnings and retention messages, NYC skyline reflected in the monitor",
-        "A customer at a desk drowning in printed forms and chat windows, a simple 'CANCEL' button mounted on the wall behind them like emergency equipment behind glass, New York City Hall building visible through the window",
-        "A 'before and after' split image: left side shows a confusing twelve-step cancellation maze diagram, right side shows a single large red CANCEL button with a checkmark, NYC legal seal stamped in the corner"
+        "An FAA official at a press conference podium holding up two signs simultaneously: one reads 'AFFECTS LANDING PROCEDURES,' the other reads 'NOT A SAFETY ISSUE.' The official looks calm. Reporters in the audience look less calm.",
+        "A giant software code screen with one line highlighted in red, labeled 'GLITCH.' A Boeing engineer with a clipboard stands next to it, giving a thumbs up. Behind him, a 737 Max is visible through a hangar window.",
+        "A passenger airplane cockpit dashboard with dozens of green 'OK' lights and one small amber light labeled 'Landing Software: Under Review.' A Post-it note below it reads 'FAA says fine.'"
       ],
       "captions": [
-        "Companies spent years perfecting the dark pattern. New York spent one law undoing it. The companies are not happy.",
-        "You could sign up in eight seconds. Canceling took a phone call, a survey, and a conversation with 'Mike from Retention.' That was legal until today.",
-        "The law says cancellation must be 'as easy as sign-up.' Someone in a boardroom is currently asking legal how gray that area is.",
-        "'Cancel anytime,' they said. NYC just asked them to prove it.",
-        "Somewhere a UX designer is staring at their cancel-flow wireframe, and for the first time in their career, they're a little nervous."
+        "The software glitch affects landing. The FAA says it's not a safety issue. I feel like those two things used to be in the same category.",
+        "Boeing's 737 Max has a new software problem involving landing. 'But it's fine' — FAA, again.",
+        "At this point Boeing's software team and the FAA's 'not a safety issue' stamp are just pen pals.",
+        "They grounded this plane for 20 months. New glitch, new review, same sentence: don't worry about it.",
+        "Affects landing procedures. Not a safety concern. Pick one, FAA. You can't have both of those."
       ],
       "captionsJa": [
-        "企業は何年もかけてダークパターンを完成させた。ニューヨークは法律一本でそれをひっくり返した。企業側はご立腹。",
-        "登録は8秒。解約は電話とアンケートと「マイクからの引き留めトーク」。それが今日まで合法だったんですよ。",
-        "「解約は登録と同じ手順で」という法律が出た瞬間、どこかの会議室で「グレーゾーンの範囲は？」と聞く人がいる。",
-        "「いつでも解約できます」って言ってたじゃないですか。ニューヨークが「じゃあ証明して」と言ったわけで。",
-        "UXデザイナーがキャンセルフローのワイヤーフレームを眺めて、キャリアで初めて少し緊張している。"
+        "着陸手順に影響するソフトウェアの不具合。でもFAAによると「飛行安全上の問題ではない」。この二つ、昔は同じカテゴリーだったと思うんですが。",
+        "737 Maxにまた新しいソフトウェア問題。着陸に関係するやつ。「でも大丈夫」——FAAが、また言った。",
+        "もうボーイングのソフトウェアチームとFAAの「問題なし」スタンプは、文通してる仲みたいなもんですよ。",
+        "20ヶ月間も運航停止にした飛行機。新しい不具合、新しい調査、同じ一言: 心配しないで。",
+        "着陸手順に影響する。でも安全上の懸念ではない。FAA、どっちか選んで。両立は無理でしょ。"
       ],
-      "newsEn": "New York City's 'click to cancel' rule has taken effect, requiring subscription services to make cancellation as easy as the original sign-up process. The city joins a growing number of states and jurisdictions adopting similar consumer protection laws. A federal standard remains in legal limbo, leaving a patchwork of local rules across the country.",
+      "newsEn": "The Federal Aviation Administration said it is reviewing a software glitch found in Boeing's 737 Max aircraft, stating the issue could affect procedures during certain landings. The FAA described the glitch as not a flight-safety issue. Boeing has faced years of intense scrutiny following two fatal crashes of the 737 Max in 2018 and 2019 that killed 346 people, after which the aircraft was grounded worldwide for nearly two years.",
       "ironyEn": [
         {
-          "contradiction": "Companies designed sign-up flows to take ten seconds and cancellation flows to take twenty minutes — and somehow needed a law to understand why that felt unfair.",
-          "absurdity": "The city had to legally define 'same ease' because the industry's definition apparently involved a phone call, a retention specialist, and a six-question survey.",
-          "outside": "Consumer protection bodies in the EU have been fighting this for years. New York just made it local law, which means it still doesn't apply to the rest of the country, or the internet."
+          "contradiction": "The FAA confirmed that a software glitch affecting landing procedures on the Boeing 737 Max is 'not a flight-safety issue.' Those two clauses are doing a lot of work in the same sentence.",
+          "absurdity": "This is the aircraft that was grounded for 20 months after software killed 346 people. 'New software glitch, but don't worry' is a sentence Boeing keeps having to write.",
+          "outside": "Airlines around the world are still rebuilding passenger trust in the Max. News like this is what you get when the trust-rebuilding campaign runs at the same speed as the bug-finding campaign."
         },
         {
-          "contradiction": "The whole pitch of the subscription economy was 'cancel anytime' — they just forgot to mention 'anytime' required forty-five minutes and two chat windows.",
-          "absurdity": "Somewhere a UX team is currently redesigning their cancel flow to technically comply while still asking if you're really, truly sure.",
-          "outside": "In countries with stronger consumer law, this was never legal to begin with. The U.S. is celebrating closing a loophole other markets never had."
+          "contradiction": "A glitch that affects what happens when the plane lands is 'not a safety issue' — which raises the question of what category of event the FAA does consider relevant to safety.",
+          "absurdity": "Boeing has been under congressional investigation, DOJ scrutiny, and a Senate hearing where executives testified under oath. The answer to all of that, apparently, is another software review.",
+          "outside": "For passengers booking 737 Max flights, 'the FAA is reviewing it' has become a phrase that lands somewhere between reassurance and the opposite of reassurance."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-10-02/candidate-3.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-10-02/candidate-3-punchy.jpg"
+      "image": "images/2026-10-03/candidate-3.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-03/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "GM's EV Sales Are Down While Toyota Rides Hybrids to Growth — Detroit's Bet Is Not Paying Off",
-        "source": "CNBC Top News",
-        "date": "2026-10-02",
-        "url": "https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html",
-        "summary": "GMの第3四半期販売台数は全体で5.5%減少し、同社の電気自動車販売も全面的に落ち込んだ一方、トヨタはEVとハイブリッド車の好調に支えられ増収となった。"
+        "headline": "Amazon's $1 Billion Plan to Fix Data Center Backlash Is Generating More Backlash",
+        "source": "Ars Technica",
+        "date": "2026-10-03",
+        "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
+        "summary": "Amazonはデータセンター建設への反発を受けて10億ドルの対策プランを発表したが、NDA廃止は評価される一方、環境汚染問題の矮小化に対する批判が新たに噴出している。"
       },
       "commentary": [
-        "<b>矛盾:</b> GMは「EVシフトで未来を取る」と大々的に宣言して工場まで建て替えたのに、消費者の熱が冷めたタイミングで販売減。宣言の方が現実より5年早かった。",
-        "<b>滑稽さ:</b> 「ハイブリッドは過渡期の技術」と言い続けたアメリカ勢を横目に、トヨタが「過渡期の技術」でしっかり利益を出している。過渡期、長くないですか。",
-        "<b>日本・海外から見ると:</b> 日本のトヨタが「ちょっと待って、ハイブリッドも残そう」と言ったら世界から批判された。その同じ戦略が今、アメリカ市場で正解になっている。"
+        "<b>矛盾:</b> データセンターへの反発を抑えるための計画が、新たな反発を生んでいる。「反発対策への反発」という入れ子構造に、Amazonが10億ドルを投じた。",
+        "<b>滑稽さ:</b> NDA廃止は評価された。つまり唯一褒められた部分は「もう隠さない」こと——これまで何を隠していたかを無言で認めてる。",
+        "<b>日本・海外から見ると:</b> AI開発競争の影で、データセンターが地域の電力・水・空気を消費している問題は日本でも他人事ではない。Amazonの「対策PR」が逆効果になった今回は、企業広報の教科書的な失敗例として残りそう。"
       ],
       "imagePrompts": [
-        "A shiny GM electric concept car on a showroom pedestal with dramatic lighting, a large red downward sales arrow overlaid, a Toyota hybrid sedan quietly parked outside the window with a green upward arrow next to it",
-        "A construction site of a half-finished EV charging station with an 'OPENING SOON' sign dated two years ago, a gas station fully operational next door with a long line of cars, American highway landscape",
-        "A bar chart showing GM EV sales going down and Toyota hybrid sales going up, both bars wearing name tags, the Toyota bar is slightly smug, boardroom presentation setting"
+        "A massive Amazon data center building surrounded by protesters holding signs. In front of the building, a giant banner reads '$1 BILLION COMMUNITY PLAN.' A second wave of protesters with new signs is arriving behind the first group.",
+        "A corporate boardroom with a whiteboard showing a flowchart: 'Backlash → $1B Plan → More Backlash → ???' An executive stands at the board, marker in hand, looking at the question marks.",
+        "A close-up of a thick binder labeled 'Amazon Data Center Community Response Initiative' sitting on a table, with multiple sticky notes added by critics poking out from the pages, each labeled with a different environmental concern."
       ],
       "captions": [
-        "GM went all-in on electric. Toyota hedged with hybrids. One of them is having a good quarter, and it's not the one that had the Super Bowl ad.",
-        "They called the hybrid 'a bridge to nowhere.' Toyota's bridge is apparently doing great traffic numbers.",
-        "Consumer enthusiasm for EVs 'waning' — which is corporate speak for 'the charging station still isn't open.'",
-        "GM announced the future of transportation. The future RSVP'd but hasn't shown up yet.",
-        "Toyota: still selling the thing everyone said was obsolete. GM: reporting the numbers everyone said were coming."
+        "Amazon spent $1 billion to stop the backlash. New backlash dropped within the week. Refund policy unclear.",
+        "They ended the NDAs, and everyone said 'good.' They downplayed the pollution, and everyone said 'about that.' One billion dollars later, we're exactly where we started, just louder.",
+        "The plan to fix the PR problem became the PR problem. Somewhere there's a consultant who will charge $50 million to explain how that happened.",
+        "Biggest win in the whole announcement: 'We'll stop hiding things from local governments.' That's the bar. A billion dollars, and the highlight is no more secrets.",
+        "Stage 1: Data centers cause backlash. Stage 2: Anti-backlash plan causes backlash. Stage 3: Amazon is now on Stage 3 and they haven't named it yet."
       ],
       "captionsJa": [
-        "GMはEVに全振り。トヨタはハイブリッドで保険をかけた。どちらが今期好調かというと、スーパーボウル広告を出した方じゃないんですよ。",
-        "「ハイブリッドは過渡期の橋」って言ってたじゃないですか。その橋、交通量すごいことになってますけど。",
-        "EV需要が「鈍化」——コーポレートスピークで「充電スタンドがまだ開いてない」という意味。",
-        "GMは「交通の未来」を宣言した。未来は返事したけど、まだ来ていない。",
-        "トヨタは「時代遅れ」と言われたものを売り続けている。GMは「来るはず」と言っていた数字を報告している。"
+        "Amazonは反発を止めるために10億ドル使った。1週間以内に新しい反発が来た。返金ポリシーは不明。",
+        "NDA廃止は褒められた。汚染の矮小化は叩かれた。10億ドルかけて、スタート地点よりうるさくなっただけ。",
+        "PR問題を解決するためのプランがPR問題になった。これを説明するために5000万ドルを請求するコンサルがどこかにいるはず。",
+        "発表全体で一番評価されたのが「もう地方政府に隠し事しません」。10億ドルの一番のハイライトが「秘密なし」って、それ以前に何があったんですか。",
+        "第1段階: データセンターへの反発。第2段階: 反発対策プランへの反発。第3段階: Amazonはいま第3段階にいるが、まだ名前がついていない。"
       ],
-      "newsEn": "General Motors reported a 5.5% drop in third-quarter sales, with electric vehicle sales declining across all models as consumer enthusiasm for EVs cools. Meanwhile, Toyota posted gains, buoyed by strong demand for both its electric and hybrid vehicles. The contrast highlights the diverging fortunes of automakers that went all-in on pure EVs versus those that maintained a hybrid strategy.",
+      "newsEn": "Amazon announced a $1 billion initiative aimed at addressing community opposition to its data center expansion, including ending non-disclosure agreements with local governments. While some praised the company for increased transparency, critics quickly slammed Amazon for downplaying the environmental impact of data center pollution, including energy consumption, water usage, and local air quality concerns. The backlash-to-the-backlash-plan arrived within days of the announcement.",
       "ironyEn": [
         {
-          "contradiction": "GM announced its electric future loudly and expensively, then watched the future arrive slightly later than the press release suggested.",
-          "absurdity": "Toyota got called backward for keeping hybrids. It is now winning the U.S. sales quarter. The scolds have gone quiet.",
-          "outside": "Europe pushed hard for EV mandates. America announced EV ambitions. Toyota just sold cars. Guess which strategy has the better Q3."
+          "contradiction": "Amazon launched a $1 billion plan to make people stop being angry about data centers. The plan made people angrier. The PR team is presumably reviewing its options.",
+          "absurdity": "The one part critics praised was ending NDAs with local governments — meaning the most popular element of the plan was 'we'll stop keeping secrets.' Which implies they were keeping secrets.",
+          "outside": "As AI infrastructure demand surges globally, data center pollution has become a live issue in communities from Virginia to Singapore. Amazon's billion-dollar response: a document that downplays it."
         },
         {
-          "contradiction": "The company that retooled factories and ran Super Bowl ads about its electric transformation is posting declining EV numbers while a Japanese automaker's 'transitional technology' keeps growing.",
-          "absurdity": "EV enthusiasm 'waning' is the polite way of saying consumers looked at charging infrastructure and did the math.",
-          "outside": "In Norway, where charging infrastructure is actually built out, EV adoption is fine. In the U.S., the plan was to sell the cars first and figure out the plugs later."
+          "contradiction": "The company that runs the world's largest cloud infrastructure announced a transparency initiative. Transparency revealed more problems.",
+          "absurdity": "A billion dollars to manage the perception of a backlash is still less than what the data centers cost to build — so this is, technically, a rounding error in Amazon's PR budget.",
+          "outside": "Environmental groups were already watching closely. Giving them a $1 billion document to critique is, in retrospect, not the move."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-10-02/candidate-4.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-10-02/candidate-4-punchy.jpg"
+      "image": "images/2026-10-03/candidate-4.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-03/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "United Airlines Offers Delta and American's Best Customers a Better Deal — Please, Just Look at Us",
-        "source": "CNBC Top News",
-        "date": "2026-10-02",
-        "url": "https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html",
-        "summary": "ユナイテッド航空がデルタ航空とアメリカン航空の上位会員向けに積極的なステータスマッチプログラムを開始し、ライバル社のエリート会員の獲得を狙っている。"
+        "headline": "Patient-Zero Pandemic Drill Hits 73 Health Facilities — 40% Couldn't Handle a Fake Sick Person",
+        "source": "Ars Technica",
+        "date": "2026-10-03",
+        "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
+        "summary": "俳優を「患者ゼロ」に扮装させて73の医療施設に訪問させるパンデミック対応訓練が実施され、約40%の施設が対応に失敗したことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> ロイヤルティプログラムの本来の目的は「自社への愛着を育てる」こと。それを「ライバル社の会員を丸ごと引っこ抜く」ために使い始めると、もう「ロイヤルティ」の意味がないじゃないですか。",
-        "<b>滑稽さ:</b> デルタのプラチナ会員がユナイテッドのプラチナになって、来月アメリカンからオファーが来て、再来月またユナイテッドに戻る——これ、旅客機版の引き抜き合戦で、忠誠心ゼロの消費者を量産している。",
-        "<b>日本・海外から見ると:</b> 航空会社のマイレージって「長年の顧客への恩返し」という建前のはずが、アメリカの場合は「今すぐ来てくれれば過去はいらない」という即席プログラムになってる。"
+        "<b>矛盾:</b> パンデミック対策の準備ができているかを確認する訓練で、訓練に40%が失敗した。「備えができているか確認したら、備えができていなかった」という、訓練そのものが存在意義を証明した瞬間。",
+        "<b>滑稽さ:</b> 役者がメイクして「それっぽい症状」を演じて施設に入る。73か所中29か所以上が見抜けなかった——これ、詐欺師のほうが上手いということでは。",
+        "<b>日本・海外から見ると:</b> 日本でも感染症対応訓練は定期的に行われているが、「俳優を実際に病院に送り込む」形式のリアリティはなかなかない。40%の失敗率は、緊急時の医療体制への信頼を考え直させる数字。"
       ],
       "imagePrompts": [
-        "Three airline boarding gate counters labeled DELTA, UNITED, and AMERICAN, a frequent flyer in a suit with an oversized elite status card being tugged toward each gate by uniformed staff, overhead departure board showing all three airlines",
-        "A United Airlines representative at a kiosk holding a sign that reads 'DELTA PLATINUM? WE'LL MATCH THAT,' positioned directly outside a Delta terminal, rolling suitcase crowd passing by",
-        "A large scoreboard-style display showing 'ELITE MEMBERS POACHED' tallied between United, Delta, and American like a sports game, airport concourse setting with gate numbers visible"
+        "A theatrical actor in dramatic sick-person makeup, fake sweat, and disheveled clothes sitting in a hospital waiting room holding a numbered ticket, while the reception desk staff chat among themselves and ignore them completely.",
+        "A clipboard checklist labeled 'Pandemic Response Drill Results' with 73 rows. Roughly 40% of the boxes are marked with a red X. The document is sitting on a government conference table next to a coffee cup.",
+        "A theatrical dressing room backstage, with actors in various stages of 'sick person' makeup applying fake rashes and pallor, while a whiteboard on the wall lists '73 facilities — good luck' and a sign reads 'PATIENT ZERO ASSIGNMENT BRIEFING.'"
       ],
       "captions": [
-        "United's message to Delta's best customers: 'Everything you earned over there? We'll honor it. Starting now. No questions. Please.'",
-        "Loyalty program, redefined: you don't have to be loyal, we just have to be desperate first.",
-        "Someone flew 125,000 miles to get Delta Diamond status. United just offered the same thing for filling out a web form. That person is going to need a minute.",
-        "United is running a loyalty program to poach customers who already proved they'll leave for a better deal. The word 'loyalty' is in there somewhere.",
-        "Delta spent years earning those customers. United is spending this quarter un-earning them."
+        "They sent actors in full sick-person makeup to test pandemic readiness. Four in ten facilities: 'Nope, didn't notice.'",
+        "The actor was staggering. With fake symptoms. With makeup. And 40% of hospitals said, essentially, 'take a number and we'll be right with you.'",
+        "If a real outbreak starts, let's hope it picks the other 60% of facilities first.",
+        "Pandemic preparedness drill, 73 facilities tested. The result: we are 60% prepared, which is either reassuring or terrifying depending on which 40% you happen to walk into.",
+        "The actors passed. The hospitals didn't."
       ],
       "captionsJa": [
-        "ユナイテッドのデルタ上位会員へのメッセージ：「向こうで積み上げたもの全部、こっちで認めます。今すぐ。なんでもするので。」",
-        "ロイヤルティプログラム、再定義。あなたが忠誠心を持つ必要はない。こっちが先に必死になればいい。",
-        "12万5千マイル飛んでデルタのダイヤモンドになった人に、ユナイテッドがウェブフォーム一枚で同じ資格を出した。その人は少し複雑な気持ちになっていい。",
-        "「いい条件があれば動く」と証明済みの客を、ロイヤルティプログラムで奪い合っている。「ロイヤルティ」という単語がかろうじて残っている。",
-        "デルタは何年もかけて顧客を育てた。ユナイテッドは今期かけてそれを引っこ抜いている。"
+        "「病人のメイクをした俳優」を送り込んでパンデミック対応を試した。73か所中40%近くの返答: 「あ、気づかなかった」。",
+        "俳優はふらふらしてた。偽の症状。メイクもしてた。それで40%の病院が「番号札どうぞ、すぐ参ります」で対応した。",
+        "本当の感染症が来たとき、最初にかかるのが残り60%の施設であることを祈るしかない。",
+        "パンデミック対応訓練、73施設で実施。結果: 60%は準備できてた。どっちの40%に入るかで、安心にも恐怖にもなる数字。",
+        "俳優は合格した。病院が不合格だった。"
       ],
-      "newsEn": "United Airlines launched an aggressive status match program targeting the top-tier frequent flyers of Delta Air Lines and American Airlines. The move is a direct attempt to poach loyal customers from rival carriers by offering them equivalent or better elite status without the usual requirements. The airline industry's loyalty program arms race is escalating.",
+      "newsEn": "Health officials conducted a drill in which actors wearing makeup and displaying fake symptoms of a contagious illness visited 73 healthcare facilities to test pandemic preparedness protocols. Approximately 40 percent of the facilities failed to properly identify and respond to the simulated patient-zero scenario. The exercise was designed to evaluate how quickly and accurately frontline health workers can detect and contain a potential outbreak at the point of entry.",
       "ironyEn": [
         {
-          "contradiction": "Loyalty programs are designed to build loyalty. United is now using its loyalty program to buy other airlines' loyal customers — which is less 'loyalty' and more 'recruitment.'",
-          "absurdity": "The program's target audience is travelers who have already proven they'll go wherever the perks are best. Offering them better perks to switch seems optimistic about what happens next.",
-          "outside": "In markets where airlines compete less aggressively, frequent flyer programs function as intended. In the U.S., they've become a currency airlines use to fight each other."
+          "contradiction": "The whole point of a patient-zero drill is to find out if health facilities can catch a patient zero. Forty percent of them could not catch the actor playing patient zero.",
+          "absurdity": "The actors had makeup on and fake symptoms. This isn't a subtle test. Four in ten facilities still missed it.",
+          "outside": "Post-pandemic, health systems worldwide expanded their emergency response plans. The drill suggests that having a plan and being able to run it are, in a meaningful number of cases, different things."
         },
         {
-          "contradiction": "Delta and American spent years and billions building elite customer relationships. United is offering to replicate the status badge in exchange for a transfer.",
-          "absurdity": "Someone achieved Delta Diamond status through 125 nights in middle seats and three missed connections. United just offered them the same thing for switching. The 125 nights feel different now.",
-          "outside": "European regulators have been scrutinizing airline loyalty programs as anti-competitive. Meanwhile, in the U.S., airlines are just openly running ads at each other's best customers."
+          "contradiction": "Healthcare facilities are supposed to be the first line of defense against outbreak detection. A third of them just let the outbreak walk in and sit in the waiting room.",
+          "absurdity": "The actors were staggering. With makeup. As in, the simulation was not subtle — and 40% of facilities still needed a do-over.",
+          "outside": "From a public health standpoint, the drill working perfectly would have been reassuring. Instead it produced a number — 40% — that will now appear in every pandemic preparedness report for the next decade."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-10-02/candidate-5.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-10-02/candidate-5-punchy.jpg"
+      "image": "images/2026-10-03/candidate-5.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-03/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「ルールの建前と、その建前を誰も信じていないという事実」。採用、自然保護、解約、EV、ロイヤルティ——どの話も、制度の名前と中身がもう別物になっている。",
-    "titleEn": "Hired, Fired, and Rehired Before Lunch",
-    "subtitleEn": "Five stories about systems that work exactly as badly as designed.",
-    "titleJa": "就任から1時間で首になった連邦検察官が、裁判所に呼び戻された話",
+    "thread": "今日の5本を貫く糸は「制度が自分の看板を信じていない」。登録抹消、和解、安全宣言、対策PR、訓練失敗——どれも「それでいいの?」という問いへの答えが「書類上はOKです」だった日。",
+    "titleEn": "Everything Is Fine (Paperwork Confirms)",
+    "subtitleEn": "Five stories where the system checked the box and called it a day.",
+    "titleJa": "「書類上は問題ありません」で全部乗り切ろうとしている国の話",
     "titleAltJa": [
-      "「ロイヤルティプログラム」の「ロイヤルティ」がもう意味をなしていない件について",
-      "今日アメリカで起きた5つのこと、全部「名前と中身が違う」だった"
+      "ナサル、登録抹消。ボーイング、安全宣言。Amazonは10億ドルで炎上。今日のアメリカ、全部そっち系だった",
+      "「対策しました」と言うたびに新しい問題が生まれる日に、どう一言返すか"
     ],
-    "leadJa": "就任して1時間以内に解雇通知。それを裁判所が差し止め。ロジャー・ロゴフ氏、まだ駐車場の精算もしてないと思う。\n\nそんな話から始まる今日の5本です。",
-    "introEn": "Roger Rogoff was sworn in as a U.S. attorney in Seattle. Then, less than an hour later, he was fired. Then a judge blocked the firing.\n\nAll of that happened before most federal employees finish filling out their desk request forms.\n\nToday's five stories are all running on the same engine: a system that says one thing, does another, and then acts surprised when someone notices. MLB wants to play baseball inside a national park. New York had to pass a law to make a cancel button work. GM bet everything on EVs while Toyota quietly kept the hybrids. And United Airlines is now poaching Delta's most loyal customers — with loyalty points.\n\nHere's your forecast: if you've ever followed the rules and still lost, today's news is basically a support group for that. The systems aren't broken. They were just never about what they said they were about. Which means you were right all along. Go ahead and take that one into the weekend.",
-    "introJa": "ロジャー・ロゴフ氏が連邦検察官に就任しました。宣誓しました。1時間以内に解雇されました。裁判所が「それは違法」と差し止めました。\n\nこれ、全部同じ日の午前中の話です。\n\nで、今日はあと4本あって——MLBが国立公園に野球場を持ち込もうとして全員に止められた話、ニューヨーク市が解約ボタンを法律で義務づけた話、GMのEVが沈んでトヨタのハイブリッドが浮いた話、そしてユナイテッドが他社の常連客を「あなたのステータス、うちでそのまま使えます」で引き抜こうとしている話。\n\n全部に共通しているのは、制度の名前と中身がもうズレている、ということ。ロイヤルティプログラムに忠誠心はなく、解約ボタンは強制しないと機能しない。\n\n今日の占いはこれです。「ちゃんとやってるのになんで？」と思っていることがあったとしたら、それはあなたのせいじゃないかもしれない。ルールを守っていた検察官が今日、裁判所に呼び戻されました。\n\n少なくとも今日は、あなたの方が正しかった",
-    "quipEn": "Loyalty programs with no loyalty. National parks open to proposals. A cancel button that required a law. Today's theme: the label stopped matching the contents a while ago, and we're all just now reading the fine print.",
-    "quipJa": "採用も、解約も、ロイヤルティも、全部「名前だけ」だった。そういう日でした。",
+    "leadJa": "ラリー・ナサルが性犯罪者登録リストから消えました。書類上の話です。ボーイングに新しいソフトウェアの不具合が出ました。「安全上の問題ではない」そうです。今日は、そういう日です。",
+    "introEn": "Five stories today. One theme.\n\nLarry Nassar got removed from Michigan's sex offender registry — on paper. Boeing found another software glitch in the 737 Max — not a safety issue, apparently. Lyft paid $272 million to settle a case about misclassifying drivers — who are still, technically, not employees. Amazon spent a billion dollars to fix its PR problem — and generated a new one within the week. And forty percent of hospitals couldn't spot a fake sick person in full theatrical makeup.\n\nEvery institution today showed up with stamped paperwork and called it done.\n\nHere's your forecast: if you've been doing the actual work while someone else files the reports, today is your day. The gap between the form and the reality? That's where you live. That's not a bug. That's the job.",
+    "introJa": "今日のニュース5本、読んで最初に出た言葉が「それでいいの?」でした。\n\nナサルが性犯罪者登録リストから消えた——手続き上の理由で。ボーイング737 Maxにまた不具合——「安全上の問題ではない」そうで。Lyftが2億7250万ドルで和解——ドライバーの取り分は数百ドル程度の見込みで。Amazonが10億ドルかけて反発を抑えようとしたら——1週間で新しい反発が来て。73の医療施設でパンデミック訓練をしたら——40%が失敗した。\n\n5本全部、「対応しました」という形は整ってるんです。書類は完璧。中身が、追いついてない。\n\nで、今日の占いです。「ちゃんとやってるのに評価されない」と感じてる日、今日のニュースを思い出して。評価されてるのが「書類」で、実際に動いてるのが「あなた」なら——今日、少なくとも正しい側にいます。\n\n5本、どうぞ。",
+    "quipEn": "Today, five institutions checked every box. Not one of them solved the problem the box was designed for.",
+    "quipJa": "書類は整ってた。5本全部。それだけ確かです。",
     "notesEn": [
-      "Roger Rogoff was sworn in as a U.S. attorney in Seattle. Fired within the hour. Then a federal judge blocked the firing and reinstated him. His first day technically isn't over.",
-      "MLB reached out to the White House about staging a game inside Grand Teton National Park. Residents said no. Conservation groups said no. The moose near second base has not commented.",
-      "New York City now requires subscription services to make cancellation as easy as sign-up. This is a new law. That it had to be a law tells you everything about why it had to be a law.",
-      "GM's EV sales dropped across all models this quarter. Toyota, which everyone spent years criticizing for keeping hybrids around, is having a great quarter. The bridge to nowhere has excellent traffic.",
-      "United Airlines just offered Delta and American's top-tier frequent flyers equivalent elite status — no requirements, just come over. Someone flew 125,000 miles for that status. United is offering it for a web form."
+      "Larry Nassar — 100-plus years in prison, going nowhere — was removed from Michigan's sex offender registry this week. The paperwork is clean. The sentence is not. The system managed to do both at once without blinking.",
+      "Lyft settled for $272.5 million over misclassifying drivers as independent contractors. Each driver is expected to receive a few hundred dollars. The word 'misclassification' will not appear in the settlement documents. Everyone has agreed to proceed on this basis.",
+      "Boeing's 737 Max has a new software glitch affecting landing procedures. The FAA says it's not a flight-safety issue. I read that sentence three times. It still says the same thing.",
+      "Amazon spent $1 billion to address backlash against its data center expansion. New backlash arrived within the week. The one thing everyone praised was that they stopped hiding things under NDAs — which is a quiet way of confirming they were hiding things under NDAs.",
+      "Health officials sent actors in full sick-person makeup to 73 hospitals to test pandemic readiness. Forty percent of facilities failed to flag them. The actors were in makeup. Staggering. Forty percent."
     ],
     "xJa": [
-      "シアトルの連邦検察官、就任から1時間以内に解雇されて、裁判所に呼び戻される。名刺を配る時間すらなかった。いや、そもそも名刺、刷ってたのかな。",
-      "MLBがグランドティトン国立公園で試合をやろうとして地元も環境団体も全員に反対された。「外野の背後に山脈」は映えるけど、それ公園を背景として使うってことだよね。",
-      "ニューヨーク市が「解約ボタンは申し込みと同じ手順にしなさい」を法律にした。今まで合法だったことの方がびっくりする。",
-      "GMのEV販売が全面落ち込み、トヨタのハイブリッドが絶好調。「ハイブリッドは過渡期の技術」と言っていた人たち、過渡期がだいぶ長くなってきた。",
-      "ユナイテッド航空が「デルタのプラチナ会員の方、うちでそのままプラチナにします」と言い出した。ロイヤルティプログラムの「ロイヤルティ」、もう意味ないじゃないですか。"
+      "ラリー・ナサル（刑期100年以上・服役中）が、ミシガン州の性犯罪者登録リストから削除された。手続き上の問題で。本人はどこにも行けないが、書類だけきれいになった。",
+      "Lyft、2億7250万ドルで和解。ドライバー一人あたりの取り分は数百ドルの見込み。批評家は「足りない」。2億7千万ドルが「少ない側」の数字として議論される和解って何なんだ。",
+      "ボーイング737 Maxに新しいソフトウェアの不具合。「着陸手順に影響する可能性がある」とFAA。でも「飛行安全上の問題ではない」とも言ってる。着陸って飛行じゃないの?",
+      "Amazonが10億ドルかけてデータセンターへの反発を抑えようとしたら、1週間で新たな反発。唯一褒められたのは「NDА廃止」、つまり「もう隠しません」。じゃあ今まで何を隠してたんですか。",
+      "パンデミック訓練。俳優がメイクして症状を演じながら73施設を訪問。40%が対応失敗。メイクして症状まで演じてたのに。"
     ],
     "raidEn": [
-      "He was sworn in, fired, and legally reinstated — and the morning wasn't even over. First day to remember, for all the wrong reasons.",
-      "Grand Teton: established 1929 to protect pristine wilderness. 2026: someone's asking if they can fit a bullpen in there. The park has been very patient.",
-      "You could sign up in eight seconds. Canceling took a phone call, a survey, and a conversation with Mike from Retention. That was all legal until today.",
-      "They called the hybrid 'a bridge to nowhere.' Toyota's bridge is apparently doing great traffic numbers this quarter.",
-      "Someone flew 125,000 miles to earn that status. United is offering the same thing for filling out a web form. That person deserves a moment."
+      "The man has 100+ years left in prison and his paperwork just got cleaner. That's the kind of efficiency I did not expect from Michigan this week.",
+      "A few hundred dollars per driver, a quarter billion in the headline. 'Landmark settlement' doing a lot of heavy lifting in that press release.",
+      "Boeing's 737 Max software now affects landing. FAA says: not a safety issue. I genuinely respect the confidence it takes to say that out loud.",
+      "The plan to fix the backlash created backlash. The only win was ending the NDAs — which confirmed the NDAs existed. One billion dollars, full circle.",
+      "Forty percent of hospitals missed an actor in full sick-person makeup. This video explained it better than any headline I've seen."
     ],
     "raidJa": [
-      "宣誓して、解雇されて、裁判所に呼び戻される——これが全部午前中に終わっているの、記録的だと思います。すごい記事を紹介いただきました。",
-      "「国立公園」と「ホットドッグの屋台」が同じ文章に入る提案、2026年にやっと来ましたね。この記事で初めて知りました、ありがとうございます。",
-      "法律で義務づけないと解約ボタンが機能しない、という事実が一番のオチですよね。今まで合法だったことの方が怖い。",
-      "「ハイブリッドは過渡期」と言い続けた人たちを横目に、その過渡期でトヨタが利益を出している構図、この記事でよくわかりました。",
-      "125,000マイル飛んで獲得したステータスを、フォームの入力で渡す側の話、笑うしかないですね。丁寧にまとめていただいて助かりました。"
+      "刑期100年以上で服役中なのに、書類だけが先に更新されていくのがすごいですね。制度の処理速度、ここだけ速い。",
+      "記事を読んで、和解金の規模と一人あたりの取り分の落差に二度見しました。「画期的な和解」という言葉の使われ方について、改めて考えさせられる記事でした。",
+      "「着陸に影響するかもしれないけど安全上の問題ではない」という文章の両立を、こんなに丁寧に解説していただいてありがとうございます。読んでも頭が追いつかないですが。",
+      "「反発対策への反発」という構造をここまで整理してくれた記事、初めて読みました。10億ドルかけて元の場所に戻ってくる話、他にもありそうで怖い。",
+      "俳優がメイクまでして症状を演じていて、それでも4割が気づかなかったというのが、数字として一番重くて。わかりやすくまとめてくださっていて助かりました。"
     ],
     "riffEn": [
-      "The administration fired Roger Rogoff as U.S. attorney in Seattle less than an hour after he was sworn in. Not a day. Not a week. Under an hour. The man had time to take the oath, shake some hands, maybe find the bathroom — and then get the call. A federal judge has since blocked the firing as unlawful, which means Rogoff now holds the distinction of being both fired and not-fired at the same time, by the same government, on the same day. The vetting process was thorough enough to get him in the door. Just not thorough enough to keep him there past the badge orientation.",
-      "MLB reportedly contacted the White House about staging a game inside Grand Teton National Park. The park was established in 1929 specifically to protect one of the most striking landscapes in North America. Local residents opposed it. Conservation groups opposed it. The proposal is, at its core, an argument that the right TV backdrop is worth negotiating a few exceptions to the entire concept of protected wilderness. The center fielder tracking a fly ball with a 13,000-foot peak behind him would look incredible. It would also be, in the most literal sense, using the mountain as a prop.",
-      "New York City's 'click to cancel' rule is now in effect, requiring subscription services to make cancellation as easy as signing up. The interesting part isn't the rule. It's that the rule was necessary. Companies had years to make a cancel button that worked. They spent those years making it not work — phone trees, retention surveys, a final chat with someone named Mike whose entire job was to change your mind. All of that was legal. Today it isn't. The law didn't change what companies wanted to do. It just changed what they're allowed to get away with.",
-      "GM reported a 5.5% drop in third-quarter sales, with its EV lineup down across every model. Toyota, meanwhile, posted gains on the strength of hybrid demand — the same hybrid strategy that American automakers spent years dismissing as a half-measure for companies too timid to commit. The argument was: hybrids are a bridge technology, and the bridge leads nowhere. Toyota kept building the bridge. Turns out the bridge has a lot of people on it, and some of them are buying cars.",
-      "United Airlines has launched a status match program targeting the top-tier members of Delta and American — meaning if you've spent years and tens of thousands of miles earning elite status with a competitor, United will now hand you the equivalent, immediately, for switching over. The loyalty program was originally designed to reward loyalty. United has repurposed it to reward disloyalty to someone else. Delta built that customer over years. United is offering to undo it with a form. The word 'loyalty' is doing a lot of heavy lifting in a sentence where it no longer applies."
+      "Larry Nassar is in prison for over a hundred years. He has nowhere to go. And yet Michigan's sex offender registry removed him this week, along with about 20,000 others, because of a retroactivity problem in the law. The registry — designed specifically to track people like him — processed his removal cleanly and moved on. He's still in prison. His paperwork is tidier than ever. The institution built to remember chose, on procedural grounds, to forget.",
+      "Lyft called its drivers independent contractors for years. That meant no benefits, no labor protections, no employer contributions. Then a lawsuit happened, and Lyft agreed to pay $272.5 million to make the conversation stop. Worker advocates said immediately that the number wasn't enough. So here's where we are: it's not an admission of misclassification, it's not enough money to cover what misclassification actually cost, and the drivers who built the platform are expected to get a few hundred dollars each. The only thing everyone agrees on is the dollar figure. Nobody agrees on what it means.",
+      "Boeing's 737 Max has a new software problem. It involves landing — specifically, certain procedures during landing. The FAA reviewed this and determined it is not a flight-safety issue. I want to be fair: I'm not an aviation engineer. But I'm also not sure when landing became a separate category from flying. The plane that was grounded for twenty-two months after killing 346 people now has a software issue affecting how it lands, and the official position is that this is fine. I read the sentence a few times. It kept saying the same thing.",
+      "Amazon announced a $1 billion plan to address community opposition to its data centers. The plan included ending nondisclosure agreements with local governments. Critics praised that part — ending the NDAs — and then pointed out that the plan still downplayed the actual environmental impact: the energy, the water, the air quality. New criticism arrived within days. What's interesting is that the one thing everyone called a win was the part where Amazon stopped hiding information. Which is a quiet confirmation that hiding information had been the strategy. A billion dollars to get credit for stopping something you were doing.",
+      "Health officials sent actors — in makeup, displaying fake symptoms — into 73 healthcare facilities to test pandemic readiness. The actors were visibly sick. On purpose. As a test. And about 40 percent of facilities didn't properly identify or respond to them. This is the kind of number that contains two different problems: what happens if the next outbreak picks a Tuesday when nobody's looking, and what happens when the drill report gets filed, marked 'completed,' and the facilities move on."
     ],
     "riffJa": [
-      "ロジャー・ロゴフ氏がシアトルの連邦検察官に就任した。宣誓した。1時間以内に解雇の連絡が来た。\n\n研修期間どころか、名刺を配る時間もなかったと思う。その後、連邦判事が「その解雇は違法」と差し止めた。つまりロゴフ氏は現在、「解雇されている」かつ「解雇されていない」という状態で同じポストに存在している。政府の採用プロセスはここまで来た。\n\nまあ、速いのは認める。",
-      "MLBがグランドティトン国立公園の中で野球の試合を開催する提案を検討しているらしい。グランドティトンは1929年に「この景観を永続的に保護する」という明確な目的で作られた場所です。\n\n地元住民が反対した。環境保護団体が反対した。で、この提案を押し進めようとしている側の論理を想像すると、「センターフィールドの背後に山脈が映えるから」以上の説明が思い当たらない。背景として使う、ということ。公園を。",
-      "ニューヨーク市で「クリック・トゥ・キャンセル」規則が施行された。サブスクの解約を、申し込みと同じ手順で完了できることを義務づけるルールです。\n\n「登録は1クリック、解約は電話・アンケート・最後の引き留めトーク」という構造が、今日から違法になった。違法に、なった。今まで合法だったこと自体が一番の告白で、企業がその気になれば最初からできたことを、法律が来るまでやらなかったという話です。ボタンは元からあった。機能させたくなかっただけで。",
-      "GMの第3四半期は全体5.5%減、EVは全モデルで落ち込んだ。一方トヨタはEVとハイブリッドの好調で増収。\n\nアメリカの自動車業界がトヨタのハイブリッド戦略を「過渡期の逃げ」と呼んでいたのは、そんなに昔の話じゃない。「橋は渡りきらないと意味がない」という論法だった。トヨタはその橋を作り続けた。今、その橋がいちばん混んでいる。",
-      "ユナイテッド航空がデルタとアメリカン航空の上位会員に向けて、「あなたのエリートステータス、うちでそのまま使えます」と呼びかけ始めた。\n\nロイヤルティプログラムの本来の目的は、長年の顧客への恩返し。それが今、他社の顧客を即座に引き抜くツールになっている。デルタが何年もかけて育てた会員を、フォーム1枚で回収しようとしている。\n\n「ロイヤルティ」、もう誰も信じてないんだよな、たぶん。"
+      "ラリー・ナサルは今も服役中です。刑期は100年以上。どこにも行けない。それでも今週、ミシガン州の性犯罪者登録リストから名前が消えました。法律の遡及適用に問題があった、という理由で。「こういう人を追跡するために作られた制度」が、手続き上の瑕疵を理由に「こういう人」の名前を消した。彼は刑務所にいる。書類だけが、きれいになった。",
+      "Lyftは長年ずっと「ドライバーは個人事業主です」と言い続けました。だから福利厚生もなく、労働保護もなかった。で、訴訟になって、2億7250万ドルで和解することにしました。批評家は「まだ足りない」と言っています。つまり2億7千万ドルが「少ない」側の数字として議論されている。ドライバー一人あたりの取り分は数百ドルの見込みで、和解文書に「誤分類」という言葉は出てこない予定らしい。\n\nそれで終わり、ということにした。両者合意の上で。",
+      "ボーイング737 Maxに、また新しいソフトウェアの不具合が見つかりました。着陸の特定の手順に影響する可能性がある、とのことです。FAAは「飛行安全上の問題ではない」と言っています。\n\n346人が亡くなって、22ヶ月間運航停止になった機体の話です。その機体の着陸に関わるソフトウェアに問題が出た。でも「安全ではない」とは言えない何かがあって、今日もその機体は飛んでいます。「安全」という言葉の意味を、私はもう少し狭く使っていたと思う。",
+      "Amazonがデータセンターへの反発を受けて、10億ドルの対策プランを発表しました。地方政府とのNDA（秘密保持契約）を廃止することも含まれていて、その部分だけは評価されました。「情報を隠すのをやめます」が唯一の褒めポイント。\n\nで、数日以内に新しい批判が出てきた。環境への影響——電力、水、大気汚染——を過小評価しているという指摘です。10億ドルかけて批判を鎮めようとしたら、批判が更新された。広報史に残る「対策への反発」の教科書になりそう。",
+      "俳優が感染症患者のメイクをして症状を演じながら、73の医療施設に「患者ゼロ」として訪問する訓練が実施されました。で、約40%の施設が適切に対応できなかった。\n\nメイクして、症状を演じて、それでも見抜けなかった。これが訓練の話です。本番ではない。ただ、訓練の結果が報告書にまとめられて、「完了」と処理されて、次の訓練まで棚に上がるとしたら——その「40%」という数字は、どこに行くんだろうと思う。"
     ],
     "asideEn": [
-      "One hour. Federal record, probably.",
-      "The park said no. Nature said no. MLB is still thinking.",
-      "It had to be a law.",
-      "They called it a bridge to nowhere. It's fine.",
-      "Loyalty, optional."
+      "The paperwork moved fast.",
+      "A few hundred dollars each. Progress.",
+      "Landing is, apparently, optional.",
+      "One billion dollars. Full circle.",
+      "The actor was in makeup."
     ],
     "asideJa": [
-      "1時間。新記録かもしれない。",
-      "山が背景になった。",
-      "今まで合法だったのが怖い。",
-      "橋、めちゃ混んでます。",
-      "ロイヤルティ、任意です。"
+      "書類だけは速かった。",
+      "着陸って安全に含まれないの?",
+      "炎上対策が炎上した。",
+      "メイクしてたのに。",
+      "和解金、足りないそうです。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "News Commentary",
-      "General Motors",
-      "United Airlines"
+      "Boeing",
+      "Amazon",
+      "Lyft"
     ],
-    "fullEn": "# Hired, Fired, and Rehired Before Lunch\n\n## Today's Forecast\n\nRoger Rogoff was sworn in as a U.S. attorney in Seattle. Then, less than an hour later, he was fired. Then a judge blocked the firing.\n\nAll of that happened before most federal employees finish filling out their desk request forms.\n\nToday's five stories are all running on the same engine: a system that says one thing, does another, and then acts surprised when someone notices. MLB wants to play baseball inside a national park. New York had to pass a law to make a cancel button work. GM bet everything on EVs while Toyota quietly kept the hybrids. And United Airlines is now poaching Delta's most loyal customers — with loyalty points.\n\nHere's your forecast: if you've ever followed the rules and still lost, today's news is basically a support group for that. The systems aren't broken. They were just never about what they said they were about. Which means you were right all along. Go ahead and take that one into the weekend.\n\n---\n\n## 1. Judge Blocks Trump's Firing of Seattle Prosecutor Who Lasted Less Than an Hour on the Job\n\n*CBS News US — [source](https://www.cbsnews.com/news/judge-blocks-trump-firing-top-federal-prosecutor-seattle-roger-rogoff/)*\n\nAttorney General Todd Blanche announced in July that President Trump had fired Roger Rogoff as the U.S. attorney in Seattle less than an hour after he was sworn into the post. A federal judge has since blocked the firing, ruling that the removal was unlawful. The case adds to a growing list of legal challenges against the administration's personnel decisions.\n\n**Why It's Funny**\n\nThe administration fired Roger Rogoff as U.S. attorney in Seattle less than an hour after he was sworn in. Not a day. Not a week. Under an hour. The man had time to take the oath, shake some hands, maybe find the bathroom — and then get the call. A federal judge has since blocked the firing as unlawful, which means Rogoff now holds the distinction of being both fired and not-fired at the same time, by the same government, on the same day. The vetting process was thorough enough to get him in the door. Just not thorough enough to keep him there past the badge orientation.\n\n**Say It Out Loud**\n\n> He was sworn in, fired, and legally reinstated — all before most federal employees finish their morning badge orientation.\n\n---\n\n## 2. MLB Eyes Grand Teton for a Game, Nature Responds With Unanimous Opposition\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park)*\n\nMajor League Baseball reportedly contacted the White House about staging a game inside Grand Teton National Park in Wyoming. The proposal has drawn significant backlash from local residents and conservation groups who say the event would damage a protected natural area. The idea follows a broader trend of staging spectacle sporting events in unusual locations.\n\n**Why It's Funny**\n\nMLB reportedly contacted the White House about staging a game inside Grand Teton National Park. The park was established in 1929 specifically to protect one of the most striking landscapes in North America. Local residents opposed it. Conservation groups opposed it. The proposal is, at its core, an argument that the right TV backdrop is worth negotiating a few exceptions to the entire concept of protected wilderness. The center fielder tracking a fly ball with a 13,000-foot peak behind him would look incredible. It would also be, in the most literal sense, using the mountain as a prop.\n\n**Say It Out Loud**\n\n> MLB couldn't fill the stadium, so they're trying the entire Rocky Mountains.\n\n---\n\n## 3. New York City Now Requires 'Click to Cancel' — The Same Ease You Never Got to Sign Up\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html)*\n\nNew York City's 'click to cancel' rule has taken effect, requiring subscription services to make cancellation as easy as the original sign-up process. The city joins a growing number of states and jurisdictions adopting similar consumer protection laws. A federal standard remains in legal limbo, leaving a patchwork of local rules across the country.\n\n**Why It's Funny**\n\nNew York City's 'click to cancel' rule is now in effect, requiring subscription services to make cancellation as easy as signing up. The interesting part isn't the rule. It's that the rule was necessary. Companies had years to make a cancel button that worked. They spent those years making it not work — phone trees, retention surveys, a final chat with someone named Mike whose entire job was to change your mind. All of that was legal. Today it isn't. The law didn't change what companies wanted to do. It just changed what they're allowed to get away with.\n\n**Say It Out Loud**\n\n> Companies spent years perfecting the dark pattern. New York spent one law undoing it. The companies are not happy.\n\n---\n\n## 4. GM's EV Sales Are Down While Toyota Rides Hybrids to Growth — Detroit's Bet Is Not Paying Off\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html)*\n\nGeneral Motors reported a 5.5% drop in third-quarter sales, with electric vehicle sales declining across all models as consumer enthusiasm for EVs cools. Meanwhile, Toyota posted gains, buoyed by strong demand for both its electric and hybrid vehicles. The contrast highlights the diverging fortunes of automakers that went all-in on pure EVs versus those that maintained a hybrid strategy.\n\n**Why It's Funny**\n\nGM reported a 5.5% drop in third-quarter sales, with its EV lineup down across every model. Toyota, meanwhile, posted gains on the strength of hybrid demand — the same hybrid strategy that American automakers spent years dismissing as a half-measure for companies too timid to commit. The argument was: hybrids are a bridge technology, and the bridge leads nowhere. Toyota kept building the bridge. Turns out the bridge has a lot of people on it, and some of them are buying cars.\n\n**Say It Out Loud**\n\n> GM went all-in on electric. Toyota hedged with hybrids. One of them is having a good quarter, and it's not the one that had the Super Bowl ad.\n\n---\n\n## 5. United Airlines Offers Delta and American's Best Customers a Better Deal — Please, Just Look at Us\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html)*\n\nUnited Airlines launched an aggressive status match program targeting the top-tier frequent flyers of Delta Air Lines and American Airlines. The move is a direct attempt to poach loyal customers from rival carriers by offering them equivalent or better elite status without the usual requirements. The airline industry's loyalty program arms race is escalating.\n\n**Why It's Funny**\n\nUnited Airlines has launched a status match program targeting the top-tier members of Delta and American — meaning if you've spent years and tens of thousands of miles earning elite status with a competitor, United will now hand you the equivalent, immediately, for switching over. The loyalty program was originally designed to reward loyalty. United has repurposed it to reward disloyalty to someone else. Delta built that customer over years. United is offering to undo it with a form. The word 'loyalty' is doing a lot of heavy lifting in a sentence where it no longer applies.\n\n**Say It Out Loud**\n\n> United's message to Delta's best customers: 'Everything you earned over there? We'll honor it. Starting now. No questions. Please.'\n\n---\n\n## Today's Punchline\n\n> Loyalty programs with no loyalty. National parks open to proposals. A cancel button that required a law. Today's theme: the label stopped matching the contents a while ago, and we're all just now reading the fine print.\n",
-    "fullJa": "# 就任から1時間で首になった連邦検察官が、裁判所に呼び戻された話\n\n## 今日を占うよ〜\n\nロジャー・ロゴフ氏が連邦検察官に就任しました。宣誓しました。1時間以内に解雇されました。裁判所が「それは違法」と差し止めました。\n\nこれ、全部同じ日の午前中の話です。\n\nで、今日はあと4本あって——MLBが国立公園に野球場を持ち込もうとして全員に止められた話、ニューヨーク市が解約ボタンを法律で義務づけた話、GMのEVが沈んでトヨタのハイブリッドが浮いた話、そしてユナイテッドが他社の常連客を「あなたのステータス、うちでそのまま使えます」で引き抜こうとしている話。\n\n全部に共通しているのは、制度の名前と中身がもうズレている、ということ。ロイヤルティプログラムに忠誠心はなく、解約ボタンは強制しないと機能しない。\n\n今日の占いはこれです。「ちゃんとやってるのになんで？」と思っていることがあったとしたら、それはあなたのせいじゃないかもしれない。ルールを守っていた検察官が今日、裁判所に呼び戻されました。\n\n少なくとも今日は、あなたの方が正しかった\n\n---\n\n## 1. Judge Blocks Trump's Firing of Seattle Prosecutor Who Lasted Less Than an Hour on the Job\n\n*CBS News US（[記事](https://www.cbsnews.com/news/judge-blocks-trump-firing-top-federal-prosecutor-seattle-roger-rogoff/)）*\n\nトランプ大統領がシアトルの連邦検察官ロジャー・ロゴフ氏を就任からわずか1時間以内に解雇したと司法長官が発表したが、連邦判事がその解雇を差し止めた。\n\n**どこが笑える？**\n\nロジャー・ロゴフ氏がシアトルの連邦検察官に就任した。宣誓した。1時間以内に解雇の連絡が来た。\n\n研修期間どころか、名刺を配る時間もなかったと思う。その後、連邦判事が「その解雇は違法」と差し止めた。つまりロゴフ氏は現在、「解雇されている」かつ「解雇されていない」という状態で同じポストに存在している。政府の採用プロセスはここまで来た。\n\nまあ、速いのは認める。\n\n**このニュースをジョークにするなら...**\n\n> 宣誓して、解雇されて、裁判所に差し止められて——連邦職員のほとんどがIDバッジの申請を終える前の話なんですよ。\n\n---\n\n## 2. MLB Eyes Grand Teton for a Game, Nature Responds With Unanimous Opposition\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/01/mlb-game-grand-teton-national-park)）*\n\nMLBがワイオミング州のグランドティトン国立公園内で野球の試合を開催する提案を検討しており、地元住民や環境保護団体から強い反発を受けている。\n\n**どこが笑える？**\n\nMLBがグランドティトン国立公園の中で野球の試合を開催する提案を検討しているらしい。グランドティトンは1929年に「この景観を永続的に保護する」という明確な目的で作られた場所です。\n\n地元住民が反対した。環境保護団体が反対した。で、この提案を押し進めようとしている側の論理を想像すると、「センターフィールドの背後に山脈が映えるから」以上の説明が思い当たらない。背景として使う、ということ。公園を。\n\n**このニュースをジョークにするなら...**\n\n> スタジアムが埋まらないから、次はロッキー山脈で試合をやろうとしてるわけですよ。\n\n---\n\n## 3. New York City Now Requires 'Click to Cancel' — The Same Ease You Never Got to Sign Up\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/01/new-york-city-click-to-cancel-subscription-rule-in-effect.html)）*\n\nニューヨーク市でサブスクリプションサービスの解約を申込みと同等の手順で完了できることを義務づける「クリック・トゥ・キャンセル」規則が施行された。\n\n**どこが笑える？**\n\nニューヨーク市で「クリック・トゥ・キャンセル」規則が施行された。サブスクの解約を、申し込みと同じ手順で完了できることを義務づけるルールです。\n\n「登録は1クリック、解約は電話・アンケート・最後の引き留めトーク」という構造が、今日から違法になった。違法に、なった。今まで合法だったこと自体が一番の告白で、企業がその気になれば最初からできたことを、法律が来るまでやらなかったという話です。ボタンは元からあった。機能させたくなかっただけで。\n\n**このニュースをジョークにするなら...**\n\n> 企業は何年もかけてダークパターンを完成させた。ニューヨークは法律一本でそれをひっくり返した。企業側はご立腹。\n\n---\n\n## 4. GM's EV Sales Are Down While Toyota Rides Hybrids to Growth — Detroit's Bet Is Not Paying Off\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/01/us-auto-sales-q3.html)）*\n\nGMの第3四半期販売台数は全体で5.5%減少し、同社の電気自動車販売も全面的に落ち込んだ一方、トヨタはEVとハイブリッド車の好調に支えられ増収となった。\n\n**どこが笑える？**\n\nGMの第3四半期は全体5.5%減、EVは全モデルで落ち込んだ。一方トヨタはEVとハイブリッドの好調で増収。\n\nアメリカの自動車業界がトヨタのハイブリッド戦略を「過渡期の逃げ」と呼んでいたのは、そんなに昔の話じゃない。「橋は渡りきらないと意味がない」という論法だった。トヨタはその橋を作り続けた。今、その橋がいちばん混んでいる。\n\n**このニュースをジョークにするなら...**\n\n> GMはEVに全振り。トヨタはハイブリッドで保険をかけた。どちらが今期好調かというと、スーパーボウル広告を出した方じゃないんですよ。\n\n---\n\n## 5. United Airlines Offers Delta and American's Best Customers a Better Deal — Please, Just Look at Us\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/01/united-airlines-status-match-delta-american.html)）*\n\nユナイテッド航空がデルタ航空とアメリカン航空の上位会員向けに積極的なステータスマッチプログラムを開始し、ライバル社のエリート会員の獲得を狙っている。\n\n**どこが笑える？**\n\nユナイテッド航空がデルタとアメリカン航空の上位会員に向けて、「あなたのエリートステータス、うちでそのまま使えます」と呼びかけ始めた。\n\nロイヤルティプログラムの本来の目的は、長年の顧客への恩返し。それが今、他社の顧客を即座に引き抜くツールになっている。デルタが何年もかけて育てた会員を、フォーム1枚で回収しようとしている。\n\n「ロイヤルティ」、もう誰も信じてないんだよな、たぶん。\n\n**このニュースをジョークにするなら...**\n\n> ユナイテッドのデルタ上位会員へのメッセージ：「向こうで積み上げたもの全部、こっちで認めます。今すぐ。なんでもするので。」\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 採用も、解約も、ロイヤルティも、全部「名前だけ」だった。そういう日でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d5のcaptions[3]に汎用ジョーク「Bold strategy.」が混入していたため構築されたジョークに書き直し。introJaの5本予告部分が箇条書き的な「説明の羅列」になっており占い（前向き締め）も説教調だったため書き直し。xJa[1]が135字超えだったため圧縮。他は合格。 ／ 文体パス: 3箇所修正。introJaの締め「正しかったのはあなたの方です。今日の5本、どうぞ。」がプレゼン着地になっていたので崩した。riffJa[0]の「スピードだけは世界トップクラスです。」がまとめすぎ、riffJa[4]の「『ロイヤルティ』という言葉が、もうその文章の中で機能していない。」が講評口調なので本音がこぼれた形に直した。"
+    "fullEn": "# Everything Is Fine (Paperwork Confirms)\n\n## Today's Forecast\n\nFive stories today. One theme.\n\nLarry Nassar got removed from Michigan's sex offender registry — on paper. Boeing found another software glitch in the 737 Max — not a safety issue, apparently. Lyft paid $272 million to settle a case about misclassifying drivers — who are still, technically, not employees. Amazon spent a billion dollars to fix its PR problem — and generated a new one within the week. And forty percent of hospitals couldn't spot a fake sick person in full theatrical makeup.\n\nEvery institution today showed up with stamped paperwork and called it done.\n\nHere's your forecast: if you've been doing the actual work while someone else files the reports, today is your day. The gap between the form and the reality? That's where you live. That's not a bug. That's the job.\n\n---\n\n## 1. Larry Nassar Quietly Removed from Michigan Sex Offender Registry Along with 20,000 Others\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed)*\n\nFollowing a Michigan Supreme Court ruling on sex offender registration law, Larry Nassar — the former USA Gymnastics and Michigan State University physician convicted of sexually abusing hundreds of athletes over decades — was among approximately 20,000 individuals removed from the state's sex offender registry. The ruling found issues with how the state's registration law was applied retroactively. Nassar remains incarcerated on federal and state sentences totaling more than 100 years.\n\n**Why It's Funny**\n\nLarry Nassar is in prison for over a hundred years. He has nowhere to go. And yet Michigan's sex offender registry removed him this week, along with about 20,000 others, because of a retroactivity problem in the law. The registry — designed specifically to track people like him — processed his removal cleanly and moved on. He's still in prison. His paperwork is tidier than ever. The institution built to remember chose, on procedural grounds, to forget.\n\n**Say It Out Loud**\n\n> Michigan removed him from the registry this week. He still has over a hundred years left in prison. The institution designed to remember chose, on procedural grounds, to forget.\n\n---\n\n## 2. Lyft Settles Driver Misclassification Suit for $272.5M — Critics Say Workers Are Still Owed More\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/)*\n\nLyft has agreed to a $272.5 million settlement in a landmark lawsuit over driver misclassification, resolving claims that the company improperly classified its drivers as independent contractors rather than employees, denying them benefits and labor protections. Critics and worker advocates say the amount falls far short of what drivers are actually owed in back pay, benefits, and expenses. The settlement follows years of legal battles over gig worker classification in the U.S.\n\n**Why It's Funny**\n\nLyft called its drivers independent contractors for years. That meant no benefits, no labor protections, no employer contributions. Then a lawsuit happened, and Lyft agreed to pay $272.5 million to make the conversation stop. Worker advocates said immediately that the number wasn't enough. So here's where we are: it's not an admission of misclassification, it's not enough money to cover what misclassification actually cost, and the drivers who built the platform are expected to get a few hundred dollars each. The only thing everyone agrees on is the dollar figure. Nobody agrees on what it means.\n\n**Say It Out Loud**\n\n> Lyft: 'You're not an employee.' Also Lyft: 'Here's $272 million, please stop talking about it.'\n\n---\n\n## 3. FAA Says Boeing 737 Max Software Glitch Is Not a Safety Issue — The Glitch Affects Landing\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html)*\n\nThe Federal Aviation Administration said it is reviewing a software glitch found in Boeing's 737 Max aircraft, stating the issue could affect procedures during certain landings. The FAA described the glitch as not a flight-safety issue. Boeing has faced years of intense scrutiny following two fatal crashes of the 737 Max in 2018 and 2019 that killed 346 people, after which the aircraft was grounded worldwide for nearly two years.\n\n**Why It's Funny**\n\nBoeing's 737 Max has a new software problem. It involves landing — specifically, certain procedures during landing. The FAA reviewed this and determined it is not a flight-safety issue. I want to be fair: I'm not an aviation engineer. But I'm also not sure when landing became a separate category from flying. The plane that was grounded for twenty-two months after killing 346 people now has a software issue affecting how it lands, and the official position is that this is fine. I read the sentence a few times. It kept saying the same thing.\n\n**Say It Out Loud**\n\n> The software glitch affects landing. The FAA says it's not a safety issue. I feel like those two things used to be in the same category.\n\n---\n\n## 4. Amazon's $1 Billion Plan to Fix Data Center Backlash Is Generating More Backlash\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/)*\n\nAmazon announced a $1 billion initiative aimed at addressing community opposition to its data center expansion, including ending non-disclosure agreements with local governments. While some praised the company for increased transparency, critics quickly slammed Amazon for downplaying the environmental impact of data center pollution, including energy consumption, water usage, and local air quality concerns. The backlash-to-the-backlash-plan arrived within days of the announcement.\n\n**Why It's Funny**\n\nAmazon announced a $1 billion plan to address community opposition to its data centers. The plan included ending nondisclosure agreements with local governments. Critics praised that part — ending the NDAs — and then pointed out that the plan still downplayed the actual environmental impact: the energy, the water, the air quality. New criticism arrived within days. What's interesting is that the one thing everyone called a win was the part where Amazon stopped hiding information. Which is a quiet confirmation that hiding information had been the strategy. A billion dollars to get credit for stopping something you were doing.\n\n**Say It Out Loud**\n\n> Amazon spent $1 billion to stop the backlash. New backlash dropped within the week. Refund policy unclear.\n\n---\n\n## 5. Patient-Zero Pandemic Drill Hits 73 Health Facilities — 40% Couldn't Handle a Fake Sick Person\n\n*Ars Technica — [source](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/)*\n\nHealth officials conducted a drill in which actors wearing makeup and displaying fake symptoms of a contagious illness visited 73 healthcare facilities to test pandemic preparedness protocols. Approximately 40 percent of the facilities failed to properly identify and respond to the simulated patient-zero scenario. The exercise was designed to evaluate how quickly and accurately frontline health workers can detect and contain a potential outbreak at the point of entry.\n\n**Why It's Funny**\n\nHealth officials sent actors — in makeup, displaying fake symptoms — into 73 healthcare facilities to test pandemic readiness. The actors were visibly sick. On purpose. As a test. And about 40 percent of facilities didn't properly identify or respond to them. This is the kind of number that contains two different problems: what happens if the next outbreak picks a Tuesday when nobody's looking, and what happens when the drill report gets filed, marked 'completed,' and the facilities move on.\n\n**Say It Out Loud**\n\n> They sent actors in full sick-person makeup to test pandemic readiness. Four in ten facilities: 'Nope, didn't notice.'\n\n---\n\n## Today's Punchline\n\n> Today, five institutions checked every box. Not one of them solved the problem the box was designed for.\n",
+    "fullJa": "# 「書類上は問題ありません」で全部乗り切ろうとしている国の話\n\n## 今日を占うよ〜\n\n今日のニュース5本、読んで最初に出た言葉が「それでいいの?」でした。\n\nナサルが性犯罪者登録リストから消えた——手続き上の理由で。ボーイング737 Maxにまた不具合——「安全上の問題ではない」そうで。Lyftが2億7250万ドルで和解——ドライバーの取り分は数百ドル程度の見込みで。Amazonが10億ドルかけて反発を抑えようとしたら——1週間で新しい反発が来て。73の医療施設でパンデミック訓練をしたら——40%が失敗した。\n\n5本全部、「対応しました」という形は整ってるんです。書類は完璧。中身が、追いついてない。\n\nで、今日の占いです。「ちゃんとやってるのに評価されない」と感じてる日、今日のニュースを思い出して。評価されてるのが「書類」で、実際に動いてるのが「あなた」なら——今日、少なくとも正しい側にいます。\n\n5本、どうぞ。\n\n---\n\n## 1. Larry Nassar Quietly Removed from Michigan Sex Offender Registry Along with 20,000 Others\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed)）*\n\nミシガン州最高裁の判決を受け、性的虐待で有罪判決を受けた元体操医ラリー・ナサルを含む約2万人が州の性犯罪者登録リストから削除された。\n\n**どこが笑える？**\n\nラリー・ナサルは今も服役中です。刑期は100年以上。どこにも行けない。それでも今週、ミシガン州の性犯罪者登録リストから名前が消えました。法律の遡及適用に問題があった、という理由で。「こういう人を追跡するために作られた制度」が、手続き上の瑕疵を理由に「こういう人」の名前を消した。彼は刑務所にいる。書類だけが、きれいになった。\n\n**このニュースをジョークにするなら...**\n\n> ミシガン州は今週、登録リストから彼の名前を消した。刑期は100年以上残っている。「こういう人を記録するため」に作られた制度が、手続き上の理由で、記録をやめた。\n\n---\n\n## 2. Lyft Settles Driver Misclassification Suit for $272.5M — Critics Say Workers Are Still Owed More\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/)）*\n\nLyftはドライバーの雇用形態誤分類をめぐる訴訟で2億7250万ドルの和解に合意したが、批評家はドライバーへの支払いはまだ不十分だと主張している。\n\n**どこが笑える？**\n\nLyftは長年ずっと「ドライバーは個人事業主です」と言い続けました。だから福利厚生もなく、労働保護もなかった。で、訴訟になって、2億7250万ドルで和解することにしました。批評家は「まだ足りない」と言っています。つまり2億7千万ドルが「少ない」側の数字として議論されている。ドライバー一人あたりの取り分は数百ドルの見込みで、和解文書に「誤分類」という言葉は出てこない予定らしい。\n\nそれで終わり、ということにした。両者合意の上で。\n\n**このニュースをジョークにするなら...**\n\n> Lyft曰く「あなたは従業員じゃない」。同じLyft曰く「2億7千万ドル払うから黙ってて」。\n\n---\n\n## 3. FAA Says Boeing 737 Max Software Glitch Is Not a Safety Issue — The Glitch Affects Landing\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html)）*\n\n米連邦航空局（FAA）は、ボーイング737 Maxで発見されたソフトウェアの不具合について、特定の着陸手順に影響する可能性があるものの、飛行安全上の問題はないとの見解を示した。\n\n**どこが笑える？**\n\nボーイング737 Maxに、また新しいソフトウェアの不具合が見つかりました。着陸の特定の手順に影響する可能性がある、とのことです。FAAは「飛行安全上の問題ではない」と言っています。\n\n346人が亡くなって、22ヶ月間運航停止になった機体の話です。その機体の着陸に関わるソフトウェアに問題が出た。でも「安全ではない」とは言えない何かがあって、今日もその機体は飛んでいます。「安全」という言葉の意味を、私はもう少し狭く使っていたと思う。\n\n**このニュースをジョークにするなら...**\n\n> 着陸手順に影響するソフトウェアの不具合。でもFAAによると「飛行安全上の問題ではない」。この二つ、昔は同じカテゴリーだったと思うんですが。\n\n---\n\n## 4. Amazon's $1 Billion Plan to Fix Data Center Backlash Is Generating More Backlash\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/)）*\n\nAmazonはデータセンター建設への反発を受けて10億ドルの対策プランを発表したが、NDA廃止は評価される一方、環境汚染問題の矮小化に対する批判が新たに噴出している。\n\n**どこが笑える？**\n\nAmazonがデータセンターへの反発を受けて、10億ドルの対策プランを発表しました。地方政府とのNDA（秘密保持契約）を廃止することも含まれていて、その部分だけは評価されました。「情報を隠すのをやめます」が唯一の褒めポイント。\n\nで、数日以内に新しい批判が出てきた。環境への影響——電力、水、大気汚染——を過小評価しているという指摘です。10億ドルかけて批判を鎮めようとしたら、批判が更新された。広報史に残る「対策への反発」の教科書になりそう。\n\n**このニュースをジョークにするなら...**\n\n> Amazonは反発を止めるために10億ドル使った。1週間以内に新しい反発が来た。返金ポリシーは不明。\n\n---\n\n## 5. Patient-Zero Pandemic Drill Hits 73 Health Facilities — 40% Couldn't Handle a Fake Sick Person\n\n*Ars Technica（[記事](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/)）*\n\n俳優を「患者ゼロ」に扮装させて73の医療施設に訪問させるパンデミック対応訓練が実施され、約40%の施設が対応に失敗したことが明らかになった。\n\n**どこが笑える？**\n\n俳優が感染症患者のメイクをして症状を演じながら、73の医療施設に「患者ゼロ」として訪問する訓練が実施されました。で、約40%の施設が適切に対応できなかった。\n\nメイクして、症状を演じて、それでも見抜けなかった。これが訓練の話です。本番ではない。ただ、訓練の結果が報告書にまとめられて、「完了」と処理されて、次の訓練まで棚に上がるとしたら——その「40%」という数字は、どこに行くんだろうと思う。\n\n**このニュースをジョークにするなら...**\n\n> 「病人のメイクをした俳優」を送り込んでパンデミック対応を試した。73か所中40%近くの返答: 「あ、気づかなかった」。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 書類は整ってた。5本全部。それだけ確かです。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d1にsensitive漏れ（性的虐待・多数被害者案件）。d1のcaptions[0]が元データにない「death warrant」引用を事実として使っており削除必須。introJaの占い要素が弱く、5本の予告・前向き締めが揃っていない。xJa[4]が135字超過。riffJa[2]の文末「飛んでいます」→「思う」が続くなど文末散らし不足。d3のimagePrompts[1]で人物描写が残存（方向修正）。それ以外のジョーク・日本語呼吸は概ね合格。 ／ 文体パス: 3箇所修正。代表例: riffJa[1]の締め「全員がこの二つの事実に同意した上で、話を終わりにした」→プレゼン口調を崩した。introJaの「5本、どうぞ」前の占い文も整いすぎていたので解体。"
   },
   "carousel": [
-    "images/2026-10-02/carousel/slide-1.jpg",
-    "images/2026-10-02/carousel/slide-2.jpg",
-    "images/2026-10-02/carousel/slide-3.jpg",
-    "images/2026-10-02/carousel/slide-4.jpg",
-    "images/2026-10-02/carousel/slide-5.jpg",
-    "images/2026-10-02/carousel/slide-6.jpg",
-    "images/2026-10-02/carousel/slide-7.jpg"
+    "images/2026-10-03/carousel/slide-1.jpg",
+    "images/2026-10-03/carousel/slide-2.jpg",
+    "images/2026-10-03/carousel/slide-3.jpg",
+    "images/2026-10-03/carousel/slide-4.jpg",
+    "images/2026-10-03/carousel/slide-5.jpg",
+    "images/2026-10-03/carousel/slide-6.jpg",
+    "images/2026-10-03/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-10-02/note-header.jpg",
-    "substack": "images/2026-10-02/substack-cover.jpg"
+    "note": "images/2026-10-03/note-header.jpg",
+    "substack": "images/2026-10-03/substack-cover.jpg"
   }
 };
