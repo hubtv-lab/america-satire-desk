@@ -1,366 +1,363 @@
 {
   "version": 1,
-  "date": "2026-10-03",
-  "generatedAt": "2026-10-02T23:03:31+00:00",
+  "date": "2026-10-04",
+  "generatedAt": "2026-10-03T22:12:42+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
-      "sensitive": true,
+      "sensitive": false,
       "news": {
-        "headline": "Larry Nassar Quietly Removed from Michigan Sex Offender Registry Along with 20,000 Others",
+        "headline": "TSA Bans Sitting Down for Airport ID Checkers, Because Standing Makes You More Alert (Apparently)",
         "source": "The Guardian US",
-        "date": "2026-10-03",
-        "url": "https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed",
-        "summary": "ミシガン州最高裁の判決を受け、性的虐待で有罪判決を受けた元体操医ラリー・ナサルを含む約2万人が州の性犯罪者登録リストから削除された。"
+        "date": "2026-10-04",
+        "url": "https://www.theguardian.com/us-news/2026/oct/03/tsa-rule-change",
+        "summary": "米運輸保安局（TSA）が、空港の保安検査場でIDや搭乗券を確認する係員に対し、業務中の着席を禁止すると発表した。TSAは「警戒心の維持」を理由に挙げているが、職員組合は安全性と「基本的な礼節」を無視した措置だと批判している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 被害者を100年以上かけて守るための登録制度が、手続き上の瑕疵を理由に最大級の加害者を名簿から消した。制度が自分の存在意義を自分で否定した格好。",
-        "<b>滑稽さ:</b> ナサルはどこにも行けない——100年以上の刑期が残っているから。それでも「登録抹消」という書類上の「前進」は着々と処理された。",
-        "<b>日本・海外から見ると:</b> 被害者が法廷で証言し、制度改革を求めてロビー活動を続けてきた結果がこれ。「司法の手続き的整合性」が「被害者保護」より優先される構図は、アメリカ固有の問題ではないが、今回の規模と象徴性は際立っている。"
+        "<b>矛盾:</b> 「立ってれば頭が働く」という理屈、お医者さんに聞いたんですかね。長時間立ちっぱなしの人間がより注意力を発揮するというエビデンス、見てみたいんですよ。",
+        "<b>滑稽さ:</b> 偽造IDを見破るために必要なのが「椅子を取り上げること」だったとは。何年もそれを見逃してたのは、座ってたせいだったんですか。",
+        "<b>日本・海外から見ると:</b> 日本の役所で「立ち続けなさい、そのほうが仕事がはかどる」なんて通達が出たら即ニュースになりますよね。アメリカでは「警戒心」という言葉が万能の魔法として使われるのが、端から見るとなかなか。"
       ],
       "imagePrompts": [
-        "A large government filing cabinet labeled 'Sex Offender Registry' with a clerk's gloved hand pulling out a thick folder. A rubber stamp reading 'REMOVED' hovers above a stack of 20,000 identical files. No faces visible.",
-        "A Michigan state courthouse exterior, stone facade, with a small placard near the entrance reading 'Procedural Update Complete' pinned to an official bulletin board. No people visible.",
-        "A close-up of a government form with 20,000 names in tiny print, one name circled near the top, and a red 'DELISTED' stamp across the entire page, surrounded by legal code citations."
+        "A TSA checkpoint where the ID-checking podium has an empty chair behind it, a chain and padlock wrapped around it, and a handwritten 'OUT OF SERVICE' sign taped to the seat. A government memo is pinned to the podium.",
+        "A conference room inside TSA headquarters: a whiteboard reads 'ALERT LEVELS' with a diagram showing a seated figure labeled 'DANGER' and a standing figure labeled 'VIGILANCE.' Empty coffee cups everywhere.",
+        "A long airport security hallway, ID-checking officers standing rigidly at their podiums, legs visibly tired, while a massive framed poster behind them reads 'STAYING ALERT KEEPS AMERICA SAFE.'"
       ],
       "captions": [
-        "Michigan removed him from the registry this week. He still has over a hundred years left in prison. The institution designed to remember chose, on procedural grounds, to forget.",
-        "Twenty thousand people off the list in one ruling — efficiency the DMV will never achieve.",
-        "He's got 100-plus years left in prison, but his paperwork is clean. America: where the bureaucracy moves faster than justice.",
-        "Survivors spent years reforming institutions. The institution's response was a bulk delete.",
-        "The registry exists to warn the public. The public now has to check if the registry itself is still working."
+        "TSA found the secret to airport security: it was chairs. Chairs were the problem the whole time.",
+        "The union called it a violation of 'common decency.' The TSA called it 'alertness.' Somewhere between those two is a very tired person checking your Delta boarding pass.",
+        "Eight hours on your feet, staring at boarding passes — because the lower back is where false IDs hide.",
+        "They've spent years failing to catch fake IDs, but finally: a culprit. It was the chair.",
+        "Other agencies got body cameras. These guys lost a chair."
       ],
       "captionsJa": [
-        "ミシガン州は今週、登録リストから彼の名前を消した。刑期は100年以上残っている。「こういう人を記録するため」に作られた制度が、手続き上の理由で、記録をやめた。",
-        "一度の判決で2万人を一括削除——DMVが絶対に実現できない効率性。",
-        "刑務所には100年以上いる。でも書類の上ではクリーンになった。手続きが正義より速い国、アメリカ。",
-        "被害者たちは何年もかけて制度を変えようとした。制度側の返答は「一括削除」だった。",
-        "登録制度は市民に警告するために存在する。今や市民は、その登録制度が機能しているかどうかも確認しなきゃならない。"
+        "空港セキュリティの盲点、ついに発見。椅子でした。ずっと椅子のせいだったんです。",
+        "組合は「基本的な礼節の侵害」と言い、TSAは「警戒心の向上」と言う。その間で、あなたの搭乗券を確認してるのは腰が限界の人間ですよ。",
+        "8時間立ちっぱなし。偽造IDは腰痛の向こうに隠れているから。",
+        "何年も偽造IDを見逃してきた。でも犯人はわかった。椅子です。",
+        "他の機関はボディカメラを導入した。この人たちは椅子を没収された。"
       ],
-      "newsEn": "Following a Michigan Supreme Court ruling on sex offender registration law, Larry Nassar — the former USA Gymnastics and Michigan State University physician convicted of sexually abusing hundreds of athletes over decades — was among approximately 20,000 individuals removed from the state's sex offender registry. The ruling found issues with how the state's registration law was applied retroactively. Nassar remains incarcerated on federal and state sentences totaling more than 100 years.",
+      "newsEn": "The Transportation Security Administration has announced a new rule banning airport ID-checking officers from sitting while verifying passengers' boarding passes and IDs at security checkpoints. The TSA says the change is designed to keep officers more alert on the job. The union representing these workers pushed back, saying the rule ignores both physical safety concerns and basic human dignity.",
       "ironyEn": [
         {
-          "contradiction": "Michigan's sex offender registry — designed to protect the public — just quietly erased its most high-profile name due to a procedural technicality.",
-          "absurdity": "Nassar isn't going anywhere. He has over 100 years left on his sentences. But the paperwork says he's off the list, and paperwork is apparently the whole point.",
-          "outside": "Survivors testified in open court, pushed for systemic reform, and won convictions. The system's response: a clerical update that removed 20,000 names at once, including his."
+          "contradiction": "The TSA's whole job is to catch threats — and apparently the biggest threat they identified was a chair.",
+          "absurdity": "Years of missed fake IDs, smuggled liquids, and the occasional forgotten firearm, and the fix was: stand up.",
+          "outside": "Most countries issue standing desks as ergonomic improvements. America issues them as punishment disguised as policy."
         },
         {
-          "contradiction": "The state created a registry to hold serial abusers accountable long-term, then the courts ruled the long-term part was unconstitutional.",
-          "absurdity": "Twenty thousand people were delisted in one ruling — which means Nassar's removal wasn't even a decision. It was a side effect.",
-          "outside": "For survivors who spent years demanding institutional accountability, watching a supreme court ruling silently undo a cornerstone of that accountability is a particular kind of institutional failure."
+          "contradiction": "They want officers more alert, but there's actual research showing prolonged standing increases fatigue and reduces cognitive performance.",
+          "absurdity": "The security theater just added a new act — now the performers have to do it on their feet.",
+          "outside": "Unionized workers in most of the developed world fight to get sit-stand desks. These workers are fighting just to get the 'sit' part back."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-10-03/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-10-03/candidate-1-punchy.jpg"
+      "image": "images/2026-10-04/candidate-1.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-04/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Lyft Settles Driver Misclassification Suit for $272.5M — Critics Say Workers Are Still Owed More",
-        "source": "Ars Technica",
-        "date": "2026-10-03",
-        "url": "https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/",
-        "summary": "Lyftはドライバーの雇用形態誤分類をめぐる訴訟で2億7250万ドルの和解に合意したが、批評家はドライバーへの支払いはまだ不十分だと主張している。"
+        "headline": "Tesla's Driverless Taxi Had a Rocky First Month in Austin — Now It Wants to Go Everywhere",
+        "source": "CNBC Top News",
+        "date": "2026-10-04",
+        "url": "https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html",
+        "summary": "テスラの自律走行ロボタクシー「サイバーキャブ」はオースティンで運行を開始してから約1ヶ月が経過したが、出だしは順調とは言い難い状況にある。それでも同社は今後の全国展開を視野に入れており、サイバーキャブの成功がテスラの自動車販売依存からの脱却を左右するとされている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「あなたは従業員ではなく自由な個人事業主です」と言い続けた会社が、$272.5Mを払って「でも訴訟は解決しましょう」とまとめた。誤分類でなければ、なぜ払う？",
-        "<b>滑稽さ:</b> 批評家によれば「それでも足りない」。つまり2億7千万ドルが『端数』扱いされてる和解額。ドライバーの取り分は一人あたり数百ドル程度と見られている。",
-        "<b>日本・海外から見ると:</b> 日本でもギグワーカーの労働者性が議論されているが、アメリカでは$272.5Mという天文学的な金額でケリをつけても「まだ足りない」と言われる。規模感が違いすぎて笑えない。"
+        "<b>矛盾:</b> 「自動運転で人間を超える」と言ってた会社が、最初の1ヶ月でつまずいた。でも次の街に行きます、というのは、ちょっと自動運転の比喩として出来すぎてる。",
+        "<b>滑稽さ:</b> テスラの未来はサイバーキャブにかかってる。そのサイバーキャブの最初の1ヶ月が「rocky（岩だらけ）」。走行記録かと思ったら会社の状況の話でした。",
+        "<b>日本・海外から見ると:</b> 日本では自動運転の実証実験に何年もかけて、それでも慎重に進める。「1ヶ月でうまくいかなかったけど次の都市へ」という速度感は、シリコンバレー以外の感覚では「え、もう？」以外の言葉が出てこない。"
       ],
       "imagePrompts": [
-        "A giant novelty check made out to 'Lyft Drivers' for $272,500,000 being handed over by a corporate executive in a suit, while hundreds of tiny driver figures reach up toward it from below, each receiving a small coin.",
-        "A courtroom with two massive scales: one side holds a stack of papers labeled 'Independent Contractor Agreements,' the other holds a single bag labeled '$272.5M Settlement.' Both sides are exactly level.",
-        "A rideshare app interface on a phone screen showing a fare breakdown: 'Base fare: $272,500,000 / Lyft cut: (redacted) / Your earnings: $347.00 / Tip not included.'"
+        "A sleek futuristic driverless taxi parked at a slightly odd angle on an Austin street, a traffic cone tipped over nearby, a small crowd of confused onlookers, and a 'COMING SOON TO YOUR CITY' banner zip-tied to a lamppost above it.",
+        "A Tesla boardroom presentation slide that reads 'Month 1: Rocky.' followed by a slide that reads 'Month 2: Everywhere.' with a map of the entire United States covered in blinking dots.",
+        "A Cybercab robotaxi at a stoplight, a GPS screen inside showing a spinning loading wheel, with a speech bubble from the empty driver seat reading 'Recalculating...'"
       ],
       "captions": [
-        "Lyft: 'You're not an employee.' Also Lyft: 'Here's $272 million, please stop talking about it.'",
-        "Quarter billion dollars, and the workers' advocates immediately said it wasn't enough. At some point 'landmark settlement' and 'insufficient' shouldn't fit in the same sentence.",
-        "Each driver is expected to get a few hundred bucks. The word 'misclassification' won't appear in the settlement docs. Everyone involved has agreed on these two facts.",
-        "They called it a 'landmark' settlement. Landmarks usually mean you've arrived somewhere. The drivers are still on the road.",
-        "Independent contractors, allegedly. Two hundred seventy-two million dollars, definitely."
+        "Month one: rocky. Month two: your city. Tesla skips the 'fix it' part.",
+        "The whole company's future rides on this taxi — and the taxi is still figuring out Austin.",
+        "No driver means no one to fire when it goes wrong. Honestly, that might be the real innovation.",
+        "They've been promising full self-driving since 2016. Austin's just the latest beta test that graduated early.",
+        "Rocky first month in one city. Solution? More cities. This is either genius or the plot of a disaster movie."
       ],
       "captionsJa": [
-        "Lyft曰く「あなたは従業員じゃない」。同じLyft曰く「2億7千万ドル払うから黙ってて」。",
-        "2億7千万ドルの和解額を聞いた労働者側の第一声が「足りない」。「ランドマーク和解」と「不十分」が同じ文に入る日が来るとは。",
-        "ドライバー一人あたり数百ドルの見込み。和解文書に「誤分類」という言葉は登場しない。関係者全員がこの二つの事実に合意している。",
-        "「ランドマーク（歴史的な）」和解と呼ばれてる。ランドマークって本来、どこかに「着いた」ことを示すもの。ドライバーたちはまだ道の上にいる。",
-        "「独立した個人事業主」という建前。2億7250万ドルという現実。"
+        "1ヶ月目は散々。2ヶ月目は全国展開。「修正する」という工程、どこ行ったんですか。",
+        "会社の未来を背負ったタクシーが、オースティンをまだ理解しきれてない。",
+        "ドライバーがいないから、何かあっても誰もクビにできない。これが本当のイノベーションかもしれない。",
+        "2016年から「もうすぐ完全自動運転」と言い続けてきた。オースティンはその最新ベータ版です。",
+        "1都市で1ヶ月うまくいかなかった。解決策は「もっと都市を増やす」。天才か、パニック映画か。"
       ],
-      "newsEn": "Lyft has agreed to a $272.5 million settlement in a landmark lawsuit over driver misclassification, resolving claims that the company improperly classified its drivers as independent contractors rather than employees, denying them benefits and labor protections. Critics and worker advocates say the amount falls far short of what drivers are actually owed in back pay, benefits, and expenses. The settlement follows years of legal battles over gig worker classification in the U.S.",
+      "newsEn": "Tesla's Cybercab robotaxi launched in Austin about a month ago as a cornerstone of Elon Musk's plan to move the company beyond traditional car sales. The first month has been described as rocky, with various operational challenges emerging. Despite the difficult start, Tesla is now planning to expand the service to additional cities, raising questions about whether the problems from month one are truly resolved.",
       "ironyEn": [
         {
-          "contradiction": "Lyft spent years insisting its drivers were independent contractors — autonomous, free, their own bosses. Then paid $272.5 million in a settlement that exists specifically because they were treated like employees without the employee part.",
-          "absurdity": "Critics say it's not enough, which means the lawyers just negotiated down from 'what workers actually deserve' to 'a number that sounds huge in a press release.'",
-          "outside": "Each affected driver is expected to receive a few hundred dollars. The attorneys' fees have not been announced yet."
+          "contradiction": "Tesla says the future of the company depends on Cybercab working — and the first month didn't work great — so naturally, the move is to expand.",
+          "absurdity": "Nothing fixes a rocky launch like taking it to a brand new city where there are even more things to go wrong.",
+          "outside": "Most companies debug before scaling. Tesla apparently debugs by scaling."
         },
         {
-          "contradiction": "The whole business model rests on not calling drivers employees. The settlement doesn't call it misclassification either. Everybody agrees not to use the word, and $272.5 million changes hands.",
-          "absurdity": "A quarter billion dollars is the cost of resolving a lawsuit that, officially, admitted nothing.",
-          "outside": "Gig worker classification fights are playing out across the world. The American version apparently ends with a nine-figure number and worker advocates immediately calling it inadequate."
+          "contradiction": "Musk has been promising full self-driving 'next year' for about a decade. Austin was supposed to be the proof. The proof needs more proof.",
+          "absurdity": "The Cybercab is driverless, which means when it gets lost, there's no one to blame. That's actually the most Silicon Valley thing ever designed.",
+          "outside": "Toyota spent years on safety certification before launching any autonomous pilot. Tesla spent a month and declared it time to expand. Different philosophies, same roads."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-10-03/candidate-2.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-10-03/candidate-2-punchy.jpg"
+      "image": "images/2026-10-04/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-04/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "FAA Says Boeing 737 Max Software Glitch Is Not a Safety Issue — The Glitch Affects Landing",
-        "source": "CNBC Top News",
-        "date": "2026-10-03",
-        "url": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
-        "summary": "米連邦航空局（FAA）は、ボーイング737 Maxで発見されたソフトウェアの不具合について、特定の着陸手順に影響する可能性があるものの、飛行安全上の問題はないとの見解を示した。"
+        "headline": "Trump Pushes Daylight Saving Time Bill by Sharing What Appears to Be a Senator's Personal Cell Number",
+        "source": "The Guardian US",
+        "date": "2026-10-04",
+        "url": "https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time",
+        "summary": "トランプ大統領は、サマータイムを恒久化する法案を支持するよう、アーカンソー州選出の共和党上院議員トム・コットンに圧力をかけ、コットン氏の個人的な電話番号とみられる番号をSNSで一般公開した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「着陸手順に影響する可能性がある」ソフトウェアの不具合を、「飛行安全上の問題ではない」と分類できる——この文章の両立を可能にしている定義体系が怖い。",
-        "<b>滑稽さ:</b> ボーイング737 Maxのソフトウェアに新たな不具合、というニュースで「でも安全です」と言われても、もはや「安全」の基準値がどこにあるのか分からなくなってきた。",
-        "<b>日本・海外から見ると:</b> 346人が亡くなった機体のメーカーが「新しいソフトウェア問題は安全に影響しない」と言い、規制当局がそれを確認する構図——信頼回復のプロセスとしては、最悪のタイミングで最悪のニュースが出続けている。"
+        "<b>矛盾:</b> 大統領が自党の上院議員に「国民、電話してやって」と頼む。政党内の説得ってそういうやり方でしたっけ。ホワイトハウスの直通電話、つながらなかったのかな。",
+        "<b>滑稽さ:</b> サマータイムを永久にするために、上院議員の個人番号っぽい番号を全国にばらまく。政策ロビー活動の歴史の中でも、かなり独自の手法だと思います。",
+        "<b>日本・海外から見ると:</b> 日本で首相が「この大臣の携帯に電話してください」とSNSに投稿したら、翌日には辞任会見ですよ。アメリカでは「戦略」として報道されるのが面白い。"
       ],
       "imagePrompts": [
-        "An FAA official at a press conference podium holding up two signs simultaneously: one reads 'AFFECTS LANDING PROCEDURES,' the other reads 'NOT A SAFETY ISSUE.' The official looks calm. Reporters in the audience look less calm.",
-        "A giant software code screen with one line highlighted in red, labeled 'GLITCH.' A Boeing engineer with a clipboard stands next to it, giving a thumbs up. Behind him, a 737 Max is visible through a hangar window.",
-        "A passenger airplane cockpit dashboard with dozens of green 'OK' lights and one small amber light labeled 'Landing Software: Under Review.' A Post-it note below it reads 'FAA says fine.'"
+        "A large social media post screenshot framed like a presidential proclamation, with a phone number prominently displayed, and tiny illustrated people holding phones flooding toward it like ants toward sugar.",
+        "A senator's desk overwhelmed with ringing phones stacked on top of each other, each one vibrating off the edge, as a clock on the wall reads both 2:00 and 3:00 simultaneously with question marks between them.",
+        "The White House briefing room podium with a giant poster that reads 'CALL TOM' and an oversized phone number, podium labeled with a small plaque: 'Official Policy Communication.'"
       ],
       "captions": [
-        "The software glitch affects landing. The FAA says it's not a safety issue. I feel like those two things used to be in the same category.",
-        "Boeing's 737 Max has a new software problem involving landing. 'But it's fine' — FAA, again.",
-        "At this point Boeing's software team and the FAA's 'not a safety issue' stamp are just pen pals.",
-        "They grounded this plane for 20 months. New glitch, new review, same sentence: don't worry about it.",
-        "Affects landing procedures. Not a safety concern. Pick one, FAA. You can't have both of those."
+        "Can't convince your own senator? Post his number to 80 million people. The whip system had a good run.",
+        "Daylight saving time: the issue so urgent it required doxxing a Republican.",
+        "Tom Cotton's phone is ringing. It's America. All of it.",
+        "This is either governing or a prank call campaign. Possibly both.",
+        "The president wants to save daylight — starting with whatever's left of Tom Cotton's afternoon."
       ],
       "captionsJa": [
-        "着陸手順に影響するソフトウェアの不具合。でもFAAによると「飛行安全上の問題ではない」。この二つ、昔は同じカテゴリーだったと思うんですが。",
-        "737 Maxにまた新しいソフトウェア問題。着陸に関係するやつ。「でも大丈夫」——FAAが、また言った。",
-        "もうボーイングのソフトウェアチームとFAAの「問題なし」スタンプは、文通してる仲みたいなもんですよ。",
-        "20ヶ月間も運航停止にした飛行機。新しい不具合、新しい調査、同じ一言: 心配しないで。",
-        "着陸手順に影響する。でも安全上の懸念ではない。FAA、どっちか選んで。両立は無理でしょ。"
+        "自党の上院議員を説得できない？ 8000万人に番号を投げればいい。党内の根回しって、そういうことでしたっけ。",
+        "サマータイム恒久化。そのために共和党議員をドックスする必要があった。",
+        "トム・コットンの電話が鳴ってる。アメリカから。全員から。",
+        "これは政治なのか、いたずら電話キャンペーンなのか。たぶん両方。",
+        "大統領は昼の時間を守りたい。まずトム・コットンの午後を犠牲にして。"
       ],
-      "newsEn": "The Federal Aviation Administration said it is reviewing a software glitch found in Boeing's 737 Max aircraft, stating the issue could affect procedures during certain landings. The FAA described the glitch as not a flight-safety issue. Boeing has faced years of intense scrutiny following two fatal crashes of the 737 Max in 2018 and 2019 that killed 346 people, after which the aircraft was grounded worldwide for nearly two years.",
+      "newsEn": "President Trump took to social media Saturday to pressure Republican Senator Tom Cotton of Arkansas into supporting legislation that would make daylight saving time permanent. In doing so, Trump appeared to share what may be Cotton's personal phone number, urging Americans to call him directly. The move came as part of Trump's push for a clock-change policy that has seen renewed interest in Congress.",
       "ironyEn": [
         {
-          "contradiction": "The FAA confirmed that a software glitch affecting landing procedures on the Boeing 737 Max is 'not a flight-safety issue.' Those two clauses are doing a lot of work in the same sentence.",
-          "absurdity": "This is the aircraft that was grounded for 20 months after software killed 346 people. 'New software glitch, but don't worry' is a sentence Boeing keeps having to write.",
-          "outside": "Airlines around the world are still rebuilding passenger trust in the Max. News like this is what you get when the trust-rebuilding campaign runs at the same speed as the bug-finding campaign."
+          "contradiction": "The president of the United States, unable to persuade a member of his own party through normal channels, outsourced the lobbying to the general public.",
+          "absurdity": "American democracy: where a senator's phone number goes viral because the guy with the nuclear codes needed backup.",
+          "outside": "Most governments have internal whipping mechanisms for this. The US now has a social media post and an apparently very busy phone line."
         },
         {
-          "contradiction": "A glitch that affects what happens when the plane lands is 'not a safety issue' — which raises the question of what category of event the FAA does consider relevant to safety.",
-          "absurdity": "Boeing has been under congressional investigation, DOJ scrutiny, and a Senate hearing where executives testified under oath. The answer to all of that, apparently, is another software review.",
-          "outside": "For passengers booking 737 Max flights, 'the FAA is reviewing it' has become a phrase that lands somewhere between reassurance and the opposite of reassurance."
+          "contradiction": "Trump wants to end the twice-yearly disruption of changing clocks — and chose to do it by creating a different kind of disruption: flooding a senator's phone.",
+          "absurdity": "Cotton's personal cell, potentially shared with every American who follows Trump online, as a policy tool. The senator's contact list just got a lot longer.",
+          "outside": "In parliamentary systems, party leaders use the whip. Trump uses the share button. Both are forms of pressure, but only one involves your phone ringing at 2 AM from strangers in Idaho."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-10-03/candidate-3.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-10-03/candidate-3-punchy.jpg"
+      "image": "images/2026-10-04/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-04/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Amazon's $1 Billion Plan to Fix Data Center Backlash Is Generating More Backlash",
-        "source": "Ars Technica",
+        "headline": "OpenAI Safety Employee Quits, Publishes Warning — As OpenAI Releases More AI",
+        "source": "The Verge",
         "date": "2026-10-03",
-        "url": "https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/",
-        "summary": "Amazonはデータセンター建設への反発を受けて10億ドルの対策プランを発表したが、NDA廃止は評価される一方、環境汚染問題の矮小化に対する批判が新たに噴出している。"
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm",
+        "summary": "OpenAIで主要モデルのリリースごとに安全性レポートを執筆していたデイビッド・ロビンソン氏が同社を退職し、AIの安全性への懸念を公開書簡で表明した。同氏は雑誌「ジ・アトランティック」への寄稿で警鐘を鳴らしており、OpenAIでは安全担当者の退職が相次いでいる。"
       },
       "commentary": [
-        "<b>矛盾:</b> データセンターへの反発を抑えるための計画が、新たな反発を生んでいる。「反発対策への反発」という入れ子構造に、Amazonが10億ドルを投じた。",
-        "<b>滑稽さ:</b> NDA廃止は評価された。つまり唯一褒められた部分は「もう隠さない」こと——これまで何を隠していたかを無言で認めてる。",
-        "<b>日本・海外から見ると:</b> AI開発競争の影で、データセンターが地域の電力・水・空気を消費している問題は日本でも他人事ではない。Amazonの「対策PR」が逆効果になった今回は、企業広報の教科書的な失敗例として残りそう。"
+        "<b>矛盾:</b> OpenAIの「安全レポート」を書いていた人が、安全ではないと感じて辞める。会社のブレーキを作ってた人がブレーキをかけて去っていく構図、わかりやすすぎて笑えない。",
+        "<b>滑稽さ:</b> 「AIは安全です」というレポートを書いてた人が「実は安全じゃないかも」と言いながら辞める。そのレポート、誰が書くんですか、これから。",
+        "<b>日本・海外から見ると:</b> 原子力発電所の安全基準を書いてた担当者が「やばいと思う」と言って辞めたら大ニュースですよ。テック業界だとなぜか「またか」で済んでしまうのが、海外から見ると不思議でしかない。"
       ],
       "imagePrompts": [
-        "A massive Amazon data center building surrounded by protesters holding signs. In front of the building, a giant banner reads '$1 BILLION COMMUNITY PLAN.' A second wave of protesters with new signs is arriving behind the first group.",
-        "A corporate boardroom with a whiteboard showing a flowchart: 'Backlash → $1B Plan → More Backlash → ???' An executive stands at the board, marker in hand, looking at the question marks.",
-        "A close-up of a thick binder labeled 'Amazon Data Center Community Response Initiative' sitting on a table, with multiple sticky notes added by critics poking out from the pages, each labeled with a different environmental concern."
+        "A large corporate office desk covered in stacked safety reports labeled 'MODEL X: SAFE,' 'MODEL Y: SAFE,' 'MODEL Z: SAFE,' with a resignation letter on top that reads simply 'I don't think so.' A cardboard box of personal items sits on the floor nearby.",
+        "A revolving door at OpenAI headquarters with a steady stream of people in 'SAFETY TEAM' lanyards walking out, each carrying a laptop and a manila envelope, as a banner above the entrance reads 'Safety First.'",
+        "A split image: on the left, a framed OpenAI safety certificate on a wall; on the right, the same certificate in a recycling bin next to a printed-out Atlantic op-ed."
       ],
       "captions": [
-        "Amazon spent $1 billion to stop the backlash. New backlash dropped within the week. Refund policy unclear.",
-        "They ended the NDAs, and everyone said 'good.' They downplayed the pollution, and everyone said 'about that.' One billion dollars later, we're exactly where we started, just louder.",
-        "The plan to fix the PR problem became the PR problem. Somewhere there's a consultant who will charge $50 million to explain how that happened.",
-        "Biggest win in the whole announcement: 'We'll stop hiding things from local governments.' That's the bar. A billion dollars, and the highlight is no more secrets.",
-        "Stage 1: Data centers cause backlash. Stage 2: Anti-backlash plan causes backlash. Stage 3: Amazon is now on Stage 3 and they haven't named it yet."
+        "The man who wrote 'this AI is safe' quit to write 'actually, about that.'",
+        "OpenAI's safety reports: authored by someone who no longer trusts OpenAI's safety. Details at 11.",
+        "He wrote the green lights. He left through the red one.",
+        "Another month, another OpenAI safety staffer with a magazine deal and a lot to say.",
+        "The company that put 'safe' in its founding documents keeps losing the people who were supposed to check."
       ],
       "captionsJa": [
-        "Amazonは反発を止めるために10億ドル使った。1週間以内に新しい反発が来た。返金ポリシーは不明。",
-        "NDA廃止は褒められた。汚染の矮小化は叩かれた。10億ドルかけて、スタート地点よりうるさくなっただけ。",
-        "PR問題を解決するためのプランがPR問題になった。これを説明するために5000万ドルを請求するコンサルがどこかにいるはず。",
-        "発表全体で一番評価されたのが「もう地方政府に隠し事しません」。10億ドルの一番のハイライトが「秘密なし」って、それ以前に何があったんですか。",
-        "第1段階: データセンターへの反発。第2段階: 反発対策プランへの反発。第3段階: Amazonはいま第3段階にいるが、まだ名前がついていない。"
+        "「このAIは安全です」と書いてた人が「やっぱりそうじゃないかも」と書いて辞めた。",
+        "OpenAIの安全レポート。書いた本人がOpenAIを信頼していない。詳細は続報で。",
+        "青信号を書いてた人が、赤信号で去っていった。",
+        "また今月もOpenAIの安全担当者が雑誌に寄稿しながら辞めた。",
+        "「安全」を社名に掲げた会社が、安全を確認する人を次々と失っている。"
       ],
-      "newsEn": "Amazon announced a $1 billion initiative aimed at addressing community opposition to its data center expansion, including ending non-disclosure agreements with local governments. While some praised the company for increased transparency, critics quickly slammed Amazon for downplaying the environmental impact of data center pollution, including energy consumption, water usage, and local air quality concerns. The backlash-to-the-backlash-plan arrived within days of the announcement.",
+      "newsEn": "David Robinson, an OpenAI safety employee responsible for writing safety reports accompanying every major model release, resigned this week and published an editorial in The Atlantic raising alarms about the company's direction. Robinson is among a series of safety-focused employees to leave OpenAI in recent months. The company continues to develop and release new AI models.",
       "ironyEn": [
         {
-          "contradiction": "Amazon launched a $1 billion plan to make people stop being angry about data centers. The plan made people angrier. The PR team is presumably reviewing its options.",
-          "absurdity": "The one part critics praised was ending NDAs with local governments — meaning the most popular element of the plan was 'we'll stop keeping secrets.' Which implies they were keeping secrets.",
-          "outside": "As AI infrastructure demand surges globally, data center pollution has become a live issue in communities from Virginia to Singapore. Amazon's billion-dollar response: a document that downplays it."
+          "contradiction": "The person whose job was to certify that OpenAI's models were safe enough to release has decided that OpenAI is not safe enough to stay at.",
+          "absurdity": "Every safety report he wrote was a green light. His resignation letter is the red one.",
+          "outside": "If the chief safety inspector at a nuclear plant quit and wrote an op-ed, we'd probably pause. We apparently don't apply that logic to AI."
         },
         {
-          "contradiction": "The company that runs the world's largest cloud infrastructure announced a transparency initiative. Transparency revealed more problems.",
-          "absurdity": "A billion dollars to manage the perception of a backlash is still less than what the data centers cost to build — so this is, technically, a rounding error in Amazon's PR budget.",
-          "outside": "Environmental groups were already watching closely. Giving them a $1 billion document to critique is, in retrospect, not the move."
+          "contradiction": "OpenAI was founded specifically with safety as its core mission. The guy writing the safety documents no longer feels safe writing them.",
+          "absurdity": "He's the author of the reassurances. He's unpersuaded by his own body of work. That's a new genre of whistleblowing.",
+          "outside": "Readers outside the US keep watching ex-OpenAI safety staffers publish warnings at a pace that now has its own publication pattern: quit, write Atlantic piece, repeat."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-10-03/candidate-4.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-10-03/candidate-4-punchy.jpg"
+      "image": "images/2026-10-04/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-04/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Patient-Zero Pandemic Drill Hits 73 Health Facilities — 40% Couldn't Handle a Fake Sick Person",
-        "source": "Ars Technica",
+        "headline": "Pentagon Gets an 'Office of Religious Affairs' Under Hegseth, Who Famously Dislikes 'Weirdos'",
+        "source": "The Guardian US",
         "date": "2026-10-03",
-        "url": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-        "summary": "俳優を「患者ゼロ」に扮装させて73の医療施設に訪問させるパンデミック対応訓練が実施され、約40%の施設が対応に失敗したことが明らかになった。"
+        "url": "https://www.theguardian.com/commentisfree/2026/oct/03/pete-hegseth-office-of-religious-affairs",
+        "summary": "ピート・ヘグセス国防長官が国防総省に「宗教問題局」を新設すると発表した。ヘグセス長官は「あごひげを生やした者、変人、弱虫は不要」などの発言で知られており、今回の動きは国防総省のキャラクターに関する議論を呼んでいる。"
       },
       "commentary": [
-        "<b>矛盾:</b> パンデミック対策の準備ができているかを確認する訓練で、訓練に40%が失敗した。「備えができているか確認したら、備えができていなかった」という、訓練そのものが存在意義を証明した瞬間。",
-        "<b>滑稽さ:</b> 役者がメイクして「それっぽい症状」を演じて施設に入る。73か所中29か所以上が見抜けなかった——これ、詐欺師のほうが上手いということでは。",
-        "<b>日本・海外から見ると:</b> 日本でも感染症対応訓練は定期的に行われているが、「俳優を実際に病院に送り込む」形式のリアリティはなかなかない。40%の失敗率は、緊急時の医療体制への信頼を考え直させる数字。"
+        "<b>矛盾:</b> 「変人と弱虫はいらない」と言ってた国防長官が、ペンタゴンに「宗教局」を作る。軍の強さとは何か、という問いへの答えがだいぶ独特な方向に向かってるんですよ。",
+        "<b>滑稽さ:</b> 「ビアード（あごひげ）はダメ」と言ってる人が宗教局を作る。宗教の歴史の中で、あごひげがどれだけ神聖視されてきたか、少し調べてみてほしい。",
+        "<b>日本・海外から見ると:</b> 政教分離が憲法の原則のはずのアメリカで、国防総省が宗教局を設置する。「国の防衛」と「宗教行政」が同じ省庁で机を並べる光景、なかなかのものですよ。"
       ],
       "imagePrompts": [
-        "A theatrical actor in dramatic sick-person makeup, fake sweat, and disheveled clothes sitting in a hospital waiting room holding a numbered ticket, while the reception desk staff chat among themselves and ignore them completely.",
-        "A clipboard checklist labeled 'Pandemic Response Drill Results' with 73 rows. Roughly 40% of the boxes are marked with a red X. The document is sitting on a government conference table next to a coffee cup.",
-        "A theatrical dressing room backstage, with actors in various stages of 'sick person' makeup applying fake rashes and pallor, while a whiteboard on the wall lists '73 facilities — good luck' and a sign reads 'PATIENT ZERO ASSIGNMENT BRIEFING.'"
+        "A Pentagon corridor with a brand new frosted glass door labeled 'OFFICE OF RELIGIOUS AFFAIRS,' next to an older door with a 'NO BEARDOS' sign still taped to it. The hallway is empty except for a visitor badge lying on the floor.",
+        "An organizational chart of the Pentagon with a newly added box at the bottom reading 'Office of Religious Affairs' connected by a dotted line to the Secretary of Defense office, surrounded by question marks from neighboring departments.",
+        "A formal government plaque being mounted on a Pentagon wall that reads 'Office of Religious Affairs — Est. 2026,' while in the reflection of the polished plaque, a framed copy of the First Amendment is visible on the wall behind."
       ],
       "captions": [
-        "They sent actors in full sick-person makeup to test pandemic readiness. Four in ten facilities: 'Nope, didn't notice.'",
-        "The actor was staggering. With fake symptoms. With makeup. And 40% of hospitals said, essentially, 'take a number and we'll be right with you.'",
-        "If a real outbreak starts, let's hope it picks the other 60% of facilities first.",
-        "Pandemic preparedness drill, 73 facilities tested. The result: we are 60% prepared, which is either reassuring or terrifying depending on which 40% you happen to walk into.",
-        "The actors passed. The hospitals didn't."
+        "No room for weirdos. Plenty of room for a whole new religious bureaucracy.",
+        "He banned beards. He opened a religion office. These two facts are about to have a very awkward meeting.",
+        "The Pentagon: officially tough on wimps, soft on theocracy.",
+        "When you said you wanted a stronger military, this might not be what you pictured.",
+        "Other defense departments have acquisition offices. Ours now has one for the afterlife."
       ],
       "captionsJa": [
-        "「病人のメイクをした俳優」を送り込んでパンデミック対応を試した。73か所中40%近くの返答: 「あ、気づかなかった」。",
-        "俳優はふらふらしてた。偽の症状。メイクもしてた。それで40%の病院が「番号札どうぞ、すぐ参ります」で対応した。",
-        "本当の感染症が来たとき、最初にかかるのが残り60%の施設であることを祈るしかない。",
-        "パンデミック対応訓練、73施設で実施。結果: 60%は準備できてた。どっちの40%に入るかで、安心にも恐怖にもなる数字。",
-        "俳優は合格した。病院が不合格だった。"
+        "変人はお断り。宗教を扱う局は大歓迎。",
+        "あごひげを禁止した人が宗教局を作った。この二つの事実、いずれ正面衝突しますよ。",
+        "ペンタゴン：弱虫には厳しく、神政政治には優しい。",
+        "「強い軍」を求めていた人たち、これが求めてたものでしたか？",
+        "他国の国防省には調達局がある。アメリカには今、来世担当局がある。"
       ],
-      "newsEn": "Health officials conducted a drill in which actors wearing makeup and displaying fake symptoms of a contagious illness visited 73 healthcare facilities to test pandemic preparedness protocols. Approximately 40 percent of the facilities failed to properly identify and respond to the simulated patient-zero scenario. The exercise was designed to evaluate how quickly and accurately frontline health workers can detect and contain a potential outbreak at the point of entry.",
+      "newsEn": "Defense Secretary Pete Hegseth has announced the creation of a new Office of Religious Affairs at the Pentagon. Hegseth, who has publicly declared that the military has no room for 'beardos, weirdos and wimps,' is now adding a dedicated religious office to the Defense Department's organizational chart. The move is part of a broader reshaping of Pentagon priorities under the current administration.",
       "ironyEn": [
         {
-          "contradiction": "The whole point of a patient-zero drill is to find out if health facilities can catch a patient zero. Forty percent of them could not catch the actor playing patient zero.",
-          "absurdity": "The actors had makeup on and fake symptoms. This isn't a subtle test. Four in ten facilities still missed it.",
-          "outside": "Post-pandemic, health systems worldwide expanded their emergency response plans. The drill suggests that having a plan and being able to run it are, in a meaningful number of cases, different things."
+          "contradiction": "The man who declared the military must purge 'weirdos' is now building an office dedicated to the spiritual dimension of warfare. The Pentagon apparently has room for God but not eccentricity.",
+          "absurdity": "He's anti-beard, which means he's already theologically opposed to roughly half of recorded religious history.",
+          "outside": "The First Amendment separates church from state. Hegseth is separating beards from service while uniting church and Defense Department. Constitutional scholars are having a week."
         },
         {
-          "contradiction": "Healthcare facilities are supposed to be the first line of defense against outbreak detection. A third of them just let the outbreak walk in and sit in the waiting room.",
-          "absurdity": "The actors were staggering. With makeup. As in, the simulation was not subtle — and 40% of facilities still needed a do-over.",
-          "outside": "From a public health standpoint, the drill working perfectly would have been reassuring. Instead it produced a number — 40% — that will now appear in every pandemic preparedness report for the next decade."
+          "contradiction": "The Office of Religious Affairs is being set up inside the world's largest military bureaucracy, by a secretary who has made toughness his entire brand.",
+          "absurdity": "Turns out 'beardos, weirdos and wimps' was the shortlist of people unwelcome — but if you bring a Bible, you've got a whole department now.",
+          "outside": "Most NATO allies are actively trying to keep religion out of military command structures. The US just gave it a nameplate."
         }
       ],
-      "imageSeed": 5,
-      "image": "images/2026-10-03/candidate-5.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-10-03/candidate-5-punchy.jpg"
+      "imageSeed": 5
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「制度が自分の看板を信じていない」。登録抹消、和解、安全宣言、対策PR、訓練失敗——どれも「それでいいの?」という問いへの答えが「書類上はOKです」だった日。",
-    "titleEn": "Everything Is Fine (Paperwork Confirms)",
-    "subtitleEn": "Five stories where the system checked the box and called it a day.",
-    "titleJa": "「書類上は問題ありません」で全部乗り切ろうとしている国の話",
+    "thread": "今日の5本を貫く糸は「見張り番が消えていく」こと。TSAの係員は立たされ、テスラは転んで次の街へ、OpenAIの安全担当者は辞表を出し、トランプは味方の電話番号をばらまき、ペンタゴンに宗教局ができる。誰かが何かを守ろうとするたびに、守り方がどんどん変になっていく。",
+    "titleEn": "Nobody's Minding the Store (But They're Standing Up Straight)",
+    "subtitleEn": "Five stories about who's supposed to be watching — and what they're doing instead.",
+    "titleJa": "OpenAIの「安全レポート」を書いていた人が、安全じゃないと言って辞めた話",
     "titleAltJa": [
-      "ナサル、登録抹消。ボーイング、安全宣言。Amazonは10億ドルで炎上。今日のアメリカ、全部そっち系だった",
-      "「対策しました」と言うたびに新しい問題が生まれる日に、どう一言返すか"
+      "今日のアメリカ：椅子を取り上げたら安全になる、という理論が国家機関から出てきた",
+      "「誰が見張ってんの?」って5回言いたくなるニュースが今日4本と、笑えない1本あります"
     ],
-    "leadJa": "ラリー・ナサルが性犯罪者登録リストから消えました。書類上の話です。ボーイングに新しいソフトウェアの不具合が出ました。「安全上の問題ではない」そうです。今日は、そういう日です。",
-    "introEn": "Five stories today. One theme.\n\nLarry Nassar got removed from Michigan's sex offender registry — on paper. Boeing found another software glitch in the 737 Max — not a safety issue, apparently. Lyft paid $272 million to settle a case about misclassifying drivers — who are still, technically, not employees. Amazon spent a billion dollars to fix its PR problem — and generated a new one within the week. And forty percent of hospitals couldn't spot a fake sick person in full theatrical makeup.\n\nEvery institution today showed up with stamped paperwork and called it done.\n\nHere's your forecast: if you've been doing the actual work while someone else files the reports, today is your day. The gap between the form and the reality? That's where you live. That's not a bug. That's the job.",
-    "introJa": "今日のニュース5本、読んで最初に出た言葉が「それでいいの?」でした。\n\nナサルが性犯罪者登録リストから消えた——手続き上の理由で。ボーイング737 Maxにまた不具合——「安全上の問題ではない」そうで。Lyftが2億7250万ドルで和解——ドライバーの取り分は数百ドル程度の見込みで。Amazonが10億ドルかけて反発を抑えようとしたら——1週間で新しい反発が来て。73の医療施設でパンデミック訓練をしたら——40%が失敗した。\n\n5本全部、「対応しました」という形は整ってるんです。書類は完璧。中身が、追いついてない。\n\nで、今日の占いです。「ちゃんとやってるのに評価されない」と感じてる日、今日のニュースを思い出して。評価されてるのが「書類」で、実際に動いてるのが「あなた」なら——今日、少なくとも正しい側にいます。\n\n5本、どうぞ。",
-    "quipEn": "Today, five institutions checked every box. Not one of them solved the problem the box was designed for.",
-    "quipJa": "書類は整ってた。5本全部。それだけ確かです。",
+    "leadJa": "TSAが椅子を禁止しました。テスラが転んだまま次の街に向かいます。OpenAIの安全担当者が辞めながら「やばい」と言い残していきました。\n\n見張り番が、ちょっとずつおかしくなってる。今日はそういう日です。",
+    "introEn": "Five people — or institutions — whose job it is to keep things safe, stable, or at least pointed in the right direction. And today, every single one of them is doing something else entirely.\n\nTSA pulled the chairs from the people checking your ID at the airport. Tesla's robotaxi had a rough first month in Austin and is now heading to your city. OpenAI's safety guy quit and wrote an op-ed on the way out. Trump apparently texted a senator's personal number to eighty million followers. And the Pentagon got a religion office from the guy who said 'no weirdos.'\n\nHere's your forecast: if you've been quietly holding things together at work while the people above you make increasingly strange decisions, today's news says you're not imagining it. That counts for something. Probably won't get you a raise, but it counts.",
+    "introJa": "TSA（アメリカの空港保安局）が椅子を撤去しました。\n\nIDをチェックする係員の椅子を。「立っていたほうが頭が働く」という理由で。\n\nこの一文を読んで、私は少し遠くを見ました。\n\nで、他を見ると…テスラのロボタクシーが最初の1ヶ月で転びながら次の街に向かい、OpenAIの安全担当者が「やばいと思う」と書いて辞め、トランプ大統領が自党の上院議員の個人電話番号をSNSにばらまき、ペンタゴンに「宗教局」ができています。\n\n今日を貫く糸は、たぶん「見張り番が迷子」ということです。安全を守るはずの人たちが、守り方を見失ってる。\n\nということで、占いです。あなたが「なんで私がちゃんとしなきゃいけないんだろう」と思っていることがあるなら、今日のニュースはその答えです。上がそういう状態だから、下がしっかりするしかない。不公平だけど、今日のあなたの「ちゃんと」は、ちゃんと意味があります。少なくとも今日はね。",
+    "quipEn": "Turns out the hardest job in America is being the person responsible for safety at any institution that has the word 'safety' in the job title.",
+    "quipJa": "「安全担当者」という肩書の人が次々に辞めていく職場、ちょっと待って、それどこの話ですかって聞いたら、全部違う会社でした。",
     "notesEn": [
-      "Larry Nassar — 100-plus years in prison, going nowhere — was removed from Michigan's sex offender registry this week. The paperwork is clean. The sentence is not. The system managed to do both at once without blinking.",
-      "Lyft settled for $272.5 million over misclassifying drivers as independent contractors. Each driver is expected to receive a few hundred dollars. The word 'misclassification' will not appear in the settlement documents. Everyone has agreed to proceed on this basis.",
-      "Boeing's 737 Max has a new software glitch affecting landing procedures. The FAA says it's not a flight-safety issue. I read that sentence three times. It still says the same thing.",
-      "Amazon spent $1 billion to address backlash against its data center expansion. New backlash arrived within the week. The one thing everyone praised was that they stopped hiding things under NDAs — which is a quiet way of confirming they were hiding things under NDAs.",
-      "Health officials sent actors in full sick-person makeup to 73 hospitals to test pandemic readiness. Forty percent of facilities failed to flag them. The actors were in makeup. Staggering. Forty percent."
+      "TSA has banned ID-checkers from sitting at airport security. The reason: standing keeps you more alert. The union's response: this ignores physical safety and basic dignity. Eight hours on your feet, staring at Delta boarding passes — because apparently that's what stands between us and chaos.",
+      "Tesla's Cybercab had a rough first month in Austin. Tesla's response: expand to more cities. There's something almost admirable about skipping the 'fix it' step entirely.",
+      "Trump wanted a senator to vote for his daylight saving bill. His approach: post what looks like the senator's personal cell number to 80 million followers. Most persuasive use of social media in a legislative context, I'll give him that.",
+      "The man who wrote OpenAI's safety reports for every major model release quit this week. On the way out, he published a piece in The Atlantic raising alarms about where the company is headed. Someone still has to write those reports. That person will presumably be more optimistic about the situation.",
+      "Pete Hegseth, who said the military has no room for 'beardos, weirdos and wimps,' has created a new Office of Religious Affairs at the Pentagon. The irony involving beards and religious history is available to anyone who wants it."
     ],
     "xJa": [
-      "ラリー・ナサル（刑期100年以上・服役中）が、ミシガン州の性犯罪者登録リストから削除された。手続き上の問題で。本人はどこにも行けないが、書類だけきれいになった。",
-      "Lyft、2億7250万ドルで和解。ドライバー一人あたりの取り分は数百ドルの見込み。批評家は「足りない」。2億7千万ドルが「少ない側」の数字として議論される和解って何なんだ。",
-      "ボーイング737 Maxに新しいソフトウェアの不具合。「着陸手順に影響する可能性がある」とFAA。でも「飛行安全上の問題ではない」とも言ってる。着陸って飛行じゃないの?",
-      "Amazonが10億ドルかけてデータセンターへの反発を抑えようとしたら、1週間で新たな反発。唯一褒められたのは「NDА廃止」、つまり「もう隠しません」。じゃあ今まで何を隠してたんですか。",
-      "パンデミック訓練。俳優がメイクして症状を演じながら73施設を訪問。40%が対応失敗。メイクして症状まで演じてたのに。"
+      "アメリカの空港保安係員が「椅子禁止」になりました。理由は「立ってると頭が働く」。8時間立ちっぱなしの人間が最も鋭い、という研究、見てみたいな。",
+      "テスラのロボタクシー、最初の1ヶ月は「rocky（順調とは言い難い）」。次の一手は「別の街に展開」。「直す」という選択肢、なかったんですかね。",
+      "トランプ大統領、サマータイム法案のために自党の上院議員の個人番号っぽいものをSNSで公開しました。8000万人に「電話して」。党内の話です、これ。",
+      "OpenAIの「安全レポート」を書いていた担当者が退職し、「実は心配しています」という記事を書きました。次のレポート、誰が書くんだろう。",
+      "「変人と弱虫は軍に不要」と言ったヘグセス国防長官がペンタゴンに「宗教問題局」を新設。あごひげと宗教の歴史的関係、調べてから発表してほしかった。"
     ],
     "raidEn": [
-      "The man has 100+ years left in prison and his paperwork just got cleaner. That's the kind of efficiency I did not expect from Michigan this week.",
-      "A few hundred dollars per driver, a quarter billion in the headline. 'Landmark settlement' doing a lot of heavy lifting in that press release.",
-      "Boeing's 737 Max software now affects landing. FAA says: not a safety issue. I genuinely respect the confidence it takes to say that out loud.",
-      "The plan to fix the backlash created backlash. The only win was ending the NDAs — which confirmed the NDAs existed. One billion dollars, full circle.",
-      "Forty percent of hospitals missed an actor in full sick-person makeup. This video explained it better than any headline I've seen."
+      "Standing for eight hours makes you more alert, according to people who have not stood for eight hours.",
+      "Rocky first month, expansion plan confirmed — Tesla really did build a self-driving company in the most self-driving way possible.",
+      "Tom Cotton's phone is ringing. It's America. All of it.",
+      "He wrote 'this model is safe.' Then he left to write 'about that, actually.' The sequel is always darker.",
+      "He banned beards. He opened a religion office. History has a sense of humor even when the people making it don't."
     ],
     "raidJa": [
-      "刑期100年以上で服役中なのに、書類だけが先に更新されていくのがすごいですね。制度の処理速度、ここだけ速い。",
-      "記事を読んで、和解金の規模と一人あたりの取り分の落差に二度見しました。「画期的な和解」という言葉の使われ方について、改めて考えさせられる記事でした。",
-      "「着陸に影響するかもしれないけど安全上の問題ではない」という文章の両立を、こんなに丁寧に解説していただいてありがとうございます。読んでも頭が追いつかないですが。",
-      "「反発対策への反発」という構造をここまで整理してくれた記事、初めて読みました。10億ドルかけて元の場所に戻ってくる話、他にもありそうで怖い。",
-      "俳優がメイクまでして症状を演じていて、それでも4割が気づかなかったというのが、数字として一番重くて。わかりやすくまとめてくださっていて助かりました。"
+      "「立つと警戒心が高まる」という理論、職員の腰には一ミリも触れていないんですよね。よく読んだ記事でした。",
+      "最初の1ヶ月が順調じゃなかったのに次の街へ、という判断の速さ、シリコンバレー以外の感覚では「え、もう?」しか出てこないですよね。面白い記事でした。",
+      "「電話して」と言って議員の番号を公開する。これが2026年のロビー活動なんですね。よく読んだ記事でした。",
+      "安全レポートを書いていた人が「安全じゃないかも」と言って去る構図、わかりやすすぎて、逆に怖いですよね。よく読んだ記事でした。",
+      "「あごひげと変人は不要」と言った人が宗教局を作る。宗教の歴史であごひげがどれだけ登場するか、ちょっと考えてしまいました。よく読んだ記事でした。"
     ],
     "riffEn": [
-      "Larry Nassar is in prison for over a hundred years. He has nowhere to go. And yet Michigan's sex offender registry removed him this week, along with about 20,000 others, because of a retroactivity problem in the law. The registry — designed specifically to track people like him — processed his removal cleanly and moved on. He's still in prison. His paperwork is tidier than ever. The institution built to remember chose, on procedural grounds, to forget.",
-      "Lyft called its drivers independent contractors for years. That meant no benefits, no labor protections, no employer contributions. Then a lawsuit happened, and Lyft agreed to pay $272.5 million to make the conversation stop. Worker advocates said immediately that the number wasn't enough. So here's where we are: it's not an admission of misclassification, it's not enough money to cover what misclassification actually cost, and the drivers who built the platform are expected to get a few hundred dollars each. The only thing everyone agrees on is the dollar figure. Nobody agrees on what it means.",
-      "Boeing's 737 Max has a new software problem. It involves landing — specifically, certain procedures during landing. The FAA reviewed this and determined it is not a flight-safety issue. I want to be fair: I'm not an aviation engineer. But I'm also not sure when landing became a separate category from flying. The plane that was grounded for twenty-two months after killing 346 people now has a software issue affecting how it lands, and the official position is that this is fine. I read the sentence a few times. It kept saying the same thing.",
-      "Amazon announced a $1 billion plan to address community opposition to its data centers. The plan included ending nondisclosure agreements with local governments. Critics praised that part — ending the NDAs — and then pointed out that the plan still downplayed the actual environmental impact: the energy, the water, the air quality. New criticism arrived within days. What's interesting is that the one thing everyone called a win was the part where Amazon stopped hiding information. Which is a quiet confirmation that hiding information had been the strategy. A billion dollars to get credit for stopping something you were doing.",
-      "Health officials sent actors — in makeup, displaying fake symptoms — into 73 healthcare facilities to test pandemic readiness. The actors were visibly sick. On purpose. As a test. And about 40 percent of facilities didn't properly identify or respond to them. This is the kind of number that contains two different problems: what happens if the next outbreak picks a Tuesday when nobody's looking, and what happens when the drill report gets filed, marked 'completed,' and the facilities move on."
+      "TSA's new rule: no sitting for ID-checkers at security. The reasoning is that standing keeps officers more alert. I'd love to see the study. Because every doctor, physical therapist, and person who has worked a retail shift knows that eight hours on your feet does something to your attention — and 'sharp and focused' isn't the word they'd choose. The union called it a dignity issue. TSA called it a security upgrade. Somewhere between those two positions is a very sore human being staring at your boarding pass, heroically upright, catching nothing.",
+      "The Cybercab launched in Austin. Month one: rocky. Month two: expansion to new cities. Tesla has essentially applied the 'move fast' philosophy to a product whose entire value proposition is that it does not move fast recklessly. The whole company's future is riding on this taxi. The taxi is still figuring out Austin. These two facts are in the same press release.",
+      "Trump wanted Senator Tom Cotton to vote for permanent daylight saving time. Cotton wasn't convinced. So Trump posted what appears to be Cotton's personal cell number and asked eighty million people to call him directly. This is a sitting president lobbying his own party's senator through crowd-sourced harassment. The bill is about clocks. The method rewound something else entirely.",
+      "David Robinson wrote the safety reports that went out with every major OpenAI model release. Every time the company said 'this is safe,' his name was on it. This week he resigned and published a piece in The Atlantic saying he has concerns about where OpenAI is headed. Someone will write the next safety report. That person will, by definition, be someone who hasn't quit yet.",
+      "Pete Hegseth, who announced that the military has no place for 'beardos, weirdos and wimps,' has created a new Office of Religious Affairs inside the Pentagon. Religious tradition and facial hair have a long, well-documented relationship. Hegseth is now officially in charge of both. The Pentagon's org chart has seen stranger things, probably. Actually, I'm not sure it has."
     ],
     "riffJa": [
-      "ラリー・ナサルは今も服役中です。刑期は100年以上。どこにも行けない。それでも今週、ミシガン州の性犯罪者登録リストから名前が消えました。法律の遡及適用に問題があった、という理由で。「こういう人を追跡するために作られた制度」が、手続き上の瑕疵を理由に「こういう人」の名前を消した。彼は刑務所にいる。書類だけが、きれいになった。",
-      "Lyftは長年ずっと「ドライバーは個人事業主です」と言い続けました。だから福利厚生もなく、労働保護もなかった。で、訴訟になって、2億7250万ドルで和解することにしました。批評家は「まだ足りない」と言っています。つまり2億7千万ドルが「少ない」側の数字として議論されている。ドライバー一人あたりの取り分は数百ドルの見込みで、和解文書に「誤分類」という言葉は出てこない予定らしい。\n\nそれで終わり、ということにした。両者合意の上で。",
-      "ボーイング737 Maxに、また新しいソフトウェアの不具合が見つかりました。着陸の特定の手順に影響する可能性がある、とのことです。FAAは「飛行安全上の問題ではない」と言っています。\n\n346人が亡くなって、22ヶ月間運航停止になった機体の話です。その機体の着陸に関わるソフトウェアに問題が出た。でも「安全ではない」とは言えない何かがあって、今日もその機体は飛んでいます。「安全」という言葉の意味を、私はもう少し狭く使っていたと思う。",
-      "Amazonがデータセンターへの反発を受けて、10億ドルの対策プランを発表しました。地方政府とのNDA（秘密保持契約）を廃止することも含まれていて、その部分だけは評価されました。「情報を隠すのをやめます」が唯一の褒めポイント。\n\nで、数日以内に新しい批判が出てきた。環境への影響——電力、水、大気汚染——を過小評価しているという指摘です。10億ドルかけて批判を鎮めようとしたら、批判が更新された。広報史に残る「対策への反発」の教科書になりそう。",
-      "俳優が感染症患者のメイクをして症状を演じながら、73の医療施設に「患者ゼロ」として訪問する訓練が実施されました。で、約40%の施設が適切に対応できなかった。\n\nメイクして、症状を演じて、それでも見抜けなかった。これが訓練の話です。本番ではない。ただ、訓練の結果が報告書にまとめられて、「完了」と処理されて、次の訓練まで棚に上がるとしたら——その「40%」という数字は、どこに行くんだろうと思う。"
+      "TSAが「係員は座ってはいけない」というルールを出しました。理由は「立っているほうが警戒心が高まる」。8時間立ちっぱなしで迎える午後3時の頭の状態、医者に聞きましたか。職員組合は「安全性と礼節の両方を無視している」と反発しています。偽造IDを見破るために必要だったのが「椅子を取り上げること」だったとは。何年も座りながら見逃してきたのだとしたら、それはそれで別の問題だと思うんですが。",
+      "テスラのサイバーキャブ、オースティンでの最初の1ヶ月は「rocky（険しかった）」と報じられています。次の手は「他の都市への展開」。「修正する」という選択肢、検討したんですかね。テスラの未来はこのタクシーにかかっているらしい。そのタクシーがまだオースティンで迷っている。この2つが同じ発表の中に並んでいます。",
+      "トランプ大統領、サマータイムを永久化する法案を共和党のコットン上院議員に支持させようとしました。説得が難しかったのか、コットン議員の個人番号らしきものをSNSに投稿して「みんな電話してあげて」と呼びかけました。現職大統領が自党の議員に、8000万人のフォロワーを使って電話攻勢をかける。時計の針をどう動かすかの話が、外交の話になってきた。",
+      "OpenAIで主要モデルのリリースごとに「このAIは安全です」という内容のレポートを書いてきたデイビッド・ロビンソン氏が退職し、「実は心配があります」という文章を公開しました。「安全です」という言葉に名前を貸してきた人が、「やはり心配です」と言って出ていく。次のレポートは誰が書くんだろう。まだ辞めてない人が書くんですよね、たぶん。",
+      "「あごひげを生やした者、変人、弱虫は軍に不要」と発言したヘグセス国防長官が、国防総省に「宗教問題局」を新設しました。宗教と、あごひげ。この2つが歴史の中でどれだけ深く結びついているか、調べてから発表してほしかったな。政教分離が建前のはずのアメリカで、国防総省が宗教の専門部署を持つ。ペンタゴンの組織図、なかなかのことになっています。"
     ],
     "asideEn": [
-      "The paperwork moved fast.",
-      "A few hundred dollars each. Progress.",
-      "Landing is, apparently, optional.",
-      "One billion dollars. Full circle.",
-      "The actor was in makeup."
+      "Apparently, chairs were the threat.",
+      "Fix it later. That's the plan.",
+      "Tom Cotton's phone is ringing.",
+      "This one isn't funny.",
+      "No weirdos. Lots of God. Got it."
     ],
     "asideJa": [
-      "書類だけは速かった。",
-      "着陸って安全に含まれないの?",
-      "炎上対策が炎上した。",
-      "メイクしてたのに。",
-      "和解金、足りないそうです。"
+      "椅子が敵だったんですね。",
+      "直すより広げる。",
+      "コットン議員の携帯、鳴り止まない。",
+      "これは、笑えない。",
+      "変人NG、宗教局OK。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Boeing",
-      "Amazon",
-      "Lyft"
+      "OpenAI",
+      "Tesla",
+      "TSA"
     ],
-    "fullEn": "# Everything Is Fine (Paperwork Confirms)\n\n## Today's Forecast\n\nFive stories today. One theme.\n\nLarry Nassar got removed from Michigan's sex offender registry — on paper. Boeing found another software glitch in the 737 Max — not a safety issue, apparently. Lyft paid $272 million to settle a case about misclassifying drivers — who are still, technically, not employees. Amazon spent a billion dollars to fix its PR problem — and generated a new one within the week. And forty percent of hospitals couldn't spot a fake sick person in full theatrical makeup.\n\nEvery institution today showed up with stamped paperwork and called it done.\n\nHere's your forecast: if you've been doing the actual work while someone else files the reports, today is your day. The gap between the form and the reality? That's where you live. That's not a bug. That's the job.\n\n---\n\n## 1. Larry Nassar Quietly Removed from Michigan Sex Offender Registry Along with 20,000 Others\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed)*\n\nFollowing a Michigan Supreme Court ruling on sex offender registration law, Larry Nassar — the former USA Gymnastics and Michigan State University physician convicted of sexually abusing hundreds of athletes over decades — was among approximately 20,000 individuals removed from the state's sex offender registry. The ruling found issues with how the state's registration law was applied retroactively. Nassar remains incarcerated on federal and state sentences totaling more than 100 years.\n\n**Why It's Funny**\n\nLarry Nassar is in prison for over a hundred years. He has nowhere to go. And yet Michigan's sex offender registry removed him this week, along with about 20,000 others, because of a retroactivity problem in the law. The registry — designed specifically to track people like him — processed his removal cleanly and moved on. He's still in prison. His paperwork is tidier than ever. The institution built to remember chose, on procedural grounds, to forget.\n\n**Say It Out Loud**\n\n> Michigan removed him from the registry this week. He still has over a hundred years left in prison. The institution designed to remember chose, on procedural grounds, to forget.\n\n---\n\n## 2. Lyft Settles Driver Misclassification Suit for $272.5M — Critics Say Workers Are Still Owed More\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/)*\n\nLyft has agreed to a $272.5 million settlement in a landmark lawsuit over driver misclassification, resolving claims that the company improperly classified its drivers as independent contractors rather than employees, denying them benefits and labor protections. Critics and worker advocates say the amount falls far short of what drivers are actually owed in back pay, benefits, and expenses. The settlement follows years of legal battles over gig worker classification in the U.S.\n\n**Why It's Funny**\n\nLyft called its drivers independent contractors for years. That meant no benefits, no labor protections, no employer contributions. Then a lawsuit happened, and Lyft agreed to pay $272.5 million to make the conversation stop. Worker advocates said immediately that the number wasn't enough. So here's where we are: it's not an admission of misclassification, it's not enough money to cover what misclassification actually cost, and the drivers who built the platform are expected to get a few hundred dollars each. The only thing everyone agrees on is the dollar figure. Nobody agrees on what it means.\n\n**Say It Out Loud**\n\n> Lyft: 'You're not an employee.' Also Lyft: 'Here's $272 million, please stop talking about it.'\n\n---\n\n## 3. FAA Says Boeing 737 Max Software Glitch Is Not a Safety Issue — The Glitch Affects Landing\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html)*\n\nThe Federal Aviation Administration said it is reviewing a software glitch found in Boeing's 737 Max aircraft, stating the issue could affect procedures during certain landings. The FAA described the glitch as not a flight-safety issue. Boeing has faced years of intense scrutiny following two fatal crashes of the 737 Max in 2018 and 2019 that killed 346 people, after which the aircraft was grounded worldwide for nearly two years.\n\n**Why It's Funny**\n\nBoeing's 737 Max has a new software problem. It involves landing — specifically, certain procedures during landing. The FAA reviewed this and determined it is not a flight-safety issue. I want to be fair: I'm not an aviation engineer. But I'm also not sure when landing became a separate category from flying. The plane that was grounded for twenty-two months after killing 346 people now has a software issue affecting how it lands, and the official position is that this is fine. I read the sentence a few times. It kept saying the same thing.\n\n**Say It Out Loud**\n\n> The software glitch affects landing. The FAA says it's not a safety issue. I feel like those two things used to be in the same category.\n\n---\n\n## 4. Amazon's $1 Billion Plan to Fix Data Center Backlash Is Generating More Backlash\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/)*\n\nAmazon announced a $1 billion initiative aimed at addressing community opposition to its data center expansion, including ending non-disclosure agreements with local governments. While some praised the company for increased transparency, critics quickly slammed Amazon for downplaying the environmental impact of data center pollution, including energy consumption, water usage, and local air quality concerns. The backlash-to-the-backlash-plan arrived within days of the announcement.\n\n**Why It's Funny**\n\nAmazon announced a $1 billion plan to address community opposition to its data centers. The plan included ending nondisclosure agreements with local governments. Critics praised that part — ending the NDAs — and then pointed out that the plan still downplayed the actual environmental impact: the energy, the water, the air quality. New criticism arrived within days. What's interesting is that the one thing everyone called a win was the part where Amazon stopped hiding information. Which is a quiet confirmation that hiding information had been the strategy. A billion dollars to get credit for stopping something you were doing.\n\n**Say It Out Loud**\n\n> Amazon spent $1 billion to stop the backlash. New backlash dropped within the week. Refund policy unclear.\n\n---\n\n## 5. Patient-Zero Pandemic Drill Hits 73 Health Facilities — 40% Couldn't Handle a Fake Sick Person\n\n*Ars Technica — [source](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/)*\n\nHealth officials conducted a drill in which actors wearing makeup and displaying fake symptoms of a contagious illness visited 73 healthcare facilities to test pandemic preparedness protocols. Approximately 40 percent of the facilities failed to properly identify and respond to the simulated patient-zero scenario. The exercise was designed to evaluate how quickly and accurately frontline health workers can detect and contain a potential outbreak at the point of entry.\n\n**Why It's Funny**\n\nHealth officials sent actors — in makeup, displaying fake symptoms — into 73 healthcare facilities to test pandemic readiness. The actors were visibly sick. On purpose. As a test. And about 40 percent of facilities didn't properly identify or respond to them. This is the kind of number that contains two different problems: what happens if the next outbreak picks a Tuesday when nobody's looking, and what happens when the drill report gets filed, marked 'completed,' and the facilities move on.\n\n**Say It Out Loud**\n\n> They sent actors in full sick-person makeup to test pandemic readiness. Four in ten facilities: 'Nope, didn't notice.'\n\n---\n\n## Today's Punchline\n\n> Today, five institutions checked every box. Not one of them solved the problem the box was designed for.\n",
-    "fullJa": "# 「書類上は問題ありません」で全部乗り切ろうとしている国の話\n\n## 今日を占うよ〜\n\n今日のニュース5本、読んで最初に出た言葉が「それでいいの?」でした。\n\nナサルが性犯罪者登録リストから消えた——手続き上の理由で。ボーイング737 Maxにまた不具合——「安全上の問題ではない」そうで。Lyftが2億7250万ドルで和解——ドライバーの取り分は数百ドル程度の見込みで。Amazonが10億ドルかけて反発を抑えようとしたら——1週間で新しい反発が来て。73の医療施設でパンデミック訓練をしたら——40%が失敗した。\n\n5本全部、「対応しました」という形は整ってるんです。書類は完璧。中身が、追いついてない。\n\nで、今日の占いです。「ちゃんとやってるのに評価されない」と感じてる日、今日のニュースを思い出して。評価されてるのが「書類」で、実際に動いてるのが「あなた」なら——今日、少なくとも正しい側にいます。\n\n5本、どうぞ。\n\n---\n\n## 1. Larry Nassar Quietly Removed from Michigan Sex Offender Registry Along with 20,000 Others\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/02/larry-nassar-michigan-sex-offender-registry-removed)）*\n\nミシガン州最高裁の判決を受け、性的虐待で有罪判決を受けた元体操医ラリー・ナサルを含む約2万人が州の性犯罪者登録リストから削除された。\n\n**どこが笑える？**\n\nラリー・ナサルは今も服役中です。刑期は100年以上。どこにも行けない。それでも今週、ミシガン州の性犯罪者登録リストから名前が消えました。法律の遡及適用に問題があった、という理由で。「こういう人を追跡するために作られた制度」が、手続き上の瑕疵を理由に「こういう人」の名前を消した。彼は刑務所にいる。書類だけが、きれいになった。\n\n**このニュースをジョークにするなら...**\n\n> ミシガン州は今週、登録リストから彼の名前を消した。刑期は100年以上残っている。「こういう人を記録するため」に作られた制度が、手続き上の理由で、記録をやめた。\n\n---\n\n## 2. Lyft Settles Driver Misclassification Suit for $272.5M — Critics Say Workers Are Still Owed More\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/10/lyft-settles-landmark-driver-misclassification-lawsuit-for-272-5m/)）*\n\nLyftはドライバーの雇用形態誤分類をめぐる訴訟で2億7250万ドルの和解に合意したが、批評家はドライバーへの支払いはまだ不十分だと主張している。\n\n**どこが笑える？**\n\nLyftは長年ずっと「ドライバーは個人事業主です」と言い続けました。だから福利厚生もなく、労働保護もなかった。で、訴訟になって、2億7250万ドルで和解することにしました。批評家は「まだ足りない」と言っています。つまり2億7千万ドルが「少ない」側の数字として議論されている。ドライバー一人あたりの取り分は数百ドルの見込みで、和解文書に「誤分類」という言葉は出てこない予定らしい。\n\nそれで終わり、ということにした。両者合意の上で。\n\n**このニュースをジョークにするなら...**\n\n> Lyft曰く「あなたは従業員じゃない」。同じLyft曰く「2億7千万ドル払うから黙ってて」。\n\n---\n\n## 3. FAA Says Boeing 737 Max Software Glitch Is Not a Safety Issue — The Glitch Affects Landing\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html)）*\n\n米連邦航空局（FAA）は、ボーイング737 Maxで発見されたソフトウェアの不具合について、特定の着陸手順に影響する可能性があるものの、飛行安全上の問題はないとの見解を示した。\n\n**どこが笑える？**\n\nボーイング737 Maxに、また新しいソフトウェアの不具合が見つかりました。着陸の特定の手順に影響する可能性がある、とのことです。FAAは「飛行安全上の問題ではない」と言っています。\n\n346人が亡くなって、22ヶ月間運航停止になった機体の話です。その機体の着陸に関わるソフトウェアに問題が出た。でも「安全ではない」とは言えない何かがあって、今日もその機体は飛んでいます。「安全」という言葉の意味を、私はもう少し狭く使っていたと思う。\n\n**このニュースをジョークにするなら...**\n\n> 着陸手順に影響するソフトウェアの不具合。でもFAAによると「飛行安全上の問題ではない」。この二つ、昔は同じカテゴリーだったと思うんですが。\n\n---\n\n## 4. Amazon's $1 Billion Plan to Fix Data Center Backlash Is Generating More Backlash\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/)）*\n\nAmazonはデータセンター建設への反発を受けて10億ドルの対策プランを発表したが、NDA廃止は評価される一方、環境汚染問題の矮小化に対する批判が新たに噴出している。\n\n**どこが笑える？**\n\nAmazonがデータセンターへの反発を受けて、10億ドルの対策プランを発表しました。地方政府とのNDA（秘密保持契約）を廃止することも含まれていて、その部分だけは評価されました。「情報を隠すのをやめます」が唯一の褒めポイント。\n\nで、数日以内に新しい批判が出てきた。環境への影響——電力、水、大気汚染——を過小評価しているという指摘です。10億ドルかけて批判を鎮めようとしたら、批判が更新された。広報史に残る「対策への反発」の教科書になりそう。\n\n**このニュースをジョークにするなら...**\n\n> Amazonは反発を止めるために10億ドル使った。1週間以内に新しい反発が来た。返金ポリシーは不明。\n\n---\n\n## 5. Patient-Zero Pandemic Drill Hits 73 Health Facilities — 40% Couldn't Handle a Fake Sick Person\n\n*Ars Technica（[記事](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/)）*\n\n俳優を「患者ゼロ」に扮装させて73の医療施設に訪問させるパンデミック対応訓練が実施され、約40%の施設が対応に失敗したことが明らかになった。\n\n**どこが笑える？**\n\n俳優が感染症患者のメイクをして症状を演じながら、73の医療施設に「患者ゼロ」として訪問する訓練が実施されました。で、約40%の施設が適切に対応できなかった。\n\nメイクして、症状を演じて、それでも見抜けなかった。これが訓練の話です。本番ではない。ただ、訓練の結果が報告書にまとめられて、「完了」と処理されて、次の訓練まで棚に上がるとしたら——その「40%」という数字は、どこに行くんだろうと思う。\n\n**このニュースをジョークにするなら...**\n\n> 「病人のメイクをした俳優」を送り込んでパンデミック対応を試した。73か所中40%近くの返答: 「あ、気づかなかった」。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 書類は整ってた。5本全部。それだけ確かです。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d1にsensitive漏れ（性的虐待・多数被害者案件）。d1のcaptions[0]が元データにない「death warrant」引用を事実として使っており削除必須。introJaの占い要素が弱く、5本の予告・前向き締めが揃っていない。xJa[4]が135字超過。riffJa[2]の文末「飛んでいます」→「思う」が続くなど文末散らし不足。d3のimagePrompts[1]で人物描写が残存（方向修正）。それ以外のジョーク・日本語呼吸は概ね合格。 ／ 文体パス: 3箇所修正。代表例: riffJa[1]の締め「全員がこの二つの事実に同意した上で、話を終わりにした」→プレゼン口調を崩した。introJaの「5本、どうぞ」前の占い文も整いすぎていたので解体。"
+    "fullEn": "# Nobody's Minding the Store (But They're Standing Up Straight)\n\n## Today's Forecast\n\nFive people — or institutions — whose job it is to keep things safe, stable, or at least pointed in the right direction. And today, every single one of them is doing something else entirely.\n\nTSA pulled the chairs from the people checking your ID at the airport. Tesla's robotaxi had a rough first month in Austin and is now heading to your city. OpenAI's safety guy quit and wrote an op-ed on the way out. Trump apparently texted a senator's personal number to eighty million followers. And the Pentagon got a religion office from the guy who said 'no weirdos.'\n\nHere's your forecast: if you've been quietly holding things together at work while the people above you make increasingly strange decisions, today's news says you're not imagining it. That counts for something. Probably won't get you a raise, but it counts.\n\n---\n\n## 1. TSA Bans Sitting Down for Airport ID Checkers, Because Standing Makes You More Alert (Apparently)\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/03/tsa-rule-change)*\n\nThe Transportation Security Administration has announced a new rule banning airport ID-checking officers from sitting while verifying passengers' boarding passes and IDs at security checkpoints. The TSA says the change is designed to keep officers more alert on the job. The union representing these workers pushed back, saying the rule ignores both physical safety concerns and basic human dignity.\n\n**Why It's Funny**\n\nTSA's new rule: no sitting for ID-checkers at security. The reasoning is that standing keeps officers more alert. I'd love to see the study. Because every doctor, physical therapist, and person who has worked a retail shift knows that eight hours on your feet does something to your attention — and 'sharp and focused' isn't the word they'd choose. The union called it a dignity issue. TSA called it a security upgrade. Somewhere between those two positions is a very sore human being staring at your boarding pass, heroically upright, catching nothing.\n\n**Say It Out Loud**\n\n> TSA found the secret to airport security: it was chairs. Chairs were the problem the whole time.\n\n---\n\n## 2. Tesla's Driverless Taxi Had a Rocky First Month in Austin — Now It Wants to Go Everywhere\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html)*\n\nTesla's Cybercab robotaxi launched in Austin about a month ago as a cornerstone of Elon Musk's plan to move the company beyond traditional car sales. The first month has been described as rocky, with various operational challenges emerging. Despite the difficult start, Tesla is now planning to expand the service to additional cities, raising questions about whether the problems from month one are truly resolved.\n\n**Why It's Funny**\n\nThe Cybercab launched in Austin. Month one: rocky. Month two: expansion to new cities. Tesla has essentially applied the 'move fast' philosophy to a product whose entire value proposition is that it does not move fast recklessly. The whole company's future is riding on this taxi. The taxi is still figuring out Austin. These two facts are in the same press release.\n\n**Say It Out Loud**\n\n> Month one: rocky. Month two: your city. Tesla skips the 'fix it' part.\n\n---\n\n## 3. Trump Pushes Daylight Saving Time Bill by Sharing What Appears to Be a Senator's Personal Cell Number\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time)*\n\nPresident Trump took to social media Saturday to pressure Republican Senator Tom Cotton of Arkansas into supporting legislation that would make daylight saving time permanent. In doing so, Trump appeared to share what may be Cotton's personal phone number, urging Americans to call him directly. The move came as part of Trump's push for a clock-change policy that has seen renewed interest in Congress.\n\n**Why It's Funny**\n\nTrump wanted Senator Tom Cotton to vote for permanent daylight saving time. Cotton wasn't convinced. So Trump posted what appears to be Cotton's personal cell number and asked eighty million people to call him directly. This is a sitting president lobbying his own party's senator through crowd-sourced harassment. The bill is about clocks. The method rewound something else entirely.\n\n**Say It Out Loud**\n\n> Can't convince your own senator? Post his number to 80 million people. The whip system had a good run.\n\n---\n\n## 4. OpenAI Safety Employee Quits, Publishes Warning — As OpenAI Releases More AI\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm)*\n\nDavid Robinson, an OpenAI safety employee responsible for writing safety reports accompanying every major model release, resigned this week and published an editorial in The Atlantic raising alarms about the company's direction. Robinson is among a series of safety-focused employees to leave OpenAI in recent months. The company continues to develop and release new AI models.\n\n**Why It's Funny**\n\nDavid Robinson wrote the safety reports that went out with every major OpenAI model release. Every time the company said 'this is safe,' his name was on it. This week he resigned and published a piece in The Atlantic saying he has concerns about where OpenAI is headed. Someone will write the next safety report. That person will, by definition, be someone who hasn't quit yet.\n\n**Say It Out Loud**\n\n> The man who wrote 'this AI is safe' quit to write 'actually, about that.'\n\n---\n\n## 5. Pentagon Gets an 'Office of Religious Affairs' Under Hegseth, Who Famously Dislikes 'Weirdos'\n\n*The Guardian US — [source](https://www.theguardian.com/commentisfree/2026/oct/03/pete-hegseth-office-of-religious-affairs)*\n\nDefense Secretary Pete Hegseth has announced the creation of a new Office of Religious Affairs at the Pentagon. Hegseth, who has publicly declared that the military has no room for 'beardos, weirdos and wimps,' is now adding a dedicated religious office to the Defense Department's organizational chart. The move is part of a broader reshaping of Pentagon priorities under the current administration.\n\n**Why It's Funny**\n\nPete Hegseth, who announced that the military has no place for 'beardos, weirdos and wimps,' has created a new Office of Religious Affairs inside the Pentagon. Religious tradition and facial hair have a long, well-documented relationship. Hegseth is now officially in charge of both. The Pentagon's org chart has seen stranger things, probably. Actually, I'm not sure it has.\n\n**Say It Out Loud**\n\n> No room for weirdos. Plenty of room for a whole new religious bureaucracy.\n\n---\n\n## Today's Punchline\n\n> Turns out the hardest job in America is being the person responsible for safety at any institution that has the word 'safety' in the job title.\n",
+    "fullJa": "# OpenAIの「安全レポート」を書いていた人が、安全じゃないと言って辞めた話\n\n## 今日を占うよ〜\n\nTSA（アメリカの空港保安局）が椅子を撤去しました。\n\nIDをチェックする係員の椅子を。「立っていたほうが頭が働く」という理由で。\n\nこの一文を読んで、私は少し遠くを見ました。\n\nで、他を見ると…テスラのロボタクシーが最初の1ヶ月で転びながら次の街に向かい、OpenAIの安全担当者が「やばいと思う」と書いて辞め、トランプ大統領が自党の上院議員の個人電話番号をSNSにばらまき、ペンタゴンに「宗教局」ができています。\n\n今日を貫く糸は、たぶん「見張り番が迷子」ということです。安全を守るはずの人たちが、守り方を見失ってる。\n\nということで、占いです。あなたが「なんで私がちゃんとしなきゃいけないんだろう」と思っていることがあるなら、今日のニュースはその答えです。上がそういう状態だから、下がしっかりするしかない。不公平だけど、今日のあなたの「ちゃんと」は、ちゃんと意味があります。少なくとも今日はね。\n\n---\n\n## 1. TSA Bans Sitting Down for Airport ID Checkers, Because Standing Makes You More Alert (Apparently)\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/03/tsa-rule-change)）*\n\n米運輸保安局（TSA）が、空港の保安検査場でIDや搭乗券を確認する係員に対し、業務中の着席を禁止すると発表した。TSAは「警戒心の維持」を理由に挙げているが、職員組合は安全性と「基本的な礼節」を無視した措置だと批判している。\n\n**どこが笑える？**\n\nTSAが「係員は座ってはいけない」というルールを出しました。理由は「立っているほうが警戒心が高まる」。8時間立ちっぱなしで迎える午後3時の頭の状態、医者に聞きましたか。職員組合は「安全性と礼節の両方を無視している」と反発しています。偽造IDを見破るために必要だったのが「椅子を取り上げること」だったとは。何年も座りながら見逃してきたのだとしたら、それはそれで別の問題だと思うんですが。\n\n**このニュースをジョークにするなら...**\n\n> 空港セキュリティの盲点、ついに発見。椅子でした。ずっと椅子のせいだったんです。\n\n---\n\n## 2. Tesla's Driverless Taxi Had a Rocky First Month in Austin — Now It Wants to Go Everywhere\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/03/tesla-cybercab-pressure-to-expand-after-rocky-first-month-in-austin.html)）*\n\nテスラの自律走行ロボタクシー「サイバーキャブ」はオースティンで運行を開始してから約1ヶ月が経過したが、出だしは順調とは言い難い状況にある。それでも同社は今後の全国展開を視野に入れており、サイバーキャブの成功がテスラの自動車販売依存からの脱却を左右するとされている。\n\n**どこが笑える？**\n\nテスラのサイバーキャブ、オースティンでの最初の1ヶ月は「rocky（険しかった）」と報じられています。次の手は「他の都市への展開」。「修正する」という選択肢、検討したんですかね。テスラの未来はこのタクシーにかかっているらしい。そのタクシーがまだオースティンで迷っている。この2つが同じ発表の中に並んでいます。\n\n**このニュースをジョークにするなら...**\n\n> 1ヶ月目は散々。2ヶ月目は全国展開。「修正する」という工程、どこ行ったんですか。\n\n---\n\n## 3. Trump Pushes Daylight Saving Time Bill by Sharing What Appears to Be a Senator's Personal Cell Number\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/03/trump-tom-cotton-daylight-saving-time)）*\n\nトランプ大統領は、サマータイムを恒久化する法案を支持するよう、アーカンソー州選出の共和党上院議員トム・コットンに圧力をかけ、コットン氏の個人的な電話番号とみられる番号をSNSで一般公開した。\n\n**どこが笑える？**\n\nトランプ大統領、サマータイムを永久化する法案を共和党のコットン上院議員に支持させようとしました。説得が難しかったのか、コットン議員の個人番号らしきものをSNSに投稿して「みんな電話してあげて」と呼びかけました。現職大統領が自党の議員に、8000万人のフォロワーを使って電話攻勢をかける。時計の針をどう動かすかの話が、外交の話になってきた。\n\n**このニュースをジョークにするなら...**\n\n> 自党の上院議員を説得できない？ 8000万人に番号を投げればいい。党内の根回しって、そういうことでしたっけ。\n\n---\n\n## 4. OpenAI Safety Employee Quits, Publishes Warning — As OpenAI Releases More AI\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/1004408/openai-safety-quits-sounding-the-alarm)）*\n\nOpenAIで主要モデルのリリースごとに安全性レポートを執筆していたデイビッド・ロビンソン氏が同社を退職し、AIの安全性への懸念を公開書簡で表明した。同氏は雑誌「ジ・アトランティック」への寄稿で警鐘を鳴らしており、OpenAIでは安全担当者の退職が相次いでいる。\n\n**どこが笑える？**\n\nOpenAIで主要モデルのリリースごとに「このAIは安全です」という内容のレポートを書いてきたデイビッド・ロビンソン氏が退職し、「実は心配があります」という文章を公開しました。「安全です」という言葉に名前を貸してきた人が、「やはり心配です」と言って出ていく。次のレポートは誰が書くんだろう。まだ辞めてない人が書くんですよね、たぶん。\n\n**このニュースをジョークにするなら...**\n\n> 「このAIは安全です」と書いてた人が「やっぱりそうじゃないかも」と書いて辞めた。\n\n---\n\n## 5. Pentagon Gets an 'Office of Religious Affairs' Under Hegseth, Who Famously Dislikes 'Weirdos'\n\n*The Guardian US（[記事](https://www.theguardian.com/commentisfree/2026/oct/03/pete-hegseth-office-of-religious-affairs)）*\n\nピート・ヘグセス国防長官が国防総省に「宗教問題局」を新設すると発表した。ヘグセス長官は「あごひげを生やした者、変人、弱虫は不要」などの発言で知られており、今回の動きは国防総省のキャラクターに関する議論を呼んでいる。\n\n**どこが笑える？**\n\n「あごひげを生やした者、変人、弱虫は軍に不要」と発言したヘグセス国防長官が、国防総省に「宗教問題局」を新設しました。宗教と、あごひげ。この2つが歴史の中でどれだけ深く結びついているか、調べてから発表してほしかったな。政教分離が建前のはずのアメリカで、国防総省が宗教の専門部署を持つ。ペンタゴンの組織図、なかなかのことになっています。\n\n**このニュースをジョークにするなら...**\n\n> 変人はお断り。宗教を扱う局は大歓迎。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「安全担当者」という肩書の人が次々に辞めていく職場、ちょっと待って、それどこの話ですかって聞いたら、全部違う会社でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "captions 3本に「Because nothing says」型の汎用ジョークと観察止まりのオチを検出。xJa 5本目が136字超。imagePrompts d5-3に実在人物（ヘグセス）の存在を示唆する構図。d3-imagePrompts-1の「tiny illustrated people flooding like ants」は可だが、d3 caption-1「Diplomacy, evolved.」はオチが予測できる定型。該当箇所のみ書き直し。 ／ 文体パス: 3箇所修正。riffJa[1]の「ちょっと思いました」が営業スマイル調、riffJa[3]の締めが几帳面すぎる、riffJa[4]の「少し調べてから」が丁寧すぎる締めだったので、それぞれ崩した。"
   },
   "carousel": [
-    "images/2026-10-03/carousel/slide-1.jpg",
-    "images/2026-10-03/carousel/slide-2.jpg",
-    "images/2026-10-03/carousel/slide-3.jpg",
-    "images/2026-10-03/carousel/slide-4.jpg",
-    "images/2026-10-03/carousel/slide-5.jpg",
-    "images/2026-10-03/carousel/slide-6.jpg",
-    "images/2026-10-03/carousel/slide-7.jpg"
+    "images/2026-10-04/carousel/slide-1.jpg",
+    "images/2026-10-04/carousel/slide-2.jpg",
+    "images/2026-10-04/carousel/slide-3.jpg",
+    "images/2026-10-04/carousel/slide-4.jpg",
+    "images/2026-10-04/carousel/slide-5.jpg",
+    "images/2026-10-04/carousel/slide-6.jpg",
+    "images/2026-10-04/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-10-03/note-header.jpg",
-    "substack": "images/2026-10-03/substack-cover.jpg"
+    "note": "images/2026-10-04/note-header.jpg",
+    "substack": "images/2026-10-04/substack-cover.jpg"
   },
-  "video": "videos/2026-10-03/daily-short.mp4",
-  "videoDuration": 80.8,
-  "videoJa": "videos/2026-10-03/daily-short-ja.mp4",
-  "videoJaDuration": 96.4
+  "video": "videos/2026-10-04/daily-short.mp4",
+  "videoDuration": 79.1,
+  "videoJa": "videos/2026-10-04/daily-short-ja.mp4",
+  "videoJaDuration": 102.3
 }
