@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-10-06",
-  "generatedAt": "2026-10-06T00:52:15+00:00",
+  "date": "2026-10-07",
+  "generatedAt": "2026-10-06T23:06:27+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump Says He'll Pay Back Taxpayer-Funded Ads That Praised Trump",
-        "source": "CNBC Top News",
-        "date": "2026-10-06",
-        "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-        "summary": "トランプ大統領が予算局長に指示して税金でテレビCMを制作・放映させていたとニューヨーク・タイムズが報道。大統領は費用を個人的に払い戻すと述べた。"
+        "headline": "Trump Announces $6.6B Shipyard — Taxpayer-Funded, Donor-Owned",
+        "source": "The Guardian US",
+        "date": "2026-10-07",
+        "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore",
+        "summary": "トランプ大統領がボルチモアに66億ドルの造船所開設を発表した。費用は一部を政府が負担するが、所有するのはトランプ支持者として知られる起業家パルマー・ラッキー創業の国防企業アンデュリル社となる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 国民の税金で自分を褒めるCMを作らせておいて、バレたら「払う」と言う。犯行後に募金するタイプの詐欺師と構造が同じなんですよ。",
-        "<b>滑稽さ:</b> 大統領が「自分最高」という内容のCMを公費で発注する——これ、北朝鮮のニュース映像とほぼ同じフォーマットじゃないですか。",
-        "<b>日本・海外から見ると:</b> 日本でも政府広報はあるけど、さすがに「○○総理はすごい」という内容のCMを税金で流したら即アウト。アメリカでそれが起きて、問題は「払い戻し」で解決できると思われてるのが怖い。"
+        "<b>矛盾:</b> 「アメリカの強さを取り戻す」と言いながら、税金で建てた造船所の所有権はトップ献金者の企業にいく——「国民の投資、献金者のリターン」という構図なんですよ。",
+        "<b>滑稽さ:</b> ラッキーがペンタゴンの諮問委員会に入ったのはわずか数日前。その数日後にはもう66億ドルの契約。これ、在職期間最短で最大の案件じゃないですか。",
+        "<b>日本・海外から見ると:</b> 「官民連携」という言葉は世界中にあるけど、ここまで「民」の絞り込みがピンポイントだと、もはや連携というより指名なんですよね。"
       ],
       "imagePrompts": [
-        "A government budget document with line items redacted except one that reads 'TV ads — GREAT PRESIDENT,' a rubber stamp marked APPROVED in red next to it, official government office setting",
-        "A television screen showing a glowing political ad with a thumbs-up graphic, while a U.S. Treasury seal watermark is visible in the corner of the screen, empty government briefing room background",
-        "A White House press podium with a large receipt taped to the front, itemized costs listed in fine print, a blank personal check being held up behind the podium"
+        "An oversized ceremonial ribbon-cutting at a gleaming shipyard, with a massive price tag reading '$6.6 BILLION — TAXPAYER FUNDED' dangling from the ribbon, while the deed of ownership floats toward a man in a suit standing off to the side",
+        "A Venn diagram drawn on a whiteboard: one circle labeled 'Top Republican Donors,' the other labeled 'Pentagon Advisors,' the overlap labeled '$6.6B Contract,' with a sticky note that says 'Coincidence?'",
+        "A giant check made out to a private defense company, signed 'U.S. Taxpayers,' sitting on a conference table surrounded by American flags and defense contractor logos"
       ],
       "captions": [
-        "He used taxpayer money to run ads saying he's great, then offered to pay it back. So the government is now accepting returns on flattery.",
-        "The budget director's job is to stop wasteful spending. He was directed to fund an ad campaign about how well the budget director's boss was doing. Cool system.",
-        "Imagine expensing your own birthday party to your employer and, when they notice, going, 'Fine, I'll Venmo you.' That's the situation.",
-        "Other presidents have asked what they could do for their country. This one asked what the country could do for his Q3 brand awareness.",
-        "They'll reimburse the taxpayers — you know, eventually, once someone adds it to the list."
+        "The government builds it, a donor owns it — that's not a shipyard, that's a gift wrapped in concrete.",
+        "He joined the Pentagon advisory board on a Monday. By Thursday, his company had a $6.6 billion contract. Most of us can't even get a callback that fast.",
+        "Taxpayer-funded, privately owned. They're not even hiding the business model anymore.",
+        "Baltimore gets the construction noise. Palmer Luckey gets the deed. America gets to call it patriotism.",
+        "Six point six billion dollars of public money — and the public's cut is: zero percent equity, full price, and a ribbon-cutting photo op."
       ],
       "captionsJa": [
-        "税金で「俺はすごい」というCMを流して、バレたら「払う」と。国家予算を返品対応するスタイル。",
-        "予算局長の仕事は無駄遣いを止めること。その局長が上司を褒めるCMに予算をつけた。完璧なシステムですね。",
-        "自分の誕生日パーティー代を会社に経費申請して、指摘されたら「じゃあ払う」と言う人を想像してください。今のアメリカの話です。",
-        "他の大統領は「国のために何ができるか」と問いかけた。この大統領は「国が自分のブランディングに何をしてくれるか」を問いかけた。",
-        "返金するそうです。まあ、そのうち、リストに追加されれば。"
+        "政府が建てて、献金者が所有する——これ、造船所じゃなくてコンクリートで包んだプレゼントですよね。",
+        "月曜日にペンタゴンの諮問委員会に入って、木曜日には66億ドルの契約。ほとんどの人は折り返しの電話すら来ない速さなんですよ。",
+        "税金で建てて、個人が持つ。もうビジネスモデルを隠す気もなくなってきたんですかね。",
+        "工事の騒音はボルチモア市民に。権利証書はパルマー・ラッキーに。アメリカには「愛国心」という名目が残る。",
+        "66億ドルの公金を使って、国民の取り分はゼロ。持ち分なし、全額負担、テープカットの写真だけ。"
       ],
-      "newsEn": "The New York Times reported that Trump personally directed his budget director to use taxpayer money to produce and air TV ads praising himself and his presidency. After the story broke, Trump said he would personally reimburse the government for the cost of the ads.",
+      "newsEn": "President Trump announced the opening of a $6.6 billion shipbuilding factory in Baltimore on Tuesday. The facility is partly funded by the US government but will be owned by Anduril Industries, a defense tech company founded by Palmer Luckey, a major Republican donor. The announcement came days after Luckey joined a Pentagon advisory group on weapons development.",
       "ironyEn": [
         {
-          "contradiction": "The president used public funds to run ads about how great the president is, then offered to pay it back only after it became public. That's not accountability — that's a return policy.",
-          "absurdity": "The budget director, whose job is to control government spending, was instructed to spend government money so the government could tell you the government is doing great.",
-          "outside": "Most democracies have laws specifically to stop this kind of thing. The U.S. apparently needed a newspaper to do the job instead."
+          "contradiction": "The government is funding a $6.6 billion facility it won't own, for a company whose founder just joined the Pentagon advisory board days earlier.",
+          "absurdity": "The timeline between 'joining a weapons advisory group' and 'receiving a multi-billion-dollar contract' is now shorter than a Netflix free trial.",
+          "outside": "Other countries call this kind of public-private partnership 'corruption.' America calls it 'reindustrialization.'"
         },
         {
-          "contradiction": "He'll pay it back — which raises the obvious question of why he used the Treasury like a corporate card in the first place.",
-          "absurdity": "Somewhere there's a government staffer who wrote ad copy praising their boss, on the clock, with your money, and called it a workday.",
-          "outside": "Foreign observers spent years being told American democracy had guardrails. Those guardrails apparently include 'getting caught by the Times.'"
+          "contradiction": "Taxpayers foot the construction bill; a top Republican donor pockets the asset. 'Public investment, private returns' is the whole pitch, apparently.",
+          "absurdity": "Palmer Luckey went from 'advisory role' to '$6.6 billion deal' faster than most people get a response to a job application.",
+          "outside": "From the outside, this looks less like a shipyard announcement and more like a very expensive thank-you card."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-10-06/candidate-1.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-10-06/candidate-1-punchy.jpg"
+      "image": "images/2026-10-07/candidate-1.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-07/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Justice Alito Says Supreme Court Is 'Not Part of Any Political Movement,' Just to Be Clear",
-        "source": "CBS News US",
-        "date": "2026-10-06",
-        "url": "https://www.cbsnews.com/video/justice-alito-supreme-court-not-part-political-movement/",
-        "summary": "最高裁判事のサミュエル・アリトーがCBSニュースに単独インタビューを行い、最高裁は政治的運動の一部ではないと主張した。"
+        "headline": "OpenAI Will Watermark ChatGPT Outputs — But Only If You're in the EU",
+        "source": "Ars Technica",
+        "date": "2026-10-07",
+        "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
+        "summary": "OpenAIはChatGPTの出力にAI生成であることを示す電子透かしをデフォルトで付与する方針を発表したが、この措置はEU域内のユーザーのみが対象で、アメリカ国内は対象外となる。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「政治的じゃない」と強調するために、わざわざメディアに出てきて政治的タイミングで発言する——その行動自体がすでに政治的なんですよ。",
-        "<b>滑稽さ:</b> 任期制限もなく、議会の承認なしに罷免もされない終身判事が「私たちは誰の味方でもない」と言う。それを信じるかどうかも、もはや政治的立場で決まる。",
-        "<b>日本・海外から見ると:</b> 日本の最高裁判事は国民審査で信任を問われる。アメリカの判事は一度任命されれば死ぬまで職を保障される。その制度の上で「政治と無関係」と言われても、制度がそもそも政治の産物なんですよね。"
+        "<b>矛盾:</b> AI生成コンテンツの透明性を「デフォルトで保証する」と言いながら、その保証はEUだけ。つまり、どこに住んでいるかで「真実を知る権利」が変わるってことなんですよ。",
+        "<b>滑稽さ:</b> しかも技術的には簡単に回避できると専門家は言う。透かしを入れる手間をかけて、でも効かない——「やってます」ポーズを大西洋の向こうだけに向けてる。",
+        "<b>日本・海外から見ると:</b> 欧州の規制があれば動くのに、自国では動かない。「倫理的だから実装する」じゃなくて「罰則があるから実装する」が正直なところでしょう。"
       ],
       "imagePrompts": [
-        "A Supreme Court justice's robe hanging in a closet next to a large elephant statue and a large donkey statue, the robe facing away from both, a mirror on the wall reflecting all three",
-        "A marble Supreme Court building with a neon sign reading 'TOTALLY NOT POLITICAL' hanging above the entrance columns, Washington DC skyline in background",
-        "A formal judicial bench with nine chairs, each labeled with the name of the president who appointed its occupant, a banner above reading 'NON-PARTISAN'"
+        "A giant stamp reading 'AI GENERATED' hovering over a document on the left side of a map of Europe, while the right side — labeled 'USA' — shows the same document with no stamp and a shrug emoji pinned to it",
+        "A watermark so faint it's nearly invisible on a printed page, with a magnifying glass failing to find it, and a small label underneath reading 'EU COMPLIANT'",
+        "A two-panel office desk: on the left, a computer screen showing EU flag stickers being applied to documents; on the right, the same documents going through a shredder labeled 'Easy Circumvention'"
       ],
       "captions": [
-        "He wants you to know the Supreme Court isn't political. He said this on TV. Right before an election. As the new term opened. Just so we're clear.",
-        "Both parties think the Court leans their way — and Alito's conclusion is that everyone else is wrong. That's one interpretation.",
-        "Lifetime appointment, no elections, can't be fired — and the big concern is that *other people* are making it political.",
-        "The Court: not part of any movement. Just happens to move in one direction every decade or so. Coincidence, probably.",
-        "Asked if the justices are political players, Alito said no. Six of the nine justices were unavailable to comment because they were appointed by presidents of the same party."
+        "OpenAI will tell Europeans their content is AI-generated. Americans? We'll figure it out, I guess.",
+        "The watermark is easy to remove and only works in Europe — it's the seatbelt law of AI safety.",
+        "They built the most powerful text generator on Earth, and the best accountability measure they've got is 'a label that washes off.'",
+        "If you want OpenAI to be honest with you, move to the EU. Otherwise, good luck out there.",
+        "Transparency: available in select markets. Void where not legally required."
       ],
       "captionsJa": [
-        "最高裁は政治的じゃないと言いに、テレビに出てきた。選挙前に。新しい開廷期の初日に。念のため言っておくと。",
-        "両党とも「最高裁は偏っている」と思っている。アリトー判事の結論は「みんなが間違っている」。なるほど。",
-        "終身任期で、選挙もなく、解任もされない。それで「政治化しているのは他人」と言う。すごい自信。",
-        "いかなる政治運動とも無関係な最高裁。ただ毎回同じ方向に動く。たぶん偶然。",
-        "「政治的プレーヤーではない」とアリトー判事。同じ政党の大統領に任命された判事が6人いる最高裁から、そう述べた。"
+        "OpenAIはEUの人たちにはAI生成だと教えてくれる。アメリカ人? 自分で気づいてくださいってことらしい。",
+        "透かしは簡単に外せて、しかもEUだけ対応——AI安全対策のシートベルト法みたいなもんですよ。",
+        "地球上で最強のテキスト生成器を作っておいて、説明責任の切り札が「すぐ落ちるラベル」。",
+        "OpenAIに正直に接してもらいたければ、EUに引っ越してください。それ以外の方、頑張って。",
+        "透明性：一部の市場でのみ提供。法的義務のない地域では適用外。"
       ],
-      "newsEn": "Supreme Court Justice Samuel Alito gave a rare interview to CBS News, stating that it is wrong for leaders of both parties to portray the justices as political players. He emphasized that the Court is not part of any political movement.",
+      "newsEn": "OpenAI announced it will watermark ChatGPT outputs by default to help identify AI-generated content. However, the policy will only apply to users in the European Union, not in the United States. Experts note the watermarking technology is not especially reliable and can be easily circumvented regardless of region.",
       "ironyEn": [
         {
-          "contradiction": "A justice appointed by a Republican president, who voted to overturn Roe v. Wade along party lines, wants you to know the Court has nothing to do with politics. Got it.",
-          "absurdity": "The best way to convince people you're apolitical is apparently to give a TV interview timed to the start of a new Supreme Court term, right before midterms.",
-          "outside": "In most democracies, 'we're not political' is something institutions prove through their decisions, not through media appearances."
+          "contradiction": "OpenAI believes AI transparency is important enough to implement — just not for the country it's headquartered in.",
+          "absurdity": "The watermark is also easy to remove, so they've built a transparency feature that isn't transparent and doesn't stick.",
+          "outside": "The EU didn't invent AI ethics. It just invented the fines."
         },
         {
-          "contradiction": "Both parties think the Court is political. One of the justices thinks that proves both parties are wrong, not that the Court might want to look in a mirror.",
-          "absurdity": "A lifetime-appointed official with no elections, no recall, and no term limits explaining that he's free from political influence is a very specific kind of confidence.",
-          "outside": "Foreign legal scholars watching this interview are probably writing a very long footnote right now."
+          "contradiction": "Americans built ChatGPT. Europeans get the label that tells you it's ChatGPT. Seems fair.",
+          "absurdity": "A watermark that experts say is easy to circumvent, applied only where regulators are watching — it's basically a car alarm that only works when a cop is nearby.",
+          "outside": "From Japan or anywhere else outside the EU: you're just expected to figure it out yourself."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-10-06/candidate-2.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-10-06/candidate-2-punchy.jpg"
+      "image": "images/2026-10-07/candidate-2.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-10-07/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Texas City Charges $2 Million for Public Records on Its Public Surveillance System",
-        "source": "Ars Technica",
-        "date": "2026-10-06",
-        "url": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-        "summary": "テキサス州のある自治体が、警察によるFlock製ナンバープレート読み取りカメラの利用状況に関する公文書開示請求に対し、200万ドルの費用を請求していることが明らかになった。"
+        "headline": "Trump Hedges on Paying Back Taxpayers for Ads That Praised Trump",
+        "source": "CNBC Top News",
+        "date": "2026-10-07",
+        "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+        "summary": "ニューヨーク・タイムズの報道によると、トランプ大統領は予算局長に対し、自身と政権を称える政府広告に税金を使うよう個人的に指示していたとされる。報道後、トランプ氏は返金に関して曖昧な態度を見せている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「公文書」とは本来、市民が政府を監視するための仕組みなんですよ。その仕組みを使って「市民が警察を監視しているカメラを監視しようとしたら200万ドル」という値段がついた。",
-        "<b>滑稽さ:</b> Flockカメラはあなたのナンバープレートを無料でスキャンします。でもそのデータへのアクセスは200万ドル。スキャンとアクセスで価格設定が真逆。",
-        "<b>日本・海外から見ると:</b> 日本でも情報公開請求の費用問題はあるけど、200万ドルは「請求」というより「拒否」の別名じゃないですか。これは透明性制度の形をした壁。"
+        "<b>矛盾:</b> 政府広報として税金を使っておいて、内容は「トランプ大統領、最高！」——「国民への情報提供」と「自己宣伝」の境界線を、本人が消しちゃってるんですよ。",
+        "<b>滑稽さ:</b> すでに放送済み、という点が絶妙で。「返金する気があるか？」と聞かれた時点で、すでにCMは全部流れ終わってる。返せないんじゃなくて、もう終わったんですよ。",
+        "<b>日本・海外から見ると:</b> 政府が自国のリーダーを称えるCMを国費で流す、というのは民主主義国家というより別の体制の特徴なんですが、アメリカでそれをやってるのが皮肉で。"
       ],
       "imagePrompts": [
-        "A license plate reader camera mounted on a street pole, below it a large price tag reading '$2,000,000,' a citizen standing below looking up with a public records request form in hand",
-        "A government filing window with a clerk sliding a receipt across the counter reading '$2,000,000 — RECORDS FEE,' stacks of folders visible behind the glass",
-        "A surveillance camera on a pole casting a long shadow over a city street, at the base of the pole a locked safe with a '$2M to open' label, city hall building in background"
+        "A television screen showing a generic political ad with the word 'PAID FOR BY: YOU' in small print at the bottom, while a figure in a suit stands beside it giving two thumbs up",
+        "A government invoice stamped 'TAXPAYER FUNDS' with a line item reading 'TV ads — praising incumbent' and a checkbox next to 'Reimbursement Planned' left unchecked",
+        "A TV studio set with a 'NOW AIRING' sign lit up, a receipt on the floor labeled 'Public Treasury — Already Spent,' and an empty podium where someone was clearly just standing"
       ],
       "captions": [
-        "The cameras watch you for free. Watching the cameras costs $2 million. Very balanced system.",
-        "It's a public records request, not a down payment on a house — although at this price, it's honestly closer to the house.",
-        "They're not refusing to release the records. They're just making sure no one can actually afford to ask for them. Totally different.",
-        "Flock scans your plate in milliseconds, zero dollars. One request about those scans: two million dollars and apparently three years of processing time.",
-        "The city has found a new innovation in government accountability: charge so much for transparency that opacity becomes the only realistic option."
+        "He used your money to make ads about how great he is — and now he's 'looking into' whether to pay it back. The ads, for the record, have already aired.",
+        "Most politicians kiss babies for free. This one runs a TV campaign on the federal budget.",
+        "Taxpayer-funded self-promotion. It's not a scandal, it's just a subscription you didn't sign up for.",
+        "The ads said everything was great. The reimbursement question got a lot more complicated.",
+        "Government money, presidential glory, public tab — someone had a very good Tuesday."
       ],
       "captionsJa": [
-        "カメラがあなたを監視するのは無料。カメラを監視しようとしたら200万ドル。バランスの取れたシステム。",
-        "「公文書開示請求」であって、家の頭金じゃないんですけど——値段だけ見ると区別がつかない。",
-        "拒否はしてないんです。ただ、現実的に誰も払えない金額を提示してるだけ。全然違う話。",
-        "Flockのカメラはナンバープレートを一瞬でスキャン、費用ゼロ。そのデータへの開示請求は200万ドル。スキャンと閲覧でここまで差が出るのは初めて見た。",
-        "自治体が透明性制度に新機軸を持ち込んだ。費用を高すぎる値段にすれば、不透明でいられる。制度を使った制度封殺。"
+        "あなたのお金で自分を褒めるCMを作って、返金するかどうかは「検討中」。CMはもう全部流れ終わってますけどね。",
+        "ほとんどの政治家は赤ちゃんを抱っこして無料で人気をとる。この人は連邦予算でテレビCMを打つ。",
+        "税金による自己宣伝。スキャンダルじゃなくて、申し込んでないサブスクですよこれ。",
+        "CMでは「すべてが最高です！」。返金の件は「かなり複雑な話になってきまして」。",
+        "政府のお金、大統領の栄光、国民のツケ——誰かにとってはとても良い火曜日でした。"
       ],
-      "newsEn": "A city in Texas has demanded $2 million in fees to fulfill a public records request about law enforcement's use of Flock Safety license plate readers. The astronomical price tag comes as public backlash over the surveillance network grows across the country.",
+      "newsEn": "The New York Times reported that President Trump personally instructed his budget director to use taxpayer money to fund TV ads praising him and his presidency. After the report surfaced, Trump declined to commit to reimbursing the government, offering only hedged responses when asked. The ads had already aired by the time the story broke.",
       "ironyEn": [
         {
-          "contradiction": "The cameras scan every car that passes for free. The bill to see records of that scanning? $2 million. Transparency has a very unusual price structure in Texas.",
-          "absurdity": "The government is using a system that tracks citizens 24/7 at no charge, then charging citizens $2 million to learn how they're being tracked. That's the deal.",
-          "outside": "Most countries that have public records laws assume the 'public' part means something. A $2M fee suggests a different theory."
+          "contradiction": "The president used public funds to run ads about how great the president is, which is either brilliant or the most on-brand thing imaginable.",
+          "absurdity": "He's now 'hedging' on reimbursement — for ads that have already aired. The refund window for TV spots closes when the closing credits roll.",
+          "outside": "State-funded propaganda praising the head of state is a well-known feature of certain governments. The US usually puts those governments on a list."
         },
         {
-          "contradiction": "Public records exist so the public can hold government accountable. A $2 million invoice is a creative reinterpretation of that principle.",
-          "absurdity": "The city isn't saying you can't have the records. They're just pricing them at slightly more than a Lamborghini dealership.",
-          "outside": "Press freedom organizations abroad spend a lot of time worrying about governments that suppress public records. They may need a new category for governments that just charge a lot for them."
+          "contradiction": "Taxpayers funded ads thanking themselves for electing someone great, whether they voted for him or not.",
+          "absurdity": "When asked if he'd pay it back, Trump hedged. The ads did not hedge. The ads were very clear about how excellent everything is.",
+          "outside": "Most countries that run government ads about their leader's greatness are not typically described as 'the leader of the free world.'"
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-10-06/candidate-3.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-10-06/candidate-3-punchy.jpg"
+      "image": "images/2026-10-07/candidate-3.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-07/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "After Opponent Got Fined for Prediction Market Trades, Democrat Introduces Bill Banning… Prediction Market Trades",
-        "source": "CNBC Top News",
-        "date": "2026-10-06",
-        "url": "https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html",
-        "summary": "下院民主党議員が、連邦選挙候補者が自分自身の選挙結果に関わる予測市場取引を禁止する法案を提出した。対立候補がすでにKalshiで同様の違反行為により制裁を受けている。"
+        "headline": "Xbox Secures Exclusive GTA 6 Streaming Rights in Deal No One Else Is Doing",
+        "source": "The Verge",
+        "date": "2026-10-07",
+        "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+        "summary": "マイクロソフトのXbox部門がGrand Theft Auto VIのクラウドストリーミング独占権を獲得した。XboxのCEOは社内全体ミーティングで「他のプラットフォームがやっていないこと」と発言したと報じられている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 対立候補がやって罰を受けた行為を、法律で禁止しようとしている。正しいことをしようとしているのは確かだけど、タイミングが「私だったらやらないもん」という宣言と区別がつかないんですよ。",
-        "<b>滑稽さ:</b> 自分の選挙の賭けに自分で参加する——これがそもそも許可されていた世界線で、「禁止します」という法案が「新しい話」として成立してしまう。",
-        "<b>日本・海外から見ると:</b> 日本で政治家が自分の当落に賭けていたら一瞬で終わりですよ。それが選挙に出ながら普通にできていた国で、ようやく「やめましょう」という法案が出た——それがニュースになる国。"
+        "<b>矛盾:</b> 「他の誰もやっていないことをする」と社内にだけ自慢する——それ、発表じゃなくてリークを待ってる状態ですよね。秘密の戦略を全社員に話す会議、機密保持契約は何のためにあるんですか。",
+        "<b>滑稽さ:</b> GTA 6はゲーム業界で何年も「世紀の一本」と呼ばれてきたタイトル。そのストリーミング権を取ったのに、発表の場が「社内ミーティング」で、世界が知ったのはリーク経由。",
+        "<b>日本・海外から見ると:</b> アメリカのゲーム業界では「独占権」という言葉が喜ばれるけど、ユーザーから見れば「プレイできるハードを選ばされる」という話なんですよね。"
       ],
       "imagePrompts": [
-        "A congressional hearing room with a candidate sitting at a betting terminal placing a trade, a bill document labeled 'PREDICTION MARKET BAN ACT' on the desk in front of them",
-        "A horse race track where one of the jockeys is also standing at the betting window placing money on themselves to win, a campaign button on their jacket",
-        "A Capitol building exterior with a large stock ticker running along the base showing a candidate's name and election odds, a 'CLOSED FOR REFORM' sign taped over the ticker"
+        "A large corporate all-hands meeting room filled with employees, a projection screen at the front reading 'TOP SECRET GTA 6 DEAL,' with a small figure at the podium labeled 'CEO' and a single journalist's notepad visible in the back row",
+        "A vault door labeled 'EXCLUSIVE STREAMING RIGHTS' swung wide open, with a trail of footprints leading from the CEO's office directly to a media outlet's front door",
+        "Two game controllers on opposite sides of a table, one labeled 'Xbox' holding a contract, the other labeled 'Everyone Else' with empty hands, while a tiny GTA 6 logo sits in the middle looking confused"
       ],
       "captions": [
-        "Betting on your own election: was legal, opponent did it, got penalized, now there's a bill. Democracy is a process.",
-        "Prediction markets are supposed to tell you who's going to win. Not let the candidates invest in that information from the inside.",
-        "The bill is called closing a loophole. The loophole was: you could bet on yourself in an election you're running in. That was just... allowed.",
-        "Somewhere a campaign treasurer is having to explain to a candidate that, yes, their Kalshi account was actually a conflict of interest. Awkward meeting.",
-        "I love that the pitch for this bill is 'my opponent did it and got caught.' That's the whole policy rationale. Works though."
+        "Microsoft got exclusive GTA 6 streaming rights. The world found out because the CEO told all their employees, which is basically the same as telling everybody.",
+        "They secured a deal for the most secretive game announcement in years — and leaked it themselves in a company-wide meeting.",
+        "Exclusive streaming rights to a game about crime, announced at a meeting that immediately became a leak. Rockstar must be thrilled.",
+        "GTA 6 has been in development longer than some Xbox consoles have existed. But sure, locking down streaming rights first makes sense.",
+        "'No other platform holder is doing this.' Correct. No other platform holder held an all-hands and told three thousand employees about it either."
       ],
       "captionsJa": [
-        "自分の選挙結果に賭けることは合法だった。対立候補がやって罰を受けた。で、法案が出た。民主主義はプロセスです。",
-        "予測市場は「誰が勝つか」を教えてくれる仕組みのはず。候補者自身が内側から張ってたら、もうそれは市場じゃない。",
-        "「抜け穴を塞ぐ」と言っているが、その抜け穴とは「自分が出馬している選挙に自分で賭けられた」というもの。ずっと開いてた。",
-        "事務所スタッフが「あのKalshiのアカウント、利益相反でしたよ」と候補者に説明する会議、見たかった。",
-        "この法案の根拠、要約すると「対立候補がやって捕まった」。それが全部。まあ理由にはなってる。"
+        "マイクロソフトがGTA 6の独占ストリーミング権を取得。世界が知ったのは、CEOが全社員に話したから——つまり全員に話したのと同じですよ。",
+        "ゲーム業界最高機密レベルの発表を、社内全体会議でやらかした。自分たちでリークしてる。",
+        "犯罪ゲームの独占権を、即座に外部に漏れた会議で発表。ロックスターはさぞかし喜んでいるでしょう。",
+        "GTA 6の開発期間、Xboxのハードが何世代も入れ替わってる。でもストリーミング権を先に押さえるのは筋が通ってますよね、確かに。",
+        "「他の誰もやっていないことをする」——正解です。他の誰も、3000人の全社員に戦略を話して即リークされたりしていませんから。"
       ],
-      "newsEn": "A House Democrat introduced legislation that would ban federal candidates from trading prediction market contracts tied to their own elections. The bill comes after the lawmaker's Republican opponent was penalized by prediction market platform Kalshi for similar trades.",
+      "newsEn": "Xbox CEO Asha Sharma told employees at an all-hands meeting that Microsoft is preparing to do something around Grand Theft Auto VI that 'no other platform holder is doing.' Sources familiar with Microsoft's plans say Xbox has secured an exclusive deal for cloud streaming rights to GTA 6. The game has been one of the most anticipated titles in gaming history.",
       "ironyEn": [
         {
-          "contradiction": "Trading on your own election wasn't illegal. A Democrat noticed their opponent was doing it and got penalized. Now there's a bill. In that order.",
-          "absurdity": "The loophole being closed here is: candidates betting on themselves to win. It was open. People used it. This is where we are.",
-          "outside": "In most countries, the idea of a candidate placing financial bets on their own election result would end their career before any law needed to be written."
+          "contradiction": "The CEO announced a secret competitive advantage to every single employee at once — and then seemed surprised it leaked.",
+          "absurdity": "They secured rights to the most hyped game in a generation, and the world found out via 'sources familiar with Microsoft's plans,' not a press release.",
+          "outside": "Other platforms aren't doing this deal. Other platforms also aren't having their all-hands meetings reported on by The Verge."
         },
         {
-          "contradiction": "The bill is good policy. It is also extremely convenient timing. Both things can be true, and both things are very true.",
-          "absurdity": "Prediction markets exist to aggregate information. When the candidate is also a trader on their own race, they are the information. Somewhere an economist is having a breakdown.",
-          "outside": "Foreign election observers have a checklist of things to watch for. 'Candidates betting on themselves' may need a new checkbox."
+          "contradiction": "Microsoft bought exclusive streaming rights to a game about stealing things. Make of that what you will.",
+          "absurdity": "GTA 6 has been in development for so long that Xbox has had time to build entire consoles, acquire studios, and now lock down cloud rights — and the game still isn't out.",
+          "outside": "From a player's perspective, 'exclusive streaming rights' is just a fancy way of saying 'we're deciding where you're allowed to play this.'"
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-10-06/candidate-4.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-10-06/candidate-4-punchy.jpg"
+      "image": "images/2026-10-07/candidate-4.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-07/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Startup Now Lets an AI Look at Your Face and Write You an Acne Prescription",
-        "source": "The Verge",
-        "date": "2026-10-06",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions",
-        "summary": "ヘルスケアスタートアップのNolla Healthがユタ州でサービスを開始。ユーザーがアプリで顔をスキャンすると、AIがにきびの重症度を分析して自律的に処方箋を発行する。"
+        "headline": "Disney Accuses Trump Officials of 'Blatant' Constitutional Violations Over FCC Battle",
+        "source": "The Guardian US",
+        "date": "2026-10-07",
+        "url": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc",
+        "summary": "ディズニー社の弁護士が連邦裁判所で、FCCがABCの地方テレビ局免許を審査しようとしているのはトランプ政権による憲法への「露骨な違反」であり、報道機関への検閲に当たると主張した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 医師になるには何年もの訓練と試験が必要で、処方箋の発行は医師免許の核心なんですよ。その処方箋を、顔写真を撮るだけのアプリが出す——医師免許制度って何のためにあるんでしたっけ。",
-        "<b>滑稽さ:</b> ユタ州だけで使える、顔を見てにきびの処方箋を書くAI。あなたの保険会社はまだ紙の請求書を郵送しているのに。",
-        "<b>日本・海外から見ると:</b> 日本でオンライン診療の規制がようやく緩和されてきたところに、アメリカでは「アプリが顔を見て処方箋を発行」が始まった。規制の文化差がにじみ出てる。そしてなぜユタだけ。"
+        "<b>矛盾:</b> 放送免許の審査という「行政手続き」の形を借りて、報道内容を問題にする——規制の手続きを検閲の道具として使う構図が、ちゃんと裁判所まで来ちゃったんですよ。",
+        "<b>滑稽さ:</b> 世界最大のメディア・エンターテインメント企業が「検閲された」と言っている。ミッキーマウスを持つ会社が言論の自由の被告席に座ってる絵、なかなかない。",
+        "<b>日本・海外から見ると:</b> 放送免許を使って気に入らないメディアを黙らせようとする、という話は民主主義の優等生とされてきた国でよく見る光景ではなかったはずなんですよ。"
       ],
       "imagePrompts": [
-        "A smartphone held up to a person's face with an AI scanning grid overlaid on the screen, a prescription pad appearing on the phone display with a digital signature, stark white clinical background",
-        "A split image: on one side a doctor's diploma on a wall with years of education listed, on the other a smartphone app with a 'SCAN COMPLETE — PRESCRIPTION ISSUED' notification",
-        "A pharmacy counter where a pharmacist holds up a printed prescription with a QR code, the 'physician' listed is an app icon, the pharmacist's eyebrow is raised"
+        "A large FCC seal hanging on a wall above a stack of broadcasting license documents, with a single spotlight illuminating the pile and a shadow of a hand reaching toward it from off-screen",
+        "A courtroom sketch-style scene showing two large tables: one labeled 'DISNEY / ABC' stacked with constitutional law books, the other labeled 'FCC' stacked with license renewal forms, with a judge's bench towering above both",
+        "A broadcast tower with a giant padlock being placed on it by a figure in a suit, while a framed copy of the First Amendment hangs slightly crooked on the wall behind them"
       ],
       "captions": [
-        "It takes 11 years to become a dermatologist. The app takes about four seconds. Both are confident in their diagnosis.",
-        "The AI looks at your face, assesses your acne, and writes a prescription. It also probably thinks your selfie angle could use work but keeps that to itself.",
-        "Only available in Utah — because apparently Utah said yes and the other 49 states were still reading the waiver.",
-        "Somewhere a medical school graduate is looking at their student loans and staring at this app like it personally offended them.",
-        "We gave AI the ability to write prescriptions before we gave it the ability to explain why it gave you that prescription. Classic launch order."
+        "The government says it's a routine license review. Disney says it started three days after a news story they didn't like. One of these is more convincing than the other.",
+        "The FCC is reviewing ABC's license to broadcast. The FCC is not reviewing why it's reviewing ABC's license to broadcast.",
+        "Disney has survived world wars, recessions, and the Star Wars prequel trilogy. Now it's in federal court arguing it's being censored. That's a new one.",
+        "Broadcast license reviews as a political tool — it's not a new idea. The countries that do it just don't usually show up on America's press freedom awards list.",
+        "First Amendment, meet broadcast regulation. You two are going to be spending a lot of time together."
       ],
       "captionsJa": [
-        "皮膚科医になるのに11年かかる。このアプリは4秒。両方とも診断には自信満々。",
-        "AIが顔を見てにきびを評価して処方箋を書く。たぶん自撮りの角度についても意見があるけど、黙ってる。",
-        "ユタ州限定——残り49州はまだ免責事項を読んでいる最中らしい。",
-        "医学部の卒業生が学生ローンの残高を見ながらこのアプリのニュースを読んでいる画が浮かぶ。",
-        "処方箋を書く前に「なぜその処方なのか」を説明できるようにするより先に、処方箋を書かせた。典型的なリリース順序。"
+        "政府は「通常の審査だ」と言う。ディズニーは「例の報道の3日後に始まった」と言う。どちらが説得力あるか、もうわかりますよね。",
+        "FCCはABCの放送免許を審査している。FCCが「なぜABCを審査しているか」は審査していない。",
+        "世界大戦も、不況も、スター・ウォーズのプリクエル三部作も乗り越えたディズニーが、今度は連邦裁判所で「検閲された」と言っている。初めてのパターンですよ。",
+        "政治的道具としての放送免許審査——珍しい手法じゃないんですよ。ただ、それをやってる国は普通アメリカの報道自由ランキングに表彰される側じゃなくて。",
+        "修正第一条よ、放送規制と仲良くしてください。これから長い付き合いになりそうだから。"
       ],
-      "newsEn": "Healthcare startup Nolla Health announced that users in Utah can now scan their faces using its app, allowing an AI system to analyze acne severity and autonomously write a prescription for treatment. The service currently operates only in Utah.",
+      "newsEn": "Lawyers for Disney told a federal judge Tuesday that the Trump administration is committing 'blatant violations of the US Constitution' by directing the FCC to review ABC's local TV station licenses. Disney argues the review is targeted retaliation against ABC for its news coverage. It was the first court hearing in the dispute between Disney and the federal communications regulator.",
       "ironyEn": [
         {
-          "contradiction": "Becoming a doctor takes a decade of training partly so someone qualified can evaluate your condition before prescribing medication. An app just did that in about four seconds.",
-          "absurdity": "The AI analyzes your acne severity and writes a prescription. The app store rating system is five stars. Unclear which review process is more rigorous.",
-          "outside": "In countries with stricter medical regulations, 'a phone camera diagnosed me and called in a prescription' is still a punchline. In Utah, it's a Tuesday."
+          "contradiction": "The government insists it's just a routine license review. Disney insists it started the day after a contentious news segment. Both can't be right.",
+          "absurdity": "The most powerful entertainment company on Earth — owner of Marvel, Star Wars, and the entire concept of childhood magic — is in court arguing it's being silenced.",
+          "outside": "Using broadcast license reviews to pressure news organizations is a tactic more commonly associated with governments that the US State Department issues annual press freedom reports about."
         },
         {
-          "contradiction": "Doctors spend years learning to evaluate patients holistically. The app looks at your face. To be fair, so does the doctor — but usually for longer than the camera shutter speed.",
-          "absurdity": "The service only works in Utah. Acne, presumably, works in all 50 states.",
-          "outside": "Japan spent years carefully expanding telemedicine under strict guidelines. America said: here's an app, take a selfie, here's your prescription, good luck."
+          "contradiction": "The FCC is supposed to ensure broadcasters serve the public interest. Apparently 'the public interest' and 'favorable coverage' have become hard to distinguish.",
+          "absurdity": "Disney owns a theme park where children wait two hours to hug a cartoon mouse, and yet it's the First Amendment case they'll be remembered for this year.",
+          "outside": "From outside the US, this looks like a stress test of the First Amendment — and the stress is visible."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-10-06/candidate-5.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-10-06/candidate-5-punchy.jpg"
+      "image": "images/2026-10-07/candidate-5.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-07/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「システムが自分に都合よく動いている」。税金CMの払い戻し、最高裁の政治否定、公文書の200万ドル、自分の選挙に賭ける議員、顔写真で処方箋——ルールの中身より、ルールを誰が設計したかの話。",
-    "titleEn": "We Built the Rules. Turns Out We're Also the Exception.",
-    "subtitleEn": "Five stories about systems that work perfectly — for whoever's running them.",
-    "titleJa": "「税金で自分を褒めるCM」を作った人が「払います」と言う国の話",
+    "thread": "今日の5本を貫く糸は「税金・契約・規制——全部、権力者の手の届く場所に置き直されている」ということ。誰が払って、誰が得をするか。その質問を5回繰り返す日です。",
+    "titleEn": "Your Tax Dollars, Their Assets",
+    "subtitleEn": "Five stories, one business model.",
+    "titleJa": "66億ドルの造船所を建てたのは国民で、もらったのは献金者だった話",
     "titleAltJa": [
-      "最高裁判事が『政治的じゃない』とテレビで言った日に、5つのニュースを読んだ",
-      "公文書の開示請求が200万ドルで、顔写真が処方箋になる日"
+      "「EU限定の誠実さ」「自分を褒めるCM」「造船所の所有者」——今日これが言えれば十分です",
+      "国民が払って、知り合いが受け取る。今週のアメリカはそういう週です"
     ],
-    "leadJa": "税金でCMを作って、バレたら「払います」。最高裁判事がテレビに出て「政治と無関係です」。公文書の開示請求に200万ドルの請求書。今日の5本、全部「私は例外です」という話です。",
-    "introEn": "Trump paid for ads about Trump with your money, then offered a refund. A Supreme Court justice went on television to explain why he's not political. A Texas city priced a records request at $2 million. A congressman introduced a bill banning something his opponent already got caught doing.\n\nAnd a startup in Utah will let an AI look at your face and write you a prescription.\n\nThe thread, if there is one: every system in today's news works exactly as designed — it's just that whoever designed it had a very specific person in mind. Not you.\n\nSo here's your forecast. If you've been quietly following the rules while watching others rewrite them in real time, today's stories are not about you failing the game. They're about the game. You're fine.",
-    "introJa": "税金で自分を褒めるCMを発注して、バレたら「払います」と言う。\n\nこれを読んで一瞬、「あ、解決したんだ」と思いそうになった。思いませんでしたか。私はなりかけました。\n\n今日の5本、全部このパターンです。ルールがある。そのルールを作った側が、そのルールの外にいる。で、指摘されたら「ちゃんと対応します」と言う。\n\n最高裁が「政治と無関係」とテレビで言う。公文書の開示請求に200万ドルの値札がつく。自分の選挙に賭けていた対立候補がやられたタイミングで禁止法案が出る。ユタ州だけ顔写真で処方箋が出る。そして大統領は税金でCMを作って、払い戻しで幕引きをはかる。\n\nたぶん今日の糸は、「ルールは全員に同じように機能するわけじゃない」です。\n\nということで、今日の占い。あなたがルールを守っているのに損をしている気がするなら、今日の5本がその理由を教えてくれます。あなたが悪いんじゃない。設計の話です。少なくとも今日はね。",
-    "quipEn": "Today's five stories have one thing in common: the rule applied to everyone, except the person who wrote it.",
-    "quipJa": "今日の5本、全部「私は例外です」という話でした。ルールって、誰が書くかが全てなんですよ。",
+    "leadJa": "66億ドルの造船所。税金で建てる。でも、持つのは別の人。\n\nこれが今日の1本目です。2本目以降も、だいたい同じ話です。",
+    "introEn": "Five stories today. One pattern.\n\nThe U.S. government just announced a $6.6 billion shipyard — funded by taxpayers, owned by a top Republican donor who joined a Pentagon advisory board last week. OpenAI is watermarking AI content for transparency, but only in Europe. Trump used federal money to run ads praising Trump, and is now 'looking into' whether to pay it back.\n\nAlso: Xbox leaked its own biggest deal in a company-wide meeting, and Disney is in federal court arguing the government is using broadcast licenses as a weapon against a news channel it doesn't like.\n\nThe thread running through all five: who holds the lever, and who ends up holding the bill.\n\nHere's your forecast. If you've been doing everything right and somehow still feel like someone else is cashing in — you're not wrong, and today's news will confirm it in five different ways. That's not an excuse to stop. It's just useful to know where the exits actually are.",
+    "introJa": "記事を開いた瞬間、「あ、今日もこれか」と思いました。\n\n税金で造船所を建てて、もらうのは献金者。自分を褒めるCMを国費で流して、返金は「検討中」。AI生成コンテンツに透かしを入れるけど、EUだけ。ディズニーが「検閲されてる」と裁判所に行って、Xboxは機密情報を全社員ミーティングで喋る。\n\nばらばらに見えて、今日の5本には一本の糸があります。\n\n「レバーを持っている人が、請求書の送り先も決めている」ということです。\n\n今日の占い。\n\n「ちゃんとやってるのに、なんか損してる気がする」と思ってるあなた。今日の5本を読むと、それが気のせいじゃないとわかります。\n\nわかっても何かがすぐ変わるかというと、まあ、変わらない。でも「自分がおかしいんじゃなかった」って知るだけで、今日一日わりと乗り切れたりする。行こう。",
+    "quipEn": "Taxpayer-funded shipyard, taxpayer-funded ad campaign, transparency that only applies overseas — at some point 'public investment' and 'private benefit' stopped being two different things.",
+    "quipJa": "国民が払って、知り合いが受け取る。5本読んで、全部同じ話でした。",
     "notesEn": [
-      "Trump used tax dollars to run ads praising Trump, then offered to pay it back after the story broke. So the government is now in the business of accepting returns on flattery.",
-      "Samuel Alito gave a TV interview to explain that the Supreme Court is not part of any political movement. He did this. On television. Right as the new term opened. Just clarifying.",
-      "A Texas city charged $2 million to fulfill a public records request about its surveillance cameras. The cameras scan your license plate for free, by the way. The pricing is only weird in one direction.",
-      "A Democrat introduced a bill banning candidates from betting on their own elections — right after his Republican opponent was penalized for doing exactly that. The bill is correct. The timing is a lot.",
-      "A startup in Utah now lets an AI look at your face and write you an acne prescription. It takes about four seconds. Dermatologists train for eleven years. Both are confident."
+      "Palmer Luckey joined a Pentagon advisory board. Days later, his company got a $6.6 billion government contract for a shipyard. I've waited longer than that for a dentist appointment.",
+      "OpenAI is adding watermarks to ChatGPT outputs so you know the content is AI-generated. In Europe. The watermark is also, per experts, easy to remove. So it's a label that washes off, shipped exclusively to places with fines for not shipping it.",
+      "Trump reportedly told his budget director to spend taxpayer money on TV ads praising Trump. When asked if he'd pay it back, he said he was 'looking into it.' The ads had already finished airing. All of them. 'Looking into it' works best before the thing happens.",
+      "Xbox CEO told the entire company about their secret exclusive GTA 6 streaming deal. The world found out an hour later. This is what happens when your internal communications strategy is 'trust everyone.'",
+      "Disney is arguing in federal court that the government is using broadcast license reviews to punish ABC for its news coverage. The company that owns Mickey Mouse is now a First Amendment plaintiff. Sure."
     ],
     "xJa": [
-      "税金で「私は素晴らしい大統領です」というCMを作らせて、バレたら「払います」。払い戻しても放映済みです。",
-      "最高裁判事が「うちは政治的じゃない」とテレビで言いました。任期制限なし、選挙なし、罷免なし、で「誰の味方でもない」。その発言を信じるかどうかも、もう政治的立場で決まります。",
-      "テキサスの自治体、監視カメラに関する公文書の開示請求に200万ドルを請求。カメラはあなたのナンバープレートを無料でスキャンします。アクセスだけが高い。",
-      "対立候補が自分の選挙に賭けて制裁を受けたその翌週、「候補者が自分の選挙に賭けるのを禁止する法案」を提出。正しいことです。タイミングが全てを語っています。",
-      "ユタ州、アプリで顔をスキャンするとAIがにきびの処方箋を書いてくれるサービスが開始。他の49州はまだ同意書を読んでいます。"
+      "パルマー・ラッキーがペンタゴンの諮問委員会に入って数日後、彼の会社が66億ドルの政府契約を取った。私が転職活動した時は書類選考で2週間かかりました。",
+      "OpenAIが「AI生成コンテンツに透かしを入れる」と発表。対象はEUのみ。アメリカ人は自分で判断して、という設計です。ちなみに技術的には簡単に消せます。罰則のある地域だけに、洗えば落ちるラベルを貼っている。",
+      "トランプ大統領が税金で「トランプ大統領すごい」というCMを流していたことが判明。返金するか聞かれて「検討中」と答えたが、その時点でCMは全部放送終了していた。検討できる段階は終わっている。",
+      "XboxのCEOが全社ミーティングでGTA 6の独占ストリーミング契約を発表。当然その日のうちにリークされた。何千人かに「内密に」と話した瞬間、内密ではなくなります。",
+      "ディズニーが連邦裁判所で「ABCの放送免許審査は報道への報復だ」と主張。ミッキーマウスを持つ会社が言論の自由を訴えている。2026年の絵面。"
     ],
     "raidEn": [
-      "The refund offer is doing a lot of heavy lifting here. 'I spent your money on ads about how great I am, but I'll Venmo you back' is not generally considered a defense.",
-      "The timing is really something. TV interview, start of the new term, right before an election — and the message is 'please stop making this political.'",
-      "Charging $2 million for a public records request is technically not a refusal. It's just a refusal with extra steps and a price tag.",
-      "The bill is absolutely the right call. It's just that 'banning something right after your opponent got caught doing it' is a genre of politics all its own.",
-      "Utah said yes before the other 49 states finished reading the terms. That's not unusual. That's just Utah."
+      "He joined the advisory board on a Monday. The $6.6 billion contract came days later. Most people don't get that kind of turnaround on a job application.",
+      "Watermarks for Europeans, vibes for Americans. Solid rollout strategy.",
+      "The ads aired. He's 'looking into' reimbursement. I love when 'looking into it' means 'please stop asking.'",
+      "Announced it to the whole company, got leaked immediately. The most expensive NDA violation in gaming history, committed by the CEO.",
+      "The FCC is reviewing the license. The FCC is not reviewing why it's reviewing the license. Great system."
     ],
     "raidJa": [
-      "「払い戻します」という言葉がここまで重労働しているニュース、久しぶりに読みました。バレてから払うと言う、という動作の順番がすでに全てですよね。",
-      "「政治的ではない」という発言を、選挙直前にテレビでするという政治的行動。構造がきれいすぎて笑えました。丁寧にまとめてくださってありがとうございます。",
-      "200万ドルの「請求」、実質的に「拒否」と同義なんですよね。形式を守りながら内容を塞ぐ、という技術の高さに変な感心をしてしまいました。",
-      "正しい法案だとは思うんですよ。ただタイミングが「私はやらなかった」という声明と区別がつかなくて、そこが今日一番笑えたところでした。",
-      "ユタ州だけ、というのが今日一番謎でした。なぜユタだけが先に頷いたのか、その会議の様子が気になっています。"
+      "諮問委員会に入って数日で66億ドルの契約、すごい実績ですね。転職活動中の身としては参考になります（ならない）。",
+      "「EUにだけ正直」というOpenAIの方針、なんか新しい誠実さですよね。読んでいて苦笑いしました。",
+      "「返金を検討中」という言葉、CMが全部流れ終わった後に出てくるのがまた絶妙で。記事の構造が面白かったです。",
+      "全社員ミーティングで秘密を話してリークされる流れ、読んでいて「あーそうなるよな」と思いました。笑",
+      "放送免許の審査という形を借りた検閲、という構図をここまで丁寧に書いてくださってありがとうございます。裁判の行方が気になります。"
     ],
     "riffEn": [
-      "Trump directed his budget chief to spend taxpayer money on TV ads praising Trump. When the New York Times published the story, Trump said he'd pay the government back. So the sequence is: take the money, make the ads, get caught, offer a refund. He's running the country like someone who expenses their own birthday party and acts surprised when accounting calls. The refund, by the way, does not un-air the ads.",
-      "Samuel Alito sat down with CBS News to make it clear that the Supreme Court is not part of any political movement. He did this voluntarily, on television, at the start of a new term, right before an election. Now, I'm not saying the interview was political. I'm saying: when you have lifetime tenure, zero elections, and no meaningful removal process, and your main concern is that *other people* are making it political — that's one way to read the room.",
-      "A Texas city received a public records request about how police are using Flock Safety's license plate cameras across the city. Their response: $2 million. The cameras themselves scan your plate for free, automatically, without asking. The asymmetry here is almost elegant. You can be watched at no cost. Finding out how you're being watched costs more than most houses in that city.",
-      "A House Democrat introduced a bill to ban federal candidates from trading prediction market contracts on their own elections. His Republican opponent had already been penalized by Kalshi for doing exactly this. So: opponent does the thing, gets penalized, Democrat introduces bill banning the thing. The bill is correct. The thing genuinely should not have been allowed. It's just that 'I'm introducing this bill now' and 'I would never have done this' are the same sentence delivered two different ways.",
-      "Nolla Health is now letting an AI analyze photos of your face and issue acne prescriptions — but only in Utah. The AI takes a few seconds. A dermatologist takes roughly a decade of training. Both arrive at a diagnosis with similar confidence. The other 49 states have not yet agreed to this, which means 49 state legislatures looked at 'an app writes your prescriptions' and said, let's think about this."
+      "The U.S. government is building a $6.6 billion shipyard in Baltimore. Taxpayer money, federal investment, national defense — sounds great. The shipyard will be owned by Anduril Industries, founded by Palmer Luckey, who donated heavily to Republicans and joined a Pentagon advisory group on weapons development last week. Days later: $6.6 billion. I'm not saying there's a connection. I'm saying the connection is right there, typed out, in the same news story.",
+      "OpenAI announced it's adding watermarks to ChatGPT outputs so people can tell when content is AI-generated. Accountability, transparency, trust — the whole package. For EU users. The United States is not included. The watermark is also, according to experts, easy to remove regardless of where you live. So the full picture is: OpenAI built a label that washes off and is shipping it exclusively to countries with fines for not doing so. That's not a safety feature. That's paperwork.",
+      "Trump reportedly told his budget director to spend taxpayer money on TV ads praising Trump. The New York Times reported this. Trump was then asked whether he'd pay the government back. He said he was looking into it. The ads had already aired. All of them. So the question isn't really about money anymore — it's about what 'looking into it' means when the thing is already done. I've looked into a lot of things. Looking into it doesn't do much for the thing that already happened.",
+      "Xbox CEO Asha Sharma held a company-wide meeting and told employees Microsoft was about to do something around GTA 6 that 'no other platform holder is doing.' Sources say Xbox locked up exclusive cloud streaming rights. The world found out because when you tell thousands of employees something in confidence, you've told thousands of people. GTA 6 is one of the most anticipated games in history. The announcement strategy was: internal meeting, wait for leak. Rockstar Games, which has kept GTA 6 details secret for years, probably loved that.",
+      "Disney's lawyers appeared in federal court Tuesday and told the judge that the Trump administration is committing 'blatant violations of the U.S. Constitution' by directing the FCC to review ABC's broadcast licenses. Disney says the review started after ABC's news coverage — not before. The government says it's routine. The FCC is examining the licenses. The FCC is not examining whether the reason for examining the licenses is itself the problem. Disney has outlasted world wars and the Star Wars prequels. This is the first time it's had to argue in court that it's being silenced."
     ],
     "riffJa": [
-      "順番が全てです。税金でCMを発注して、CMを放送して、ニューヨーク・タイムズに書かれて、「払います」と言う。この流れで「払い戻し」が解決として機能するなら、問題は最初からなかったことになります。CMの内容はもちろん「大統領は素晴らしい」です。制作費の出所は、CMを見ていた人たちのお金です。払い戻しても、CMは放映済みです。",
-      "アリトー判事がテレビに出ました。メッセージは「最高裁は政治的ではない」。出たタイミングは新しい任期の開始直前、選挙の直前です。終身制、選挙なし、事実上の罷免なし——その制度の上で「私たちは誰の味方でもない」と言われても、その発言を信じるかどうかが、もう政治的立場で決まるんですよ。どこにも逃げ場がない。",
-      "Flockのナンバープレート読み取りカメラの公文書開示請求をしたら、テキサスの自治体から200万ドルの請求書が来ました。カメラはあなたのナンバープレートを無料でスキャンします。そのデータへのアクセスは200万ドルです。「公文書開示」という制度は市民が政府を見る仕組みのはずですが、値段をつけるだけで実質的に「なかったこと」にできる。拒否じゃないから文句も言いにくい。請求書なので。",
-      "対立候補が自分の選挙結果に関わる予測市場で取引してKalshiから制裁を受けた。その翌週、「候補者が自分の選挙に賭けることを禁止する法案」が出ました。方向性は正しい。自分の選挙の賭けに自分で乗る、というのがそもそも許可されていた世界線で「禁止」がニュースになるのも驚きですが、タイミングがもう少し早ければ、ただの良い法案でした。",
-      "ユタ州でアプリが顔をスキャンしてにきびの処方箋を出し始めました。かかる時間は数秒です。皮膚科医になるには十数年かかります。どちらも同じ確信で診断を出します。なぜユタだけかというと、ユタだけが「いいよ」と言ったから。他の49州はまだ同意書を読んでいます。あなたの保険会社はたぶんまだ紙の書類を郵送しています。"
+      "ボルチモアに66億ドルの造船所ができます。費用は政府、つまり税金です。所有するのはアンデュリル社——共和党への多額の献金者として知られるパルマー・ラッキーが創業した国防企業です。\n\nラッキー氏がペンタゴンの諮問委員会に加わったのは、ほんの数日前のことです。数日後には66億ドルの契約。同じニュース記事の中に、全部書いてあります。もうそこに書いてある。",
+      "OpenAIが「ChatGPTの出力にAI生成であることを示す透かしを入れる」と発表しました。透明性のある、責任ある対応です。対象はEUのユーザーのみです。\n\nアメリカは対象外。\n\nしかも技術的には簡単に消せると専門家は言う。洗えば落ちるラベルを、罰則のある地域にだけ貼っている。「倫理的だからやる」のではなく「法律があるからやる」、それを正直に言っているのが、かえって清々しい気もします（しません）。",
+      "トランプ大統領が予算局長に「税金で自分を褒めるCMを流せ」と指示していた、とニューヨーク・タイムズが報じました。\n\n報道後、「返金するか」と聞かれたトランプ氏は「検討中」と答えました。\n\nCMは、すでに全部放送終了しています。\n\n「検討中」という言葉が一番効く場面は、まだ何かができる段階に使うものだと思っていました。終わったことに「検討中」を当てる使い方、なかなかない。",
+      "XboxのCEOが全社ミーティングで「他のプラットフォームがやっていないことをGTA 6でやる」と発言。その中身はGTA 6のクラウドストリーミング独占権の取得、と伝えられています。\n\nこの情報、どこから出たかというと、そのミーティングに参加していた人からです。\n\nGTA 6は何年もかけて情報管理をしてきたロックスター・ゲームズの作品です。その情報が「全社員に向けたCEOのスピーチ」経由で世界に出た。独占権は取れても、秘密は無理だった。",
+      "ディズニーの弁護士が連邦裁判所で「トランプ政権によるFCCへの指示は憲法の露骨な違反だ」と主張しました。FCCがABCの地方局免許を審査しようとしているのは、ABCの報道への報復だというのです。\n\nFCCは免許を審査しています。なぜ審査するのかは、審査していません。\n\nミッキーマウスを持つ会社が「言論の自由を侵害された」と訴えている。2026年のアメリカに、こういう絵があります。"
     ],
     "asideEn": [
-      "A refund doesn't un-run the ad.",
-      "On TV. Before an election. Just to clarify.",
-      "Not a refusal. Just a $2 million question.",
-      "The loophole was just... there.",
-      "Utah said yes. Everyone else is still reading."
+      "Days apart. Billions of dollars. Nobody's suspicious.",
+      "Accountability, but make it geographic.",
+      "He's 'looking into it.' The ads are done.",
+      "Told everyone. Leaked immediately. Classic.",
+      "Routine review. Sure."
     ],
     "asideJa": [
-      "払い戻しても放映済みです。",
-      "テレビで言う「非政治的」。",
-      "拒否じゃない、200万ドルの請求です。",
-      "そもそも合法だったんですよ。",
-      "なぜユタだけ。"
+      "数日で66億ドル。偶然です。",
+      "EUにだけ誠実。",
+      "検討中。もう終わってる。",
+      "全員に話したらリークされた。",
+      "通常の審査です。はい。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "News Commentary",
-      "Supreme Court",
-      "Public Records"
+      "Anduril",
+      "OpenAI",
+      "Disney"
     ],
-    "fullEn": "# We Built the Rules. Turns Out We're Also the Exception.\n\n## Today's Forecast\n\nTrump paid for ads about Trump with your money, then offered a refund. A Supreme Court justice went on television to explain why he's not political. A Texas city priced a records request at $2 million. A congressman introduced a bill banning something his opponent already got caught doing.\n\nAnd a startup in Utah will let an AI look at your face and write you a prescription.\n\nThe thread, if there is one: every system in today's news works exactly as designed — it's just that whoever designed it had a very specific person in mind. Not you.\n\nSo here's your forecast. If you've been quietly following the rules while watching others rewrite them in real time, today's stories are not about you failing the game. They're about the game. You're fine.\n\n---\n\n## 1. Trump Says He'll Pay Back Taxpayer-Funded Ads That Praised Trump\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/05/trump-ads-election.html)*\n\nThe New York Times reported that Trump personally directed his budget director to use taxpayer money to produce and air TV ads praising himself and his presidency. After the story broke, Trump said he would personally reimburse the government for the cost of the ads.\n\n**Why It's Funny**\n\nTrump directed his budget chief to spend taxpayer money on TV ads praising Trump. When the New York Times published the story, Trump said he'd pay the government back. So the sequence is: take the money, make the ads, get caught, offer a refund. He's running the country like someone who expenses their own birthday party and acts surprised when accounting calls. The refund, by the way, does not un-air the ads.\n\n**Say It Out Loud**\n\n> He used taxpayer money to run ads saying he's great, then offered to pay it back. So the government is now accepting returns on flattery.\n\n---\n\n## 2. Justice Alito Says Supreme Court Is 'Not Part of Any Political Movement,' Just to Be Clear\n\n*CBS News US — [source](https://www.cbsnews.com/video/justice-alito-supreme-court-not-part-political-movement/)*\n\nSupreme Court Justice Samuel Alito gave a rare interview to CBS News, stating that it is wrong for leaders of both parties to portray the justices as political players. He emphasized that the Court is not part of any political movement.\n\n**Why It's Funny**\n\nSamuel Alito sat down with CBS News to make it clear that the Supreme Court is not part of any political movement. He did this voluntarily, on television, at the start of a new term, right before an election. Now, I'm not saying the interview was political. I'm saying: when you have lifetime tenure, zero elections, and no meaningful removal process, and your main concern is that *other people* are making it political — that's one way to read the room.\n\n**Say It Out Loud**\n\n> He wants you to know the Supreme Court isn't political. He said this on TV. Right before an election. As the new term opened. Just so we're clear.\n\n---\n\n## 3. Texas City Charges $2 Million for Public Records on Its Public Surveillance System\n\n*Ars Technica — [source](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/)*\n\nA city in Texas has demanded $2 million in fees to fulfill a public records request about law enforcement's use of Flock Safety license plate readers. The astronomical price tag comes as public backlash over the surveillance network grows across the country.\n\n**Why It's Funny**\n\nA Texas city received a public records request about how police are using Flock Safety's license plate cameras across the city. Their response: $2 million. The cameras themselves scan your plate for free, automatically, without asking. The asymmetry here is almost elegant. You can be watched at no cost. Finding out how you're being watched costs more than most houses in that city.\n\n**Say It Out Loud**\n\n> The cameras watch you for free. Watching the cameras costs $2 million. Very balanced system.\n\n---\n\n## 4. After Opponent Got Fined for Prediction Market Trades, Democrat Introduces Bill Banning… Prediction Market Trades\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html)*\n\nA House Democrat introduced legislation that would ban federal candidates from trading prediction market contracts tied to their own elections. The bill comes after the lawmaker's Republican opponent was penalized by prediction market platform Kalshi for similar trades.\n\n**Why It's Funny**\n\nA House Democrat introduced a bill to ban federal candidates from trading prediction market contracts on their own elections. His Republican opponent had already been penalized by Kalshi for doing exactly this. So: opponent does the thing, gets penalized, Democrat introduces bill banning the thing. The bill is correct. The thing genuinely should not have been allowed. It's just that 'I'm introducing this bill now' and 'I would never have done this' are the same sentence delivered two different ways.\n\n**Say It Out Loud**\n\n> Betting on your own election: was legal, opponent did it, got penalized, now there's a bill. Democracy is a process.\n\n---\n\n## 5. Startup Now Lets an AI Look at Your Face and Write You an Acne Prescription\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions)*\n\nHealthcare startup Nolla Health announced that users in Utah can now scan their faces using its app, allowing an AI system to analyze acne severity and autonomously write a prescription for treatment. The service currently operates only in Utah.\n\n**Why It's Funny**\n\nNolla Health is now letting an AI analyze photos of your face and issue acne prescriptions — but only in Utah. The AI takes a few seconds. A dermatologist takes roughly a decade of training. Both arrive at a diagnosis with similar confidence. The other 49 states have not yet agreed to this, which means 49 state legislatures looked at 'an app writes your prescriptions' and said, let's think about this.\n\n**Say It Out Loud**\n\n> It takes 11 years to become a dermatologist. The app takes about four seconds. Both are confident in their diagnosis.\n\n---\n\n## Today's Punchline\n\n> Today's five stories have one thing in common: the rule applied to everyone, except the person who wrote it.\n",
-    "fullJa": "# 「税金で自分を褒めるCM」を作った人が「払います」と言う国の話\n\n## 今日を占うよ〜\n\n税金で自分を褒めるCMを発注して、バレたら「払います」と言う。\n\nこれを読んで一瞬、「あ、解決したんだ」と思いそうになった。思いませんでしたか。私はなりかけました。\n\n今日の5本、全部このパターンです。ルールがある。そのルールを作った側が、そのルールの外にいる。で、指摘されたら「ちゃんと対応します」と言う。\n\n最高裁が「政治と無関係」とテレビで言う。公文書の開示請求に200万ドルの値札がつく。自分の選挙に賭けていた対立候補がやられたタイミングで禁止法案が出る。ユタ州だけ顔写真で処方箋が出る。そして大統領は税金でCMを作って、払い戻しで幕引きをはかる。\n\nたぶん今日の糸は、「ルールは全員に同じように機能するわけじゃない」です。\n\nということで、今日の占い。あなたがルールを守っているのに損をしている気がするなら、今日の5本がその理由を教えてくれます。あなたが悪いんじゃない。設計の話です。少なくとも今日はね。\n\n---\n\n## 1. Trump Says He'll Pay Back Taxpayer-Funded Ads That Praised Trump\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/05/trump-ads-election.html)）*\n\nトランプ大統領が予算局長に指示して税金でテレビCMを制作・放映させていたとニューヨーク・タイムズが報道。大統領は費用を個人的に払い戻すと述べた。\n\n**どこが笑える？**\n\n順番が全てです。税金でCMを発注して、CMを放送して、ニューヨーク・タイムズに書かれて、「払います」と言う。この流れで「払い戻し」が解決として機能するなら、問題は最初からなかったことになります。CMの内容はもちろん「大統領は素晴らしい」です。制作費の出所は、CMを見ていた人たちのお金です。払い戻しても、CMは放映済みです。\n\n**このニュースをジョークにするなら...**\n\n> 税金で「俺はすごい」というCMを流して、バレたら「払う」と。国家予算を返品対応するスタイル。\n\n---\n\n## 2. Justice Alito Says Supreme Court Is 'Not Part of Any Political Movement,' Just to Be Clear\n\n*CBS News US（[記事](https://www.cbsnews.com/video/justice-alito-supreme-court-not-part-political-movement/)）*\n\n最高裁判事のサミュエル・アリトーがCBSニュースに単独インタビューを行い、最高裁は政治的運動の一部ではないと主張した。\n\n**どこが笑える？**\n\nアリトー判事がテレビに出ました。メッセージは「最高裁は政治的ではない」。出たタイミングは新しい任期の開始直前、選挙の直前です。終身制、選挙なし、事実上の罷免なし——その制度の上で「私たちは誰の味方でもない」と言われても、その発言を信じるかどうかが、もう政治的立場で決まるんですよ。どこにも逃げ場がない。\n\n**このニュースをジョークにするなら...**\n\n> 最高裁は政治的じゃないと言いに、テレビに出てきた。選挙前に。新しい開廷期の初日に。念のため言っておくと。\n\n---\n\n## 3. Texas City Charges $2 Million for Public Records on Its Public Surveillance System\n\n*Ars Technica（[記事](https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/)）*\n\nテキサス州のある自治体が、警察によるFlock製ナンバープレート読み取りカメラの利用状況に関する公文書開示請求に対し、200万ドルの費用を請求していることが明らかになった。\n\n**どこが笑える？**\n\nFlockのナンバープレート読み取りカメラの公文書開示請求をしたら、テキサスの自治体から200万ドルの請求書が来ました。カメラはあなたのナンバープレートを無料でスキャンします。そのデータへのアクセスは200万ドルです。「公文書開示」という制度は市民が政府を見る仕組みのはずですが、値段をつけるだけで実質的に「なかったこと」にできる。拒否じゃないから文句も言いにくい。請求書なので。\n\n**このニュースをジョークにするなら...**\n\n> カメラがあなたを監視するのは無料。カメラを監視しようとしたら200万ドル。バランスの取れたシステム。\n\n---\n\n## 4. After Opponent Got Fined for Prediction Market Trades, Democrat Introduces Bill Banning… Prediction Market Trades\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/05/don-davis-prediction-market-candidate-trading.html)）*\n\n下院民主党議員が、連邦選挙候補者が自分自身の選挙結果に関わる予測市場取引を禁止する法案を提出した。対立候補がすでにKalshiで同様の違反行為により制裁を受けている。\n\n**どこが笑える？**\n\n対立候補が自分の選挙結果に関わる予測市場で取引してKalshiから制裁を受けた。その翌週、「候補者が自分の選挙に賭けることを禁止する法案」が出ました。方向性は正しい。自分の選挙の賭けに自分で乗る、というのがそもそも許可されていた世界線で「禁止」がニュースになるのも驚きですが、タイミングがもう少し早ければ、ただの良い法案でした。\n\n**このニュースをジョークにするなら...**\n\n> 自分の選挙結果に賭けることは合法だった。対立候補がやって罰を受けた。で、法案が出た。民主主義はプロセスです。\n\n---\n\n## 5. Startup Now Lets an AI Look at Your Face and Write You an Acne Prescription\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/1005075/nolla-health-acne-ai-prescriptions)）*\n\nヘルスケアスタートアップのNolla Healthがユタ州でサービスを開始。ユーザーがアプリで顔をスキャンすると、AIがにきびの重症度を分析して自律的に処方箋を発行する。\n\n**どこが笑える？**\n\nユタ州でアプリが顔をスキャンしてにきびの処方箋を出し始めました。かかる時間は数秒です。皮膚科医になるには十数年かかります。どちらも同じ確信で診断を出します。なぜユタだけかというと、ユタだけが「いいよ」と言ったから。他の49州はまだ同意書を読んでいます。あなたの保険会社はたぶんまだ紙の書類を郵送しています。\n\n**このニュースをジョークにするなら...**\n\n> 皮膚科医になるのに11年かかる。このアプリは4秒。両方とも診断には自信満々。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今日の5本、全部「私は例外です」という話でした。ルールって、誰が書くかが全てなんですよ。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d4のcaption 4が「Somewhere a...」の汎用AIジョーク型。d5のcaption 4が同じく「Somewhere a...」型。それぞれ構築されたジョークに書き直し。xJa[0]が140字を超えているので135字以内に圧縮。introJaの「ということで、今日の占い」段落が「予告なし」で締めに飛んでいるため5本の予告を補完。その他は合格。 ／ 文体パス: 2箇所修正。riffJa[1]の「構造がきれいに閉じています」がAIまとめ感、riffJa[2]の「見えない」にする方法があるようです」が説明口調だったので、それぞれ本音がこぼれた形に崩した。"
+    "fullEn": "# Your Tax Dollars, Their Assets\n\n## Today's Forecast\n\nFive stories today. One pattern.\n\nThe U.S. government just announced a $6.6 billion shipyard — funded by taxpayers, owned by a top Republican donor who joined a Pentagon advisory board last week. OpenAI is watermarking AI content for transparency, but only in Europe. Trump used federal money to run ads praising Trump, and is now 'looking into' whether to pay it back.\n\nAlso: Xbox leaked its own biggest deal in a company-wide meeting, and Disney is in federal court arguing the government is using broadcast licenses as a weapon against a news channel it doesn't like.\n\nThe thread running through all five: who holds the lever, and who ends up holding the bill.\n\nHere's your forecast. If you've been doing everything right and somehow still feel like someone else is cashing in — you're not wrong, and today's news will confirm it in five different ways. That's not an excuse to stop. It's just useful to know where the exits actually are.\n\n---\n\n## 1. Trump Announces $6.6B Shipyard — Taxpayer-Funded, Donor-Owned\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore)*\n\nPresident Trump announced the opening of a $6.6 billion shipbuilding factory in Baltimore on Tuesday. The facility is partly funded by the US government but will be owned by Anduril Industries, a defense tech company founded by Palmer Luckey, a major Republican donor. The announcement came days after Luckey joined a Pentagon advisory group on weapons development.\n\n**Why It's Funny**\n\nThe U.S. government is building a $6.6 billion shipyard in Baltimore. Taxpayer money, federal investment, national defense — sounds great. The shipyard will be owned by Anduril Industries, founded by Palmer Luckey, who donated heavily to Republicans and joined a Pentagon advisory group on weapons development last week. Days later: $6.6 billion. I'm not saying there's a connection. I'm saying the connection is right there, typed out, in the same news story.\n\n**Say It Out Loud**\n\n> The government builds it, a donor owns it — that's not a shipyard, that's a gift wrapped in concrete.\n\n---\n\n## 2. OpenAI Will Watermark ChatGPT Outputs — But Only If You're in the EU\n\n*Ars Technica — [source](https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/)*\n\nOpenAI announced it will watermark ChatGPT outputs by default to help identify AI-generated content. However, the policy will only apply to users in the European Union, not in the United States. Experts note the watermarking technology is not especially reliable and can be easily circumvented regardless of region.\n\n**Why It's Funny**\n\nOpenAI announced it's adding watermarks to ChatGPT outputs so people can tell when content is AI-generated. Accountability, transparency, trust — the whole package. For EU users. The United States is not included. The watermark is also, according to experts, easy to remove regardless of where you live. So the full picture is: OpenAI built a label that washes off and is shipping it exclusively to countries with fines for not doing so. That's not a safety feature. That's paperwork.\n\n**Say It Out Loud**\n\n> OpenAI will tell Europeans their content is AI-generated. Americans? We'll figure it out, I guess.\n\n---\n\n## 3. Trump Hedges on Paying Back Taxpayers for Ads That Praised Trump\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/05/trump-ads-election.html)*\n\nThe New York Times reported that President Trump personally instructed his budget director to use taxpayer money to fund TV ads praising him and his presidency. After the report surfaced, Trump declined to commit to reimbursing the government, offering only hedged responses when asked. The ads had already aired by the time the story broke.\n\n**Why It's Funny**\n\nTrump reportedly told his budget director to spend taxpayer money on TV ads praising Trump. The New York Times reported this. Trump was then asked whether he'd pay the government back. He said he was looking into it. The ads had already aired. All of them. So the question isn't really about money anymore — it's about what 'looking into it' means when the thing is already done. I've looked into a lot of things. Looking into it doesn't do much for the thing that already happened.\n\n**Say It Out Loud**\n\n> He used your money to make ads about how great he is — and now he's 'looking into' whether to pay it back. The ads, for the record, have already aired.\n\n---\n\n## 4. Xbox Secures Exclusive GTA 6 Streaming Rights in Deal No One Else Is Doing\n\n*The Verge — [source](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)*\n\nXbox CEO Asha Sharma told employees at an all-hands meeting that Microsoft is preparing to do something around Grand Theft Auto VI that 'no other platform holder is doing.' Sources familiar with Microsoft's plans say Xbox has secured an exclusive deal for cloud streaming rights to GTA 6. The game has been one of the most anticipated titles in gaming history.\n\n**Why It's Funny**\n\nXbox CEO Asha Sharma held a company-wide meeting and told employees Microsoft was about to do something around GTA 6 that 'no other platform holder is doing.' Sources say Xbox locked up exclusive cloud streaming rights. The world found out because when you tell thousands of employees something in confidence, you've told thousands of people. GTA 6 is one of the most anticipated games in history. The announcement strategy was: internal meeting, wait for leak. Rockstar Games, which has kept GTA 6 details secret for years, probably loved that.\n\n**Say It Out Loud**\n\n> Microsoft got exclusive GTA 6 streaming rights. The world found out because the CEO told all their employees, which is basically the same as telling everybody.\n\n---\n\n## 5. Disney Accuses Trump Officials of 'Blatant' Constitutional Violations Over FCC Battle\n\n*The Guardian US — [source](https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc)*\n\nLawyers for Disney told a federal judge Tuesday that the Trump administration is committing 'blatant violations of the US Constitution' by directing the FCC to review ABC's local TV station licenses. Disney argues the review is targeted retaliation against ABC for its news coverage. It was the first court hearing in the dispute between Disney and the federal communications regulator.\n\n**Why It's Funny**\n\nDisney's lawyers appeared in federal court Tuesday and told the judge that the Trump administration is committing 'blatant violations of the U.S. Constitution' by directing the FCC to review ABC's broadcast licenses. Disney says the review started after ABC's news coverage — not before. The government says it's routine. The FCC is examining the licenses. The FCC is not examining whether the reason for examining the licenses is itself the problem. Disney has outlasted world wars and the Star Wars prequels. This is the first time it's had to argue in court that it's being silenced.\n\n**Say It Out Loud**\n\n> The government says it's a routine license review. Disney says it started three days after a news story they didn't like. One of these is more convincing than the other.\n\n---\n\n## Today's Punchline\n\n> Taxpayer-funded shipyard, taxpayer-funded ad campaign, transparency that only applies overseas — at some point 'public investment' and 'private benefit' stopped being two different things.\n",
+    "fullJa": "# 66億ドルの造船所を建てたのは国民で、もらったのは献金者だった話\n\n## 今日を占うよ〜\n\n記事を開いた瞬間、「あ、今日もこれか」と思いました。\n\n税金で造船所を建てて、もらうのは献金者。自分を褒めるCMを国費で流して、返金は「検討中」。AI生成コンテンツに透かしを入れるけど、EUだけ。ディズニーが「検閲されてる」と裁判所に行って、Xboxは機密情報を全社員ミーティングで喋る。\n\nばらばらに見えて、今日の5本には一本の糸があります。\n\n「レバーを持っている人が、請求書の送り先も決めている」ということです。\n\n今日の占い。\n\n「ちゃんとやってるのに、なんか損してる気がする」と思ってるあなた。今日の5本を読むと、それが気のせいじゃないとわかります。\n\nわかっても何かがすぐ変わるかというと、まあ、変わらない。でも「自分がおかしいんじゃなかった」って知るだけで、今日一日わりと乗り切れたりする。行こう。\n\n---\n\n## 1. Trump Announces $6.6B Shipyard — Taxpayer-Funded, Donor-Owned\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore)）*\n\nトランプ大統領がボルチモアに66億ドルの造船所開設を発表した。費用は一部を政府が負担するが、所有するのはトランプ支持者として知られる起業家パルマー・ラッキー創業の国防企業アンデュリル社となる。\n\n**どこが笑える？**\n\nボルチモアに66億ドルの造船所ができます。費用は政府、つまり税金です。所有するのはアンデュリル社——共和党への多額の献金者として知られるパルマー・ラッキーが創業した国防企業です。\n\nラッキー氏がペンタゴンの諮問委員会に加わったのは、ほんの数日前のことです。数日後には66億ドルの契約。同じニュース記事の中に、全部書いてあります。もうそこに書いてある。\n\n**このニュースをジョークにするなら...**\n\n> 政府が建てて、献金者が所有する——これ、造船所じゃなくてコンクリートで包んだプレゼントですよね。\n\n---\n\n## 2. OpenAI Will Watermark ChatGPT Outputs — But Only If You're in the EU\n\n*Ars Technica（[記事](https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/)）*\n\nOpenAIはChatGPTの出力にAI生成であることを示す電子透かしをデフォルトで付与する方針を発表したが、この措置はEU域内のユーザーのみが対象で、アメリカ国内は対象外となる。\n\n**どこが笑える？**\n\nOpenAIが「ChatGPTの出力にAI生成であることを示す透かしを入れる」と発表しました。透明性のある、責任ある対応です。対象はEUのユーザーのみです。\n\nアメリカは対象外。\n\nしかも技術的には簡単に消せると専門家は言う。洗えば落ちるラベルを、罰則のある地域にだけ貼っている。「倫理的だからやる」のではなく「法律があるからやる」、それを正直に言っているのが、かえって清々しい気もします（しません）。\n\n**このニュースをジョークにするなら...**\n\n> OpenAIはEUの人たちにはAI生成だと教えてくれる。アメリカ人? 自分で気づいてくださいってことらしい。\n\n---\n\n## 3. Trump Hedges on Paying Back Taxpayers for Ads That Praised Trump\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/05/trump-ads-election.html)）*\n\nニューヨーク・タイムズの報道によると、トランプ大統領は予算局長に対し、自身と政権を称える政府広告に税金を使うよう個人的に指示していたとされる。報道後、トランプ氏は返金に関して曖昧な態度を見せている。\n\n**どこが笑える？**\n\nトランプ大統領が予算局長に「税金で自分を褒めるCMを流せ」と指示していた、とニューヨーク・タイムズが報じました。\n\n報道後、「返金するか」と聞かれたトランプ氏は「検討中」と答えました。\n\nCMは、すでに全部放送終了しています。\n\n「検討中」という言葉が一番効く場面は、まだ何かができる段階に使うものだと思っていました。終わったことに「検討中」を当てる使い方、なかなかない。\n\n**このニュースをジョークにするなら...**\n\n> あなたのお金で自分を褒めるCMを作って、返金するかどうかは「検討中」。CMはもう全部流れ終わってますけどね。\n\n---\n\n## 4. Xbox Secures Exclusive GTA 6 Streaming Rights in Deal No One Else Is Doing\n\n*The Verge（[記事](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)）*\n\nマイクロソフトのXbox部門がGrand Theft Auto VIのクラウドストリーミング独占権を獲得した。XboxのCEOは社内全体ミーティングで「他のプラットフォームがやっていないこと」と発言したと報じられている。\n\n**どこが笑える？**\n\nXboxのCEOが全社ミーティングで「他のプラットフォームがやっていないことをGTA 6でやる」と発言。その中身はGTA 6のクラウドストリーミング独占権の取得、と伝えられています。\n\nこの情報、どこから出たかというと、そのミーティングに参加していた人からです。\n\nGTA 6は何年もかけて情報管理をしてきたロックスター・ゲームズの作品です。その情報が「全社員に向けたCEOのスピーチ」経由で世界に出た。独占権は取れても、秘密は無理だった。\n\n**このニュースをジョークにするなら...**\n\n> マイクロソフトがGTA 6の独占ストリーミング権を取得。世界が知ったのは、CEOが全社員に話したから——つまり全員に話したのと同じですよ。\n\n---\n\n## 5. Disney Accuses Trump Officials of 'Blatant' Constitutional Violations Over FCC Battle\n\n*The Guardian US（[記事](https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc)）*\n\nディズニー社の弁護士が連邦裁判所で、FCCがABCの地方テレビ局免許を審査しようとしているのはトランプ政権による憲法への「露骨な違反」であり、報道機関への検閲に当たると主張した。\n\n**どこが笑える？**\n\nディズニーの弁護士が連邦裁判所で「トランプ政権によるFCCへの指示は憲法の露骨な違反だ」と主張しました。FCCがABCの地方局免許を審査しようとしているのは、ABCの報道への報復だというのです。\n\nFCCは免許を審査しています。なぜ審査するのかは、審査していません。\n\nミッキーマウスを持つ会社が「言論の自由を侵害された」と訴えている。2026年のアメリカに、こういう絵があります。\n\n**このニュースをジョークにするなら...**\n\n> 政府は「通常の審査だ」と言う。ディズニーは「例の報道の3日後に始まった」と言う。どちらが説得力あるか、もうわかりますよね。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 国民が払って、知り合いが受け取る。5本読んで、全部同じ話でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d2のcaption[1]とxJa[1]に軽い観察止まりがあり、d3のcaption[4]・xJa[2]に蛇足と文末の弱さ、d4のxJa[3]に単体成立の問題、d5のcaption[4]に汎用ジョーク臭があったので修正。introJaの占い部分が書き言葉寄りで読者への距離感があったため書き直し。imagePromptsはいずれも実在人物の顔に依存しておらず合格。riff・asideは全本合格。sensitiveフラグ漏れなし。 ／ 文体パス: 3箇所修正。riffJa[1]の締め「かえって清々しい気もします（しません）」はすでに人間らしいので触らず、riffJa[0]の「私が何かを言わなくても」周辺とriffJa[3]の締め、introJaの占いパートの「地味に効きます」前後の整いすぎを直した。"
   },
   "carousel": [
-    "images/2026-10-06/carousel/slide-1.jpg",
-    "images/2026-10-06/carousel/slide-2.jpg",
-    "images/2026-10-06/carousel/slide-3.jpg",
-    "images/2026-10-06/carousel/slide-4.jpg",
-    "images/2026-10-06/carousel/slide-5.jpg",
-    "images/2026-10-06/carousel/slide-6.jpg",
-    "images/2026-10-06/carousel/slide-7.jpg"
+    "images/2026-10-07/carousel/slide-1.jpg",
+    "images/2026-10-07/carousel/slide-2.jpg",
+    "images/2026-10-07/carousel/slide-3.jpg",
+    "images/2026-10-07/carousel/slide-4.jpg",
+    "images/2026-10-07/carousel/slide-5.jpg",
+    "images/2026-10-07/carousel/slide-6.jpg",
+    "images/2026-10-07/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-10-06/note-header.jpg",
-    "substack": "images/2026-10-06/substack-cover.jpg"
+    "note": "images/2026-10-07/note-header.jpg",
+    "substack": "images/2026-10-07/substack-cover.jpg"
   }
 };
