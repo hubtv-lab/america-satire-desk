@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-10-07",
-  "generatedAt": "2026-10-06T23:06:27+00:00",
+  "date": "2026-10-08",
+  "generatedAt": "2026-10-07T23:39:57+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump Announces $6.6B Shipyard — Taxpayer-Funded, Donor-Owned",
-        "source": "The Guardian US",
-        "date": "2026-10-07",
-        "url": "https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore",
-        "summary": "トランプ大統領がボルチモアに66億ドルの造船所開設を発表した。費用は一部を政府が負担するが、所有するのはトランプ支持者として知られる起業家パルマー・ラッキー創業の国防企業アンデュリル社となる。"
+        "headline": "Trump Pitches His Own Golf Course as the Next 'Presidential Retreat'",
+        "source": "CBS News US",
+        "date": "2026-10-08",
+        "url": "https://www.cbsnews.com/news/trump-administration-considering-presidential-retreat-his-florida-golf-course/",
+        "summary": "トランプ大統領が、自身所有のトランプ・インターナショナル・ゴルフコースを政府の「大統領専用保養施設」の候補地として提案した。納税者へのメリットや建設コストは不明のまま。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「アメリカの強さを取り戻す」と言いながら、税金で建てた造船所の所有権はトップ献金者の企業にいく——「国民の投資、献金者のリターン」という構図なんですよ。",
-        "<b>滑稽さ:</b> ラッキーがペンタゴンの諮問委員会に入ったのはわずか数日前。その数日後にはもう66億ドルの契約。これ、在職期間最短で最大の案件じゃないですか。",
-        "<b>日本・海外から見ると:</b> 「官民連携」という言葉は世界中にあるけど、ここまで「民」の絞り込みがピンポイントだと、もはや連携というより指名なんですよね。"
+        "<b>矛盾:</b> 「公共のための施設を」と言いながら、その施設を自分のゴルフ場にしようとしてるんですよ。公共の利益の定義、だいぶ広い。",
+        "<b>滑稽さ:</b> 「納税者へのメリットは不明」って政府自身が言ってる時点で、もうプレスリリースがツッコミになってるじゃないですか。",
+        "<b>日本・海外から見ると:</b> 日本で総理大臣が「官邸の代わりに自分のゴルフ場を使おう、費用は国民持ちで」と言ったら翌日には辞表を出してる。アメリカではそれがニュースで終わる。"
       ],
       "imagePrompts": [
-        "An oversized ceremonial ribbon-cutting at a gleaming shipyard, with a massive price tag reading '$6.6 BILLION — TAXPAYER FUNDED' dangling from the ribbon, while the deed of ownership floats toward a man in a suit standing off to the side",
-        "A Venn diagram drawn on a whiteboard: one circle labeled 'Top Republican Donors,' the other labeled 'Pentagon Advisors,' the overlap labeled '$6.6B Contract,' with a sticky note that says 'Coincidence?'",
-        "A giant check made out to a private defense company, signed 'U.S. Taxpayers,' sitting on a conference table surrounded by American flags and defense contractor logos"
+        "An ornate presidential podium with the official seal, placed directly on a golf course fairway, with a large 'TRUMP' branded flag on the green in the background",
+        "A government budget spreadsheet with two columns labeled 'Taxpayer Cost' and 'Taxpayer Benefit' — the first column has a large dollar figure, the second column is completely blank",
+        "A 'Grand Opening' ribbon-cutting ceremony at a golf course clubhouse, with official government bunting and a seal, surrounded by velvet ropes and a 'Members Only' sign"
       ],
       "captions": [
-        "The government builds it, a donor owns it — that's not a shipyard, that's a gift wrapped in concrete.",
-        "He joined the Pentagon advisory board on a Monday. By Thursday, his company had a $6.6 billion contract. Most of us can't even get a callback that fast.",
-        "Taxpayer-funded, privately owned. They're not even hiding the business model anymore.",
-        "Baltimore gets the construction noise. Palmer Luckey gets the deed. America gets to call it patriotism.",
-        "Six point six billion dollars of public money — and the public's cut is: zero percent equity, full price, and a ribbon-cutting photo op."
+        "The government doesn't know the cost, doesn't know the benefit, but they do know whose name is on the flag at hole nine.",
+        "Other presidents had Camp David. This one's thinking: why not just camp at a place that charges me green fees?",
+        "Conflict of interest? Relax — he's not forcing taxpayers to use the course. They just have to pay for it.",
+        "The White House says the taxpayer benefit is 'not yet clear.' Neither is the exit strategy, but here we are.",
+        "You ever pitch your boss on renovating your own house as a company expense? This is that, but federal."
       ],
       "captionsJa": [
-        "政府が建てて、献金者が所有する——これ、造船所じゃなくてコンクリートで包んだプレゼントですよね。",
-        "月曜日にペンタゴンの諮問委員会に入って、木曜日には66億ドルの契約。ほとんどの人は折り返しの電話すら来ない速さなんですよ。",
-        "税金で建てて、個人が持つ。もうビジネスモデルを隠す気もなくなってきたんですかね。",
-        "工事の騒音はボルチモア市民に。権利証書はパルマー・ラッキーに。アメリカには「愛国心」という名目が残る。",
-        "66億ドルの公金を使って、国民の取り分はゼロ。持ち分なし、全額負担、テープカットの写真だけ。"
+        "コスト不明、メリット不明。でも9番ホールの旗に誰の名前が入るかは決まってる。",
+        "歴代大統領にはキャンプ・デービッドがあった。この大統領には「自分のゴルフ場でよくない？」という発想がある。",
+        "利益相反？落ち着いて。税金を払うだけで、コースを使えと強制してるわけじゃないから。",
+        "「納税者へのメリットはまだ不明」と政府自身が言ってる。出口戦略も不明だけど、まあそれはいつものことか。",
+        "自分の家のリフォーム費用を「会社の経費で」と上司に提案したことある？これはそれの連邦政府版。"
       ],
-      "newsEn": "President Trump announced the opening of a $6.6 billion shipbuilding factory in Baltimore on Tuesday. The facility is partly funded by the US government but will be owned by Anduril Industries, a defense tech company founded by Palmer Luckey, a major Republican donor. The announcement came days after Luckey joined a Pentagon advisory group on weapons development.",
+      "newsEn": "President Trump has proposed his own Trump International Golf Course as the site for a new 'presidential retreat,' to be funded with taxpayer money. The White House has not clarified what benefit taxpayers would receive, nor has it provided a cost estimate. The proposal comes as questions persist about conflicts of interest between the presidency and the Trump Organization.",
       "ironyEn": [
         {
-          "contradiction": "The government is funding a $6.6 billion facility it won't own, for a company whose founder just joined the Pentagon advisory board days earlier.",
-          "absurdity": "The timeline between 'joining a weapons advisory group' and 'receiving a multi-billion-dollar contract' is now shorter than a Netflix free trial.",
-          "outside": "Other countries call this kind of public-private partnership 'corruption.' America calls it 'reindustrialization.'"
+          "contradiction": "The president is proposing to spend taxpayer money on a facility he personally owns — a conflict of interest so blatant it skips the 'alleged' stage.",
+          "absurdity": "The government itself admits it has no idea what the public benefit would be, which is usually the part you figure out before the press release.",
+          "outside": "In most democracies, a leader directing public funds to their own property is called corruption. In this one, it's called a real estate pitch."
         },
         {
-          "contradiction": "Taxpayers foot the construction bill; a top Republican donor pockets the asset. 'Public investment, private returns' is the whole pitch, apparently.",
-          "absurdity": "Palmer Luckey went from 'advisory role' to '$6.6 billion deal' faster than most people get a response to a job application.",
-          "outside": "From the outside, this looks less like a shipyard announcement and more like a very expensive thank-you card."
+          "contradiction": "A 'presidential retreat' funded by the public just happens to sit on land that generates revenue for the president's private business.",
+          "absurdity": "The cost is unknown. The benefit is unknown. What is known: whose name is on the sign.",
+          "outside": "From abroad, the question isn't whether this is a conflict of interest — it's why the proposal needs more than one news cycle to die."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-10-07/candidate-1.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-10-07/candidate-1-punchy.jpg"
+      "image": "images/2026-10-08/candidate-1.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-10-08/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "OpenAI Will Watermark ChatGPT Outputs — But Only If You're in the EU",
-        "source": "Ars Technica",
-        "date": "2026-10-07",
-        "url": "https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/",
-        "summary": "OpenAIはChatGPTの出力にAI生成であることを示す電子透かしをデフォルトで付与する方針を発表したが、この措置はEU域内のユーザーのみが対象で、アメリカ国内は対象外となる。"
+        "headline": "Democrats Sue to Stop Trump From Running Self-Promo Ads on the Public Dime",
+        "source": "The Guardian US",
+        "date": "2026-10-08",
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/democrats-sue-trump-taxpayer-funds-ads",
+        "summary": "民主党全国委員会が、トランプ大統領を宣伝する政府広告（費用1200万ドル超）への公金使用差し止めを求めて連邦裁判所に提訴した。トランプ陣営のスーパーPACは返金を拒否している。"
       },
       "commentary": [
-        "<b>矛盾:</b> AI生成コンテンツの透明性を「デフォルトで保証する」と言いながら、その保証はEUだけ。つまり、どこに住んでいるかで「真実を知る権利」が変わるってことなんですよ。",
-        "<b>滑稽さ:</b> しかも技術的には簡単に回避できると専門家は言う。透かしを入れる手間をかけて、でも効かない——「やってます」ポーズを大西洋の向こうだけに向けてる。",
-        "<b>日本・海外から見ると:</b> 欧州の規制があれば動くのに、自国では動かない。「倫理的だから実装する」じゃなくて「罰則があるから実装する」が正直なところでしょう。"
+        "<b>矛盾:</b> 「政府広告」と「選挙広告」の境界線が1200万ドル分ぐらいぼやけてるんですよ。しかもスーパーPACが返金を拒否してる時点で、区別する気もないじゃないですか。",
+        "<b>滑稽さ:</b> 選挙資金の透明化を訴える団体が山ほどあるアメリカで、大統領の「個人PR」に税金が使われて、それを返せと言ったら断られる。制度のフルコース。",
+        "<b>日本・海外から見ると:</b> 日本でも政府広報と党の宣伝の境界は議論になるけど、「1200万ドル使ったから返して」「嫌です」で終わるのはなかなか見ない。"
       ],
       "imagePrompts": [
-        "A giant stamp reading 'AI GENERATED' hovering over a document on the left side of a map of Europe, while the right side — labeled 'USA' — shows the same document with no stamp and a shrug emoji pinned to it",
-        "A watermark so faint it's nearly invisible on a printed page, with a magnifying glass failing to find it, and a small label underneath reading 'EU COMPLIANT'",
-        "A two-panel office desk: on the left, a computer screen showing EU flag stickers being applied to documents; on the right, the same documents going through a shredder labeled 'Easy Circumvention'"
+        "A television screen showing a polished campaign-style advertisement with official government logos in the corner, while a stack of dollar bills labeled 'TAXPAYER FUNDS' sits on the coffee table in front of it",
+        "A government invoice for $12 million marked 'Return to Sender — Declined' with a Super PAC letterhead stamped in red",
+        "A split image: on the left, an official White House podium; on the right, a glossy campaign billboard — separated only by a dotted line labeled 'Allegedly'"
       ],
       "captions": [
-        "OpenAI will tell Europeans their content is AI-generated. Americans? We'll figure it out, I guess.",
-        "The watermark is easy to remove and only works in Europe — it's the seatbelt law of AI safety.",
-        "They built the most powerful text generator on Earth, and the best accountability measure they've got is 'a label that washes off.'",
-        "If you want OpenAI to be honest with you, move to the EU. Otherwise, good luck out there.",
-        "Transparency: available in select markets. Void where not legally required."
+        "Twelve million dollars of government money on ads promoting the president. The Super PAC says it's not a campaign expense. The Super PAC's lawyers have presumably said this with a straight face.",
+        "They spent $12 million of your money on ads about how great the president is. You're welcome, I guess.",
+        "The Super PAC refused to reimburse taxpayers — the same people who spent three years giving speeches about government waste.",
+        "At what point does a 'government communication' just become a really well-funded selfie?",
+        "Other presidents sent press releases. This one sent a $12 million ad buy — billed to you."
       ],
       "captionsJa": [
-        "OpenAIはEUの人たちにはAI生成だと教えてくれる。アメリカ人? 自分で気づいてくださいってことらしい。",
-        "透かしは簡単に外せて、しかもEUだけ対応——AI安全対策のシートベルト法みたいなもんですよ。",
-        "地球上で最強のテキスト生成器を作っておいて、説明責任の切り札が「すぐ落ちるラベル」。",
-        "OpenAIに正直に接してもらいたければ、EUに引っ越してください。それ以外の方、頑張って。",
-        "透明性：一部の市場でのみ提供。法的義務のない地域では適用外。"
+        "政府の金1200万ドルを大統領のPR広告に使った。スーパーPACは「選挙費用じゃない」と言う。弁護士たちはおそらく真顔でそれを言ってる。",
+        "「あなたの税金で大統領がいかに素晴らしいかを伝えるCMを作りました」。どうぞ。",
+        "返金を拒否したのはスーパーPACだ——3年間、演壇に立つたびに「政府の無駄遣いを止めろ」と叫んでいた、あのスーパーPACが。",
+        "どこから先が「政府広報」じゃなくて「ものすごく高い自撮り」になるんですかね。",
+        "他の大統領はプレスリリースを出した。この大統領は1200万ドルの広告枠を、あなたの口座から出した。"
       ],
-      "newsEn": "OpenAI announced it will watermark ChatGPT outputs by default to help identify AI-generated content. However, the policy will only apply to users in the European Union, not in the United States. Experts note the watermarking technology is not especially reliable and can be easily circumvented regardless of region.",
+      "newsEn": "The Democratic National Committee filed a federal lawsuit Wednesday seeking to stop the Trump administration from using taxpayer money to run ads that promote the president. The ads have cost more than $12 million in public funds. Trump's Super PAC has refused to reimburse taxpayers for the cost, according to the suit.",
       "ironyEn": [
         {
-          "contradiction": "OpenAI believes AI transparency is important enough to implement — just not for the country it's headquartered in.",
-          "absurdity": "The watermark is also easy to remove, so they've built a transparency feature that isn't transparent and doesn't stick.",
-          "outside": "The EU didn't invent AI ethics. It just invented the fines."
+          "contradiction": "Campaign finance law exists to separate public money from political promotion. These ads cost $12 million in public money and promote a politician. The Super PAC says it doesn't owe anything.",
+          "absurdity": "The administration spent more than $12 million in taxpayer funds on ads that happen to feature the president looking great, and they're surprised people think that's a campaign expense.",
+          "outside": "In most countries, using state resources to campaign is an impeachable offense. Here, it's a line item."
         },
         {
-          "contradiction": "Americans built ChatGPT. Europeans get the label that tells you it's ChatGPT. Seems fair.",
-          "absurdity": "A watermark that experts say is easy to circumvent, applied only where regulators are watching — it's basically a car alarm that only works when a cop is nearby.",
-          "outside": "From Japan or anywhere else outside the EU: you're just expected to figure it out yourself."
+          "contradiction": "A Super PAC that raised hundreds of millions for a political candidate is refusing to pay back $12 million used to advertise that candidate. They call it 'government communication.'",
+          "absurdity": "The lawsuit had to be filed to establish that taxpayer-funded presidential commercials are not, in fact, a public service.",
+          "outside": "From abroad, the fact that this requires litigation rather than an automatic audit says more about the system than about any individual."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-10-07/candidate-2.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-10-07/candidate-2-punchy.jpg"
+      "image": "images/2026-10-08/candidate-2.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-08/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Trump Hedges on Paying Back Taxpayers for Ads That Praised Trump",
+        "headline": "Trump Gives Tech Execs Science Medals at Summit Where Science Policy Is Unclear",
         "source": "CNBC Top News",
-        "date": "2026-10-07",
-        "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
-        "summary": "ニューヨーク・タイムズの報道によると、トランプ大統領は予算局長に対し、自身と政権を称える政府広告に税金を使うよう個人的に指示していたとされる。報道後、トランプ氏は返金に関して曖昧な態度を見せている。"
+        "date": "2026-10-08",
+        "url": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
+        "summary": "トランプ大統領が科学技術サミットで、イーロン・マスク、マイケル・デル、サティア・ナデラらテック企業幹部に表彰を行った。"
       },
       "commentary": [
-        "<b>矛盾:</b> 政府広報として税金を使っておいて、内容は「トランプ大統領、最高！」——「国民への情報提供」と「自己宣伝」の境界線を、本人が消しちゃってるんですよ。",
-        "<b>滑稽さ:</b> すでに放送済み、という点が絶妙で。「返金する気があるか？」と聞かれた時点で、すでにCMは全部流れ終わってる。返せないんじゃなくて、もう終わったんですよ。",
-        "<b>日本・海外から見ると:</b> 政府が自国のリーダーを称えるCMを国費で流す、というのは民主主義国家というより別の体制の特徴なんですが、アメリカでそれをやってるのが皮肉で。"
+        "<b>矛盾:</b> 大学や研究機関への連邦資金を削りながら、テック億万長者に科学の勲章を渡すサミット。「科学を支援する」の定義が資産額で変わってくるんですよ。",
+        "<b>滑稽さ:</b> マスク、デル、ナデラって、全員すでに人類史上最も有名な人たちじゃないですか。表彰されてうれしいのか、それとも「ありがとう、知ってる」なのか。",
+        "<b>日本・海外から見ると:</b> 日本の文化勲章は「その分野に一生を捧げた人」に贈られる。アメリカのこの賞は「最近ホワイトハウスに来た人」に贈られた。"
       ],
       "imagePrompts": [
-        "A television screen showing a generic political ad with the word 'PAID FOR BY: YOU' in small print at the bottom, while a figure in a suit stands beside it giving two thumbs up",
-        "A government invoice stamped 'TAXPAYER FUNDS' with a line item reading 'TV ads — praising incumbent' and a checkbox next to 'Reimbursement Planned' left unchecked",
-        "A TV studio set with a 'NOW AIRING' sign lit up, a receipt on the floor labeled 'Public Treasury — Already Spent,' and an empty podium where someone was clearly just standing"
+        "A formal awards ceremony stage with presidential bunting, where three men in expensive suits receive medals — behind them, a backdrop reading 'SCIENCE SUMMIT' with no scientists in the room",
+        "A trophy case labeled 'American Innovation Awards' sitting next to a filing cabinet labeled 'Defunded Research Grants'",
+        "An ornate medal on a velvet cushion, engraved with 'For Science,' displayed in front of a stock market ticker showing each recipient's net worth"
       ],
       "captions": [
-        "He used your money to make ads about how great he is — and now he's 'looking into' whether to pay it back. The ads, for the record, have already aired.",
-        "Most politicians kiss babies for free. This one runs a TV campaign on the federal budget.",
-        "Taxpayer-funded self-promotion. It's not a scandal, it's just a subscription you didn't sign up for.",
-        "The ads said everything was great. The reimbursement question got a lot more complicated.",
-        "Government money, presidential glory, public tab — someone had a very good Tuesday."
+        "The government cut research funding and then held a science summit. The scientists weren't there, but three billionaires got medals, so it evens out.",
+        "Musk has a rocket. Dell has a computer empire. Nadella runs the cloud. What they were missing: a ribbon on a lanyard from the president.",
+        "Nothing says 'we support science' like giving your biggest donors a medal at an event called a science summit.",
+        "I looked up who won — no PhDs on the list. Lots of stock options, though.",
+        "The White House celebrated American innovation. The celebrants' factories are in China, but details."
       ],
       "captionsJa": [
-        "あなたのお金で自分を褒めるCMを作って、返金するかどうかは「検討中」。CMはもう全部流れ終わってますけどね。",
-        "ほとんどの政治家は赤ちゃんを抱っこして無料で人気をとる。この人は連邦予算でテレビCMを打つ。",
-        "税金による自己宣伝。スキャンダルじゃなくて、申し込んでないサブスクですよこれ。",
-        "CMでは「すべてが最高です！」。返金の件は「かなり複雑な話になってきまして」。",
-        "政府のお金、大統領の栄光、国民のツケ——誰かにとってはとても良い火曜日でした。"
+        "政府は研究費を削って科学サミットを開いた。科学者は来ていないが、億万長者3人がメダルをもらったので帳尻は合っている。",
+        "マスクにはロケットがある。デルにはPC帝国がある。ナデラはクラウドを持っている。足りなかったのは大統領から首にかけてもらうリボンだけだった。",
+        "「科学を支援します」を一番うまく表現する方法は、最大の支持者に「科学サミット」でメダルを渡すこと、らしい。",
+        "受賞者リストを調べたら博士号なし。株式オプションはたくさんあったけど。",
+        "ホワイトハウスはアメリカのイノベーションを称えた。受賞者たちの工場は中国にあるけど、細かいことは置いといて。"
       ],
-      "newsEn": "The New York Times reported that President Trump personally instructed his budget director to use taxpayer money to fund TV ads praising him and his presidency. After the report surfaced, Trump declined to commit to reimbursing the government, offering only hedged responses when asked. The ads had already aired by the time the story broke.",
+      "newsEn": "President Trump awarded medals to a group of prominent tech executives including Elon Musk, Michael Dell, and Satya Nadella at a science and technology summit Thursday. The White House framed the event as a celebration of American innovation. The ceremony comes amid ongoing debates over federal funding cuts to research institutions.",
       "ironyEn": [
         {
-          "contradiction": "The president used public funds to run ads about how great the president is, which is either brilliant or the most on-brand thing imaginable.",
-          "absurdity": "He's now 'hedging' on reimbursement — for ads that have already aired. The refund window for TV spots closes when the closing credits roll.",
-          "outside": "State-funded propaganda praising the head of state is a well-known feature of certain governments. The US usually puts those governments on a list."
+          "contradiction": "An administration that has cut funding to universities and federal research agencies hosted a science summit — and the people getting the science awards are billionaires, not scientists.",
+          "absurdity": "Elon Musk already has a rocket company, a car company, and a social media platform. A medal from the White House is what was missing from the collection.",
+          "outside": "Other countries give science honors to researchers who spent decades in labs. This summit gave them to men whose net worths could fund those labs for generations."
         },
         {
-          "contradiction": "Taxpayers funded ads thanking themselves for electing someone great, whether they voted for him or not.",
-          "absurdity": "When asked if he'd pay it back, Trump hedged. The ads did not hedge. The ads were very clear about how excellent everything is.",
-          "outside": "Most countries that run government ads about their leader's greatness are not typically described as 'the leader of the free world.'"
+          "contradiction": "The White House celebrated American innovation while the CEOs receiving the awards run companies that manufacture in Asia, hire globally, and lobby against research funding mandates.",
+          "absurdity": "Nadella, Musk, and Dell are among the most photographed humans on earth. The ceremony presumably made them feel recognized.",
+          "outside": "From a distance, it looks less like a science summit and more like a very expensive thank-you dinner with better lighting."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-10-07/candidate-3.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-10-07/candidate-3-punchy.jpg"
+      "image": "images/2026-10-08/candidate-3.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-08/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Xbox Secures Exclusive GTA 6 Streaming Rights in Deal No One Else Is Doing",
-        "source": "The Verge",
-        "date": "2026-10-07",
-        "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
-        "summary": "マイクロソフトのXbox部門がGrand Theft Auto VIのクラウドストリーミング独占権を獲得した。XboxのCEOは社内全体ミーティングで「他のプラットフォームがやっていないこと」と発言したと報じられている。"
+        "headline": "Trump Issues Diesel Order — Experts Say It Won't Lower Diesel Prices",
+        "source": "CNBC Top News",
+        "date": "2026-10-08",
+        "url": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
+        "summary": "トランプ大統領が急騰するディーゼル価格への対処として大統領令を出したが、専門家や業界関係者は実際に価格を下げる効果は限定的だと指摘。中間選挙1カ月前の政治的圧力への対応とみられている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「他の誰もやっていないことをする」と社内にだけ自慢する——それ、発表じゃなくてリークを待ってる状態ですよね。秘密の戦略を全社員に話す会議、機密保持契約は何のためにあるんですか。",
-        "<b>滑稽さ:</b> GTA 6はゲーム業界で何年も「世紀の一本」と呼ばれてきたタイトル。そのストリーミング権を取ったのに、発表の場が「社内ミーティング」で、世界が知ったのはリーク経由。",
-        "<b>日本・海外から見ると:</b> アメリカのゲーム業界では「独占権」という言葉が喜ばれるけど、ユーザーから見れば「プレイできるハードを選ばされる」という話なんですよね。"
+        "<b>矛盾:</b> 価格を下げられない命令を「価格対策」として出す。政治的には「何かやった」、実用的には「何も変わらない」。この二つが同時に本当なのが行政の醍醐味じゃないですか。",
+        "<b>滑稽さ:</b> 中間選挙まであと1カ月で「ディーゼル高い、なんとかしろ」という声に応えた結果が「大統領令」で、専門家が「効かないと思います」と翌日言う。スピードランかな。",
+        "<b>日本・海外から見ると:</b> 日本も燃油サーチャージや補助金でガソリン価格をなんとかしようとするけど、「とりあえず令を出した」で終わるのは見たことない。見栄えだけで中身のない政策は国際共通語だとしても。"
       ],
       "imagePrompts": [
-        "A large corporate all-hands meeting room filled with employees, a projection screen at the front reading 'TOP SECRET GTA 6 DEAL,' with a small figure at the podium labeled 'CEO' and a single journalist's notepad visible in the back row",
-        "A vault door labeled 'EXCLUSIVE STREAMING RIGHTS' swung wide open, with a trail of footprints leading from the CEO's office directly to a media outlet's front door",
-        "Two game controllers on opposite sides of a table, one labeled 'Xbox' holding a contract, the other labeled 'Everyone Else' with empty hands, while a tiny GTA 6 logo sits in the middle looking confused"
+        "A president signing a large official document at a desk, while through the window behind him a gas station price sign shows diesel at a record high and keeps ticking upward",
+        "An executive order document in a fancy leather folder, sitting next to a chart showing diesel prices continuing to rise in an unbroken line",
+        "A White House press briefing room podium with a sign reading 'DIESEL SOLVED' while reporters in the front row hold up their phones showing current fuel prices"
       ],
       "captions": [
-        "Microsoft got exclusive GTA 6 streaming rights. The world found out because the CEO told all their employees, which is basically the same as telling everybody.",
-        "They secured a deal for the most secretive game announcement in years — and leaked it themselves in a company-wide meeting.",
-        "Exclusive streaming rights to a game about crime, announced at a meeting that immediately became a leak. Rockstar must be thrilled.",
-        "GTA 6 has been in development longer than some Xbox consoles have existed. But sure, locking down streaming rights first makes sense.",
-        "'No other platform holder is doing this.' Correct. No other platform holder held an all-hands and told three thousand employees about it either."
+        "He signed an order about diesel prices. Diesel prices did not read the order.",
+        "The White House has 'limited tools' to lower fuel costs, according to experts. The White House responded by using the most visible tool, which does not lower fuel costs.",
+        "One month to the midterms, diesel's surging, so the president signed something. It won't help, but it photographs great.",
+        "Executive order on diesel: issued. Diesel: unbothered.",
+        "Global commodity markets are famously unimpressed by domestic political documents, but it's worth a shot, I guess."
       ],
       "captionsJa": [
-        "マイクロソフトがGTA 6の独占ストリーミング権を取得。世界が知ったのは、CEOが全社員に話したから——つまり全員に話したのと同じですよ。",
-        "ゲーム業界最高機密レベルの発表を、社内全体会議でやらかした。自分たちでリークしてる。",
-        "犯罪ゲームの独占権を、即座に外部に漏れた会議で発表。ロックスターはさぞかし喜んでいるでしょう。",
-        "GTA 6の開発期間、Xboxのハードが何世代も入れ替わってる。でもストリーミング権を先に押さえるのは筋が通ってますよね、確かに。",
-        "「他の誰もやっていないことをする」——正解です。他の誰も、3000人の全社員に戦略を話して即リークされたりしていませんから。"
+        "大統領がディーゼルに関する命令に署名した。ディーゼル価格はその命令を読んでいない。",
+        "専門家いわく「使える手段は限られている」。ホワイトハウスの対応は「じゃあ一番見栄えのする手段を使おう、効果はないけど」。",
+        "中間選挙まで1カ月、ディーゼルは急騰、大統領は何かに署名した。助けにはならないが、写真映えは最高。",
+        "ディーゼルへの大統領令: 発令済み。ディーゼル価格: 動じず。",
+        "グローバルな商品市場は国内の政治文書に感銘を受けることで知られていないが、まあ試してみる価値はある、たぶん。"
       ],
-      "newsEn": "Xbox CEO Asha Sharma told employees at an all-hands meeting that Microsoft is preparing to do something around Grand Theft Auto VI that 'no other platform holder is doing.' Sources familiar with Microsoft's plans say Xbox has secured an exclusive deal for cloud streaming rights to GTA 6. The game has been one of the most anticipated titles in gaming history.",
+      "newsEn": "President Trump issued an executive order aimed at addressing surging diesel prices, which have become a political liability with midterm elections a month away. However, energy analysts and industry observers have noted that the order does little to directly lower fuel costs. The move highlights the limited tools available to any White House when global commodity markets drive domestic prices.",
       "ironyEn": [
         {
-          "contradiction": "The CEO announced a secret competitive advantage to every single employee at once — and then seemed surprised it leaked.",
-          "absurdity": "They secured rights to the most hyped game in a generation, and the world found out via 'sources familiar with Microsoft's plans,' not a press release.",
-          "outside": "Other platforms aren't doing this deal. Other platforms also aren't having their all-hands meetings reported on by The Verge."
+          "contradiction": "An executive order on diesel prices landed the same week analysts confirmed the White House has almost no actual tools to lower diesel prices — which is the kind of thing you learn before signing the order.",
+          "absurdity": "The order is essentially a press release with legal formatting. It signals urgency without creating any mechanism that touches the thing causing the urgency.",
+          "outside": "Every government wants credit for falling prices and a scapegoat for rising ones. This one just moved faster to the scapegoat stage by skipping the effective policy step."
         },
         {
-          "contradiction": "Microsoft bought exclusive streaming rights to a game about stealing things. Make of that what you will.",
-          "absurdity": "GTA 6 has been in development for so long that Xbox has had time to build entire consoles, acquire studios, and now lock down cloud rights — and the game still isn't out.",
-          "outside": "From a player's perspective, 'exclusive streaming rights' is just a fancy way of saying 'we're deciding where you're allowed to play this.'"
+          "contradiction": "Global commodity markets set diesel prices. The president signed a document. One of these things affects the other.",
+          "absurdity": "With the midterms a month out, the calculus is simple: a signed order photographs better than a press conference explaining why nothing can be done.",
+          "outside": "From outside the U.S., the gap between what executive orders promise and what global energy markets care about is a reliable source of bipartisan comedy."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-10-07/candidate-4.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-10-07/candidate-4-punchy.jpg"
+      "image": "images/2026-10-08/candidate-4.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-08/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
-      "sensitive": false,
+      "sensitive": true,
       "news": {
-        "headline": "Disney Accuses Trump Officials of 'Blatant' Constitutional Violations Over FCC Battle",
+        "headline": "FBI Stopped a Mall of America Attack Using the AK-47 It Provided to the Suspect",
         "source": "The Guardian US",
-        "date": "2026-10-07",
-        "url": "https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc",
-        "summary": "ディズニー社の弁護士が連邦裁判所で、FCCがABCの地方テレビ局免許を審査しようとしているのはトランプ政権による憲法への「露骨な違反」であり、報道機関への検閲に当たると主張した。"
+        "date": "2026-10-08",
+        "url": "https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack",
+        "summary": "FBIがミネソタ州のモール・オブ・アメリカを標的としたテロ計画を阻止したと発表した。当局はFBI自身が容疑者に提供したAK-47を入手した罪で18歳の男を逮捕した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 放送免許の審査という「行政手続き」の形を借りて、報道内容を問題にする——規制の手続きを検閲の道具として使う構図が、ちゃんと裁判所まで来ちゃったんですよ。",
-        "<b>滑稽さ:</b> 世界最大のメディア・エンターテインメント企業が「検閲された」と言っている。ミッキーマウスを持つ会社が言論の自由の被告席に座ってる絵、なかなかない。",
-        "<b>日本・海外から見ると:</b> 放送免許を使って気に入らないメディアを黙らせようとする、という話は民主主義の優等生とされてきた国でよく見る光景ではなかったはずなんですよ。"
+        "<b>矛盾:</b> 「テロを防いだ」と発表したFBIが、容疑者にAK-47を渡したのもFBIなんですよ。銃を渡して、渡した銃を持ったことで逮捕する。これを「阻止」と呼ぶのはかなり創造的な定義。",
+        "<b>滑稽さ:</b> 容疑者への告訴が「銃を入手した罪」1件だけ。その銃を用意したのが告訴した側っていう、刑事ドラマだったら脚本が却下されるやつ。",
+        "<b>日本・海外から見ると:</b> おとり捜査自体は各国にあるけど、「FBIが武器を提供→FBIが阻止」のサイクルを「テロ防止の成果」として記者会見するのは、アメリカ固有の様式美がある。"
       ],
       "imagePrompts": [
-        "A large FCC seal hanging on a wall above a stack of broadcasting license documents, with a single spotlight illuminating the pile and a shadow of a hand reaching toward it from off-screen",
-        "A courtroom sketch-style scene showing two large tables: one labeled 'DISNEY / ABC' stacked with constitutional law books, the other labeled 'FCC' stacked with license renewal forms, with a judge's bench towering above both",
-        "A broadcast tower with a giant padlock being placed on it by a figure in a suit, while a framed copy of the First Amendment hangs slightly crooked on the wall behind them"
+        "A formal federal law enforcement press conference podium with officials in suits, behind a banner reading 'THREAT NEUTRALIZED,' while on the table in front sits a redacted evidence tag attached to a sealed evidence bag",
+        "A circular flowchart with three steps: 'Agency provides weapon' → 'Suspect acquires weapon' → 'Agency arrests suspect for acquiring weapon' — with an arrow looping back to the start labeled 'Success'",
+        "An evidence locker at a federal facility, with a sealed evidence bag labeled 'Exhibit A — Chain of Custody: Unusual'"
       ],
       "captions": [
-        "The government says it's a routine license review. Disney says it started three days after a news story they didn't like. One of these is more convincing than the other.",
-        "The FCC is reviewing ABC's license to broadcast. The FCC is not reviewing why it's reviewing ABC's license to broadcast.",
-        "Disney has survived world wars, recessions, and the Star Wars prequel trilogy. Now it's in federal court arguing it's being censored. That's a new one.",
-        "Broadcast license reviews as a political tool — it's not a new idea. The countries that do it just don't usually show up on America's press freedom awards list.",
-        "First Amendment, meet broadcast regulation. You two are going to be spending a lot of time together."
+        "The FBI stopped a terrorist attack. With the gun the FBI gave him. One charge: getting the gun. From the FBI.",
+        "Sting operations are legal, effective, and deeply weird when you stop and read the paragraph about who brought the AK-47.",
+        "Eighteen years old. One count. One rifle. The rifle's prior owner was the arresting agency. I'm not saying it's complicated — it's exactly as complicated as it sounds.",
+        "The Mall of America is safe. The FBI's sting operation is why. Don't ask too many questions about the gun.",
+        "FBI logic: step one, provide the weapon. Step two, prevent the weapon from being used. Step three, press conference."
       ],
       "captionsJa": [
-        "政府は「通常の審査だ」と言う。ディズニーは「例の報道の3日後に始まった」と言う。どちらが説得力あるか、もうわかりますよね。",
-        "FCCはABCの放送免許を審査している。FCCが「なぜABCを審査しているか」は審査していない。",
-        "世界大戦も、不況も、スター・ウォーズのプリクエル三部作も乗り越えたディズニーが、今度は連邦裁判所で「検閲された」と言っている。初めてのパターンですよ。",
-        "政治的道具としての放送免許審査——珍しい手法じゃないんですよ。ただ、それをやってる国は普通アメリカの報道自由ランキングに表彰される側じゃなくて。",
-        "修正第一条よ、放送規制と仲良くしてください。これから長い付き合いになりそうだから。"
+        "FBIがテロを阻止した。FBIが容疑者に渡した銃で。起訴内容は1件: 銃の入手。銃を渡したのはFBI。",
+        "おとり捜査は合法で効果的だ。「誰がAK-47を持ち込んだか」の段落を読むまでは。",
+        "18歳。起訴1件。ライフル1丁。そのライフルの前の持ち主が逮捕した側。複雑じゃないとは言わない——まさに聞こえるとおりに複雑。",
+        "モール・オブ・アメリカは安全だ。FBIのおとり捜査のおかげで。銃についてはあまり突っ込まないでほしい。",
+        "FBIの手順: ステップ1、武器を提供。ステップ2、武器が使われるのを防ぐ。ステップ3、記者会見。"
       ],
-      "newsEn": "Lawyers for Disney told a federal judge Tuesday that the Trump administration is committing 'blatant violations of the US Constitution' by directing the FCC to review ABC's local TV station licenses. Disney argues the review is targeted retaliation against ABC for its news coverage. It was the first court hearing in the dispute between Disney and the federal communications regulator.",
+      "newsEn": "Federal authorities announced Wednesday the arrest of an 18-year-old man suspected of planning a mass shooting at the Mall of America in Bloomington, Minnesota. The FBI said it disrupted the plot before any attack occurred. The man faces one count of obtaining a firearm — the weapon in question was supplied to him by the FBI as part of a sting operation.",
       "ironyEn": [
         {
-          "contradiction": "The government insists it's just a routine license review. Disney insists it started the day after a contentious news segment. Both can't be right.",
-          "absurdity": "The most powerful entertainment company on Earth — owner of Marvel, Star Wars, and the entire concept of childhood magic — is in court arguing it's being silenced.",
-          "outside": "Using broadcast license reviews to pressure news organizations is a tactic more commonly associated with governments that the US State Department issues annual press freedom reports about."
+          "contradiction": "The FBI announced it stopped a terrorist attack using a gun it gave to the terrorist. The charge is obtaining a firearm. The entity that provided the firearm filed the charge.",
+          "absurdity": "The single count against the suspect is for getting his hands on the weapon — which, again, the FBI handed him. The plot thickens in the direction of a logic problem.",
+          "outside": "Other countries' counterterrorism agencies stop attacks. The FBI sometimes stops attacks it partially equipped. Both call it a success."
         },
         {
-          "contradiction": "The FCC is supposed to ensure broadcasters serve the public interest. Apparently 'the public interest' and 'favorable coverage' have become hard to distinguish.",
-          "absurdity": "Disney owns a theme park where children wait two hours to hug a cartoon mouse, and yet it's the First Amendment case they'll be remembered for this year.",
-          "outside": "From outside the US, this looks like a stress test of the First Amendment — and the stress is visible."
+          "contradiction": "Law enforcement agencies exist to prevent people from acquiring weapons for attacks. This agency acquired a weapon and gave it to someone for an attack, then prevented the attack.",
+          "absurdity": "Eighteen years old, one AK-47, one count. The AK-47 came from the FBI. The count came from the FBI. The press conference also came from the FBI.",
+          "outside": "From abroad, the question isn't whether the Mall of America is safer today — it probably is. The question is what exactly was 'thwarted' and by whom."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-10-07/candidate-5.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-10-07/candidate-5-punchy.jpg"
+      "image": "images/2026-10-08/candidate-5.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-08/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「税金・契約・規制——全部、権力者の手の届く場所に置き直されている」ということ。誰が払って、誰が得をするか。その質問を5回繰り返す日です。",
-    "titleEn": "Your Tax Dollars, Their Assets",
-    "subtitleEn": "Five stories, one business model.",
-    "titleJa": "66億ドルの造船所を建てたのは国民で、もらったのは献金者だった話",
+    "thread": "今日の5本を貫く糸は「やった感だけ本物」。ゴルフ場は提案した、広告は流した、勲章は渡した、令は出した、テロは防いだ——中身は後で考える、というアメリカの一日。",
+    "titleEn": "The Government Spent Your Money. On Stuff. You're Welcome.",
+    "subtitleEn": "Five stories, zero accountability, one very busy executive order pen.",
+    "titleJa": "税金でゴルフ場を「公共施設」にしようとした日のアメリカ",
     "titleAltJa": [
-      "「EU限定の誠実さ」「自分を褒めるCM」「造船所の所有者」——今日これが言えれば十分です",
-      "国民が払って、知り合いが受け取る。今週のアメリカはそういう週です"
+      "「やった感だけ本物」の政策が今日だけで4本あった話",
+      "ディーゼル令は出た。価格は動かなかった。FBIは銃を渡した。渡した側が逮捕した。"
     ],
-    "leadJa": "66億ドルの造船所。税金で建てる。でも、持つのは別の人。\n\nこれが今日の1本目です。2本目以降も、だいたい同じ話です。",
-    "introEn": "Five stories today. One pattern.\n\nThe U.S. government just announced a $6.6 billion shipyard — funded by taxpayers, owned by a top Republican donor who joined a Pentagon advisory board last week. OpenAI is watermarking AI content for transparency, but only in Europe. Trump used federal money to run ads praising Trump, and is now 'looking into' whether to pay it back.\n\nAlso: Xbox leaked its own biggest deal in a company-wide meeting, and Disney is in federal court arguing the government is using broadcast licenses as a weapon against a news channel it doesn't like.\n\nThe thread running through all five: who holds the lever, and who ends up holding the bill.\n\nHere's your forecast. If you've been doing everything right and somehow still feel like someone else is cashing in — you're not wrong, and today's news will confirm it in five different ways. That's not an excuse to stop. It's just useful to know where the exits actually are.",
-    "introJa": "記事を開いた瞬間、「あ、今日もこれか」と思いました。\n\n税金で造船所を建てて、もらうのは献金者。自分を褒めるCMを国費で流して、返金は「検討中」。AI生成コンテンツに透かしを入れるけど、EUだけ。ディズニーが「検閲されてる」と裁判所に行って、Xboxは機密情報を全社員ミーティングで喋る。\n\nばらばらに見えて、今日の5本には一本の糸があります。\n\n「レバーを持っている人が、請求書の送り先も決めている」ということです。\n\n今日の占い。\n\n「ちゃんとやってるのに、なんか損してる気がする」と思ってるあなた。今日の5本を読むと、それが気のせいじゃないとわかります。\n\nわかっても何かがすぐ変わるかというと、まあ、変わらない。でも「自分がおかしいんじゃなかった」って知るだけで、今日一日わりと乗り切れたりする。行こう。",
-    "quipEn": "Taxpayer-funded shipyard, taxpayer-funded ad campaign, transparency that only applies overseas — at some point 'public investment' and 'private benefit' stopped being two different things.",
-    "quipJa": "国民が払って、知り合いが受け取る。5本読んで、全部同じ話でした。",
+    "leadJa": "税金でゴルフ場。税金でCM。科学者のいない科学サミット。効かない大統領令。あとFBIが容疑者に銃を渡して、渡した銃を持ったことで逮捕した。\n\n今日のアメリカ、全部「やった」んですよ。ただ「何を」が全部おかしい。",
+    "introEn": "Five stories from America today, and they all share the same energy: something was done, announced, photographed, and celebrated — and the actual problem remained exactly where it started.\n\nA president proposed his own golf course as a public retreat. Twelve million dollars in taxpayer money went to ads about how great the president is. Billionaires got science medals at a summit where scientists weren't the point. An executive order on diesel prices was signed. Diesel didn't notice. And the FBI stopped a terror plot using a gun the FBI provided.\n\nThe forecast: if you've ever done a thing and had someone immediately ask what it actually accomplished — today's news is for you. Doing the thing and fixing the thing are two different jobs. You already knew that. Apparently Washington is still working it out.",
+    "introJa": "税金でゴルフ場。\n税金でCM。\n勲章をもらったのは億万長者。\n令を出した。価格は下がらなかった。\nFBIが銃を渡した。渡した相手を逮捕した。\n\n今日の5本、全部「やった」んです。ただ何をやったのかが、ぜんぶちょっとずつおかしい。\n\n今日の占いです。\n\n「ちゃんとやってるのに、なんで評価されない？」って気持ち、わかる。でも今日のニュース見てると、「やった感」だけで記者会見を開いてる人が何人もいてですね。中身まで気にしてるあなたは、少なくとも彼らよりずっとまともです。自信持っていい。\n\n5本、どうぞ。",
+    "quipEn": "Today's theme: action was taken, outcomes were not. It's a busy way to accomplish nothing.",
+    "quipJa": "今日のアメリカ、全員「やった」と言ってました。やったことの結果は、また別の話です。",
     "notesEn": [
-      "Palmer Luckey joined a Pentagon advisory board. Days later, his company got a $6.6 billion government contract for a shipyard. I've waited longer than that for a dentist appointment.",
-      "OpenAI is adding watermarks to ChatGPT outputs so you know the content is AI-generated. In Europe. The watermark is also, per experts, easy to remove. So it's a label that washes off, shipped exclusively to places with fines for not shipping it.",
-      "Trump reportedly told his budget director to spend taxpayer money on TV ads praising Trump. When asked if he'd pay it back, he said he was 'looking into it.' The ads had already finished airing. All of them. 'Looking into it' works best before the thing happens.",
-      "Xbox CEO told the entire company about their secret exclusive GTA 6 streaming deal. The world found out an hour later. This is what happens when your internal communications strategy is 'trust everyone.'",
-      "Disney is arguing in federal court that the government is using broadcast license reviews to punish ABC for its news coverage. The company that owns Mickey Mouse is now a First Amendment plaintiff. Sure."
+      "The White House proposed Trump's golf course as the next presidential retreat, to be paid for by taxpayers. Cost: unknown. Benefit to taxpayers: also unknown. Name on the flag at hole nine: very much known.",
+      "The DNC sued to stop the Trump administration from spending taxpayer money on ads promoting the president. Twelve million dollars so far. The Super PAC refused to reimburse. The people who spent years railing against government waste would like you to know this is different.",
+      "Trump gave science medals to Elon Musk, Michael Dell, and Satya Nadella at a science and technology summit. Federal research funding has been cut. The scientists weren't there, but the billionaires got lanyards, so the science community should feel great.",
+      "Trump signed an executive order on diesel prices. Energy analysts said it won't lower diesel prices. The midterms are in a month. The order photographs well.",
+      "The FBI announced it stopped a Mall of America terror plot. The weapon the suspect obtained — the basis of his one criminal charge — was supplied to him by the FBI. Sting operations are legal. They are also, if you read that paragraph twice, pretty weird."
     ],
     "xJa": [
-      "パルマー・ラッキーがペンタゴンの諮問委員会に入って数日後、彼の会社が66億ドルの政府契約を取った。私が転職活動した時は書類選考で2週間かかりました。",
-      "OpenAIが「AI生成コンテンツに透かしを入れる」と発表。対象はEUのみ。アメリカ人は自分で判断して、という設計です。ちなみに技術的には簡単に消せます。罰則のある地域だけに、洗えば落ちるラベルを貼っている。",
-      "トランプ大統領が税金で「トランプ大統領すごい」というCMを流していたことが判明。返金するか聞かれて「検討中」と答えたが、その時点でCMは全部放送終了していた。検討できる段階は終わっている。",
-      "XboxのCEOが全社ミーティングでGTA 6の独占ストリーミング契約を発表。当然その日のうちにリークされた。何千人かに「内密に」と話した瞬間、内密ではなくなります。",
-      "ディズニーが連邦裁判所で「ABCの放送免許審査は報道への報復だ」と主張。ミッキーマウスを持つ会社が言論の自由を訴えている。2026年の絵面。"
+      "トランプ大統領が「新しい大統領専用保養施設」の候補地として自分のゴルフ場を提案。費用は税金から。納税者へのメリットは「不明」と政府自身が発表した。不明を自分で言える神経がすごい。",
+      "トランプ政権が税金1200万ドルで大統領宣伝CMを流し、民主党が「返せ」と提訴。スーパーPACは「返しません」と拒否。政府の無駄遣いをずっと批判してきた人たちの話です。",
+      "トランプ大統領が科学技術サミットでマスク、デル、ナデラに科学の表彰。連邦の研究費は削減中。科学者はいませんでしたが、億万長者3人が勲章をもらったので科学は前進したそうです。",
+      "トランプ大統領がディーゼル価格高騰への対応として大統領令に署名。エネルギー専門家は「価格は下がらないと思います」とコメント。中間選挙まであと1カ月です。",
+      "FBIがモール・オブ・アメリカのテロ計画を阻止したと発表。容疑者への告訴は1件。容疑者が入手した銃はFBIが提供したもの。「阻止した」と「銃を渡した」が同じ文に収まっている。"
     ],
     "raidEn": [
-      "He joined the advisory board on a Monday. The $6.6 billion contract came days later. Most people don't get that kind of turnaround on a job application.",
-      "Watermarks for Europeans, vibes for Americans. Solid rollout strategy.",
-      "The ads aired. He's 'looking into' reimbursement. I love when 'looking into it' means 'please stop asking.'",
-      "Announced it to the whole company, got leaked immediately. The most expensive NDA violation in gaming history, committed by the CEO.",
-      "The FCC is reviewing the license. The FCC is not reviewing why it's reviewing the license. Great system."
+      "The part that gets me is that the White House confirmed the cost is 'unknown' and the benefit is 'unknown' — and then kept going.",
+      "Twelve million dollars and a refusal to pay it back. The boldest part is that it's all in the public record and the answer is still 'no.'",
+      "Musk, Dell, and Nadella didn't need the medal. But I guess nobody's turning down a ribbon from the president. Even if you own a rocket.",
+      "The order was signed. The diesel didn't read it. Honestly the most relatable thing in today's news.",
+      "I had to read the 'who brought the AK-47' part three times. Each time it said the same thing."
     ],
     "raidJa": [
-      "諮問委員会に入って数日で66億ドルの契約、すごい実績ですね。転職活動中の身としては参考になります（ならない）。",
-      "「EUにだけ正直」というOpenAIの方針、なんか新しい誠実さですよね。読んでいて苦笑いしました。",
-      "「返金を検討中」という言葉、CMが全部流れ終わった後に出てくるのがまた絶妙で。記事の構造が面白かったです。",
-      "全社員ミーティングで秘密を話してリークされる流れ、読んでいて「あーそうなるよな」と思いました。笑",
-      "放送免許の審査という形を借りた検閲、という構図をここまで丁寧に書いてくださってありがとうございます。裁判の行方が気になります。"
+      "「納税者へのメリットは不明」を政府が自分で発表しているのが、この話で一番すごいところだと思いました。",
+      "「返してください」「返しません」のやり取りが1200万ドルで発生しているのが、現実の話というのが読んでいてしんどかったです。よい記事でした。",
+      "研究費が削られた年に、億万長者3人が科学の勲章をもらうサミット、というのがこの話の全部な気がして読んでいました。",
+      "「大統領令を出した」「専門家は効かないと言っている」が同じニュースに入っているの、読むたびに不思議な気持ちになります。",
+      "FBIが銃を渡してFBIが逮捕、というくだりを静かに読みました。脚本だったら通らない話ですよね、という記事の感想と完全に一致していました。"
     ],
     "riffEn": [
-      "The U.S. government is building a $6.6 billion shipyard in Baltimore. Taxpayer money, federal investment, national defense — sounds great. The shipyard will be owned by Anduril Industries, founded by Palmer Luckey, who donated heavily to Republicans and joined a Pentagon advisory group on weapons development last week. Days later: $6.6 billion. I'm not saying there's a connection. I'm saying the connection is right there, typed out, in the same news story.",
-      "OpenAI announced it's adding watermarks to ChatGPT outputs so people can tell when content is AI-generated. Accountability, transparency, trust — the whole package. For EU users. The United States is not included. The watermark is also, according to experts, easy to remove regardless of where you live. So the full picture is: OpenAI built a label that washes off and is shipping it exclusively to countries with fines for not doing so. That's not a safety feature. That's paperwork.",
-      "Trump reportedly told his budget director to spend taxpayer money on TV ads praising Trump. The New York Times reported this. Trump was then asked whether he'd pay the government back. He said he was looking into it. The ads had already aired. All of them. So the question isn't really about money anymore — it's about what 'looking into it' means when the thing is already done. I've looked into a lot of things. Looking into it doesn't do much for the thing that already happened.",
-      "Xbox CEO Asha Sharma held a company-wide meeting and told employees Microsoft was about to do something around GTA 6 that 'no other platform holder is doing.' Sources say Xbox locked up exclusive cloud streaming rights. The world found out because when you tell thousands of employees something in confidence, you've told thousands of people. GTA 6 is one of the most anticipated games in history. The announcement strategy was: internal meeting, wait for leak. Rockstar Games, which has kept GTA 6 details secret for years, probably loved that.",
-      "Disney's lawyers appeared in federal court Tuesday and told the judge that the Trump administration is committing 'blatant violations of the U.S. Constitution' by directing the FCC to review ABC's broadcast licenses. Disney says the review started after ABC's news coverage — not before. The government says it's routine. The FCC is examining the licenses. The FCC is not examining whether the reason for examining the licenses is itself the problem. Disney has outlasted world wars and the Star Wars prequels. This is the first time it's had to argue in court that it's being silenced."
+      "The president proposed his own golf course as the site for a new presidential retreat, funded by taxpayers. The White House doesn't know the cost. Doesn't know the benefit to the public. What it does know: the course. The name on it. Who owns it. The proposal is either an extraordinary conflict of interest or the most honest thing the administration has ever said out loud — 'public benefit' means whatever's convenient at the time, and right now it's very convenient.",
+      "The DNC sued Wednesday to stop the government from running $12 million worth of ads about how great the president is. Trump's Super PAC, which spent three years warning Americans about government waste, has declined to reimburse taxpayers. Their position, as far as anyone can tell, is that this is government money well spent. On ads. About the president. Paid for by people who did not ask for ads about the president.",
+      "Research funding to universities and science institutions has been cut. Scientists have been laid off. Grants have been frozen. So on Thursday the White House held a science summit, awarded medals to Elon Musk, Michael Dell, and Satya Nadella, and called it a celebration of American innovation. Musk has a rocket company. Dell has a computer company. Nadella runs Microsoft. What they lacked, apparently, was a ribbon on a lanyard. That gap has now been addressed.",
+      "Diesel prices are up. Midterms are in a month. So the president signed an executive order on diesel prices. Energy analysts reviewed it and said it won't lower diesel prices. The White House has 'limited tools' when global commodity markets are involved — which is accurate, and also something that could have been said before the signing ceremony. It photographs well, though.",
+      "The FBI disrupted a plot to attack the Mall of America. An 18-year-old was arrested on one charge: obtaining a firearm. The firearm was provided to him by the FBI, as part of a sting. So the agency that gave him the gun arrested him for having the gun, announced it had stopped a terror attack, and held a press conference. All of this is legal. Sting operations are a legitimate law enforcement tool. It's just that 'we stopped him with our own gun' is a sentence that rewards a second read."
     ],
     "riffJa": [
-      "ボルチモアに66億ドルの造船所ができます。費用は政府、つまり税金です。所有するのはアンデュリル社——共和党への多額の献金者として知られるパルマー・ラッキーが創業した国防企業です。\n\nラッキー氏がペンタゴンの諮問委員会に加わったのは、ほんの数日前のことです。数日後には66億ドルの契約。同じニュース記事の中に、全部書いてあります。もうそこに書いてある。",
-      "OpenAIが「ChatGPTの出力にAI生成であることを示す透かしを入れる」と発表しました。透明性のある、責任ある対応です。対象はEUのユーザーのみです。\n\nアメリカは対象外。\n\nしかも技術的には簡単に消せると専門家は言う。洗えば落ちるラベルを、罰則のある地域にだけ貼っている。「倫理的だからやる」のではなく「法律があるからやる」、それを正直に言っているのが、かえって清々しい気もします（しません）。",
-      "トランプ大統領が予算局長に「税金で自分を褒めるCMを流せ」と指示していた、とニューヨーク・タイムズが報じました。\n\n報道後、「返金するか」と聞かれたトランプ氏は「検討中」と答えました。\n\nCMは、すでに全部放送終了しています。\n\n「検討中」という言葉が一番効く場面は、まだ何かができる段階に使うものだと思っていました。終わったことに「検討中」を当てる使い方、なかなかない。",
-      "XboxのCEOが全社ミーティングで「他のプラットフォームがやっていないことをGTA 6でやる」と発言。その中身はGTA 6のクラウドストリーミング独占権の取得、と伝えられています。\n\nこの情報、どこから出たかというと、そのミーティングに参加していた人からです。\n\nGTA 6は何年もかけて情報管理をしてきたロックスター・ゲームズの作品です。その情報が「全社員に向けたCEOのスピーチ」経由で世界に出た。独占権は取れても、秘密は無理だった。",
-      "ディズニーの弁護士が連邦裁判所で「トランプ政権によるFCCへの指示は憲法の露骨な違反だ」と主張しました。FCCがABCの地方局免許を審査しようとしているのは、ABCの報道への報復だというのです。\n\nFCCは免許を審査しています。なぜ審査するのかは、審査していません。\n\nミッキーマウスを持つ会社が「言論の自由を侵害された」と訴えている。2026年のアメリカに、こういう絵があります。"
+      "トランプ大統領が「新しい大統領専用保養施設」の候補として、自分のゴルフ場を提案しました。費用は不明。納税者へのメリットも不明。わかっているのはゴルフ場の名前と、そのオーナーの名前だけ。\n\n「公共の利益」って言葉、この人の口から出ると毎回ゴルフ場の話になるんですよね。",
+      "1200万ドル分の政府広告が流れました。内容は大統領の宣伝です。「返してください」と言われたスーパーPACは「返しません」と答えました。このスーパーPACは数年前まで「税金の無駄遣いを許すな」と言っていた団体です。\n\nスタンスは変わってないんだと思う。自分たちの税金じゃなければ、ずっと無駄遣いじゃないんで。",
+      "連邦の研究機関への資金は削られています。大学のグラントは止まっています。で、木曜日に開かれた科学技術サミットで、トランプ大統領がイーロン・マスク、マイケル・デル、サティア・ナデラに表彰をしました。\n\n3人とも世界で最も知られている経営者たちです。科学の勲章が足りなかったかどうかは、わからないけど。科学者が足りていたかどうかは、わかります。",
+      "ディーゼルが高い。中間選挙まで1カ月。大統領令が出ました。翌日、エネルギーの専門家が「価格は下がらないと思います」と言いました。\n\nやったこととやれたことが一致していない政策の話、今日これで2本目です。",
+      "FBIがモール・オブ・アメリカへのテロ計画を阻止したと発表しました。18歳の男が逮捕されました。容疑は1件。銃の入手。\n\nその銃を用意したのはFBIです。\n\n「阻止した」は本当のことだと思う。ただ「何を使って」の部分、声に出して読むとちょっと止まる。"
     ],
     "asideEn": [
-      "Days apart. Billions of dollars. Nobody's suspicious.",
-      "Accountability, but make it geographic.",
-      "He's 'looking into it.' The ads are done.",
-      "Told everyone. Leaked immediately. Classic.",
-      "Routine review. Sure."
+      "His course. Your money. Unknown benefit.",
+      "They said no. To paying it back. With a straight face.",
+      "Scientists not required at the science summit.",
+      "Diesel prices did not read the order.",
+      "The gun had a prior owner. It was the FBI."
     ],
     "asideJa": [
-      "数日で66億ドル。偶然です。",
-      "EUにだけ誠実。",
-      "検討中。もう終わってる。",
-      "全員に話したらリークされた。",
-      "通常の審査です。はい。"
+      "公共の利益、不明のまま会見。",
+      "「返しません」。1200万ドルで。",
+      "科学者のいない科学サミット。",
+      "令は出た。価格は動かなかった。",
+      "銃を渡したのも、逮捕したのも同じ人たち。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Anduril",
-      "OpenAI",
-      "Disney"
+      "News Commentary",
+      "Trump",
+      "FBI"
     ],
-    "fullEn": "# Your Tax Dollars, Their Assets\n\n## Today's Forecast\n\nFive stories today. One pattern.\n\nThe U.S. government just announced a $6.6 billion shipyard — funded by taxpayers, owned by a top Republican donor who joined a Pentagon advisory board last week. OpenAI is watermarking AI content for transparency, but only in Europe. Trump used federal money to run ads praising Trump, and is now 'looking into' whether to pay it back.\n\nAlso: Xbox leaked its own biggest deal in a company-wide meeting, and Disney is in federal court arguing the government is using broadcast licenses as a weapon against a news channel it doesn't like.\n\nThe thread running through all five: who holds the lever, and who ends up holding the bill.\n\nHere's your forecast. If you've been doing everything right and somehow still feel like someone else is cashing in — you're not wrong, and today's news will confirm it in five different ways. That's not an excuse to stop. It's just useful to know where the exits actually are.\n\n---\n\n## 1. Trump Announces $6.6B Shipyard — Taxpayer-Funded, Donor-Owned\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore)*\n\nPresident Trump announced the opening of a $6.6 billion shipbuilding factory in Baltimore on Tuesday. The facility is partly funded by the US government but will be owned by Anduril Industries, a defense tech company founded by Palmer Luckey, a major Republican donor. The announcement came days after Luckey joined a Pentagon advisory group on weapons development.\n\n**Why It's Funny**\n\nThe U.S. government is building a $6.6 billion shipyard in Baltimore. Taxpayer money, federal investment, national defense — sounds great. The shipyard will be owned by Anduril Industries, founded by Palmer Luckey, who donated heavily to Republicans and joined a Pentagon advisory group on weapons development last week. Days later: $6.6 billion. I'm not saying there's a connection. I'm saying the connection is right there, typed out, in the same news story.\n\n**Say It Out Loud**\n\n> The government builds it, a donor owns it — that's not a shipyard, that's a gift wrapped in concrete.\n\n---\n\n## 2. OpenAI Will Watermark ChatGPT Outputs — But Only If You're in the EU\n\n*Ars Technica — [source](https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/)*\n\nOpenAI announced it will watermark ChatGPT outputs by default to help identify AI-generated content. However, the policy will only apply to users in the European Union, not in the United States. Experts note the watermarking technology is not especially reliable and can be easily circumvented regardless of region.\n\n**Why It's Funny**\n\nOpenAI announced it's adding watermarks to ChatGPT outputs so people can tell when content is AI-generated. Accountability, transparency, trust — the whole package. For EU users. The United States is not included. The watermark is also, according to experts, easy to remove regardless of where you live. So the full picture is: OpenAI built a label that washes off and is shipping it exclusively to countries with fines for not doing so. That's not a safety feature. That's paperwork.\n\n**Say It Out Loud**\n\n> OpenAI will tell Europeans their content is AI-generated. Americans? We'll figure it out, I guess.\n\n---\n\n## 3. Trump Hedges on Paying Back Taxpayers for Ads That Praised Trump\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/05/trump-ads-election.html)*\n\nThe New York Times reported that President Trump personally instructed his budget director to use taxpayer money to fund TV ads praising him and his presidency. After the report surfaced, Trump declined to commit to reimbursing the government, offering only hedged responses when asked. The ads had already aired by the time the story broke.\n\n**Why It's Funny**\n\nTrump reportedly told his budget director to spend taxpayer money on TV ads praising Trump. The New York Times reported this. Trump was then asked whether he'd pay the government back. He said he was looking into it. The ads had already aired. All of them. So the question isn't really about money anymore — it's about what 'looking into it' means when the thing is already done. I've looked into a lot of things. Looking into it doesn't do much for the thing that already happened.\n\n**Say It Out Loud**\n\n> He used your money to make ads about how great he is — and now he's 'looking into' whether to pay it back. The ads, for the record, have already aired.\n\n---\n\n## 4. Xbox Secures Exclusive GTA 6 Streaming Rights in Deal No One Else Is Doing\n\n*The Verge — [source](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)*\n\nXbox CEO Asha Sharma told employees at an all-hands meeting that Microsoft is preparing to do something around Grand Theft Auto VI that 'no other platform holder is doing.' Sources familiar with Microsoft's plans say Xbox has secured an exclusive deal for cloud streaming rights to GTA 6. The game has been one of the most anticipated titles in gaming history.\n\n**Why It's Funny**\n\nXbox CEO Asha Sharma held a company-wide meeting and told employees Microsoft was about to do something around GTA 6 that 'no other platform holder is doing.' Sources say Xbox locked up exclusive cloud streaming rights. The world found out because when you tell thousands of employees something in confidence, you've told thousands of people. GTA 6 is one of the most anticipated games in history. The announcement strategy was: internal meeting, wait for leak. Rockstar Games, which has kept GTA 6 details secret for years, probably loved that.\n\n**Say It Out Loud**\n\n> Microsoft got exclusive GTA 6 streaming rights. The world found out because the CEO told all their employees, which is basically the same as telling everybody.\n\n---\n\n## 5. Disney Accuses Trump Officials of 'Blatant' Constitutional Violations Over FCC Battle\n\n*The Guardian US — [source](https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc)*\n\nLawyers for Disney told a federal judge Tuesday that the Trump administration is committing 'blatant violations of the US Constitution' by directing the FCC to review ABC's local TV station licenses. Disney argues the review is targeted retaliation against ABC for its news coverage. It was the first court hearing in the dispute between Disney and the federal communications regulator.\n\n**Why It's Funny**\n\nDisney's lawyers appeared in federal court Tuesday and told the judge that the Trump administration is committing 'blatant violations of the U.S. Constitution' by directing the FCC to review ABC's broadcast licenses. Disney says the review started after ABC's news coverage — not before. The government says it's routine. The FCC is examining the licenses. The FCC is not examining whether the reason for examining the licenses is itself the problem. Disney has outlasted world wars and the Star Wars prequels. This is the first time it's had to argue in court that it's being silenced.\n\n**Say It Out Loud**\n\n> The government says it's a routine license review. Disney says it started three days after a news story they didn't like. One of these is more convincing than the other.\n\n---\n\n## Today's Punchline\n\n> Taxpayer-funded shipyard, taxpayer-funded ad campaign, transparency that only applies overseas — at some point 'public investment' and 'private benefit' stopped being two different things.\n",
-    "fullJa": "# 66億ドルの造船所を建てたのは国民で、もらったのは献金者だった話\n\n## 今日を占うよ〜\n\n記事を開いた瞬間、「あ、今日もこれか」と思いました。\n\n税金で造船所を建てて、もらうのは献金者。自分を褒めるCMを国費で流して、返金は「検討中」。AI生成コンテンツに透かしを入れるけど、EUだけ。ディズニーが「検閲されてる」と裁判所に行って、Xboxは機密情報を全社員ミーティングで喋る。\n\nばらばらに見えて、今日の5本には一本の糸があります。\n\n「レバーを持っている人が、請求書の送り先も決めている」ということです。\n\n今日の占い。\n\n「ちゃんとやってるのに、なんか損してる気がする」と思ってるあなた。今日の5本を読むと、それが気のせいじゃないとわかります。\n\nわかっても何かがすぐ変わるかというと、まあ、変わらない。でも「自分がおかしいんじゃなかった」って知るだけで、今日一日わりと乗り切れたりする。行こう。\n\n---\n\n## 1. Trump Announces $6.6B Shipyard — Taxpayer-Funded, Donor-Owned\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/06/trump-shipyard-anduril-baltimore)）*\n\nトランプ大統領がボルチモアに66億ドルの造船所開設を発表した。費用は一部を政府が負担するが、所有するのはトランプ支持者として知られる起業家パルマー・ラッキー創業の国防企業アンデュリル社となる。\n\n**どこが笑える？**\n\nボルチモアに66億ドルの造船所ができます。費用は政府、つまり税金です。所有するのはアンデュリル社——共和党への多額の献金者として知られるパルマー・ラッキーが創業した国防企業です。\n\nラッキー氏がペンタゴンの諮問委員会に加わったのは、ほんの数日前のことです。数日後には66億ドルの契約。同じニュース記事の中に、全部書いてあります。もうそこに書いてある。\n\n**このニュースをジョークにするなら...**\n\n> 政府が建てて、献金者が所有する——これ、造船所じゃなくてコンクリートで包んだプレゼントですよね。\n\n---\n\n## 2. OpenAI Will Watermark ChatGPT Outputs — But Only If You're in the EU\n\n*Ars Technica（[記事](https://arstechnica.com/ai/2026/10/openai-will-watermark-chatgpt-outputs-by-default-but-only-in-the-eu/)）*\n\nOpenAIはChatGPTの出力にAI生成であることを示す電子透かしをデフォルトで付与する方針を発表したが、この措置はEU域内のユーザーのみが対象で、アメリカ国内は対象外となる。\n\n**どこが笑える？**\n\nOpenAIが「ChatGPTの出力にAI生成であることを示す透かしを入れる」と発表しました。透明性のある、責任ある対応です。対象はEUのユーザーのみです。\n\nアメリカは対象外。\n\nしかも技術的には簡単に消せると専門家は言う。洗えば落ちるラベルを、罰則のある地域にだけ貼っている。「倫理的だからやる」のではなく「法律があるからやる」、それを正直に言っているのが、かえって清々しい気もします（しません）。\n\n**このニュースをジョークにするなら...**\n\n> OpenAIはEUの人たちにはAI生成だと教えてくれる。アメリカ人? 自分で気づいてくださいってことらしい。\n\n---\n\n## 3. Trump Hedges on Paying Back Taxpayers for Ads That Praised Trump\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/05/trump-ads-election.html)）*\n\nニューヨーク・タイムズの報道によると、トランプ大統領は予算局長に対し、自身と政権を称える政府広告に税金を使うよう個人的に指示していたとされる。報道後、トランプ氏は返金に関して曖昧な態度を見せている。\n\n**どこが笑える？**\n\nトランプ大統領が予算局長に「税金で自分を褒めるCMを流せ」と指示していた、とニューヨーク・タイムズが報じました。\n\n報道後、「返金するか」と聞かれたトランプ氏は「検討中」と答えました。\n\nCMは、すでに全部放送終了しています。\n\n「検討中」という言葉が一番効く場面は、まだ何かができる段階に使うものだと思っていました。終わったことに「検討中」を当てる使い方、なかなかない。\n\n**このニュースをジョークにするなら...**\n\n> あなたのお金で自分を褒めるCMを作って、返金するかどうかは「検討中」。CMはもう全部流れ終わってますけどね。\n\n---\n\n## 4. Xbox Secures Exclusive GTA 6 Streaming Rights in Deal No One Else Is Doing\n\n*The Verge（[記事](https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights)）*\n\nマイクロソフトのXbox部門がGrand Theft Auto VIのクラウドストリーミング独占権を獲得した。XboxのCEOは社内全体ミーティングで「他のプラットフォームがやっていないこと」と発言したと報じられている。\n\n**どこが笑える？**\n\nXboxのCEOが全社ミーティングで「他のプラットフォームがやっていないことをGTA 6でやる」と発言。その中身はGTA 6のクラウドストリーミング独占権の取得、と伝えられています。\n\nこの情報、どこから出たかというと、そのミーティングに参加していた人からです。\n\nGTA 6は何年もかけて情報管理をしてきたロックスター・ゲームズの作品です。その情報が「全社員に向けたCEOのスピーチ」経由で世界に出た。独占権は取れても、秘密は無理だった。\n\n**このニュースをジョークにするなら...**\n\n> マイクロソフトがGTA 6の独占ストリーミング権を取得。世界が知ったのは、CEOが全社員に話したから——つまり全員に話したのと同じですよ。\n\n---\n\n## 5. Disney Accuses Trump Officials of 'Blatant' Constitutional Violations Over FCC Battle\n\n*The Guardian US（[記事](https://www.theguardian.com/media/2026/oct/06/disney-trump-abc-fcc)）*\n\nディズニー社の弁護士が連邦裁判所で、FCCがABCの地方テレビ局免許を審査しようとしているのはトランプ政権による憲法への「露骨な違反」であり、報道機関への検閲に当たると主張した。\n\n**どこが笑える？**\n\nディズニーの弁護士が連邦裁判所で「トランプ政権によるFCCへの指示は憲法の露骨な違反だ」と主張しました。FCCがABCの地方局免許を審査しようとしているのは、ABCの報道への報復だというのです。\n\nFCCは免許を審査しています。なぜ審査するのかは、審査していません。\n\nミッキーマウスを持つ会社が「言論の自由を侵害された」と訴えている。2026年のアメリカに、こういう絵があります。\n\n**このニュースをジョークにするなら...**\n\n> 政府は「通常の審査だ」と言う。ディズニーは「例の報道の3日後に始まった」と言う。どちらが説得力あるか、もうわかりますよね。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 国民が払って、知り合いが受け取る。5本読んで、全部同じ話でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d2のcaption[1]とxJa[1]に軽い観察止まりがあり、d3のcaption[4]・xJa[2]に蛇足と文末の弱さ、d4のxJa[3]に単体成立の問題、d5のcaption[4]に汎用ジョーク臭があったので修正。introJaの占い部分が書き言葉寄りで読者への距離感があったため書き直し。imagePromptsはいずれも実在人物の顔に依存しておらず合格。riff・asideは全本合格。sensitiveフラグ漏れなし。 ／ 文体パス: 3箇所修正。riffJa[1]の締め「かえって清々しい気もします（しません）」はすでに人間らしいので触らず、riffJa[0]の「私が何かを言わなくても」周辺とriffJa[3]の締め、introJaの占いパートの「地味に効きます」前後の整いすぎを直した。"
+    "fullEn": "# The Government Spent Your Money. On Stuff. You're Welcome.\n\n## Today's Forecast\n\nFive stories from America today, and they all share the same energy: something was done, announced, photographed, and celebrated — and the actual problem remained exactly where it started.\n\nA president proposed his own golf course as a public retreat. Twelve million dollars in taxpayer money went to ads about how great the president is. Billionaires got science medals at a summit where scientists weren't the point. An executive order on diesel prices was signed. Diesel didn't notice. And the FBI stopped a terror plot using a gun the FBI provided.\n\nThe forecast: if you've ever done a thing and had someone immediately ask what it actually accomplished — today's news is for you. Doing the thing and fixing the thing are two different jobs. You already knew that. Apparently Washington is still working it out.\n\n---\n\n## 1. Trump Pitches His Own Golf Course as the Next 'Presidential Retreat'\n\n*CBS News US — [source](https://www.cbsnews.com/news/trump-administration-considering-presidential-retreat-his-florida-golf-course/)*\n\nPresident Trump has proposed his own Trump International Golf Course as the site for a new 'presidential retreat,' to be funded with taxpayer money. The White House has not clarified what benefit taxpayers would receive, nor has it provided a cost estimate. The proposal comes as questions persist about conflicts of interest between the presidency and the Trump Organization.\n\n**Why It's Funny**\n\nThe president proposed his own golf course as the site for a new presidential retreat, funded by taxpayers. The White House doesn't know the cost. Doesn't know the benefit to the public. What it does know: the course. The name on it. Who owns it. The proposal is either an extraordinary conflict of interest or the most honest thing the administration has ever said out loud — 'public benefit' means whatever's convenient at the time, and right now it's very convenient.\n\n**Say It Out Loud**\n\n> The government doesn't know the cost, doesn't know the benefit, but they do know whose name is on the flag at hole nine.\n\n---\n\n## 2. Democrats Sue to Stop Trump From Running Self-Promo Ads on the Public Dime\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/07/democrats-sue-trump-taxpayer-funds-ads)*\n\nThe Democratic National Committee filed a federal lawsuit Wednesday seeking to stop the Trump administration from using taxpayer money to run ads that promote the president. The ads have cost more than $12 million in public funds. Trump's Super PAC has refused to reimburse taxpayers for the cost, according to the suit.\n\n**Why It's Funny**\n\nThe DNC sued Wednesday to stop the government from running $12 million worth of ads about how great the president is. Trump's Super PAC, which spent three years warning Americans about government waste, has declined to reimburse taxpayers. Their position, as far as anyone can tell, is that this is government money well spent. On ads. About the president. Paid for by people who did not ask for ads about the president.\n\n**Say It Out Loud**\n\n> Twelve million dollars of government money on ads promoting the president. The Super PAC says it's not a campaign expense. The Super PAC's lawyers have presumably said this with a straight face.\n\n---\n\n## 3. Trump Gives Tech Execs Science Medals at Summit Where Science Policy Is Unclear\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html)*\n\nPresident Trump awarded medals to a group of prominent tech executives including Elon Musk, Michael Dell, and Satya Nadella at a science and technology summit Thursday. The White House framed the event as a celebration of American innovation. The ceremony comes amid ongoing debates over federal funding cuts to research institutions.\n\n**Why It's Funny**\n\nResearch funding to universities and science institutions has been cut. Scientists have been laid off. Grants have been frozen. So on Thursday the White House held a science summit, awarded medals to Elon Musk, Michael Dell, and Satya Nadella, and called it a celebration of American innovation. Musk has a rocket company. Dell has a computer company. Nadella runs Microsoft. What they lacked, apparently, was a ribbon on a lanyard. That gap has now been addressed.\n\n**Say It Out Loud**\n\n> The government cut research funding and then held a science summit. The scientists weren't there, but three billionaires got medals, so it evens out.\n\n---\n\n## 4. Trump Issues Diesel Order — Experts Say It Won't Lower Diesel Prices\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html)*\n\nPresident Trump issued an executive order aimed at addressing surging diesel prices, which have become a political liability with midterm elections a month away. However, energy analysts and industry observers have noted that the order does little to directly lower fuel costs. The move highlights the limited tools available to any White House when global commodity markets drive domestic prices.\n\n**Why It's Funny**\n\nDiesel prices are up. Midterms are in a month. So the president signed an executive order on diesel prices. Energy analysts reviewed it and said it won't lower diesel prices. The White House has 'limited tools' when global commodity markets are involved — which is accurate, and also something that could have been said before the signing ceremony. It photographs well, though.\n\n**Say It Out Loud**\n\n> He signed an order about diesel prices. Diesel prices did not read the order.\n\n---\n\n## 5. FBI Stopped a Mall of America Attack Using the AK-47 It Provided to the Suspect\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack)*\n\nFederal authorities announced Wednesday the arrest of an 18-year-old man suspected of planning a mass shooting at the Mall of America in Bloomington, Minnesota. The FBI said it disrupted the plot before any attack occurred. The man faces one count of obtaining a firearm — the weapon in question was supplied to him by the FBI as part of a sting operation.\n\n**Why It's Funny**\n\nThe FBI disrupted a plot to attack the Mall of America. An 18-year-old was arrested on one charge: obtaining a firearm. The firearm was provided to him by the FBI, as part of a sting. So the agency that gave him the gun arrested him for having the gun, announced it had stopped a terror attack, and held a press conference. All of this is legal. Sting operations are a legitimate law enforcement tool. It's just that 'we stopped him with our own gun' is a sentence that rewards a second read.\n\n**Say It Out Loud**\n\n> The FBI stopped a terrorist attack. With the gun the FBI gave him. One charge: getting the gun. From the FBI.\n\n---\n\n## Today's Punchline\n\n> Today's theme: action was taken, outcomes were not. It's a busy way to accomplish nothing.\n",
+    "fullJa": "# 税金でゴルフ場を「公共施設」にしようとした日のアメリカ\n\n## 今日を占うよ〜\n\n税金でゴルフ場。\n税金でCM。\n勲章をもらったのは億万長者。\n令を出した。価格は下がらなかった。\nFBIが銃を渡した。渡した相手を逮捕した。\n\n今日の5本、全部「やった」んです。ただ何をやったのかが、ぜんぶちょっとずつおかしい。\n\n今日の占いです。\n\n「ちゃんとやってるのに、なんで評価されない？」って気持ち、わかる。でも今日のニュース見てると、「やった感」だけで記者会見を開いてる人が何人もいてですね。中身まで気にしてるあなたは、少なくとも彼らよりずっとまともです。自信持っていい。\n\n5本、どうぞ。\n\n---\n\n## 1. Trump Pitches His Own Golf Course as the Next 'Presidential Retreat'\n\n*CBS News US（[記事](https://www.cbsnews.com/news/trump-administration-considering-presidential-retreat-his-florida-golf-course/)）*\n\nトランプ大統領が、自身所有のトランプ・インターナショナル・ゴルフコースを政府の「大統領専用保養施設」の候補地として提案した。納税者へのメリットや建設コストは不明のまま。\n\n**どこが笑える？**\n\nトランプ大統領が「新しい大統領専用保養施設」の候補として、自分のゴルフ場を提案しました。費用は不明。納税者へのメリットも不明。わかっているのはゴルフ場の名前と、そのオーナーの名前だけ。\n\n「公共の利益」って言葉、この人の口から出ると毎回ゴルフ場の話になるんですよね。\n\n**このニュースをジョークにするなら...**\n\n> コスト不明、メリット不明。でも9番ホールの旗に誰の名前が入るかは決まってる。\n\n---\n\n## 2. Democrats Sue to Stop Trump From Running Self-Promo Ads on the Public Dime\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/07/democrats-sue-trump-taxpayer-funds-ads)）*\n\n民主党全国委員会が、トランプ大統領を宣伝する政府広告（費用1200万ドル超）への公金使用差し止めを求めて連邦裁判所に提訴した。トランプ陣営のスーパーPACは返金を拒否している。\n\n**どこが笑える？**\n\n1200万ドル分の政府広告が流れました。内容は大統領の宣伝です。「返してください」と言われたスーパーPACは「返しません」と答えました。このスーパーPACは数年前まで「税金の無駄遣いを許すな」と言っていた団体です。\n\nスタンスは変わってないんだと思う。自分たちの税金じゃなければ、ずっと無駄遣いじゃないんで。\n\n**このニュースをジョークにするなら...**\n\n> 政府の金1200万ドルを大統領のPR広告に使った。スーパーPACは「選挙費用じゃない」と言う。弁護士たちはおそらく真顔でそれを言ってる。\n\n---\n\n## 3. Trump Gives Tech Execs Science Medals at Summit Where Science Policy Is Unclear\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html)）*\n\nトランプ大統領が科学技術サミットで、イーロン・マスク、マイケル・デル、サティア・ナデラらテック企業幹部に表彰を行った。\n\n**どこが笑える？**\n\n連邦の研究機関への資金は削られています。大学のグラントは止まっています。で、木曜日に開かれた科学技術サミットで、トランプ大統領がイーロン・マスク、マイケル・デル、サティア・ナデラに表彰をしました。\n\n3人とも世界で最も知られている経営者たちです。科学の勲章が足りなかったかどうかは、わからないけど。科学者が足りていたかどうかは、わかります。\n\n**このニュースをジョークにするなら...**\n\n> 政府は研究費を削って科学サミットを開いた。科学者は来ていないが、億万長者3人がメダルをもらったので帳尻は合っている。\n\n---\n\n## 4. Trump Issues Diesel Order — Experts Say It Won't Lower Diesel Prices\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html)）*\n\nトランプ大統領が急騰するディーゼル価格への対処として大統領令を出したが、専門家や業界関係者は実際に価格を下げる効果は限定的だと指摘。中間選挙1カ月前の政治的圧力への対応とみられている。\n\n**どこが笑える？**\n\nディーゼルが高い。中間選挙まで1カ月。大統領令が出ました。翌日、エネルギーの専門家が「価格は下がらないと思います」と言いました。\n\nやったこととやれたことが一致していない政策の話、今日これで2本目です。\n\n**このニュースをジョークにするなら...**\n\n> 大統領がディーゼルに関する命令に署名した。ディーゼル価格はその命令を読んでいない。\n\n---\n\n## 5. FBI Stopped a Mall of America Attack Using the AK-47 It Provided to the Suspect\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack)）*\n\nFBIがミネソタ州のモール・オブ・アメリカを標的としたテロ計画を阻止したと発表した。当局はFBI自身が容疑者に提供したAK-47を入手した罪で18歳の男を逮捕した。\n\n**どこが笑える？**\n\nFBIがモール・オブ・アメリカへのテロ計画を阻止したと発表しました。18歳の男が逮捕されました。容疑は1件。銃の入手。\n\nその銃を用意したのはFBIです。\n\n「阻止した」は本当のことだと思う。ただ「何を使って」の部分、声に出して読むとちょっと止まる。\n\n**このニュースをジョークにするなら...**\n\n> FBIがテロを阻止した。FBIが容疑者に渡した銃で。起訴内容は1件: 銃の入手。銃を渡したのはFBI。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今日のアメリカ、全員「やった」と言ってました。やったことの結果は、また別の話です。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3のcaptionsJa[1]に日本語が混在（ribbon未訳）。d2のcaptions[3]に汎用フレーズ「Bold move」。d5はsensitiveフラグ漏れ（テロ・銃撃計画）——captionsJa・riffJa・imagePromptsを含め検品。xJa[0]が137字でオーバー。introJaの占いパートが「書き言葉の講釈」気味で当事者性が弱い。これら5点を修正する。 ／ 文体パス: 3箇所修正。riffJa[0]末尾「この政権では資産の話と相当近い場所にある」が翻訳調の整いすぎ、riffJa[1]末尾「誰の税金か」の問題、riffJa[4]末尾「もう一回読み直したくなる文章になっています」がうまくまとめた感で着地しているため崩した。"
   },
   "carousel": [
-    "images/2026-10-07/carousel/slide-1.jpg",
-    "images/2026-10-07/carousel/slide-2.jpg",
-    "images/2026-10-07/carousel/slide-3.jpg",
-    "images/2026-10-07/carousel/slide-4.jpg",
-    "images/2026-10-07/carousel/slide-5.jpg",
-    "images/2026-10-07/carousel/slide-6.jpg",
-    "images/2026-10-07/carousel/slide-7.jpg"
+    "images/2026-10-08/carousel/slide-1.jpg",
+    "images/2026-10-08/carousel/slide-2.jpg",
+    "images/2026-10-08/carousel/slide-3.jpg",
+    "images/2026-10-08/carousel/slide-4.jpg",
+    "images/2026-10-08/carousel/slide-5.jpg",
+    "images/2026-10-08/carousel/slide-6.jpg",
+    "images/2026-10-08/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-10-07/note-header.jpg",
-    "substack": "images/2026-10-07/substack-cover.jpg"
+    "note": "images/2026-10-08/note-header.jpg",
+    "substack": "images/2026-10-08/substack-cover.jpg"
   }
 };
