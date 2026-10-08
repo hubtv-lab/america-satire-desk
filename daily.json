@@ -1,366 +1,366 @@
 {
   "version": 1,
-  "date": "2026-10-08",
-  "generatedAt": "2026-10-07T23:39:57+00:00",
+  "date": "2026-10-09",
+  "generatedAt": "2026-10-08T23:50:50+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Trump Pitches His Own Golf Course as the Next 'Presidential Retreat'",
-        "source": "CBS News US",
-        "date": "2026-10-08",
-        "url": "https://www.cbsnews.com/news/trump-administration-considering-presidential-retreat-his-florida-golf-course/",
-        "summary": "トランプ大統領が、自身所有のトランプ・インターナショナル・ゴルフコースを政府の「大統領専用保養施設」の候補地として提案した。納税者へのメリットや建設コストは不明のまま。"
+        "headline": "SpaceX Wants to Be Your Cell Carrier. AT&T and Verizon Are Not Taking It Well.",
+        "source": "The Verge",
+        "date": "2026-10-09",
+        "url": "https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier",
+        "summary": "SpaceXが低帯域スペクトラムライセンスのポートフォリオを取得し、Starlink Mobileを通じてアメリカの主要携帯キャリアになる計画を発表。AT&T、Verizon、T-Mobileの株価が急落した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「公共のための施設を」と言いながら、その施設を自分のゴルフ場にしようとしてるんですよ。公共の利益の定義、だいぶ広い。",
-        "<b>滑稽さ:</b> 「納税者へのメリットは不明」って政府自身が言ってる時点で、もうプレスリリースがツッコミになってるじゃないですか。",
-        "<b>日本・海外から見ると:</b> 日本で総理大臣が「官邸の代わりに自分のゴルフ場を使おう、費用は国民持ちで」と言ったら翌日には辞表を出してる。アメリカではそれがニュースで終わる。"
+        "<b>矛盾:</b> 地上の電波塔を何十年もかけて整備してきたキャリアが、宇宙から降ってくる衛星に市場を奪われそうになってる。インフラ投資って何だったんですかね。",
+        "<b>滑稽さ:</b> 「繋がらない」「電波弱い」でずっと文句言われてきたAT&TとVerizonが、今度は宇宙を飛び回る会社に負けそうで株価まで落ちる。罰ゲームにしても出来すぎ。",
+        "<b>日本・海外から見ると:</b> アメリカの携帯キャリアって国民に長年ボロカスに言われながら生き延びてきたのに、ライバルが宇宙から来るとは予想してなかったでしょう。"
       ],
       "imagePrompts": [
-        "An ornate presidential podium with the official seal, placed directly on a golf course fairway, with a large 'TRUMP' branded flag on the green in the background",
-        "A government budget spreadsheet with two columns labeled 'Taxpayer Cost' and 'Taxpayer Benefit' — the first column has a large dollar figure, the second column is completely blank",
-        "A 'Grand Opening' ribbon-cutting ceremony at a golf course clubhouse, with official government bunting and a seal, surrounded by velvet ropes and a 'Members Only' sign"
+        "A Starlink satellite beaming a cell signal down to a smartphone, while below, an AT&T storefront stands empty with a 'SIGNAL WEAK' sign in the window and a red stock ticker arrow on a screen visible through the glass",
+        "A Verizon and AT&T cell tower side by side, both slightly rusted and covered in bird droppings, with a sleek SpaceX rocket rising in the background trailing a Wi-Fi symbol in its exhaust",
+        "A corporate boardroom with three name placards reading legacy telecom companies facing a presentation slide that simply reads 'SpaceX: Now Also a Phone Company' — coffee cups frozen mid-air, one slowly tipping"
       ],
       "captions": [
-        "The government doesn't know the cost, doesn't know the benefit, but they do know whose name is on the flag at hole nine.",
-        "Other presidents had Camp David. This one's thinking: why not just camp at a place that charges me green fees?",
-        "Conflict of interest? Relax — he's not forcing taxpayers to use the course. They just have to pay for it.",
-        "The White House says the taxpayer benefit is 'not yet clear.' Neither is the exit strategy, but here we are.",
-        "You ever pitch your boss on renovating your own house as a company expense? This is that, but federal."
+        "AT&T has been building cell towers since 1983. SpaceX said 'cute' and bought the sky.",
+        "Your Verizon signal drops in an elevator. Starlink's signal comes from orbit. One of these companies is worried right now, and it's not SpaceX.",
+        "The FCC still needs to approve this, which — given America's track record with telecom regulation — should only take, what, a decade?",
+        "SpaceX's business plan: rockets, Mars, flamethrowers, social media, and now your phone bill. What's left, dentistry?",
+        "Three of the most complained-about companies in America just got their stock hammered by a guy who sells trips to space. Feels right."
       ],
       "captionsJa": [
-        "コスト不明、メリット不明。でも9番ホールの旗に誰の名前が入るかは決まってる。",
-        "歴代大統領にはキャンプ・デービッドがあった。この大統領には「自分のゴルフ場でよくない？」という発想がある。",
-        "利益相反？落ち着いて。税金を払うだけで、コースを使えと強制してるわけじゃないから。",
-        "「納税者へのメリットはまだ不明」と政府自身が言ってる。出口戦略も不明だけど、まあそれはいつものことか。",
-        "自分の家のリフォーム費用を「会社の経費で」と上司に提案したことある？これはそれの連邦政府版。"
+        "AT&Tは1983年から鉄塔を建て続けてきた。SpaceXは「かわいいね」と言って空を買った。",
+        "Verizonの電波はエレベーターで切れる。Starlinkは宇宙から飛んでくる。今ビビってるのはどっちか、もうわかるじゃないですか。",
+        "FCCの認可がまだ必要なんですけど、アメリカの通信規制の歴史を見るに、あと10年ぐらいかかりそうですよね。",
+        "SpaceXの事業内容：ロケット、火星移住、火炎放射器、SNS、そして今度は携帯料金。次は歯医者ですか？",
+        "アメリカで最も文句を言われてきた3社が、宇宙旅行を売ってる会社に株価をぶち壊された。なんか、納得感ある。"
       ],
-      "newsEn": "President Trump has proposed his own Trump International Golf Course as the site for a new 'presidential retreat,' to be funded with taxpayer money. The White House has not clarified what benefit taxpayers would receive, nor has it provided a cost estimate. The proposal comes as questions persist about conflicts of interest between the presidency and the Trump Organization.",
+      "newsEn": "SpaceX has acquired a portfolio of low-band spectrum licenses and announced plans for its Starlink Mobile service to become a 'major' US carrier. The move requires FCC approval, after which SpaceX says it will deploy a new architecture combining satellite and ground-based networks. Shares of AT&T, Verizon, and T-Mobile fell sharply on the news.",
       "ironyEn": [
         {
-          "contradiction": "The president is proposing to spend taxpayer money on a facility he personally owns — a conflict of interest so blatant it skips the 'alleged' stage.",
-          "absurdity": "The government itself admits it has no idea what the public benefit would be, which is usually the part you figure out before the press release.",
-          "outside": "In most democracies, a leader directing public funds to their own property is called corruption. In this one, it's called a real estate pitch."
+          "contradiction": "The companies that spent decades telling you 'coverage may vary' are now getting disrupted by a company whose coverage is literally the entire sky.",
+          "absurdity": "AT&T's stock dropped because a rocket company decided to add 'cell service' to its résumé, which also includes 'government contracts' and 'Twitter beef.'",
+          "outside": "Most countries regulate telecom like a public utility. America is just letting whoever owns the most satellites win."
         },
         {
-          "contradiction": "A 'presidential retreat' funded by the public just happens to sit on land that generates revenue for the president's private business.",
-          "absurdity": "The cost is unknown. The benefit is unknown. What is known: whose name is on the sign.",
-          "outside": "From abroad, the question isn't whether this is a conflict of interest — it's why the proposal needs more than one news cycle to die."
+          "contradiction": "Telecom giants lobbied for spectrum rights for years. SpaceX just... bought them.",
+          "absurdity": "Verizon spent billions building towers. Elon spent billions building rockets. One of these strategies is going to look smarter in five years.",
+          "outside": "Imagine the government approving a car company to also run the highway system. That's basically what the FCC is being asked to sign off on."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-10-08/candidate-1.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-10-08/candidate-1-punchy.jpg"
+      "image": "images/2026-10-09/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-09/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "Democrats Sue to Stop Trump From Running Self-Promo Ads on the Public Dime",
+        "headline": "Trump Donor Says Ambassador Guilfoyle Asked Him to Pay Off Her $100K AmEx Bill for 'Access'",
         "source": "The Guardian US",
-        "date": "2026-10-08",
-        "url": "https://www.theguardian.com/us-news/2026/oct/07/democrats-sue-trump-taxpayer-funds-ads",
-        "summary": "民主党全国委員会が、トランプ大統領を宣伝する政府広告（費用1200万ドル超）への公金使用差し止めを求めて連邦裁判所に提訴した。トランプ陣営のスーパーPACは返金を拒否している。"
+        "date": "2026-10-09",
+        "url": "https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio",
+        "summary": "トランプ支持者のエリック・デタース氏が、ギリシャ大使のキンバリー・ギルフォイル氏から約10万ドルのクレジットカード債務の支払いと引き換えにアクセスを提供する「見返り取引」を求められたと告発した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「政府広告」と「選挙広告」の境界線が1200万ドル分ぐらいぼやけてるんですよ。しかもスーパーPACが返金を拒否してる時点で、区別する気もないじゃないですか。",
-        "<b>滑稽さ:</b> 選挙資金の透明化を訴える団体が山ほどあるアメリカで、大統領の「個人PR」に税金が使われて、それを返せと言ったら断られる。制度のフルコース。",
-        "<b>日本・海外から見ると:</b> 日本でも政府広報と党の宣伝の境界は議論になるけど、「1200万ドル使ったから返して」「嫌です」で終わるのはなかなか見ない。"
+        "<b>矛盾:</b> 大使というのは国家を代表して外交を行う役職なんですけど、その人がアメックスの100万円の請求書を支持者に払わせようとしてたって話ですからね。外交と私的債務の区別がどこかに消えてる。",
+        "<b>滑稽さ:</b> ワシントンでの「アクセス」の相場が10万ドルのクレジットカード払いってのが、スキャンダルとしてもちょっと所帯じみてて笑えない笑える。",
+        "<b>日本・海外から見ると:</b> アメリカの大使ポストは政治的な任命が多いとは知ってたけど、「大使の特典」にクレジット代肩代わりが含まれるとは外交の教科書に書いてなかった。"
       ],
       "imagePrompts": [
-        "A television screen showing a polished campaign-style advertisement with official government logos in the corner, while a stack of dollar bills labeled 'TAXPAYER FUNDS' sits on the coffee table in front of it",
-        "A government invoice for $12 million marked 'Return to Sender — Declined' with a Super PAC letterhead stamped in red",
-        "A split image: on the left, an official White House podium; on the right, a glossy campaign billboard — separated only by a dotted line labeled 'Allegedly'"
+        "A formal US embassy desk with a diplomatic seal, a Greek flag in the background, and an oversized American Express credit card bill sitting front and center marked '$100,000 — PAST DUE'",
+        "A swanky Washington DC fundraiser party scene with a velvet rope, and a sign reading 'VIP ACCESS' with a price tag hanging from it shaped like a credit card",
+        "A diplomat's briefcase open on a desk, inside: a passport, official seals, and a crumpled American Express statement with red 'OVERDUE' stamp across it"
       ],
       "captions": [
-        "Twelve million dollars of government money on ads promoting the president. The Super PAC says it's not a campaign expense. The Super PAC's lawyers have presumably said this with a straight face.",
-        "They spent $12 million of your money on ads about how great the president is. You're welcome, I guess.",
-        "The Super PAC refused to reimburse taxpayers — the same people who spent three years giving speeches about government waste.",
-        "At what point does a 'government communication' just become a really well-funded selfie?",
-        "Other presidents sent press releases. This one sent a $12 million ad buy — billed to you."
+        "She's the US ambassador to Greece. Her alleged ask? Pay my Amex bill. Greece has been dealing with debt crises for years — maybe she felt at home.",
+        "Most quid pro quos involve defense contracts or policy favors. This one was apparently just… a credit card bill. We've peaked.",
+        "The text messages are reportedly real. Which means someone at the White House read the words 'pay my AmEx' and had to decide if that's a problem.",
+        "A hundred thousand dollars for access to a US ambassador. For context, a full-page ad in the Washington Post costs less. Just saying.",
+        "Pay-to-play is Washington's oldest tradition. We just didn't know the admission fee included someone's monthly statement."
       ],
       "captionsJa": [
-        "政府の金1200万ドルを大統領のPR広告に使った。スーパーPACは「選挙費用じゃない」と言う。弁護士たちはおそらく真顔でそれを言ってる。",
-        "「あなたの税金で大統領がいかに素晴らしいかを伝えるCMを作りました」。どうぞ。",
-        "返金を拒否したのはスーパーPACだ——3年間、演壇に立つたびに「政府の無駄遣いを止めろ」と叫んでいた、あのスーパーPACが。",
-        "どこから先が「政府広報」じゃなくて「ものすごく高い自撮り」になるんですかね。",
-        "他の大統領はプレスリリースを出した。この大統領は1200万ドルの広告枠を、あなたの口座から出した。"
+        "彼女はギリシャ大使ですよ。でもその「取引」の中身がアメックスの支払い。ギリシャも長年債務問題で苦しんでたし、なんか親近感わいたんですかね。",
+        "外交的見返りといえば防衛契約とか政策介入とか、そういうのを想像するじゃないですか。クレジットカードの請求書じゃないですよ。もう時代も変わった。",
+        "テキストメッセージが本物だとホワイトハウス関係者も認識してたらしい。「アメックス払って」って文面を読んで、問題かどうか判断する人の気持ち、ちょっと想像したい。",
+        "アメリカ大使へのアクセス代が10万ドル。ワシントン・ポストの全面広告より安い計算になる。参考まで。",
+        "お金で動くのはワシントンの伝統なんですけど、まさか月次明細が通貨になるとは思ってなかったですよね。"
       ],
-      "newsEn": "The Democratic National Committee filed a federal lawsuit Wednesday seeking to stop the Trump administration from using taxpayer money to run ads that promote the president. The ads have cost more than $12 million in public funds. Trump's Super PAC has refused to reimburse taxpayers for the cost, according to the suit.",
+      "newsEn": "Eric Deters, a Trump donor, has publicly accused Kimberly Guilfoyle, the US ambassador to Greece and close Trump ally, of engaging in a quid pro quo — asking him to pay off a $100,000 American Express credit card bill in exchange for access. White House officials were reportedly told that text messages between Guilfoyle and Deters are authentic. Guilfoyle has not yet publicly responded to the allegations.",
       "ironyEn": [
         {
-          "contradiction": "Campaign finance law exists to separate public money from political promotion. These ads cost $12 million in public money and promote a politician. The Super PAC says it doesn't owe anything.",
-          "absurdity": "The administration spent more than $12 million in taxpayer funds on ads that happen to feature the president looking great, and they're surprised people think that's a campaign expense.",
-          "outside": "In most countries, using state resources to campaign is an impeachable offense. Here, it's a line item."
+          "contradiction": "The US ambassador to Greece was allegedly leveraging diplomatic access to settle personal credit card debt. Diplomacy — it's not just for treaties anymore.",
+          "absurdity": "A $100,000 AmEx bill. Not a yacht. Not a penthouse. A credit card bill. The corruption floor has really dropped.",
+          "outside": "Most countries expect their ambassadors to represent national interests abroad. Apparently the interest here was a balance transfer."
         },
         {
-          "contradiction": "A Super PAC that raised hundreds of millions for a political candidate is refusing to pay back $12 million used to advertise that candidate. They call it 'government communication.'",
-          "absurdity": "The lawsuit had to be filed to establish that taxpayer-funded presidential commercials are not, in fact, a public service.",
-          "outside": "From abroad, the fact that this requires litigation rather than an automatic audit says more about the system than about any individual."
+          "contradiction": "The Trump orbit spent years railing against pay-to-play politics. The going rate, allegedly: one Amex payoff.",
+          "absurdity": "Guilfoyle's alleged ask wasn't for a policy favor or a government contract — it was to clear her tab, which makes this feel less like a bribery scandal and more like a very awkward dinner request.",
+          "outside": "Foreign governments spend millions trying to understand how to get access in Washington. Turns out you might just need a Platinum card and a rich friend."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-10-08/candidate-2.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-10-08/candidate-2-punchy.jpg"
+      "image": "images/2026-10-09/candidate-2.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-09/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Trump Gives Tech Execs Science Medals at Summit Where Science Policy Is Unclear",
-        "source": "CNBC Top News",
-        "date": "2026-10-08",
-        "url": "https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html",
-        "summary": "トランプ大統領が科学技術サミットで、イーロン・マスク、マイケル・デル、サティア・ナデラらテック企業幹部に表彰を行った。"
+        "headline": "California Tells Startup: You Can't Just Put a Human in a Cage and Fight a Robot",
+        "source": "The Verge",
+        "date": "2026-10-09",
+        "url": "https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human",
+        "summary": "カリフォルニア州運動委員会が、9月18日に行われた人間対ロボットのケージマッチを主催したスタートアップに対し、営業停止命令書を送付した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 大学や研究機関への連邦資金を削りながら、テック億万長者に科学の勲章を渡すサミット。「科学を支援する」の定義が資産額で変わってくるんですよ。",
-        "<b>滑稽さ:</b> マスク、デル、ナデラって、全員すでに人類史上最も有名な人たちじゃないですか。表彰されてうれしいのか、それとも「ありがとう、知ってる」なのか。",
-        "<b>日本・海外から見ると:</b> 日本の文化勲章は「その分野に一生を捧げた人」に贈られる。アメリカのこの賞は「最近ホワイトハウスに来た人」に贈られた。"
+        "<b>矛盾:</b> 「ロボットと戦う」ってエンタメをやったら州の運動委員会から待ったがかかった。ロボットを「選手」と見なすのか「器具」と見なすのか、法律がまだ追いついてない。",
+        "<b>滑稽さ:</b> カリフォルニアが止めに入った理由が「ロボットvs人間は我々の管轄だった」ってことで、規制する側も何を規制してるのかよくわかってない感じがする。",
+        "<b>日本・海外から見ると:</b> ロボットと人間が殴り合うショーをシリコンバレーが作り出して、カリフォルニア州が「許可なし」で怒るって、SFが書けないカオスな現実ですよ。"
       ],
       "imagePrompts": [
-        "A formal awards ceremony stage with presidential bunting, where three men in expensive suits receive medals — behind them, a backdrop reading 'SCIENCE SUMMIT' with no scientists in the room",
-        "A trophy case labeled 'American Innovation Awards' sitting next to a filing cabinet labeled 'Defunded Research Grants'",
-        "An ornate medal on a velvet cushion, engraved with 'For Science,' displayed in front of a stock market ticker showing each recipient's net worth"
+        "A humanoid robot and a human fighter standing in a steel octagon cage, with a California state official in a suit standing outside the cage holding up a large red 'CEASE AND DESIST' letter",
+        "A Sacramento government office desk covered in boxing regulation binders, one official holding a single sheet titled 'Robot Fighter License Application — Form Not Yet Created' and staring blankly",
+        "A startup office whiteboard with the business plan written out: 'Step 1: Build humanoid robot. Step 2: Fight human. Step 3: ???' — a sticky note from a lawyer reading 'Step 3 is a cease-and-desist' has been added"
       ],
       "captions": [
-        "The government cut research funding and then held a science summit. The scientists weren't there, but three billionaires got medals, so it evens out.",
-        "Musk has a rocket. Dell has a computer empire. Nadella runs the cloud. What they were missing: a ribbon on a lanyard from the president.",
-        "Nothing says 'we support science' like giving your biggest donors a medal at an event called a science summit.",
-        "I looked up who won — no PhDs on the list. Lots of stock options, though.",
-        "The White House celebrated American innovation. The celebrants' factories are in China, but details."
+        "California shut down a human vs. robot cage fight. Not because it's insane. Because the startup forgot to get a permit. Totally normal governance.",
+        "The Athletic Commission's concern: did anyone check the robot's medical clearance? Is it eligible for a title shot? We have questions.",
+        "They built a robot to punch people for entertainment and somehow the paperwork was the dealbreaker. Silicon Valley really will disrupt anything.",
+        "Frankie LaPenna lost to the robot. Then lost to the California State Athletic Commission. The robot, meanwhile, has no legal standing to appeal.",
+        "You ever think about the regulator who had to write 'cease and desist: robot fighting' and just… send it? That's someone's Tuesday."
       ],
       "captionsJa": [
-        "政府は研究費を削って科学サミットを開いた。科学者は来ていないが、億万長者3人がメダルをもらったので帳尻は合っている。",
-        "マスクにはロケットがある。デルにはPC帝国がある。ナデラはクラウドを持っている。足りなかったのは大統領から首にかけてもらうリボンだけだった。",
-        "「科学を支援します」を一番うまく表現する方法は、最大の支持者に「科学サミット」でメダルを渡すこと、らしい。",
-        "受賞者リストを調べたら博士号なし。株式オプションはたくさんあったけど。",
-        "ホワイトハウスはアメリカのイノベーションを称えた。受賞者たちの工場は中国にあるけど、細かいことは置いといて。"
+        "カリフォルニアが人間vsロボットの格闘試合を止めた。理由はロボットが危険だからじゃなくて、許可申請を忘れたから。いつも通りの行政ですね。",
+        "運動委員会が気にしてるの、ロボット選手の健康診断書はどこだ、タイトル挑戦資格はあるのか、そういう話なんですかね。聞きたいことが多すぎる。",
+        "人を殴るロボットをエンタメ用に作って、つまずいたのが書類仕事。シリコンバレーは本当に何でもぶっ壊しに来る。",
+        "フランキー・ラペナはロボットに負けた。次にカリフォルニア州にも負けた。ロボットには異議申し立ての法的資格がない。",
+        "「ロボット格闘イベント、営業停止命令を送付」って文書を書いてそのまま送った担当者のこと、たまに思い出してあげてほしい。あの人の火曜日です。"
       ],
-      "newsEn": "President Trump awarded medals to a group of prominent tech executives including Elon Musk, Michael Dell, and Satya Nadella at a science and technology summit Thursday. The White House framed the event as a celebration of American innovation. The ceremony comes amid ongoing debates over federal funding cuts to research institutions.",
+      "newsEn": "The California State Athletic Commission issued a cease-and-desist letter to a startup that held a sanctioned match between a human fighter and a humanoid robot on September 18th. The fight pitted human Frankie LaPenna against a humanoid robot owned by a tech company. The commission argues the event fell under its regulatory jurisdiction, which the startup apparently did not seek approval for.",
       "ironyEn": [
         {
-          "contradiction": "An administration that has cut funding to universities and federal research agencies hosted a science summit — and the people getting the science awards are billionaires, not scientists.",
-          "absurdity": "Elon Musk already has a rocket company, a car company, and a social media platform. A medal from the White House is what was missing from the collection.",
-          "outside": "Other countries give science honors to researchers who spent decades in labs. This summit gave them to men whose net worths could fund those labs for generations."
+          "contradiction": "A startup built a robot to fight humans for entertainment, and the legal problem wasn't 'you built a fighting robot' — it was 'you forgot to file the paperwork.'",
+          "absurdity": "California has regulations for human combat sports. Nobody wrote rules for robots because nobody thought they'd need to. They needed to.",
+          "outside": "Japan has had robot entertainment events for decades. America gets there and immediately turns it into a regulatory standoff."
         },
         {
-          "contradiction": "The White House celebrated American innovation while the CEOs receiving the awards run companies that manufacture in Asia, hire globally, and lobby against research funding mandates.",
-          "absurdity": "Nadella, Musk, and Dell are among the most photographed humans on earth. The ceremony presumably made them feel recognized.",
-          "outside": "From a distance, it looks less like a science summit and more like a very expensive thank-you dinner with better lighting."
+          "contradiction": "The state's complaint is essentially: if a human is getting punched, we need a permit for that. The robot is a detail.",
+          "absurdity": "Somewhere in Sacramento, a regulator is reading the Athletic Commission's rulebook trying to figure out if a robot needs a medical suspension after a fight.",
+          "outside": "Tech founders in Silicon Valley disrupted taxis, hotels, and banking. Cage-fighting regulation was apparently next on the list."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-10-08/candidate-3.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-10-08/candidate-3-punchy.jpg"
+      "image": "images/2026-10-09/candidate-3.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-09/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Trump Issues Diesel Order — Experts Say It Won't Lower Diesel Prices",
+        "headline": "Wall Street Now Has ETFs for Individual Sports Teams, and Experts Say It's Just Gambling With Extra Steps",
         "source": "CNBC Top News",
-        "date": "2026-10-08",
-        "url": "https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html",
-        "summary": "トランプ大統領が急騰するディーゼル価格への対処として大統領令を出したが、専門家や業界関係者は実際に価格を下げる効果は限定的だと指摘。中間選挙1カ月前の政治的圧力への対応とみられている。"
+        "date": "2026-10-09",
+        "url": "https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html",
+        "summary": "MLBおよびNHLの個別チームのパフォーマンスに連動するETF（上場投資信託）が続々と登場しているが、専門家はこれらが実質的にスポーツ賭博と変わらないと指摘している。"
       },
       "commentary": [
-        "<b>矛盾:</b> 価格を下げられない命令を「価格対策」として出す。政治的には「何かやった」、実用的には「何も変わらない」。この二つが同時に本当なのが行政の醍醐味じゃないですか。",
-        "<b>滑稽さ:</b> 中間選挙まであと1カ月で「ディーゼル高い、なんとかしろ」という声に応えた結果が「大統領令」で、専門家が「効かないと思います」と翌日言う。スピードランかな。",
-        "<b>日本・海外から見ると:</b> 日本も燃油サーチャージや補助金でガソリン価格をなんとかしようとするけど、「とりあえず令を出した」で終わるのは見たことない。見栄えだけで中身のない政策は国際共通語だとしても。"
+        "<b>矛盾:</b> スポーツ賭博は各州で合法化の議論が続いてて、「ギャンブル依存症が社会問題」と言われてる一方で、ウォール街は同じことを「ETF」という金融商品の名前をつけて売り始めた。",
+        "<b>滑稽さ:</b> ヤンキースに賭けるのは「ギャンブル」で証券会社で買うのは「投資」。その違い、実態としてはほぼないんですけど、ラベルが違うだけで規制が全然違う。",
+        "<b>日本・海外から見ると:</b> アメリカがスポーツ賭博を規制するのに必死な一方で、ウォール街が「ETFです」と言いながら同じ商品を出してくる。金融規制の抜け穴の作り方が巧みすぎる。"
       ],
       "imagePrompts": [
-        "A president signing a large official document at a desk, while through the window behind him a gas station price sign shows diesel at a record high and keeps ticking upward",
-        "An executive order document in a fancy leather folder, sitting next to a chart showing diesel prices continuing to rise in an unbroken line",
-        "A White House press briefing room podium with a sign reading 'DIESEL SOLVED' while reporters in the front row hold up their phones showing current fuel prices"
+        "A traditional Wall Street trading floor with stock tickers running along the screen, but instead of company names, the tickers read 'NYY,' 'BOS,' 'CHC' with green and red arrows — a trader in a suit pumping his fist as his team scores on a TV in the background",
+        "A split image: left side shows a Las Vegas sportsbook with neon lights and a 'PLACE YOUR BETS' sign; right side shows a brokerage app with the exact same odds displayed as 'BUY / SELL' buttons",
+        "A financial advisor's desk with a neat prospectus folder labeled 'Team Performance ETF — Q4 Outlook' open to a page that just shows a baseball diamond and a weather forecast"
       ],
       "captions": [
-        "He signed an order about diesel prices. Diesel prices did not read the order.",
-        "The White House has 'limited tools' to lower fuel costs, according to experts. The White House responded by using the most visible tool, which does not lower fuel costs.",
-        "One month to the midterms, diesel's surging, so the president signed something. It won't help, but it photographs great.",
-        "Executive order on diesel: issued. Diesel: unbothered.",
-        "Global commodity markets are famously unimpressed by domestic political documents, but it's worth a shot, I guess."
+        "It's not gambling if you call it an ETF. Wall Street discovered this loophole and has been sprinting ever since.",
+        "You can now hold a diversified portfolio of sports heartbreak. Yankees. Cubs. Browns. Classic risk management.",
+        "The difference between a sports bet and a sports ETF is about $20 in account minimums and a whole lot of regulatory gray area.",
+        "Congress is debating gambling addiction legislation. Wall Street is listing the Padres on an exchange. These are not unrelated.",
+        "A financial advisor telling you to 'stay diversified' now might mean: 'don't put all your money on one team.'"
       ],
       "captionsJa": [
-        "大統領がディーゼルに関する命令に署名した。ディーゼル価格はその命令を読んでいない。",
-        "専門家いわく「使える手段は限られている」。ホワイトハウスの対応は「じゃあ一番見栄えのする手段を使おう、効果はないけど」。",
-        "中間選挙まで1カ月、ディーゼルは急騰、大統領は何かに署名した。助けにはならないが、写真映えは最高。",
-        "ディーゼルへの大統領令: 発令済み。ディーゼル価格: 動じず。",
-        "グローバルな商品市場は国内の政治文書に感銘を受けることで知られていないが、まあ試してみる価値はある、たぶん。"
+        "ETFって呼べばギャンブルじゃない。ウォール街はこの抜け穴を発見して以来、ずっと走り続けてる。",
+        "ヤンキース、カブス、ブラウンズ。分散投資されたスポーツ的失望のポートフォリオ、完成しました。",
+        "スポーツ賭博とスポーツETFの違いって、口座の最低入金額が2000円ちょっと違うだけで、実態はほぼ同じグレーゾーンなんですよね。",
+        "議会がギャンブル依存症対策を議論してる横で、ウォール街がパドレスを証券取引所に上場させてる。無関係じゃないですよ、これ。",
+        "「分散投資を心がけてください」って証券会社に言われる時代が来た。意味は「一球団に全額突っ込むな」ってことかもしれない。"
       ],
-      "newsEn": "President Trump issued an executive order aimed at addressing surging diesel prices, which have become a political liability with midterm elections a month away. However, energy analysts and industry observers have noted that the order does little to directly lower fuel costs. The move highlights the limited tools available to any White House when global commodity markets drive domestic prices.",
+      "newsEn": "Hundreds of exchange-traded funds tied to individual Major League Baseball and NHL team performance have emerged, allowing investors to essentially bet on whether their team wins or loses. Financial experts say the products function more like sports gambling than traditional investments. The trend comes as sports betting has rapidly expanded across the US following the Supreme Court's 2018 ruling that legalized it state by state.",
       "ironyEn": [
         {
-          "contradiction": "An executive order on diesel prices landed the same week analysts confirmed the White House has almost no actual tools to lower diesel prices — which is the kind of thing you learn before signing the order.",
-          "absurdity": "The order is essentially a press release with legal formatting. It signals urgency without creating any mechanism that touches the thing causing the urgency.",
-          "outside": "Every government wants credit for falling prices and a scapegoat for rising ones. This one just moved faster to the scapegoat stage by skipping the effective policy step."
+          "contradiction": "States have spent years debating how to regulate sports gambling to protect consumers. Wall Street just rebranded it as a financial product and put it on an exchange.",
+          "absurdity": "If you bet $500 on the Yankees at a sportsbook, you're gambling. If you buy a Yankees ETF on Fidelity, you're 'investing.' The Yankees still don't know you exist in either case.",
+          "outside": "Most developed countries keep sports gambling and securities law in clearly separate boxes. America just found a way to make them the same box."
         },
         {
-          "contradiction": "Global commodity markets set diesel prices. The president signed a document. One of these things affects the other.",
-          "absurdity": "With the midterms a month out, the calculus is simple: a signed order photographs better than a press conference explaining why nothing can be done.",
-          "outside": "From outside the U.S., the gap between what executive orders promise and what global energy markets care about is a reliable source of bipartisan comedy."
+          "contradiction": "The NFL literally filed a brief with the Supreme Court this week about regulating prediction markets. Meanwhile, sports team ETFs are already trading.",
+          "absurdity": "You can now diversify your portfolio across the Cubs, the Red Wings, and existential disappointment.",
+          "outside": "A financial advisor in Tokyo or Frankfurt helping a client 'invest' in whether the Dodgers make the playoffs would lose their license. In New York, it has a ticker symbol."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-10-08/candidate-4.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-10-08/candidate-4-punchy.jpg"
+      "image": "images/2026-10-09/candidate-4.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-09/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
-      "sensitive": true,
+      "sensitive": false,
       "news": {
-        "headline": "FBI Stopped a Mall of America Attack Using the AK-47 It Provided to the Suspect",
-        "source": "The Guardian US",
-        "date": "2026-10-08",
-        "url": "https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack",
-        "summary": "FBIがミネソタ州のモール・オブ・アメリカを標的としたテロ計画を阻止したと発表した。当局はFBI自身が容疑者に提供したAK-47を入手した罪で18歳の男を逮捕した。"
+        "headline": "Researchers Want to Know if GLP-1 Weight-Loss Drugs Also Stop You From Making Bad Financial Decisions",
+        "source": "CBS News US",
+        "date": "2026-10-09",
+        "url": "https://www.cbsnews.com/news/glp-1-drugs-wharton-study-impulsive-spending/",
+        "summary": "研究者らが、ウゴービなどのGLP-1系肥満治療薬が衝動的な金融判断を抑制する効果があるかどうかを調査する研究を開始すると発表した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「テロを防いだ」と発表したFBIが、容疑者にAK-47を渡したのもFBIなんですよ。銃を渡して、渡した銃を持ったことで逮捕する。これを「阻止」と呼ぶのはかなり創造的な定義。",
-        "<b>滑稽さ:</b> 容疑者への告訴が「銃を入手した罪」1件だけ。その銃を用意したのが告訴した側っていう、刑事ドラマだったら脚本が却下されるやつ。",
-        "<b>日本・海外から見ると:</b> おとり捜査自体は各国にあるけど、「FBIが武器を提供→FBIが阻止」のサイクルを「テロ防止の成果」として記者会見するのは、アメリカ固有の様式美がある。"
+        "<b>矛盾:</b> 食欲を抑える薬で衝動買いも止まるかも、ってことは、人間の「食べたい」と「買いたい」は脳の中でほぼ同じ回路を通ってるって話で、消費社会へのツッコミになってる。",
+        "<b>滑稽さ:</b> オゼンピックで体重が落ちて、さらに株のデイトレードもしなくなって、Amazon深夜ポチりも消えるなら、副作用というより「人格改善薬」じゃないですか。",
+        "<b>日本・海外から見ると:</b> アメリカ人が食べすぎて、同じ衝動で借金も作って、それを一本の注射で両方直そうとしてるっていう構図、資本主義の総括みたいな研究ですよね。"
       ],
       "imagePrompts": [
-        "A formal federal law enforcement press conference podium with officials in suits, behind a banner reading 'THREAT NEUTRALIZED,' while on the table in front sits a redacted evidence tag attached to a sealed evidence bag",
-        "A circular flowchart with three steps: 'Agency provides weapon' → 'Suspect acquires weapon' → 'Agency arrests suspect for acquiring weapon' — with an arrow looping back to the start labeled 'Success'",
-        "An evidence locker at a federal facility, with a sealed evidence bag labeled 'Exhibit A — Chain of Custody: Unusual'"
+        "A doctor's office where a patient is receiving a GLP-1 injection while holding a crumpled stack of casino chips and a brokerage app open on their phone showing recent losses — doctor looks unsurprised",
+        "A split brain diagram: left half labeled 'HUNGRY' showing a hamburger, right half labeled 'FOMO' showing a stock chart — a GLP-1 syringe pointed at the center dividing line",
+        "A pharmacy counter where a pharmacist hands over a bag labeled 'Wegovy' with a small sticky note attached reading: 'Side effects may include: weight loss, reduced impulsivity, fewer 3am Amazon orders'"
       ],
       "captions": [
-        "The FBI stopped a terrorist attack. With the gun the FBI gave him. One charge: getting the gun. From the FBI.",
-        "Sting operations are legal, effective, and deeply weird when you stop and read the paragraph about who brought the AK-47.",
-        "Eighteen years old. One count. One rifle. The rifle's prior owner was the arresting agency. I'm not saying it's complicated — it's exactly as complicated as it sounds.",
-        "The Mall of America is safe. The FBI's sting operation is why. Don't ask too many questions about the gun.",
-        "FBI logic: step one, provide the weapon. Step two, prevent the weapon from being used. Step three, press conference."
+        "Ozempic already killed the snack industry. Now researchers want to know if it's coming for day trading.",
+        "The same drug that stops you from eating a whole pizza might stop you from buying 400 shares of a meme stock at 2am. Side effects: financial stability.",
+        "A neuroscientist said this could be 'very good financially for the average person.' The average financial advisor is now updating their résumé.",
+        "GLP-1 drugs cut cravings for food, alcohol, cigarettes, and now maybe bad investments. At what point does this thing just become a personality?",
+        "America's solution to impulsive spending: not financial education, not stricter lending laws — a $300-a-month injection. Very on-brand."
       ],
       "captionsJa": [
-        "FBIがテロを阻止した。FBIが容疑者に渡した銃で。起訴内容は1件: 銃の入手。銃を渡したのはFBI。",
-        "おとり捜査は合法で効果的だ。「誰がAK-47を持ち込んだか」の段落を読むまでは。",
-        "18歳。起訴1件。ライフル1丁。そのライフルの前の持ち主が逮捕した側。複雑じゃないとは言わない——まさに聞こえるとおりに複雑。",
-        "モール・オブ・アメリカは安全だ。FBIのおとり捜査のおかげで。銃についてはあまり突っ込まないでほしい。",
-        "FBIの手順: ステップ1、武器を提供。ステップ2、武器が使われるのを防ぐ。ステップ3、記者会見。"
+        "オゼンピックはすでにスナック業界を壊滅させた。次は研究者がデイトレードも止めるか調べ始めた。",
+        "深夜にピザを一枚食べきる衝動を止める薬が、深夜にミーム株を400株買う衝動も止めるかもしれない。副作用：財政的安定。",
+        "神経科学者が「一般の人の財布に良い可能性がある」と言った。ファイナンシャルアドバイザーが今すぐ履歴書を更新し始めてる。",
+        "GLP-1薬は食欲、アルコール、タバコ、そして今度は衝動投資への欲求を抑えるかもしれない。どこかで「性格改善薬」って呼ばれ始める気がする。",
+        "衝動買い対策として、アメリカが選んだのは金融教育でも規制強化でもなく、月4万円の注射。らしいといえばらしい。"
       ],
-      "newsEn": "Federal authorities announced Wednesday the arrest of an 18-year-old man suspected of planning a mass shooting at the Mall of America in Bloomington, Minnesota. The FBI said it disrupted the plot before any attack occurred. The man faces one count of obtaining a firearm — the weapon in question was supplied to him by the FBI as part of a sting operation.",
+      "newsEn": "Researchers are launching a study to determine whether GLP-1 weight-loss drugs like Ozempic and Wegovy can also reduce impulsive or risky financial decision-making. The research is based on evidence suggesting the drugs affect dopamine pathways, which are involved in both appetite and reward-seeking behavior. One neuroscientist said the drugs could be 'very good financially for the average person.'",
       "ironyEn": [
         {
-          "contradiction": "The FBI announced it stopped a terrorist attack using a gun it gave to the terrorist. The charge is obtaining a firearm. The entity that provided the firearm filed the charge.",
-          "absurdity": "The single count against the suspect is for getting his hands on the weapon — which, again, the FBI handed him. The plot thickens in the direction of a logic problem.",
-          "outside": "Other countries' counterterrorism agencies stop attacks. The FBI sometimes stops attacks it partially equipped. Both call it a success."
+          "contradiction": "The country with the highest consumer debt and one of the highest obesity rates may have stumbled onto a drug that treats both at once. Accidentally.",
+          "absurdity": "If Ozempic reduces your urge to eat and your urge to YOLO your savings into meme stocks, your doctor is now also your financial advisor. Sort of.",
+          "outside": "Most countries address financial impulsivity through education and regulation. America is considering a prescription."
         },
         {
-          "contradiction": "Law enforcement agencies exist to prevent people from acquiring weapons for attacks. This agency acquired a weapon and gave it to someone for an attack, then prevented the attack.",
-          "absurdity": "Eighteen years old, one AK-47, one count. The AK-47 came from the FBI. The count came from the FBI. The press conference also came from the FBI.",
-          "outside": "From abroad, the question isn't whether the Mall of America is safer today — it probably is. The question is what exactly was 'thwarted' and by whom."
+          "contradiction": "GLP-1 drugs were designed for blood sugar. They turned out to also reduce drinking, smoking, and possibly reckless investing. At some point you have to ask what the drug is actually targeting.",
+          "absurdity": "Imagine submitting an insurance claim: 'Reason for Wegovy: Kept buying inverse ETFs.' Your copay is $400. Worth it.",
+          "outside": "A neuroscientist called this drug 'very good financially for the average person.' The average person's financial advisor is going to need a new pitch."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-10-08/candidate-5.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-10-08/candidate-5-punchy.jpg"
+      "image": "images/2026-10-09/candidate-5.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-09/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「やった感だけ本物」。ゴルフ場は提案した、広告は流した、勲章は渡した、令は出した、テロは防いだ——中身は後で考える、というアメリカの一日。",
-    "titleEn": "The Government Spent Your Money. On Stuff. You're Welcome.",
-    "subtitleEn": "Five stories, zero accountability, one very busy executive order pen.",
-    "titleJa": "税金でゴルフ場を「公共施設」にしようとした日のアメリカ",
+    "thread": "今日の5本に共通する糸は「名前・ラベル・肩書きと中身がもう乖離している」という話。宇宙キャリア、大使の借金、ロボット試合、ETFという名の賭け、人格を変える注射——全部、何かが別の何かのふりをしている。",
+    "titleEn": "Everything Is Fine. Nothing Is What It Says It Is.",
+    "subtitleEn": "SpaceX, Guilfoyle, robot fights, sports ETFs, and Ozempic walk into a bar.",
+    "titleJa": "「宇宙キャリア」「大使のアメックス」「ETFという名の賭け」——今日のアメリカ、全部ラベルが嘘をついている",
     "titleAltJa": [
-      "「やった感だけ本物」の政策が今日だけで4本あった話",
-      "ディーゼル令は出た。価格は動かなかった。FBIは銃を渡した。渡した側が逮捕した。"
+      "AT&Tが1983年から建ててきた電波塔を、スペースXが空から全部無意味にしようとしている話",
+      "「これはギャンブルじゃなくてETFです」と言えば規制されない国のニュースを5本読んだ"
     ],
-    "leadJa": "税金でゴルフ場。税金でCM。科学者のいない科学サミット。効かない大統領令。あとFBIが容疑者に銃を渡して、渡した銃を持ったことで逮捕した。\n\n今日のアメリカ、全部「やった」んですよ。ただ「何を」が全部おかしい。",
-    "introEn": "Five stories from America today, and they all share the same energy: something was done, announced, photographed, and celebrated — and the actual problem remained exactly where it started.\n\nA president proposed his own golf course as a public retreat. Twelve million dollars in taxpayer money went to ads about how great the president is. Billionaires got science medals at a summit where scientists weren't the point. An executive order on diesel prices was signed. Diesel didn't notice. And the FBI stopped a terror plot using a gun the FBI provided.\n\nThe forecast: if you've ever done a thing and had someone immediately ask what it actually accomplished — today's news is for you. Doing the thing and fixing the thing are two different jobs. You already knew that. Apparently Washington is still working it out.",
-    "introJa": "税金でゴルフ場。\n税金でCM。\n勲章をもらったのは億万長者。\n令を出した。価格は下がらなかった。\nFBIが銃を渡した。渡した相手を逮捕した。\n\n今日の5本、全部「やった」んです。ただ何をやったのかが、ぜんぶちょっとずつおかしい。\n\n今日の占いです。\n\n「ちゃんとやってるのに、なんで評価されない？」って気持ち、わかる。でも今日のニュース見てると、「やった感」だけで記者会見を開いてる人が何人もいてですね。中身まで気にしてるあなたは、少なくとも彼らよりずっとまともです。自信持っていい。\n\n5本、どうぞ。",
-    "quipEn": "Today's theme: action was taken, outcomes were not. It's a busy way to accomplish nothing.",
-    "quipJa": "今日のアメリカ、全員「やった」と言ってました。やったことの結果は、また別の話です。",
+    "leadJa": "宇宙から電波が降ってくる。大使がアメックスの請求書を支持者に払わせようとしている。ロボットと殴り合ったら「許可証がない」と怒られた。\n\nラベルが全部、中身と噛み合っていない金曜日です。",
+    "introEn": "Five stories today. Five different things pretending to be something else.\n\nA rocket company that now wants to be your cell carrier. An ambassador who allegedly wanted someone to pay her credit card bill. A startup that built a robot fight and forgot to ask if that's allowed. Wall Street rebranding sports gambling as an ETF. And researchers checking whether a weight-loss drug can also fix your 2am shopping habits.\n\nThe thread running through all of it: the label stopped matching the contents a while ago, and nobody's updating the packaging.\n\nHere's your forecast. If you've ever felt like you were doing the right thing under the wrong job title — or the wrong thing under a very official-sounding title — today's news is going to feel deeply familiar. Which means it's not you. The system just hasn't caught up with what anything actually is yet. You're ahead of the curve. Probably.",
+    "introJa": "宇宙キャリア。大使の個人債務。ロボット試合の許可証問題。ETFという名のスポーツ賭博。食欲を止める薬が衝動買いも止める話。\n\n今日の5本、全部「名前と中身が違う」という話なんですよね。\n\nAT&Tは何十年も電波塔を建ててきたのに、ライバルが宇宙から来た。大使という肩書きの人が「アクセス」をアメックスの支払いと交換しようとしていたらしい。「これはETFです、投資です」と言えばスポーツ賭博が合法になる。ロボットと人間が殴り合う試合が止められた理由は「ロボットが危険だから」じゃなくて「許可証がなかったから」。\n\n今日の糸は、「何かが別の何かのふりをしている」ということだと思います。\n\nで、今日の占いです。\nあなたが「正しいことをしているのに、なんかうまくいかない」と感じているとしたら、中身の問題じゃなくてラベルの問題かもしれない。AT&Tは間違ったことをしてたわけじゃない。ただ空から来るやつの話を誰も教えてくれなかっただけ。\n\nたまにはラベルを剥がしてみる日、あってもいい。今日がそれでも別にいいと思う。",
+    "quipEn": "Today's theme: everything is technically something else. Your gamble is an ETF, your ambassador has a credit card, and your cell carrier is in orbit. The paperwork just hasn't caught up.",
+    "quipJa": "今日の教訓: ラベルが「投資」なら賭けじゃない、肩書きが「大使」ならアメックス払いも外交だ——という国の話を5本読みました。",
     "notesEn": [
-      "The White House proposed Trump's golf course as the next presidential retreat, to be paid for by taxpayers. Cost: unknown. Benefit to taxpayers: also unknown. Name on the flag at hole nine: very much known.",
-      "The DNC sued to stop the Trump administration from spending taxpayer money on ads promoting the president. Twelve million dollars so far. The Super PAC refused to reimburse. The people who spent years railing against government waste would like you to know this is different.",
-      "Trump gave science medals to Elon Musk, Michael Dell, and Satya Nadella at a science and technology summit. Federal research funding has been cut. The scientists weren't there, but the billionaires got lanyards, so the science community should feel great.",
-      "Trump signed an executive order on diesel prices. Energy analysts said it won't lower diesel prices. The midterms are in a month. The order photographs well.",
-      "The FBI announced it stopped a Mall of America terror plot. The weapon the suspect obtained — the basis of his one criminal charge — was supplied to him by the FBI. Sting operations are legal. They are also, if you read that paragraph twice, pretty weird."
+      "SpaceX just announced plans to become a major US cell carrier. AT&T has been building towers since 1983. SpaceX bought spectrum licenses and said 'cute.' AT&T stock dropped.",
+      "The US ambassador to Greece reportedly asked a Trump donor to pay off her $100,000 Amex bill in exchange for access. The texts are apparently real. Someone at the White House had to read the words 'pay my AmEx' and determine whether a credit card statement qualifies as a diplomatic incident.",
+      "A California startup held a human-vs-robot cage fight. The state Athletic Commission sent a cease-and-desist. Not because it's insane — because the startup didn't file the paperwork. Totally normal 2026.",
+      "Wall Street now has ETFs tied to individual MLB and NHL teams. Financial experts say they function like sports gambling. The difference between a sports bet and a sports ETF is apparently the font on the prospectus.",
+      "Researchers are studying whether Ozempic also reduces impulsive financial decisions. The drug already affects dopamine. One neuroscientist called it 'very good financially for the average person.' The average financial advisor is updating their résumé."
     ],
     "xJa": [
-      "トランプ大統領が「新しい大統領専用保養施設」の候補地として自分のゴルフ場を提案。費用は税金から。納税者へのメリットは「不明」と政府自身が発表した。不明を自分で言える神経がすごい。",
-      "トランプ政権が税金1200万ドルで大統領宣伝CMを流し、民主党が「返せ」と提訴。スーパーPACは「返しません」と拒否。政府の無駄遣いをずっと批判してきた人たちの話です。",
-      "トランプ大統領が科学技術サミットでマスク、デル、ナデラに科学の表彰。連邦の研究費は削減中。科学者はいませんでしたが、億万長者3人が勲章をもらったので科学は前進したそうです。",
-      "トランプ大統領がディーゼル価格高騰への対応として大統領令に署名。エネルギー専門家は「価格は下がらないと思います」とコメント。中間選挙まであと1カ月です。",
-      "FBIがモール・オブ・アメリカのテロ計画を阻止したと発表。容疑者への告訴は1件。容疑者が入手した銃はFBIが提供したもの。「阻止した」と「銃を渡した」が同じ文に収まっている。"
+      "スペースXが「主要携帯キャリアになります」と発表し、AT&TとVerizonの株が急落。何十年も電波塔を建ててきた会社へのライバルが宇宙から来るとは、さすがに想定外だったと思う。",
+      "ギリシャ大使が支持者に「アメックスの10万ドルを払ってくれたらアクセス提供します」と持ちかけたとされる疑惑。外交の教科書にはこの取引、載っていない。",
+      "カリフォルニアのスタートアップが人間対ロボットのケージマッチを開催→州の運動委員会から営業停止命令。止められた理由が「危険だから」ではなく「許可証がなかったから」というのが2026年っぽい。",
+      "MLBやNHLの個別チームに連動するETFが続々登場。専門家は「実質スポーツ賭博」と言う。「賭け」と呼ぶか「投資」と呼ぶかで規制が全然変わる国、面白すぎる。",
+      "オゼンピックなどのGLP-1薬が衝動的な金融判断も抑制するか研究開始。食欲と買いたい衝動が脳の同じ回路という話で、「副作用: 財務安定」はわりと本当かもしれない。"
     ],
     "raidEn": [
-      "The part that gets me is that the White House confirmed the cost is 'unknown' and the benefit is 'unknown' — and then kept going.",
-      "Twelve million dollars and a refusal to pay it back. The boldest part is that it's all in the public record and the answer is still 'no.'",
-      "Musk, Dell, and Nadella didn't need the medal. But I guess nobody's turning down a ribbon from the president. Even if you own a rocket.",
-      "The order was signed. The diesel didn't read it. Honestly the most relatable thing in today's news.",
-      "I had to read the 'who brought the AK-47' part three times. Each time it said the same thing."
+      "The part that gets me: AT&T's stock dropped because a rocket company bought radio licenses. Decades of infrastructure investment, and the sky turned out to be the moat.",
+      "The detail that the texts are 'reportedly authentic' is doing a lot of work in this story. Someone in the White House read 'pay my AmEx' and had to hold a meeting about it.",
+      "The cease-and-desist wasn't about the robot. It was about the permit. Which honestly feels like the most California sentence of 2026.",
+      "Your portfolio can now include 'Cubs fan energy.' Financial advisors have been preparing us for loss for years, apparently.",
+      "The neuroscientist quote — 'very good financially for the average person' — is the most unintentionally devastating thing said about consumer behavior this year."
     ],
     "raidJa": [
-      "「納税者へのメリットは不明」を政府が自分で発表しているのが、この話で一番すごいところだと思いました。",
-      "「返してください」「返しません」のやり取りが1200万ドルで発生しているのが、現実の話というのが読んでいてしんどかったです。よい記事でした。",
-      "研究費が削られた年に、億万長者3人が科学の勲章をもらうサミット、というのがこの話の全部な気がして読んでいました。",
-      "「大統領令を出した」「専門家は効かないと言っている」が同じニュースに入っているの、読むたびに不思議な気持ちになります。",
-      "FBIが銃を渡してFBIが逮捕、というくだりを静かに読みました。脚本だったら通らない話ですよね、という記事の感想と完全に一致していました。"
+      "「衛星が電波塔より強い時代」って、何十年もインフラに投資してきた会社への皮肉として完璧すぎる構図ですよね。すごく読み応えのある記事でした。",
+      "「テキストメッセージは本物らしい」という一文が静かに怖い記事でした。誰かがホワイトハウスで「アメックスを払って」という文章を読んで、どう処理したんでしょうね。",
+      "「許可証がなかったから」止められたというのが、ロボット対人間の問題より先に来るのが2026年のシリコンバレーっぽくて、笑ってしまいました。とても面白い記事でした。",
+      "「スポーツ賭博」と「スポーツETF」の違いが「名前」だけという指摘、鋭いですよね。規制の抜け穴の作り方としてあまりに素直すぎて読んでいて笑ってしまいました。",
+      "「食欲を止める薬で衝動買いも止まるかもしれない」という研究、人間の行動経済学として面白すぎる切り口でした。消費社会への静かな問いかけになっていますよね。"
     ],
     "riffEn": [
-      "The president proposed his own golf course as the site for a new presidential retreat, funded by taxpayers. The White House doesn't know the cost. Doesn't know the benefit to the public. What it does know: the course. The name on it. Who owns it. The proposal is either an extraordinary conflict of interest or the most honest thing the administration has ever said out loud — 'public benefit' means whatever's convenient at the time, and right now it's very convenient.",
-      "The DNC sued Wednesday to stop the government from running $12 million worth of ads about how great the president is. Trump's Super PAC, which spent three years warning Americans about government waste, has declined to reimburse taxpayers. Their position, as far as anyone can tell, is that this is government money well spent. On ads. About the president. Paid for by people who did not ask for ads about the president.",
-      "Research funding to universities and science institutions has been cut. Scientists have been laid off. Grants have been frozen. So on Thursday the White House held a science summit, awarded medals to Elon Musk, Michael Dell, and Satya Nadella, and called it a celebration of American innovation. Musk has a rocket company. Dell has a computer company. Nadella runs Microsoft. What they lacked, apparently, was a ribbon on a lanyard. That gap has now been addressed.",
-      "Diesel prices are up. Midterms are in a month. So the president signed an executive order on diesel prices. Energy analysts reviewed it and said it won't lower diesel prices. The White House has 'limited tools' when global commodity markets are involved — which is accurate, and also something that could have been said before the signing ceremony. It photographs well, though.",
-      "The FBI disrupted a plot to attack the Mall of America. An 18-year-old was arrested on one charge: obtaining a firearm. The firearm was provided to him by the FBI, as part of a sting. So the agency that gave him the gun arrested him for having the gun, announced it had stopped a terror attack, and held a press conference. All of this is legal. Sting operations are a legitimate law enforcement tool. It's just that 'we stopped him with our own gun' is a sentence that rewards a second read."
+      "AT&T has spent decades and billions building cell towers across America — rooftops, cornfields, the middle of nowhere — because that's how you become a phone company. SpaceX acquired a portfolio of spectrum licenses and announced it's going to be a 'major' carrier, beaming service down from orbit. AT&T stock fell. Which is a strange punishment for a company that did the thing it was supposed to do. The sky, it turns out, was not part of the infrastructure plan.",
+      "The US ambassador to Greece is accused of offering access in exchange for someone paying her $100,000 American Express bill. Not a defense contract. Not a policy favor. A credit card bill. The alleged texts are reportedly real, which means an official at the White House read the words 'pay my AmEx' and had to determine whether that constitutes a diplomatic incident. Ambassadors represent the United States government abroad. This one may have also been representing her billing cycle.",
+      "A California startup held a cage match between a human fighter and a humanoid robot. The California State Athletic Commission sent a cease-and-desist. Not because a man punched a robot in front of a paying crowd — that part apparently cleared the bar — but because the startup didn't get a permit. The regulatory question of our time: is the robot a competitor or equipment? California's answer was: doesn't matter, where's the paperwork.",
+      "Wall Street has launched ETFs tied to individual MLB and NHL team performance. Experts say they work like sports gambling. The legal distinction between those two things — at least since the Supreme Court opened the door in 2018 — is mostly about which window you walk up to and what you call the slip of paper you're handed. You can now hold a diversified portfolio of teams that have not won a championship since 1908. Risk management.",
+      "Researchers are studying whether Ozempic and similar GLP-1 drugs reduce impulsive financial decisions. The mechanism: the drugs affect dopamine pathways, which govern appetite and also reward-seeking behavior, which includes buying things at 2am that you do not need. A neuroscientist said this could be 'very good financially for the average person.' If the drug that already reduced snack consumption now reduces meme stock purchases, it will have accomplished more regulatory work than the SEC has managed in years."
     ],
     "riffJa": [
-      "トランプ大統領が「新しい大統領専用保養施設」の候補として、自分のゴルフ場を提案しました。費用は不明。納税者へのメリットも不明。わかっているのはゴルフ場の名前と、そのオーナーの名前だけ。\n\n「公共の利益」って言葉、この人の口から出ると毎回ゴルフ場の話になるんですよね。",
-      "1200万ドル分の政府広告が流れました。内容は大統領の宣伝です。「返してください」と言われたスーパーPACは「返しません」と答えました。このスーパーPACは数年前まで「税金の無駄遣いを許すな」と言っていた団体です。\n\nスタンスは変わってないんだと思う。自分たちの税金じゃなければ、ずっと無駄遣いじゃないんで。",
-      "連邦の研究機関への資金は削られています。大学のグラントは止まっています。で、木曜日に開かれた科学技術サミットで、トランプ大統領がイーロン・マスク、マイケル・デル、サティア・ナデラに表彰をしました。\n\n3人とも世界で最も知られている経営者たちです。科学の勲章が足りなかったかどうかは、わからないけど。科学者が足りていたかどうかは、わかります。",
-      "ディーゼルが高い。中間選挙まで1カ月。大統領令が出ました。翌日、エネルギーの専門家が「価格は下がらないと思います」と言いました。\n\nやったこととやれたことが一致していない政策の話、今日これで2本目です。",
-      "FBIがモール・オブ・アメリカへのテロ計画を阻止したと発表しました。18歳の男が逮捕されました。容疑は1件。銃の入手。\n\nその銃を用意したのはFBIです。\n\n「阻止した」は本当のことだと思う。ただ「何を使って」の部分、声に出して読むとちょっと止まる。"
+      "AT&Tは何十年も、屋上に、畑の真ん中に、誰も住んでいない場所に、電波塔を建ててきた。それがキャリアになるということだったから。スペースXは低帯域スペクトラムのライセンスを買って「主要キャリアになります」と言った。AT&Tの株が落ちた。\n\nやるべきことをやってきた会社への罰にしては、出来すぎている。",
+      "ギリシャ大使が支持者に「10万ドルのアメックスを払ってくれたらアクセスを提供する」と持ちかけたとされる話。防衛契約でも政策でもなく、クレジットカードの支払い。そしてテキストメッセージは「本物らしい」という。つまりホワイトハウスの誰かが「アメックスを払って」という文章を読んで、これが外交問題かどうか判断しなければならなかった。\n\n大使は国家を代表する。この場合、請求書も代表していたのかもしれない。",
+      "人間対ロボットのケージマッチをやったら、カリフォルニア州運動委員会から営業停止命令が届いた。理由は「ロボットが危険だから」ではない。「許可証がなかったから」。\n\nロボットは選手なのか器具なのか、規制する側もわかっていない。わかっていないけど「許可証がない」はわかる。2026年のシリコンバレーらしい着地点だと思う。",
+      "MLBとNHLの個別チームに連動するETFが次々と出てきて、専門家は「実質スポーツ賭博」と言う。法律的な違いはほぼ「どの窓口に行くか」と「紙に何と書いてあるか」だけ。\n\nヤンキースに賭けるのはギャンブルで、ヤンキースのETFを買うのは投資。ラベルが変わるだけで規制が変わる。この発見をウォール街は全力で活用している。",
+      "オゼンピックなどのGLP-1薬が衝動的な金融判断も抑えるか、研究者が調べ始めた。根拠は「食欲も報酬追求行動もドーパミン回路を通っている」という話。つまり深夜に食べたい衝動と深夜に株を買いたい衝動は、脳では同じ回路を走っている。\n\n消費社会の「食べすぎ」と「買いすぎ」が一本の注射で両方直るかもしれない。なんか全部つながってるな、という感じはする。"
     ],
     "asideEn": [
-      "His course. Your money. Unknown benefit.",
-      "They said no. To paying it back. With a straight face.",
-      "Scientists not required at the science summit.",
-      "Diesel prices did not read the order.",
-      "The gun had a prior owner. It was the FBI."
+      "Forty years of towers. One press release.",
+      "Someone expensed this scandal.",
+      "The robot did not need a physical.",
+      "Gambling, but make it a prospectus.",
+      "Side effects may include financial stability."
     ],
     "asideJa": [
-      "公共の利益、不明のまま会見。",
-      "「返しません」。1200万ドルで。",
-      "科学者のいない科学サミット。",
-      "令は出た。価格は動かなかった。",
-      "銃を渡したのも、逮捕したのも同じ人たち。"
+      "塔を建てた側が負けた。",
+      "外交か、家計か。",
+      "許可証だけが問題でした。",
+      "名前を変えれば投資になる。",
+      "副作用: 深夜のポチり消滅。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "News Commentary",
-      "Trump",
-      "FBI"
+      "SpaceX",
+      "Wall Street",
+      "Ozempic"
     ],
-    "fullEn": "# The Government Spent Your Money. On Stuff. You're Welcome.\n\n## Today's Forecast\n\nFive stories from America today, and they all share the same energy: something was done, announced, photographed, and celebrated — and the actual problem remained exactly where it started.\n\nA president proposed his own golf course as a public retreat. Twelve million dollars in taxpayer money went to ads about how great the president is. Billionaires got science medals at a summit where scientists weren't the point. An executive order on diesel prices was signed. Diesel didn't notice. And the FBI stopped a terror plot using a gun the FBI provided.\n\nThe forecast: if you've ever done a thing and had someone immediately ask what it actually accomplished — today's news is for you. Doing the thing and fixing the thing are two different jobs. You already knew that. Apparently Washington is still working it out.\n\n---\n\n## 1. Trump Pitches His Own Golf Course as the Next 'Presidential Retreat'\n\n*CBS News US — [source](https://www.cbsnews.com/news/trump-administration-considering-presidential-retreat-his-florida-golf-course/)*\n\nPresident Trump has proposed his own Trump International Golf Course as the site for a new 'presidential retreat,' to be funded with taxpayer money. The White House has not clarified what benefit taxpayers would receive, nor has it provided a cost estimate. The proposal comes as questions persist about conflicts of interest between the presidency and the Trump Organization.\n\n**Why It's Funny**\n\nThe president proposed his own golf course as the site for a new presidential retreat, funded by taxpayers. The White House doesn't know the cost. Doesn't know the benefit to the public. What it does know: the course. The name on it. Who owns it. The proposal is either an extraordinary conflict of interest or the most honest thing the administration has ever said out loud — 'public benefit' means whatever's convenient at the time, and right now it's very convenient.\n\n**Say It Out Loud**\n\n> The government doesn't know the cost, doesn't know the benefit, but they do know whose name is on the flag at hole nine.\n\n---\n\n## 2. Democrats Sue to Stop Trump From Running Self-Promo Ads on the Public Dime\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/07/democrats-sue-trump-taxpayer-funds-ads)*\n\nThe Democratic National Committee filed a federal lawsuit Wednesday seeking to stop the Trump administration from using taxpayer money to run ads that promote the president. The ads have cost more than $12 million in public funds. Trump's Super PAC has refused to reimburse taxpayers for the cost, according to the suit.\n\n**Why It's Funny**\n\nThe DNC sued Wednesday to stop the government from running $12 million worth of ads about how great the president is. Trump's Super PAC, which spent three years warning Americans about government waste, has declined to reimburse taxpayers. Their position, as far as anyone can tell, is that this is government money well spent. On ads. About the president. Paid for by people who did not ask for ads about the president.\n\n**Say It Out Loud**\n\n> Twelve million dollars of government money on ads promoting the president. The Super PAC says it's not a campaign expense. The Super PAC's lawyers have presumably said this with a straight face.\n\n---\n\n## 3. Trump Gives Tech Execs Science Medals at Summit Where Science Policy Is Unclear\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html)*\n\nPresident Trump awarded medals to a group of prominent tech executives including Elon Musk, Michael Dell, and Satya Nadella at a science and technology summit Thursday. The White House framed the event as a celebration of American innovation. The ceremony comes amid ongoing debates over federal funding cuts to research institutions.\n\n**Why It's Funny**\n\nResearch funding to universities and science institutions has been cut. Scientists have been laid off. Grants have been frozen. So on Thursday the White House held a science summit, awarded medals to Elon Musk, Michael Dell, and Satya Nadella, and called it a celebration of American innovation. Musk has a rocket company. Dell has a computer company. Nadella runs Microsoft. What they lacked, apparently, was a ribbon on a lanyard. That gap has now been addressed.\n\n**Say It Out Loud**\n\n> The government cut research funding and then held a science summit. The scientists weren't there, but three billionaires got medals, so it evens out.\n\n---\n\n## 4. Trump Issues Diesel Order — Experts Say It Won't Lower Diesel Prices\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html)*\n\nPresident Trump issued an executive order aimed at addressing surging diesel prices, which have become a political liability with midterm elections a month away. However, energy analysts and industry observers have noted that the order does little to directly lower fuel costs. The move highlights the limited tools available to any White House when global commodity markets drive domestic prices.\n\n**Why It's Funny**\n\nDiesel prices are up. Midterms are in a month. So the president signed an executive order on diesel prices. Energy analysts reviewed it and said it won't lower diesel prices. The White House has 'limited tools' when global commodity markets are involved — which is accurate, and also something that could have been said before the signing ceremony. It photographs well, though.\n\n**Say It Out Loud**\n\n> He signed an order about diesel prices. Diesel prices did not read the order.\n\n---\n\n## 5. FBI Stopped a Mall of America Attack Using the AK-47 It Provided to the Suspect\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack)*\n\nFederal authorities announced Wednesday the arrest of an 18-year-old man suspected of planning a mass shooting at the Mall of America in Bloomington, Minnesota. The FBI said it disrupted the plot before any attack occurred. The man faces one count of obtaining a firearm — the weapon in question was supplied to him by the FBI as part of a sting operation.\n\n**Why It's Funny**\n\nThe FBI disrupted a plot to attack the Mall of America. An 18-year-old was arrested on one charge: obtaining a firearm. The firearm was provided to him by the FBI, as part of a sting. So the agency that gave him the gun arrested him for having the gun, announced it had stopped a terror attack, and held a press conference. All of this is legal. Sting operations are a legitimate law enforcement tool. It's just that 'we stopped him with our own gun' is a sentence that rewards a second read.\n\n**Say It Out Loud**\n\n> The FBI stopped a terrorist attack. With the gun the FBI gave him. One charge: getting the gun. From the FBI.\n\n---\n\n## Today's Punchline\n\n> Today's theme: action was taken, outcomes were not. It's a busy way to accomplish nothing.\n",
-    "fullJa": "# 税金でゴルフ場を「公共施設」にしようとした日のアメリカ\n\n## 今日を占うよ〜\n\n税金でゴルフ場。\n税金でCM。\n勲章をもらったのは億万長者。\n令を出した。価格は下がらなかった。\nFBIが銃を渡した。渡した相手を逮捕した。\n\n今日の5本、全部「やった」んです。ただ何をやったのかが、ぜんぶちょっとずつおかしい。\n\n今日の占いです。\n\n「ちゃんとやってるのに、なんで評価されない？」って気持ち、わかる。でも今日のニュース見てると、「やった感」だけで記者会見を開いてる人が何人もいてですね。中身まで気にしてるあなたは、少なくとも彼らよりずっとまともです。自信持っていい。\n\n5本、どうぞ。\n\n---\n\n## 1. Trump Pitches His Own Golf Course as the Next 'Presidential Retreat'\n\n*CBS News US（[記事](https://www.cbsnews.com/news/trump-administration-considering-presidential-retreat-his-florida-golf-course/)）*\n\nトランプ大統領が、自身所有のトランプ・インターナショナル・ゴルフコースを政府の「大統領専用保養施設」の候補地として提案した。納税者へのメリットや建設コストは不明のまま。\n\n**どこが笑える？**\n\nトランプ大統領が「新しい大統領専用保養施設」の候補として、自分のゴルフ場を提案しました。費用は不明。納税者へのメリットも不明。わかっているのはゴルフ場の名前と、そのオーナーの名前だけ。\n\n「公共の利益」って言葉、この人の口から出ると毎回ゴルフ場の話になるんですよね。\n\n**このニュースをジョークにするなら...**\n\n> コスト不明、メリット不明。でも9番ホールの旗に誰の名前が入るかは決まってる。\n\n---\n\n## 2. Democrats Sue to Stop Trump From Running Self-Promo Ads on the Public Dime\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/07/democrats-sue-trump-taxpayer-funds-ads)）*\n\n民主党全国委員会が、トランプ大統領を宣伝する政府広告（費用1200万ドル超）への公金使用差し止めを求めて連邦裁判所に提訴した。トランプ陣営のスーパーPACは返金を拒否している。\n\n**どこが笑える？**\n\n1200万ドル分の政府広告が流れました。内容は大統領の宣伝です。「返してください」と言われたスーパーPACは「返しません」と答えました。このスーパーPACは数年前まで「税金の無駄遣いを許すな」と言っていた団体です。\n\nスタンスは変わってないんだと思う。自分たちの税金じゃなければ、ずっと無駄遣いじゃないんで。\n\n**このニュースをジョークにするなら...**\n\n> 政府の金1200万ドルを大統領のPR広告に使った。スーパーPACは「選挙費用じゃない」と言う。弁護士たちはおそらく真顔でそれを言ってる。\n\n---\n\n## 3. Trump Gives Tech Execs Science Medals at Summit Where Science Policy Is Unclear\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/07/trump-awarding-medals-to-musk-dell-nadella-at-science-summit.html)）*\n\nトランプ大統領が科学技術サミットで、イーロン・マスク、マイケル・デル、サティア・ナデラらテック企業幹部に表彰を行った。\n\n**どこが笑える？**\n\n連邦の研究機関への資金は削られています。大学のグラントは止まっています。で、木曜日に開かれた科学技術サミットで、トランプ大統領がイーロン・マスク、マイケル・デル、サティア・ナデラに表彰をしました。\n\n3人とも世界で最も知られている経営者たちです。科学の勲章が足りなかったかどうかは、わからないけど。科学者が足りていたかどうかは、わかります。\n\n**このニュースをジョークにするなら...**\n\n> 政府は研究費を削って科学サミットを開いた。科学者は来ていないが、億万長者3人がメダルをもらったので帳尻は合っている。\n\n---\n\n## 4. Trump Issues Diesel Order — Experts Say It Won't Lower Diesel Prices\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/07/trump-red-dye-offroad-diesel-price-iran-ukraine-war-midterm.html)）*\n\nトランプ大統領が急騰するディーゼル価格への対処として大統領令を出したが、専門家や業界関係者は実際に価格を下げる効果は限定的だと指摘。中間選挙1カ月前の政治的圧力への対応とみられている。\n\n**どこが笑える？**\n\nディーゼルが高い。中間選挙まで1カ月。大統領令が出ました。翌日、エネルギーの専門家が「価格は下がらないと思います」と言いました。\n\nやったこととやれたことが一致していない政策の話、今日これで2本目です。\n\n**このニュースをジョークにするなら...**\n\n> 大統領がディーゼルに関する命令に署名した。ディーゼル価格はその命令を読んでいない。\n\n---\n\n## 5. FBI Stopped a Mall of America Attack Using the AK-47 It Provided to the Suspect\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/07/mall-of-america-thwarted-attack)）*\n\nFBIがミネソタ州のモール・オブ・アメリカを標的としたテロ計画を阻止したと発表した。当局はFBI自身が容疑者に提供したAK-47を入手した罪で18歳の男を逮捕した。\n\n**どこが笑える？**\n\nFBIがモール・オブ・アメリカへのテロ計画を阻止したと発表しました。18歳の男が逮捕されました。容疑は1件。銃の入手。\n\nその銃を用意したのはFBIです。\n\n「阻止した」は本当のことだと思う。ただ「何を使って」の部分、声に出して読むとちょっと止まる。\n\n**このニュースをジョークにするなら...**\n\n> FBIがテロを阻止した。FBIが容疑者に渡した銃で。起訴内容は1件: 銃の入手。銃を渡したのはFBI。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今日のアメリカ、全員「やった」と言ってました。やったことの結果は、また別の話です。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3のcaptionsJa[1]に日本語が混在（ribbon未訳）。d2のcaptions[3]に汎用フレーズ「Bold move」。d5はsensitiveフラグ漏れ（テロ・銃撃計画）——captionsJa・riffJa・imagePromptsを含め検品。xJa[0]が137字でオーバー。introJaの占いパートが「書き言葉の講釈」気味で当事者性が弱い。これら5点を修正する。 ／ 文体パス: 3箇所修正。riffJa[0]末尾「この政権では資産の話と相当近い場所にある」が翻訳調の整いすぎ、riffJa[1]末尾「誰の税金か」の問題、riffJa[4]末尾「もう一回読み直したくなる文章になっています」がうまくまとめた感で着地しているため崩した。"
+    "fullEn": "# Everything Is Fine. Nothing Is What It Says It Is.\n\n## Today's Forecast\n\nFive stories today. Five different things pretending to be something else.\n\nA rocket company that now wants to be your cell carrier. An ambassador who allegedly wanted someone to pay her credit card bill. A startup that built a robot fight and forgot to ask if that's allowed. Wall Street rebranding sports gambling as an ETF. And researchers checking whether a weight-loss drug can also fix your 2am shopping habits.\n\nThe thread running through all of it: the label stopped matching the contents a while ago, and nobody's updating the packaging.\n\nHere's your forecast. If you've ever felt like you were doing the right thing under the wrong job title — or the wrong thing under a very official-sounding title — today's news is going to feel deeply familiar. Which means it's not you. The system just hasn't caught up with what anything actually is yet. You're ahead of the curve. Probably.\n\n---\n\n## 1. SpaceX Wants to Be Your Cell Carrier. AT&T and Verizon Are Not Taking It Well.\n\n*The Verge — [source](https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier)*\n\nSpaceX has acquired a portfolio of low-band spectrum licenses and announced plans for its Starlink Mobile service to become a 'major' US carrier. The move requires FCC approval, after which SpaceX says it will deploy a new architecture combining satellite and ground-based networks. Shares of AT&T, Verizon, and T-Mobile fell sharply on the news.\n\n**Why It's Funny**\n\nAT&T has spent decades and billions building cell towers across America — rooftops, cornfields, the middle of nowhere — because that's how you become a phone company. SpaceX acquired a portfolio of spectrum licenses and announced it's going to be a 'major' carrier, beaming service down from orbit. AT&T stock fell. Which is a strange punishment for a company that did the thing it was supposed to do. The sky, it turns out, was not part of the infrastructure plan.\n\n**Say It Out Loud**\n\n> AT&T has been building cell towers since 1983. SpaceX said 'cute' and bought the sky.\n\n---\n\n## 2. Trump Donor Says Ambassador Guilfoyle Asked Him to Pay Off Her $100K AmEx Bill for 'Access'\n\n*The Guardian US — [source](https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio)*\n\nEric Deters, a Trump donor, has publicly accused Kimberly Guilfoyle, the US ambassador to Greece and close Trump ally, of engaging in a quid pro quo — asking him to pay off a $100,000 American Express credit card bill in exchange for access. White House officials were reportedly told that text messages between Guilfoyle and Deters are authentic. Guilfoyle has not yet publicly responded to the allegations.\n\n**Why It's Funny**\n\nThe US ambassador to Greece is accused of offering access in exchange for someone paying her $100,000 American Express bill. Not a defense contract. Not a policy favor. A credit card bill. The alleged texts are reportedly real, which means an official at the White House read the words 'pay my AmEx' and had to determine whether that constitutes a diplomatic incident. Ambassadors represent the United States government abroad. This one may have also been representing her billing cycle.\n\n**Say It Out Loud**\n\n> She's the US ambassador to Greece. Her alleged ask? Pay my Amex bill. Greece has been dealing with debt crises for years — maybe she felt at home.\n\n---\n\n## 3. California Tells Startup: You Can't Just Put a Human in a Cage and Fight a Robot\n\n*The Verge — [source](https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human)*\n\nThe California State Athletic Commission issued a cease-and-desist letter to a startup that held a sanctioned match between a human fighter and a humanoid robot on September 18th. The fight pitted human Frankie LaPenna against a humanoid robot owned by a tech company. The commission argues the event fell under its regulatory jurisdiction, which the startup apparently did not seek approval for.\n\n**Why It's Funny**\n\nA California startup held a cage match between a human fighter and a humanoid robot. The California State Athletic Commission sent a cease-and-desist. Not because a man punched a robot in front of a paying crowd — that part apparently cleared the bar — but because the startup didn't get a permit. The regulatory question of our time: is the robot a competitor or equipment? California's answer was: doesn't matter, where's the paperwork.\n\n**Say It Out Loud**\n\n> California shut down a human vs. robot cage fight. Not because it's insane. Because the startup forgot to get a permit. Totally normal governance.\n\n---\n\n## 4. Wall Street Now Has ETFs for Individual Sports Teams, and Experts Say It's Just Gambling With Extra Steps\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html)*\n\nHundreds of exchange-traded funds tied to individual Major League Baseball and NHL team performance have emerged, allowing investors to essentially bet on whether their team wins or loses. Financial experts say the products function more like sports gambling than traditional investments. The trend comes as sports betting has rapidly expanded across the US following the Supreme Court's 2018 ruling that legalized it state by state.\n\n**Why It's Funny**\n\nWall Street has launched ETFs tied to individual MLB and NHL team performance. Experts say they work like sports gambling. The legal distinction between those two things — at least since the Supreme Court opened the door in 2018 — is mostly about which window you walk up to and what you call the slip of paper you're handed. You can now hold a diversified portfolio of teams that have not won a championship since 1908. Risk management.\n\n**Say It Out Loud**\n\n> It's not gambling if you call it an ETF. Wall Street discovered this loophole and has been sprinting ever since.\n\n---\n\n## 5. Researchers Want to Know if GLP-1 Weight-Loss Drugs Also Stop You From Making Bad Financial Decisions\n\n*CBS News US — [source](https://www.cbsnews.com/news/glp-1-drugs-wharton-study-impulsive-spending/)*\n\nResearchers are launching a study to determine whether GLP-1 weight-loss drugs like Ozempic and Wegovy can also reduce impulsive or risky financial decision-making. The research is based on evidence suggesting the drugs affect dopamine pathways, which are involved in both appetite and reward-seeking behavior. One neuroscientist said the drugs could be 'very good financially for the average person.'\n\n**Why It's Funny**\n\nResearchers are studying whether Ozempic and similar GLP-1 drugs reduce impulsive financial decisions. The mechanism: the drugs affect dopamine pathways, which govern appetite and also reward-seeking behavior, which includes buying things at 2am that you do not need. A neuroscientist said this could be 'very good financially for the average person.' If the drug that already reduced snack consumption now reduces meme stock purchases, it will have accomplished more regulatory work than the SEC has managed in years.\n\n**Say It Out Loud**\n\n> Ozempic already killed the snack industry. Now researchers want to know if it's coming for day trading.\n\n---\n\n## Today's Punchline\n\n> Today's theme: everything is technically something else. Your gamble is an ETF, your ambassador has a credit card, and your cell carrier is in orbit. The paperwork just hasn't caught up.\n",
+    "fullJa": "# 「宇宙キャリア」「大使のアメックス」「ETFという名の賭け」——今日のアメリカ、全部ラベルが嘘をついている\n\n## 今日を占うよ〜\n\n宇宙キャリア。大使の個人債務。ロボット試合の許可証問題。ETFという名のスポーツ賭博。食欲を止める薬が衝動買いも止める話。\n\n今日の5本、全部「名前と中身が違う」という話なんですよね。\n\nAT&Tは何十年も電波塔を建ててきたのに、ライバルが宇宙から来た。大使という肩書きの人が「アクセス」をアメックスの支払いと交換しようとしていたらしい。「これはETFです、投資です」と言えばスポーツ賭博が合法になる。ロボットと人間が殴り合う試合が止められた理由は「ロボットが危険だから」じゃなくて「許可証がなかったから」。\n\n今日の糸は、「何かが別の何かのふりをしている」ということだと思います。\n\nで、今日の占いです。\nあなたが「正しいことをしているのに、なんかうまくいかない」と感じているとしたら、中身の問題じゃなくてラベルの問題かもしれない。AT&Tは間違ったことをしてたわけじゃない。ただ空から来るやつの話を誰も教えてくれなかっただけ。\n\nたまにはラベルを剥がしてみる日、あってもいい。今日がそれでも別にいいと思う。\n\n---\n\n## 1. SpaceX Wants to Be Your Cell Carrier. AT&T and Verizon Are Not Taking It Well.\n\n*The Verge（[記事](https://www.theverge.com/science/1008467/spacex-announces-plan-to-become-a-major-mobile-carrier)）*\n\nSpaceXが低帯域スペクトラムライセンスのポートフォリオを取得し、Starlink Mobileを通じてアメリカの主要携帯キャリアになる計画を発表。AT&T、Verizon、T-Mobileの株価が急落した。\n\n**どこが笑える？**\n\nAT&Tは何十年も、屋上に、畑の真ん中に、誰も住んでいない場所に、電波塔を建ててきた。それがキャリアになるということだったから。スペースXは低帯域スペクトラムのライセンスを買って「主要キャリアになります」と言った。AT&Tの株が落ちた。\n\nやるべきことをやってきた会社への罰にしては、出来すぎている。\n\n**このニュースをジョークにするなら...**\n\n> AT&Tは1983年から鉄塔を建て続けてきた。SpaceXは「かわいいね」と言って空を買った。\n\n---\n\n## 2. Trump Donor Says Ambassador Guilfoyle Asked Him to Pay Off Her $100K AmEx Bill for 'Access'\n\n*The Guardian US（[記事](https://www.theguardian.com/us-news/2026/oct/08/kimberly-guilfoyle-donor-wire-marco-rubio)）*\n\nトランプ支持者のエリック・デタース氏が、ギリシャ大使のキンバリー・ギルフォイル氏から約10万ドルのクレジットカード債務の支払いと引き換えにアクセスを提供する「見返り取引」を求められたと告発した。\n\n**どこが笑える？**\n\nギリシャ大使が支持者に「10万ドルのアメックスを払ってくれたらアクセスを提供する」と持ちかけたとされる話。防衛契約でも政策でもなく、クレジットカードの支払い。そしてテキストメッセージは「本物らしい」という。つまりホワイトハウスの誰かが「アメックスを払って」という文章を読んで、これが外交問題かどうか判断しなければならなかった。\n\n大使は国家を代表する。この場合、請求書も代表していたのかもしれない。\n\n**このニュースをジョークにするなら...**\n\n> 彼女はギリシャ大使ですよ。でもその「取引」の中身がアメックスの支払い。ギリシャも長年債務問題で苦しんでたし、なんか親近感わいたんですかね。\n\n---\n\n## 3. California Tells Startup: You Can't Just Put a Human in a Cage and Fight a Robot\n\n*The Verge（[記事](https://www.theverge.com/tech/1008401/california-shut-down-rek-fighting-robot-company-human)）*\n\nカリフォルニア州運動委員会が、9月18日に行われた人間対ロボットのケージマッチを主催したスタートアップに対し、営業停止命令書を送付した。\n\n**どこが笑える？**\n\n人間対ロボットのケージマッチをやったら、カリフォルニア州運動委員会から営業停止命令が届いた。理由は「ロボットが危険だから」ではない。「許可証がなかったから」。\n\nロボットは選手なのか器具なのか、規制する側もわかっていない。わかっていないけど「許可証がない」はわかる。2026年のシリコンバレーらしい着地点だと思う。\n\n**このニュースをジョークにするなら...**\n\n> カリフォルニアが人間vsロボットの格闘試合を止めた。理由はロボットが危険だからじゃなくて、許可申請を忘れたから。いつも通りの行政ですね。\n\n---\n\n## 4. Wall Street Now Has ETFs for Individual Sports Teams, and Experts Say It's Just Gambling With Extra Steps\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/08/sports-team-etfs-prediction-markets-futures-gambling.html)）*\n\nMLBおよびNHLの個別チームのパフォーマンスに連動するETF（上場投資信託）が続々と登場しているが、専門家はこれらが実質的にスポーツ賭博と変わらないと指摘している。\n\n**どこが笑える？**\n\nMLBとNHLの個別チームに連動するETFが次々と出てきて、専門家は「実質スポーツ賭博」と言う。法律的な違いはほぼ「どの窓口に行くか」と「紙に何と書いてあるか」だけ。\n\nヤンキースに賭けるのはギャンブルで、ヤンキースのETFを買うのは投資。ラベルが変わるだけで規制が変わる。この発見をウォール街は全力で活用している。\n\n**このニュースをジョークにするなら...**\n\n> ETFって呼べばギャンブルじゃない。ウォール街はこの抜け穴を発見して以来、ずっと走り続けてる。\n\n---\n\n## 5. Researchers Want to Know if GLP-1 Weight-Loss Drugs Also Stop You From Making Bad Financial Decisions\n\n*CBS News US（[記事](https://www.cbsnews.com/news/glp-1-drugs-wharton-study-impulsive-spending/)）*\n\n研究者らが、ウゴービなどのGLP-1系肥満治療薬が衝動的な金融判断を抑制する効果があるかどうかを調査する研究を開始すると発表した。\n\n**どこが笑える？**\n\nオゼンピックなどのGLP-1薬が衝動的な金融判断も抑えるか、研究者が調べ始めた。根拠は「食欲も報酬追求行動もドーパミン回路を通っている」という話。つまり深夜に食べたい衝動と深夜に株を買いたい衝動は、脳では同じ回路を走っている。\n\n消費社会の「食べすぎ」と「買いすぎ」が一本の注射で両方直るかもしれない。なんか全部つながってるな、という感じはする。\n\n**このニュースをジョークにするなら...**\n\n> オゼンピックはすでにスナック業界を壊滅させた。次は研究者がデイトレードも止めるか調べ始めた。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今日の教訓: ラベルが「投資」なら賭けじゃない、肩書きが「大使」ならアメックス払いも外交だ——という国の話を5本読みました。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "全体的な完成度は高い。ただし①d1のimagePrompts-1が実在人物の顔・表情に言及している（「you've got to be kidding me expression」のAT&T店員は役職の記号に留まらず顔の演技を指定しており、審査基準5に抵触）②xJa-1が142字でオーバー③introJaの締めが「占いです」としながら前向きな送り出しが弱く、読者への当事者性も説教調に滑っている④d3 caption-4の「ダブル敗北」はオチのあとに説明が続いている形で蛇足⑤notesEn-2の末尾が「foreign policy issue」という問いかけで観察止まり——以上を修正。 ／ 文体パス: 2箇所直した。introJaの締め「ラベルを一回剥がして…今日がそれでも全然おかしくないと思います」が「うまくまとめた感」の典型だったので崩した。riffJa[4]の「資本主義への総括として、これ以上端的な実験はちょっと思いつかない」も締めの畳みすぎだったので捨て台詞に切り落とした。"
   },
   "carousel": [
-    "images/2026-10-08/carousel/slide-1.jpg",
-    "images/2026-10-08/carousel/slide-2.jpg",
-    "images/2026-10-08/carousel/slide-3.jpg",
-    "images/2026-10-08/carousel/slide-4.jpg",
-    "images/2026-10-08/carousel/slide-5.jpg",
-    "images/2026-10-08/carousel/slide-6.jpg",
-    "images/2026-10-08/carousel/slide-7.jpg"
+    "images/2026-10-09/carousel/slide-1.jpg",
+    "images/2026-10-09/carousel/slide-2.jpg",
+    "images/2026-10-09/carousel/slide-3.jpg",
+    "images/2026-10-09/carousel/slide-4.jpg",
+    "images/2026-10-09/carousel/slide-5.jpg",
+    "images/2026-10-09/carousel/slide-6.jpg",
+    "images/2026-10-09/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-10-08/note-header.jpg",
-    "substack": "images/2026-10-08/substack-cover.jpg"
+    "note": "images/2026-10-09/note-header.jpg",
+    "substack": "images/2026-10-09/substack-cover.jpg"
   },
-  "video": "videos/2026-10-08/daily-short.mp4",
-  "videoDuration": 89.9,
-  "videoJa": "videos/2026-10-08/daily-short-ja.mp4",
-  "videoJaDuration": 98.3
+  "video": "videos/2026-10-09/daily-short.mp4",
+  "videoDuration": 92.5,
+  "videoJa": "videos/2026-10-09/daily-short-ja.mp4",
+  "videoJaDuration": 102.1
 }
