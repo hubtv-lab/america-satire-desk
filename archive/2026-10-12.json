@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-11T22:56:53+00:00",
+  "source": "auto (rss + claude)",
+  "candidates": [
+    {
+      "id": "d1",
+      "sensitive": false,
+      "news": {
+        "headline": "DOJ Investigates TV Networks for Covering White House — Using Antitrust Law",
+        "source": "CNBC Top News",
+        "date": "2026-10-12",
+        "url": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
+        "summary": "司法省は、ホワイトハウスのテレビ記者団が独占禁止法（シャーマン法）に違反していないか調査していると発表した。ホワイトハウスが報道機関のアクセスを制限している問題が激化する中での動きだ。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> プレスアクセスを自分たちで絞っておいて、残った記者団を「独占だ」と訴えるって、扉に鍵かけておいて「なんで俺しかいないんだ、独占じゃないか」って言ってるようなもんですよ。",
+        "<b>滑稽さ:</b> シャーマン法は1890年代に鉄道王や石油トラストを潰すために作られた法律なんですけど、今使われてる相手が「ホワイトハウスを取材するカメラマン集団」。ロックフェラーが泣いてます。",
+        "<b>日本・海外から見ると:</b> 「報道の自由を守る」と言いながら使う武器が独占禁止法って、外から見たら完全に新ジャンルの法律の使い方。弁護士の試験問題にそのまま出せます。"
+      ],
+      "imagePrompts": [
+        "A courtroom scene where a massive 'DOJ' sign hangs above a bench, and the defendant's table holds only a single TV camera on a tripod, surrounded by stacks of antitrust law books",
+        "A 19th-century 'MONOPOLY BUSTED' newspaper headline framed on a wall, with a sticky note over the original monopolist's name reading 'press pool'",
+        "A velvet rope outside a government building, a bouncer with a clipboard, and a sign reading 'Capacity: 2 outlets max — antitrust may apply'"
+      ],
+      "captions": [
+        "The government locked the door, handed out three keys, and is now suing everyone for hoarding keys.",
+        "Sherman Antitrust, 1890: meant for oil barons. Sherman Antitrust, 2026: aimed at the camera guy who films press briefings. Close enough.",
+        "You ever get accused of monopolizing a room you were barely allowed into?",
+        "The DOJ's argument, simplified: 'These journalists keep showing up to cover us, and frankly, we find it anti-competitive.'",
+        "Rockefeller dodged antitrust for years. The White House press pool lasted about a season."
+      ],
+      "captionsJa": [
+        "扉に鍵かけておいて、「鍵持ってる人が多すぎる、独占だ」って訴えるやつ。",
+        "シャーマン法、1890年：石油王向け。シャーマン法、2026年：記者会見を撮るカメラマン向け。まあ似たようなもんですよね。",
+        "ギリギリ入れてもらった部屋で「独占している」と訴えられる感覚、想像してみてください。",
+        "司法省の主張を要約すると、「あの記者たち、うちの取材をずっとしてくるんですが、独占じゃないですか？」",
+        "ロックフェラーは何年も逃げ切った。ホワイトハウスの記者団はワンシーズンで訴えられた。"
+      ],
+      "newsEn": "The Justice Department announced it is investigating whether the White House television press pool violated the Sherman Antitrust Act. The move comes as the White House has escalated its fight over which outlets receive press access. Critics noted that antitrust law was designed to break up corporate monopolies, not regulate news organizations covering the presidency.",
+      "ironyEn": [
+        {
+          "contradiction": "The White House controls who gets into the briefing room, then calls the people they let in a 'monopoly.'",
+          "absurdity": "Sherman Antitrust law was drafted to bust Standard Oil. Its newest target is a camera crew in the West Wing.",
+          "outside": "From the outside, this looks less like law enforcement and more like a venue threatening to sue its own guest list."
+        },
+        {
+          "contradiction": "Restricting press access and then prosecuting the restricted press for forming a cartel is a move that would require a flowchart to explain.",
+          "absurdity": "Somewhere, a first-year law student just read this and decided to switch to accounting.",
+          "outside": "Countries that score lowest on press freedom indices are probably taking notes — this is a more creative approach than they expected."
+        }
+      ],
+      "imageSeed": 1,
+      "image": "images/2026-10-12/candidate-1.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-12/candidate-1-punchy.jpg"
+    },
+    {
+      "id": "d2",
+      "sensitive": false,
+      "news": {
+        "headline": "College Tried to Cancel Its Surveillance Camera Contract. The Cameras Said No.",
+        "source": "The Verge",
+        "date": "2026-10-12",
+        "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
+        "summary": "イリノイ州エルジン・コミュニティ・カレッジは、安全目的で導入したFlock社の監視カメラが移民税関捜査局（ICE）にデータを共有していると懸念し、契約解除を試みたが、Flockは解約を拒否した。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 「学生の安全のため」と言って入れた監視カメラが、今度は学生を危険にさらしているかもしれなくて、やめようとしたらカメラに「やめさせない」と言われる。安全のための監視が、安全の脅威を監視している。",
+        "<b>滑稽さ:</b> 「解約します」「拒否します」って、契約相手がカメラなんですよ。機材に拒否権があるって、サブスクリプションサービスの究極系じゃないですか。",
+        "<b>日本・海外から見ると:</b> キャンセル不可のサブスクと戦う話、日本でも笑えないくらい身近なんですけど、相手がICEにデータ流してる監視カメラっていうのが、スケールが違いすぎて笑えない笑えるやつ。"
+      ],
+      "imagePrompts": [
+        "A college administrator in a suit sitting across a negotiating table from a mounted surveillance camera on a tripod, with a stack of legal contracts between them, indoors in a conference room",
+        "A security camera on a pole with a tiny 'CONTRACT: NON-CANCELLABLE' sign zip-tied below it, on a quiet college campus walkway",
+        "A government form labeled 'DATA RECIPIENT: CBP' stamped APPROVED, sitting in a filing tray beneath a framed campus mission statement reading 'Student Safety First'"
+      ],
+      "captions": [
+        "The school tried to cancel. The camera said it needed 30 days notice, a written request, and frankly didn't feel like it.",
+        "You installed me for safety. I am keeping you safe — from ever leaving this contract.",
+        "What if your Ring doorbell also texted ICE and you couldn't return it? Asking for a community college in Illinois.",
+        "Student safety cameras: protecting students from the ability to remove student safety cameras.",
+        "The fine print giveth the camera. The fine print taketh away the exit."
+      ],
+      "captionsJa": [
+        "学校が解約しようとしたら、カメラが「30日前通知と書面が必要で、あと気が向かない」と言った。",
+        "「あなたの安全のために設置されました。あなたがこの契約から出られないよう守っています。」",
+        "自分のドアカメラがICEにテキスト送ってて、しかも返品できなかったら？イリノイ州のコミュニティカレッジがちょうど聞きたいことがあるそうです。",
+        "学生安全カメラ：学生を守る。ただし「学生安全カメラを撤去する権利」からは守らない。",
+        "契約の小さい文字で、カメラがやってきた。同じ小さい文字で、出口が消えた。"
+      ],
+      "newsEn": "Elgin Community College in Illinois installed six Flock Safety cameras in April 2025 to enhance campus security. By September, the administration grew concerned that Flock was sharing camera data with Customs and Border Protection, and that camera feeds were not being properly secured. When the college tried to cancel its contract, Flock refused to let them out of the agreement.",
+      "ironyEn": [
+        {
+          "contradiction": "The college bought the cameras to protect students. The cameras started sharing student data with federal immigration enforcement. The college tried to stop this. The cameras, contractually, refused.",
+          "absurdity": "Most subscription services just auto-renew quietly. Flock auto-renews and calls CBP.",
+          "outside": "Somewhere a legal scholar is updating their paper on 'who actually controls campus safety infrastructure' and the answer is 'not the campus.'"
+        },
+        {
+          "contradiction": "A school that wanted to keep students safe ended up trapped in a contract with the very system making them less safe.",
+          "absurdity": "The camera didn't do the unethical thing. The contract did. The camera just watched.",
+          "outside": "This is the EdTech vendor relationship in its final form: the institution buys the tool, the tool owns the institution."
+        }
+      ],
+      "imageSeed": 2,
+      "image": "images/2026-10-12/candidate-2.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-12/candidate-2-punchy.jpg"
+    },
+    {
+      "id": "d3",
+      "sensitive": false,
+      "news": {
+        "headline": "Trump Rebrands AI as 'Super Intelligence.' Silicon Valley Is Nodding Along.",
+        "source": "The Verge",
+        "date": "2026-10-12",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
+        "summary": "トランプ大統領が人工知能（AI）を「スーパー・インテリジェンス」と呼び替える方針を打ち出したところ、シリコンバレーの有力者たちがこぞって新しい呼称を使い始めている。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> テクノロジーの名前を変えても技術自体は何も変わらないんですけど、「変わった」と思わせることこそがブランディングの本質ってこと、シリコンバレーが一番よく知ってるはずなんですよ。それをやられた側でやってる。",
+        "<b>滑稽さ:</b> 先週まで「AIが世界を変える」って言ってた人たちが今週は「スーパー・インテリジェンスが世界を変える」って言ってるわけで、言葉だけ換えてプレゼン資料を全部刷り直した人のコスト、誰が払うんですか。",
+        "<b>日本・海外から見ると:</b> アメリカの技術覇権の話をしているはずなのに、焦点が「なんと呼ぶか」になってるのを外から見ると、「強い国って意外とこういうことで時間使ってるんだ」ってなります。"
+      ],
+      "imagePrompts": [
+        "A row of tech executives in matching fleece vests at a conference table, all rapidly peeling off 'AI' name badges and replacing them with 'SUPER INTELLIGENCE' stickers, with a podium bearing a presidential seal at the front of the room",
+        "A server room filled with humming racks of computers, and a single laminated sign taped to the door: the old sign reading 'AI LAB' with 'SUPER INTELLIGENCE LAB' in large letters pasted over it",
+        "A whiteboard in a startup office where 'AI' has been crossed out in red marker 17 times and replaced with 'SUPER INTELLIGENCE,' surrounded by confused-looking sticky notes"
+      ],
+      "captions": [
+        "The technology didn't change. The PowerPoint template did. Progress.",
+        "Silicon Valley spent $300 billion building AI and then renamed it because a guy with a social media account asked nicely.",
+        "You know how cereal companies just write 'NEW LOOK, SAME GREAT TASTE'? This is that, but for the entire tech industry.",
+        "They disrupted banking, transportation, and hospitality. Turns out all it took to disrupt them was a two-word rebrand.",
+        "800 decks, 'AI' crossed out, 'super intelligence' typed in. Somewhere a junior PM billed that as a sprint and nobody pushed back."
+      ],
+      "captionsJa": [
+        "技術は何も変わってない。パワーポイントのテンプレートが変わった。進歩です。",
+        "シリコンバレーは3000億ドルかけてAIを作って、SNSアカウントを持つ人に頼まれて名前を変えた。",
+        "シリアルのパッケージに「リニューアル！中身は変わらず」って書いてあるやつあるじゃないですか。あれです。ただし対象がテック業界全体。",
+        "銀行も交通も宿泊もぶっ壊してきた人たちが、2語のリブランドで崩れた。",
+        "800本のデッキの「AI」を「スーパー・インテリジェンス」に直す作業、誰かが1スプリントとして計上して、誰も突っ込まなかったはずです。"
+      ],
+      "newsEn": "President Trump announced plans to rebrand artificial intelligence as 'super intelligence.' While the general public has largely stuck with the term AI, some of Silicon Valley's most powerful figures have begun adopting the new terminology, falling in line with the administration's preferred language.",
+      "ironyEn": [
+        {
+          "contradiction": "The industry that prides itself on disrupting everything else changed nothing about its technology, only its vocabulary, on request from a politician.",
+          "absurdity": "Billions of dollars of AI infrastructure, renamed by a single Truth Social post.",
+          "outside": "Other countries are racing to build better models. The U.S. is currently debating what to put on the label."
+        },
+        {
+          "contradiction": "Silicon Valley executives who once said they'd never let government dictate their roadmap are now updating their LinkedIn bios to match White House terminology.",
+          "absurdity": "The smartest machines in the world got rebranded by the oldest trick in politics: just say a different word louder.",
+          "outside": "From abroad, this reads as the most expensive game of 'Simon Says' in the history of enterprise software."
+        }
+      ],
+      "imageSeed": 3,
+      "image": "images/2026-10-12/candidate-3.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-12/candidate-3-punchy.jpg"
+    },
+    {
+      "id": "d4",
+      "sensitive": false,
+      "news": {
+        "headline": "AI Is Automating Coding. Software Developer Job Postings Are Going Up.",
+        "source": "CNBC Top News",
+        "date": "2026-10-11",
+        "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
+        "summary": "AIがコーディング業務を自動化する中、ソフトウェア開発者の求人数は逆に増加傾向にあることが明らかになった。ただし増えているのは上級職とAI専門職で、エントリーレベルの採用は弱含みだ。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 「AIがプログラマーの仕事を奪う」って言われてたのに、求人が増えてる。ただし「AIを使いこなせるベテランのみ」。つまりAIが奪ったのは新人の仕事だけで、新人が奪ってもらいたかった仕事はそのまま残ってる。",
+        "<b>滑稽さ:</b> 「未経験歓迎」の求人がなくなった業界で「経験5年以上」だけが増えてる状況、5年前に入口があった人しか残れないって、梯子を上ってから梯子を蹴り倒したやつと同じじゃないですか。",
+        "<b>日本・海外から見ると:</b> 日本でもIT人材不足って言われてますけど、「若手を育てる構造をなくしてベテランだけ欲しがる」のは日本でもアメリカでも同じで、技術の問題じゃなくて採用設計の問題なんですよ。"
+      ],
+      "imagePrompts": [
+        "A tall ladder leaning against a skyscraper labeled 'SENIOR DEV JOBS,' with all the lower rungs sawed off, and a robot holding the saw standing at the bottom looking satisfied",
+        "A job board covered in listings all reading '5+ YEARS EXPERIENCE REQUIRED,' with a single crumpled entry-level posting on the floor below it",
+        "A conference room whiteboard with 'AI WILL CREATE JOBS' written at the top, and below it a detailed org chart where every entry-level box has been replaced with a small robot icon"
+      ],
+      "captions": [
+        "Great news: there are more coding jobs than ever. Bad news: you needed to already have one five years ago.",
+        "AI took the entry-level jobs and left the senior ones. That's not job creation. That's removing the first step of a staircase.",
+        "We automated the intern, and now we're hiring a principal engineer to supervise what the automation broke. Efficiency.",
+        "'AI won't take your job' — technically true, if your job requires 8 years of experience and a security clearance.",
+        "The ladder is taller than ever. They just took out the bottom half."
+      ],
+      "captionsJa": [
+        "朗報：コーディングの求人がかつてないほど増えています。悲報：5年前に入っておく必要がありました。",
+        "AIはエントリーレベルの仕事を奪って、上の仕事を残した。雇用創出じゃなくて、階段の一段目を外したやつです。",
+        "インターンを自動化したら、自動化が壊したものを直すために主任エンジニアを雇ってる。効率化。",
+        "「AIが仕事を奪うわけじゃない」——厳密には正しい。経験8年とセキュリティクリアランスが必要な仕事に限って言えば。",
+        "梯子はかつてないほど高くなった。ただし下半分は撤去済み。"
+      ],
+      "newsEn": "Software developer job postings are rebounding even as AI automates more coding tasks. The increase is being led by senior-level and AI-focused roles, while entry-level hiring continues to weaken. Analysts note that companies appear to want fewer, more experienced developers who can work alongside AI tools rather than more junior staff.",
+      "ironyEn": [
+        {
+          "contradiction": "AI was supposed to democratize coding by lowering the skill floor. Instead it's raising the hiring floor, pricing out the people who were supposed to benefit most.",
+          "absurdity": "The robots didn't take the senior jobs. They took the entry-level ones, which is the only rung new developers had to climb on.",
+          "outside": "From a labor economics perspective, 'AI creates jobs' and 'AI eliminates the path to those jobs' are both true at the same time, which is impressive."
+        },
+        {
+          "contradiction": "Companies claim AI boosts productivity, then post more job openings. If it's so productive, why does everyone need more staff?",
+          "absurdity": "We automated the internship and now we need a senior engineer to fix what the automation got wrong.",
+          "outside": "In a decade, tech companies will wonder why there aren't enough senior developers — having spent this decade not hiring any juniors."
+        }
+      ],
+      "imageSeed": 4,
+      "image": "images/2026-10-12/candidate-4.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-12/candidate-4-punchy.jpg"
+    },
+    {
+      "id": "d5",
+      "sensitive": false,
+      "news": {
+        "headline": "Retailers Are Selling Less Stuff on Purpose. They Say It's Going Great.",
+        "source": "CNBC Top News",
+        "date": "2026-10-12",
+        "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
+        "summary": "BJ'sやルルレモンなど複数の小売ブランドが、品揃えを意図的に絞り込む戦略を採用。健全な成長への回帰と業績安定化を目指すと説明している。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 小売業の基本って「いかに多く売るか」じゃないですか。それを「売るものを減らします」と言い始めて、「健全な成長」って呼んでる。「食べる量を減らして体重を増やす」みたいな話。",
+        "<b>滑稽さ:</b> ルルレモンが商品を減らしてるって、「ヨガパンツの種類が多すぎた」って誰かが真顔で言ったってことですよね。「第37番のヨガパンツが業績を圧迫していた」。",
+        "<b>日本・海外から見ると:</b> 日本の「選択と集中」戦略と全く同じ話なんですけど、アメリカの小売がそこに来るのに数十年かかってる。日本語のビジネス書に書いてあったことを2026年にやってる。"
+      ],
+      "imagePrompts": [
+        "A massive big-box store with mostly empty shelves, and a single banner hanging from the ceiling reading 'CURATED SELECTION — IT'S A FEATURE,' with one employee standing proudly next to three remaining products",
+        "A corporate boardroom whiteboard with 'SELL MORE' crossed out and replaced with 'SELL LESS (STRATEGY),' surrounded by executives nodding approvingly",
+        "A store display with 38 identical hangers, 37 of which are empty, one remaining item tagged with a sign reading 'OUR FOCUS COLLECTION'"
+      ],
+      "captions": [
+        "We had too much stuff, so we got rid of the stuff, and now we're calling it a strategy. Please hold for our Q3 earnings call.",
+        "Lululemon is selling fewer leggings. Legging number 37 has been discontinued. It didn't see it coming.",
+        "Retailers are shrinking their shelves and calling it curation. One person's empty aisle is another person's 'intentional assortment philosophy.'",
+        "They figured out that selling less might make more money, which is either genius or the plot of a very boring heist movie.",
+        "'We used to have 200 products. Now we have 60.' 'Is that good?' 'We're calling it good.'"
+      ],
+      "captionsJa": [
+        "商品が多すぎたから減らして、それを「戦略」と呼んでいます。第3四半期の決算説明会でお待ちください。",
+        "ルルレモンがレギンスを減らした。37番のレギンスは廃番になった。本人は気づいていなかった。",
+        "棚を縮小して「キュレーション」と呼ぶ小売業者たち。あなたの空いた通路は、彼らにとって「意図的なアソートメント哲学」。",
+        "売るものを減らすと儲かるという発見、天才的なのか、それともとても退屈な強盗映画のプロットなのか。",
+        "「以前は200品目ありました。今は60です。」「それはいいことですか？」「そういうことにしています。」"
+      ],
+      "newsEn": "Retail brands including BJ's and Lululemon are deliberately shrinking their product assortments. Companies say the move is designed to return to healthy growth, better curate offerings, and stabilize the business. Box stores are also culling products to create a more focused shopping experience.",
+      "ironyEn": [
+        {
+          "contradiction": "Retailers built entire business models around endless choice and are now calling it a liability. The customer who wanted 40 kinds of leggings is apparently the problem, not the solution.",
+          "absurdity": "Lululemon is trimming its assortment. Somewhere, legging number 37 just got discontinued and no one will mourn it except its SKU.",
+          "outside": "Japanese retail learned 'select and concentrate' a generation ago. American retail is calling it an innovation in 2026."
+        },
+        {
+          "contradiction": "These companies expanded aggressively for years, then discovered that having too many products is bad for business, which was in the first chapter of every retail textbook.",
+          "absurdity": "They're growing the business by having less business. The metric for success is now negative inventory.",
+          "outside": "A European customer reading this sees a company discovering that a smaller, curated shop is better — which is just called 'a shop' everywhere else."
+        }
+      ],
+      "imageSeed": 5,
+      "image": "images/2026-10-12/candidate-5.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-12/candidate-5-punchy.jpg"
+    }
+  ],
+  "editorial": {
+    "thread": "今日の5本を貫く糸は「名前を変えれば中身も変わると思っている人たちと、変えようとしたら逃がしてもらえなかった人たちの話」。権力の言語ゲームと、サブスクの呪縛。",
+    "titleEn": "AI Is Now 'Super Intelligence.' Cameras Refused to Quit. Developers Are Hiring — Just Not You.",
+    "subtitleEn": "Five stories about people who changed the label and hoped nobody checked the jar.",
+    "titleJa": "「スーパー・インテリジェンス」に改名して、監視カメラに解約を断られた週の話",
+    "titleAltJa": [
+      "AIの求人が増えているのに、入口がなくなった話",
+      "名前を変えたら何かが変わると信じている人たちが、今週も5本登場しました"
+    ],
+    "leadJa": "「AI」を「スーパー・インテリジェンス」と呼び直したら、技術が進歩したらしい。監視カメラに解約を断られた大学もある。独占禁止法の標的がカメラマンになった国の話を、今日もやっていきます。",
+    "introEn": "So here's today's theme, as best I can tell from my morning reading: the people in charge have discovered that if you rename a thing, you don't have to fix it.\n\nAI becomes 'super intelligence.' Selling less stuff becomes 'healthy growth.' A surveillance camera you can't cancel becomes... your problem. And a press pool you locked out of the building? Apparently that's an antitrust violation now.\n\nToday's five stories are all variations on the same trick. Watch for it.\n\nAnd here's your forecast: if you've been doing solid work under a boring title, today is quietly your day. The people rewriting the labels are exhausted. Boring and reliable is having a moment. You don't need to rename anything.",
+    "introJa": "今日、一番最初に読んだ記事のタイトルを二度見しました。\n\nDOJ（司法省）が、ホワイトハウスの取材カメラマン集団を「独占禁止法違反」で調査。\n\n独占、禁止。カメラマンが。\n\n次を開くと、「AI」が「スーパー・インテリジェンス」に改名されていて、シリコンバレーの人たちが揃ってそっちの言葉を使い始めている。技術は何も変わっていない。名前だけ。\n\nで、その次は、解約しようとした監視カメラに「それはできません」と断られた大学の話。\n\n今日はそういう日です。名前と権限と契約が、全部ふつうと逆向きに動いてる。\n\n今日の占いです。\nあなたが「これって私が間違ってる？」と思っていることがあるとしたら、それはたぶんあなたのせいじゃない。カメラに解約を断られている大学があるくらいなので。今日は「おかしいと思った感覚」を信じていい。少なくとも今日は、その感覚のほうが現実に近い。",
+    "quipEn": "Today's five stories, one sentence: they changed the name, locked the door, refused the cancellation, removed the entry level, and called it all a strategy. You're not confused. The jar is just mislabeled.",
+    "quipJa": "名前を変えて、扉に鍵かけて、解約を断って、入口をなくして、それを全部「戦略」と呼んでいる。あなたが混乱してるのは当然で、ラベルが間違ってるだけです。",
+    "notesEn": [
+      "The DOJ is investigating the White House press pool under antitrust law. The same White House that decides which reporters get access. They locked the door, handed out three keys, and are now suing the key holders for forming a cartel.",
+      "A college in Illinois tried to cancel its surveillance camera contract after discovering the cameras were sharing data with immigration enforcement. The camera company said no. I don't know what to call a vendor that won't let you leave, but 'security provider' seems like a stretch.",
+      "Trump wants to rename AI 'super intelligence.' Silicon Valley is already using the new term. The technology is identical. The PowerPoint templates are not. Someone is billing for those templates.",
+      "AI is automating coding. Software developer job postings are up. Entry-level postings are down. So AI didn't take the jobs — it took the first rung of the ladder and left everything above it exactly where it was.",
+      "BJ's and Lululemon are deliberately selling fewer products and calling it a strategy. Legging number 37 has been discontinued. The company says this is healthy growth. Legging number 37 could not be reached for comment."
+    ],
+    "xJa": [
+      "DOJ（司法省）がホワイトハウスを取材するカメラマン集団を独占禁止法で調査中。記者を締め出した側が、残った記者に「独占だ」と言っています。扉に鍵かけて「なぜ俺しかいないんだ」という話。",
+      "安全のために設置した監視カメラが移民局にデータを送っていたので解約しようとしたら、カメラ会社に断られた大学があります。解約できないサブスクの最終形態がこれです。",
+      "トランプ大統領がAIを「スーパー・インテリジェンス」と呼び直し、シリコンバレーが揃って追随しています。技術は変わっていません。名前だけ。プレゼン資料を全部刷り直した人のコスト、誰が払うんですかね。",
+      "AIがコーディングを自動化したら、ソフトウェア開発者の求人が増えました。ただし「上級職のみ」。入口がなくなった状態で「採用増」と言っています。梯子を上ってから蹴り倒した話。",
+      "ルルレモンが商品を減らして「健全な成長」と呼んでいます。第37番のヨガパンツが廃盤になりました。「売るものを減らして成長する」が2026年の小売戦略らしい。"
+    ],
+    "raidEn": [
+      "The part that gets me is that the same people controlling access are the ones calling it a monopoly. That's not antitrust law. That's a mirror.",
+      "A vendor that won't let you cancel is just a landlord with better branding. Great video, by the way.",
+      "Rename the product, keep the product, watch the room nod. The cereal box trick, but for national technology policy. Love the coverage on this.",
+      "The jobs are up, the entry-level is down — someone pulled the rope ladder up and is writing a LinkedIn post about the talent shortage. Great breakdown here.",
+      "They called it 'intentional assortment philosophy.' I've been saying that about my empty fridge for years. Really good piece."
+    ],
+    "raidJa": [
+      "アクセスを制限した側が残った記者を「独占だ」と言っているの、鏡を見て「誰だお前は」と怒っているみたいで、笑えない笑えるやつですね。記事、とてもよくまとまっていました。",
+      "解約できない監視カメラ、読みながら他人事じゃないな…と思いました。「安全のため」が「安全の脅威」になった瞬間の話として、すごく鮮明でした。",
+      "「AI」が「スーパー・インテリジェンス」になっても中身が同じなら、私たちが毎朝読んでいるのも実は「スーパー・インフォメーション」だったんですかね。記事読んで、つい考えてしまいました。",
+      "入口をなくして「求人増加」と言っている構図、日本でも全く同じことが起きていると思います。技術の話より採用設計の問題、という指摘が刺さりました。",
+      "「意図的な品揃え戦略」という言葉の発明、すごい。自分の部屋の片付けにも使います。とても面白く読みました。"
+    ],
+    "riffEn": [
+      "The Justice Department opened an antitrust investigation into the White House television press pool. The Sherman Antitrust Act, for context, was written in 1890 to break up railroads and oil empires. It has now been pointed at the camera operator who films press briefings. The White House controls which outlets get access. The White House limited that access. The remaining reporters, who formed a pool because the White House told them to, are now allegedly a monopoly. You ever get accused of hoarding the keys to a room someone else locked?",
+      "Elgin Community College bought security cameras from a company called Flock Safety. Then they found out Flock was sharing footage with immigration enforcement. So the college tried to cancel. Flock said no. This is the actual situation: a school wanted to stop giving a vendor access to its campus, and the vendor declined. The cameras are still there. Still watching. The contract still has time on it. I've had gym memberships with more dignity.",
+      "Trump announced he's rebranding artificial intelligence as 'super intelligence.' Silicon Valley, which spent the last decade insisting it was too sophisticated to follow anyone, immediately started using the new word. The technology is exactly the same. The capabilities haven't changed. What changed is that someone at a podium said a different noun and the most powerful people in tech reached for their keyboards to update their bios. The PowerPoint template did more work this week than most of us.",
+      "AI is automating code. Software developer job postings are up. Great, right? Except all the new postings want senior engineers with five-plus years of experience. Entry-level? Down. So AI didn't eliminate the career — it eliminated the beginning of the career. It removed the first step and left the rest of the staircase floating there. Companies are now posting 'seeking experienced developer to supervise the AI we bought to replace experienced developers.' I'm not saying it's a trap. But I'm not not saying it.",
+      "BJ's and Lululemon announced they're selling fewer products on purpose. Less inventory, fewer SKUs, curated assortments. They're calling it a return to healthy growth. Someone in a boardroom said the words 'legging number 37 is underperforming' with a straight face and the whole room nodded. To be clear: the strategy is to have less stuff, sell less of it, and call that a win. My kitchen has been running this strategy for two weeks and I have not once described it as curation."
+    ],
+    "riffJa": [
+      "DOJ（司法省）がホワイトハウスのテレビ取材カメラマン集団を独占禁止法で調査しています。シャーマン法という1890年代に鉄道王や石油トラストを解体するために作られた法律を、今使っている相手は「ホワイトハウスの記者会見を撮るカメラマンたち」。で、このプレスプールを作ったのは誰かというと、ホワイトハウス自身です。部屋に鍵をかけて、鍵を3本配って、「なんで3人しかいないんだ、独占じゃないか」と言っている。ロックフェラーが泣いています。",
+      "イリノイ州の大学が「学生の安全のため」と言って監視カメラを設置しました。数ヶ月後、そのカメラが移民税関捜査局（ICE）にデータを共有していることが判明。解約しようとしたら、カメラ会社に断られました。\n\n整理すると、安全のために入れたものが安全の脅威になって、やめようとしたらやめさせてもらえなかった。解約できないサブスクの最終形態が、ICEにつながっている監視カメラです。笑えない。いや、笑えるか。どっちかわからない。",
+      "トランプ大統領が「AI」を「スーパー・インテリジェンス」と呼び直す方針を打ち出したところ、シリコンバレーの有力者たちがそれに倣って新しい言葉を使い始めました。技術は何も変わっていません。名前だけ変わりました。先週まで「AIが世界を変える」と言っていた人たちが、今週は「スーパー・インテリジェンスが世界を変える」と言っています。プレゼン資料を全部刷り直した人のコスト、誰が払うんですかね。シリコンバレーが誰かに言語を教えてもらっている、という絵面、外から見るとなかなかです。",
+      "AIがコーディングを自動化したら、ソフトウェア開発者の求人が増えた。これだけ聞くとよかった話みたいですけど、増えているのは「上級職」と「AI専門職」だけで、エントリーレベルの採用は減っています。\n\n5年前に入口から入れた人だけが今も中にいて、入口はもうない。梯子を上り切ってから蹴り倒したやつと同じ構図です。「AIが雇用を奪う」って言われてたけど、実際に奪われたのは「最初の一歩」だけで、その上にある仕事はそのまま残っている。これ、奪われた側からするとどっちが良かったんですかね。",
+      "BJ'sとルルレモンが、商品ラインナップを意図的に減らす戦略を採用しました。売るものを絞る、それを「健全な成長への回帰」と呼んでいます。「ヨガパンツの種類が多すぎた」と誰かが真顔で言ったわけです。第37番のヨガパンツが廃盤になりました。売るものを減らして成長する。減らして、成長。私が先週コンビニでお菓子を買うのを我慢したのも、「意図的な消費集中戦略」でよかったのかもしれない。"
+    ],
+    "asideEn": [
+      "Sherman Antitrust: for camera guys now.",
+      "The camera said no. The camera won.",
+      "Same product. New name. Pay the rebranding invoice.",
+      "They removed the ladder and called it progress.",
+      "Less stuff. More strategy. Same shelf."
+    ],
+    "asideJa": [
+      "1890年の法律、2026年のカメラマンへ。",
+      "カメラに負けた大学。",
+      "技術は同じ。名前だけ変わった。",
+      "入口をなくして求人増加。",
+      "減らして、成長。らしい。"
+    ],
+    "tagsEn": [
+      "Satire",
+      "US Politics",
+      "Tech Industry",
+      "Justice Department",
+      "Lululemon"
+    ],
+    "fullEn": "# AI Is Now 'Super Intelligence.' Cameras Refused to Quit. Developers Are Hiring — Just Not You.\n\n## Today's Forecast\n\nSo here's today's theme, as best I can tell from my morning reading: the people in charge have discovered that if you rename a thing, you don't have to fix it.\n\nAI becomes 'super intelligence.' Selling less stuff becomes 'healthy growth.' A surveillance camera you can't cancel becomes... your problem. And a press pool you locked out of the building? Apparently that's an antitrust violation now.\n\nToday's five stories are all variations on the same trick. Watch for it.\n\nAnd here's your forecast: if you've been doing solid work under a boring title, today is quietly your day. The people rewriting the labels are exhausted. Boring and reliable is having a moment. You don't need to rename anything.\n\n---\n\n## 1. DOJ Investigates TV Networks for Covering White House — Using Antitrust Law\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html)*\n\nThe Justice Department announced it is investigating whether the White House television press pool violated the Sherman Antitrust Act. The move comes as the White House has escalated its fight over which outlets receive press access. Critics noted that antitrust law was designed to break up corporate monopolies, not regulate news organizations covering the presidency.\n\n**Why It's Funny**\n\nThe Justice Department opened an antitrust investigation into the White House television press pool. The Sherman Antitrust Act, for context, was written in 1890 to break up railroads and oil empires. It has now been pointed at the camera operator who films press briefings. The White House controls which outlets get access. The White House limited that access. The remaining reporters, who formed a pool because the White House told them to, are now allegedly a monopoly. You ever get accused of hoarding the keys to a room someone else locked?\n\n**Say It Out Loud**\n\n> The government locked the door, handed out three keys, and is now suing everyone for hoarding keys.\n\n---\n\n## 2. College Tried to Cancel Its Surveillance Camera Contract. The Cameras Said No.\n\n*The Verge — [source](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)*\n\nElgin Community College in Illinois installed six Flock Safety cameras in April 2025 to enhance campus security. By September, the administration grew concerned that Flock was sharing camera data with Customs and Border Protection, and that camera feeds were not being properly secured. When the college tried to cancel its contract, Flock refused to let them out of the agreement.\n\n**Why It's Funny**\n\nElgin Community College bought security cameras from a company called Flock Safety. Then they found out Flock was sharing footage with immigration enforcement. So the college tried to cancel. Flock said no. This is the actual situation: a school wanted to stop giving a vendor access to its campus, and the vendor declined. The cameras are still there. Still watching. The contract still has time on it. I've had gym memberships with more dignity.\n\n**Say It Out Loud**\n\n> The school tried to cancel. The camera said it needed 30 days notice, a written request, and frankly didn't feel like it.\n\n---\n\n## 3. Trump Rebrands AI as 'Super Intelligence.' Silicon Valley Is Nodding Along.\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)*\n\nPresident Trump announced plans to rebrand artificial intelligence as 'super intelligence.' While the general public has largely stuck with the term AI, some of Silicon Valley's most powerful figures have begun adopting the new terminology, falling in line with the administration's preferred language.\n\n**Why It's Funny**\n\nTrump announced he's rebranding artificial intelligence as 'super intelligence.' Silicon Valley, which spent the last decade insisting it was too sophisticated to follow anyone, immediately started using the new word. The technology is exactly the same. The capabilities haven't changed. What changed is that someone at a podium said a different noun and the most powerful people in tech reached for their keyboards to update their bios. The PowerPoint template did more work this week than most of us.\n\n**Say It Out Loud**\n\n> The technology didn't change. The PowerPoint template did. Progress.\n\n---\n\n## 4. AI Is Automating Coding. Software Developer Job Postings Are Going Up.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html)*\n\nSoftware developer job postings are rebounding even as AI automates more coding tasks. The increase is being led by senior-level and AI-focused roles, while entry-level hiring continues to weaken. Analysts note that companies appear to want fewer, more experienced developers who can work alongside AI tools rather than more junior staff.\n\n**Why It's Funny**\n\nAI is automating code. Software developer job postings are up. Great, right? Except all the new postings want senior engineers with five-plus years of experience. Entry-level? Down. So AI didn't eliminate the career — it eliminated the beginning of the career. It removed the first step and left the rest of the staircase floating there. Companies are now posting 'seeking experienced developer to supervise the AI we bought to replace experienced developers.' I'm not saying it's a trap. But I'm not not saying it.\n\n**Say It Out Loud**\n\n> Great news: there are more coding jobs than ever. Bad news: you needed to already have one five years ago.\n\n---\n\n## 5. Retailers Are Selling Less Stuff on Purpose. They Say It's Going Great.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html)*\n\nRetail brands including BJ's and Lululemon are deliberately shrinking their product assortments. Companies say the move is designed to return to healthy growth, better curate offerings, and stabilize the business. Box stores are also culling products to create a more focused shopping experience.\n\n**Why It's Funny**\n\nBJ's and Lululemon announced they're selling fewer products on purpose. Less inventory, fewer SKUs, curated assortments. They're calling it a return to healthy growth. Someone in a boardroom said the words 'legging number 37 is underperforming' with a straight face and the whole room nodded. To be clear: the strategy is to have less stuff, sell less of it, and call that a win. My kitchen has been running this strategy for two weeks and I have not once described it as curation.\n\n**Say It Out Loud**\n\n> We had too much stuff, so we got rid of the stuff, and now we're calling it a strategy. Please hold for our Q3 earnings call.\n\n---\n\n## Today's Punchline\n\n> Today's five stories, one sentence: they changed the name, locked the door, refused the cancellation, removed the entry level, and called it all a strategy. You're not confused. The jar is just mislabeled.\n",
+    "fullJa": "# 「スーパー・インテリジェンス」に改名して、監視カメラに解約を断られた週の話\n\n## 今日を占うよ〜\n\n今日、一番最初に読んだ記事のタイトルを二度見しました。\n\nDOJ（司法省）が、ホワイトハウスの取材カメラマン集団を「独占禁止法違反」で調査。\n\n独占、禁止。カメラマンが。\n\n次を開くと、「AI」が「スーパー・インテリジェンス」に改名されていて、シリコンバレーの人たちが揃ってそっちの言葉を使い始めている。技術は何も変わっていない。名前だけ。\n\nで、その次は、解約しようとした監視カメラに「それはできません」と断られた大学の話。\n\n今日はそういう日です。名前と権限と契約が、全部ふつうと逆向きに動いてる。\n\n今日の占いです。\nあなたが「これって私が間違ってる？」と思っていることがあるとしたら、それはたぶんあなたのせいじゃない。カメラに解約を断られている大学があるくらいなので。今日は「おかしいと思った感覚」を信じていい。少なくとも今日は、その感覚のほうが現実に近い。\n\n---\n\n## 1. DOJ Investigates TV Networks for Covering White House — Using Antitrust Law\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html)）*\n\n司法省は、ホワイトハウスのテレビ記者団が独占禁止法（シャーマン法）に違反していないか調査していると発表した。ホワイトハウスが報道機関のアクセスを制限している問題が激化する中での動きだ。\n\n**どこが笑える？**\n\nDOJ（司法省）がホワイトハウスのテレビ取材カメラマン集団を独占禁止法で調査しています。シャーマン法という1890年代に鉄道王や石油トラストを解体するために作られた法律を、今使っている相手は「ホワイトハウスの記者会見を撮るカメラマンたち」。で、このプレスプールを作ったのは誰かというと、ホワイトハウス自身です。部屋に鍵をかけて、鍵を3本配って、「なんで3人しかいないんだ、独占じゃないか」と言っている。ロックフェラーが泣いています。\n\n**このニュースをジョークにするなら...**\n\n> 扉に鍵かけておいて、「鍵持ってる人が多すぎる、独占だ」って訴えるやつ。\n\n---\n\n## 2. College Tried to Cancel Its Surveillance Camera Contract. The Cameras Said No.\n\n*The Verge（[記事](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)）*\n\nイリノイ州エルジン・コミュニティ・カレッジは、安全目的で導入したFlock社の監視カメラが移民税関捜査局（ICE）にデータを共有していると懸念し、契約解除を試みたが、Flockは解約を拒否した。\n\n**どこが笑える？**\n\nイリノイ州の大学が「学生の安全のため」と言って監視カメラを設置しました。数ヶ月後、そのカメラが移民税関捜査局（ICE）にデータを共有していることが判明。解約しようとしたら、カメラ会社に断られました。\n\n整理すると、安全のために入れたものが安全の脅威になって、やめようとしたらやめさせてもらえなかった。解約できないサブスクの最終形態が、ICEにつながっている監視カメラです。笑えない。いや、笑えるか。どっちかわからない。\n\n**このニュースをジョークにするなら...**\n\n> 学校が解約しようとしたら、カメラが「30日前通知と書面が必要で、あと気が向かない」と言った。\n\n---\n\n## 3. Trump Rebrands AI as 'Super Intelligence.' Silicon Valley Is Nodding Along.\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)）*\n\nトランプ大統領が人工知能（AI）を「スーパー・インテリジェンス」と呼び替える方針を打ち出したところ、シリコンバレーの有力者たちがこぞって新しい呼称を使い始めている。\n\n**どこが笑える？**\n\nトランプ大統領が「AI」を「スーパー・インテリジェンス」と呼び直す方針を打ち出したところ、シリコンバレーの有力者たちがそれに倣って新しい言葉を使い始めました。技術は何も変わっていません。名前だけ変わりました。先週まで「AIが世界を変える」と言っていた人たちが、今週は「スーパー・インテリジェンスが世界を変える」と言っています。プレゼン資料を全部刷り直した人のコスト、誰が払うんですかね。シリコンバレーが誰かに言語を教えてもらっている、という絵面、外から見るとなかなかです。\n\n**このニュースをジョークにするなら...**\n\n> 技術は何も変わってない。パワーポイントのテンプレートが変わった。進歩です。\n\n---\n\n## 4. AI Is Automating Coding. Software Developer Job Postings Are Going Up.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html)）*\n\nAIがコーディング業務を自動化する中、ソフトウェア開発者の求人数は逆に増加傾向にあることが明らかになった。ただし増えているのは上級職とAI専門職で、エントリーレベルの採用は弱含みだ。\n\n**どこが笑える？**\n\nAIがコーディングを自動化したら、ソフトウェア開発者の求人が増えた。これだけ聞くとよかった話みたいですけど、増えているのは「上級職」と「AI専門職」だけで、エントリーレベルの採用は減っています。\n\n5年前に入口から入れた人だけが今も中にいて、入口はもうない。梯子を上り切ってから蹴り倒したやつと同じ構図です。「AIが雇用を奪う」って言われてたけど、実際に奪われたのは「最初の一歩」だけで、その上にある仕事はそのまま残っている。これ、奪われた側からするとどっちが良かったんですかね。\n\n**このニュースをジョークにするなら...**\n\n> 朗報：コーディングの求人がかつてないほど増えています。悲報：5年前に入っておく必要がありました。\n\n---\n\n## 5. Retailers Are Selling Less Stuff on Purpose. They Say It's Going Great.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html)）*\n\nBJ'sやルルレモンなど複数の小売ブランドが、品揃えを意図的に絞り込む戦略を採用。健全な成長への回帰と業績安定化を目指すと説明している。\n\n**どこが笑える？**\n\nBJ'sとルルレモンが、商品ラインナップを意図的に減らす戦略を採用しました。売るものを絞る、それを「健全な成長への回帰」と呼んでいます。「ヨガパンツの種類が多すぎた」と誰かが真顔で言ったわけです。第37番のヨガパンツが廃盤になりました。売るものを減らして成長する。減らして、成長。私が先週コンビニでお菓子を買うのを我慢したのも、「意図的な消費集中戦略」でよかったのかもしれない。\n\n**このニュースをジョークにするなら...**\n\n> 商品が多すぎたから減らして、それを「戦略」と呼んでいます。第3四半期の決算説明会でお待ちください。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 名前を変えて、扉に鍵かけて、解約を断って、入口をなくして、それを全部「戦略」と呼んでいる。あなたが混乱してるのは当然で、ラベルが間違ってるだけです。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "大半は合格水準。直した箇所は3点：①d3のcaption[1]に汎用パターン「Somewhere, an intern is…」が混入していたので構築されたジョークに書き直し（captionsJaも連動修正）。②introJaの占い部分が「〜いいよ」「〜はね」と急に優しい別人の声になり、ペルソナが揺れていたので直す。③xJa[0]が137字でオーバーしていたので135字以内に収める。 ／ 文体パス: 3箇所修正。quipJaの「あなたが混乱しているんじゃなくて、ラベルが間違ってるんです」は締めの畳みすぎ＋説明口調なので崩した。introJaの「今日はそういう日です。たぶん今日の5本を貫く糸は〜」ブロックがプレゼン口調だったので、riff見本の温度に合わせた。xJa[2]の末尾「プレゼン資料を全部刷り直した人のコストは誰が払うんでしょう」が丁寧すぎる疑問形なので崩した。"
+  },
+  "carousel": [
+    "images/2026-10-12/carousel/slide-1.jpg",
+    "images/2026-10-12/carousel/slide-2.jpg",
+    "images/2026-10-12/carousel/slide-3.jpg",
+    "images/2026-10-12/carousel/slide-4.jpg",
+    "images/2026-10-12/carousel/slide-5.jpg",
+    "images/2026-10-12/carousel/slide-6.jpg",
+    "images/2026-10-12/carousel/slide-7.jpg"
+  ],
+  "headers": {
+    "note": "images/2026-10-12/note-header.jpg",
+    "substack": "images/2026-10-12/substack-cover.jpg"
+  }
+}
