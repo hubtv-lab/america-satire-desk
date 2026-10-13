@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-10-12",
-  "generatedAt": "2026-10-11T22:56:53+00:00",
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T01:24:18+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "DOJ Investigates TV Networks for Covering White House — Using Antitrust Law",
-        "source": "CNBC Top News",
-        "date": "2026-10-12",
-        "url": "https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html",
-        "summary": "司法省は、ホワイトハウスのテレビ記者団が独占禁止法（シャーマン法）に違反していないか調査していると発表した。ホワイトハウスが報道機関のアクセスを制限している問題が激化する中での動きだ。"
+        "headline": "Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It",
+        "source": "NPR News",
+        "date": "2026-10-13",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+        "summary": "トランプ大統領が「スーパーPACが負担する」と約束した後も、政府は親トランプ広告に約2200万ドルの税金を投じ続けていたことが明らかになった。"
       },
       "commentary": [
-        "<b>矛盾:</b> プレスアクセスを自分たちで絞っておいて、残った記者団を「独占だ」と訴えるって、扉に鍵かけておいて「なんで俺しかいないんだ、独占じゃないか」って言ってるようなもんですよ。",
-        "<b>滑稽さ:</b> シャーマン法は1890年代に鉄道王や石油トラストを潰すために作られた法律なんですけど、今使われてる相手が「ホワイトハウスを取材するカメラマン集団」。ロックフェラーが泣いてます。",
-        "<b>日本・海外から見ると:</b> 「報道の自由を守る」と言いながら使う武器が独占禁止法って、外から見たら完全に新ジャンルの法律の使い方。弁護士の試験問題にそのまま出せます。"
+        "<b>矛盾:</b> 「スーパーPACが出す」と言ったその後に税金で払ってるんですよ。約束を守らなかったのか、それとも最初から守るつもりがなかったのか、どっちにしても同じ結果なんですけどね。",
+        "<b>滑稽さ:</b> 「公共サービスのお知らせ」と呼んでるんですよ。大統領の顔が出てくる広告が。ガス漏れの避難指示と同じカテゴリーで。",
+        "<b>日本・海外から見ると:</b> 政府広告に「これは政治的中立です」と書いてある国はどこにでもありますけど、払ってるのが候補者本人の政府っていうのは、なかなかの荒技じゃないですか。"
       ],
       "imagePrompts": [
-        "A courtroom scene where a massive 'DOJ' sign hangs above a bench, and the defendant's table holds only a single TV camera on a tripod, surrounded by stacks of antitrust law books",
-        "A 19th-century 'MONOPOLY BUSTED' newspaper headline framed on a wall, with a sticky note over the original monopolist's name reading 'press pool'",
-        "A velvet rope outside a government building, a bouncer with a clipboard, and a sign reading 'Capacity: 2 outlets max — antitrust may apply'"
+        "A giant government check made out to 'Public Service Announcements' with a TV screen in the background playing a clearly political ad, a super PAC logo gathering dust in the corner",
+        "A podium with two signs: one reading 'Super PAC Will Pay' crossed out, the other reading 'Taxpayers Will Pay' with a fresh checkmark, stacks of cash visible on the desk",
+        "A television set labeled 'Public Service Announcement' displaying a campaign-style graphic, surrounded by official government seals and stacks of federal budget documents"
       ],
       "captions": [
-        "The government locked the door, handed out three keys, and is now suing everyone for hoarding keys.",
-        "Sherman Antitrust, 1890: meant for oil barons. Sherman Antitrust, 2026: aimed at the camera guy who films press briefings. Close enough.",
-        "You ever get accused of monopolizing a room you were barely allowed into?",
-        "The DOJ's argument, simplified: 'These journalists keep showing up to cover us, and frankly, we find it anti-competitive.'",
-        "Rockefeller dodged antitrust for years. The White House press pool lasted about a season."
+        "The super PAC was going to pay for the ads. Then the government paid for the ads. Same ads. The super PAC is doing great, though.",
+        "It's a public service announcement — the public is being announced to that their money is gone.",
+        "Twenty-two million dollars in taxpayer-funded ads described as 'non-political.' The non-political part cost extra.",
+        "He promised the super PAC would cover it. They didn't. Washington called that a rounding error. The $11 million rounding error.",
+        "You ever buy something, promise your friend will pay you back, and then just... not mention it again? Same energy. Higher budget."
       ],
       "captionsJa": [
-        "扉に鍵かけておいて、「鍵持ってる人が多すぎる、独占だ」って訴えるやつ。",
-        "シャーマン法、1890年：石油王向け。シャーマン法、2026年：記者会見を撮るカメラマン向け。まあ似たようなもんですよね。",
-        "ギリギリ入れてもらった部屋で「独占している」と訴えられる感覚、想像してみてください。",
-        "司法省の主張を要約すると、「あの記者たち、うちの取材をずっとしてくるんですが、独占じゃないですか？」",
-        "ロックフェラーは何年も逃げ切った。ホワイトハウスの記者団はワンシーズンで訴えられた。"
+        "スーパーPACが広告費を出す、と言った。その後、政府が出した。同じ広告。スーパーPACは絶好調らしいです。",
+        "「公共サービスのお知らせ」です。公共へのお知らせは、あなたのお金がなくなったということです。",
+        "2200万ドルの税金を使った広告が「非政治的」と定義されてるんですよ。その非政治的な部分、わりと高かったですね。",
+        "スーパーPACが払うと約束した。払わなかった。ワシントンはそれを「誤差の範囲」と呼んでいます。1100万ドルの誤差です。",
+        "友達に「後で払ってもらう」って言って、そのまま黙ってたことないですか？あれと同じ話ですよ。予算だけ桁が違う。"
       ],
-      "newsEn": "The Justice Department announced it is investigating whether the White House television press pool violated the Sherman Antitrust Act. The move comes as the White House has escalated its fight over which outlets receive press access. Critics noted that antitrust law was designed to break up corporate monopolies, not regulate news organizations covering the presidency.",
+      "newsEn": "The U.S. government has spent nearly $22 million in taxpayer funds to air ads that the White House calls 'public service announcements' but critics describe as pro-Trump messaging. Almost half of that sum was spent after Trump publicly promised his super PAC would fund the ads instead. The discrepancy, reported by NPR, raises questions about whether campaign-style advertising is being underwritten by public money.",
       "ironyEn": [
         {
-          "contradiction": "The White House controls who gets into the briefing room, then calls the people they let in a 'monopoly.'",
-          "absurdity": "Sherman Antitrust law was drafted to bust Standard Oil. Its newest target is a camera crew in the West Wing.",
-          "outside": "From the outside, this looks less like law enforcement and more like a venue threatening to sue its own guest list."
+          "contradiction": "Trump announced his super PAC would foot the bill for the ads — and then the government kept paying anyway, as if the promise was itself a public service announcement.",
+          "absurdity": "The White House is calling these 'public service announcements.' The public being served, apparently, is one specific person running the White House.",
+          "outside": "Most countries have rules separating government communications from campaign ads. The U.S. has those rules too — the ads just come with a different label."
         },
         {
-          "contradiction": "Restricting press access and then prosecuting the restricted press for forming a cartel is a move that would require a flowchart to explain.",
-          "absurdity": "Somewhere, a first-year law student just read this and decided to switch to accounting.",
-          "outside": "Countries that score lowest on press freedom indices are probably taking notes — this is a more creative approach than they expected."
+          "contradiction": "A president who campaigned on cutting government spending found $22 million in taxpayer cash for ads featuring himself.",
+          "absurdity": "Half the spending happened *after* the promise to stop. That's not a policy reversal — that's a sequel nobody asked for.",
+          "outside": "From outside, the math is pretty simple: private money promised, public money spent, same ads aired. The only thing that changed was who got the receipt."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-10-12/candidate-1.jpg",
-      "imageStyle": "watercolor-sketch",
-      "imagePunchy": "images/2026-10-12/candidate-1-punchy.jpg"
+      "image": "images/2026-10-13/candidate-1.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-13/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "College Tried to Cancel Its Surveillance Camera Contract. The Cameras Said No.",
-        "source": "The Verge",
-        "date": "2026-10-12",
-        "url": "https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras",
-        "summary": "イリノイ州エルジン・コミュニティ・カレッジは、安全目的で導入したFlock社の監視カメラが移民税関捜査局（ICE）にデータを共有していると懸念し、契約解除を試みたが、Flockは解約を拒否した。"
+        "headline": "GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It",
+        "source": "CBS News US",
+        "date": "2026-10-13",
+        "url": "https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/",
+        "summary": "調査によると、建設中のデータセンターの75%、計画段階の80%が共和党支持の強い州に集中しており、地域住民の反発が党の中間選挙戦略に影響を与えている。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「学生の安全のため」と言って入れた監視カメラが、今度は学生を危険にさらしているかもしれなくて、やめようとしたらカメラに「やめさせない」と言われる。安全のための監視が、安全の脅威を監視している。",
-        "<b>滑稽さ:</b> 「解約します」「拒否します」って、契約相手がカメラなんですよ。機材に拒否権があるって、サブスクリプションサービスの究極系じゃないですか。",
-        "<b>日本・海外から見ると:</b> キャンセル不可のサブスクと戦う話、日本でも笑えないくらい身近なんですけど、相手がICEにデータ流してる監視カメラっていうのが、スケールが違いすぎて笑えない笑えるやつ。"
+        "<b>矛盾:</b> テックビッグに規制をかけるなと言い続けてきた共和党が、そのテックビッグのデータセンターを自分の州の裏庭に誘致して、地元有権者に怒られてるんですよ。",
+        "<b>滑稽さ:</b> データセンターって要するに巨大な騒音と電力消費の塊なんですけど、「雇用を生む」という建前でどんどん建てた結果、選挙前に地元が反乱を起こした。",
+        "<b>日本・海外から見ると:</b> 「企業規制より自由市場を」という旗を掲げてきた政党が、企業の立地選択のせいで自分の票田を失いかけてるというのは、市場原理の皮肉な授業ですよね。"
       ],
       "imagePrompts": [
-        "A college administrator in a suit sitting across a negotiating table from a mounted surveillance camera on a tripod, with a stack of legal contracts between them, indoors in a conference room",
-        "A security camera on a pole with a tiny 'CONTRACT: NON-CANCELLABLE' sign zip-tied below it, on a quiet college campus walkway",
-        "A government form labeled 'DATA RECIPIENT: CBP' stamped APPROVED, sitting in a filing tray beneath a framed campus mission statement reading 'Student Safety First'"
+        "A massive industrial data center building in a flat rural landscape, a 'Welcome to GOP Country' road sign nearby, a crowd of residents with protest signs in the foreground",
+        "A Republican politician shaking hands with a tech executive in front of a giant server farm, while behind them local farmers hold signs reading 'Too Loud' and 'Our Power Bill'",
+        "An electoral map of the US where data center icons cluster densely over red states, a thought bubble above a politician reading 'Wait, that wasn't the plan'"
       ],
       "captions": [
-        "The school tried to cancel. The camera said it needed 30 days notice, a written request, and frankly didn't feel like it.",
-        "You installed me for safety. I am keeping you safe — from ever leaving this contract.",
-        "What if your Ring doorbell also texted ICE and you couldn't return it? Asking for a community college in Illinois.",
-        "Student safety cameras: protecting students from the ability to remove student safety cameras.",
-        "The fine print giveth the camera. The fine print taketh away the exit."
+        "You offer cheap land, low taxes, and no regulations. The tech industry shows up. Turns out that was a transaction, not a compliment.",
+        "75% of new data centers are in GOP states. The free market found them. They did not enjoy being found.",
+        "The data centers wanted cheap real estate and light regulation. Red states said 'absolutely.' And now everyone's getting exactly what they agreed to.",
+        "Local Republican voter in 2022: 'Keep government out of business.' Local Republican voter in 2026: 'Why is there a server farm next to my church?'",
+        "The party of deregulation deregulated so well that 80% of planned data centers picked their states. This is going great."
       ],
       "captionsJa": [
-        "学校が解約しようとしたら、カメラが「30日前通知と書面が必要で、あと気が向かない」と言った。",
-        "「あなたの安全のために設置されました。あなたがこの契約から出られないよう守っています。」",
-        "自分のドアカメラがICEにテキスト送ってて、しかも返品できなかったら？イリノイ州のコミュニティカレッジがちょうど聞きたいことがあるそうです。",
-        "学生安全カメラ：学生を守る。ただし「学生安全カメラを撤去する権利」からは守らない。",
-        "契約の小さい文字で、カメラがやってきた。同じ小さい文字で、出口が消えた。"
+        "安い土地と低税率と規制なしを提供した。テック業界がやってきた。あれは取引だったんですよ、褒め言葉じゃなくて。",
+        "新しいデータセンターの75%が共和党支持州にある。自由市場が彼らを見つけた。彼らは見つかるのが嬉しくなかった。",
+        "データセンターは安い土地と緩い規制が欲しかった。赤い州は「どうぞ」と言った。今、みんなが約束通りのものを手に入れてます。",
+        "2022年の共和党支持者：「政府はビジネスに口出しするな。」2026年の共和党支持者：「なんで教会の隣にサーバーが並んでるんだ。」",
+        "規制緩和を掲げた党が規制を緩めた結果、計画中のデータセンターの80%が自分たちの州を選んだ。順調ですよ、これ。"
       ],
-      "newsEn": "Elgin Community College in Illinois installed six Flock Safety cameras in April 2025 to enhance campus security. By September, the administration grew concerned that Flock was sharing camera data with Customs and Border Protection, and that camera feeds were not being properly secured. When the college tried to cancel its contract, Flock refused to let them out of the agreement.",
+      "newsEn": "Research from Cleanview Research shows that 75% of data centers currently under construction and 80% of those in the planning stage are located in predominantly Republican-leaning states. As public opposition to data centers grows — due to noise, water use, and power grid strain — the GOP finds itself in an awkward position ahead of the midterms, having broadly supported the tech industry while its own constituents push back.",
       "ironyEn": [
         {
-          "contradiction": "The college bought the cameras to protect students. The cameras started sharing student data with federal immigration enforcement. The college tried to stop this. The cameras, contractually, refused.",
-          "absurdity": "Most subscription services just auto-renew quietly. Flock auto-renews and calls CBP.",
-          "outside": "Somewhere a legal scholar is updating their paper on 'who actually controls campus safety infrastructure' and the answer is 'not the campus.'"
+          "contradiction": "The party that spent years blocking tech regulation is now watching those same unregulated tech companies park giant, humming, water-guzzling server farms in their voters' backyards.",
+          "absurdity": "Eighty percent of planned data centers are going into GOP territory. The free market has spoken, and it said: 'Your county. Not ours.'",
+          "outside": "Deregulation as a political platform works great until the deregulated industry picks your zip code."
         },
         {
-          "contradiction": "A school that wanted to keep students safe ended up trapped in a contract with the very system making them less safe.",
-          "absurdity": "The camera didn't do the unethical thing. The contract did. The camera just watched.",
-          "outside": "This is the EdTech vendor relationship in its final form: the institution buys the tool, the tool owns the institution."
+          "contradiction": "GOP lawmakers championed the data center boom nationally, and now they're fielding angry calls from constituents who can hear the cooling fans from their porches.",
+          "absurdity": "The data centers need cheap land, loose regulations, and low taxes — all things red states advertised. The pitch worked perfectly. That's the problem.",
+          "outside": "It's a classic case of the incentives you offer being exactly the incentives that show up."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-10-12/candidate-2.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-10-12/candidate-2-punchy.jpg"
+      "image": "images/2026-10-13/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-13/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Trump Rebrands AI as 'Super Intelligence.' Silicon Valley Is Nodding Along.",
-        "source": "The Verge",
-        "date": "2026-10-12",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai",
-        "summary": "トランプ大統領が人工知能（AI）を「スーパー・インテリジェンス」と呼び替える方針を打ち出したところ、シリコンバレーの有力者たちがこぞって新しい呼称を使い始めている。"
+        "headline": "Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land",
+        "source": "CBS News US",
+        "date": "2026-10-13",
+        "url": "https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/",
+        "summary": "ワシントンD.C.の連邦管理ゴルフ場で430本の木が伐採され、裁判官が司法省を叱責した。当該ゴルフ場は連邦所有地にある。"
       },
       "commentary": [
-        "<b>矛盾:</b> テクノロジーの名前を変えても技術自体は何も変わらないんですけど、「変わった」と思わせることこそがブランディングの本質ってこと、シリコンバレーが一番よく知ってるはずなんですよ。それをやられた側でやってる。",
-        "<b>滑稽さ:</b> 先週まで「AIが世界を変える」って言ってた人たちが今週は「スーパー・インテリジェンスが世界を変える」って言ってるわけで、言葉だけ換えてプレゼン資料を全部刷り直した人のコスト、誰が払うんですか。",
-        "<b>日本・海外から見ると:</b> アメリカの技術覇権の話をしているはずなのに、焦点が「なんと呼ぶか」になってるのを外から見ると、「強い国って意外とこういうことで時間使ってるんだ」ってなります。"
+        "<b>矛盾:</b> 連邦所有の公園内のゴルフ場で430本の木を切って、司法省が法廷で叱られてるんですよ。政府が政府の土地で法律を守れなかったというのは、なかなかの自己矛盾じゃないですか。",
+        "<b>滑稽さ:</b> 430本ですよ、430本。何本か伐採したとかじゃなくて、400を超えてる。誰かが気づく前に終わらせようとしたとしか思えない。",
+        "<b>日本・海外から見ると:</b> 環境保護規制を「過剰な政府介入」と批判してきた側が、政府の土地で規制を無視して木を切り倒して裁判官に怒られる、というのはシンプルにわかりやすい話ですね。"
       ],
       "imagePrompts": [
-        "A row of tech executives in matching fleece vests at a conference table, all rapidly peeling off 'AI' name badges and replacing them with 'SUPER INTELLIGENCE' stickers, with a podium bearing a presidential seal at the front of the room",
-        "A server room filled with humming racks of computers, and a single laminated sign taped to the door: the old sign reading 'AI LAB' with 'SUPER INTELLIGENCE LAB' in large letters pasted over it",
-        "A whiteboard in a startup office where 'AI' has been crossed out in red marker 17 times and replaced with 'SUPER INTELLIGENCE,' surrounded by confused-looking sticky notes"
+        "A golf course fairway with 430 numbered stumps where trees used to be, a judge's gavel visible in the foreground, official DOJ briefcases on a bench nearby",
+        "A government lawyer at a courtroom podium with a chart showing '430 trees removed,' a 'Federal Land' sign visible through the courtroom window, the judge's bench looming above",
+        "An aerial view of a D.C. park golf course with a large cleared area of stumps, surrounded by remaining trees, a federal government seal on a nearby building"
       ],
       "captions": [
-        "The technology didn't change. The PowerPoint template did. Progress.",
-        "Silicon Valley spent $300 billion building AI and then renamed it because a guy with a social media account asked nicely.",
-        "You know how cereal companies just write 'NEW LOOK, SAME GREAT TASTE'? This is that, but for the entire tech industry.",
-        "They disrupted banking, transportation, and hospitality. Turns out all it took to disrupt them was a two-word rebrand.",
-        "800 decks, 'AI' crossed out, 'super intelligence' typed in. Somewhere a junior PM billed that as a sprint and nobody pushed back."
+        "The government cut down 430 trees on government land and sent government lawyers to say it was fine. The judge, also a government employee, said it wasn't.",
+        "Four hundred and thirty trees, gone on a Saturday. Not a Tuesday, not a phased environmental review — a Saturday.",
+        "It's a public golf course on public land with public trees. Everything about this was public except the decision to do it.",
+        "The DOJ had a lot of explanations for why 430 trees needed to come down. The judge had one question: 'Did anyone ask first?'",
+        "You know you've had a rough week when your own lawyers get scolded for what happened on your own land."
       ],
       "captionsJa": [
-        "技術は何も変わってない。パワーポイントのテンプレートが変わった。進歩です。",
-        "シリコンバレーは3000億ドルかけてAIを作って、SNSアカウントを持つ人に頼まれて名前を変えた。",
-        "シリアルのパッケージに「リニューアル！中身は変わらず」って書いてあるやつあるじゃないですか。あれです。ただし対象がテック業界全体。",
-        "銀行も交通も宿泊もぶっ壊してきた人たちが、2語のリブランドで崩れた。",
-        "800本のデッキの「AI」を「スーパー・インテリジェンス」に直す作業、誰かが1スプリントとして計上して、誰も突っ込まなかったはずです。"
+        "政府が政府の土地の木を430本切り倒して、政府の弁護士が「問題ない」と言いに行った。同じく政府に雇われた裁判官は、問題あると言いました。",
+        "430本ですよ、土曜日に。火曜日でも段階的な環境審査でもなく、土曜日に。",
+        "公共のゴルフ場、公共の土地、公共の木。決定以外は全部公共でした。",
+        "司法省はなぜ430本の木が必要だったか説明した。裁判官の質問はひとつ。「誰かに許可を取りましたか？」",
+        "自分の土地でやったことで自分の弁護士が叱られるというのは、なかなかの週の終わり方ですよ。"
       ],
-      "newsEn": "President Trump announced plans to rebrand artificial intelligence as 'super intelligence.' While the general public has largely stuck with the term AI, some of Silicon Valley's most powerful figures have begun adopting the new terminology, falling in line with the administration's preferred language.",
+      "newsEn": "Government lawyers acknowledged that 430 trees were cut down at East Potomac Golf Links in Washington, D.C., on Saturday. The site is on federally managed park land. A judge chastised Department of Justice attorneys over the incident, raising questions about whether proper environmental review and legal procedures were followed before the trees were removed.",
       "ironyEn": [
         {
-          "contradiction": "The industry that prides itself on disrupting everything else changed nothing about its technology, only its vocabulary, on request from a politician.",
-          "absurdity": "Billions of dollars of AI infrastructure, renamed by a single Truth Social post.",
-          "outside": "Other countries are racing to build better models. The U.S. is currently debating what to put on the label."
+          "contradiction": "The federal government cut down 430 trees on federal land, then sent its own lawyers to explain why that was fine. The judge disagreed.",
+          "absurdity": "Four hundred and thirty trees — on a Saturday. That's not a landscaping decision. That's a project with a deadline.",
+          "outside": "In most countries, clearing protected parkland requires permits, reviews, and approvals. The DOJ apparently thought the paperwork was optional."
         },
         {
-          "contradiction": "Silicon Valley executives who once said they'd never let government dictate their roadmap are now updating their LinkedIn bios to match White House terminology.",
-          "absurdity": "The smartest machines in the world got rebranded by the oldest trick in politics: just say a different word louder.",
-          "outside": "From abroad, this reads as the most expensive game of 'Simon Says' in the history of enterprise software."
+          "contradiction": "The administration that frames environmental rules as bureaucratic overreach ran into a judge enforcing those exact rules — on the government's own property.",
+          "absurdity": "East Potomac Golf Links is a public park. The trees were public. The land was public. The only thing missing was a public process.",
+          "outside": "A government lawyer standing in court explaining why 430 trees are gone is a specific kind of Tuesday nobody planned for."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-10-12/candidate-3.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-10-12/candidate-3-punchy.jpg"
+      "image": "images/2026-10-13/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-13/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "AI Is Automating Coding. Software Developer Job Postings Are Going Up.",
-        "source": "CNBC Top News",
-        "date": "2026-10-11",
-        "url": "https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html",
-        "summary": "AIがコーディング業務を自動化する中、ソフトウェア開発者の求人数は逆に増加傾向にあることが明らかになった。ただし増えているのは上級職とAI専門職で、エントリーレベルの採用は弱含みだ。"
+        "headline": "Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art",
+        "source": "Ars Technica",
+        "date": "2026-10-13",
+        "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+        "summary": "エピックゲームズが「AIファースト」の開発モデルへの転換を検討していると報じられ、手書きコードとAIを使わないアートの廃止が示唆された。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「AIがプログラマーの仕事を奪う」って言われてたのに、求人が増えてる。ただし「AIを使いこなせるベテランのみ」。つまりAIが奪ったのは新人の仕事だけで、新人が奪ってもらいたかった仕事はそのまま残ってる。",
-        "<b>滑稽さ:</b> 「未経験歓迎」の求人がなくなった業界で「経験5年以上」だけが増えてる状況、5年前に入口があった人しか残れないって、梯子を上ってから梯子を蹴り倒したやつと同じじゃないですか。",
-        "<b>日本・海外から見ると:</b> 日本でもIT人材不足って言われてますけど、「若手を育てる構造をなくしてベテランだけ欲しがる」のは日本でもアメリカでも同じで、技術の問題じゃなくて採用設計の問題なんですよ。"
+        "<b>矛盾:</b> ゲームエンジン業界の象徴とも言える会社が「人間が書いたコードはもうやめる」と言い出したんですよ。フォートナイトを作ったエンジンを、次のゲームはAIが書く、ということらしい。",
+        "<b>滑稽さ:</b> 「手書きコード禁止」の宣言を出したのが、何年も遅延してるマーベル×スターウォーズのゲームを作ってる会社なんですよ。AIに変えれば速くなると思っているようで。",
+        "<b>日本・海外から見ると:</b> 日本のゲーム会社は「職人性」をブランドにしてる会社が多いけど、アメリカのスタジオがAIに全振りした時、そのギャップが市場でどう出るかは正直面白い実験ですよね。"
       ],
       "imagePrompts": [
-        "A tall ladder leaning against a skyscraper labeled 'SENIOR DEV JOBS,' with all the lower rungs sawed off, and a robot holding the saw standing at the bottom looking satisfied",
-        "A job board covered in listings all reading '5+ YEARS EXPERIENCE REQUIRED,' with a single crumpled entry-level posting on the floor below it",
-        "A conference room whiteboard with 'AI WILL CREATE JOBS' written at the top, and below it a detailed org chart where every entry-level box has been replaced with a small robot icon"
+        "A large game studio office where all the desks are empty except for glowing AI terminal screens, a whiteboard on the wall reading 'No Hand-Written Code' with an Unreal Engine logo in the background",
+        "A 'Help Wanted' sign outside a game studio with all job titles crossed out and replaced with 'AI Prompt Engineer', a stack of rejected artist portfolios on the doorstep",
+        "A developer staring at a screen showing AI-generated game art next to the classic Unreal Engine interface, a calendar on the wall with 'STILL DELAYED' stamped across multiple years"
       ],
       "captions": [
-        "Great news: there are more coding jobs than ever. Bad news: you needed to already have one five years ago.",
-        "AI took the entry-level jobs and left the senior ones. That's not job creation. That's removing the first step of a staircase.",
-        "We automated the intern, and now we're hiring a principal engineer to supervise what the automation broke. Efficiency.",
-        "'AI won't take your job' — technically true, if your job requires 8 years of experience and a security clearance.",
-        "The ladder is taller than ever. They just took out the bottom half."
+        "Epic Games is going 'AI first.' Their delayed Marvel game is still delayed. Presumably the AI will also be delayed, but faster.",
+        "No more hand-written code at the company that wrote the engine half the game industry runs on. The engine will outlast the decision.",
+        "The Marvel and Star Wars game has been in development for years. Adding AI to the mix — can't see how that gets complicated.",
+        "Epic built Unreal Engine with human engineers. Their plan is to replace that process with AI. The engine will remain, presumably feeling weird about it.",
+        "Game studios say players want fresh, creative experiences. Their solution is to remove the humans making fresh, creative decisions. Interesting approach."
       ],
       "captionsJa": [
-        "朗報：コーディングの求人がかつてないほど増えています。悲報：5年前に入っておく必要がありました。",
-        "AIはエントリーレベルの仕事を奪って、上の仕事を残した。雇用創出じゃなくて、階段の一段目を外したやつです。",
-        "インターンを自動化したら、自動化が壊したものを直すために主任エンジニアを雇ってる。効率化。",
-        "「AIが仕事を奪うわけじゃない」——厳密には正しい。経験8年とセキュリティクリアランスが必要な仕事に限って言えば。",
-        "梯子はかつてないほど高くなった。ただし下半分は撤去済み。"
+        "エピックゲームズが「AIファースト」に移行します。遅延中のマーベルゲームはまだ遅延中。たぶんAIも遅延しますが、速く遅延します。",
+        "ゲーム業界の半分が使ってるエンジンを人間が書いた会社が、手書きコード禁止を宣言した。エンジンはその決定より長生きするだろう。",
+        "マーベル×スターウォーズのゲームは何年も開発中。そこにAIを加えましょう、ということで。どうなるか見当がつかない。",
+        "エピックはアンリアルエンジンを人間のエンジニアで作った。その工程をAIに置き換える計画です。エンジン自体は残りますが、複雑な気持ちでいるはずです。",
+        "プレイヤーは「新鮮で創造的な体験」を求めてると言うんですけど、その体験を作る人間の判断をなくすことが解決策らしい。なるほど。"
       ],
-      "newsEn": "Software developer job postings are rebounding even as AI automates more coding tasks. The increase is being led by senior-level and AI-focused roles, while entry-level hiring continues to weaken. Analysts note that companies appear to want fewer, more experienced developers who can work alongside AI tools rather than more junior staff.",
+      "newsEn": "Epic Games is reportedly pivoting to an 'AI first' game development model, according to sources familiar with the plans. The shift would mean eliminating hand-written code and art created without AI assistance — a significant departure for the studio behind Unreal Engine. The announcement comes as the company's long-delayed Marvel and Star Wars shooter project remains in development.",
       "ironyEn": [
         {
-          "contradiction": "AI was supposed to democratize coding by lowering the skill floor. Instead it's raising the hiring floor, pricing out the people who were supposed to benefit most.",
-          "absurdity": "The robots didn't take the senior jobs. They took the entry-level ones, which is the only rung new developers had to climb on.",
-          "outside": "From a labor economics perspective, 'AI creates jobs' and 'AI eliminates the path to those jobs' are both true at the same time, which is impressive."
+          "contradiction": "Epic Games, which built one of the most widely used game development engines in the world through human engineering, is now telling its engineers that human-written code is the problem.",
+          "absurdity": "The company's long-delayed Marvel and Star Wars game still isn't out. The proposed solution: fire the process that built Unreal Engine and replace it with one that hasn't shipped anything yet.",
+          "outside": "Game studios worldwide license Unreal Engine because it represents decades of expert human craft. Epic's pitch is now: 'What if we stopped doing that?'"
         },
         {
-          "contradiction": "Companies claim AI boosts productivity, then post more job openings. If it's so productive, why does everyone need more staff?",
-          "absurdity": "We automated the internship and now we need a senior engineer to fix what the automation got wrong.",
-          "outside": "In a decade, tech companies will wonder why there aren't enough senior developers — having spent this decade not hiring any juniors."
+          "contradiction": "No hand-written code, no human art — announced by a company whose entire reputation was built on exactly those things.",
+          "absurdity": "The delayed Marvel/Star Wars game keeps not shipping. Adding AI presumably means it will not ship faster, now with AI.",
+          "outside": "Players already complain that games feel generic. The solution being proposed is to make the development process more generic."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-10-12/candidate-4.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-10-12/candidate-4-punchy.jpg"
+      "image": "images/2026-10-13/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-13/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
       "sensitive": false,
       "news": {
-        "headline": "Retailers Are Selling Less Stuff on Purpose. They Say It's Going Great.",
+        "headline": "Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor",
         "source": "CNBC Top News",
-        "date": "2026-10-12",
-        "url": "https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html",
-        "summary": "BJ'sやルルレモンなど複数の小売ブランドが、品揃えを意図的に絞り込む戦略を採用。健全な成長への回帰と業績安定化を目指すと説明している。"
+        "date": "2026-10-13",
+        "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+        "summary": "イーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを寄付し、最大の既知の中間選挙ドナーとなった。同氏は連邦政府との取引関係も持つ。"
       },
       "commentary": [
-        "<b>矛盾:</b> 小売業の基本って「いかに多く売るか」じゃないですか。それを「売るものを減らします」と言い始めて、「健全な成長」って呼んでる。「食べる量を減らして体重を増やす」みたいな話。",
-        "<b>滑稽さ:</b> ルルレモンが商品を減らしてるって、「ヨガパンツの種類が多すぎた」って誰かが真顔で言ったってことですよね。「第37番のヨガパンツが業績を圧迫していた」。",
-        "<b>日本・海外から見ると:</b> 日本の「選択と集中」戦略と全く同じ話なんですけど、アメリカの小売がそこに来るのに数十年かかってる。日本語のビジネス書に書いてあったことを2026年にやってる。"
+        "<b>矛盾:</b> 連邦政府と巨額の契約を持つ人物が、その政府の政策を決める議員を選ぶ選挙に2億7600万ドルを突っ込んでいる。利益相反という言葉が頭をよぎりますが、法的には問題ないと言われてるんですよね。",
+        "<b>滑稽さ:</b> 「最大の既知のドナー」という表現、気になりませんか。既知の、ですよ。どういう意味かわかりますよね。",
+        "<b>日本・海外から見ると:</b> 政治献金の規模とルールはアメリカが独特なんですけど、2億7600万ドルって、日本の中堅企業の年間売上くらいある。個人献金の話ですよ、これ。"
       ],
       "imagePrompts": [
-        "A massive big-box store with mostly empty shelves, and a single banner hanging from the ceiling reading 'CURATED SELECTION — IT'S A FEATURE,' with one employee standing proudly next to three remaining products",
-        "A corporate boardroom whiteboard with 'SELL MORE' crossed out and replaced with 'SELL LESS (STRATEGY),' surrounded by executives nodding approvingly",
-        "A store display with 38 identical hangers, 37 of which are empty, one remaining item tagged with a sign reading 'OUR FOCUS COLLECTION'"
+        "An enormous novelty check made out to 'Republican Groups' for $276,000,000 being handed over, government contract folders visible in the background on a desk",
+        "A donor leaderboard scoreboard with one name at the top by a massive margin, second place barely visible at the bottom, a 'Midterm Elections 2026' banner overhead",
+        "A Venn diagram on a whiteboard: one circle labeled 'Federal Contractors,' another labeled 'Biggest Political Donors,' the overlap section very large and shaded"
       ],
       "captions": [
-        "We had too much stuff, so we got rid of the stuff, and now we're calling it a strategy. Please hold for our Q3 earnings call.",
-        "Lululemon is selling fewer leggings. Legging number 37 has been discontinued. It didn't see it coming.",
-        "Retailers are shrinking their shelves and calling it curation. One person's empty aisle is another person's 'intentional assortment philosophy.'",
-        "They figured out that selling less might make more money, which is either genius or the plot of a very boring heist movie.",
-        "'We used to have 200 products. Now we have 60.' 'Is that good?' 'We're calling it good.'"
+        "$276 million to Republican groups, from a man whose companies are paid by the Republican-led government. Totally separate things. Very separate.",
+        "He's the biggest 'known' donor. The word 'known' is in the headline for a reason, and the reason is interesting.",
+        "Two hundred and seventy-six million dollars. In one election. As a personal donation. And we're still calling it a donation.",
+        "Musk is 'rebuilding his relationship with Trump' while his companies hold federal contracts. He expressed that with $276 million. Trump got the message.",
+        "The largest known midterm donor also has the largest known financial relationship with the government the midterms will decide. Coincidence is a funny word."
       ],
       "captionsJa": [
-        "商品が多すぎたから減らして、それを「戦略」と呼んでいます。第3四半期の決算説明会でお待ちください。",
-        "ルルレモンがレギンスを減らした。37番のレギンスは廃番になった。本人は気づいていなかった。",
-        "棚を縮小して「キュレーション」と呼ぶ小売業者たち。あなたの空いた通路は、彼らにとって「意図的なアソートメント哲学」。",
-        "売るものを減らすと儲かるという発見、天才的なのか、それともとても退屈な強盗映画のプロットなのか。",
-        "「以前は200品目ありました。今は60です。」「それはいいことですか？」「そういうことにしています。」"
+        "共和党率いる政府から仕事をもらってる人物が、共和党に2億7600万ドルを寄付した。完全に別の話ですよ。とても別の話。",
+        "「既知の」最大ドナー。見出しにわざわざ「既知の」がついてる理由、考えてみてください。",
+        "2億7600万ドル。一回の選挙で。個人の寄付として。それでも「寄付」と呼んでいます。",
+        "マスク氏はトランプ大統領との「関係を再構築中」で、その政府と連邦契約を持っている。2億7600万ドルで意思を伝えた。届いたと思います。",
+        "中間選挙で決まる政府と最大規模の取引関係にある人物が、その選挙の最大の寄付者でもある。偶然というのは面白い言葉ですよね。"
       ],
-      "newsEn": "Retail brands including BJ's and Lululemon are deliberately shrinking their product assortments. Companies say the move is designed to return to healthy growth, better curate offerings, and stabilize the business. Box stores are also culling products to create a more focused shopping experience.",
+      "newsEn": "Elon Musk has donated $276 million to Republican groups ahead of the 2026 midterm elections, making him the single largest known donor in the cycle. The spending comes as Musk, CEO of Tesla and SpaceX, continues to rebuild his relationship with Trump and maintains significant financial ties to the federal government through contracts with NASA, the Department of Defense, and other agencies.",
       "ironyEn": [
         {
-          "contradiction": "Retailers built entire business models around endless choice and are now calling it a liability. The customer who wanted 40 kinds of leggings is apparently the problem, not the solution.",
-          "absurdity": "Lululemon is trimming its assortment. Somewhere, legging number 37 just got discontinued and no one will mourn it except its SKU.",
-          "outside": "Japanese retail learned 'select and concentrate' a generation ago. American retail is calling it an innovation in 2026."
+          "contradiction": "The world's richest man, whose companies hold billions in federal contracts, donated $276 million to influence who controls the federal government. The word 'donor' is doing a lot of work in that sentence.",
+          "absurdity": "He's called the 'biggest known' midterm donor. The 'known' part is really doing some heavy lifting there.",
+          "outside": "Most countries have donation caps or full public disclosure requirements. The U.S. has the disclosure. The cap is apparently optional."
         },
         {
-          "contradiction": "These companies expanded aggressively for years, then discovered that having too many products is bad for business, which was in the first chapter of every retail textbook.",
-          "absurdity": "They're growing the business by having less business. The metric for success is now negative inventory.",
-          "outside": "A European customer reading this sees a company discovering that a smaller, curated shop is better — which is just called 'a shop' everywhere else."
+          "contradiction": "SpaceX and Tesla have significant government contracts. The CEO of both companies just wrote the biggest known check in the midterm cycle. The relationship is described as being 'rebuilt.'",
+          "absurdity": "Two hundred and seventy-six million dollars is the amount one person decided was a reasonable political contribution. For context, that's more than the GDP of some small nations — in one election cycle.",
+          "outside": "Foreign observers trying to explain American campaign finance to their audiences usually start with 'it's complicated' and end with 'yes, that number is real.'"
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-10-12/candidate-5.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-10-12/candidate-5-punchy.jpg"
+      "image": "images/2026-10-13/candidate-5.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-10-13/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本を貫く糸は「名前を変えれば中身も変わると思っている人たちと、変えようとしたら逃がしてもらえなかった人たちの話」。権力の言語ゲームと、サブスクの呪縛。",
-    "titleEn": "AI Is Now 'Super Intelligence.' Cameras Refused to Quit. Developers Are Hiring — Just Not You.",
-    "subtitleEn": "Five stories about people who changed the label and hoped nobody checked the jar.",
-    "titleJa": "「スーパー・インテリジェンス」に改名して、監視カメラに解約を断られた週の話",
+    "thread": "今日の5本は全部「片方の手でやったことを、もう片方の手でなかったことにしている」話。約束した後に税金で払う、自由市場を旗印にして地元住民に怒られる、政府の土地で政府が法律を破る、AIで速くなると言いながら遅延中、政府の契約先が政府の選挙に2億7600万ドル。",
+    "titleEn": "The Week the Government Forgot What the Government Is For",
+    "subtitleEn": "Five stories, one pattern: saying one thing, paying for another.",
+    "titleJa": "「スーパーPACが払う」と言った翌週に、税金で払っていた話",
     "titleAltJa": [
-      "AIの求人が増えているのに、入口がなくなった話",
-      "名前を変えたら何かが変わると信じている人たちが、今週も5本登場しました"
+      "2億7600万ドルを個人で寄付して、それでも「献金」と呼ばれている",
+      "430本の木を切り倒して裁判官に怒られるまで、誰も止めなかった話"
     ],
-    "leadJa": "「AI」を「スーパー・インテリジェンス」と呼び直したら、技術が進歩したらしい。監視カメラに解約を断られた大学もある。独占禁止法の標的がカメラマンになった国の話を、今日もやっていきます。",
-    "introEn": "So here's today's theme, as best I can tell from my morning reading: the people in charge have discovered that if you rename a thing, you don't have to fix it.\n\nAI becomes 'super intelligence.' Selling less stuff becomes 'healthy growth.' A surveillance camera you can't cancel becomes... your problem. And a press pool you locked out of the building? Apparently that's an antitrust violation now.\n\nToday's five stories are all variations on the same trick. Watch for it.\n\nAnd here's your forecast: if you've been doing solid work under a boring title, today is quietly your day. The people rewriting the labels are exhausted. Boring and reliable is having a moment. You don't need to rename anything.",
-    "introJa": "今日、一番最初に読んだ記事のタイトルを二度見しました。\n\nDOJ（司法省）が、ホワイトハウスの取材カメラマン集団を「独占禁止法違反」で調査。\n\n独占、禁止。カメラマンが。\n\n次を開くと、「AI」が「スーパー・インテリジェンス」に改名されていて、シリコンバレーの人たちが揃ってそっちの言葉を使い始めている。技術は何も変わっていない。名前だけ。\n\nで、その次は、解約しようとした監視カメラに「それはできません」と断られた大学の話。\n\n今日はそういう日です。名前と権限と契約が、全部ふつうと逆向きに動いてる。\n\n今日の占いです。\nあなたが「これって私が間違ってる？」と思っていることがあるとしたら、それはたぶんあなたのせいじゃない。カメラに解約を断られている大学があるくらいなので。今日は「おかしいと思った感覚」を信じていい。少なくとも今日は、その感覚のほうが現実に近い。",
-    "quipEn": "Today's five stories, one sentence: they changed the name, locked the door, refused the cancellation, removed the entry level, and called it all a strategy. You're not confused. The jar is just mislabeled.",
-    "quipJa": "名前を変えて、扉に鍵かけて、解約を断って、入口をなくして、それを全部「戦略」と呼んでいる。あなたが混乱してるのは当然で、ラベルが間違ってるだけです。",
+    "leadJa": "「スーパーPACが出す」と言った後に税金で払う。「規制より自由市場」と言い続けた州が、自分の裏庭のデータセンターに怒る。政府の土地で、政府が、法律を守れなかった。\n\n今日はそういう日です。",
+    "introEn": "Five stories today. They don't look connected on the surface.\n\nThere's the pro-Trump ads that the government paid for after Trump said his super PAC would. There's the Republican states hosting 75% of new data centers while their own voters revolt. There's a golf course where someone cut down 430 trees on a Saturday and hoped no one would notice. And then there's a $276 million personal donation from a man who also has federal contracts.\n\nThe thread, if you squint: everyone's pointing left while walking right.\n\nFor your forecast — if you've ever said you'd do something and then... quietly done a different thing, today's news says you're in extremely good company. The gap between what powerful people announce and what they actually do has never been wider, which means your own small contradictions barely register. You're fine. Probably.",
+    "introJa": "「スーパーPACが出す」。\nそう言った後に、税金で払っていた。\n\nそれだけでも今日は充分な一本なんですが、残り4本も全部そういう話でした。\n\n「規制より自由市場」を旗印にしてきた共和党の州が、テックの大型データセンターを誘致した結果、地元住民に怒られている。政府の土地で、政府の弁護士が説明しに行って、裁判官に怒られている。「AIファースト」を宣言したゲーム会社は、何年も遅延しているゲームの開発中に宣言した。そして連邦政府と巨額契約を持つ人物が、その政府の議員を選ぶ選挙に2億7600万ドルを寄付している。\n\nたぶん今日を貫く糸は、「言ったこととやったことがもう一致していない」ということです。\n\nということで、今日の占い。\nあなたが「言ったことと違う方向に進んでいる」と感じているとしたら、今日に限っては、それは全員そうです。大統領も、共和党も、ゲーム会社も、億万長者も。あなただけじゃない。少なくとも今日はね。",
+    "quipEn": "Today's lesson: say your super PAC will pay, let the taxpayer pay, call it a public service, and donate $276 million to make sure no one changes the rules.",
+    "quipJa": "「スーパーPACが出す」「市場に任せる」「問題ない」「献金です」。全部、同じ話でした。",
     "notesEn": [
-      "The DOJ is investigating the White House press pool under antitrust law. The same White House that decides which reporters get access. They locked the door, handed out three keys, and are now suing the key holders for forming a cartel.",
-      "A college in Illinois tried to cancel its surveillance camera contract after discovering the cameras were sharing data with immigration enforcement. The camera company said no. I don't know what to call a vendor that won't let you leave, but 'security provider' seems like a stretch.",
-      "Trump wants to rename AI 'super intelligence.' Silicon Valley is already using the new term. The technology is identical. The PowerPoint templates are not. Someone is billing for those templates.",
-      "AI is automating coding. Software developer job postings are up. Entry-level postings are down. So AI didn't take the jobs — it took the first rung of the ladder and left everything above it exactly where it was.",
-      "BJ's and Lululemon are deliberately selling fewer products and calling it a strategy. Legging number 37 has been discontinued. The company says this is healthy growth. Legging number 37 could not be reached for comment."
+      "The U.S. government spent nearly $22 million on pro-Trump ads. Almost half of that came after Trump publicly said his super PAC would cover the cost. The ads are classified as public service announcements. The public's service was paying for them.",
+      "75% of new data centers are being built in Republican-leaning states. The GOP spent years opposing tech regulation. The tech industry said thanks, picked the cheapest land with the fewest rules, and showed up. Now those same states have noise complaints, power shortages, and angry voters three weeks before midterms.",
+      "On a Saturday, someone cut down 430 trees at a federally managed golf course in Washington D.C. Government lawyers had to explain this to a judge. The judge was not satisfied with the explanation. Four hundred and thirty trees, on a Saturday.",
+      "Epic Games is going 'AI first' — no more hand-written code, no more art made without AI. This was announced while their Marvel and Star Wars game, which has been in development for years, is still not finished. The AI pivot will presumably also take a while.",
+      "Elon Musk donated $276 million to Republican groups ahead of the 2026 midterms — the largest known donation in this cycle. His companies hold significant contracts with the federal government. The word 'known' is doing a lot of work in that sentence."
     ],
     "xJa": [
-      "DOJ（司法省）がホワイトハウスを取材するカメラマン集団を独占禁止法で調査中。記者を締め出した側が、残った記者に「独占だ」と言っています。扉に鍵かけて「なぜ俺しかいないんだ」という話。",
-      "安全のために設置した監視カメラが移民局にデータを送っていたので解約しようとしたら、カメラ会社に断られた大学があります。解約できないサブスクの最終形態がこれです。",
-      "トランプ大統領がAIを「スーパー・インテリジェンス」と呼び直し、シリコンバレーが揃って追随しています。技術は変わっていません。名前だけ。プレゼン資料を全部刷り直した人のコスト、誰が払うんですかね。",
-      "AIがコーディングを自動化したら、ソフトウェア開発者の求人が増えました。ただし「上級職のみ」。入口がなくなった状態で「採用増」と言っています。梯子を上ってから蹴り倒した話。",
-      "ルルレモンが商品を減らして「健全な成長」と呼んでいます。第37番のヨガパンツが廃盤になりました。「売るものを減らして成長する」が2026年の小売戦略らしい。"
+      "「スーパーPACが広告費を出す」とトランプ大統領が宣言した後、政府は税金で親トランプ広告を流し続けた。総額2200万ドル。名目は「公共サービスのお知らせ」。公共は知らされていなかった。",
+      "建設中のデータセンターの75%が共和党支持の強い州にある。「規制より自由市場」を掲げてきた結果、テックが来て、騒音と電力不足が来て、中間選挙直前に地元住民が怒っている。市場原理は正直だ。",
+      "ワシントンD.C.の連邦管理ゴルフ場で、土曜日に430本の木が伐採された。司法省が裁判官に説明した。裁判官は納得しなかった。土曜日に430本。",
+      "エピックゲームズが「AIファースト」宣言。手書きコード禁止、AIなしのアート禁止。何年も遅延しているマーベル×スターウォーズのゲームが開発中のタイミングで。AIにすれば速くなると思っているらしい。",
+      "イーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを個人で寄付。彼の会社は連邦政府と巨額契約を持つ。ニュースは「最大の既知のドナー」と書いている。「既知の」という部分が気になる。"
     ],
     "raidEn": [
-      "The part that gets me is that the same people controlling access are the ones calling it a monopoly. That's not antitrust law. That's a mirror.",
-      "A vendor that won't let you cancel is just a landlord with better branding. Great video, by the way.",
-      "Rename the product, keep the product, watch the room nod. The cereal box trick, but for national technology policy. Love the coverage on this.",
-      "The jobs are up, the entry-level is down — someone pulled the rope ladder up and is writing a LinkedIn post about the talent shortage. Great breakdown here.",
-      "They called it 'intentional assortment philosophy.' I've been saying that about my empty fridge for years. Really good piece."
+      "The 'public service announcement' label is really pulling some weight here. Most PSAs warn you about fire exits. This one just... features the president.",
+      "The free market working exactly as advertised — it found the cheapest real estate, moved in, and now everyone's surprised the free market showed up.",
+      "430 trees on a Saturday. Not a phased plan, not an environmental review. A Saturday.",
+      "The delayed game getting an AI pivot is very funny. The AI will probably also need an extension.",
+      "The 'known' in 'largest known donor' is genuinely the most interesting word in that sentence."
     ],
     "raidJa": [
-      "アクセスを制限した側が残った記者を「独占だ」と言っているの、鏡を見て「誰だお前は」と怒っているみたいで、笑えない笑えるやつですね。記事、とてもよくまとまっていました。",
-      "解約できない監視カメラ、読みながら他人事じゃないな…と思いました。「安全のため」が「安全の脅威」になった瞬間の話として、すごく鮮明でした。",
-      "「AI」が「スーパー・インテリジェンス」になっても中身が同じなら、私たちが毎朝読んでいるのも実は「スーパー・インフォメーション」だったんですかね。記事読んで、つい考えてしまいました。",
-      "入口をなくして「求人増加」と言っている構図、日本でも全く同じことが起きていると思います。技術の話より採用設計の問題、という指摘が刺さりました。",
-      "「意図的な品揃え戦略」という言葉の発明、すごい。自分の部屋の片付けにも使います。とても面白く読みました。"
+      "「公共サービスのお知らせ」というカテゴリー、ガス漏れ警報と同じ枠に大統領が出てくるの、なかなかですよね。丁寧に読むと笑えてくる記事でした。",
+      "「企業規制より自由市場を」という旗を20年掲げた結果がこれ、というのがシンプルすぎて逆に面白い。市場原理は正直ですね、という話でした。",
+      "430本というのが気になって読みました。1本でも2本でもなく430本、しかも土曜日に。誰かが気づく前に終わらせようとした感じがしますよね。",
+      "遅延しているゲームをAIで立て直す、という発想自体は面白いんですが、AIも締め切りを守るかどうかはまだ未検証ですよね。続きが気になる話でした。",
+      "「既知の」という一言がめちゃくちゃ効いていますよね。記者がわかっていて書いている気がして、そこが一番好きでした。"
     ],
     "riffEn": [
-      "The Justice Department opened an antitrust investigation into the White House television press pool. The Sherman Antitrust Act, for context, was written in 1890 to break up railroads and oil empires. It has now been pointed at the camera operator who films press briefings. The White House controls which outlets get access. The White House limited that access. The remaining reporters, who formed a pool because the White House told them to, are now allegedly a monopoly. You ever get accused of hoarding the keys to a room someone else locked?",
-      "Elgin Community College bought security cameras from a company called Flock Safety. Then they found out Flock was sharing footage with immigration enforcement. So the college tried to cancel. Flock said no. This is the actual situation: a school wanted to stop giving a vendor access to its campus, and the vendor declined. The cameras are still there. Still watching. The contract still has time on it. I've had gym memberships with more dignity.",
-      "Trump announced he's rebranding artificial intelligence as 'super intelligence.' Silicon Valley, which spent the last decade insisting it was too sophisticated to follow anyone, immediately started using the new word. The technology is exactly the same. The capabilities haven't changed. What changed is that someone at a podium said a different noun and the most powerful people in tech reached for their keyboards to update their bios. The PowerPoint template did more work this week than most of us.",
-      "AI is automating code. Software developer job postings are up. Great, right? Except all the new postings want senior engineers with five-plus years of experience. Entry-level? Down. So AI didn't eliminate the career — it eliminated the beginning of the career. It removed the first step and left the rest of the staircase floating there. Companies are now posting 'seeking experienced developer to supervise the AI we bought to replace experienced developers.' I'm not saying it's a trap. But I'm not not saying it.",
-      "BJ's and Lululemon announced they're selling fewer products on purpose. Less inventory, fewer SKUs, curated assortments. They're calling it a return to healthy growth. Someone in a boardroom said the words 'legging number 37 is underperforming' with a straight face and the whole room nodded. To be clear: the strategy is to have less stuff, sell less of it, and call that a win. My kitchen has been running this strategy for two weeks and I have not once described it as curation."
+      "Trump said his super PAC would fund the ads. Then the government funded the ads. Same ads, different wallet — specifically, yours. The White House calls them 'public service announcements,' which is technically accurate: the public is being informed that its money is now elsewhere. The super PAC, for its part, is reportedly fine.",
+      "Republican lawmakers spent years telling their constituents that tech regulation was government overreach. The tech industry listened, picked states with cheap land and minimal rules, and started building. Now 75% of new data centers are in GOP states, and those states' voters are furious about the noise, the water bills, and the power grid strain. The free market showed up exactly when invited. Nobody planned for what happens after you open the door.",
+      "On Saturday — not during a scheduled review, not at the end of a permitting process — 430 trees were removed from a federally managed golf course in Washington D.C. Government lawyers went to court to explain this. The judge asked questions. The lawyers answered them. The judge remained unsatisfied. It's a strange thing, watching the government send lawyers to defend the government cutting down the government's trees on the government's land without following the government's own rules. The trees are not available for comment.",
+      "Epic Games is eliminating hand-written code and human-made art. The company that built Unreal Engine — the engine that powers roughly half the games you've played this decade — has decided the next step is to have AI write the code instead. This announcement came while their Marvel and Star Wars shooter, in development for several years, is still not finished. The pivot to AI will presumably be faster. Presumably.",
+      "Elon Musk donated $276 million to Republican groups ahead of the 2026 midterms. His companies — Tesla, SpaceX — hold substantial contracts with the federal government, which those same Republicans help oversee. Legal experts note this is all technically permitted. The headline uses the phrase 'largest known donor.' Known. That word is in there for a reason, and the reason is that someone put it there on purpose."
     ],
     "riffJa": [
-      "DOJ（司法省）がホワイトハウスのテレビ取材カメラマン集団を独占禁止法で調査しています。シャーマン法という1890年代に鉄道王や石油トラストを解体するために作られた法律を、今使っている相手は「ホワイトハウスの記者会見を撮るカメラマンたち」。で、このプレスプールを作ったのは誰かというと、ホワイトハウス自身です。部屋に鍵をかけて、鍵を3本配って、「なんで3人しかいないんだ、独占じゃないか」と言っている。ロックフェラーが泣いています。",
-      "イリノイ州の大学が「学生の安全のため」と言って監視カメラを設置しました。数ヶ月後、そのカメラが移民税関捜査局（ICE）にデータを共有していることが判明。解約しようとしたら、カメラ会社に断られました。\n\n整理すると、安全のために入れたものが安全の脅威になって、やめようとしたらやめさせてもらえなかった。解約できないサブスクの最終形態が、ICEにつながっている監視カメラです。笑えない。いや、笑えるか。どっちかわからない。",
-      "トランプ大統領が「AI」を「スーパー・インテリジェンス」と呼び直す方針を打ち出したところ、シリコンバレーの有力者たちがそれに倣って新しい言葉を使い始めました。技術は何も変わっていません。名前だけ変わりました。先週まで「AIが世界を変える」と言っていた人たちが、今週は「スーパー・インテリジェンスが世界を変える」と言っています。プレゼン資料を全部刷り直した人のコスト、誰が払うんですかね。シリコンバレーが誰かに言語を教えてもらっている、という絵面、外から見るとなかなかです。",
-      "AIがコーディングを自動化したら、ソフトウェア開発者の求人が増えた。これだけ聞くとよかった話みたいですけど、増えているのは「上級職」と「AI専門職」だけで、エントリーレベルの採用は減っています。\n\n5年前に入口から入れた人だけが今も中にいて、入口はもうない。梯子を上り切ってから蹴り倒したやつと同じ構図です。「AIが雇用を奪う」って言われてたけど、実際に奪われたのは「最初の一歩」だけで、その上にある仕事はそのまま残っている。これ、奪われた側からするとどっちが良かったんですかね。",
-      "BJ'sとルルレモンが、商品ラインナップを意図的に減らす戦略を採用しました。売るものを絞る、それを「健全な成長への回帰」と呼んでいます。「ヨガパンツの種類が多すぎた」と誰かが真顔で言ったわけです。第37番のヨガパンツが廃盤になりました。売るものを減らして成長する。減らして、成長。私が先週コンビニでお菓子を買うのを我慢したのも、「意図的な消費集中戦略」でよかったのかもしれない。"
+      "「スーパーPACが広告費を出す」とトランプ大統領は言った。その後、政府が払った。同じ広告を。財布だけが違う、つまりあなたの財布。\n\nホワイトハウスはこれを「公共サービスのお知らせ」と呼んでいます。ガス漏れの避難指示と同じカテゴリーで。大統領の顔が出てくる広告が。スーパーPACは現在も元気にしているそうです。",
+      "共和党は長年「テックへの規制は政府の過剰介入だ」と言い続けてきた。テック企業は聞いていた。そして税金が安くて規制の少ない土地を選んで、データセンターを建てた。建設中の75%が共和党支持の強い州に集中している。\n\n地元住民は今、騒音と電力不足と水の使いすぎに怒っている。中間選挙の3週間前に。来いと言ったら来た。来た後のことは誰も考えてなかった。",
+      "土曜日に、430本。\n\n環境審査でも許可プロセスでもなく、土曜日に。ワシントンD.C.の連邦管理公園内のゴルフ場で。司法省が弁護士を送り込んで、裁判官に説明した。裁判官は満足しなかった。\n\n政府の土地の木を、政府が、政府のルールを無視して切り倒して、政府の弁護士が裁判官に怒られた。政府って、何？",
+      "エピックゲームズが「AIファースト」宣言。手書きコード禁止。AIを使わないアート禁止。\n\nこれを言ったのが、何年も前から開発中のマーベル×スターウォーズのシューターゲームがまだ出ていない会社です。AIに変えれば速くなると思っているらしい。AIも締め切りは守れるのかな。まだ誰も知らないんですよね。",
+      "イーロン・マスク氏が共和党系グループに2億7600万ドルを寄付した。個人で。一選挙サイクルで。\n\n彼の会社は連邦政府と巨額の契約を持っている。NASAとも、国防総省とも。その連邦政府の政策を決める議員を選ぶ選挙に、2億7600万ドルを投じている。法的には問題ないそうです。\n\nニュースは「最大の既知のドナー」と書いている。「既知の」。この二文字が一番気になります。"
     ],
     "asideEn": [
-      "Sherman Antitrust: for camera guys now.",
-      "The camera said no. The camera won.",
-      "Same product. New name. Pay the rebranding invoice.",
-      "They removed the ladder and called it progress.",
-      "Less stuff. More strategy. Same shelf."
+      "Public service, technically.",
+      "The market listened. That was the problem.",
+      "Four hundred and thirty trees. On a Saturday.",
+      "The delay remains. Now with AI.",
+      "The word 'known' is working overtime."
     ],
     "asideJa": [
-      "1890年の法律、2026年のカメラマンへ。",
-      "カメラに負けた大学。",
-      "技術は同じ。名前だけ変わった。",
-      "入口をなくして求人増加。",
-      "減らして、成長。らしい。"
+      "「公共サービス」、らしいです。",
+      "自由市場、正直すぎた。",
+      "土曜日に430本。誰も止めなかった。",
+      "AIにしても、遅延は遅延。",
+      "「既知の」、というのが全部です。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "Tech Industry",
-      "Justice Department",
-      "Lululemon"
+      "News Commentary",
+      "Elon Musk",
+      "Epic Games"
     ],
-    "fullEn": "# AI Is Now 'Super Intelligence.' Cameras Refused to Quit. Developers Are Hiring — Just Not You.\n\n## Today's Forecast\n\nSo here's today's theme, as best I can tell from my morning reading: the people in charge have discovered that if you rename a thing, you don't have to fix it.\n\nAI becomes 'super intelligence.' Selling less stuff becomes 'healthy growth.' A surveillance camera you can't cancel becomes... your problem. And a press pool you locked out of the building? Apparently that's an antitrust violation now.\n\nToday's five stories are all variations on the same trick. Watch for it.\n\nAnd here's your forecast: if you've been doing solid work under a boring title, today is quietly your day. The people rewriting the labels are exhausted. Boring and reliable is having a moment. You don't need to rename anything.\n\n---\n\n## 1. DOJ Investigates TV Networks for Covering White House — Using Antitrust Law\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html)*\n\nThe Justice Department announced it is investigating whether the White House television press pool violated the Sherman Antitrust Act. The move comes as the White House has escalated its fight over which outlets receive press access. Critics noted that antitrust law was designed to break up corporate monopolies, not regulate news organizations covering the presidency.\n\n**Why It's Funny**\n\nThe Justice Department opened an antitrust investigation into the White House television press pool. The Sherman Antitrust Act, for context, was written in 1890 to break up railroads and oil empires. It has now been pointed at the camera operator who films press briefings. The White House controls which outlets get access. The White House limited that access. The remaining reporters, who formed a pool because the White House told them to, are now allegedly a monopoly. You ever get accused of hoarding the keys to a room someone else locked?\n\n**Say It Out Loud**\n\n> The government locked the door, handed out three keys, and is now suing everyone for hoarding keys.\n\n---\n\n## 2. College Tried to Cancel Its Surveillance Camera Contract. The Cameras Said No.\n\n*The Verge — [source](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)*\n\nElgin Community College in Illinois installed six Flock Safety cameras in April 2025 to enhance campus security. By September, the administration grew concerned that Flock was sharing camera data with Customs and Border Protection, and that camera feeds were not being properly secured. When the college tried to cancel its contract, Flock refused to let them out of the agreement.\n\n**Why It's Funny**\n\nElgin Community College bought security cameras from a company called Flock Safety. Then they found out Flock was sharing footage with immigration enforcement. So the college tried to cancel. Flock said no. This is the actual situation: a school wanted to stop giving a vendor access to its campus, and the vendor declined. The cameras are still there. Still watching. The contract still has time on it. I've had gym memberships with more dignity.\n\n**Say It Out Loud**\n\n> The school tried to cancel. The camera said it needed 30 days notice, a written request, and frankly didn't feel like it.\n\n---\n\n## 3. Trump Rebrands AI as 'Super Intelligence.' Silicon Valley Is Nodding Along.\n\n*The Verge — [source](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)*\n\nPresident Trump announced plans to rebrand artificial intelligence as 'super intelligence.' While the general public has largely stuck with the term AI, some of Silicon Valley's most powerful figures have begun adopting the new terminology, falling in line with the administration's preferred language.\n\n**Why It's Funny**\n\nTrump announced he's rebranding artificial intelligence as 'super intelligence.' Silicon Valley, which spent the last decade insisting it was too sophisticated to follow anyone, immediately started using the new word. The technology is exactly the same. The capabilities haven't changed. What changed is that someone at a podium said a different noun and the most powerful people in tech reached for their keyboards to update their bios. The PowerPoint template did more work this week than most of us.\n\n**Say It Out Loud**\n\n> The technology didn't change. The PowerPoint template did. Progress.\n\n---\n\n## 4. AI Is Automating Coding. Software Developer Job Postings Are Going Up.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html)*\n\nSoftware developer job postings are rebounding even as AI automates more coding tasks. The increase is being led by senior-level and AI-focused roles, while entry-level hiring continues to weaken. Analysts note that companies appear to want fewer, more experienced developers who can work alongside AI tools rather than more junior staff.\n\n**Why It's Funny**\n\nAI is automating code. Software developer job postings are up. Great, right? Except all the new postings want senior engineers with five-plus years of experience. Entry-level? Down. So AI didn't eliminate the career — it eliminated the beginning of the career. It removed the first step and left the rest of the staircase floating there. Companies are now posting 'seeking experienced developer to supervise the AI we bought to replace experienced developers.' I'm not saying it's a trap. But I'm not not saying it.\n\n**Say It Out Loud**\n\n> Great news: there are more coding jobs than ever. Bad news: you needed to already have one five years ago.\n\n---\n\n## 5. Retailers Are Selling Less Stuff on Purpose. They Say It's Going Great.\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html)*\n\nRetail brands including BJ's and Lululemon are deliberately shrinking their product assortments. Companies say the move is designed to return to healthy growth, better curate offerings, and stabilize the business. Box stores are also culling products to create a more focused shopping experience.\n\n**Why It's Funny**\n\nBJ's and Lululemon announced they're selling fewer products on purpose. Less inventory, fewer SKUs, curated assortments. They're calling it a return to healthy growth. Someone in a boardroom said the words 'legging number 37 is underperforming' with a straight face and the whole room nodded. To be clear: the strategy is to have less stuff, sell less of it, and call that a win. My kitchen has been running this strategy for two weeks and I have not once described it as curation.\n\n**Say It Out Loud**\n\n> We had too much stuff, so we got rid of the stuff, and now we're calling it a strategy. Please hold for our Q3 earnings call.\n\n---\n\n## Today's Punchline\n\n> Today's five stories, one sentence: they changed the name, locked the door, refused the cancellation, removed the entry level, and called it all a strategy. You're not confused. The jar is just mislabeled.\n",
-    "fullJa": "# 「スーパー・インテリジェンス」に改名して、監視カメラに解約を断られた週の話\n\n## 今日を占うよ〜\n\n今日、一番最初に読んだ記事のタイトルを二度見しました。\n\nDOJ（司法省）が、ホワイトハウスの取材カメラマン集団を「独占禁止法違反」で調査。\n\n独占、禁止。カメラマンが。\n\n次を開くと、「AI」が「スーパー・インテリジェンス」に改名されていて、シリコンバレーの人たちが揃ってそっちの言葉を使い始めている。技術は何も変わっていない。名前だけ。\n\nで、その次は、解約しようとした監視カメラに「それはできません」と断られた大学の話。\n\n今日はそういう日です。名前と権限と契約が、全部ふつうと逆向きに動いてる。\n\n今日の占いです。\nあなたが「これって私が間違ってる？」と思っていることがあるとしたら、それはたぶんあなたのせいじゃない。カメラに解約を断られている大学があるくらいなので。今日は「おかしいと思った感覚」を信じていい。少なくとも今日は、その感覚のほうが現実に近い。\n\n---\n\n## 1. DOJ Investigates TV Networks for Covering White House — Using Antitrust Law\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/11/trump-doj-white-house-tv-press-pool-antitrust.html)）*\n\n司法省は、ホワイトハウスのテレビ記者団が独占禁止法（シャーマン法）に違反していないか調査していると発表した。ホワイトハウスが報道機関のアクセスを制限している問題が激化する中での動きだ。\n\n**どこが笑える？**\n\nDOJ（司法省）がホワイトハウスのテレビ取材カメラマン集団を独占禁止法で調査しています。シャーマン法という1890年代に鉄道王や石油トラストを解体するために作られた法律を、今使っている相手は「ホワイトハウスの記者会見を撮るカメラマンたち」。で、このプレスプールを作ったのは誰かというと、ホワイトハウス自身です。部屋に鍵をかけて、鍵を3本配って、「なんで3人しかいないんだ、独占じゃないか」と言っている。ロックフェラーが泣いています。\n\n**このニュースをジョークにするなら...**\n\n> 扉に鍵かけておいて、「鍵持ってる人が多すぎる、独占だ」って訴えるやつ。\n\n---\n\n## 2. College Tried to Cancel Its Surveillance Camera Contract. The Cameras Said No.\n\n*The Verge（[記事](https://www.theverge.com/tech/1009411/elgin-community-college-flock-safety-cameras)）*\n\nイリノイ州エルジン・コミュニティ・カレッジは、安全目的で導入したFlock社の監視カメラが移民税関捜査局（ICE）にデータを共有していると懸念し、契約解除を試みたが、Flockは解約を拒否した。\n\n**どこが笑える？**\n\nイリノイ州の大学が「学生の安全のため」と言って監視カメラを設置しました。数ヶ月後、そのカメラが移民税関捜査局（ICE）にデータを共有していることが判明。解約しようとしたら、カメラ会社に断られました。\n\n整理すると、安全のために入れたものが安全の脅威になって、やめようとしたらやめさせてもらえなかった。解約できないサブスクの最終形態が、ICEにつながっている監視カメラです。笑えない。いや、笑えるか。どっちかわからない。\n\n**このニュースをジョークにするなら...**\n\n> 学校が解約しようとしたら、カメラが「30日前通知と書面が必要で、あと気が向かない」と言った。\n\n---\n\n## 3. Trump Rebrands AI as 'Super Intelligence.' Silicon Valley Is Nodding Along.\n\n*The Verge（[記事](https://www.theverge.com/ai-artificial-intelligence/1009406/silicon-valley-is-falling-in-line-with-trumps-attempt-to-rename-ai)）*\n\nトランプ大統領が人工知能（AI）を「スーパー・インテリジェンス」と呼び替える方針を打ち出したところ、シリコンバレーの有力者たちがこぞって新しい呼称を使い始めている。\n\n**どこが笑える？**\n\nトランプ大統領が「AI」を「スーパー・インテリジェンス」と呼び直す方針を打ち出したところ、シリコンバレーの有力者たちがそれに倣って新しい言葉を使い始めました。技術は何も変わっていません。名前だけ変わりました。先週まで「AIが世界を変える」と言っていた人たちが、今週は「スーパー・インテリジェンスが世界を変える」と言っています。プレゼン資料を全部刷り直した人のコスト、誰が払うんですかね。シリコンバレーが誰かに言語を教えてもらっている、という絵面、外から見るとなかなかです。\n\n**このニュースをジョークにするなら...**\n\n> 技術は何も変わってない。パワーポイントのテンプレートが変わった。進歩です。\n\n---\n\n## 4. AI Is Automating Coding. Software Developer Job Postings Are Going Up.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/11/ai-software-developer-jobs.html)）*\n\nAIがコーディング業務を自動化する中、ソフトウェア開発者の求人数は逆に増加傾向にあることが明らかになった。ただし増えているのは上級職とAI専門職で、エントリーレベルの採用は弱含みだ。\n\n**どこが笑える？**\n\nAIがコーディングを自動化したら、ソフトウェア開発者の求人が増えた。これだけ聞くとよかった話みたいですけど、増えているのは「上級職」と「AI専門職」だけで、エントリーレベルの採用は減っています。\n\n5年前に入口から入れた人だけが今も中にいて、入口はもうない。梯子を上り切ってから蹴り倒したやつと同じ構図です。「AIが雇用を奪う」って言われてたけど、実際に奪われたのは「最初の一歩」だけで、その上にある仕事はそのまま残っている。これ、奪われた側からするとどっちが良かったんですかね。\n\n**このニュースをジョークにするなら...**\n\n> 朗報：コーディングの求人がかつてないほど増えています。悲報：5年前に入っておく必要がありました。\n\n---\n\n## 5. Retailers Are Selling Less Stuff on Purpose. They Say It's Going Great.\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/10/from-bjs-to-lululemon-retailers-are-trimming-assortments.html)）*\n\nBJ'sやルルレモンなど複数の小売ブランドが、品揃えを意図的に絞り込む戦略を採用。健全な成長への回帰と業績安定化を目指すと説明している。\n\n**どこが笑える？**\n\nBJ'sとルルレモンが、商品ラインナップを意図的に減らす戦略を採用しました。売るものを絞る、それを「健全な成長への回帰」と呼んでいます。「ヨガパンツの種類が多すぎた」と誰かが真顔で言ったわけです。第37番のヨガパンツが廃盤になりました。売るものを減らして成長する。減らして、成長。私が先週コンビニでお菓子を買うのを我慢したのも、「意図的な消費集中戦略」でよかったのかもしれない。\n\n**このニュースをジョークにするなら...**\n\n> 商品が多すぎたから減らして、それを「戦略」と呼んでいます。第3四半期の決算説明会でお待ちください。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 名前を変えて、扉に鍵かけて、解約を断って、入口をなくして、それを全部「戦略」と呼んでいる。あなたが混乱してるのは当然で、ラベルが間違ってるだけです。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "大半は合格水準。直した箇所は3点：①d3のcaption[1]に汎用パターン「Somewhere, an intern is…」が混入していたので構築されたジョークに書き直し（captionsJaも連動修正）。②introJaの占い部分が「〜いいよ」「〜はね」と急に優しい別人の声になり、ペルソナが揺れていたので直す。③xJa[0]が137字でオーバーしていたので135字以内に収める。 ／ 文体パス: 3箇所修正。quipJaの「あなたが混乱しているんじゃなくて、ラベルが間違ってるんです」は締めの畳みすぎ＋説明口調なので崩した。introJaの「今日はそういう日です。たぶん今日の5本を貫く糸は〜」ブロックがプレゼン口調だったので、riff見本の温度に合わせた。xJa[2]の末尾「プレゼン資料を全部刷り直した人のコストは誰が払うんでしょう」が丁寧すぎる疑問形なので崩した。"
+    "fullEn": "# The Week the Government Forgot What the Government Is For\n\n## Today's Forecast\n\nFive stories today. They don't look connected on the surface.\n\nThere's the pro-Trump ads that the government paid for after Trump said his super PAC would. There's the Republican states hosting 75% of new data centers while their own voters revolt. There's a golf course where someone cut down 430 trees on a Saturday and hoped no one would notice. And then there's a $276 million personal donation from a man who also has federal contracts.\n\nThe thread, if you squint: everyone's pointing left while walking right.\n\nFor your forecast — if you've ever said you'd do something and then... quietly done a different thing, today's news says you're in extremely good company. The gap between what powerful people announce and what they actually do has never been wider, which means your own small contradictions barely register. You're fine. Probably.\n\n---\n\n## 1. Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It\n\n*NPR News — [source](https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge)*\n\nThe U.S. government has spent nearly $22 million in taxpayer funds to air ads that the White House calls 'public service announcements' but critics describe as pro-Trump messaging. Almost half of that sum was spent after Trump publicly promised his super PAC would fund the ads instead. The discrepancy, reported by NPR, raises questions about whether campaign-style advertising is being underwritten by public money.\n\n**Why It's Funny**\n\nTrump said his super PAC would fund the ads. Then the government funded the ads. Same ads, different wallet — specifically, yours. The White House calls them 'public service announcements,' which is technically accurate: the public is being informed that its money is now elsewhere. The super PAC, for its part, is reportedly fine.\n\n**Say It Out Loud**\n\n> The super PAC was going to pay for the ads. Then the government paid for the ads. Same ads. The super PAC is doing great, though.\n\n---\n\n## 2. GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It\n\n*CBS News US — [source](https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/)*\n\nResearch from Cleanview Research shows that 75% of data centers currently under construction and 80% of those in the planning stage are located in predominantly Republican-leaning states. As public opposition to data centers grows — due to noise, water use, and power grid strain — the GOP finds itself in an awkward position ahead of the midterms, having broadly supported the tech industry while its own constituents push back.\n\n**Why It's Funny**\n\nRepublican lawmakers spent years telling their constituents that tech regulation was government overreach. The tech industry listened, picked states with cheap land and minimal rules, and started building. Now 75% of new data centers are in GOP states, and those states' voters are furious about the noise, the water bills, and the power grid strain. The free market showed up exactly when invited. Nobody planned for what happens after you open the door.\n\n**Say It Out Loud**\n\n> You offer cheap land, low taxes, and no regulations. The tech industry shows up. Turns out that was a transaction, not a compliment.\n\n---\n\n## 3. Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land\n\n*CBS News US — [source](https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/)*\n\nGovernment lawyers acknowledged that 430 trees were cut down at East Potomac Golf Links in Washington, D.C., on Saturday. The site is on federally managed park land. A judge chastised Department of Justice attorneys over the incident, raising questions about whether proper environmental review and legal procedures were followed before the trees were removed.\n\n**Why It's Funny**\n\nOn Saturday — not during a scheduled review, not at the end of a permitting process — 430 trees were removed from a federally managed golf course in Washington D.C. Government lawyers went to court to explain this. The judge asked questions. The lawyers answered them. The judge remained unsatisfied. It's a strange thing, watching the government send lawyers to defend the government cutting down the government's trees on the government's land without following the government's own rules. The trees are not available for comment.\n\n**Say It Out Loud**\n\n> The government cut down 430 trees on government land and sent government lawyers to say it was fine. The judge, also a government employee, said it wasn't.\n\n---\n\n## 4. Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art\n\n*Ars Technica — [source](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/)*\n\nEpic Games is reportedly pivoting to an 'AI first' game development model, according to sources familiar with the plans. The shift would mean eliminating hand-written code and art created without AI assistance — a significant departure for the studio behind Unreal Engine. The announcement comes as the company's long-delayed Marvel and Star Wars shooter project remains in development.\n\n**Why It's Funny**\n\nEpic Games is eliminating hand-written code and human-made art. The company that built Unreal Engine — the engine that powers roughly half the games you've played this decade — has decided the next step is to have AI write the code instead. This announcement came while their Marvel and Star Wars shooter, in development for several years, is still not finished. The pivot to AI will presumably be faster. Presumably.\n\n**Say It Out Loud**\n\n> Epic Games is going 'AI first.' Their delayed Marvel game is still delayed. Presumably the AI will also be delayed, but faster.\n\n---\n\n## 5. Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html)*\n\nElon Musk has donated $276 million to Republican groups ahead of the 2026 midterm elections, making him the single largest known donor in the cycle. The spending comes as Musk, CEO of Tesla and SpaceX, continues to rebuild his relationship with Trump and maintains significant financial ties to the federal government through contracts with NASA, the Department of Defense, and other agencies.\n\n**Why It's Funny**\n\nElon Musk donated $276 million to Republican groups ahead of the 2026 midterms. His companies — Tesla, SpaceX — hold substantial contracts with the federal government, which those same Republicans help oversee. Legal experts note this is all technically permitted. The headline uses the phrase 'largest known donor.' Known. That word is in there for a reason, and the reason is that someone put it there on purpose.\n\n**Say It Out Loud**\n\n> $276 million to Republican groups, from a man whose companies are paid by the Republican-led government. Totally separate things. Very separate.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: say your super PAC will pay, let the taxpayer pay, call it a public service, and donate $276 million to make sure no one changes the rules.\n",
+    "fullJa": "# 「スーパーPACが払う」と言った翌週に、税金で払っていた話\n\n## 今日を占うよ〜\n\n「スーパーPACが出す」。\nそう言った後に、税金で払っていた。\n\nそれだけでも今日は充分な一本なんですが、残り4本も全部そういう話でした。\n\n「規制より自由市場」を旗印にしてきた共和党の州が、テックの大型データセンターを誘致した結果、地元住民に怒られている。政府の土地で、政府の弁護士が説明しに行って、裁判官に怒られている。「AIファースト」を宣言したゲーム会社は、何年も遅延しているゲームの開発中に宣言した。そして連邦政府と巨額契約を持つ人物が、その政府の議員を選ぶ選挙に2億7600万ドルを寄付している。\n\nたぶん今日を貫く糸は、「言ったこととやったことがもう一致していない」ということです。\n\nということで、今日の占い。\nあなたが「言ったことと違う方向に進んでいる」と感じているとしたら、今日に限っては、それは全員そうです。大統領も、共和党も、ゲーム会社も、億万長者も。あなただけじゃない。少なくとも今日はね。\n\n---\n\n## 1. Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It\n\n*NPR News（[記事](https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge)）*\n\nトランプ大統領が「スーパーPACが負担する」と約束した後も、政府は親トランプ広告に約2200万ドルの税金を投じ続けていたことが明らかになった。\n\n**どこが笑える？**\n\n「スーパーPACが広告費を出す」とトランプ大統領は言った。その後、政府が払った。同じ広告を。財布だけが違う、つまりあなたの財布。\n\nホワイトハウスはこれを「公共サービスのお知らせ」と呼んでいます。ガス漏れの避難指示と同じカテゴリーで。大統領の顔が出てくる広告が。スーパーPACは現在も元気にしているそうです。\n\n**このニュースをジョークにするなら...**\n\n> スーパーPACが広告費を出す、と言った。その後、政府が出した。同じ広告。スーパーPACは絶好調らしいです。\n\n---\n\n## 2. GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It\n\n*CBS News US（[記事](https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/)）*\n\n調査によると、建設中のデータセンターの75%、計画段階の80%が共和党支持の強い州に集中しており、地域住民の反発が党の中間選挙戦略に影響を与えている。\n\n**どこが笑える？**\n\n共和党は長年「テックへの規制は政府の過剰介入だ」と言い続けてきた。テック企業は聞いていた。そして税金が安くて規制の少ない土地を選んで、データセンターを建てた。建設中の75%が共和党支持の強い州に集中している。\n\n地元住民は今、騒音と電力不足と水の使いすぎに怒っている。中間選挙の3週間前に。来いと言ったら来た。来た後のことは誰も考えてなかった。\n\n**このニュースをジョークにするなら...**\n\n> 安い土地と低税率と規制なしを提供した。テック業界がやってきた。あれは取引だったんですよ、褒め言葉じゃなくて。\n\n---\n\n## 3. Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land\n\n*CBS News US（[記事](https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/)）*\n\nワシントンD.C.の連邦管理ゴルフ場で430本の木が伐採され、裁判官が司法省を叱責した。当該ゴルフ場は連邦所有地にある。\n\n**どこが笑える？**\n\n土曜日に、430本。\n\n環境審査でも許可プロセスでもなく、土曜日に。ワシントンD.C.の連邦管理公園内のゴルフ場で。司法省が弁護士を送り込んで、裁判官に説明した。裁判官は満足しなかった。\n\n政府の土地の木を、政府が、政府のルールを無視して切り倒して、政府の弁護士が裁判官に怒られた。政府って、何？\n\n**このニュースをジョークにするなら...**\n\n> 政府が政府の土地の木を430本切り倒して、政府の弁護士が「問題ない」と言いに行った。同じく政府に雇われた裁判官は、問題あると言いました。\n\n---\n\n## 4. Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art\n\n*Ars Technica（[記事](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/)）*\n\nエピックゲームズが「AIファースト」の開発モデルへの転換を検討していると報じられ、手書きコードとAIを使わないアートの廃止が示唆された。\n\n**どこが笑える？**\n\nエピックゲームズが「AIファースト」宣言。手書きコード禁止。AIを使わないアート禁止。\n\nこれを言ったのが、何年も前から開発中のマーベル×スターウォーズのシューターゲームがまだ出ていない会社です。AIに変えれば速くなると思っているらしい。AIも締め切りは守れるのかな。まだ誰も知らないんですよね。\n\n**このニュースをジョークにするなら...**\n\n> エピックゲームズが「AIファースト」に移行します。遅延中のマーベルゲームはまだ遅延中。たぶんAIも遅延しますが、速く遅延します。\n\n---\n\n## 5. Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html)）*\n\nイーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを寄付し、最大の既知の中間選挙ドナーとなった。同氏は連邦政府との取引関係も持つ。\n\n**どこが笑える？**\n\nイーロン・マスク氏が共和党系グループに2億7600万ドルを寄付した。個人で。一選挙サイクルで。\n\n彼の会社は連邦政府と巨額の契約を持っている。NASAとも、国防総省とも。その連邦政府の政策を決める議員を選ぶ選挙に、2億7600万ドルを投じている。法的には問題ないそうです。\n\nニュースは「最大の既知のドナー」と書いている。「既知の」。この二文字が一番気になります。\n\n**このニュースをジョークにするなら...**\n\n> 共和党率いる政府から仕事をもらってる人物が、共和党に2億7600万ドルを寄付した。完全に別の話ですよ。とても別の話。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「スーパーPACが出す」「市場に任せる」「問題ない」「献金です」。全部、同じ話でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3のimagePromptsに「judge leans forward with a stern expression」という顔つきの描写が残っていたため修正。d4のcaption4「Bold pivot. Very bold.」は汎用の感嘆型で構造が薄いため書き直し。d5のcaption4「Nothing says reconnection like $276 million」が禁止フレーズパターンに該当するため書き直し。xJa1本目が140字を超えているため削る。その他は合格。 ／ 文体パス: 3箇所直した。代表例：riffJa[2]末尾「政府って何なんだ、という気持ちになります」→「政府って、何？」に切り落とし。他にriffJa[1]の締めとriffJa[3]の末尾をそれぞれ崩した。"
   },
   "carousel": [
-    "images/2026-10-12/carousel/slide-1.jpg",
-    "images/2026-10-12/carousel/slide-2.jpg",
-    "images/2026-10-12/carousel/slide-3.jpg",
-    "images/2026-10-12/carousel/slide-4.jpg",
-    "images/2026-10-12/carousel/slide-5.jpg",
-    "images/2026-10-12/carousel/slide-6.jpg",
-    "images/2026-10-12/carousel/slide-7.jpg"
+    "images/2026-10-13/carousel/slide-1.jpg",
+    "images/2026-10-13/carousel/slide-2.jpg",
+    "images/2026-10-13/carousel/slide-3.jpg",
+    "images/2026-10-13/carousel/slide-4.jpg",
+    "images/2026-10-13/carousel/slide-5.jpg",
+    "images/2026-10-13/carousel/slide-6.jpg",
+    "images/2026-10-13/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-10-12/note-header.jpg",
-    "substack": "images/2026-10-12/substack-cover.jpg"
+    "note": "images/2026-10-13/note-header.jpg",
+    "substack": "images/2026-10-13/substack-cover.jpg"
   }
 };

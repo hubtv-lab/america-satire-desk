@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "date": "2026-10-13",
+  "generatedAt": "2026-10-13T01:24:18+00:00",
+  "source": "auto (rss + claude)",
+  "candidates": [
+    {
+      "id": "d1",
+      "sensitive": false,
+      "news": {
+        "headline": "Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It",
+        "source": "NPR News",
+        "date": "2026-10-13",
+        "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
+        "summary": "トランプ大統領が「スーパーPACが負担する」と約束した後も、政府は親トランプ広告に約2200万ドルの税金を投じ続けていたことが明らかになった。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 「スーパーPACが出す」と言ったその後に税金で払ってるんですよ。約束を守らなかったのか、それとも最初から守るつもりがなかったのか、どっちにしても同じ結果なんですけどね。",
+        "<b>滑稽さ:</b> 「公共サービスのお知らせ」と呼んでるんですよ。大統領の顔が出てくる広告が。ガス漏れの避難指示と同じカテゴリーで。",
+        "<b>日本・海外から見ると:</b> 政府広告に「これは政治的中立です」と書いてある国はどこにでもありますけど、払ってるのが候補者本人の政府っていうのは、なかなかの荒技じゃないですか。"
+      ],
+      "imagePrompts": [
+        "A giant government check made out to 'Public Service Announcements' with a TV screen in the background playing a clearly political ad, a super PAC logo gathering dust in the corner",
+        "A podium with two signs: one reading 'Super PAC Will Pay' crossed out, the other reading 'Taxpayers Will Pay' with a fresh checkmark, stacks of cash visible on the desk",
+        "A television set labeled 'Public Service Announcement' displaying a campaign-style graphic, surrounded by official government seals and stacks of federal budget documents"
+      ],
+      "captions": [
+        "The super PAC was going to pay for the ads. Then the government paid for the ads. Same ads. The super PAC is doing great, though.",
+        "It's a public service announcement — the public is being announced to that their money is gone.",
+        "Twenty-two million dollars in taxpayer-funded ads described as 'non-political.' The non-political part cost extra.",
+        "He promised the super PAC would cover it. They didn't. Washington called that a rounding error. The $11 million rounding error.",
+        "You ever buy something, promise your friend will pay you back, and then just... not mention it again? Same energy. Higher budget."
+      ],
+      "captionsJa": [
+        "スーパーPACが広告費を出す、と言った。その後、政府が出した。同じ広告。スーパーPACは絶好調らしいです。",
+        "「公共サービスのお知らせ」です。公共へのお知らせは、あなたのお金がなくなったということです。",
+        "2200万ドルの税金を使った広告が「非政治的」と定義されてるんですよ。その非政治的な部分、わりと高かったですね。",
+        "スーパーPACが払うと約束した。払わなかった。ワシントンはそれを「誤差の範囲」と呼んでいます。1100万ドルの誤差です。",
+        "友達に「後で払ってもらう」って言って、そのまま黙ってたことないですか？あれと同じ話ですよ。予算だけ桁が違う。"
+      ],
+      "newsEn": "The U.S. government has spent nearly $22 million in taxpayer funds to air ads that the White House calls 'public service announcements' but critics describe as pro-Trump messaging. Almost half of that sum was spent after Trump publicly promised his super PAC would fund the ads instead. The discrepancy, reported by NPR, raises questions about whether campaign-style advertising is being underwritten by public money.",
+      "ironyEn": [
+        {
+          "contradiction": "Trump announced his super PAC would foot the bill for the ads — and then the government kept paying anyway, as if the promise was itself a public service announcement.",
+          "absurdity": "The White House is calling these 'public service announcements.' The public being served, apparently, is one specific person running the White House.",
+          "outside": "Most countries have rules separating government communications from campaign ads. The U.S. has those rules too — the ads just come with a different label."
+        },
+        {
+          "contradiction": "A president who campaigned on cutting government spending found $22 million in taxpayer cash for ads featuring himself.",
+          "absurdity": "Half the spending happened *after* the promise to stop. That's not a policy reversal — that's a sequel nobody asked for.",
+          "outside": "From outside, the math is pretty simple: private money promised, public money spent, same ads aired. The only thing that changed was who got the receipt."
+        }
+      ],
+      "imageSeed": 1,
+      "image": "images/2026-10-13/candidate-1.jpg",
+      "imageStyle": "anime-digital",
+      "imagePunchy": "images/2026-10-13/candidate-1-punchy.jpg"
+    },
+    {
+      "id": "d2",
+      "sensitive": false,
+      "news": {
+        "headline": "GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It",
+        "source": "CBS News US",
+        "date": "2026-10-13",
+        "url": "https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/",
+        "summary": "調査によると、建設中のデータセンターの75%、計画段階の80%が共和党支持の強い州に集中しており、地域住民の反発が党の中間選挙戦略に影響を与えている。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> テックビッグに規制をかけるなと言い続けてきた共和党が、そのテックビッグのデータセンターを自分の州の裏庭に誘致して、地元有権者に怒られてるんですよ。",
+        "<b>滑稽さ:</b> データセンターって要するに巨大な騒音と電力消費の塊なんですけど、「雇用を生む」という建前でどんどん建てた結果、選挙前に地元が反乱を起こした。",
+        "<b>日本・海外から見ると:</b> 「企業規制より自由市場を」という旗を掲げてきた政党が、企業の立地選択のせいで自分の票田を失いかけてるというのは、市場原理の皮肉な授業ですよね。"
+      ],
+      "imagePrompts": [
+        "A massive industrial data center building in a flat rural landscape, a 'Welcome to GOP Country' road sign nearby, a crowd of residents with protest signs in the foreground",
+        "A Republican politician shaking hands with a tech executive in front of a giant server farm, while behind them local farmers hold signs reading 'Too Loud' and 'Our Power Bill'",
+        "An electoral map of the US where data center icons cluster densely over red states, a thought bubble above a politician reading 'Wait, that wasn't the plan'"
+      ],
+      "captions": [
+        "You offer cheap land, low taxes, and no regulations. The tech industry shows up. Turns out that was a transaction, not a compliment.",
+        "75% of new data centers are in GOP states. The free market found them. They did not enjoy being found.",
+        "The data centers wanted cheap real estate and light regulation. Red states said 'absolutely.' And now everyone's getting exactly what they agreed to.",
+        "Local Republican voter in 2022: 'Keep government out of business.' Local Republican voter in 2026: 'Why is there a server farm next to my church?'",
+        "The party of deregulation deregulated so well that 80% of planned data centers picked their states. This is going great."
+      ],
+      "captionsJa": [
+        "安い土地と低税率と規制なしを提供した。テック業界がやってきた。あれは取引だったんですよ、褒め言葉じゃなくて。",
+        "新しいデータセンターの75%が共和党支持州にある。自由市場が彼らを見つけた。彼らは見つかるのが嬉しくなかった。",
+        "データセンターは安い土地と緩い規制が欲しかった。赤い州は「どうぞ」と言った。今、みんなが約束通りのものを手に入れてます。",
+        "2022年の共和党支持者：「政府はビジネスに口出しするな。」2026年の共和党支持者：「なんで教会の隣にサーバーが並んでるんだ。」",
+        "規制緩和を掲げた党が規制を緩めた結果、計画中のデータセンターの80%が自分たちの州を選んだ。順調ですよ、これ。"
+      ],
+      "newsEn": "Research from Cleanview Research shows that 75% of data centers currently under construction and 80% of those in the planning stage are located in predominantly Republican-leaning states. As public opposition to data centers grows — due to noise, water use, and power grid strain — the GOP finds itself in an awkward position ahead of the midterms, having broadly supported the tech industry while its own constituents push back.",
+      "ironyEn": [
+        {
+          "contradiction": "The party that spent years blocking tech regulation is now watching those same unregulated tech companies park giant, humming, water-guzzling server farms in their voters' backyards.",
+          "absurdity": "Eighty percent of planned data centers are going into GOP territory. The free market has spoken, and it said: 'Your county. Not ours.'",
+          "outside": "Deregulation as a political platform works great until the deregulated industry picks your zip code."
+        },
+        {
+          "contradiction": "GOP lawmakers championed the data center boom nationally, and now they're fielding angry calls from constituents who can hear the cooling fans from their porches.",
+          "absurdity": "The data centers need cheap land, loose regulations, and low taxes — all things red states advertised. The pitch worked perfectly. That's the problem.",
+          "outside": "It's a classic case of the incentives you offer being exactly the incentives that show up."
+        }
+      ],
+      "imageSeed": 2,
+      "image": "images/2026-10-13/candidate-2.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-13/candidate-2-punchy.jpg"
+    },
+    {
+      "id": "d3",
+      "sensitive": false,
+      "news": {
+        "headline": "Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land",
+        "source": "CBS News US",
+        "date": "2026-10-13",
+        "url": "https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/",
+        "summary": "ワシントンD.C.の連邦管理ゴルフ場で430本の木が伐採され、裁判官が司法省を叱責した。当該ゴルフ場は連邦所有地にある。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 連邦所有の公園内のゴルフ場で430本の木を切って、司法省が法廷で叱られてるんですよ。政府が政府の土地で法律を守れなかったというのは、なかなかの自己矛盾じゃないですか。",
+        "<b>滑稽さ:</b> 430本ですよ、430本。何本か伐採したとかじゃなくて、400を超えてる。誰かが気づく前に終わらせようとしたとしか思えない。",
+        "<b>日本・海外から見ると:</b> 環境保護規制を「過剰な政府介入」と批判してきた側が、政府の土地で規制を無視して木を切り倒して裁判官に怒られる、というのはシンプルにわかりやすい話ですね。"
+      ],
+      "imagePrompts": [
+        "A golf course fairway with 430 numbered stumps where trees used to be, a judge's gavel visible in the foreground, official DOJ briefcases on a bench nearby",
+        "A government lawyer at a courtroom podium with a chart showing '430 trees removed,' a 'Federal Land' sign visible through the courtroom window, the judge's bench looming above",
+        "An aerial view of a D.C. park golf course with a large cleared area of stumps, surrounded by remaining trees, a federal government seal on a nearby building"
+      ],
+      "captions": [
+        "The government cut down 430 trees on government land and sent government lawyers to say it was fine. The judge, also a government employee, said it wasn't.",
+        "Four hundred and thirty trees, gone on a Saturday. Not a Tuesday, not a phased environmental review — a Saturday.",
+        "It's a public golf course on public land with public trees. Everything about this was public except the decision to do it.",
+        "The DOJ had a lot of explanations for why 430 trees needed to come down. The judge had one question: 'Did anyone ask first?'",
+        "You know you've had a rough week when your own lawyers get scolded for what happened on your own land."
+      ],
+      "captionsJa": [
+        "政府が政府の土地の木を430本切り倒して、政府の弁護士が「問題ない」と言いに行った。同じく政府に雇われた裁判官は、問題あると言いました。",
+        "430本ですよ、土曜日に。火曜日でも段階的な環境審査でもなく、土曜日に。",
+        "公共のゴルフ場、公共の土地、公共の木。決定以外は全部公共でした。",
+        "司法省はなぜ430本の木が必要だったか説明した。裁判官の質問はひとつ。「誰かに許可を取りましたか？」",
+        "自分の土地でやったことで自分の弁護士が叱られるというのは、なかなかの週の終わり方ですよ。"
+      ],
+      "newsEn": "Government lawyers acknowledged that 430 trees were cut down at East Potomac Golf Links in Washington, D.C., on Saturday. The site is on federally managed park land. A judge chastised Department of Justice attorneys over the incident, raising questions about whether proper environmental review and legal procedures were followed before the trees were removed.",
+      "ironyEn": [
+        {
+          "contradiction": "The federal government cut down 430 trees on federal land, then sent its own lawyers to explain why that was fine. The judge disagreed.",
+          "absurdity": "Four hundred and thirty trees — on a Saturday. That's not a landscaping decision. That's a project with a deadline.",
+          "outside": "In most countries, clearing protected parkland requires permits, reviews, and approvals. The DOJ apparently thought the paperwork was optional."
+        },
+        {
+          "contradiction": "The administration that frames environmental rules as bureaucratic overreach ran into a judge enforcing those exact rules — on the government's own property.",
+          "absurdity": "East Potomac Golf Links is a public park. The trees were public. The land was public. The only thing missing was a public process.",
+          "outside": "A government lawyer standing in court explaining why 430 trees are gone is a specific kind of Tuesday nobody planned for."
+        }
+      ],
+      "imageSeed": 3,
+      "image": "images/2026-10-13/candidate-3.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-13/candidate-3-punchy.jpg"
+    },
+    {
+      "id": "d4",
+      "sensitive": false,
+      "news": {
+        "headline": "Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art",
+        "source": "Ars Technica",
+        "date": "2026-10-13",
+        "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
+        "summary": "エピックゲームズが「AIファースト」の開発モデルへの転換を検討していると報じられ、手書きコードとAIを使わないアートの廃止が示唆された。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> ゲームエンジン業界の象徴とも言える会社が「人間が書いたコードはもうやめる」と言い出したんですよ。フォートナイトを作ったエンジンを、次のゲームはAIが書く、ということらしい。",
+        "<b>滑稽さ:</b> 「手書きコード禁止」の宣言を出したのが、何年も遅延してるマーベル×スターウォーズのゲームを作ってる会社なんですよ。AIに変えれば速くなると思っているようで。",
+        "<b>日本・海外から見ると:</b> 日本のゲーム会社は「職人性」をブランドにしてる会社が多いけど、アメリカのスタジオがAIに全振りした時、そのギャップが市場でどう出るかは正直面白い実験ですよね。"
+      ],
+      "imagePrompts": [
+        "A large game studio office where all the desks are empty except for glowing AI terminal screens, a whiteboard on the wall reading 'No Hand-Written Code' with an Unreal Engine logo in the background",
+        "A 'Help Wanted' sign outside a game studio with all job titles crossed out and replaced with 'AI Prompt Engineer', a stack of rejected artist portfolios on the doorstep",
+        "A developer staring at a screen showing AI-generated game art next to the classic Unreal Engine interface, a calendar on the wall with 'STILL DELAYED' stamped across multiple years"
+      ],
+      "captions": [
+        "Epic Games is going 'AI first.' Their delayed Marvel game is still delayed. Presumably the AI will also be delayed, but faster.",
+        "No more hand-written code at the company that wrote the engine half the game industry runs on. The engine will outlast the decision.",
+        "The Marvel and Star Wars game has been in development for years. Adding AI to the mix — can't see how that gets complicated.",
+        "Epic built Unreal Engine with human engineers. Their plan is to replace that process with AI. The engine will remain, presumably feeling weird about it.",
+        "Game studios say players want fresh, creative experiences. Their solution is to remove the humans making fresh, creative decisions. Interesting approach."
+      ],
+      "captionsJa": [
+        "エピックゲームズが「AIファースト」に移行します。遅延中のマーベルゲームはまだ遅延中。たぶんAIも遅延しますが、速く遅延します。",
+        "ゲーム業界の半分が使ってるエンジンを人間が書いた会社が、手書きコード禁止を宣言した。エンジンはその決定より長生きするだろう。",
+        "マーベル×スターウォーズのゲームは何年も開発中。そこにAIを加えましょう、ということで。どうなるか見当がつかない。",
+        "エピックはアンリアルエンジンを人間のエンジニアで作った。その工程をAIに置き換える計画です。エンジン自体は残りますが、複雑な気持ちでいるはずです。",
+        "プレイヤーは「新鮮で創造的な体験」を求めてると言うんですけど、その体験を作る人間の判断をなくすことが解決策らしい。なるほど。"
+      ],
+      "newsEn": "Epic Games is reportedly pivoting to an 'AI first' game development model, according to sources familiar with the plans. The shift would mean eliminating hand-written code and art created without AI assistance — a significant departure for the studio behind Unreal Engine. The announcement comes as the company's long-delayed Marvel and Star Wars shooter project remains in development.",
+      "ironyEn": [
+        {
+          "contradiction": "Epic Games, which built one of the most widely used game development engines in the world through human engineering, is now telling its engineers that human-written code is the problem.",
+          "absurdity": "The company's long-delayed Marvel and Star Wars game still isn't out. The proposed solution: fire the process that built Unreal Engine and replace it with one that hasn't shipped anything yet.",
+          "outside": "Game studios worldwide license Unreal Engine because it represents decades of expert human craft. Epic's pitch is now: 'What if we stopped doing that?'"
+        },
+        {
+          "contradiction": "No hand-written code, no human art — announced by a company whose entire reputation was built on exactly those things.",
+          "absurdity": "The delayed Marvel/Star Wars game keeps not shipping. Adding AI presumably means it will not ship faster, now with AI.",
+          "outside": "Players already complain that games feel generic. The solution being proposed is to make the development process more generic."
+        }
+      ],
+      "imageSeed": 4,
+      "image": "images/2026-10-13/candidate-4.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-13/candidate-4-punchy.jpg"
+    },
+    {
+      "id": "d5",
+      "sensitive": false,
+      "news": {
+        "headline": "Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor",
+        "source": "CNBC Top News",
+        "date": "2026-10-13",
+        "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
+        "summary": "イーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを寄付し、最大の既知の中間選挙ドナーとなった。同氏は連邦政府との取引関係も持つ。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 連邦政府と巨額の契約を持つ人物が、その政府の政策を決める議員を選ぶ選挙に2億7600万ドルを突っ込んでいる。利益相反という言葉が頭をよぎりますが、法的には問題ないと言われてるんですよね。",
+        "<b>滑稽さ:</b> 「最大の既知のドナー」という表現、気になりませんか。既知の、ですよ。どういう意味かわかりますよね。",
+        "<b>日本・海外から見ると:</b> 政治献金の規模とルールはアメリカが独特なんですけど、2億7600万ドルって、日本の中堅企業の年間売上くらいある。個人献金の話ですよ、これ。"
+      ],
+      "imagePrompts": [
+        "An enormous novelty check made out to 'Republican Groups' for $276,000,000 being handed over, government contract folders visible in the background on a desk",
+        "A donor leaderboard scoreboard with one name at the top by a massive margin, second place barely visible at the bottom, a 'Midterm Elections 2026' banner overhead",
+        "A Venn diagram on a whiteboard: one circle labeled 'Federal Contractors,' another labeled 'Biggest Political Donors,' the overlap section very large and shaded"
+      ],
+      "captions": [
+        "$276 million to Republican groups, from a man whose companies are paid by the Republican-led government. Totally separate things. Very separate.",
+        "He's the biggest 'known' donor. The word 'known' is in the headline for a reason, and the reason is interesting.",
+        "Two hundred and seventy-six million dollars. In one election. As a personal donation. And we're still calling it a donation.",
+        "Musk is 'rebuilding his relationship with Trump' while his companies hold federal contracts. He expressed that with $276 million. Trump got the message.",
+        "The largest known midterm donor also has the largest known financial relationship with the government the midterms will decide. Coincidence is a funny word."
+      ],
+      "captionsJa": [
+        "共和党率いる政府から仕事をもらってる人物が、共和党に2億7600万ドルを寄付した。完全に別の話ですよ。とても別の話。",
+        "「既知の」最大ドナー。見出しにわざわざ「既知の」がついてる理由、考えてみてください。",
+        "2億7600万ドル。一回の選挙で。個人の寄付として。それでも「寄付」と呼んでいます。",
+        "マスク氏はトランプ大統領との「関係を再構築中」で、その政府と連邦契約を持っている。2億7600万ドルで意思を伝えた。届いたと思います。",
+        "中間選挙で決まる政府と最大規模の取引関係にある人物が、その選挙の最大の寄付者でもある。偶然というのは面白い言葉ですよね。"
+      ],
+      "newsEn": "Elon Musk has donated $276 million to Republican groups ahead of the 2026 midterm elections, making him the single largest known donor in the cycle. The spending comes as Musk, CEO of Tesla and SpaceX, continues to rebuild his relationship with Trump and maintains significant financial ties to the federal government through contracts with NASA, the Department of Defense, and other agencies.",
+      "ironyEn": [
+        {
+          "contradiction": "The world's richest man, whose companies hold billions in federal contracts, donated $276 million to influence who controls the federal government. The word 'donor' is doing a lot of work in that sentence.",
+          "absurdity": "He's called the 'biggest known' midterm donor. The 'known' part is really doing some heavy lifting there.",
+          "outside": "Most countries have donation caps or full public disclosure requirements. The U.S. has the disclosure. The cap is apparently optional."
+        },
+        {
+          "contradiction": "SpaceX and Tesla have significant government contracts. The CEO of both companies just wrote the biggest known check in the midterm cycle. The relationship is described as being 'rebuilt.'",
+          "absurdity": "Two hundred and seventy-six million dollars is the amount one person decided was a reasonable political contribution. For context, that's more than the GDP of some small nations — in one election cycle.",
+          "outside": "Foreign observers trying to explain American campaign finance to their audiences usually start with 'it's complicated' and end with 'yes, that number is real.'"
+        }
+      ],
+      "imageSeed": 5,
+      "image": "images/2026-10-13/candidate-5.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-10-13/candidate-5-punchy.jpg"
+    }
+  ],
+  "editorial": {
+    "thread": "今日の5本は全部「片方の手でやったことを、もう片方の手でなかったことにしている」話。約束した後に税金で払う、自由市場を旗印にして地元住民に怒られる、政府の土地で政府が法律を破る、AIで速くなると言いながら遅延中、政府の契約先が政府の選挙に2億7600万ドル。",
+    "titleEn": "The Week the Government Forgot What the Government Is For",
+    "subtitleEn": "Five stories, one pattern: saying one thing, paying for another.",
+    "titleJa": "「スーパーPACが払う」と言った翌週に、税金で払っていた話",
+    "titleAltJa": [
+      "2億7600万ドルを個人で寄付して、それでも「献金」と呼ばれている",
+      "430本の木を切り倒して裁判官に怒られるまで、誰も止めなかった話"
+    ],
+    "leadJa": "「スーパーPACが出す」と言った後に税金で払う。「規制より自由市場」と言い続けた州が、自分の裏庭のデータセンターに怒る。政府の土地で、政府が、法律を守れなかった。\n\n今日はそういう日です。",
+    "introEn": "Five stories today. They don't look connected on the surface.\n\nThere's the pro-Trump ads that the government paid for after Trump said his super PAC would. There's the Republican states hosting 75% of new data centers while their own voters revolt. There's a golf course where someone cut down 430 trees on a Saturday and hoped no one would notice. And then there's a $276 million personal donation from a man who also has federal contracts.\n\nThe thread, if you squint: everyone's pointing left while walking right.\n\nFor your forecast — if you've ever said you'd do something and then... quietly done a different thing, today's news says you're in extremely good company. The gap between what powerful people announce and what they actually do has never been wider, which means your own small contradictions barely register. You're fine. Probably.",
+    "introJa": "「スーパーPACが出す」。\nそう言った後に、税金で払っていた。\n\nそれだけでも今日は充分な一本なんですが、残り4本も全部そういう話でした。\n\n「規制より自由市場」を旗印にしてきた共和党の州が、テックの大型データセンターを誘致した結果、地元住民に怒られている。政府の土地で、政府の弁護士が説明しに行って、裁判官に怒られている。「AIファースト」を宣言したゲーム会社は、何年も遅延しているゲームの開発中に宣言した。そして連邦政府と巨額契約を持つ人物が、その政府の議員を選ぶ選挙に2億7600万ドルを寄付している。\n\nたぶん今日を貫く糸は、「言ったこととやったことがもう一致していない」ということです。\n\nということで、今日の占い。\nあなたが「言ったことと違う方向に進んでいる」と感じているとしたら、今日に限っては、それは全員そうです。大統領も、共和党も、ゲーム会社も、億万長者も。あなただけじゃない。少なくとも今日はね。",
+    "quipEn": "Today's lesson: say your super PAC will pay, let the taxpayer pay, call it a public service, and donate $276 million to make sure no one changes the rules.",
+    "quipJa": "「スーパーPACが出す」「市場に任せる」「問題ない」「献金です」。全部、同じ話でした。",
+    "notesEn": [
+      "The U.S. government spent nearly $22 million on pro-Trump ads. Almost half of that came after Trump publicly said his super PAC would cover the cost. The ads are classified as public service announcements. The public's service was paying for them.",
+      "75% of new data centers are being built in Republican-leaning states. The GOP spent years opposing tech regulation. The tech industry said thanks, picked the cheapest land with the fewest rules, and showed up. Now those same states have noise complaints, power shortages, and angry voters three weeks before midterms.",
+      "On a Saturday, someone cut down 430 trees at a federally managed golf course in Washington D.C. Government lawyers had to explain this to a judge. The judge was not satisfied with the explanation. Four hundred and thirty trees, on a Saturday.",
+      "Epic Games is going 'AI first' — no more hand-written code, no more art made without AI. This was announced while their Marvel and Star Wars game, which has been in development for years, is still not finished. The AI pivot will presumably also take a while.",
+      "Elon Musk donated $276 million to Republican groups ahead of the 2026 midterms — the largest known donation in this cycle. His companies hold significant contracts with the federal government. The word 'known' is doing a lot of work in that sentence."
+    ],
+    "xJa": [
+      "「スーパーPACが広告費を出す」とトランプ大統領が宣言した後、政府は税金で親トランプ広告を流し続けた。総額2200万ドル。名目は「公共サービスのお知らせ」。公共は知らされていなかった。",
+      "建設中のデータセンターの75%が共和党支持の強い州にある。「規制より自由市場」を掲げてきた結果、テックが来て、騒音と電力不足が来て、中間選挙直前に地元住民が怒っている。市場原理は正直だ。",
+      "ワシントンD.C.の連邦管理ゴルフ場で、土曜日に430本の木が伐採された。司法省が裁判官に説明した。裁判官は納得しなかった。土曜日に430本。",
+      "エピックゲームズが「AIファースト」宣言。手書きコード禁止、AIなしのアート禁止。何年も遅延しているマーベル×スターウォーズのゲームが開発中のタイミングで。AIにすれば速くなると思っているらしい。",
+      "イーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを個人で寄付。彼の会社は連邦政府と巨額契約を持つ。ニュースは「最大の既知のドナー」と書いている。「既知の」という部分が気になる。"
+    ],
+    "raidEn": [
+      "The 'public service announcement' label is really pulling some weight here. Most PSAs warn you about fire exits. This one just... features the president.",
+      "The free market working exactly as advertised — it found the cheapest real estate, moved in, and now everyone's surprised the free market showed up.",
+      "430 trees on a Saturday. Not a phased plan, not an environmental review. A Saturday.",
+      "The delayed game getting an AI pivot is very funny. The AI will probably also need an extension.",
+      "The 'known' in 'largest known donor' is genuinely the most interesting word in that sentence."
+    ],
+    "raidJa": [
+      "「公共サービスのお知らせ」というカテゴリー、ガス漏れ警報と同じ枠に大統領が出てくるの、なかなかですよね。丁寧に読むと笑えてくる記事でした。",
+      "「企業規制より自由市場を」という旗を20年掲げた結果がこれ、というのがシンプルすぎて逆に面白い。市場原理は正直ですね、という話でした。",
+      "430本というのが気になって読みました。1本でも2本でもなく430本、しかも土曜日に。誰かが気づく前に終わらせようとした感じがしますよね。",
+      "遅延しているゲームをAIで立て直す、という発想自体は面白いんですが、AIも締め切りを守るかどうかはまだ未検証ですよね。続きが気になる話でした。",
+      "「既知の」という一言がめちゃくちゃ効いていますよね。記者がわかっていて書いている気がして、そこが一番好きでした。"
+    ],
+    "riffEn": [
+      "Trump said his super PAC would fund the ads. Then the government funded the ads. Same ads, different wallet — specifically, yours. The White House calls them 'public service announcements,' which is technically accurate: the public is being informed that its money is now elsewhere. The super PAC, for its part, is reportedly fine.",
+      "Republican lawmakers spent years telling their constituents that tech regulation was government overreach. The tech industry listened, picked states with cheap land and minimal rules, and started building. Now 75% of new data centers are in GOP states, and those states' voters are furious about the noise, the water bills, and the power grid strain. The free market showed up exactly when invited. Nobody planned for what happens after you open the door.",
+      "On Saturday — not during a scheduled review, not at the end of a permitting process — 430 trees were removed from a federally managed golf course in Washington D.C. Government lawyers went to court to explain this. The judge asked questions. The lawyers answered them. The judge remained unsatisfied. It's a strange thing, watching the government send lawyers to defend the government cutting down the government's trees on the government's land without following the government's own rules. The trees are not available for comment.",
+      "Epic Games is eliminating hand-written code and human-made art. The company that built Unreal Engine — the engine that powers roughly half the games you've played this decade — has decided the next step is to have AI write the code instead. This announcement came while their Marvel and Star Wars shooter, in development for several years, is still not finished. The pivot to AI will presumably be faster. Presumably.",
+      "Elon Musk donated $276 million to Republican groups ahead of the 2026 midterms. His companies — Tesla, SpaceX — hold substantial contracts with the federal government, which those same Republicans help oversee. Legal experts note this is all technically permitted. The headline uses the phrase 'largest known donor.' Known. That word is in there for a reason, and the reason is that someone put it there on purpose."
+    ],
+    "riffJa": [
+      "「スーパーPACが広告費を出す」とトランプ大統領は言った。その後、政府が払った。同じ広告を。財布だけが違う、つまりあなたの財布。\n\nホワイトハウスはこれを「公共サービスのお知らせ」と呼んでいます。ガス漏れの避難指示と同じカテゴリーで。大統領の顔が出てくる広告が。スーパーPACは現在も元気にしているそうです。",
+      "共和党は長年「テックへの規制は政府の過剰介入だ」と言い続けてきた。テック企業は聞いていた。そして税金が安くて規制の少ない土地を選んで、データセンターを建てた。建設中の75%が共和党支持の強い州に集中している。\n\n地元住民は今、騒音と電力不足と水の使いすぎに怒っている。中間選挙の3週間前に。来いと言ったら来た。来た後のことは誰も考えてなかった。",
+      "土曜日に、430本。\n\n環境審査でも許可プロセスでもなく、土曜日に。ワシントンD.C.の連邦管理公園内のゴルフ場で。司法省が弁護士を送り込んで、裁判官に説明した。裁判官は満足しなかった。\n\n政府の土地の木を、政府が、政府のルールを無視して切り倒して、政府の弁護士が裁判官に怒られた。政府って、何？",
+      "エピックゲームズが「AIファースト」宣言。手書きコード禁止。AIを使わないアート禁止。\n\nこれを言ったのが、何年も前から開発中のマーベル×スターウォーズのシューターゲームがまだ出ていない会社です。AIに変えれば速くなると思っているらしい。AIも締め切りは守れるのかな。まだ誰も知らないんですよね。",
+      "イーロン・マスク氏が共和党系グループに2億7600万ドルを寄付した。個人で。一選挙サイクルで。\n\n彼の会社は連邦政府と巨額の契約を持っている。NASAとも、国防総省とも。その連邦政府の政策を決める議員を選ぶ選挙に、2億7600万ドルを投じている。法的には問題ないそうです。\n\nニュースは「最大の既知のドナー」と書いている。「既知の」。この二文字が一番気になります。"
+    ],
+    "asideEn": [
+      "Public service, technically.",
+      "The market listened. That was the problem.",
+      "Four hundred and thirty trees. On a Saturday.",
+      "The delay remains. Now with AI.",
+      "The word 'known' is working overtime."
+    ],
+    "asideJa": [
+      "「公共サービス」、らしいです。",
+      "自由市場、正直すぎた。",
+      "土曜日に430本。誰も止めなかった。",
+      "AIにしても、遅延は遅延。",
+      "「既知の」、というのが全部です。"
+    ],
+    "tagsEn": [
+      "Satire",
+      "US Politics",
+      "News Commentary",
+      "Elon Musk",
+      "Epic Games"
+    ],
+    "fullEn": "# The Week the Government Forgot What the Government Is For\n\n## Today's Forecast\n\nFive stories today. They don't look connected on the surface.\n\nThere's the pro-Trump ads that the government paid for after Trump said his super PAC would. There's the Republican states hosting 75% of new data centers while their own voters revolt. There's a golf course where someone cut down 430 trees on a Saturday and hoped no one would notice. And then there's a $276 million personal donation from a man who also has federal contracts.\n\nThe thread, if you squint: everyone's pointing left while walking right.\n\nFor your forecast — if you've ever said you'd do something and then... quietly done a different thing, today's news says you're in extremely good company. The gap between what powerful people announce and what they actually do has never been wider, which means your own small contradictions barely register. You're fine. Probably.\n\n---\n\n## 1. Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It\n\n*NPR News — [source](https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge)*\n\nThe U.S. government has spent nearly $22 million in taxpayer funds to air ads that the White House calls 'public service announcements' but critics describe as pro-Trump messaging. Almost half of that sum was spent after Trump publicly promised his super PAC would fund the ads instead. The discrepancy, reported by NPR, raises questions about whether campaign-style advertising is being underwritten by public money.\n\n**Why It's Funny**\n\nTrump said his super PAC would fund the ads. Then the government funded the ads. Same ads, different wallet — specifically, yours. The White House calls them 'public service announcements,' which is technically accurate: the public is being informed that its money is now elsewhere. The super PAC, for its part, is reportedly fine.\n\n**Say It Out Loud**\n\n> The super PAC was going to pay for the ads. Then the government paid for the ads. Same ads. The super PAC is doing great, though.\n\n---\n\n## 2. GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It\n\n*CBS News US — [source](https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/)*\n\nResearch from Cleanview Research shows that 75% of data centers currently under construction and 80% of those in the planning stage are located in predominantly Republican-leaning states. As public opposition to data centers grows — due to noise, water use, and power grid strain — the GOP finds itself in an awkward position ahead of the midterms, having broadly supported the tech industry while its own constituents push back.\n\n**Why It's Funny**\n\nRepublican lawmakers spent years telling their constituents that tech regulation was government overreach. The tech industry listened, picked states with cheap land and minimal rules, and started building. Now 75% of new data centers are in GOP states, and those states' voters are furious about the noise, the water bills, and the power grid strain. The free market showed up exactly when invited. Nobody planned for what happens after you open the door.\n\n**Say It Out Loud**\n\n> You offer cheap land, low taxes, and no regulations. The tech industry shows up. Turns out that was a transaction, not a compliment.\n\n---\n\n## 3. Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land\n\n*CBS News US — [source](https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/)*\n\nGovernment lawyers acknowledged that 430 trees were cut down at East Potomac Golf Links in Washington, D.C., on Saturday. The site is on federally managed park land. A judge chastised Department of Justice attorneys over the incident, raising questions about whether proper environmental review and legal procedures were followed before the trees were removed.\n\n**Why It's Funny**\n\nOn Saturday — not during a scheduled review, not at the end of a permitting process — 430 trees were removed from a federally managed golf course in Washington D.C. Government lawyers went to court to explain this. The judge asked questions. The lawyers answered them. The judge remained unsatisfied. It's a strange thing, watching the government send lawyers to defend the government cutting down the government's trees on the government's land without following the government's own rules. The trees are not available for comment.\n\n**Say It Out Loud**\n\n> The government cut down 430 trees on government land and sent government lawyers to say it was fine. The judge, also a government employee, said it wasn't.\n\n---\n\n## 4. Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art\n\n*Ars Technica — [source](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/)*\n\nEpic Games is reportedly pivoting to an 'AI first' game development model, according to sources familiar with the plans. The shift would mean eliminating hand-written code and art created without AI assistance — a significant departure for the studio behind Unreal Engine. The announcement comes as the company's long-delayed Marvel and Star Wars shooter project remains in development.\n\n**Why It's Funny**\n\nEpic Games is eliminating hand-written code and human-made art. The company that built Unreal Engine — the engine that powers roughly half the games you've played this decade — has decided the next step is to have AI write the code instead. This announcement came while their Marvel and Star Wars shooter, in development for several years, is still not finished. The pivot to AI will presumably be faster. Presumably.\n\n**Say It Out Loud**\n\n> Epic Games is going 'AI first.' Their delayed Marvel game is still delayed. Presumably the AI will also be delayed, but faster.\n\n---\n\n## 5. Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html)*\n\nElon Musk has donated $276 million to Republican groups ahead of the 2026 midterm elections, making him the single largest known donor in the cycle. The spending comes as Musk, CEO of Tesla and SpaceX, continues to rebuild his relationship with Trump and maintains significant financial ties to the federal government through contracts with NASA, the Department of Defense, and other agencies.\n\n**Why It's Funny**\n\nElon Musk donated $276 million to Republican groups ahead of the 2026 midterms. His companies — Tesla, SpaceX — hold substantial contracts with the federal government, which those same Republicans help oversee. Legal experts note this is all technically permitted. The headline uses the phrase 'largest known donor.' Known. That word is in there for a reason, and the reason is that someone put it there on purpose.\n\n**Say It Out Loud**\n\n> $276 million to Republican groups, from a man whose companies are paid by the Republican-led government. Totally separate things. Very separate.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: say your super PAC will pay, let the taxpayer pay, call it a public service, and donate $276 million to make sure no one changes the rules.\n",
+    "fullJa": "# 「スーパーPACが払う」と言った翌週に、税金で払っていた話\n\n## 今日を占うよ〜\n\n「スーパーPACが出す」。\nそう言った後に、税金で払っていた。\n\nそれだけでも今日は充分な一本なんですが、残り4本も全部そういう話でした。\n\n「規制より自由市場」を旗印にしてきた共和党の州が、テックの大型データセンターを誘致した結果、地元住民に怒られている。政府の土地で、政府の弁護士が説明しに行って、裁判官に怒られている。「AIファースト」を宣言したゲーム会社は、何年も遅延しているゲームの開発中に宣言した。そして連邦政府と巨額契約を持つ人物が、その政府の議員を選ぶ選挙に2億7600万ドルを寄付している。\n\nたぶん今日を貫く糸は、「言ったこととやったことがもう一致していない」ということです。\n\nということで、今日の占い。\nあなたが「言ったことと違う方向に進んでいる」と感じているとしたら、今日に限っては、それは全員そうです。大統領も、共和党も、ゲーム会社も、億万長者も。あなただけじゃない。少なくとも今日はね。\n\n---\n\n## 1. Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It\n\n*NPR News（[記事](https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge)）*\n\nトランプ大統領が「スーパーPACが負担する」と約束した後も、政府は親トランプ広告に約2200万ドルの税金を投じ続けていたことが明らかになった。\n\n**どこが笑える？**\n\n「スーパーPACが広告費を出す」とトランプ大統領は言った。その後、政府が払った。同じ広告を。財布だけが違う、つまりあなたの財布。\n\nホワイトハウスはこれを「公共サービスのお知らせ」と呼んでいます。ガス漏れの避難指示と同じカテゴリーで。大統領の顔が出てくる広告が。スーパーPACは現在も元気にしているそうです。\n\n**このニュースをジョークにするなら...**\n\n> スーパーPACが広告費を出す、と言った。その後、政府が出した。同じ広告。スーパーPACは絶好調らしいです。\n\n---\n\n## 2. GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It\n\n*CBS News US（[記事](https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/)）*\n\n調査によると、建設中のデータセンターの75%、計画段階の80%が共和党支持の強い州に集中しており、地域住民の反発が党の中間選挙戦略に影響を与えている。\n\n**どこが笑える？**\n\n共和党は長年「テックへの規制は政府の過剰介入だ」と言い続けてきた。テック企業は聞いていた。そして税金が安くて規制の少ない土地を選んで、データセンターを建てた。建設中の75%が共和党支持の強い州に集中している。\n\n地元住民は今、騒音と電力不足と水の使いすぎに怒っている。中間選挙の3週間前に。来いと言ったら来た。来た後のことは誰も考えてなかった。\n\n**このニュースをジョークにするなら...**\n\n> 安い土地と低税率と規制なしを提供した。テック業界がやってきた。あれは取引だったんですよ、褒め言葉じゃなくて。\n\n---\n\n## 3. Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land\n\n*CBS News US（[記事](https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/)）*\n\nワシントンD.C.の連邦管理ゴルフ場で430本の木が伐採され、裁判官が司法省を叱責した。当該ゴルフ場は連邦所有地にある。\n\n**どこが笑える？**\n\n土曜日に、430本。\n\n環境審査でも許可プロセスでもなく、土曜日に。ワシントンD.C.の連邦管理公園内のゴルフ場で。司法省が弁護士を送り込んで、裁判官に説明した。裁判官は満足しなかった。\n\n政府の土地の木を、政府が、政府のルールを無視して切り倒して、政府の弁護士が裁判官に怒られた。政府って、何？\n\n**このニュースをジョークにするなら...**\n\n> 政府が政府の土地の木を430本切り倒して、政府の弁護士が「問題ない」と言いに行った。同じく政府に雇われた裁判官は、問題あると言いました。\n\n---\n\n## 4. Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art\n\n*Ars Technica（[記事](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/)）*\n\nエピックゲームズが「AIファースト」の開発モデルへの転換を検討していると報じられ、手書きコードとAIを使わないアートの廃止が示唆された。\n\n**どこが笑える？**\n\nエピックゲームズが「AIファースト」宣言。手書きコード禁止。AIを使わないアート禁止。\n\nこれを言ったのが、何年も前から開発中のマーベル×スターウォーズのシューターゲームがまだ出ていない会社です。AIに変えれば速くなると思っているらしい。AIも締め切りは守れるのかな。まだ誰も知らないんですよね。\n\n**このニュースをジョークにするなら...**\n\n> エピックゲームズが「AIファースト」に移行します。遅延中のマーベルゲームはまだ遅延中。たぶんAIも遅延しますが、速く遅延します。\n\n---\n\n## 5. Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html)）*\n\nイーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを寄付し、最大の既知の中間選挙ドナーとなった。同氏は連邦政府との取引関係も持つ。\n\n**どこが笑える？**\n\nイーロン・マスク氏が共和党系グループに2億7600万ドルを寄付した。個人で。一選挙サイクルで。\n\n彼の会社は連邦政府と巨額の契約を持っている。NASAとも、国防総省とも。その連邦政府の政策を決める議員を選ぶ選挙に、2億7600万ドルを投じている。法的には問題ないそうです。\n\nニュースは「最大の既知のドナー」と書いている。「既知の」。この二文字が一番気になります。\n\n**このニュースをジョークにするなら...**\n\n> 共和党率いる政府から仕事をもらってる人物が、共和党に2億7600万ドルを寄付した。完全に別の話ですよ。とても別の話。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「スーパーPACが出す」「市場に任せる」「問題ない」「献金です」。全部、同じ話でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d3のimagePromptsに「judge leans forward with a stern expression」という顔つきの描写が残っていたため修正。d4のcaption4「Bold pivot. Very bold.」は汎用の感嘆型で構造が薄いため書き直し。d5のcaption4「Nothing says reconnection like $276 million」が禁止フレーズパターンに該当するため書き直し。xJa1本目が140字を超えているため削る。その他は合格。 ／ 文体パス: 3箇所直した。代表例：riffJa[2]末尾「政府って何なんだ、という気持ちになります」→「政府って、何？」に切り落とし。他にriffJa[1]の締めとriffJa[3]の末尾をそれぞれ崩した。"
+  },
+  "carousel": [
+    "images/2026-10-13/carousel/slide-1.jpg",
+    "images/2026-10-13/carousel/slide-2.jpg",
+    "images/2026-10-13/carousel/slide-3.jpg",
+    "images/2026-10-13/carousel/slide-4.jpg",
+    "images/2026-10-13/carousel/slide-5.jpg",
+    "images/2026-10-13/carousel/slide-6.jpg",
+    "images/2026-10-13/carousel/slide-7.jpg"
+  ],
+  "headers": {
+    "note": "images/2026-10-13/note-header.jpg",
+    "substack": "images/2026-10-13/substack-cover.jpg"
+  }
+}
