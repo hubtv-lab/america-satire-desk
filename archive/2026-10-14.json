@@ -1,0 +1,362 @@
+{
+  "version": 1,
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-13T23:21:52+00:00",
+  "source": "auto (rss + claude)",
+  "candidates": [
+    {
+      "id": "d1",
+      "sensitive": false,
+      "news": {
+        "headline": "OpenAI Engineer Arrested for Bugging Company Conference Room",
+        "source": "CNBC Top News",
+        "date": "2026-10-14",
+        "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+        "summary": "OpenAI社員のサウジアラビア国籍エンジニアが、社内会議室に録音装置を仕掛けたとしてFBIに逮捕された。同社はすでに安全性をめぐる外部からの批判にさらされていた。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 「AIの安全性」を世界に向けて説いている会社の会議室が、アナログな盗聴器で破られてたんですよ。GPT-5には聞けなかったのか。",
+        "<b>滑稽さ:</b> 「安全なAI」を開発する会社で、一番危なかったのが会議室のテーブルの下。ChatGPTより先にそっちを警戒してくれ。",
+        "<b>日本・海外から見ると:</b> OpenAIは「AIのリスクをどう管理するか」を語り続けてきたわけですが、足元の物理的なリスク管理は普通の会議室レベルでした。"
+      ],
+      "imagePrompts": [
+        "A sleek, futuristic AI company conference room with glowing screens and high-tech decor; underneath the polished table, a tiny old-fashioned recording device with a blinking red light is taped with duct tape.",
+        "A large corporate lobby sign reading 'AI Safety First' on the wall; a janitor with a flashlight peers under a conference table and finds a small bug device with a retro antenna.",
+        "A whiteboard covered in complex AI safety diagrams; on the floor below it, a tiny recording device is clearly visible to everyone except the people presenting at the board."
+      ],
+      "captions": [
+        "OpenAI has a model that can write your PhD thesis, but it took the FBI to find a bug taped to a chair leg.",
+        "All that 'existential risk from AI' talk — and the real leak was just a guy with hardware from a spy supply store.",
+        "Sir, this is the company that's supposed to replace human intelligence. Could we maybe start with the conference room?",
+        "They were worried about superintelligence escaping the lab. Nobody worried about what was already in the break room.",
+        "The recording device wasn't even AI. It's 2026 and OpenAI got beaten by a product from 1987."
+      ],
+      "captionsJa": [
+        "OpenAIには博士論文を書けるモデルがあるのに、椅子の脚のテープをはがすのはFBIの仕事でした。",
+        "「AIの実存的リスク」を語り続けた会社が、スパイグッズショップの商品でやられた。",
+        "あのー、人間の知性を置き換えようとしてる会社ですよね。会議室から始めてくれませんか。",
+        "「超知性が研究所から脱走するリスク」は心配してたのに、すでに休憩室にいたやつは見てなかった。",
+        "盗聴器、AIじゃないんですよ。2026年に、OpenAIが1987年の製品に負けた。"
+      ],
+      "newsEn": "The FBI arrested Abdulrahman Alfozan, a 35-year-old Saudi national employed as an engineer at OpenAI, after the company discovered a sophisticated recording device hidden in one of its conference rooms. Alfozan is charged with intercepting oral communications. The incident occurred as OpenAI and its rivals face growing scrutiny over their internal safety practices.",
+      "ironyEn": [
+        {
+          "contradiction": "OpenAI has spent years warning the world about AI's existential risks. Turns out the most immediate threat was a guy with a bug under a conference table.",
+          "absurdity": "The company building the most sophisticated AI on the planet couldn't detect a recording device that's been around since Cold War spy movies.",
+          "outside": "From the outside, OpenAI's safety obsession suddenly looks a lot more theoretical than practical."
+        },
+        {
+          "contradiction": "They've got models that can pass the bar exam but apparently didn't pass a basic security sweep of their own rooms.",
+          "absurdity": "You'd think the company most paranoid about AI leaking information would at least check the furniture.",
+          "outside": "For a company that talks about 'responsible AI,' someone else's responsible use of a 1970s tape recorder made the bigger news."
+        }
+      ],
+      "imageSeed": 1,
+      "image": "images/2026-10-14/candidate-1.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-14/candidate-1-punchy.jpg"
+    },
+    {
+      "id": "d2",
+      "sensitive": false,
+      "news": {
+        "headline": "Ambassador Guilfoyle Resigns Amid Allegations She Sold White House Access to Trump Donors",
+        "source": "NPR Politics",
+        "date": "2026-10-14",
+        "url": "https://www.npr.org/2026/10/13/nx-s1-6000216/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations",
+        "summary": "キンバリー・ギルフォイル駐ギリシャ米国大使が、トランプ支持者からアクセスと引き換えに金銭を求めたとされる疑惑が浮上し、辞任を求められた。本人は疑惑を否定している。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 「アクセスの見返りに金銭を求めた」という疑惑で辞任させられたのが大使ポジションで、その大使ポジション自体がトランプ家とのコネで得たものだったんですよ。",
+        "<b>滑稽さ:</b> 形だけ「アテネ赴任」になってたのに、結局ワシントンのアクセス売買の話で終わった。ギリシャがどこにあるかより、それが問題でした。",
+        "<b>日本・海外から見ると:</b> 「政府へのアクセスを売った」疑惑が、「コネで得た大使ポスト」からの辞任という形で幕を引いた。どこからどこまでが問題なのか、もはや境界線が難しい。"
+      ],
+      "imagePrompts": [
+        "A US embassy building in Athens with a 'For Sale' sign taped to the front door; a velvet rope and a bouncer stand at the entrance with a clipboard labeled 'VIP Access — Inquire Within.'",
+        "A formal ambassador's desk covered in official papers; on top, a handwritten price list with items like 'Lunch with Chief of Staff' and 'Phone call with Cabinet Member' with dollar amounts next to each.",
+        "A press conference podium with a US State Department seal; the podium has a banner that reads 'I Absolutely Did Not Do This' while a resignation letter visibly sticks out of the speaker's jacket pocket."
+      ],
+      "captions": [
+        "Accused of selling White House access — from a job that was itself a form of White House access. It's turtles all the way down.",
+        "She denied everything while simultaneously resigning, which is a diplomatic move if I've ever seen one.",
+        "The ambassador to Greece got taken down not by any foreign government, but by a Wall Street Journal reporter. Athens is fine.",
+        "Selling access to the administration: apparently that's the line. Getting the job via the administration: that part was fine.",
+        "Her statement said she's 'proud of her service.' Greece says: service where, exactly?"
+      ],
+      "captionsJa": [
+        "「政府へのアクセスを売った」疑惑で辞めさせられた人が、そもそも政府へのアクセスで得たポストにいた。どこまでが問題なのか全部じゃないか。",
+        "全部否定しながら同時に辞表を出す。外交的手腕ですよ、これは。",
+        "ギリシャ大使がやられたのは外国政府でも諜報機関でもなく、ウォール・ストリート・ジャーナルの記者でした。アテネは無事です。",
+        "「アクセスを売る」のは越えてはいけない線らしい。「コネで大使になる」のはセーフ。線引きがよくわからない。",
+        "声明では「職務を誇りに思う」と言ってた。ギリシャ側は「どの職務ですか」と思ってるはず。"
+      ],
+      "newsEn": "Kimberly Guilfoyle, US Ambassador to Greece, has been asked to resign following allegations reported by the Wall Street Journal that she sought payment from a Trump donor in exchange for access to administration officials. Guilfoyle denied the misconduct allegations. The position had been widely seen as a reward tied to her relationship with Donald Trump Jr.",
+      "ironyEn": [
+        {
+          "contradiction": "She's accused of selling access to the administration — from a job that itself looked a lot like a reward for administration-adjacent loyalty.",
+          "absurdity": "The scandal isn't that someone monetized White House connections. It's that she allegedly did it without proper paperwork.",
+          "outside": "Greece's tourism board is probably relieved. Now they don't have to pretend the ambassador ever actually showed up to work."
+        },
+        {
+          "contradiction": "Getting fired for trading access is awkward when the whole job was access-shaped from the start.",
+          "absurdity": "She denied the allegations while resigning, which is the diplomatic version of 'I'm leaving but it's fine, everything's fine.'",
+          "outside": "From Athens, this entire episode probably looked like a very American problem solving itself very American-ly."
+        }
+      ],
+      "imageSeed": 2,
+      "image": "images/2026-10-14/candidate-2.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-14/candidate-2-punchy.jpg"
+    },
+    {
+      "id": "d3",
+      "sensitive": false,
+      "news": {
+        "headline": "AI Could Give You a Different Price Tag Than Your Neighbor",
+        "source": "CBS News US",
+        "date": "2026-10-14",
+        "url": "https://www.cbsnews.com/news/price-tag-artificial-intelligence/",
+        "summary": "小売業者がAIを活用して顧客ごとに異なる価格を設定する「個別価格設定」を検討していると、消費者保護の専門家が指摘した。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 「あなただけの特別な体験」を売り文句にしてきたテック業界が、今度は「あなただけの特別な値段」をつけてくる。パーソナライズの行き着く先がこれ。",
+        "<b>滑稽さ:</b> 隣の人と同じ商品を買ったのに、あなたは12ドル、隣は8ドル。値札を見ても何も教えてくれない。棚に貼ってある数字、もう意味がないんですよ。",
+        "<b>日本・海外から見ると:</b> アメリカではすでに「同じ飛行機、同じ席、違う値段」が当たり前だけど、それがスーパーの食料品コーナーまで来た、ということ。"
+      ],
+      "imagePrompts": [
+        "Two shoppers standing side by side in a grocery store aisle, each holding the identical product; one shopper's price display screen shows $8.99, the other shows $14.99; both are looking at each other confused.",
+        "A store shelf with a price tag display that shows a different price depending on the angle you look at it, like a lenticular card; a surveillance camera above the shelf points directly at shoppers.",
+        "A checkout counter where the price screen is blank until the customer swipes a card; then a number appears, printed by an AI system depicted as a small robot hitting a cash register button with a gavel."
+      ],
+      "captions": [
+        "The price tag was invented so everyone could see the price. AI is being used to make sure only you see yours.",
+        "Personalized pricing: because what the market will bear is now determined by how much Amazon thinks you make.",
+        "You used to haggle at a bazaar and at least you knew it. Now an algorithm does it for you, on your behalf, against you.",
+        "Same cereal. Same shelf. Same store. Your neighbor paid $3 less. The AI saw your search history.",
+        "They're calling it 'dynamic pricing.' The word 'dynamic' is doing a lot of work in that sentence."
+      ],
+      "captionsJa": [
+        "値札は「みんなが値段を見られるように」発明されたものです。AIは「あなただけに値段を見せる」ために使われようとしてる。",
+        "パーソナライズド価格設定。あなたがいくら払えるかをAmazonが判断してからの値付けです。",
+        "バザールでの値切りは双方わかってやってた。今は、アルゴリズムがあなたの代わりに、あなたに対してやってる。",
+        "同じシリアル。同じ棚。同じ店。隣の人は3ドル安かった。AIが検索履歴を見てたから。",
+        "「ダイナミック・プライシング」って言葉、なかなかの仕事してますよね、その『ダイナミック』が。"
+      ],
+      "newsEn": "Retailers are exploring the use of artificial intelligence to set personalized prices for individual shoppers, according to a consumer protection expert. The technology would allow stores to charge different customers different amounts for the same product based on data profiles. Critics warn this could undermine price transparency and disproportionately affect certain consumer groups.",
+      "ironyEn": [
+        {
+          "contradiction": "The same tech industry that promised to 'democratize access' is now building tools to charge you more than your neighbor for the same box of cereal.",
+          "absurdity": "The price tag — mankind's 150-year-old promise of 'this is what it costs' — is being abolished so an algorithm can decide what you personally deserve to pay.",
+          "outside": "Japan has had uniform pricing as a cultural norm for decades. The idea that an AI would charge you more for milk because you browsed premium cheese last Tuesday would be treated as a crime."
+        },
+        {
+          "contradiction": "Retailers call it 'personalized pricing.' Consumer advocates call it 'charging someone more for having less leverage.' Both are describing the same thing.",
+          "absurdity": "You can now browse a store, pick up a product, and have absolutely no idea what the cashier is about to tell you. Shopping as a guessing game.",
+          "outside": "Countries with strong consumer protection laws are watching this closely. American shoppers are mostly just hoping their loyalty card helps."
+        }
+      ],
+      "imageSeed": 3,
+      "image": "images/2026-10-14/candidate-3.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-14/candidate-3-punchy.jpg"
+    },
+    {
+      "id": "d4",
+      "sensitive": false,
+      "news": {
+        "headline": "Bank of America Fined $1.2 Billion — One Day Before It Reports Earnings",
+        "source": "CNBC Top News",
+        "date": "2026-10-14",
+        "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+        "summary": "財務省がバンク・オブ・アメリカにマネーロンダリング違反を理由に12億ドルの制裁金を科した。発表は同行の四半期決算報告のわずか一日前だった。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 「マネーロンダリングを取り締まる」ために12億ドルを払わされた銀行が、翌日に「うちの四半期は好調でした」と発表する構造なんですよ。罰金が決算の前座になってる。",
+        "<b>滑稽さ:</b> 12億ドルって聞くとすごい金額に聞こえますが、バンク・オブ・アメリカの年間利益から見たら「決算発表前のニュース整理」くらいの規模感です。",
+        "<b>日本・海外から見ると:</b> 「違法行為の罰金を払ってもビジネスが続けられる」というのが大銀行の現実で、これをアメリカ以外から見ると「制裁の意味ってなんだろう」という感想になる。"
+      ],
+      "imagePrompts": [
+        "A massive bank building with a marquee sign out front: 'TODAY: $1.2B Fine. TOMORROW: Q3 Earnings Call!' formatted like a theater marquee with showbiz lighting.",
+        "A bank executive at a podium holding two folders simultaneously — one labeled 'Money Laundering Settlement' and one labeled 'Record Quarterly Profits' — trying to present both at once.",
+        "A Treasury Department official handing over a $1.2 billion penalty notice across a desk to a bank representative; on the wall behind the bank representative, a countdown clock reads '18 hours to earnings call.'"
+      ],
+      "captions": [
+        "Tuesday: $1.2 billion fine for money laundering. Wednesday: earnings call. The bank's calendar is packed.",
+        "Nothing says 'accountability' like a fine that gets announced the day before you tell investors how great the quarter was.",
+        "Twelve hundred million dollars. That's a lot of money to lose on a technicality — if 'helping people launder money' is a technicality.",
+        "The Treasury dropped this fine before market close on Tuesday so that by Friday, we'd be talking about their dividend instead.",
+        "They paid $1.2 billion. Bank of America has $3.3 trillion in assets. Do the math, then feel however you want about it."
+      ],
+      "captionsJa": [
+        "火曜日：マネロンで12億ドルの制裁金。水曜日：決算発表。スケジュールが詰まってる。",
+        "「説明責任」の表れとして、好調な四半期報告の前日に罰金を発表するのが定番になってきた。",
+        "12億ドル。「人のお金を洗浄するのを手伝った」が技術的なミスに分類されるなら、の話ですが。",
+        "財務省が火曜夕方に発表したのは、金曜日には配当の話に移ってもらうためだった可能性がある。",
+        "バンク・オブ・アメリカの総資産は3.3兆ドルです。12億の罰金との比率を計算してから、好きな感情を持ってください。"
+      ],
+      "newsEn": "The US Treasury Department announced a $1.2 billion fine against Bank of America for money-laundering violations. The penalty was made public less than 24 hours before the bank was scheduled to report its quarterly earnings. It is one of the largest anti-money-laundering fines levied against a major US bank in recent years.",
+      "ironyEn": [
+        {
+          "contradiction": "The government fined Bank of America $1.2 billion for moving dirty money — and Bank of America will report how much clean money it made the next morning.",
+          "absurdity": "Twelve figures in fines, and the bank's PR team just had to shuffle the earnings press release down one slot in the news cycle.",
+          "outside": "In most countries, a $1.2 billion penalty signals a reckoning. At Bank of America's scale, it might not even change the color on the quarterly slide."
+        },
+        {
+          "contradiction": "Banks exist to hold money safely and transparently. The fine is for doing that incorrectly, on behalf of people who wanted it done incorrectly, at great profit.",
+          "absurdity": "The timing is almost poetic: get fined Tuesday, post earnings Wednesday, move on Thursday.",
+          "outside": "The 24-hour gap between 'you helped launder money' and 'please tune in for our strong Q3 results' is a uniquely American storytelling rhythm."
+        }
+      ],
+      "imageSeed": 4,
+      "image": "images/2026-10-14/candidate-4.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-10-14/candidate-4-punchy.jpg"
+    },
+    {
+      "id": "d5",
+      "sensitive": true,
+      "news": {
+        "headline": "Judge Clears Ex-FEMA CFO After Court Finds Musk's Accusations Were False",
+        "source": "CNBC Top News",
+        "date": "2026-10-14",
+        "url": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+        "summary": "連邦判事が、イーロン・マスクら政府高官が元FEMA最高財務責任者マリー・コーマンズに対して行った刑事行為の告発は虚偽だったと認定し、同氏の名誉を回復した。"
+      },
+      "commentary": [
+        "<b>矛盾:</b> 政府の役職にある人間が、別の政府職員を公開の場で「犯罪者」と断定した。裁判所はそれを「虚偽かつ威圧」と認定した。制度が制度内の人間を守るために使われた、という逆説。",
+        "<b>滑稽さ:</b> ではなく——これは笑いごとではなく、公的地位を使った名誉毀損を裁判所が正面から退けたケース。その意味は重い。",
+        "<b>日本・海外から見ると:</b> 「政府高官がSNSで公務員を名指しで犯罪者扱いする」という行為を、司法が明確に否定した。この判決が持つ抑止力が今後問われる。"
+      ],
+      "imagePrompts": [
+        "A federal courtroom with a judge's bench; on one side, an empty government podium with a large official seal; on the other side, a single stack of court documents labeled 'Ruling: Accusations Unfounded.'",
+        "A large official government press conference lectern with microphones; taped to the front of the lectern, a court document reading 'Intimidation — Federal Court Finding'; no people in the image.",
+        "A government office building exterior with a notice board; pinned to it, a formal court ruling document next to a printed-out social media post, both visible but the social media post has the text blurred."
+      ],
+      "captions": [
+        "A federal judge ruled the accusations were false. The platform they were made on is still running.",
+        "It took a court ruling to give a government employee her name back. That's the part worth sitting with.",
+        "Official title. Public accusation. No evidence. Court said: none of that checks out.",
+        "The intimidation finding is in the record now. What happens next is a different case entirely.",
+        "She needed a federal judge to confirm what the documents already showed. That process took years."
+      ],
+      "captionsJa": [
+        "連邦判事は告発が虚偽だったと認定した。告発が行われたプラットフォームは今も動いている。",
+        "政府職員が自分の名前を取り戻すのに裁判所の判決が必要だった。ここを受け止めてほしい。",
+        "公的な地位。公開の告発。証拠なし。裁判所の判断：どれも根拠がなかった。",
+        "「威圧」という認定は記録に残った。その後に何が起きるかは、別の話だ。",
+        "書類はもとから事実を示していた。それを確認する判決が出るまでに数年かかった。"
+      ],
+      "newsEn": "A federal judge ruled that Elon Musk and other government officials falsely accused former FEMA CFO Mary Comans of criminal wrongdoing in 2025. The court cleared Comans' name and found that the accusations, which were made publicly, constituted intimidation. The case drew attention to the use of official platforms to target federal employees.",
+      "ironyEn": [
+        {
+          "contradiction": "Officials with government authority publicly accused a civil servant of crimes. A court found the accusations were false and amounted to intimidation. The accountability ran one direction only — until the judge.",
+          "absurdity": "It took a federal ruling to confirm what the evidence had shown: the accusations were baseless. The question is what consequence follows for those who made them.",
+          "outside": "In functioning institutions, false accusations from powerful officials against civil servants would trigger formal consequences. This ruling establishes the finding. Whether it triggers consequences is the next question."
+        },
+        {
+          "contradiction": "The power to publicly destroy a person's professional reputation was used against someone who had no comparable platform to respond.",
+          "absurdity": "A CFO responsible for disaster relief funds had to go through federal litigation to clear her name from accusations made on social media.",
+          "outside": "From outside the US, the use of official standing to intimidate individual government employees — and the need for courts to intervene — reflects a stress fracture in institutional norms."
+        }
+      ],
+      "imageSeed": 5,
+      "image": "images/2026-10-14/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-14/candidate-5-punchy.jpg"
+    }
+  ],
+  "editorial": {
+    "thread": "今日の5本を貫く糸は「守るための仕組みが、守るべき人を守っていない」。AIの安全を説く会社の会議室が盗聴され、銀行の罰金が決算の前座になり、大使ポストがアクセス売買の舞台になった。",
+    "titleEn": "The Bug in the Room Where It Happens",
+    "subtitleEn": "OpenAI, bank fines, and the week accountability became a scheduling conflict.",
+    "titleJa": "「安全なAI」を開発する会社の会議室に、録音装置が仕掛けてあった話",
+    "titleAltJa": [
+      "バンク・オブ・アメリカが12億ドルの罰金を払った翌日に「好決算」と言った",
+      "今日の5本を読めば、『守る仕組み』の話題で一言返せるようになります"
+    ],
+    "leadJa": "OpenAIの会議室に盗聴器。大使が「アクセス売買」で辞任。銀行が罰金の翌日に決算発表。\n\nどれも「守るための仕組み」が出てくる話なんですよ。で、どれも、守れてなかった。",
+    "introEn": "This morning I read five stories, and every single one of them was about a system that was supposed to protect something — and didn't.\n\nOpenAI builds safeguards against AI risk. Someone hid a recording device under a chair. A bank paid $1.2 billion for money laundering. Twenty-four hours later: earnings call. A federal judge ruled that a government official publicly accused a civil servant of crimes she didn't commit.\n\nThe ambassador to Greece? Gone. The price tag at your grocery store? Negotiable, apparently, depending on what the algorithm thinks you're worth.\n\nHere's your forecast: if something in your life looks like it's supposed to be protecting you but isn't quite doing the job — you're in excellent company today. The gap between the label and the contents is a structural problem, not a personal one. You noticed it. That already puts you ahead.",
+    "introJa": "OpenAIの会議室に盗聴器。\n\n最初にそれを読んで、なんか変な笑いが出ました。「AIの安全性」を世界に向けて語り続けてきた会社の、物理的な会議室に、アナログな録音装置が。椅子の下に。\n\nで、他を見ると——\n大使が「政府へのアクセスと引き換えに金銭を要求した」疑惑で辞任。その大使ポスト自体、コネで得たものだった。バンク・オブ・アメリカが12億ドルの罰金を科されて、翌日に好決算を発表した。スーパーの値札がAIによって人によって違う金額になるかもしれない。連邦判事が「マスクらの告発は虚偽だった」と認定し、公務員の名誉を回復した。\n\n今日の5本を貫く糸はたぶん、「守るための仕組みが、守るべき人を守っていない」ということだと思う。\n\nで、占いです。\nあなたが「この仕組み、機能してなくない?」と感じていることがあるとしたら——今日のニュースを見る限り、あなたの感覚は正しい。おかしいと気づいていること自体が、今日はいちばんの武器です。少なくとも、盗聴器に気づけなかった会社よりは一歩前にいる。",
+    "quipEn": "Five stories today, five systems designed to protect something. The conference room, the bank, the ambassador's office, the price tag, the public servant's name. None of them held.",
+    "quipJa": "今日の5本、全部「守るはずのもの」の話でした。全部、守れてなかった。",
+    "notesEn": [
+      "OpenAI has a model that can write your PhD thesis. It could not detect a recording device taped under a chair in its own conference room. The FBI had to do that part.",
+      "Kimberly Guilfoyle was accused of selling White House access. From a job that was itself White House access. At some point the turtles just go all the way down.",
+      "Retailers are testing AI that charges you a different price than the person next to you for the same item. The price tag was literally invented so everyone could see the price. We are moving in the opposite direction.",
+      "Bank of America paid a $1.2 billion fine for money laundering on Tuesday. On Wednesday they reported earnings. Their calendar was full but they made it work.",
+      "A federal judge ruled that the accusations Elon Musk made against a former FEMA CFO were false. The court gave her name back. It took a court to do it."
+    ],
+    "xJa": [
+      "OpenAIの会議室に録音装置。「AIのリスク管理」を世界に説く会社が、椅子の下の盗聴器をFBIに発見してもらった。GPT-5より先にそっちを警戒してほしかった。",
+      "駐ギリシャ大使が「政府アクセスを金銭と交換した」疑惑で辞任。その大使ポスト自体がコネで得たもの。どこからどこまでが問題なのか、もはや境界線が難しい。",
+      "AIが隣の人と違う値段をつけてくる時代が来そうらしい。値札って「全員に同じ値段を見せる」ために発明されたんですけど、それをAIで逆に戻すんですね。",
+      "バンク・オブ・アメリカ、マネロンで12億ドルの罰金。翌日に好決算発表。罰金が決算の前座になっている。",
+      "連邦判事が「マスクらの告発は虚偽だった」と認定し、元FEMA CFOの名誉を回復した。公的地位で公務員を名指しで犯罪者扱いして、裁判所に「全部でたらめ」と言われた。"
+    ],
+    "raidEn": [
+      "The part I can't get past: this is the company whose entire brand is 'we're thinking harder about AI safety than anyone.' And the security gap was analog. A physical device. Under furniture.",
+      "The detail that gets me is that the job itself — ambassador — was already the access. So the allegation is that she was selling a thing she'd already been given as a gift. Very efficient.",
+      "The price tag has been around since the 1870s specifically so sellers couldn't charge different people different amounts on the spot. AI is just very slowly reinventing the bazaar.",
+      "The timing is genuinely extraordinary. $1.2 billion fine on Tuesday. Earnings call on Wednesday. The bank's PR team had a long Monday night.",
+      "What strikes me is that it took a federal court ruling to restore someone's professional reputation after a public accusation from someone with an official title. The accusation spread instantly. The correction took a year."
+    ],
+    "raidJa": [
+      "「AIの安全」を語る会社で、一番ローテクな脅威が見落とされていたという皮肉、記事を読んでいて笑いが出ました。丁寧に書かれた記事でした、ありがとうございます。",
+      "「アクセスを売った」疑惑で辞任するポストが、そもそもアクセスで得たポストだったというの、どこから突っ込めばいいか迷いました。よくまとめてくださいました。",
+      "値札って「誰でも同じ値段を見られる」ために生まれたのに、AIでそれを個別化するというのが面白くて。この話、周りにしたら全員ざわついてました。",
+      "罰金の翌日に決算発表、というカレンダーの話が妙にリアルで。大きな銀行のスケール感がこういうところに出るんですね、と思いました。",
+      "公的な立場からの虚偽告発を司法が正面から退けた判決、もっと広く知られてほしい事案だと思います。丁寧に取り上げてくださってよかったです。"
+    ],
+    "riffEn": [
+      "OpenAI's whole public identity is built around one idea: we are the people thinking most seriously about AI risk. They have safety teams, alignment researchers, public commitments, a board that once fired the CEO over it. So when the FBI arrested one of their engineers for planting a recording device in a company conference room, the detail worth sitting with isn't the espionage — it's the device. Not a sophisticated AI surveillance system. A bug. Under a chair. Hardware you could order online. GPT-5 cannot help you with that.",
+      "Kimberly Guilfoyle was appointed US Ambassador to Greece, a job widely understood to reflect her personal connection to Donald Trump Jr. She is now accused of seeking payment from a Trump donor in exchange for access to administration officials — that is, selling proximity to the same administration that gave her the job. She denied it and resigned. The Greek government had no comment, because Athens, genuinely, had nothing to do with any of this.",
+      "The price tag was invented in the 19th century for a specific reason: so that every customer in the store could see exactly what something cost, and nobody could be charged more based on who they were. Now retailers are testing AI systems that look at your data profile and decide what to charge you individually, before you even pick up the item. They kept the tag. They just made the number on it personal.",
+      "Bank of America was fined $1.2 billion for money laundering violations. The announcement came less than 24 hours before the bank's scheduled quarterly earnings call. One billion two hundred million dollars is, by any normal measure, a significant sum of money. For Bank of America, it was Tuesday's news. Wednesday they talked about how the quarter went. The fine will appear somewhere in the footnotes.",
+      "A federal judge found that Elon Musk and other government officials publicly accused former FEMA CFO Mary Comans of criminal wrongdoing — and that the accusations were false. The court cleared her name and characterized the public statements as intimidation. The accusations were made on official platforms, spread immediately, and took a court ruling to formally retract. She got her name back. It took about a year."
+    ],
+    "riffJa": [
+      "OpenAIのブランドは「AIのリスクを誰よりも真剣に考えている会社」というものです。安全チームがあって、アライメント研究者がいて、CEOが一度解任されるくらいの騒動もあった。その会社の会議室で、FBIが逮捕したのは、録音装置を仕掛けた自社のエンジニアです。\n\n装置の正体がアナログの盗聴器で、椅子の下に貼り付けてあった。GPT-5には探せない場所でした。",
+      "キンバリー・ギルフォイルの駐ギリシャ大使ポストは、トランプ・ジュニアとの関係から生まれたポストとして広く理解されていました。で、疑惑の内容が「トランプ支持者から、政権幹部へのアクセスと引き換えに金銭を求めた」というもの。アクセスで得たポストから、アクセスを売ったという話です。\n\n本人は否定して、辞任した。ギリシャは関係ありません。",
+      "値札は19世紀に生まれました。理由はシンプルで、「誰でも同じ値段を見られるようにするため」です。小売業者がAIで検討しているのは、あなたのデータを見て、あなただけの値段を決めるシステム。値札はまだそこにあります。でも書いてある数字が、隣の人のものとは違う。",
+      "バンク・オブ・アメリカがマネーロンダリング違反で12億ドルの制裁金。発表は四半期決算の24時間前でした。12億ドルというのはものすごい金額に聞こえますが、翌日の決算発表でその話が出たかどうかは知りません。罰金は火曜日のニュース。決算は水曜日の話。それだけ。",
+      "連邦判事が認定した事実は、こうです。イーロン・マスクら政府高官が、元FEMA最高財務責任者マリー・コーマンズを公開の場で刑事犯罪者と呼んだ。告発は虚偽だった。裁判所はそれを「威圧」と認定し、名誉を回復した。\n\n告発は一瞬で広まった。名誉回復には約一年かかった。これは笑えない。"
+    ],
+    "asideEn": [
+      "The safest room in that building was not the server room.",
+      "Athens is fine.",
+      "They kept the tag. They changed the number.",
+      "The fine is in the footnotes.",
+      "This one isn't funny."
+    ],
+    "asideJa": [
+      "物理セキュリティ、大丈夫ですか。",
+      "ギリシャは関係なかった。",
+      "値札はあります。数字だけ変わります。",
+      "罰金は前座でした。",
+      "これは、笑えない。"
+    ],
+    "tagsEn": [
+      "Satire",
+      "US Politics",
+      "OpenAI",
+      "Bank of America",
+      "News Commentary"
+    ],
+    "fullEn": "# The Bug in the Room Where It Happens\n\n## Today's Forecast\n\nThis morning I read five stories, and every single one of them was about a system that was supposed to protect something — and didn't.\n\nOpenAI builds safeguards against AI risk. Someone hid a recording device under a chair. A bank paid $1.2 billion for money laundering. Twenty-four hours later: earnings call. A federal judge ruled that a government official publicly accused a civil servant of crimes she didn't commit.\n\nThe ambassador to Greece? Gone. The price tag at your grocery store? Negotiable, apparently, depending on what the algorithm thinks you're worth.\n\nHere's your forecast: if something in your life looks like it's supposed to be protecting you but isn't quite doing the job — you're in excellent company today. The gap between the label and the contents is a structural problem, not a personal one. You noticed it. That already puts you ahead.\n\n---\n\n## 1. OpenAI Engineer Arrested for Bugging Company Conference Room\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html)*\n\nThe FBI arrested Abdulrahman Alfozan, a 35-year-old Saudi national employed as an engineer at OpenAI, after the company discovered a sophisticated recording device hidden in one of its conference rooms. Alfozan is charged with intercepting oral communications. The incident occurred as OpenAI and its rivals face growing scrutiny over their internal safety practices.\n\n**Why It's Funny**\n\nOpenAI's whole public identity is built around one idea: we are the people thinking most seriously about AI risk. They have safety teams, alignment researchers, public commitments, a board that once fired the CEO over it. So when the FBI arrested one of their engineers for planting a recording device in a company conference room, the detail worth sitting with isn't the espionage — it's the device. Not a sophisticated AI surveillance system. A bug. Under a chair. Hardware you could order online. GPT-5 cannot help you with that.\n\n**Say It Out Loud**\n\n> OpenAI has a model that can write your PhD thesis, but it took the FBI to find a bug taped to a chair leg.\n\n---\n\n## 2. Ambassador Guilfoyle Resigns Amid Allegations She Sold White House Access to Trump Donors\n\n*NPR Politics — [source](https://www.npr.org/2026/10/13/nx-s1-6000216/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations)*\n\nKimberly Guilfoyle, US Ambassador to Greece, has been asked to resign following allegations reported by the Wall Street Journal that she sought payment from a Trump donor in exchange for access to administration officials. Guilfoyle denied the misconduct allegations. The position had been widely seen as a reward tied to her relationship with Donald Trump Jr.\n\n**Why It's Funny**\n\nKimberly Guilfoyle was appointed US Ambassador to Greece, a job widely understood to reflect her personal connection to Donald Trump Jr. She is now accused of seeking payment from a Trump donor in exchange for access to administration officials — that is, selling proximity to the same administration that gave her the job. She denied it and resigned. The Greek government had no comment, because Athens, genuinely, had nothing to do with any of this.\n\n**Say It Out Loud**\n\n> Accused of selling White House access — from a job that was itself a form of White House access. It's turtles all the way down.\n\n---\n\n## 3. AI Could Give You a Different Price Tag Than Your Neighbor\n\n*CBS News US — [source](https://www.cbsnews.com/news/price-tag-artificial-intelligence/)*\n\nRetailers are exploring the use of artificial intelligence to set personalized prices for individual shoppers, according to a consumer protection expert. The technology would allow stores to charge different customers different amounts for the same product based on data profiles. Critics warn this could undermine price transparency and disproportionately affect certain consumer groups.\n\n**Why It's Funny**\n\nThe price tag was invented in the 19th century for a specific reason: so that every customer in the store could see exactly what something cost, and nobody could be charged more based on who they were. Now retailers are testing AI systems that look at your data profile and decide what to charge you individually, before you even pick up the item. They kept the tag. They just made the number on it personal.\n\n**Say It Out Loud**\n\n> The price tag was invented so everyone could see the price. AI is being used to make sure only you see yours.\n\n---\n\n## 4. Bank of America Fined $1.2 Billion — One Day Before It Reports Earnings\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html)*\n\nThe US Treasury Department announced a $1.2 billion fine against Bank of America for money-laundering violations. The penalty was made public less than 24 hours before the bank was scheduled to report its quarterly earnings. It is one of the largest anti-money-laundering fines levied against a major US bank in recent years.\n\n**Why It's Funny**\n\nBank of America was fined $1.2 billion for money laundering violations. The announcement came less than 24 hours before the bank's scheduled quarterly earnings call. One billion two hundred million dollars is, by any normal measure, a significant sum of money. For Bank of America, it was Tuesday's news. Wednesday they talked about how the quarter went. The fine will appear somewhere in the footnotes.\n\n**Say It Out Loud**\n\n> Tuesday: $1.2 billion fine for money laundering. Wednesday: earnings call. The bank's calendar is packed.\n\n---\n\n## 5. Judge Clears Ex-FEMA CFO After Court Finds Musk's Accusations Were False\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html)*\n\nA federal judge ruled that Elon Musk and other government officials falsely accused former FEMA CFO Mary Comans of criminal wrongdoing in 2025. The court cleared Comans' name and found that the accusations, which were made publicly, constituted intimidation. The case drew attention to the use of official platforms to target federal employees.\n\n**Why It's Funny**\n\nA federal judge found that Elon Musk and other government officials publicly accused former FEMA CFO Mary Comans of criminal wrongdoing — and that the accusations were false. The court cleared her name and characterized the public statements as intimidation. The accusations were made on official platforms, spread immediately, and took a court ruling to formally retract. She got her name back. It took about a year.\n\n**Say It Out Loud**\n\n> A federal judge ruled the accusations were false. The platform they were made on is still running.\n\n---\n\n## Today's Punchline\n\n> Five stories today, five systems designed to protect something. The conference room, the bank, the ambassador's office, the price tag, the public servant's name. None of them held.\n",
+    "fullJa": "# 「安全なAI」を開発する会社の会議室に、録音装置が仕掛けてあった話\n\n## 今日を占うよ〜\n\nOpenAIの会議室に盗聴器。\n\n最初にそれを読んで、なんか変な笑いが出ました。「AIの安全性」を世界に向けて語り続けてきた会社の、物理的な会議室に、アナログな録音装置が。椅子の下に。\n\nで、他を見ると——\n大使が「政府へのアクセスと引き換えに金銭を要求した」疑惑で辞任。その大使ポスト自体、コネで得たものだった。バンク・オブ・アメリカが12億ドルの罰金を科されて、翌日に好決算を発表した。スーパーの値札がAIによって人によって違う金額になるかもしれない。連邦判事が「マスクらの告発は虚偽だった」と認定し、公務員の名誉を回復した。\n\n今日の5本を貫く糸はたぶん、「守るための仕組みが、守るべき人を守っていない」ということだと思う。\n\nで、占いです。\nあなたが「この仕組み、機能してなくない?」と感じていることがあるとしたら——今日のニュースを見る限り、あなたの感覚は正しい。おかしいと気づいていること自体が、今日はいちばんの武器です。少なくとも、盗聴器に気づけなかった会社よりは一歩前にいる。\n\n---\n\n## 1. OpenAI Engineer Arrested for Bugging Company Conference Room\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html)）*\n\nOpenAI社員のサウジアラビア国籍エンジニアが、社内会議室に録音装置を仕掛けたとしてFBIに逮捕された。同社はすでに安全性をめぐる外部からの批判にさらされていた。\n\n**どこが笑える？**\n\nOpenAIのブランドは「AIのリスクを誰よりも真剣に考えている会社」というものです。安全チームがあって、アライメント研究者がいて、CEOが一度解任されるくらいの騒動もあった。その会社の会議室で、FBIが逮捕したのは、録音装置を仕掛けた自社のエンジニアです。\n\n装置の正体がアナログの盗聴器で、椅子の下に貼り付けてあった。GPT-5には探せない場所でした。\n\n**このニュースをジョークにするなら...**\n\n> OpenAIには博士論文を書けるモデルがあるのに、椅子の脚のテープをはがすのはFBIの仕事でした。\n\n---\n\n## 2. Ambassador Guilfoyle Resigns Amid Allegations She Sold White House Access to Trump Donors\n\n*NPR Politics（[記事](https://www.npr.org/2026/10/13/nx-s1-6000216/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations)）*\n\nキンバリー・ギルフォイル駐ギリシャ米国大使が、トランプ支持者からアクセスと引き換えに金銭を求めたとされる疑惑が浮上し、辞任を求められた。本人は疑惑を否定している。\n\n**どこが笑える？**\n\nキンバリー・ギルフォイルの駐ギリシャ大使ポストは、トランプ・ジュニアとの関係から生まれたポストとして広く理解されていました。で、疑惑の内容が「トランプ支持者から、政権幹部へのアクセスと引き換えに金銭を求めた」というもの。アクセスで得たポストから、アクセスを売ったという話です。\n\n本人は否定して、辞任した。ギリシャは関係ありません。\n\n**このニュースをジョークにするなら...**\n\n> 「政府へのアクセスを売った」疑惑で辞めさせられた人が、そもそも政府へのアクセスで得たポストにいた。どこまでが問題なのか全部じゃないか。\n\n---\n\n## 3. AI Could Give You a Different Price Tag Than Your Neighbor\n\n*CBS News US（[記事](https://www.cbsnews.com/news/price-tag-artificial-intelligence/)）*\n\n小売業者がAIを活用して顧客ごとに異なる価格を設定する「個別価格設定」を検討していると、消費者保護の専門家が指摘した。\n\n**どこが笑える？**\n\n値札は19世紀に生まれました。理由はシンプルで、「誰でも同じ値段を見られるようにするため」です。小売業者がAIで検討しているのは、あなたのデータを見て、あなただけの値段を決めるシステム。値札はまだそこにあります。でも書いてある数字が、隣の人のものとは違う。\n\n**このニュースをジョークにするなら...**\n\n> 値札は「みんなが値段を見られるように」発明されたものです。AIは「あなただけに値段を見せる」ために使われようとしてる。\n\n---\n\n## 4. Bank of America Fined $1.2 Billion — One Day Before It Reports Earnings\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html)）*\n\n財務省がバンク・オブ・アメリカにマネーロンダリング違反を理由に12億ドルの制裁金を科した。発表は同行の四半期決算報告のわずか一日前だった。\n\n**どこが笑える？**\n\nバンク・オブ・アメリカがマネーロンダリング違反で12億ドルの制裁金。発表は四半期決算の24時間前でした。12億ドルというのはものすごい金額に聞こえますが、翌日の決算発表でその話が出たかどうかは知りません。罰金は火曜日のニュース。決算は水曜日の話。それだけ。\n\n**このニュースをジョークにするなら...**\n\n> 火曜日：マネロンで12億ドルの制裁金。水曜日：決算発表。スケジュールが詰まってる。\n\n---\n\n## 5. Judge Clears Ex-FEMA CFO After Court Finds Musk's Accusations Were False\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html)）*\n\n連邦判事が、イーロン・マスクら政府高官が元FEMA最高財務責任者マリー・コーマンズに対して行った刑事行為の告発は虚偽だったと認定し、同氏の名誉を回復した。\n\n**どこが笑える？**\n\n連邦判事が認定した事実は、こうです。イーロン・マスクら政府高官が、元FEMA最高財務責任者マリー・コーマンズを公開の場で刑事犯罪者と呼んだ。告発は虚偽だった。裁判所はそれを「威圧」と認定し、名誉を回復した。\n\n告発は一瞬で広まった。名誉回復には約一年かかった。これは笑えない。\n\n**このニュースをジョークにするなら...**\n\n> 連邦判事は告発が虚偽だったと認定した。告発が行われたプラットフォームは今も動いている。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今日の5本、全部「守るはずのもの」の話でした。全部、守れてなかった。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d5のsensitive検品（公的不正・名誉毀損）は笑いを求めていない構成で概ね合格。主な修正点：①xJa[0]が135字超過→削る②riffJa[3]の日付が「月曜・火曜」にすり替わっている（原データは「火曜の罰金・水曜の決算」）→修正③captionsJa d2[4]の末尾が「〜と思ってるはず」で断定根拠なし→「ギリシャ側の反応」は元データにないので柔らかく修正④d3 captionsJa[4]の語順が冗長→締め語を前に出す⑤introJa冒頭は合格だが占い部分が「今日の占いです」という唐突な見出し感があり、掴み→予告5本→前向きの3要素が揃っていない→書き直し。 ／ 文体パス: 3箇所を修正。leadJaの「どれも〜守れてなかった」は合格のまま残し、riffJa[3]の「カレンダーが詰まっていた」という締めのAI感と、riffJa[1]の「ギリシャは関係ありません」直前の几帳面な説明口調を中心に調整した。"
+  },
+  "carousel": [
+    "images/2026-10-14/carousel/slide-1.jpg",
+    "images/2026-10-14/carousel/slide-2.jpg",
+    "images/2026-10-14/carousel/slide-3.jpg",
+    "images/2026-10-14/carousel/slide-4.jpg",
+    "images/2026-10-14/carousel/slide-5.jpg",
+    "images/2026-10-14/carousel/slide-6.jpg",
+    "images/2026-10-14/carousel/slide-7.jpg"
+  ],
+  "headers": {
+    "note": "images/2026-10-14/note-header.jpg",
+    "substack": "images/2026-10-14/substack-cover.jpg"
+  }
+}

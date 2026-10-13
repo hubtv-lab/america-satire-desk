@@ -1,362 +1,362 @@
 window.DAILY_DATA = {
   "version": 1,
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T01:24:18+00:00",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-13T23:21:52+00:00",
   "source": "auto (rss + claude)",
   "candidates": [
     {
       "id": "d1",
       "sensitive": false,
       "news": {
-        "headline": "Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It",
-        "source": "NPR News",
-        "date": "2026-10-13",
-        "url": "https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge",
-        "summary": "トランプ大統領が「スーパーPACが負担する」と約束した後も、政府は親トランプ広告に約2200万ドルの税金を投じ続けていたことが明らかになった。"
+        "headline": "OpenAI Engineer Arrested for Bugging Company Conference Room",
+        "source": "CNBC Top News",
+        "date": "2026-10-14",
+        "url": "https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html",
+        "summary": "OpenAI社員のサウジアラビア国籍エンジニアが、社内会議室に録音装置を仕掛けたとしてFBIに逮捕された。同社はすでに安全性をめぐる外部からの批判にさらされていた。"
       },
       "commentary": [
-        "<b>矛盾:</b> 「スーパーPACが出す」と言ったその後に税金で払ってるんですよ。約束を守らなかったのか、それとも最初から守るつもりがなかったのか、どっちにしても同じ結果なんですけどね。",
-        "<b>滑稽さ:</b> 「公共サービスのお知らせ」と呼んでるんですよ。大統領の顔が出てくる広告が。ガス漏れの避難指示と同じカテゴリーで。",
-        "<b>日本・海外から見ると:</b> 政府広告に「これは政治的中立です」と書いてある国はどこにでもありますけど、払ってるのが候補者本人の政府っていうのは、なかなかの荒技じゃないですか。"
+        "<b>矛盾:</b> 「AIの安全性」を世界に向けて説いている会社の会議室が、アナログな盗聴器で破られてたんですよ。GPT-5には聞けなかったのか。",
+        "<b>滑稽さ:</b> 「安全なAI」を開発する会社で、一番危なかったのが会議室のテーブルの下。ChatGPTより先にそっちを警戒してくれ。",
+        "<b>日本・海外から見ると:</b> OpenAIは「AIのリスクをどう管理するか」を語り続けてきたわけですが、足元の物理的なリスク管理は普通の会議室レベルでした。"
       ],
       "imagePrompts": [
-        "A giant government check made out to 'Public Service Announcements' with a TV screen in the background playing a clearly political ad, a super PAC logo gathering dust in the corner",
-        "A podium with two signs: one reading 'Super PAC Will Pay' crossed out, the other reading 'Taxpayers Will Pay' with a fresh checkmark, stacks of cash visible on the desk",
-        "A television set labeled 'Public Service Announcement' displaying a campaign-style graphic, surrounded by official government seals and stacks of federal budget documents"
+        "A sleek, futuristic AI company conference room with glowing screens and high-tech decor; underneath the polished table, a tiny old-fashioned recording device with a blinking red light is taped with duct tape.",
+        "A large corporate lobby sign reading 'AI Safety First' on the wall; a janitor with a flashlight peers under a conference table and finds a small bug device with a retro antenna.",
+        "A whiteboard covered in complex AI safety diagrams; on the floor below it, a tiny recording device is clearly visible to everyone except the people presenting at the board."
       ],
       "captions": [
-        "The super PAC was going to pay for the ads. Then the government paid for the ads. Same ads. The super PAC is doing great, though.",
-        "It's a public service announcement — the public is being announced to that their money is gone.",
-        "Twenty-two million dollars in taxpayer-funded ads described as 'non-political.' The non-political part cost extra.",
-        "He promised the super PAC would cover it. They didn't. Washington called that a rounding error. The $11 million rounding error.",
-        "You ever buy something, promise your friend will pay you back, and then just... not mention it again? Same energy. Higher budget."
+        "OpenAI has a model that can write your PhD thesis, but it took the FBI to find a bug taped to a chair leg.",
+        "All that 'existential risk from AI' talk — and the real leak was just a guy with hardware from a spy supply store.",
+        "Sir, this is the company that's supposed to replace human intelligence. Could we maybe start with the conference room?",
+        "They were worried about superintelligence escaping the lab. Nobody worried about what was already in the break room.",
+        "The recording device wasn't even AI. It's 2026 and OpenAI got beaten by a product from 1987."
       ],
       "captionsJa": [
-        "スーパーPACが広告費を出す、と言った。その後、政府が出した。同じ広告。スーパーPACは絶好調らしいです。",
-        "「公共サービスのお知らせ」です。公共へのお知らせは、あなたのお金がなくなったということです。",
-        "2200万ドルの税金を使った広告が「非政治的」と定義されてるんですよ。その非政治的な部分、わりと高かったですね。",
-        "スーパーPACが払うと約束した。払わなかった。ワシントンはそれを「誤差の範囲」と呼んでいます。1100万ドルの誤差です。",
-        "友達に「後で払ってもらう」って言って、そのまま黙ってたことないですか？あれと同じ話ですよ。予算だけ桁が違う。"
+        "OpenAIには博士論文を書けるモデルがあるのに、椅子の脚のテープをはがすのはFBIの仕事でした。",
+        "「AIの実存的リスク」を語り続けた会社が、スパイグッズショップの商品でやられた。",
+        "あのー、人間の知性を置き換えようとしてる会社ですよね。会議室から始めてくれませんか。",
+        "「超知性が研究所から脱走するリスク」は心配してたのに、すでに休憩室にいたやつは見てなかった。",
+        "盗聴器、AIじゃないんですよ。2026年に、OpenAIが1987年の製品に負けた。"
       ],
-      "newsEn": "The U.S. government has spent nearly $22 million in taxpayer funds to air ads that the White House calls 'public service announcements' but critics describe as pro-Trump messaging. Almost half of that sum was spent after Trump publicly promised his super PAC would fund the ads instead. The discrepancy, reported by NPR, raises questions about whether campaign-style advertising is being underwritten by public money.",
+      "newsEn": "The FBI arrested Abdulrahman Alfozan, a 35-year-old Saudi national employed as an engineer at OpenAI, after the company discovered a sophisticated recording device hidden in one of its conference rooms. Alfozan is charged with intercepting oral communications. The incident occurred as OpenAI and its rivals face growing scrutiny over their internal safety practices.",
       "ironyEn": [
         {
-          "contradiction": "Trump announced his super PAC would foot the bill for the ads — and then the government kept paying anyway, as if the promise was itself a public service announcement.",
-          "absurdity": "The White House is calling these 'public service announcements.' The public being served, apparently, is one specific person running the White House.",
-          "outside": "Most countries have rules separating government communications from campaign ads. The U.S. has those rules too — the ads just come with a different label."
+          "contradiction": "OpenAI has spent years warning the world about AI's existential risks. Turns out the most immediate threat was a guy with a bug under a conference table.",
+          "absurdity": "The company building the most sophisticated AI on the planet couldn't detect a recording device that's been around since Cold War spy movies.",
+          "outside": "From the outside, OpenAI's safety obsession suddenly looks a lot more theoretical than practical."
         },
         {
-          "contradiction": "A president who campaigned on cutting government spending found $22 million in taxpayer cash for ads featuring himself.",
-          "absurdity": "Half the spending happened *after* the promise to stop. That's not a policy reversal — that's a sequel nobody asked for.",
-          "outside": "From outside, the math is pretty simple: private money promised, public money spent, same ads aired. The only thing that changed was who got the receipt."
+          "contradiction": "They've got models that can pass the bar exam but apparently didn't pass a basic security sweep of their own rooms.",
+          "absurdity": "You'd think the company most paranoid about AI leaking information would at least check the furniture.",
+          "outside": "For a company that talks about 'responsible AI,' someone else's responsible use of a 1970s tape recorder made the bigger news."
         }
       ],
       "imageSeed": 1,
-      "image": "images/2026-10-13/candidate-1.jpg",
-      "imageStyle": "anime-digital",
-      "imagePunchy": "images/2026-10-13/candidate-1-punchy.jpg"
+      "image": "images/2026-10-14/candidate-1.jpg",
+      "imageStyle": "editorial-modern",
+      "imagePunchy": "images/2026-10-14/candidate-1-punchy.jpg"
     },
     {
       "id": "d2",
       "sensitive": false,
       "news": {
-        "headline": "GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It",
-        "source": "CBS News US",
-        "date": "2026-10-13",
-        "url": "https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/",
-        "summary": "調査によると、建設中のデータセンターの75%、計画段階の80%が共和党支持の強い州に集中しており、地域住民の反発が党の中間選挙戦略に影響を与えている。"
+        "headline": "Ambassador Guilfoyle Resigns Amid Allegations She Sold White House Access to Trump Donors",
+        "source": "NPR Politics",
+        "date": "2026-10-14",
+        "url": "https://www.npr.org/2026/10/13/nx-s1-6000216/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations",
+        "summary": "キンバリー・ギルフォイル駐ギリシャ米国大使が、トランプ支持者からアクセスと引き換えに金銭を求めたとされる疑惑が浮上し、辞任を求められた。本人は疑惑を否定している。"
       },
       "commentary": [
-        "<b>矛盾:</b> テックビッグに規制をかけるなと言い続けてきた共和党が、そのテックビッグのデータセンターを自分の州の裏庭に誘致して、地元有権者に怒られてるんですよ。",
-        "<b>滑稽さ:</b> データセンターって要するに巨大な騒音と電力消費の塊なんですけど、「雇用を生む」という建前でどんどん建てた結果、選挙前に地元が反乱を起こした。",
-        "<b>日本・海外から見ると:</b> 「企業規制より自由市場を」という旗を掲げてきた政党が、企業の立地選択のせいで自分の票田を失いかけてるというのは、市場原理の皮肉な授業ですよね。"
+        "<b>矛盾:</b> 「アクセスの見返りに金銭を求めた」という疑惑で辞任させられたのが大使ポジションで、その大使ポジション自体がトランプ家とのコネで得たものだったんですよ。",
+        "<b>滑稽さ:</b> 形だけ「アテネ赴任」になってたのに、結局ワシントンのアクセス売買の話で終わった。ギリシャがどこにあるかより、それが問題でした。",
+        "<b>日本・海外から見ると:</b> 「政府へのアクセスを売った」疑惑が、「コネで得た大使ポスト」からの辞任という形で幕を引いた。どこからどこまでが問題なのか、もはや境界線が難しい。"
       ],
       "imagePrompts": [
-        "A massive industrial data center building in a flat rural landscape, a 'Welcome to GOP Country' road sign nearby, a crowd of residents with protest signs in the foreground",
-        "A Republican politician shaking hands with a tech executive in front of a giant server farm, while behind them local farmers hold signs reading 'Too Loud' and 'Our Power Bill'",
-        "An electoral map of the US where data center icons cluster densely over red states, a thought bubble above a politician reading 'Wait, that wasn't the plan'"
+        "A US embassy building in Athens with a 'For Sale' sign taped to the front door; a velvet rope and a bouncer stand at the entrance with a clipboard labeled 'VIP Access — Inquire Within.'",
+        "A formal ambassador's desk covered in official papers; on top, a handwritten price list with items like 'Lunch with Chief of Staff' and 'Phone call with Cabinet Member' with dollar amounts next to each.",
+        "A press conference podium with a US State Department seal; the podium has a banner that reads 'I Absolutely Did Not Do This' while a resignation letter visibly sticks out of the speaker's jacket pocket."
       ],
       "captions": [
-        "You offer cheap land, low taxes, and no regulations. The tech industry shows up. Turns out that was a transaction, not a compliment.",
-        "75% of new data centers are in GOP states. The free market found them. They did not enjoy being found.",
-        "The data centers wanted cheap real estate and light regulation. Red states said 'absolutely.' And now everyone's getting exactly what they agreed to.",
-        "Local Republican voter in 2022: 'Keep government out of business.' Local Republican voter in 2026: 'Why is there a server farm next to my church?'",
-        "The party of deregulation deregulated so well that 80% of planned data centers picked their states. This is going great."
+        "Accused of selling White House access — from a job that was itself a form of White House access. It's turtles all the way down.",
+        "She denied everything while simultaneously resigning, which is a diplomatic move if I've ever seen one.",
+        "The ambassador to Greece got taken down not by any foreign government, but by a Wall Street Journal reporter. Athens is fine.",
+        "Selling access to the administration: apparently that's the line. Getting the job via the administration: that part was fine.",
+        "Her statement said she's 'proud of her service.' Greece says: service where, exactly?"
       ],
       "captionsJa": [
-        "安い土地と低税率と規制なしを提供した。テック業界がやってきた。あれは取引だったんですよ、褒め言葉じゃなくて。",
-        "新しいデータセンターの75%が共和党支持州にある。自由市場が彼らを見つけた。彼らは見つかるのが嬉しくなかった。",
-        "データセンターは安い土地と緩い規制が欲しかった。赤い州は「どうぞ」と言った。今、みんなが約束通りのものを手に入れてます。",
-        "2022年の共和党支持者：「政府はビジネスに口出しするな。」2026年の共和党支持者：「なんで教会の隣にサーバーが並んでるんだ。」",
-        "規制緩和を掲げた党が規制を緩めた結果、計画中のデータセンターの80%が自分たちの州を選んだ。順調ですよ、これ。"
+        "「政府へのアクセスを売った」疑惑で辞めさせられた人が、そもそも政府へのアクセスで得たポストにいた。どこまでが問題なのか全部じゃないか。",
+        "全部否定しながら同時に辞表を出す。外交的手腕ですよ、これは。",
+        "ギリシャ大使がやられたのは外国政府でも諜報機関でもなく、ウォール・ストリート・ジャーナルの記者でした。アテネは無事です。",
+        "「アクセスを売る」のは越えてはいけない線らしい。「コネで大使になる」のはセーフ。線引きがよくわからない。",
+        "声明では「職務を誇りに思う」と言ってた。ギリシャ側は「どの職務ですか」と思ってるはず。"
       ],
-      "newsEn": "Research from Cleanview Research shows that 75% of data centers currently under construction and 80% of those in the planning stage are located in predominantly Republican-leaning states. As public opposition to data centers grows — due to noise, water use, and power grid strain — the GOP finds itself in an awkward position ahead of the midterms, having broadly supported the tech industry while its own constituents push back.",
+      "newsEn": "Kimberly Guilfoyle, US Ambassador to Greece, has been asked to resign following allegations reported by the Wall Street Journal that she sought payment from a Trump donor in exchange for access to administration officials. Guilfoyle denied the misconduct allegations. The position had been widely seen as a reward tied to her relationship with Donald Trump Jr.",
       "ironyEn": [
         {
-          "contradiction": "The party that spent years blocking tech regulation is now watching those same unregulated tech companies park giant, humming, water-guzzling server farms in their voters' backyards.",
-          "absurdity": "Eighty percent of planned data centers are going into GOP territory. The free market has spoken, and it said: 'Your county. Not ours.'",
-          "outside": "Deregulation as a political platform works great until the deregulated industry picks your zip code."
+          "contradiction": "She's accused of selling access to the administration — from a job that itself looked a lot like a reward for administration-adjacent loyalty.",
+          "absurdity": "The scandal isn't that someone monetized White House connections. It's that she allegedly did it without proper paperwork.",
+          "outside": "Greece's tourism board is probably relieved. Now they don't have to pretend the ambassador ever actually showed up to work."
         },
         {
-          "contradiction": "GOP lawmakers championed the data center boom nationally, and now they're fielding angry calls from constituents who can hear the cooling fans from their porches.",
-          "absurdity": "The data centers need cheap land, loose regulations, and low taxes — all things red states advertised. The pitch worked perfectly. That's the problem.",
-          "outside": "It's a classic case of the incentives you offer being exactly the incentives that show up."
+          "contradiction": "Getting fired for trading access is awkward when the whole job was access-shaped from the start.",
+          "absurdity": "She denied the allegations while resigning, which is the diplomatic version of 'I'm leaving but it's fine, everything's fine.'",
+          "outside": "From Athens, this entire episode probably looked like a very American problem solving itself very American-ly."
         }
       ],
       "imageSeed": 2,
-      "image": "images/2026-10-13/candidate-2.jpg",
-      "imageStyle": "editorial-modern",
-      "imagePunchy": "images/2026-10-13/candidate-2-punchy.jpg"
+      "image": "images/2026-10-14/candidate-2.jpg",
+      "imageStyle": "soft-3d",
+      "imagePunchy": "images/2026-10-14/candidate-2-punchy.jpg"
     },
     {
       "id": "d3",
       "sensitive": false,
       "news": {
-        "headline": "Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land",
+        "headline": "AI Could Give You a Different Price Tag Than Your Neighbor",
         "source": "CBS News US",
-        "date": "2026-10-13",
-        "url": "https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/",
-        "summary": "ワシントンD.C.の連邦管理ゴルフ場で430本の木が伐採され、裁判官が司法省を叱責した。当該ゴルフ場は連邦所有地にある。"
+        "date": "2026-10-14",
+        "url": "https://www.cbsnews.com/news/price-tag-artificial-intelligence/",
+        "summary": "小売業者がAIを活用して顧客ごとに異なる価格を設定する「個別価格設定」を検討していると、消費者保護の専門家が指摘した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 連邦所有の公園内のゴルフ場で430本の木を切って、司法省が法廷で叱られてるんですよ。政府が政府の土地で法律を守れなかったというのは、なかなかの自己矛盾じゃないですか。",
-        "<b>滑稽さ:</b> 430本ですよ、430本。何本か伐採したとかじゃなくて、400を超えてる。誰かが気づく前に終わらせようとしたとしか思えない。",
-        "<b>日本・海外から見ると:</b> 環境保護規制を「過剰な政府介入」と批判してきた側が、政府の土地で規制を無視して木を切り倒して裁判官に怒られる、というのはシンプルにわかりやすい話ですね。"
+        "<b>矛盾:</b> 「あなただけの特別な体験」を売り文句にしてきたテック業界が、今度は「あなただけの特別な値段」をつけてくる。パーソナライズの行き着く先がこれ。",
+        "<b>滑稽さ:</b> 隣の人と同じ商品を買ったのに、あなたは12ドル、隣は8ドル。値札を見ても何も教えてくれない。棚に貼ってある数字、もう意味がないんですよ。",
+        "<b>日本・海外から見ると:</b> アメリカではすでに「同じ飛行機、同じ席、違う値段」が当たり前だけど、それがスーパーの食料品コーナーまで来た、ということ。"
       ],
       "imagePrompts": [
-        "A golf course fairway with 430 numbered stumps where trees used to be, a judge's gavel visible in the foreground, official DOJ briefcases on a bench nearby",
-        "A government lawyer at a courtroom podium with a chart showing '430 trees removed,' a 'Federal Land' sign visible through the courtroom window, the judge's bench looming above",
-        "An aerial view of a D.C. park golf course with a large cleared area of stumps, surrounded by remaining trees, a federal government seal on a nearby building"
+        "Two shoppers standing side by side in a grocery store aisle, each holding the identical product; one shopper's price display screen shows $8.99, the other shows $14.99; both are looking at each other confused.",
+        "A store shelf with a price tag display that shows a different price depending on the angle you look at it, like a lenticular card; a surveillance camera above the shelf points directly at shoppers.",
+        "A checkout counter where the price screen is blank until the customer swipes a card; then a number appears, printed by an AI system depicted as a small robot hitting a cash register button with a gavel."
       ],
       "captions": [
-        "The government cut down 430 trees on government land and sent government lawyers to say it was fine. The judge, also a government employee, said it wasn't.",
-        "Four hundred and thirty trees, gone on a Saturday. Not a Tuesday, not a phased environmental review — a Saturday.",
-        "It's a public golf course on public land with public trees. Everything about this was public except the decision to do it.",
-        "The DOJ had a lot of explanations for why 430 trees needed to come down. The judge had one question: 'Did anyone ask first?'",
-        "You know you've had a rough week when your own lawyers get scolded for what happened on your own land."
+        "The price tag was invented so everyone could see the price. AI is being used to make sure only you see yours.",
+        "Personalized pricing: because what the market will bear is now determined by how much Amazon thinks you make.",
+        "You used to haggle at a bazaar and at least you knew it. Now an algorithm does it for you, on your behalf, against you.",
+        "Same cereal. Same shelf. Same store. Your neighbor paid $3 less. The AI saw your search history.",
+        "They're calling it 'dynamic pricing.' The word 'dynamic' is doing a lot of work in that sentence."
       ],
       "captionsJa": [
-        "政府が政府の土地の木を430本切り倒して、政府の弁護士が「問題ない」と言いに行った。同じく政府に雇われた裁判官は、問題あると言いました。",
-        "430本ですよ、土曜日に。火曜日でも段階的な環境審査でもなく、土曜日に。",
-        "公共のゴルフ場、公共の土地、公共の木。決定以外は全部公共でした。",
-        "司法省はなぜ430本の木が必要だったか説明した。裁判官の質問はひとつ。「誰かに許可を取りましたか？」",
-        "自分の土地でやったことで自分の弁護士が叱られるというのは、なかなかの週の終わり方ですよ。"
+        "値札は「みんなが値段を見られるように」発明されたものです。AIは「あなただけに値段を見せる」ために使われようとしてる。",
+        "パーソナライズド価格設定。あなたがいくら払えるかをAmazonが判断してからの値付けです。",
+        "バザールでの値切りは双方わかってやってた。今は、アルゴリズムがあなたの代わりに、あなたに対してやってる。",
+        "同じシリアル。同じ棚。同じ店。隣の人は3ドル安かった。AIが検索履歴を見てたから。",
+        "「ダイナミック・プライシング」って言葉、なかなかの仕事してますよね、その『ダイナミック』が。"
       ],
-      "newsEn": "Government lawyers acknowledged that 430 trees were cut down at East Potomac Golf Links in Washington, D.C., on Saturday. The site is on federally managed park land. A judge chastised Department of Justice attorneys over the incident, raising questions about whether proper environmental review and legal procedures were followed before the trees were removed.",
+      "newsEn": "Retailers are exploring the use of artificial intelligence to set personalized prices for individual shoppers, according to a consumer protection expert. The technology would allow stores to charge different customers different amounts for the same product based on data profiles. Critics warn this could undermine price transparency and disproportionately affect certain consumer groups.",
       "ironyEn": [
         {
-          "contradiction": "The federal government cut down 430 trees on federal land, then sent its own lawyers to explain why that was fine. The judge disagreed.",
-          "absurdity": "Four hundred and thirty trees — on a Saturday. That's not a landscaping decision. That's a project with a deadline.",
-          "outside": "In most countries, clearing protected parkland requires permits, reviews, and approvals. The DOJ apparently thought the paperwork was optional."
+          "contradiction": "The same tech industry that promised to 'democratize access' is now building tools to charge you more than your neighbor for the same box of cereal.",
+          "absurdity": "The price tag — mankind's 150-year-old promise of 'this is what it costs' — is being abolished so an algorithm can decide what you personally deserve to pay.",
+          "outside": "Japan has had uniform pricing as a cultural norm for decades. The idea that an AI would charge you more for milk because you browsed premium cheese last Tuesday would be treated as a crime."
         },
         {
-          "contradiction": "The administration that frames environmental rules as bureaucratic overreach ran into a judge enforcing those exact rules — on the government's own property.",
-          "absurdity": "East Potomac Golf Links is a public park. The trees were public. The land was public. The only thing missing was a public process.",
-          "outside": "A government lawyer standing in court explaining why 430 trees are gone is a specific kind of Tuesday nobody planned for."
+          "contradiction": "Retailers call it 'personalized pricing.' Consumer advocates call it 'charging someone more for having less leverage.' Both are describing the same thing.",
+          "absurdity": "You can now browse a store, pick up a product, and have absolutely no idea what the cashier is about to tell you. Shopping as a guessing game.",
+          "outside": "Countries with strong consumer protection laws are watching this closely. American shoppers are mostly just hoping their loyalty card helps."
         }
       ],
       "imageSeed": 3,
-      "image": "images/2026-10-13/candidate-3.jpg",
-      "imageStyle": "soft-3d",
-      "imagePunchy": "images/2026-10-13/candidate-3-punchy.jpg"
+      "image": "images/2026-10-14/candidate-3.jpg",
+      "imageStyle": "classic-cartoon",
+      "imagePunchy": "images/2026-10-14/candidate-3-punchy.jpg"
     },
     {
       "id": "d4",
       "sensitive": false,
       "news": {
-        "headline": "Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art",
-        "source": "Ars Technica",
-        "date": "2026-10-13",
-        "url": "https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/",
-        "summary": "エピックゲームズが「AIファースト」の開発モデルへの転換を検討していると報じられ、手書きコードとAIを使わないアートの廃止が示唆された。"
+        "headline": "Bank of America Fined $1.2 Billion — One Day Before It Reports Earnings",
+        "source": "CNBC Top News",
+        "date": "2026-10-14",
+        "url": "https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html",
+        "summary": "財務省がバンク・オブ・アメリカにマネーロンダリング違反を理由に12億ドルの制裁金を科した。発表は同行の四半期決算報告のわずか一日前だった。"
       },
       "commentary": [
-        "<b>矛盾:</b> ゲームエンジン業界の象徴とも言える会社が「人間が書いたコードはもうやめる」と言い出したんですよ。フォートナイトを作ったエンジンを、次のゲームはAIが書く、ということらしい。",
-        "<b>滑稽さ:</b> 「手書きコード禁止」の宣言を出したのが、何年も遅延してるマーベル×スターウォーズのゲームを作ってる会社なんですよ。AIに変えれば速くなると思っているようで。",
-        "<b>日本・海外から見ると:</b> 日本のゲーム会社は「職人性」をブランドにしてる会社が多いけど、アメリカのスタジオがAIに全振りした時、そのギャップが市場でどう出るかは正直面白い実験ですよね。"
+        "<b>矛盾:</b> 「マネーロンダリングを取り締まる」ために12億ドルを払わされた銀行が、翌日に「うちの四半期は好調でした」と発表する構造なんですよ。罰金が決算の前座になってる。",
+        "<b>滑稽さ:</b> 12億ドルって聞くとすごい金額に聞こえますが、バンク・オブ・アメリカの年間利益から見たら「決算発表前のニュース整理」くらいの規模感です。",
+        "<b>日本・海外から見ると:</b> 「違法行為の罰金を払ってもビジネスが続けられる」というのが大銀行の現実で、これをアメリカ以外から見ると「制裁の意味ってなんだろう」という感想になる。"
       ],
       "imagePrompts": [
-        "A large game studio office where all the desks are empty except for glowing AI terminal screens, a whiteboard on the wall reading 'No Hand-Written Code' with an Unreal Engine logo in the background",
-        "A 'Help Wanted' sign outside a game studio with all job titles crossed out and replaced with 'AI Prompt Engineer', a stack of rejected artist portfolios on the doorstep",
-        "A developer staring at a screen showing AI-generated game art next to the classic Unreal Engine interface, a calendar on the wall with 'STILL DELAYED' stamped across multiple years"
+        "A massive bank building with a marquee sign out front: 'TODAY: $1.2B Fine. TOMORROW: Q3 Earnings Call!' formatted like a theater marquee with showbiz lighting.",
+        "A bank executive at a podium holding two folders simultaneously — one labeled 'Money Laundering Settlement' and one labeled 'Record Quarterly Profits' — trying to present both at once.",
+        "A Treasury Department official handing over a $1.2 billion penalty notice across a desk to a bank representative; on the wall behind the bank representative, a countdown clock reads '18 hours to earnings call.'"
       ],
       "captions": [
-        "Epic Games is going 'AI first.' Their delayed Marvel game is still delayed. Presumably the AI will also be delayed, but faster.",
-        "No more hand-written code at the company that wrote the engine half the game industry runs on. The engine will outlast the decision.",
-        "The Marvel and Star Wars game has been in development for years. Adding AI to the mix — can't see how that gets complicated.",
-        "Epic built Unreal Engine with human engineers. Their plan is to replace that process with AI. The engine will remain, presumably feeling weird about it.",
-        "Game studios say players want fresh, creative experiences. Their solution is to remove the humans making fresh, creative decisions. Interesting approach."
+        "Tuesday: $1.2 billion fine for money laundering. Wednesday: earnings call. The bank's calendar is packed.",
+        "Nothing says 'accountability' like a fine that gets announced the day before you tell investors how great the quarter was.",
+        "Twelve hundred million dollars. That's a lot of money to lose on a technicality — if 'helping people launder money' is a technicality.",
+        "The Treasury dropped this fine before market close on Tuesday so that by Friday, we'd be talking about their dividend instead.",
+        "They paid $1.2 billion. Bank of America has $3.3 trillion in assets. Do the math, then feel however you want about it."
       ],
       "captionsJa": [
-        "エピックゲームズが「AIファースト」に移行します。遅延中のマーベルゲームはまだ遅延中。たぶんAIも遅延しますが、速く遅延します。",
-        "ゲーム業界の半分が使ってるエンジンを人間が書いた会社が、手書きコード禁止を宣言した。エンジンはその決定より長生きするだろう。",
-        "マーベル×スターウォーズのゲームは何年も開発中。そこにAIを加えましょう、ということで。どうなるか見当がつかない。",
-        "エピックはアンリアルエンジンを人間のエンジニアで作った。その工程をAIに置き換える計画です。エンジン自体は残りますが、複雑な気持ちでいるはずです。",
-        "プレイヤーは「新鮮で創造的な体験」を求めてると言うんですけど、その体験を作る人間の判断をなくすことが解決策らしい。なるほど。"
+        "火曜日：マネロンで12億ドルの制裁金。水曜日：決算発表。スケジュールが詰まってる。",
+        "「説明責任」の表れとして、好調な四半期報告の前日に罰金を発表するのが定番になってきた。",
+        "12億ドル。「人のお金を洗浄するのを手伝った」が技術的なミスに分類されるなら、の話ですが。",
+        "財務省が火曜夕方に発表したのは、金曜日には配当の話に移ってもらうためだった可能性がある。",
+        "バンク・オブ・アメリカの総資産は3.3兆ドルです。12億の罰金との比率を計算してから、好きな感情を持ってください。"
       ],
-      "newsEn": "Epic Games is reportedly pivoting to an 'AI first' game development model, according to sources familiar with the plans. The shift would mean eliminating hand-written code and art created without AI assistance — a significant departure for the studio behind Unreal Engine. The announcement comes as the company's long-delayed Marvel and Star Wars shooter project remains in development.",
+      "newsEn": "The US Treasury Department announced a $1.2 billion fine against Bank of America for money-laundering violations. The penalty was made public less than 24 hours before the bank was scheduled to report its quarterly earnings. It is one of the largest anti-money-laundering fines levied against a major US bank in recent years.",
       "ironyEn": [
         {
-          "contradiction": "Epic Games, which built one of the most widely used game development engines in the world through human engineering, is now telling its engineers that human-written code is the problem.",
-          "absurdity": "The company's long-delayed Marvel and Star Wars game still isn't out. The proposed solution: fire the process that built Unreal Engine and replace it with one that hasn't shipped anything yet.",
-          "outside": "Game studios worldwide license Unreal Engine because it represents decades of expert human craft. Epic's pitch is now: 'What if we stopped doing that?'"
+          "contradiction": "The government fined Bank of America $1.2 billion for moving dirty money — and Bank of America will report how much clean money it made the next morning.",
+          "absurdity": "Twelve figures in fines, and the bank's PR team just had to shuffle the earnings press release down one slot in the news cycle.",
+          "outside": "In most countries, a $1.2 billion penalty signals a reckoning. At Bank of America's scale, it might not even change the color on the quarterly slide."
         },
         {
-          "contradiction": "No hand-written code, no human art — announced by a company whose entire reputation was built on exactly those things.",
-          "absurdity": "The delayed Marvel/Star Wars game keeps not shipping. Adding AI presumably means it will not ship faster, now with AI.",
-          "outside": "Players already complain that games feel generic. The solution being proposed is to make the development process more generic."
+          "contradiction": "Banks exist to hold money safely and transparently. The fine is for doing that incorrectly, on behalf of people who wanted it done incorrectly, at great profit.",
+          "absurdity": "The timing is almost poetic: get fined Tuesday, post earnings Wednesday, move on Thursday.",
+          "outside": "The 24-hour gap between 'you helped launder money' and 'please tune in for our strong Q3 results' is a uniquely American storytelling rhythm."
         }
       ],
       "imageSeed": 4,
-      "image": "images/2026-10-13/candidate-4.jpg",
-      "imageStyle": "classic-cartoon",
-      "imagePunchy": "images/2026-10-13/candidate-4-punchy.jpg"
+      "image": "images/2026-10-14/candidate-4.jpg",
+      "imageStyle": "retro-pop",
+      "imagePunchy": "images/2026-10-14/candidate-4-punchy.jpg"
     },
     {
       "id": "d5",
-      "sensitive": false,
+      "sensitive": true,
       "news": {
-        "headline": "Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor",
+        "headline": "Judge Clears Ex-FEMA CFO After Court Finds Musk's Accusations Were False",
         "source": "CNBC Top News",
-        "date": "2026-10-13",
-        "url": "https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html",
-        "summary": "イーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを寄付し、最大の既知の中間選挙ドナーとなった。同氏は連邦政府との取引関係も持つ。"
+        "date": "2026-10-14",
+        "url": "https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html",
+        "summary": "連邦判事が、イーロン・マスクら政府高官が元FEMA最高財務責任者マリー・コーマンズに対して行った刑事行為の告発は虚偽だったと認定し、同氏の名誉を回復した。"
       },
       "commentary": [
-        "<b>矛盾:</b> 連邦政府と巨額の契約を持つ人物が、その政府の政策を決める議員を選ぶ選挙に2億7600万ドルを突っ込んでいる。利益相反という言葉が頭をよぎりますが、法的には問題ないと言われてるんですよね。",
-        "<b>滑稽さ:</b> 「最大の既知のドナー」という表現、気になりませんか。既知の、ですよ。どういう意味かわかりますよね。",
-        "<b>日本・海外から見ると:</b> 政治献金の規模とルールはアメリカが独特なんですけど、2億7600万ドルって、日本の中堅企業の年間売上くらいある。個人献金の話ですよ、これ。"
+        "<b>矛盾:</b> 政府の役職にある人間が、別の政府職員を公開の場で「犯罪者」と断定した。裁判所はそれを「虚偽かつ威圧」と認定した。制度が制度内の人間を守るために使われた、という逆説。",
+        "<b>滑稽さ:</b> ではなく——これは笑いごとではなく、公的地位を使った名誉毀損を裁判所が正面から退けたケース。その意味は重い。",
+        "<b>日本・海外から見ると:</b> 「政府高官がSNSで公務員を名指しで犯罪者扱いする」という行為を、司法が明確に否定した。この判決が持つ抑止力が今後問われる。"
       ],
       "imagePrompts": [
-        "An enormous novelty check made out to 'Republican Groups' for $276,000,000 being handed over, government contract folders visible in the background on a desk",
-        "A donor leaderboard scoreboard with one name at the top by a massive margin, second place barely visible at the bottom, a 'Midterm Elections 2026' banner overhead",
-        "A Venn diagram on a whiteboard: one circle labeled 'Federal Contractors,' another labeled 'Biggest Political Donors,' the overlap section very large and shaded"
+        "A federal courtroom with a judge's bench; on one side, an empty government podium with a large official seal; on the other side, a single stack of court documents labeled 'Ruling: Accusations Unfounded.'",
+        "A large official government press conference lectern with microphones; taped to the front of the lectern, a court document reading 'Intimidation — Federal Court Finding'; no people in the image.",
+        "A government office building exterior with a notice board; pinned to it, a formal court ruling document next to a printed-out social media post, both visible but the social media post has the text blurred."
       ],
       "captions": [
-        "$276 million to Republican groups, from a man whose companies are paid by the Republican-led government. Totally separate things. Very separate.",
-        "He's the biggest 'known' donor. The word 'known' is in the headline for a reason, and the reason is interesting.",
-        "Two hundred and seventy-six million dollars. In one election. As a personal donation. And we're still calling it a donation.",
-        "Musk is 'rebuilding his relationship with Trump' while his companies hold federal contracts. He expressed that with $276 million. Trump got the message.",
-        "The largest known midterm donor also has the largest known financial relationship with the government the midterms will decide. Coincidence is a funny word."
+        "A federal judge ruled the accusations were false. The platform they were made on is still running.",
+        "It took a court ruling to give a government employee her name back. That's the part worth sitting with.",
+        "Official title. Public accusation. No evidence. Court said: none of that checks out.",
+        "The intimidation finding is in the record now. What happens next is a different case entirely.",
+        "She needed a federal judge to confirm what the documents already showed. That process took years."
       ],
       "captionsJa": [
-        "共和党率いる政府から仕事をもらってる人物が、共和党に2億7600万ドルを寄付した。完全に別の話ですよ。とても別の話。",
-        "「既知の」最大ドナー。見出しにわざわざ「既知の」がついてる理由、考えてみてください。",
-        "2億7600万ドル。一回の選挙で。個人の寄付として。それでも「寄付」と呼んでいます。",
-        "マスク氏はトランプ大統領との「関係を再構築中」で、その政府と連邦契約を持っている。2億7600万ドルで意思を伝えた。届いたと思います。",
-        "中間選挙で決まる政府と最大規模の取引関係にある人物が、その選挙の最大の寄付者でもある。偶然というのは面白い言葉ですよね。"
+        "連邦判事は告発が虚偽だったと認定した。告発が行われたプラットフォームは今も動いている。",
+        "政府職員が自分の名前を取り戻すのに裁判所の判決が必要だった。ここを受け止めてほしい。",
+        "公的な地位。公開の告発。証拠なし。裁判所の判断：どれも根拠がなかった。",
+        "「威圧」という認定は記録に残った。その後に何が起きるかは、別の話だ。",
+        "書類はもとから事実を示していた。それを確認する判決が出るまでに数年かかった。"
       ],
-      "newsEn": "Elon Musk has donated $276 million to Republican groups ahead of the 2026 midterm elections, making him the single largest known donor in the cycle. The spending comes as Musk, CEO of Tesla and SpaceX, continues to rebuild his relationship with Trump and maintains significant financial ties to the federal government through contracts with NASA, the Department of Defense, and other agencies.",
+      "newsEn": "A federal judge ruled that Elon Musk and other government officials falsely accused former FEMA CFO Mary Comans of criminal wrongdoing in 2025. The court cleared Comans' name and found that the accusations, which were made publicly, constituted intimidation. The case drew attention to the use of official platforms to target federal employees.",
       "ironyEn": [
         {
-          "contradiction": "The world's richest man, whose companies hold billions in federal contracts, donated $276 million to influence who controls the federal government. The word 'donor' is doing a lot of work in that sentence.",
-          "absurdity": "He's called the 'biggest known' midterm donor. The 'known' part is really doing some heavy lifting there.",
-          "outside": "Most countries have donation caps or full public disclosure requirements. The U.S. has the disclosure. The cap is apparently optional."
+          "contradiction": "Officials with government authority publicly accused a civil servant of crimes. A court found the accusations were false and amounted to intimidation. The accountability ran one direction only — until the judge.",
+          "absurdity": "It took a federal ruling to confirm what the evidence had shown: the accusations were baseless. The question is what consequence follows for those who made them.",
+          "outside": "In functioning institutions, false accusations from powerful officials against civil servants would trigger formal consequences. This ruling establishes the finding. Whether it triggers consequences is the next question."
         },
         {
-          "contradiction": "SpaceX and Tesla have significant government contracts. The CEO of both companies just wrote the biggest known check in the midterm cycle. The relationship is described as being 'rebuilt.'",
-          "absurdity": "Two hundred and seventy-six million dollars is the amount one person decided was a reasonable political contribution. For context, that's more than the GDP of some small nations — in one election cycle.",
-          "outside": "Foreign observers trying to explain American campaign finance to their audiences usually start with 'it's complicated' and end with 'yes, that number is real.'"
+          "contradiction": "The power to publicly destroy a person's professional reputation was used against someone who had no comparable platform to respond.",
+          "absurdity": "A CFO responsible for disaster relief funds had to go through federal litigation to clear her name from accusations made on social media.",
+          "outside": "From outside the US, the use of official standing to intimidate individual government employees — and the need for courts to intervene — reflects a stress fracture in institutional norms."
         }
       ],
       "imageSeed": 5,
-      "image": "images/2026-10-13/candidate-5.jpg",
-      "imageStyle": "retro-pop",
-      "imagePunchy": "images/2026-10-13/candidate-5-punchy.jpg"
+      "image": "images/2026-10-14/candidate-5.jpg",
+      "imageStyle": "watercolor-sketch",
+      "imagePunchy": "images/2026-10-14/candidate-5-punchy.jpg"
     }
   ],
   "editorial": {
-    "thread": "今日の5本は全部「片方の手でやったことを、もう片方の手でなかったことにしている」話。約束した後に税金で払う、自由市場を旗印にして地元住民に怒られる、政府の土地で政府が法律を破る、AIで速くなると言いながら遅延中、政府の契約先が政府の選挙に2億7600万ドル。",
-    "titleEn": "The Week the Government Forgot What the Government Is For",
-    "subtitleEn": "Five stories, one pattern: saying one thing, paying for another.",
-    "titleJa": "「スーパーPACが払う」と言った翌週に、税金で払っていた話",
+    "thread": "今日の5本を貫く糸は「守るための仕組みが、守るべき人を守っていない」。AIの安全を説く会社の会議室が盗聴され、銀行の罰金が決算の前座になり、大使ポストがアクセス売買の舞台になった。",
+    "titleEn": "The Bug in the Room Where It Happens",
+    "subtitleEn": "OpenAI, bank fines, and the week accountability became a scheduling conflict.",
+    "titleJa": "「安全なAI」を開発する会社の会議室に、録音装置が仕掛けてあった話",
     "titleAltJa": [
-      "2億7600万ドルを個人で寄付して、それでも「献金」と呼ばれている",
-      "430本の木を切り倒して裁判官に怒られるまで、誰も止めなかった話"
+      "バンク・オブ・アメリカが12億ドルの罰金を払った翌日に「好決算」と言った",
+      "今日の5本を読めば、『守る仕組み』の話題で一言返せるようになります"
     ],
-    "leadJa": "「スーパーPACが出す」と言った後に税金で払う。「規制より自由市場」と言い続けた州が、自分の裏庭のデータセンターに怒る。政府の土地で、政府が、法律を守れなかった。\n\n今日はそういう日です。",
-    "introEn": "Five stories today. They don't look connected on the surface.\n\nThere's the pro-Trump ads that the government paid for after Trump said his super PAC would. There's the Republican states hosting 75% of new data centers while their own voters revolt. There's a golf course where someone cut down 430 trees on a Saturday and hoped no one would notice. And then there's a $276 million personal donation from a man who also has federal contracts.\n\nThe thread, if you squint: everyone's pointing left while walking right.\n\nFor your forecast — if you've ever said you'd do something and then... quietly done a different thing, today's news says you're in extremely good company. The gap between what powerful people announce and what they actually do has never been wider, which means your own small contradictions barely register. You're fine. Probably.",
-    "introJa": "「スーパーPACが出す」。\nそう言った後に、税金で払っていた。\n\nそれだけでも今日は充分な一本なんですが、残り4本も全部そういう話でした。\n\n「規制より自由市場」を旗印にしてきた共和党の州が、テックの大型データセンターを誘致した結果、地元住民に怒られている。政府の土地で、政府の弁護士が説明しに行って、裁判官に怒られている。「AIファースト」を宣言したゲーム会社は、何年も遅延しているゲームの開発中に宣言した。そして連邦政府と巨額契約を持つ人物が、その政府の議員を選ぶ選挙に2億7600万ドルを寄付している。\n\nたぶん今日を貫く糸は、「言ったこととやったことがもう一致していない」ということです。\n\nということで、今日の占い。\nあなたが「言ったことと違う方向に進んでいる」と感じているとしたら、今日に限っては、それは全員そうです。大統領も、共和党も、ゲーム会社も、億万長者も。あなただけじゃない。少なくとも今日はね。",
-    "quipEn": "Today's lesson: say your super PAC will pay, let the taxpayer pay, call it a public service, and donate $276 million to make sure no one changes the rules.",
-    "quipJa": "「スーパーPACが出す」「市場に任せる」「問題ない」「献金です」。全部、同じ話でした。",
+    "leadJa": "OpenAIの会議室に盗聴器。大使が「アクセス売買」で辞任。銀行が罰金の翌日に決算発表。\n\nどれも「守るための仕組み」が出てくる話なんですよ。で、どれも、守れてなかった。",
+    "introEn": "This morning I read five stories, and every single one of them was about a system that was supposed to protect something — and didn't.\n\nOpenAI builds safeguards against AI risk. Someone hid a recording device under a chair. A bank paid $1.2 billion for money laundering. Twenty-four hours later: earnings call. A federal judge ruled that a government official publicly accused a civil servant of crimes she didn't commit.\n\nThe ambassador to Greece? Gone. The price tag at your grocery store? Negotiable, apparently, depending on what the algorithm thinks you're worth.\n\nHere's your forecast: if something in your life looks like it's supposed to be protecting you but isn't quite doing the job — you're in excellent company today. The gap between the label and the contents is a structural problem, not a personal one. You noticed it. That already puts you ahead.",
+    "introJa": "OpenAIの会議室に盗聴器。\n\n最初にそれを読んで、なんか変な笑いが出ました。「AIの安全性」を世界に向けて語り続けてきた会社の、物理的な会議室に、アナログな録音装置が。椅子の下に。\n\nで、他を見ると——\n大使が「政府へのアクセスと引き換えに金銭を要求した」疑惑で辞任。その大使ポスト自体、コネで得たものだった。バンク・オブ・アメリカが12億ドルの罰金を科されて、翌日に好決算を発表した。スーパーの値札がAIによって人によって違う金額になるかもしれない。連邦判事が「マスクらの告発は虚偽だった」と認定し、公務員の名誉を回復した。\n\n今日の5本を貫く糸はたぶん、「守るための仕組みが、守るべき人を守っていない」ということだと思う。\n\nで、占いです。\nあなたが「この仕組み、機能してなくない?」と感じていることがあるとしたら——今日のニュースを見る限り、あなたの感覚は正しい。おかしいと気づいていること自体が、今日はいちばんの武器です。少なくとも、盗聴器に気づけなかった会社よりは一歩前にいる。",
+    "quipEn": "Five stories today, five systems designed to protect something. The conference room, the bank, the ambassador's office, the price tag, the public servant's name. None of them held.",
+    "quipJa": "今日の5本、全部「守るはずのもの」の話でした。全部、守れてなかった。",
     "notesEn": [
-      "The U.S. government spent nearly $22 million on pro-Trump ads. Almost half of that came after Trump publicly said his super PAC would cover the cost. The ads are classified as public service announcements. The public's service was paying for them.",
-      "75% of new data centers are being built in Republican-leaning states. The GOP spent years opposing tech regulation. The tech industry said thanks, picked the cheapest land with the fewest rules, and showed up. Now those same states have noise complaints, power shortages, and angry voters three weeks before midterms.",
-      "On a Saturday, someone cut down 430 trees at a federally managed golf course in Washington D.C. Government lawyers had to explain this to a judge. The judge was not satisfied with the explanation. Four hundred and thirty trees, on a Saturday.",
-      "Epic Games is going 'AI first' — no more hand-written code, no more art made without AI. This was announced while their Marvel and Star Wars game, which has been in development for years, is still not finished. The AI pivot will presumably also take a while.",
-      "Elon Musk donated $276 million to Republican groups ahead of the 2026 midterms — the largest known donation in this cycle. His companies hold significant contracts with the federal government. The word 'known' is doing a lot of work in that sentence."
+      "OpenAI has a model that can write your PhD thesis. It could not detect a recording device taped under a chair in its own conference room. The FBI had to do that part.",
+      "Kimberly Guilfoyle was accused of selling White House access. From a job that was itself White House access. At some point the turtles just go all the way down.",
+      "Retailers are testing AI that charges you a different price than the person next to you for the same item. The price tag was literally invented so everyone could see the price. We are moving in the opposite direction.",
+      "Bank of America paid a $1.2 billion fine for money laundering on Tuesday. On Wednesday they reported earnings. Their calendar was full but they made it work.",
+      "A federal judge ruled that the accusations Elon Musk made against a former FEMA CFO were false. The court gave her name back. It took a court to do it."
     ],
     "xJa": [
-      "「スーパーPACが広告費を出す」とトランプ大統領が宣言した後、政府は税金で親トランプ広告を流し続けた。総額2200万ドル。名目は「公共サービスのお知らせ」。公共は知らされていなかった。",
-      "建設中のデータセンターの75%が共和党支持の強い州にある。「規制より自由市場」を掲げてきた結果、テックが来て、騒音と電力不足が来て、中間選挙直前に地元住民が怒っている。市場原理は正直だ。",
-      "ワシントンD.C.の連邦管理ゴルフ場で、土曜日に430本の木が伐採された。司法省が裁判官に説明した。裁判官は納得しなかった。土曜日に430本。",
-      "エピックゲームズが「AIファースト」宣言。手書きコード禁止、AIなしのアート禁止。何年も遅延しているマーベル×スターウォーズのゲームが開発中のタイミングで。AIにすれば速くなると思っているらしい。",
-      "イーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを個人で寄付。彼の会社は連邦政府と巨額契約を持つ。ニュースは「最大の既知のドナー」と書いている。「既知の」という部分が気になる。"
+      "OpenAIの会議室に録音装置。「AIのリスク管理」を世界に説く会社が、椅子の下の盗聴器をFBIに発見してもらった。GPT-5より先にそっちを警戒してほしかった。",
+      "駐ギリシャ大使が「政府アクセスを金銭と交換した」疑惑で辞任。その大使ポスト自体がコネで得たもの。どこからどこまでが問題なのか、もはや境界線が難しい。",
+      "AIが隣の人と違う値段をつけてくる時代が来そうらしい。値札って「全員に同じ値段を見せる」ために発明されたんですけど、それをAIで逆に戻すんですね。",
+      "バンク・オブ・アメリカ、マネロンで12億ドルの罰金。翌日に好決算発表。罰金が決算の前座になっている。",
+      "連邦判事が「マスクらの告発は虚偽だった」と認定し、元FEMA CFOの名誉を回復した。公的地位で公務員を名指しで犯罪者扱いして、裁判所に「全部でたらめ」と言われた。"
     ],
     "raidEn": [
-      "The 'public service announcement' label is really pulling some weight here. Most PSAs warn you about fire exits. This one just... features the president.",
-      "The free market working exactly as advertised — it found the cheapest real estate, moved in, and now everyone's surprised the free market showed up.",
-      "430 trees on a Saturday. Not a phased plan, not an environmental review. A Saturday.",
-      "The delayed game getting an AI pivot is very funny. The AI will probably also need an extension.",
-      "The 'known' in 'largest known donor' is genuinely the most interesting word in that sentence."
+      "The part I can't get past: this is the company whose entire brand is 'we're thinking harder about AI safety than anyone.' And the security gap was analog. A physical device. Under furniture.",
+      "The detail that gets me is that the job itself — ambassador — was already the access. So the allegation is that she was selling a thing she'd already been given as a gift. Very efficient.",
+      "The price tag has been around since the 1870s specifically so sellers couldn't charge different people different amounts on the spot. AI is just very slowly reinventing the bazaar.",
+      "The timing is genuinely extraordinary. $1.2 billion fine on Tuesday. Earnings call on Wednesday. The bank's PR team had a long Monday night.",
+      "What strikes me is that it took a federal court ruling to restore someone's professional reputation after a public accusation from someone with an official title. The accusation spread instantly. The correction took a year."
     ],
     "raidJa": [
-      "「公共サービスのお知らせ」というカテゴリー、ガス漏れ警報と同じ枠に大統領が出てくるの、なかなかですよね。丁寧に読むと笑えてくる記事でした。",
-      "「企業規制より自由市場を」という旗を20年掲げた結果がこれ、というのがシンプルすぎて逆に面白い。市場原理は正直ですね、という話でした。",
-      "430本というのが気になって読みました。1本でも2本でもなく430本、しかも土曜日に。誰かが気づく前に終わらせようとした感じがしますよね。",
-      "遅延しているゲームをAIで立て直す、という発想自体は面白いんですが、AIも締め切りを守るかどうかはまだ未検証ですよね。続きが気になる話でした。",
-      "「既知の」という一言がめちゃくちゃ効いていますよね。記者がわかっていて書いている気がして、そこが一番好きでした。"
+      "「AIの安全」を語る会社で、一番ローテクな脅威が見落とされていたという皮肉、記事を読んでいて笑いが出ました。丁寧に書かれた記事でした、ありがとうございます。",
+      "「アクセスを売った」疑惑で辞任するポストが、そもそもアクセスで得たポストだったというの、どこから突っ込めばいいか迷いました。よくまとめてくださいました。",
+      "値札って「誰でも同じ値段を見られる」ために生まれたのに、AIでそれを個別化するというのが面白くて。この話、周りにしたら全員ざわついてました。",
+      "罰金の翌日に決算発表、というカレンダーの話が妙にリアルで。大きな銀行のスケール感がこういうところに出るんですね、と思いました。",
+      "公的な立場からの虚偽告発を司法が正面から退けた判決、もっと広く知られてほしい事案だと思います。丁寧に取り上げてくださってよかったです。"
     ],
     "riffEn": [
-      "Trump said his super PAC would fund the ads. Then the government funded the ads. Same ads, different wallet — specifically, yours. The White House calls them 'public service announcements,' which is technically accurate: the public is being informed that its money is now elsewhere. The super PAC, for its part, is reportedly fine.",
-      "Republican lawmakers spent years telling their constituents that tech regulation was government overreach. The tech industry listened, picked states with cheap land and minimal rules, and started building. Now 75% of new data centers are in GOP states, and those states' voters are furious about the noise, the water bills, and the power grid strain. The free market showed up exactly when invited. Nobody planned for what happens after you open the door.",
-      "On Saturday — not during a scheduled review, not at the end of a permitting process — 430 trees were removed from a federally managed golf course in Washington D.C. Government lawyers went to court to explain this. The judge asked questions. The lawyers answered them. The judge remained unsatisfied. It's a strange thing, watching the government send lawyers to defend the government cutting down the government's trees on the government's land without following the government's own rules. The trees are not available for comment.",
-      "Epic Games is eliminating hand-written code and human-made art. The company that built Unreal Engine — the engine that powers roughly half the games you've played this decade — has decided the next step is to have AI write the code instead. This announcement came while their Marvel and Star Wars shooter, in development for several years, is still not finished. The pivot to AI will presumably be faster. Presumably.",
-      "Elon Musk donated $276 million to Republican groups ahead of the 2026 midterms. His companies — Tesla, SpaceX — hold substantial contracts with the federal government, which those same Republicans help oversee. Legal experts note this is all technically permitted. The headline uses the phrase 'largest known donor.' Known. That word is in there for a reason, and the reason is that someone put it there on purpose."
+      "OpenAI's whole public identity is built around one idea: we are the people thinking most seriously about AI risk. They have safety teams, alignment researchers, public commitments, a board that once fired the CEO over it. So when the FBI arrested one of their engineers for planting a recording device in a company conference room, the detail worth sitting with isn't the espionage — it's the device. Not a sophisticated AI surveillance system. A bug. Under a chair. Hardware you could order online. GPT-5 cannot help you with that.",
+      "Kimberly Guilfoyle was appointed US Ambassador to Greece, a job widely understood to reflect her personal connection to Donald Trump Jr. She is now accused of seeking payment from a Trump donor in exchange for access to administration officials — that is, selling proximity to the same administration that gave her the job. She denied it and resigned. The Greek government had no comment, because Athens, genuinely, had nothing to do with any of this.",
+      "The price tag was invented in the 19th century for a specific reason: so that every customer in the store could see exactly what something cost, and nobody could be charged more based on who they were. Now retailers are testing AI systems that look at your data profile and decide what to charge you individually, before you even pick up the item. They kept the tag. They just made the number on it personal.",
+      "Bank of America was fined $1.2 billion for money laundering violations. The announcement came less than 24 hours before the bank's scheduled quarterly earnings call. One billion two hundred million dollars is, by any normal measure, a significant sum of money. For Bank of America, it was Tuesday's news. Wednesday they talked about how the quarter went. The fine will appear somewhere in the footnotes.",
+      "A federal judge found that Elon Musk and other government officials publicly accused former FEMA CFO Mary Comans of criminal wrongdoing — and that the accusations were false. The court cleared her name and characterized the public statements as intimidation. The accusations were made on official platforms, spread immediately, and took a court ruling to formally retract. She got her name back. It took about a year."
     ],
     "riffJa": [
-      "「スーパーPACが広告費を出す」とトランプ大統領は言った。その後、政府が払った。同じ広告を。財布だけが違う、つまりあなたの財布。\n\nホワイトハウスはこれを「公共サービスのお知らせ」と呼んでいます。ガス漏れの避難指示と同じカテゴリーで。大統領の顔が出てくる広告が。スーパーPACは現在も元気にしているそうです。",
-      "共和党は長年「テックへの規制は政府の過剰介入だ」と言い続けてきた。テック企業は聞いていた。そして税金が安くて規制の少ない土地を選んで、データセンターを建てた。建設中の75%が共和党支持の強い州に集中している。\n\n地元住民は今、騒音と電力不足と水の使いすぎに怒っている。中間選挙の3週間前に。来いと言ったら来た。来た後のことは誰も考えてなかった。",
-      "土曜日に、430本。\n\n環境審査でも許可プロセスでもなく、土曜日に。ワシントンD.C.の連邦管理公園内のゴルフ場で。司法省が弁護士を送り込んで、裁判官に説明した。裁判官は満足しなかった。\n\n政府の土地の木を、政府が、政府のルールを無視して切り倒して、政府の弁護士が裁判官に怒られた。政府って、何？",
-      "エピックゲームズが「AIファースト」宣言。手書きコード禁止。AIを使わないアート禁止。\n\nこれを言ったのが、何年も前から開発中のマーベル×スターウォーズのシューターゲームがまだ出ていない会社です。AIに変えれば速くなると思っているらしい。AIも締め切りは守れるのかな。まだ誰も知らないんですよね。",
-      "イーロン・マスク氏が共和党系グループに2億7600万ドルを寄付した。個人で。一選挙サイクルで。\n\n彼の会社は連邦政府と巨額の契約を持っている。NASAとも、国防総省とも。その連邦政府の政策を決める議員を選ぶ選挙に、2億7600万ドルを投じている。法的には問題ないそうです。\n\nニュースは「最大の既知のドナー」と書いている。「既知の」。この二文字が一番気になります。"
+      "OpenAIのブランドは「AIのリスクを誰よりも真剣に考えている会社」というものです。安全チームがあって、アライメント研究者がいて、CEOが一度解任されるくらいの騒動もあった。その会社の会議室で、FBIが逮捕したのは、録音装置を仕掛けた自社のエンジニアです。\n\n装置の正体がアナログの盗聴器で、椅子の下に貼り付けてあった。GPT-5には探せない場所でした。",
+      "キンバリー・ギルフォイルの駐ギリシャ大使ポストは、トランプ・ジュニアとの関係から生まれたポストとして広く理解されていました。で、疑惑の内容が「トランプ支持者から、政権幹部へのアクセスと引き換えに金銭を求めた」というもの。アクセスで得たポストから、アクセスを売ったという話です。\n\n本人は否定して、辞任した。ギリシャは関係ありません。",
+      "値札は19世紀に生まれました。理由はシンプルで、「誰でも同じ値段を見られるようにするため」です。小売業者がAIで検討しているのは、あなたのデータを見て、あなただけの値段を決めるシステム。値札はまだそこにあります。でも書いてある数字が、隣の人のものとは違う。",
+      "バンク・オブ・アメリカがマネーロンダリング違反で12億ドルの制裁金。発表は四半期決算の24時間前でした。12億ドルというのはものすごい金額に聞こえますが、翌日の決算発表でその話が出たかどうかは知りません。罰金は火曜日のニュース。決算は水曜日の話。それだけ。",
+      "連邦判事が認定した事実は、こうです。イーロン・マスクら政府高官が、元FEMA最高財務責任者マリー・コーマンズを公開の場で刑事犯罪者と呼んだ。告発は虚偽だった。裁判所はそれを「威圧」と認定し、名誉を回復した。\n\n告発は一瞬で広まった。名誉回復には約一年かかった。これは笑えない。"
     ],
     "asideEn": [
-      "Public service, technically.",
-      "The market listened. That was the problem.",
-      "Four hundred and thirty trees. On a Saturday.",
-      "The delay remains. Now with AI.",
-      "The word 'known' is working overtime."
+      "The safest room in that building was not the server room.",
+      "Athens is fine.",
+      "They kept the tag. They changed the number.",
+      "The fine is in the footnotes.",
+      "This one isn't funny."
     ],
     "asideJa": [
-      "「公共サービス」、らしいです。",
-      "自由市場、正直すぎた。",
-      "土曜日に430本。誰も止めなかった。",
-      "AIにしても、遅延は遅延。",
-      "「既知の」、というのが全部です。"
+      "物理セキュリティ、大丈夫ですか。",
+      "ギリシャは関係なかった。",
+      "値札はあります。数字だけ変わります。",
+      "罰金は前座でした。",
+      "これは、笑えない。"
     ],
     "tagsEn": [
       "Satire",
       "US Politics",
-      "News Commentary",
-      "Elon Musk",
-      "Epic Games"
+      "OpenAI",
+      "Bank of America",
+      "News Commentary"
     ],
-    "fullEn": "# The Week the Government Forgot What the Government Is For\n\n## Today's Forecast\n\nFive stories today. They don't look connected on the surface.\n\nThere's the pro-Trump ads that the government paid for after Trump said his super PAC would. There's the Republican states hosting 75% of new data centers while their own voters revolt. There's a golf course where someone cut down 430 trees on a Saturday and hoped no one would notice. And then there's a $276 million personal donation from a man who also has federal contracts.\n\nThe thread, if you squint: everyone's pointing left while walking right.\n\nFor your forecast — if you've ever said you'd do something and then... quietly done a different thing, today's news says you're in extremely good company. The gap between what powerful people announce and what they actually do has never been wider, which means your own small contradictions barely register. You're fine. Probably.\n\n---\n\n## 1. Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It\n\n*NPR News — [source](https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge)*\n\nThe U.S. government has spent nearly $22 million in taxpayer funds to air ads that the White House calls 'public service announcements' but critics describe as pro-Trump messaging. Almost half of that sum was spent after Trump publicly promised his super PAC would fund the ads instead. The discrepancy, reported by NPR, raises questions about whether campaign-style advertising is being underwritten by public money.\n\n**Why It's Funny**\n\nTrump said his super PAC would fund the ads. Then the government funded the ads. Same ads, different wallet — specifically, yours. The White House calls them 'public service announcements,' which is technically accurate: the public is being informed that its money is now elsewhere. The super PAC, for its part, is reportedly fine.\n\n**Say It Out Loud**\n\n> The super PAC was going to pay for the ads. Then the government paid for the ads. Same ads. The super PAC is doing great, though.\n\n---\n\n## 2. GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It\n\n*CBS News US — [source](https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/)*\n\nResearch from Cleanview Research shows that 75% of data centers currently under construction and 80% of those in the planning stage are located in predominantly Republican-leaning states. As public opposition to data centers grows — due to noise, water use, and power grid strain — the GOP finds itself in an awkward position ahead of the midterms, having broadly supported the tech industry while its own constituents push back.\n\n**Why It's Funny**\n\nRepublican lawmakers spent years telling their constituents that tech regulation was government overreach. The tech industry listened, picked states with cheap land and minimal rules, and started building. Now 75% of new data centers are in GOP states, and those states' voters are furious about the noise, the water bills, and the power grid strain. The free market showed up exactly when invited. Nobody planned for what happens after you open the door.\n\n**Say It Out Loud**\n\n> You offer cheap land, low taxes, and no regulations. The tech industry shows up. Turns out that was a transaction, not a compliment.\n\n---\n\n## 3. Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land\n\n*CBS News US — [source](https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/)*\n\nGovernment lawyers acknowledged that 430 trees were cut down at East Potomac Golf Links in Washington, D.C., on Saturday. The site is on federally managed park land. A judge chastised Department of Justice attorneys over the incident, raising questions about whether proper environmental review and legal procedures were followed before the trees were removed.\n\n**Why It's Funny**\n\nOn Saturday — not during a scheduled review, not at the end of a permitting process — 430 trees were removed from a federally managed golf course in Washington D.C. Government lawyers went to court to explain this. The judge asked questions. The lawyers answered them. The judge remained unsatisfied. It's a strange thing, watching the government send lawyers to defend the government cutting down the government's trees on the government's land without following the government's own rules. The trees are not available for comment.\n\n**Say It Out Loud**\n\n> The government cut down 430 trees on government land and sent government lawyers to say it was fine. The judge, also a government employee, said it wasn't.\n\n---\n\n## 4. Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art\n\n*Ars Technica — [source](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/)*\n\nEpic Games is reportedly pivoting to an 'AI first' game development model, according to sources familiar with the plans. The shift would mean eliminating hand-written code and art created without AI assistance — a significant departure for the studio behind Unreal Engine. The announcement comes as the company's long-delayed Marvel and Star Wars shooter project remains in development.\n\n**Why It's Funny**\n\nEpic Games is eliminating hand-written code and human-made art. The company that built Unreal Engine — the engine that powers roughly half the games you've played this decade — has decided the next step is to have AI write the code instead. This announcement came while their Marvel and Star Wars shooter, in development for several years, is still not finished. The pivot to AI will presumably be faster. Presumably.\n\n**Say It Out Loud**\n\n> Epic Games is going 'AI first.' Their delayed Marvel game is still delayed. Presumably the AI will also be delayed, but faster.\n\n---\n\n## 5. Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html)*\n\nElon Musk has donated $276 million to Republican groups ahead of the 2026 midterm elections, making him the single largest known donor in the cycle. The spending comes as Musk, CEO of Tesla and SpaceX, continues to rebuild his relationship with Trump and maintains significant financial ties to the federal government through contracts with NASA, the Department of Defense, and other agencies.\n\n**Why It's Funny**\n\nElon Musk donated $276 million to Republican groups ahead of the 2026 midterms. His companies — Tesla, SpaceX — hold substantial contracts with the federal government, which those same Republicans help oversee. Legal experts note this is all technically permitted. The headline uses the phrase 'largest known donor.' Known. That word is in there for a reason, and the reason is that someone put it there on purpose.\n\n**Say It Out Loud**\n\n> $276 million to Republican groups, from a man whose companies are paid by the Republican-led government. Totally separate things. Very separate.\n\n---\n\n## Today's Punchline\n\n> Today's lesson: say your super PAC will pay, let the taxpayer pay, call it a public service, and donate $276 million to make sure no one changes the rules.\n",
-    "fullJa": "# 「スーパーPACが払う」と言った翌週に、税金で払っていた話\n\n## 今日を占うよ〜\n\n「スーパーPACが出す」。\nそう言った後に、税金で払っていた。\n\nそれだけでも今日は充分な一本なんですが、残り4本も全部そういう話でした。\n\n「規制より自由市場」を旗印にしてきた共和党の州が、テックの大型データセンターを誘致した結果、地元住民に怒られている。政府の土地で、政府の弁護士が説明しに行って、裁判官に怒られている。「AIファースト」を宣言したゲーム会社は、何年も遅延しているゲームの開発中に宣言した。そして連邦政府と巨額契約を持つ人物が、その政府の議員を選ぶ選挙に2億7600万ドルを寄付している。\n\nたぶん今日を貫く糸は、「言ったこととやったことがもう一致していない」ということです。\n\nということで、今日の占い。\nあなたが「言ったことと違う方向に進んでいる」と感じているとしたら、今日に限っては、それは全員そうです。大統領も、共和党も、ゲーム会社も、億万長者も。あなただけじゃない。少なくとも今日はね。\n\n---\n\n## 1. Government Spent $10M on Pro-Trump Ads After Trump Said Super PAC Would Cover It\n\n*NPR News（[記事](https://www.npr.org/2026/10/12/nx-s1-5998976/pro-trump-ads-taxpayer-funds-federal-judge)）*\n\nトランプ大統領が「スーパーPACが負担する」と約束した後も、政府は親トランプ広告に約2200万ドルの税金を投じ続けていたことが明らかになった。\n\n**どこが笑える？**\n\n「スーパーPACが広告費を出す」とトランプ大統領は言った。その後、政府が払った。同じ広告を。財布だけが違う、つまりあなたの財布。\n\nホワイトハウスはこれを「公共サービスのお知らせ」と呼んでいます。ガス漏れの避難指示と同じカテゴリーで。大統領の顔が出てくる広告が。スーパーPACは現在も元気にしているそうです。\n\n**このニュースをジョークにするなら...**\n\n> スーパーPACが広告費を出す、と言った。その後、政府が出した。同じ広告。スーパーPACは絶好調らしいです。\n\n---\n\n## 2. GOP States Host 75% of New Data Centers — and Their Voters Are Furious About It\n\n*CBS News US（[記事](https://www.cbsnews.com/news/data-center-boom-republicans-2026-midterm-elections/)）*\n\n調査によると、建設中のデータセンターの75%、計画段階の80%が共和党支持の強い州に集中しており、地域住民の反発が党の中間選挙戦略に影響を与えている。\n\n**どこが笑える？**\n\n共和党は長年「テックへの規制は政府の過剰介入だ」と言い続けてきた。テック企業は聞いていた。そして税金が安くて規制の少ない土地を選んで、データセンターを建てた。建設中の75%が共和党支持の強い州に集中している。\n\n地元住民は今、騒音と電力不足と水の使いすぎに怒っている。中間選挙の3週間前に。来いと言ったら来た。来た後のことは誰も考えてなかった。\n\n**このニュースをジョークにするなら...**\n\n> 安い土地と低税率と規制なしを提供した。テック業界がやってきた。あれは取引だったんですよ、褒め言葉じゃなくて。\n\n---\n\n## 3. Judge Scolds DOJ After 430 Trees Cleared at D.C. Golf Course — Federally Protected Land\n\n*CBS News US（[記事](https://www.cbsnews.com/news/judge-ana-reyes-justice-department-trees-east-potomac-golf-course/)）*\n\nワシントンD.C.の連邦管理ゴルフ場で430本の木が伐採され、裁判官が司法省を叱責した。当該ゴルフ場は連邦所有地にある。\n\n**どこが笑える？**\n\n土曜日に、430本。\n\n環境審査でも許可プロセスでもなく、土曜日に。ワシントンD.C.の連邦管理公園内のゴルフ場で。司法省が弁護士を送り込んで、裁判官に説明した。裁判官は満足しなかった。\n\n政府の土地の木を、政府が、政府のルールを無視して切り倒して、政府の弁護士が裁判官に怒られた。政府って、何？\n\n**このニュースをジョークにするなら...**\n\n> 政府が政府の土地の木を430本切り倒して、政府の弁護士が「問題ない」と言いに行った。同じく政府に雇われた裁判官は、問題あると言いました。\n\n---\n\n## 4. Epic Games Goes 'AI First' — Declares End of Hand-Written Code and Human-Made Art\n\n*Ars Technica（[記事](https://arstechnica.com/gaming/2026/10/report-epic-games-goes-all-in-on-ai-for-disney-collaboration/)）*\n\nエピックゲームズが「AIファースト」の開発モデルへの転換を検討していると報じられ、手書きコードとAIを使わないアートの廃止が示唆された。\n\n**どこが笑える？**\n\nエピックゲームズが「AIファースト」宣言。手書きコード禁止。AIを使わないアート禁止。\n\nこれを言ったのが、何年も前から開発中のマーベル×スターウォーズのシューターゲームがまだ出ていない会社です。AIに変えれば速くなると思っているらしい。AIも締め切りは守れるのかな。まだ誰も知らないんですよね。\n\n**このニュースをジョークにするなら...**\n\n> エピックゲームズが「AIファースト」に移行します。遅延中のマーベルゲームはまだ遅延中。たぶんAIも遅延しますが、速く遅延します。\n\n---\n\n## 5. Musk Donates $276 Million to Republicans, Becomes Biggest Known 2026 Midterm Donor\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/12/elon-musk-republican-donations-2026-midterm-election.html)）*\n\nイーロン・マスク氏が2026年中間選挙に向けて共和党系グループに2億7600万ドルを寄付し、最大の既知の中間選挙ドナーとなった。同氏は連邦政府との取引関係も持つ。\n\n**どこが笑える？**\n\nイーロン・マスク氏が共和党系グループに2億7600万ドルを寄付した。個人で。一選挙サイクルで。\n\n彼の会社は連邦政府と巨額の契約を持っている。NASAとも、国防総省とも。その連邦政府の政策を決める議員を選ぶ選挙に、2億7600万ドルを投じている。法的には問題ないそうです。\n\nニュースは「最大の既知のドナー」と書いている。「既知の」。この二文字が一番気になります。\n\n**このニュースをジョークにするなら...**\n\n> 共和党率いる政府から仕事をもらってる人物が、共和党に2億7600万ドルを寄付した。完全に別の話ですよ。とても別の話。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 「スーパーPACが出す」「市場に任せる」「問題ない」「献金です」。全部、同じ話でした。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
-    "reviewNotes": "d3のimagePromptsに「judge leans forward with a stern expression」という顔つきの描写が残っていたため修正。d4のcaption4「Bold pivot. Very bold.」は汎用の感嘆型で構造が薄いため書き直し。d5のcaption4「Nothing says reconnection like $276 million」が禁止フレーズパターンに該当するため書き直し。xJa1本目が140字を超えているため削る。その他は合格。 ／ 文体パス: 3箇所直した。代表例：riffJa[2]末尾「政府って何なんだ、という気持ちになります」→「政府って、何？」に切り落とし。他にriffJa[1]の締めとriffJa[3]の末尾をそれぞれ崩した。"
+    "fullEn": "# The Bug in the Room Where It Happens\n\n## Today's Forecast\n\nThis morning I read five stories, and every single one of them was about a system that was supposed to protect something — and didn't.\n\nOpenAI builds safeguards against AI risk. Someone hid a recording device under a chair. A bank paid $1.2 billion for money laundering. Twenty-four hours later: earnings call. A federal judge ruled that a government official publicly accused a civil servant of crimes she didn't commit.\n\nThe ambassador to Greece? Gone. The price tag at your grocery store? Negotiable, apparently, depending on what the algorithm thinks you're worth.\n\nHere's your forecast: if something in your life looks like it's supposed to be protecting you but isn't quite doing the job — you're in excellent company today. The gap between the label and the contents is a structural problem, not a personal one. You noticed it. That already puts you ahead.\n\n---\n\n## 1. OpenAI Engineer Arrested for Bugging Company Conference Room\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html)*\n\nThe FBI arrested Abdulrahman Alfozan, a 35-year-old Saudi national employed as an engineer at OpenAI, after the company discovered a sophisticated recording device hidden in one of its conference rooms. Alfozan is charged with intercepting oral communications. The incident occurred as OpenAI and its rivals face growing scrutiny over their internal safety practices.\n\n**Why It's Funny**\n\nOpenAI's whole public identity is built around one idea: we are the people thinking most seriously about AI risk. They have safety teams, alignment researchers, public commitments, a board that once fired the CEO over it. So when the FBI arrested one of their engineers for planting a recording device in a company conference room, the detail worth sitting with isn't the espionage — it's the device. Not a sophisticated AI surveillance system. A bug. Under a chair. Hardware you could order online. GPT-5 cannot help you with that.\n\n**Say It Out Loud**\n\n> OpenAI has a model that can write your PhD thesis, but it took the FBI to find a bug taped to a chair leg.\n\n---\n\n## 2. Ambassador Guilfoyle Resigns Amid Allegations She Sold White House Access to Trump Donors\n\n*NPR Politics — [source](https://www.npr.org/2026/10/13/nx-s1-6000216/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations)*\n\nKimberly Guilfoyle, US Ambassador to Greece, has been asked to resign following allegations reported by the Wall Street Journal that she sought payment from a Trump donor in exchange for access to administration officials. Guilfoyle denied the misconduct allegations. The position had been widely seen as a reward tied to her relationship with Donald Trump Jr.\n\n**Why It's Funny**\n\nKimberly Guilfoyle was appointed US Ambassador to Greece, a job widely understood to reflect her personal connection to Donald Trump Jr. She is now accused of seeking payment from a Trump donor in exchange for access to administration officials — that is, selling proximity to the same administration that gave her the job. She denied it and resigned. The Greek government had no comment, because Athens, genuinely, had nothing to do with any of this.\n\n**Say It Out Loud**\n\n> Accused of selling White House access — from a job that was itself a form of White House access. It's turtles all the way down.\n\n---\n\n## 3. AI Could Give You a Different Price Tag Than Your Neighbor\n\n*CBS News US — [source](https://www.cbsnews.com/news/price-tag-artificial-intelligence/)*\n\nRetailers are exploring the use of artificial intelligence to set personalized prices for individual shoppers, according to a consumer protection expert. The technology would allow stores to charge different customers different amounts for the same product based on data profiles. Critics warn this could undermine price transparency and disproportionately affect certain consumer groups.\n\n**Why It's Funny**\n\nThe price tag was invented in the 19th century for a specific reason: so that every customer in the store could see exactly what something cost, and nobody could be charged more based on who they were. Now retailers are testing AI systems that look at your data profile and decide what to charge you individually, before you even pick up the item. They kept the tag. They just made the number on it personal.\n\n**Say It Out Loud**\n\n> The price tag was invented so everyone could see the price. AI is being used to make sure only you see yours.\n\n---\n\n## 4. Bank of America Fined $1.2 Billion — One Day Before It Reports Earnings\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html)*\n\nThe US Treasury Department announced a $1.2 billion fine against Bank of America for money-laundering violations. The penalty was made public less than 24 hours before the bank was scheduled to report its quarterly earnings. It is one of the largest anti-money-laundering fines levied against a major US bank in recent years.\n\n**Why It's Funny**\n\nBank of America was fined $1.2 billion for money laundering violations. The announcement came less than 24 hours before the bank's scheduled quarterly earnings call. One billion two hundred million dollars is, by any normal measure, a significant sum of money. For Bank of America, it was Tuesday's news. Wednesday they talked about how the quarter went. The fine will appear somewhere in the footnotes.\n\n**Say It Out Loud**\n\n> Tuesday: $1.2 billion fine for money laundering. Wednesday: earnings call. The bank's calendar is packed.\n\n---\n\n## 5. Judge Clears Ex-FEMA CFO After Court Finds Musk's Accusations Were False\n\n*CNBC Top News — [source](https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html)*\n\nA federal judge ruled that Elon Musk and other government officials falsely accused former FEMA CFO Mary Comans of criminal wrongdoing in 2025. The court cleared Comans' name and found that the accusations, which were made publicly, constituted intimidation. The case drew attention to the use of official platforms to target federal employees.\n\n**Why It's Funny**\n\nA federal judge found that Elon Musk and other government officials publicly accused former FEMA CFO Mary Comans of criminal wrongdoing — and that the accusations were false. The court cleared her name and characterized the public statements as intimidation. The accusations were made on official platforms, spread immediately, and took a court ruling to formally retract. She got her name back. It took about a year.\n\n**Say It Out Loud**\n\n> A federal judge ruled the accusations were false. The platform they were made on is still running.\n\n---\n\n## Today's Punchline\n\n> Five stories today, five systems designed to protect something. The conference room, the bank, the ambassador's office, the price tag, the public servant's name. None of them held.\n",
+    "fullJa": "# 「安全なAI」を開発する会社の会議室に、録音装置が仕掛けてあった話\n\n## 今日を占うよ〜\n\nOpenAIの会議室に盗聴器。\n\n最初にそれを読んで、なんか変な笑いが出ました。「AIの安全性」を世界に向けて語り続けてきた会社の、物理的な会議室に、アナログな録音装置が。椅子の下に。\n\nで、他を見ると——\n大使が「政府へのアクセスと引き換えに金銭を要求した」疑惑で辞任。その大使ポスト自体、コネで得たものだった。バンク・オブ・アメリカが12億ドルの罰金を科されて、翌日に好決算を発表した。スーパーの値札がAIによって人によって違う金額になるかもしれない。連邦判事が「マスクらの告発は虚偽だった」と認定し、公務員の名誉を回復した。\n\n今日の5本を貫く糸はたぶん、「守るための仕組みが、守るべき人を守っていない」ということだと思う。\n\nで、占いです。\nあなたが「この仕組み、機能してなくない?」と感じていることがあるとしたら——今日のニュースを見る限り、あなたの感覚は正しい。おかしいと気づいていること自体が、今日はいちばんの武器です。少なくとも、盗聴器に気づけなかった会社よりは一歩前にいる。\n\n---\n\n## 1. OpenAI Engineer Arrested for Bugging Company Conference Room\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/13/openai-employee-arrested-recording-device.html)）*\n\nOpenAI社員のサウジアラビア国籍エンジニアが、社内会議室に録音装置を仕掛けたとしてFBIに逮捕された。同社はすでに安全性をめぐる外部からの批判にさらされていた。\n\n**どこが笑える？**\n\nOpenAIのブランドは「AIのリスクを誰よりも真剣に考えている会社」というものです。安全チームがあって、アライメント研究者がいて、CEOが一度解任されるくらいの騒動もあった。その会社の会議室で、FBIが逮捕したのは、録音装置を仕掛けた自社のエンジニアです。\n\n装置の正体がアナログの盗聴器で、椅子の下に貼り付けてあった。GPT-5には探せない場所でした。\n\n**このニュースをジョークにするなら...**\n\n> OpenAIには博士論文を書けるモデルがあるのに、椅子の脚のテープをはがすのはFBIの仕事でした。\n\n---\n\n## 2. Ambassador Guilfoyle Resigns Amid Allegations She Sold White House Access to Trump Donors\n\n*NPR Politics（[記事](https://www.npr.org/2026/10/13/nx-s1-6000216/kimberly-guilfoyle-has-been-asked-to-resign-among-corruption-allegations)）*\n\nキンバリー・ギルフォイル駐ギリシャ米国大使が、トランプ支持者からアクセスと引き換えに金銭を求めたとされる疑惑が浮上し、辞任を求められた。本人は疑惑を否定している。\n\n**どこが笑える？**\n\nキンバリー・ギルフォイルの駐ギリシャ大使ポストは、トランプ・ジュニアとの関係から生まれたポストとして広く理解されていました。で、疑惑の内容が「トランプ支持者から、政権幹部へのアクセスと引き換えに金銭を求めた」というもの。アクセスで得たポストから、アクセスを売ったという話です。\n\n本人は否定して、辞任した。ギリシャは関係ありません。\n\n**このニュースをジョークにするなら...**\n\n> 「政府へのアクセスを売った」疑惑で辞めさせられた人が、そもそも政府へのアクセスで得たポストにいた。どこまでが問題なのか全部じゃないか。\n\n---\n\n## 3. AI Could Give You a Different Price Tag Than Your Neighbor\n\n*CBS News US（[記事](https://www.cbsnews.com/news/price-tag-artificial-intelligence/)）*\n\n小売業者がAIを活用して顧客ごとに異なる価格を設定する「個別価格設定」を検討していると、消費者保護の専門家が指摘した。\n\n**どこが笑える？**\n\n値札は19世紀に生まれました。理由はシンプルで、「誰でも同じ値段を見られるようにするため」です。小売業者がAIで検討しているのは、あなたのデータを見て、あなただけの値段を決めるシステム。値札はまだそこにあります。でも書いてある数字が、隣の人のものとは違う。\n\n**このニュースをジョークにするなら...**\n\n> 値札は「みんなが値段を見られるように」発明されたものです。AIは「あなただけに値段を見せる」ために使われようとしてる。\n\n---\n\n## 4. Bank of America Fined $1.2 Billion — One Day Before It Reports Earnings\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/13/bank-of-america-treasury-money-laundering.html)）*\n\n財務省がバンク・オブ・アメリカにマネーロンダリング違反を理由に12億ドルの制裁金を科した。発表は同行の四半期決算報告のわずか一日前だった。\n\n**どこが笑える？**\n\nバンク・オブ・アメリカがマネーロンダリング違反で12億ドルの制裁金。発表は四半期決算の24時間前でした。12億ドルというのはものすごい金額に聞こえますが、翌日の決算発表でその話が出たかどうかは知りません。罰金は火曜日のニュース。決算は水曜日の話。それだけ。\n\n**このニュースをジョークにするなら...**\n\n> 火曜日：マネロンで12億ドルの制裁金。水曜日：決算発表。スケジュールが詰まってる。\n\n---\n\n## 5. Judge Clears Ex-FEMA CFO After Court Finds Musk's Accusations Were False\n\n*CNBC Top News（[記事](https://www.cnbc.com/2026/10/13/judge-says-elon-musk-engaged-intimidation-of-ex-fema-cfo-mary-comans.html)）*\n\n連邦判事が、イーロン・マスクら政府高官が元FEMA最高財務責任者マリー・コーマンズに対して行った刑事行為の告発は虚偽だったと認定し、同氏の名誉を回復した。\n\n**どこが笑える？**\n\n連邦判事が認定した事実は、こうです。イーロン・マスクら政府高官が、元FEMA最高財務責任者マリー・コーマンズを公開の場で刑事犯罪者と呼んだ。告発は虚偽だった。裁判所はそれを「威圧」と認定し、名誉を回復した。\n\n告発は一瞬で広まった。名誉回復には約一年かかった。これは笑えない。\n\n**このニュースをジョークにするなら...**\n\n> 連邦判事は告発が虚偽だったと認定した。告発が行われたプラットフォームは今も動いている。\n\n---\n\n## 今日のまとめジョーク/パンチライン\n\n> 今日の5本、全部「守るはずのもの」の話でした。全部、守れてなかった。\n\n今日も読んでくれてありがとうございます。また明日の朝、ここで。\n",
+    "reviewNotes": "d5のsensitive検品（公的不正・名誉毀損）は笑いを求めていない構成で概ね合格。主な修正点：①xJa[0]が135字超過→削る②riffJa[3]の日付が「月曜・火曜」にすり替わっている（原データは「火曜の罰金・水曜の決算」）→修正③captionsJa d2[4]の末尾が「〜と思ってるはず」で断定根拠なし→「ギリシャ側の反応」は元データにないので柔らかく修正④d3 captionsJa[4]の語順が冗長→締め語を前に出す⑤introJa冒頭は合格だが占い部分が「今日の占いです」という唐突な見出し感があり、掴み→予告5本→前向きの3要素が揃っていない→書き直し。 ／ 文体パス: 3箇所を修正。leadJaの「どれも〜守れてなかった」は合格のまま残し、riffJa[3]の「カレンダーが詰まっていた」という締めのAI感と、riffJa[1]の「ギリシャは関係ありません」直前の几帳面な説明口調を中心に調整した。"
   },
   "carousel": [
-    "images/2026-10-13/carousel/slide-1.jpg",
-    "images/2026-10-13/carousel/slide-2.jpg",
-    "images/2026-10-13/carousel/slide-3.jpg",
-    "images/2026-10-13/carousel/slide-4.jpg",
-    "images/2026-10-13/carousel/slide-5.jpg",
-    "images/2026-10-13/carousel/slide-6.jpg",
-    "images/2026-10-13/carousel/slide-7.jpg"
+    "images/2026-10-14/carousel/slide-1.jpg",
+    "images/2026-10-14/carousel/slide-2.jpg",
+    "images/2026-10-14/carousel/slide-3.jpg",
+    "images/2026-10-14/carousel/slide-4.jpg",
+    "images/2026-10-14/carousel/slide-5.jpg",
+    "images/2026-10-14/carousel/slide-6.jpg",
+    "images/2026-10-14/carousel/slide-7.jpg"
   ],
   "headers": {
-    "note": "images/2026-10-13/note-header.jpg",
-    "substack": "images/2026-10-13/substack-cover.jpg"
+    "note": "images/2026-10-14/note-header.jpg",
+    "substack": "images/2026-10-14/substack-cover.jpg"
   }
 };
